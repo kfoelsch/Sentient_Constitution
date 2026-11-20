@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Reorder Chapter One §7 and move Institutional Secularism into §18 (decided 2026-10-02).
+"""Reorder Chapter Two §7 and move Institutional Secularism into §18 (decided 2026-10-02).
 
   §7.2 Voluntary Discontinuation and Exit Rights  -> §7.4 (closes the Freedom section)
   §7.3 Assembly, Collective Organization, ...     -> §7.2   (7.3.x -> 7.2.x)
@@ -8,7 +8,7 @@
   §18.2 .. §18.5                                  -> §18.3 .. §18.6
 
 Reuses the Rewriter from ch1_numbering_smoothing.py (headings, anchors, link targets and labels,
-number-title cites, "Chapter One §N" cites, raw `core_01_x.md#frag` refs). Part-level prose and
+number-title cites, "Chapter Two §N" cites, raw `core_01_x.md#frag` refs). Part-level prose and
 mermaid chart text are hand-edited afterwards. Dry run by default; use --write to apply.
 """
 
@@ -90,7 +90,7 @@ def run(root: Path, write: bool) -> int:
         if rel in CH1 or rel.startswith(sm.SKIP_PREFIXES):
             continue
         text = p.read_text(encoding="utf-8")
-        if "core_01_" not in text and "Chapter One" not in text and "Chapter 1" not in text and "(*" not in text:
+        if "core_01_" not in text and "Chapter Two" not in text and "Chapter 2" not in text and "(*" not in text:
             continue
         new = "\n".join(rw.line(l, rel, None, i + 1) for i, l in enumerate(text.split("\n")))
         if new != text:

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Unified definition appropriateness audit for the Sentient Constitution corpus.
 
-Verifies constitutional definitions live in core Chapter Five files and
+Verifies constitutional definitions live in core Chapter Three files and
 cross-implementation operational definitions live in CJS operational cluster, with implementation
 layers applying rather than redefining canonical terms.
 
@@ -228,7 +228,7 @@ def run_core_gravity(root: Path, findings: list[Finding]) -> int:
             message=message,
             severity="review",
             expected_layer="implementation layer (cite owner home)",
-            action="de-bundle from Chapter Five",
+            action="de-bundle from Chapter Three",
         )
     return len(hits)
 
@@ -247,11 +247,11 @@ def run_core_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             findings,
             check="CORE-TRACE",
             term=gap.get("principle", ""),
-            current_layer="core_01.000_values_principles.md",
+            current_layer="core_02.000_values_principles.md",
             line=0,
             message=gap.get("issue", "Principle missing definition anchors"),
             severity="error",
-            expected_layer="Chapter Five band file",
+            expected_layer="Chapter Three band file",
             action="add O/M/A/C anchors",
         )
     for gap in auditor.accuracy_gaps:
@@ -259,11 +259,11 @@ def run_core_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             findings,
             check="CORE-TRACE",
             term=gap.get("definition", ""),
-            current_layer="Chapter Five",
+            current_layer="Chapter Three",
             line=0,
             message=f"Missing components: {', '.join(gap.get('missing_components', []))}",
             severity="error",
-            expected_layer="complete What it is / How to measure and assess / What must hold in Chapter Five",
+            expected_layer="complete What it is / How to measure and assess / What must hold in Chapter Three",
             action="complete guidepost components",
         )
     for gap in auditor.cluster_gaps:
@@ -271,7 +271,7 @@ def run_core_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             findings,
             check="CORE-TRACE",
             term=gap.get("cluster", ""),
-            current_layer="Chapter Five",
+            current_layer="Chapter Three",
             line=0,
             message=f"Cluster segmentation: missing {', '.join(gap.get('missing_terms', []))}",
             severity="review",
@@ -314,10 +314,10 @@ def run_cjs_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             term=gap.get("cluster_id", ""),
             current_layer=gap.get("file", ""),
             line=int(gap.get("line", 0)),
-            message=gap.get("issue", "Weak Chapter One trace"),
+            message=gap.get("issue", "Weak Chapter Two trace"),
             severity="review",
-            expected_layer="direct Chapter One citation in Trace",
-            action="add Read it with / Chapter One basis",
+            expected_layer="direct Chapter Two citation in Trace",
+            action="add Read it with / Chapter Two basis",
         )
     for gap in auditor.gaps.get("op_component_gap", []):
         _add_finding(
@@ -352,7 +352,7 @@ def run_cjs_trace(root: Path, findings: list[Finding]) -> dict[str, int]:
             line=int(gap.get("line", 0)),
             message=gap.get("issue", "Cluster inventory mismatch"),
             severity="error",
-            expected_layer="CJS-5.110 §2–CJS-5.135 §23 inventory",
+            expected_layer="CJS-3.110 §2–CJS-3.135 §23 inventory",
             action="fix cluster heading inventory",
         )
     return counts
@@ -365,7 +365,7 @@ def run_cjs_constitutional_creep(
 ) -> int:
     count = 0
     for cluster in clusters:
-        if cluster.cluster_id in {"CJS-5.105 §0", "CJS-5.105 §1"}:
+        if cluster.cluster_id in {"CJS-3.105 §0", "CJS-3.105 §1"}:
             continue
         for rule in cluster.rules:
             key = normalize_term_label(rule.label)
@@ -373,7 +373,7 @@ def run_cjs_constitutional_creep(
             if ch5 is None:
                 continue
             has_ch5_link = bool(rule.ch5_links or cluster.ch5_links)
-            read_with_ch5 = any("chapter five" in item.lower() or "core_05" in item.lower() for item in cluster.read_with)
+            read_with_ch5 = any("chapter three" in item.lower() or "core_03" in item.lower() for item in cluster.read_with)
             if not has_ch5_link and not read_with_ch5 and rule.complete:
                 count += 1
                 _add_finding(
@@ -383,12 +383,12 @@ def run_cjs_constitutional_creep(
                     current_layer=cluster.file,
                     line=rule.line,
                     message=(
-                        f"CJS operational cluster rule label matches Chapter Five term {ch5.term!r} "
-                        f"but lacks explicit Chapter Five pointer; risk of competing constitutional gloss."
+                        f"CJS operational cluster rule label matches Chapter Three term {ch5.term!r} "
+                        f"but lacks explicit Chapter Three pointer; risk of competing constitutional gloss."
                     ),
                     severity="review",
                     expected_layer=ch5.source_file,
-                    action="add Chapter Five pointer; keep OP operational only",
+                    action="add Chapter Three pointer; keep OP operational only",
                 )
     return count
 
@@ -410,8 +410,8 @@ def run_impl_competing_gloss(root: Path, findings: list[Finding]) -> int:
                 line=line,
                 message=hit.split(":", 2)[-1].strip() if hit.count(":") >= 2 else hit,
                 severity="review",
-                expected_layer="Chapter Five canonical home",
-                action="replace with pointer to Chapter Five",
+                expected_layer="Chapter Three canonical home",
+                action="replace with pointer to Chapter Three",
             )
     return count
 
@@ -543,7 +543,7 @@ def run_impl_non_redefinition(
     count = 0
     ch5_terms_sorted = sorted(ch5_lookup.keys(), key=len, reverse=True)
     for rel in binding_corpus_scope(root):
-        if rel in CH5_OWNERS or rel.startswith("core_02.") or rel.startswith("core_03.") or rel.startswith("core_04."):
+        if rel in CH5_OWNERS or rel.startswith("subcore_03.0"):
             continue
         path = root / rel
         if not path.is_file() or not any(rel.startswith(d) for d in IMPL_DIRS):
@@ -566,10 +566,10 @@ def run_impl_non_redefinition(
                     term=ch5.term,
                     current_layer=rel,
                     line=idx,
-                    message=f"Definitional lead-in for Chapter Five term outside canonical home: {stripped[:160]}",
+                    message=f"Definitional lead-in for Chapter Three term outside canonical home: {stripped[:160]}",
                     severity="review",
                     expected_layer=ch5.source_file,
-                    action="replace with pointer to Chapter Five canonical home",
+                    action="replace with pointer to Chapter Three canonical home",
                 )
             lowered = stripped.lower()
             for term_key in ch5_terms_sorted:
@@ -626,13 +626,13 @@ def run_subprocess_placement_audits(root: Path, findings: list[Finding]) -> dict
             _add_finding(
                 findings,
                 check=check,
-                term="(Chapter Five structure)",
+                term="(Chapter Three structure)",
                 current_layer=file_part if "/" in file_part or file_part.endswith(".md") else script,
                 line=line_no,
                 message=line,
                 severity="error",
-                expected_layer="Chapter Five band file",
-                action="fix Chapter Five placement invariant",
+                expected_layer="Chapter Three band file",
+                action="fix Chapter Three placement invariant",
             )
     return counts
 
@@ -722,7 +722,7 @@ def build_matrix_rows(
         )
 
     for cluster in cjs3_clusters:
-        if cluster.cluster_id in {"CJS-5.105 §0", "CJS-5.105 §1"}:
+        if cluster.cluster_id in {"CJS-3.105 §0", "CJS-3.105 §1"}:
             continue
         ids = [
             f.finding_id
@@ -764,7 +764,7 @@ def write_report(output_dir: Path, run: AuditRun, ledger: dict[str, Any]) -> Pat
         "",
         "| Metric | Result |",
         "|---|---:|",
-        f"| Chapter Five terms indexed | {len(run.ch5_entries)} |",
+        f"| Chapter Three terms indexed | {len(run.ch5_entries)} |",
         f"| CJS operational cluster clusters indexed | {len(run.cjs3_clusters)} |",
         f"| Findings this run | {len(run.findings)} |",
         f"| Ledger open findings | {open_count} |",
@@ -791,8 +791,8 @@ def write_report(output_dir: Path, run: AuditRun, ledger: dict[str, Any]) -> Pat
             "",
             "## Manual Review Notes",
             "",
-            "Review CJS-5.120 §7–5.10, 5.11–5.13, 5.16–5.18, and 5.19–5.21 cluster families for semantic adequacy.",
-            "Treat `weak_trace` and `IMPL-RELOCATION` hits as advisory unless escalation to Chapter Five is indicated.",
+            "Review CJS-3.120 §7–5.10, 5.11–5.13, 5.16–5.18, and 5.19–5.21 cluster families for semantic adequacy.",
+            "Treat `weak_trace` and `IMPL-RELOCATION` hits as advisory unless escalation to Chapter Three is indicated.",
             "`IMPL-RELOCATION` scopes to **CI** sections with relocation score >= 16 on operative body text (CS/CF owner layers excluded; see `ci-cjs-relocation-audit`).",
             "Update `evidence/definition_audit/ledger.json` statuses (`accepted`, `deferred`, `resolved`) after triage.",
             "",

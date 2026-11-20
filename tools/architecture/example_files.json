@@ -1,24 +1,24 @@
 {
   "_comment": "EXAMPLES-LINK-01. Each worked-example file the corpus keeps, and the core files it illustrates. A core file listed here must link to the example file in its Trace widget and in a closing '*Worked examples' line directly under its footer rule, above Previous/Next. tools/examples_link_audit.py reads it; the example file itself must link back to each core file named here.",
   "files": {
-    "corpus_systems/cs_09.320_system_alignment_certification_illustrations.md": {
+    "corpus_systems/cs_08.320_system_alignment_certification_illustrations.md": {
       "illustrates": [
-        "core_09.000_system_alignment_certification_evaluation.md",
-        "core_12.000_institutional_alignment_certification_evaluation.md"
+        "core_08.000_system_alignment_certification_evaluation.md",
+        "core_11.000_institutional_alignment_certification_evaluation.md"
       ]
     },
-    "corpus_joint_structure/cjs_15.105_application_vignettes.md": {
+    "corpus_joint_structure/cjs_14.105_application_vignettes.md": {
       "illustrates": [
-        "core_15.000_standing_assessment.md",
-        "core_16.000_standing_measurement.md",
-        "core_17.000_standing_integration.md",
-        "core_18.000_contribution_consequences.md",
-        "core_19.000_violation_consequences.md",
-        "core_20.000_final_effect_restoration_enforcement.md",
-        "core_21.000_misconduct_designation.md",
-        "core_22.000_misconduct_pattern_applications.md",
-        "core_23.000_forum.md",
-        "core_24.000_forum_families_escalation_timeliness_support.md"
+        "core_14.000_standing_assessment.md",
+        "core_15.000_standing_measurement.md",
+        "core_16.000_standing_integration.md",
+        "core_17.000_contribution_consequences.md",
+        "core_18.000_violation_consequences.md",
+        "core_19.000_final_effect_restoration_enforcement.md",
+        "core_20.000_misconduct_designation.md",
+        "core_21.000_misconduct_pattern_applications.md",
+        "core_22.000_forum.md",
+        "core_23.000_forum_families_escalation_timeliness_support.md"
       ]
     }
   }

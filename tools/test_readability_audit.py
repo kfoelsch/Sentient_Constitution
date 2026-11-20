@@ -12,7 +12,7 @@ SAMPLE = """<a id="32-example"></a>
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter One §12 Systemic Evaluation Requirement](core_01.020_interaction_interpretation.md#12-systemic-evaluation-requirement).
+- Upstream: [Chapter Two §12 Systemic Evaluation Requirement](core_02.020_interaction_interpretation.md#12-systemic-evaluation-requirement).
 </details>
 
 ```mermaid
@@ -34,7 +34,7 @@ class ProseLinesTests(unittest.TestCase):
 
     def test_link_target_dropped_and_link_text_kept(self) -> None:
         lines = prose_lines(SAMPLE)
-        self.assertIn("Chapter One §12 Systemic Evaluation Requirement", lines[5])
+        self.assertIn("Chapter Two §12 Systemic Evaluation Requirement", lines[5])
         self.assertNotIn("core_01_b", lines[5])
         self.assertNotIn("interaction", lines[5])
 

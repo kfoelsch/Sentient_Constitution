@@ -9,7 +9,7 @@ Every blocking target below carries a **weight**. The weight says what a failure
 | Weight | Meaning of a failure | May it be relaxed? |
 |---|---|---|
 | **L — load-bearing** | A citation resolves to nothing or to the wrong place; a binding / non-binding boundary is crossed; a term has two homes; a derived index or pointer card has diverged from the source it points at; a schema contract is broken. Readers or AI lookups would be sent to the wrong text. | **No.** Fix the source or the citation. Never skip, soften, or delete the gate. If the tool itself is wrong, fix the tool and record why in the commit. |
-| **S — structural** | A house structure that carries meaning by position is out of shape: Trace / O/M/A/C widget order, read-with routing leaking into operative prose, Chapter Five O-component scope bullets, companion anatomy, Markdown that would render a paragraph as a heading. The text still resolves, but the reading contract the corpus promises is broken. | **Temporarily**, by an operator decision recorded in the commit message, when a publication cut is blocked and the finding is confined to a non-core file. Restore before the next edition stamp. Never relax on `core_*` files. |
+| **S — structural** | A house structure that carries meaning by position is out of shape: Trace / O/M/A/C widget order, read-with routing leaking into operative prose, Chapter Three O-component scope bullets, companion anatomy, Markdown that would render a paragraph as a heading. The text still resolves, but the reading contract the corpus promises is broken. | **Temporarily**, by an operator decision recorded in the commit message, when a publication cut is blocked and the finding is confined to a non-core file. Restore before the next edition stamp. Never relax on `core_*` files. |
 | **C — cosmetic** | Ordering, spacing, capitalization, vocabulary, abbreviation descriptors, spacer rows, duplicate legacy stubs. Nothing resolves differently; readers are not misrouted. | **Yes**, when the finding is a false positive or the rule is being revised: fix the config JSON (`lexical_guardrails.json`, `ch1_dac_order.json`, expected-set lists) rather than the corpus, or drop the target from `make regression` with a TODO row. Do not silently edit the tool to pass. |
 
 Rules of thumb: (1) if the audit's *notes* column mentions **anchor, fragment, cite, pointer, lockstep, schema, single-definition, freshness, or binding**, treat it as L even if it looks fiddly; (2) `*-test` targets inherit the weight of the tool they test; (3) `make regression` should stay green at all three weights before a publication cut — the weight governs how a red gate may be *handled*, not whether it counts.
@@ -20,19 +20,19 @@ Order follows the Makefile `regression` list.
 
 | Make target | Weight | Tool | Rule ID(s) | Notes |
 |-------------|--------|------|------------|-------|
-| `reference-audit` | **L** | `tools/reference_audit.py` | REF-ARTICLES | Chapter Six article map from part-file headings; every `Article …` cite must resolve |
+| `reference-audit` | **L** | `tools/reference_audit.py` | REF-ARTICLES | Chapter Four article map from part-file headings; every `Article …` cite must resolve |
 | `measurement-anchor-audit` | **L** | `tools/measurement_anchor_audit.py` | MEAS-ANCHOR | Fails on links to removed Preamble `#measuring-*` category anchors |
 | `ch5-measurement-tier-audit` | S | `tools/ch5_measurement_tier_audit.py` | MEAS-DEF-01 | Enforces `*Measurements:*` and layer-aligned E/C for approved seeds |
 | `ch5-measurement-coverage-audit` | **L** | `tools/ch5_measurement_coverage_audit.py` | MEAS-COVERAGE | Seed ↔ hierarchy sync and bidirectional Ch00 §3 owner links |
 | `doc-architecture-section-audit` | C | `tools/architecture/doc_architecture_section_audit.py` | — | No letter-suffixed `##` sections in doc_architecture |
 | `support-doc-pointer-audit` | **L** | `tools/support_doc_pointer_audit.py` | SUPPORT-DOC-POINTER-01 | Binding corpus must not cite `doc_architecture` for meaning/routing (non-binding classifications and reading-chain footers allowed) |
 | `steward-door-lockstep-audit` (+ `-test`) | **L** | `tools/steward_door_lockstep_audit.py` | — | `STEWARD_ENTRY_DOORS.md` cards and `steward_owner_clock_index.json` stay in lockstep with the boxed operative steward statements in core; a stale door misroutes a steward under pressure |
-| `materially-binding-act-record-validate` (+ `-test`) | **L** | `tools/materially_binding_act_record_validate.py` | — | Base-schema and fixture checks for the Chapter Five / Chapter Eight Materially Binding Act Record |
-| `cs4-inspectable-action-log-validate` (+ `-test`) | **L** | `tools/cs4_inspectable_action_log_validate.py` | — | Schema self-check for the CS-27.305 §10 log contract (`implementation/schemas/`) |
+| `materially-binding-act-record-validate` (+ `-test`) | **L** | `tools/materially_binding_act_record_validate.py` | — | Base-schema and fixture checks for the Chapter Three / Chapter Six Materially Binding Act Record |
+| `cs4-inspectable-action-log-validate` (+ `-test`) | **L** | `tools/cs4_inspectable_action_log_validate.py` | — | Schema self-check for the CS-26.305 §10 log contract (`implementation/schemas/`) |
 | `sentience-status-adjudication-record-validate` (+ `-test`) | **L** | `tools/sentience_status_adjudication_record_validate.py` | — | Schema self-check for the Sentience-Status Adjudication Record |
 | `section-label-anchor-audit` (+ `-test`) | **L** | `tools/section_label_anchor_audit.py` | SECTION-CITE-MATCH-01, SECTION-LABEL-ANCHOR-01, NAV-HEADING-SEQUENCE-01 | `§` / dotted-number link text must match the target heading and fragment; related cites need a current-numbering id; `core_*` numbered sibling headings must not duplicate or skip |
 | `section-cite-name-audit` (+ `-test`) | S | `tools/section_cite_name_audit.py` | SECTION-CITE-NAME-01 | Body-prose and table-row `§` / `§§` cites must carry a human-readable title (`tools/section_cite_name_table_baseline.json` can grandfather older table cites; it is currently empty); `--changed-only` in regression |
-| `part-cite-chapter-audit` (+ `-test`) | **L** | `tools/part_cite_chapter_audit.py` | PART-CITE-CHAPTER-01 | A `Part X` cite (with or without `§N`) whose target is outside the citing file's chapter must name the chapter (`Chapter Ten §3.2 …`, `Chapter Ten`; `CS-6.310 Part B §9.3` for the adopted-implementation families); Part letters repeat across chapters. A bare `Part B` in a chapter with no such Part, a Part letter the named chapter lacks, a letter that disagrees with the linked file, and link text naming another chapter than its target are reported for a decision. `--write` inserts the missing chapter on a link; `--all` is a read-only inventory beyond the gate |
+| `part-cite-chapter-audit` (+ `-test`) | **L** | `tools/part_cite_chapter_audit.py` | PART-CITE-CHAPTER-01 | A `Part X` cite (with or without `§N`) whose target is outside the citing file's chapter must name the chapter (`Chapter Nine §4.2 …`, `Chapter Nine`; `CS-4.310 Part B §9.3` for the adopted-implementation families); Part letters repeat across chapters. A bare `Part B` in a chapter with no such Part, a Part letter the named chapter lacks, a letter that disagrees with the linked file, and link text naming another chapter than its target are reported for a decision. `--write` inserts the missing chapter on a link; `--all` is a read-only inventory beyond the gate |
 | `heading-echo-topic-audit` (+ `-test`) | C | `tools/heading_echo_topic_audit.py` | MD-HEADING-TOPIC-01 | First body-prose line after widgets/gloss must not restate the numbered heading as a topic sentence |
 | `heading-runin-echo-audit` (+ `-test`) | C | `tools/heading_runin_echo_audit.py` | MD-HEADING-RUNIN-01 | First body line must not open with a bold run-in label that restates its own heading |
 | `fossil-anchor-audit` (+ `-test`) | **L** | `tools/fossil_anchor_audit.py` | — | Pre-release fragment policy: one current id per heading, no fossil aliases that would let stale cites keep resolving |
@@ -53,10 +53,10 @@ Order follows the Makefile `regression` list.
 | `trace-routing-prose-audit` | S | `tools/trace_routing_prose_audit.py` | NAV-TRACE-10 | Read with inside Trace; flags disguised read-with routing in operative prose |
 | `in-paragraph-link-audit` | S | `tools/in_paragraph_link_audit.py` | LINK-IN-PARA-14 | Proof registry + See anti-patterns |
 | `ch5-definitions-gravity-audit` | **L** | `tools/ch5_definitions_gravity_audit.py` | CH5-GRAVITY | Admission gate / de-bundling — machinery absorbed into a definition changes what the term binds |
-| `ch5-o-scope-audit` | S | `tools/ch5_o_scope_audit.py` | — | Chapter Five O components carry In scope / Out of scope sub-bullets |
+| `ch5-o-scope-audit` | S | `tools/ch5_o_scope_audit.py` | — | Chapter Three O components carry In scope / Out of scope sub-bullets |
 | `ch5-depends-on-audit` | C | `tools/ch5_depends_on_audit.py` | — | Optional `**Depends on:**` sub-bullet shape under O |
 | `ch5-measurement-stub-audit` | C | `tools/ch5_measurement_stub_audit.py` | — | Redundant legacy measurement stubs |
-| `ch5-trace-crosslink-audit` | S | `tools/ch5_trace_crosslink_audit.py` | NAV-TRACE-10 | Ch5 Read with placement |
+| `ch5-trace-crosslink-audit` | S | `tools/ch5_trace_crosslink_audit.py` | NAV-TRACE-10 | Ch3 Read with placement |
 | `ch5-entry-format-audit` | C | `tools/ch5_entry_format_audit.py` | CH5-FORMAT | One `---` above entry anchors; no stacks; suffix discipline |
 | `ch5-alphabetical-directory-audit` | C | `tools/ch5_alphabetical_directory_audit.py` | CH5-ORDER-01 | Directory order |
 | `ch5-single-definition-audit` | **L** | `tools/ch5_single_definition_audit.py` | CH5-SINGLE-DEF | One label per term — the single-home rule that makes `Def.*` cites unambiguous |
@@ -64,13 +64,13 @@ Order follows the Makefile `regression` list.
 | `ch5-cluster-order-audit` | C | `tools/ch5_cluster_order_audit.py` | CH5-ORDER-01 | Compound heading order |
 | `ch5-constitutional-cluster-audit` | S | `tools/ch5_constitutional_cluster_audit.py` | — | Constitutional band placement and compass completeness |
 | `ch1-dac-order-audit` | C | `tools/ch1_dac_order_audit.py` | NAV-DAC-CH1-ORDER | Config: `ch1_dac_order.json` |
-| `ch10-trace-audit` | S | `tools/ch10_trace_audit.py` | NAV-TRACE-08–10 | Chapter Six subarticle traces present with Principles and linked Definitions |
+| `ch10-trace-audit` | S | `tools/ch10_trace_audit.py` | NAV-TRACE-08–10 | Chapter Four subarticle traces present with Principles and linked Definitions |
 | `prose-continuity-audit` | C | `tools/prose_continuity_audit.py` | — | Stray indent / orphan lines |
 | `lexical-vocabulary-audit` | C | `tools/lexical_vocabulary_audit.py` | LEX-GUARDRAILS | Config: `lexical_guardrails.json`; vocabulary and load-bearing capitalization; banned words including `cure` (rule `avoid-cure-family`; use resolve, resolved, or resolution) |
 | `easy-entry-jargon-audit` | C | `tools/easy_entry_jargon_audit.py` | EASY-ENTRY-JARGON | Scoped `easy_entry_jargon` list in `lexical_guardrails.json`; reader briefs only |
-| `cjs-operational-cluster-audit` | S | `tools/cjs_operational_cluster_audit.py` | — | CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 placement |
+| `cjs-operational-cluster-audit` | S | `tools/cjs_operational_cluster_audit.py` | — | CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 placement |
 | `cjs3-cluster-term-order-audit` | C | `tools/cjs3_cluster_term_order_audit.py` | — | Alphabetical order of oDef sub-terms |
-| `ch1-cjs3-alignment-audit` | S | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Chapter One ↔ CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 oDef cluster trace metadata |
+| `ch1-cjs3-alignment-audit` | S | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Chapter Two ↔ CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 oDef cluster trace metadata |
 | `router-bidirectional-audit` | **L** | `tools/router_bidirectional_audit.py` | ROUTER-CJS01 | CJS-0.105 §1 topic router rows ↔ read-with links; a one-way row misroutes cross-file topics |
 | `id-resolver-test`, `corpus-lookup-test` | **L** | `tools/test_generate_id_resolver.py`, `tools/test_corpus_lookup.py` | — | Tests for the AI lookup path (`corpus_lookup.py resolve / hydrate / door`) |
 | `ai-manifest-validate` | **L** | `tools/validate_ai_manifests.py --check-freshness` | — | `ai_corpus/indexes/*` must be regenerated after source edits (`make ai-corpus-sync`); stale indexes point at text that no longer exists |
@@ -82,46 +82,46 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | Make target | Tool | Rule ID(s) | Promotion path |
 |-------------|------|------------|----------------|
 | `plain-language-audit` | `tools/plain_language_audit.py` | PLAIN-JARGON | Phrase rules from `lexical_guardrails.json` |
-| `ch0-nested-list-candidates` through `ch4-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 0..4` | CH0-NEST-CANDIDATE through CH4-NEST-CANDIDATE | Ranked Preamble / Chapters One–Four packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch0-nested-list-candidates` through `ch4-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 0..4` | CH0-NEST-CANDIDATE through CH4-NEST-CANDIDATE | Ranked Preamble / Chapters Two and Three packed-list rewrite candidates; advisory; `--strict` to block |
 | `ch5-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py` | CH5-NEST-CANDIDATE | Ranked packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch6-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 6` | CH6-NEST-CANDIDATE | Ranked Chapter Six packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch7-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 7` | CH7-NEST-CANDIDATE | Ranked Chapter Seven packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch8-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 8` | CH8-NEST-CANDIDATE | Ranked Chapter Eight packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch9-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 9` | CH9-NEST-CANDIDATE | Ranked Chapter Nine packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch11-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 11` | CH11-NEST-CANDIDATE | Ranked Chapter Fifteen packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch12-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 12` | CH12-NEST-CANDIDATE | Ranked Chapter Sixteen packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch13-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 13` | CH13-NEST-CANDIDATE | Ranked Chapter Seventeen packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch14-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 14` | CH14-NEST-CANDIDATE | Ranked Chapter Twenty-One packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch15-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 15` | CH15-NEST-CANDIDATE | Ranked Chapter Twenty-Three packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch16-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 16` | CH16-NEST-CANDIDATE | Ranked Chapter Twenty-Seven packed-list rewrite candidates; advisory; `--strict` to block |
-| `ch17-nested-list-candidates` through `ch20-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 17..18` | CH17-NEST-CANDIDATE through CH20-NEST-CANDIDATE | Ranked Chapters Twenty-Eight–Thirty-One packed-list rewrite candidates; advisory; `--strict` to block |
-| `subarticle-gloss-audit` | `tools/subarticle_gloss_audit.py` | GLOSS-SUBARTICLE | Chapter Six `*In plain terms:*` on `#### Article` |
+| `ch6-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 6` | CH6-NEST-CANDIDATE | Ranked Chapter Four packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch7-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 7` | CH7-NEST-CANDIDATE | Ranked Chapter Five packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch8-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 8` | CH8-NEST-CANDIDATE | Ranked Chapter Six packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch9-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 9` | CH9-NEST-CANDIDATE | Ranked Chapter Eight packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch11-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 11` | CH11-NEST-CANDIDATE | Ranked Chapter Fourteen packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch12-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 12` | CH12-NEST-CANDIDATE | Ranked Chapter Fifteen packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch13-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 13` | CH13-NEST-CANDIDATE | Ranked Chapter Sixteen packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch14-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 14` | CH14-NEST-CANDIDATE | Ranked Chapter Twenty packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch15-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 15` | CH15-NEST-CANDIDATE | Ranked Chapter Twenty-Two packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch16-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 16` | CH16-NEST-CANDIDATE | Ranked Chapter Twenty-Six packed-list rewrite candidates; advisory; `--strict` to block |
+| `ch17-nested-list-candidates` through `ch20-nested-list-candidates` | `tools/ch5_nested_list_candidate_audit.py --chapter 17..18` | CH17-NEST-CANDIDATE through CH20-NEST-CANDIDATE | Ranked Chapters Twenty-Seven–Thirty packed-list rewrite candidates; advisory; `--strict` to block |
+| `subarticle-gloss-audit` | `tools/subarticle_gloss_audit.py` | GLOSS-SUBARTICLE | Chapter Four `*In plain terms:*` on `#### Article` |
 | `readability-audit` | `tools/readability_audit.py` | — | `make regression-full`; optional `--with-subarticle-gloss` |
-| `owner-discipline-audit` | `tools/owner_discipline_audit.py` | OWNER-SINGLE-HOME | Heuristic O/M/A/C outside Ch5; use `--strict` to block |
-| `ch4-ch9-pointer-audit` | `tools/ch4_ch9_pointer_audit.py` | CH4-CH9-POINTER | Ch9 must cite Ch2–4 for verification substrate; use `--strict` to block |
+| `owner-discipline-audit` | `tools/owner_discipline_audit.py` | OWNER-SINGLE-HOME | Heuristic O/M/A/C outside Ch3; use `--strict` to block |
+| `ch4-ch9-pointer-audit` | `tools/ch4_ch9_pointer_audit.py` | CH4-CH9-POINTER | Ch8 must cite Subcore 3-A to 3-C for verification substrate; use `--strict` to block |
 | `ch5-cross-file-link-audit` | `tools/ch5_cross_file_link_audit.py` | — | Promote when clean |
 | `ci-cjs-relocation-audit` | `tools/ci_cjs_relocation_audit.py` | — | Relocation drift evidence |
-| `definition-appropriateness-audit` | `tools/definition_appropriateness_audit.py` | DEF-APPROPRIATENESS | Unified core vs CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 placement; advisory by default; `--strict` to block |
+| `definition-appropriateness-audit` | `tools/definition_appropriateness_audit.py` | DEF-APPROPRIATENESS | Unified core vs CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 placement; advisory by default; `--strict` to block |
 | `alignment-audit` | `tools/alignment_audit.py` | — | Combined principles · Def.* · oDef · Articles index; writes dated evidence; not in `make regression` |
-| `ch1-ch5-alignment-audit` | `tools/ch1_ch5_alignment_audit.py` | CORE-TRACE | Chapter One O/M/A/C widgets ↔ Chapter Five guideposts; oDef backlinks |
-| `ch1-cjs3-alignment-audit` | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Also in `make regression`; Chapter One ↔ CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 oDef clusters |
-| `ch1-ch6-alignment-audit` | `tools/ch1_ch6_alignment_audit.py` | — | Preamble / Chapter One ↔ Chapter Six articles, including Def.* and oDef cites |
-| `section-bullet-lead-audit` (+ `-summary`, `-test`) | `tools/section_bullet_lead_audit.py` | MD-SECTION-LEAD-01 | Sections open with lead-in prose, not a list item; Chapter Five definition files exempt. In `make regression` (blocking) |
+| `ch1-ch5-alignment-audit` | `tools/ch1_ch5_alignment_audit.py` | CORE-TRACE | Chapter Two O/M/A/C widgets ↔ Chapter Three guideposts; oDef backlinks |
+| `ch1-cjs3-alignment-audit` | `tools/ch1_cjs3_alignment_audit.py` | CJS-TRACE | Also in `make regression`; Chapter Two ↔ CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 oDef clusters |
+| `ch1-ch6-alignment-audit` | `tools/ch1_ch6_alignment_audit.py` | — | Preamble / Chapter Two ↔ Chapter Four articles, including Def.* and oDef cites |
+| `section-bullet-lead-audit` (+ `-summary`, `-test`) | `tools/section_bullet_lead_audit.py` | MD-SECTION-LEAD-01 | Sections open with lead-in prose, not a list item; Chapter Three definition files exempt. In `make regression` (blocking) |
 | `list-label-echo-audit` (+ `-test`) | `tools/list_label_echo_audit.py` | MD-LABEL-ECHO-01 | A bullet's bold label is not restated by its own body (`- **Is invalid:** The charter is invalid.`); in `make regression` (blocking) |
 
 ### Definition appropriateness finding taxonomy (`definition-appropriateness-audit`)
 
 | Check ID | Layer | Question |
 |----------|-------|----------|
-| `CORE-PLACEMENT` | Chapter Five | Correct band / §1–§3 home and structural invariants |
-| `CORE-GRAVITY` | Chapter Five | Institutional or procedural machinery absorbed into definitions |
-| `CORE-TRACE` | Chapter One ↔ Five | Principle anchors and complete O/M/A/C traceability |
-| `CJS-PLACEMENT` | CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 | Operational clusters only in CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 (not CJS-0.110, CJS-31.105, CJS-5.140, and CJS-8.105) |
-| `CJS-TRACE` | Chapter One ↔ CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 | Cluster trace metadata and guidepost triad completeness |
-| `CJS-CONSTITUTIONAL-CREEP` | CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 | OP rules matching Ch5 labels without Chapter Five pointers |
-| `IMPL-COMPETING-GLOSS` | CS / CI / CF | O/M/A/C-shaped gloss outside Chapter Five |
-| `IMPL-RELOCATION` | CI (operative body) | Cross-layer material that may belong in CJS-5.105, CJS-5.110, CJS-5.115, CJS-5.120, CJS-5.125, CJS-5.130, and CJS-5.135 or Chapter Five; CS/CF owner layers use integration maps and `ci-cjs-relocation-audit` |
-| `IMPL-NON-REDEFINITION` | CS / CI / CF | Definitional lead-ins for canonical Chapter Five terms |
+| `CORE-PLACEMENT` | Chapter Three | Correct band / §1–§3 home and structural invariants |
+| `CORE-GRAVITY` | Chapter Three | Institutional or procedural machinery absorbed into definitions |
+| `CORE-TRACE` | Chapter Two ↔ Five | Principle anchors and complete O/M/A/C traceability |
+| `CJS-PLACEMENT` | CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 | Operational clusters only in CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 (not CJS-0.110, CJS-30.105, CJS-3.140, and CJS-6.105) |
+| `CJS-TRACE` | Chapter Two ↔ CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 | Cluster trace metadata and guidepost triad completeness |
+| `CJS-CONSTITUTIONAL-CREEP` | CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 | OP rules matching Ch3 labels without Chapter Three pointers |
+| `IMPL-COMPETING-GLOSS` | CS / CI / CF | O/M/A/C-shaped gloss outside Chapter Three |
+| `IMPL-RELOCATION` | CI (operative body) | Cross-layer material that may belong in CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 or Chapter Three; CS/CF owner layers use integration maps and `ci-cjs-relocation-audit` |
+| `IMPL-NON-REDEFINITION` | CS / CI / CF | Definitional lead-ins for canonical Chapter Three terms |
 
 Persistent ledger: `evidence/definition_audit/ledger.json`. Dated snapshots: `definition_appropriateness_report_*.md`, `definition_appropriateness_matrix_*.csv`, `definition_appropriateness_log_*.json`.
 
@@ -153,7 +153,7 @@ Enable:
 
 ## Manual / editorial (no automated gate yet)
 
-- **NAV-READER-06**, **NAV-INDEX-13**: reader-guidance widgets; Chapter Three §2 index
+- **NAV-READER-06**, **NAV-INDEX-13**: reader-guidance widgets; Subcore 3-B §2 index
 - **Single-home overlap sweep**: grep discipline in [doc_architecture.md](../doc_architecture.md) **section 12**; overlap theme table archived under `archive/doc_architecture_decision_log/`
 
 Historical navigation decisions: [archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md](../archive/doc_architecture_decision_log/DEC_WIDGET_AND_NAV_DECISIONS_2026-04-16_2026-06-15.md).

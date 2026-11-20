@@ -17,9 +17,9 @@ against the live text; they will be rewritten when the chapter is placed.
 > 4. **Policy advice.** The draft bars the office from advocating policy (§8). Alternative: allow published, clearly labeled analysis of policy options.
 >
 > **Existing text that would change when this is placed (not edited yet):**
-> - [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) would route commissioning through this office's research intake.
-> - [CF-23.430](../../corpus_forum/cf_23.430_forum_forensic_analytical_support.md) (*Forum forensic and analytical support*) stays the home for case-specific forensic and analytical support. This office handles research that goes beyond a single case, and the boundary would be written into both texts.
-> - **CI-6.270** (*Scientific publication, peer review, replication, and evidence stewardship*) and [Article XVI-D](../../core_06.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) would govern the office's own publications.
+> - [CF-23.440 §15](../../corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md#cf-22440-15-research-and-uncertainty-reduction-authority) would route commissioning through this office's research intake.
+> - [CF-23.430](../../corpus_forum/cf_22.430_forum_forensic_analytical_support.md) (*Forum forensic and analytical support*) stays the home for case-specific forensic and analytical support. This office handles research that goes beyond a single case, and the boundary would be written into both texts.
+> - **CI-6.270** (*Scientific publication, peer review, replication, and evidence stewardship*) and [Article XVI-D](../../core_04.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) would govern the office's own publications.
 > - **CS-6.305** and **CS-6.310** govern how the office handles each data type; this chapter adds no data type.
 >
 > **Move log.** No move number is taken yet; coordinated with the "Work through TODO decisions" thread when this draft enters the corpus.
@@ -35,7 +35,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > This chapter would be **part of the Sentient Constitution** and **binding only together** with the other numbered `core_*` files read as one text.
 >
 > - **Constitutional owner:** the office that produces the public's shared statistics and indicators, including wellbeing and economic activity; runs research that forums request beyond a single case; rates the confidence of everything it publishes; and independently checks the Public Finance Office's figures. Also owned here: the bar on steering any of that work.
-> - **Not owned here:** case-specific forensic and analytical support (**CF-23.430**); forum records and Standing Records (registrars and [Chapter Fifteen](../../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened)); data types and handling (**CS-6.305**, **CS-6.310**); scientific publication duties of other institutions (**CI-6.270**).
+> - **Not owned here:** case-specific forensic and analytical support (**CF-23.430**); forum records and Standing Records (registrars and [Chapter Fifteen](../../core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened)); data types and handling (**CS-6.305**, **CS-6.310**); scientific publication duties of other institutions (**CI-6.270**).
 > - **Implementation owner:** a new corpus-institutions file (indicator catalog, release calendar, research intake forms).
 >
 > Reading order: §1 purpose → §2 why the office exists → §3 independence → §4 statistics and indicators → §5 forum-requested research → §6 methods, evidence, and confidence → §7 information handling → §8 no steering → §9 records, audit, and challenge → §10 funding, reserve, and shortfalls → §11 scaling.
@@ -52,11 +52,11 @@ Chapter [I] is the constitutional owner of **public statistics and forum-request
 - Upstream:
   - [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) — especially **oversight**;
   - [material stake](../../core_00.000_preamble.md#material-stake);
-  - [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
   - the Chapter One principles and Chapter Six Articles named in the **Grounded in** paragraph of [§2](#2-why-the-public-information-office-exists).
 - Downstream: [§2](#2-why-the-public-information-office-exists) through [§11](#11-proportional-scaling); the Public Finance Office chapter (ledger check, research reserve); a new corpus-institutions file (indicator catalog, release calendar, research intake forms).
 - Read with:
-  - [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) (*Research and Uncertainty-Reduction Authority*);
+  - [CF-23.440 §15](../../corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md#cf-22440-15-research-and-uncertainty-reduction-authority) (*Research and Uncertainty-Reduction Authority*);
   - **CF-23.430** (*Forum forensic and analytical support*);
   - **CI-6.270** (*Scientific publication, peer review, replication, and evidence stewardship*);
   - **CS-6.305** (*Information types and handling*) and **CS-6.310** (*Data classifications*).
@@ -71,7 +71,7 @@ Chapter [I] is the constitutional owner of **public statistics and forum-request
 
 **Role:** Chapter [I] is the constitutional owner of public statistics and forum-requested research. Where it sits:
 
-- [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) lets a forum commission research once it publishes a finding that uncertainty is blocking reliable decisions. This chapter runs that research; the forum still decides what the findings mean for its case.
+- [CF-23.440 §15](../../corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md#cf-22440-15-research-and-uncertainty-reduction-authority) lets a forum commission research once it publishes a finding that uncertainty is blocking reliable decisions. This chapter runs that research; the forum still decides what the findings mean for its case.
 - The Public Finance Office chapter pays for the office and for forum-requested research, and does not direct either.
 - A later corpus-institutions file carries the indicator catalog, release calendar, and research intake forms. It may not narrow this chapter.
 
@@ -96,7 +96,7 @@ The chapter's sections cover:
 - funding, reserve, and shortfalls (**section 10**); and
 - proportional scaling (**section 11**).
 
-**Out of scope:** The office does not decide any matter, finding, classification, or Standing Record, set policy or advocate for it, or hold funds. The chapter leaves case-specific forensic and analytical support to **CF-23.430**, forum records and Standing Records to the registrars and [Chapter Fifteen](../../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened), data types and handling to **CS-6.305** and **CS-6.310**, and other institutions' scientific publication duties to **CI-6.270**.
+**Out of scope:** The office does not decide any matter, finding, classification, or Standing Record, set policy or advocate for it, or hold funds. The chapter leaves case-specific forensic and analytical support to **CF-23.430**, forum records and Standing Records to the registrars and [Chapter Fifteen](../../core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened), data types and handling to **CS-6.305** and **CS-6.310**, and other institutions' scientific publication duties to **CI-6.270**.
 
 ### 2. Why the Public Information Office Exists
 
@@ -107,16 +107,16 @@ This section explains the reasons for the chapter. It is non-operative: the bind
 **Grounded in:**
 
 - Chapter One principles:
-  - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../../core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
-  - [§5.1 Science-Informed Inquiry and Decision Support](../../core_01.000_values_principles.md#51-science-informed-inquiry-and-decision-support);
-  - [§13.2 Epistemic Disclosure Constraints](../../core_01.020_interaction_interpretation.md#132-epistemic-disclosure-constraints);
-  - [§18.3 Separation of Duties](../../core_01.050_governance_incentive_application.md#183-separation-of-duties); and
-  - [§19.2 Convenient Proxies and Proxy Divergence](../../core_01.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence).
+  - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../../core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
+  - [§5.1 Science-Informed Inquiry and Decision Support](../../core_02.000_values_principles.md#51-science-informed-inquiry-and-decision-support);
+  - [§13.2 Epistemic Disclosure Constraints](../../core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints);
+  - [§18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties); and
+  - [§19.2 Convenient Proxies and Proxy Divergence](../../core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence).
 - Chapter Six Articles:
-  - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
-  - [Article XVII-A](../../core_06.020_rights_part_c.md#article-xvii-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*);
-  - [Article XVI-D](../../core_06.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*); and
-  - [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) and [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*).
+  - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+  - [Article XVII-A](../../core_04.020_rights_part_c.md#article-xvii-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*);
+  - [Article XVI-D](../../core_04.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*); and
+  - [Article XIII-C](../../core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) and [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*).
 
 **The problem it answers.** Forums, governing bodies, and the public all rely on figures about wellbeing, access, the economy, and how constitutional bodies are performing. Forums sometimes need research that no single case can pay for or answer. Before this chapter, no one was charged with producing those figures and that research independently. That leaves three failures easy:
 
@@ -147,7 +147,7 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 *In plain terms: the office answers to its methods. It has the standard protections every independent body gets, and its methods are checked by people outside the team that made the figures.*
 
-**Independent Body:** The Public Information Office is an Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), and meets every standard requirement there. For this office:
+**Independent Body:** The Public Information Office is an Independent Body under [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, and the Public Finance Office;
 - the protected decision-makers are its head and its chief methodologists. The methodologists are drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in statistics, research methods, or the field they will oversee, and the head is chosen from among them under that section's *Leadership* rule;
@@ -176,7 +176,7 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 *In plain terms: a forum says what question it needs answered. The office finds independent researchers, keeps them at arm's length from the parties, and publishes the answer to everyone at once.*
 
-**Intake.** A forum that has published a finding under [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority), or a comparable finding by another forum family, sends the office its scope order. The office checks the order for completeness and passes it to the Public Finance Office for funding from the research reserve.
+**Intake.** A forum that has published a finding under [CF-23.440 §15](../../corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md#cf-22440-15-research-and-uncertainty-reduction-authority), or a comparable finding by another forum family, sends the office its scope order. The office checks the order for completeness and passes it to the Public Finance Office for funding from the research reserve.
 
 **Selection.** The office selects researchers by criteria published before the call. The requesting forum, the parties, and the Finance Office do not pick researchers. Selection:
 
@@ -186,7 +186,7 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 **Arm's length.** No party may contact the researchers about the work except through a published, shared channel. The researchers' reports go to the requesting forum, every party, and the public at the same moment, unless a narrower lawful exception applies under §7.
 
-**Provisional status.** A research finding informs a forum. It does not bind one, and it does not become law without the ordinary review and adoption pathways, as [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) already requires.
+**Provisional status.** A research finding informs a forum. It does not bind one, and it does not become law without the ordinary review and adoption pathways, as [CF-23.440 §15](../../corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md#cf-22440-15-research-and-uncertainty-reduction-authority) already requires.
 
 **Shared questions.** Where several forums ask the same or overlapping questions, the office may combine the requests into one study, with the agreement of each requesting forum and a published record of the merger.
 
@@ -206,13 +206,13 @@ Everything the office publishes carries:
 - data or lawful access limits; and
 - a searchable record of corrections and retractions.
 
-The office's publications meet [Article XVI-D](../../core_06.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) and **CI-6.270**. They must be reproducible by a qualified independent reviewer to the degree set by the applicable Technical Forum standard.
+The office's publications meet [Article XVI-D](../../core_04.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity) and **CI-6.270**. They must be reproducible by a qualified independent reviewer to the degree set by the applicable Technical Forum standard.
 
 #### 6.2 The Confidence Ladder
 
 *In plain terms: nine rungs, from a single anecdote to a result that many independent lines of evidence have confirmed for years. Each rung asks for more confirmation, better studies, and stronger statistics than the one below.*
 
-Every figure and finding the office publishes is rated on a ladder of nine rungs, numbered from 1 (weakest) to 9 (strongest), the same shape as the nine slots of the standing scale in [Chapter Sixteen §7 Unified Proportional LEQU Scale — Contribution and Violation Axes](../../core_16.000_standing_measurement.md#7-unified-proportional-lequ-scale--contribution-and-violation-axes). A rung measures three things, and the evidence must get stronger on all three as it climbs:
+Every figure and finding the office publishes is rated on a ladder of nine rungs, numbered from 1 (weakest) to 9 (strongest), the same shape as the nine slots of the standing scale in [Chapter Sixteen §7 Unified Proportional LEQU Scale — Contribution and Violation Axes](../../core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes). A rung measures three things, and the evidence must get stronger on all three as it climbs:
 
 - **Confirmation:** how many independent studies, sources, or methods reach the same result;
 - **Quality:** how well those studies or sources are designed, carried out, and checked; and
@@ -265,7 +265,7 @@ Every figure and finding the office publishes is rated on a ladder of nine rungs
 
 *In plain terms: the office handles more personal data than almost anyone. The general privacy rule for every independent body lives in Chapter Eight; this section adds what is special to statistics and research.*
 
-**General rule.** The office meets *Information handling and privacy* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies). In addition:
+**General rule.** The office meets *Information handling and privacy* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition:
 
 - data collected for statistics or research is used only for statistics or research, never for any other duty of the office or of anyone else; and
 - no statistical record may be used as evidence against any sentient it describes, whoever gave the data.
@@ -274,7 +274,7 @@ Every figure and finding the office publishes is rated on a ladder of nine rungs
 
 *In plain terms: no one may change, hide, delay, or time a number or a finding because of what it says.*
 
-The funding-integrity, gifts-and-benefits, and apparent-conflict floors of [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) and [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) apply to the office and its researchers, with records kept under **CI-8.210 §4** (*Gifts, Apparent Conflicts, and Funding Integrity*). In addition, the office, the governing authority, the Public Finance Office, every forum, and every funder must not:
+The funding-integrity, gifts-and-benefits, and apparent-conflict floors of [Article XIII-C](../../core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) and [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) apply to the office and its researchers, with records kept under **CI-8.210 §4** (*Gifts, Apparent Conflicts, and Funding Integrity*). In addition, the office, the governing authority, the Public Finance Office, every forum, and every funder must not:
 
 - alter, suppress, delay, or time the release of a figure or finding because of what it shows;
 - reward or punish a researcher, methodologist, or official for a result;
@@ -290,7 +290,7 @@ The office must not advocate for a policy, a party, or an outcome. It may explai
 
 *In plain terms: anyone can question a figure, a method, or a researcher choice, and an independent forum decides. The general audit and challenge rule for every independent body lives in Chapter Eight; this section says how it applies here.*
 
-**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies). For this office:
+**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). For this office:
 
 - the audit of its work is an independent method audit of its methods and releases, and its spending is audited with the Public Finance Office's audit;
 - a challenge may concern a release, a method, a confidence rung, a researcher selection, or a refusal to publish; and
@@ -300,7 +300,7 @@ The office must not advocate for a policy, a party, or an outcome. It may explai
 
 *In plain terms: whoever pays the office could steer what it finds, so its money is protected the way every independent body's is: its own budget track, its own reserve for bad years, and a published rule for any cut. The general rule is in Chapter Eight; this section says how it applies here.*
 
-**General rule.** *Protected funding* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies to the office in full, including its *Reserve* and *Shortfalls* requirements. The Public Finance Office chapter carries the mechanics; this section applies them to this office.
+**General rule.** *Protected funding* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to the office in full, including its *Reserve* and *Shortfalls* requirements. The Public Finance Office chapter carries the mechanics; this section applies them to this office.
 
 **Funding floor.** The office's floor:
 
@@ -326,4 +326,4 @@ A shortfall never suspends the *Methods first* or *Equal release* rules of §4. 
 
 *In plain terms: a small community may share an office or borrow statistics from a larger one, as long as the work stays independent. The general rule for every independent body lives in Chapter Eight.*
 
-The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies, including sharing administration under **CF-23.470 §5**. An adopter that uses another adopter's office, or its published figures, states the rung of each figure it relies on, and a figure measured for another population keeps its rung only for that population unless the method reviewer shows that it carries over.
+The *Scaling* rule in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies, including sharing administration under **CF-23.470 §5**. An adopter that uses another adopter's office, or its published figures, states the rung of each figure it relies on, and a figure measured for another population keeps its rung only for that population unless the method reviewer shows that it carries over.

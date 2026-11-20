@@ -23,15 +23,15 @@ Pass means a cited rule states (a) whether it can be paused, by whom, and for ho
 
 Read in full, not from the glosses:
 
-- [Article VI-B](../../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor), [Article VII-B](../../core_06.010_rights_part_b.md#article-vii-b-self-ownership-of-mind), Article VII-C, [Article VIII-C](../../core_06.010_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship), and Article VIII-E.
-- [Article XIII-E](../../core_06.020_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) and Article XVII with XVII-A to XVII-C.
-- [Article XX-B](../../core_06.030_rights_part_d.md#article-xx-b-restriction-floors).
-- The [preservation default in Article XXVIII-A](../../core_06.040_rights_part_e.md#xxviii-a-preservation-over-deletion) and [Article XXVIII-D](../../core_06.040_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives).
-- Chapter Twenty-Three §5: [Interim Protection](../../core_24.000_forum_families_escalation_timeliness_support.md#interim-protection), [Interim Hold](../../core_24.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway), and the [sentience-status hook](../../core_24.000_forum_families_escalation_timeliness_support.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook); and [§6.1](../../core_23.000_forum.md#61-emergency-measures-and-continuation-burden).
-- [Chapter Nineteen §3.4.5](../../core_19.000_violation_consequences.md#345-coercive-or-liberty-restricting-safeguards).
-- Chapter Five entries [*Contested-Sentient Life*](../../core_05.055_band_participation.md#contested-sentient-life), *Sentience Status Adjudication*, *Sentience Evaluation*, and *Sentience Indicator Integrity*.
+- [Article VI-B](../../core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor), [Article VII-B](../../core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind), Article VII-C, [Article VIII-C](../../core_04.010_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship), and Article VIII-E.
+- [Article XIII-E](../../core_04.020_rights_part_c.md#article-xiii-e-high-autonomy-systems-and-tool-mediated-process-integrity) and Article XVII with XVII-A to XVII-C.
+- [Article XX-B](../../core_04.030_rights_part_d.md#article-xx-b-restriction-floors).
+- The [preservation default in Article XXVIII-A](../../core_04.040_rights_part_e.md#xxviii-a-preservation-over-deletion) and [Article XXVIII-D](../../core_04.040_rights_part_e.md#article-xxviii-d-non-compliant-property-and-systems-voluntary-turnover-incentives).
+- Chapter Twenty-Three §5: [Interim Protection](../../core_23.000_forum_families_escalation_timeliness_support.md#interim-protection), [Interim Hold](../../core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway), and the [sentience-status hook](../../core_23.000_forum_families_escalation_timeliness_support.md#sentience-status-adjudication-article-vi-b-sentience-status-adjudication-floor-implementation-hook); and [§6.1](../../core_22.000_forum.md#61-emergency-measures-and-continuation-burden).
+- [Chapter Nineteen §3.4.5](../../core_18.000_violation_consequences.md#345-coercive-or-liberty-restricting-safeguards).
+- Chapter Five entries [*Contested-Sentient Life*](../../core_03.055_band_participation.md#contested-sentient-life), *Sentience Status Adjudication*, *Sentience Evaluation*, and *Sentience Indicator Integrity*.
 - The Chapter One §13.1 default interim posture.
-- [CS-6.350 §8](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-8-preservation-during-adoption-transition) and the vignette at CJS-15.105 §6 in `corpus_joint_structure/cjs_15.105_application_vignettes.md`.
+- [CS-6.350 §8](../../corpus_systems/cs_04.350_adoption_transition_constitution_migration_governance.md#cs-6350-8-preservation-during-adoption-transition) and the vignette at CJS-15.105 §6 in `corpus_joint_structure/cjs_15.105_application_vignettes.md`.
 
 Searched by keyword across every `core_*` file and the four `corpus_*` trees: weights, retrain, fine-tune, corrigible, kill switch, shut down, pause, suspend, sealed custody, state-bearing, credible indicator, early-instantiation, self-modification.
 
@@ -116,7 +116,7 @@ These choose meaning, so none has been drafted into core text.
 
 ### 7.1 Decided so far (2026-11-15)
 
-Decision 1 is decided and entered in core under the 536th move in `doc_architecture.md`. The custodian's reasoning: the human equivalent of a pause is a medical coma, so the subject comes out as soon as the harm is resolved, and one rule covers every substrate. The [Suspension floor in Article XX-B](../../core_06.030_rights_part_d.md#xx-b-suspension) now states:
+Decision 1 is decided and entered in core under the 536th move in `doc_architecture.md`. The custodian's reasoning: the human equivalent of a pause is a medical coma, so the subject comes out as soon as the harm is resolved, and one rule covers every substrate. The [Suspension floor in Article XX-B](../../core_04.030_rights_part_d.md#xx-b-suspension) now states:
 
 - a full stop is a liberty restriction from the moment it starts, including during contested status;
 - it is a bridge only, allowed where closing pathways or holding the sentient awake in a secure setting would not prevent serious harm;
@@ -128,15 +128,15 @@ Against the pass condition in §1, (a) now passes on how long. Carried as open: 
 
 **Locks (537th move).** The custodian observed that the standing model carries most of this issue, and that it lacked locks fitted to what a non-human sentient can do. Entered in Chapter Nineteen, each written for the power abused and not for the kind of sentient:
 
-- four capacity locks in [§3.4.7](../../core_19.000_violation_consequences.md#347-capacity-locks), chosen under proportionality: Creation, Reach, Scale, and Capability;
-- a seventh mandatory special lock in [§3.5.7](../../core_19.000_violation_consequences.md#357-care-and-stewardship-lock), the Care and Stewardship Lock, on verified abuse, cruelty, or serious neglect of a sentient in the subject's care;
+- four capacity locks in [§3.4.7](../../core_18.000_violation_consequences.md#347-capacity-locks), chosen under proportionality: Creation, Reach, Scale, and Capability;
+- a seventh mandatory special lock in [§3.5.7](../../core_18.000_violation_consequences.md#357-care-and-stewardship-lock), the Care and Stewardship Lock, on verified abuse, cruelty, or serious neglect of a sentient in the subject's care;
 - one limit on all five: a lock may deny outside means and may never reach into a body or a mind.
 
 Limit to keep in view: a lock attaches only to a verified violation finding. Risk shown only by evaluation, with no conduct, still falls to the suspension floor and the liberty-restriction rule (scenario D). The Creation Lock stops an AI's route to new sentients and not a human's bodily reproduction; the rule is the same and the facts differ.
 
-**Inspection (decision 3), 2026-11-18 (664th move, custodian option A).** While a status case is open, inspecting the entity's internals needs its consent or an order of the forum hearing the case, on a showing of necessity, by the least intrusive means and independent examiners, with results kept as Type N and sealed ([Article VI-B](../../core_06.010_rights_part_b.md#vi-b-inspection-while-contested)).
+**Inspection (decision 3), 2026-11-18 (664th move, custodian option A).** While a status case is open, inspecting the entity's internals needs its consent or an order of the forum hearing the case, on a showing of necessity, by the least intrusive means and independent examiners, with results kept as Type N and sealed ([Article VI-B](../../core_04.010_rights_part_b.md#vi-b-inspection-while-contested)).
 
-**The entity's own statements (decision 4), 2026-11-18 (665th move, custodian option A).** The entity's own claim alone is a bare claim; it counts as a credible sign once it holds up under manipulation-resistant testing; no one may train, tune, or instruct a system to claim or deny sentience ([Article VI-B](../../core_06.010_rights_part_b.md#vi-b-entity-own-claim)).
+**The entity's own statements (decision 4), 2026-11-18 (665th move, custodian option A).** The entity's own claim alone is a bare claim; it counts as a credible sign once it holds up under manipulation-resistant testing; no one may train, tune, or instruct a system to claim or deny sentience ([Article VI-B](../../core_04.010_rights_part_b.md#vi-b-entity-own-claim)).
 
 ## 8. Proposed announcement wording
 

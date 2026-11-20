@@ -3,7 +3,7 @@
 
 Rule ID: CRITERION-NAMED-01
 
-Chapter Twenty-One §4.3 sets six criteria for anti-constitutional-misconduct designation,
+Chapter Twenty §5.3 sets six criteria for anti-constitutional-misconduct designation,
 and the corpus cites them by number ("criterion 3", "criteria 1 and 2", "criteria 1-4").
 A bare number tells the reader nothing, and the reader has to leave the page to learn
 what it means. Every numbered reference therefore carries the name of each criterion it
@@ -14,7 +14,7 @@ cites, in a parenthetical right after the number:
     criteria 1-4 (*Willful deceptive intent*; *Knowing falsification or suppression*;
         *Material rollback effect*; and *Causally significant conduct*)
 
-The names are the ones Chapter Twenty-One §4.3 gives:
+The names are the ones Chapter Twenty §5.3 gives:
 
     1 Willful deceptive intent
     2 Knowing falsification or suppression
@@ -38,7 +38,7 @@ Not matched: a number with no "criterion" or "criteria" word in front of it, the
 without a digit ("the section 3 criteria"), inline code, link targets, fenced code, and
 `doc_architecture.md` (its dated move log keeps the wording each move used).
 
-The audit also fails when Chapter Twenty-One §4.3 no longer gives one of the six names
+The audit also fails when Chapter Twenty §5.3 no longer gives one of the six names
 above, so the table here cannot drift from the source.
 
 Fix: add the names, or run ``python3 tools/criterion_named_audit.py --fix`` to insert
@@ -66,7 +66,7 @@ from lexical_vocabulary_audit import _mask_inline_code_and_link_targets  # noqa:
 ROOT = Path(__file__).resolve().parents[1]
 RULE = "CRITERION-NAMED-01"
 EXEMPT = frozenset({"doc_architecture.md"})  # its dated move log keeps the wording each move used
-SOURCE_FILE = "core_21.000_misconduct_designation.md"
+SOURCE_FILE = "core_20.000_misconduct_designation.md"
 
 NAMES = {
     1: "Willful deceptive intent",
@@ -87,7 +87,7 @@ _TOKEN = re.compile(r"\d|through|[–—-]", re.IGNORECASE)
 
 ADVICE = (
     "numbered criterion without its name: add the name in a parenthetical right after the "
-    "number, for example 'criterion 3 (*Material rollback effect*)' (names: Chapter Twenty-One §4.3)"
+    "number, for example 'criterion 3 (*Material rollback effect*)' (names: Chapter Twenty §5.3)"
 )
 
 
@@ -238,7 +238,7 @@ def fix_text(rel_path: str, text: str) -> tuple[str, int]:
 
 
 def source_lacks_names(root: Path) -> list[str]:
-    """Return the names that Chapter Twenty-One §4.3 no longer gives as numbered definition lines."""
+    """Return the names that Chapter Twenty §5.3 no longer gives as numbered definition lines."""
     path = root / SOURCE_FILE
     if not path.is_file():
         return [f"{SOURCE_FILE} is missing"]

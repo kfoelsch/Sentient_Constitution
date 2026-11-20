@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Smooth Chapter One Part A numbering (decided 2026-10-01).
+"""Smooth Chapter Two Part A numbering (decided 2026-10-01).
 
   Flourishing Aim: Introduction  -> §2   (now numbered)
   old §3 Non-Negotiable ...      -> §2.1 (shared Safety/Truth framing, moved ahead of Wellbeing)
@@ -12,7 +12,7 @@
   old §§10-12 (Part B)           -> §§13-15
   old §§13-17 (Part C)           -> §§16-20
 
-Rewrites headings, explicit anchors, link targets and labels, title-glossed cites, "Chapter One §N" cites and raw
+Rewrites headings, explicit anchors, link targets and labels, title-glossed cites, "Chapter Two §N" cites and raw
 `core_01_x.md#frag` mentions. Part-level prose and mermaid chart text are hand-edited afterwards.
 Dry run by default; use --write to apply.
 """
@@ -30,9 +30,9 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 from local_markdown_fragment_audit import github_slug  # noqa: E402
 
-FA = "core_01.005_values_principles.md"
-FB = "core_01.010_interaction_interpretation.md"
-FC = "core_01.015_stewardship_capacity_principles.md"
+FA = "core_02.005_values_principles.md"
+FB = "core_02.010_interaction_interpretation.md"
+FC = "core_02.015_stewardship_capacity_principles.md"
 CH1 = [FA, FB, FC]
 
 TOP = {1: 1, 2: 3, 4: 6, 5: 7, 6: 9, 7: 10, 8: 11, 9: 12, 10: 13, 11: 14, 12: 15,
@@ -49,7 +49,7 @@ ALIAS = {  # id: (new id, file, old number, new number)
     "143-role-scoped-observability": ("173-role-scoped-observability", FC, "14.3", "17.3"),
     "1015-rights-collision-decision-test": ("1315-rights-collision-decision-test", FB, "10.1.5", "13.1.5"),
 }
-# Live data/tool files that hard-code Chapter One anchors or heading text
+# Live data/tool files that hard-code Chapter Two anchors or heading text
 # (dated cut lists and the older relocation scripts are historical record).
 EXTRA_FILES = [
     "implementation/steward_owner_clock_index.json",
@@ -338,7 +338,7 @@ def run(root: Path, write: bool) -> int:
         if rel in CH1 or rel.startswith(SKIP_PREFIXES):
             continue
         text = p.read_text(encoding="utf-8")
-        if "core_01_" not in text and "Chapter One" not in text and "Chapter 1" not in text and "(*" not in text:
+        if "core_01_" not in text and "Chapter Two" not in text and "Chapter 2" not in text and "(*" not in text:
             continue
         new = "\n".join(rw.line(l, rel, None, i + 1) for i, l in enumerate(text.split("\n")))
         if new != text:

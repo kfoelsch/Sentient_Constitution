@@ -1,17 +1,17 @@
 #!/usr/bin/env python3
-"""Report possible missing Chapter One principle references in selected core files.
+"""Report possible missing Chapter Two principle references in selected core files.
 
 This is an advisory keyword search, not a compliance audit. It extracts the
-numbered section headings in Chapter One as the initial principle inventory,
+numbered section headings in Chapter Two as the initial principle inventory,
 then reports paragraphs in selected sections that use distinctive heading
-terms where that section has no Chapter One source link. Review every result in
+terms where that section has no Chapter Two source link. Review every result in
 context; a match does not establish that a reference is required.
 
 Examples:
 
     python3 tools/principle_check.py --chapter-range 2-9
-    python3 tools/principle_check.py --chapter-range 2-9 --through-file core_10.000_system_alignment_certification_forum_process_outcomes.md
-    python3 tools/principle_check.py --file core_08.000_functional_independence_separation_of_duties.md --file core_09.000_system_alignment_certification_evaluation.md
+    python3 tools/principle_check.py --chapter-range 2-9 --through-file core_09.000_system_alignment_certification_forum_process_outcomes.md
+    python3 tools/principle_check.py --file core_06.000_functional_independence_separation_of_duties.md --file core_08.000_system_alignment_certification_evaluation.md
     python3 tools/principle_check.py --list-principles
 """
 
@@ -23,12 +23,12 @@ from dataclasses import dataclass
 from pathlib import Path
 
 CH1_FILES = (
-    "core_01.000_values_principles.md",
-    "core_01.010_values_principles_continuity_aim.md",
-    "core_01.020_interaction_interpretation.md",
-    "core_01.030_constitutional_interpretation.md",
-    "core_01.040_stewardship_capacity_principles.md",
-    "core_01.050_governance_incentive_application.md",
+    "core_02.000_values_principles.md",
+    "core_02.010_values_principles_continuity_aim.md",
+    "core_02.020_interaction_interpretation.md",
+    "core_02.030_constitutional_interpretation.md",
+    "core_02.040_stewardship_capacity_principles.md",
+    "core_02.050_governance_incentive_application.md",
 )
 CORE_FILE_RE = re.compile(r"^core_(\d{2})\.")
 HEADING_RE = re.compile(r"^#{3,5}\s+(\d+(?:\.\d+)*)(?:\.)?\s+(.+?)\s*$")
@@ -186,15 +186,15 @@ def markdown_paragraphs(text: str):
 
 
 def sections_with_ch1_references(text: str) -> set[str]:
-    """Count Chapter One citations in each section, including collapsed widgets."""
+    """Count Chapter Two citations in each section, including collapsed widgets."""
     section = "(before first heading)"
     referenced: set[str] = set()
     for line in text.splitlines():
         heading = re.match(r"^\s*#{1,6}\s+(.+?)\s*$", line)
         if heading:
             section = heading.group(1)
-        if any("core_01." in target for target in LINK_RE.findall(line)) or re.search(
-            r"\bChapter One\s+(?:§{1,2}|section\s+)\d", line, re.IGNORECASE
+        if any("core_02." in target for target in LINK_RE.findall(line)) or re.search(
+            r"\bChapter Two\s+(?:§{1,2}|section\s+)\d", line, re.IGNORECASE
         ):
             referenced.add(section)
     return referenced
@@ -244,7 +244,7 @@ def main() -> int:
     parser.add_argument("--chapter-range", type=parse_range, help="inclusive chapter range, e.g. 2-9")
     parser.add_argument("--file", action="append", help="specific core filename; repeat to select several")
     parser.add_argument("--through-file", help="with --chapter-range, stop at this file, inclusive")
-    parser.add_argument("--list-principles", action="store_true", help="print the extracted Chapter One inventory")
+    parser.add_argument("--list-principles", action="store_true", help="print the extracted Chapter Two inventory")
     args = parser.parse_args()
     root = args.root.resolve()
 
@@ -253,7 +253,7 @@ def main() -> int:
         if args.list_principles:
             for item in inventory:
                 print(f"§{item.section}  {item.title} [{item.filename}]")
-            print(f"{len(inventory)} Chapter One headings in the initial search inventory")
+            print(f"{len(inventory)} Chapter Two headings in the initial search inventory")
             return 0
         files = selected_files(root, args)
     except (OSError, ValueError) as error:
@@ -269,7 +269,7 @@ def main() -> int:
         for line_number, paragraph, section in paragraphs:
             if path.name in CH1_FILES:
                 continue
-            # A section that already points to Chapter One may still omit a
+            # A section that already points to Chapter Two may still omit a
             # second relevant principle, but detecting that reliably requires
             # more context than this first-pass keyword check has.
             if section in sections_with_principle_refs:

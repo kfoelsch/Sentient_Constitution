@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Report Chapter Five definition-directory drift in reader-language indexes.
+"""Report Chapter Three definition-directory drift in reader-language indexes.
 
-The localized Chapter Five Part A files are indexes. This audit compares the
+The localized Chapter Three Part A files are indexes. This audit compares the
 current English A–Z definition directory with the source snapshot at the most
 recent commit that updated each locale's translated index. It reports both
 whole-directory coverage drift and entries added or removed since that
-baseline. It does not judge translation quality or scan the full Chapter Five
+baseline. It does not judge translation quality or scan the full Chapter Three
 band files.
 """
 
@@ -23,7 +23,7 @@ ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT / "tools"))
 import translation_audit as audit  # noqa: E402
 
-SOURCE_INDEX = "core_05.000_definitions_home.md"
+SOURCE_INDEX = "core_03.000_definitions_home.md"
 LOCALES = "es hi ar id zh pt bn fr ur ru ja tr mr vi fa te ko ta th".split()
 DEFINITION_START = '<a id="definitions-a-z"></a>'
 CLUSTER_START = '<a id="clusters-a-z"></a>'
@@ -121,7 +121,7 @@ def main() -> int:
             commit: parse_entries(read_index_at(commit), f"{commit}:{SOURCE_INDEX}")
             for commit in sorted(set(baselines.values()))
         }
-        print(f"Chapter Five definitions: {len(current_entries)} current entries")
+        print(f"Chapter Three definitions: {len(current_entries)} current entries")
         for commit, entries in baseline_entries_by_commit.items():
             added = [
                 entry for entry in current_entries
@@ -165,7 +165,7 @@ def main() -> int:
 
         return 1 if any_gaps else 0
     except (OSError, subprocess.CalledProcessError, ValueError) as exc:
-        print(f"Chapter Five translation audit failed: {exc}", file=sys.stderr)
+        print(f"Chapter Three translation audit failed: {exc}", file=sys.stderr)
         return 2
 
 

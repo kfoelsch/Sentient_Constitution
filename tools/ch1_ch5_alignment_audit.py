@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
-Chapter 1 ↔ Chapter 5 Alignment Audit Script
+Chapter 2 ↔ Chapter 3 Alignment Audit Script
 
 Verifies that Chapter 0/1 principles have explicit definition anchors in
-Chapter Five, with complete O/M/A/C guideposts and no segmentation of
+Chapter Three, with complete O/M/A/C guideposts and no segmentation of
 dependent clusters. Also records CJS operational cluster oDef clusters that apply each term.
 
 Usage: python ch1_ch5_alignment_audit.py [--output-dir /path/to/evidence]
@@ -35,7 +35,7 @@ from definition_index import (  # noqa: E402
     extract_ch5_term_cites,
 )
 
-# Chapter One widgets shorten these Chapter Five labels; map display name → canonical term.
+# Chapter Two widgets shorten these Chapter Three labels; map display name → canonical term.
 DAC_LABEL_ALIASES = {
     "materiality": "Materiality",
     "foreseeability": "Foreseeability",
@@ -60,7 +60,7 @@ class AlignmentAuditor:
         self.expected_non_anchors: list[str] = []
 
     def extract_ch1_principles(self):
-        """Parse Preamble and Chapter One for principles and O/M/A/C anchors."""
+        """Parse Preamble and Chapter Two for principles and O/M/A/C anchors."""
         for record in collect_ch1_principles(self.repo_root):
             self.ch1_principles[record.section] = {
                 "title": record.title,
@@ -70,7 +70,7 @@ class AlignmentAuditor:
             }
 
     def extract_ch5_definitions(self):
-        """Parse Chapter Five leaves and apex heads for guidepost status."""
+        """Parse Chapter Three leaves and apex heads for guidepost status."""
         clusters = collect_cjs3_clusters(self.repo_root)
         odef_by_term: dict[str, list[str]] = {}
         for cluster in clusters:
@@ -115,7 +115,7 @@ class AlignmentAuditor:
         """Preamble orients outward; §3 and §6 are roadmap preview parents.
 
         NAV-DAC-12: do not attach O/M/A/C widgets on Preamble (indexes to Chapter
-        Five homes) or on Chapter One ### preview parents whose #### children
+        Five homes) or on Chapter Two ### preview parents whose #### children
         already own the operative definitions. §3 and §6 name Safety and Truth
         as floors; §3.1–§3.4 and §6.1–§6.3 carry the working terms. §2.1 states
         Safety and Truth as the non-negotiable constraints and sends the reader
@@ -146,7 +146,7 @@ class AlignmentAuditor:
                     self.accuracy_gaps.append({
                         "principle": principle_id,
                         "definition": term,
-                        "missing_components": ["Chapter Five home"],
+                        "missing_components": ["Chapter Three home"],
                     })
                     continue
                 missing = []
@@ -174,7 +174,7 @@ class AlignmentAuditor:
         return DETAILS_BLOCK_RE.sub(keep_or_drop, text)
 
     def _operative_ch1_invocations(self) -> set[str]:
-        """Chapter Five terms Chapter One actually uses at principle layer.
+        """Chapter Three terms Chapter Two actually uses at principle layer.
 
         Preamble and §3/§6 preview parents do not carry O/M/A/C widgets. Non-operative
         reader-guidance indexes are not invocations (NAV-DAC-12).
@@ -193,7 +193,7 @@ class AlignmentAuditor:
     def check_coverage(self):
         """Flag unexpected orphans and unreferenced principles.
 
-        Cluster heads, Preamble-only aims, and Chapter Five leaves that Chapter One
+        Cluster heads, Preamble-only aims, and Chapter Three leaves that Chapter Two
         never operatively invokes are expected non-anchors, not coverage gaps
         (NAV-DAC-12 roadmap exclusion).
         """
@@ -223,7 +223,7 @@ class AlignmentAuditor:
 
     @staticmethod
     def _is_cluster_head(term: str) -> bool:
-        """Cluster-head titles are not Chapter One working terms (NAV-DAC-12)."""
+        """Cluster-head titles are not Chapter Two working terms (NAV-DAC-12)."""
         return bool(re.match(r"^Def\.[OPACI]\d+\s", term)) or "cluster head" in term.casefold()
 
     def _canonical_term(self, term: str) -> str | None:
@@ -241,7 +241,7 @@ class AlignmentAuditor:
     def check_cluster_integrity(self):
         """Flag Def.Xn leaves invoked in a principle body but missing from its O/M/A/C widget.
 
-        Cluster-head titles are excluded. Leaves that Chapter One never invokes remain
+        Cluster-head titles are excluded. Leaves that Chapter Two never invokes remain
         coverage orphans, not segmentation findings (NAV-DAC-12 roadmap exclusion).
         """
         clusters: dict[str, list[str]] = {}
@@ -320,7 +320,7 @@ class AlignmentAuditor:
         odef_linked = sum(1 for data in self.ch5_definitions.values() if data["odef_clusters"])
 
         with open(report_file, "w", encoding="utf-8") as f:
-            f.write("# Chapter 1 ↔ Chapter 5 Alignment Audit Report\n\n")
+            f.write("# Chapter 2 ↔ Chapter 3 Alignment Audit Report\n\n")
             f.write(f"**Date:** {self.timestamp}\n\n")
             f.write("**Workflow:** CH1_CH5_ALIGNMENT_CHECK\n\n")
 
@@ -376,8 +376,8 @@ class AlignmentAuditor:
             elif self.expected_non_anchors:
                 f.write("## Coverage Findings\n\n")
                 f.write(
-                    "No unexpected orphan definitions. Remaining Chapter Five terms without a "
-                    "Chapter One O/M/A/C widget are expected non-anchors under NAV-DAC-12 "
+                    "No unexpected orphan definitions. Remaining Chapter Three terms without a "
+                    "Chapter Two O/M/A/C widget are expected non-anchors under NAV-DAC-12 "
                     "(cluster heads, Preamble-oriented aims, and later-chapter or uninvoked leaves).\n\n"
                 )
 
@@ -416,7 +416,7 @@ class AlignmentAuditor:
                 )
             if self.coverage_gaps:
                 f.write(
-                    "4. **Review unexpected orphans** — add O/M/A/C rows where Chapter One operatively invokes the term\n"
+                    "4. **Review unexpected orphans** — add O/M/A/C rows where Chapter Two operatively invokes the term\n"
                 )
             f.write(
                 "5. Semantic adequacy of principle ↔ definition mapping remains a manual-review item.\n"
@@ -466,7 +466,7 @@ class AlignmentAuditor:
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Chapter 1 ↔ Chapter 5 Alignment Audit")
+    parser = argparse.ArgumentParser(description="Chapter 2 ↔ Chapter 3 Alignment Audit")
     parser.add_argument(
         "--output-dir",
         type=Path,

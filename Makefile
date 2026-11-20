@@ -594,7 +594,7 @@ record-kind-audit:
 record-kind-audit-test:
 	$(PYTHON) tools/test_record_kind_audit.py
 
-# SCOPE-QUALIFIED-01: a bare "scope" (the, that, its, a, own, same, whole, narrow, ...) names no owner or kind; say chartered scope, admission scope, release scope, enforceability scope, or "scope of ...". The In scope / Out of scope / Admission scope field labels are not matched, so Chapter Five has no exemption.
+# SCOPE-QUALIFIED-01: a bare "scope" (the, that, its, a, own, same, whole, narrow, ...) names no owner or kind; say chartered scope, admission scope, release scope, enforceability scope, or "scope of ...". The In scope / Out of scope / Admission scope field labels are not matched, so Chapter Three has no exemption.
 # Older uses sit in tools/architecture/baselines/scope_qualified.json (shrink-only); `--ignore-baseline` lists them all and `--report` counts them per file.
 scope-qualified-audit:
 	$(PYTHON) tools/scope_qualified_audit.py --root .
@@ -602,7 +602,7 @@ scope-qualified-audit:
 scope-qualified-audit-test:
 	$(PYTHON) tools/test_scope_qualified_audit.py
 
-# CRITERION-NAMED-01: a numbered anti-constitutional-misconduct criterion ("criterion 3", "criteria 1 and 2", "criteria 1-4") carries the name of every criterion it cites in a parenthetical right after the number (names from Chapter Fourteen §3.3).
+# CRITERION-NAMED-01: a numbered anti-constitutional-misconduct criterion ("criterion 3", "criteria 1 and 2", "criteria 1-4") carries the name of every criterion it cites in a parenthetical right after the number (names from Chapter Thirteen §4.3).
 # No baseline: `python3 tools/criterion_named_audit.py --fix` inserts the names, and `--report` counts unnamed references per file.
 criterion-named-audit:
 	$(PYTHON) tools/criterion_named_audit.py --root .
@@ -610,7 +610,7 @@ criterion-named-audit:
 criterion-named-audit-test:
 	$(PYTHON) tools/test_criterion_named_audit.py
 
-# CH10-DUPLICATION-01: a Chapter Ten sentence that is a near-verbatim copy of Chapter Nine says it once and points, or summarizes and keeps only what differs for an Institution.
+# CH10-DUPLICATION-01: a Chapter Nine sentence that is a near-verbatim copy of Chapter Eight says it once and points, or summarizes and keeps only what differs for an Institution.
 # `python3 tools/ch10_duplication_audit.py --report` shows the share per section; `--write-baseline` accepts the current copies (shrink-only, AUDIT-SCOPE-01).
 ch10-duplication-audit:
 	$(PYTHON) tools/ch10_duplication_audit.py --root .
@@ -618,7 +618,7 @@ ch10-duplication-audit:
 ch10-duplication-audit-test:
 	$(PYTHON) tools/test_ch10_duplication_audit.py
 
-# PART-CITE-CHAPTER-01: a "Part X" cite (with or without "§N") outside its own chapter names the chapter ("Chapter Nine Part B §7.2", "Chapter Nine Part B").
+# PART-CITE-CHAPTER-01: a "Part X" cite (with or without "§N") outside its own chapter names the chapter ("Chapter Eight Part B §7.2", "Chapter Eight Part B").
 # `python3 tools/part_cite_chapter_audit.py --write` inserts the missing chapter into every fixable linked cite.
 part-cite-chapter-audit:
 	$(PYTHON) tools/part_cite_chapter_audit.py --root .

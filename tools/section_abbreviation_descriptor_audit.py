@@ -108,7 +108,7 @@ def is_exempt_line(line: str, *, in_trace_widget: bool) -> bool:
 
 def has_descriptor(text_after_id: str) -> bool:
     text_after_id = text_after_id.lstrip()
-    # REF-FAMILY cites are ``[**CI-6.260**](path) (*short title*)``. Strip the
+    # REF-FAMILY cites are ``[**CI-4.260**](path) (*short title*)``. Strip the
     # closing bold that wraps the ID before looking for the markdown link.
     text_after_id = re.sub(r"^\*+", "", text_after_id).lstrip()
     section = re.match(r"§\s*\d+(?:\.\d+)*", text_after_id)
@@ -124,7 +124,7 @@ def has_descriptor(text_after_id: str) -> bool:
                 tail = tail[close + 1 :].lstrip()
                 tail = re.sub(r"^\*+", "", tail).lstrip()
         # A descriptor may hold nested parentheses, e.g. ``(*Hybrid delegated authority (delegated binding bodies)*)``,
-        # and a list or summary line may use a dash or colon: ``**CI-27.205 §7** — practice licence``.
+        # and a list or summary line may use a dash or colon: ``**CI-26.205 §7** — practice licence``.
         if re.match(r"(?:\(\*.+?\*\)|\*[^*]+\*|[A-Za-z][^.;,\n]{2,}|(?:—|-|:)\s*[A-Za-z])", tail):
             return True
     if re.match(r"[A-Za-z][^]\n]{2,}\]", text_after_id):

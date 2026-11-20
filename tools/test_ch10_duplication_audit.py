@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Tests for CH10-DUPLICATION-01 (a sentence copied from Chapter Nine into Chapter Ten)."""
+"""Tests for CH10-DUPLICATION-01 (a sentence copied from Chapter Eight into Chapter Nine)."""
 
 from __future__ import annotations
 
@@ -7,8 +7,8 @@ import unittest
 
 from ch10_duplication_audit import extract_sentences, near_copies, normalize
 
-NINE = "core_11.000_system_alignment_certification_records_recertification.md"
-TEN = "core_12.000_institutional_alignment_certification_evaluation.md"
+NINE = "core_10.000_system_alignment_certification_records_recertification.md"
+TEN = "core_11.000_institutional_alignment_certification_evaluation.md"
 
 
 def sentences(path: str, text: str):
@@ -47,7 +47,7 @@ class Ch10DuplicationTests(unittest.TestCase):
 
     def test_links_and_emphasis_do_not_hide_a_copy(self) -> None:
         nine = "A system holding provisional certification stays provisional and its count does not advance.\n"
-        ten = "An **Institution** holding [provisional certification](core_05.040_band_continuity.md#provisional-certification) stays provisional and its count does not advance.\n"
+        ten = "An **Institution** holding [provisional certification](core_03.040_band_continuity.md#provisional-certification) stays provisional and its count does not advance.\n"
         self.assertEqual(len(near_copies(sentences(TEN, ten), sentences(NINE, nine))), 1)
 
     def test_section_number_follows_the_last_heading(self) -> None:

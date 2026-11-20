@@ -15,7 +15,7 @@ from corpus_paths import source_markdown_files
 CH00_FILE = "core_00.000_preamble.md"
 
 # Preamble §3 (Major Measurement Aspects) and its per-category anchors were
-# removed in 2026-07. The §2 overview now links straight to the Chapter Five
+# removed in 2026-07. The §2 overview now links straight to the Chapter Three
 # measurement-family homes, and no file should link back to these deleted
 # Preamble category anchors. This audit guards against their reappearance.
 REMOVED_MEASUREMENT_ANCHORS: frozenset[str] = frozenset(
@@ -102,7 +102,7 @@ def scan_file(path: Path, root: Path) -> list[Finding]:
                     kind="removed_measurement_anchor",
                     detail=(
                         f"Link targets removed Preamble category anchor #{anchor_id}; "
-                        "link the Chapter Five measurement-family home instead"
+                        "link the Chapter Three measurement-family home instead"
                     ),
                 )
             )

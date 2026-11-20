@@ -38,7 +38,7 @@ class ScanTests(unittest.TestCase):
         return [item.avoid for item in findings]
 
     def test_flags_standing_record_in_body(self) -> None:
-        hits = self._audit("It is not a Chapter Nine standing record.\n")
+        hits = self._audit("It is not a Chapter Eight standing record.\n")
         self.assertIn("standing record", hits)
 
     def test_flags_offtake_in_body(self) -> None:
@@ -49,7 +49,7 @@ class ScanTests(unittest.TestCase):
 
     def test_skips_markdown_link_text(self) -> None:
         hits = self._audit(
-            "See: [Occupancy Continuity](../../../core_05.040_band_continuity.md#occupancy-continuity-constitutional).\n"
+            "See: [Occupancy Continuity](../../../core_03.040_band_continuity.md#occupancy-continuity-constitutional).\n"
         )
         self.assertEqual(hits, [])
 
@@ -97,7 +97,7 @@ class ScanTests(unittest.TestCase):
 
     def test_visible_scan_strips_links(self) -> None:
         visible = visible_scan_text(
-            "See: [Reproductive Autonomy](../../../core_05.055_band_participation.md#reproductive-autonomy-constitutional).",
+            "See: [Reproductive Autonomy](../../../core_03.055_band_participation.md#reproductive-autonomy-constitutional).",
             self.allow,
         )
         self.assertNotIn("Reproductive Autonomy", visible)

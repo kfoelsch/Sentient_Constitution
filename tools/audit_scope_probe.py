@@ -108,9 +108,9 @@ def static_check() -> int:
     if core_glob != sorted(corpus_paths.CORE_FILES):
         diff = sorted(set(core_glob) ^ set(corpus_paths.CORE_FILES))
         problems.append(f"corpus_paths.CORE_FILES differs from core_*.md on disk: {diff}")
-    ch5_glob = sorted(p.name for p in ROOT.glob("core_05.*.md"))
+    ch5_glob = sorted(p.name for p in ROOT.glob("core_03.*.md"))
     if ch5_glob != sorted(ch5_paths.CH5_ALL):
-        problems.append(f"ch5_paths.CH5_ALL differs from core_05.*.md on disk: {sorted(set(ch5_glob) ^ set(ch5_paths.CH5_ALL))}")
+        problems.append(f"ch5_paths.CH5_ALL differs from core_03.*.md on disk: {sorted(set(ch5_glob) ^ set(ch5_paths.CH5_ALL))}")
 
     makefile = (ROOT / "Makefile").read_text(encoding="utf-8")
     for name in sorted(wanted):

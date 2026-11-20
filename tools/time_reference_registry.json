@@ -40,27 +40,27 @@
   "fixed_periods": [
     {
       "name": "watch period",
-      "owner": "CI-19.210 §3"
+      "owner": "CI-18.210 §3"
     },
     {
       "name": "order term",
-      "owner": "CI-25.205 §2"
+      "owner": "CI-24.205 §2"
     },
     {
       "name": "host replacement window",
-      "owner": "CI-27.205 §7"
+      "owner": "CI-26.205 §7"
     },
     {
       "name": "cooling-off period",
-      "owner": "Article XIII-C and CI-27.205 §2"
+      "owner": "Article XIII-C and CI-26.205 §2"
     },
     {
       "name": "half-life",
-      "owner": "Chapter Eighteen §2.1"
+      "owner": "Chapter Seventeen §3.1"
     },
     {
       "name": "currentness cutoff",
-      "owner": "Chapter Eighteen §2.1"
+      "owner": "Chapter Seventeen §3.1"
     },
     {
       "name": "exclusivity term",
@@ -68,19 +68,19 @@
     },
     {
       "name": "record span",
-      "owner": "Chapter Five"
+      "owner": "Chapter Three"
     },
     {
       "name": "residence period",
-      "owner": "Chapter Twenty-Seven §5.1"
+      "owner": "Chapter Twenty-Six §6.1"
     },
     {
       "name": "check-answer window",
-      "owner": "Chapter Twenty §2.1"
+      "owner": "Chapter Nineteen §3.1"
     },
     {
       "name": "lowering notice period",
-      "owner": "Chapter Twenty §2.4"
+      "owner": "Chapter Nineteen §3.4"
     },
     {
       "name": "suspension escalation point",
@@ -88,65 +88,65 @@
     },
     {
       "name": "root-cause review period",
-      "owner": "Chapter Twenty-Six §6"
+      "owner": "Chapter Twenty-Five §6"
     },
     {
       "name": "Adoption Charter review interval",
-      "owner": "Chapter Twenty-Nine §11.4"
+      "owner": "Chapter Twenty-Eight §12.4"
     },
     {
       "name": "gift-aggregation period",
-      "owner": "Article XIII-A and CI-8.210 §4"
+      "owner": "Article XIII-A and CI-6.210 §4"
     },
     {
       "name": "gift-register entry window",
-      "owner": "CI-8.210 §4"
+      "owner": "CI-6.210 §4"
     },
     {
       "name": "gift-threshold review period",
-      "owner": "CI-8.210 §4"
+      "owner": "CI-6.210 §4"
     },
     {
       "name": "method-review interval",
-      "owner": "Chapter Eight §11"
+      "owner": "Chapter Seven §3"
     },
     {
       "name": "minutes window",
-      "owner": "Chapter Eight §11"
+      "owner": "Chapter Seven §3"
     },
     {
       "name": "transcript delay",
-      "owner": "Chapter Eight §11"
+      "owner": "Chapter Seven §3"
     },
     {
       "name": "reporting year",
-      "owner": "Chapter Eight §11"
+      "owner": "Chapter Seven §3"
     },
     {
       "name": "pre-release quiet period",
-      "owner": "Chapter Eight §11"
+      "owner": "Chapter Seven §3"
     }
   ],
   "scaled_windows": [
     {
       "name": "response window",
-      "owner": "Chapter Seven §2.6 and §7; CI-19.210 §3",
+      "owner": "Chapter Five §3.6 and §8; CI-18.210 §3",
       "takes": "the intake target of the Tier that matches the Chartered Party's class"
     },
     {
       "name": "resolution window",
-      "owner": "Chapter Seven §2.6 and §7; CI-19.210 §3",
+      "owner": "Chapter Five §3.6 and §8; CI-18.210 §3",
       "takes": "the outer bound of the Tier that matches the Chartered Party's class"
     }
   ],
   "exempt_unit_patterns": [
     {
       "pattern": "human (?:lifespan|calibration)|80-year",
-      "reason": "Chapter Sixteen day-equivalent calibration, not a deadline"
+      "reason": "Chapter Fifteen day-equivalent calibration, not a deadline"
     },
     {
       "pattern": "^\\|\\s*[0-9]+\\s*\\|.*day-equivalent|about \\*\\*[0-9]+",
-      "reason": "Chapter Sixteen day-equivalent calibration table"
+      "reason": "Chapter Fifteen day-equivalent calibration table"
     },
     {
       "pattern": "[“\"](?:as soon as feasible|promptly|reasonable)[”\"]",
@@ -155,17 +155,17 @@
   ],
   "qualitative_on_purpose": [
     {
-      "file": "core_06.000_rights_part_a.md",
+      "file": "core_04.000_rights_part_a.md",
       "contains": "Problems are spotted and fixed promptly",
       "reason": "Article V plain-language aim; it states a principle and sets no deadline. Promptly is not a length (TIME-NAME-01)."
     },
     {
-      "file": "core_21.000_misconduct_designation.md",
+      "file": "core_20.000_misconduct_designation.md",
       "contains": "A genuine drafting mistake that is fixed promptly",
       "reason": "Good-faith drafting carve-out; the bound is already 'before constitutional effect', and a number would widen or narrow a defence to misconduct."
     },
     {
-      "file": "core_21.000_misconduct_designation.md",
+      "file": "core_20.000_misconduct_designation.md",
       "contains": "drafting mistake is not anti-constitutional misconduct if it is disclosed promptly",
       "reason": "Good-faith drafting carve-out; the bound is already 'before constitutional effect', and a number would widen or narrow a defence to misconduct."
     }

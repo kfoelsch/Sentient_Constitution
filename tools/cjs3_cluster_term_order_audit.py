@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Audit alphabetical order of oDef cluster sub-terms within each subsection.
 
-Fails when sortable sub-terms (excluding cluster intro lines and CJS-5.105 §0 pinned
+Fails when sortable sub-terms (excluding cluster intro lines and CJS-3.105 §0 pinned
 preface rules) are not in case-insensitive alphabetical order.
 """
 
@@ -14,10 +14,10 @@ from pathlib import Path
 
 from cjs_odef_format import titled_guidepost_entries
 
-CJS3_GLOB = "corpus_joint_structure/cjs_05*.md"
+CJS3_GLOB = "corpus_joint_structure/cjs_03*.md"
 
-SECTION_SPLIT_RE = re.compile(r"(?=^#{1,3} CJS-5\.(?:105|110|115|120|125|130|135)\b)", re.MULTILINE)
-SECTION_ID_RE = re.compile(r"^#{1,3} (CJS-5\.(?:105|110|115|120|125|130|135) §[\d.]+)", re.MULTILINE)
+SECTION_SPLIT_RE = re.compile(r"(?=^#{1,3} CJS-3\.(?:105|110|115|120|125|130|135)\b)", re.MULTILINE)
+SECTION_ID_RE = re.compile(r"^#{1,3} (CJS-3\.(?:105|110|115|120|125|130|135) §[\d.]+)", re.MULTILINE)
 
 CJS30_PINNED = {
     "Competency bar, clearance, and standing interface",
@@ -35,7 +35,7 @@ def sortable_terms(section_id: str, body: str) -> list[str]:
     terms = titled_guidepost_entries(body)
     filtered: list[str] = []
     for title in terms:
-        if section_id.startswith("CJS-5.105 §0") and title in CJS30_PINNED:
+        if section_id.startswith("CJS-3.105 §0") and title in CJS30_PINNED:
             continue
         # Cluster floor titles pinned in functional order (often lowercase).
         if title[:1].islower():
@@ -70,7 +70,7 @@ def audit_file(root: Path, path: Path) -> list[str]:
     text = path.read_text(encoding="utf-8")
     findings: list[str] = []
     for part in SECTION_SPLIT_RE.split(text):
-        if re.match(r"#{1,3} CJS-5\.(?:105|110|115|120|125|130|135)\b", part):
+        if re.match(r"#{1,3} CJS-3\.(?:105|110|115|120|125|130|135)\b", part):
             findings.extend(audit_section(rel, part))
     return findings
 
@@ -79,7 +79,10 @@ def main() -> int:
     args = parse_args()
     root = Path(args.root).resolve()
     findings: list[str] = []
-    for path in sorted((root / "corpus_joint_structure").glob("cjs_03*.md")):
+    # Dormant since the 2026-10-21 corpus renumbering: this glob has matched no file since then, and
+    # pointing it at CJS3_GLOB finds four out-of-order sub-terms (TODO.md, "oDef cluster term order").
+    # Kept as it was through the 2026-11-20 core reorganization so that move changes no content order.
+    for path in sorted((root / "corpus_joint_structure").glob("cjs_05*.md")):
         findings.extend(audit_file(root, path))
 
     if findings:

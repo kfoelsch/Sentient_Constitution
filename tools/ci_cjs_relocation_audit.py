@@ -26,7 +26,7 @@ CJS_DIR = "corpus_joint_structure"
 
 DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
     (
-        "CJS-5.110 §5–CJS-5.120 §8 / CJS-31.110 §1 / CJS-31.110 §5",
+        "CJS-3.110 §5–CJS-3.120 §8 / CJS-30.110 §1 / CJS-30.110 §5",
         (
             "authority",
             "delegation",
@@ -43,7 +43,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("authority/procedure", "shared procedural abstraction"),
     ),
     (
-        "CJS-5.135 §22–CJS-5.125 §12",
+        "CJS-3.135 §22–CJS-3.125 §12",
         (
             "audit",
             "evidence",
@@ -59,7 +59,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("evidence/audit", "claim integrity"),
     ),
     (
-        "CJS-5.125 §13–CJS-5.110 §4",
+        "CJS-3.125 §13–CJS-3.110 §4",
         (
             "participation",
             "notice",
@@ -74,7 +74,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("participation/disclosure", "comprehension/accessibility"),
     ),
     (
-        "CJS-5.130 §16–CJS-5.130 §18",
+        "CJS-3.130 §16–CJS-3.130 §18",
         (
             "dependency",
             "exit",
@@ -88,7 +88,7 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("dependency/exit", "lifecycle integrity"),
     ),
     (
-        "CJS-5.130 §19–CJS-5.135 §23",
+        "CJS-3.130 §19–CJS-3.135 §23",
         (
             "failure",
             "emergency",
@@ -103,12 +103,12 @@ DESTINATION_RULES: tuple[tuple[str, tuple[str, ...], tuple[str, ...]], ...] = (
         ("failure/robustness", "intervention/correction"),
     ),
     (
-        "CJS-31.110 §3",
+        "CJS-30.110 §3",
         ("trust", "trustworthiness", "misleading reliance", "proxy metric", "integrity"),
         ("cross-implementation trust",),
     ),
     (
-        "CJS scope and coordination / CJS-31.110",
+        "CJS scope and coordination / CJS-30.110",
         (
             "joint",
             "cross-implementation",

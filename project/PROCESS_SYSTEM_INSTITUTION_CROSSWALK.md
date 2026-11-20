@@ -1,10 +1,10 @@
-# Crosswalk: Chapter One principles and Chapter Eight duties by object of governance
+# Crosswalk: Chapter Two principles and Chapter Six duties by object of governance
 
 **Status:** read-only analysis for author review. Nothing in the numbered `core_*` files was changed. Tags are one reader's judgment and need a second look before anyone relies on them.
 
-**Source reconciliation (2026-11-02):** Table references have been matched by title to the current Chapter One and Chapter Eight headings. Twenty current second-level headings had no row in the original inventory; provisional tags are now recorded for them. I also inventoried and tagged the 50 current third-level Chapter One subsections. The crosswalk now covers all 138 second- and third-level headings in its Chapter One/Chapter Eight frame: 68 carried-forward judgments, 20 added second-level entries, and 50 third-level entries. New tags are provisional and pending independent human review. The original report's 67-item count and confidence totals were inaccurate or stale and are retained only as historical results, not current coverage claims. Of the carried-forward tags, all 25 carried-forward medium/low items have been second-read. The three former low-confidence tags were reassessed at medium confidence. The 20 added headings have provisional tags pending independent human review.
+**Source reconciliation (2026-11-02):** Table references have been matched by title to the current Chapter Two and Chapter Six headings. Twenty current second-level headings had no row in the original inventory; provisional tags are now recorded for them. I also inventoried and tagged the 50 current third-level Chapter Two subsections. The crosswalk now covers all 138 second- and third-level headings in its Chapter Two/Chapter Six frame: 68 carried-forward judgments, 20 added second-level entries, and 50 third-level entries. New tags are provisional and pending independent human review. The original report's 67-item count and confidence totals were inaccurate or stale and are retained only as historical results, not current coverage claims. Of the carried-forward tags, all 25 carried-forward medium/low items have been second-read. The three former low-confidence tags were reassessed at medium confidence. The 20 added headings have provisional tags pending independent human review.
 
-**Later addition (2026-11-15):** Chapter One §17.7 (*Duty to Represent Stakeholder Interests*) was added to the corpus after the reconciliation above and has one provisional row. The counts above are as of 2026-11-02 and are one higher for second-level headings and for added rows. The tag needs the same independent review as the other added rows.
+**Later addition (2026-11-15):** Chapter Two §17.7 (*Duty to Represent Stakeholder Interests*) was added to the corpus after the reconciliation above and has one provisional row. The counts above are as of 2026-11-02 and are one higher for second-level headings and for added rows. The tag needs the same independent review as the other added rows.
 
 ## Question tested
 
@@ -21,12 +21,12 @@ Does a second axis, *what is being governed* (a process, a system, or an institu
 Two extra tags were needed for items that are not objects at all:
 
 - **All objects:** a value or constraint that binds every object equally (Wellbeing, Safety and Truth as floors, Freedom, Integrated Application).
-- **Meta:** a rule about reading the Constitution itself (Chapter One §15).
+- **Meta:** a rule about reading the Constitution itself (Chapter Two §15).
 
 ## Scope and method
 
-- **Current covered scope:** all 88 numbered second-level headings (`###` / `####`) in Chapter One and Chapter Eight, plus all 50 numbered third-level headings (`#####` / `######`) in Chapter One. The file references and numbers point to current source headings.
-- **Outside this crosswalk:** the Preamble, Chapter Five definitions, Chapters Two to Six, and Chapters Nine onward. The question here is how Chapter One principles and Chapter Eight duties sort by object; extending the same table to operative definition and implementation chapters would be a separate, duplicative inventory.
+- **Current covered scope:** all 88 numbered second-level headings (`###` / `####`) in Chapter Two and Chapter Six, plus all 50 numbered third-level headings (`#####` / `######`) in Chapter Two. The file references and numbers point to current source headings.
+- **Outside this crosswalk:** the Preamble, Chapter One, Chapter Three definitions and their subcore, Chapters Four and Five, Chapter Seven, and Chapters Eight onward. The question here is how Chapter Two principles and Chapter Six duties sort by object; extending the same table to operative definition and implementation chapters would be a separate, duplicative inventory.
 - **Evidence and status:** the 68 carried-forward classifications were reconciled by title; all 25 medium- or low-confidence rows were second-read against their full sections. The 70 added rows have provisional classifications and concise rationales based on current section text; they still need independent human review. These tags are analytic aids, not binding rules.
 - **Confidence:** H = title and gloss agree on one object. M = reasonable people could tag it differently. L = close call. The 70 new rows are provisional and use H or M pending independent review.
 
@@ -47,10 +47,10 @@ Confidence: 42 high, 22 medium, 3 low.
 
 | File | Process | System | Institution | All | Meta |
 | --- | ---: | ---: | ---: | ---: | ---: |
-| Chapter One Part A (values) | 6 | 3 | 4 | 6 | 0 |
-| Chapter One Part B (interaction, interpretation) | 5 | 0 | 0 | 1 | 4 |
-| Chapter One Part C (stewardship, capacity) | 4 | 13 | 12 | 1 | 0 |
-| Chapter Eight (SOD) | 5 | 0 | 3 | 0 | 0 |
+| Chapter Two Part A (values) | 6 | 3 | 4 | 6 | 0 |
+| Chapter Two Part B (interaction, interpretation) | 5 | 0 | 0 | 1 | 4 |
+| Chapter Two Part C (stewardship, capacity) | 4 | 13 | 12 | 1 | 0 |
+| Chapter Six (SOD) | 5 | 0 | 3 | 0 | 0 |
 
 **Overlap.** Of the 55 items tagged to Process, System or Institution, 25 (45%) sit in one object. 29 (53%) name a clear second object. One more (§3.1 Safety) pairs with All objects. **No item needed all three.**
 
@@ -63,11 +63,11 @@ Confidence: 42 high, 22 medium, 3 low.
 ## What it shows
 
 1. **The axis is real, and the feared failure did not happen.** Nothing was an "all three" blur. Overlap is pairwise, and every item had a defensible primary object.
-2. **Process and Institution are the tangled pair.** They account for most of the pairwise overlap. That matches the steward-versus-process-steward friction you predicted: duties about how a thing is done and duties about who holds authority to do it keep touching. Chapter Eight sits right on that line, which is why its sections split between the two.
-3. **Process is the most entangled object.** 13 of 20 Process items (65%) name a second object. System and Institution are about half single-object each (8 of 16 and 10 of 19). System items cluster in Chapter One Part C (capture, capacity, market structure).
-4. **Chapter One already roughly sorts this way.** Part B is mostly Process plus the interpretation rules. Part C is mostly System and Institution. Part A is mostly values that bind every object, plus six Process items (2.3, 3.3, 3.4, 4.2, 5.1, 5.2).
+2. **Process and Institution are the tangled pair.** They account for most of the pairwise overlap. That matches the steward-versus-process-steward friction you predicted: duties about how a thing is done and duties about who holds authority to do it keep touching. Chapter Six sits right on that line, which is why its sections split between the two.
+3. **Process is the most entangled object.** 13 of 20 Process items (65%) name a second object. System and Institution are about half single-object each (8 of 16 and 10 of 19). System items cluster in Chapter Two Part C (capture, capacity, market structure).
+4. **Chapter Two already roughly sorts this way.** Part B is mostly Process plus the interpretation rules. Part C is mostly System and Institution. Part A is mostly values that bind every object, plus six Process items (2.3, 3.3, 3.4, 4.2, 5.1, 5.2).
 5. **The values and the object-specific principles are different kinds of thing.** Eight items are values that bind every object. They are what the object-specific principles serve, and no object owns them. For the reorganizing task, that is a more useful split than any of the three objects.
-6. **Process principles are scattered.** Ten Process items sit outside Part B: six in Part A and four in Part C (§§10.3, 10.5, 11.2, 12.3). §18.3 Separation of Duties is the clearest case. It is a Chapter One principle whose home chapter, Chapter Eight, is itself a Process requirement.
+6. **Process principles are scattered.** Ten Process items sit outside Part B: six in Part A and four in Part C (§§10.3, 10.5, 11.2, 12.3). §18.3 Separation of Duties is the clearest case. It is a Chapter Two principle whose home chapter, Chapter Six, is itself a Process requirement.
 
 ## What this does and does not support
 
@@ -78,9 +78,9 @@ Confidence: 42 high, 22 medium, 3 low.
 ## Caveats
 
 - Single reader, one pass. All 25 carried-forward medium/low items have had a second read. The 20 added current headings remain unassessed.
-- The original tags for Alignment Requirement and Convenient Proxies and Proxy Divergence were based on keyword lists. Second reader completed full reads of all 25 carried-forward medium- or low-confidence sections on 2026-11-02; the three former low-confidence items were reassessed at medium confidence, with tags updated where noted. All table references have been reconciled to current headings. All second- and third-level headings in Chapter One and Chapter Eight now have provisional tags. The 70 newly tagged rows have not had independent human review.
-- Institution had no standalone definition heading in my search of Chapter Five. If one exists elsewhere, the Institution test should be reconciled with it.
-- The Preamble and the Chapter Five definitions were not tagged. A fuller crosswalk would need them.
+- The original tags for Alignment Requirement and Convenient Proxies and Proxy Divergence were based on keyword lists. Second reader completed full reads of all 25 carried-forward medium- or low-confidence sections on 2026-11-02; the three former low-confidence items were reassessed at medium confidence, with tags updated where noted. All table references have been reconciled to current headings. All second- and third-level headings in Chapter Two and Chapter Six now have provisional tags. The 70 newly tagged rows have not had independent human review.
+- Institution had no standalone definition heading in my search of Chapter Three. If one exists elsewhere, the Institution test should be reconciled with it.
+- The Preamble and the Chapter Three definitions were not tagged. A fuller crosswalk would need them.
 
 ## Full table
 
@@ -112,7 +112,7 @@ Confidence: 42 high, 22 medium, 3 low.
 | 1B §14 | Prohibition on Absolute Override | All objects | — | M | Second-reader note (2026-11-02): full read makes this a cross-object constraint on every value and both constitutional aims, rather than a rule about one object. |
 | 1B §15 | Constitutional Interpretation | Meta (reading the text) | — | H | How to read the text |
 | 1B §15.1 | Constitutional No-Bypass Principle | Process | Institution | M | Second-reader note (2026-11-02): full read governs ways an act can be routed or packaged to avoid duties; process is primary, institutional restructuring is a clear secondary route. |
-| 1B §15.2 | Definitional layer and required disciplines | Meta (reading the text) | — | H | How Chapters Two to Five relate to Chapter One |
+| 1B §15.2 | Definitional layer and required disciplines | Meta (reading the text) | — | H | How Chapter Three, including its subcore relate to Chapter Two |
 | 1B §15.3 | Ambiguity resolution | Meta (reading the text) | — | H | Choose the most protective integrated reading |
 | 1B §15.4 | Constitutional Meaning Conflict Resolution | Meta (reading the text) | — | H | Order of texts when they conflict |
 | 1C §16 | Stewardship In Depth | Institution | — | H | Sentient organization to run material systems |
@@ -143,8 +143,8 @@ Confidence: 42 high, 22 medium, 3 low.
 | 1A §11.1 | Market Concentration Threshold Mechanism | System | — | H | Floor against pile-ups of control |
 | 1A §11.2 | Pro-Competition and Anti-Domination | System | Institution | H | Durable domination, lock-in |
 | 1A §11.3 | Consolidation Ceiling | Institution | System | M | Second-reader note (2026-11-02): full read grants adopters and governing systems early detection, review, intervention, and remedy duties; Institution is primary, with market systems directly affected. |
-| 1A §12 | Systemic Evaluation Requirement | System | Process | H | Pointer to Chapter Nine and CS-9.305 and CS-9.310 |
-| 1C §20 | Integrated Application | All objects | — | H | Read every later chapter through Chapter One |
+| 1A §12 | Systemic Evaluation Requirement | System | Process | H | Pointer to Chapter Eight and CS-8.305 and CS-8.310 |
+| 1C §20 | Integrated Application | All objects | — | H | Read every later chapter through Chapter Two |
 | 8 §1 | Purpose, Scope, and Owner Boundary | Process | Institution | H | Separate jobs inside any binding process |
 | 8 §2 | Four-Seat Constitutional Requirement | Process | Institution | H | Ask or act, check, keep record, hear challenge |
 | 8 §3 | Independence, Conflict, and Control Lines | Institution | Process | M | Second-reader note (2026-11-02): full read concerns actual control over offices and holders; the seat-specific recusal and routing rules are the procedural secondary object. |
@@ -197,7 +197,7 @@ Confidence: 42 high, 22 medium, 3 low.
 | 1A §5.2.2 | The Duty | Process | Institution | M | Lists communication and organization steps required of operators and governance bodies. |
 | 1A §5.2.3 | Definitional Rigor Preserved | Meta (reading the text) | Process | M | Controls the relationship between plain-language summaries and the formal definition layer. |
 | 1A §5.2.4 | Complexity-as-Defeat Discipline | System | Process | M | Bars technical and structural complexity that hides responsibility or blocks challenge; process layering is a mechanism. |
-| 1A §5.2.5 | Rights-Floor Boundary | All objects | Meta (reading the text) | M | Locates this principle duty against the Chapter Six rights floors without changing their operative scope. |
+| 1A §5.2.5 | Rights-Floor Boundary | All objects | Meta (reading the text) | M | Locates this principle duty against the Chapter Four rights floors without changing their operative scope. |
 | 1A §7.2.1 | Aligned Self-Organization | Institution | Process | M | Protects legitimate institutional formation and credible work pathways; initiation and review routes are procedural. |
 | 1A §9.1.1 | Preserve, Expand, and What Does Not Count | System | Process | M | Requires preserving and improving shared-system productive capacity and excludes false measures; evaluation is secondary. |
 | 1A §11.1.1 | Concentration Threshold Triggers (Adopter-Tunable) | System | Process | M | Defines quantitative triggers for concentration in systems; review and intervention are the resulting procedures. |
@@ -234,6 +234,6 @@ Confidence: 42 high, 22 medium, 3 low.
 
 ## Legend
 
-- **1A / 1B / 1C:** `core_01.000_values_principles.md`, `core_01.020_interaction_interpretation.md`, `core_01.040_stewardship_capacity_principles.md`.
-- **8:** `core_08.000_functional_independence_separation_of_duties.md`.
+- **1A / 1B / 1C:** `core_02.000_values_principles.md`, `core_02.020_interaction_interpretation.md`, `core_02.040_stewardship_capacity_principles.md`.
+- **8:** `core_06.000_functional_independence_separation_of_duties.md`.
 - **Also:** the second object the item clearly touches, if any.

@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """Four-layer alignment audit: principles, Def.*, oDef, and Articles.
 
-Runs the Chapter One ↔ Chapter Five, Chapter One ↔ CJS operational cluster, and Chapter 0/1 ↔
-Chapter Six auditors in-process and writes a combined index plus each layer's
+Runs the Chapter Two ↔ Chapter Three, Chapter Two ↔ CJS operational cluster, and Chapter 0/1 ↔
+Chapter Four auditors in-process and writes a combined index plus each layer's
 existing report / CSV / JSON artifacts.
 
 Usage:
@@ -85,10 +85,10 @@ def _write_index(
         "",
         "| Layer | Count |",
         "|---|---:|",
-        f"| Principles (Preamble + Chapter One) | {len(ch5.ch1_principles)} |",
-        f"| Chapter Five Def.* (including apex heads) | {len(ch5.ch5_definitions)} |",
+        f"| Principles (Preamble + Chapter Two) | {len(ch5.ch1_principles)} |",
+        f"| Chapter Three Def.* (including apex heads) | {len(ch5.ch5_definitions)} |",
         f"| CJS operational cluster oDef clusters | {len(cjs3.clusters)} |",
-        f"| Chapter Six articles / subarticles | {len(ch6.articles)} |",
+        f"| Chapter Four articles / subarticles | {len(ch6.articles)} |",
         "",
         "## Layer findings",
         "",
@@ -113,7 +113,7 @@ def _write_index(
 
     lines.extend([
         "",
-        "## Chapter Five Def.*",
+        "## Chapter Three Def.*",
         "",
         "| Term | Category | Guideposts | Principles | oDef | Articles |",
         "|---|---|---|---|---|---|",
@@ -133,7 +133,7 @@ def _write_index(
         "",
         "## CJS operational cluster oDef clusters",
         "",
-        "| Cluster | Title | Guideposts | Chapter One basis | Chapter Five cites | Owner routing | Status |",
+        "| Cluster | Title | Guideposts | Chapter Two basis | Chapter Three cites | Owner routing | Status |",
         "|---|---|---|---|---|---|---|",
     ])
     for cluster in cjs3.clusters:
@@ -149,9 +149,9 @@ def _write_index(
 
     lines.extend([
         "",
-        "## Chapter Six Articles",
+        "## Chapter Four Articles",
         "",
-        "| Article | Title | Chapter One | Def.* | oDef | Status |",
+        "| Article | Title | Chapter Two | Def.* | oDef | Status |",
         "|---|---|---|---|---|---|",
     ])
     for article in ch6.articles:
@@ -171,7 +171,7 @@ def _write_index(
         f"- `ch1_cjs3_principle_alignment_report_{date_stamp}.md`",
         f"- `ch1_ch6_alignment_report_{date_stamp}.md`",
         "",
-        "Unexpected orphan Def.* terms (operative Chapter One cite, no O/M/A/C widget) are coverage findings. Remaining unused cluster leaves and Preamble-only terms are expected non-anchors under NAV-DAC-12. Semantic adequacy of principle-to-article mapping is out of scope of ALIGNMENT_AUDIT.",
+        "Unexpected orphan Def.* terms (operative Chapter Two cite, no O/M/A/C widget) are coverage findings. Remaining unused cluster leaves and Preamble-only terms are expected non-anchors under NAV-DAC-12. Semantic adequacy of principle-to-article mapping is out of scope of ALIGNMENT_AUDIT.",
         "",
     ])
 

@@ -27,7 +27,7 @@ The third round settled the open decisions:
 - leaner office texts;
 - the standard section 2 (*Why … Exists* with a *Grounded in:* list) in every chapter, brought in during the renumbering so section numbers shift only once.
 
-Nothing has moved yet.
+**Status (2026-11-20, 823rd move).** Steps 1 to 4 are done: the subcore tier exists; the Preamble is split (Chapter One, *Constitutional Map*); Chapter Seven, *Independent Bodies*, exists; old Chapters Two to Four are Subcore 3-A to 3-C of Chapter Three; every chapter has its §2; and the core is renumbered from thirty-one chapters to thirty. Chapter numbers in this plan are the numbers before that move (old to new: 1 to 2; 2, 3 and 4 to Subcore 3-A, 3-B and 3-C; 5 to 8 down by two; 9 to 31 down by one; Map is 1; Independent Bodies is 7). Two departures from the plan: the office texts are not yet listed in Chapter Seven or put in the subcore, because they wait for the custodian's review; and old section anchors were not kept, under the pre-release rule NAV-PRE-RELEASE-FRAGMENT-01 (links inside the corpus were retargeted instead). Next: steps 4a and 5.
 
 ---
 
@@ -77,8 +77,8 @@ That gives three tiers, and a three-way placement test for every sentence:
 
 **What the tier needs before any content moves:**
 
-- the [Chapter Five *Corpus*](../../core_05.045_band_integrative.md#corpus) entry and the *Corpus and Authority Stack* definitions;
-- [Preamble §9](../../core_00.000_preamble.md#9-adopted-implementation-corpus), the owner register, and the [Chapter Thirty §4.1](../../core_30.000_expansion_supremacy.md#41-internal-hierarchy-for-adopters) hierarchy;
+- the [Chapter Five *Corpus*](../../core_03.045_band_integrative.md#corpus) entry and the *Corpus and Authority Stack* definitions;
+- [Preamble §9](../../core_01.000_constitutional_map.md#9-adopted-implementation-corpus), the owner register, and the [Chapter Thirty §4.1](../../core_29.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) hierarchy;
 - Chapter Twenty-Nine (amendment covers the subcore);
 - Chapter Thirty-One (the subcore needs no separate incorporation);
 - `README.md`;

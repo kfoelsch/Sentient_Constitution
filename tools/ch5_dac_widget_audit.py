@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Chapter Five anchor-presence and O/M/A/C widget row-shape integrity audit.
+"""Chapter Three anchor-presence and O/M/A/C widget row-shape integrity audit.
 
 Rule: NAV-DAC-12 in tools/architecture/rule_registry.json.
 
@@ -7,8 +7,8 @@ This audit supersedes the one-off ``tools/verify_dec_anchors.py`` check by
 running as a blocking regression gate alongside the other ``make regression``
 audits. It enforces two invariants:
 
-1. **Chapter Five anchor presence.** Every ``####`` and ``#####`` definition
-   entry in ``core_05.000_definitions_home.md`` that owns ``- O:`` /
+1. **Chapter Three anchor presence.** Every ``####`` and ``#####`` definition
+   entry in ``core_03.000_definitions_home.md`` that owns ``- O:`` /
    ``- E:`` / ``- C:`` bullets carries the canonical anchor trio:
 
    - the entry-level slug (either from an explicit ``<a id="SLUG"></a>`` tag
@@ -29,13 +29,13 @@ audits. It enforces two invariants:
      C link.
 
 2. **O/M/A/C widget row-shape and anchor resolution.** Across the consumer core
-   files (``core_00.000_preamble.md`, `core_01.000_values_principles.md`, and `core_01.040_stewardship_capacity_principles.md``, ``core_02.000_definition_structure.md``,
-   the four Chapter Fifteen parts), every line inside a O/M/A/C widget that appears
+   files (``core_00.000_preamble.md`, `core_02.000_values_principles.md`, and `core_02.040_stewardship_capacity_principles.md``, ``subcore_03.010_definition_structure.md``,
+   the four Chapter Fourteen parts), every line inside a O/M/A/C widget that appears
    to be a widget row must match the canonical shape:
 
-       - [Name](core_05.035_band_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
+       - [Name](core_03.035_band_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
 
-   and every anchor in that row must resolve to a live Chapter Five anchor.
+   and every anchor in that row must resolve to a live Chapter Three anchor.
    The single-concept inline form is also recognized:
 
        <strong><span style="color: #2563eb;">Definition:</span></strong> [Name](...) · [O](...) · [M](...) · [A](...) · [C](...)
@@ -83,33 +83,33 @@ _WIDGET_SLUG_SUFFIXES = (
     "-c",
 )
 
-# Files that host O/M/A/C widgets or inline Definition: lines. Chapter Five
+# Files that host O/M/A/C widgets or inline Definition: lines. Chapter Three
 # itself does not host widgets (definitions live there), but its own heading
-# anchors must still resolve — so Chapter Five is the canonical anchor source
+# anchors must still resolve — so Chapter Three is the canonical anchor source
 # rather than a consumer.
 CONSUMERS = [
     "core_00.000_preamble.md",
-    "core_01.000_values_principles.md",
-    "core_01.010_values_principles_continuity_aim.md",
-    "core_01.020_interaction_interpretation.md",
-    "core_01.030_constitutional_interpretation.md",
-    "core_01.040_stewardship_capacity_principles.md",
-    "core_01.050_governance_incentive_application.md",
-    "core_02.000_definition_structure.md",
-    "core_03.000_definition_integrity.md",
-    "core_15.000_standing_assessment.md",
-    "core_16.000_standing_measurement.md",
-    "core_17.000_standing_integration.md",
-    "core_18.000_contribution_consequences.md",
-    "core_19.000_violation_consequences.md",
-    "core_20.000_final_effect_restoration_enforcement.md",
-    "core_21.000_misconduct_designation.md",
-    "core_22.000_misconduct_pattern_applications.md",
-    "core_06.000_rights_part_a.md",
-    "core_06.010_rights_part_b.md",
-    "core_06.020_rights_part_c.md",
-    "core_06.030_rights_part_d.md",
-    "core_06.040_rights_part_e.md",
+    "core_02.000_values_principles.md",
+    "core_02.010_values_principles_continuity_aim.md",
+    "core_02.020_interaction_interpretation.md",
+    "core_02.030_constitutional_interpretation.md",
+    "core_02.040_stewardship_capacity_principles.md",
+    "core_02.050_governance_incentive_application.md",
+    "subcore_03.010_definition_structure.md",
+    "subcore_03.020_definition_integrity.md",
+    "core_14.000_standing_assessment.md",
+    "core_15.000_standing_measurement.md",
+    "core_16.000_standing_integration.md",
+    "core_17.000_contribution_consequences.md",
+    "core_18.000_violation_consequences.md",
+    "core_19.000_final_effect_restoration_enforcement.md",
+    "core_20.000_misconduct_designation.md",
+    "core_21.000_misconduct_pattern_applications.md",
+    "core_04.000_rights_part_a.md",
+    "core_04.010_rights_part_b.md",
+    "core_04.020_rights_part_c.md",
+    "core_04.030_rights_part_d.md",
+    "core_04.040_rights_part_e.md",
 ]
 
 # Headings that are cluster parents without direct O/E/C body. The audit does
@@ -128,9 +128,9 @@ CLUSTERED_HEADS: set[str] = {
 # ``tools/convert_definitions_to_dec_widget.py::MISSING_C``.
 MISSING_C: set[str] = set()
 
-# Structural Chapter Five headings that should never be treated as definition
+# Structural Chapter Three headings that should never be treated as definition
 # entries even if the heuristic-body-probe would otherwise pick them up. These
-# are the section/chapter framing headings under Chapter Five itself.
+# are the section/chapter framing headings under Chapter Three itself.
 STRUCTURAL_HEADINGS: set[str] = {
     "canonical-home-and-non-duplication-rule",
     "independent-definitions-a-z",
@@ -181,10 +181,10 @@ DETAILS_OPEN_RE = re.compile(r"^\s*<details>\s*$")
 DETAILS_CLOSE_RE = re.compile(r"^\s*</details>\s*$")
 
 # Canonical widget-row shape inside a O/M/A/C widget block. The separator is
-# middle-dot with single spaces. Each href must point into Chapter Five.
+# middle-dot with single spaces. Each href must point into Chapter Three.
 #
 # Example:
-#   - [Wellbeing](core_05.040_band_continuity.md#wellbeing) · [O](core_05.040_band_continuity.md#wellbeing) · [M](core_05.040_band_continuity.md#wellbeing-a) · [A](core_05.040_band_continuity.md#wellbeing-a) · [C](core_05.040_band_continuity.md#wellbeing-c)
+#   - [Wellbeing](core_03.040_band_continuity.md#wellbeing) · [O](core_03.040_band_continuity.md#wellbeing) · [M](core_03.040_band_continuity.md#wellbeing-a) · [A](core_03.040_band_continuity.md#wellbeing-a) · [C](core_03.040_band_continuity.md#wellbeing-c)
 # M targets #{slug}-m when present (aim/leg apex heads); otherwise #{slug}-a
 # (leaf guidepost form interweaves Measurement with Assessment).
 ROW_RE = re.compile(
@@ -230,7 +230,7 @@ def auto_slug(heading: str) -> str:
 
 
 def collect_ch5_anchors(ch5_text: str) -> set[str]:
-    """Return the set of live anchor slugs in Chapter Five.
+    """Return the set of live anchor slugs in Chapter Three.
 
     Sources:
     - Explicit ``<a id="..."></a>`` tags anywhere in the file (line-start or
@@ -354,7 +354,7 @@ def resolve_entry_slug(lines: list[str], heading_idx: int) -> str:
 
 
 def scan_entry_body(lines: list[str], heading_idx: int) -> dict[str, object]:
-    """Probe the body of the Chapter Five entry starting at ``heading_idx``.
+    """Probe the body of the Chapter Three entry starting at ``heading_idx``.
 
     Returns a dict with:
         - ``has_o``, ``has_e``, ``has_c`` — whether a top-level ``- O:``,
@@ -410,7 +410,7 @@ def scan_entry_body(lines: list[str], heading_idx: int) -> dict[str, object]:
 
 
 def audit_chapter_five(ch5_path: Path) -> list[str]:
-    """Return a list of violation strings for Chapter Five anchor presence.
+    """Return a list of violation strings for Chapter Three anchor presence.
 
     Scope: only ``####`` (H4) definition entries. ``#####`` (H5) component
     entries exist only as cluster sub-components (Incentive Alignment,
@@ -440,7 +440,7 @@ def audit_chapter_five(ch5_path: Path) -> list[str]:
         body = scan_entry_body(lines, idx)
 
         # Entries that do not assert O/E/C are out of scope (for example,
-        # Chapter Five §2 structural sub-heads that happen to be H4 but carry
+        # Chapter Three §2 structural sub-heads that happen to be H4 but carry
         # only explanatory prose).
         if not body["has_o"]:
             continue
@@ -451,12 +451,12 @@ def audit_chapter_five(ch5_path: Path) -> list[str]:
         # An entry with - O: should also have - A: and - C: (unless MISSING_C).
         if not body["has_e"]:
             violations.append(
-                f"{ch5_path}:{lineno}: Chapter Five entry '{slug}' has '- O:' "
+                f"{ch5_path}:{lineno}: Chapter Three entry '{slug}' has '- O:' "
                 f"but is missing a top-level '- A:' bullet"
             )
         if slug not in MISSING_C and not body["has_c"]:
             violations.append(
-                f"{ch5_path}:{lineno}: Chapter Five entry '{slug}' has '- O:' "
+                f"{ch5_path}:{lineno}: Chapter Three entry '{slug}' has '- O:' "
                 f"but is missing a top-level '- C:' bullet (and is not in the "
                 f"MISSING_C exception set)"
             )
@@ -464,7 +464,7 @@ def audit_chapter_five(ch5_path: Path) -> list[str]:
         # -a anchor is required when - A: is present.
         if body["has_e"] and f"{slug}-a" not in inline_anchors:
             violations.append(
-                f"{ch5_path}:{lineno}: Chapter Five entry '{slug}' is "
+                f"{ch5_path}:{lineno}: Chapter Three entry '{slug}' is "
                 f"missing expected anchor <a id=\"{slug}-a\"></a> above the "
                 f"'- A:' bullet"
             )
@@ -475,7 +475,7 @@ def audit_chapter_five(ch5_path: Path) -> list[str]:
             and f"{slug}-c" not in inline_anchors
         ):
             violations.append(
-                f"{ch5_path}:{lineno}: Chapter Five entry '{slug}' is "
+                f"{ch5_path}:{lineno}: Chapter Three entry '{slug}' is "
                 f"missing expected anchor <a id=\"{slug}-c\"></a> above the "
                 f"'- C:' bullet"
             )
@@ -484,7 +484,7 @@ def audit_chapter_five(ch5_path: Path) -> list[str]:
 
 
 def slug_from_ch5_href(href: str) -> str | None:
-    """Return the slug if ``href`` points into Chapter Five, else None."""
+    """Return the slug if ``href`` points into Chapter Three, else None."""
     for fname in CH5_ALL:
         prefix = f"{fname}#"
         if href.startswith(prefix):
@@ -502,7 +502,7 @@ def audit_widgets_in_file(
     - Widget blocks must contain only widget-shape rows (plus blank lines)
       between summary and ``</details>``.
     - Every row must match ``ROW_RE`` exactly.
-    - Every href in every row must point into Chapter Five and resolve to a
+    - Every href in every row must point into Chapter Three and resolve to a
       live anchor.
     - Inline ``Definition:`` single-concept lines must match ``INLINE_RE`` and
       resolve.
@@ -617,13 +617,13 @@ def validate_row(
         if slug is None:
             violations.append(
                 f"{path}:{lineno}: O/M/A/C row [{name}] {label}-link does not "
-                f"point into Chapter Five: {href}"
+                f"point into Chapter Three: {href}"
             )
             continue
         if not anchor_resolves_for_widget(slug, anchors):
             violations.append(
                 f"{path}:{lineno}: O/M/A/C row [{name}] {label}-link anchor "
-                f"#{slug} does not resolve in Chapter Five ({', '.join(CH5_ALL)})"
+                f"#{slug} does not resolve in Chapter Three ({', '.join(CH5_ALL)})"
             )
     return violations
 
@@ -666,15 +666,15 @@ def main() -> int:
         for v in violations:
             print(v, file=sys.stderr)
         print(
-            f"\nFAIL: {len(violations)} Chapter Five anchor / O/M/A/C widget "
+            f"\nFAIL: {len(violations)} Chapter Three anchor / O/M/A/C widget "
             f"integrity violation(s).",
             file=sys.stderr,
         )
         return 1
 
     print(
-        "PASS: Chapter Five definition entries carry canonical anchors and "
-        "all O/M/A/C widget rows resolve to live Chapter Five anchors."
+        "PASS: Chapter Three definition entries carry canonical anchors and "
+        "all O/M/A/C widget rows resolve to live Chapter Three anchors."
     )
     return 0
 

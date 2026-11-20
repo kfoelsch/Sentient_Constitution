@@ -1,12 +1,12 @@
 [
   {
     "id": "cjs-support-boundary-merits",
-    "file": "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
-    "heading_contains": "CJS-8.105 §9: Boundary Between Support Roles",
+    "file": "corpus_joint_structure/cjs_06.105_support_hosting_classification.md",
+    "heading_contains": "CJS-6.105 §9: Boundary Between Support Roles",
     "body_must_contain": [
       "within the meaning of",
       "merits-determination",
-      "chapter-twenty-three-standards-routing-and-forum-cases"
+      "chapter-twenty-two-standards-routing-and-forum-cases"
     ],
     "body_must_not_link_href": [
       "adjudication-and-dispute-resolution-constitutional"
@@ -14,7 +14,7 @@
   },
   {
     "id": "cjs-operational-terms-oversight-role-merits",
-    "file": "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md",
+    "file": "corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md",
     "text_anchor_contains": "Oversight or support role",
     "body_must_contain": [
       "within the meaning of",
@@ -32,7 +32,7 @@
   },
   {
     "id": "ch2-4-crypto-truth-safety",
-    "file": "core_04.000_burden_traceability_verification.md",
+    "file": "subcore_03.030_burden_traceability_verification.md",
     "heading_contains": "Security-Constrained Observability",
     "body_must_contain": [
       "truth-constitutional-constraint",

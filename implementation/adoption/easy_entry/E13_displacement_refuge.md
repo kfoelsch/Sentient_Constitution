@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §6](../../../core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_28.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -17,7 +17,7 @@
 
 *In plain terms: you may move, seek refuge from a regime whose practice does not meet the rule in a way that matters, and not be left with no country or body that still counts you. A score of how trusted you are is not, by itself, a border. A file that never finishes is still a refusal. Saying you do not count is not a hidden way to turn you away.*
 
-This brief is for someone who has left, or may have to leave, a place. It does not change the Rights Floor that applies to you. When movement, refuge, or having no country or body that still counts you is actually at stake, those rules are located in [Article XXIII-A](../../../core_06.030_rights_part_d.md#article-xxiii-a-movement-and-relocation) (*Movement and Relocation*) through [Article XXIII-D](../../../core_06.030_rights_part_d.md#article-xxiii-d-limitation-custody-and-emergency-discipline) (*Limitation, Custody, and Emergency Discipline*).
+This brief is for someone who has left, or may have to leave, a place. It does not change the Rights Floor that applies to you. When movement, refuge, or having no country or body that still counts you is actually at stake, those rules are located in [Article XXIII-A](../../../core_04.030_rights_part_d.md#article-xxiii-a-movement-and-relocation) (*Movement and Relocation*) through [Article XXIII-D](../../../core_04.030_rights_part_d.md#article-xxiii-d-limitation-custody-and-emergency-discipline) (*Limitation, Custody, and Emergency Discipline*).
 
 ## One in 67 now — and the count keeps rising
 
@@ -41,43 +41,43 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** Papers are slow or sold. A host says numbers are full. Admission is discretion dressed as capacity.
 - **With this Constitution:** Everyone this covers may move between places with their own governments, may seek refuge from a regime whose practice does not meet the rule in a way that matters, and may not be left with no country or body that still counts you. The place you left keeps the first duty to recognize you. A particular host is not required to take in everyone who is fleeing at once.
 
-See: [Article XXIII-A](../../../core_06.030_rights_part_d.md#article-xxiii-a-movement-and-relocation), [Article XXIII-B](../../../core_06.030_rights_part_d.md#article-xxiii-b-refuge-from-non-compliance), and [Article XXIII-C](../../../core_06.030_rights_part_d.md#article-xxiii-c-non-statelessness).
+See: [Article XXIII-A](../../../core_04.030_rights_part_d.md#article-xxiii-a-movement-and-relocation), [Article XXIII-B](../../../core_04.030_rights_part_d.md#article-xxiii-b-refuge-from-non-compliance), and [Article XXIII-C](../../../core_04.030_rights_part_d.md#article-xxiii-c-non-statelessness).
 
 **A role score is not a border.**
 - **Today:** A score, a watchlist, or “no record on file” is treated as a reason to refuse movement. A dropped record, a lock, or “unrated” becomes exile.
 - **With this Constitution:** A score of how trusted you are, or a lock on a record, is not, by itself, a reason to refuse movement, refuge, taking your records with you, or leaving. Accusations that have not been decided are not a border. If conduct that violates this Constitution has been checked and found, a host may still refuse or condition admission, or use detention or other limits, when those steps are needed, not bigger than the harm, and done through a real process. Those steps still cannot leave you with no country or body that counts you.
 
-See: [Article XXIII-D](../../../core_06.030_rights_part_d.md#article-xxiii-d-limitation-custody-and-emergency-discipline); [Article XXIII-C](../../../core_06.030_rights_part_d.md#article-xxiii-c-non-statelessness); [Article XXI-B](../../../core_06.030_rights_part_d.md#article-xxi-b-restriction-floors); [Chapter Fifteen §3.2](../../../core_15.000_standing_assessment.md#32-silence-is-the-default).
+See: [Article XXIII-D](../../../core_04.030_rights_part_d.md#article-xxiii-d-limitation-custody-and-emergency-discipline); [Article XXIII-C](../../../core_04.030_rights_part_d.md#article-xxiii-c-non-statelessness); [Article XXI-B](../../../core_04.030_rights_part_d.md#article-xxi-b-restriction-floors); [Chapter Fourteen §4.2](../../../core_14.000_standing_assessment.md#42-silence-is-the-default).
 
 **Exit has to work in practice.**
 - **Today:** You can leave if you abandon data, credentials, and proof of what was done to you.
 - **With this Constitution:** Taking your records with you, systems that can work with each other, and a ban on tricks that make leaving hard sit in the Article next to refuge.
 
-See: [Article XXII](../../../core_06.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity).
+See: [Article XXII](../../../core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity).
 
 **Bureaucratic exhaustion counts as denial.**
 - **Today:** The file is never quite complete.
 - **With this Constitution:** Delay, opacity, and allocation gates that function as denial are evaluated on effect. Timeliness is a basic protection.
 
-See: [Article XXIII-B](../../../core_06.030_rights_part_d.md#article-xxiii-b-refuge-from-non-compliance) and [Article XXIII-C](../../../core_06.030_rights_part_d.md#article-xxiii-c-non-statelessness); [Article XXVII-C](../../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor).
+See: [Article XXIII-B](../../../core_04.030_rights_part_d.md#article-xxiii-b-refuge-from-non-compliance) and [Article XXIII-C](../../../core_04.030_rights_part_d.md#article-xxiii-c-non-statelessness); [Article XXVII-C](../../../core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor).
 
 **Survival in the waiting room is still survival.**
 - **Today:** Someone offers a camp, an app, or a labor scheme as the only survival path, with no real exit. Camp or platform terms replace the floor.
 - **With this Constitution:** Survival still attaches. Ending essential shelter still requires a case-specific reason, notice, and a real chance to object.
 
-See: [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_05.040_band_continuity.md#occupancy-continuity).
+See: [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_03.040_band_continuity.md#occupancy-continuity).
 
 ## What you might reasonably object to
 
-- **“No country has adopted this. I need a visa, not a PDF.”** Correct as to present enforcement. This is a model constitution. It does not override refugee, migration, or border law ([Chapter Thirty §6](../../../core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). The case is what a host, carrier, or identity operator that agreed would owe — including that they may not use this text to shrink duties they already bear.
+- **“No country has adopted this. I need a visa, not a PDF.”** Correct as to present enforcement. This is a model constitution. It does not override refugee, migration, or border law ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). The case is what a host, carrier, or identity operator that agreed would owe — including that they may not use this text to shrink duties they already bear.
 
 - **“You will dump everyone on the first host that meets the rule.”** Article XXIII-B says a particular body that has agreed is not required to take in everyone who is fleeing at once; the place you left keeps the first duty to recognize you, with shared temporary recognition as backup. That is an honest limit, not a closed door dressed as capacity.
 
 - **“If I have a past accusation, you will use it as a wall.”** Verified liberty-restricting measures still exist when they are needed, not bigger than the harm, and done through process. Record labels and accusations that have not been decided are not that process. Accusations are not findings.
 
-- **“Climate displacement is not ‘failure to meet the rule.’”** If a project or system made the place unlivable, it still owes air, water, soil, and a real reason to stay housed ([Article I-A](../../../core_06.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)). Seeking refuge is about fleeing a government or system whose practice does not meet the rule ([Article XXIII-C](../../../core_06.030_rights_part_d.md#article-xxiii-c-non-statelessness)). You do not have to prove the weather violated this Constitution. Whether climate making a place unlivable is a reason to grant that refuge is for a body that has agreed to follow this Constitution to decide ([Article XXIII-B](../../../core_06.030_rights_part_d.md#xxii-b-climate-unlivability-refuge-adopter-decided)). This page does not invent a yes or a no.
+- **“Climate displacement is not ‘failure to meet the rule.’”** If a project or system made the place unlivable, it still owes air, water, soil, and a real reason to stay housed ([Article I-A](../../../core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity)). Seeking refuge is about fleeing a government or system whose practice does not meet the rule ([Article XXIII-C](../../../core_04.030_rights_part_d.md#article-xxiii-c-non-statelessness)). You do not have to prove the weather violated this Constitution. Whether climate making a place unlivable is a reason to grant that refuge is for a body that has agreed to follow this Constitution to decide ([Article XXIII-B](../../../core_04.030_rights_part_d.md#xxii-b-climate-unlivability-refuge-adopter-decided)). This page does not invent a yes or a no.
 
-- **“This will be used to refuse us as a security class.”** Limits on movement and refuge still have to be needed, not bigger than the harm, and the least harsh option that works. Arguments that fail [Sentience Non-Exclusion](../../../core_05.055_band_participation.md#sentience-non-exclusion) cannot be used as hidden denials.
+- **“This will be used to refuse us as a security class.”** Limits on movement and refuge still have to be needed, not bigger than the harm, and the least harsh option that works. Arguments that fail [Sentience Non-Exclusion](../../../core_03.055_band_participation.md#sentience-non-exclusion) cannot be used as hidden denials.
 
 ## What this will not pretend to give you
 

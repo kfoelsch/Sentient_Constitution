@@ -41,13 +41,13 @@ File: `core_02.000_definition_structure.md`. Today's §2 *Definition Components 
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§5 Truth (Epistemic Integrity Constraint)](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint);
->   - [§5.2.3 Definitional Rigor Preserved](../../core_01.000_values_principles.md#523-definitional-rigor-preserved);
->   - [§15.2 Definitional Layer and Required Disciplines](../../core_01.030_constitutional_interpretation.md#152-definitional-layer-and-required-disciplines);
->   - [§19.2 Convenient Proxies and Proxy Divergence](../../core_01.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence);
+>   - [§5 Truth (Epistemic Integrity Constraint)](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
+>   - [§5.2.3 Definitional Rigor Preserved](../../core_02.000_values_principles.md#523-definitional-rigor-preserved);
+>   - [§15.2 Definitional Layer and Required Disciplines](../../core_02.030_constitutional_interpretation.md#152-definitional-layer-and-required-disciplines);
+>   - [§19.2 Convenient Proxies and Proxy Divergence](../../core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence);
 > - Chapter Six Articles:
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
->   - [Article XXIV-A](../../core_06.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*).
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+>   - [Article XXIV-A](../../core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*).
 
 ### Chapter Three
 
@@ -62,14 +62,14 @@ File: `core_03.000_definition_integrity.md`. Today's §2 *Definition Integrity a
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§5 Truth (Epistemic Integrity Constraint)](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint);
->   - [§15.1 Constitutional No-Bypass Principle](../../core_01.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
->   - [§15.1.1 Anti-Segmentation Principle](../../core_01.030_constitutional_interpretation.md#1511-anti-segmentation-principle);
->   - [§19.2 Convenient Proxies and Proxy Divergence](../../core_01.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence);
->   - [§19.6 Keeping Responsibility When Ownership or Structure Changes](../../core_01.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
+>   - [§5 Truth (Epistemic Integrity Constraint)](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
+>   - [§15.1 Constitutional No-Bypass Principle](../../core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
+>   - [§15.1.1 Anti-Segmentation Principle](../../core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle);
+>   - [§19.2 Convenient Proxies and Proxy Divergence](../../core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence);
+>   - [§19.6 Keeping Responsibility When Ownership or Structure Changes](../../core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
 > - Chapter Six Articles:
->   - [Article XIV-C](../../core_06.020_rights_part_c.md#article-xiv-c-prohibition-of-false-trust-and-misleading-reliance) (*Prohibition of False Trust and Misleading Reliance*);
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+>   - [Article XIV-C](../../core_04.020_rights_part_c.md#article-xiv-c-prohibition-of-false-trust-and-misleading-reliance) (*Prohibition of False Trust and Misleading Reliance*);
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 
 ### Chapter Four
 
@@ -84,15 +84,15 @@ File: `core_04.000_burden_traceability_verification.md`. Today's §2 *Exclusive 
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§5 Truth (Epistemic Integrity Constraint)](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint);
->   - [§5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](../../core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
->   - [§13.2 Epistemic Disclosure Constraints](../../core_01.020_interaction_interpretation.md#132-epistemic-disclosure-constraints);
->   - [§16.4 Document at Action](../../core_01.040_stewardship_capacity_principles.md#164-document-at-action);
+>   - [§5 Truth (Epistemic Integrity Constraint)](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
+>   - [§5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](../../core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
+>   - [§13.2 Epistemic Disclosure Constraints](../../core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints);
+>   - [§16.4 Document at Action](../../core_02.040_stewardship_capacity_principles.md#164-document-at-action);
 > - Chapter Six Articles:
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
->   - [Article XVII-A](../../core_06.020_rights_part_c.md#article-xvii-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*);
->   - [Article XVII-C](../../core_06.020_rights_part_c.md#article-xvii-c-verification-accessibility) (*Verification Accessibility*);
->   - [Article XIV-C](../../core_06.020_rights_part_c.md#article-xiv-c-prohibition-of-false-trust-and-misleading-reliance) (*Prohibition of False Trust and Misleading Reliance*).
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+>   - [Article XVII-A](../../core_04.020_rights_part_c.md#article-xvii-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*);
+>   - [Article XVII-C](../../core_04.020_rights_part_c.md#article-xvii-c-verification-accessibility) (*Verification Accessibility*);
+>   - [Article XIV-C](../../core_04.020_rights_part_c.md#article-xiv-c-prohibition-of-false-trust-and-misleading-reliance) (*Prohibition of False Trust and Misleading Reliance*).
 
 ### Chapter Seven
 
@@ -107,15 +107,15 @@ File: `core_07.000_charters.md`. Today's §2 *When System and Institutional Char
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§7.2 Assembly, Collective Organization, and Institutional Formation](../../core_01.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation);
->   - [§18.1 Governance as Authorized Structure](../../core_01.050_governance_incentive_application.md#181-governance-as-authorized-structure);
->   - [§18.4 Ongoing Justification](../../core_01.050_governance_incentive_application.md#184-ongoing-justification);
->   - [§19.1.4 Role-Depth and Material-Responsibility Pathways](../../core_01.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways);
+>   - [§7.2 Assembly, Collective Organization, and Institutional Formation](../../core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation);
+>   - [§18.1 Governance as Authorized Structure](../../core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure);
+>   - [§18.4 Ongoing Justification](../../core_02.050_governance_incentive_application.md#184-ongoing-justification);
+>   - [§19.1.4 Role-Depth and Material-Responsibility Pathways](../../core_02.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways);
 > - Chapter Six Articles:
->   - [Article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
->   - [Article XI-F](../../core_06.010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*);
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
->   - [Article XXIV-A](../../core_06.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*).
+>   - [Article XI-E](../../core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
+>   - [Article XI-F](../../core_04.010_rights_part_b.md#article-xi-f-non-imposition-and-consent-in-association) (*Non-Imposition and Consent in Association*);
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+>   - [Article XXIV-A](../../core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*).
 
 ### Chapter Ten
 
@@ -130,14 +130,14 @@ File: `core_10.000_system_alignment_certification_forum_process_outcomes.md`. To
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§6 Trust and Trustworthiness (Coordination Integrity)](../../core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
->   - [§17.5 Duty to Resist](../../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist);
->   - [§18.3 Separation of Duties](../../core_01.050_governance_incentive_application.md#183-separation-of-duties);
+>   - [§6 Trust and Trustworthiness (Coordination Integrity)](../../core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
+>   - [§17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
+>   - [§18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties);
 > - Chapter Six Articles:
->   - [Article XIV-A](../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
->   - [Article XVII-B](../../core_06.020_rights_part_c.md#article-xvii-b-distributed-oversight-and-anti-monopoly-review) (*Distributed Oversight and Anti-Monopoly Review*);
->   - [Article XXVI-B](../../core_06.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*).
+>   - [Article XIV-A](../../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+>   - [Article XVII-B](../../core_04.020_rights_part_c.md#article-xvii-b-distributed-oversight-and-anti-monopoly-review) (*Distributed Oversight and Anti-Monopoly Review*);
+>   - [Article XXVI-B](../../core_04.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*).
 
 ### Chapter Eleven
 
@@ -152,14 +152,14 @@ File: `core_11.000_system_alignment_certification_records_recertification.md`. T
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§6 Trust and Trustworthiness (Coordination Integrity)](../../core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
->   - [§10 Resilience and Self-Healing Design](../../core_01.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design);
->   - [§16.4 Document at Action](../../core_01.040_stewardship_capacity_principles.md#164-document-at-action);
+>   - [§6 Trust and Trustworthiness (Coordination Integrity)](../../core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
+>   - [§10 Resilience and Self-Healing Design](../../core_02.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design);
+>   - [§16.4 Document at Action](../../core_02.040_stewardship_capacity_principles.md#164-document-at-action);
 > - Chapter Six Articles:
->   - [Article XIV-A](../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
->   - [Article XXVII-C](../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*);
->   - [Article XXIX-A](../../core_06.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*).
+>   - [Article XIV-A](../../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+>   - [Article XXVII-C](../../core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*);
+>   - [Article XXIX-A](../../core_04.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*).
 
 ### Chapter Thirteen
 
@@ -174,14 +174,14 @@ File: `core_13.000_institutional_alignment_certification_forum_process_outcomes.
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§7.2 Assembly, Collective Organization, and Institutional Formation](../../core_01.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation);
->   - [§18.3 Separation of Duties](../../core_01.050_governance_incentive_application.md#183-separation-of-duties);
->   - [§19.3 Misalignment Detection](../../core_01.050_governance_incentive_application.md#193-misalignment-detection);
+>   - [§7.2 Assembly, Collective Organization, and Institutional Formation](../../core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation);
+>   - [§18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties);
+>   - [§19.3 Misalignment Detection](../../core_02.050_governance_incentive_application.md#193-misalignment-detection);
 > - Chapter Six Articles:
->   - [Article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
->   - [Article XIII-A](../../core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
->   - [Article XXVI-B](../../core_06.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*).
+>   - [Article XI-E](../../core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
+>   - [Article XIII-A](../../core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+>   - [Article XXVI-B](../../core_04.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*).
 
 ### Chapter Fourteen
 
@@ -196,13 +196,13 @@ File: `core_14.000_institutional_alignment_certification_records_recertification
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§16.4 Document at Action](../../core_01.040_stewardship_capacity_principles.md#164-document-at-action);
->   - [§19.6 Keeping Responsibility When Ownership or Structure Changes](../../core_01.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
+>   - [§16.4 Document at Action](../../core_02.040_stewardship_capacity_principles.md#164-document-at-action);
+>   - [§19.6 Keeping Responsibility When Ownership or Structure Changes](../../core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
 > - Chapter Six Articles:
->   - [Article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
->   - [Article XXVII-C](../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*);
->   - [Article XXIX-A](../../core_06.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*).
+>   - [Article XI-E](../../core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+>   - [Article XXVII-C](../../core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*);
+>   - [Article XXIX-A](../../core_04.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*).
 
 ### Chapter Fifteen
 
@@ -217,15 +217,15 @@ File: `core_15.000_standing_assessment.md`. Today's §2 *The Three Questions* be
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§3.2 Recognition, Reinforcement, and Aspiration](../../core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
->   - [§5 Truth (Epistemic Integrity Constraint)](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint);
->   - [§6.1 Correction and Remedy](../../core_01.000_values_principles.md#61-correction-and-remedy);
->   - [§13.1 Core Tradeoff Principles](../../core_01.020_interaction_interpretation.md#131-core-tradeoff-principles);
+>   - [§3.2 Recognition, Reinforcement, and Aspiration](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
+>   - [§5 Truth (Epistemic Integrity Constraint)](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
+>   - [§6.1 Correction and Remedy](../../core_02.000_values_principles.md#61-correction-and-remedy);
+>   - [§13.1 Core Tradeoff Principles](../../core_02.020_interaction_interpretation.md#131-core-tradeoff-principles);
 > - Chapter Six Articles:
->   - [Article XX](../../core_06.030_rights_part_d.md#article-xx-standing-and-participation-status) (*Standing and Participation Status*);
->   - [Article XX-A](../../core_06.030_rights_part_d.md#article-xx-a-standing-distinction) (*Standing Distinction*);
->   - [Article XXI-A](../../core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*);
->   - [Article XXVII-C](../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+>   - [Article XX](../../core_04.030_rights_part_d.md#article-xx-standing-and-participation-status) (*Standing and Participation Status*);
+>   - [Article XX-A](../../core_04.030_rights_part_d.md#article-xx-a-standing-distinction) (*Standing Distinction*);
+>   - [Article XXI-A](../../core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*);
+>   - [Article XXVII-C](../../core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 ### Chapter Sixteen
 
@@ -240,14 +240,14 @@ File: `core_16.000_standing_measurement.md`. Today's §2 *Question 2 — How Goo
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§3.2 Recognition, Reinforcement, and Aspiration](../../core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
->   - [§4 Safety (Harm Constraint)](../../core_01.000_values_principles.md#4-safety-harm-constraint);
->   - [§13.1 Core Tradeoff Principles](../../core_01.020_interaction_interpretation.md#131-core-tradeoff-principles);
->   - [§19.2 Convenient Proxies and Proxy Divergence](../../core_01.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence);
+>   - [§3.2 Recognition, Reinforcement, and Aspiration](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
+>   - [§4 Safety (Harm Constraint)](../../core_02.000_values_principles.md#4-safety-harm-constraint);
+>   - [§13.1 Core Tradeoff Principles](../../core_02.020_interaction_interpretation.md#131-core-tradeoff-principles);
+>   - [§19.2 Convenient Proxies and Proxy Divergence](../../core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence);
 > - Chapter Six Articles:
->   - [Article XX-A](../../core_06.030_rights_part_d.md#article-xx-a-standing-distinction) (*Standing Distinction*);
->   - [Article XXI](../../core_06.030_rights_part_d.md#article-xxi-justice-after-verified-violation) (*Justice After Verified Violation*);
->   - [Article XXV](../../core_06.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response) (*Root Cause Analysis and Adaptive Response*).
+>   - [Article XX-A](../../core_04.030_rights_part_d.md#article-xx-a-standing-distinction) (*Standing Distinction*);
+>   - [Article XXI](../../core_04.030_rights_part_d.md#article-xxi-justice-after-verified-violation) (*Justice After Verified Violation*);
+>   - [Article XXV](../../core_04.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response) (*Root Cause Analysis and Adaptive Response*).
 
 ### Chapter Seventeen
 
@@ -262,13 +262,13 @@ File: `core_17.000_standing_integration.md`. Today's §2 *Chapter Fifteen Record
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§3.2 Recognition, Reinforcement, and Aspiration](../../core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
->   - [§6.1 Correction and Remedy](../../core_01.000_values_principles.md#61-correction-and-remedy);
->   - [§19.1.2 What Incentives Must Not Do](../../core_01.050_governance_incentive_application.md#1912-what-incentives-must-not-do);
+>   - [§3.2 Recognition, Reinforcement, and Aspiration](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
+>   - [§6.1 Correction and Remedy](../../core_02.000_values_principles.md#61-correction-and-remedy);
+>   - [§19.1.2 What Incentives Must Not Do](../../core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do);
 > - Chapter Six Articles:
->   - [Article XX](../../core_06.030_rights_part_d.md#article-xx-standing-and-participation-status) (*Standing and Participation Status*);
->   - [Article XX-D](../../core_06.030_rights_part_d.md#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*);
->   - [Article XXI-A](../../core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*).
+>   - [Article XX](../../core_04.030_rights_part_d.md#article-xx-standing-and-participation-status) (*Standing and Participation Status*);
+>   - [Article XX-D](../../core_04.030_rights_part_d.md#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*);
+>   - [Article XXI-A](../../core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*).
 
 ### Chapter Eighteen
 
@@ -283,12 +283,12 @@ File: `core_18.000_contribution_consequences.md`. Today's §2 *Contribution Cons
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§3.1.5 Present Capability and Proactive Help](../../core_01.000_values_principles.md#315-present-capability-and-proactive-help);
->   - [§3.2 Recognition, Reinforcement, and Aspiration](../../core_01.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
->   - [§3.2.6 Anti-Reward for Anti-Constitutional Conduct](../../core_01.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct);
+>   - [§3.1.5 Present Capability and Proactive Help](../../core_02.000_values_principles.md#315-present-capability-and-proactive-help);
+>   - [§3.2 Recognition, Reinforcement, and Aspiration](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
+>   - [§3.2.6 Anti-Reward for Anti-Constitutional Conduct](../../core_02.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct);
 > - Chapter Six Articles:
->   - [Article XX-C](../../core_06.030_rights_part_d.md#article-xx-c-contribution-competency-bars-and-gated-pathway-eligibility) (*Contribution, Competency Bars, and Gated-Pathway Eligibility*);
->   - [Article XXI-B](../../core_06.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*).
+>   - [Article XX-C](../../core_04.030_rights_part_d.md#article-xx-c-contribution-competency-bars-and-gated-pathway-eligibility) (*Contribution, Competency Bars, and Gated-Pathway Eligibility*);
+>   - [Article XXI-B](../../core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*).
 
 ### Chapter Nineteen
 
@@ -303,15 +303,15 @@ File: `core_19.000_violation_consequences.md`. Today's §2 *Violation, Correctio
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§6.1 Correction and Remedy](../../core_01.000_values_principles.md#61-correction-and-remedy);
->   - [§13.1.3 Proportionality](../../core_01.020_interaction_interpretation.md#1313-proportionality);
->   - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_01.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
->   - [§17.5 Duty to Resist](../../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist);
+>   - [§6.1 Correction and Remedy](../../core_02.000_values_principles.md#61-correction-and-remedy);
+>   - [§13.1.3 Proportionality](../../core_02.020_interaction_interpretation.md#1313-proportionality);
+>   - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
+>   - [§17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
 > - Chapter Six Articles:
->   - [Article XIV-B](../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
->   - [Article XX-D](../../core_06.030_rights_part_d.md#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*);
->   - [Article XXI](../../core_06.030_rights_part_d.md#article-xxi-justice-after-verified-violation) (*Justice After Verified Violation*);
->   - [Article XXI-B](../../core_06.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*).
+>   - [Article XIV-B](../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
+>   - [Article XX-D](../../core_04.030_rights_part_d.md#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*);
+>   - [Article XXI](../../core_04.030_rights_part_d.md#article-xxi-justice-after-verified-violation) (*Justice After Verified Violation*);
+>   - [Article XXI-B](../../core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*).
 
 ### Chapter Twenty
 
@@ -326,14 +326,14 @@ File: `core_20.000_final_effect_restoration_enforcement.md`. Today's §2 *Final 
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§6.1 Correction and Remedy](../../core_01.000_values_principles.md#61-correction-and-remedy);
->   - [§5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](../../core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
->   - [§13.2.4 Proxy-Divergence Invalidation](../../core_01.020_interaction_interpretation.md#1324-proxy-divergence-invalidation);
+>   - [§6.1 Correction and Remedy](../../core_02.000_values_principles.md#61-correction-and-remedy);
+>   - [§5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](../../core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
+>   - [§13.2.4 Proxy-Divergence Invalidation](../../core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation);
 > - Chapter Six Articles:
->   - [Article XX-B](../../core_06.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*);
->   - [Article XXI-B](../../core_06.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*);
->   - [Article XIV-B](../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
->   - [Article XXVII-C](../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+>   - [Article XX-B](../../core_04.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*);
+>   - [Article XXI-B](../../core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*);
+>   - [Article XIV-B](../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
+>   - [Article XXVII-C](../../core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 ### Chapter Twenty-One
 
@@ -348,14 +348,14 @@ File: `core_21.000_misconduct_designation.md`. Today's §2 *How Designation Deci
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§15.1 Constitutional No-Bypass Principle](../../core_01.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
->   - [§17.5 Duty to Resist](../../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist);
->   - [§19.3.1 Capture Escalation Triggers](../../core_01.050_governance_incentive_application.md#1931-capture-escalation-triggers);
+>   - [§15.1 Constitutional No-Bypass Principle](../../core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
+>   - [§17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
+>   - [§19.3.1 Capture Escalation Triggers](../../core_02.050_governance_incentive_application.md#1931-capture-escalation-triggers);
 > - Chapter Six Articles:
->   - [Article XXI-A](../../core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*);
->   - [Article XXI-B](../../core_06.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*);
->   - [Article XXVI](../../core_06.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*);
->   - [Article XXVII-B](../../core_06.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
+>   - [Article XXI-A](../../core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*);
+>   - [Article XXI-B](../../core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*);
+>   - [Article XXVI](../../core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*);
+>   - [Article XXVII-B](../../core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
 
 ### Chapter Twenty-Two
 
@@ -370,15 +370,15 @@ File: `core_22.000_misconduct_pattern_applications.md`. Today's §2 *Pattern App
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§11.2 Pro-Competition and Anti-Domination](../../core_01.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination);
->   - [§13.2.1 Preservation of Epistemic Integrity](../../core_01.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity);
->   - [§19 Incentive Alignment and System Capture](../../core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture);
->   - [§19.1.2 What Incentives Must Not Do](../../core_01.050_governance_incentive_application.md#1912-what-incentives-must-not-do);
+>   - [§11.2 Pro-Competition and Anti-Domination](../../core_02.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination);
+>   - [§13.2.1 Preservation of Epistemic Integrity](../../core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity);
+>   - [§19 Incentive Alignment and System Capture](../../core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture);
+>   - [§19.1.2 What Incentives Must Not Do](../../core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do);
 > - Chapter Six Articles:
->   - [Article XIII-A](../../core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
->   - [Article XVI-A](../../core_06.020_rights_part_c.md#article-xvi-a-info-sphere-plurality-and-anti-monopoly) (*Info-Sphere Plurality and Anti-Monopoly*);
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
->   - [Article XXI-A](../../core_06.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*).
+>   - [Article XIII-A](../../core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
+>   - [Article XVI-A](../../core_04.020_rights_part_c.md#article-xvi-a-info-sphere-plurality-and-anti-monopoly) (*Info-Sphere Plurality and Anti-Monopoly*);
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+>   - [Article XXI-A](../../core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*).
 
 ### Chapter Twenty-Three
 
@@ -393,15 +393,15 @@ File: `core_23.000_forum.md`. Today's §2 *Forum Family Supervision and Standard
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§17.4 Aligned Self-Organization](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization);
->   - [§18.3 Separation of Duties](../../core_01.050_governance_incentive_application.md#183-separation-of-duties);
->   - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_01.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
+>   - [§17.4 Aligned Self-Organization](../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization);
+>   - [§18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties);
+>   - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
 > - Chapter Six Articles:
->   - [Article XII-C](../../core_06.010_rights_part_b.md#article-xii-c-internal-roles-accountability-and-due-process-requirements) (*Internal Roles, Accountability, and Due-Process Requirements*);
->   - [Article XIV-B](../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
->   - [Article XXVI-B](../../core_06.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*);
->   - [Article XXVI-C](../../core_06.030_rights_part_d.md#article-xxvi-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*);
->   - [Article XXVII-C](../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+>   - [Article XII-C](../../core_04.010_rights_part_b.md#article-xii-c-internal-roles-accountability-and-due-process-requirements) (*Internal Roles, Accountability, and Due-Process Requirements*);
+>   - [Article XIV-B](../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
+>   - [Article XXVI-B](../../core_04.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*);
+>   - [Article XXVI-C](../../core_04.030_rights_part_d.md#article-xxvi-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*);
+>   - [Article XXVII-C](../../core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 ### Chapter Twenty-Four
 
@@ -416,14 +416,14 @@ File: `core_24.000_forum_families_escalation_timeliness_support.md`. Today's §2
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§9.2 Constitutional Efficiency](../../core_01.010_values_principles_continuity_aim.md#92-constitutional-efficiency);
->   - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_01.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
->   - [§15.1 Constitutional No-Bypass Principle](../../core_01.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
->   - [§16.6 Default Window](../../core_01.040_stewardship_capacity_principles.md#166-default-window);
+>   - [§9.2 Constitutional Efficiency](../../core_02.010_values_principles_continuity_aim.md#92-constitutional-efficiency);
+>   - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
+>   - [§15.1 Constitutional No-Bypass Principle](../../core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
+>   - [§16.6 Default Window](../../core_02.040_stewardship_capacity_principles.md#166-default-window);
 > - Chapter Six Articles:
->   - [Article XIV-B](../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
->   - [Article XXVI-C](../../core_06.030_rights_part_d.md#article-xxvi-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*);
->   - [Article XXVII-C](../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+>   - [Article XIV-B](../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
+>   - [Article XXVI-C](../../core_04.030_rights_part_d.md#article-xxvi-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*);
+>   - [Article XXVII-C](../../core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 ### Chapter Twenty-Seven
 
@@ -438,15 +438,15 @@ File: `core_27.000_governance.md`. Today's §2 *Authorization and Legitimacy of 
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../../core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
->   - [§17.1 Shared Stewardship Standard](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard);
->   - [§18 Governance under Stewardship Discipline](../../core_01.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
->   - [§18.4 Ongoing Justification](../../core_01.050_governance_incentive_application.md#184-ongoing-justification);
+>   - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../../core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
+>   - [§17.1 Shared Stewardship Standard](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard);
+>   - [§18 Governance under Stewardship Discipline](../../core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
+>   - [§18.4 Ongoing Justification](../../core_02.050_governance_incentive_application.md#184-ongoing-justification);
 > - Chapter Six Articles:
->   - [Article X-B](../../core_06.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*);
->   - [Article XII](../../core_06.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*);
->   - [Article XIII-A](../../core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
->   - [Article XXVI-D](../../core_06.030_rights_part_d.md#article-xxvi-d-removal-for-cause-and-non-entrenchment) (*Removal for Cause and Non-Entrenchment*).
+>   - [Article X-B](../../core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*);
+>   - [Article XII](../../core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*);
+>   - [Article XIII-A](../../core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
+>   - [Article XXVI-D](../../core_04.030_rights_part_d.md#article-xxvi-d-removal-for-cause-and-non-entrenchment) (*Removal for Cause and Non-Entrenchment*).
 
 ### Chapter Twenty-Eight
 
@@ -461,13 +461,13 @@ File: `core_28.000_non_regression.md`. Today's §2 *Non-Regression Floor* become
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../../core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
->   - [§14 Prohibition on Absolute Override](../../core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override);
->   - [§17.5 Duty to Resist](../../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist);
+>   - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../../core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
+>   - [§14 Prohibition on Absolute Override](../../core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override);
+>   - [§17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
 > - Chapter Six Articles:
->   - [Article XXVI-A](../../core_06.030_rights_part_d.md#article-xxvi-a-bounded-interpretive-mandate-and-public-reasons) (*Bounded Interpretive Mandate and Public Reasons*);
->   - [Article XXVIII](../../core_06.040_rights_part_e.md#article-xxviii-constitutional-evolution-and-non-entrenchment) (*Constitutional Evolution and Non-Entrenchment*);
->   - [Article XXVIII-A](../../core_06.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
+>   - [Article XXVI-A](../../core_04.030_rights_part_d.md#article-xxvi-a-bounded-interpretive-mandate-and-public-reasons) (*Bounded Interpretive Mandate and Public Reasons*);
+>   - [Article XXVIII](../../core_04.040_rights_part_e.md#article-xxviii-constitutional-evolution-and-non-entrenchment) (*Constitutional Evolution and Non-Entrenchment*);
+>   - [Article XXVIII-A](../../core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
 
 ### Chapter Twenty-Nine
 
@@ -482,14 +482,14 @@ File: `core_29.000_amendment_ratification.md`. Today's §2 *Heightened Review fo
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§5 Truth (Epistemic Integrity Constraint)](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint);
->   - [§17.7 Duty to Represent Stakeholder Interests](../../core_01.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests);
->   - [§18.4 Ongoing Justification](../../core_01.050_governance_incentive_application.md#184-ongoing-justification);
+>   - [§5 Truth (Epistemic Integrity Constraint)](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
+>   - [§17.7 Duty to Represent Stakeholder Interests](../../core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests);
+>   - [§18.4 Ongoing Justification](../../core_02.050_governance_incentive_application.md#184-ongoing-justification);
 > - Chapter Six Articles:
->   - [Article XII-A](../../core_06.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*);
->   - [Article XXVI-B](../../core_06.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*);
->   - [Article XXVIII-B](../../core_06.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*);
->   - [Article XXIX-A](../../core_06.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*).
+>   - [Article XII-A](../../core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*);
+>   - [Article XXVI-B](../../core_04.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*);
+>   - [Article XXVIII-B](../../core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*);
+>   - [Article XXIX-A](../../core_04.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*).
 
 ### Chapter Thirty
 
@@ -504,12 +504,12 @@ File: `core_30.000_expansion_supremacy.md`. Today's §2 *Additive Expansion Perm
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../../core_01.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
->   - [§14 Prohibition on Absolute Override](../../core_01.020_interaction_interpretation.md#14-prohibition-on-absolute-override);
->   - [§15.4 Constitutional Meaning Conflict Resolution](../../core_01.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
+>   - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](../../core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
+>   - [§14 Prohibition on Absolute Override](../../core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override);
+>   - [§15.4 Constitutional Meaning Conflict Resolution](../../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
 > - Chapter Six Articles:
->   - [Article VI](../../core_06.010_rights_part_b.md#article-vi-equal-basic-rights) (*Equal Basic Rights*);
->   - [Article XXVIII-A](../../core_06.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
+>   - [Article VI](../../core_04.010_rights_part_b.md#article-vi-equal-basic-rights) (*Equal Basic Rights*);
+>   - [Article XXVIII-A](../../core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
 
 ### Chapter Thirty-One
 
@@ -524,12 +524,12 @@ File: `core_31.000_incorporation.md`. Today's §2 *Custody, Editions, and Operat
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§15.4 Constitutional Meaning Conflict Resolution](../../core_01.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
->   - [§15.4.3 Incorporation Layer](../../core_01.030_constitutional_interpretation.md#1543-incorporation-layer);
->   - [§16.4 Document at Action](../../core_01.040_stewardship_capacity_principles.md#164-document-at-action);
+>   - [§15.4 Constitutional Meaning Conflict Resolution](../../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
+>   - [§15.4.3 Incorporation Layer](../../core_02.030_constitutional_interpretation.md#1543-incorporation-layer);
+>   - [§16.4 Document at Action](../../core_02.040_stewardship_capacity_principles.md#164-document-at-action);
 > - Chapter Six Articles:
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
->   - [Article XXVIII-B](../../core_06.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*).
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+>   - [Article XXVIII-B](../../core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*).
 
 ---
 
@@ -542,12 +542,12 @@ File: `core_05.000_definitions_home.md`, §2 *Why Definitions Have One Home*. Ad
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§5 Truth (Epistemic Integrity Constraint)](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint);
->   - [§15.2 Definitional Layer and Required Disciplines](../../core_01.030_constitutional_interpretation.md#152-definitional-layer-and-required-disciplines);
->   - [§15.1.1 Anti-Segmentation Principle](../../core_01.030_constitutional_interpretation.md#1511-anti-segmentation-principle);
+>   - [§5 Truth (Epistemic Integrity Constraint)](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
+>   - [§15.2 Definitional Layer and Required Disciplines](../../core_02.030_constitutional_interpretation.md#152-definitional-layer-and-required-disciplines);
+>   - [§15.1.1 Anti-Segmentation Principle](../../core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle);
 > - Chapter Six Articles:
->   - [Article XXIV-A](../../core_06.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*);
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+>   - [Article XXIV-A](../../core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*);
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 
 ### Chapter Six
 
@@ -556,11 +556,11 @@ File: `core_06.000_rights_part_a.md`, §2 *Why the Rights Floor Exists*. Add at 
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§3 Foundational Objective: Wellbeing (Flourishing Aim)](../../core_01.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim);
->   - [§4 Safety (Harm Constraint)](../../core_01.000_values_principles.md#4-safety-harm-constraint);
->   - [§5 Truth (Epistemic Integrity Constraint)](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint);
->   - [§6 Trust and Trustworthiness (Coordination Integrity)](../../core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
->   - [§7 Freedom (Bounded Agency)](../../core_01.000_values_principles.md#7-freedom-bounded-agency).
+>   - [§3 Foundational Objective: Wellbeing (Flourishing Aim)](../../core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim);
+>   - [§4 Safety (Harm Constraint)](../../core_02.000_values_principles.md#4-safety-harm-constraint);
+>   - [§5 Truth (Epistemic Integrity Constraint)](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
+>   - [§6 Trust and Trustworthiness (Coordination Integrity)](../../core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
+>   - [§7 Freedom (Bounded Agency)](../../core_02.000_values_principles.md#7-freedom-bounded-agency).
 
 ### Chapter Eight
 
@@ -569,14 +569,14 @@ File: `core_08.000_functional_independence_separation_of_duties.md`, §2 *Why th
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§17.5 Duty to Resist](../../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist);
->   - [§18.3 Separation of Duties](../../core_01.050_governance_incentive_application.md#183-separation-of-duties);
->   - [§19.3 Misalignment Detection](../../core_01.050_governance_incentive_application.md#193-misalignment-detection);
+>   - [§17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
+>   - [§18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties);
+>   - [§19.3 Misalignment Detection](../../core_02.050_governance_incentive_application.md#193-misalignment-detection);
 > - Chapter Six Articles:
->   - [Article XIII-A](../../core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
->   - [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*);
->   - [Article XIV-B](../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
->   - [Article XXVI-C](../../core_06.030_rights_part_d.md#article-xxvi-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*).
+>   - [Article XIII-A](../../core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
+>   - [Article XIII-C](../../core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*);
+>   - [Article XIV-B](../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
+>   - [Article XXVI-C](../../core_04.030_rights_part_d.md#article-xxvi-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*).
 
 ### Chapter Nine
 
@@ -585,15 +585,15 @@ File: `core_09.000_system_alignment_certification_evaluation.md`, §2 *Why Syste
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§4 Safety (Harm Constraint)](../../core_01.000_values_principles.md#4-safety-harm-constraint);
->   - [§5 Truth (Epistemic Integrity Constraint)](../../core_01.000_values_principles.md#5-truth-epistemic-integrity-constraint);
->   - [§6 Trust and Trustworthiness (Coordination Integrity)](../../core_01.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
->   - [§12 Systemic Evaluation Requirement](../../core_01.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement);
+>   - [§4 Safety (Harm Constraint)](../../core_02.000_values_principles.md#4-safety-harm-constraint);
+>   - [§5 Truth (Epistemic Integrity Constraint)](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
+>   - [§6 Trust and Trustworthiness (Coordination Integrity)](../../core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
+>   - [§12 Systemic Evaluation Requirement](../../core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement);
 > - Chapter Six Articles:
->   - [Article XIV-A](../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
->   - [Article XVIII](../../core_06.020_rights_part_c.md#article-xviii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*);
->   - [Article IX-B](../../core_06.010_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*).
+>   - [Article XIV-A](../../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+>   - [Article XVIII](../../core_04.020_rights_part_c.md#article-xviii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*);
+>   - [Article IX-B](../../core_04.010_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*).
 
 ### Chapter Twelve
 
@@ -602,14 +602,14 @@ File: `core_12.000_institutional_alignment_certification_evaluation.md`, §2 *Wh
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§7.2 Assembly, Collective Organization, and Institutional Formation](../../core_01.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation);
->   - [§18.1 Governance as Authorized Structure](../../core_01.050_governance_incentive_application.md#181-governance-as-authorized-structure);
->   - [§19.1.4 Role-Depth and Material-Responsibility Pathways](../../core_01.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways);
->   - [§19.6 Keeping Responsibility When Ownership or Structure Changes](../../core_01.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
+>   - [§7.2 Assembly, Collective Organization, and Institutional Formation](../../core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation);
+>   - [§18.1 Governance as Authorized Structure](../../core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure);
+>   - [§19.1.4 Role-Depth and Material-Responsibility Pathways](../../core_02.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways);
+>   - [§19.6 Keeping Responsibility When Ownership or Structure Changes](../../core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
 > - Chapter Six Articles:
->   - [Article XI-E](../../core_06.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
->   - [Article XIII-A](../../core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+>   - [Article XI-E](../../core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
+>   - [Article XIII-A](../../core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 
 ### Chapter Twenty-Five
 
@@ -618,12 +618,12 @@ File: `core_25.000_enforcement.md`, §2 *Why Enforcement Exists*. Add at the end
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§6.1 Correction and Remedy](../../core_01.000_values_principles.md#61-correction-and-remedy);
->   - [§13.1.3 Proportionality](../../core_01.020_interaction_interpretation.md#1313-proportionality);
+>   - [§6.1 Correction and Remedy](../../core_02.000_values_principles.md#61-correction-and-remedy);
+>   - [§13.1.3 Proportionality](../../core_02.020_interaction_interpretation.md#1313-proportionality);
 > - Chapter Six Articles:
->   - [Article XIV-B](../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
->   - [Article XXI-B](../../core_06.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*);
->   - [Article XXVII-C](../../core_06.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
+>   - [Article XIV-B](../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
+>   - [Article XXI-B](../../core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*);
+>   - [Article XXVII-C](../../core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
 ### Chapter Twenty-Six
 
@@ -632,14 +632,14 @@ File: `core_26.000_special_enforcement.md`, §2 *Why Special Enforcement Exists*
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§3.3 Anti-Degrading Process](../../core_01.000_values_principles.md#33-anti-degrading-process);
->   - [§13.1.1 Necessity](../../core_01.020_interaction_interpretation.md#1311-necessity);
->   - [§13.1.3 Proportionality](../../core_01.020_interaction_interpretation.md#1313-proportionality);
->   - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_01.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
+>   - [§3.3 Anti-Degrading Process](../../core_02.000_values_principles.md#33-anti-degrading-process);
+>   - [§13.1.1 Necessity](../../core_02.020_interaction_interpretation.md#1311-necessity);
+>   - [§13.1.3 Proportionality](../../core_02.020_interaction_interpretation.md#1313-proportionality);
+>   - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
 > - Chapter Six Articles:
->   - [Article VII-C](../../core_06.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Health Crisis and Involuntary-Intervention Floor*);
->   - [Article XXI-B](../../core_06.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*);
->   - [Article XXV](../../core_06.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response) (*Root Cause Analysis and Adaptive Response*).
+>   - [Article VII-C](../../core_04.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Health Crisis and Involuntary-Intervention Floor*);
+>   - [Article XXI-B](../../core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*);
+>   - [Article XXV](../../core_04.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response) (*Root Cause Analysis and Adaptive Response*).
 
 ---
 
@@ -658,12 +658,12 @@ File: `core_26.000_special_enforcement.md`, §2 *Why Special Enforcement Exists*
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](../../core_01.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
->   - [§5.2.4 Complexity-as-Defeat Discipline](../../core_01.000_values_principles.md#524-complexity-as-defeat-discipline);
->   - [§15.4 Constitutional Meaning Conflict Resolution](../../core_01.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
+>   - [§5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](../../core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
+>   - [§5.2.4 Complexity-as-Defeat Discipline](../../core_02.000_values_principles.md#524-complexity-as-defeat-discipline);
+>   - [§15.4 Constitutional Meaning Conflict Resolution](../../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
 > - Chapter Six Articles:
->   - [Article XXIV-A](../../core_06.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*);
->   - [Article XXIV-B](../../core_06.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*).
+>   - [Article XXIV-A](../../core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*);
+>   - [Article XXIV-B](../../core_04.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*).
 
 ### Independent Bodies
 
@@ -678,13 +678,13 @@ File: `core_26.000_special_enforcement.md`, §2 *Why Special Enforcement Exists*
 > **Grounded in:**
 >
 > - Chapter One principles:
->   - [§17.5 Duty to Resist](../../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist);
->   - [§18.3 Separation of Duties](../../core_01.050_governance_incentive_application.md#183-separation-of-duties);
->   - [§19 Incentive Alignment and System Capture](../../core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture);
->   - [§19.3 Misalignment Detection](../../core_01.050_governance_incentive_application.md#193-misalignment-detection);
+>   - [§17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
+>   - [§18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties);
+>   - [§19 Incentive Alignment and System Capture](../../core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture);
+>   - [§19.3 Misalignment Detection](../../core_02.050_governance_incentive_application.md#193-misalignment-detection);
 > - Chapter Six Articles:
->   - [Article XIII](../../core_06.010_rights_part_b.md#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*);
->   - [Article XIII-A](../../core_06.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
->   - [Article XIII-C](../../core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*);
->   - [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
->   - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+>   - [Article XIII](../../core_04.010_rights_part_b.md#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*);
+>   - [Article XIII-A](../../core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
+>   - [Article XIII-C](../../core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*);
+>   - [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
+>   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).

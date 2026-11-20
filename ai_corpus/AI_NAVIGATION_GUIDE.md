@@ -19,9 +19,9 @@ Use `python3 tools/corpus_lookup.py`. Do not open `id_resolver.json` for meaning
    - Do not treat card prose as a duty
 
 2. **ID, topic, or term** → `python3 tools/corpus_lookup.py resolve QUERY`
-   - `CF-23.440`, `CJS-5.125 §13`, `CS-27.305`, `CI-23.210`, `Def.P1`
+   - `CF-22.440`, `CJS-3.125 §13`, `CS-26.305`, `CI-22.210`, `Def.P1`
    - CJS-0.105 §1 topic rows (`CJS-R09` and the topic string) via `topic-route`
-   - Chapter Five terms (file + line range; hydrate the source block)
+   - Chapter Three terms (file + line range; hydrate the source block)
    - Current heading anchors only — `validity --file FILE --anchor '#fragment'`
 
 3. **Authentic span** → `python3 tools/corpus_lookup.py hydrate QUERY`
@@ -64,7 +64,7 @@ Step 1: python3 tools/corpus_lookup.py topic-route CJS-R09
 
 Step 2: Hydrate the owner, then each listed read-with
 
-Step 3: Apply Chapter One §15.4.4 combined satisfaction; do not skip read-with
+Step 3: Apply Chapter Two §15.4.4 combined satisfaction; do not skip read-with
 ```
 
 ### Pattern 4: Natural-language fact pattern
@@ -132,7 +132,7 @@ python3 tools/corpus_lookup.py validity --file FILE --anchor '#fragment'
 
 ## Current corpus shape (do not use retired filenames)
 
-Chapter Five lives in **band and apex files** (`core_05.0*_band_*.md`, `core_05.0*_apex_*.md`), with the Chapter Five Part A compass in `core_05.000_definitions_home.md`. Adopted implementation text lives in **folders** (`corpus_systems/`, `corpus_institutions/`, `corpus_forum/`, `corpus_joint_structure/`) plus root wrappers. Rights Floor is **Chapter Six** (`core_06.0*_rights_part_*.md`). Standing measurement is **Chapter Nine**; standing effects are **Chapter Fifteen**.
+Chapter Three lives in **band and apex files** (`core_05.0*_band_*.md`, `core_05.0*_apex_*.md`), with the Chapter Three Part A compass in `core_03.000_definitions_home.md`. Adopted implementation text lives in **folders** (`corpus_systems/`, `corpus_institutions/`, `corpus_forum/`, `corpus_joint_structure/`) plus root wrappers. Rights Floor is **Chapter Four** (`core_06.0*_rights_part_*.md`). Standing measurement is **Chapter Eight**; standing effects are **Chapter Fourteen**.
 
 Inventory of current files: `ai_corpus/visualization/dependency_map.mmd` (generated file list, not a citation-weight graph). Citation edges: `crossref_matrix.json` and `section_crossref.json`.
 

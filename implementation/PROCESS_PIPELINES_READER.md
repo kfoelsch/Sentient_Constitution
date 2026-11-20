@@ -9,9 +9,9 @@
 Open these first. They point; they do not replace the numbered `core_*` files.
 
 - [README.md](../README.md) — how to read the Constitution, and common lookups
-- [Preamble §6 Key Practical Process Pipelines](../core_00.000_preamble.md#6-key-practical-process-pipelines) — what each chapter in this chain owns and produces
-- [Preamble §6.2 How the full chain fits together](../core_00.000_preamble.md#62-how-the-full-chain-fits-together) — the numbered path from certification to forum routing
-- [Preamble §7 Process Ownership and Outputs](../core_00.000_preamble.md#7-process-ownership-and-outputs) — the owner and output of each pipeline stage
+- [Chapter One §6 Key Practical Process Pipelines](../core_01.000_constitutional_map.md#6-key-practical-process-pipelines) — what each chapter in this chain owns and produces
+- [Chapter One §6.2 How the full chain fits together](../core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together) — the numbered path from certification to forum routing
+- [Chapter One §7 Process Ownership and Outputs](../core_01.000_constitutional_map.md#7-process-ownership-and-outputs) — the owner and output of each pipeline stage
 - [Steward entry doors](STEWARD_ENTRY_DOORS.md) — next-step pointers under time pressure (process support; cannot narrow core)
 - [Affected-reader process guides](adoption/easy_entry/README.md#process-guides) — challenge, independent review, certification, help and harm, crisis clocks
 
@@ -21,10 +21,10 @@ Think of a path from system check to remedy. **Forums supervise throughout.** Th
 
 ```mermaid
 flowchart TB
-  C[Certify the system<br/><br/>Chapter Nine] --> S[Measure help and harm<br/><br/>two tracks, never one net score<br/>Chapters Fifteen and Sixteen]
+  C[Certify the system<br/><br/>Chapter Eight] --> S[Measure help and harm<br/><br/>two tracks, never one net score<br/>Chapters Fourteen and Fifteen]
   A0((A)) --> C
-  S --> E[Effects and remedy<br/><br/>Chapter Seventeen]
-  E --> F[Forum families<br/><br/>Chapter Twenty-Three]
+  S --> E[Effects and remedy<br/><br/>Chapter Sixteen]
+  E --> F[Forum families<br/><br/>Chapter Twenty-Two]
   F --> A1((A))
   style C fill:none,stroke:#16a34a,color:#ffffff
   style S fill:none,stroke:#db2777,color:#ffffff
@@ -36,24 +36,24 @@ flowchart TB
 
 *Caption: forums supervise the chain; a filed case is not standing by itself.*
 
-1. **Certify the system** — [Chapter Nine](../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation)
-   Before a high-impact system is trusted at scale, forums review evidence and write a time-bound, challengeable **System Certification Record**: is it constitutionally safe to rely on *right now*? Certification is not standing. Certification is not a sentience-status decision (that floor lives in [Article VI-B](../core_06.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)). A Certification Record may later supply verified facts to Chapter Fifteen; it does not assign standing effects.
+1. **Certify the system** — [Chapter Eight](../core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation)
+   Before a high-impact system is trusted at scale, forums review evidence and write a time-bound, challengeable **System Certification Record**: is it constitutionally safe to rely on *right now*? Certification is not standing. Certification is not a sentience-status decision (that floor lives in [Article VI-B](../core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)). A Certification Record may later supply verified facts to Chapter Fourteen; it does not assign standing effects.
 
-2. **Record and measure standing** — [Chapter Fifteen](../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened) (Question 1) and [Chapter Sixteen](../core_16.000_standing_measurement.md#chapter-sixteen-standing-measurement--question-2-how-good-or-bad-was-it) (Question 2)
+2. **Record and measure standing** — [Chapter Fourteen](../core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (Question 1) and [Chapter Fifteen](../core_15.000_standing_measurement.md#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) (Question 2)
    When conduct or harm matters constitutionally, verified facts enter **Standing Records**. Question 1 asks what happened. Question 2 measures how good or how harmful it was. **Contribution** (help toward flourishing) and **violation** (accountability failures and harm) stay on **separate axes** — they never fold into one net score. Rumors, reputations, and dispute stories are not standing.
 
-3. **Apply effects and remedy** — [Chapter Seventeen](../core_17.000_standing_integration.md#chapter-seventeen-standing-integration--question-3-what-follows) (Question 3)
-   Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../core_19.000_violation_consequences.md#21-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../core_01.040_stewardship_capacity_principles.md#175-duty-to-resist) from Chapter One §17.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
+3. **Apply effects and remedy** — [Chapter Sixteen](../core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (Question 3)
+   Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../core_18.000_violation_consequences.md#31-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) from Chapter Two §17.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
 
-4. **Forum families supervise** — [Chapter Twenty-Three](../core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases)
+4. **Forum families supervise** — [Chapter Twenty-Two](../core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases)
    Forum families decide which track handles a dispute, where a case ordinarily starts, how matters transfer, and how clocks keep remedy from dying in delay. They may open, update, or correct Standing Records when facts are verified — or set a bad record aside on challenge. They must not be the sole final home for a claim that the same family is biased, captured, or in conflict (**anti-self-judging**). Filing a case alone has no immediate impact on standing.
 
 ## Rights floors that travel with the chain
 
-These floors are already in Chapter Six. This page does not restate them as new duties.
+These floors are already in Chapter Four. This page does not restate them as new duties.
 
-- **[Article XIV-A](../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy)** (*Right to Redress and Remedy*) — a real way to challenge, get review, and be made whole; good-faith reports must not be punished.
-- **[Article XVII](../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification)** (*Audit, Transparency, and Independent Verification*) — the audit floor. Three-layer picture (floor / property / process): [Article XVII](../core_06.020_rights_part_c.md#audit-three-layers). Chapter Nine is one large audit process under that floor, not the only audit home.
+- **[Article XIV-A](../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy)** (*Right to Redress and Remedy*) — a real way to challenge, get review, and be made whole; good-faith reports must not be punished.
+- **[Article XVII](../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification)** (*Audit, Transparency, and Independent Verification*) — the audit floor. Three-layer picture (floor / property / process): [Article XVII](../core_04.020_rights_part_c.md#audit-three-layers). Chapter Eight is one large audit process under that floor, not the only audit home.
 
 ## What this page does not do
 
@@ -62,4 +62,4 @@ These floors are already in Chapter Six. This page does not restate them as new 
 - Does not treat this map as compliance.
 - Does not decide sentience status, rewrite standing measurement, or replace forum supervision.
 
-**Next:** [Preamble §6.2](../core_00.000_preamble.md#62-how-the-full-chain-fits-together) for how the chain fits together, [§7](../core_00.000_preamble.md#7-process-ownership-and-outputs) for the owner register, then the named chapter.
+**Next:** [Chapter One §6.2](../core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together) for how the chain fits together, [§7](../core_01.000_constitutional_map.md#7-process-ownership-and-outputs) for the owner register, then the named chapter.

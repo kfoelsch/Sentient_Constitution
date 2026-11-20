@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit MEAS-DEF-01 measurement tier placement on Chapter Five definitions."""
+"""Audit MEAS-DEF-01 measurement tier placement on Chapter Three definitions."""
 
 from __future__ import annotations
 
@@ -17,15 +17,15 @@ from ch5_paths import CH5_ALL, CH5_APEX  # noqa: E402
 
 # Letter-form O/M/A/C heads (aims and Tetrad legs) live in apex files without #### titles.
 APEX_HEAD_LOCATORS: dict[str, tuple[str, str]] = {
-    "Flourishing": ("core_05.015_apex_flourishing_aim.md", "flourishing-constitutional"),
+    "Flourishing": ("core_03.015_apex_flourishing_aim.md", "flourishing-constitutional"),
     "Continuity (Constitutional Aim)": (
-        "core_05.010_apex_continuity_aim.md",
+        "core_03.010_apex_continuity_aim.md",
         "continuity-aim-constitutional",
     ),
-    "Oversight": ("core_05.020_apex_oversight_leg.md", "oversight-constitutional"),
-    "Participation": ("core_05.025_apex_participation_leg.md", "participation-constitutional"),
-    "Accountability": ("core_05.005_apex_accountability_leg.md", "accountability"),
-    "Timeliness": ("core_05.030_apex_timeliness_leg.md", "timeliness-constitutional"),
+    "Oversight": ("core_03.020_apex_oversight_leg.md", "oversight-constitutional"),
+    "Participation": ("core_03.025_apex_participation_leg.md", "participation-constitutional"),
+    "Accountability": ("core_03.005_apex_accountability_leg.md", "accountability"),
+    "Timeliness": ("core_03.030_apex_timeliness_leg.md", "timeliness-constitutional"),
 }
 
 LETTER_M_RE = re.compile(r"^- M:", re.MULTILINE)

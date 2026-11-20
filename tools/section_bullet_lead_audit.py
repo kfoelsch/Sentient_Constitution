@@ -7,8 +7,8 @@ prose that introduces what follows — not a bare ``- `` / ``* `` / ``1. `` list
 item. A section whose first content is a child heading is a container and is
 out of scope.
 
-Scope (AUDIT-SCOPE-01): every scanned corpus file, Chapter Five included. The one
-allowed list opener is the Chapter Five definition-entry opener ``- **What it is**``,
+Scope (AUDIT-SCOPE-01): every scanned corpus file, Chapter Three included. The one
+allowed list opener is the Chapter Three definition-entry opener ``- **What it is**``,
 which ``ch5_entry_format_audit.py`` validates; it is recognized by its content in
 any file, not by file name.
 
@@ -153,12 +153,12 @@ def main() -> int:
     if not findings:
         print(
             f"PASS: {RULE} — sections open with lead-in prose, not a list item "
-            "(Chapter Five entry opener allowed by content)."
+            "(Chapter Three entry opener allowed by content)."
         )
         return 0
     print(
         f"FAIL: {RULE} — {len(findings)} section(s) open with a list item "
-        "(Chapter Five entry opener allowed by content)."
+        "(Chapter Three entry opener allowed by content)."
     )
     if args.summary:
         counts: dict[str, int] = {}

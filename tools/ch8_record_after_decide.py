@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Chapter Eight second reorder: Record after Decide, new Phase VI Operate (CH9-PROCESS-ORDER-01).
+"""Chapter Six second reorder: Record after Decide, new Phase VI Operate (CH9-PROCESS-ORDER-01).
 
 Starts from the five-phase numbering of tools/ch8_process_order_reorder.py and produces six phases:
 
@@ -25,10 +25,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-A = "core_09.005_system_alignment_certification_evaluation.md"
-B = "core_09.010_system_alignment_certification_record_process.md"
-C = "core_09.015_system_alignment_certification_illustrations.md"
-HUB = "core_09.000_system_alignment_certification.md"
+A = "core_08.005_system_alignment_certification_evaluation.md"
+B = "core_08.010_system_alignment_certification_record_process.md"
+C = "core_08.015_system_alignment_certification_illustrations.md"
+HUB = "core_08.000_system_alignment_certification.md"
 CH8 = {A, B, C}
 
 # ---------------------------------------------------------------- number map
@@ -219,7 +219,7 @@ class Remapper:
             before = full[max(0, offset + m.start() - 70): offset + m.start()]
             line_start = before.rfind("\n")
             before_line = before[line_start + 1:]
-            marker_ch8 = re.search(r"(Chapter Eight|Ch\.? ?8)[^§\n]{0,25}$", before_line) or re.search(
+            marker_ch8 = re.search(r"(Chapter Six|Ch\.? ?8)[^§\n]{0,25}$", before_line) or re.search(
                 r"Part [ABC](?:,|\s)\s*$", before_line
             )
             foreign = FOREIGN_BEFORE.search(before_line)
@@ -229,7 +229,7 @@ class Remapper:
             if marker_ch8 and not part_foreign:
                 decision = "ch8"
             elif in_ch8 and not foreign:
-                decision = "ch8?"  # unmarked inside Chapter Eight: assume ours, list for review
+                decision = "ch8?"  # unmarked inside Chapter Six: assume ours, list for review
             else:
                 decision = "skip"
             ctx = (before_line + m.group(0) + full[offset + m.end(): offset + m.end() + 40]).replace("\n", " ")
@@ -249,8 +249,8 @@ def git_files() -> list[str]:
 
 
 # History logs and rule text that describe the earlier numbering are edited by hand;
-# cs_02_b's "Part A §7" is CS-6.310, not Chapter Eight.
-HAND_EDITED = {"project/MEMLOG.md", "doc_architecture.md", "corpus_systems/cs_06.310_data_classifications.md"}
+# cs_02_b's "Part A §7" is CS-4.310, not Chapter Six.
+HAND_EDITED = {"project/MEMLOG.md", "doc_architecture.md", "corpus_systems/cs_04.310_data_classifications.md"}
 
 
 def processable(relpath: str) -> bool:
@@ -365,7 +365,7 @@ def main() -> int:
                 src = p.read_text(encoding="utf-8")
             except UnicodeDecodeError:
                 continue
-        if "core_08." not in src and rel not in CH8 and "Chapter Eight" not in src:
+        if "core_08." not in src and rel not in CH8 and "Chapter Six" not in src:
             continue
         in_ch8 = rel in CH8 or rel == HUB
         dst = rm.rewrite_links(src, rel)

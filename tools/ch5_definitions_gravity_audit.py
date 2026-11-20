@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Automated heuristic audit for Chapter Five definition-body gravity-well creep.
+"""Automated heuristic audit for Chapter Three definition-body gravity-well creep.
 
 Implements automated checks for RS-CH5-GW-001..004 from CONSTITUTIONAL_REGRESSION_SCENARIOS.md.
-Definitions (Sentient Constitution Chapter Five, Independent,
+Definitions (Sentient Constitution Chapter Three, Independent,
 Semi-independent, and Dependent-cluster entries) must not absorb institutional authority, procedural
-sequencing, governance machinery, or excessive Chapter Thirteen article restatement.
+sequencing, governance machinery, or excessive Chapter Twelve article restatement.
 
 Only text inside parsed O/E/C definition *blocks* is scanned. Introductory prose
 under the section headings is excluded (blocks are anchored at ``Title\\n- O:``).
@@ -29,8 +29,8 @@ if str(_TOOLS) not in sys.path:
 from ch5_paths import CH5_ALL, CH5_INDEX, CH5_DEFS
 
 
-CH5 = "## CHAPTER FIVE:"
-CH6 = "## CHAPTER ELEVEN:"
+CH5 = "## CHAPTER THREE:"
+CH6 = "## CHAPTER TEN:"
 SEC1 = "### 1. Independent Definitions"
 SEC2 = "### 2. Semi-independent Definitions"
 SEC3 = "### 2. Dependent-cluster meta rules"
@@ -50,8 +50,8 @@ def parse_args() -> argparse.Namespace:
     p.add_argument("--root", default=".", help="Workspace root (default: .).")
     p.add_argument(
         "--file",
-        default="core_05.000_definitions_home.md",
-        help="Sentient Constitution Markdown file containing Chapter Five (under --root).",
+        default="core_03.000_definitions_home.md",
+        help="Sentient Constitution Markdown file containing Chapter Three (under --root).",
     )
     return p.parse_args()
 
@@ -334,7 +334,7 @@ def audit_blocks(full_text: str, rel_path: str) -> list[str]:
 
 
 def virtual_chapter_five_text(root: pathlib.Path) -> tuple[str, str]:
-    """Reassemble Chapter Five body text from index + constitutional band files."""
+    """Reassemble Chapter Three body text from index + constitutional band files."""
     parts: list[str] = []
     for name in (CH5_INDEX, *CH5_DEFS):
         parts.append(load_text(root / name))
@@ -353,7 +353,7 @@ def main() -> int:
         text = load_text(path)
         rel = path.relative_to(root).as_posix()
 
-    print("Chapter Five definitions gravity-well audit:")
+    print("Chapter Three definitions gravity-well audit:")
     print(f"- Target: {rel}")
     findings = audit_blocks(text, rel)
     if findings:

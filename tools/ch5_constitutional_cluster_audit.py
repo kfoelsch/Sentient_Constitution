@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit Chapter Five constitutional band placement and compass completeness."""
+"""Audit Chapter Three constitutional band placement and compass completeness."""
 
 from __future__ import annotations
 
@@ -10,7 +10,7 @@ from pathlib import Path
 
 from ch5_paths import CH5_BANDS, CH5_INDEX
 
-COMPASS_ANCHOR = "chapter-five-compass-and-definition-map"
+COMPASS_ANCHOR = "chapter-three-compass-and-definition-map"
 TRACE_BLOCK_RE = re.compile(
     r"<details>\s*\n<summary><strong><span style=\"color: #2563eb;\">Trace</span></strong></summary>\s*\n(.*?)\n</details>",
     re.DOTALL,
@@ -26,11 +26,11 @@ EXPECTED_CLUSTER_IDS = [
 ]
 
 BAND_CLUSTER_RANGES = {
-    "core_05.050_band_oversight.md": {"Def.O1", "Def.O2"},
-    "core_05.055_band_participation.md": {"Def.P1", "Def.P2", "Def.P3", "Def.P4"},
-    "core_05.035_band_accountability.md": {"Def.A1", "Def.A2", "Def.A3", "Def.A4"},
-    "core_05.040_band_continuity.md": {"Def.C1", "Def.C2", "Def.C3", "Def.C4"},
-    "core_05.045_band_integrative.md": {"Def.I1"},
+    "core_03.050_band_oversight.md": {"Def.O1", "Def.O2"},
+    "core_03.055_band_participation.md": {"Def.P1", "Def.P2", "Def.P3", "Def.P4"},
+    "core_03.035_band_accountability.md": {"Def.A1", "Def.A2", "Def.A3", "Def.A4"},
+    "core_03.040_band_continuity.md": {"Def.C1", "Def.C2", "Def.C3", "Def.C4"},
+    "core_03.045_band_integrative.md": {"Def.I1"},
 }
 
 
@@ -47,7 +47,7 @@ def main() -> int:
 
     index_path = root / CH5_INDEX
     if not index_path.is_file():
-        failures.append(f"Missing Chapter Five index: {CH5_INDEX}")
+        failures.append(f"Missing Chapter Three index: {CH5_INDEX}")
     else:
         index_text = index_path.read_text(encoding="utf-8")
         if COMPASS_ANCHOR not in index_text:
@@ -91,12 +91,12 @@ def main() -> int:
         failures.append(f"Unexpected Def. clusters: {sorted(extra)}")
 
     if failures:
-        print("FAIL: Chapter Five constitutional cluster audit:")
+        print("FAIL: Chapter Three constitutional cluster audit:")
         for f in failures:
             print(f"  - {f}")
         return 1
 
-    print("PASS: Chapter Five constitutional band files and compass checks.")
+    print("PASS: Chapter Three constitutional band files and compass checks.")
     return 0
 
 

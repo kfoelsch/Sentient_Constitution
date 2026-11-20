@@ -1,5 +1,5 @@
 import re,json,collections
-files=['core_01.000_values_principles.md','core_01.020_interaction_interpretation.md','core_01.040_stewardship_capacity_principles.md']
+files=['core_02.000_values_principles.md','core_02.020_interaction_interpretation.md','core_02.040_stewardship_capacity_principles.md']
 SUM='Definitions (O · M · A · C)'
 prin=[]
 for f in files:

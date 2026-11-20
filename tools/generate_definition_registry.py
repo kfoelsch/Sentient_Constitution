@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate the AI definition registry from authoritative Chapter Five files."""
+"""Generate the AI definition registry from authoritative Chapter Three files."""
 
 from __future__ import annotations
 
@@ -142,7 +142,7 @@ def anchor_line(path: Path, anchor: str) -> int:
 
 def principle_layer_entries(root: Path) -> list[RegistryEntry]:
     preamble = root / "core_00.000_preamble.md"
-    values = root / "core_01.000_values_principles.md"
+    values = root / "core_02.000_values_principles.md"
     tetrad_start = anchor_line(preamble, "#constitutional-tetrad")
     spec: list[tuple[str, Path, str, int | None]] = [
         ("Constitutional Tetrad", preamble, "#constitutional-tetrad", tetrad_start + 4),
@@ -178,7 +178,7 @@ def main() -> int:
     payload = {
         "$schema": "../schemas/definition_registry.schema.json",
         "generated_at": datetime.now(timezone.utc).replace(microsecond=0).isoformat(),
-        "source": "authoritative Chapter Five core files and Chapter One principle-layer anchors (preamble + Part A)",
+        "source": "authoritative Chapter Three core files and Chapter Two principle-layer anchors (preamble + Part A)",
         "definition_count": len(entries),
         "definitions": [asdict(entry) for entry in entries],
     }

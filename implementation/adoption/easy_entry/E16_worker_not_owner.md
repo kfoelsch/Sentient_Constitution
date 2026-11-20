@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#11-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §6](../../../core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_28.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -39,25 +39,25 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** The contract is a waiver. “Independent” means no rest, no safety, no right to organize. The app says you opted out.
 - **With this Constitution:** Anyone who contributes productive work — wages, contracts, platforms, cooperatives, or comparable arrangements — holds fair compensation, collective organization, safe conditions, and rest. Classification tricks designed to defeat that are out.
 
-See: [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor).
+See: [Article III-C](../../../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor).
 
 **A schedule cannot be the price of a clinic or a meal.**
 - **Today:** The next shift overlaps the only clinic slot. Unpaid time off is the only swap. Missing the shift is treated as quitting.
 - **With this Constitution:** The labor floor is in play when scheduling is used to defeat healthcare or survival access. It does not rewrite every shift board for comfort.
 
-See: [Article III-B](../../../core_06.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access); [Article III-A](../../../core_06.000_rights_part_a.md#article-iii-a-survival).
+See: [Article III-B](../../../core_04.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access); [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-survival).
 
 **A good-faith challenge is not supposed to cost the job.**
 - **Today:** Asking why the portal failed, or why the cut happened, is logged as attitude. The next roster disappears.
 - **With this Constitution:** Retaliation against good-faith reports is in the challenge floor. A workplace note is not, by itself, an official record of verified help or harm.
 
-See: [Article XIV-A](../../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Chapter Fifteen §3.2](../../../core_15.000_standing_assessment.md#32-silence-is-the-default).
+See: [Article XIV-A](../../../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Chapter Fourteen §4.2](../../../core_14.000_standing_assessment.md#42-silence-is-the-default).
 
 **Human and machine workers do not get two stacks.**
 - **Today:** The model is constrained; the human crew is told to skip the rule and “take responsibility.” Or the reverse: extra duties only the machine has to follow.
 - **With this Constitution:** One standard when it is costly. An extra rulebook only one kind of worker has to follow is a way to skip the rules.
 
-See: [Chapter One §17.1](../../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard).
+See: [Chapter Two §17.1](../../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard).
 
 ## What you might reasonably object to
 
@@ -67,9 +67,9 @@ See: [Chapter One §17.1](../../../core_01.040_stewardship_capacity_principles.m
 
 - **“I want the shop.”** Owning the shop is not what this page is for. Starting a lawful shop is a different brief ([E08](E08_small_business_owner.md)). This page will not transfer title.
 
-- **“This isn’t labor law where I clock in.”** Correct. It does not override applicable employment or safety law ([Chapter Thirty §6](../../../core_30.000_expansion_supremacy.md#6-relation-to-applicable-external-law)).
+- **“This isn’t labor law where I clock in.”** Correct. It does not override applicable employment or safety law ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
-- **“I am not a ‘worker type.’”** You do not have to take that label to use this page. This brief is for someone who does the work while someone else holds the shop, the app, or the line. It does not change the Rights Floor that applies to you. When pay, rest, safety, organizing, or a schedule that blocks a clinic is actually at stake, those rules are located in [Article III-C](../../../core_06.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (pay and organizing), [Article III-D](../../../core_06.000_rights_part_a.md#article-iii-d-safe-working-conditions) (safety), and [Article III-E](../../../core_06.000_rights_part_a.md#article-iii-e-rest-and-recuperation) (rest).
+- **“I am not a ‘worker type.’”** You do not have to take that label to use this page. This brief is for someone who does the work while someone else holds the shop, the app, or the line. It does not change the Rights Floor that applies to you. When pay, rest, safety, organizing, or a schedule that blocks a clinic is actually at stake, those rules are located in [Article III-C](../../../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (pay and organizing), [Article III-D](../../../core_04.000_rights_part_a.md#article-iii-d-safe-working-conditions) (safety), and [Article III-E](../../../core_04.000_rights_part_a.md#article-iii-e-rest-and-recuperation) (rest).
 
 ## What this will not pretend to give you
 

@@ -12,9 +12,9 @@
     "owner_stack": "privacy_constraint",
     "owner_homes": [
       "Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
-      "Chapter One §6.2.3",
+      "Chapter Two §6.2.3",
       "Article VII-B",
-      "CS-27.305 §10"
+      "CS-26.305 §10"
     ],
     "next_step_class": "proceed_least_restrictive_privacy_restriction",
     "citation_needles": [

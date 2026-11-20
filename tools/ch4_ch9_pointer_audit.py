@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Chapter Four ↔ Chapter Nine pointer discipline audit (advisory by default).
+"""Subcore 3-C ↔ Chapter Eight pointer discipline audit (advisory by default).
 
-Flags Chapter Nine sections that restate Chapter Four verification-substrate
-rules without upstream citations to Chapters Two through Four.
+Flags Chapter Eight sections that restate Subcore 3-C verification-substrate
+rules without upstream citations to Subcores 3-A to 3-C.
 
 Rule: CH4-CH9-POINTER in tools/architecture/rule_registry.json.
 """
@@ -18,12 +18,12 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-CH8_PART_A = "core_09.000_system_alignment_certification_evaluation.md"
-CH8_PART_B = "core_10.000_system_alignment_certification_forum_process_outcomes.md"
+CH8_PART_A = "core_08.000_system_alignment_certification_evaluation.md"
+CH8_PART_B = "core_09.000_system_alignment_certification_forum_process_outcomes.md"
 CH8_FILES = (CH8_PART_A, CH8_PART_B)
-CH4_FILE = "core_04.000_burden_traceability_verification.md"
+CH4_FILE = "subcore_03.030_burden_traceability_verification.md"
 
-# Operative phrases owned by Chapter Four §§1–6; Ch9 should cite upstream, not restate.
+# Operative phrases owned by Subcore 3-C §§1–6; Ch9 should cite upstream, not restate.
 CH4_EXCLUSIVE_PATTERNS: list[tuple[str, re.Pattern[str]]] = [
     ("burden-allocation", re.compile(r"burden of (?:demonstrating )?compliance", re.I)),
     ("trace-artifact", re.compile(r"\btrace artifact\b", re.I)),
@@ -145,12 +145,12 @@ def scan_ch8(root: Path) -> list[str]:
     for ch8_file in CH8_FILES:
         path = root / ch8_file
         if not path.is_file():
-            findings.append(f"{ch8_file}: missing Chapter Nine file")
+            findings.append(f"{ch8_file}: missing Chapter Eight file")
             continue
 
         content = path.read_text(encoding="utf-8")
 
-        # Corpus placement should name Chapter Four as verification-substrate owner.
+        # Corpus placement should name Subcore 3-C as verification-substrate owner.
         placement_match = re.search(
             r"<summary>.*?Corpus placement.*?</summary>\s*(.*?)</details>",
             content,
@@ -164,7 +164,7 @@ def scan_ch8(root: Path) -> list[str]:
                 )
             if not UPSTREAM_POINTER_RE.search(placement) and ch8_file == CH8_PART_A:
                 findings.append(
-                    f"{ch8_file}: corpus placement missing Chapters Two through Four upstream pointer"
+                    f"{ch8_file}: corpus placement missing Subcores 3-A to 3-C upstream pointer"
                 )
         elif ch8_file == CH8_PART_A:
             findings.append(f"{ch8_file}: corpus placement reader-guidance block not found")
@@ -178,8 +178,8 @@ def scan_ch8(root: Path) -> list[str]:
                     section_text
                 ):
                     findings.append(
-                        f"{ch8_file}:{start_line}: §{title} restates Chapter Four "
-                        f"substrate ({label}) without upstream pointer to Chapters Two through Four"
+                        f"{ch8_file}:{start_line}: §{title} restates Subcore 3-C "
+                        f"substrate ({label}) without upstream pointer to Subcores 3-A to 3-C"
                     )
 
             if title_key in HIGH_COUPLING_SECTIONS:
@@ -188,7 +188,7 @@ def scan_ch8(root: Path) -> list[str]:
                 ):
                     findings.append(
                         f"{ch8_file}:{start_line}: §{title} high-coupling verification language "
-                        "without upstream pointer to Chapters Two through Four"
+                        "without upstream pointer to Subcores 3-A to 3-C"
                     )
 
     return findings
@@ -207,7 +207,7 @@ def main() -> int:
 
     findings = scan_ch8(root)
 
-    print("Chapter Four ↔ Chapter Nine pointer discipline audit:")
+    print("Subcore 3-C ↔ Chapter Eight pointer discipline audit:")
     if findings:
         print("- Result: FAIL" if args.strict else "- Result: ADVISORY")
         for item in findings:

@@ -10,7 +10,7 @@ Only lines that carry no routing a reader could not already derive are removed:
 
 A Trace block left with no bullets is removed entirely. Its Definitions
 (O · M · A · C) widget is removed with it only when every row is
-already present in the file-level widget, so no Chapter Five jump link is lost.
+already present in the file-level widget, so no Chapter Three jump link is lost.
 
 ``- Topic routing (...)`` bullets are never touched: the CJS-0.105 §1 router audit
 requires them inside the owning section.

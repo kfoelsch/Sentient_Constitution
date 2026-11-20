@@ -13,17 +13,14 @@ from corpus_paths import ADOPTED_IMPLEMENTATION_WRAPPERS, CORE_FILES
 
 
 GROUPS = (
-    ("Preamble and Chapter One", ("core_00.", "core_01.")),
-    ("Definition mechanics (Chapters Two–Four)", ("core_02", "core_04")),
-    ("Chapter Five definition stack", ("core_05",)),
-    ("Chapter Six Rights Floor", ("core_06",)),
+    ("Preamble and Chapter One (Constitutional Map)", ("core_00.", "core_01.")),
+    ("Chapter Two values and principles", ("core_02",)),
+    ("Chapter Three definition stack", ("core_03",)),
+    ("Chapter Four Rights Floor", ("core_04",)),
+    ("Chapters Five to Seven: charters, separation of duties, Independent Bodies", ("core_05", "core_06", "core_07")),
     (
-        "Chapter Eight independence and Chapters Nine–Fifteen pipelines",
-        ("core_07", "core_08", "core_09", "core_10", "core_11", "core_12"),
-    ),
-    (
-        "Chapters Sixteen–Twenty",
-        ("core_13", "core_14", "core_15", "core_16", "core_17"),
+        "Chapters Eight to Sixteen: certification and standing pipelines",
+        ("core_08", "core_09", "core_10", "core_11", "core_12", "core_13", "core_14", "core_15", "core_16"),
     ),
 )
 

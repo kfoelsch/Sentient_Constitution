@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""One-off record: insert the new Chapter Twenty-Five (Special Enforcement) and shift old Chapters 25-29 to 26-30.
+"""One-off record: insert the new Chapter Twenty-Four (Special Enforcement) and shift old Chapters 25-29 to 26-30.
 
 Adapted from tools/enforcement_chapter_insertion/shift_chapters.py (575th move).
 

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Chapter Eight process-order reorder (CH9-PROCESS-ORDER-01).
+"""Chapter Six process-order reorder (CH9-PROCESS-ORDER-01).
 
-Reorders Chapter Eight so section order follows the certification process:
+Reorders Chapter Six so section order follows the certification process:
 
   Phase I   Frame               §1 Purpose and Role, §2 System Class Evaluation,
                                 §3 Challenging a Certification  (was Part B §5.3 + §5.3.1)
@@ -16,7 +16,7 @@ always (4.1-4.4), when implicated (4.5-4.7), when triggered (4.8).
 
 What the script does, in order:
   1. Expand same-file fragment links in Parts A-C to explicit file links.
-  2. Rewrite every link to a Chapter Eight anchor (file and fragment), the section number
+  2. Rewrite every link to a Chapter Six anchor (file and fragment), the section number
      and (where retitled) the title in the link text, and bare section-number cites.
   3. Recompose Parts A and B (move blocks, renumber headings, rename anchors).
   4. Normalise explicit same-file links back to bare fragments.
@@ -35,10 +35,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-A = "core_09.005_system_alignment_certification_evaluation.md"
-B = "core_09.010_system_alignment_certification_record_process.md"
-C = "core_09.015_system_alignment_certification_illustrations.md"
-HUB = "core_09.000_system_alignment_certification.md"
+A = "core_08.005_system_alignment_certification_evaluation.md"
+B = "core_08.010_system_alignment_certification_record_process.md"
+C = "core_08.015_system_alignment_certification_illustrations.md"
+HUB = "core_08.000_system_alignment_certification.md"
 CH8 = {A, B, C}
 
 # ---------------------------------------------------------------- number map
@@ -246,7 +246,7 @@ class Remapper:
             before = full[max(0, offset + m.start() - 70): offset + m.start()]
             line_start = before.rfind("\n")
             before_line = before[line_start + 1:]
-            marker_ch8 = re.search(r"(Chapter Eight|Ch\.? ?8)[^§\n]{0,25}$", before_line) or re.search(
+            marker_ch8 = re.search(r"(Chapter Six|Ch\.? ?8)[^§\n]{0,25}$", before_line) or re.search(
                 r"Part [ABC](?:,|\s)\s*$", before_line
             )
             foreign = FOREIGN_BEFORE.search(before_line)
@@ -256,7 +256,7 @@ class Remapper:
             if marker_ch8 and not part_foreign:
                 decision = "ch8"
             elif in_ch8 and not foreign:
-                decision = "ch8?"  # unmarked inside Chapter Eight: assume ours, list for review
+                decision = "ch8?"  # unmarked inside Chapter Six: assume ours, list for review
             else:
                 decision = "skip"
             ctx = (before_line + m.group(0) + full[offset + m.end(): offset + m.end() + 40]).replace("\n", " ")
@@ -407,7 +407,7 @@ def main() -> int:
                 src = p.read_text(encoding="utf-8")
             except UnicodeDecodeError:
                 continue
-        if "core_08." not in src and rel not in CH8 and "Chapter Eight" not in src:
+        if "core_08." not in src and rel not in CH8 and "Chapter Six" not in src:
             continue
         in_ch8 = rel in CH8 or rel == HUB
         dst = rm.rewrite_links(src, rel)

@@ -6,10 +6,10 @@ Fails when:
   (those belong in the operational cluster library per doc_architecture.md).
 - Operational cluster files still carry legacy ``- OP-O:`` / ``- OP-E:`` / ``- OP-C:`` lines.
 - Operational cluster section headings use retired letter-suffixed identifiers.
-- CJS-5.105 §1 constitutional compass map is incomplete or cluster Trace blocks lack
-  Constitutional frame / Chapter One basis metadata.
+- CJS-3.105 §1 constitutional compass map is incomplete or cluster Trace blocks lack
+  Constitutional frame / Chapter Two basis metadata.
 - Operational cluster files stack ``---`` delimiters or place a rule between an entry's
-  own ``<a id>`` anchors and its heading (CH5-FORMAT / CJS-5.140 §14).
+  own ``<a id>`` anchors and its heading (CH5-FORMAT / CJS-3.140 §14).
 """
 
 from __future__ import annotations
@@ -26,24 +26,24 @@ from definition_separator_format import audit_separator_lines
 
 CJS1_FILES = (
     "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md",
-    "corpus_joint_structure/cjs_31.105_drafting_contracts.md",
-    "corpus_joint_structure/cjs_05.140_odef_parse_mechanics.md",
-    "corpus_joint_structure/cjs_08.105_support_hosting_classification.md",
+    "corpus_joint_structure/cjs_30.105_drafting_contracts.md",
+    "corpus_joint_structure/cjs_03.140_odef_parse_mechanics.md",
+    "corpus_joint_structure/cjs_06.105_support_hosting_classification.md",
 )
 CJS1_FILE = CJS1_FILES[0]
-OPERATIONAL_CLUSTER_GLOB = "corpus_joint_structure/cjs_05*.md"
-OPERATIONAL_COMPASS_FILE = "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md"
+OPERATIONAL_CLUSTER_GLOB = "corpus_joint_structure/cjs_03*.md"
+OPERATIONAL_COMPASS_FILE = "corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md"
 OPERATIONAL_BAND_FILES = [
-    "corpus_joint_structure/cjs_05.110_oversight_operations.md",
-    "corpus_joint_structure/cjs_05.120_participation_operations.md",
-    "corpus_joint_structure/cjs_05.125_accountability_operations.md",
-    "corpus_joint_structure/cjs_05.130_continuity_operations.md",
-    "corpus_joint_structure/cjs_05.135_integrative_operations.md",
+    "corpus_joint_structure/cjs_03.110_oversight_operations.md",
+    "corpus_joint_structure/cjs_03.120_participation_operations.md",
+    "corpus_joint_structure/cjs_03.125_accountability_operations.md",
+    "corpus_joint_structure/cjs_03.130_continuity_operations.md",
+    "corpus_joint_structure/cjs_03.135_integrative_operations.md",
 ]
 EXPECTED_OPERATIONAL_CLUSTER_IDS = [str(n) for n in range(2, 24)]
 
-CLUSTER_HEADING_RE = re.compile(r"^#{1,3}\s+CJS-5\.(?:110|115|120|125|130|135)\s+§(\d+)\s+", re.MULTILINE)
-CLUSTER_SPLIT_RE = re.compile(r"(?=^#{1,3} CJS-5\.(?:110|115|120|125|130|135) §\d+ )", re.MULTILINE)
+CLUSTER_HEADING_RE = re.compile(r"^#{1,3}\s+CJS-3\.(?:110|115|120|125|130|135)\s+§(\d+)\s+", re.MULTILINE)
+CLUSTER_SPLIT_RE = re.compile(r"(?=^#{1,3} CJS-3\.(?:110|115|120|125|130|135) §\d+ )", re.MULTILINE)
 CJS1_HEADING_RE = re.compile(r"^#{1,3}\s+(CJS-(?:0\.110|18\.105|5\.140|8\.105)\b.*)")
 TRACE_BLOCK_RE = re.compile(
     r"<details>\s*\n<summary><strong><span style=\"color: #2563eb;\">Trace</span></strong></summary>\s*\n(.*?)\n</details>",
@@ -105,7 +105,7 @@ def slice_cjs1_sections(text: str) -> list[tuple[str, str]]:
 def find_cjs1_inline_odef_clusters(section_id: str, body: str, rel: str = CJS1_FILE) -> list[str]:
     findings: list[str] = []
     # Skip parse-mechanics sections that describe the format itself.
-    if section_id.startswith("CJS-5.140 §13") or section_id.startswith("CJS-5.140 §14"):
+    if section_id.startswith("CJS-3.140 §13") or section_id.startswith("CJS-3.140 §14"):
         return findings
     for title in titled_guidepost_entries(body):
         if title.startswith("[") or title.startswith("<"):
@@ -135,7 +135,7 @@ def audit_cjs1_op_clusters(root: Path) -> list[str]:
 def audit_operational_legacy_op_lines(root: Path) -> list[str]:
     findings: list[str] = []
     for rel in OPERATIONAL_BAND_FILES + [
-        "corpus_joint_structure/cjs_05.105_cross_implementation_operational_terms.md"
+        "corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md"
     ]:
         path = root / rel
         if not path.is_file():
@@ -153,7 +153,7 @@ def audit_operational_legacy_op_lines(root: Path) -> list[str]:
 def audit_operational_letter_headings(root: Path) -> list[str]:
     findings: list[str] = []
     letter_cluster_id_re, _ = legacy_cluster_patterns(root)
-    for path in sorted((root / "corpus_joint_structure").glob("cjs_05*.md")):
+    for path in sorted((root / "corpus_joint_structure").glob("cjs_03*.md")):
         text = path.read_text(encoding="utf-8")
         for match in letter_cluster_id_re.finditer(text):
             findings.append(
@@ -164,7 +164,7 @@ def audit_operational_letter_headings(root: Path) -> list[str]:
 
 
 def audit_compass_and_frames(root: Path) -> list[str]:
-    """Validate the CJS-5.105 §1 compass map completeness and constitutional Trace metadata."""
+    """Validate the CJS-3.105 §1 compass map completeness and constitutional Trace metadata."""
     findings: list[str] = []
     compass_path = root / OPERATIONAL_COMPASS_FILE
     if not compass_path.is_file():
@@ -174,7 +174,7 @@ def audit_compass_and_frames(root: Path) -> list[str]:
     map_start = compass_text.find("**Cluster map**")
     map_end = compass_text.find("</details>", map_start)
     map_section = compass_text[map_start:map_end] if map_start != -1 and map_end != -1 else ""
-    map_ids = re.findall(r"CJS-5\.(?:110|115|120|125|130|135)\s+§(\d+)", map_section)
+    map_ids = re.findall(r"CJS-3\.(?:110|115|120|125|130|135)\s+§(\d+)", map_section)
     map_ids = [cluster_id for cluster_id in map_ids if cluster_id in EXPECTED_OPERATIONAL_CLUSTER_IDS]
     if len(set(map_ids)) != 22:
         findings.append(
@@ -201,9 +201,9 @@ def audit_compass_and_frames(root: Path) -> list[str]:
                 findings.append(
                     f"{rel}: {cluster_id} Trace block missing Constitutional frame metadata."
                 )
-            if "- Chapter One basis:" not in trace_body:
+            if "- Chapter Two basis:" not in trace_body:
                 findings.append(
-                    f"{rel}: {cluster_id} Trace block missing Chapter One basis metadata."
+                    f"{rel}: {cluster_id} Trace block missing Chapter Two basis metadata."
                 )
 
     for cluster_id in EXPECTED_OPERATIONAL_CLUSTER_IDS:
@@ -244,7 +244,7 @@ def audit_letter_cluster_citations(root: Path) -> list[str]:
 
 def audit_operational_separators(root: Path) -> list[str]:
     findings: list[str] = []
-    for rel in [OPERATIONAL_COMPASS_FILE, *OPERATIONAL_BAND_FILES, "corpus_joint_structure/cjs_05.115_audit_process.md"]:
+    for rel in [OPERATIONAL_COMPASS_FILE, *OPERATIONAL_BAND_FILES, "corpus_joint_structure/cjs_03.115_audit_process.md"]:
         path = root / rel
         if not path.exists():
             continue

@@ -64,13 +64,13 @@ def parse_args() -> argparse.Namespace:
     )
     parser.add_argument(
         "--file",
-        default="core_03.000_definition_integrity.md",
-        help="Corpus Markdown file for Chapter Three definition-integrity slices (under --root).",
+        default="subcore_03.020_definition_integrity.md",
+        help="Corpus Markdown file for Subcore 3-B definition-integrity slices (under --root).",
     )
     parser.add_argument(
         "--ch4-file",
-        default="core_04.000_burden_traceability_verification.md",
-        help="Corpus Markdown file for Chapter Four traceability slices (under --root).",
+        default="subcore_03.030_burden_traceability_verification.md",
+        help="Corpus Markdown file for Subcore 3-C traceability slices (under --root).",
     )
     parser.add_argument(
         "--thematic-break-files",
@@ -354,14 +354,14 @@ def check_ch4_32_mandatory_traceability_bidirectional(section_lines: list[str]) 
             break
     if parent_i is None:
         errors.append(
-            "Chapter Four Chapter One §8.2: missing parent bullet '- be bidirectional, such that:'"
+            "Subcore 3-C Chapter Two §8.2: missing parent bullet '- be bidirectional, such that:'"
         )
         return errors
 
     children = collect_immediate_nested_bullets(section_lines, parent_i)
     if len(children) < 2:
         errors.append(
-            "Chapter Four Chapter One §8.2: '- be bidirectional, such that:' must be followed by at least two nested child bullets"
+            "Subcore 3-C Chapter Two §8.2: '- be bidirectional, such that:' must be followed by at least two nested child bullets"
         )
 
     return errors
@@ -369,52 +369,52 @@ def check_ch4_32_mandatory_traceability_bidirectional(section_lines: list[str]) 
 
 DEFAULT_THEMATIC_BREAK_TARGETS: tuple[str, ...] = (
     "core_00.000_preamble.md",
-    "core_01.000_values_principles.md",
-    "core_01.010_values_principles_continuity_aim.md",
-    "core_01.020_interaction_interpretation.md",
-    "core_01.030_constitutional_interpretation.md",
-    "core_01.040_stewardship_capacity_principles.md",
-    "core_01.050_governance_incentive_application.md",
-    "core_02.000_definition_structure.md",
-    "core_03.000_definition_integrity.md",
-    "core_04.000_burden_traceability_verification.md",
-    "core_05.000_definitions_home.md",
-    "core_05.005_apex_accountability_leg.md",
-    "core_05.010_apex_continuity_aim.md",
-    "core_05.015_apex_flourishing_aim.md",
-    "core_05.020_apex_oversight_leg.md",
-    "core_05.025_apex_participation_leg.md",
-    "core_05.030_apex_timeliness_leg.md",
-    "core_05.035_band_accountability.md",
-    "core_05.040_band_continuity.md",
-    "core_05.045_band_integrative.md",
-    "core_05.050_band_oversight.md",
-    "core_05.055_band_participation.md",
-    "core_05.060_band_performance.md",
-    "core_08.000_functional_independence_separation_of_duties.md",
-    "core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification--evaluation",
-    "core_15.000_standing_assessment.md",
-    "core_16.000_standing_measurement.md",
-    "core_17.000_standing_integration.md",
-    "core_18.000_contribution_consequences.md",
-    "core_19.000_violation_consequences.md",
-    "core_20.000_final_effect_restoration_enforcement.md",
-    "core_21.000_misconduct_designation.md",
-    "core_22.000_misconduct_pattern_applications.md",
-    "core_23.000_forum.md",
-    "core_24.000_forum_families_escalation_timeliness_support.md",
-    "core_25.000_enforcement.md",
-    "core_26.000_special_enforcement.md",
-    "core_06.000_rights_part_a.md",
-    "core_06.010_rights_part_b.md",
-    "core_06.020_rights_part_c.md",
-    "core_06.030_rights_part_d.md",
-    "core_06.040_rights_part_e.md",
-    "core_27.000_governance.md",
-    "core_28.000_non_regression.md",
-    "core_29.000_amendment_ratification.md",
-    "core_30.000_expansion_supremacy.md",
-    "core_31.000_incorporation.md",
+    "core_02.000_values_principles.md",
+    "core_02.010_values_principles_continuity_aim.md",
+    "core_02.020_interaction_interpretation.md",
+    "core_02.030_constitutional_interpretation.md",
+    "core_02.040_stewardship_capacity_principles.md",
+    "core_02.050_governance_incentive_application.md",
+    "subcore_03.010_definition_structure.md",
+    "subcore_03.020_definition_integrity.md",
+    "subcore_03.030_burden_traceability_verification.md",
+    "core_03.000_definitions_home.md",
+    "core_03.005_apex_accountability_leg.md",
+    "core_03.010_apex_continuity_aim.md",
+    "core_03.015_apex_flourishing_aim.md",
+    "core_03.020_apex_oversight_leg.md",
+    "core_03.025_apex_participation_leg.md",
+    "core_03.030_apex_timeliness_leg.md",
+    "core_03.035_band_accountability.md",
+    "core_03.040_band_continuity.md",
+    "core_03.045_band_integrative.md",
+    "core_03.050_band_oversight.md",
+    "core_03.055_band_participation.md",
+    "core_03.060_band_performance.md",
+    "core_06.000_functional_independence_separation_of_duties.md",
+    "core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation",
+    "core_14.000_standing_assessment.md",
+    "core_15.000_standing_measurement.md",
+    "core_16.000_standing_integration.md",
+    "core_17.000_contribution_consequences.md",
+    "core_18.000_violation_consequences.md",
+    "core_19.000_final_effect_restoration_enforcement.md",
+    "core_20.000_misconduct_designation.md",
+    "core_21.000_misconduct_pattern_applications.md",
+    "core_22.000_forum.md",
+    "core_23.000_forum_families_escalation_timeliness_support.md",
+    "core_24.000_enforcement.md",
+    "core_25.000_special_enforcement.md",
+    "core_04.000_rights_part_a.md",
+    "core_04.010_rights_part_b.md",
+    "core_04.020_rights_part_c.md",
+    "core_04.030_rights_part_d.md",
+    "core_04.040_rights_part_e.md",
+    "core_26.000_governance.md",
+    "core_27.000_non_regression.md",
+    "core_28.000_amendment_ratification.md",
+    "core_29.000_expansion_supremacy.md",
+    "core_30.000_incorporation.md",
     "corpus_systems.md",
     "corpus_institutions.md",
     "corpus_forum.md",
@@ -552,14 +552,14 @@ def check_ch2_42_evansion_nesting(section_lines: list[str]) -> list[str]:
             break
     if cat_i is None:
         errors.append(
-            "Chapter Three §2.1: missing category line '- **Fake measures and paperwork**'"
+            "Subcore 3-B §2.1: missing category line '- **Fake measures and paperwork**'"
         )
         return errors
 
     children = collect_immediate_nested_bullets(section_lines, cat_i)
     if not children:
         errors.append(
-            "Chapter Three §2.1: missing nested lines under Fake measures and paperwork"
+            "Subcore 3-B §2.1: missing nested lines under Fake measures and paperwork"
         )
         return errors
     return errors
@@ -624,7 +624,7 @@ def main() -> int:
     )
     if s65 is None:
         findings.append(
-            "Could not slice Chapter Four §2 (missing heading or section 3 boundary)"
+            "Could not slice Subcore 3-C §2 (missing heading or section 3 boundary)"
         )
     else:
         findings.extend(
@@ -638,14 +638,14 @@ def main() -> int:
     )
     if s42 is None:
         findings.append(
-            "Could not slice Chapter Three §2.1 (missing heading or §2.2 boundary)"
+            "Could not slice Subcore 3-B §2.1 (missing heading or §2.2 boundary)"
         )
     else:
         findings.extend(check_ch2_42_evansion_nesting(s42.splitlines()))
 
     print("Corpus Markdown structure audit:")
-    print(f"- Chapter Three slice file: {args.file}")
-    print(f"- Chapter Four slice file: {args.ch4_file}")
+    print(f"- Subcore 3-B slice file: {args.file}")
+    print(f"- Subcore 3-C slice file: {args.ch4_file}")
     print(
         "- Horizontal-rule (---) blank-line targets: "
         + ", ".join(p.relative_to(root).as_posix() for p in thematic_paths)

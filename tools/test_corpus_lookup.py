@@ -14,8 +14,8 @@ import corpus_lookup
 ROOT = Path(__file__).resolve().parents[1]
 # The README edition table is the source of truth; `make edition-bump` moves it.
 EDITION, EFFECTIVE = corpus_lookup.read_edition(ROOT)
-CF10 = "corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md"
-CF10_ANCHOR = "#cf-23440-technical-specialist-forums-and-specialist-chambers"
+CF10 = "corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md"
+CF10_ANCHOR = "#cf-22440-technical-specialist-forums-and-specialist-chambers"
 GLOSS_NEEDLE = "unaccountable parallel judiciary"
 
 
@@ -43,20 +43,20 @@ class CorpusLookupTests(unittest.TestCase):
         code, payload = run_cli("resolve", "Def.P1")
         self.assertEqual(code, 0)
         result = payload["result"]
-        self.assertEqual(result["file"], "core_05.055_band_participation.md")
+        self.assertEqual(result["file"], "core_03.055_band_participation.md")
         self.assertEqual(result["id"], "Def.P1")
         self.assertNotIn("gloss", result)
 
     def test_resolve_chapter_crosswalk_and_machine_number(self) -> None:
         crosswalk = json.loads((ROOT / "tools/architecture/chapter_crosswalk.json").read_text())
         legacy = next(section["legacy_section_id"] for section in crosswalk["sections"]
-                      if section["display_id"] == "CI-19.210 §4")
+                      if section["display_id"] == "CI-18.210 §4")
         _, dotted = run_cli("resolve", legacy)
         _, machine = run_cli("resolve", "CI-13210.4")
         expected = {
             "machine_id": "CI-13210.4",
-            "display_id": "CI-19.210 §4",
-            "source_file": "corpus_institutions/ci_19.210_institutional_failure_dissolution.md",
+            "display_id": "CI-18.210 §4",
+            "source_file": "corpus_institutions/ci_18.210_institutional_failure_dissolution.md",
         }
         for payload in (dotted, machine):
             result = payload["result"]
@@ -80,11 +80,11 @@ class CorpusLookupTests(unittest.TestCase):
     def test_hydrate_def_p1_cluster_hits_file_via_definition_term(self) -> None:
         code, resolved = run_cli("resolve", "Def.P1")
         self.assertEqual(code, 0)
-        self.assertEqual(resolved["result"]["file"], "core_05.055_band_participation.md")
+        self.assertEqual(resolved["result"]["file"], "core_03.055_band_participation.md")
         code, hydrated = run_cli("hydrate", "Animal Life")
         self.assertEqual(code, 0)
         result = hydrated["result"]
-        self.assertEqual(result["file"], "core_05.055_band_participation.md")
+        self.assertEqual(result["file"], "core_03.055_band_participation.md")
         self.assertIn("Animal Life", result["text"])
         self.assertLessEqual(
             result["line_end"] - result["line_start"] + 1,
@@ -102,8 +102,8 @@ class CorpusLookupTests(unittest.TestCase):
         resolver = json.loads(
             (ROOT / "ai_corpus/indexes/id_resolver.json").read_text(encoding="utf-8")
         )
-        section_id = "CF-23.440 §3"
-        gloss = resolver["ids"]["CF-23.440"]["gloss"]
+        section_id = "CF-22.440 §3"
+        gloss = resolver["ids"]["CF-22.440"]["gloss"]
         self.assertIn(GLOSS_NEEDLE, gloss)
         code, resolved = run_cli("resolve", section_id)
         self.assertEqual(code, 0)
@@ -112,7 +112,7 @@ class CorpusLookupTests(unittest.TestCase):
         code, payload = run_cli("hydrate", section_id)
         self.assertEqual(code, 0)
         text = payload["result"]["text"]
-        self.assertTrue(text.startswith("## CF-23.440 §3"))
+        self.assertTrue(text.startswith("## CF-22.440 §3"))
         self.assertNotEqual(text.strip(), gloss.strip())
         self.assertEqual(payload["result"]["file"], CF10)
         self.assertNotIn("gloss", payload["result"])
@@ -127,7 +127,7 @@ class CorpusLookupTests(unittest.TestCase):
         self.assertEqual(code, 0)
         result = payload["result"]
         owners = [item["id"] for item in result["primary_owners"]]
-        self.assertIn("CF-23.440", owners)
+        self.assertIn("CF-22.440", owners)
         self.assertTrue(result["read_with"])
 
     def test_validity_current_anchor(self) -> None:
@@ -162,11 +162,11 @@ class CorpusLookupTests(unittest.TestCase):
         self.assertGreater(result["outbound_count"] + result["inbound_count"], 0)
 
     def test_resolve_prefix_lists_ids_not_text(self) -> None:
-        code, payload = run_cli("resolve", "--prefix", "CF-23.440")
+        code, payload = run_cli("resolve", "--prefix", "CF-22.440")
         self.assertEqual(code, 0)
         ids = [item["id"] for item in payload["result"]["ids"]]
-        self.assertIn("CF-23.440", ids)
-        self.assertIn("CF-23.440 §3", ids)
+        self.assertIn("CF-22.440", ids)
+        self.assertIn("CF-22.440 §3", ids)
         for item in payload["result"]["ids"]:
             self.assertNotIn("text", item)
             self.assertNotIn("gloss", item)
@@ -197,7 +197,7 @@ class CorpusLookupTests(unittest.TestCase):
         self.assertEqual(result["kind"], "exact")
         self.assertEqual(result["topic"]["id"], "CJS-R09")
         owners = [item["id"] for item in result["owners"]]
-        self.assertIn("CF-23.440", owners)
+        self.assertIn("CF-22.440", owners)
         self.assertTrue(result["read_with"])
 
     def test_apply_pack_hydrates_owner_and_read_with(self) -> None:
@@ -290,8 +290,8 @@ class CorpusLookupTests(unittest.TestCase):
         files = {str(hit["file"]) for hit in result["hits"]}
         self.assertTrue(
             any(
-                name.endswith("core_05.040_band_continuity.md")
-                or name.endswith("core_06.000_rights_part_a.md")
+                name.endswith("core_03.040_band_continuity.md")
+                or name.endswith("core_04.000_rights_part_a.md")
                 for name in files
             ),
             files,

@@ -6,14 +6,14 @@ Rule ID: CORPUS-REF-NAME-01
 Every reference in body prose to a corpus file or section must carry its
 name and must resolve:
 
-* **Named.** ``[CS-6.350 §3](…)`` alone fails. Accepted forms put the name in
-  the link text (``[CS-6.350 §3 Gate criteria and advancement rules](…)``) or in
-  a following gloss (``**CS-6.350 §3** (*Gate criteria and advancement rules*)``
-  or ``[**CS-6.350 §3**](…) (*Gate criteria and advancement rules*)``). The
-  both endpoints of a range (``CI-6.275 §1 (*…*) through CI-6.275 §3 (*…*)``) need
-  names. Unlinked references (``CI-9.210``) are held to the same naming rule.
+* **Named.** ``[CS-4.350 §3](…)`` alone fails. Accepted forms put the name in
+  the link text (``[CS-4.350 §3 Gate criteria and advancement rules](…)``) or in
+  a following gloss (``**CS-4.350 §3** (*Gate criteria and advancement rules*)``
+  or ``[**CS-4.350 §3**](…) (*Gate criteria and advancement rules*)``). The
+  both endpoints of a range (``CI-4.275 §1 (*…*) through CI-4.275 §3 (*…*)``) need
+  names. Unlinked references (``CI-8.210``) are held to the same naming rule.
 * **Resolving.** The cited ID must exist as a corpus heading. A link must
-  point at the file that owns the ID; a section-level ID (``CS-6.350 §3``) must
+  point at the file that owns the ID; a section-level ID (``CS-4.350 §3``) must
   carry a fragment, and that fragment must be an anchor of that section's
   own heading. A gloss or link-text name must agree with the heading title
   (either contains the other, compared as lowercase words).
@@ -22,7 +22,7 @@ Headings, tables, HTML-only lines, blockquotes, backticks, and fenced code
 are out of scope; ``<details>`` widget bodies (Trace, Definitions
 (O · M · A · C)) are in scope. ``--changed-only`` checks
 added Markdown lines versus HEAD so legacy references do not block until
-those lines are edited. A list-entry label (``- **CI-6.275 §3** — description``)
+those lines are edited. A list-entry label (``- **CI-4.275 §3** — description``)
 is exempt: the description after the dash is its name.
 """
 
@@ -103,7 +103,7 @@ class Section:
     title: str
     anchors: set[str]
     # Other accepted names: titles of the other parts of a multi-file ID
-    # (CS-9.305 / CS-9.310) and the canonical name the registry gives it.
+    # (CS-8.305 / CS-8.310) and the canonical name the registry gives it.
     aliases: set[str] = field(default_factory=set)
 
     @property
@@ -148,7 +148,7 @@ def build_index(root: Path) -> dict[str, Section]:
                 match = HEADING_RE.match(line)
                 numbered = NUMBERED_SUBSECTION_RE.match(line)
                 if numbered and file_id and not match:
-                    # ``### 3.5 Reclassification requirement`` inside CS-9.305 defines ``CS-9.305 §3.5``.
+                    # ``### 3.5 Reclassification requirement`` inside CS-8.305 defines ``CS-8.305 §3.5``.
                     ident = f"{file_id} §{numbered.group(1)}"
                     anchors = set(pending) | {github_slug(line.lstrip("# ").strip())}
                     if ident not in index:
@@ -188,7 +188,7 @@ REGISTRY_NAME_RE = re.compile(rf"\*\*({ID_PATTERN})\s+[—–-]\s+([^*]+?)\*\*")
 
 
 def add_registry_names(root: Path, index: dict[str, Section]) -> None:
-    """Accept the canonical ``**CS-9.305 / CS-9.310 — System classification and handling**``
+    """Accept the canonical ``**CS-8.305 / CS-8.310 — System classification and handling**``
     names the family registries use, alongside the heading titles."""
     for family in FAMILY_DIRS:
         for path in sorted((root / family).glob("*_00.*_registry*.md")):
@@ -292,7 +292,7 @@ def check_reference(
         fragment_forms = (fragment, *ids_for_fragment(link_path, fragment))
     subsection = SUBSECTION_NAME_RE.match(name) if name else None
     if subsection is not None:
-        # ``CS-27.305 §10 inspectable attributable action``: the name after the
+        # ``CS-26.305 §10 inspectable attributable action``: the name after the
         # ``§N`` token names a subsection inside the ID's section, so it is
         # checked against the heading title or the linked anchor, not the
         # section title alone.
@@ -345,8 +345,8 @@ def check_reference(
     target, _, fragment = href.partition("#")
     valid_anchors = set(section.anchors)
     if subsection is not None:
-        # ``CS-27.305 §10`` points inside CS-27.305 at a subsection that lives under a
-        # numbered descendant (CS-27.305 §10), so descendant anchors are valid too.
+        # ``CS-26.305 §10`` points inside CS-26.305 at a subsection that lives under a
+        # numbered descendant (CS-26.305 §10), so descendant anchors are valid too.
         prefix = f"{ident}."
         for key, child in index.items():
             if key.startswith(prefix):
@@ -421,7 +421,7 @@ def scan_line(
                 sub = SUBSECTION_NAME_RE.match(name)
                 trailing = gloss_after(line[link.end() :])
                 if sub is not None and not sub.group(1).strip() and trailing:
-                    # ``[CS-9.310 §5.2](…) (*Reclassification…*)``: the gloss names
+                    # ``[CS-8.310 §5.2](…) (*Reclassification…*)``: the gloss names
                     # the subsection when the link text is only the number.
                     name = f"{name} {trailing}"
             elif position == 0 and gloss_after(line[link.end() :]) is not None:
@@ -451,7 +451,7 @@ def scan_line(
             continue
         name = gloss_after(re.sub(r"^[*_]+", "", after))
         if name is None and not re.match(r"[*_]*\s+[—–-]\s+§", after):
-            # ``**CS-27.305 — Critical system stewardship**``: a dash name counts.
+            # ``**CS-26.305 — Critical system stewardship**``: a dash name counts.
             dash = DASH_NAME_RE.match(after)
             if dash is not None:
                 name = dash.group(1)
@@ -563,7 +563,7 @@ def main() -> int:
             for line_no, inserts in lines_map.items():
                 text = lines[line_no - 1]
                 for col, glossed in sorted(set(inserts), reverse=True):
-                    # ``**CS-6.325 §9**``: a gloss after the ID would split the ID
+                    # ``**CS-4.325 §9**``: a gloss after the ID would split the ID
                     # from its § token; leave it for a person to name both.
                     if re.match(r"\s*§", text[col:]):
                         continue

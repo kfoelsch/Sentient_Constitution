@@ -77,8 +77,8 @@ class ChartSectionNumberTests(unittest.TestCase):
 
     def test_ignores_cites_qualified_by_another_document(self) -> None:
         text = chart(
-            'D["2. Document<br/><br/>• Minimum record of the refusal<br/>(CS-27.305 §10)"]',
-            'E["Outside — Chapter Nine §3<br/><br/>Checks scope"]',
+            'D["2. Document<br/><br/>• Minimum record of the refusal<br/>(CS-26.305 §10)"]',
+            'E["Outside — Chapter Eight §3<br/><br/>Checks scope"]',
         )
         self.assertEqual(self._kinds(text), [])
 
@@ -90,7 +90,7 @@ class ChartSectionNumberTests(unittest.TestCase):
 
     def test_ignores_boxes_without_section_numbers(self) -> None:
         text = chart(
-            'X[["Chapter Nine — Alignment certification<br/><br/>Outside this chapter"]]',
+            'X[["Chapter Eight — Alignment certification<br/><br/>Outside this chapter"]]',
             'Y["Articles VI–VII"]',
         )
         self.assertEqual(self._kinds(text), [])

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Audit MEAS-DEF seed/hierarchy sync for Chapter Five measurement tiers."""
+"""Audit MEAS-DEF seed/hierarchy sync for Chapter Three measurement tiers."""
 
 from __future__ import annotations
 

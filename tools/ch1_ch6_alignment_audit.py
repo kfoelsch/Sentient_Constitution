@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""Chapter 0/1 -> Chapter 6 alignment audit.
+"""Chapter 0/1 -> Chapter 4 alignment audit.
 
-This audit treats Chapter 0 as the measurement frame, Chapter 1 as the
-principle layer, and Chapter 6 as the Rights Floor. It emits a reader-facing
+This audit treats Chapter 0 as the measurement frame, Chapter 2 as the
+principle layer, and Chapter 4 as the Rights Floor. It emits a reader-facing
 Markdown report plus machine-readable CSV/JSON evidence.
 """
 
@@ -31,19 +31,19 @@ from definition_index import (  # noqa: E402
 
 CH0_FILE = "core_00.000_preamble.md"
 CH1_FILES = [
-    "core_01.000_values_principles.md",
-    "core_01.010_values_principles_continuity_aim.md",
-    "core_01.020_interaction_interpretation.md",
-    "core_01.030_constitutional_interpretation.md",
-    "core_01.040_stewardship_capacity_principles.md",
-    "core_01.050_governance_incentive_application.md",
+    "core_02.000_values_principles.md",
+    "core_02.010_values_principles_continuity_aim.md",
+    "core_02.020_interaction_interpretation.md",
+    "core_02.030_constitutional_interpretation.md",
+    "core_02.040_stewardship_capacity_principles.md",
+    "core_02.050_governance_incentive_application.md",
 ]
 CH6_FILES = [
-    "core_06.000_rights_part_a.md",
-    "core_06.010_rights_part_b.md",
-    "core_06.020_rights_part_c.md",
-    "core_06.030_rights_part_d.md",
-    "core_06.040_rights_part_e.md",
+    "core_04.000_rights_part_a.md",
+    "core_04.010_rights_part_b.md",
+    "core_04.020_rights_part_c.md",
+    "core_04.030_rights_part_d.md",
+    "core_04.040_rights_part_e.md",
 ]
 
 TETRAD_TERMS = ["participation", "oversight", "accountability", "timeliness"]
@@ -455,8 +455,8 @@ def extract_direct_ch1_refs(
         label = match.group(1)
         section_match = re.search(r"§\s*([0-9]+(?:\.[0-9]+)*)", label)
         refs.add(section_match.group(1) if section_match else "linked")
-    # Ignore the fossil nickname "Chapter Fifteen Chapter One §N".
-    for match in re.finditer(r"(?<!Twelve )Chapter One\s+§+\s*([0-9]+(?:\.[0-9]+)*)", text):
+    # Ignore the fossil nickname "Chapter Fourteen Chapter Two §N".
+    for match in re.finditer(r"(?<!Twelve )Chapter Two\s+§+\s*([0-9]+(?:\.[0-9]+)*)", text):
         num = match.group(1)
         if live_sections is not None and num not in live_sections:
             continue
@@ -660,13 +660,13 @@ class Ch1Ch6AlignmentAuditor:
             classifications.add("missing_ch1_basis")
             self.findings.append(Finding(
                 "missing_ch1_basis", "high", article.file, article.line,
-                article.article_id, "No direct or inferred Chapter 1 principle basis found.",
+                article.article_id, "No direct or inferred Chapter 2 principle basis found.",
             ))
         elif not article.direct_ch1_refs:
             classifications.add("weak_trace")
             self.findings.append(Finding(
                 "weak_trace", "medium", article.file, article.line,
-                article.article_id, "Chapter 1 basis is inferred from subject matter, not directly cited.",
+                article.article_id, "Chapter 2 basis is inferred from subject matter, not directly cited.",
                 article.inferred_ch1_basis,
             ))
 
@@ -768,7 +768,7 @@ class Ch1Ch6AlignmentAuditor:
         status = self.status()
 
         lines = [
-            "# Chapter 0/1 -> Chapter 6 Alignment Audit Report",
+            "# Chapter 0/1 -> Chapter 4 Alignment Audit Report",
             "",
             f"**Date:** {self.date_stamp}",
             "**Workflow:** CH0_CH1_CH6_ALIGNMENT_AUDIT",
@@ -782,8 +782,8 @@ class Ch1Ch6AlignmentAuditor:
             "",
             "### What Is Strong",
             "",
-            f"- Chapter 6 article/subarticle inventory was discovered across all four rights files: `{total}` items.",
-            f"- Direct Chapter 1 trace exists for `{direct}/{total}` Chapter 6 items.",
+            f"- Chapter 4 article/subarticle inventory was discovered across all four rights files: `{total}` items.",
+            f"- Direct Chapter 2 trace exists for `{direct}/{total}` Chapter 4 items.",
             f"- Chapter 0 measurement frame signals are structurally visible on `{ch0_framed}/{ch0_framed_denom}` top-level articles.",
             f"- Explicit Preamble §3 category traces or anchors appear on `{ch0_section3_traced}/{total}` items.",
             "",
@@ -811,7 +811,7 @@ class Ch1Ch6AlignmentAuditor:
             "",
             "### Rights-Family Dashboard",
             "",
-            "| Rights family | Items | Direct Chapter 1 basis | Chapter 0 frame | Measurement routing | Status |",
+            "| Rights family | Items | Direct Chapter 2 basis | Chapter 0 frame | Measurement routing | Status |",
             "|---|---:|---:|---:|---:|---|",
         ])
         for family in RIGHTS_FAMILIES:
@@ -830,8 +830,8 @@ class Ch1Ch6AlignmentAuditor:
             "",
             "| Metric | Result | Status |",
             "|---|---:|---|",
-            f"| Chapter 6 articles/subarticles discovered | {total} | PASS |",
-            f"| Items with direct Chapter 1 basis | {direct}/{total} | {'PASS' if direct == total else 'REVIEW'} |",
+            f"| Chapter 4 articles/subarticles discovered | {total} | PASS |",
+            f"| Items with direct Chapter 2 basis | {direct}/{total} | {'PASS' if direct == total else 'REVIEW'} |",
             f"| Top-level articles with Chapter 0 Tetrad/Aims/material-stake framing | {ch0_framed}/{ch0_framed_denom} | {'PASS' if ch0_framed_denom and ch0_framed == ch0_framed_denom else 'REVIEW'} |",
             f"| Items with explicit Preamble §3 trace or anchor signal | {ch0_section3_traced}/{total} | {'PASS' if ch0_section3_traced else 'REVIEW'} |",
             f"| Items with clear measurement routing or no measurement dependency | {measurement_routed}/{total} | {'PASS' if measurement_routed == total else 'REVIEW'} |",
@@ -840,9 +840,9 @@ class Ch1Ch6AlignmentAuditor:
             f"| Potential overreach flags | {finding_counts.get('overreach', 0)} | {'PASS' if finding_counts.get('overreach', 0) == 0 else 'FAIL'} |",
             f"| Manual semantic-review items | {finding_counts.get('manual_review', 0)} | {'PASS' if finding_counts.get('manual_review', 0) == 0 else 'REVIEW'} |",
             "",
-            "## Chapter 6 Article Traceability",
+            "## Chapter 4 Article Traceability",
             "",
-            "| Article | Title | File | Chapter 1 basis | Inferred basis | Chapter 0 frame | Def.* | oDef | Measurements | Status |",
+            "| Article | Title | File | Chapter 2 basis | Inferred basis | Chapter 0 frame | Def.* | oDef | Measurements | Status |",
             "|---|---|---|---|---|---|---|---|---|---|",
         ])
         for article in self.articles:
@@ -859,9 +859,9 @@ class Ch1Ch6AlignmentAuditor:
 
         lines.extend([
             "",
-            "## Chapter 1 Rights Surface",
+            "## Chapter 2 Rights Surface",
             "",
-            "| Principle | Title | File | Chapter 6 references |",
+            "| Principle | Title | File | Chapter 4 references |",
             "|---|---|---|---:|",
         ])
         for principle in self.principles:
@@ -873,7 +873,7 @@ class Ch1Ch6AlignmentAuditor:
             "",
             "## Chapter 0 Measurement Coverage",
             "",
-            "| Measurement family | Chapter 6 items referencing family |",
+            "| Measurement family | Chapter 4 items referencing family |",
             "|---|---:|",
         ])
         for family in MEASUREMENT_FAMILIES:
@@ -1009,8 +1009,8 @@ class Ch1Ch6AlignmentAuditor:
     def _plain_language_assessment(self, status: str) -> str:
         if status == "PASS":
             return (
-                "The audit found the Chapter 6 rights surface structurally coherent with Chapter 0's "
-                "measurement frame and Chapter 1's principles. Doctrinal semantic adequacy is out of "
+                "The audit found the Chapter 4 rights surface structurally coherent with Chapter 0's "
+                "measurement frame and Chapter 2's principles. Doctrinal semantic adequacy is out of "
                 "scope of this pass."
             )
         if status == "FAIL":
@@ -1036,7 +1036,7 @@ def main() -> None:
     auditor = Ch1Ch6AlignmentAuditor(root, args.date)
     auditor.run()
     auditor.write_outputs(output_dir)
-    print(f"Chapter 0/1 -> Chapter 6 alignment audit: {auditor.status()}")
+    print(f"Chapter 0/1 -> Chapter 4 alignment audit: {auditor.status()}")
     print(f"Evidence written to: {output_dir}")
 
 

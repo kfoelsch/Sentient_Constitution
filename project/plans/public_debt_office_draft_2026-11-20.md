@@ -18,7 +18,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > 5. **Provisional defaults:** a five-year compensation-account correction period and the published escape-clause terms in §7; both are for the custodian to confirm.
 >
 > **Existing text that would change when this is placed (not edited yet):**
-> - [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to authorize borrowing, subject to this chapter.
+> - [Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to authorize borrowing, subject to this chapter.
 > - A new corpus-institutions file would hold the cyclical-adjustment method, the sustainability test, auction rules, and ledger fields.
 
 </details>
@@ -36,14 +36,14 @@ Chapter [D] is the constitutional owner of **public debt**.
 - Upstream:
   - [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**;
   - [material stake](../../core_00.000_preamble.md#material-stake);
-  - [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
-  - [Chapter Eight §11 Independent Bodies](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) (8.000 §11);
+  - [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
+  - [Chapter Eight §11 Independent Bodies](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (8.000 §11);
   - the Chapter One principles and Chapter Six Articles named in the **Grounded in** block of [§2](#2-why-the-public-debt-office-exists).
 - Downstream: [§2](#2-why-the-public-debt-office-exists) through [§11](#11-proportional-scaling-and-adopters-without-their-own-currency); the Public Finance Office, Public Information Office, and Public Monetary Office chapters; a new corpus-institutions file.
 - Read with:
-  - [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
-  - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
-  - [Article XXVIII-A](../../core_06.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
+  - [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
+  - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+  - [Article XXVIII-A](../../core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
 
 </details>
 
@@ -58,7 +58,7 @@ Chapter [D] is the constitutional owner of **public debt**.
 - The Public Finance Office chapter governs how public money is spent and protects the funding floors. It may not borrow, and this office may not decide spending.
 - The Public Monetary Office chapter governs the currency and interest rates. It may not decide or advise on how much debt is issued or when, and this office has no say over interest rates.
 - The Public Information Office chapter produces the figures this office relies on, including the cyclical adjustment in §7, and checks this office's ledger.
-- [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to decide whether and how much to borrow, within §7.
+- [Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to decide whether and how much to borrow, within §7.
 - A later corpus-institutions file carries the cyclical-adjustment method, the sustainability test, auction rules, and ledger fields. It may not narrow this chapter.
 
 **Chapter scope:** The office:
@@ -92,14 +92,14 @@ This section explains the reasons for the chapter. It is non-operative: the bind
 **Grounded in:**
 
 - Chapter One principles:
-  - [§18.3 Separation of Duties](../../core_01.050_governance_incentive_application.md#183-separation-of-duties);
-  - [§19 Incentive Alignment and System Capture](../../core_01.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); and
-  - [§19.2 Convenient Proxies and Proxy Divergence](../../core_01.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence).
+  - [§18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties);
+  - [§19 Incentive Alignment and System Capture](../../core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); and
+  - [§19.2 Convenient Proxies and Proxy Divergence](../../core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence).
 - Chapter Six Articles:
-  - [Article V-A](../../core_06.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*);
-  - [Article XIII-D](../../core_06.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
-  - [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*); and
-  - [Article XXVIII-A](../../core_06.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
+  - [Article V-A](../../core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*);
+  - [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
+  - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*); and
+  - [Article XXVIII-A](../../core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
 
 **The problem it answers.** A governing authority that borrows on its own terms has easy paths around every limit on its spending:
 
@@ -123,7 +123,7 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 *In plain terms: the office borrows what it is told to borrow, but how it borrows is its own job, done by published rules.*
 
-**Independent Body:** The Public Debt Office is an Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), and meets every standard requirement there. For this office:
+**Independent Body:** The Public Debt Office is an Independent Body under [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, the Public Finance Office, the Public Monetary Office, and every buyer, dealer, or adviser it deals with;
 - the protected decision-makers are the members of its debt board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in public finance, debt markets, or financial risk management; and
@@ -231,13 +231,13 @@ The office keeps a public ledger that shows:
 - the compensation account and every use of the escape clause; and
 - the audit status under §10.
 
-The ledger follows [Article XVII](../../core_06.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*). Where an item cannot be public, a qualified independent audit path must still exist, and the ledger shows that the item exists.
+The ledger follows [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*). Where an item cannot be public, a qualified independent audit path must still exist, and the ledger shows that the item exists.
 
 ### 10. Audit and Challenge
 
 *In plain terms: outsiders check the books, and anyone harmed can challenge a decision. The general rule is in Chapter Eight; this section lists what a challenge to this office may claim.*
 
-**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies). In addition, the Public Information Office publishes an independent check of the ledger each cycle.
+**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition, the Public Information Office publishes an independent check of the ledger each cycle.
 
 **Grounds.** A challenge may claim:
 
@@ -253,6 +253,6 @@ Under *Scope of review* in Chapter Eight §11, a forum does not decide how much 
 
 *In plain terms: a small community, or one that uses someone else's money, still needs its debts counted by someone other than the borrower.*
 
-**Small adopters.** The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies. A small adopter may host this office together with the Public Finance Office only if the debt decision-makers stay separate from the spending decision-makers. §6, §7, §8, and §9 apply in full.
+**Small adopters.** The *Scaling* rule in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies. A small adopter may host this office together with the Public Finance Office only if the debt decision-makers stay separate from the spending decision-makers. §6, §7, §8, and §9 apply in full.
 
 **Adopters that use another currency.** An adopter that uses a currency it does not issue needs no Public Monetary Office. It keeps this chapter in full.

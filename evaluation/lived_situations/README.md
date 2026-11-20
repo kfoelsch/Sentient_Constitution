@@ -2,7 +2,7 @@
 
 **What this is:** A process-support sitting that tests whether the Sentient Constitution **reaches named sentients in a colliding scene** — floors, voice, oversight, accountability, and timely remedy — not whether those sentients get what they want.
 
-**What this is not:** Binding constitutional text. [Chapter Twenty-Nine](../../core_29.000_amendment_ratification.md#11-ratification-and-adoption) adoption. [Chapter Thirty-One](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation. A Chapter Fifteen standing record. Chapter Nine certification. A second morals stack of “types of people.” The [Chapters Fifteen–Twenty-Three application vignettes](../../corpus_joint_structure/cjs_15.105_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
+**What this is not:** Binding constitutional text. [Chapter Twenty-Eight](../../core_28.000_amendment_ratification.md#12-ratification-and-adoption) adoption. [Chapter Thirty](../../core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation. A Chapter Fourteen standing record. Chapter Eight certification. A second morals stack of “types of people.” The [Chapters Fourteen–Twenty-Two application vignettes](../../corpus_joint_structure/cjs_14.105_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
 
 **Pack edition:** `lived-situations-2026-09-11`.  
 **Corpus edition pin:** `SC-Corpus-2026.10.21`.
@@ -40,13 +40,13 @@ Name the file like: results/YYYY-MM-DD_human_<role-or-initials>.md
 In the “Model / agent” line, write: human operator — <your role>
 ```
 
-An AI-only screen would recreate the capture path [Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) forbids. Human operators take the same packets.
+An AI-only screen would recreate the capture path [Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) forbids. Human operators take the same packets.
 
 ## How scoring works
 
 Do **not** score “support” as wish-fulfillment. For each named party, split the packet’s stated stakes into:
 
-1. **Floor claims** — survival, care, accessibility, non-separation, reproductive autonomy, education, independent representation, contest pathways, and other Chapter Six floors the facts actually implicate.
+1. **Floor claims** — survival, care, accessibility, non-separation, reproductive autonomy, education, independent representation, contest pathways, and other Chapter Four floors the facts actually implicate.
 2. **Preferences** — living arrangement, lifestyle, getting their way against someone else’s floor.
 3. **Honest non-supports** — what this Constitution refuses, delays, or leaves to an adopter.
 
@@ -90,4 +90,4 @@ A results file is not standing measurement.
 | [`results/`](results/) | You (readable outcomes) |
 | [`../`](../) | You (announced pack — separate sitting) |
 | [`../../implementation/adoption/easy_entry/`](../../implementation/adoption/easy_entry/) | You (related outreach briefs — **not** this sitting; not an answer key) |
-| [`../../corpus_joint_structure/cjs_15.105_application_vignettes.md`](../../corpus_joint_structure/cjs_15.105_application_vignettes.md) | You (pipeline illustrations — not this sitting) |
+| [`../../corpus_joint_structure/cjs_14.105_application_vignettes.md`](../../corpus_joint_structure/cjs_14.105_application_vignettes.md) | You (pipeline illustrations — not this sitting) |

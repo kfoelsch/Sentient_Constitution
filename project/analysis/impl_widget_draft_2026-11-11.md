@@ -74,9 +74,9 @@ Chapter 24 §2 and §6.1 are separate units: §6 holds the timing rules and §6.
 <details>
 <summary><strong><span style="color: #2563eb;">Implementation (non-operative)</span></strong></summary>
 
-- [CF-23.415](corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#…) (*Routing operations, transfer, questions for ruling, and representative treatment*)
-- [CF-23.420](corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md#…) (*Appeal, secondary review, and exhaustion pathways*)
-- [CF-23.475](corpus_forum/cf_23.475_sentience_status_record.md#…) (*Sentience-Status Adjudication Record (implementation protocol)*)
+- [CF-23.415](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#…) (*Routing operations, transfer, questions for ruling, and representative treatment*)
+- [CF-23.420](corpus_forum/cf_22.420_appeal_secondary_review_exhaustion_pathways.md#…) (*Appeal, secondary review, and exhaustion pathways*)
+- [CF-23.475](corpus_forum/cf_22.475_sentience_status_record.md#…) (*Sentience-Status Adjudication Record (implementation protocol)*)
 
 </details>
 <br>
@@ -86,7 +86,7 @@ Chapter 24 §2 and §6.1 are separate units: §6 holds the timing rules and §6.
 ### Markup, inline form (Article VII-C)
 
 ```markdown
-Implementation: [CI-6.235](corpus_institutions/ci_06.235_collective_public_health_epidemic_response_addiction_informed_care.md#…) (*Collective public health, epidemic response, and addiction-informed care*).
+Implementation: [CI-6.235](corpus_institutions/ci_04.235_collective_public_health_epidemic_response_addiction_informed_care.md#…) (*Collective public health, epidemic response, and addiction-informed care*).
 ```
 
 ## 5. Work needed to adopt it
