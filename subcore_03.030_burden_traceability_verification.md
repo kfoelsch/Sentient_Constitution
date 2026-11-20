@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.045_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was a chapter of its own. It contains **Subcore 3-C**: burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was a chapter of its own. It contains **Subcore 3-C**: burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
 >
 > **Upstream:** [Subcores 3-A and 3-B — Definition mechanics](subcore_03.010_definition_structure.md); Chapter Three definitions.
 > **Downstream:** [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened).
@@ -16,7 +16,7 @@
 > Where this lives (navigation):
 > - **Tetrad map:** Burden allocation, evidence, traceability, observability, and verification implement the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **oversight** and **accountability** legs established in [Preamble](core_00.000_preamble.md#preamble--foundational-requirements); **participation** where materially required through practical observability and independent challenge under sections **3** and **4**. Requirements scale with [material stake](core_00.000_preamble.md#material-stake).
 > - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. **Chapter Fourteen** owns Standing-Record and verified-input discipline read with this chapter.
-> - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides a [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect) rule.
+> - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides a [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) rule.
 > - **Anti-relocation rule:** this chapter governs burden, trace, observability, security limits, and evidence only. It does not restate Chapter Three definitions, **Chapter Fifteen** contribution or standing measurement, or Chapter Twenty anti-constitutional-misconduct criteria. Verified non-compliance routing to standing is governed by [Subcore 3-B §4 — Non-Compliance Finding Profiles](subcore_03.020_definition_integrity.md#4-non-compliance-finding-profiles) and [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened). **Section 7** states how Subcores 3-A to 3-C differ from [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation).
 
 </details>
@@ -79,7 +79,7 @@ Read in order. Each step builds on the last; skip none.
 | **4 — Security limits** | Real security limits are allowed; pretextual blocks are not | [§5 Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule) |
 | **5 — What counts** | Evidence must be real, complete, independent, and sustained | [§6 Compliance Evidence Standard](#6-compliance-evidence-standard) |
 
-**Plain-language access.** [Chapter Two §5.2 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Subcores 3-A to 3-C require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](core_03.035_band_accountability.md#contestability) or [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter Two §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)**.
+**Plain-language access.** [Chapter Two §5.2 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Subcores 3-A to 3-C require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](subcore_03.070_band_accountability.md#contestability) or [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter Two §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)**.
 
 ### 3. Definition Traceability Requirement
 <details>
@@ -122,12 +122,12 @@ Failure to invoke or correctly apply any materially required **Chapter Three** d
 
 - Upstream: Principles: [Subcore 3-C, section 3 — Definition Traceability Requirement](#3-definition-traceability-requirement).
 - Downstream: [Subcore 3-C, section 5 — Security-Constrained Observability and Verification Rule](#5-security-constrained-observability-and-verification-rule); [Subcore 3-C, section 6 — Compliance Evidence Standard](#6-compliance-evidence-standard).
-- Read with: [Chapter Three Clustered Definitions (Foreseeability)](core_03.050_band_oversight.md#foreseeability) (3.050) — theoretical verifiability that is not practically achievable under reasonably foreseeable conditions is non-compliant.
-- Read with: [Chapter Three Clustered Definitions (Foreseeability)](core_03.050_band_oversight.md#foreseeability) (3.050) — design-driven opacity must be evaluated against reasonably foreseeable conditions, not best-case operation.
+- Read with: [Chapter Three Clustered Definitions (Foreseeability)](subcore_03.085_band_oversight.md#foreseeability) (S3-M) — theoretical verifiability that is not practically achievable under reasonably foreseeable conditions is non-compliant.
+- Read with: [Chapter Three Clustered Definitions (Foreseeability)](subcore_03.085_band_oversight.md#foreseeability) (S3-M) — design-driven opacity must be evaluated against reasonably foreseeable conditions, not best-case operation.
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_03.050_band_oversight.md#foreseeability) · [O](core_03.050_band_oversight.md#foreseeability) · [M](core_03.050_band_oversight.md#foreseeability-diligence-a) · [A](core_03.050_band_oversight.md#foreseeability-diligence-a) · [C](core_03.050_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](subcore_03.085_band_oversight.md#foreseeability) · [O](subcore_03.085_band_oversight.md#foreseeability) · [M](subcore_03.085_band_oversight.md#foreseeability-diligence-a) · [A](subcore_03.085_band_oversight.md#foreseeability-diligence-a) · [C](subcore_03.085_band_oversight.md#foreseeability-diligence-c)
 
 *In plain terms: section 3 requires a trace map — this section requires the system to expose enough of itself that authorized or affected parties can check the map in practice, not just in theory. Opaque architecture, outside dependencies, and black-box components are not excused.*
 
@@ -156,11 +156,11 @@ Where verification is technically possible but not practically achievable, treat
 
 - Upstream: Principles: [Subcore 3-C, section 4 — Observability of Traceability Requirement](#4-observability-of-traceability-requirement); [Chapter Two, section 6.2 — Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) (2.020).
 - Downstream: [Subcore 3-C, section 6 — Compliance Evidence Standard](#6-compliance-evidence-standard); **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, and **[CS-4.340](corpus_systems/cs_04.340_system_requirements.md#cs-4340-system-requirements)** (*System requirements*) — user-facing capability surfaces, credentials, and information-type handling.
-- Read with: [Chapter Three Clustered Definitions (Foreseeability)](core_03.050_band_oversight.md#foreseeability) (3.050) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale; [Chapter Three Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) (3.050) and [Chapter Three Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) (3.040) — cryptographic and information-type handling must not replace **sections 2**, **3**, or **5**; **Articles VII-A**, **VII-B**, **XVII-A**, and **XVIII-A** where environment-separation constraints are material.
+- Read with: [Chapter Three Clustered Definitions (Foreseeability)](subcore_03.085_band_oversight.md#foreseeability) (S3-M) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale; [Chapter Three Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) (S3-M) and [Chapter Three Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) (S3-K) — cryptographic and information-type handling must not replace **sections 2**, **3**, or **5**; **Articles VII-A**, **VII-B**, **XVII-A**, and **XVIII-A** where environment-separation constraints are material.
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](core_03.050_band_oversight.md#foreseeability) · [O](core_03.050_band_oversight.md#foreseeability) · [M](core_03.050_band_oversight.md#foreseeability-diligence-a) · [A](core_03.050_band_oversight.md#foreseeability-diligence-a) · [C](core_03.050_band_oversight.md#foreseeability-diligence-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Foreseeability](subcore_03.085_band_oversight.md#foreseeability) · [O](subcore_03.085_band_oversight.md#foreseeability) · [M](subcore_03.085_band_oversight.md#foreseeability-diligence-a) · [A](subcore_03.085_band_oversight.md#foreseeability-diligence-a) · [C](subcore_03.085_band_oversight.md#foreseeability-diligence-c)
 
 *In plain terms: security can narrow how, when, and to whom disclosure or audit happens — it cannot erase the duty to trace, verify, and allow independent checking.*
 
@@ -181,7 +181,7 @@ Where a limit blocks meaningful independent validation, the associated complianc
 - that determination is independently justified and auditable
 - the remaining method preserves sufficient epistemic integrity for compliance determination
 
-Cryptography and information-type handling must align with the Constitution and **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**; where materially relevant, they must still permit full compliance verification under this chapter. Cryptographic and information-type handling must not replace [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) or [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), or the duties in **sections 3**, **3**, or **5**.
+Cryptography and information-type handling must align with the Constitution and **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**; where materially relevant, they must still permit full compliance verification under this chapter. Cryptographic and information-type handling must not replace [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) or [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), or the duties in **sections 3**, **3**, or **5**.
 
 ### 6. Compliance Evidence Standard
 <details>
@@ -201,9 +201,9 @@ Cryptography and information-type handling must align with the Constitution and 
   - **Chapter Three** definition invalidates the associated evaluation, evidence, and compliance determination in full;
   - [Chapter Two, §13 — Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (2.020 §13);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) where scaling affects tradeoffs between sentient wellbeing and long-horizon stability;
-  - [Chapter Three Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) (3.040),
-  - [Chapter Three Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) (3.050), and
-  - [Chapter Three Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity) (3.050) — science-informed evidence alignment for empirical, predictive, or causal claims.
+  - [Chapter Three Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) (S3-K),
+  - [Chapter Three Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) (S3-M), and
+  - [Chapter Three Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) (S3-M) — science-informed evidence alignment for empirical, predictive, or causal claims.
 
 </details>
 
@@ -264,4 +264,4 @@ Readers must not treat:
 
 **Previous file:** [subcore_03.020_definition_integrity.md](subcore_03.020_definition_integrity.md)
 
-**Next file:** [subcore_03.045_band_integrative.md](subcore_03.045_band_integrative.md)
+**Next file:** [subcore_03.040_apex_accountability_leg.md](subcore_03.040_apex_accountability_leg.md)

@@ -238,7 +238,7 @@ Steps 3 and 4 list the **section 7** parts in the order they are presented. Once
 
 </details>
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](core_03.035_band_accountability.md#necessity) · [O](core_03.035_band_accountability.md#necessity) · [M](core_03.035_band_accountability.md#necessity-a) · [A](core_03.035_band_accountability.md#necessity-a) · [C](core_03.035_band_accountability.md#necessity-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
 
 *In plain terms: evaluators first accept the Chapter Fifteen impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. They may not split one scheme to game the anti-constitutional-misconduct designation.*
 
@@ -361,8 +361,8 @@ Once it attaches:
 
 A final ACMD requires:
 
-- review under [highest scrutiny](core_03.050_band_oversight.md#highest-scrutiny);
-- [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation);
+- review under [highest scrutiny](subcore_03.085_band_oversight.md#highest-scrutiny);
+- [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation);
 - published remediation controls;
 - proportional sanctions or repair where confirmed; and
 - the matching Chapter Sixteen standing consequences.
@@ -464,10 +464,10 @@ Chapter Sixteen remains the owner of general remedy, lock design and enforcement
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation) · [O](core_03.035_band_accountability.md#redress-and-remediation) · [M](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_03.035_band_accountability.md#redress-and-remediation-constitutional-c)
-- [Restorative Justice](core_03.035_band_accountability.md#restorative-justice) · [O](core_03.035_band_accountability.md#restorative-justice) · [M](core_03.035_band_accountability.md#restorative-justice-a) · [A](core_03.035_band_accountability.md#restorative-justice-a) · [C](core_03.035_band_accountability.md#restorative-justice-c)
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
+- [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) · [O](subcore_03.070_band_accountability.md#redress-and-remediation) · [M](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [A](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [C](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Restorative Justice](subcore_03.070_band_accountability.md#restorative-justice) · [O](subcore_03.070_band_accountability.md#restorative-justice) · [M](subcore_03.070_band_accountability.md#restorative-justice-a) · [A](subcore_03.070_band_accountability.md#restorative-justice-a) · [C](subcore_03.070_band_accountability.md#restorative-justice-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 
 </details>
 

@@ -94,12 +94,12 @@ Protections are most often lost not by repeal but by small steps: a narrower def
 
 - Upstream:
   - Floor sources: [Chapter Two](core_02.000_values_principles.md#chapter-02-part-a-purpose-and-the-flourishing-aim) constraints, [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements), [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights), and [Chapter Twenty-Six](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship); integrated definitions —
-  - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint),
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
-  - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity) (canonical O/M/A/C under
-  - [Truth and Epistemic Integrity](core_03.050_band_oversight.md#defo2-truth-and-epistemic-integrity)),
-  - [Dignity and Equal Moral Standing](core_03.055_band_participation.md#dignity-and-equal-moral-standing),
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency), and related floors named in operative text (
+  - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),
+  - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) (canonical O/M/A/C under
+  - [Truth and Epistemic Integrity](subcore_03.085_band_oversight.md#defo2-truth-and-epistemic-integrity)),
+  - [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency), and related floors named in operative text (
   - [Chapter Three definitions](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000)).
 - Downstream: [§4](#4-substantive-test-1--substantive-non-regression-validity) Substantive Test 1 inventory; [§5](#5-anti-evasion-clause) anti-evasion.
 - Read with: [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) for Rights-Floor specifics; [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
@@ -127,7 +127,7 @@ Material weakening includes indirect narrowing through:
 **Trade-offs between classes.** A change that strengthens a protection for one covered class while weakening it for another is judged class by class.
 - **Minimums first:** A change may never take any class below the minimum that a protection in this section guarantees to every sentient. That is a material weakening for that class, whatever the change does for another class.
 - **Minority favored by default:** Above those minimums, the change fails if it weakens the protection of the minority class in order to strengthen it for another class. It does not fail under this rule if it weakens the protection of a class that is not the minority in order to strengthen it for the minority.
-- **Who the minority is:** [Minority](core_03.055_band_participation.md#minority) defines it: the class with less market or institutional power, presumed to include dependency-affected and high-risk groups and groups defined by a Protected Characteristic and exposed to disadvantage in the matter, and otherwise the smaller class, judged by real effects and not by labels.
+- **Who the minority is:** [Minority](subcore_03.090_band_participation.md#minority) defines it: the class with less market or institutional power, presumed to include dependency-affected and high-risk groups and groups defined by a Protected Characteristic and exposed to disadvantage in the matter, and otherwise the smaller class, judged by real effects and not by labels.
 - **Overcoming the default:** The default may be set aside only where the published determination shows that the minority class keeps the core of the protection and is not materially worse off. The proposer must name the classes on each side in the justification required by [Chapter Twenty-Eight §4](core_28.000_amendment_ratification.md#4-burden-of-justification-and-public-traceability) (*Burden of Justification and Public Traceability*), and the **Constitutional Forum** decides under **section 4**.
 
 <a id="4-substantive-test-1--substantive-non-regression-validity"></a>
@@ -162,10 +162,10 @@ Invalidity includes indirect narrowing through:
 
 **Corrections.** A change that narrows a Chapter Four protection is not a weakening where the **Constitutional Forum** finds it to be a correction. The forum may make that finding only where its published determination finds all of the following:
 - **Error shown:** The protection as written defeats its own purpose, either by harming the class it protects or by conflicting with another Rights Floor in the same case. The error is shown by recorded effects and not by argument alone;
-- **Independent review:** The error was reviewed under [Heightened Scrutiny](core_03.050_band_oversight.md#heightened-scrutiny) by reviewers independent of the proposers;
+- **Independent review:** The error was reviewed under [Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny) by reviewers independent of the proposers;
 - **Narrowest change:** No narrower change would remove the error;
 - **Core kept:** The change keeps the core of the protection, takes no class below the minimum, and neither removes the protection nor reverses its direction; and
-- **Minority not worse off:** The change passes the trade-off rule in **section 3**, so the [Minority](core_03.055_band_participation.md#minority) is not made worse off.
+- **Minority not worse off:** The change passes the trade-off rule in **section 3**, so the [Minority](subcore_03.090_band_participation.md#minority) is not made worse off.
 
 A change that is not found to be a correction is judged as any other change. A proposer's label of a change as a correction is an input to the determination, not the determination.
 
@@ -205,7 +205,7 @@ Serious bad-faith conduct in amendment or adoption is referred under [Chapter Tw
   - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) and [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) canonical owners.
 - Downstream: [Chapter Twenty-Eight §14](core_28.000_amendment_ratification.md#14-owner-non-relocation) (28.000 §14) mirrored procedural-layer discipline; implementation text for review execution mechanics.
 - Read with:
-  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation) and the
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the
   - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights);
   - [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) on change-path and incorporation;
   - [Chapter Twenty-Eight](core_28.000_amendment_ratification.md#chapter-twenty-eight-amendment-ratification-and-procedural-validity) (28.000) for procedural tests that do not duplicate slot-classification taxonomy.
@@ -219,14 +219,14 @@ Serious bad-faith conduct in amendment or adoption is referred under [Chapter Tw
 This chapter may impose immediate validity-protection controls. Those controls include:
 - heightened review;
 - provisional suspension where materially necessary;
-- [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation); and
+- [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation); and
 - remediation publication.
 
-Under [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification, sanction taxonomy, standing measurement, adjudicative workflow, or procedural amendment validity owned by Chapters Fifteen, Twelve, Thirteen, and Seventeen respectively. Slot-flavored or classification-flavored language in this chapter or in **Chapter Twenty-Eight** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
+Under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification, sanction taxonomy, standing measurement, adjudicative workflow, or procedural amendment validity owned by Chapters Fifteen, Twelve, Thirteen, and Seventeen respectively. Slot-flavored or classification-flavored language in this chapter or in **Chapter Twenty-Eight** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
 Cross-layer drift that imports adjudicative workflow, sanction mechanics, or classification substance from another owner layer into **Chapter Twenty-Seven** or **Chapter Twenty-Eight** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from review-trigger language — is **non-compliant** under this section.
 
-Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), read with [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation).
+Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Twenty-Seven layer routing index</span></strong></summary>

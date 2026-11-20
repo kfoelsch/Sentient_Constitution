@@ -481,15 +481,15 @@ def ch5_term_lookup(entries: list[Ch5Entry]) -> dict[str, Ch5Entry]:
 # Tetrad leg heads live in apex files as letter-form O/M/A/C without #### titles,
 # so collect_ch5_entries does not index them. Surface them for creep / anti-redefinition checks.
 TETRAD_APEX_HEADS: tuple[tuple[str, str, str], ...] = (
-    ("Participation", "core_03.025_apex_participation_leg.md", "#participation-constitutional"),
-    ("Oversight", "core_03.020_apex_oversight_leg.md", "#oversight-constitutional"),
-    ("Accountability", "core_03.005_apex_accountability_leg.md", "#accountability"),
-    ("Timeliness", "core_03.030_apex_timeliness_leg.md", "#timeliness-constitutional"),
+    ("Participation", "subcore_03.060_apex_participation_leg.md", "#participation-constitutional"),
+    ("Oversight", "subcore_03.055_apex_oversight_leg.md", "#oversight-constitutional"),
+    ("Accountability", "subcore_03.040_apex_accountability_leg.md", "#accountability"),
+    ("Timeliness", "subcore_03.065_apex_timeliness_leg.md", "#timeliness-constitutional"),
 )
 AIM_APEX_HEADS: tuple[tuple[str, str, str], ...] = (
-    ("Flourishing", "core_03.015_apex_flourishing_aim.md", "#flourishing-constitutional"),
-    ("Continuity", "core_03.010_apex_continuity_aim.md", "#continuity-aim-constitutional"),
-    ("Continuity (Constitutional Aim)", "core_03.010_apex_continuity_aim.md", "#continuity-aim-constitutional"),
+    ("Flourishing", "subcore_03.050_apex_flourishing_aim.md", "#flourishing-constitutional"),
+    ("Continuity", "subcore_03.045_apex_continuity_aim.md", "#continuity-aim-constitutional"),
+    ("Continuity (Constitutional Aim)", "subcore_03.045_apex_continuity_aim.md", "#continuity-aim-constitutional"),
 )
 
 

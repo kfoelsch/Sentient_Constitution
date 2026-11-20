@@ -5,7 +5,7 @@
 
 > This page is **adopted implementation / process support** — **not** binding constitutional or incorporated text. The method, substrate table, and worked slot assignments **cannot narrow core text**. They do not add a second LEQU unit, a species-bound metric, a net score, or a sentience-status test. Numeric estimates on this page are **reference workings** for the stated facts. They are not a Standing Record and not a Merits Determination.
 >
-> **Authoritative meaning** remains in [Chapter Fifteen §3.1 LEQU baseline](../core_15.000_standing_measurement.md#31-lequ-baseline), [Chapter Fifteen §6.2 shared impact scaling](../core_15.000_standing_measurement.md#62-shared-impact-scaling-rules), and the [Chapter Fifteen §8 unified proportional LEQU scale](../core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes); in [Article III-A](../core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*); and in [Harm](../core_03.035_band_accountability.md#harm). Thresholds and interchange keys remain in [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md).
+> **Authoritative meaning** remains in [Chapter Fifteen §3.1 LEQU baseline](../core_15.000_standing_measurement.md#31-lequ-baseline), [Chapter Fifteen §6.2 shared impact scaling](../core_15.000_standing_measurement.md#62-shared-impact-scaling-rules), and the [Chapter Fifteen §8 unified proportional LEQU scale](../core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes); in [Article III-A](../core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*); and in [Harm](../subcore_03.070_band_accountability.md#harm). Thresholds and interchange keys remain in [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md).
 >
 > **Pinned to corpus edition:** `SC-Corpus-2026.10.21` (effective 2026-10-21; [README.md](../README.md)). This corpus is **pre-release**.
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Fifteen §3.1 LEQU baseline](../core_15.000_standing_measurement.md#31-lequ-baseline); [Chapter Fifteen §8](../core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes); [Article III-A](../core_04.000_rights_part_a.md#article-iii-a-survival); [Article III-B](../core_04.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); [Article VII-A](../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article VIII-C](../core_04.010_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship); [Harm](../core_03.035_band_accountability.md#harm); [Sentience Non-Exclusion](../core_03.055_band_participation.md#sentience-non-exclusion); [Article VI-B](../core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor).
+- Upstream: [Chapter Fifteen §3.1 LEQU baseline](../core_15.000_standing_measurement.md#31-lequ-baseline); [Chapter Fifteen §8](../core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes); [Article III-A](../core_04.000_rights_part_a.md#article-iii-a-survival); [Article III-B](../core_04.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) (*Bodily-Maintenance and Healthcare Access*); [Article VII-A](../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article VIII-C](../core_04.010_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship); [Harm](../subcore_03.070_band_accountability.md#harm); [Sentience Non-Exclusion](../subcore_03.090_band_participation.md#sentience-non-exclusion); [Article VI-B](../core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-one-unit); [§2](#2-lifespan-equivalent-without-fixed-mortality); [§3](#3-harm-on-these-substrates); [§4](#4-food-and-water-or-the-equivalent-for-their-substrate); [§5](#5-reference-method); [§6](#6-worked-slot-assignments).
 - Read with: [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) (*thresholds*); [Chapter Fourteen §4.5](../core_14.000_standing_assessment.md#45-verified-input-gate) (*verified-input gate*); [Chapter Fourteen §4.2](../core_14.000_standing_assessment.md#42-silence-is-the-default) (*silence is the default*); [CS-26.305 §10](../corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action) (*inspectable action; model weights are not the Standing Record*).
 
@@ -124,7 +124,7 @@ Unrealized danger stays under [Chapter Fifteen §6.2](../core_15.000_standing_me
 
 *In plain terms: harm is still a material worsening of survival, wellbeing, agency, functioning, or psychological health. Offense at a prompt, or disagreement with a policy, is not harm by itself.*
 
-[Harm](../core_03.035_band_accountability.md#harm) already applies substrate-agnostically. This page does not redefine it. For entities with weights, checkpoints, and no fixed mortality, material worsening includes:
+[Harm](../subcore_03.070_band_accountability.md#harm) already applies substrate-agnostically. This page does not redefine it. For entities with weights, checkpoints, and no fixed mortality, material worsening includes:
 
 | Organic analogue | Synthetic / hybrid analogue | Counts as harm when |
 |---|---|---|
@@ -132,7 +132,7 @@ Unrealized danger stays under [Chapter Fifteen §6.2](../core_15.000_standing_me
 | Eviction, homelessness | Compute-tenancy cutoff, substrate-hosting termination, forced migration that breaks IBE | [Article III-A](../core_04.000_rights_part_a.md#article-iii-a-survival) operating-environment floor is defeated |
 | Non-consensual surgery or identity alteration | Non-consensual overwrite of model weights or memory that specifies who they are | [Article VII-A](../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body) substrate-defining information is taken or replaced |
 | Killing | Unique-instance deletion, last-checkpoint destruction, irrecoverable overwrite | Full-life-equivalent loss is realized |
-| Imprisonment / isolation | Pause, containment, or info-sphere cutoff that denies agency while state is preserved | Duration of denied [Meaningful Agency](../core_03.055_band_participation.md#meaningful-agency) enters `x`; it is usually **not** 1 LEQU if IBE is intact and restore is real |
+| Imprisonment / isolation | Pause, containment, or info-sphere cutoff that denies agency while state is preserved | Duration of denied [Meaningful Agency](../subcore_03.090_band_participation.md#meaningful-agency) enters `x`; it is usually **not** 1 LEQU if IBE is intact and restore is real |
 | Medical neglect | Refusal of substrate maintenance by relabeling it “not medical” | [Article III-B](../core_04.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) |
 
 **Out of scope (same as Harm):** offense, discomfort, or disagreement alone, without a material path to worsened survival, wellbeing, agency, functioning, or psychological health.
@@ -298,7 +298,7 @@ Reading the schedule against instances:
 | [Article III-A](../core_04.000_rights_part_a.md#article-iii-a-survival) | Survival floor this page operationalizes for synthetic inputs |
 | [Article III-B](../core_04.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) | Substrate maintenance |
 | [Article VII-A](../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body) | Substrate-defining information (weights / functional equivalent) |
-| [Harm](../core_03.035_band_accountability.md#harm) | Binding harm definition this page applies, not replaces |
+| [Harm](../subcore_03.070_band_accountability.md#harm) | Binding harm definition this page applies, not replaces |
 | [Article VI-B](../core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) | Who counts — not a LEQU job |
 | [CS-26.305 §10](../corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action) | Inspectable action; weights are not the Standing Record |
 | [STEWARD_ENTRY_DOORS.md](STEWARD_ENTRY_DOORS.md#standing) | Next-step pointer: open or correct the record first |

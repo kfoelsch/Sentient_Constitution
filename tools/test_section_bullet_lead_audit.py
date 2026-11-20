@@ -58,7 +58,7 @@ class SectionBulletLeadTests(unittest.TestCase):
 
     def test_chapter_five_entry_opener_is_allowed_in_any_file(self) -> None:
         text = "### Term\n\n- **What it is**\n  - the meaning\n"
-        self.assertEqual(self._lines(text, "core_03.040_band_continuity.md"), [])
+        self.assertEqual(self._lines(text, "subcore_03.075_band_continuity.md"), [])
         self.assertEqual(self._lines(text, "core_04.000_rights_part_a.md"), [])
 
     def test_chapter_five_files_get_no_file_level_carve_out(self) -> None:

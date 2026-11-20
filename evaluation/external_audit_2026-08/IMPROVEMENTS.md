@@ -19,7 +19,7 @@ These are real comparative losses. They are **not** viable corpus patches:
 |---|---|
 | Pedigree vs UDHR / Ecuador / German Art. 79 | [Chapter Thirty §5](../../core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority) already states this is a model constitution. Claiming jurisdiction over non-adopters would be false. |
 | A number in core for carbon / planetary boundaries | [Article I-B](../../core_04.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) honestly refuses a standalone cap. Locking a global budget here would be adopter-hostile. Use Band B item B1 instead. |
-| All animals are Chapter Four sentients | Would collapse [Def.P1](../../core_03.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status). That is a Chapter Twenty-Nine **expansion of protection**, not a hole-fill. Hold as C2. |
+| All animals are Chapter Four sentients | Would collapse [Def.P1](../../subcore_03.090_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status). That is a Chapter Twenty-Nine **expansion of protection**, not a hole-fill. Hold as C2. |
 | Ecuador-style Nature-as-rights-holder | Would replace the hybrid (interests of their own, not personhood). Hold as C1 for expert review. |
 | Delete the standing pipeline to “simplify” | Would hollow Test 1, certification-before-standing, and anti-self-judging — the process strengths the audit scored Better. |
 
@@ -41,7 +41,7 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A3. Ladder escalation — no permanent welfare parking — **done**
 
-**Homes:** [Article I-A](../../core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity); Def.P1 [Animal Life](../../core_03.055_band_participation.md#animal-life) and [Elevated Communicative Life](../../core_03.055_band_participation.md#elevated-communicative-life) secondary-failure parking rules. Time-bound review, not a species list. Escalation opens Article V-D / Contested-Sentient default inclusion; it does not itself affirm Sentient status.
+**Homes:** [Article I-A](../../core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity); Def.P1 [Animal Life](../../subcore_03.090_band_participation.md#animal-life) and [Elevated Communicative Life](../../subcore_03.090_band_participation.md#elevated-communicative-life) secondary-failure parking rules. Time-bound review, not a species list. Escalation opens Article V-D / Contested-Sentient default inclusion; it does not itself affirm Sentient status.
 **Do not:** Auto-promote every animal to Sentient.
 
 ### A4. Opening filter for contested status (over-inclusion guard) — **done**

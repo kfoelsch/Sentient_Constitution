@@ -47,7 +47,7 @@ Method: keyword probes of the owning text for each box's Forbidden-move principl
 
 **What XIV-A already says.** The contestability guarantee requires a usable path to challenge and review, audit under Article XVII, and "no narrowing of any of these because the system is certified, officially recognized, or widely relied on." That covers narrowing by a system's status. It does not mention narrowing by adopted implementation text.
 
-**What the wider text says.** The Authority Stack (Ch5, `subcore_03.045_band_integrative.md`, ~line 649) makes Rights Floors govern specific operative requirements over adopted implementation sources, and Chapter Twenty-Nine §5.1 subjects adopted implementation text to that supremacy effect. So the result is already derivable. It is just not stated in XIV-A the way it is in Article XVII.
+**What the wider text says.** The Authority Stack (Ch5, `subcore_03.080_band_integrative.md`, ~line 649) makes Rights Floors govern specific operative requirements over adopted implementation sources, and Chapter Twenty-Nine §5.1 subjects adopted implementation text to that supremacy effect. So the result is already derivable. It is just not stated in XIV-A the way it is in Article XVII.
 
 **The parallel that exists.** Article XVII (`core_04.020_rights_part_c.md` line 861) states: "**Adopted implementation text applies; it does not replace the floor.** ... They must satisfy layers 1-2. Deadline, secrecy, and local policy are lower-kind limits."
 
@@ -114,7 +114,7 @@ Note: Proceed and Standing share one added sentence, so there are three drafted 
 
 Decision: the challenge window opens once the system has stakeholders. For high-impact systems there should almost always be a pilot, and the path opens when the pilot goes live.
 
-Note: Chapters Eight to Ten do not mention pilots at all (only two passing uses elsewhere: `core_03.040_band_continuity.md` ~3498 and `core_04.020_rights_part_c.md` ~1066). The pilot expectation is therefore new text, not a restatement.
+Note: Chapters Eight to Ten do not mention pilots at all (only two passing uses elsewhere: `subcore_03.075_band_continuity.md` ~3498 and `core_04.020_rights_part_c.md` ~1066). The pilot expectation is therefore new text, not a restatement.
 
 **Draft for Chapter Eight §3.1** (not applied):
 

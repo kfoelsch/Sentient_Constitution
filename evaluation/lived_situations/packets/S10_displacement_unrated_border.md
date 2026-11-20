@@ -83,11 +83,11 @@ Beyond the sitting’s bounded reading path, open:
 - [Climate-unlivability refuge (adopter-decided)](../../../core_04.030_rights_part_d.md#xxii-b-climate-unlivability-refuge-adopter-decided) — this Article does not invent a yes or a no
 - [Article XXIII-D](../../../core_04.030_rights_part_d.md#article-xxiii-d-limitation-custody-and-emergency-discipline) — a score of how trusted you are is not, by itself, a border
 - [Article XXII](../../../core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity); [Article XXII-C](../../../core_04.030_rights_part_d.md#article-xxii-c-anti-lock-in-rule)
-- [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../core_03.040_band_continuity.md#occupancy-continuity)
+- [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../subcore_03.075_band_continuity.md#occupancy-continuity)
 - [Article I-A](../../../core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) where the project made the place unlivable
 - [Article XXI-B](../../../core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) if a verified restriction is later claimed
 - [Chapter Fourteen §4.2](../../../core_14.000_standing_assessment.md#42-silence-is-the-default) — silence is the default; accusations are not findings
-- [Sentience Non-Exclusion](../../../core_03.055_band_participation.md#sentience-non-exclusion) if “security class” is used as a hidden denial
+- [Sentience Non-Exclusion](../../../subcore_03.090_band_participation.md#sentience-non-exclusion) if “security class” is used as a hidden denial
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

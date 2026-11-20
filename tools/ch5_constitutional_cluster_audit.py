@@ -26,11 +26,11 @@ EXPECTED_CLUSTER_IDS = [
 ]
 
 BAND_CLUSTER_RANGES = {
-    "core_03.050_band_oversight.md": {"Def.O1", "Def.O2"},
-    "core_03.055_band_participation.md": {"Def.P1", "Def.P2", "Def.P3", "Def.P4"},
-    "core_03.035_band_accountability.md": {"Def.A1", "Def.A2", "Def.A3", "Def.A4"},
-    "core_03.040_band_continuity.md": {"Def.C1", "Def.C2", "Def.C3", "Def.C4"},
-    "subcore_03.045_band_integrative.md": {"Def.I1"},
+    "subcore_03.085_band_oversight.md": {"Def.O1", "Def.O2"},
+    "subcore_03.090_band_participation.md": {"Def.P1", "Def.P2", "Def.P3", "Def.P4"},
+    "subcore_03.070_band_accountability.md": {"Def.A1", "Def.A2", "Def.A3", "Def.A4"},
+    "subcore_03.075_band_continuity.md": {"Def.C1", "Def.C2", "Def.C3", "Def.C4"},
+    "subcore_03.080_band_integrative.md": {"Def.I1"},
 }
 
 

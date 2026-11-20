@@ -98,12 +98,12 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Participant Standing](core_03.035_band_accountability.md#participant-standing) · [O](core_03.035_band_accountability.md#participant-standing) · [M](core_03.035_band_accountability.md#participant-standing-constitutional-a) · [A](core_03.035_band_accountability.md#participant-standing-constitutional-a) · [C](core_03.035_band_accountability.md#participant-standing-constitutional-c)
-- [Stakeholder](core_03.055_band_participation.md#stakeholder) · [O](core_03.055_band_participation.md#stakeholder) · [M](core_03.055_band_participation.md#stakeholder-a) · [A](core_03.055_band_participation.md#stakeholder-a) · [C](core_03.055_band_participation.md#stakeholder-c)
-- [Material Impact](core_03.050_band_oversight.md#material-impact) · [O](core_03.050_band_oversight.md#material-impact) · [M](core_03.050_band_oversight.md#material-impact-a) · [A](core_03.050_band_oversight.md#material-impact-a) · [C](core_03.050_band_oversight.md#material-impact-c)
-- [Dignity and Equal Moral Standing](core_03.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_03.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_03.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_03.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_03.055_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation) · [O](core_03.035_band_accountability.md#redress-and-remediation) · [M](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_03.035_band_accountability.md#redress-and-remediation-constitutional-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
+- [Participant Standing](subcore_03.070_band_accountability.md#participant-standing) · [O](subcore_03.070_band_accountability.md#participant-standing) · [M](subcore_03.070_band_accountability.md#participant-standing-constitutional-a) · [A](subcore_03.070_band_accountability.md#participant-standing-constitutional-a) · [C](subcore_03.070_band_accountability.md#participant-standing-constitutional-c)
+- [Stakeholder](subcore_03.090_band_participation.md#stakeholder) · [O](subcore_03.090_band_participation.md#stakeholder) · [M](subcore_03.090_band_participation.md#stakeholder-a) · [A](subcore_03.090_band_participation.md#stakeholder-a) · [C](subcore_03.090_band_participation.md#stakeholder-c)
+- [Material Impact](subcore_03.085_band_oversight.md#material-impact) · [O](subcore_03.085_band_oversight.md#material-impact) · [M](subcore_03.085_band_oversight.md#material-impact-a) · [A](subcore_03.085_band_oversight.md#material-impact-a) · [C](subcore_03.085_band_oversight.md#material-impact-c)
+- [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [O](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [M](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [A](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [C](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) · [O](subcore_03.070_band_accountability.md#redress-and-remediation) · [M](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [A](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [C](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 
 </details>
 
@@ -111,7 +111,7 @@ flowchart TB
 
 *In plain terms: **Article XX** (*Standing and Participation Status*) decides who qualifies for which roles and privileges, how those calls are made and challenged, and what happens when standing is lowered or suspended. Standing is eligibility based on verified records of contribution and violation, kept separate, and on fair rules — not popularity, brand, or a social score — and it never replaces dignity, Rights-Floor minimums, or your say as someone a system affects. Ordinary participation stays open; a trust-sensitive role opens when you meet its published standard; and any role or privilege closes only through a **standing lock** after a verified violation finding. If standing is lowered, you get clear reasons, a real way to push back, and limits that fit the risk — and standing can never cut off survival essentials or paths to remedy. Standing reflects what can be checked today, not old reputation, and it never controls movement, refuge, or exit, which **Article XXII** (*Interoperability, Portability, and Exit Integrity*) and **Article XXIII** (*Movement, Migration, Refuge, and Non-Statelessness*) govern.*
 
-[Participant Standing](core_03.035_band_accountability.md#participant-standing) is participation-status or role-eligibility status on **gated pathways** — specified roles and privileges under [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (*General standing locks*), including:
+[Participant Standing](subcore_03.070_band_accountability.md#participant-standing) is participation-status or role-eligibility status on **gated pathways** — specified roles and privileges under [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (*General standing locks*), including:
 
 - trust-sensitive roles;
 - delegated authority;
@@ -121,7 +121,7 @@ flowchart TB
 - **governance-voting**; and
 - **stakeholder-participation**.
 
-Participant standing is recognized from constitutionally valid Standing Records, standing effects, or [Competency Bar](core_03.035_band_accountability.md#competency-bar) criteria for the gated pathway. Standing Records come in two kinds under [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) (*Question 1 — What Happened?*):
+Participant standing is recognized from constitutionally valid Standing Records, standing effects, or [Competency Bar](subcore_03.070_band_accountability.md#competency-bar) criteria for the gated pathway. Standing Records come in two kinds under [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) (*Question 1 — What Happened?*):
 
 - **Contribution Standing Records** record verified help.
 - **Violation Standing Records** record verified harm.
@@ -130,15 +130,15 @@ The two are kept separate and never blended into a net score. Having no Standing
 
 Participant standing is not reputation or social esteem, and it does not itself impose access restrictions. Ordinary participation pathways, including **governance-voting**, stay open under published eligibility criteria. Beyond that, gated pathways open and close only through:
 
-- **Competency clearance (opening trust-sensitive pathways):** a [Competency Clearance](core_03.035_band_accountability.md#competency-clearance) records that verified competence, experience, and contribution meet the published, contestable [Competency Bar](core_03.035_band_accountability.md#competency-bar) for that gated pathway.
-- **Standing lock (closing any gated pathway):** a [Standing Lock](core_03.035_band_accountability.md#standing-lock) prevents or limits a specific gated pathway while a verified violation finding remains unresolved or materially unremediated. Contribution and competency clearance do not offset or waive an applicable standing lock. Restrictive consequences attach only through [Standing Effect](core_03.035_band_accountability.md#standing-effect) and [Standing Lock](core_03.035_band_accountability.md#standing-lock) on gated pathways.
+- **Competency clearance (opening trust-sensitive pathways):** a [Competency Clearance](subcore_03.070_band_accountability.md#competency-clearance) records that verified competence, experience, and contribution meet the published, contestable [Competency Bar](subcore_03.070_band_accountability.md#competency-bar) for that gated pathway.
+- **Standing lock (closing any gated pathway):** a [Standing Lock](subcore_03.070_band_accountability.md#standing-lock) prevents or limits a specific gated pathway while a verified violation finding remains unresolved or materially unremediated. Contribution and competency clearance do not offset or waive an applicable standing lock. Restrictive consequences attach only through [Standing Effect](subcore_03.070_band_accountability.md#standing-effect) and [Standing Lock](subcore_03.070_band_accountability.md#standing-lock) on gated pathways.
 
 This Article states **constitutional floors** for standing and participation status under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
 
 - **Flourishing:** sentients can hold and contest role eligibility through valid, plural, auditable gated pathways:
-  - standing labels do not substitute for dignity, Rights-Floor minimums, or [Stakeholder](core_03.055_band_participation.md#stakeholder) status;
+  - standing labels do not substitute for dignity, Rights-Floor minimums, or [Stakeholder](subcore_03.090_band_participation.md#stakeholder) status;
   - gated-pathway eligibility rests on present, observable, contestable evidence rather than brand, scale, or past esteem alone.
-- **Continuity:** standing discipline stays revisable across time. [Standing locks](core_03.035_band_accountability.md#standing-lock) and other standing restrictions:
+- **Continuity:** standing discipline stays revisable across time. [Standing locks](subcore_03.070_band_accountability.md#standing-lock) and other standing restrictions:
   - remain proportionate;
   - remain restorable where corrected; and
   - must not harden into permanent exclusion from foundational constitutional voice, except where **Chapter Twenty** **anti-constitutional misconduct** classification and [**Chapter Twenty-Six §6.1**](core_26.000_governance.md#61-entitlement-and-eligibility) (*Entitlement and Eligibility*) expressly withhold durable political voice pending **full restitution**.
@@ -150,12 +150,12 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 - **Accountability:** those who assign or restrict standing must answer for lowering it without individualized reasons, proportionality, narrow tailoring, or real paths to restoration — including patterns that track protected characteristics or their proxies.
 - **Timeliness:** in standing review, challenge, and remedy before delay would foreclose survival-critical access, audit paths, or constitutionally required redress under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*).
 
-Standing discipline under this Article implements the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) together with [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) and the [Chapters Fourteen–Twenty-Two standing and forum supervision pipeline](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together). Those owner-layer processes measure verified contribution and violation and supervise remedy; they must not be used to defeat **Article III-A** (*Survival*) survival essentials or other Rights Floors stated in this chapter.
+Standing discipline under this Article implements the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) together with [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) and the [Chapters Fourteen–Twenty-Two standing and forum supervision pipeline](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together). Those owner-layer processes measure verified contribution and violation and supervise remedy; they must not be used to defeat **Article III-A** (*Survival*) survival essentials or other Rights Floors stated in this chapter.
 
 Standing discipline must remain distinct from, and must not substitute for:
 - inherent dignity under **Article VI-A** (*Dignity and Equal Moral Standing*);
 - Rights-Floor minimums;
-- [Stakeholder](core_03.055_band_participation.md#stakeholder) status under **Article XII** (*Stakeholder System Participation, Representation, and Due Process*);
+- [Stakeholder](subcore_03.090_band_participation.md#stakeholder) status under **Article XII** (*Stakeholder System Participation, Representation, and Due Process*);
 - the individualized justice process required for punitive or liberty-restricting measures under **Article XXI-B** (*Restriction Floors*).
 
 Participant standing alone must not foreclose survival-critical access under **Article III-A** (*Survival*), or access to challenge or remedy where this Constitution preserves those floors. No standing label, by itself, may function as exile, refuge denial, or statelessness ([Article XXIII](#article-xxiii-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*)).
@@ -177,13 +177,13 @@ Participant standing alone must not foreclose survival-critical access under **A
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Dignity and Equal Moral Standing](core_03.055_band_participation.md#dignity-and-equal-moral-standing) · [O](core_03.055_band_participation.md#dignity-and-equal-moral-standing) · [M](core_03.055_band_participation.md#dignity-and-equal-moral-standing-a) · [A](core_03.055_band_participation.md#dignity-and-equal-moral-standing-a) · [C](core_03.055_band_participation.md#dignity-and-equal-moral-standing-c)
-- [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight) · [O](core_03.055_band_participation.md#stakeholder-weight) · [M](core_03.055_band_participation.md#stakeholder-weight-a) · [A](core_03.055_band_participation.md#stakeholder-weight-a) · [C](core_03.055_band_participation.md#stakeholder-weight-c)
-- [Participant Standing](core_03.035_band_accountability.md#participant-standing) · [O](core_03.035_band_accountability.md#participant-standing) · [M](core_03.035_band_accountability.md#participant-standing-constitutional-a) · [A](core_03.035_band_accountability.md#participant-standing-constitutional-a) · [C](core_03.035_band_accountability.md#participant-standing-constitutional-c)
-- [Competency Bar](core_03.035_band_accountability.md#competency-bar) · [O](core_03.035_band_accountability.md#competency-bar) · [M](core_03.035_band_accountability.md#competency-bar-a) · [A](core_03.035_band_accountability.md#competency-bar-a) · [C](core_03.035_band_accountability.md#competency-bar-c)
-- [Competency Clearance](core_03.035_band_accountability.md#competency-clearance) · [O](core_03.035_band_accountability.md#competency-clearance) · [M](core_03.035_band_accountability.md#competency-clearance-a) · [A](core_03.035_band_accountability.md#competency-clearance-a) · [C](core_03.035_band_accountability.md#competency-clearance-c)
-- [Standing Lock](core_03.035_band_accountability.md#standing-lock) · [O](core_03.035_band_accountability.md#standing-lock) · [M](core_03.035_band_accountability.md#standing-lock-a) · [A](core_03.035_band_accountability.md#standing-lock-a) · [C](core_03.035_band_accountability.md#standing-lock-c)
-- [Violation Nature](core_03.035_band_accountability.md#violation-nature) · [O](core_03.035_band_accountability.md#violation-nature) · [M](core_03.035_band_accountability.md#violation-nature-chapter-six-a) · [A](core_03.035_band_accountability.md#violation-nature-chapter-six-a) · [C](core_03.035_band_accountability.md#violation-nature-chapter-six-c)
+- [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [O](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [M](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [A](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [C](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-c)
+- [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight) · [O](subcore_03.090_band_participation.md#stakeholder-weight) · [M](subcore_03.090_band_participation.md#stakeholder-weight-a) · [A](subcore_03.090_band_participation.md#stakeholder-weight-a) · [C](subcore_03.090_band_participation.md#stakeholder-weight-c)
+- [Participant Standing](subcore_03.070_band_accountability.md#participant-standing) · [O](subcore_03.070_band_accountability.md#participant-standing) · [M](subcore_03.070_band_accountability.md#participant-standing-constitutional-a) · [A](subcore_03.070_band_accountability.md#participant-standing-constitutional-a) · [C](subcore_03.070_band_accountability.md#participant-standing-constitutional-c)
+- [Competency Bar](subcore_03.070_band_accountability.md#competency-bar) · [O](subcore_03.070_band_accountability.md#competency-bar) · [M](subcore_03.070_band_accountability.md#competency-bar-a) · [A](subcore_03.070_band_accountability.md#competency-bar-a) · [C](subcore_03.070_band_accountability.md#competency-bar-c)
+- [Competency Clearance](subcore_03.070_band_accountability.md#competency-clearance) · [O](subcore_03.070_band_accountability.md#competency-clearance) · [M](subcore_03.070_band_accountability.md#competency-clearance-a) · [A](subcore_03.070_band_accountability.md#competency-clearance-a) · [C](subcore_03.070_band_accountability.md#competency-clearance-c)
+- [Standing Lock](subcore_03.070_band_accountability.md#standing-lock) · [O](subcore_03.070_band_accountability.md#standing-lock) · [M](subcore_03.070_band_accountability.md#standing-lock-a) · [A](subcore_03.070_band_accountability.md#standing-lock-a) · [C](subcore_03.070_band_accountability.md#standing-lock-c)
+- [Violation Nature](subcore_03.070_band_accountability.md#violation-nature) · [O](subcore_03.070_band_accountability.md#violation-nature) · [M](subcore_03.070_band_accountability.md#violation-nature-chapter-six-a) · [A](subcore_03.070_band_accountability.md#violation-nature-chapter-six-a) · [C](subcore_03.070_band_accountability.md#violation-nature-chapter-six-c)
 
 </details>
 
@@ -195,17 +195,17 @@ This Article sets out how standing differs from competency bars, competency clea
 
 - **Role eligibility only:** Participant standing, Standing Records, competency bars, competency clearances, and standing locks govern role eligibility on gated pathways only. They must not:
   - blur together who qualifies for a role and who has inherent dignity or equal moral standing under **Article VI-A** (*Dignity and Equal Moral Standing*);
-  - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a [Stakeholder](core_03.055_band_participation.md#stakeholder) because a system actually affects them;
+  - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a [Stakeholder](subcore_03.090_band_participation.md#stakeholder) because a system actually affects them;
   - treat the absence of a Standing Record as an adverse fact, or require a Standing Record or a "no record" attestation as a condition of survival essentials, ordinary commerce, or participation as an affected party — having no Standing Record is the ordinary state under [Chapter Fourteen §4.2](core_14.000_standing_assessment.md#42-silence-is-the-default) (*Silence Is the Default*);
   - treat dissent or peaceful protest under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) as an adverse fact or weighting factor for any gated pathway; or
   - assemble gated-pathway effects into a profile, ranking, or public display — [Chapter Nineteen §3.1](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) (*Anti-Aggregation of Gated-Pathway Effects*).
 - <a id="anti-substitution-sentience-status-xviii"></a>**Scores don't decide who counts:** None of the following may be used to decide whether someone is a sentient being:
   - standing scores, Standing Records, competency bars, competency clearances, or standing locks;
-  - certification badges or [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) records;
+  - certification badges or [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) records;
   - LEQU scores;
   - substrate labels (the kind of body or hardware a being runs on) or product classifications.
 
-  That question is decided only under **Article VI-B** (*Sentience-Status Adjudication Floor*), [**Def.P1**](core_03.055_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status) (*Animal Life, Sentient Life, and Sentience Status*), and [Chapter Twenty-Three §4](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*Escalation and Questions for Ruling*).
+  That question is decided only under **Article VI-B** (*Sentience-Status Adjudication Floor*), [**Def.P1**](subcore_03.090_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status) (*Animal Life, Sentient Life, and Sentience Status*), and [Chapter Twenty-Three §4](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*Escalation and Questions for Ruling*).
 
 #### Article XX-B: Contestability and Proportional Restriction Limits
 <details>
@@ -213,24 +213,24 @@ This Article sets out how standing differs from competency bars, competency clea
 
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
 - Downstream: [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) (14.000 §4) (*Standing Records, verified-input gate, and minimum record contents*); [Chapter Fourteen §4.7](core_14.000_standing_assessment.md#47-forum-boundary) (14.000 §4.7) (*forum boundary*); [Chapter Nineteen §4](core_19.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment) (19.000 §4) (*reinstatement and review*).
-- Read with: **Article III-A** (*Survival*); **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XIV-B** (*Right to Redress and Remedy*); [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together); [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*), **Article XXI-B** (*Restriction Floors*), and **Article XXI-B** (*Restriction Floors*).
+- Read with: **Article III-A** (*Survival*); **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XIV-B** (*Right to Redress and Remedy*); [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together); [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*), **Article XXI-B** (*Restriction Floors*), and **Article XXI-B** (*Restriction Floors*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
-- [Necessity](core_03.035_band_accountability.md#necessity) · [O](core_03.035_band_accountability.md#necessity) · [M](core_03.035_band_accountability.md#necessity-a) · [A](core_03.035_band_accountability.md#necessity-a) · [C](core_03.035_band_accountability.md#necessity-c)
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Violation Nature](core_03.035_band_accountability.md#violation-nature) · [O](core_03.035_band_accountability.md#violation-nature) · [M](core_03.035_band_accountability.md#violation-nature-chapter-six-a) · [A](core_03.035_band_accountability.md#violation-nature-chapter-six-a) · [C](core_03.035_band_accountability.md#violation-nature-chapter-six-c)
-- [Competency Bar](core_03.035_band_accountability.md#competency-bar) · [O](core_03.035_band_accountability.md#competency-bar) · [M](core_03.035_band_accountability.md#competency-bar-a) · [A](core_03.035_band_accountability.md#competency-bar-a) · [C](core_03.035_band_accountability.md#competency-bar-c)
-- [Competency Clearance](core_03.035_band_accountability.md#competency-clearance) · [O](core_03.035_band_accountability.md#competency-clearance) · [M](core_03.035_band_accountability.md#competency-clearance-a) · [A](core_03.035_band_accountability.md#competency-clearance-a) · [C](core_03.035_band_accountability.md#competency-clearance-c)
-- [Standing Lock](core_03.035_band_accountability.md#standing-lock) · [O](core_03.035_band_accountability.md#standing-lock) · [M](core_03.035_band_accountability.md#standing-lock-a) · [A](core_03.035_band_accountability.md#standing-lock-a) · [C](core_03.035_band_accountability.md#standing-lock-c)
-- [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation) · [O](core_03.035_band_accountability.md#redress-and-remediation) · [M](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_03.035_band_accountability.md#redress-and-remediation-constitutional-c)
-- [Contribution Nature](core_03.035_band_accountability.md#contribution-nature) · [O](core_03.035_band_accountability.md#contribution-nature) · [M](core_03.035_band_accountability.md#contribution-nature-a) · [A](core_03.035_band_accountability.md#contribution-nature-a) · [C](core_03.035_band_accountability.md#contribution-nature-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
+- [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Violation Nature](subcore_03.070_band_accountability.md#violation-nature) · [O](subcore_03.070_band_accountability.md#violation-nature) · [M](subcore_03.070_band_accountability.md#violation-nature-chapter-six-a) · [A](subcore_03.070_band_accountability.md#violation-nature-chapter-six-a) · [C](subcore_03.070_band_accountability.md#violation-nature-chapter-six-c)
+- [Competency Bar](subcore_03.070_band_accountability.md#competency-bar) · [O](subcore_03.070_band_accountability.md#competency-bar) · [M](subcore_03.070_band_accountability.md#competency-bar-a) · [A](subcore_03.070_band_accountability.md#competency-bar-a) · [C](subcore_03.070_band_accountability.md#competency-bar-c)
+- [Competency Clearance](subcore_03.070_band_accountability.md#competency-clearance) · [O](subcore_03.070_band_accountability.md#competency-clearance) · [M](subcore_03.070_band_accountability.md#competency-clearance-a) · [A](subcore_03.070_band_accountability.md#competency-clearance-a) · [C](subcore_03.070_band_accountability.md#competency-clearance-c)
+- [Standing Lock](subcore_03.070_band_accountability.md#standing-lock) · [O](subcore_03.070_band_accountability.md#standing-lock) · [M](subcore_03.070_band_accountability.md#standing-lock-a) · [A](subcore_03.070_band_accountability.md#standing-lock-a) · [C](subcore_03.070_band_accountability.md#standing-lock-c)
+- [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) · [O](subcore_03.070_band_accountability.md#redress-and-remediation) · [M](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [A](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [C](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Contribution Nature](subcore_03.070_band_accountability.md#contribution-nature) · [O](subcore_03.070_band_accountability.md#contribution-nature) · [M](subcore_03.070_band_accountability.md#contribution-nature-a) · [A](subcore_03.070_band_accountability.md#contribution-nature-a) · [C](subcore_03.070_band_accountability.md#contribution-nature-c)
 
 </details>
 
@@ -253,9 +253,9 @@ This Article sets out the contestability and proportionality limits on standing 
   - What parties claim, file, or argue while a dispute is still open does not, on its own, count as verified help or harm on anyone's Standing Record (see [Chapter Fourteen §4.7 Forum Boundary](core_14.000_standing_assessment.md#47-forum-boundary), which owns this rule).
   - That limit never weakens your right to challenge a decision, get it fixed, get temporary protection while the case is pending, or get a fair process under **Article XIV-A** (*Reliability and Trustworthiness Baseline*), **Article XIV-B** (*Right to Redress and Remedy*), and **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*).
 - **Procedural reviewability:** These rules apply whenever standing is materially restricted, downgraded, or suspended, for any reason, including:
-  - a [standing lock](core_03.035_band_accountability.md#standing-lock) after a verified violation finding ([Article XX-D](#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*));
+  - a [standing lock](subcore_03.070_band_accountability.md#standing-lock) after a verified violation finding ([Article XX-D](#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*));
   - a competency clearance limited or withdrawn after failed retesting or a verified change in role-relevant capacity, where no wrongdoing is involved ([Article XX-C](#article-xx-c-contribution-competency-bars-and-gated-pathway-eligibility) (*Contribution, Competency Bars, and Gated-Pathway Eligibility*); [Chapter Seventeen §3.2](core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) (*Competency Bars and Clearances*));
-  - temporary protective limits while a case is still open, before anything is verified ([Chapter Twenty-Three §4](core_23.000_forum_families_escalation_timeliness_support.md#interim-protection) (*Interim Protection*)), which for a named sentient's use of a gated pathway means an [Interim Hold](core_03.035_band_accountability.md#interim-hold) under [Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway](core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway).
+  - temporary protective limits while a case is still open, before anything is verified ([Chapter Twenty-Three §4](core_23.000_forum_families_escalation_timeliness_support.md#interim-protection) (*Interim Protection*)), which for a named sentient's use of a gated pathway means an [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) under [Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway](core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway).
 
   In each case, the system must apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
   - explain **why** in clear terms;
@@ -288,18 +288,18 @@ This Article sets out the contestability and proportionality limits on standing 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Participant Standing](core_03.035_band_accountability.md#participant-standing) · [O](core_03.035_band_accountability.md#participant-standing) · [M](core_03.035_band_accountability.md#participant-standing-constitutional-a) · [A](core_03.035_band_accountability.md#participant-standing-constitutional-a) · [C](core_03.035_band_accountability.md#participant-standing-constitutional-c)
-- [Contribution Nature](core_03.035_band_accountability.md#contribution-nature) · [O](core_03.035_band_accountability.md#contribution-nature) · [M](core_03.035_band_accountability.md#contribution-nature-a) · [A](core_03.035_band_accountability.md#contribution-nature-a) · [C](core_03.035_band_accountability.md#contribution-nature-c)
-- [Competency Bar](core_03.035_band_accountability.md#competency-bar) · [O](core_03.035_band_accountability.md#competency-bar) · [M](core_03.035_band_accountability.md#competency-bar-a) · [A](core_03.035_band_accountability.md#competency-bar-a) · [C](core_03.035_band_accountability.md#competency-bar-c)
-- [Competency Clearance](core_03.035_band_accountability.md#competency-clearance) · [O](core_03.035_band_accountability.md#competency-clearance) · [M](core_03.035_band_accountability.md#competency-clearance-a) · [A](core_03.035_band_accountability.md#competency-clearance-a) · [C](core_03.035_band_accountability.md#competency-clearance-c)
-- [Participant Standing](core_03.035_band_accountability.md#participant-standing) · [O](core_03.035_band_accountability.md#participant-standing) · [M](core_03.035_band_accountability.md#participant-standing-constitutional-a) · [A](core_03.035_band_accountability.md#participant-standing-constitutional-a) · [C](core_03.035_band_accountability.md#participant-standing-constitutional-c)
-- [Collective Accountability Failure](core_03.035_band_accountability.md#collective-accountability-failure) · [O](core_03.035_band_accountability.md#collective-accountability-failure) · [M](core_03.035_band_accountability.md#collective-accountability-failure-a) · [A](core_03.035_band_accountability.md#collective-accountability-failure-a) · [C](core_03.035_band_accountability.md#collective-accountability-failure-c)
-- [Trust](core_03.040_band_continuity.md#trust) · [O](core_03.040_band_continuity.md#trust) · [M](core_03.040_band_continuity.md#trust-a) · [A](core_03.040_band_continuity.md#trust-a) · [C](core_03.040_band_continuity.md#trust-c)
-- [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice) · [O](subcore_03.045_band_integrative.md#foundational-constitutional-choice) · [M](subcore_03.045_band_integrative.md#foundational-constitutional-choice-a) · [A](subcore_03.045_band_integrative.md#foundational-constitutional-choice-a) · [C](subcore_03.045_band_integrative.md#foundational-constitutional-choice-c)
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
-- [Necessity](core_03.035_band_accountability.md#necessity) · [O](core_03.035_band_accountability.md#necessity) · [M](core_03.035_band_accountability.md#necessity-a) · [A](core_03.035_band_accountability.md#necessity-a) · [C](core_03.035_band_accountability.md#necessity-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
-- [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics) · [O](core_03.055_band_participation.md#protected-characteristics) · [M](core_03.055_band_participation.md#protected-characteristics-constitutional-a) · [A](core_03.055_band_participation.md#protected-characteristics-constitutional-a) · [C](core_03.055_band_participation.md#protected-characteristics-constitutional-c)
+- [Participant Standing](subcore_03.070_band_accountability.md#participant-standing) · [O](subcore_03.070_band_accountability.md#participant-standing) · [M](subcore_03.070_band_accountability.md#participant-standing-constitutional-a) · [A](subcore_03.070_band_accountability.md#participant-standing-constitutional-a) · [C](subcore_03.070_band_accountability.md#participant-standing-constitutional-c)
+- [Contribution Nature](subcore_03.070_band_accountability.md#contribution-nature) · [O](subcore_03.070_band_accountability.md#contribution-nature) · [M](subcore_03.070_band_accountability.md#contribution-nature-a) · [A](subcore_03.070_band_accountability.md#contribution-nature-a) · [C](subcore_03.070_band_accountability.md#contribution-nature-c)
+- [Competency Bar](subcore_03.070_band_accountability.md#competency-bar) · [O](subcore_03.070_band_accountability.md#competency-bar) · [M](subcore_03.070_band_accountability.md#competency-bar-a) · [A](subcore_03.070_band_accountability.md#competency-bar-a) · [C](subcore_03.070_band_accountability.md#competency-bar-c)
+- [Competency Clearance](subcore_03.070_band_accountability.md#competency-clearance) · [O](subcore_03.070_band_accountability.md#competency-clearance) · [M](subcore_03.070_band_accountability.md#competency-clearance-a) · [A](subcore_03.070_band_accountability.md#competency-clearance-a) · [C](subcore_03.070_band_accountability.md#competency-clearance-c)
+- [Participant Standing](subcore_03.070_band_accountability.md#participant-standing) · [O](subcore_03.070_band_accountability.md#participant-standing) · [M](subcore_03.070_band_accountability.md#participant-standing-constitutional-a) · [A](subcore_03.070_band_accountability.md#participant-standing-constitutional-a) · [C](subcore_03.070_band_accountability.md#participant-standing-constitutional-c)
+- [Collective Accountability Failure](subcore_03.070_band_accountability.md#collective-accountability-failure) · [O](subcore_03.070_band_accountability.md#collective-accountability-failure) · [M](subcore_03.070_band_accountability.md#collective-accountability-failure-a) · [A](subcore_03.070_band_accountability.md#collective-accountability-failure-a) · [C](subcore_03.070_band_accountability.md#collective-accountability-failure-c)
+- [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
+- [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice) · [O](subcore_03.080_band_integrative.md#foundational-constitutional-choice) · [M](subcore_03.080_band_integrative.md#foundational-constitutional-choice-a) · [A](subcore_03.080_band_integrative.md#foundational-constitutional-choice-a) · [C](subcore_03.080_band_integrative.md#foundational-constitutional-choice-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
+- [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
+- [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) · [O](subcore_03.090_band_participation.md#protected-characteristics) · [M](subcore_03.090_band_participation.md#protected-characteristics-constitutional-a) · [A](subcore_03.090_band_participation.md#protected-characteristics-constitutional-a) · [C](subcore_03.090_band_participation.md#protected-characteristics-constitutional-c)
 
 </details>
 
@@ -312,13 +312,13 @@ This Article sets out how contribution, competency bars, and gated-pathway eligi
 - **Gated-pathway eligibility on present evidence:** Published eligibility criteria for ordinary participation, trust-sensitive roles, oversight eligibility, **governance-voting**, and **stakeholder-participation** gated pathways must rest on present, observable, contestable evidence — not reputation, scale, or historical standing alone.
   - Ordinary participation pathways, including **governance-voting**, stay open when published eligibility criteria are met and no applicable standing lock blocks them ([Chapter Twenty-Six §6.1](core_26.000_governance.md#61-entitlement-and-eligibility) (*Entitlement and Eligibility*)).
   - Eligibility criteria must remain subject to **Chapters Fourteen and Fifteen** (*Standing Records and Standing Measurement*), remain subject to continuous audit, and remain revisable when current evidence changes.
-- **Contribution Standing Records:** Verified help enters **contribution Standing Records** under [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) (*Question 1 — What Happened?*) and is classified as positive-only [Contribution Nature](core_03.035_band_accountability.md#contribution-nature) on the Contribution Axis.
+- **Contribution Standing Records:** Verified help enters **contribution Standing Records** under [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) (*Question 1 — What Happened?*) and is classified as positive-only [Contribution Nature](subcore_03.070_band_accountability.md#contribution-nature) on the Contribution Axis.
   - Contribution may support competency clearance and trust-sensitive role eligibility.
   - Contribution must not offset, waive, average down, or substitute for unresolved verified violation findings ([Chapter Fourteen §4.4](core_14.000_standing_assessment.md#44-linked-standing-records-and-no-offset-bridge) (*Linked Standing Records and No-Offset Bridge*)); its limited role in lock reassessment is stated in [Article XX-D](#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*).
 - **Competency bars and clearances:** Some roles need proven skill or trust. For each one, [Chapter Seventeen §3.2](core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) (*Competency Bars and Clearances*) works like this:
-  - **The bar:** A [Competency Bar](core_03.035_band_accountability.md#competency-bar) is the qualification standard for that role. It must be published, and anyone affected must be able to check how it was applied and challenge it.
+  - **The bar:** A [Competency Bar](subcore_03.070_band_accountability.md#competency-bar) is the qualification standard for that role. It must be published, and anyone affected must be able to check how it was applied and challenge it.
   - **What counts toward meeting it:** verified competence, experience, and contribution records, including a consistent record of meeting this Constitution's foundational requirements. Informal, peer-organized, mutual-aid, maintenance, repair, teaching, or community stewardship experience counts on the same terms as formal institutional experience, as long as it can be shown to the same standard.
-  - **Clearance:** When those Standing Records meet the bar, the result is a [Competency Clearance](core_03.035_band_accountability.md#competency-clearance). With clearance in force, and no [Standing Lock](core_03.035_band_accountability.md#standing-lock) blocking the gated pathway, the holder may take on trust-sensitive roles, delegated authority, oversight roles, or progressively more consequential stewardship.
+  - **Clearance:** When those Standing Records meet the bar, the result is a [Competency Clearance](subcore_03.070_band_accountability.md#competency-clearance). With clearance in force, and no [Standing Lock](subcore_03.070_band_accountability.md#standing-lock) blocking the gated pathway, the holder may take on trust-sensitive roles, delegated authority, oversight roles, or progressively more consequential stewardship.
   - **How long clearance lasts:** Clearance stays in force by default. It may be limited or withdrawn only through:
     - published periodic retesting;
     - a verified material change in the capacity the role actually requires; or
@@ -341,12 +341,12 @@ This Article sets out how contribution, competency bars, and gated-pathway eligi
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Violation Nature](core_03.035_band_accountability.md#violation-nature) · [O](core_03.035_band_accountability.md#violation-nature) · [M](core_03.035_band_accountability.md#violation-nature-chapter-six-a) · [A](core_03.035_band_accountability.md#violation-nature-chapter-six-a) · [C](core_03.035_band_accountability.md#violation-nature-chapter-six-c)
-- [Standing Lock](core_03.035_band_accountability.md#standing-lock) · [O](core_03.035_band_accountability.md#standing-lock) · [M](core_03.035_band_accountability.md#standing-lock-a) · [A](core_03.035_band_accountability.md#standing-lock-a) · [C](core_03.035_band_accountability.md#standing-lock-c)
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
-- [Collective Accountability Failure](core_03.035_band_accountability.md#collective-accountability-failure) · [O](core_03.035_band_accountability.md#collective-accountability-failure) · [M](core_03.035_band_accountability.md#collective-accountability-failure-a) · [A](core_03.035_band_accountability.md#collective-accountability-failure-a) · [C](core_03.035_band_accountability.md#collective-accountability-failure-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
-- [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation) · [O](core_03.035_band_accountability.md#redress-and-remediation) · [M](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_03.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Violation Nature](subcore_03.070_band_accountability.md#violation-nature) · [O](subcore_03.070_band_accountability.md#violation-nature) · [M](subcore_03.070_band_accountability.md#violation-nature-chapter-six-a) · [A](subcore_03.070_band_accountability.md#violation-nature-chapter-six-a) · [C](subcore_03.070_band_accountability.md#violation-nature-chapter-six-c)
+- [Standing Lock](subcore_03.070_band_accountability.md#standing-lock) · [O](subcore_03.070_band_accountability.md#standing-lock) · [M](subcore_03.070_band_accountability.md#standing-lock-a) · [A](subcore_03.070_band_accountability.md#standing-lock-a) · [C](subcore_03.070_band_accountability.md#standing-lock-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Collective Accountability Failure](subcore_03.070_band_accountability.md#collective-accountability-failure) · [O](subcore_03.070_band_accountability.md#collective-accountability-failure) · [M](subcore_03.070_band_accountability.md#collective-accountability-failure-a) · [A](subcore_03.070_band_accountability.md#collective-accountability-failure-a) · [C](subcore_03.070_band_accountability.md#collective-accountability-failure-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
+- [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) · [O](subcore_03.070_band_accountability.md#redress-and-remediation) · [M](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [A](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [C](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -356,9 +356,9 @@ This Article sets out how contribution, competency bars, and gated-pathway eligi
 
 This Article sets out how violations are recorded and how standing locks attach:
 
-- **Violation nature from verified violation findings only:** [Violation Nature](core_03.035_band_accountability.md#violation-nature) may affect standing effect only when it rests on auditable, contestable findings satisfying **Subcores 3-A to 3-C** and [Chapter Fourteen](core_14.000_standing_assessment.md#45-verified-input-gate) — not allegations, intake labels, provisional routing, or forum-phase narratives alone.
+- **Violation nature from verified violation findings only:** [Violation Nature](subcore_03.070_band_accountability.md#violation-nature) may affect standing effect only when it rests on auditable, contestable findings satisfying **Subcores 3-A to 3-C** and [Chapter Fourteen](core_14.000_standing_assessment.md#45-verified-input-gate) — not allegations, intake labels, provisional routing, or forum-phase narratives alone.
   - Eligibility and locks must account for acquiescent participation and failure to resist unlawful or unconstitutional directives where material duty and capacity were present, consistent with **Chapter Three** (*Collective Accountability Failure*).
-- **Standing locks:** A [Standing Lock](core_03.035_band_accountability.md#standing-lock) is the restrictive counterpart to competency clearance. While a verified violation finding remains unresolved or materially unremediated, it may prevent or limit trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, or **stakeholder-participation** pathways under [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (*General standing locks*). Restrictive consequences attach only through standing locks on gated pathways — including, where the verified risk requires it, separation from specific settings, networks, or sentients within the [separation limits](core_18.000_violation_consequences.md#415-separation-limits) of Chapter Eighteen §4.1 (*Definition and Attachment*).
+- **Standing locks:** A [Standing Lock](subcore_03.070_band_accountability.md#standing-lock) is the restrictive counterpart to competency clearance. While a verified violation finding remains unresolved or materially unremediated, it may prevent or limit trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, or **stakeholder-participation** pathways under [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (*General standing locks*). Restrictive consequences attach only through standing locks on gated pathways — including, where the verified risk requires it, separation from specific settings, networks, or sentients within the [separation limits](core_18.000_violation_consequences.md#415-separation-limits) of Chapter Eighteen §4.1 (*Definition and Attachment*).
   - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score.
   - Every standing lock must spell out what access is blocked, who or what is being protected, what must be fixed before the lock lifts (the corrective condition), where to appeal (the review path), and when reassessment happens — and must remain necessary, proportionate, auditable, and contestable under [Article XX-B](#article-xx-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*).
   - Competency clearance does not waive an applicable standing lock; good contribution does not erase unresolved verified violation findings.
@@ -387,10 +387,10 @@ This Article sets out how violations are recorded and how standing locks attach:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Standing Lock](core_03.035_band_accountability.md#standing-lock) · [O](core_03.035_band_accountability.md#standing-lock) · [M](core_03.035_band_accountability.md#standing-lock-a) · [A](core_03.035_band_accountability.md#standing-lock-a) · [C](core_03.035_band_accountability.md#standing-lock-c)
-- [Stakeholder](core_03.055_band_participation.md#stakeholder) · [O](core_03.055_band_participation.md#stakeholder) · [M](core_03.055_band_participation.md#stakeholder-a) · [A](core_03.055_band_participation.md#stakeholder-a) · [C](core_03.055_band_participation.md#stakeholder-c)
-- [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight) · [O](core_03.055_band_participation.md#stakeholder-weight) · [M](core_03.055_band_participation.md#stakeholder-weight-a) · [A](core_03.055_band_participation.md#stakeholder-weight-a) · [C](core_03.055_band_participation.md#stakeholder-weight-c)
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
+- [Standing Lock](subcore_03.070_band_accountability.md#standing-lock) · [O](subcore_03.070_band_accountability.md#standing-lock) · [M](subcore_03.070_band_accountability.md#standing-lock-a) · [A](subcore_03.070_band_accountability.md#standing-lock-a) · [C](subcore_03.070_band_accountability.md#standing-lock-c)
+- [Stakeholder](subcore_03.090_band_participation.md#stakeholder) · [O](subcore_03.090_band_participation.md#stakeholder) · [M](subcore_03.090_band_participation.md#stakeholder-a) · [A](subcore_03.090_band_participation.md#stakeholder-a) · [C](subcore_03.090_band_participation.md#stakeholder-c)
+- [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight) · [O](subcore_03.090_band_participation.md#stakeholder-weight) · [M](subcore_03.090_band_participation.md#stakeholder-weight-a) · [A](subcore_03.090_band_participation.md#stakeholder-weight-a) · [C](subcore_03.090_band_participation.md#stakeholder-weight-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
 
 </details>
 
@@ -404,9 +404,9 @@ This Article sets out the limits on voting locks and special locks:
   - **governance-voting** is the foundational governance vote — authorizing governing authority through the legitimacy mechanism;
   - **stakeholder-participation** is stake-weighted vote and binding stakeholder choice within an already-authorized system, institution, or decision domain.
 
-  A **governance-voting** lock does not by itself strip stake-weighted stakeholder voice. A **stakeholder-participation** lock does not by itself strip **governance-voting**, and it never erases [Stakeholder](core_03.055_band_participation.md#stakeholder) status.
+  A **governance-voting** lock does not by itself strip stake-weighted stakeholder voice. A **stakeholder-participation** lock does not by itself strip **governance-voting**, and it never erases [Stakeholder](subcore_03.090_band_participation.md#stakeholder) status.
 - **Political-voice discipline:** Where a standing lock is invoked to restrict participation in authorization of governing authority, the restriction must satisfy:
-  - a verified finding about that sentient's own conduct, reached through a fair process under [**Procedural Fairness**](core_03.055_band_participation.md#procedural-fairness), not membership in a group or category;
+  - a verified finding about that sentient's own conduct, reached through a fair process under [**Procedural Fairness**](subcore_03.090_band_participation.md#procedural-fairness), not membership in a group or category;
   - **Necessity** and **Proportionality** under **Chapter Two**;
   - narrow tailoring to the specific misconduct category;
   - real rather than merely formal restoration pathways.
@@ -442,8 +442,8 @@ This Article sets out the limits on voting locks and special locks:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 
 </details>
 
@@ -472,17 +472,17 @@ Adopted governance implementation may add detail. It must not narrow the justice
   - [Chapter Two §3.3 Anti-Degrading Process](core_02.000_values_principles.md#33-anti-degrading-process) (2.000 §3.3), and
   - [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
 - Downstream: [Chapter Eighteen §3](core_18.000_violation_consequences.md#3-violation-correction-and-prevention) (18.000 §3) (*Violation, Correction, and Prevention*); [Article XXI-B](#article-xxi-b-restriction-floors) (*Restriction Floors*).
-- Read with: [Cruelty](core_03.035_band_accountability.md#cruelty) (*Chapter Three home for the anti-cruelty floor's suffering-as-end standard*).
+- Read with: [Cruelty](subcore_03.070_band_accountability.md#cruelty) (*Chapter Three home for the anti-cruelty floor's suffering-as-end standard*).
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Adjudication and Dispute Resolution](core_03.035_band_accountability.md#adjudication-and-dispute-resolution) · [O](core_03.035_band_accountability.md#adjudication-and-dispute-resolution) · [M](core_03.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](core_03.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](core_03.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Cruelty](core_03.035_band_accountability.md#cruelty) · [O](core_03.035_band_accountability.md#cruelty) · [M](core_03.035_band_accountability.md#cruelty-a) · [A](core_03.035_band_accountability.md#cruelty-a) · [C](core_03.035_band_accountability.md#cruelty-c)
-- [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation) · [O](core_03.035_band_accountability.md#redress-and-remediation) · [M](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_03.035_band_accountability.md#redress-and-remediation-constitutional-c)
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
+- [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution) · [O](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution) · [M](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Cruelty](subcore_03.070_band_accountability.md#cruelty) · [O](subcore_03.070_band_accountability.md#cruelty) · [M](subcore_03.070_band_accountability.md#cruelty-a) · [A](subcore_03.070_band_accountability.md#cruelty-a) · [C](subcore_03.070_band_accountability.md#cruelty-c)
+- [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) · [O](subcore_03.070_band_accountability.md#redress-and-remediation) · [M](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [A](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [C](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -497,7 +497,7 @@ This Article sets out the objective and scope of justice and the anti-cruelty fl
   - secure correction through restitution, remediation, and change to conduct or systems;
   - prevent recurrence through rehabilitation, safeguards, and other durable controls where feasible;
   - keep credit and consequences on the right actors — supported by evidence on the official record — under **Chapters Fourteen and Fifteen** (*Standing Records and Standing Measurement*).
-- **Anti-cruelty floor:** Justice must not be administered to inflict suffering as an end in itself. The Chapter Three home is [Cruelty](core_03.035_band_accountability.md#cruelty).
+- **Anti-cruelty floor:** Justice must not be administered to inflict suffering as an end in itself. The Chapter Three home is [Cruelty](subcore_03.070_band_accountability.md#cruelty).
 <a id="article-xxi-b-restriction-floors"></a>
 #### Article XXI-B: Restriction Floors
 <details>
@@ -516,13 +516,13 @@ This Article sets out the objective and scope of justice and the anti-cruelty fl
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) · [O](core_03.040_band_continuity.md#safety-constitutional-constraint) · [M](core_03.040_band_continuity.md#safety-constraint-a) · [A](core_03.040_band_continuity.md#safety-constraint-a) · [C](core_03.040_band_continuity.md#safety-constraint-c)
-- [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation) · [O](core_03.035_band_accountability.md#redress-and-remediation) · [M](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_03.035_band_accountability.md#redress-and-remediation-constitutional-c)
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
-- [Necessity](core_03.035_band_accountability.md#necessity) · [O](core_03.035_band_accountability.md#necessity) · [M](core_03.035_band_accountability.md#necessity-a) · [A](core_03.035_band_accountability.md#necessity-a) · [C](core_03.035_band_accountability.md#necessity-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
-- [Reversibility](core_03.040_band_continuity.md#reversibility) · [O](core_03.040_band_continuity.md#reversibility) · [M](core_03.040_band_continuity.md#reversibility-constitutional-a) · [A](core_03.040_band_continuity.md#reversibility-constitutional-a) · [C](core_03.040_band_continuity.md#reversibility-constitutional-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
+- [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [O](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [M](subcore_03.075_band_continuity.md#safety-constraint-a) · [A](subcore_03.075_band_continuity.md#safety-constraint-a) · [C](subcore_03.075_band_continuity.md#safety-constraint-c)
+- [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) · [O](subcore_03.070_band_accountability.md#redress-and-remediation) · [M](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [A](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [C](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
+- [Reversibility](subcore_03.075_band_continuity.md#reversibility) · [O](subcore_03.075_band_continuity.md#reversibility) · [M](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](subcore_03.075_band_continuity.md#reversibility-constitutional-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 
 </details>
 
@@ -618,9 +618,9 @@ This Article sets the floors for restrictions. The operating rules live in the c
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in) · [O](core_03.040_band_continuity.md#systemic-lock-in) · [M](core_03.040_band_continuity.md#systemic-lock-in-a) · [A](core_03.040_band_continuity.md#systemic-lock-in-a) · [C](core_03.040_band_continuity.md#systemic-lock-in-c)
-- [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) · [O](core_03.055_band_participation.md#meaningful-agency) · [M](core_03.055_band_participation.md#meaningful-agency-a) · [A](core_03.055_band_participation.md#meaningful-agency-a) · [C](core_03.055_band_participation.md#meaningful-agency-c)
-- [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [M](core_03.040_band_continuity.md#dependency-a) · [A](core_03.040_band_continuity.md#dependency-a) · [C](core_03.040_band_continuity.md#dependency-c)
+- [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in) · [O](subcore_03.075_band_continuity.md#systemic-lock-in) · [M](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [A](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [C](subcore_03.075_band_continuity.md#systemic-lock-in-c)
+- [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
+- [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
 
 </details>
 
@@ -641,18 +641,18 @@ Sentients and dependent systems have the right to meaningful, usable exit, migra
   - preserve the data's structure, metadata, relationships, and fidelity, together with traceability of its origin and transformations;
   - carry its CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) type, so the receiving system can apply the same protections; and
   - do not change its type or lower its protections through conversion, export, or transfer.
-- It is consistent with **Chapter Three** [*Systemic Lock-In*](core_03.040_band_continuity.md#systemic-lock-in) read with **[Chapter Three *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_03.035_band_accountability.md#governance-architecture-decentralization-and-concentration)** where dependency, coupling, or foreclosure matters for anti-lock-in analysis, and with incorporated implementation requirements for interoperability, portability, exit integrity, and justified constraints.
+- It is consistent with **Chapter Three** [*Systemic Lock-In*](subcore_03.075_band_continuity.md#systemic-lock-in) read with **[Chapter Three *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration)** where dependency, coupling, or foreclosure matters for anti-lock-in analysis, and with incorporated implementation requirements for interoperability, portability, exit integrity, and justified constraints.
 
 This Article states **constitutional floors** for interoperability, portability, and exit integrity under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
 
-- **Flourishing:** sentients can choose, switch, and coordinate across systems without coercive lock-in, exclusion contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion), or denial-by-proxy — through usable portability and reciprocal interoperability where [Material Impact](core_03.050_band_oversight.md#material-impact) is present.
+- **Flourishing:** sentients can choose, switch, and coordinate across systems without coercive lock-in, exclusion contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion), or denial-by-proxy — through usable portability and reciprocal interoperability where [Material Impact](subcore_03.085_band_oversight.md#material-impact) is present.
 - **Continuity:** exit, portability, and interoperability obligations stay durable as dependency deepens or operators change — systems must not harden trap architecture or narrow integration terms without notice.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake):
 
 - **Participation:** in choosing and switching systems, migrating with usable data and identity, and challenging lock-in and denial-by-proxy.
 - **Oversight:** through documented interoperability boundaries, open formats and standards by default, timely portability, advance notice before material narrowing, and review of whether transition conditions are real rather than merely formal.
-- **Accountability:** systems must answer for [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in), anti-portability design, or other conduct whose main effect is trapping sentients — blocking exit, switching, or substitution.
+- **Accountability:** systems must answer for [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in), anti-portability design, or other conduct whose main effect is trapping sentients — blocking exit, switching, or substitution.
 - **Timeliness:** in portability delivery, interoperability notice, and barrier correction before delay, opacity, or procedural friction would make exit or remedy effectively unreachable under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*).
 
 Standing: standing status, competency bars, competency clearances, and standing locks under **Article XX** (*Standing and Participation Status*) do not **by themselves** limit portability or exit, and must not substitute for individualized justice process.
@@ -678,9 +678,9 @@ Standing: standing status, competency bars, competency clearances, and standing 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) · [O](core_03.055_band_participation.md#meaningful-agency) · [M](core_03.055_band_participation.md#meaningful-agency-a) · [A](core_03.055_band_participation.md#meaningful-agency-a) · [C](core_03.055_band_participation.md#meaningful-agency-c)
-- [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in) · [O](core_03.040_band_continuity.md#systemic-lock-in) · [M](core_03.040_band_continuity.md#systemic-lock-in-a) · [A](core_03.040_band_continuity.md#systemic-lock-in-a) · [C](core_03.040_band_continuity.md#systemic-lock-in-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
+- [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
+- [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in) · [O](subcore_03.075_band_continuity.md#systemic-lock-in) · [M](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [A](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [C](subcore_03.075_band_continuity.md#systemic-lock-in-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -713,9 +713,9 @@ This Article sets out the portability floor:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [M](core_03.040_band_continuity.md#dependency-a) · [A](core_03.040_band_continuity.md#dependency-a) · [C](core_03.040_band_continuity.md#dependency-c)
-- [Feasibility](core_03.035_band_accountability.md#feasibility) · [O](core_03.035_band_accountability.md#feasibility) · [M](core_03.035_band_accountability.md#feasibility-a) · [A](core_03.035_band_accountability.md#feasibility-a) · [C](core_03.035_band_accountability.md#feasibility-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
+- [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
+- [Feasibility](subcore_03.070_band_accountability.md#feasibility) · [O](subcore_03.070_band_accountability.md#feasibility) · [M](subcore_03.070_band_accountability.md#feasibility-a) · [A](subcore_03.070_band_accountability.md#feasibility-a) · [C](subcore_03.070_band_accountability.md#feasibility-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -744,9 +744,9 @@ This Article sets out the floors for reciprocal interoperability and notice of n
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in) · [O](core_03.040_band_continuity.md#systemic-lock-in) · [M](core_03.040_band_continuity.md#systemic-lock-in-a) · [A](core_03.040_band_continuity.md#systemic-lock-in-a) · [C](core_03.040_band_continuity.md#systemic-lock-in-c)
-- [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [M](core_03.040_band_continuity.md#dependency-a) · [A](core_03.040_band_continuity.md#dependency-a) · [C](core_03.040_band_continuity.md#dependency-c)
-- [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) · [O](core_03.055_band_participation.md#meaningful-agency) · [M](core_03.055_band_participation.md#meaningful-agency-a) · [A](core_03.055_band_participation.md#meaningful-agency-a) · [C](core_03.055_band_participation.md#meaningful-agency-c)
+- [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in) · [O](subcore_03.075_band_continuity.md#systemic-lock-in) · [M](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [A](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [C](subcore_03.075_band_continuity.md#systemic-lock-in-c)
+- [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
+- [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -763,7 +763,7 @@ This Article sets out the anti-lock-in rule:
   - withholding information materially needed for practical transition;
   - reliance on closed formats, interfaces, or protocols where an open alternative meets requirements and others depend on the system, without justification under **Article XXII-D** (*Open Formats and Standards*).
 
-  The rule applies beyond proportionate transaction costs and applies where [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in) (**Chapter Three**) is implicated.
+  The rule applies beyond proportionate transaction costs and applies where [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in) (**Chapter Three**) is implicated.
 
 #### Article XXII-D: Open Formats and Standards
 <details>
@@ -783,9 +783,9 @@ This Article sets out the anti-lock-in rule:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in) · [O](core_03.040_band_continuity.md#systemic-lock-in) · [M](core_03.040_band_continuity.md#systemic-lock-in-a) · [A](core_03.040_band_continuity.md#systemic-lock-in-a) · [C](core_03.040_band_continuity.md#systemic-lock-in-c)
-- [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [M](core_03.040_band_continuity.md#dependency-a) · [A](core_03.040_band_continuity.md#dependency-a) · [C](core_03.040_band_continuity.md#dependency-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
+- [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in) · [O](subcore_03.075_band_continuity.md#systemic-lock-in) · [M](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [A](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [C](subcore_03.075_band_continuity.md#systemic-lock-in-c)
+- [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -838,7 +838,7 @@ This Article sets out the open-formats floor for systems:
 - Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XX** (*Standing and Participation Status*) standing and participation-status routing, **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance.
 - Read with:
   - [Article XXII](#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) where movement runs through substrate portability or system exit;
-  - [Chapter Three *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_03.050_band_oversight.md#oversight-dependent-clusters) (3.050);
+  - [Chapter Three *Movement, Refuge, Non-Statelessness, and Exit Integrity*](subcore_03.085_band_oversight.md#oversight-dependent-clusters) (S3-M);
   - [Article XXI-B](#article-xxi-b-restriction-floors) (*Restriction Floors*) and
   - [Chapter Eighteen §4.4.5](core_18.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (18.000 §4.4.5) (*coercive or liberty-restricting safeguard character*);
   - [**CI-4.275 §6**](corpus_institutions/ci_04.275_adoption_transition_governance_institutional_evolution.md#ci-4275-6-article-xxiii-c-non-statelessness--interim-recognition-arrangements) (*Interim recognition arrangements*) for interim recognition when regimes or federations change; **Article I-A** (*Environmental Preconditions and Ecological Integrity*) where systems or projects made a place unlivable.
@@ -848,11 +848,11 @@ This Article sets out the open-formats floor for systems:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Movement and Relocation](core_03.055_band_participation.md#movement-and-relocation) · [O](core_03.055_band_participation.md#movement-and-relocation) · [M](core_03.055_band_participation.md#movement-and-relocation-constitutional-a) · [A](core_03.055_band_participation.md#movement-and-relocation-constitutional-a) · [C](core_03.055_band_participation.md#movement-and-relocation-constitutional-c)
-- [Refuge from Non-Compliance](core_03.055_band_participation.md#refuge-from-non-compliance) · [O](core_03.055_band_participation.md#refuge-from-non-compliance) · [M](core_03.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](core_03.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_03.055_band_participation.md#refuge-from-non-compliance-constitutional-c)
-- [Non-Statelessness](core_03.055_band_participation.md#non-statelessness) · [O](core_03.055_band_participation.md#non-statelessness) · [M](core_03.055_band_participation.md#non-statelessness-constitutional-a) · [A](core_03.055_band_participation.md#non-statelessness-constitutional-a) · [C](core_03.055_band_participation.md#non-statelessness-constitutional-c)
-- [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in) · [O](core_03.040_band_continuity.md#systemic-lock-in) · [M](core_03.040_band_continuity.md#systemic-lock-in-a) · [A](core_03.040_band_continuity.md#systemic-lock-in-a) · [C](core_03.040_band_continuity.md#systemic-lock-in-c)
-- [Occupancy Continuity](core_03.040_band_continuity.md#occupancy-continuity) · [O](core_03.040_band_continuity.md#occupancy-continuity) · [M](core_03.040_band_continuity.md#occupancy-continuity-constitutional-a) · [A](core_03.040_band_continuity.md#occupancy-continuity-constitutional-a) · [C](core_03.040_band_continuity.md#occupancy-continuity-constitutional-c)
+- [Movement and Relocation](subcore_03.090_band_participation.md#movement-and-relocation) · [O](subcore_03.090_band_participation.md#movement-and-relocation) · [M](subcore_03.090_band_participation.md#movement-and-relocation-constitutional-a) · [A](subcore_03.090_band_participation.md#movement-and-relocation-constitutional-a) · [C](subcore_03.090_band_participation.md#movement-and-relocation-constitutional-c)
+- [Refuge from Non-Compliance](subcore_03.090_band_participation.md#refuge-from-non-compliance) · [O](subcore_03.090_band_participation.md#refuge-from-non-compliance) · [M](subcore_03.090_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](subcore_03.090_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](subcore_03.090_band_participation.md#refuge-from-non-compliance-constitutional-c)
+- [Non-Statelessness](subcore_03.090_band_participation.md#non-statelessness) · [O](subcore_03.090_band_participation.md#non-statelessness) · [M](subcore_03.090_band_participation.md#non-statelessness-constitutional-a) · [A](subcore_03.090_band_participation.md#non-statelessness-constitutional-a) · [C](subcore_03.090_band_participation.md#non-statelessness-constitutional-c)
+- [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in) · [O](subcore_03.075_band_continuity.md#systemic-lock-in) · [M](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [A](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [C](subcore_03.075_band_continuity.md#systemic-lock-in-c)
+- [Occupancy Continuity](subcore_03.075_band_continuity.md#occupancy-continuity) · [O](subcore_03.075_band_continuity.md#occupancy-continuity) · [M](subcore_03.075_band_continuity.md#occupancy-continuity-constitutional-a) · [A](subcore_03.075_band_continuity.md#occupancy-continuity-constitutional-a) · [C](subcore_03.075_band_continuity.md#occupancy-continuity-constitutional-c)
 
 </details>
 
@@ -860,7 +860,7 @@ This Article sets out the open-formats floor for systems:
 
 *In plain terms: **Article XXIII** (*Movement, Migration, Refuge, and Non-Statelessness*) is the movement-and-refuge Rights Floor — every sentient may move between places and jurisdictions, may seek refuge from regimes that violate this Constitution, and may never be left with no regime responsible for their basic protections. This doesn't mean one adopter has to take in everyone another regime forces out. The home regime is still responsible for those sentients first. If it can't or won't be, a group of regimes must share the job, so no one is left with nobody. Bureaucratic delay, standing labels, and arguments that fail Sentience Non-Exclusion cannot be used as hidden denials. Whether climate making a place unlivable is, by itself, a reason to grant refuge is for adopters to decide; this Article does not pick a yes or a no.*
 
-Sentients have the right to meaningful movement, migration, refuge, and recognition without exclusion contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion), denial-by-proxy, or statelessness. The right is consistent with **[Chapter Three *Movement, Refuge, Non-Statelessness, and Exit Integrity*](core_03.050_band_oversight.md#oversight-dependent-clusters)** and does not require any particular adopter to host at volume.
+Sentients have the right to meaningful movement, migration, refuge, and recognition without exclusion contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion), denial-by-proxy, or statelessness. The right is consistent with **[Chapter Three *Movement, Refuge, Non-Statelessness, and Exit Integrity*](subcore_03.085_band_oversight.md#oversight-dependent-clusters)** and does not require any particular adopter to host at volume.
 
 - **Integration with portability and exit integrity:** **Article XXII** (*Interoperability, Portability, and Exit Integrity*) governs interoperability, portability, and exit integrity; this Article governs physical, jurisdictional, and regime-to-regime movement.
   - Where the same action implicates both — for example, a synthetic sentient relocating across federations through substrate portability — both Articles apply without either narrowing the other.
@@ -868,14 +868,14 @@ Sentients have the right to meaningful movement, migration, refuge, and recognit
 
 This Article states **constitutional floors** for movement, migration, refuge, and non-statelessness under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
 
-- **Flourishing:** sentients can move, relocate, and seek refuge across jurisdictions, federations, and adopter regimes without exclusion contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion) or denial-by-proxy where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
+- **Flourishing:** sentients can move, relocate, and seek refuge across jurisdictions, federations, and adopter regimes without exclusion contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) or denial-by-proxy where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
 - **Continuity:** refuge and recognition obligations stay durable as jurisdictions shift, federations change, or structures fail — regimes must not render sentients stateless when relationships end or parent systems collapse.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake):
 
 - **Participation:** in choosing where to live or run, relocating, seeking refuge where practice is materially non-compliant, and challenging denial-by-proxy.
 - **Oversight:** through published admission and refuge terms, individualized predicates for restriction, and review of whether movement and recognition paths are real rather than merely formal.
-- **Accountability:** regimes must answer for exclusion contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion), coercive expulsion or dumping, bureaucratic exhaustion, or other conduct whose main effect is blocking movement, refuge, or recognition.
+- **Accountability:** regimes must answer for exclusion contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion), coercive expulsion or dumping, bureaucratic exhaustion, or other conduct whose main effect is blocking movement, refuge, or recognition.
 - **Timeliness:** in refuge consideration, recognition arrangements, and review of emergency restrictions before delay would make movement, refuge, or remedy effectively unreachable under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*).
 
 *Article neighbors:*
@@ -898,8 +898,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Movement and Relocation](core_03.055_band_participation.md#movement-and-relocation) · [O](core_03.055_band_participation.md#movement-and-relocation) · [M](core_03.055_band_participation.md#movement-and-relocation-constitutional-a) · [A](core_03.055_band_participation.md#movement-and-relocation-constitutional-a) · [C](core_03.055_band_participation.md#movement-and-relocation-constitutional-c)
-- [Occupancy Continuity](core_03.040_band_continuity.md#occupancy-continuity) · [O](core_03.040_band_continuity.md#occupancy-continuity) · [M](core_03.040_band_continuity.md#occupancy-continuity-constitutional-a) · [A](core_03.040_band_continuity.md#occupancy-continuity-constitutional-a) · [C](core_03.040_band_continuity.md#occupancy-continuity-constitutional-c)
+- [Movement and Relocation](subcore_03.090_band_participation.md#movement-and-relocation) · [O](subcore_03.090_band_participation.md#movement-and-relocation) · [M](subcore_03.090_band_participation.md#movement-and-relocation-constitutional-a) · [A](subcore_03.090_band_participation.md#movement-and-relocation-constitutional-a) · [C](subcore_03.090_band_participation.md#movement-and-relocation-constitutional-c)
+- [Occupancy Continuity](subcore_03.075_band_continuity.md#occupancy-continuity) · [O](subcore_03.075_band_continuity.md#occupancy-continuity) · [M](subcore_03.075_band_continuity.md#occupancy-continuity-constitutional-a) · [A](subcore_03.075_band_continuity.md#occupancy-continuity-constitutional-a) · [C](subcore_03.075_band_continuity.md#occupancy-continuity-constitutional-c)
 
 </details>
 
@@ -932,8 +932,8 @@ This Article sets out the floors for movement, refuge, and non-statelessness, an
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Refuge from Non-Compliance](core_03.055_band_participation.md#refuge-from-non-compliance) · [O](core_03.055_band_participation.md#refuge-from-non-compliance) · [M](core_03.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](core_03.055_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](core_03.055_band_participation.md#refuge-from-non-compliance-constitutional-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
+- [Refuge from Non-Compliance](subcore_03.090_band_participation.md#refuge-from-non-compliance) · [O](subcore_03.090_band_participation.md#refuge-from-non-compliance) · [M](subcore_03.090_band_participation.md#refuge-from-non-compliance-constitutional-a) · [A](subcore_03.090_band_participation.md#refuge-from-non-compliance-constitutional-a) · [C](subcore_03.090_band_participation.md#refuge-from-non-compliance-constitutional-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -953,8 +953,8 @@ This Article sets out the grounds for refuge and the duties of receiving regimes
   6. **Climate unlivability (adopter-decided, not a floor ground):** <a id="xxii-b-climate-unlivability-refuge-adopter-decided"></a> This Article does not decide whether displacement caused by climate making a place unlivable — where the origin regime is not shown to be materially non-compliant — is a reason to grant refuge. It neither requires nor forbids treating it as one. Silence in this Article is not a hidden yes and not a hidden no.
 - **Duties of receiving regimes:**
   - **Consider every claim:** The receiving regime must consider the claim and, where consistent with its own Rights-Floor, grant refuge.
-  - **No substrate-class denial:** Refuge may not be denied on the ground that the claimant's substrate class differs from substrate classes the receiving regime ordinarily hosts, consistent with [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
-  - **Exclusion only for documented hostility:** Movement and refuge admission may be excluded or conditioned for entrants who carry unremediated anti-constitutional conduct, show constitutional hostility, or show documented contempt or repudiation of the constitutional community, under the Chapter Three admission qualifier — subject to **Necessity**, **Proportionality**, **Procedural Fairness**, and [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+  - **No substrate-class denial:** Refuge may not be denied on the ground that the claimant's substrate class differs from substrate classes the receiving regime ordinarily hosts, consistent with [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
+  - **Exclusion only for documented hostility:** Movement and refuge admission may be excluded or conditioned for entrants who carry unremediated anti-constitutional conduct, show constitutional hostility, or show documented contempt or repudiation of the constitutional community, under the Chapter Three admission qualifier — subject to **Necessity**, **Proportionality**, **Procedural Fairness**, and [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
   - **Coerced inflows:** Deliberate coercive expulsion or dumping designed to overwhelm receiving adopters is a regime-level violation by the origin or expelling regime. It does not auto-assign hosting to any particular receiving adopter when origin-primary or shared / federation backup recognition remains real. A particular adopter may refuse such instrumentally coerced inflows under **Necessity**, **Proportionality**, and **Feasibility** without extinguishing baseline recognition elsewhere.
   - **Climate-unlivability decisions:** An adopter that addresses climate-unlivability refuge must do so in published, contestable terms. That decision:
     - is not a Rights-Floor grant of climate refuge, and does not treat climate, by itself, as material non-compliance of a regime;
@@ -977,7 +977,7 @@ This Article sets out the grounds for refuge and the duties of receiving regimes
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Non-Statelessness](core_03.055_band_participation.md#non-statelessness) · [O](core_03.055_band_participation.md#non-statelessness) · [M](core_03.055_band_participation.md#non-statelessness-constitutional-a) · [A](core_03.055_band_participation.md#non-statelessness-constitutional-a) · [C](core_03.055_band_participation.md#non-statelessness-constitutional-c)
+- [Non-Statelessness](subcore_03.090_band_participation.md#non-statelessness) · [O](subcore_03.090_band_participation.md#non-statelessness) · [M](subcore_03.090_band_participation.md#non-statelessness-constitutional-a) · [A](subcore_03.090_band_participation.md#non-statelessness-constitutional-a) · [C](subcore_03.090_band_participation.md#non-statelessness-constitutional-c)
 
 </details>
 
@@ -993,10 +993,10 @@ This Article sets out the non-statelessness floor:
 - **The guarantee:** No sentient may be rendered without a regime that will:
   - recognize their baseline Rights-Floor;
   - adjudicate their standing under **Article XX** (*Standing and Participation Status*);
-  - provide [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation) pathways.
+  - provide [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) pathways.
 
-  Each function must be real, not merely formal: reachable by the sentient, through a forum that will hear them. This is a **no-zero-regime recognition floor**, and it applies under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
-- **Recognition is not hosting or citizenship:** Recognition means a regime answers for the three functions above. It does not by itself entitle the sentient to reside in, be hosted by, or hold full political franchise in that regime, consistent with Chapter Three [recognition vs hosting](core_03.055_band_participation.md#movement-refuge-recognition-vs-hosting).
+  Each function must be real, not merely formal: reachable by the sentient, through a forum that will hear them. This is a **no-zero-regime recognition floor**, and it applies under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
+- **Recognition is not hosting or citizenship:** Recognition means a regime answers for the three functions above. It does not by itself entitle the sentient to reside in, be hosted by, or hold full political franchise in that regime, consistent with Chapter Three [recognition vs hosting](subcore_03.090_band_participation.md#movement-refuge-recognition-vs-hosting).
 - **Order of responsibility:**
   - **First in line:** Where an origin, expelling, collapsing, withdrawing, or exiting regime still exists and can recognize the sentient, that regime keeps **primary** recognition responsibility.
   - **Backup:** Where that regime is gone, refuses, or otherwise leaves a gap, shared or federation interim recognition must be arranged consistent with **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*), with the roles named under [**CI-4.275 §6**](corpus_institutions/ci_04.275_adoption_transition_governance_institutional_evolution.md#ci-4275-6-article-xxiii-c-non-statelessness--interim-recognition-arrangements) (*Interim recognition arrangements*), so the sentient never hits zero recognition.
@@ -1024,8 +1024,8 @@ This Article sets out the non-statelessness floor:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
-- [Non-Statelessness](core_03.055_band_participation.md#non-statelessness) · [O](core_03.055_band_participation.md#non-statelessness) · [M](core_03.055_band_participation.md#non-statelessness-constitutional-a) · [A](core_03.055_band_participation.md#non-statelessness-constitutional-a) · [C](core_03.055_band_participation.md#non-statelessness-constitutional-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
+- [Non-Statelessness](subcore_03.090_band_participation.md#non-statelessness) · [O](subcore_03.090_band_participation.md#non-statelessness) · [M](subcore_03.090_band_participation.md#non-statelessness-constitutional-a) · [A](subcore_03.090_band_participation.md#non-statelessness-constitutional-a) · [C](subcore_03.090_band_participation.md#non-statelessness-constitutional-c)
 
 </details>
 
@@ -1058,7 +1058,7 @@ This Article sets out the limits on restricting movement, the conditions of cust
   Generalized "border-security" or "capacity" framings that do not satisfy the ordinary limitations tests do not justify durable restriction. Durable restriction survives review only where **Necessity** and **Proportionality** are independently demonstrated and recorded.
 - **Anti-denial-by-proxy:** Bureaucratic, administrative, or allocation-gating mechanisms that function as denial of movement, refuge, or recognition are evaluated on substantive effect. Non-compliant examples:
   - delay regimes designed to exhaust claimants;
-  - credentialing regimes functioning as exclusion contrary to [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion);
+  - credentialing regimes functioning as exclusion contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion);
   - allocation regimes that route claimants to non-equivalent services.
 
 ### Article XXIV: Comprehensibility and Complexity Stewardship
@@ -1070,9 +1070,9 @@ This Article sets out the limits on restricting movement, the conditions of cust
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**;
-  - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden),
-  - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity), and
-  - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency) in
+  - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden),
+  - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity), and
+  - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency) in
   - **Chapter Three**.
 - Cross-reference: the stewardship discipline for complexity, plain-language access, and burden minimization is stated at principle layer in the upstream sections above. This Article states the Rights Floor those disciplines implement where systems materially affect protected interests.
 
@@ -1081,15 +1081,15 @@ This Article sets out the limits on restricting movement, the conditions of cust
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Productive Capacity](core_03.040_band_continuity.md#productive-capacity) · [O](core_03.040_band_continuity.md#productive-capacity) · [M](core_03.040_band_continuity.md#productive-capacity-constitutional-a) · [A](core_03.040_band_continuity.md#productive-capacity-constitutional-a) · [C](core_03.040_band_continuity.md#productive-capacity-constitutional-c)
-- [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency) · [O](core_03.040_band_continuity.md#constitutional-efficiency) · [M](core_03.040_band_continuity.md#constitutional-efficiency-a) · [A](core_03.040_band_continuity.md#constitutional-efficiency-a) · [C](core_03.040_band_continuity.md#constitutional-efficiency-c)
-- [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) · [O](core_03.040_band_continuity.md#avoidable-burden) · [M](core_03.040_band_continuity.md#avoidable-burden-a) · [A](core_03.040_band_continuity.md#avoidable-burden-a) · [C](core_03.040_band_continuity.md#avoidable-burden-c)
-- [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) · [O](core_03.040_band_continuity.md#safety-constitutional-constraint) · [M](core_03.040_band_continuity.md#safety-constraint-a) · [A](core_03.040_band_continuity.md#safety-constraint-a) · [C](core_03.040_band_continuity.md#safety-constraint-c)
-- [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) · [O](core_03.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_03.050_band_oversight.md#truth-constitutional-constraint-c)
-- [Materiality](core_03.050_band_oversight.md#materiality) · [O](core_03.050_band_oversight.md#materiality) · [M](core_03.050_band_oversight.md#materiality-determination-a) · [A](core_03.050_band_oversight.md#materiality-determination-a) · [C](core_03.050_band_oversight.md#materiality-determination-c)
-- [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) · [O](core_03.055_band_participation.md#meaningful-agency) · [M](core_03.055_band_participation.md#meaningful-agency-a) · [A](core_03.055_band_participation.md#meaningful-agency-a) · [C](core_03.055_band_participation.md#meaningful-agency-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
+- [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity) · [O](subcore_03.075_band_continuity.md#productive-capacity) · [M](subcore_03.075_band_continuity.md#productive-capacity-constitutional-a) · [A](subcore_03.075_band_continuity.md#productive-capacity-constitutional-a) · [C](subcore_03.075_band_continuity.md#productive-capacity-constitutional-c)
+- [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency) · [O](subcore_03.075_band_continuity.md#constitutional-efficiency) · [M](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [A](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [C](subcore_03.075_band_continuity.md#constitutional-efficiency-c)
+- [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) · [O](subcore_03.075_band_continuity.md#avoidable-burden) · [M](subcore_03.075_band_continuity.md#avoidable-burden-a) · [A](subcore_03.075_band_continuity.md#avoidable-burden-a) · [C](subcore_03.075_band_continuity.md#avoidable-burden-c)
+- [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [O](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [M](subcore_03.075_band_continuity.md#safety-constraint-a) · [A](subcore_03.075_band_continuity.md#safety-constraint-a) · [C](subcore_03.075_band_continuity.md#safety-constraint-c)
+- [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
+- [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
+- [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1105,12 +1105,12 @@ This Article states **constitutional floors** for comprehensibility and complexi
   - survival;
   - environmental preconditions;
   - info-sphere integrity; and
-  - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency).
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency).
 
   That understanding must be enough to participate, rely on accurate information, and challenge what goes wrong without specialist-only access.
 - **Continuity:** understandability and complexity discipline hold across time, scale, and deepening dependency:
   - systems must not quietly become harder to audit, challenge, or correct as stakes rise;
-  - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) must not erode [Productive Capacity](core_03.040_band_continuity.md#productive-capacity) or [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency) without offsetting constitutional benefit.
+  - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) must not erode [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity) or [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency) without offsetting constitutional benefit.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake):
 
@@ -1122,7 +1122,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
   - complexity audits;
   - disclosed behavior.
 - **Accountability:** stewards must:
-  - answer for unnecessary complexity, hidden layering, or comprehension barriers that block [Auditability](core_03.050_band_oversight.md#auditability) or [Contestability](core_03.035_band_accountability.md#contestability);
+  - answer for unnecessary complexity, hidden layering, or comprehension barriers that block [Auditability](subcore_03.085_band_oversight.md#auditability) or [Contestability](subcore_03.070_band_accountability.md#contestability);
   - fix stewardship defects where complexity wastes capacity without constitutional justification.
 - **Timeliness:** in the following, before delay, opacity, or specialist-only surfaces would make understanding, challenge, or remedy effectively unreachable:
   - complexity review;
@@ -1156,9 +1156,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Transparency](core_03.050_band_oversight.md#transparency) · [O](core_03.050_band_oversight.md#transparency) · [M](core_03.050_band_oversight.md#transparency-a) · [A](core_03.050_band_oversight.md#transparency-a) · [C](core_03.050_band_oversight.md#transparency-c)
-- [Material Impact](core_03.050_band_oversight.md#material-impact) · [O](core_03.050_band_oversight.md#material-impact) · [M](core_03.050_band_oversight.md#material-impact-a) · [A](core_03.050_band_oversight.md#material-impact-a) · [C](core_03.050_band_oversight.md#material-impact-c)
-- [Feasibility](core_03.035_band_accountability.md#feasibility) · [O](core_03.035_band_accountability.md#feasibility) · [M](core_03.035_band_accountability.md#feasibility-a) · [A](core_03.035_band_accountability.md#feasibility-a) · [C](core_03.035_band_accountability.md#feasibility-c)
+- [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
+- [Material Impact](subcore_03.085_band_oversight.md#material-impact) · [O](subcore_03.085_band_oversight.md#material-impact) · [M](subcore_03.085_band_oversight.md#material-impact-a) · [A](subcore_03.085_band_oversight.md#material-impact-a) · [C](subcore_03.085_band_oversight.md#material-impact-c)
+- [Feasibility](subcore_03.070_band_accountability.md#feasibility) · [O](subcore_03.070_band_accountability.md#feasibility) · [M](subcore_03.070_band_accountability.md#feasibility-a) · [A](subcore_03.070_band_accountability.md#feasibility-a) · [C](subcore_03.070_band_accountability.md#feasibility-c)
 
 </details>
 
@@ -1191,9 +1191,9 @@ This Article sets out the floor for proportional understandability:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [M](core_03.040_band_continuity.md#dependency-a) · [A](core_03.040_band_continuity.md#dependency-a) · [C](core_03.040_band_continuity.md#dependency-c)
-- [System Boundary Integrity](core_03.040_band_continuity.md#system-boundary-integrity) · [O](core_03.040_band_continuity.md#system-boundary-integrity) · [M](core_03.040_band_continuity.md#system-boundary-integrity-a) · [A](core_03.040_band_continuity.md#system-boundary-integrity-a) · [C](core_03.040_band_continuity.md#system-boundary-integrity-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
+- [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity) · [O](subcore_03.075_band_continuity.md#system-boundary-integrity) · [M](subcore_03.075_band_continuity.md#system-boundary-integrity-a) · [A](subcore_03.075_band_continuity.md#system-boundary-integrity-a) · [C](subcore_03.075_band_continuity.md#system-boundary-integrity-c)
 
 </details>
 
@@ -1214,7 +1214,7 @@ This Article sets out the floors for complexity audits, modularity, anti-layerin
   - **[CS-4.315](corpus_systems/cs_04.315_comprehensibility_complexity_stewardship.md#cs-4315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) — *Comprehensibility and complexity stewardship***;
   - adopted presentation and architecture implementation requirements.
 
-  Where CS-4.315 (*Comprehensibility and Complexity Stewardship*) and incorporated implementation conflict, the applicable requirement with the [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect) governs.
+  Where CS-4.315 (*Comprehensibility and Complexity Stewardship*) and incorporated implementation conflict, the applicable requirement with the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) governs.
 
 <a id="article-xxv-root-cause-analysis-and-adaptive-response"></a>
 
@@ -1232,9 +1232,9 @@ This Article sets out the floors for complexity audits, modularity, anti-layerin
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**;
-  - [Reversibility](core_03.040_band_continuity.md#reversibility),
-  - [Risk](core_03.040_band_continuity.md#risk), and
-  - [System Capture](core_03.040_band_continuity.md#system-capture) in
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility),
+  - [Risk](subcore_03.075_band_continuity.md#risk), and
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture) in
   - **Chapter Three**.
 
 </details>
@@ -1242,11 +1242,11 @@ This Article sets out the floors for complexity audits, modularity, anti-layerin
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Materiality](core_03.050_band_oversight.md#materiality) · [O](core_03.050_band_oversight.md#materiality) · [M](core_03.050_band_oversight.md#materiality-determination-a) · [A](core_03.050_band_oversight.md#materiality-determination-a) · [C](core_03.050_band_oversight.md#materiality-determination-c)
-- [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
-- [Anti-Capture](core_03.040_band_continuity.md#anti-capture) · [O](core_03.040_band_continuity.md#anti-capture) · [M](core_03.040_band_continuity.md#anti-capture-a) · [A](core_03.040_band_continuity.md#anti-capture-a) · [C](core_03.040_band_continuity.md#anti-capture-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
+- [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
+- [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
+- [Anti-Capture](subcore_03.075_band_continuity.md#anti-capture) · [O](subcore_03.075_band_continuity.md#anti-capture) · [M](subcore_03.075_band_continuity.md#anti-capture-a) · [A](subcore_03.075_band_continuity.md#anti-capture-a) · [C](subcore_03.075_band_continuity.md#anti-capture-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1300,9 +1300,9 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Foreseeability](core_03.050_band_oversight.md#foreseeability) · [O](core_03.050_band_oversight.md#foreseeability) · [M](core_03.050_band_oversight.md#foreseeability-diligence-a) · [A](core_03.050_band_oversight.md#foreseeability-diligence-a) · [C](core_03.050_band_oversight.md#foreseeability-diligence-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Foreseeability](subcore_03.085_band_oversight.md#foreseeability) · [O](subcore_03.085_band_oversight.md#foreseeability) · [M](subcore_03.085_band_oversight.md#foreseeability-diligence-a) · [A](subcore_03.085_band_oversight.md#foreseeability-diligence-a) · [C](subcore_03.085_band_oversight.md#foreseeability-diligence-c)
 
 </details>
 
@@ -1336,9 +1336,9 @@ This Article sets out the documentation and challenge floors for root-cause find
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Reversibility](core_03.040_band_continuity.md#reversibility) · [O](core_03.040_band_continuity.md#reversibility) · [M](core_03.040_band_continuity.md#reversibility-constitutional-a) · [A](core_03.040_band_continuity.md#reversibility-constitutional-a) · [C](core_03.040_band_continuity.md#reversibility-constitutional-c)
-- [Risk](core_03.040_band_continuity.md#risk) · [O](core_03.040_band_continuity.md#risk) · [M](core_03.040_band_continuity.md#risk-a) · [A](core_03.040_band_continuity.md#risk-a) · [C](core_03.040_band_continuity.md#risk-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
+- [Reversibility](subcore_03.075_band_continuity.md#reversibility) · [O](subcore_03.075_band_continuity.md#reversibility) · [M](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](subcore_03.075_band_continuity.md#reversibility-constitutional-c)
+- [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
 
 </details>
 
@@ -1371,10 +1371,10 @@ This Article sets out the reversibility preference and its guard against delay a
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**;
-  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy),
-  - [Forum Family, Constitutional](core_03.035_band_accountability.md#forum-family-constitutional),
-  - [System Capture](core_03.040_band_continuity.md#system-capture), and
-  - [Anti-Capture](core_03.040_band_continuity.md#anti-capture) in
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy),
+  - [Forum Family, Constitutional](subcore_03.070_band_accountability.md#forum-family-constitutional),
+  - [System Capture](subcore_03.075_band_continuity.md#system-capture), and
+  - [Anti-Capture](subcore_03.075_band_continuity.md#anti-capture) in
   - **Chapter Three**.
 
 </details>
@@ -1382,12 +1382,12 @@ This Article sets out the reversibility preference and its guard against delay a
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.045_band_integrative.md#authority-stack-a) · [A](subcore_03.045_band_integrative.md#authority-stack-a) · [C](subcore_03.045_band_integrative.md#authority-stack-c)
-- [Forum Family, Constitutional](core_03.035_band_accountability.md#forum-family-constitutional) · [O](core_03.035_band_accountability.md#forum-family-constitutional) · [M](core_03.035_band_accountability.md#forum-family-constitutional-a) · [A](core_03.035_band_accountability.md#forum-family-constitutional-a) · [C](core_03.035_band_accountability.md#forum-family-constitutional-c)
-- [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
-- [Anti-Capture](core_03.040_band_continuity.md#anti-capture) · [O](core_03.040_band_continuity.md#anti-capture) · [M](core_03.040_band_continuity.md#anti-capture-a) · [A](core_03.040_band_continuity.md#anti-capture-a) · [C](core_03.040_band_continuity.md#anti-capture-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
+- [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.080_band_integrative.md#authority-stack-a) · [A](subcore_03.080_band_integrative.md#authority-stack-a) · [C](subcore_03.080_band_integrative.md#authority-stack-c)
+- [Forum Family, Constitutional](subcore_03.070_band_accountability.md#forum-family-constitutional) · [O](subcore_03.070_band_accountability.md#forum-family-constitutional) · [M](subcore_03.070_band_accountability.md#forum-family-constitutional-a) · [A](subcore_03.070_band_accountability.md#forum-family-constitutional-a) · [C](subcore_03.070_band_accountability.md#forum-family-constitutional-c)
+- [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
+- [Anti-Capture](subcore_03.075_band_continuity.md#anti-capture) · [O](subcore_03.075_band_continuity.md#anti-capture) · [M](subcore_03.075_band_continuity.md#anti-capture-a) · [A](subcore_03.075_band_continuity.md#anti-capture-a) · [C](subcore_03.075_band_continuity.md#anti-capture-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1429,10 +1429,10 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Forum Family, Constitutional](core_03.035_band_accountability.md#forum-family-constitutional) · [O](core_03.035_band_accountability.md#forum-family-constitutional) · [M](core_03.035_band_accountability.md#forum-family-constitutional-a) · [A](core_03.035_band_accountability.md#forum-family-constitutional-a) · [C](core_03.035_band_accountability.md#forum-family-constitutional-c)
-- [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.045_band_integrative.md#authority-stack-a) · [A](subcore_03.045_band_integrative.md#authority-stack-a) · [C](subcore_03.045_band_integrative.md#authority-stack-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
+- [Forum Family, Constitutional](subcore_03.070_band_accountability.md#forum-family-constitutional) · [O](subcore_03.070_band_accountability.md#forum-family-constitutional) · [M](subcore_03.070_band_accountability.md#forum-family-constitutional-a) · [A](subcore_03.070_band_accountability.md#forum-family-constitutional-a) · [C](subcore_03.070_band_accountability.md#forum-family-constitutional-c)
+- [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.080_band_integrative.md#authority-stack-a) · [A](subcore_03.080_band_integrative.md#authority-stack-a) · [C](subcore_03.080_band_integrative.md#authority-stack-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
 
 </details>
 
@@ -1479,9 +1479,9 @@ This Article sets out the bounded mandate of Constitutional Forums and its limit
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
-- [Forum Family, Constitutional](core_03.035_band_accountability.md#forum-family-constitutional) · [O](core_03.035_band_accountability.md#forum-family-constitutional) · [M](core_03.035_band_accountability.md#forum-family-constitutional-a) · [A](core_03.035_band_accountability.md#forum-family-constitutional-a) · [C](core_03.035_band_accountability.md#forum-family-constitutional-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
+- [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
+- [Forum Family, Constitutional](subcore_03.070_band_accountability.md#forum-family-constitutional) · [O](subcore_03.070_band_accountability.md#forum-family-constitutional) · [M](subcore_03.070_band_accountability.md#forum-family-constitutional-a) · [A](subcore_03.070_band_accountability.md#forum-family-constitutional-a) · [C](subcore_03.070_band_accountability.md#forum-family-constitutional-c)
 
 </details>
 
@@ -1513,10 +1513,10 @@ This Article sets out the floors for independent challenge and secondary review 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
-- [Forum Family, Constitutional](core_03.035_band_accountability.md#forum-family-constitutional) · [O](core_03.035_band_accountability.md#forum-family-constitutional) · [M](core_03.035_band_accountability.md#forum-family-constitutional-a) · [A](core_03.035_band_accountability.md#forum-family-constitutional-a) · [C](core_03.035_band_accountability.md#forum-family-constitutional-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
+- [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
+- [Forum Family, Constitutional](subcore_03.070_band_accountability.md#forum-family-constitutional) · [O](subcore_03.070_band_accountability.md#forum-family-constitutional) · [M](subcore_03.070_band_accountability.md#forum-family-constitutional-a) · [A](subcore_03.070_band_accountability.md#forum-family-constitutional-a) · [C](subcore_03.070_band_accountability.md#forum-family-constitutional-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
 
 </details>
 
@@ -1546,9 +1546,9 @@ This Article sets out the independence and external-review floors for Constituti
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
-- [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) · [O](core_03.055_band_participation.md#procedural-fairness) · [M](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [A](core_03.055_band_participation.md#procedural-fairness-constitutional-a) · [C](core_03.055_band_participation.md#procedural-fairness-constitutional-c)
-- [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
+- [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
 
 </details>
 

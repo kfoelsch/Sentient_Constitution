@@ -9,7 +9,7 @@ from wrapper_cite_audit import ALL_WRAPPERS, scan_line, scan_text
 
 
 class WrapperCiteTests(unittest.TestCase):
-    def _kinds(self, line: str, rel: str = "core_03.040_band_continuity.md", wrappers=("corpus_systems.md",)) -> list[str]:
+    def _kinds(self, line: str, rel: str = "subcore_03.075_band_continuity.md", wrappers=("corpus_systems.md",)) -> list[str]:
         return [f.kind for f in scan_line(rel, 1, line, wrappers)]
 
     def test_flags_wrapper_link(self) -> None:
@@ -36,7 +36,7 @@ class WrapperCiteTests(unittest.TestCase):
         self.assertEqual(self._kinds("[corpus_institutions.md](corpus_institutions.md)"), [])
 
     def test_default_checks_every_layer_wrapper(self) -> None:
-        rel = "core_03.040_band_continuity.md"
+        rel = "subcore_03.075_band_continuity.md"
         for name in ALL_WRAPPERS:
             findings = scan_text(rel, f"Body cites [{name}]({name}) here.\n")
             self.assertEqual([f.kind for f in findings], ["link"], name)
@@ -54,14 +54,14 @@ class WrapperCiteTests(unittest.TestCase):
             "**Previous file:** [corpus_systems.md](../corpus_systems.md)",
             "- [Systems and data landing page](../corpus_systems.md);",
             "## Section naming corpus_systems.md",
-            "- [**CS**](../corpus_systems.md) — [System](../core_03.040_band_continuity.md#system) classification and stewardship",
+            "- [**CS**](../corpus_systems.md) — [System](../subcore_03.075_band_continuity.md#system) classification and stewardship",
         ):
             self.assertEqual(self._kinds(line), [], line)
 
     def test_inventory_entry_allowed_only_in_incorporating_files(self) -> None:
         line = "  - [corpus_systems.md](corpus_systems.md) (*systems implementation file*)"
         self.assertEqual(self._kinds(line, rel="core_30.000_incorporation.md"), [])
-        self.assertEqual(self._kinds(line, rel="core_03.040_band_continuity.md"), ["link"])
+        self.assertEqual(self._kinds(line, rel="subcore_03.075_band_continuity.md"), ["link"])
 
     def test_citation_inside_incorporating_file_still_flagged(self) -> None:
         line = "Custody records follow *[corpus_systems.md](corpus_systems.md)*, CS-8.305."

@@ -59,7 +59,7 @@ See: [Article VIII-D](../../../core_04.010_rights_part_b.md#article-viii-d-devel
 - **Today:** A household reshuffle happens, and review is later if at all.
 - **With this Constitution:** Durable separation from a protected care relationship has to be needed, not bigger than the harm, fair, and reviewed on a clock.
 
-See: [Non-Separation](../../../core_03.055_band_participation.md#non-separation); [Article VIII-A](../../../core_04.010_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_04.010_rights_part_b.md#article-viii-e-non-separation).
+See: [Non-Separation](../../../subcore_03.090_band_participation.md#non-separation); [Article VIII-A](../../../core_04.010_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_04.010_rights_part_b.md#article-viii-e-non-separation).
 
 ## What you might reasonably object to
 

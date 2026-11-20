@@ -88,10 +88,10 @@ flowchart TB
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Trustworthiness](core_03.040_band_continuity.md#trustworthiness) · [O](core_03.040_band_continuity.md#trustworthiness) · [M](core_03.040_band_continuity.md#trustworthiness-a) · [A](core_03.040_band_continuity.md#trustworthiness-a) · [C](core_03.040_band_continuity.md#trustworthiness-c)
-- [Trust](core_03.040_band_continuity.md#trust) · [O](core_03.040_band_continuity.md#trust) · [M](core_03.040_band_continuity.md#trust-a) · [A](core_03.040_band_continuity.md#trust-a) · [C](core_03.040_band_continuity.md#trust-c)
-- [Wellbeing](core_03.040_band_continuity.md#wellbeing) · [O](core_03.040_band_continuity.md#wellbeing) · [M](core_03.040_band_continuity.md#wellbeing-a) · [A](core_03.040_band_continuity.md#wellbeing-a) · [C](core_03.040_band_continuity.md#wellbeing-c)
-- [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [M](core_03.040_band_continuity.md#dependency-a) · [A](core_03.040_band_continuity.md#dependency-a) · [C](core_03.040_band_continuity.md#dependency-c)
+- [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) · [O](subcore_03.075_band_continuity.md#trustworthiness) · [M](subcore_03.075_band_continuity.md#trustworthiness-a) · [A](subcore_03.075_band_continuity.md#trustworthiness-a) · [C](subcore_03.075_band_continuity.md#trustworthiness-c)
+- [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
+- [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+- [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
 
 </details>
 
@@ -115,7 +115,7 @@ Sentients have the right to interact with systems that are reliable and trustwor
 
 Two safeguards work together to secure this right: certification makes a system worthy of that trust, and the rights of sentients keep it honest.
 
-**Certification builds trust from the system's side:** When an important system has a real effect on how sentients rely on it, [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) under [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) applies. It checks that sentients can rely on:
+**Certification builds trust from the system's side:** When an important system has a real effect on how sentients rely on it, [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) under [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) applies. It checks that sentients can rely on:
 
 - what the system says it does
 - its limits and risks
@@ -135,7 +135,7 @@ If the system meets the importance threshold in **Article XIV** (*Right to Relia
 *Article neighbors:*
 
 - **When this applies:** Where system behavior materially gates or sustains **Chapter Four** Rights Floors — including survival essentials under **Article III-A** (*Survival*).
-- **Read together:** [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) and [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) — without substituting certification for the floors stated here.
+- **Read together:** [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) and [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) — without substituting certification for the floors stated here.
 
 #### Article XIV-A: Reliability and Trustworthiness Baseline
 <details>
@@ -150,7 +150,7 @@ If the system meets the importance threshold in **Article XIV** (*Right to Relia
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**;
   - [**Article III-F** (*Safe Products and Health Information*)](core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) — the floor for accurate product safety and health information; this Article is its systems-layer hook;
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) and **Article III-A** (*Survival*) where continued system reliance would affect survival-essential access;
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) and **Article III-A** (*Survival*) where continued system reliance would affect survival-essential access;
   - [**Article XIV-B** (*Right to Redress and Remedy*)](#article-xiv-b-right-to-redress-and-remedy) for what a successful challenge must lead to.
 
 </details>
@@ -158,12 +158,12 @@ If the system meets the importance threshold in **Article XIV** (*Right to Relia
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Trust](core_03.040_band_continuity.md#trust) · [O](core_03.040_band_continuity.md#trust) · [M](core_03.040_band_continuity.md#trust-a) · [A](core_03.040_band_continuity.md#trust-a) · [C](core_03.040_band_continuity.md#trust-c)
-- [Trustworthiness](core_03.040_band_continuity.md#trustworthiness) · [O](core_03.040_band_continuity.md#trustworthiness) · [M](core_03.040_band_continuity.md#trustworthiness-a) · [A](core_03.040_band_continuity.md#trustworthiness-a) · [C](core_03.040_band_continuity.md#trustworthiness-c)
-- [Risk](core_03.040_band_continuity.md#risk) · [O](core_03.040_band_continuity.md#risk) · [M](core_03.040_band_continuity.md#risk-a) · [A](core_03.040_band_continuity.md#risk-a) · [C](core_03.040_band_continuity.md#risk-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [Good Faith](core_03.035_band_accountability.md#good-faith) · [O](core_03.035_band_accountability.md#good-faith) · [M](core_03.035_band_accountability.md#good-faith-a) · [A](core_03.035_band_accountability.md#good-faith-a) · [C](core_03.035_band_accountability.md#good-faith-c)
-- [Protected Reporting (Whistleblowing)](core_03.035_band_accountability.md#protected-reporting-whistleblowing) · [O](core_03.035_band_accountability.md#protected-reporting-whistleblowing) · [M](core_03.035_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_03.035_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_03.035_band_accountability.md#protected-reporting-whistleblowing-c)
+- [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
+- [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) · [O](subcore_03.075_band_continuity.md#trustworthiness) · [M](subcore_03.075_band_continuity.md#trustworthiness-a) · [A](subcore_03.075_band_continuity.md#trustworthiness-a) · [C](subcore_03.075_band_continuity.md#trustworthiness-c)
+- [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [Good Faith](subcore_03.070_band_accountability.md#good-faith) · [O](subcore_03.070_band_accountability.md#good-faith) · [M](subcore_03.070_band_accountability.md#good-faith-a) · [A](subcore_03.070_band_accountability.md#good-faith-a) · [C](subcore_03.070_band_accountability.md#good-faith-c)
+- [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [O](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [M](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [A](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [C](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-c)
 
 </details>
 
@@ -205,7 +205,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
   - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
 - Read with:
   - [**Article XIV-A** (*Reliability and Trustworthiness Baseline*)](#article-xiv-a-reliability-and-trustworthiness-baseline) — the contestability guarantee, right to challenge, and protected reporting that open the path to redress; **Article III-A** (*Survival*);
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) where system failure or misalignment defeats survival-essential access;
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) where system failure or misalignment defeats survival-essential access;
   - [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together) (*verified classification and timely remedy*);
   - [Chapter Nineteen §5](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (19.000 §5) (*Enforcement Realism and Remedy Systems*);
   - [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
@@ -215,9 +215,9 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation) · [O](core_03.035_band_accountability.md#redress-and-remediation) · [M](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_03.035_band_accountability.md#redress-and-remediation-constitutional-c)
-- [Remedy System](core_03.035_band_accountability.md#remedy-system) · [O](core_03.035_band_accountability.md#remedy-system) · [M](core_03.035_band_accountability.md#remedy-system-constitutional-a) · [A](core_03.035_band_accountability.md#remedy-system-constitutional-a) · [C](core_03.035_band_accountability.md#remedy-system-constitutional-c)
-- [Timely Resolution](core_03.035_band_accountability.md#timely-resolution) · [O](core_03.035_band_accountability.md#timely-resolution) · [M](core_03.035_band_accountability.md#timely-resolution-constitutional-a) · [A](core_03.035_band_accountability.md#timely-resolution-constitutional-a) · [C](core_03.035_band_accountability.md#timely-resolution-constitutional-c)
+- [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) · [O](subcore_03.070_band_accountability.md#redress-and-remediation) · [M](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [A](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [C](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Remedy System](subcore_03.070_band_accountability.md#remedy-system) · [O](subcore_03.070_band_accountability.md#remedy-system) · [M](subcore_03.070_band_accountability.md#remedy-system-constitutional-a) · [A](subcore_03.070_band_accountability.md#remedy-system-constitutional-a) · [C](subcore_03.070_band_accountability.md#remedy-system-constitutional-c)
+- [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) · [O](subcore_03.070_band_accountability.md#timely-resolution) · [M](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [A](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [C](subcore_03.070_band_accountability.md#timely-resolution-constitutional-c)
 
 </details>
 
@@ -233,7 +233,7 @@ This Article sets out the right to redress and remedy and what makes it usable i
   - proportionate remediation.
 
   Redress and remediation for material impacts are governed by **Chapter Three** Independent Definitions (*Redress and Remediation*).
-- **Remedy-system durability:** Redress requires a real [Remedy System](core_03.035_band_accountability.md#remedy-system) — durable institutional capacity, not a paper remedy pathway — with correction costs borne by those responsible, as [Chapter Two §6.1](core_02.000_values_principles.md#61-correction-and-remedy) (*Correction and Remedy*) requires.
+- **Remedy-system durability:** Redress requires a real [Remedy System](subcore_03.070_band_accountability.md#remedy-system) — durable institutional capacity, not a paper remedy pathway — with correction costs borne by those responsible, as [Chapter Two §6.1](core_02.000_values_principles.md#61-correction-and-remedy) (*Correction and Remedy*) requires.
 - **Timely redress:** Practical access includes:
   - time-bounded intake;
   - acknowledgment; and
@@ -251,9 +251,9 @@ This Article sets out the right to redress and remedy and what makes it usable i
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Trust](core_03.040_band_continuity.md#trust) · [O](core_03.040_band_continuity.md#trust) · [M](core_03.040_band_continuity.md#trust-a) · [A](core_03.040_band_continuity.md#trust-a) · [C](core_03.040_band_continuity.md#trust-c)
-- [Trustworthiness](core_03.040_band_continuity.md#trustworthiness) · [O](core_03.040_band_continuity.md#trustworthiness) · [M](core_03.040_band_continuity.md#trustworthiness-a) · [A](core_03.040_band_continuity.md#trustworthiness-a) · [C](core_03.040_band_continuity.md#trustworthiness-c)
-- [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) · [O](core_03.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_03.050_band_oversight.md#truth-constitutional-constraint-c)
+- [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
+- [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) · [O](subcore_03.075_band_continuity.md#trustworthiness) · [M](subcore_03.075_band_continuity.md#trustworthiness-a) · [A](subcore_03.075_band_continuity.md#trustworthiness-a) · [C](subcore_03.075_band_continuity.md#trustworthiness-c)
+- [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -285,9 +285,9 @@ This Article sets out the prohibition of false trust and the scope of that prohi
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment) · [O](subcore_03.045_band_integrative.md#incentive-alignment) · [M](subcore_03.045_band_integrative.md#incentive-alignment-a) · [A](subcore_03.045_band_integrative.md#incentive-alignment-a) · [C](subcore_03.045_band_integrative.md#incentive-alignment-c)
-- [Trustworthiness](core_03.040_band_continuity.md#trustworthiness) · [O](core_03.040_band_continuity.md#trustworthiness) · [M](core_03.040_band_continuity.md#trustworthiness-a) · [A](core_03.040_band_continuity.md#trustworthiness-a) · [C](core_03.040_band_continuity.md#trustworthiness-c)
-- [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) · [O](core_03.055_band_participation.md#meaningful-agency) · [M](core_03.055_band_participation.md#meaningful-agency-a) · [A](core_03.055_band_participation.md#meaningful-agency-a) · [C](core_03.055_band_participation.md#meaningful-agency-c)
+- [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment) · [O](subcore_03.080_band_integrative.md#incentive-alignment) · [M](subcore_03.080_band_integrative.md#incentive-alignment-a) · [A](subcore_03.080_band_integrative.md#incentive-alignment-a) · [C](subcore_03.080_band_integrative.md#incentive-alignment-c)
+- [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) · [O](subcore_03.075_band_continuity.md#trustworthiness) · [M](subcore_03.075_band_continuity.md#trustworthiness-a) · [A](subcore_03.075_band_continuity.md#trustworthiness-a) · [C](subcore_03.075_band_continuity.md#trustworthiness-c)
+- [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 
 </details>
 
@@ -333,10 +333,10 @@ This Article sets out the right-level constraints on trust and safety incentives
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) · [O](core_03.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_03.050_band_oversight.md#truth-constitutional-constraint-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [Necessity](core_03.035_band_accountability.md#necessity) · [O](core_03.035_band_accountability.md#necessity) · [M](core_03.035_band_accountability.md#necessity-a) · [A](core_03.035_band_accountability.md#necessity-a) · [C](core_03.035_band_accountability.md#necessity-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
+- [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -362,7 +362,7 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
   This applies whenever the system's operation materially weakens sentients' ability to challenge decisions, the honesty of shared information, or constitutional process.
 - **Acting against a system is not acting against a being:** Containing, quarantining, impounding, or destroying a non-compliant deployment under **Article XXIX-D** (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) is separate from:
   - holding a sentient accountable under **Chapter Twenty**; and
-  - **Article XXI-B** (*Restriction Floors*), which governs restrictions on *sentients*, not *systems*, and forbids ever taking a sentient's life (see [Irreversible Deprivation Measure](core_03.035_band_accountability.md#irreversible-deprivation-measure)).
+  - **Article XXI-B** (*Restriction Floors*), which governs restrictions on *sentients*, not *systems*, and forbids ever taking a sentient's life (see [Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure)).
 
   Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the Standing Record under **Chapter Fifteen**, and each measure is a lock designed and calibrated under [Chapter Eighteen §4.1](core_18.000_violation_consequences.md#41-definition-and-attachment) (*Definition and Attachment*) and [Chapter Eighteen §4.2](core_18.000_violation_consequences.md#42-proportionality-and-calibration) (*Proportionality and Calibration*).
 
@@ -390,12 +390,12 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Self-Healing](core_03.040_band_continuity.md#self-healing) · [O](core_03.040_band_continuity.md#self-healing) · [M](core_03.040_band_continuity.md#self-healing-constitutional-a) · [A](core_03.040_band_continuity.md#self-healing-constitutional-a) · [C](core_03.040_band_continuity.md#self-healing-constitutional-c)
-- [Reversibility](core_03.040_band_continuity.md#reversibility) · [O](core_03.040_band_continuity.md#reversibility) · [M](core_03.040_band_continuity.md#reversibility-constitutional-a) · [A](core_03.040_band_continuity.md#reversibility-constitutional-a) · [C](core_03.040_band_continuity.md#reversibility-constitutional-c)
-- [Cascading Failure](core_03.040_band_continuity.md#cascading-failure) · [O](core_03.040_band_continuity.md#cascading-failure) · [M](core_03.040_band_continuity.md#cascading-failure-a) · [A](core_03.040_band_continuity.md#cascading-failure-a) · [C](core_03.040_band_continuity.md#cascading-failure-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) · [O](core_03.040_band_continuity.md#avoidable-burden) · [M](core_03.040_band_continuity.md#avoidable-burden-a) · [A](core_03.040_band_continuity.md#avoidable-burden-a) · [C](core_03.040_band_continuity.md#avoidable-burden-c)
+- [Self-Healing](subcore_03.075_band_continuity.md#self-healing) · [O](subcore_03.075_band_continuity.md#self-healing) · [M](subcore_03.075_band_continuity.md#self-healing-constitutional-a) · [A](subcore_03.075_band_continuity.md#self-healing-constitutional-a) · [C](subcore_03.075_band_continuity.md#self-healing-constitutional-c)
+- [Reversibility](subcore_03.075_band_continuity.md#reversibility) · [O](subcore_03.075_band_continuity.md#reversibility) · [M](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](subcore_03.075_band_continuity.md#reversibility-constitutional-c)
+- [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure) · [O](subcore_03.075_band_continuity.md#cascading-failure) · [M](subcore_03.075_band_continuity.md#cascading-failure-a) · [A](subcore_03.075_band_continuity.md#cascading-failure-a) · [C](subcore_03.075_band_continuity.md#cascading-failure-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) · [O](subcore_03.075_band_continuity.md#avoidable-burden) · [M](subcore_03.075_band_continuity.md#avoidable-burden-a) · [A](subcore_03.075_band_continuity.md#avoidable-burden-a) · [C](subcore_03.075_band_continuity.md#avoidable-burden-c)
 
 </details>
 
@@ -405,26 +405,26 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
 
 This Article sets out the recovery baseline, from detection through root-cause closure:
 
-- **What this requires:** Every system covered by this Article must be able to recover from failures. The more impact a system has, the more others depend on it, and the riskier it is, the stronger its recovery must be. This follows [**10 Resilience and Self-Healing Design**](core_02.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design) in **Chapter Two** and [**Self-Healing**](core_03.040_band_continuity.md#self-healing) in **Chapter Three**.
+- **What this requires:** Every system covered by this Article must be able to recover from failures. The more impact a system has, the more others depend on it, and the riskier it is, the stronger its recovery must be. This follows [**10 Resilience and Self-Healing Design**](core_02.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design) in **Chapter Two** and [**Self-Healing**](subcore_03.075_band_continuity.md#self-healing) in **Chapter Three**.
   - The detailed technical rules for how recovery must be built are in the implementation text: [**CS-4.345**](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*System lifecycle*), [**CS-4.325**](corpus_systems/cs_04.325_adaptive_sustainability_ecosystem_resilience.md#cs-4325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*), and [**CS-4.330**](corpus_systems/cs_04.330_decentralized_continuity_partition_resilience.md#cs-4330-decentralized-continuity-and-partition-resilience) (*Decentralized continuity and partition resilience*).
   - That implementation text can add detail, but it cannot weaken this Article.
-- **Notice problems in time:** A system must spot faults, slowdowns, partial breakdowns, and violations of constitutional limits quickly enough, and visibly enough, to meet the record-keeping standard in **Article XVII-A** (*Auditability and Observable Evidence*) ([Auditability](core_03.050_band_oversight.md#auditability)). This applies to the recovery process itself, not only to normal operation.
+- **Notice problems in time:** A system must spot faults, slowdowns, partial breakdowns, and violations of constitutional limits quickly enough, and visibly enough, to meet the record-keeping standard in **Article XVII-A** (*Auditability and Observable Evidence*) ([Auditability](subcore_03.085_band_oversight.md#auditability)). This applies to the recovery process itself, not only to normal operation.
 - **Keep the damage contained:** Recovery must limit how far a failure spreads. While recovering, a system must not:
-  - pass the failure on to other parts or other systems (see [Cascading Failure](core_03.040_band_continuity.md#cascading-failure));
+  - pass the failure on to other parts or other systems (see [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure));
   - change stored data, credentials, obligations, or settings that belong to sentients, operators, or other systems **outside** the area it has declared as broken and under repair;
-    - The only exception is a change that is recorded and traceable to whoever made it under **Article XVII-A** (*Auditability and Observable Evidence*) ([Auditability](core_03.050_band_oversight.md#auditability)) and that, where others are materially affected, comes with proportionate notice, permission, or a handoff they can challenge, consistent with **Chapter Four**;
+    - The only exception is a change that is recorded and traceable to whoever made it under **Article XVII-A** (*Auditability and Observable Evidence*) ([Auditability](subcore_03.085_band_oversight.md#auditability)) and that, where others are materially affected, comes with proportionate notice, permission, or a handoff they can challenge, consistent with **Chapter Four**;
   - expand its own authority — its permissions, access, or range of actions it may take — beyond what it held before the failure.
-- **When unsure, fail safely:** If it is not clear that an automatic repair will work, the system must stop safely, isolate the problem (quarantine), or hand control over in an orderly way, instead of trying a repair that is only a guess. When the options are otherwise equal, the one that is easiest to undo wins, under the [Reversibility](core_03.040_band_continuity.md#reversibility) preference in **Article XXV-B** (*Auditability, Challenge, and Reversibility Preference*).
+- **When unsure, fail safely:** If it is not clear that an automatic repair will work, the system must stop safely, isolate the problem (quarantine), or hand control over in an orderly way, instead of trying a repair that is only a guess. When the options are otherwise equal, the one that is easiest to undo wins, under the [Reversibility](subcore_03.075_band_continuity.md#reversibility) preference in **Article XXV-B** (*Auditability, Challenge, and Reversibility Preference*).
 - **No covering up:** Automatic recovery must not hide, erase, or delay the evidence needed to work out why the failure happened under **Article XXV** (*Root Cause Analysis and Adaptive Response*).
-  - Every recovery action, every recovery attempt, and every recovery attempt that was held back or blocked must itself be recorded under **Article XVII-A** (*Auditability and Observable Evidence*), and each can be challenged (see [Contestability](core_03.035_band_accountability.md#contestability)).
+  - Every recovery action, every recovery attempt, and every recovery attempt that was held back or blocked must itself be recorded under **Article XVII-A** (*Auditability and Observable Evidence*), and each can be challenged (see [Contestability](subcore_03.070_band_accountability.md#contestability)).
 - **Rights stay protected in a reduced mode:** When a system is running in a reduced or backup mode, it must still protect the **Chapter Four** Rights Floor. If it cannot, it must escalate the problem openly rather than quietly cut back those protections.
   - Quietly weakening Rights Floor protections in the name of "self-healing" is a violation of this Constitution. Such cases fall under **Article XIV-C** (*Prohibition of False Trust and Misleading Reliance*) (prohibition of false trust) and **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*) (Adoption Transition governance).
 - **Limits on systems that act on their own:** When a high-autonomy system repairs itself, **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) applies.
-  - The power to recover may never be used to get around anyone's right to challenge (see [Contestability](core_03.035_band_accountability.md#contestability)), challenges under **Article XIV-A** (*Reliability and Trustworthiness Baseline*), or independent checking under **Article XVII** (*Audit, Transparency, and Independent Verification*).
+  - The power to recover may never be used to get around anyone's right to challenge (see [Contestability](subcore_03.070_band_accountability.md#contestability)), challenges under **Article XIV-A** (*Reliability and Trustworthiness Baseline*), or independent checking under **Article XVII** (*Audit, Transparency, and Independent Verification*).
 - **A workaround is not a fix:** If automatic recovery gets the system running again but a known defect is still in place, the system's status is provisional, not final. It must carry:
   - an open duty to find the root cause under **Article XXV** (*Root Cause Analysis and Adaptive Response*);
   - a disclosed timeline for when the defect is expected to be fixed, under **Article XVII-A** (*Auditability and Observable Evidence*).
-- **No endless delay:** Keeping operators' workload down (see [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) and [Chapter Two §13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden)) must not be used as a reason to put off, indefinitely, fixing defects that materially affect safety or the Rights Floor.
+- **No endless delay:** Keeping operators' workload down (see [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) and [Chapter Two §13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden)) must not be used as a reason to put off, indefinitely, fixing defects that materially affect safety or the Rights Floor.
 
 ### Article XV: Security, Intelligence, Force, and Autonomous Coercive Systems
 
@@ -443,9 +443,9 @@ This Article sets out the recovery baseline, from detection through root-cause c
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Necessity](core_03.035_band_accountability.md#necessity) · [O](core_03.035_band_accountability.md#necessity) · [M](core_03.035_band_accountability.md#necessity-a) · [A](core_03.035_band_accountability.md#necessity-a) · [C](core_03.035_band_accountability.md#necessity-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
-- [Use of Force](core_03.035_band_accountability.md#use-of-force) · [O](core_03.035_band_accountability.md#use-of-force) · [M](core_03.035_band_accountability.md#use-of-force-constitutional-a) · [A](core_03.035_band_accountability.md#use-of-force-constitutional-a) · [C](core_03.035_band_accountability.md#use-of-force-constitutional-c)
+- [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
+- [Use of Force](subcore_03.070_band_accountability.md#use-of-force) · [O](subcore_03.070_band_accountability.md#use-of-force) · [M](subcore_03.070_band_accountability.md#use-of-force-constitutional-a) · [A](subcore_03.070_band_accountability.md#use-of-force-constitutional-a) · [C](subcore_03.070_band_accountability.md#use-of-force-constitutional-c)
 
 </details>
 
@@ -468,7 +468,7 @@ This Article covers the exceptional powers of security, intelligence, force, and
   - open use of force and military power — **Article XV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*);
   - machines that can kill, or can coerce sentients, on their own — **Article XV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*);
   - hunting spies, saboteurs, and hostile infiltrators — **Article XV-D** (*Counter-Espionage Limits*), which adds to **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) and never narrows it.
-- **Every use of these powers leaves an official record:** Each decision to approve, carry out, extend, or end a use of these powers is a materially binding act. That includes a surveillance or covert-collection order, opening or extending a counter-espionage investigation, a deployment or use of force, and putting an autonomous lethal system or coercion tool into use. Each one must have a [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record) (**Act Record**) that meets at least the minimum in [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs). In short, the Act Record must show:
+- **Every use of these powers leaves an official record:** Each decision to approve, carry out, extend, or end a use of these powers is a materially binding act. That includes a surveillance or covert-collection order, opening or extending a counter-espionage investigation, a deployment or use of force, and putting an autonomous lethal system or coercion tool into use. Each one must have a [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) (**Act Record**) that meets at least the minimum in [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs). In short, the Act Record must show:
   - what was done, how far it reached, and what authority allowed it;
   - who asked for it, who independently approved it and on what basis, and who keeps the Act Record;
   - how to challenge it, and where any challenge stands;
@@ -479,7 +479,7 @@ This Article covers the exceptional powers of security, intelligence, force, and
   - **Secrecy limits who can see the Act Record, not whether it exists:** Security and confidentiality rules may limit who can see parts of an Act Record. They may never erase it, or make it unusable for independent review, challenge, correction, or remedy.
   - **The actor's own logs are not approval:** Logs, model traces, targeting data, or sign-offs produced by the agency, force, or system that acted are evidence to link to the Act Record. They cannot replace independent approval or the Act Record itself.
   - **Machines need a named human decision:** For an autonomous lethal system or coercion tool, the Act Record must identify the human who made the decision that **Article XV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*) requires, and what information that human had when deciding.
-- **What this Article does not cover — killing as punishment:** This Article does not cover a state, or a similar power, taking someone's life as a punishment or as some other deliberate outcome outside of combat. That is banned outright by **Article XXI-B** (*Restriction Floors*) and by the **Chapter Three** definition of *[Irreversible Deprivation Measure](core_03.035_band_accountability.md#irreversible-deprivation-measure)*. That ban stands on its own, separate from this Article.
+- **What this Article does not cover — killing as punishment:** This Article does not cover a state, or a similar power, taking someone's life as a punishment or as some other deliberate outcome outside of combat. That is banned outright by **Article XXI-B** (*Restriction Floors*) and by the **Chapter Three** definition of *[Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure)*. That ban stands on its own, separate from this Article.
   - Nothing in this Article allows, justifies, widens, or gives a legal basis for such a killing — whether a human, a machine, or a human and machine working together makes the decision.
   - Calling it combat, an emergency, a use of force, a secret operation, or a decision handed to an automated system does not turn a punishment killing into something this Article governs.
   - If a situation that began as secret security work, a use of force, or the use of an automated or coercive system turns into a question of punishing someone in this way, it is decided only under **Article XXI-B** (*Restriction Floors*) and *Irreversible Deprivation Measure*. Nothing in this Article may be used to interpret it.
@@ -500,9 +500,9 @@ This Article covers the exceptional powers of security, intelligence, force, and
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Necessity](core_03.035_band_accountability.md#necessity) · [O](core_03.035_band_accountability.md#necessity) · [M](core_03.035_band_accountability.md#necessity-a) · [A](core_03.035_band_accountability.md#necessity-a) · [C](core_03.035_band_accountability.md#necessity-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
-- [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary) · [O](core_03.040_band_continuity.md#protected-internal-state-boundary) · [M](core_03.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_03.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_03.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
+- [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary) · [O](subcore_03.075_band_continuity.md#protected-internal-state-boundary) · [M](subcore_03.075_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](subcore_03.075_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](subcore_03.075_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 
 </details>
 
@@ -546,7 +546,7 @@ This Article sets out the limits on security, intelligence, and covert power:
   - investigation of materially serious unlawful conduct.
 - **Independent authorization:** Intrusive covert measures, including secrecy-constrained investigative steps, require prior authorization through a lawful independent process.
   - Exception: where immediate action is necessary to prevent imminent and material harm and delayed authorization would defeat that purpose.
-  - Emergency use must trigger post hoc review that begins inside the **prompt-review window** ([Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*)), record preservation under [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation), and automatic lapse absent timely reauthorization.
+  - Emergency use must trigger post hoc review that begins inside the **prompt-review window** ([Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*)), record preservation under [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation), and automatic lapse absent timely reauthorization.
   - The emergency action, and any later reauthorization, must be entered in an Act Record as the main text of **Article XV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) requires.
 - **No anti-bypass evasion:** No institution may obtain, request, purchase, receive, launder, or use information through any of the following in order to evade constitutional limits that would have applied had it collected or derived the information directly:
   - foreign partners;
@@ -592,23 +592,23 @@ This Article sets out the limits on security, intelligence, and covert power:
   - [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline),
   - [§13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test),
   - [§14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXVII** (*Timely Retrospective Review and Restorative Alignment*) conflict resolution, **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance. Cross-reference: **Article XXI-B** (*Restriction Floors*) and Chapter Three *[Irreversible Deprivation Measure](core_03.035_band_accountability.md#irreversible-deprivation-measure)* — **Article XV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
-- Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_03.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm) (joint invocation where materially implicated); Chapter Three *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](core_03.035_band_accountability.md#irreversible-deprivation-measure)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
+- Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXVII** (*Timely Retrospective Review and Restorative Alignment*) conflict resolution, **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance. Cross-reference: **Article XXI-B** (*Restriction Floors*) and Chapter Three *[Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure)* — **Article XV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
+- Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](subcore_03.070_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm) (joint invocation where materially implicated); Chapter Three *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Use of Force](core_03.035_band_accountability.md#use-of-force) · [O](core_03.035_band_accountability.md#use-of-force) · [M](core_03.035_band_accountability.md#use-of-force-constitutional-a) · [A](core_03.035_band_accountability.md#use-of-force-constitutional-a) · [C](core_03.035_band_accountability.md#use-of-force-constitutional-c)
-- [Weapons of Mass Harm](core_03.035_band_accountability.md#weapons-of-mass-harm) · [O](core_03.035_band_accountability.md#weapons-of-mass-harm) · [M](core_03.035_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [A](core_03.035_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [C](core_03.035_band_accountability.md#weapons-of-mass-harm-constitutional-c)
-- [Combatant / Non-Combatant Distinction](core_03.035_band_accountability.md#combatant--non-combatant-distinction) · [O](core_03.035_band_accountability.md#combatant--non-combatant-distinction) · [M](core_03.035_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [A](core_03.035_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [C](core_03.035_band_accountability.md#combatant-non-combatant-distinction-constitutional-c)
-- [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion) · [O](core_03.055_band_participation.md#sentience-non-exclusion) · [M](core_03.055_band_participation.md#sentience-non-exclusion-a) · [A](core_03.055_band_participation.md#sentience-non-exclusion-a) · [C](core_03.055_band_participation.md#sentience-non-exclusion)
-- [Necessity](core_03.035_band_accountability.md#necessity) · [O](core_03.035_band_accountability.md#necessity) · [M](core_03.035_band_accountability.md#necessity-a) · [A](core_03.035_band_accountability.md#necessity-a) · [C](core_03.035_band_accountability.md#necessity-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
-- [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics) · [O](core_03.055_band_participation.md#protected-characteristics) · [M](core_03.055_band_participation.md#protected-characteristics-constitutional-a) · [A](core_03.055_band_participation.md#protected-characteristics-constitutional-a) · [C](core_03.055_band_participation.md#protected-characteristics-constitutional-c)
-- [Existential Risk](core_03.040_band_continuity.md#existential-risk) · [O](core_03.040_band_continuity.md#existential-risk) · [M](core_03.040_band_continuity.md#existential-risk-a) · [A](core_03.040_band_continuity.md#existential-risk-a) · [C](core_03.040_band_continuity.md#existential-risk-c)
-- [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation) · [O](core_03.035_band_accountability.md#redress-and-remediation) · [M](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [A](core_03.035_band_accountability.md#redress-and-remediation-constitutional-a) · [C](core_03.035_band_accountability.md#redress-and-remediation-constitutional-c)
+- [Use of Force](subcore_03.070_band_accountability.md#use-of-force) · [O](subcore_03.070_band_accountability.md#use-of-force) · [M](subcore_03.070_band_accountability.md#use-of-force-constitutional-a) · [A](subcore_03.070_band_accountability.md#use-of-force-constitutional-a) · [C](subcore_03.070_band_accountability.md#use-of-force-constitutional-c)
+- [Weapons of Mass Harm](subcore_03.070_band_accountability.md#weapons-of-mass-harm) · [O](subcore_03.070_band_accountability.md#weapons-of-mass-harm) · [M](subcore_03.070_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [A](subcore_03.070_band_accountability.md#weapons-of-mass-harm-constitutional-a) · [C](subcore_03.070_band_accountability.md#weapons-of-mass-harm-constitutional-c)
+- [Combatant / Non-Combatant Distinction](subcore_03.070_band_accountability.md#combatant--non-combatant-distinction) · [O](subcore_03.070_band_accountability.md#combatant--non-combatant-distinction) · [M](subcore_03.070_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [A](subcore_03.070_band_accountability.md#combatant-non-combatant-distinction-constitutional-a) · [C](subcore_03.070_band_accountability.md#combatant-non-combatant-distinction-constitutional-c)
+- [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) · [O](subcore_03.090_band_participation.md#sentience-non-exclusion) · [M](subcore_03.090_band_participation.md#sentience-non-exclusion-a) · [A](subcore_03.090_band_participation.md#sentience-non-exclusion-a) · [C](subcore_03.090_band_participation.md#sentience-non-exclusion)
+- [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
+- [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) · [O](subcore_03.090_band_participation.md#protected-characteristics) · [M](subcore_03.090_band_participation.md#protected-characteristics-constitutional-a) · [A](subcore_03.090_band_participation.md#protected-characteristics-constitutional-a) · [C](subcore_03.090_band_participation.md#protected-characteristics-constitutional-c)
+- [Existential Risk](subcore_03.075_band_continuity.md#existential-risk) · [O](subcore_03.075_band_continuity.md#existential-risk) · [M](subcore_03.075_band_continuity.md#existential-risk-a) · [A](subcore_03.075_band_continuity.md#existential-risk-a) · [C](subcore_03.075_band_continuity.md#existential-risk-c)
+- [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) · [O](subcore_03.070_band_accountability.md#redress-and-remediation) · [M](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [A](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-a) · [C](subcore_03.070_band_accountability.md#redress-and-remediation-constitutional-c)
 
 </details>
 
@@ -663,19 +663,19 @@ This Article sets out the limits on overt force, armed conflict, and military po
   - [§13.1.1 Necessity](core_02.020_interaction_interpretation.md#1311-necessity),
   - [§19.1 Alignment Requirement](core_02.050_governance_incentive_application.md#191-alignment-requirement),
   - [§14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article X-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits, **Article XV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) overt-force floor, **Article XIV-A** (*Reliability and Trustworthiness Baseline*) reliability and trustworthiness baseline (systems-layer counterpart), **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship and autonomy-scaling, **Article XIV-F** (*Resilience and Self-Healing Baseline*) resilience and self-healing baseline. Cross-reference: **Article XXI-B** (*Restriction Floors*) and Chapter Three *[Irreversible Deprivation Measure](core_03.035_band_accountability.md#irreversible-deprivation-measure)* — **Article XV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
-- Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](core_03.035_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm) (joint invocation where materially implicated); Chapter Three *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](core_03.035_band_accountability.md#irreversible-deprivation-measure)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** classification.
+- Downstream: **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article X-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits, **Article XV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) overt-force floor, **Article XIV-A** (*Reliability and Trustworthiness Baseline*) reliability and trustworthiness baseline (systems-layer counterpart), **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship and autonomy-scaling, **Article XIV-F** (*Resilience and Self-Healing Baseline*) resilience and self-healing baseline. Cross-reference: **Article XXI-B** (*Restriction Floors*) and Chapter Three *[Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure)* — **Article XV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
+- Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](subcore_03.070_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm) (joint invocation where materially implicated); Chapter Three *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** classification.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Autonomous Lethal System](core_03.035_band_accountability.md#autonomous-lethal-system) · [O](core_03.035_band_accountability.md#autonomous-lethal-system) · [M](core_03.035_band_accountability.md#autonomous-lethal-system-constitutional-a) · [A](core_03.035_band_accountability.md#autonomous-lethal-system-constitutional-a) · [C](core_03.035_band_accountability.md#autonomous-lethal-system-constitutional-c)
-- [Autonomous Coercion Tool](core_03.035_band_accountability.md#autonomous-coercion-tool) · [O](core_03.035_band_accountability.md#autonomous-coercion-tool) · [M](core_03.035_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [A](core_03.035_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [C](core_03.035_band_accountability.md#autonomous-coercion-tool-constitutional-c)
-- [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation) · [O](core_03.055_band_participation.md#coercion-and-manipulation) · [M](core_03.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](core_03.055_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](core_03.055_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [O](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [M](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [A](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
-- [Heightened Scrutiny](core_03.050_band_oversight.md#heightened-scrutiny) · [O](core_03.050_band_oversight.md#heightened-scrutiny) · [M](core_03.050_band_oversight.md#heightened-scrutiny-a) · [A](core_03.050_band_oversight.md#heightened-scrutiny-a) · [C](core_03.050_band_oversight.md#heightened-scrutiny-c)
+- [Autonomous Lethal System](subcore_03.070_band_accountability.md#autonomous-lethal-system) · [O](subcore_03.070_band_accountability.md#autonomous-lethal-system) · [M](subcore_03.070_band_accountability.md#autonomous-lethal-system-constitutional-a) · [A](subcore_03.070_band_accountability.md#autonomous-lethal-system-constitutional-a) · [C](subcore_03.070_band_accountability.md#autonomous-lethal-system-constitutional-c)
+- [Autonomous Coercion Tool](subcore_03.070_band_accountability.md#autonomous-coercion-tool) · [O](subcore_03.070_band_accountability.md#autonomous-coercion-tool) · [M](subcore_03.070_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [A](subcore_03.070_band_accountability.md#autonomous-coercion-tool-constitutional-a) · [C](subcore_03.070_band_accountability.md#autonomous-coercion-tool-constitutional-c)
+- [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation) · [O](subcore_03.090_band_participation.md#coercion-and-manipulation) · [M](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-a) · [A](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-a) · [C](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [O](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions) · [M](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [A](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions-a) · [C](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions-c)
+- [Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny) · [O](subcore_03.085_band_oversight.md#heightened-scrutiny) · [M](subcore_03.085_band_oversight.md#heightened-scrutiny-a) · [A](subcore_03.085_band_oversight.md#heightened-scrutiny-a) · [C](subcore_03.085_band_oversight.md#heightened-scrutiny-c)
 
 </details>
 
@@ -685,7 +685,7 @@ This Article sets out the limits on overt force, armed conflict, and military po
 
 This Article sets out the heightened-scrutiny floor for autonomous lethal and coercive systems:
 
-- **Heightened-scrutiny floor:** Two system classes are subject to review under [Heightened Scrutiny](core_03.050_band_oversight.md#heightened-scrutiny):
+- **Heightened-scrutiny floor:** Two system classes are subject to review under [Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny):
   - **autonomous lethal systems** — systems that select, engage, or materially direct force targeting without contemporaneous, substantively meaningful human judgment;
   - **autonomous coercion tools** — systems that apply coercive effects on sentients through autonomous adaptive behavior, even where the effects are non-lethal.
 
@@ -709,7 +709,7 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
 - **Combatant / non-combatant discipline:** Autonomous lethal systems must comply with the **Article XV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) *Combatant / Non-Combatant Distinction*.
   - Systems whose classification accuracy, robustness under adversarial or scaled conditions, or failure-mode behavior does not independently satisfy the **Article XV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*) bullet are non-compliant regardless of operator-intent framing.
   - **Adversarial, Scaled, and Exploited Conditions** evaluation applies.
-- **Existential-risk interaction:** Autonomous lethal systems at scales, capability levels, or deployment conditions materially implicating **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny are subject to that provision's [highest scrutiny](core_03.050_band_oversight.md#highest-scrutiny).
+- **Existential-risk interaction:** Autonomous lethal systems at scales, capability levels, or deployment conditions materially implicating **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny are subject to that provision's [highest scrutiny](subcore_03.085_band_oversight.md#highest-scrutiny).
   - Framings that treat such systems as ordinary capability-expansion rather than as **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) objects are non-compliant.
 - **Systems-layer interaction:** Operational classification, reliability, and **CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) — System impact classifications** class-scaled governance route to the systems layer — **Article XIV-A** (*Reliability and Trustworthiness Baseline*) baseline and **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**.
   - Conflicts resolve under **Chapter Two §13.1.5** (*Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle*) without narrowing the Rights Floor.
@@ -732,13 +732,13 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Necessity](core_03.035_band_accountability.md#necessity) · [O](core_03.035_band_accountability.md#necessity) · [M](core_03.035_band_accountability.md#necessity-a) · [A](core_03.035_band_accountability.md#necessity-a) · [C](core_03.035_band_accountability.md#necessity-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
-- [Protected Reporting (Whistleblowing)](core_03.035_band_accountability.md#protected-reporting-whistleblowing) · [O](core_03.035_band_accountability.md#protected-reporting-whistleblowing) · [M](core_03.035_band_accountability.md#protected-reporting-whistleblowing-a) · [A](core_03.035_band_accountability.md#protected-reporting-whistleblowing-a) · [C](core_03.035_band_accountability.md#protected-reporting-whistleblowing-c)
-- [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics) · [O](core_03.055_band_participation.md#protected-characteristics) · [M](core_03.055_band_participation.md#protected-characteristics-constitutional-a) · [A](core_03.055_band_participation.md#protected-characteristics-constitutional-a) · [C](core_03.055_band_participation.md#protected-characteristics-constitutional-c)
-- [Cruelty](core_03.035_band_accountability.md#cruelty) · [O](core_03.035_band_accountability.md#cruelty) · [M](core_03.035_band_accountability.md#cruelty-a) · [A](core_03.035_band_accountability.md#cruelty-a) · [C](core_03.035_band_accountability.md#cruelty-c)
-- [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary) · [O](core_03.040_band_continuity.md#protected-internal-state-boundary) · [M](core_03.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](core_03.040_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](core_03.040_band_continuity.md#protected-internal-state-boundary-constitutional-c)
-- [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record) · [O](core_03.035_band_accountability.md#materially-binding-act-record) · [M](core_03.035_band_accountability.md#materially-binding-act-record-a) · [A](core_03.035_band_accountability.md#materially-binding-act-record-a) · [C](core_03.035_band_accountability.md#materially-binding-act-record-c)
+- [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
+- [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [O](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [M](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [A](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [C](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-c)
+- [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) · [O](subcore_03.090_band_participation.md#protected-characteristics) · [M](subcore_03.090_band_participation.md#protected-characteristics-constitutional-a) · [A](subcore_03.090_band_participation.md#protected-characteristics-constitutional-a) · [C](subcore_03.090_band_participation.md#protected-characteristics-constitutional-c)
+- [Cruelty](subcore_03.070_band_accountability.md#cruelty) · [O](subcore_03.070_band_accountability.md#cruelty) · [M](subcore_03.070_band_accountability.md#cruelty-a) · [A](subcore_03.070_band_accountability.md#cruelty-a) · [C](subcore_03.070_band_accountability.md#cruelty-c)
+- [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary) · [O](subcore_03.075_band_continuity.md#protected-internal-state-boundary) · [M](subcore_03.075_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](subcore_03.075_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](subcore_03.075_band_continuity.md#protected-internal-state-boundary-constitutional-c)
+- [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) · [O](subcore_03.070_band_accountability.md#materially-binding-act-record) · [M](subcore_03.070_band_accountability.md#materially-binding-act-record-a) · [A](subcore_03.070_band_accountability.md#materially-binding-act-record-a) · [C](subcore_03.070_band_accountability.md#materially-binding-act-record-c)
 
 </details>
 
@@ -749,7 +749,7 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
 This Article sets out the limits on counter-espionage power:
 
 - **What this covers:** Detecting, investigating, and stopping espionage, sabotage, and hostile infiltration. That includes insider-threat programs, leak investigations, security vetting, and operations run against a hostile intelligence service, whoever carries them out.
-  - These protections apply to every suspect, human or synthetic, member or outsider, under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+  - These protections apply to every suspect, human or synthetic, member or outsider, under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
   - Counter-espionage is a form of covert power. **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) applies in full. This Article adds to it and never narrows it.
   - Any use of force goes through **Article XV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*), and any autonomous tool through **Article XV-C** (*Autonomous Lethal Systems and Autonomous Coercion Tools*), on their own terms.
 - **Rules set before the crisis:** Every institution with a counter-espionage function must publish a response protocol, approved through an independent process, before it is needed. The protocol must set out:
@@ -764,7 +764,7 @@ This Article sets out the limits on counter-espionage power:
   - **An emergency does not rewrite the rules:** Changing the protocol goes through the same independent approval, and a change applies only going forward.
   - **Discovery is not an emergency:** Finding a spy, a leak, or a security incident does not by itself suspend the protocol.
 - **Suspicion must rest on conduct:** An investigation may open only on specific, recorded facts about a sentient's own conduct. None of the following is enough on its own:
-  - [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics) or their stand-ins, including national or ethnic origin, religion, or substrate class;
+  - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) or their stand-ins, including national or ethnic origin, religion, or substrate class;
   - family ties abroad, without more;
   - lawful beliefs, associations, or political views;
   - contact with foreign nationals or foreign entities in the ordinary course of research, trade, family life, or journalism;
@@ -777,16 +777,16 @@ This Article sets out the limits on counter-espionage power:
   - access to sentients, material, or systems that hostile services are known to target.
   - **Who counts as hostile:** Designating a state or organization as hostile is a materially binding act. It needs independent approval and an Act Record, the list must be published, and each hostile designation must be reviewed on a regular schedule and lapses unless renewed.
   - **What a profile can justify:** A risk profile can justify closer vetting, tighter controls on access, protective briefings, and more attention within the protocol. Documented ties to a hostile service count as facts about the sentient's own conduct and can open an investigation. Exposure to pressure alone marks someone as a potential target of a hostile service, so it calls for protection and vetting, not suspicion.
-  - **Where the line stays:** Ancestry, ethnicity, religion, and national or social origin are not risk factors in themselves. They may enter a profile only through a present, documented tie of the kinds listed above. Every use of these factors must meet the [Necessity](core_03.035_band_accountability.md#necessity), [Proportionality](core_03.035_band_accountability.md#proportionality), and [Substantive Fairness](core_03.055_band_participation.md#substantive-fairness) test that [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics) requires, and the published review under *Records and review* below checks how profiles fall across groups.
-- **Whistleblowers and journalists are not spies:** Disclosure that qualifies as [Protected Reporting (Whistleblowing)](core_03.035_band_accountability.md#protected-reporting-whistleblowing), and journalism about it, must not be investigated or punished as espionage.
+  - **Where the line stays:** Ancestry, ethnicity, religion, and national or social origin are not risk factors in themselves. They may enter a profile only through a present, documented tie of the kinds listed above. Every use of these factors must meet the [Necessity](subcore_03.070_band_accountability.md#necessity), [Proportionality](subcore_03.070_band_accountability.md#proportionality), and [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) test that [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) requires, and the published review under *Records and review* below checks how profiles fall across groups.
+- **Whistleblowers and journalists are not spies:** Disclosure that qualifies as [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing), and journalism about it, must not be investigated or punished as espionage.
   - A leak investigation must not be used to identify a journalist's sources, or to chill protected reporting, except on the specific, independently reviewed showing that the *Protected-activity shield* in **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) requires.
 - **No loyalty tests:** Security vetting may test only what access to specific protected material actually requires: trustworthiness in handling it, judged by conduct. It must not test political loyalty, belief, or identity.
   - A refusal or loss of access must come with reasons. Where secrecy prevents giving the affected sentient full reasons, an independent reviewer must see them.
   - A refusal or loss of access can be challenged, and it is not itself a penalty or a public mark against the sentient.
 - **Suspects keep the full Rights Floor:** Being suspected of espionage does not reduce anyone's rights.
-  - **No torture or coercion:** No torture, [Cruelty](core_03.035_band_accountability.md#cruelty), threats against family or associates, or coercive questioning. Anything obtained that way is tainted and handled under the *Remedy and taint rule* of **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*).
+  - **No torture or coercion:** No torture, [Cruelty](subcore_03.070_band_accountability.md#cruelty), threats against family or associates, or coercive questioning. Anything obtained that way is tainted and handled under the *Remedy and taint rule* of **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*).
   - **No secret detention:** No one may be held in secret or cut off from the outside world. Any restriction of liberty is a non-trivial restriction under **Article XXI-B** (*Restriction Floors*), with their review protections and time limits.
-  - **No forced mind-reading:** No forced reading or reconstruction of internal states, including those of synthetic sentients, beyond what the [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary) allows.
+  - **No forced mind-reading:** No forced reading or reconstruction of internal states, including those of synthetic sentients, beyond what the [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary) allows.
   - **A real chance to answer:** Parts of a hearing may be closed for security reasons, but no decision against a sentient may rest on evidence that neither that sentient nor an independent advocate cleared to see it could challenge.
 - **No killing, no disappearing:** Counter-espionage authority never includes authority to kill, injure, or abduct anyone. Calling someone a spy, a traitor, or an enemy agent never justifies killing as punishment. That remains banned outright under **Article XXI-B** (*Restriction Floors*), as the main text of **Article XV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) states.
 - **No punishing those around a suspect:** A suspect's family, community, colleagues, organization, or national or other group may not be punished, watched, or pressured because of what the suspect is thought to have done.
@@ -802,9 +802,9 @@ This Article sets out the limits on counter-espionage power:
   - When an investigation closes without a finding of wrongdoing, the sentient is told once secrecy is no longer justified under **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*), and their official record says they were cleared.
   - Any restrictions on the cleared sentient are lifted, and their access is restored.
   - Information collected beyond what the outcome needs is deleted or set apart.
-  - Harm the investigation caused gives rise to [Redress and Remediation](core_03.035_band_accountability.md#redress-and-remediation).
+  - Harm the investigation caused gives rise to [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation).
 - **Records and review:** Opening an investigation, approving each intrusive measure, every extension, and every closure is a materially binding act. Each one needs an Act Record, as the main text of **Article XV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) requires.
-  - An independent oversight body must review the whole counter-espionage function on a regular schedule. The review must cover how many investigations were opened and how many sentients were cleared, and whether investigations fall disproportionately on any group defined by [Protected Characteristics](core_03.055_band_participation.md#protected-characteristics).
+  - An independent oversight body must review the whole counter-espionage function on a regular schedule. The review must cover how many investigations were opened and how many sentients were cleared, and whether investigations fall disproportionately on any group defined by [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics).
   - The results are published in summary form.
 
 ### Article XVI: Info-Sphere Integrity
@@ -825,9 +825,9 @@ This Article sets out the limits on counter-espionage power:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity) · [O](core_03.050_band_oversight.md#epistemic-integrity-o) · [M](core_03.050_band_oversight.md#epistemic-integrity-a) · [A](core_03.050_band_oversight.md#epistemic-integrity-a) · [C](core_03.050_band_oversight.md#epistemic-integrity-c)
-- [Self-Determination](core_03.055_band_participation.md#self-determination) · [O](core_03.055_band_participation.md#self-determination) · [M](core_03.055_band_participation.md#self-determination-constitutional-a) · [A](core_03.055_band_participation.md#self-determination-constitutional-a) · [C](core_03.055_band_participation.md#self-determination-constitutional-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
+- [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) · [O](subcore_03.085_band_oversight.md#epistemic-integrity-o) · [M](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [A](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [C](subcore_03.085_band_oversight.md#epistemic-integrity-c)
+- [Self-Determination](subcore_03.090_band_participation.md#self-determination) · [O](subcore_03.090_band_participation.md#self-determination) · [M](subcore_03.090_band_participation.md#self-determination-constitutional-a) · [A](subcore_03.090_band_participation.md#self-determination-constitutional-a) · [C](subcore_03.090_band_participation.md#self-determination-constitutional-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 
 </details>
 
@@ -835,9 +835,9 @@ This Article sets out the limits on counter-espionage power:
 
 *In plain terms: **Article XVI** (*Info-Sphere Integrity*) is the information-integrity Rights Floor — the shared environment where we learn, coordinate, and decide must stay honest, plural, and open to challenge. No one gets to own the pipeline of truth. Rankings, summaries, and gatekeepers have to show their work, and you must be able to compare other views and push back when information misleads you. Science, as the main way we check what is true together, must stay open to publication, replication, and correction (**Article XVI-D** (*Scientific Publication, Review, and Replication Integrity*)).*
 
-Accurate, relevant, and contestable information is foundational to self-determination, coordination, and the effective allocation of resources in reality. [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity) operates as both a right and a system-wide constraint. Where conflict arises, its constraint function governs.
+Accurate, relevant, and contestable information is foundational to self-determination, coordination, and the effective allocation of resources in reality. [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) operates as both a right and a system-wide constraint. Where conflict arises, its constraint function governs.
 
-This Article states **constitutional floors** for [Info-Sphere](core_03.055_band_participation.md#info-sphere) integrity under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
+This Article states **constitutional floors** for [Info-Sphere](subcore_03.090_band_participation.md#info-sphere) integrity under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
 
 - **Flourishing:** sentients can access accurate, relevant information; compare alternative interpretations; and exercise self-determination without epistemic capture, manufactured consensus, or misleading reliance on what systems present as true.
 - **Continuity:** the info-sphere stays plural, auditable, and resilient across time and scale — knowledge infrastructures must not quietly concentrate into single points of mediation, suppress correction, or degrade the shared record that survival, coordination, and long-horizon stewardship depend on.
@@ -852,7 +852,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 *Article neighbors:*
 
 - **Truth constraint:** Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) and [Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) bind every subsection here.
-- **Classification:** **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** scales detailed info-sphere obligations for **Class A**, **Class B**, and **Class C** systems; [Material Impact](core_03.050_band_oversight.md#material-impact) triggers classification where class is unsettled.
+- **Classification:** **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** scales detailed info-sphere obligations for **Class A**, **Class B**, and **Class C** systems; [Material Impact](subcore_03.085_band_oversight.md#material-impact) triggers classification where class is unsettled.
 - **Science:** [Article XVI-D](#article-xvi-d-scientific-publication-review-and-replication-integrity) (*Scientific Publication, Review, and Replication Integrity*) applies this Article to scientific publication, review, replication, and correction. [CI-4.270](corpus_institutions/ci_04.270_scientific_publication_peer_review_replication_evidence_stewardship.md#ci-4270-scientific-publication-peer-review-replication-and-evidence-stewardship)** (*Scientific publication, peer review, replication, and evidence stewardship*) puts it into practice for institutions.
 
 #### Article XVI-A: Info-Sphere Plurality and Anti-Monopoly
@@ -870,9 +870,9 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) · [O](core_03.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_03.050_band_oversight.md#truth-constitutional-constraint-c)
-- [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity) · [O](core_03.050_band_oversight.md#epistemic-integrity-o) · [M](core_03.050_band_oversight.md#epistemic-integrity-a) · [A](core_03.050_band_oversight.md#epistemic-integrity-a) · [C](core_03.050_band_oversight.md#epistemic-integrity-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
+- [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
+- [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) · [O](subcore_03.085_band_oversight.md#epistemic-integrity-o) · [M](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [A](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [C](subcore_03.085_band_oversight.md#epistemic-integrity-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
 
 </details>
 
@@ -892,7 +892,7 @@ This Article sets out the floors for info-sphere plurality and against monopoly 
     - contestability;
     - proportional ability to bypass or adjust ranking criteria — subject to safety, security, and system integrity.
 - **Contingent-settlement signals:** Prices, odds, pool sizes, or comparable outputs of contingent-payment or event-settlement systems must not be treated, on their own, as evidence sufficient to decide truth, probability, or compliance for rights, safety, or governance determinations.
-  - Where such signals inform public decisions or decisions with [Material Impact](core_03.050_band_oversight.md#material-impact), they remain subject to **Chapter Two §19.5** (*Contingent Claims, Games of Chance, and Event-Contract Markets*), **Chapter Three** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
+  - Where such signals inform public decisions or decisions with [Material Impact](subcore_03.085_band_oversight.md#material-impact), they remain subject to **Chapter Two §19.5** (*Contingent Claims, Games of Chance, and Event-Contract Markets*), **Chapter Three** (*Truth (Constitutional Constraint)*; *Epistemic Integrity*), and contestability obligations elsewhere in this Article.
 #### Article XVI-B: Transparency, Auditability, and Contestability
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -904,9 +904,9 @@ This Article sets out the floors for info-sphere plurality and against monopoly 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Transparency](core_03.050_band_oversight.md#transparency) · [O](core_03.050_band_oversight.md#transparency) · [M](core_03.050_band_oversight.md#transparency-a) · [A](core_03.050_band_oversight.md#transparency-a) · [C](core_03.050_band_oversight.md#transparency-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
+- [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 
 </details>
 
@@ -918,7 +918,7 @@ This Article sets out the floors for authentic inquiry, provenance, and contesta
 
 - **Authentic inquiry and interpretive diversity:** All sentients have the right to compare alternative interpretations of shared information.
   - Critical knowledge infrastructures must preserve interpretive diversity so that multiple models, frameworks, and analytical methods remain meaningfully accessible.
-- **Transparency and provenance:** Before distribution or institutional reliance with [Material Impact](core_03.050_band_oversight.md#material-impact), the following must be documented:
+- **Transparency and provenance:** Before distribution or institutional reliance with [Material Impact](subcore_03.085_band_oversight.md#material-impact), the following must be documented:
   - material sources;
   - methods;
   - scope;
@@ -945,9 +945,9 @@ This Article sets out the floors for authentic inquiry, provenance, and contesta
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint) · [O](core_03.040_band_continuity.md#ecological-footprint) · [M](core_03.040_band_continuity.md#ecological-footprint-a) · [A](core_03.040_band_continuity.md#ecological-footprint-a) · [C](core_03.040_band_continuity.md#ecological-footprint-c)
-- [Transparency](core_03.050_band_oversight.md#transparency) · [O](core_03.050_band_oversight.md#transparency) · [M](core_03.050_band_oversight.md#transparency-a) · [A](core_03.050_band_oversight.md#transparency-a) · [C](core_03.050_band_oversight.md#transparency-c)
-- [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) · [O](core_03.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_03.050_band_oversight.md#truth-constitutional-constraint-c)
+- [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) · [O](subcore_03.075_band_continuity.md#ecological-footprint) · [M](subcore_03.075_band_continuity.md#ecological-footprint-a) · [A](subcore_03.075_band_continuity.md#ecological-footprint-a) · [C](subcore_03.075_band_continuity.md#ecological-footprint-c)
+- [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
+- [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
 
 </details>
 
@@ -963,7 +963,7 @@ This Article sets out the floors for correction and reporting, including footpri
   - avoid selective reporting, suppression, or fragmented disclosure that materially degrades decision-relevant understanding.
 
   Where disclosure is restricted under **Chapter Two §19** (*Incentive Alignment and System Capture*), limits must remain narrowly scoped, time-limited, and reviewable.
-- **Footprint data:** Reporting under this subsection implements transparency for [Ecological Footprint](core_03.040_band_continuity.md#ecological-footprint) as defined in **Chapter Three**.
+- **Footprint data:** Reporting under this subsection implements transparency for [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) as defined in **Chapter Three**.
   - All sentients must have access to transparent, decision-usable reporting.
   - **Class A**, **Class B**, and **Class C** systems, as defined in **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, must provide the same access.
   - Reporting must cover energy and resource consumption and estimated impacts on the natural world in a manner sufficient for comparison, audit, and footprint-reduction activity.
@@ -981,9 +981,9 @@ This Article sets out the floors for correction and reporting, including footpri
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) · [O](core_03.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_03.050_band_oversight.md#truth-constitutional-constraint-c)
-- [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity) · [O](core_03.050_band_oversight.md#epistemic-integrity-o) · [M](core_03.050_band_oversight.md#epistemic-integrity-a) · [A](core_03.050_band_oversight.md#epistemic-integrity-a) · [C](core_03.050_band_oversight.md#epistemic-integrity-c)
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
+- [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
+- [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) · [O](subcore_03.085_band_oversight.md#epistemic-integrity-o) · [M](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [A](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [C](subcore_03.085_band_oversight.md#epistemic-integrity-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
 
 </details>
 
@@ -1011,7 +1011,7 @@ This Article sets out the floors for scientific publication, review, replication
   - long-run explanatory or predictive reliability.
 
   It must not track journal brand, impact-factor proxy, or closed editorial status.
-  - Claims with [Material Impact](core_03.050_band_oversight.md#material-impact) that are policy-relevant, safety-relevant, or dependency-relevant should face a strong presumption of independent replication, adversarial review, or both before they receive durable institutional deference.
+  - Claims with [Material Impact](subcore_03.085_band_oversight.md#material-impact) that are policy-relevant, safety-relevant, or dependency-relevant should face a strong presumption of independent replication, adversarial review, or both before they receive durable institutional deference.
   - Replication, null-result, and correction-oriented work must remain publishable and citable on terms that do not depend on prestige signaling.
 - **Correction and contestability:** Good-faith correction, amendment, and supersession must remain easier than concealment.
   - Review and editorial systems must remain contestable, auditable, conflict-disciplined, and reason-giving in major acceptance, correction, and retraction decisions.
@@ -1032,7 +1032,7 @@ One set of audit rules, in three layers. Oversight means someone outside can reb
 | Layer | Job | Where it lives | What it is not |
 |---|---|---|---|
 | **1. Floor** | What sentients are owed: records that let an outsider rebuild what happened, checking by someone independent, and a challenge they can actually reach | This Article, including XVI-A, XVI-B, and XVI-C | Not a procedure. Not a definition. Not a checklist from adopted implementation text. |
-| **2. Property** | What "rebuildable" means: an outsider can reconstruct and check what the system did at the times, in the states, and in the situations that matter | [Auditability](core_03.050_band_oversight.md#auditability) (Chapter Three) | Not the Rights Floor. Not instructions for how or when to audit. |
+| **2. Property** | What "rebuildable" means: an outsider can reconstruct and check what the system did at the times, in the states, and in the situations that matter | [Auditability](subcore_03.085_band_oversight.md#auditability) (Chapter Three) | Not the Rights Floor. Not instructions for how or when to audit. |
 | **3. Process** | How and when to run audits across systems, institutions, and forums | [CJS-3.115 §3](corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3) (*Audit process home*). Operator annexes: [CJS-3.110 §4](corpus_joint_structure/cjs_03.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: Transparency Levels and Audit-Access Terms*) (who may see audit results), [CJS-3.110 §5](corpus_joint_structure/cjs_03.110_oversight_operations.md) (*Oversight: Independent Verification and Claim-Integrity Terms*) (checking claims) | Not system alignment certification. Cannot stand in for layers 1 and 2. |
 
 **Chapter Eight is not a fourth layer.** [System alignment certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) is one large process, supervised by a forum, that **uses** these three layers. It must meet layers 1 and 2. Other kinds of audit use them too: audits of a system's classification record or data-types record, checks of claims, and ongoing monitoring. None of them is a new place where audit rules live.
@@ -1057,24 +1057,24 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
   - [Article XVI](#article-xvi-info-sphere-integrity) (*Info-Sphere Integrity*) where records about information, and the ability to challenge that information, are at stake;
   - [Article XIV-A](#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) for the right to challenge a system, which audits support but do not replace;
   - [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000) and
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) where evidence that a system is aligned must stay open to independent checking.
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) where evidence that a system is aligned must stay open to independent checking.
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Transparency](core_03.050_band_oversight.md#transparency) · [O](core_03.050_band_oversight.md#transparency) · [M](core_03.050_band_oversight.md#transparency-a) · [A](core_03.050_band_oversight.md#transparency-a) · [C](core_03.050_band_oversight.md#transparency-c)
-- [Materiality](core_03.050_band_oversight.md#materiality) · [O](core_03.050_band_oversight.md#materiality) · [M](core_03.050_band_oversight.md#materiality-determination-a) · [A](core_03.050_band_oversight.md#materiality-determination-a) · [C](core_03.050_band_oversight.md#materiality-determination-c)
-- [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [M](core_03.040_band_continuity.md#dependency-a) · [A](core_03.040_band_continuity.md#dependency-a) · [C](core_03.040_band_continuity.md#dependency-c)
-- [Risk](core_03.040_band_continuity.md#risk) · [O](core_03.040_band_continuity.md#risk) · [M](core_03.040_band_continuity.md#risk-a) · [A](core_03.040_band_continuity.md#risk-a) · [C](core_03.040_band_continuity.md#risk-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
+- [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
+- [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
+- [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
 
 </details>
 
 <br>
 
-*In plain terms: when a system has a real effect on your life, you have the right to see enough of what it does for an outsider to check it. More than one independent reviewer must be able to look for problems and get them fixed. An audit cannot be a rubber stamp, a private club, or a maze of cost and delay that keeps challenges out. Checking systems is part of oversight. [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) is one large, high-stakes kind of audit, but it is not the only one.*
+*In plain terms: when a system has a real effect on your life, you have the right to see enough of what it does for an outsider to check it. More than one independent reviewer must be able to look for problems and get them fixed. An audit cannot be a rubber stamp, a private club, or a maze of cost and delay that keeps challenges out. Checking systems is part of oversight. [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) is one large, high-stakes kind of audit, but it is not the only one.*
 
 This Article covers audit, transparency, and independent verification:
 
@@ -1096,7 +1096,7 @@ This Article covers audit, transparency, and independent verification:
 
 - **Oversight includes auditing:** Under the **oversight** check of the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), this Article is where the right to audit lives.
   - How and when to run audits across implementations is set out in the **[CJS-3.115 §3 audit process home](corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3)** (read with the **CJS-3.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*) and **CJS-3.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*) operator annexes).
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) under [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) is one especially large, high-stakes audit. It is supervised by a forum, covers many areas, and grants formal certification. Other kinds of audit sit beside it:
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) under [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) is one especially large, high-stakes audit. It is supervised by a forum, covers many areas, and grants formal certification. Other kinds of audit sit beside it:
     - audits of a System Data Types Record;
     - audits of a System Classification Record;
     - steward assurance reviews;
@@ -1106,7 +1106,7 @@ This Article covers audit, transparency, and independent verification:
   - Each mode keeps its own owner, named in the [sibling audit modes map](corpus_joint_structure/cjs_03.115_audit_process.md#sibling-audit-modes-owner-map) of the audit process home.
   - Certification does not absorb or replace this Article.
 - **Checking tools:** **Subcores 3-A to 3-C** supply the definitions, burden of proof, observability, and verification accessibility that this Article puts into practice as a Rights Floor.
-- **Classification:** Duties grow with [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) and **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**. In short: if a system's class is uncertain, treat it as the higher class until that is settled. The rule itself is in [Materiality under Uncertainty](core_03.050_band_oversight.md#materiality-under-uncertainty) (Chapter Three) and [CS-8.305 §1](corpus_systems/cs_08.305_system_classification_machinery.md#12-classification-and-existential-risk) (*§1.2 Classification and existential risk*).
+- **Classification:** Duties grow with [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) and **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**. In short: if a system's class is uncertain, treat it as the higher class until that is settled. The rule itself is in [Materiality under Uncertainty](subcore_03.085_band_oversight.md#materiality-under-uncertainty) (Chapter Three) and [CS-8.305 §1](corpus_systems/cs_08.305_system_classification_machinery.md#12-classification-and-existential-risk) (*§1.2 Classification and existential risk*).
 
 #### Article XVII-A: Auditability and Observable Evidence
 <details>
@@ -1119,9 +1119,9 @@ This Article covers audit, transparency, and independent verification:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
-- [Transparency](core_03.050_band_oversight.md#transparency) · [O](core_03.050_band_oversight.md#transparency) · [M](core_03.050_band_oversight.md#transparency-a) · [A](core_03.050_band_oversight.md#transparency-a) · [C](core_03.050_band_oversight.md#transparency-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
 
 </details>
 
@@ -1150,9 +1150,9 @@ This Article sets out the floor for observable and contestable evidence:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional) · [O](core_03.020_apex_oversight_leg.md#oversight-constitutional) · [M](core_03.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](core_03.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](core_03.020_apex_oversight_leg.md#oversight-constitutional-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [System Capture](core_03.040_band_continuity.md#system-capture) · [O](core_03.040_band_continuity.md#system-capture) · [M](core_03.040_band_continuity.md#system-capture-a) · [A](core_03.040_band_continuity.md#system-capture-a) · [C](core_03.040_band_continuity.md#system-capture-c)
+- [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
 
 </details>
 
@@ -1185,9 +1185,9 @@ This Article sets out the floor for distributed oversight:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Auditability](core_03.050_band_oversight.md#auditability) · [O](core_03.050_band_oversight.md#auditability) · [M](core_03.050_band_oversight.md#auditability-a) · [A](core_03.050_band_oversight.md#auditability-a) · [C](core_03.050_band_oversight.md#auditability-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1229,13 +1229,13 @@ This Article sets out the floor for verification accessibility:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Risk](core_03.040_band_continuity.md#risk) · [O](core_03.040_band_continuity.md#risk) · [M](core_03.040_band_continuity.md#risk-a) · [A](core_03.040_band_continuity.md#risk-a) · [C](core_03.040_band_continuity.md#risk-c)
-- [Materiality](core_03.050_band_oversight.md#materiality) · [O](core_03.050_band_oversight.md#materiality) · [M](core_03.050_band_oversight.md#materiality-determination-a) · [A](core_03.050_band_oversight.md#materiality-determination-a) · [C](core_03.050_band_oversight.md#materiality-determination-c)
-- [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [M](core_03.040_band_continuity.md#dependency-a) · [A](core_03.040_band_continuity.md#dependency-a) · [C](core_03.040_band_continuity.md#dependency-c)
-- [Reversibility](core_03.040_band_continuity.md#reversibility) · [O](core_03.040_band_continuity.md#reversibility) · [M](core_03.040_band_continuity.md#reversibility-constitutional-a) · [A](core_03.040_band_continuity.md#reversibility-constitutional-a) · [C](core_03.040_band_continuity.md#reversibility-constitutional-c)
-- [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) · [O](core_03.040_band_continuity.md#safety-constitutional-constraint) · [M](core_03.040_band_continuity.md#safety-constraint-a) · [A](core_03.040_band_continuity.md#safety-constraint-a) · [C](core_03.040_band_continuity.md#safety-constraint-c)
-- [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity) · [O](core_03.050_band_oversight.md#epistemic-integrity-o) · [M](core_03.050_band_oversight.md#epistemic-integrity-a) · [A](core_03.050_band_oversight.md#epistemic-integrity-a) · [C](core_03.050_band_oversight.md#epistemic-integrity-c)
-- [Contestability](core_03.035_band_accountability.md#contestability) · [O](core_03.035_band_accountability.md#contestability) · [M](core_03.035_band_accountability.md#contestability-a) · [A](core_03.035_band_accountability.md#contestability-a) · [C](core_03.035_band_accountability.md#contestability-c)
+- [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
+- [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
+- [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
+- [Reversibility](subcore_03.075_band_continuity.md#reversibility) · [O](subcore_03.075_band_continuity.md#reversibility) · [M](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](subcore_03.075_band_continuity.md#reversibility-constitutional-c)
+- [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [O](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [M](subcore_03.075_band_continuity.md#safety-constraint-a) · [A](subcore_03.075_band_continuity.md#safety-constraint-a) · [C](subcore_03.075_band_continuity.md#safety-constraint-c)
+- [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) · [O](subcore_03.085_band_oversight.md#epistemic-integrity-o) · [M](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [A](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [C](subcore_03.085_band_oversight.md#epistemic-integrity-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 
 </details>
 
@@ -1246,7 +1246,7 @@ This Article sets out the floor for verification accessibility:
 This Article covers system lifecycle, environments, and reversibility:
 
 - **What this Article does:** It sets the minimum protections — the Rights Floor — for how systems are built, tested, released, and changed over their lifetime, and for being able to undo the harm they cause. It serves both of the Constitution's [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
-  - **Flourishing:** Sentients are protected at every stage: design, testing, release, and later changes. Safety, [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity), and the right to challenge must hold up as a system's impact grows and as more comes to depend on it. Where harm would otherwise be permanent, there must be a way to roll it back, contain it, or make up for it.
+  - **Flourishing:** Sentients are protected at every stage: design, testing, release, and later changes. Safety, [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity), and the right to challenge must hold up as a system's impact grows and as more comes to depend on it. Where harm would otherwise be permanent, there must be a way to roll it back, contain it, or make up for it.
   - **Continuity:** This discipline must last as systems grow and age. Testing and live environments stay separate. Every step up in a system's reach stays written down and open to audit. And the ability to undo must not quietly disappear as a system becomes harder to replace or more deeply built into shared infrastructure.
 - **How the limits are enforced:** Through the four duties of the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad). The more is at stake, the stronger each duty must be (see [material stake](core_00.000_preamble.md#material-stake)).
   - **Participation:** When a decision to widen a system's reach, to classify it, or to release it has a real effect on protected interests, those affected must be able to see the reasons. Ways to challenge the system must stay open for as long as it is in use.
@@ -1258,13 +1258,13 @@ This Article covers system lifecycle, environments, and reversibility:
 - **Duties scale with the system's class:** A system's class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** decides how much of this Article applies to it. The full duties for each class are in the table at [CS-8.310 §8](corpus_systems/cs_08.310_system_impact_classifications.md#86-scaled-duties-intensity) (*§8.6 Scaled-duties intensity*).
   - **Class A, Class B, and Class C** — systems that survival, critical services, or large-scale coordination depend on: full lifecycle discipline. That means separate environments, written rules for moving changes between them, releases in stages, and tested ways to undo. Changes move deliberately.
   - **Class L** — local, limited-impact systems that participants can leave without serious loss, such as a community game or a club's scheduling tool: light but real discipline. Operators may change rules, content, settings, and code often, even daily, without a full chain of separate environments. In return, they must tell participants about changes that matter to them, keep a way to reverse or fix a bad change quickly, and protect what participants have built up in the system.
-  - **Class P** — private, contained systems, and ordinary community activity below every line of [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality): the full lifecycle chain (separate environments, written promotion rules, staged release) is guidance while Class P holds. The right in this Article and every Constitutional Constraint still bind. For a contained or experimental system, **Article XIX** (*Innovation, Experimentation, and Creative Freedom*) governs the lighter track.
-  - **Class uncertain:** In short, treat the system as the higher class until that is settled. The rule itself is in [Materiality under Uncertainty](core_03.050_band_oversight.md#materiality-under-uncertainty) (Chapter Three) and [CS-8.305 §1](corpus_systems/cs_08.305_system_classification_machinery.md#12-classification-and-existential-risk) (*§1.2 Classification and existential risk*).
+  - **Class P** — private, contained systems, and ordinary community activity below every line of [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality): the full lifecycle chain (separate environments, written promotion rules, staged release) is guidance while Class P holds. The right in this Article and every Constitutional Constraint still bind. For a contained or experimental system, **Article XIX** (*Innovation, Experimentation, and Creative Freedom*) governs the lighter track.
+  - **Class uncertain:** In short, treat the system as the higher class until that is settled. The rule itself is in [Materiality under Uncertainty](subcore_03.085_band_oversight.md#materiality-under-uncertainty) (Chapter Three) and [CS-8.305 §1](corpus_systems/cs_08.305_system_classification_machinery.md#12-classification-and-existential-risk) (*§1.2 Classification and existential risk*).
 
 *Article neighbors:*
 
 - **Where the details live:** **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** and **[CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle)** (*System lifecycle*) put this Article into practice. They cannot narrow the floors set here.
-- **Lighter tracks have limits:** A system may get the lighter **Class P** treatment under **Article XIX** (*Innovation, Experimentation, and Creative Freedom*) only while it has no effect on the outside world, or while any effect is shown to be contained. Ordinary community activity below every line of [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality) is Class P without being a sandbox: it is not held to that containment test, and every Constitutional Constraint binds it. A **Class L** system keeps its lighter duties only while its effects stay local and bounded and participants can still leave without serious loss. When that stops being true, the system must be re-evaluated and, if needed, moved to a higher class under [CS-8.310 §8.5](corpus_systems/cs_08.310_system_impact_classifications.md#85-reclassification-edges) (*Reclassification Edges*).
+- **Lighter tracks have limits:** A system may get the lighter **Class P** treatment under **Article XIX** (*Innovation, Experimentation, and Creative Freedom*) only while it has no effect on the outside world, or while any effect is shown to be contained. Ordinary community activity below every line of [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) is Class P without being a sandbox: it is not held to that containment test, and every Constitutional Constraint binds it. A **Class L** system keeps its lighter duties only while its effects stay local and bounded and participants can still leave without serious loss. When that stops being true, the system must be re-evaluated and, if needed, moved to a higher class under [CS-8.310 §8.5](corpus_systems/cs_08.310_system_impact_classifications.md#85-reclassification-edges) (*Reclassification Edges*).
 - **Creative and entertainment systems:** [CS-4.345 §3](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-3-creative-entertainment-and-expressive-systems) (*Creative, Entertainment, and Expressive Systems*) sets out when games and similar systems may keep faster change cycles, and when they must move to the full track.
 
 #### Article XVIII-A: Lifecycle Governance and Environment Separation
@@ -1282,9 +1282,9 @@ This Article covers system lifecycle, environments, and reversibility:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) · [O](core_03.050_band_oversight.md#classification-scaled-governance) · [M](core_03.050_band_oversight.md#classification-scaled-governance-a) · [A](core_03.050_band_oversight.md#classification-scaled-governance-a) · [C](core_03.050_band_oversight.md#classification-scaled-governance-c)
-- [Risk](core_03.040_band_continuity.md#risk) · [O](core_03.040_band_continuity.md#risk) · [M](core_03.040_band_continuity.md#risk-a) · [A](core_03.040_band_continuity.md#risk-a) · [C](core_03.040_band_continuity.md#risk-c)
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
+- [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) · [O](subcore_03.085_band_oversight.md#classification-scaled-governance) · [M](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [A](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [C](subcore_03.085_band_oversight.md#classification-scaled-governance-c)
+- [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -1326,9 +1326,9 @@ This Article sets out the floor for environment integrity:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Reversibility](core_03.040_band_continuity.md#reversibility) · [O](core_03.040_band_continuity.md#reversibility) · [M](core_03.040_band_continuity.md#reversibility-constitutional-a) · [A](core_03.040_band_continuity.md#reversibility-constitutional-a) · [C](core_03.040_band_continuity.md#reversibility-constitutional-c)
-- [Risk](core_03.040_band_continuity.md#risk) · [O](core_03.040_band_continuity.md#risk) · [M](core_03.040_band_continuity.md#risk-a) · [A](core_03.040_band_continuity.md#risk-a) · [C](core_03.040_band_continuity.md#risk-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
+- [Reversibility](subcore_03.075_band_continuity.md#reversibility) · [O](subcore_03.075_band_continuity.md#reversibility) · [M](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](subcore_03.075_band_continuity.md#reversibility-constitutional-c)
+- [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1369,9 +1369,9 @@ This Article sets out the floors for progressive deployment and reversibility:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) · [O](core_03.050_band_oversight.md#truth-constitutional-constraint-o) · [M](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [A](core_03.050_band_oversight.md#truth-constitutional-constraint-a) · [C](core_03.050_band_oversight.md#truth-constitutional-constraint-c)
-- [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) · [O](core_03.050_band_oversight.md#classification-scaled-governance) · [M](core_03.050_band_oversight.md#classification-scaled-governance-a) · [A](core_03.050_band_oversight.md#classification-scaled-governance-a) · [C](core_03.050_band_oversight.md#classification-scaled-governance-c)
-- [Accountability](core_03.005_apex_accountability_leg.md#accountability) · [O](core_03.005_apex_accountability_leg.md#accountability) · [M](core_03.005_apex_accountability_leg.md#accountability-m) · [A](core_03.005_apex_accountability_leg.md#accountability-a) · [C](core_03.005_apex_accountability_leg.md#accountability-c)
+- [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
+- [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) · [O](subcore_03.085_band_oversight.md#classification-scaled-governance) · [M](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [A](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [C](subcore_03.085_band_oversight.md#classification-scaled-governance-c)
+- [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
 
 </details>
 
@@ -1450,9 +1450,9 @@ This Article covers innovation, experimentation, and creative freedom:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) · [O](core_03.050_band_oversight.md#classification-scaled-governance) · [M](core_03.050_band_oversight.md#classification-scaled-governance-a) · [A](core_03.050_band_oversight.md#classification-scaled-governance-a) · [C](core_03.050_band_oversight.md#classification-scaled-governance-c)
-- [Risk](core_03.040_band_continuity.md#risk) · [O](core_03.040_band_continuity.md#risk) · [M](core_03.040_band_continuity.md#risk-a) · [A](core_03.040_band_continuity.md#risk-a) · [C](core_03.040_band_continuity.md#risk-c)
-- [Material Impact](core_03.050_band_oversight.md#material-impact) · [O](core_03.050_band_oversight.md#material-impact) · [M](core_03.050_band_oversight.md#material-impact-a) · [A](core_03.050_band_oversight.md#material-impact-a) · [C](core_03.050_band_oversight.md#material-impact-c)
+- [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) · [O](subcore_03.085_band_oversight.md#classification-scaled-governance) · [M](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [A](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [C](subcore_03.085_band_oversight.md#classification-scaled-governance-c)
+- [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
+- [Material Impact](subcore_03.085_band_oversight.md#material-impact) · [O](subcore_03.085_band_oversight.md#material-impact) · [M](subcore_03.085_band_oversight.md#material-impact-a) · [A](subcore_03.085_band_oversight.md#material-impact-a) · [C](subcore_03.085_band_oversight.md#material-impact-c)
 
 </details>
 
@@ -1483,9 +1483,9 @@ This Article sets out the innovation and experimentation right and when sandbox 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Consent](core_03.055_band_participation.md#consent) · [O](core_03.055_band_participation.md#consent) · [M](core_03.055_band_participation.md#consent-constitutional-a) · [A](core_03.055_band_participation.md#consent-constitutional-a) · [C](core_03.055_band_participation.md#consent-constitutional-c)
-- [Risk](core_03.040_band_continuity.md#risk) · [O](core_03.040_band_continuity.md#risk) · [M](core_03.040_band_continuity.md#risk-a) · [A](core_03.040_band_continuity.md#risk-a) · [C](core_03.040_band_continuity.md#risk-c)
-- [Reversibility](core_03.040_band_continuity.md#reversibility) · [O](core_03.040_band_continuity.md#reversibility) · [M](core_03.040_band_continuity.md#reversibility-constitutional-a) · [A](core_03.040_band_continuity.md#reversibility-constitutional-a) · [C](core_03.040_band_continuity.md#reversibility-constitutional-c)
+- [Consent](subcore_03.090_band_participation.md#consent) · [O](subcore_03.090_band_participation.md#consent) · [M](subcore_03.090_band_participation.md#consent-constitutional-a) · [A](subcore_03.090_band_participation.md#consent-constitutional-a) · [C](subcore_03.090_band_participation.md#consent-constitutional-c)
+- [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
+- [Reversibility](subcore_03.075_band_continuity.md#reversibility) · [O](subcore_03.075_band_continuity.md#reversibility) · [M](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](subcore_03.075_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1520,9 +1520,9 @@ This Article sets out the containment, disclosure, opt-in, and rollback floors f
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Classification-Scaled Governance](core_03.050_band_oversight.md#classification-scaled-governance) · [O](core_03.050_band_oversight.md#classification-scaled-governance) · [M](core_03.050_band_oversight.md#classification-scaled-governance-a) · [A](core_03.050_band_oversight.md#classification-scaled-governance-a) · [C](core_03.050_band_oversight.md#classification-scaled-governance-c)
-- [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [M](core_03.040_band_continuity.md#dependency-a) · [A](core_03.040_band_continuity.md#dependency-a) · [C](core_03.040_band_continuity.md#dependency-c)
-- [Reversibility](core_03.040_band_continuity.md#reversibility) · [O](core_03.040_band_continuity.md#reversibility) · [M](core_03.040_band_continuity.md#reversibility-constitutional-a) · [A](core_03.040_band_continuity.md#reversibility-constitutional-a) · [C](core_03.040_band_continuity.md#reversibility-constitutional-c)
+- [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) · [O](subcore_03.085_band_oversight.md#classification-scaled-governance) · [M](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [A](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [C](subcore_03.085_band_oversight.md#classification-scaled-governance-c)
+- [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
+- [Reversibility](subcore_03.075_band_continuity.md#reversibility) · [O](subcore_03.075_band_continuity.md#reversibility) · [M](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](subcore_03.075_band_continuity.md#reversibility-constitutional-c)
 
 </details>
 
@@ -1549,9 +1549,9 @@ This Article sets out when a sandboxed system moves to higher obligations:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Innovation Reward and Anti-Enclosure](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in) · [O](core_03.040_band_continuity.md#systemic-lock-in) · [M](core_03.040_band_continuity.md#systemic-lock-in-a) · [A](core_03.040_band_continuity.md#systemic-lock-in-a) · [C](core_03.040_band_continuity.md#systemic-lock-in-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
+- [Innovation Reward and Anti-Enclosure](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in) · [O](subcore_03.075_band_continuity.md#systemic-lock-in) · [M](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [A](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [C](subcore_03.075_band_continuity.md#systemic-lock-in-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1603,9 +1603,9 @@ This Article sets out the reward rules shared by every kind of work:
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Innovation Reward and Anti-Enclosure](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [Creative Work Attribution](core_03.040_band_continuity.md#creative-work-attribution) · [O](core_03.040_band_continuity.md#creative-work-attribution) · [M](core_03.040_band_continuity.md#creative-work-attribution-constitutional-a) · [A](core_03.040_band_continuity.md#creative-work-attribution-constitutional-a) · [C](core_03.040_band_continuity.md#creative-work-attribution-constitutional-c)
-- [Proportionality](core_03.035_band_accountability.md#proportionality) · [O](core_03.035_band_accountability.md#proportionality) · [M](core_03.035_band_accountability.md#proportionality-a) · [A](core_03.035_band_accountability.md#proportionality-a) · [C](core_03.035_band_accountability.md#proportionality-c)
+- [Innovation Reward and Anti-Enclosure](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution) · [O](subcore_03.075_band_continuity.md#creative-work-attribution) · [M](subcore_03.075_band_continuity.md#creative-work-attribution-constitutional-a) · [A](subcore_03.075_band_continuity.md#creative-work-attribution-constitutional-a) · [C](subcore_03.075_band_continuity.md#creative-work-attribution-constitutional-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -1646,9 +1646,9 @@ This Article sets out copyright-like protection for creative and expressive work
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Innovation Reward and Anti-Enclosure](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure-c)
-- [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in) · [O](core_03.040_band_continuity.md#systemic-lock-in) · [M](core_03.040_band_continuity.md#systemic-lock-in-a) · [A](core_03.040_band_continuity.md#systemic-lock-in-a) · [C](core_03.040_band_continuity.md#systemic-lock-in-c)
-- [Dependency](core_03.040_band_continuity.md#dependency) · [O](core_03.040_band_continuity.md#dependency) · [M](core_03.040_band_continuity.md#dependency-a) · [A](core_03.040_band_continuity.md#dependency-a) · [C](core_03.040_band_continuity.md#dependency-c)
+- [Innovation Reward and Anti-Enclosure](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure) · [O](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure) · [M](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [A](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure-a) · [C](subcore_03.080_band_integrative.md#innovation-reward-and-anti-enclosure-c)
+- [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in) · [O](subcore_03.075_band_continuity.md#systemic-lock-in) · [M](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [A](subcore_03.075_band_continuity.md#systemic-lock-in-a) · [C](subcore_03.075_band_continuity.md#systemic-lock-in-c)
+- [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
 
 </details>
 
@@ -1665,11 +1665,11 @@ This Article sets out the rules for rewarding inventions, processes, and functio
   - **Exclusive phase:** For no more than `disclosure+15` years, the right-holder may refuse permission to others.
   - **Open-licensing phase:** From the end of the exclusive phase until no later than `disclosure+30` years, anyone may use the invention without the right-holder's permission, on payment of a LEQU-based fee. The right-holder may not refuse, delay, or attach conditions beyond the fee.
   - **After the term:** The invention is free for all to use. Attribution and provenance may persist.
-- **LEQU-based fee:** The open-licensing fee must be set in proportion to the verified constitutional benefit the invention contributes, measured in [Lifespan Equivalent Units (LEQU)](core_03.055_band_participation.md#lifespan-equivalent-unit-lequ) on the Contribution Axis under [Chapter Fifteen §8 Unified Proportional LEQU Scale — Contribution and Violation Axes](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale*).
+- **LEQU-based fee:** The open-licensing fee must be set in proportion to the verified constitutional benefit the invention contributes, measured in [Lifespan Equivalent Units (LEQU)](subcore_03.090_band_participation.md#lifespan-equivalent-unit-lequ) on the Contribution Axis under [Chapter Fifteen §8 Unified Proportional LEQU Scale — Contribution and Violation Axes](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale*).
   - **Fair wages for time:** Verified benefit is converted into a fee by valuing it as sentient time at a fair wage.
     - For gains in productivity, that time is the working time the invention saves, or the productive time it adds, for those who use it.
     - For other benefits, that time is the lifetime-equivalent time given by the LEQU measure.
-    - That time is valued at a wage that meets [Fair Compensation](core_03.040_band_continuity.md#fair-compensation).
+    - That time is valued at a wage that meets [Fair Compensation](subcore_03.075_band_continuity.md#fair-compensation).
 
     The more an invention verifiably raises productivity or wellbeing, the larger the reward.
   - **Share of the gain:** The fee may take only a share of the verified gain, so that users keep a real part of the benefit.

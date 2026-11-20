@@ -19,7 +19,7 @@ from ch5_paths import CH5_BANDS, CH5_INDEX
 
 EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
     "#### Accountability, Contestability, and Redress Pathways": [
-        # Accountability and Timeliness leg heads live in core_03.005_apex_accountability_leg.md
+        # Accountability and Timeliness leg heads live in subcore_03.040_apex_accountability_leg.md
         "Attributable Action",
         "Attribution Integrity",
         "Record Integrity",

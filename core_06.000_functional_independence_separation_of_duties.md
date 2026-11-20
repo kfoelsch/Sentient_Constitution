@@ -5,7 +5,7 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Six**: the cross-process requirement for functional independence and separation of duties. It follows [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters), which states the System Charter or Institutional Charter that carries the published seat map, and precedes the constitutional process chapters beginning with [Chapter Eight system alignment certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation).
 >
-> - **Constitutional owner:** the separation-of-duties requirement for materially binding acts, met through distinct seats; the universal minimum contents of each [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](core_03.035_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; the minimum independence conditions that every later constitutional process must apply. The standard requirements for a body named as an Independent Body moved to Chapter Seven on 2026-11-20.
+> - **Constitutional owner:** the separation-of-duties requirement for materially binding acts, met through distinct seats; the universal minimum contents of each [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; the minimum independence conditions that every later constitutional process must apply. The standard requirements for a body named as an Independent Body moved to Chapter Seven on 2026-11-20.
 > - **Principle-layer source:** [Chapter Two §18.3](core_02.050_governance_incentive_application.md#183-separation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
 > - **Implementation owner:** [CJS-3.125 §11](corpus_joint_structure/cjs_03.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*Constitutional lane and functional separation*), [CI-6.205 §2](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes), and [CI-26.205 §6](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
 > - **Process-specific application remains downstream:** Chapter Eight applies this requirement to system alignment certification and to institutional alignment certification; [Chapter Fourteen §7.1](core_14.000_standing_assessment.md#71-separation-of-duties) applies it to Standing Records; Chapter Twenty-Two and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
@@ -41,11 +41,11 @@
   - [Chapter Twenty-Six](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) (26.000); designated implementation text named above.
 - Read with:
   - [Chapter Two §19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection) (2.050 §19.3) (*plural detection and review*);
-  - [Attributable Action](core_03.035_band_accountability.md#attributable-action);
-  - [Attribution Integrity](core_03.035_band_accountability.md#attribution-integrity);
-  - [Auditability](core_03.050_band_oversight.md#auditability);
-  - [Contestability](core_03.035_band_accountability.md#contestability);
-  - [Proportionality](core_03.035_band_accountability.md#proportionality).
+  - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action);
+  - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity);
+  - [Auditability](subcore_03.085_band_oversight.md#auditability);
+  - [Contestability](subcore_03.070_band_accountability.md#contestability);
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality).
 
 </details>
 
@@ -60,7 +60,7 @@ Chapter Six is the constitutional owner of the **functional-independence and sep
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: chapter opening owner claim; [Chapter Two §18](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18); [Oversight](core_03.020_apex_oversight_leg.md#oversight-constitutional); [Accountability](core_03.005_apex_accountability_leg.md#accountability).
+- Upstream: chapter opening owner claim; [Chapter Two §18](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18); [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional); [Accountability](subcore_03.040_apex_accountability_leg.md#accountability).
 - Downstream: [§3](#3-four-seat-constitutional-requirement) through [§10](#10-relationship-to-later-processes); every later process that produces or changes a materially binding act.
 - Read with:
   - [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) (S3-C) for verification substrate;
@@ -72,17 +72,17 @@ Chapter Six is the constitutional owner of the **functional-independence and sep
 
 <br>
 
-*In plain terms: before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_03.055_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control its official record, or decide the challenge to it.*
+*In plain terms: before a constitutional process—or a stakeholder-level decision inside an already-authorized system, institution, or bounded decision domain—can be trusted, the jobs inside it must be separated. This requirement applies both to the [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](subcore_03.090_band_participation.md#stakeholder-status-and-weight). A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the supposedly independent check, control its official record, or decide the challenge to it.*
 
 **Purpose:** Chapter Six keeps the jobs inside a materially binding act apart. A sentient, office, AI system, stakeholder body, or representative seeking an outcome cannot also supply the independent check, control the official record, or decide the challenge to it. The chapter does this with four seats: ask or act, check, keep the official record, and hear the challenge.
 
 **Role:** Chapter Six is the constitutional owner of the functional-independence and separation-of-duties requirement for materially binding acts. Where it sits:
 
-- It applies both to the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](core_03.055_band_participation.md#stakeholder-status-and-weight).
+- It applies both to the [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer) and to [Stakeholder System Participation](subcore_03.090_band_participation.md#stakeholder-status-and-weight).
 - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) defines the terms it uses, including Materially Binding Act.
 - Every later constitutional process must explain how it assigns and uses all four seats. A later chapter may add stronger separation, recusal, custody, panel, or review requirements, and may not narrow this chapter's (**section 10**).
 
-**Chapter scope:** This chapter applies to every [Materially Binding Act](core_03.035_band_accountability.md#materially-binding-act), as Chapter Three defines it, including:
+**Chapter scope:** This chapter applies to every [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act), as Chapter Three defines it, including:
 
 - a decision;
 - an authorization or certification;
@@ -108,7 +108,7 @@ The chapter's sections cover:
 
 The standard independence requirements for a body named as an Independent Body are in [Chapter Seven](core_07.000_independent_bodies.md#chapter-seven-independent-bodies), *Independent Bodies*.
 
-**Out of scope:** This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](core_03.050_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
+**Out of scope:** This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](subcore_03.085_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
 
 <a id="2-why-the-jobs-are-separated"></a>
 ### 2. Why the Jobs Are Separated
@@ -225,10 +225,10 @@ The dotted arrows inside the seat box show a typical record lifecycle. The arrow
 
 Every materially binding act has four functionally distinct seats. Chapter Three supplies their canonical meanings; this section states the cross-process placement and incompatibility rules:
 
-1. **[Initiating Seat](core_03.035_band_accountability.md#initiating-seat)** — requests, proposes, operates, claims, or otherwise begins the act.
-2. **[Verify-or-Authorize Seat](core_03.035_band_accountability.md#verify-or-authorize-seat)** — checks the evidence and authority against the governing standard and verifies, authorizes, declines, or conditions the act.
-3. **[Record Seat](core_03.035_band_accountability.md#record-seat)** — enters, amends, holds, preserves, and publishes the [Act Record](core_03.035_band_accountability.md#materially-binding-act-record) of what the Verify-or-Authorize Seat determined.
-4. **[Contest Seat](core_03.035_band_accountability.md#contest-seat)** — receives and reviews a challenge, orders correction or limits where authorized, and routes any issue outside its authority.
+1. **[Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat)** — requests, proposes, operates, claims, or otherwise begins the act.
+2. **[Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat)** — checks the evidence and authority against the governing standard and verifies, authorizes, declines, or conditions the act.
+3. **[Record Seat](subcore_03.070_band_accountability.md#record-seat)** — enters, amends, holds, preserves, and publishes the [Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) of what the Verify-or-Authorize Seat determined.
+4. **[Contest Seat](subcore_03.070_band_accountability.md#contest-seat)** — receives and reviews a challenge, orders correction or limits where authorized, and routes any issue outside its authority.
 
 These seats apply to human and AI stewards alike. If a system carries out an act, signs off on it, and then uses its own log as the proof, it is sitting in the initiating, verifying, and record seats at once. Automating the process doesn't make the verification independent.
 
@@ -257,7 +257,7 @@ Where scope is mixed or classification is uncertain, apply the highest applicabl
 
 - Upstream: [§3](#3-four-seat-constitutional-requirement); [Authority-scaled answerability](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure); [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
 - Downstream: [§5](#5-wrong-seat-routing); [§6](#6-published-placement-vacancy-and-substitution); [§9](#9-act-records-and-attributable-handoffs); Chapter Eight certification component roles; Chapter Fourteen record custody; Chapter Twenty-Two forum anti-self-judging.
-- Read with: [Material Control Line](core_03.035_band_accountability.md#material-control-line); [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CF-22.425](corpus_forum/cf_22.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-22425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for operational conflict and anti-self-judging safeguards.
+- Read with: [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CF-22.425](corpus_forum/cf_22.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-22425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for operational conflict and anti-self-judging safeguards.
 
 </details>
 
@@ -267,12 +267,12 @@ Where scope is mixed or classification is uncertain, apply the highest applicabl
 
 Functional independence is judged by actual authority and control, not labels. On the same act:
 
-- the verify-or-authorize seat and contest seat must be outside the initiating seat's [Material Control Line](core_03.035_band_accountability.md#material-control-line);
+- the verify-or-authorize seat and contest seat must be outside the initiating seat's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line);
 - a party whose own interest is determined by the act must not hold the verify-or-authorize or contest seat;
 - a conflicted record holder must pass that official record, with its full audit trail, to the published substitute rather than decide the conflict or abandon custody; and
 - recusal removes authority over the act; it does not transfer the seat to the requester, the requester's reporting line, or whoever is nearest.
 
-Trace the [Material Control Line](core_03.035_band_accountability.md#material-control-line) for the particular act. Shared infrastructure, administrative support, or appointment history does not alone establish the line, but those arrangements must not defeat independent judgment in practice.
+Trace the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) for the particular act. Shared infrastructure, administrative support, or appointment history does not alone establish the line, but those arrangements must not defeat independent judgment in practice.
 
 Independence is not satisfied by a second signature, a nominal committee, an internal label, or a tool-generated attestation where the supposed check lacks authority, evidence access, freedom from material control, or a real ability to decline and route.
 
@@ -328,12 +328,12 @@ That response is performance of duty, not abandonment of the act. The act procee
 - Upstream:
   - [§3](#3-four-seat-constitutional-requirement);
   - [§4](#4-independence-conflict-and-control-lines);
-  - [Transparency](core_03.050_band_oversight.md#transparency);
-  - [Auditability](core_03.050_band_oversight.md#auditability).
+  - [Transparency](subcore_03.085_band_oversight.md#transparency);
+  - [Auditability](subcore_03.085_band_oversight.md#auditability).
 - Downstream: [§9](#9-act-records-and-attributable-handoffs); [CI-6.205 §2](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*Functional Separation Lanes*); [CI-26.205 §5](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-5-authorized-roles-and-accountability-chains) (*Authorized Roles and Accountability Chains*); Chapter Eight and Chapter Fourteen records.
 - Read with:
-  - [System Charter](core_03.040_band_continuity.md#system-charter),
-  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter);
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter),
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter);
   - [Chapter Five §6 The Charter Role Map and Standing-Record Custody](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody) (5.000 §6); and
   - [Chapter Twenty-Six §7](core_26.000_governance.md#7-authorized-roles-competency-development-and-contribution) (26.000 §7).
 
@@ -346,7 +346,7 @@ That response is performance of duty, not abandonment of the act. The act procee
 <a id="61-what-the-map-must-say"></a>
 #### 6.1 What the Map Must Say
 
-Every adopter of Class L or higher that takes materially binding acts must maintain a published, auditable, and contestable [Charter Role Map](core_03.040_band_continuity.md#charter-role-map) that identifies:
+Every adopter of Class L or higher that takes materially binding acts must maintain a published, auditable, and contestable [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) that identifies:
 
 - which lane, office, role, or process hosts each seat;
 - the acts and scope for which that seat placement applies;
@@ -358,7 +358,7 @@ Every adopter of Class L or higher that takes materially binding acts must maint
 <a id="62-where-the-map-is-kept"></a>
 #### 6.2 Where the Map Is Kept
 
-The map is kept in or with the adopter's [System Charter](core_03.040_band_continuity.md#system-charter) or [Institutional Charter](core_03.040_band_continuity.md#institutional-charter).
+The map is kept in or with the adopter's [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter).
 
 A member of a group that publishes a shared map for the seats it hosts may adopt that map by reference ([§7.3 Seats Held in Common](#73-seats-held-in-common)), and still names its own substitute and independent route.
 
@@ -369,17 +369,17 @@ A Class P adopter is outside this chapter ([§1 Purpose, Role, and Scope](#1-pur
 
 An unplaced seat, or a holder who is absent, excluded, captured, or conflicted, is a governance defect to log and correct.
 
-- The seat does not pass automatically to the initiating seat, an interested party, an operator, or a superior in their [Material Control Line](core_03.035_band_accountability.md#material-control-line).
+- The seat does not pass automatically to the initiating seat, an interested party, an operator, or a superior in their [Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
 - Until corrected, the act routes to the published substitute or independent path, however urgent the act.
-- <a id="63-general-seat-vacancy-rule"></a>**General seat-vacancy rule:** Every seat that falls vacant or whose holder cannot serve, whatever the cause, is filled, and the Charter Role Map or other published document that names it is updated, within the [Class Repair Window](core_03.035_band_accountability.md#class-repair-window) of the System's, Institution's, or adopter's class ([Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#class-repair-window)), counted from the logged notice of the vacancy, unless a more specific rule below or elsewhere sets its own window.
+- <a id="63-general-seat-vacancy-rule"></a>**General seat-vacancy rule:** Every seat that falls vacant or whose holder cannot serve, whatever the cause, is filled, and the Charter Role Map or other published document that names it is updated, within the [Class Repair Window](subcore_03.070_band_accountability.md#class-repair-window) of the System's, Institution's, or adopter's class ([Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#class-repair-window)), counted from the logged notice of the vacancy, unless a more specific rule below or elsewhere sets its own window.
 - For a certification seat that the Charter Role Map leaves unplaced, the correction must meet the response and resolution windows, counted from the logged notice of the gap, as set out in [Chapter Five §6.7.4 Certification Seats](core_05.000_charters.md#674-certification-seats).
 
 <a id="64-delegation"></a>
 #### 6.4 Delegation
 
-A seat holder may delegate the seat only to a deputy or substitute that the [Charter Role Map](core_03.040_band_continuity.md#charter-role-map) names. A delegation to anyone else leaves the seat unplaced, and [§6.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve](#63-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve) applies. Naming a new deputy or substitute changes the map ([Chapter Five §6.5 Changing Seat Rules and Seat Holders](core_05.000_charters.md#65-changing-seat-rules-and-seat-holders)). A delegation cannot do it.
+A seat holder may delegate the seat only to a deputy or substitute that the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) names. A delegation to anyone else leaves the seat unplaced, and [§6.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve](#63-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve) applies. Naming a new deputy or substitute changes the map ([Chapter Five §6.5 Changing Seat Rules and Seat Holders](core_05.000_charters.md#65-changing-seat-rules-and-seat-holders)). A delegation cannot do it.
 
-A delegation keeps the same seat boundary, evidence duties, record, and clock, and the delegate stays subject to the [Material Control Line](core_03.035_band_accountability.md#material-control-line). It does not create a new seat, merge seats, or allow a delegate to do what the delegating seat could not do. A delegate who holds a second seat on the same act is a merger, and only the merged-hosting arrangements the map lists under [§7 Proportional Scaling and Merged Hosting](#7-proportional-scaling-and-merged-hosting) allow one.
+A delegation keeps the same seat boundary, evidence duties, record, and clock, and the delegate stays subject to the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line). It does not create a new seat, merge seats, or allow a delegate to do what the delegating seat could not do. A delegate who holds a second seat on the same act is a merger, and only the merged-hosting arrangements the map lists under [§7 Proportional Scaling and Merged Hosting](#7-proportional-scaling-and-merged-hosting) allow one.
 
 A holder may use staff or tools to help with the seat's work, such as gathering evidence, drafting, or running routine checks. That is assistance, not delegation. The holder still makes the seat's decisions, stays answerable for the result, and stays responsible for the seat's independence. If someone else makes a decision or takes a step in the seat's name, that is a delegation and must meet this subsection. Assistance cannot be used to do what the seat itself could not do, including pressuring the holders of other seats to determine the outcome of an act.
 
@@ -404,10 +404,10 @@ A holder may use staff or tools to help with the seat's work, such as gathering 
 - Upstream:
   - [§3](#3-four-seat-constitutional-requirement);
   - [material stake](core_00.000_preamble.md#material-stake);
-  - [Necessity](core_03.035_band_accountability.md#necessity);
-  - [Proportionality](core_03.035_band_accountability.md#proportionality).
+  - [Necessity](subcore_03.070_band_accountability.md#necessity);
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality).
 - Downstream: [Chapter Fourteen §7.9](core_14.000_standing_assessment.md#79-informal-and-small-scope-records) (14.000 §7.9); [CJS-30.110 §4](corpus_joint_structure/cjs_30.110_specific_joint_interlocks.md#cjs-30110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-Scaled Lane Staffing and Competency Redundancy*); [CI-6.205 §2](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*Functional Separation Lanes*).
-- Read with: [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) and Chapter Two [§3.3 Anti-Degrading Process](core_02.000_values_principles.md#33-anti-degrading-process).
+- Read with: [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) and Chapter Two [§3.3 Anti-Degrading Process](core_02.000_values_principles.md#33-anti-degrading-process).
 
 </details>
 
@@ -437,8 +437,8 @@ A small or informal adopter may place two seats in one office or sentient only w
 
 A business run by a single sentient or a few may place its verify-or-authorize, record, or contest seat with a local cooperative or association of such businesses, or with any other independent relying body. This is not a merger, because the seats stay with separate holders. It is how a business too small to staff four seats still meets the separation-of-duties requirement in [§3 Four-Seat Constitutional Requirement](#3-four-seat-constitutional-requirement). The same independence rules apply as to any seat placement, together with these rules for the group:
 
-- **Independent of the business:** The holder is [independent](core_03.035_band_accountability.md#independence) of the initiating business. It is outside the business's [Material Control Line](core_03.035_band_accountability.md#material-control-line), and nothing the act decides gives it a stake. A supplier, lender, landlord, or customer that the business depends on is not independent for an act about that dependence, such as a dispute over the supplier's own contract, because the act decides something for them too.
-- **One map for the group:** The group publishes one [Charter Role Map](core_03.040_band_continuity.md#charter-role-map) for the seats it hosts, and each member may adopt it by reference. A member's own map still names its substitute and its independent route.
+- **Independent of the business:** The holder is [independent](subcore_03.070_band_accountability.md#independence) of the initiating business. It is outside the business's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line), and nothing the act decides gives it a stake. A supplier, lender, landlord, or customer that the business depends on is not independent for an act about that dependence, such as a dispute over the supplier's own contract, because the act decides something for them too.
+- **One map for the group:** The group publishes one [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) for the seats it hosts, and each member may adopt it by reference. A member's own map still names its substitute and its independent route.
 - **Serving one another:** Members may serve one another's seats on different acts. Two members may not check each other's acts as a closed pair, and a rotation may not route an act to a holder inside its initiator's control line.
 - **The group's own acts:** Admitting or removing a member, assigning a seat, and ruling on a member's act are materially binding acts of the group. For these acts the group:
   - takes the four seats;
@@ -448,7 +448,7 @@ A business run by a single sentient or a few may place its verify-or-authorize, 
 - **Admission limits:** A group may refuse or defer an applicant for a reason tied to what the group can serve, so that it is never forced to take on more than it can carry. Such reasons include:
   - **Capacity:** the applicant's expected volume of material acts would use up capacity that existing members rely on. The group may cap the volume it takes from any one member or keep a waiting list;
   - **Fit:** the applicant's kind of acts or class is outside what the group's seat holders are qualified and staffed to serve, such as work that needs more competency redundancy than the group has ([§7.6 Stake, Class, and What Does Not Justify a Merger](#76-stake-class-and-what-does-not-justify-a-merger));
-  - **Independence:** the group's holders could not serve the applicant's acts independently, because the applicant is inside the [Material Control Line](core_03.035_band_accountability.md#material-control-line) of one of them; and
+  - **Independence:** the group's holders could not serve the applicant's acts independently, because the applicant is inside the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of one of them; and
   - **Conduct:** the applicant has broken the group's published terms before, or will not accept them.
 - **How the limits are applied:** Every admission limit:
   - is stated in the group's System Charter or Institutional Charter ([Chapter Five §5.1 What a System Charter States](core_05.000_charters.md#51-what-a-system-charter-states)), so it is published before it is applied;
@@ -456,7 +456,7 @@ A business run by a single sentient or a few may place its verify-or-authorize, 
   - is not used to shield members from competition or to make the group the only route to a seat in its area;
   - is explained in writing to a refused applicant; and
   - can be contested through the independent route outside the group, because deciding whether to admit an applicant is a materially binding act of the group (see *The group's own acts*, above).
-- **No trap:** A group's terms may not make the seat a cost the business cannot bear ([Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden)).
+- **No trap:** A group's terms may not make the seat a cost the business cannot bear ([Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden)).
 - **Leaving:** A member that leaves takes its official records with it. The group may not hold them back or make leaving depend on leaving them behind. The group:
   - gives the member a full export of its Act Records and the data in them, in a form the member or a new host can use ([CS-4.305 §1.2 Continuity-critical collection and exportability](corpus_systems/cs_04.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)), and discloses up front any lawful limit on the export;
   - hands the record seat for those acts to the holder the member names, and stays the record seat holder until the member names one, so the Act Records stay reconstructable while a challenge, correction, or remedy is open ([§9 Act Records and Attributable Handoffs](#9-act-records-and-attributable-handoffs)); and
@@ -484,7 +484,7 @@ A sentient or small practice of Class L or higher may place its seats with a hos
 <a id="75-informal-and-community-work"></a>
 #### 7.5 Informal and Community Work
 
-Informal, unpaid, mutual-aid, care, repair, teaching, cooperative, and community-stewardship work may use an [independent](core_03.035_band_accountability.md#independence) relying body with published authority for the relevant verification. The Constitution does not require such work to build formal offices, staffing, or procedures beyond what its size and means can reasonably support, as long as the verification runs through a genuinely independent and accountable route.
+Informal, unpaid, mutual-aid, care, repair, teaching, cooperative, and community-stewardship work may use an [independent](subcore_03.070_band_accountability.md#independence) relying body with published authority for the relevant verification. The Constitution does not require such work to build formal offices, staffing, or procedures beyond what its size and means can reasonably support, as long as the verification runs through a genuinely independent and accountable route.
 
 <a id="76-stake-class-and-what-does-not-justify-a-merger"></a>
 #### 7.6 Stake, Class, and What Does Not Justify a Merger
@@ -510,7 +510,7 @@ The more harm that could follow and the more others depend on the work, the hard
   - [Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1);
   - [default interim posture](core_02.020_interaction_interpretation.md#default-interim-posture).
 - Downstream: incident, containment, release, continuation, and post-event review processes in designated implementation text.
-- Read with: [Timeliness](core_03.030_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation), and [CI-26.205 §6 Seat Catalog — Process-Role Archetypes and Operational Boundaries](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
+- Read with: [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation), and [CI-26.205 §6 Seat Catalog — Process-Role Archetypes and Operational Boundaries](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
 
 </details>
 
@@ -550,10 +550,10 @@ None of the following is by itself an emergency:
 - Upstream:
   - [§3](#3-four-seat-constitutional-requirement) through
   - [§8](#8-emergency-and-urgent-action);
-  - [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record);
-  - [Attributable Action](core_03.035_band_accountability.md#attributable-action);
-  - [Attribution Integrity](core_03.035_band_accountability.md#attribution-integrity);
-  - [Record Integrity](core_03.035_band_accountability.md#record-integrity).
+  - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record);
+  - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action);
+  - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity);
+  - [Record Integrity](subcore_03.070_band_accountability.md#record-integrity).
 - Downstream: [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action); [CI-26.205 §6 shared seat rules](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); every process record governed by §9; [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
 - Read with: [§5 Wrong-Seat Routing](#5-wrong-seat-routing) and [Subcore 3-C §6](subcore_03.030_burden_traceability_verification.md#6-compliance-evidence-standard) (S3-C §6).
 
@@ -563,7 +563,7 @@ None of the following is by itself an emergency:
 
 *In plain terms: every materially binding act has an Act Record showing what happened, who held each seat, what was decided, and where a challenge goes.*
 
-Every materially binding act must have an identifiable [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record) (**Act Record**). The Act Record may be embodied in one applicable process-specific official record or in an attributable, integrity-preserving linked set of official records. A separate duplicate document is not required if the existing official record or linked set clearly identifies all required elements, preserves their links and version history, and remains accessible through the authorized official record path.
+Every materially binding act must have an identifiable [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) (**Act Record**). The Act Record may be embodied in one applicable process-specific official record or in an attributable, integrity-preserving linked set of official records. A separate duplicate document is not required if the existing official record or linked set clearly identifies all required elements, preserves their links and version history, and remains accessible through the authorized official record path.
 
 The Act Record must identify, at a minimum:
 
@@ -597,7 +597,7 @@ Logs show who did what, but they do not by themselves prove that the action was 
   - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000);
   - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000);
   - [Chapter Twenty-Six](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) (26.000).
-- Read with: [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation) and the [Chapter One owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+- Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
 
 </details>
 

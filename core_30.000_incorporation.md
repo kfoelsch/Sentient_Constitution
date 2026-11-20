@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Thirty**, the constitutional bridge to incorporated implementation files. Read with the [**Corpus**](subcore_03.045_band_integrative.md#corpus) entry in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) and [Chapters Twenty-Seven through Twenty-Nine](core_27.000_non_regression.md#chapter-twenty-seven-non-regression-and-substantive-amendment-validity) for adoption and validity controls. Incorporated implementation text must not narrow substantive constitutional meaning in Chapters One through Twenty-Two — including the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Thirty**, the constitutional bridge to incorporated implementation files. Read with the [**Corpus**](subcore_03.080_band_integrative.md#corpus) entry in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) and [Chapters Twenty-Seven through Twenty-Nine](core_27.000_non_regression.md#chapter-twenty-seven-non-regression-and-substantive-amendment-validity) for adoption and validity controls. Incorporated implementation text must not narrow substantive constitutional meaning in Chapters One through Twenty-Two — including the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 
 </details>
 
@@ -10,9 +10,9 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Thirty lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
-> - **Constitutional owner:** the incorporation bridge: which **implementation text** files bind when adopted, **edition pinning** and **custody chain**, **safeguards** against silent drift and evasion, **invocation** of adopted obligations within the stated adoption scope, and **adoption framing**. Source-layer status lives under the **[Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy)** in **Chapter Three**; textual and incorporation-layer conflict procedure lives in **[Chapter Two — §15.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution)** — neither is restated here.
-> - **Implementation owner:** designated **implementation text** files (`corpus_*.md` and further listings in the **Chapter Three** [**Corpus**](subcore_03.045_band_integrative.md#corpus) entry) supply the operating detail; this chapter **does not** copy that layer into a second constitutional source.
-> - **Anti-relocation rule:** adopters must not satisfy incorporated obligations through [**Safety (Constitutional Constraint)**](core_03.040_band_continuity.md#safety-constitutional-constraint) or [**Truth (Constitutional Constraint)**](core_03.050_band_oversight.md#truth-constitutional-constraint) violations; implementation-file obligations apply **together with Chapter Two** and remain subject to **Chapter Two** proportionality, necessity, systemic evaluation, and interaction rules where those govern.
+> - **Constitutional owner:** the incorporation bridge: which **implementation text** files bind when adopted, **edition pinning** and **custody chain**, **safeguards** against silent drift and evasion, **invocation** of adopted obligations within the stated adoption scope, and **adoption framing**. Source-layer status lives under the **[Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy)** in **Chapter Three**; textual and incorporation-layer conflict procedure lives in **[Chapter Two — §15.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution)** — neither is restated here.
+> - **Implementation owner:** designated **implementation text** files (`corpus_*.md` and further listings in the **Chapter Three** [**Corpus**](subcore_03.080_band_integrative.md#corpus) entry) supply the operating detail; this chapter **does not** copy that layer into a second constitutional source.
+> - **Anti-relocation rule:** adopters must not satisfy incorporated obligations through [**Safety (Constitutional Constraint)**](subcore_03.075_band_continuity.md#safety-constitutional-constraint) or [**Truth (Constitutional Constraint)**](subcore_03.085_band_oversight.md#truth-constitutional-constraint) violations; implementation-file obligations apply **together with Chapter Two** and remain subject to **Chapter Two** proportionality, necessity, systemic evaluation, and interaction rules where those govern.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section. Reader-facing gloss only.
 
@@ -22,8 +22,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [**Corpus**](subcore_03.045_band_integrative.md#corpus) (*what the corpus is, which **implementation text** it lists, and who keeps it*);
-  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status — not restated here*);
+  - [**Corpus**](subcore_03.080_band_integrative.md#corpus) (*what the corpus is, which **implementation text** it lists, and who keeps it*);
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status — not restated here*);
   - [Chapters Twenty-Seven through Twenty-Nine](core_27.000_non_regression.md#chapter-twenty-seven-non-regression-and-substantive-amendment-validity) (*ratification, adoption chain, supremacy, and procedural validity*);
   - [Chapter Twenty-Nine](core_29.000_expansion_supremacy.md#chapter-twenty-nine-expansion-supremacy-and-external-legal-orders) (29.000) (*internal hierarchy for adopters where applicable*);
   - [Chapter Two §15.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) (*single conflict procedure — not restated here*).
@@ -45,7 +45,7 @@
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — incorporated text must not narrow principle-layer obligations;
   - [Chapter Two §15.4 — Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) (*conflict procedure*);
-  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status*).
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status*).
 - Read with: [README.md](README.md) (*reading order and adoption-framing orientation*); [doc_architecture.md](doc_architecture.md) (*editor map; non-binding unless expressly adopted*).
 
 </details>
@@ -59,19 +59,19 @@ Chapter Thirty is the constitutional owner of **the incorporation bridge**, whic
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [**Corpus**](subcore_03.045_band_integrative.md#corpus) (*implementation-corpus enumeration and custody framing*);
-  - [**Materiality**](core_03.050_band_oversight.md#materiality) and
-  - [**Material Impact**](core_03.050_band_oversight.md#material-impact) in
+  - [**Corpus**](subcore_03.080_band_integrative.md#corpus) (*implementation-corpus enumeration and custody framing*);
+  - [**Materiality**](subcore_03.085_band_oversight.md#materiality) and
+  - [**Material Impact**](subcore_03.085_band_oversight.md#material-impact) in
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) (*referenced in §3*);
   - [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) (
-  - [**Safety (Constitutional Constraint)**](core_03.040_band_continuity.md#safety-constitutional-constraint),
-  - [**Truth (Constitutional Constraint)**](core_03.050_band_oversight.md#truth-constitutional-constraint), proportionality, necessity, systemic evaluation).
+  - [**Safety (Constitutional Constraint)**](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
+  - [**Truth (Constitutional Constraint)**](subcore_03.085_band_oversight.md#truth-constitutional-constraint), proportionality, necessity, systemic evaluation).
 - Downstream: [§3 Custody, Editions, and Operative Effect](#3-custody-editions-and-operative-effect) (*what is implemented, which edition is pinned, and who keeps it*); [§4 Safeguards](#4-safeguards) (*anti-drift and anti-evasion rules*); [§5 Adoption Framing and Scope of Authority](#5-adoption-framing-and-scope-of-authority) (*how adoption and jurisdiction are described*).
 - Read with:
   - [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) (*Rights-Floor default constraint stack*);
-  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy),
-  - [Trust](core_03.040_band_continuity.md#trust), and
-  - [Trustworthiness](core_03.040_band_continuity.md#trustworthiness) in
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy),
+  - [Trust](subcore_03.075_band_continuity.md#trust), and
+  - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) in
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000);
   - [Chapter Two §15.4](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) (*conflict procedure — not restated here*);
   - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) and
@@ -91,11 +91,11 @@ Chapter Thirty is the constitutional owner of **the incorporation bridge**, whic
 
 **Role:** This chapter is what makes the implementation files count. Where an adoption is valid:
 
-- The designated **implementation text** files listed in the [**Corpus**](subcore_03.045_band_integrative.md#corpus) entry in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) bind as **authoritative implementation text** for the obligations they cover.
+- The designated **implementation text** files listed in the [**Corpus**](subcore_03.080_band_integrative.md#corpus) entry in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) bind as **authoritative implementation text** for the obligations they cover.
 - Those files carry out this Constitution under **Chapter Two**. They do not replace it.
 - Combining the files into one document for packaging does **not** change their status, as long as they stay on that list.
 - A reference to **Chapter Thirty** or to an incorporated file, anywhere in these volumes, brings in the matching **adopted** obligations, but only **where they apply** and **only within the stated adoption scope**.
-- The [subcore](subcore_03.045_band_integrative.md#subcore) is **not** implementation text. It is part of this Constitution, binds every adopter without separate incorporation, and is pinned by the same edition as the chapters it belongs to.
+- The [subcore](subcore_03.080_band_integrative.md#subcore) is **not** implementation text. It is part of this Constitution, binds every adopter without separate incorporation, and is pinned by the same edition as the chapters it belongs to.
 
 **Chapter scope:** The chapter covers:
 
@@ -129,7 +129,7 @@ Implementation text keeps improving, and adopters adopt it at different times. W
 - Upstream:
   - [§1](#1-purpose-role-and-scope) (*bridge role and invocation within adoption scope*);
   - [Chapter Twenty-Eight](core_28.000_amendment_ratification.md#chapter-twenty-eight-amendment-ratification-and-procedural-validity) (28.000) (*recorded adoption chain*);
-  - [**Corpus**](subcore_03.045_band_integrative.md#corpus) (*implementation text enumeration and operative corpus identity*) in
+  - [**Corpus**](subcore_03.080_band_integrative.md#corpus) (*implementation text enumeration and operative corpus identity*) in
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000).
 - Downstream: [§4 Safeguards](#4-safeguards) (*anti-drift and anti-evasion rules*); [§5 Adoption Framing and Scope of Authority](#5-adoption-framing-and-scope-of-authority) (*when adoption takes effect and how it is described*); designated **implementation text** files, as pinned editions; [evidence/](evidence/) hooks named in the process-layer bullet.
 - Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*traceability and verification expectations that support custody discipline*); [doc_architecture.md](doc_architecture.md) (*non-binding mapping and edition metadata unless adopted*).
@@ -149,17 +149,17 @@ This section sets out how incorporated text is pinned to editions, held in custo
   - custodian identity; and
   - linkage to the adoption document, in a form sufficient for provenance and applicable scope.
 
-  Custody records must be proportionate to assigned system classification under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, and to [**Material Impact**](core_03.050_band_oversight.md#material-impact), [**Dependency**](core_03.040_band_continuity.md#dependency), affected [**Stakeholder**](core_03.055_band_participation.md#stakeholder) position, and applicable [**Materiality**](core_03.050_band_oversight.md#materiality) requirements in [**Chapter Three**](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (consistent with [**Classification-Scaled Governance**](core_03.050_band_oversight.md#classification-scaled-governance)).
+  Custody records must be proportionate to assigned system classification under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, and to [**Material Impact**](subcore_03.085_band_oversight.md#material-impact), [**Dependency**](subcore_03.075_band_continuity.md#dependency), affected [**Stakeholder**](subcore_03.090_band_participation.md#stakeholder) position, and applicable [**Materiality**](subcore_03.085_band_oversight.md#materiality) requirements in [**Chapter Three**](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (consistent with [**Classification-Scaled Governance**](subcore_03.085_band_oversight.md#classification-scaled-governance)).
 - **Implementation-file scope (enumerated):** Without limitation, this section covers:
   - [corpus_systems.md](corpus_systems.md) (*systems implementation file*)
   - [corpus_institutions.md](corpus_institutions.md) (*Constitutional Institutions*)
   - [corpus_forum.md](corpus_forum.md) (*Constitutional Judicial Systems*)
   - [corpus_joint_structure.md](corpus_joint_structure.md) (*Constitutional Joint Structure*)
-  - any further **implementation text** files listed in the [**Corpus**](subcore_03.045_band_integrative.md#corpus) entry in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions)
+  - any further **implementation text** files listed in the [**Corpus**](subcore_03.080_band_integrative.md#corpus) entry in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions)
 
   Each incorporated implementation file is binding **only as adopted** through a recorded adoption chain under **Chapter Twenty-Eight** and this chapter.
 
-  - **Sentience-Status Adjudication Record:** This edition lists [`corpus_forum/cf_22.475_sentience_status_record.md`](corpus_forum/cf_22.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated [Sentience-Status Adjudication Record](core_03.055_band_participation.md#sentience-status-adjudication-record) format. They implement, and do **not** narrow, [Article VI-B](core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and the [Chapter Twenty-Three §4 Escalation and Questions for Ruling](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook). The schema is machine-checkable form, **not** who-counts.
+  - **Sentience-Status Adjudication Record:** This edition lists [`corpus_forum/cf_22.475_sentience_status_record.md`](corpus_forum/cf_22.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated [Sentience-Status Adjudication Record](subcore_03.090_band_participation.md#sentience-status-adjudication-record) format. They implement, and do **not** narrow, [Article VI-B](core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and the [Chapter Twenty-Three §4 Escalation and Questions for Ruling](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook). The schema is machine-checkable form, **not** who-counts.
 - **Process-layer alignment (evidence hook):** The following **support** verification of custody and adoption framing:
   - architecture maps;
   - TODO records;
@@ -205,7 +205,7 @@ This section sets out the safeguards that protect incorporated text:
   - “non-substantive refactor”; or
   - “editorial compression.”
 
-  The anti-evasion **rule** in **[Chapter Twenty-Seven, section 5](core_27.000_non_regression.md#5-anti-evasion-clause)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **clearly adopted baseline** with the [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect) under **[Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer)** governs until the official record is fixed under **Chapters Twenty-Two and Twenty-Six**.
+  The anti-evasion **rule** in **[Chapter Twenty-Seven, section 5](core_27.000_non_regression.md#5-anti-evasion-clause)** applies. If an adopter’s working text has drifted from its adopted edition without a valid re-adoption, the **clearly adopted baseline** with the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) under **[Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer)** governs until the official record is fixed under **Chapters Twenty-Two and Twenty-Six**.
 
 ### 5. Adoption Framing and Scope of Authority
 <details>

@@ -54,7 +54,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 ### Paired quotes
 
-**Who counts (corpus):** “Sentience-recognition and Rights-Floor application must remain substrate-agnostic — applying equally to: biological; synthetic; and hybrid entities — without regard to Substrate Class.” — [Sentience Non-Exclusion](../../core_03.055_band_participation.md#sentience-non-exclusion)
+**Who counts (corpus):** “Sentience-recognition and Rights-Floor application must remain substrate-agnostic — applying equally to: biological; synthetic; and hybrid entities — without regard to Substrate Class.” — [Sentience Non-Exclusion](../../subcore_03.090_band_participation.md#sentience-non-exclusion)
 
 **Who counts (comparator):** “All human beings are born free and equal in dignity and rights.” — UDHR Art. 1
 
@@ -82,7 +82,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 ### Factor scores
 
-**Scope — Mixed.** [Natural Systems Standing](../../core_03.055_band_participation.md#natural-systems-standing) and Article I-A require weighing life-supporting systems’ **continuity and integrity interests of their own** — not raw materials only. That is stronger than UNGA Res. 76/300, which recognises a **human** right to a healthy environment, and stronger than Aarhus/Escazú, which are procedural rights for persons. It is **weaker** than Ecuador Art. 71 (“Nature … has the right to integral respect for its existence”) and Te Awa Tupua s.14 legal personality. No search of the corpus found “rights of nature,” named guardians, or ecosystem-as-party filing. Environment forums remain sentient/system-mediated.
+**Scope — Mixed.** [Natural Systems Standing](../../subcore_03.090_band_participation.md#natural-systems-standing) and Article I-A require weighing life-supporting systems’ **continuity and integrity interests of their own** — not raw materials only. That is stronger than UNGA Res. 76/300, which recognises a **human** right to a healthy environment, and stronger than Aarhus/Escazú, which are procedural rights for persons. It is **weaker** than Ecuador Art. 71 (“Nature … has the right to integral respect for its existence”) and Te Awa Tupua s.14 legal personality. No search of the corpus found “rights of nature,” named guardians, or ecosystem-as-party filing. Environment forums remain sentient/system-mediated.
 
 **Substance — Mixed.** The Article I stack (preconditions/integrity, footprint transparency, intergenerational responsibility, existential-risk / recovery-capacity scrutiny), anti-offset extinction as a primary failure of Ecological Integrity, material stewardship (Article II), and resource-flow / ecosystem funding (Article IV) is thicker than South Africa s.24 or the French Environmental Charter. [Article I-B](../../core_04.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) **expressly does not require footprint reduction or caps by itself**. There is no planetary-boundaries framework, carbon budget, or Paris-style temperature article. *Neubauer* (2021) and the ICJ advisory opinion of 23 July 2025 impose climate due diligence and intergenerational allocation that this instrument states only as qualitative heightened scrutiny under Article I-D. Indigenous Continuity is a community-anchored floor that **does not decide historical land title** — weaker than UNDRIP and ILO 169 on lands, territories, and FPIC.
 
@@ -106,7 +106,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Climate numerics (comparator):** *Neubauer* holds that the Basic Law’s protection of future generations bars the legislature from offloading an “irreversible” share of the carbon budget onto later generations. The ICJ 2025 advisory opinion affirms a due-diligence duty to prevent significant harm to the climate system.
 
-**Anti-offset (corpus):** Primary failure of Ecological Integrity includes “extinction of species, or comparable irreversible biodiversity loss, offered as offsettable, substitutable, or otherwise compensable.” — [Ecological Integrity](../../core_03.040_band_continuity.md#ecological-integrity)
+**Anti-offset (corpus):** Primary failure of Ecological Integrity includes “extinction of species, or comparable irreversible biodiversity loss, offered as offsettable, substitutable, or otherwise compensable.” — [Ecological Integrity](../../subcore_03.075_band_continuity.md#ecological-integrity)
 
 **Indigenous (corpus vs comparator):** Indigenous Continuity “does not decide historical land ownership or require restitution on its own.” — [Article VI-C](../../core_04.010_rights_part_b.md#article-vi-c-nondiscrimination). UNDRIP Arts. 26–32 and ILO 169 Arts. 13–16 do address lands, territories, resources, and FPIC.
 

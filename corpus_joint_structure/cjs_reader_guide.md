@@ -78,7 +78,7 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 
 ## When More Than One Layer Applies
 
-The default reading stack and combined-satisfaction rule live in [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations). The [Fullest Protective Effect](../subcore_03.045_band_integrative.md#fullest-protective-effect) rule among jointly applicable incorporated obligations lives in [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer). The shared implementation-corpus contract that **CS**, **CI**, and **CF** cite is [CJS-0.110 §3 shared implementation-corpus preamble contract](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract).
+The default reading stack and combined-satisfaction rule live in [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations). The [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule among jointly applicable incorporated obligations lives in [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer). The shared implementation-corpus contract that **CS**, **CI**, and **CF** cite is [CJS-0.110 §3 shared implementation-corpus preamble contract](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract).
 
 
 ## How to Read an oDef Entry

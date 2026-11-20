@@ -7,7 +7,7 @@
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 >
-> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVII** (*Audit, Transparency, and Independent Verification*); layer 2 is Chapter Three [Auditability](../core_03.050_band_oversight.md#auditability). Three-layer picture: [Article XVII](../core_04.020_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*). Chapter Eight and the OP annexes use these layers; they are not additional audit-rule homes.
+> **Steward door (non-operative):** This file is layer 3 (how/when). Layer 1 is **Article XVII** (*Audit, Transparency, and Independent Verification*); layer 2 is Chapter Three [Auditability](../subcore_03.085_band_oversight.md#auditability). Three-layer picture: [Article XVII](../core_04.020_rights_part_c.md#audit-three-layers) (*Audit, Transparency, and Independent Verification*). Chapter Eight and the OP annexes use these layers; they are not additional audit-rule homes.
 
 </details>
 
@@ -28,21 +28,21 @@
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **[CS-4.305](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](../corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Chapter Eight](../core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
-- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../core_03.050_band_oversight.md#materiality).
+- Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Chapter Two basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Proportionality](../core_03.035_band_accountability.md#proportionality) · [O](../core_03.035_band_accountability.md#proportionality) · [M](../core_03.035_band_accountability.md#proportionality-a) · [A](../core_03.035_band_accountability.md#proportionality-a) · [C](../core_03.035_band_accountability.md#proportionality-c)
-- [Accountability](../core_03.005_apex_accountability_leg.md#accountability) · [O](../core_03.005_apex_accountability_leg.md#accountability) · [M](../core_03.005_apex_accountability_leg.md#accountability-m) · [A](../core_03.005_apex_accountability_leg.md#accountability-a) · [C](../core_03.005_apex_accountability_leg.md#accountability-c)
-- [Auditability](../core_03.050_band_oversight.md#auditability) · [O](../core_03.050_band_oversight.md#auditability) · [M](../core_03.050_band_oversight.md#auditability-a) · [A](../core_03.050_band_oversight.md#auditability-a) · [C](../core_03.050_band_oversight.md#auditability-c)
-- [Transparency](../core_03.050_band_oversight.md#transparency) · [O](../core_03.050_band_oversight.md#transparency) · [M](../core_03.050_band_oversight.md#transparency-a) · [A](../core_03.050_band_oversight.md#transparency-a) · [C](../core_03.050_band_oversight.md#transparency-c)
-- [Dependency](../core_03.040_band_continuity.md#dependency) · [O](../core_03.040_band_continuity.md#dependency) · [M](../core_03.040_band_continuity.md#dependency-a) · [A](../core_03.040_band_continuity.md#dependency-a) · [C](../core_03.040_band_continuity.md#dependency-c)
-- [Material](../core_03.050_band_oversight.md#material) · [O](../core_03.050_band_oversight.md#material) · [M](../core_03.050_band_oversight.md#material-a) · [A](../core_03.050_band_oversight.md#material-a) · [C](../core_03.050_band_oversight.md#material-c)
-- [System](../core_03.040_band_continuity.md#system) · [O](../core_03.040_band_continuity.md#system) · [M](../core_03.040_band_continuity.md#system-definition-a) · [A](../core_03.040_band_continuity.md#system-definition-a) · [C](../core_03.040_band_continuity.md#system-definition-c)
-- [Oversight](../core_03.020_apex_oversight_leg.md#oversight-constitutional) · [O](../core_03.020_apex_oversight_leg.md#oversight-constitutional) · [M](../core_03.020_apex_oversight_leg.md#oversight-constitutional-m) · [A](../core_03.020_apex_oversight_leg.md#oversight-constitutional-a) · [C](../core_03.020_apex_oversight_leg.md#oversight-constitutional-c)
+- [Proportionality](../subcore_03.070_band_accountability.md#proportionality) · [O](../subcore_03.070_band_accountability.md#proportionality) · [M](../subcore_03.070_band_accountability.md#proportionality-a) · [A](../subcore_03.070_band_accountability.md#proportionality-a) · [C](../subcore_03.070_band_accountability.md#proportionality-c)
+- [Accountability](../subcore_03.040_apex_accountability_leg.md#accountability) · [O](../subcore_03.040_apex_accountability_leg.md#accountability) · [M](../subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](../subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](../subcore_03.040_apex_accountability_leg.md#accountability-c)
+- [Auditability](../subcore_03.085_band_oversight.md#auditability) · [O](../subcore_03.085_band_oversight.md#auditability) · [M](../subcore_03.085_band_oversight.md#auditability-a) · [A](../subcore_03.085_band_oversight.md#auditability-a) · [C](../subcore_03.085_band_oversight.md#auditability-c)
+- [Transparency](../subcore_03.085_band_oversight.md#transparency) · [O](../subcore_03.085_band_oversight.md#transparency) · [M](../subcore_03.085_band_oversight.md#transparency-a) · [A](../subcore_03.085_band_oversight.md#transparency-a) · [C](../subcore_03.085_band_oversight.md#transparency-c)
+- [Dependency](../subcore_03.075_band_continuity.md#dependency) · [O](../subcore_03.075_band_continuity.md#dependency) · [M](../subcore_03.075_band_continuity.md#dependency-a) · [A](../subcore_03.075_band_continuity.md#dependency-a) · [C](../subcore_03.075_band_continuity.md#dependency-c)
+- [Material](../subcore_03.085_band_oversight.md#material) · [O](../subcore_03.085_band_oversight.md#material) · [M](../subcore_03.085_band_oversight.md#material-a) · [A](../subcore_03.085_band_oversight.md#material-a) · [C](../subcore_03.085_band_oversight.md#material-c)
+- [System](../subcore_03.075_band_continuity.md#system) · [O](../subcore_03.075_band_continuity.md#system) · [M](../subcore_03.075_band_continuity.md#system-definition-a) · [A](../subcore_03.075_band_continuity.md#system-definition-a) · [C](../subcore_03.075_band_continuity.md#system-definition-c)
+- [Oversight](../subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](../subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](../subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](../subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](../subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
 
 </details>
 
@@ -64,7 +64,7 @@ This file is the joint-structure implementation home for **CJS-3.115 §3** (*Aud
 
 Use this file whenever someone needs to understand or run auditing across **CS**, **CI**, and **CF** — or whenever records, access pathways, or verification design depend on standalone or combined system, institution, forum, dependency, or implementation-layer behavior.
 
-**Oversight frame:** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../core_03.040_band_continuity.md#system-alignment-certification) (Chapter Eight) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XVII** (*Audit, Transparency, and Independent Verification*) floors into Chapter Eight or into any single CS / CI / CF file.
+**Oversight frame:** Under the Constitutional Tetrad **oversight** leg, oversight requires auditing. [System Alignment Certification](../subcore_03.075_band_continuity.md#system-alignment-certification) (Chapter Eight) is one especially large, high-stakes audit process among others. This file is the cross-implementation process home; it does not relocate **Article XVII** (*Audit, Transparency, and Independent Verification*) floors into Chapter Eight or into any single CS / CI / CF file.
 
 ## CJS-3.115 §3 Audit Process Home (oDef.3)
 
@@ -84,7 +84,7 @@ Auditing **is**:
 Auditing **is not**:
 
 - a rubber stamp, marketing packet, or forever pass
-- the same thing as [System Alignment Certification](../core_03.040_band_continuity.md#system-alignment-certification) alone — SAC is one large sibling mode
+- the same thing as [System Alignment Certification](../subcore_03.075_band_continuity.md#system-alignment-certification) alone — SAC is one large sibling mode
 - a single auditor, operator, or gatekeeper monopolizing review (**Article XVII-B** (*Distributed Oversight and Anti-Monopoly Review*))
 - a substitute for challenge and remedy under **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XIV-B** (*Right to Redress and Remedy*)
 - satisfied by saying "audit happened" when outputs are missing, unreachable, or typed more restrictively than justified
@@ -114,7 +114,7 @@ A working audit process follows this chain:
 
 1. **Preserve evidence:** Keep records sufficient to reconstruct material behavior, decisions, effects, and claims (see the [CJS-3.110 §3 Auditability and reconstructability terms (annex)](cjs_03.110_oversight_operations.md#cjs-3110-3-oversight-auditability-and-reconstructability-terms-annex); **Article XVII-A** (*Auditability and Observable Evidence*)).
 2. **Choose the access path:** Use the access level that fits the data and the question:
-   - **public baseline** where [Public Oversight Baseline Disclosure](../core_03.050_band_oversight.md#public-oversight-baseline-disclosure) or other public duties apply (**Type O** under **CS-4.305 (*Information types and handling*) and CS-4.310** (*Data Classifications*))
+   - **public baseline** where [Public Oversight Baseline Disclosure](../subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) or other public duties apply (**Type O** under **CS-4.305 (*Information types and handling*) and CS-4.310** (*Data Classifications*))
    - **qualified / structured audit access** to non-public source (**Type G** or other non-public typing) when raw public release is inappropriate
    - **forensic depth** when harm, dispute, or credible risk requires full reconstruction
    - Access-level mechanics live in **[CJS-3.110 §4](cjs_03.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: Transparency Levels and Audit-Access Terms*)**; typing lives in **CS-4.305 (*Information types and handling*) and CS-4.310** (*Data Classifications*).

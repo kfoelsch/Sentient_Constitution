@@ -25,7 +25,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Constitutional Constraint](../subcore_03.045_band_integrative.md#constitutional-constraint) · [O](../subcore_03.045_band_integrative.md#constitutional-constraint) · [M](../subcore_03.045_band_integrative.md#constitutional-constraint-a) · [A](../subcore_03.045_band_integrative.md#constitutional-constraint-a) · [C](../subcore_03.045_band_integrative.md#constitutional-constraint-c)
+- [Constitutional Constraint](../subcore_03.080_band_integrative.md#constitutional-constraint) · [O](../subcore_03.080_band_integrative.md#constitutional-constraint) · [M](../subcore_03.080_band_integrative.md#constitutional-constraint-a) · [A](../subcore_03.080_band_integrative.md#constitutional-constraint-a) · [C](../subcore_03.080_band_integrative.md#constitutional-constraint-c)
 
 </details>
 
@@ -103,7 +103,7 @@ Subsection-local shorthand applies only inside the subsection where it appears, 
 
 *In plain terms: Where several entries appear together as an **oDef** cluster, the head entry and the ones beneath it form a single compound definition. Reading one component alone will give the wrong answer.*
 
-<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint](../subcore_03.045_band_integrative.md#constitutional-constraint) · [O](../subcore_03.045_band_integrative.md#constitutional-constraint) · [M](../subcore_03.045_band_integrative.md#constitutional-constraint-a) · [A](../subcore_03.045_band_integrative.md#constitutional-constraint-a) · [C](../subcore_03.045_band_integrative.md#constitutional-constraint-c)
+<strong><span style="color: #2563eb;">Definition:</span></strong> [Constitutional Constraint](../subcore_03.080_band_integrative.md#constitutional-constraint) · [O](../subcore_03.080_band_integrative.md#constitutional-constraint) · [M](../subcore_03.080_band_integrative.md#constitutional-constraint-a) · [A](../subcore_03.080_band_integrative.md#constitutional-constraint-a) · [C](../subcore_03.080_band_integrative.md#constitutional-constraint-c)
 
 Some subsections are structured as an **oDef** operational cluster. For the identifier and definition-home rules, see [CJS-0.110 §1 Section Identifiers and Article References](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references).
 

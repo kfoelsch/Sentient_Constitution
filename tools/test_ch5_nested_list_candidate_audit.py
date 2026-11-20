@@ -181,7 +181,7 @@ class NestedListCandidateTests(unittest.TestCase):
                     "--root",
                     str(_TOOLS.parent),
                     "--file",
-                    "core_03.035_band_accountability.md",
+                    "subcore_03.070_band_accountability.md",
                     "--top",
                     "3",
                 ]

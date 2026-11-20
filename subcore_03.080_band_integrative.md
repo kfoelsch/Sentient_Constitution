@@ -1,12 +1,12 @@
-<a id="subcore-3-d-integrative-definitions"></a>
-# SUBCORE 3-D: INTEGRATIVE DEFINITIONS
+<a id="subcore-3-l-integrative-definitions"></a>
+# SUBCORE 3-L: INTEGRATIVE DEFINITIONS
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.045_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was the Integrative band file of Chapter Three. It contains **Subcore 3-D**: the full Independent, Semi-independent, and Dependent cluster definitions of the **Integrative** constitutional band. Chapter Three lists each term by name in its [alphabetical directory](core_03.000_definitions_home.md#definitions-a-z); there is no short form of any definition, and the full text here controls.
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was the Integrative band file in the core. It contains **Subcore 3-L**: the full Independent, Semi-independent, and Dependent cluster definitions of the **Integrative** constitutional band. Chapter Three lists each term by name in its [alphabetical directory](core_03.000_definitions_home.md#definitions-a-z); there is no short form of any definition, and the full text here controls.
 >
-> **Upstream:** [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification).
-> **Downstream:** [Chapter Four](core_04.000_rights_part_a.md) (reading order).
+> **Upstream:** [Subcore 3-K](subcore_03.075_band_continuity.md#subcore-3-k-continuity-definitions).
+> **Downstream:** [Subcore 3-M](subcore_03.085_band_oversight.md#subcore-3-m-oversight-definitions).
 
 </details>
 
@@ -23,14 +23,14 @@
 
 ---
 
-Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitions** — terms that must be satisfied across Tetrad legs at once and cannot sit cleanly under one leg alone. That includes:
+Subcore 3-L is the constitutional owner of the **Integrative cross-leg definitions** — terms that must be satisfied across Tetrad legs at once and cannot sit cleanly under one leg alone. That includes:
 - the corpus authority stack;
 - the constitutional contract layer;
 - foundational authorization terms;
 - collisions among constitutional values, rights, and duties, and the record of their resolution;
 - derived information, whatever its form or label; and
 - incentive alignment across reward paths, proxy integrity, and contingent settlement.
-**Materiality** / [Materiality](core_03.050_band_oversight.md#materiality) is Integrative (cross-cutting threshold gate). Leaf homes currently remain in the Oversight band file pending any later relocation. Canonical **governance-layer discipline** ([Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer) vs **Stakeholder System Participation**): [Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers).
+**Materiality** / [Materiality](subcore_03.085_band_oversight.md#materiality) is Integrative (cross-cutting threshold gate). Leaf homes currently remain in the Oversight band file pending any later relocation. Canonical **governance-layer discipline** ([Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer) vs **Stakeholder System Participation**): [Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers).
 | Cluster | Section |
 |---|---|
 | **Def.I1** | Corpus and Authority Stack |
@@ -47,12 +47,12 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Subcore 3-A §2 — Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#2-definition-components-and-joint-satisfaction) (S3-A §2); [Subcore 3-A §3 Definition Integrity Requirement](subcore_03.010_definition_structure.md#3-definition-integrity-requirement) (S3-A §3); [Subcore 3-B §3 — Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (S3-B §3).
-- Downstream: [Subcore 3-C §§2 and 5 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (S3-C §2); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000); [Non-Compliance Finding Profile](core_03.035_band_accountability.md#non-compliance-finding-profile).
+- Downstream: [Subcore 3-C §§2 and 5 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (S3-C §2); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000); [Non-Compliance Finding Profile](subcore_03.070_band_accountability.md#non-compliance-finding-profile).
 - Read with:
   - [Chapter Two §19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection) (2.050 §19.3) and
   - [§19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response) — **constitutional misalignment** is stewardship and incentive divergence; it is not a substitute label for **non-compliance**;
-  - [Residual Risk / Misalignment](core_03.040_band_continuity.md#residual-risk--misalignment) — bounded residual risk after mitigation;
-  - [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) — certification bridge in Chapter Eight, not the general non-compliance verdict.
+  - [Residual Risk / Misalignment](subcore_03.075_band_continuity.md#residual-risk--misalignment) — bounded residual risk after mitigation;
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) — certification bridge in Chapter Eight, not the general non-compliance verdict.
 
 </details>
 
@@ -69,12 +69,12 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
     Evasive behavior that narrows a definition's full meaning, assessment, or real-world requirements counts as non-compliance under [Subcore 3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance). The same discipline applies to constitutional obligations outside a single leaf definition where Subcores 3-A to 3-C govern interpretation, evidence, and traceability.
   - **Out of scope:**
     - **constitutional misalignment** at the stewardship and incentive layer (Chapter Two §19 (*Incentive Alignment and System Capture*));
-    - [Residual Risk / Misalignment](core_03.040_band_continuity.md#residual-risk--misalignment) as a bounded risk state after mitigation;
+    - [Residual Risk / Misalignment](subcore_03.075_band_continuity.md#residual-risk--misalignment) as a bounded risk state after mitigation;
     - system alignment certification status under Chapter Eight; and
     - Chapter Fifteen violation-axis slot labels (those classify verified violation findings and do not redefine whether a definition is met).
 <a id="non-compliance-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** Integrative Materiality — [Materiality](core_03.050_band_oversight.md#materiality) scales duty intensity under [material stake](core_00.000_preamble.md#material-stake); not a separate measurement category.
+  - **Primary measure:** Integrative Materiality — [Materiality](subcore_03.085_band_oversight.md#materiality) scales duty intensity under [material stake](core_00.000_preamble.md#material-stake); not a separate measurement category.
 
     **Primary assessment:** Judge by:
     - observable behavior;
@@ -101,13 +101,13 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
 
 - Downstream: Principles: [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers); [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7).
 - Owner floor: [Chapter Twenty-Six: Constitutional Contract, Legitimacy, Authorization, and Stewardship](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) (26.000); [Article X-B: Governance Participation and Voting Entitlement](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
-- Cluster component: [*Constitutional Contract Layer and Foundational Constitutional Choice*](subcore_03.045_band_integrative.md#constitutional-contract-layer)
+- Cluster component: [*Constitutional Contract Layer and Foundational Constitutional Choice*](subcore_03.080_band_integrative.md#constitutional-contract-layer)
 - Read with:
-  - [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice),
-  - [Documented Legitimacy Mechanism](subcore_03.045_band_integrative.md#documented-legitimacy-mechanism),
-  - [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice),
-  - [Stakeholder Status and Weight](core_03.055_band_participation.md#stakeholder-status-and-weight),
-  - [Governance](core_03.035_band_accountability.md#governance).
+  - [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice),
+  - [Documented Legitimacy Mechanism](subcore_03.080_band_integrative.md#documented-legitimacy-mechanism),
+  - [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice),
+  - [Stakeholder Status and Weight](subcore_03.090_band_participation.md#stakeholder-status-and-weight),
+  - [Governance](subcore_03.070_band_accountability.md#governance).
 - Layer: **Constitutional Contract Layer (CCL)** — who may govern, by what legitimacy mechanism, on what durable terms. Distinct from **Stakeholder System Participation (SSP)**.
 
 </details>
@@ -123,8 +123,8 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
     - under what scope and durable terms.
 
     It includes:
-    - [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice);
-    - [documented legitimacy mechanisms](subcore_03.045_band_integrative.md#documented-legitimacy-mechanism) under [Chapter Twenty-Six §3.1 Mechanism Families, Auditability, and Pluralism](core_26.000_governance.md#31-mechanism-families-auditability-and-pluralism);
+    - [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice);
+    - [documented legitimacy mechanisms](subcore_03.080_band_integrative.md#documented-legitimacy-mechanism) under [Chapter Twenty-Six §3.1 Mechanism Families, Auditability, and Pluralism](core_26.000_governance.md#31-mechanism-families-auditability-and-pluralism);
     - [adoption](core_28.000_amendment_ratification.md#12-ratification-and-adoption) and [reauthorization](core_26.000_governance.md#31-mechanism-families-auditability-and-pluralism) rules ([Chapter Twenty-Six §3.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails](core_26.000_governance.md#33-recall-class-pathways-and-mid-cycle-transfer-guardrails); [Chapter Thirty §5 Adoption Framing and Scope of Authority](core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority)); and
     - the [political-equality floor](core_26.000_governance.md#61-entitlement-and-eligibility) for constituting or durably restructuring governing authority — entitled sentients have equal voice at that layer ([Article X-B](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*)).
   - **Out of scope:**
@@ -132,24 +132,24 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
     - operational participation;
     - system use, branding, or market presence as such;
     - ordinary domain governance after structures and processes are already authorized; and
-    - ordinary [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight) — giving more say to those more affected — used to set founding or reauthorization votes ([Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers)).
+    - ordinary [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight) — giving more say to those more affected — used to set founding or reauthorization votes ([Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers)).
   - **Operative home:** [Chapter Twenty-Six](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) states the binding authorization, legitimacy, and stewardship rules for this layer.
   - **Rights Floor:** [Article X-B](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*) states the equal-participation entitlement those Chapter Twenty-Six rules must not narrow.
 <a id="constitutional-contract-layer-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether claimed governing power rests on a real Constitutional Contract — documented legitimacy, equal founding voice, and lasting terms that stay aligned with this Constitution — not size, popularity, or market reach alone.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether claimed governing power rests on a real Constitutional Contract — documented legitimacy, equal founding voice, and lasting terms that stay aligned with this Constitution — not size, popularity, or market reach alone.
 
     **Primary assessment:**
     - Ask whether the matter is a Constitutional Contract Layer question: authorizing who governs, by what legitimacy mechanism, and on what lasting terms. That function marks this layer — not how large, loud, or widely used the system is.
-    - Check constitutional alignment of that contract: the claimed authority must match a [documented legitimacy mechanism](subcore_03.045_band_integrative.md#documented-legitimacy-mechanism), the [political-equality floor](core_26.000_governance.md#61-entitlement-and-eligibility) where foundational choice applies, and the stewardship and Rights-Floor duties that keep governing power answerable under this Constitution ([Chapter Two §19.1 Alignment Requirement](core_02.050_governance_incentive_application.md#191-alignment-requirement)).
+    - Check constitutional alignment of that contract: the claimed authority must match a [documented legitimacy mechanism](subcore_03.080_band_integrative.md#documented-legitimacy-mechanism), the [political-equality floor](core_26.000_governance.md#61-entitlement-and-eligibility) where foundational choice applies, and the stewardship and Rights-Floor duties that keep governing power answerable under this Constitution ([Chapter Two §19.1 Alignment Requirement](core_02.050_governance_incentive_application.md#191-alignment-requirement)).
     - Apply [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers): keep founding authorization separate from ordinary stakeholder participation inside already-authorized systems.
     - Do not treat silence, merely using a system, market presence, or branding as the Constitutional Contract or as consent to be governed.
 <a id="constitutional-contract-layer-c"></a>
 - **What must hold**
   - **Primary failure:**
     - treating stakeholder consultation, operational participation, system use, branding, market presence, or impact-weighted stakeholder process as a substitute for documented constitutional authorization;
-    - using impact-weighted stakeholder voting to constitute or durably restructure governing authority where [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice) requires the political-equality floor; or
-    - treating constitutional authorization as eliminating stakeholder participation, representation, [Contestability](core_03.035_band_accountability.md#contestability), or [Due Process](core_03.035_band_accountability.md#due-process) duties within already-authorized systems or bounded decision domains ([Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers)).
+    - using impact-weighted stakeholder voting to constitute or durably restructure governing authority where [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice) requires the political-equality floor; or
+    - treating constitutional authorization as eliminating stakeholder participation, representation, [Contestability](subcore_03.070_band_accountability.md#contestability), or [Due Process](subcore_03.070_band_accountability.md#due-process) duties within already-authorized systems or bounded decision domains ([Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers)).
 
 ---
 
@@ -162,12 +162,12 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
 
 - Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7); [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 - Owner floor: [Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility) (26.000 §6.1) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article X-B: Governance Participation and Voting Entitlement](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
-- Cluster component: [*Constitutional Contract Layer and Foundational Constitutional Choice*](subcore_03.045_band_integrative.md#constitutional-contract-layer)
+- Cluster component: [*Constitutional Contract Layer and Foundational Constitutional Choice*](subcore_03.080_band_integrative.md#constitutional-contract-layer)
 - Read with:
-  - [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer),
-  - [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_03.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice),
-  - [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice),
-  - [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness).
+  - [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer),
+  - [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice),
+  - [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice),
+  - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness).
 - Layer: **Constitutional Contract Layer (CCL)**. Distinct from **Stakeholder System Participation (SSP)** inside already-authorized systems.
 
 </details>
@@ -182,33 +182,33 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
     - what governance mechanism applies; and
     - that authority's scope and durable terms.
 
-    This belongs to the [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer).
+    This belongs to the [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer).
     - Owner: [Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility).
     - Rights-layer pointer: [Article X-B](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*).
-    - Applies under [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+    - Applies under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
   - **Out of scope:**
-    - ordinary impact-weighted stakeholder decisions once a domain already has authorized governing structures and processes — sentients who are affected get a say scaled to how much they are affected through [Stakeholder](core_03.055_band_participation.md#stakeholder) identification and [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight) (including **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) constraints), not through equal-weight foundational tally rules; and
+    - ordinary impact-weighted stakeholder decisions once a domain already has authorized governing structures and processes — sentients who are affected get a say scaled to how much they are affected through [Stakeholder](subcore_03.090_band_participation.md#stakeholder) identification and [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight) (including **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) constraints), not through equal-weight foundational tally rules; and
     - routine operational or policy choices that do not authorize or durably restructure that authority.
 <a id="foundational-constitutional-choice-a"></a>
 <a id="foundational-collective-choice-constitutional-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether equal founding voice stays real in practice — not bought by wealth, skewed by market power, or replaced by impact-weighted stakeholder voting.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether equal founding voice stays real in practice — not bought by wealth, skewed by market power, or replaced by impact-weighted stakeholder voting.
 
     **Primary assessment:**
     - Treat a decision as foundational when it is about who may govern, by what mechanism, or on what lasting terms — not because one vote or one policy choice has a large short-term effect.
     - Read [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers).
-    - Foundational questions are not re-routable as high-impact weighted choices under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_03.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
-    - Apply [Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion).
+    - Foundational questions are not re-routable as high-impact weighted choices under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice).
+    - Apply [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
     - Do not give more or less founding voice based on substrate class (biological, synthetic, or digital kind), calendar age, or lineage (ancestry, species, or derivation).
-    - Apply [Procedural Fairness](core_03.055_band_participation.md#procedural-fairness) to any disqualification invoked against participation.
+    - Apply [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) to any disqualification invoked against participation.
 <a id="foundational-constitutional-choice-c"></a>
 <a id="foundational-collective-choice-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** re-routing foundational questions as high-impact weighted choices under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_03.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) rules so as to defeat equal participation at the authorization layer.
+  - **Primary failure:** re-routing foundational questions as high-impact weighted choices under [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) rules so as to defeat equal participation at the authorization layer.
   - **Secondary failure:** nesting impact-weighting inside legitimacy-mechanism design so the mechanism escapes the political-equality floor.
   - **Tertiary failure:**
     - use of loss-of-standing as a durable-political-voice disqualification vector that fails the Chapter Twenty-Six §6.1 *Entitlement and eligibility* — *Durable political-voice floor* tests, except for final Chapter Twenty anti-constitutional misconduct withholding pending full restitution; or
-    - substrate-class, calendar-age, or lineage participation-weight factors ([Sentience Non-Exclusion](core_03.055_band_participation.md#sentience-non-exclusion)).
+    - substrate-class, calendar-age, or lineage participation-weight factors ([Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion)).
 
 ---
 
@@ -226,10 +226,10 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
   - [Article XII-A: Stakeholder System Participation and Representation](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation);
   - [Article X-B: Governance Participation and Voting Entitlement](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Read with:
-  - [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer),
-  - [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice),
-  - [Governance](core_03.035_band_accountability.md#governance),
-  - [Contestability](core_03.035_band_accountability.md#contestability).
+  - [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer),
+  - [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice),
+  - [Governance](subcore_03.070_band_accountability.md#governance),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability).
 - Layer: **Constitutional Contract Layer (CCL)**. Distinct from **Stakeholder System Participation (SSP)** inside already-authorized systems.
 
 </details>
@@ -248,24 +248,24 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
   - **Out of scope:**
     - silence, usage alone, market presence, or **marketing alignment** treated as authorization;
     - unwritten custom or an unpublished rule; and
-    - ordinary stakeholder decisions inside already-authorized systems, which follow [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight) under **Article X-C** (*Stakeholder Role and Participation Rights*) and **Article XII** (*Stakeholder System Participation, Representation, and Due Process*).
+    - ordinary stakeholder decisions inside already-authorized systems, which follow [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight) under **Article X-C** (*Stakeholder Role and Participation Rights*) and **Article XII** (*Stakeholder System Participation, Representation, and Due Process*).
 <a id="documented-legitimacy-mechanism-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether a claim to govern traces back to a published, auditable rule that the governed can check and challenge — not to size, popularity, or control.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether a claim to govern traces back to a published, auditable rule that the governed can check and challenge — not to size, popularity, or control.
 
     **Primary assessment:**
     - Check that a mechanism exists, was deliberately chosen, and is published where those affected can find it.
     - Check that it belongs to a recognized family in [Chapter Twenty-Six §3.1 Mechanism Families, Auditability, and Pluralism](core_26.000_governance.md#31-mechanism-families-auditability-and-pluralism), or is a hybrid that passes the **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gates.
-    - Check auditability: records show scope, renewal or reauthorization cadence, and material limits on delegated power, in proportion to system classification and [Material Impact](core_03.050_band_oversight.md#material-impact).
-    - Check that there are [contestable](core_03.035_band_accountability.md#contestability) challenge routes when authorization is disputed, drifts, or is captured and, where feasible, a path to peaceful succession or reauthorization.
-    - Where the mechanism decides [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice), check that it gives each entitled sentient an equal vote under the political-equality floor ([Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)).
+    - Check auditability: records show scope, renewal or reauthorization cadence, and material limits on delegated power, in proportion to system classification and [Material Impact](subcore_03.085_band_oversight.md#material-impact).
+    - Check that there are [contestable](subcore_03.070_band_accountability.md#contestability) challenge routes when authorization is disputed, drifts, or is captured and, where feasible, a path to peaceful succession or reauthorization.
+    - Where the mechanism decides [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice), check that it gives each entitled sentient an equal vote under the political-equality floor ([Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)).
     - Where it uses sortition, apply the sortition integrity floor in **Chapter Twenty-Six §3.1** (*Mechanism Families, Auditability, and Pluralism*).
 <a id="documented-legitimacy-mechanism-c"></a>
 - **What must hold**
   - **Primary failure:** claiming or exercising governing authority without a documented legitimacy mechanism, or treating silence, usage, market presence, or branding as one.
   - **Secondary failure:** a mechanism that cannot be audited or challenged — unpublished terms, no contest routes, or unreviewable continuity of power where reauthorization was feasible.
   - **Tertiary failure:**
-    - building impact-weighting into the mechanism so that it escapes the political-equality floor for [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice); or
+    - building impact-weighting into the mechanism so that it escapes the political-equality floor for [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice); or
     - using sortition, assemblies, or other participation formats as legitimacy theater while an interested authority controls the agenda, evidence, facilitation, or response.
 
 ---
@@ -278,12 +278,12 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity),
-  - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency), and
-  - [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) — constitutional warrant for legitimate reward tracking under
+  - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity),
+  - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency), and
+  - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) — constitutional warrant for legitimate reward tracking under
   - [Chapter Two §19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (2.050 §19.1.3); where a claimant justifies exclusivity by capacity or efficiency gains, those claims must remain outcome-traceable under
   - [Chapter Two §19.1.5 Constitutional Outcome Claims Discipline](core_02.050_governance_incentive_application.md#1915-constitutional-outcome-claims-discipline) (2.050 §19.1.5).
-- For innovations with direct constitutional impact, public benefit may be assessed using [Lifespan Equivalent Unit (LEQU)](core_03.055_band_participation.md#lifespan-equivalent-unit-lequ) as one measure of contribution magnitude under Chapter Fifteen.
+- For innovations with direct constitutional impact, public benefit may be assessed using [Lifespan Equivalent Unit (LEQU)](subcore_03.090_band_participation.md#lifespan-equivalent-unit-lequ) as one measure of contribution magnitude under Chapter Fifteen.
 
 </details>
 
@@ -293,7 +293,7 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
 
 - **What it is**
   - **In scope:** The constitutional rule for rewarding invention, research, building, and creation that is materially novel and socially useful — without letting that reward become durable enclosure.
-    - Constitutional warrant: under [Chapter Two §19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application), reward may legitimately track [Productive Capacity](core_03.040_band_continuity.md#productive-capacity) and [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency); [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) guards against rewarding busywork, warehousing, or enclosure friction that serves no constitutional purpose.
+    - Constitutional warrant: under [Chapter Two §19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application), reward may legitimately track [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity) and [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency); [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) guards against rewarding busywork, warehousing, or enclosure friction that serves no constitutional purpose.
     - Reward may recognize contribution, development burden, and disclosure.
     - It may include temporary exclusion only when that exclusion is:
       - narrow;
@@ -301,8 +301,8 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
       - reviewable; and
       - justified.
     - Attribution is not exclusion; credit and source history may persist after any exclusion ends.
-    - Applies where reward structures could affect [Wellbeing](core_03.040_band_continuity.md#wellbeing), [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), or [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency).
-  - **Depends on:** [Necessity](core_03.035_band_accountability.md#necessity), [Proportionality](core_03.035_band_accountability.md#proportionality), and [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in) — constitutive bounds. Any exclusion must be necessity- and proportionality-justified, and control over use must not harden into:
+    - Applies where reward structures could affect [Wellbeing](subcore_03.075_band_continuity.md#wellbeing), [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), or [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency).
+  - **Depends on:** [Necessity](subcore_03.070_band_accountability.md#necessity), [Proportionality](subcore_03.070_band_accountability.md#proportionality), and [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in) — constitutive bounds. Any exclusion must be necessity- and proportionality-justified, and control over use must not harden into:
     - permanent scarcity;
     - Systemic Lock-In; or
     - suppression of repair, interoperability, learning, safety work, truthful disclosure, or downstream experimentation.
@@ -315,18 +315,18 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
 <a id="innovation-reward-and-anti-enclosure-preference-for-non-monopoly-reward-tools-a"></a>
 <a id="innovation-reward-and-anti-enclosure-rebuttable-presumption-against-strong-exclusion-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether invention rewards stay real contribution rewards — not lasting lock-up of repair, reuse, research, or public-interest use.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether invention rewards stay real contribution rewards — not lasting lock-up of repair, reuse, research, or public-interest use.
 
     **Primary assessment:** Evaluate innovation-reward claims in this sequence:
     1. **Identify the actual contribution:** Assess development burden, disclosure sufficiency, and public benefit. Reward requires a real contribution and enough disclosure for independent understanding, audit, and later implementation — subject only to justified temporary limits.
     2. **Separate attribution from exclusion:** A claimant may keep credit, provenance, and recognition after any exclusion term ends. These interests do not by themselves justify control over repair, reuse, compatibility, research, education, migration, or public-interest implementation.
-    3. **Test necessity and proportionality:** Ask whether exclusivity is needed at all. Ask whether the same or greater public benefit could come through less-restrictive reward tools. Any exclusion must be narrow, time-bounded, and reviewable under [Necessity](core_03.035_band_accountability.md#necessity) and [Proportionality](core_03.035_band_accountability.md#proportionality).
+    3. **Test necessity and proportionality:** Ask whether exclusivity is needed at all. Ask whether the same or greater public benefit could come through less-restrictive reward tools. Any exclusion must be narrow, time-bounded, and reviewable under [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality).
     4. **Scale to context:** Adjust analysis for:
        - system class;
-       - [Dependency](core_03.040_band_continuity.md#dependency);
+       - [Dependency](subcore_03.075_band_continuity.md#dependency);
        - coordination power;
        - interoperability burden; and
-       - [Reversibility](core_03.040_band_continuity.md#reversibility).
+       - [Reversibility](subcore_03.075_band_continuity.md#reversibility).
 
        The stronger the dependency, leverage, or irreversibility, the stronger the presumption against exclusion.
     5. **Prefer non-monopoly mechanisms:** Use prize, levy, pooled-license, public-buyout, compulsory-access, or similar tools where exclusivity would predictably create lock-in, anti-competitive warehousing, or material harm to:
@@ -353,12 +353,12 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
     - research;
     - truthful scrutiny; or
     - public-interest implementation.
-  - **Secondary failure:** Continued exclusion of a [Dependency](core_03.040_band_continuity.md#dependency)-critical innovation without:
+  - **Secondary failure:** Continued exclusion of a [Dependency](subcore_03.075_band_continuity.md#dependency)-critical innovation without:
     - class-scaled tightening;
     - conversion to access-preserving reward; or
     - sunset under [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications).
   - **Tertiary failure:**
-    - exclusion that creates [Systemic Lock-In](core_03.040_band_continuity.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](core_03.035_band_accountability.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better; or
+    - exclusion that creates [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](subcore_03.070_band_accountability.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better; or
     - reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what Chapter Two and Chapter Four justify.
 
 
@@ -373,10 +373,10 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
 
 - Downstream: Principles: [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1); [Article XXVIII-B](core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
 - Read with:
-  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy),
-  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
-  - [Auditability](core_03.050_band_oversight.md#auditability), and
-  - [Contestability](core_03.035_band_accountability.md#contestability). Cluster-local **Anti-bypass** rules apply this definition inside their own cluster.
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy),
+  - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability), and
+  - [Contestability](subcore_03.070_band_accountability.md#contestability). Cluster-local **Anti-bypass** rules apply this definition inside their own cluster.
 
 </details>
 
@@ -409,14 +409,14 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
     - **What they may never bypass:** No framing may be used to bypass:
       - Rights-Floor minimums;
       - the rules for lawfully changing the Constitution;
-      - [Contestability](core_03.035_band_accountability.md#contestability);
-      - [Auditability](core_03.050_band_oversight.md#auditability);
-      - [Accountability](core_03.005_apex_accountability_leg.md#accountability); or
+      - [Contestability](subcore_03.070_band_accountability.md#contestability);
+      - [Auditability](subcore_03.085_band_oversight.md#auditability);
+      - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability); or
       - functional independence and separation of duties.
   - **Out of scope:** an ordinary choice of form, route, or timing that leaves every constitutional requirement for the act in force.
 <a id="no-bypass-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the same substantive act still carries every constitutional requirement after its label, route, owner, forum, document, or timing has changed.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the same substantive act still carries every constitutional requirement after its label, route, owner, forum, document, or timing has changed.
 
     **Primary assessment:** Compare the act as framed with the act as it substantively is. A requirement counts as bypassed if it would have applied under the plain framing and does not apply under the chosen one, with no change in what the act does.
 <a id="no-bypass-c"></a>
@@ -442,14 +442,14 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
   - [Chapter Two §14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override) (2.020 §14);
   - [Article XXVII-B](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
 - Read with:
-  - [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint),
-  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy),
-  - [No-Bypass](subcore_03.045_band_integrative.md#no-bypass),
-  - [Necessity](core_03.035_band_accountability.md#necessity),
-  - [Proportionality](core_03.035_band_accountability.md#proportionality),
-  - [Harm Minimization (Tradeoff Selection)](core_03.035_band_accountability.md#harm-minimization-tradeoff-selection),
-  - [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record), and
-  - [Adjudication and Dispute Resolution](core_03.035_band_accountability.md#adjudication-and-dispute-resolution).
+  - [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint),
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy),
+  - [No-Bypass](subcore_03.080_band_integrative.md#no-bypass),
+  - [Necessity](subcore_03.070_band_accountability.md#necessity),
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
+  - [Harm Minimization (Tradeoff Selection)](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection),
+  - [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record), and
+  - [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution).
 
 </details>
 
@@ -467,25 +467,25 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
     - each requirement materially applies on the facts;
     - the tension remains after each requirement is read in full; and
     - no feasible alternative honors both.
-  - **Depends on:** [Materiality](core_03.050_band_oversight.md#materiality) (whether a requirement materially applies) and [Feasibility](core_03.035_band_accountability.md#feasibility) (whether an alternative honoring both is available).
+  - **Depends on:** [Materiality](subcore_03.085_band_oversight.md#materiality) (whether a requirement materially applies) and [Feasibility](subcore_03.070_band_accountability.md#feasibility) (whether an alternative honoring both is available).
   - **Out of scope:**
-    - conflict between source texts or layers, which routes to [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy);
-    - a dispute between parties over facts, standing, or merits, which routes to [Adjudication and Dispute Resolution](core_03.035_band_accountability.md#adjudication-and-dispute-resolution); and
+    - conflict between source texts or layers, which routes to [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
+    - a dispute between parties over facts, standing, or merits, which routes to [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution); and
     - ordinary preference or inconvenience in which no constitutional requirement is limited.
 <a id="constitutional-collision-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether a collision was identified, recorded, and resolved with answerable reasons.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether a collision was identified, recorded, and resolved with answerable reasons.
 
     **Primary assessment:** Check three things:
     - that both requirements actually apply and no alternative honors both;
-    - that the resolution kept **Safety** and **Truth** first, preserved each leg of the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) at the level [material stake](core_00.000_preamble.md#material-stake) requires, and limited the yielding requirement no more than [Necessity](core_03.035_band_accountability.md#necessity) and [Proportionality](core_03.035_band_accountability.md#proportionality) allow; and
-    - that the same act, relabeled or rerouted, would be resolved the same way ([No-Bypass](subcore_03.045_band_integrative.md#no-bypass)).
+    - that the resolution kept **Safety** and **Truth** first, preserved each leg of the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) at the level [material stake](core_00.000_preamble.md#material-stake) requires, and limited the yielding requirement no more than [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality) allow; and
+    - that the same act, relabeled or rerouted, would be resolved the same way ([No-Bypass](subcore_03.080_band_integrative.md#no-bypass)).
 <a id="constitutional-collision-c"></a>
 - **What must hold**
   - **Primary failure:** Non-compliant when:
     - a collision is claimed to avoid a requirement that can in fact be honored alongside the other;
-    - a collision rests on barriers the operator built for its own benefit, as with infeasibility under [Feasibility](core_03.035_band_accountability.md#feasibility);
-    - a material collision is resolved outside the [Chapter Two §13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), or without the [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record) that process requires; or
+    - a collision rests on barriers the operator built for its own benefit, as with infeasibility under [Feasibility](subcore_03.070_band_accountability.md#feasibility);
+    - a material collision is resolved outside the [Chapter Two §13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), or without the [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record) that process requires; or
     - a collision is used to remove a requirement entirely, to hollow a Tetrad leg below what material stake requires, or to let one value override the rest.
 
     A collision label or record that does not change how the collision is actually decided is also non-compliant.
@@ -501,13 +501,13 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
 
 - Downstream: Principles: [Chapter Two §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (2.020 §13.1.5) (*the minimum contents of the Constitutional Collision Record*); [Article XXVII-B](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
 - Read with:
-  - [Constitutional Collision](subcore_03.045_band_integrative.md#constitutional-collision),
-  - [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record),
-  - [Materially Binding Act](core_03.035_band_accountability.md#materially-binding-act),
-  - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_03.055_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice),
-  - [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation),
-  - [Auditability](core_03.050_band_oversight.md#auditability), and
-  - [Contestability](core_03.035_band_accountability.md#contestability).
+  - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision),
+  - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record),
+  - [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act),
+  - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice),
+  - [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability), and
+  - [Contestability](subcore_03.070_band_accountability.md#contestability).
 
 </details>
 
@@ -518,19 +518,19 @@ Subcore 3-D is the constitutional owner of the **Integrative cross-leg definitio
 The short form for **Constitutional Collision Record** in this Constitution is **Collision Record**.
 
 - **What it is**
-  - **In scope:** The attributable, versioned official account of how a material [Constitutional Collision](subcore_03.045_band_integrative.md#constitutional-collision) was resolved. It is carried by the [Act Record](core_03.035_band_accountability.md#materially-binding-act-record) of the [materially binding act](core_03.035_band_accountability.md#materially-binding-act) that resolves the collision, and it holds the reasoning elements that [Chapter Two §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) requires:
+  - **In scope:** The attributable, versioned official account of how a material [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) was resolved. It is carried by the [Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) of the [materially binding act](subcore_03.070_band_accountability.md#materially-binding-act) that resolves the collision, and it holds the reasoning elements that [Chapter Two §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) requires:
     - the operative rule and the facts that triggered it;
     - the alternatives considered, including non-action, with reasons for rejection;
     - the evidence and how uncertainty was handled;
     - the basis for selecting the chosen option; and
     - the review triggers.
 
-    A Collision Record may be embodied in an applicable process-specific official record, such as a Forum Case Record, a Standing Record, a System Certification Record, or a [Stakeholder Rights-Collision Record](core_03.055_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice). No duplicative standalone artifact is required where the required elements remain identifiable, linked, versioned, preserved, and accessible through the official record path. Confidentiality limits on a Collision Record follow [Chapter Two §13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints): maximum feasible partial disclosure, plus independent reviewer access.
-  - **Depends on:** [Constitutional Collision](subcore_03.045_band_integrative.md#constitutional-collision) (what is being resolved) and [Materially Binding Act Record](core_03.035_band_accountability.md#materially-binding-act-record) (the Constitutional Collision Record that carries it).
-  - **Out of scope:** A bare conclusion, a template filled without the required elements, or a rationale written after the fact that the official record does not support is not a Collision Record. A Collision Record does not itself decide the collision, and it does not become a [Standing Record](core_03.035_band_accountability.md#standing-record), merits determination, or forum record unless the applicable process independently makes it one.
+    A Collision Record may be embodied in an applicable process-specific official record, such as a Forum Case Record, a Standing Record, a System Certification Record, or a [Stakeholder Rights-Collision Record](subcore_03.090_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice). No duplicative standalone artifact is required where the required elements remain identifiable, linked, versioned, preserved, and accessible through the official record path. Confidentiality limits on a Collision Record follow [Chapter Two §13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints): maximum feasible partial disclosure, plus independent reviewer access.
+  - **Depends on:** [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) (what is being resolved) and [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) (the Constitutional Collision Record that carries it).
+  - **Out of scope:** A bare conclusion, a template filled without the required elements, or a rationale written after the fact that the official record does not support is not a Collision Record. A Collision Record does not itself decide the collision, and it does not become a [Standing Record](subcore_03.070_band_accountability.md#standing-record), merits determination, or forum record unless the applicable process independently makes it one.
 <a id="constitutional-collision-record-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](core_03.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether a collision resolution can be understood, contested, and independently reconstructed.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether a collision resolution can be understood, contested, and independently reconstructed.
 
     **Primary assessment:** For each material Constitutional Collision resolution, check:
     - that all five required elements are present, with non-action among the alternatives and review triggers set;
@@ -559,12 +559,12 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 
 - Downstream: Principles: [Chapter Two §15.1.2 Derived-Information Principle](core_02.030_constitutional_interpretation.md#1512-derived-information-principle) (2.030 §15.1.2); [Chapter Two §13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination) (2.020 §13.2.3).
 - Read with:
-  - [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational),
-  - [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary),
-  - [Identity Data Protection](core_03.040_band_continuity.md#identity-data-protection),
-  - [Surveillance Boundary](core_03.040_band_continuity.md#surveillance-boundary),
-  - [Protected Characteristic Proxying and Disparate Impact](core_03.055_band_participation.md#protected-characteristic-proxying-and-disparate-impact), and
-  - [No-Bypass](subcore_03.045_band_integrative.md#no-bypass).
+  - [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational),
+  - [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary),
+  - [Identity Data Protection](subcore_03.075_band_continuity.md#identity-data-protection),
+  - [Surveillance Boundary](subcore_03.075_band_continuity.md#surveillance-boundary),
+  - [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact), and
+  - [No-Bypass](subcore_03.080_band_integrative.md#no-bypass).
 
 </details>
 
@@ -579,13 +579,13 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - its **capability**, meaning that the holder, or a recipient with reasonably available means, could readily use it to do any of those things.
 
     Absence of intent does not take covered derived information out of scope.
-  - **Depends on:** [Privacy (Informational)](core_03.040_band_continuity.md#privacy-informational) and [Protected Internal-State Boundary](core_03.040_band_continuity.md#protected-internal-state-boundary) (the protections its output may engage).
+  - **Depends on:** [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational) and [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary) (the protections its output may engage).
   - **Out of scope:** ordinary operational aggregates, such as anonymous traffic or sales totals, that are not traced to specific sentients and cannot reasonably be used to re-identify or reconstruct anything protected.
 <a id="derived-information-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether information built from other information is handled at the level of what it reveals.
+  - **Primary measure:** [Participation measurement family](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether information built from other information is handled at the level of what it reveals.
 
-    **Primary assessment:** For each derivation that is material under [Materiality](core_03.050_band_oversight.md#materiality), check:
+    **Primary assessment:** For each derivation that is material under [Materiality](subcore_03.085_band_oversight.md#materiality), check:
     - what the output reveals, reconstructs, approximates, or enables, taken together with other information reasonably available to the holder and recipients;
     - whether it was handled at the protection level of that result and not of its inputs; and
     - for any de-identified, aggregate, or pooled release, whether re-identification or reconstruction is reasonably possible.
@@ -607,22 +607,22 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §15.3 Ambiguity Resolution](core_02.030_constitutional_interpretation.md#153-ambiguity-resolution) (2.030 §15.3); [Chapter Two §15.4.1 Integrated Reading](core_02.030_constitutional_interpretation.md#1541-integrated-reading) (2.030 §15.4.1); [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (2.030 §15.4.3).
-- Read with: [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy), [Proportionality](core_03.035_band_accountability.md#proportionality), and [Necessity](core_03.035_band_accountability.md#necessity).
+- Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy), [Proportionality](subcore_03.070_band_accountability.md#proportionality), and [Necessity](subcore_03.070_band_accountability.md#necessity).
 
 </details>
 
 <br>
 
-*In plain terms: abstract strictness means choosing the harshest, most demanding, or most restrictive reading of a text just because it is harsher, without showing that it protects anyone more. The Constitution rejects it. Choosing between readings is governed by [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect).*
+*In plain terms: abstract strictness means choosing the harshest, most demanding, or most restrictive reading of a text just because it is harsher, without showing that it protects anyone more. The Constitution rejects it. Choosing between readings is governed by [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect).*
 
 - **What it is**
   - **In scope:** Preferring a reading of this Constitution, or of incorporated text, because it is the most restrictive, demanding, or severe one available. It is abstract when the added strictness does not trace to greater protective effect for affected sentients under the integrated reading. Two cases count: picking the most restrictive reading of an ambiguous passage, and presenting severity as protective effect.
-  - **Out of scope:** A reading chosen because it has the [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect), including under the rules in [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer). A requirement written in strong terms, such as a Rights-Floor minimum, is not abstract strictness merely for being strong.
+  - **Out of scope:** A reading chosen because it has the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect), including under the rules in [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer). A requirement written in strong terms, such as a Rights-Floor minimum, is not abstract strictness merely for being strong.
 <a id="abstract-strictness-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether a party who prefers a more restrictive reading can show the protective effect that justifies it.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether a party who prefers a more restrictive reading can show the protective effect that justifies it.
 
-    **Primary assessment:** For each contested reading that is material under [Materiality](core_03.050_band_oversight.md#materiality), check:
+    **Primary assessment:** For each contested reading that is material under [Materiality](subcore_03.085_band_oversight.md#materiality), check:
     - what added protection the more restrictive reading gives, and to whom, under the integrated reading of this Constitution;
     - whether the reading was chosen over a coherent alternative only because it is more restrictive; and
     - whether the reading is justified by that protection or only by its severity.
@@ -643,7 +643,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §15.3 Ambiguity Resolution](core_02.030_constitutional_interpretation.md#153-ambiguity-resolution) (2.030 §15.3); [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (2.030 §15.4.3); [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4).
-- Read with: [Abstract Strictness](subcore_03.045_band_integrative.md#abstract-strictness), [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy), and [Chapter Twenty-Nine §5.2 Stricter External Protections](core_29.000_expansion_supremacy.md#52-stricter-external-protections) (29.000 §5.2).
+- Read with: [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness), [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy), and [Chapter Twenty-Nine §5.2 Stricter External Protections](core_29.000_expansion_supremacy.md#52-stricter-external-protections) (29.000 §5.2).
 
 </details>
 
@@ -656,12 +656,12 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - the ambiguity rule in [Chapter Two §15.3 Ambiguity Resolution](core_02.030_constitutional_interpretation.md#153-ambiguity-resolution);
     - the incorporation-layer rules in [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer), including the choice among incorporated texts, the clearly adopted baseline when custody records are unreliable, and the choice between adopted implementation files; and
     - every implementation-file rule that says which of two overlapping requirements, profiles, or classes governs.
-  - **Out of scope:** [Abstract Strictness](subcore_03.045_band_integrative.md#abstract-strictness), which is severity with no added protection. Also out of scope are the levels of review in [Heightened Scrutiny](core_03.050_band_oversight.md#heightened-scrutiny), and the relation between this Constitution and stricter external law, which [Chapter Twenty-Nine §5.2 Stricter External Protections](core_29.000_expansion_supremacy.md#52-stricter-external-protections) governs.
+  - **Out of scope:** [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness), which is severity with no added protection. Also out of scope are the levels of review in [Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny), and the relation between this Constitution and stricter external law, which [Chapter Twenty-Nine §5.2 Stricter External Protections](core_29.000_expansion_supremacy.md#52-stricter-external-protections) governs.
 <a id="fullest-protective-effect-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the party who chose between readings or rules can show that the choice protects sentients most.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the party who chose between readings or rules can show that the choice protects sentients most.
 
-    **Primary assessment:** Where two or more readings or rules apply to the same obligation or risk and the choice is material under [Materiality](core_03.050_band_oversight.md#materiality), check:
+    **Primary assessment:** Where two or more readings or rules apply to the same obligation or risk and the choice is material under [Materiality](subcore_03.085_band_oversight.md#materiality), check:
     - what each one preserves of the protective, safety, accountability, and traceability requirements, taken together;
     - that the one applied is the one that preserves the most; and
     - that the [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) non-contraction default still holds.
@@ -670,7 +670,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - **Primary failure:** Non-compliant when:
     - a party meets only the reading or rule that is easiest to satisfy when two apply to the same risk;
     - a reading or rule with less protective effect is chosen because it is easier, cheaper, or more familiar;
-    - severity is presented as protective effect, contrary to [Abstract Strictness](subcore_03.045_band_integrative.md#abstract-strictness); or
+    - severity is presented as protective effect, contrary to [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness); or
     - a protective-effect claim is made for a choice that does not change what actually protects sentients.
 
 ---
@@ -688,13 +688,13 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 - **Scope:** where joint invocation is met, the Accountability measurement family's joint home for whether rewards, targets, and governance signals stay aligned with constitutional outcomes — including proxy integrity and contingent-settlement discipline.
 
 **Topic group members.** This group comprises:
-- [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment) — the general rule for incentive structures and proxy integrity;
-- [Incentive Alignment — Baseline Constitutional Alignment](subcore_03.045_band_integrative.md#incentive-alignment--baseline-constitutional-alignment) — durable alignment with Safety, Truth, Trust, and Meaningful Agency over time;
-- [Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation](subcore_03.045_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation) — evaluation under gaming, scale, coordination, and deliberate misuse; and
-- [Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets](subcore_03.045_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets) — special application where contingent settlement is materially relevant.
-- [Misaligned Reward Correction](subcore_03.045_band_integrative.md#misaligned-reward-correction) — once misalignment is verified, material rewards from misaligned or corrupt reward pathways are not kept as silent credit;
-- [Misalignment Detection](subcore_03.045_band_integrative.md#misalignment-detection) — plural, structurally independent detection and review of material constitutional failure, so no single actor controls it;
-- [Open Systems, Data, and Auditing](subcore_03.045_band_integrative.md#open-systems-data-and-auditing) — keeping governance-relevant data, audit paths, and review tools open to affected sentients, within information-type limits;
+- [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment) — the general rule for incentive structures and proxy integrity;
+- [Incentive Alignment — Baseline Constitutional Alignment](subcore_03.080_band_integrative.md#incentive-alignment--baseline-constitutional-alignment) — durable alignment with Safety, Truth, Trust, and Meaningful Agency over time;
+- [Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation](subcore_03.080_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation) — evaluation under gaming, scale, coordination, and deliberate misuse; and
+- [Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets](subcore_03.080_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets) — special application where contingent settlement is materially relevant.
+- [Misaligned Reward Correction](subcore_03.080_band_integrative.md#misaligned-reward-correction) — once misalignment is verified, material rewards from misaligned or corrupt reward pathways are not kept as silent credit;
+- [Misalignment Detection](subcore_03.080_band_integrative.md#misalignment-detection) — plural, structurally independent detection and review of material constitutional failure, so no single actor controls it;
+- [Open Systems, Data, and Auditing](subcore_03.080_band_integrative.md#open-systems-data-and-auditing) — keeping governance-relevant data, audit paths, and review tools open to affected sentients, within information-type limits;
 
 *Measurements (family routing):* Measured under the Accountability measurement family. Find the concrete measures on the member definitions below.
 
@@ -721,8 +721,8 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_02.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways).
 - Misalignment detection: [Chapter Two §19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection) (2.050 §19.3).
 - Active correction and capture escalation: [Chapter Two §19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response) (2.050 §19.4).
-- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-semi-independent)
-- Read with: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_03.035_band_accountability.md#governance-architecture-decentralization-and-concentration) where dependency, concentration, governance-form incentives, or exit-quality analysis is materially implicated; [Chapter Three *Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage*](core_03.035_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage) (3.035) where contingent structures are materially implicated; System Capture, Proxy Divergence, Truth (Constitutional Constraint), Epistemic Integrity, and Meaningful Agency.
+- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.080_band_integrative.md#incentive-alignment-semi-independent)
+- Read with: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration) where dependency, concentration, governance-form incentives, or exit-quality analysis is materially implicated; [Chapter Three *Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage*](subcore_03.070_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage) (S3-J) where contingent structures are materially implicated; System Capture, Proxy Divergence, Truth (Constitutional Constraint), Epistemic Integrity, and Meaningful Agency.
 
 </details>
 
@@ -744,26 +744,26 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - [CI-4.215](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*) (institutional stewardship and incentive alignment requirements).
 <a id="incentive-alignment-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether payoffs, targets, and governance signals still push toward real constitutional outcomes — not toward proxy scores, loopholes, or capture. This is the measurement form of the [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions) (see [What Systems Reward](core_00.000_preamble.md#what-systems-reward)).
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether payoffs, targets, and governance signals still push toward real constitutional outcomes — not toward proxy scores, loopholes, or capture. This is the measurement form of the [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions) (see [What Systems Reward](core_00.000_preamble.md#what-systems-reward)).
 
     **Primary assessment:** Assess alignment across delayed and aggregated effects, not only immediate or local outputs — including effects on:
-    - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint);
-    - [Risk](core_03.040_band_continuity.md#risk);
-    - [Harm](core_03.035_band_accountability.md#harm); and
-    - [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency).
+    - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint);
+    - [Risk](subcore_03.075_band_continuity.md#risk);
+    - [Harm](subcore_03.070_band_accountability.md#harm); and
+    - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency).
 
     When a more specific child topic under this cluster is materially at stake, follow that child's assessment path.
-  - **Secondary measure:** [Wellbeing](core_03.040_band_continuity.md#wellbeing), [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity), and [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) — co-measures that can defeat alignment even when nominal targets appear satisfied.
+  - **Secondary measure:** [Wellbeing](subcore_03.075_band_continuity.md#wellbeing), [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity), and [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) — co-measures that can defeat alignment even when nominal targets appear satisfied.
 
-    **Secondary assessment:** When checking the primary measure, ask whether these co-measures still show misalignment even when the official scores look good. Include [System Capture](core_03.040_band_continuity.md#system-capture) (concentrated or obscured control structures that defeat challenge or oversight where materially implicated).
-  - **Tertiary measure:** [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) — where reward paths, metrics, or governance signals substitute for real constitutional outcomes.
+    **Secondary assessment:** When checking the primary measure, ask whether these co-measures still show misalignment even when the official scores look good. Include [System Capture](subcore_03.075_band_continuity.md#system-capture) (concentrated or obscured control structures that defeat challenge or oversight where materially implicated).
+  - **Tertiary measure:** [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — where reward paths, metrics, or governance signals substitute for real constitutional outcomes.
 
-    **Tertiary assessment:** Incorporate [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence). Count as Incentive Alignment inputs any reward paths, targets, or governance signals that exploit gaps between:
+    **Tertiary assessment:** Incorporate [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence). Count as Incentive Alignment inputs any reward paths, targets, or governance signals that exploit gaps between:
     - proxies;
     - metrics; or
     - formal compliance indicators
 
-    and real outcomes material to [Wellbeing](core_03.040_band_continuity.md#wellbeing), [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), or [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity).
+    and real outcomes material to [Wellbeing](subcore_03.075_band_continuity.md#wellbeing), [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), or [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity).
 <a id="incentive-alignment-c"></a>
 - **What must hold**
   - **Primary failure:** sustained incentives that predictably undermine Chapter Two values without:
@@ -772,9 +772,9 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - feasible override.
   - **Secondary failure:**
     - failure to actively detect, disclose, and correct such misalignments (Chapter Two §19.3 (*Misalignment Detection*)–§19.4 (*Misalignment Correction and Capture Response*));
-    - [System Capture](core_03.040_band_continuity.md#system-capture) (concentrated or obscured control structures defeating challenge or oversight); or
+    - [System Capture](subcore_03.075_band_continuity.md#system-capture) (concentrated or obscured control structures defeating challenge or oversight); or
     - claiming constitutional Incentive Alignment while ignoring adopted implementation requirements that govern incentive integrity for the system under review.
-  - **Tertiary failure:** treating proxy or compliance-indicator satisfaction as dispositive where [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) is reasonably observable.
+  - **Tertiary failure:** treating proxy or compliance-indicator satisfaction as dispositive where [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) is reasonably observable.
 
 ---
 
@@ -785,8 +785,8 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-semi-independent)
-- Read with: [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment); [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) where scores or metrics can mask real outcomes.
+- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.080_band_integrative.md#incentive-alignment-semi-independent)
+- Read with: [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment); [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) where scores or metrics can mask real outcomes.
 
 </details>
 
@@ -796,11 +796,11 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 
 - **What it is**
   - **In scope:** Incentive structures acting on agents, operators, or constituent components — reward paths, targets, governance signals, and comparable structures that predictably shape behavior across delayed and aggregated effects.
-  - **Depends on:** [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), [Trust](core_03.040_band_continuity.md#trust), and [Meaningful Agency](core_03.055_band_participation.md#meaningful-agency) — constitutive alignment targets. Incentive structures must align with these bounds and with systemic stability conducive to justified [Trust](core_03.040_band_continuity.md#trust).
+  - **Depends on:** [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), [Trust](subcore_03.075_band_continuity.md#trust), and [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) — constitutive alignment targets. Incentive structures must align with these bounds and with systemic stability conducive to justified [Trust](subcore_03.075_band_continuity.md#trust).
   - **Out of scope:** Short-horizon local reward tuning that does not shape delayed or aggregated behavior against Safety, Truth, Trust, or Meaningful Agency bounds.
-  - **Read with:** [Proxy Divergence](core_03.050_band_oversight.md#proxy-divergence) where scores or metrics can mask real outcomes against those bounds — owned on the [Incentive Alignment](#incentive-alignment) tertiary layer.
+  - **Read with:** [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) where scores or metrics can mask real outcomes against those bounds — owned on the [Incentive Alignment](#incentive-alignment) tertiary layer.
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether incentives stay aligned with safety, truth, trust, and meaningful agency over time — not only when short-term scores look good.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether incentives stay aligned with safety, truth, trust, and meaningful agency over time — not only when short-term scores look good.
 
     **Primary assessment:** Apply the cluster-head primary assessment across delayed and aggregated effects under the **Depends on** bounds stated above.
 - **What must hold**
@@ -815,8 +815,8 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-semi-independent)
-- Read with: [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment); [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.080_band_integrative.md#incentive-alignment-semi-independent)
+- Read with: [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment); [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 
 </details>
 
@@ -825,16 +825,16 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 *In plain terms: check incentives under gaming, scale, coordination, and deliberate misuse — not only under polite lab conditions.*
 
 - **What it is**
-  - **In scope:** Incentive-alignment evaluation under [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions), including:
+  - **In scope:** Incentive-alignment evaluation under [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions), including:
     - gaming;
     - cross-instance coordination;
     - high-scale deployment — volume, concurrency, or reach at which behavior or effects can differ from small-scale or ideal-lab use; and
     - adaptive or intentional misuse.
   - **Out of scope:** Ideal-lab testing or one-off misuse anecdotes — those sit outside pressure, scale, coordination, or deliberate exploitation.
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether incentives still hold under gaming, scale, coordination, and deliberate misuse — not only under polite lab conditions.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether incentives still hold under gaming, scale, coordination, and deliberate misuse — not only under polite lab conditions.
 
-    **Primary assessment:** Include [Adversarial, Scaled, and Exploited Conditions](core_03.050_band_oversight.md#adversarial-scaled-and-exploited-conditions).
+    **Primary assessment:** Include [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions).
 - **What must hold**
   - **Primary failure:** claiming incentive alignment while omitting materially relevant adversarial, scaled, or exploited conditions from the evaluation — including using any of the following as a stand-in for pressure, scale, coordination, or deliberate exploitation:
     - ideal-lab testing; or
@@ -850,8 +850,8 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §19.5 Contingent claims, games of chance, and event-contract markets](core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets) (2.050 §19.5).
-- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-semi-independent)
-- Read with: [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment); [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](core_03.035_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage).
+- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.080_band_integrative.md#incentive-alignment-semi-independent)
+- Read with: [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment); [Contingent Claim, Event-Contract Market, Game of Chance, and Insider Advantage](subcore_03.070_band_accountability.md#contingent-claim-event-contract-market-game-of-chance-and-insider-advantage).
 
 </details>
 
@@ -860,12 +860,12 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 *In plain terms: bets, prediction markets, and chance-based payouts must not reward unlawful harm, insider power, or twisting of public or fiduciary decisions.*
 
 - **What it is**
-  - **When it applies:** [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment) applies wherever value is staked or paid on uncertain future outcomes. In scope are systems — whatever their technical form — that:
+  - **When it applies:** [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment) applies wherever value is staked or paid on uncertain future outcomes. In scope are systems — whatever their technical form — that:
     - match counterparties;
     - pool stakes;
     - settle contingent payments; or
     - concentrate financial upside on those outcomes.
-  - **In scope:** [Contingent Claim](core_03.035_band_accountability.md#contingent-claim) structures, including [Game of Chance](core_03.035_band_accountability.md#game-of-chance) and [Event-Contract Market](core_03.035_band_accountability.md#event-contract-market) forms, where materially relevant; with [Insider Advantage](core_03.035_band_accountability.md#insider-advantage) as the integrity overlay.
+  - **In scope:** [Contingent Claim](subcore_03.070_band_accountability.md#contingent-claim) structures, including [Game of Chance](subcore_03.070_band_accountability.md#game-of-chance) and [Event-Contract Market](subcore_03.070_band_accountability.md#event-contract-market) forms, where materially relevant; with [Insider Advantage](subcore_03.070_band_accountability.md#insider-advantage) as the integrity overlay.
   - **Continuity:** consistent with the **Continuity** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) where resolution integrity and systemic stability are materially at stake.
   - **Relation to general rules:** a special application of the general alignment and correction rules in [§19.1 Alignment Requirement](core_02.050_governance_incentive_application.md#191-alignment-requirement) through [§19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response); it does not replace them.
   - **Out of scope:**
@@ -874,23 +874,23 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     those sit outside this home's contingent-settlement discipline; prices and odds are not, by themselves, truth or compliance determinations.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether bets, prediction markets, and chance-based payouts avoid rewarding unlawful harm, insider power, or twisting of public or fiduciary decisions.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether bets, prediction markets, and chance-based payouts avoid rewarding unlawful harm, insider power, or twisting of public or fiduciary decisions.
 
     **Primary assessment:** Such systems must satisfy [Chapter Two §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets), including:
-    - apply [Necessity](core_03.035_band_accountability.md#necessity) and [Proportionality](core_03.035_band_accountability.md#proportionality) to the underlying events sentients may bet on or settle against;
+    - apply [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality) to the underlying events sentients may bet on or settle against;
     - keep outcome-resolution fair and independent — use more than one source where feasible, and keep dispute paths open to challenge;
     - limit how much concentration, leverage, and exposure any actor can take on, scaled to how vulnerable sentients and the wider system are;
     - check for misuse under coordination and high-scale conditions; and
     - treat prices and odds as market signals only — not, by themselves, as proof of truth or compliance; use the same evidence standards as other high-impact decisions.
-  - **Secondary measure:** [Risk](core_03.040_band_continuity.md#risk), [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways), and [Insider Advantage](core_03.035_band_accountability.md#insider-advantage) — integrity overlays that can defeat contingent-settlement alignment even when the [Chapter Two §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets) design controls look satisfied.
+  - **Secondary measure:** [Risk](subcore_03.075_band_continuity.md#risk), [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways), and [Insider Advantage](subcore_03.070_band_accountability.md#insider-advantage) — integrity overlays that can defeat contingent-settlement alignment even when the [Chapter Two §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets) design controls look satisfied.
 
     **Secondary assessment:** When checking the primary measure, ask whether these overlays still show misalignment:
-    - outcome-manipulation [Risk](core_03.040_band_continuity.md#risk);
-    - [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways); or
-    - [Insider Advantage](core_03.035_band_accountability.md#insider-advantage) or other privileged-information pathways.
+    - outcome-manipulation [Risk](subcore_03.075_band_continuity.md#risk);
+    - [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways); or
+    - [Insider Advantage](subcore_03.070_band_accountability.md#insider-advantage) or other privileged-information pathways.
 <a id="incentive-alignment-contingent-claims-games-of-chance-and-event-contract-markets-c"></a>
 - **What must hold**
-  - **Primary failure:** Settlement structures within [Contingent Claim](core_03.035_band_accountability.md#contingent-claim), [Game of Chance](core_03.035_band_accountability.md#game-of-chance), or [Event-Contract Market](core_03.035_band_accountability.md#event-contract-market) that predictably reward:
+  - **Primary failure:** Settlement structures within [Contingent Claim](subcore_03.070_band_accountability.md#contingent-claim), [Game of Chance](subcore_03.070_band_accountability.md#game-of-chance), or [Event-Contract Market](subcore_03.070_band_accountability.md#event-contract-market) that predictably reward:
     - unlawful harm;
     - corrupt advantage from non-public power; or
     - material distortion of fiduciary or public decisions
@@ -907,12 +907,12 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection) (2.050 §19.3).
-- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-semi-independent)
+- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.080_band_integrative.md#incentive-alignment-semi-independent)
 - Read with:
-  - [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment);
+  - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment);
   - [Chapter Two §18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties) (2.050 §18.3) (*the other half of the pair*);
-  - [Auditability](core_03.050_band_oversight.md#auditability);
-  - [Contestability](core_03.035_band_accountability.md#contestability).
+  - [Auditability](subcore_03.085_band_oversight.md#auditability);
+  - [Contestability](subcore_03.070_band_accountability.md#contestability).
 
 </details>
 
@@ -925,14 +925,14 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - **Who may not monopolize it:** no single actor, forum, institution, operator, auditor, information mediator, appointing authority, or stakeholder bloc.
     - **What they may not monopolize:** the practical ability to detect, review, correct, or interpret material constitutional failure.
     - **What must remain available:** plural and structurally independent oversight pathways where [material stake](core_00.000_preamble.md#material-stake) requires them.
-    - **Limits:** lawful security and confidentiality limits still apply; they must preserve maximum feasible [Auditability](core_03.050_band_oversight.md#auditability) and [Contestability](core_03.035_band_accountability.md#contestability).
+    - **Limits:** lawful security and confidentiality limits still apply; they must preserve maximum feasible [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability).
     - **Paired rule:** this is the many-eyes half of a pair with [Chapter Two §18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties): plurality keeps oversight from being cornered by one actor; separation of duties keeps it from being performed by the actor under review.
   - **Out of scope:**
-    - capture that has already taken hold — that is [System Capture](core_03.040_band_continuity.md#system-capture) and [Chapter Two §19.3.1 Capture Escalation Triggers](core_02.050_governance_incentive_application.md#1931-capture-escalation-triggers); and
+    - capture that has already taken hold — that is [System Capture](subcore_03.075_band_continuity.md#system-capture) and [Chapter Two §19.3.1 Capture Escalation Triggers](core_02.050_governance_incentive_application.md#1931-capture-escalation-triggers); and
     - correction once a failure is verified — that is [Chapter Two §19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response).
 <a id="misalignment-detection-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_03.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether more than one independent party can still detect and review material constitutional failure.
+  - **Primary measure:** [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether more than one independent party can still detect and review material constitutional failure.
 
     **Primary assessment:** Check, scaled to [material stake](core_00.000_preamble.md#material-stake), that detection and review paths are plural and structurally independent, and that no single actor or bloc controls them.
 <a id="misalignment-detection-c"></a>
@@ -940,7 +940,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - **Primary failure:**
     - any single actor, forum, institution, operator, auditor, information mediator, appointing authority, or stakeholder bloc monopolizing the practical ability to detect, review, correct, or interpret material constitutional failure; or
     - removing or failing to keep plural, structurally independent oversight pathways where [material stake](core_00.000_preamble.md#material-stake) requires them.
-  - **Secondary failure:** invoking security or confidentiality limits without preserving maximum feasible [Auditability](core_03.050_band_oversight.md#auditability) and [Contestability](core_03.035_band_accountability.md#contestability).
+  - **Secondary failure:** invoking security or confidentiality limits without preserving maximum feasible [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability).
 
 ---
 
@@ -952,11 +952,11 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection) (2.050 §19.3).
-- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-semi-independent)
+- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.080_band_integrative.md#incentive-alignment-semi-independent)
 - Read with:
-  - [Misalignment Detection](subcore_03.045_band_integrative.md#misalignment-detection);
+  - [Misalignment Detection](subcore_03.080_band_integrative.md#misalignment-detection);
   - [Chapter Two §16.3 Openness Aspiration](core_02.040_stewardship_capacity_principles.md#163-openness-aspiration) (2.040 §16.3);
-  - [Auditability](core_03.050_band_oversight.md#auditability);
+  - [Auditability](subcore_03.085_band_oversight.md#auditability);
   - [Chapter Two §13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) (2.020 §13.2).
 
 </details>
@@ -974,7 +974,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - **Out of scope:** disclosure that information-type rules forbid. Openness is a default that yields to those limits, not a way around them.
 <a id="open-systems-data-and-auditing-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_03.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether affected sentients can still reach the data, audit paths, and review tools needed to check governance.
+  - **Primary measure:** [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients see, verify, and rely on what systems represent?* Use it here to ask whether affected sentients can still reach the data, audit paths, and review tools needed to check governance.
 
     **Primary assessment:** Check, scaled to [material stake](core_00.000_preamble.md#material-stake) and within information-type limits, that governance-relevant data, audit paths, and review tools are available to materially affected sentients and are not controlled by a single operator, vendor, or oversight bloc.
 <a id="open-systems-data-and-auditing-c"></a>
@@ -991,8 +991,8 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response) (2.050 §19.4).
-- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-semi-independent)
-- Read with: [Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment); [Misalignment Detection](subcore_03.045_band_integrative.md#misalignment-detection); [Chapter Eighteen §4.4.2 Misaligned Rewards](core_18.000_violation_consequences.md#442-misaligned-rewards) (18.000 §4.4.2).
+- Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.080_band_integrative.md#incentive-alignment-semi-independent)
+- Read with: [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment); [Misalignment Detection](subcore_03.080_band_integrative.md#misalignment-detection); [Chapter Eighteen §4.4.2 Misaligned Rewards](core_18.000_violation_consequences.md#442-misaligned-rewards) (18.000 §4.4.2).
 
 </details>
 
@@ -1012,7 +1012,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - **Out of scope:** rating how good or bad the verified contribution or violation was. That rating is [Chapter Fifteen §3 Question 2 — How Good or Bad Was It?](core_15.000_standing_measurement.md#3-question-2--how-good-or-bad-was-it), using [Chapter Fifteen §4.2 Contribution Magnitude-Input and Violation Severity-Input Dimensions](core_15.000_standing_measurement.md#42-contribution-magnitude-input-and-violation-severity-input-dimensions).
 <a id="misaligned-reward-correction-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether verified misalignment actually costs the rewards it produced.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether verified misalignment actually costs the rewards it produced.
 
     **Primary assessment:** Once misalignment is verified, check that material rewards from the misaligned or corrupt reward pathway are routed to forfeiture, proportionate clawback, knowing-acceptance reporting, and correction under [Chapter Eighteen §4.4.2 Misaligned Rewards](core_18.000_violation_consequences.md#442-misaligned-rewards), and are not carried forward as standing credit or shielded benefit.
 <a id="misaligned-reward-correction-c"></a>
@@ -1031,14 +1031,14 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
+- Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: **Oversight**, **Accountability**, and **Participation** — authority stack spans all Tetrad legs.
 - Chapter Two basis: Chapter Two §15.1, §6, Chapter Two §13.2, §19.2, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
-  - [Auditability](core_03.050_band_oversight.md#auditability),
-  - [Contestability](core_03.035_band_accountability.md#contestability),
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
-  - [Materiality](core_03.050_band_oversight.md#materiality), and Chapter Twenty-Seven / Chapter Twenty-Eight mechanics where materially implicated.
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality), and Chapter Twenty-Seven / Chapter Twenty-Eight mechanics where materially implicated.
 
 </details>
 
@@ -1054,23 +1054,23 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 - incorporation scope; or
 - whether claimed obligations are enforceably grounded in the adopted corpus.
 
-If the matter is outside that list, [Corpus](subcore_03.045_band_integrative.md#corpus) and [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) may still be used on their own as supporting definitions. You do not have to pull in the whole cluster just because one of those terms appears.
+If the matter is outside that list, [Corpus](subcore_03.080_band_integrative.md#corpus) and [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) may still be used on their own as supporting definitions. You do not have to pull in the whole cluster just because one of those terms appears.
 
 Where admission scope is met, this cluster is the place those questions must be answered together. It covers:
 
 - **which texts count as the official Constitution** — the adopted, versioned corpus, not drafts, notes, or unofficial copies;
-- **how authority ranks inside that corpus** — which chapters and layers control when topics overlap, including owner non-relocation and supremacy effect under [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy);
+- **how authority ranks inside that corpus** — which chapters and layers control when topics overlap, including owner non-relocation and supremacy effect under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
 - **which source wins after a valid adoption** — binding obligations prevail within the scope that was actually adopted; and
-- **whether claimed duties can be checked and enforced in practice** — through [Auditability](core_03.050_band_oversight.md#auditability) and [Contestability](core_03.035_band_accountability.md#contestability), not claimed on paper alone.
+- **whether claimed duties can be checked and enforced in practice** — through [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability), not claimed on paper alone.
 
 When any of those questions is in play, read the cluster members together rather than treating one as enough on its own.
 
 **Cluster members.** This cluster comprises:
 
-- [Corpus](subcore_03.045_band_integrative.md#corpus); and
-- [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy).
+- [Corpus](subcore_03.080_band_integrative.md#corpus); and
+- [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy).
 
-[Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint) lives in this section as a supporting definition read with the cluster; it is not an additional joint-invocation member unless independently required. The positive owner register of which chapter owns which substantive domain lives in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) (sections 4–9). Owner non-relocation and supremacy effect are stated under [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy). Practical enforceability of binding claims routes under [Auditability](core_03.050_band_oversight.md#auditability) and [Contestability](core_03.035_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers) and [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer).
+[Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) lives in this section as a supporting definition read with the cluster; it is not an additional joint-invocation member unless independently required. The positive owner register of which chapter owns which substantive domain lives in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) (sections 4–9). Owner non-relocation and supremacy effect are stated under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy). Practical enforceability of binding claims routes under [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers) and [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer).
 
 **Anti-bypass.** Compartments: labeling, process-artifact, edition-display, and interpretive-gloss. Separating them is non-compliant where it:
 
@@ -1096,7 +1096,7 @@ See **Anti-Segmentation Principle**.
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody;
   - [15. Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation) (binding source identification).
 - Downstream: [Chapter Thirty — Incorporation bridge](core_30.000_incorporation.md#chapter-thirty-incorporation-bridge) (30.000) (*which adopted **implementation text** text is binding, edition pinning, custody chain, and anti-drift discipline*).
-- Read with: [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) and [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint).
+- Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) and [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint).
 - Read with: [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) (*positive domain→owner map*, sections 4–9).
 
 </details>
@@ -1118,22 +1118,22 @@ See **Anti-Segmentation Principle**.
       - **Amended the same way:** A subcore file changes only by amendment under [Chapter Twenty-Eight](core_28.000_amendment_ratification.md#chapter-twenty-eight-amendment-ratification-and-procedural-validity), including heightened review under its section 2 for a change that affects rights.
       - **Details, never narrows:** The chapter states each guarantee at least in one plain line; its subcore file gives the full rule and procedure. A subcore file may not narrow its chapter. Where a chapter and its subcore file seem to differ, the reading more protective of the affected sentient controls, and the difference is corrected by amendment.
 
-    Sources are versioned and custodied through valid adoption and edition controls under the [Corpus and Authority Stack cluster](subcore_03.045_band_integrative.md#defi1-corpus-and-authority-stack).
+    Sources are versioned and custodied through valid adoption and edition controls under the [Corpus and Authority Stack cluster](subcore_03.080_band_integrative.md#defi1-corpus-and-authority-stack).
   - **Out of scope:**
     - explanatory notes, process artifacts, drafts, or navigational guides not validly incorporated as binding text; and
     - unofficial or unversioned copies presented as the operative edition.
 <a id="corpus-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_03.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Do sentients have clarity about the boundaries of authorized constitutional texts?*
+  - **Primary measure:** [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Do sentients have clarity about the boundaries of authorized constitutional texts?*
 
-    **Primary assessment:** Ask whether the claimed binding text is the real, versioned Corpus — not an unofficial copy, draft, or process note treated as law. For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus and Authority Stack cluster](subcore_03.045_band_integrative.md#defi1-corpus-and-authority-stack). Then:
+    **Primary assessment:** Ask whether the claimed binding text is the real, versioned Corpus — not an unofficial copy, draft, or process note treated as law. For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus and Authority Stack cluster](subcore_03.080_band_integrative.md#defi1-corpus-and-authority-stack). Then:
     - distinguish incorporated binding text from explanatory or process artifacts; and
     - apply Chapter Twenty-Eight adoption conditions, Chapter Twenty-Nine supremacy, and Chapter Thirty incorporation and custody controls.
 <a id="corpus-c"></a>
 - **What must hold**
   - **Primary failure:**
     - representing divergent, uncontrolled, or misidentified text as the Corpus; or
-    - collapsing non-binding process artifacts into binding scope without valid incorporation contrary to the governing [Corpus and Authority Stack cluster](subcore_03.045_band_integrative.md#defi1-corpus-and-authority-stack).
+    - collapsing non-binding process artifacts into binding scope without valid incorporation contrary to the governing [Corpus and Authority Stack cluster](subcore_03.080_band_integrative.md#defi1-corpus-and-authority-stack).
 
 ---
 
@@ -1152,13 +1152,13 @@ See **Anti-Segmentation Principle**.
   - [Chapter Thirty](core_30.000_incorporation.md#chapter-thirty-incorporation-bridge) (30.000) (*incorporation bridge — custody, editions, adoption; not a second stack or conflict-order home*).
 - Downstream: [Chapter Four — Owner Non-Relocation](core_04.000_rights_part_a.md#22-owner-non-relocation) (4.000); [Chapter Twenty-Seven §6 Layer Scope](core_27.000_non_regression.md#6-layer-scope) (27.000 §6) and [Chapter Twenty-Eight §14 Layer Scope](core_28.000_amendment_ratification.md#14-owner-non-relocation) (28.000 §14) (*owner non-relocation applied locally*); chapter opening owner statements across the numbered `core_*` text.
 - Read with:
-  - [Corpus](subcore_03.045_band_integrative.md#corpus);
+  - [Corpus](subcore_03.080_band_integrative.md#corpus);
   - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) (*positive domain→owner map*, sections 4–9);
-  - [Auditability](core_03.050_band_oversight.md#auditability) and
-  - [Contestability](core_03.035_band_accountability.md#contestability) (*practical enforceability of binding claims*);
+  - [Auditability](subcore_03.085_band_oversight.md#auditability) and
+  - [Contestability](subcore_03.070_band_accountability.md#contestability) (*practical enforceability of binding claims*);
   - [Preamble §3.2](core_00.000_preamble.md#32-governance-layers) and
-  - [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer) (*governance-layer anti-substitution*);
-  - [Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint);
+  - [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer) (*governance-layer anti-substitution*);
+  - [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint);
   - **CJS-0.105 §1** (*Cross-File Routing*).
 
 </details>
@@ -1168,8 +1168,8 @@ See **Anti-Segmentation Principle**.
 *In plain terms: first decide which source layer is speaking and whether it binds; then identify which chapter owns the topic; only then, if a real conflict remains inside the binding Constitution, use the last-resort hierarchy to resolve it. Binding duties win within their valid scope. Other chapters may point to an owner — they must not quietly rewrite or relocate it.*
 
 - **What it is**
-  - **In scope:** The paired rule that first decides which kind of source is speaking, and whether it binds, across the operative [Corpus](subcore_03.045_band_integrative.md#corpus) — and only then, if a real conflict remains inside the binding Constitution, how to resolve it. Source layers include:
-    - **binding constitutional sources** — the [Preamble](core_00.000_preamble.md), [Chapter Two](core_02.000_values_principles.md), the other numbered chapters of this Constitution, and the [subcore](subcore_03.045_band_integrative.md#subcore) files each chapter lists, read together as one text;
+  - **In scope:** The paired rule that first decides which kind of source is speaking, and whether it binds, across the operative [Corpus](subcore_03.080_band_integrative.md#corpus) — and only then, if a real conflict remains inside the binding Constitution, how to resolve it. Source layers include:
+    - **binding constitutional sources** — the [Preamble](core_00.000_preamble.md), [Chapter Two](core_02.000_values_principles.md), the other numbered chapters of this Constitution, and the [subcore](subcore_03.080_band_integrative.md#subcore) files each chapter lists, read together as one text;
     - **binding incorporated implementation sources** — designated obligations in adopted implementation text, within valid adoption and incorporation scope under [Chapter Twenty-Eight](core_28.000_amendment_ratification.md#chapter-twenty-eight-amendment-ratification-and-procedural-validity) and [Chapter Thirty](core_30.000_incorporation.md#chapter-thirty-incorporation-bridge); and
     - **process and map support sources** — architecture maps, worklists, and regression or evidence records (including [doc_architecture.md](doc_architecture.md)), unless a valid adopting document expressly incorporates them as binding.
 
@@ -1204,9 +1204,9 @@ See **Anti-Segmentation Principle**.
     <a id="supremacy-and-enforceability"></a>
     <a id="supremacy-and-enforceability-a"></a>
     <a id="supremacy-and-enforceability-c"></a>
-    - **Supremacy:** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](subcore_03.045_band_integrative.md#corpus) and the applicable adoption or incorporation document — including [Chapter Twenty-Nine](core_29.000_expansion_supremacy.md#5-supremacy-relative-to-other-binding-norms) supremacy relative to other norms and [Chapter Twenty-Nine §7 Relation to Applicable External Law](core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law) non-displacement of applicable external law. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
+    - **Supremacy:** Binding corpus obligations prevail within their valid source, adoption, and governance-layer scope. That supremacy effect is the outcome of applying this entry together with the operative [Corpus](subcore_03.080_band_integrative.md#corpus) and the applicable adoption or incorporation document — including [Chapter Twenty-Nine](core_29.000_expansion_supremacy.md#5-supremacy-relative-to-other-binding-norms) supremacy relative to other norms and [Chapter Twenty-Nine §7 Relation to Applicable External Law](core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law) non-displacement of applicable external law. Implementation, support text, private ordering, emergency framing, or operational practice must not narrow those binding obligations within their valid scope.
 
-    Practical enforceability of binding claims — observable, contestable compliance rather than paper promises — is assessed under [Auditability](core_03.050_band_oversight.md#auditability) and [Contestability](core_03.035_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers) and [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer).
+    Practical enforceability of binding claims — observable, contestable compliance rather than paper promises — is assessed under [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers) and [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer).
 
     For adopters, [Internal Hierarchy for Adopters](core_29.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) in **Chapter Twenty-Nine** applies this same paired rule at the line between the binding Constitution and adopted implementation text:
     - this Constitution and its integrated definitions control how the text is read and what counts as compliance; and
@@ -1214,18 +1214,18 @@ See **Anti-Segmentation Principle**.
   - **Out of scope:** support-document gloss, maps, worklists, or adoption branding as such — those are not Authority Stack layers; optional guidance that is not offered as rearranging source precedence or displacing binding obligations.
 <a id="authority-stack-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Oversight measurement family](core_03.020_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients tell which source layer is speaking, whether it binds, which chapter owns the topic, whether binding duties prevail in scope, and how real conflicts inside the binding Constitution are resolved?* [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — supporting measure for owner-boundary and supremacy-effect claims.
+  - **Primary measure:** [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — *Can sentients tell which source layer is speaking, whether it binds, which chapter owns the topic, whether binding duties prevail in scope, and how real conflicts inside the binding Constitution are resolved?* [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — supporting measure for owner-boundary and supremacy-effect claims.
 
     **Primary assessment:**
     - First identify the operative edition/custody chain and source layer under the Authority Stack.
     - Then identify the owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) (and the chapter opening owner claim); apply substance only from that owner home — elsewhere use pointers only.
     - Then apply integrated reading under [Chapter Two — §15 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation).
-    - Preserve the Constitution's [Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect) and the [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) non-contraction default.
+    - Preserve the Constitution's [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) and the [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) non-contraction default.
     - Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning.
     - Where the dispute is term meaning, the Chapter Three canonical definition governs at every layer.
     - For implementation topics routed across CS, CI, CF, and CJS, apply **CJS-0.105 §1** (*Cross-File Routing*) (Topic router) after owner identification.
     - Confirm that binding obligations prevail within valid adoption and governance-layer scope, and that implementation, support, private, or emergency framing does not narrow them.
-    - For practical enforceability of those claims, apply [Auditability](core_03.050_band_oversight.md#auditability) and [Contestability](core_03.035_band_accountability.md#contestability); for Contract vs Stakeholder routing, apply [Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers).
+    - For practical enforceability of those claims, apply [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability); for Contract vs Stakeholder routing, apply [Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers).
     - Reject interpretations that:
       - invert source precedence;
       - obscure source status;
@@ -1235,7 +1235,7 @@ See **Anti-Segmentation Principle**.
 <a id="authority-stack-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
-    - treat maps, worklists, notes, or other support text as binding constitutional law without valid incorporation — or apply incorporated implementation text in a way that contradicts the constitutional [Corpus](subcore_03.045_band_integrative.md#corpus);
+    - treat maps, worklists, notes, or other support text as binding constitutional law without valid incorporation — or apply incorporated implementation text in a way that contradicts the constitutional [Corpus](subcore_03.080_band_integrative.md#corpus);
     - use editorial preference, support-document gloss, or adoption branding to rearrange source layers, invent shadow or dual owner homes, or resolve residual conflict outside the Authority Stack and Internal Hierarchy;
     - use aspirational language or local practice to displace binding corpus obligations within their valid source and governance-layer scope;
     - substantively restate one owner layer's obligations inside another owner layer, including elevation of reader-guidance prose to operative effect;
@@ -1258,10 +1258,10 @@ See **Anti-Segmentation Principle**.
 
 - Upstream: Principles: [Chapter Two §2.1 Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (2.000 §2.1); [Chapter Two §13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (2.020 §13).
 - Read with:
-  - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint),
-  - [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint),
-  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy), and
-  - [Harm](core_03.035_band_accountability.md#harm).
+  - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
+  - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy), and
+  - [Harm](subcore_03.070_band_accountability.md#harm).
 
 </details>
 
@@ -1276,14 +1276,14 @@ See **Anti-Segmentation Principle**.
 
     Constitutional Constraints are classified into the following **kinds**, ordered from highest controlling force to lowest. Higher kinds control lower kinds: a lower kind may not narrow, redefine, or displace a higher kind within its valid scope. This entry classifies and routes kinds; owner-layer obligations remain on their canonical homes.
 
-    1. **Non-negotiable principle constraints** — [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint) and [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint) as Chapter Two's non-negotiable boundaries.
+    1. **Non-negotiable principle constraints** — [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) and [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) as Chapter Two's non-negotiable boundaries.
     2. **Rights-Floor constraints** — Chapter Four minimums and non-contraction rules that prevent implementation, process, governance, emergency, Adoption Transition, or private-ordering frames from narrowing protected Rights Floors.
-    3. **Restriction and limitation constraints** — [Necessity](core_03.035_band_accountability.md#necessity), [Proportionality](core_03.035_band_accountability.md#proportionality), least-restrictive effective selection, time-boundedness, reviewability, and burden-minimization disciplines that govern rights-affecting restrictions.
-    4. **Epistemic and disclosure constraints** — [Truth (Constitutional Constraint)](core_03.050_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity), disclosure limits, publication limits, protected-data and internal-state limits, and security-sensitive disclosure balance.
-    5. **Evaluation constraints** — [Evaluation Completeness Constraint](core_03.050_band_oversight.md#evaluation-completeness-constraint), [Materiality Integrity Constraint](core_03.050_band_oversight.md#materiality-integrity-constraint), time-consistency, proxy-divergence invalidation, and Subcore 3-C burden, traceability, and verification requirements.
+    3. **Restriction and limitation constraints** — [Necessity](subcore_03.070_band_accountability.md#necessity), [Proportionality](subcore_03.070_band_accountability.md#proportionality), least-restrictive effective selection, time-boundedness, reviewability, and burden-minimization disciplines that govern rights-affecting restrictions.
+    4. **Epistemic and disclosure constraints** — [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity), disclosure limits, publication limits, protected-data and internal-state limits, and security-sensitive disclosure balance.
+    5. **Evaluation constraints** — [Evaluation Completeness Constraint](subcore_03.085_band_oversight.md#evaluation-completeness-constraint), [Materiality Integrity Constraint](subcore_03.085_band_oversight.md#materiality-integrity-constraint), time-consistency, proxy-divergence invalidation, and Subcore 3-C burden, traceability, and verification requirements.
     6. **Operational and implementation constraints** — capacity, feasibility, security, confidentiality, timing, technical, or resource limits recognized only within their valid adoption and source-layer scope, and only where they do not narrow higher kinds.
 
-  - **Depends on:** [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) — constitutive frame.
+  - **Depends on:** [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) — constitutive frame.
     - Constraint precedence and validity are determined under the Authority Stack, including:
       - no-bypass;
       - amendment validity;
@@ -1291,11 +1291,11 @@ See **Anti-Segmentation Principle**.
       - custody; and
       - source-status discipline.
     - Classified obligations remain owned by their canonical owner homes under the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
-    - Practical enforceability of binding constraint claims routes under [Auditability](core_03.050_band_oversight.md#auditability) and [Contestability](core_03.035_band_accountability.md#contestability).
+    - Practical enforceability of binding constraint claims routes under [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability).
   - **Out of scope:** Optional guidance, aspirational norms, or policy preferences that do not determine validity of a constitutional claim, system action, or governance act.
 <a id="constitutional-constraint-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — supporting measure.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — supporting measure.
 
     **Primary assessment:** Walk the kind-list in O, top to bottom. For the matter at hand:
     1. Identify every kind that materially applies — do not stop at the first match.
@@ -1319,7 +1319,7 @@ See **Anti-Segmentation Principle**.
       - remedy access;
     - treat a kind label as a substitute for the specific O/M/A/C entry, Rights-Floor article, or owner-layer rule that governs the decision;
     - apply one kind while segmenting away another materially applicable kind;
-    - materially degrade Safety, Truth, or another binding constitutional requirement through system behavior or outcomes, including [Harm](core_03.035_band_accountability.md#harm) effects that are:
+    - materially degrade Safety, Truth, or another binding constitutional requirement through system behavior or outcomes, including [Harm](subcore_03.070_band_accountability.md#harm) effects that are:
       - direct;
       - indirect;
       - delayed; or
@@ -1328,6 +1328,6 @@ See **Anti-Segmentation Principle**.
 
 ---
 
-**Previous file:** [subcore_03.030_burden_traceability_verification.md](subcore_03.030_burden_traceability_verification.md)
+**Previous file:** [subcore_03.075_band_continuity.md](subcore_03.075_band_continuity.md)
 
-**Next file:** [core_05.000_charters.md](core_05.000_charters.md)
+**Next file:** [subcore_03.085_band_oversight.md](subcore_03.085_band_oversight.md)

@@ -72,13 +72,13 @@ This page does **not**:
 | Input | What to count | What not to count |
 |---|---|---|
 | **Size *N*** | Sentients (human and AI) who can be assigned constitutional-lane, forum, remedy, or steward work for this scope | Marketing headcount, contractors with no lane duty, the parent company, “the internet” |
-| **Class *X*** | Highest applicable [CS-8.310 impact class](../../corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-8-system-impact-classifications) of systems the body can **bind**, recorded on a [System Classification Record](../../core_03.040_band_continuity.md#system-classification-record) | A hoped-for class; a private-use label on a system others already depend on; mixing impact class with [Dep-A–P](../../corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement) dependency type |
+| **Class *X*** | Highest applicable [CS-8.310 impact class](../../corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-8-system-impact-classifications) of systems the body can **bind**, recorded on a [System Classification Record](../../subcore_03.075_band_continuity.md#system-classification-record) | A hoped-for class; a private-use label on a system others already depend on; mixing impact class with [Dep-A–P](../../corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement) dependency type |
 
 **Class posture (one line each).** Binding titles live in CS-8.305 and CS-8.310 Part B. This table is a reader strip only.
 
 | Class | Title | One-line differential |
 |---|---|---|
-| **P** | Personal, private-use, isolated, experimental | Effects stay inside a private unit with no meaningful outside reliance, or the Operating Party is ordinary community activity below every line of [Domain-Specific Materiality](../../core_03.050_band_oversight.md#domain-specific-materiality) |
+| **P** | Personal, private-use, isolated, experimental | Effects stay inside a private unit with no meaningful outside reliance, or the Operating Party is ordinary community activity below every line of [Domain-Specific Materiality](../../subcore_03.085_band_oversight.md#domain-specific-materiality) |
 | **L** | Local, limited-impact, non-critical | Effects beyond a private unit but local, replaceable, and containable |
 | **C** | Coordinated, high-dependency, non-critical | Shapes coordination at scale; not an operational prerequisite for Class A/B function |
 | **B** | Critical, high-dependency, systemically significant | Dependents cannot keep core function without it; survival not immediately lost |
@@ -86,7 +86,7 @@ This page does **not**:
 
 Highest applicable class governs ([CS-8.305 Part A §2.2](../../corpus_systems/cs_08.305_system_classification_machinery.md#22-real-world-application)). A forty-person lab running a widely used model is not Class P because the crew is small.
 
-**Check before you pick P.** Answer the nine questions in [Domain-Specific Materiality](../../core_03.050_band_oversight.md#domain-specific-materiality) for everything the Operating Party does as an Operating Party: survival and essential access; safety; authority over others; livelihood and economic terms; custody; information and truth; dependence and exit; ecology; systemic and irreversible effects. One yes puts the Operating Party at Class L or higher, whatever *N* is, and it must publish a System Charter or Institutional Charter. Nine nos, each with a short written reason, leave it at Class P however many members it has: a quilting circle that gives quilts to refugees is the pattern. This page does not decide the question; the Chapter Three entry does.
+**Check before you pick P.** Answer the nine questions in [Domain-Specific Materiality](../../subcore_03.085_band_oversight.md#domain-specific-materiality) for everything the Operating Party does as an Operating Party: survival and essential access; safety; authority over others; livelihood and economic terms; custody; information and truth; dependence and exit; ecology; systemic and irreversible effects. One yes puts the Operating Party at Class L or higher, whatever *N* is, and it must publish a System Charter or Institutional Charter. Nine nos, each with a short written reason, leave it at Class P however many members it has: a quilting circle that gives quilts to refugees is the pattern. This page does not decide the question; the Chapter Three entry does.
 
 **Forum family minimum is Class C.** Every Chapter Twenty-Two family, forum, chamber, division, or designated panel takes at least the Class C coordination-dependency minimum ([CF-22.405 §8](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-8-chamber-authority-composition-and-service-mechanics) / [CI-8.210 §3](../../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-3-delegated-subunits-institutional-design-class-and-attachment-discipline)). Do not pick a lower class to dodge forum burden.
 
@@ -126,7 +126,7 @@ Two **institution tracks** live in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION
 
 | Track | Kit | What you are founding or naming | When it can go live |
 |---|---|---|---|
-| **Institution A** | Institution kit | Ordinary cooperative, research body, commons, or commercial form with a published [Chapter Three Institutional Charter](../../core_03.040_band_continuity.md#institutional-charter) | A body can bind the named scope and passes the institution-kit cliffs. A Chapter Twenty-Eight adoption document is **not** required |
+| **Institution A** | Institution kit | Ordinary cooperative, research body, commons, or commercial form with a published [Chapter Three Institutional Charter](../../subcore_03.075_band_continuity.md#institutional-charter) | A body can bind the named scope and passes the institution-kit cliffs. A Chapter Twenty-Eight adoption document is **not** required |
 | **Institution B** | Same kit, [§1.1](INSTITUTION_FOUNDATION_KIT.md#11-track-b-function-pointers-same-kit) | Oversight, contest-route admin, Standing-Record admin, amendment admin, certification steward | After a recorded §10.1–§10.2 adoption document |
 | **Forum A** | Forum kit | A published backup, external reviewer, or existing adjudicative body the cooperating crew does **not** solely staff | Named on an adoption document, or used as operations-guide backup. **Not** a Chapter Twenty-Two forum family |
 | **Forum B** | Same kit | The six Chapter Twenty-Two families as a published CF-22.405 structure | After a recorded adoption document. Drafting the map before an adoption document is scaffolding only |

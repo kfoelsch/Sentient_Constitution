@@ -57,7 +57,7 @@ See: [CI-4.230](../../../corpus_institutions/ci_04.230_end_of_life_continuity_me
 - **Today:** The “help” starts to decide money, housing, who you see, which clinician, whether you stay in the relationship you have. The “safe” placement is a durable break from the care relationship you actually have.
 - **With this Constitution:** A lasting split from someone you depend on — who you live with, who you see, who cares for you — cannot be the default “help.” It is allowed only if it is actually needed to prevent harm, no bigger than that harm, decided fairly, and open to challenge. A long split has to be looked at again. A short distance with a real way back, or a split you freely choose, is different.
 
-See: [Article VIII-A](../../../core_04.010_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_04.010_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../core_03.055_band_participation.md#non-separation).
+See: [Article VIII-A](../../../core_04.010_rights_part_b.md#article-viii-a-family-and-care-relationships); [Article VIII-E](../../../core_04.010_rights_part_b.md#article-viii-e-non-separation); [Non-Separation](../../../subcore_03.090_band_participation.md#non-separation).
 
 **Process still has to be usable.**
 - **Today:** Hearings and portals assume the energy and speed you used to have, then treat a missed form as consent.

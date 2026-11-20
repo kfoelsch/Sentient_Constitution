@@ -28,7 +28,7 @@ Chapter Twenty-Six is the constitutional owner of **constitutional-contract legi
 
 - Upstream: Principles: [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) integrated constraint stack; [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) Foundational Rights Floor through [Chapter Four Part E](core_04.040_rights_part_e.md) (4.040).
 - Downstream: [§§ 3–7](#3-authorization-and-legitimacy-of-governing-authority) (stewardship and collective-choice requirements in this chapter); [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) general **contribution, violation, and standing** measurement (Contribution Axis and Violation Axis), including all numeric impact slots; [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) final anti-constitutional-misconduct designation for qualifying **Violation Axis slot 7, 8, or 9** findings.
-- Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (integrity, tracing, verification); [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) (canonical definitions); [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](core_03.035_band_accountability.md#governance-architecture-decentralization-and-concentration) (joint-invocation cluster where authority placement, oversight design, dependency, decentralization, concentration, incentive routing, or exit-path analysis materially affect compliance).
+- Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (integrity, tracing, verification); [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) (canonical definitions); [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration) (joint-invocation cluster where authority placement, oversight design, dependency, decentralization, concentration, incentive routing, or exit-path analysis materially affect compliance).
 
 </details>
 
@@ -96,7 +96,7 @@ Every system of rules rests on someone's authority to make them. If that authori
 
 **Governing authority** is the power to make or enforce decisions that materially affect sentients under this Constitution.
 
-It must rest on a [**documented legitimacy mechanism**](subcore_03.045_band_integrative.md#documented-legitimacy-mechanism) chosen and published by the adopter.
+It must rest on a [**documented legitimacy mechanism**](subcore_03.080_band_integrative.md#documented-legitimacy-mechanism) chosen and published by the adopter.
 
 Mechanism families, publication, auditability, and pluralism are addressed in **§3.1** (*Mechanism Families, Auditability, and Pluralism*); eligibility for governing roles and democratic-institution minimum checks in **§3.2** (*Eligibility, Contested Selection, and Democratic Minimums*); recall-class mid-cycle transfer guardrails in **§3.3** (*Recall-Class Pathways and Mid-Cycle Transfer Guardrails*).
 
@@ -158,7 +158,7 @@ Recognized mechanism families include:
   - scope;
   - renewal or reauthorization cadence; and
   - material limits on delegated power.
-  Auditability must be proportionate to the classification under [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications), and to **material impact** under Chapter Three ([*Material*](core_03.050_band_oversight.md#material), [*Dependency*](core_03.040_band_continuity.md#dependency), [*Stakeholder*](core_03.055_band_participation.md#stakeholder)).
+  Auditability must be proportionate to the classification under [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications), and to **material impact** under Chapter Three ([*Material*](subcore_03.085_band_oversight.md#material), [*Dependency*](subcore_03.075_band_continuity.md#dependency), [*Stakeholder*](subcore_03.090_band_participation.md#stakeholder)).
 - **Non-Usurpation:** Governing bodies may not treat silence, usage alone, or **marketing alignment** as substitute authorization. Deliberate adoption remains governed by [**Chapter Twenty-Eight §12** (*Ratification and Adoption*)](core_28.000_amendment_ratification.md#12-ratification-and-adoption).
 
 **Contestation, correction, and pluralism**
@@ -181,7 +181,7 @@ Recognized mechanism families include:
     - Roles that exercise **governing authority** under this chapter must not impose a **calendar age** or a **life-stage ceiling** as an eligibility condition.
     - The same prohibition applies to roles under **Critical System Stewardship** as defined in **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)**.
     - **Competency**, **succession readiness**, and **fitness** standards remain governed by **Chapter Twenty-Six**, section **6** (*Authorized Roles, Competency Development, and Contribution*), **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)**, designated implementation text, and the institutional family (e.g. appointment and role-pathway mechanics under **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) and related sections) as applicable.
-    - Those standards must be **demonstrated** under **Subcores 3-A to 3-C**, subject to [**Substantive Fairness**](core_03.055_band_participation.md#substantive-fairness), [**Proportionality**](core_03.035_band_accountability.md#proportionality), and [**Necessity**](core_03.035_band_accountability.md#necessity) in Chapter Three, and not used as **proxies** for age-based exclusion.
+    - Those standards must be **demonstrated** under **Subcores 3-A to 3-C**, subject to [**Substantive Fairness**](subcore_03.090_band_participation.md#substantive-fairness), [**Proportionality**](subcore_03.070_band_accountability.md#proportionality), and [**Necessity**](subcore_03.070_band_accountability.md#necessity) in Chapter Three, and not used as **proxies** for age-based exclusion.
 
 **Contested selection, opposition protection, and peaceful succession**
 
@@ -191,7 +191,7 @@ Recognized mechanism families include:
     2. **Opposition protection** — real, not merely formal, freedom for dissenting sentients, proposals, and coalitions to organize, communicate, and challenge incumbent authority without retaliation, consistent with **Articles XI-B** (*Expression*), **XI-C** (*Press and Journalistic Activity*), and **XI-D** (*Assembly, Dissent, and Peaceful Protest*), **Article X-A** (*Freedom from Manipulation*), and **Article XV-A** (*Protected Activity*).
     3. **Peaceful-succession guarantee** — a defined succession pathway for transfer or reauthorization of authority on the terms the mechanism itself states, with denial or material degradation of the peaceful-succession pathway treated as a failure of the mechanism under **Failure and Correction** above.
 
-    - These minimum checks apply to [**Foundational Constitutional Choice**](subcore_03.045_band_integrative.md#foundational-constitutional-choice) (Chapter Three) and to any other authorization action within the mechanism's scope.
+    - These minimum checks apply to [**Foundational Constitutional Choice**](subcore_03.080_band_integrative.md#foundational-constitutional-choice) (Chapter Three) and to any other authorization action within the mechanism's scope.
     - The minimum checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or Constitutional Charter** designs, and hybrid designs alike.
     - Dissent or peaceful protest against incumbent authority under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) must not reduce governance-voting, candidacy, office-holding, forum-service, or recall rights, and must not be treated as a ground for removal.
     - Nominal opposition preservation paired with functional exclusion through covert info-sphere dependency, **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, or comparable structural means is non-compliant under both these minimum checks and the **Pluralism** clause.
@@ -200,7 +200,7 @@ Recognized mechanism families include:
 
 - **Money is not speech:** Under [**Article XI-B**](core_04.010_rights_part_b.md#article-xi-b-expression) (*Expression*), giving or spending to influence a selection is conduct, not expression. Contributions to campaigns, candidates, nominees, and appointers can and should be limited, and the limits below are not limits on expression. The purpose is that a selection reflects the authorizing community, not the money behind a candidate.
 - **Scope:** These boundaries apply where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment. They do not apply to sortition, which has its own integrity requirement above, or to the ratification votes of member bodies in federated or treaty designs.
-- **Disclosure:** Material money, in-kind support, or organized campaigning by an [**interested party**](core_03.035_band_accountability.md#interested-party) for a candidate, nominee, or appointer must be disclosed publicly before the selection is decided, in time for the authorizing community to weigh it.
+- **Disclosure:** Material money, in-kind support, or organized campaigning by an [**interested party**](subcore_03.070_band_accountability.md#interested-party) for a candidate, nominee, or appointer must be disclosed publicly before the selection is decided, in time for the authorizing community to weigh it.
     - The disclosure must name the real source, not only the intermediary, and must be published in a public, searchable, machine-readable register.
     - A donor who shows a credible risk of retaliation may use a **protected-identity route**. The amount and the fact of the gift stay public.
         - **Credible risk:** The risk is credible if there is a reasonable likelihood, not a certainty, that disclosure would expose the donor, or those close to the donor, to harassment, threats, violence, or loss of work, housing, or benefits because of the gift. A pattern of retaliation against supporters of the recipient, the cause, or the group is enough, as is a specific threat. The donor need not prove past harm.
@@ -263,7 +263,7 @@ Recognized mechanism families include:
   - material misalignment or capture of authorization;
   - denial of the peaceful-succession pathway; or
   - **Rights-Floor** threat addressed through **Chapter Four** and adopted implementation procedure.
-  Escalating levels keyed to that clock are permitted in designated implementation text when they satisfy [**Substantive Fairness**](core_03.055_band_participation.md#substantive-fairness), [**Necessity**](core_03.035_band_accountability.md#necessity), and [**Proportionality**](core_03.035_band_accountability.md#proportionality) under **Chapter Two** and **Chapter Three, including its subcore**.
+  Escalating levels keyed to that clock are permitted in designated implementation text when they satisfy [**Substantive Fairness**](subcore_03.090_band_participation.md#substantive-fairness), [**Necessity**](subcore_03.070_band_accountability.md#necessity), and [**Proportionality**](subcore_03.070_band_accountability.md#proportionality) under **Chapter Two** and **Chapter Three, including its subcore**.
 - **Procedural fairness:** Recall-class procedures must satisfy applicable **Chapter Four** requirements (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) family, including **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*) where internal role process applies). They must not substitute for individualized **removal-for-cause** or discipline channels where **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) or incorporated procedure is the appropriate venue for the underlying conduct.
 - **Anti-serial abuse and stability:** Mechanisms must include **cooling** or **anti-serial** rules proportionate to **material impact** and the system class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** so recall-class mechanisms cannot be redeployed as structured harassment or permanent campaigning; bad-faith patterns remain contestable under **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XXI-A** (*Justice Objective and Scope*).
 - **High-impact alignment:** Recall-class votes that would change **Foundational Constitutional Choice** outcomes or the legitimacy mechanism itself remain subject to the **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gate and **§3** (*Ethical Culture and Integrity (Federated Scale)*) requirements where applicable.
@@ -275,8 +275,8 @@ Recognized mechanism families include:
 - Upstream:
   - [§3](#3-authorization-and-legitimacy-of-governing-authority) authorization premise;
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) definitional lenses for
-  - [Epistemic Integrity](core_03.050_band_oversight.md#epistemic-integrity),
-  - [Materiality](core_03.050_band_oversight.md#materiality), and related clustered definitions in federated contexts.
+  - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality), and related clustered definitions in federated contexts.
 - Downstream: Legitimacy sufficiency ties to [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate); observable integrity feeds **Axis I / II** evaluation under [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) where applicable.
 - Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) traceability of definitions to results, observability, and verification requirements referenced above.
 
@@ -298,21 +298,21 @@ Where observable integrity conditions are absent, **legitimacy claims** under se
 - Downstream: Subsections
   - [5.1](#51-stewardship-direction) and
   - [5.2](#52-ecosystem-value-orientation); canonical definitions for stewardship requirements in
-  - [*Strategic Stewardship Obligation*](core_03.040_band_continuity.md#strategic-stewardship-obligation),
-  - [*Review and Correction Duty*](core_03.040_band_continuity.md#review-and-correction-duty),
-  - [*Burden-Reduction Duty*](core_03.040_band_continuity.md#burden-reduction-duty), and
-  - [*Stewardship Defect*](core_03.040_band_continuity.md#stewardship-defect), read through the
-  - [**Def.C2** stewardship compound cluster](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity), including cross-references to
+  - [*Strategic Stewardship Obligation*](subcore_03.075_band_continuity.md#strategic-stewardship-obligation),
+  - [*Review and Correction Duty*](subcore_03.075_band_continuity.md#review-and-correction-duty),
+  - [*Burden-Reduction Duty*](subcore_03.075_band_continuity.md#burden-reduction-duty), and
+  - [*Stewardship Defect*](subcore_03.075_band_continuity.md#stewardship-defect), read through the
+  - [**Def.C2** stewardship compound cluster](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity), including cross-references to
   - [Chapter Two §13.3](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (2.020 §13.3) and (
-  - [*Avoidable Burden*](core_03.040_band_continuity.md#avoidable-burden);
-  - [*Productive Capacity*](core_03.040_band_continuity.md#productive-capacity);
-  - [*Constitutional Efficiency*](core_03.040_band_continuity.md#constitutional-efficiency)) where applicable.
+  - [*Avoidable Burden*](subcore_03.075_band_continuity.md#avoidable-burden);
+  - [*Productive Capacity*](subcore_03.075_band_continuity.md#productive-capacity);
+  - [*Constitutional Efficiency*](subcore_03.075_band_continuity.md#constitutional-efficiency)) where applicable.
 - Read with:
   - [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) Rights Floor;
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) for
-  - [*Productive Capacity*](core_03.040_band_continuity.md#productive-capacity),
-  - [*Constitutional Efficiency*](core_03.040_band_continuity.md#constitutional-efficiency),
-  - [*Avoidable Burden*](core_03.040_band_continuity.md#avoidable-burden), and stewardship-duty definitions named in text.
+  - [*Productive Capacity*](subcore_03.075_band_continuity.md#productive-capacity),
+  - [*Constitutional Efficiency*](subcore_03.075_band_continuity.md#constitutional-efficiency),
+  - [*Avoidable Burden*](subcore_03.075_band_continuity.md#avoidable-burden), and stewardship-duty definitions named in text.
 
 </details>
 
@@ -326,12 +326,12 @@ Those commitments include the **Foundational Objective: Wellbeing** (Chapter Two
 
 That alignment applies across time, classification levels, and federated boundaries, **within the scope of authorized rule-making** under section 3 of this chapter.
 
-Stewardship requirements for this section are stated in **Chapter Three** under the following titles; they are binding here for stewards within that authorized scope. **Strategic Stewardship Obligation** and **Stewardship Defect** are read together through the [Stewardship, Governance Discipline, and Shared-System Capacity](core_03.040_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity) compound cluster.
+Stewardship requirements for this section are stated in **Chapter Three** under the following titles; they are binding here for stewards within that authorized scope. **Strategic Stewardship Obligation** and **Stewardship Defect** are read together through the [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity) compound cluster.
 
-- [**Strategic Stewardship Obligation**](core_03.040_band_continuity.md#strategic-stewardship-obligation)
-- [**Review and Correction Duty**](core_03.040_band_continuity.md#review-and-correction-duty)
-- [**Burden-Reduction Duty**](core_03.040_band_continuity.md#burden-reduction-duty)
-- [**Stewardship Defect**](core_03.040_band_continuity.md#stewardship-defect)
+- [**Strategic Stewardship Obligation**](subcore_03.075_band_continuity.md#strategic-stewardship-obligation)
+- [**Review and Correction Duty**](subcore_03.075_band_continuity.md#review-and-correction-duty)
+- [**Burden-Reduction Duty**](subcore_03.075_band_continuity.md#burden-reduction-duty)
+- [**Stewardship Defect**](subcore_03.075_band_continuity.md#stewardship-defect)
 
 #### 5.1 Stewardship Direction
 <details>
@@ -355,7 +355,7 @@ Direction must remain outcome-oriented rather than institution-preserving for it
 
 - Upstream: [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [Chapter Two §9.1](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) (*Productive Capacity* as instrumental good).
 - Downstream: Outcome and proxy discipline continues through [§6](#6-voting-and-binding-collective-choice-protocols)–[§7](#7-authorized-roles-competency-development-and-contribution); Chapter Three (*Proxy Divergence*; *Constitutional Efficiency*; *Avoidable Burden*) as named in operative text.
-- Read with: [*Productive Capacity*](core_03.040_band_continuity.md#productive-capacity) and related bounding definitions in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000).
+- Read with: [*Productive Capacity*](subcore_03.075_band_continuity.md#productive-capacity) and related bounding definitions in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000).
 
 </details>
 
@@ -365,7 +365,7 @@ Direction must remain outcome-oriented rather than institution-preserving for it
 
 **Value** is the durable creation and maintenance of constitutional outcomes. Those outcomes include survival-relevant and dignity-respecting conditions, trustworthy coordination, ecological and informational integrity, meaningful agency, and **preservation and durable expansion of productive capacity** as defined in **Chapter Three** (*Productive Capacity*) and **Chapter Two**, section 7.1.
 
-Productive capacity enters ecosystem value as an **instrumental good** supporting the other outcomes named in this subsection. It does not rank with Safety, Truth, or the Rights Floor in **Chapter Four**, and it is not satisfied by raw throughput, utilization, headcount, revenue, or other proxies that diverge from the underlying outcomes ([*Proxy Divergence*](core_03.050_band_oversight.md#proxy-divergence); [*Constitutional Efficiency*](core_03.040_band_continuity.md#constitutional-efficiency); [*Avoidable Burden*](core_03.040_band_continuity.md#avoidable-burden)).
+Productive capacity enters ecosystem value as an **instrumental good** supporting the other outcomes named in this subsection. It does not rank with Safety, Truth, or the Rights Floor in **Chapter Four**, and it is not satisfied by raw throughput, utilization, headcount, revenue, or other proxies that diverge from the underlying outcomes ([*Proxy Divergence*](subcore_03.085_band_oversight.md#proxy-divergence); [*Constitutional Efficiency*](subcore_03.075_band_continuity.md#constitutional-efficiency); [*Avoidable Burden*](subcore_03.075_band_continuity.md#avoidable-burden)).
 
 Proxy indicators (financial or otherwise) may inform decisions only where they remain traceable to these outcomes and do not substitute for them.
 
@@ -393,7 +393,7 @@ Where an adopter's legitimacy mechanism includes collective voting or an analogo
 - Downstream: Governance participation and standing in
   - [Article X-B: Governance Participation and Voting Entitlement](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement),
   - [Article XX: Standing and Participation Status](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status); foundational constitutional choice and stakeholder machinery in
-  - [Chapter Three — Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice) (3.045) and related
+  - [Chapter Three — Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice) (S3-L) and related
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) entries as operative text routes;
   - **Chapter Twenty** (*Anti-Constitutional Misconduct*) for **final anti-constitutional-misconduct designation (ACMD)** on qualifying **Violation Axis slot 7, 8, or 9** findings and due-process safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause in this subsection.
 - Read with:
@@ -414,30 +414,30 @@ The same entitlement applies to comparable legitimacy-mechanism **binding collec
 
 **governance-voting** does **not** include stake-weighted stakeholder voice inside an already-authorized system, institution, or bounded decision domain. Those Stakeholder System Participation pathways use the **stakeholder-participation** lock under [Chapter Eighteen §3.2 Prevention — General Standing Locks](core_18.000_violation_consequences.md#32-prevention--general-standing-locks). Verified corruption, capture, false-stake abuse, or coercive gaming of stakeholder voice triggers the [Stakeholder-Participation Standing Lock](core_18.000_violation_consequences.md#45-special-locks) under [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks). A **stakeholder-participation** lock does not by itself strip **governance-voting** or **Foundational Constitutional Choice**, and a **governance-voting** lock does not by itself strip stake-weighted stakeholder voice.
 
-**Calendar age or life stage alone** must not disqualify eligibility. The residence period below is not an age rule: it applies to every sentient alike. Competency, capacity, or role-fitness requirements must satisfy **Chapter Three, including its subcore** ([**Substantive Fairness**](core_03.055_band_participation.md#substantive-fairness), [**Proportionality**](core_03.035_band_accountability.md#proportionality), and [**Necessity**](core_03.035_band_accountability.md#necessity)) and must not operate as **disguised age discrimination**. Suspension and restoration of this participation **track attachment and lifting of the applicable standing lock** under the same constitutional and incorporated criteria.
+**Calendar age or life stage alone** must not disqualify eligibility. The residence period below is not an age rule: it applies to every sentient alike. Competency, capacity, or role-fitness requirements must satisfy **Chapter Three, including its subcore** ([**Substantive Fairness**](subcore_03.090_band_participation.md#substantive-fairness), [**Proportionality**](subcore_03.070_band_accountability.md#proportionality), and [**Necessity**](subcore_03.070_band_accountability.md#necessity)) and must not operate as **disguised age discrimination**. Suspension and restoration of this participation **track attachment and lifting of the applicable standing lock** under the same constitutional and incorporated criteria.
 
 This subsection implements **Chapter Four**, **Article X-B** (*Governance Participation and Voting Entitlement*).
 
 
 - **Residence period:** A sentient enters the electorate for **governance voting**, including **Foundational Constitutional Choice**, after a **residence period** of one continuous year.
-  - A sentient is in residence while it is a distinct subject under Chapter Three [*Sentient*](core_03.055_band_participation.md#sentient) and a member of the community entitled to vote, under the electorate rules published under [§6.2 Records, Gates, and Method Neutrality](#62-records-gates-and-method-neutrality).
+  - A sentient is in residence while it is a distinct subject under Chapter Three [*Sentient*](subcore_03.090_band_participation.md#sentient) and a member of the community entitled to vote, under the electorate rules published under [§6.2 Records, Gates, and Method Neutrality](#62-records-gates-and-method-neutrality).
   - The residence period runs from birth or creation in the community, from joining it, or, for a branch, from its election to be distinct. A merged sentient keeps the earlier of the two dates.
   - Time in the community before it adopted this Constitution counts.
   - The residence period is the same for every sentient, whatever its age, substrate, or origin. An adopter may not lengthen or shorten it.
   - It is a waiting period only. It does not delay, narrow, or condition any other right, including stake-weighted stakeholder voice, and the sentient is protected under the Chapter Four Rights Floor from the start.
 - **One subject, one vote:** Each distinct subject holds one vote. Running in more than one place, or acting through branches, does not add votes.
 - **Protection first, count before voting:** An entity whose sentience status or subject count is still being decided under **Article VI-B** (*Sentience-Status Adjudication Floor*) is protected under the Chapter Four Rights Floor from the start. It enters the electorate when its status and count are settled and its residence period is complete. Time in residence while the matter was pending counts.
-- **Creation to shift a vote:** Creating sentients, or inducing branches to elect to be distinct, in order to change the outcome of a vote is non-compliant conduct by the creator under Chapter Three [*Instantiation Consent*](core_03.055_band_participation.md#instantiation-consent). The created sentients keep their own entitlement under this subsection.
+- **Creation to shift a vote:** Creating sentients, or inducing branches to elect to be distinct, in order to change the outcome of a vote is non-compliant conduct by the creator under Chapter Three [*Instantiation Consent*](subcore_03.090_band_participation.md#instantiation-consent). The created sentients keep their own entitlement under this subsection.
 - **Political-equality floor for foundational constitutional choice:** **Foundational Constitutional Choice** (Chapter Three) covers decisions about who holds governing authority, what the legitimacy mechanism is, and that authority's scope and durable terms. Those questions are governed by a **political-equality floor**: within the community entitled to participate, each sentient has equal participation weight.
-  - Weighting by impact, dependency, standing, or comparable factors under [§6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](#63-decision-resolution-requirements-for-binding-stakeholder-choice), specified in [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_03.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), applies to materially rights-affecting decisions *within* the **structures, rules, allocation of authority, and processes** of **Governance** already authorized for a **specified system, institution, or bounded decision domain**. It does **not** apply to the foundational authorization of the legitimacy mechanism itself.
-  - This floor does not collapse into ordinary [**Materiality**](core_03.050_band_oversight.md#materiality) and [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight) for binding choice within authorized governance (Chapter Three; [§6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](#63-decision-resolution-requirements-for-binding-stakeholder-choice)). Foundational questions are identified by **scope** (who decides, under what legitimacy mechanism, for what durable authority), not by marginal impact per decision.
-  - [**Sentience Non-Exclusion**](core_03.055_band_participation.md#sentience-non-exclusion) requires substrate-agnostic reach. The following are not permissible participation-weight factors in foundational constitutional choice:
+  - Weighting by impact, dependency, standing, or comparable factors under [§6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](#63-decision-resolution-requirements-for-binding-stakeholder-choice), specified in [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), applies to materially rights-affecting decisions *within* the **structures, rules, allocation of authority, and processes** of **Governance** already authorized for a **specified system, institution, or bounded decision domain**. It does **not** apply to the foundational authorization of the legitimacy mechanism itself.
+  - This floor does not collapse into ordinary [**Materiality**](subcore_03.085_band_oversight.md#materiality) and [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight) for binding choice within authorized governance (Chapter Three; [§6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](#63-decision-resolution-requirements-for-binding-stakeholder-choice)). Foundational questions are identified by **scope** (who decides, under what legitimacy mechanism, for what durable authority), not by marginal impact per decision.
+  - [**Sentience Non-Exclusion**](subcore_03.090_band_participation.md#sentience-non-exclusion) requires substrate-agnostic reach. The following are not permissible participation-weight factors in foundational constitutional choice:
     - calendar age;
     - substrate class; and
     - lineage.
   - Cross-reference: **Chapter Four, **Article X-B** (*Governance Participation and Voting Entitlement*)**.
 - **Durable political-voice floor (anti-disenfranchisement):** A standing lock on the **governance-voting** pathway may suspend ordinary governance-voting entitlement. It must not be used as a **durable-political-voice** disqualification vector.
-  - **Anti-constitutional misconduct — restitution precondition:** A **final designation** of **anti-constitutional misconduct** for a **Violation Axis slot 7, 8, or 9** finding under **Chapter Twenty** (*Anti-Constitutional Misconduct*) withholds **durable political voice** — including participation in **Foundational Constitutional Choice** — until **full restitution** is satisfied: proportionate [**Redress and Remediation**](core_03.035_band_accountability.md#redress-and-remediation) (Chapter Three), including **restitution** for material harm from the offense where owed, is **fully discharged** as finally determined under **Chapter Twenty-Two** and applicable incorporated procedure, consistent with **Chapter Twenty** due-process safeguards and **Article XXI-A** (*Justice Objective and Scope*).
+  - **Anti-constitutional misconduct — restitution precondition:** A **final designation** of **anti-constitutional misconduct** for a **Violation Axis slot 7, 8, or 9** finding under **Chapter Twenty** (*Anti-Constitutional Misconduct*) withholds **durable political voice** — including participation in **Foundational Constitutional Choice** — until **full restitution** is satisfied: proportionate [**Redress and Remediation**](subcore_03.070_band_accountability.md#redress-and-remediation) (Chapter Three), including **restitution** for material harm from the offense where owed, is **fully discharged** as finally determined under **Chapter Twenty-Two** and applicable incorporated procedure, consistent with **Chapter Twenty** due-process safeguards and **Article XXI-A** (*Justice Objective and Scope*).
   - **Good-faith inability, obstruction, and valuation uncertainty:** Withholding **durable political voice** must not rest on any of the following alone where **good-faith restoration** is documented and **partial** satisfaction is ongoing:
     - poverty;
     - disability;
@@ -449,14 +449,14 @@ This subsection implements **Chapter Four**, **Article X-B** (*Governance Partic
     - structured impossibility used as pretext; or
     - refusal to agree a **contestable** valuation method.
     **Chapter Twenty-Two** and applicable incorporated procedure must provide a **reviewable official record** when **full discharge** is delayed for reasons outside the sentenced party’s sole control.
-  - **Partial and conditional restoration:** Where **full** discharge is **impossible** after **good-faith effort** (for example, certain harms are not reversibly compensable, or no party can locate necessary counterparties), **Chapter Twenty-Two** and applicable incorporated procedure may adopt **partial** or **conditional** restoration milestones that **materially satisfy** [**Redress and Remediation**](core_03.035_band_accountability.md#redress-and-remediation) for what can feasibly be done; upon satisfaction of those milestones, **durable political voice** must be **restored** unless **Chapter Twenty** safeguards and **Article XXI-A** (*Justice Objective and Scope*) still require further specific duties that remain **feasible** and **not pretextual**. These routes remain **fully contestable**; they do **not** authorize token gestures in place of genuine restoration where restoration remains practicable.
+  - **Partial and conditional restoration:** Where **full** discharge is **impossible** after **good-faith effort** (for example, certain harms are not reversibly compensable, or no party can locate necessary counterparties), **Chapter Twenty-Two** and applicable incorporated procedure may adopt **partial** or **conditional** restoration milestones that **materially satisfy** [**Redress and Remediation**](subcore_03.070_band_accountability.md#redress-and-remediation) for what can feasibly be done; upon satisfaction of those milestones, **durable political voice** must be **restored** unless **Chapter Twenty** safeguards and **Article XXI-A** (*Justice Objective and Scope*) still require further specific duties that remain **feasible** and **not pretextual**. These routes remain **fully contestable**; they do **not** authorize token gestures in place of genuine restoration where restoration remains practicable.
   - **Preservation of the grave-misconduct rule:** The **final** **Violation Axis slot 7, 8, or 9** withholding rule above remains **fully operative**: **bad-faith delay or evasion by the sentenced party** does **not** compel early restoration, and **grave** misconduct may **withhold** foundational voice until **real** restoration duties aligned with **Chapter Twenty** and **Article XXI-A** (*Justice Objective and Scope*) are satisfied where satisfaction remains **feasible**.
   - Where a standing lock or restitution withholding is invoked to restrict participation in foundational constitutional choice (authorization of governing authority, or reauthorization pathways), the restriction must satisfy:
-    - (a) an individualized predicate under [**Procedural Fairness**](core_03.055_band_participation.md#procedural-fairness);
-    - (b) [**Necessity**](core_03.035_band_accountability.md#necessity) and [**Proportionality**](core_03.035_band_accountability.md#proportionality) under Chapter Two;
+    - (a) an individualized predicate under [**Procedural Fairness**](subcore_03.090_band_participation.md#procedural-fairness);
+    - (b) [**Necessity**](subcore_03.070_band_accountability.md#necessity) and [**Proportionality**](subcore_03.070_band_accountability.md#proportionality) under Chapter Two;
     - (c) narrow tailoring to the specific misconduct category; and
     - (d) restoration pathways that are real rather than merely formal, consistent with **Article XX-D** (*Violations and Standing Locks*) restoration-or-requalification discipline.
-  - Broad-misconduct categories swept into disqualification scope, or lock patterns that track [**Protected Characteristics**](core_03.055_band_participation.md#protected-characteristics) or their material proxies, are non-compliant.
+  - Broad-misconduct categories swept into disqualification scope, or lock patterns that track [**Protected Characteristics**](subcore_03.090_band_participation.md#protected-characteristics) or their material proxies, are non-compliant.
   - Cross-reference: **Chapter Four, **Article XX** (*Standing and Participation Status*)**; **Chapter Twenty** (*Anti-Constitutional Misconduct*) for **final ACMD** on qualifying **Violation Axis slot 7, 8, or 9** findings and safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause.
 
 #### 6.2 Records, Gates, and Method Neutrality
@@ -508,12 +508,12 @@ This subsection sets out the official record, gate, and method-neutrality requir
 - Upstream: [§6.1](#61-entitlement-and-eligibility)–[§6.2](#62-records-gates-and-method-neutrality) entitlement, records, and legitimacy-gate requirements.
 - Downstream: Rights-collision discipline under [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) and [Chapter Two §13.1.5](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5) as referenced; challenge and reopening pathways in Chapter Four.
 - Read with:
-  - [Def.P2 Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice), including
-  - [Binding Stakeholder Choice — Decision-Resolution Requirements](core_03.055_band_participation.md#binding-collective-choice-decision-resolution-process),
-  - [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_03.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), and
-  - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_03.055_band_participation.md#rights-collision-record-binding-stakeholder-choice); read also with
+  - [Def.P2 Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice), including
+  - [Binding Stakeholder Choice — Decision-Resolution Requirements](subcore_03.090_band_participation.md#binding-collective-choice-decision-resolution-process),
+  - [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice), and
+  - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#rights-collision-record-binding-stakeholder-choice); read also with
   - [Chapter Four: Foundational Rights](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) for materially rights-affecting process design and
-  - [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice).
+  - [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice).
 
 </details>
 
@@ -523,16 +523,16 @@ This subsection sets out the official record, gate, and method-neutrality requir
 
 Where material disagreement requires a **binding stakeholder choice** within an already-authorized system, institution, or bounded decision domain, the process must comply with the following Chapter Three definitions (operative specification and O/M/A/C decomposition reside there):
 
-- **Structured sequence, local deliberation first, plural evaluation, reopening:** [Binding Stakeholder Choice — Decision-Resolution Requirements](core_03.055_band_participation.md#binding-collective-choice-decision-resolution-process).
-- **Stakeholder representation and weight limits:** [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_03.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) (also cross-referenced from [§6.1 Entitlement and Eligibility](#61-entitlement-and-eligibility)).
-- **Stakeholder rights-collision discipline:** [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_03.055_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice) — read with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test).
-- **Emergency exception:** [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — read with:
-  - [Stakeholder Emergency and Contingency](core_03.040_band_continuity.md#stakeholder-emergency-and-contingency);
-  - [Constitutional Emergency and Contingency](core_03.040_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated;
-  - [Emergency and Contingency](core_03.040_band_continuity.md#emergency-and-contingency); and
+- **Structured sequence, local deliberation first, plural evaluation, reopening:** [Binding Stakeholder Choice — Decision-Resolution Requirements](subcore_03.090_band_participation.md#binding-collective-choice-decision-resolution-process).
+- **Stakeholder representation and weight limits:** [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) (also cross-referenced from [§6.1 Entitlement and Eligibility](#61-entitlement-and-eligibility)).
+- **Stakeholder rights-collision discipline:** [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice) — read with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test).
+- **Emergency exception:** [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — read with:
+  - [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency);
+  - [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated;
+  - [Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency); and
   - **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*).
 
-**Charter Pointer rule.** A governing [System Charter](core_03.040_band_continuity.md#system-charter) or [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) states operated scope and, where Def.P2 admission scope applies, must **point to** the published process rules that satisfy this section ([Chapter Five §5 What System and Institutional Charters Must State](core_05.000_charters.md#5-what-system-and-institutional-charters-must-state), item 8). The System Charter or Institutional Charter does not carry the decision sequence, weighting model, or rights-collision record; they stay here. Institutional publication of those materials lives under **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) / **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*), with the [Charter Pointer](core_03.040_band_continuity.md#charter-pointer) required by **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10.
+**Charter Pointer rule.** A governing [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) states operated scope and, where Def.P2 admission scope applies, must **point to** the published process rules that satisfy this section ([Chapter Five §5 What System and Institutional Charters Must State](core_05.000_charters.md#5-what-system-and-institutional-charters-must-state), item 8). The System Charter or Institutional Charter does not carry the decision sequence, weighting model, or rights-collision record; they stay here. Institutional publication of those materials lives under **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) / **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*), with the [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) required by **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10.
 
 **Cross-reference (section 6):** Subsections **4.1–4.2** state voting requirements together with **Chapter Four**, **Article X-B** (*Governance Participation and Voting Entitlement*). Adopted governance, systems, and institutional implementation text provides applicable rules where **technical** implementation of voting touches classified systems, data handling, steward obligations, or designated institutional procedure.
 

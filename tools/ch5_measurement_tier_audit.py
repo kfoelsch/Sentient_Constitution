@@ -17,15 +17,15 @@ from ch5_paths import CH5_ALL, CH5_APEX  # noqa: E402
 
 # Letter-form O/M/A/C heads (aims and Tetrad legs) live in apex files without #### titles.
 APEX_HEAD_LOCATORS: dict[str, tuple[str, str]] = {
-    "Flourishing": ("core_03.015_apex_flourishing_aim.md", "flourishing-constitutional"),
+    "Flourishing": ("subcore_03.050_apex_flourishing_aim.md", "flourishing-constitutional"),
     "Continuity (Constitutional Aim)": (
-        "core_03.010_apex_continuity_aim.md",
+        "subcore_03.045_apex_continuity_aim.md",
         "continuity-aim-constitutional",
     ),
-    "Oversight": ("core_03.020_apex_oversight_leg.md", "oversight-constitutional"),
-    "Participation": ("core_03.025_apex_participation_leg.md", "participation-constitutional"),
-    "Accountability": ("core_03.005_apex_accountability_leg.md", "accountability"),
-    "Timeliness": ("core_03.030_apex_timeliness_leg.md", "timeliness-constitutional"),
+    "Oversight": ("subcore_03.055_apex_oversight_leg.md", "oversight-constitutional"),
+    "Participation": ("subcore_03.060_apex_participation_leg.md", "participation-constitutional"),
+    "Accountability": ("subcore_03.040_apex_accountability_leg.md", "accountability"),
+    "Timeliness": ("subcore_03.065_apex_timeliness_leg.md", "timeliness-constitutional"),
 }
 
 LETTER_M_RE = re.compile(r"^- M:", re.MULTILINE)

@@ -30,9 +30,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Merits Determination](../core_03.035_band_accountability.md#merits-determination) · [O](../core_03.035_band_accountability.md#merits-determination) · [M](../core_03.035_band_accountability.md#merits-determination-a) · [A](../core_03.035_band_accountability.md#merits-determination-a) · [C](../core_03.035_band_accountability.md#merits-determination-c)
-- [Adjudication and Dispute Resolution](../core_03.035_band_accountability.md#adjudication-and-dispute-resolution) · [O](../core_03.035_band_accountability.md#adjudication-and-dispute-resolution) · [M](../core_03.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../core_03.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../core_03.035_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
-- [Classification-Scaled Governance](../core_03.050_band_oversight.md#classification-scaled-governance) · [O](../core_03.050_band_oversight.md#classification-scaled-governance) · [M](../core_03.050_band_oversight.md#classification-scaled-governance-a) · [A](../core_03.050_band_oversight.md#classification-scaled-governance-a) · [C](../core_03.050_band_oversight.md#classification-scaled-governance-c)
+- [Merits Determination](../subcore_03.070_band_accountability.md#merits-determination) · [O](../subcore_03.070_band_accountability.md#merits-determination) · [M](../subcore_03.070_band_accountability.md#merits-determination-a) · [A](../subcore_03.070_band_accountability.md#merits-determination-a) · [C](../subcore_03.070_band_accountability.md#merits-determination-c)
+- [Adjudication and Dispute Resolution](../subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution) · [O](../subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution) · [M](../subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [A](../subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution-constitutional-a) · [C](../subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution-constitutional-c)
+- [Classification-Scaled Governance](../subcore_03.085_band_oversight.md#classification-scaled-governance) · [O](../subcore_03.085_band_oversight.md#classification-scaled-governance) · [M](../subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [A](../subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [C](../subcore_03.085_band_oversight.md#classification-scaled-governance-c)
 
 </details>
 
@@ -55,7 +55,7 @@ This file is the joint-structure implementation home for **CJS-6.105 §9** (*Bou
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: **CJS-6.105 §9** (*Boundary between Support Roles and Merits Decisions*); **CJS-3.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*); [Merits Determination](../core_03.035_band_accountability.md#merits-determination).
+- Read with: **CJS-6.105 §9** (*Boundary between Support Roles and Merits Decisions*); **CJS-3.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*); [Merits Determination](../subcore_03.070_band_accountability.md#merits-determination).
 
 </details>
 
@@ -63,7 +63,7 @@ This file is the joint-structure implementation home for **CJS-6.105 §9** (*Bou
 
 *In plain terms: sentients who monitor performance, give forensic help, or support investigations help the process — they do not decide who wins, unless a separate lawful document clearly says they may.*
 
-Roles that monitor, review how challenge or review routes perform, provide forensic help, or support investigations must not make binding merits determinations within the meaning of [Merits Determination](../core_03.035_band_accountability.md#merits-determination) under [Chapter Twenty-Two](../core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) and **Adjudication and Dispute Resolution**. The only exception is when a separate lawful document clearly gives a named role limited authority to decide merits issues.
+Roles that monitor, review how challenge or review routes perform, provide forensic help, or support investigations must not make binding merits determinations within the meaning of [Merits Determination](../subcore_03.070_band_accountability.md#merits-determination) under [Chapter Twenty-Two](../core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) and **Adjudication and Dispute Resolution**. The only exception is when a separate lawful document clearly gives a named role limited authority to decide merits issues.
 
 Institutions must publish what each role may do and what it may **not** decide — including who the role reports to, how often it reports, and how it connects to assurance work. Oversight and support roles must not quietly take over merits decisions assigned to a lawfully constituted forum family under **Chapter Twenty-Two**.
 

@@ -51,7 +51,7 @@ Measurement turns those ideas into practical questions:
 
 [Material stake](../core_00.000_preamble.md#material-stake) scales how demanding the answers must be; it is not a seventh score or a replacement for the Rights Floor.
 
-When provisions appear to pull in different directions, readers use integrated interpretation and the [Authority Stack and Internal Hierarchy](../subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy). A later process, adopted implementation text, metric, or convenience rule cannot bypass a binding source constraint or turn a proxy into the constitutional result.
+When provisions appear to pull in different directions, readers use integrated interpretation and the [Authority Stack and Internal Hierarchy](../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy). A later process, adopted implementation text, metric, or convenience rule cannot bypass a binding source constraint or turn a proxy into the constitutional result.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -742,10 +742,10 @@ flowchart TB
 - Impact class and dependency type are separate findings. Matching letters do not collapse them into one score.
 - Class A through P describe impact and system role; Dep-A through P describe how difficult the system is to replace or operate without.
 - Classification must reflect actual and reasonably foreseeable effects, including dependency chains, concentration, interaction, aggregation, thresholds, and adversarial use.
-- Class P also covers ordinary community activity (giving, making, teaching, caring, hosting, sharing) that stays below every line of [Domain-Specific Materiality](../core_03.050_band_oversight.md#domain-specific-materiality). Those nine questions, and not headcount or how often a group meets, decide whether an Operating Party reaches Class L and so needs a System Charter or Institutional Charter.
+- Class P also covers ordinary community activity (giving, making, teaching, caring, hosting, sharing) that stays below every line of [Domain-Specific Materiality](../subcore_03.085_band_oversight.md#domain-specific-materiality). Those nine questions, and not headcount or how often a group meets, decide whether an Operating Party reaches Class L and so needs a System Charter or Institutional Charter.
 - Uncertainty defaults toward protecting Foundational Rights. Reclassification is required when scale, reach, dependency, risk, resilience, or failure conditions materially change.
 
-The [System Data Types Record](../core_03.040_band_continuity.md#system-data-types-record) and [System Classification Record](../core_03.040_band_continuity.md#system-classification-record) are companion records in the certification and audit pipeline. CS-4.305 and CS-4.310 owns data typing and handling; CS-8.305 and CS-8.310 owns system classification and handling. Chapter Three supplies the canonical meanings, while Chapter Eight verifies that the records are present and honest.
+The [System Data Types Record](../subcore_03.075_band_continuity.md#system-data-types-record) and [System Classification Record](../subcore_03.075_band_continuity.md#system-classification-record) are companion records in the certification and audit pipeline. CS-4.305 and CS-4.310 owns data typing and handling; CS-8.305 and CS-8.310 owns system classification and handling. Chapter Three supplies the canonical meanings, while Chapter Eight verifies that the records are present and honest.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -1155,7 +1155,7 @@ This is a reading discipline, not a new precedence rule:
 - Identify the substantive owner, then use Chapter Three for canonical term meaning.
 - Read the numbered Constitution as one integrated text, preserving its principles, Rights Floor, non-regression, and no-bypass constraints.
 - Apply incorporated implementation only within its adopted scope. Use indexes and support pages to locate the source; they do not create duties.
-- Use Internal Hierarchy only after ordinary integrated reading has been exhausted and a genuine residual incompatibility remains inside the binding constitutional source. For that residual conflict, principles control over articles, and articles control over definitions read as independent substantive glosses. Canonical Chapter Three definitions still govern term meaning at every layer; the hierarchy does not resolve mere disagreement over that meaning. These are the last-resort rules in [Authority Stack and Internal Hierarchy](../subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy), not a shortcut around integrated reading or Rights-Floor protections.
+- Use Internal Hierarchy only after ordinary integrated reading has been exhausted and a genuine residual incompatibility remains inside the binding constitutional source. For that residual conflict, principles control over articles, and articles control over definitions read as independent substantive glosses. Canonical Chapter Three definitions still govern term meaning at every layer; the hierarchy does not resolve mere disagreement over that meaning. These are the last-resort rules in [Authority Stack and Internal Hierarchy](../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy), not a shortcut around integrated reading or Rights-Floor protections.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 

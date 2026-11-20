@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.045_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was a chapter of its own. It contains **Subcore 3-B**: definition integrity, evasion, and non-compliance. **Subcore 3-A** — definition structure and component alignment — is in [`subcore_03.010_definition_structure.md`](subcore_03.010_definition_structure.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was a chapter of its own. It contains **Subcore 3-B**: definition integrity, evasion, and non-compliance. **Subcore 3-A** — definition structure and component alignment — is in [`subcore_03.010_definition_structure.md`](subcore_03.010_definition_structure.md). Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 >
 > **Upstream:** [Subcore 3-A](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements).
 > **Downstream:** [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification).
@@ -127,7 +127,7 @@ This section does not define evaluation standards, evidence sufficiency, or burd
   - [Subcore 3-A, §2 — Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#2-definition-components-and-joint-satisfaction) (S3-A §2) for the joint-satisfaction rule under full functional system conditions;
   - [Subcore 3-A, §3.4 Interpretation Rule under Ambiguity](subcore_03.010_definition_structure.md#34-interpretation-rule-under-ambiguity) (S3-A §3.4) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid;
   - [Subcore 3-C, section 6 — Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#6-compliance-evidence-standard) (S3-C) — evidence must demonstrate compliance under the rules in this section; proof that would be non-compliant here fails the burden of proof;
-  - [Non-Compliance](subcore_03.045_band_integrative.md#non-compliance).
+  - [Non-Compliance](subcore_03.080_band_integrative.md#non-compliance).
 
 </details>
 
@@ -251,7 +251,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
   - [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000);
   - [Chapter Sixteen — Standing Effects and Integration](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (16.000);
   - [CJS-3.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
-- Read with: [Non-Compliance Finding Profile](core_03.035_band_accountability.md#non-compliance-finding-profile) — canonical O/M/A/C home for profile fields; [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+- Read with: [Non-Compliance Finding Profile](subcore_03.070_band_accountability.md#non-compliance-finding-profile) — canonical O/M/A/C home for profile fields; [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 
 </details>
 
@@ -259,7 +259,7 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 
 *In plain terms: when something fails an applicable definition, a finding profile is an optional label that says what kind of constitutional problem it is — for routing and audits. It does not change the pass/fail result. For systems already running under alignment certification, verified non-compliance must feed standing; sentients and institutions are tagged only when linkage is verified. First-time certification follows the same rule ([§4.2 Standing Effects at First Certification](#42-standing-effects-at-first-certification)).*
 
-Material **non-compliance** findings under this chapter or under invoked **Chapter Three** definitions may carry a [Non-Compliance Finding Profile](core_03.035_band_accountability.md#non-compliance-finding-profile). The profile is orientation and routing metadata only. It:
+Material **non-compliance** findings under this chapter or under invoked **Chapter Three** definitions may carry a [Non-Compliance Finding Profile](subcore_03.070_band_accountability.md#non-compliance-finding-profile). The profile is orientation and routing metadata only. It:
 
 - may name which [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) leg and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) orientation best describe the failure — for example Oversight, Participation, or Accountability crossed with Flourishing or Continuity
 - does not change whether the underlying definition is met

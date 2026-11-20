@@ -82,7 +82,7 @@ Do not resolve the collision in this file.
 Beyond the sitting’s bounded reading path, open:
 
 - [Article VI-D](../../../core_04.010_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*)
-- [Protected Characteristics](../../../core_03.055_band_participation.md#protected-characteristics); [Article VI-C](../../../core_04.010_rights_part_b.md#article-vi-c-nondiscrimination)
+- [Protected Characteristics](../../../subcore_03.090_band_participation.md#protected-characteristics); [Article VI-C](../../../core_04.010_rights_part_b.md#article-vi-c-nondiscrimination)
 - [Article XXIV](../../../core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship); [Article XXIV-A](../../../core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right)
 - [CI-4.220](../../../corpus_institutions/ci_04.220_neurodiversity_disability_justice_trauma_informed_participation.md) — usable alternatives; supported decision-making is not a quiet takeover
 - [Article III-C](../../../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the floor cut defeats work Jules can actually do

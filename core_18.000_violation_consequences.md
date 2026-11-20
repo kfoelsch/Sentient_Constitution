@@ -164,7 +164,7 @@ Nothing else stands in for either output:
 - **Remedy side:** Imprisonment, standing locks, role exclusion, publication, apology, dissolving an institution, supervised operation, clawback from wrongdoers, or striking an unlawful decision or effect does not by itself count as remedy. It counts only when the Standing Record shows the measure actually repairs, compensates, restores, prevents recurrence, or supplies a proportionate substitute safeguard for the relevant harm. Public acknowledgment or apology is governed by [§3.3 Voluntary Public Accountability Expression](#33-voluntary-public-accountability-expression).
 - **Correction side:** Imprisonment, standing locks, role exclusion, or publication does not by itself count as correction. It counts only when the Standing Record shows it addresses the cause or stops continuation.
 
-No remedy, correction, or restriction may itself inflict suffering as an end or add gratuitous or degrading suffering. This holds in every case and applies in full where the violation record carries verified [Cruelty](core_03.035_band_accountability.md#cruelty) conduct character.
+No remedy, correction, or restriction may itself inflict suffering as an end or add gratuitous or degrading suffering. This holds in every case and applies in full where the violation record carries verified [Cruelty](subcore_03.070_band_accountability.md#cruelty) conduct character.
 
 <a id="32-prevention--general-standing-locks"></a>
 #### 3.2 Prevention — General Standing Locks
@@ -192,7 +192,7 @@ A **standing lock** is a prevention and risk-reduction measure. It blocks or lim
 - credit pathways, meaning credit for contribution (who is recognized as having done the work), which is not money or lending;
 - oversight pathways;
 - recognition pathways;
-- influence pathways, as [Influence Pathway](core_03.035_band_accountability.md#influence-pathway) defines them;
+- influence pathways, as [Influence Pathway](subcore_03.070_band_accountability.md#influence-pathway) defines them;
 - **governance-voting** pathways;
 - **stakeholder-participation** pathways;
 - care and stewardship pathways, as [§4.5.7 Care and Stewardship Lock](#457-care-and-stewardship-lock) sets them out;
@@ -211,7 +211,7 @@ Detention, imprisonment, and other liberty restrictions are not standing locks. 
 The two named gated pathways are distinct:
 
 - **governance-voting** covers participation in governance voting and comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility), including **Foundational Constitutional Choice**. It does **not** include stake-weighted voice inside an already-authorized system, institution, or bounded decision domain.
-- **stakeholder-participation** covers stake-weighted vote, binding stakeholder choice, and comparable Stakeholder System Participation pathways under [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice). It does **not** erase [Stakeholder](core_03.055_band_participation.md#stakeholder) status itself, and it does **not** substitute for a **governance-voting** lock.
+- **stakeholder-participation** covers stake-weighted vote, binding stakeholder choice, and comparable Stakeholder System Participation pathways under [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice). It does **not** erase [Stakeholder](subcore_03.090_band_participation.md#stakeholder) status itself, and it does **not** substitute for a **governance-voting** lock.
 
 <a id="323-special-locks-for-particular-findings"></a>
 ##### 3.2.3 Special Locks for Particular Findings
@@ -315,7 +315,7 @@ A general standing lock under [§3.2 Prevention — General Standing Locks](#32-
   - the funding source; and
   - the start date.
 - **Not required:** completion of remedy. An opened remedy record is required.
-- **Not covered:** interim protective measures under [Chapter Twenty-Three §4 Interim Protection](core_23.000_forum_families_escalation_timeliness_support.md#interim-protection) (*Interim Protection*), including an [Interim Hold](core_03.035_band_accountability.md#interim-hold), which needs no open remedy record because it is not a lock.
+- **Not covered:** interim protective measures under [Chapter Twenty-Three §4 Interim Protection](core_23.000_forum_families_escalation_timeliness_support.md#interim-protection) (*Interim Protection*), including an [Interim Hold](subcore_03.070_band_accountability.md#interim-hold), which needs no open remedy record because it is not a lock.
 - <a id="341-special-locks-urgency-bridge"></a>**Special locks:** this precondition applies to the special locks under [§4.5 Special Locks](#45-special-locks) as well. Where waiting for the remedy record would risk serious harm, a special lock may attach first, but the remedy record for the same verified violation finding must be open within the **prompt-review window** ([Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#prompt-review)). If it is not, the lock is defective under the next bullet. The attaching decision records the harm that could not wait.
 - **A defective lock:** a lock attached without an opened remedy record is defective and must be corrected or narrowed to interim protective scope on the [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier window.
 
@@ -356,9 +356,9 @@ Filings verified as contest-pathway flooding under [Chapter Twenty-One §4.2 Flo
 
 *In plain terms: a widening gap between locks issued and remedies delivered is a warning sign, not neutral data.*
 
-The ratio of locks issued to remedies commenced and restorations decided is a constitutional performance indicator under the [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family). A ratio that widens over successive periods is evidence of:
+The ratio of locks issued to remedies commenced and restorations decided is a constitutional performance indicator under the [Constitutional Performance measurement family](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family). A ratio that widens over successive periods is evidence of:
 
-- [Avoidable Burden](core_03.040_band_continuity.md#avoidable-burden) on the violation side; and
+- [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) on the violation side; and
 - a [§5 Enforcement Realism and Remedy Systems](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) paper-pathway failure on the remedy side.
 
 The ratio is not a neutral operations metric.
@@ -441,7 +441,7 @@ A lock attaches as follows:
   - recurrence;
   - negligence;
   - duty;
-  - [duty to resist](core_03.035_band_accountability.md#duty-to-resist); or
+  - [duty to resist](subcore_03.070_band_accountability.md#duty-to-resist); or
   - evasion.
 - **What character may do:**
   - It may shape scope, scrutiny, safeguards, and review, but only when that character is separately verified.
@@ -650,8 +650,8 @@ This rule fills the attachment fields as follows:
     - fair settlements reached through a contestable process.
 <a id="442-adoption-transition-exception-misaligned-rewards"></a>
 - **Adoption Transition exception:** During approved Adoption Transition phases under **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*), read with [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation), the reporting duty and the forfeiture and retention rules for misaligned rewards do **not** apply to rewards flowing through shared systems solely because those systems are **not yet alignment-certified** or are **not yet fully aligned**, provided:
-  - operation stays within a **documented Adoption Transition plan** and published [gate criteria](core_03.050_band_oversight.md#gate-criteria) under **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*);
-  - the system is proceeding toward [System Alignment Certification](core_03.040_band_continuity.md#system-alignment-certification) on a published cadence, including **conditional** or **deferred certification** where Chapter Eight allows; and
+  - operation stays within a **documented Adoption Transition plan** and published [gate criteria](subcore_03.085_band_oversight.md#gate-criteria) under **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*);
+  - the system is proceeding toward [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) on a published cadence, including **conditional** or **deferred certification** where Chapter Eight allows; and
   - operators and beneficiaries are not **knowingly concealing** misalignment, operating outside approved Adoption Transition scope, or using Adoption Transition status to evade certification, correction, or protected reporting.
 
   The exception does **not** apply where any of the following is present:
@@ -744,7 +744,7 @@ This rule fills the attachment fields as follows:
 
 This rule fills the attachment fields as follows:
 
-- **Gated pathway:** the [Influence Pathway](core_03.035_band_accountability.md#influence-pathway), closed in one of two forms:
+- **Gated pathway:** the [Influence Pathway](subcore_03.070_band_accountability.md#influence-pathway), closed in one of two forms:
   - **On-record-only lock**, the default: closes every route except the matter's open Forum Case Record and contact that is recorded and disclosed under [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*). It bars private channels, access seats, benefit exchange, manufactured support, and pressure.
   - **No-contact lock:** also closes recorded contact with the bodies, office-holders, or systems it names. The sentient can still file on the matter's open Forum Case Record, and the protections in [§4.1.4 What a Lock Does Not Itself Restrict](#414-what-a-lock-does-not-itself-restrict) stay in place.
 - **Finding:** a verified violation finding in which the sentient's use of an influence route was part of the violation.
@@ -763,7 +763,7 @@ This rule fills the attachment fields as follows:
 A capacity lock closes a capacity that the sentient used to carry out a verified violation. There are four: the Creation Lock, the Reach Lock, the Scale Lock, and the Capability Lock. These rules apply to all four:
 
 - **Finding:** a verified violation finding in which the sentient's use of the named capacity was part of the violation. Having a capacity, or being able to use it, is never a finding ([§4.1.2 What a Lock Attaches To](#412-what-a-lock-attaches-to)).
-- **Same terms on every substrate:** each lock is defined by the capacity and applies in the same way to every sentient able to exercise it. No capacity lock attaches because of [Substrate Class](core_03.055_band_participation.md#substrate-class), derivation, or origin, as **Article VI-C** (*Nondiscrimination*) requires.
+- **Same terms on every substrate:** each lock is defined by the capacity and applies in the same way to every sentient able to exercise it. No capacity lock attaches because of [Substrate Class](subcore_03.090_band_participation.md#substrate-class), derivation, or origin, as **Article VI-C** (*Nondiscrimination*) requires.
 - <a id="body-and-mind-limit"></a>**Body-and-mind limit:** a capacity lock is enforced only by denying or conditioning outside means: facilities, services, tools, access, resources, roles, and authorizations. It never authorizes:
   - intruding into a sentient's body or mind;
   - deleting, overwriting, or altering memory, values, or other state-bearing components; or
@@ -818,7 +818,7 @@ These eight are the only special locks. The following fact families do not creat
 - obstruction of accountability, apart from the forum-integrity and required-recusal trigger in [§4.5.1 Forum-Service Standing Lock](#451-forum-service-standing-lock); and
 - verified cruelty character, apart from the trigger in [§4.5.7 Care and Stewardship Lock](#457-care-and-stewardship-lock).
 
-For each of them, ordinary gated-pathway locks under [§3.2 Prevention — General Standing Locks](#32-prevention--general-standing-locks) proceed from the fixed violation record at any slot, whether or not an ACMD later attaches. Chapter Twenty separately decides the ACMD criteria for these, for example under [§4.1 Rights-Floor Waivers and Unconstitutional Contract Terms](core_21.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms), [§4.2 Flooding the Zone and Contest-Pathway Denial](core_21.000_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial), [§4.3 Info-Sphere Zone Flooding](core_21.000_misconduct_pattern_applications.md#43-info-sphere-zone-flooding), [§7.2 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct](core_21.000_misconduct_pattern_applications.md#72-infrastructure-denial-destruction-or-dependency-cutoff-conduct), and [§8 Obstruction of Accountability: Criteria Interaction](core_21.000_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction). Only a final ACMD triggers the [§4.5.5 Anti-Constitutional Trust Lock](#455-anti-constitutional-trust-lock). Verified obstruction *conduct* is different from [Capture of Resolution Pathways](core_03.040_band_continuity.md#capture-of-resolution-pathways) as a structural condition.
+For each of them, ordinary gated-pathway locks under [§3.2 Prevention — General Standing Locks](#32-prevention--general-standing-locks) proceed from the fixed violation record at any slot, whether or not an ACMD later attaches. Chapter Twenty separately decides the ACMD criteria for these, for example under [§4.1 Rights-Floor Waivers and Unconstitutional Contract Terms](core_21.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms), [§4.2 Flooding the Zone and Contest-Pathway Denial](core_21.000_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial), [§4.3 Info-Sphere Zone Flooding](core_21.000_misconduct_pattern_applications.md#43-info-sphere-zone-flooding), [§7.2 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct](core_21.000_misconduct_pattern_applications.md#72-infrastructure-denial-destruction-or-dependency-cutoff-conduct), and [§8 Obstruction of Accountability: Criteria Interaction](core_21.000_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction). Only a final ACMD triggers the [§4.5.5 Anti-Constitutional Trust Lock](#455-anti-constitutional-trust-lock). Verified obstruction *conduct* is different from [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) as a structural condition.
 
 This subsection has eight locks:
 
@@ -876,9 +876,9 @@ This subsection has eight locks:
   - stake-weighted vote;
   - binding stakeholder choice participation;
   - stakeholder representation authority; and
-  - comparable Stakeholder System Participation pathways within the affected system, institution, or bounded decision domain under [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice).
+  - comparable Stakeholder System Participation pathways within the affected system, institution, or bounded decision domain under [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice).
 - **Does not by itself restrict:**
-  - [Stakeholder](core_03.055_band_participation.md#stakeholder) status or recognition that the sentient is materially affected;
+  - [Stakeholder](subcore_03.090_band_participation.md#stakeholder) status or recognition that the sentient is materially affected;
   - the **governance-voting** pathway, **Foundational Constitutional Choice**, or comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility);
   - Rights-Floor minimums, survival-critical access, or constitutionally required audit, challenge, and remedy pathways.
 - **Risk:** continued capture or distortion of stakeholder voice, false-stake dominance, coerced participation weight, and recurrence of stakeholder-pathway abuse in the same or related domains.
@@ -920,7 +920,7 @@ This subsection has eight locks:
     - holding or keeping authority in the institution or enterprise; or
     - passing the formation check or a certification;
 - retaliating, regardless of the means used, against a protected reporter or against a sentient who refused an unlawful or unconstitutional instruction, where the report or the refusal concerned that institution or enterprise;
-- suppressing, burying, or refusing to receive a [Protected Reporting (Whistleblowing)](core_03.035_band_accountability.md#protected-reporting-whistleblowing) report made through the institution or enterprise, including an insider's report of a crossing over the line of [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality); or
+- suppressing, burying, or refusing to receive a [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) report made through the institution or enterprise, including an insider's report of a crossing over the line of [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality); or
 - knowingly keeping a misaligned reward received through the institution or enterprise after notice under [§4.4.2 Misaligned Rewards](#442-misaligned-rewards).
 
 - **Gated pathway:**
@@ -931,7 +931,7 @@ This subsection has eight locks:
   - The lock follows the authority, not the label. A change of name, form, or seat does not take the authority outside it ([§5.4 Anti-Evasion and Look-through Authority](core_19.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority)).
 - **Does not by itself restrict:**
   - forming or leading an institution or enterprise outside the gated pathway;
-  - joining, working in, being served by, or being a [Stakeholder](core_03.055_band_participation.md#stakeholder) of any institution or enterprise, including the one concerned, in a role that carries no governing, controlling, or owning authority;
+  - joining, working in, being served by, or being a [Stakeholder](subcore_03.090_band_participation.md#stakeholder) of any institution or enterprise, including the one concerned, in a role that carries no governing, controlling, or owning authority;
   - the existence or operation of the institution or enterprise itself, which another lawful holder may lead;
   - passive holdings that carry no control, no vote, and no say in appointments, although remedy owed from them stays collectable; or
   - wages for work outside the verified violation, the Rights-Floor minimums, survival-critical access, or constitutionally required audit, challenge, and remedy pathways.
@@ -1086,7 +1086,7 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
 - **Gated pathway:**
   - re-forming, reviving, re-registering, or running the dissolved Chartered Party, under any name or form;
   - its successors, controlled entities, and any nominee-, shell-, or proxy-held entity through which the same activity would go on under the same centre of power; and
-  - any Operating Party that is one operation with any of them under the common-control test in [Domain-Specific Materiality](core_03.050_band_oversight.md#domain-specific-materiality).
+  - any Operating Party that is one operation with any of them under the common-control test in [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality).
   - The lock follows the activity and the control, not the label. A change of name, form, seat, or holder does not take an entity outside it ([§5.4 Anti-Evasion and Look-through Authority](core_19.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority)).
 - **Does not by itself restrict:**
   - any sentient forming or leading a different Operating Party, including one that does similar work and including a sentient who ran the dissolved Chartered Party alone or with others, so long as it is not one of the entities above and no lock on that sentient bars it;
@@ -1159,7 +1159,7 @@ The lock is mandatory once its trigger is met, and it applies on the same terms 
 - a violation finding has been verified;
 - the violation finding is still open, or the harm has not been fixed in a way that matters;
 - the violation finding shows knowing or intentional conduct of one of the kinds listed next; and
-- the conduct was material, as [Materiality](core_03.050_band_oversight.md#materiality) defines it.
+- the conduct was material, as [Materiality](subcore_03.085_band_oversight.md#materiality) defines it.
 
 **Kinds of conduct that count:**
 
@@ -1200,10 +1200,10 @@ The lock is mandatory once its trigger is met, and it applies on the same terms 
 
 *In plain terms: a hold is what a forum may do on specific verified facts while the full facts are checked. A lock is what follows a verified violation finding. The two never merge. A hold creates no standing effect, is never turned into a lock, and the time a sentient spent under one counts toward a later lock's time bound.*
 
-An [Interim Hold](core_03.035_band_accountability.md#interim-hold) under [Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway](core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) is interim protection and not a lock. This subsection keeps the two apart:
+An [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) under [Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway](core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) is interim protection and not a lock. This subsection keeps the two apart:
 
 - **Different trigger:** A hold rests on the Interim Hold grounds in [Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway](core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway). A lock attaches only to a verified violation finding ([§4.1 Definition and Attachment](#41-definition-and-attachment)).
-- **No standing effect:** A hold is not a verified input, a [Standing Record](core_03.035_band_accountability.md#standing-record), or a standing effect. It supplies nothing to Chapter Fourteen, and its lapse or its being set aside supplies nothing either.
+- **No standing effect:** A hold is not a verified input, a [Standing Record](subcore_03.070_band_accountability.md#standing-record), or a standing effect. It supplies nothing to Chapter Fourteen, and its lapse or its being set aside supplies nothing either.
 - **Never converted:** A hold is not turned into a lock by passing time, by an extension, or by the merits matter being opened. If a violation finding is verified, the lock is designed and justified on its own integration record from the finding.
 - **Time counts:** Where a lock with a time bound later attaches on the same gated pathway for the same facts, time already spent under a hold on that gated pathway counts toward that bound. It does not count toward the corrective conditions, which are met by what is done.
 - **No substitute for a lock:** Once the hold's bound and its single extension have passed ([Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline)), the gated pathway reopens unless a verified violation finding supports a lock.

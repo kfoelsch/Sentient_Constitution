@@ -33,7 +33,7 @@ audits. It enforces two invariants:
    the four Chapter Fourteen parts), every line inside a O/M/A/C widget that appears
    to be a widget row must match the canonical shape:
 
-       - [Name](core_03.035_band_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
+       - [Name](subcore_03.070_band_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
 
    and every anchor in that row must resolve to a live Chapter Three anchor.
    The single-concept inline form is also recognized:
@@ -184,7 +184,7 @@ DETAILS_CLOSE_RE = re.compile(r"^\s*</details>\s*$")
 # middle-dot with single spaces. Each href must point into Chapter Three.
 #
 # Example:
-#   - [Wellbeing](core_03.040_band_continuity.md#wellbeing) · [O](core_03.040_band_continuity.md#wellbeing) · [M](core_03.040_band_continuity.md#wellbeing-a) · [A](core_03.040_band_continuity.md#wellbeing-a) · [C](core_03.040_band_continuity.md#wellbeing-c)
+#   - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 # M targets #{slug}-m when present (aim/leg apex heads); otherwise #{slug}-a
 # (leaf guidepost form interweaves Measurement with Assessment).
 ROW_RE = re.compile(

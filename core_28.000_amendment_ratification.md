@@ -22,7 +22,7 @@
 
 - Upstream: [Chapter Twenty-Seven](core_27.000_non_regression.md#chapter-twenty-seven-non-regression-and-substantive-amendment-validity) (27.000) Substantive Test 1 and non-regression; [Chapter Twenty-Nine](core_29.000_expansion_supremacy.md#chapter-twenty-nine-expansion-supremacy-and-external-legal-orders) (29.000) supremacy and external-order interface; [Chapter Twenty-Six](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) (26.000) legitimacy context for collective change.
 - Subsections: [§§ 3–14](#3-heightened-review-for-rights-affecting-changes) procedural and custody validity suite: Procedural Tests 2–4, ratification, procedure requirements, and owner non-relocation.
-- Downstream: Adoption documents and edition custody tie to [Chapter Three *Corpus*](subcore_03.045_band_integrative.md#corpus) (3.045) and [Corpus and Authority Stack](subcore_03.045_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster); invalidity remediation interfaces with owner implementation layers.
+- Downstream: Adoption documents and edition custody tie to [Chapter Three *Corpus*](subcore_03.080_band_integrative.md#corpus) (S3-L) and [Corpus and Authority Stack](subcore_03.080_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster); invalidity remediation interfaces with owner implementation layers.
 - Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) publication, burden, and traceability requirements invoked in Procedural Test 2 and §13.
 
 </details>
@@ -35,7 +35,7 @@ Chapter Twenty-Eight is the constitutional owner of **procedural and custody val
 
 *In plain terms: a change can be substantively fine and still fail because of how it was made. This chapter is the procedural and paperwork spine for legitimate change, and it holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody that proves the text is the real one, and a contest path that works, so that independent reviewers and the public can challenge the change. A rights-affecting update must not snap irreversibly into place before those guardrails have actually run.*
 
-**Purpose:** This Constitution, including its [subcore](subcore_03.045_band_integrative.md#subcore), may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions, subject to **Chapter Twenty-Seven** (non-regression), **Chapter Twenty-Nine** (supremacy and external-order interface), subject to the validity conditions in this chapter.
+**Purpose:** This Constitution, including its [subcore](subcore_03.080_band_integrative.md#subcore), may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions, subject to **Chapter Twenty-Seven** (non-regression), **Chapter Twenty-Nine** (supremacy and external-order interface), subject to the validity conditions in this chapter.
 
 **Role:** The chapter is the procedural half of change validity. It covers whether a change was made the right way, and what happens when it was not:
 
@@ -100,7 +100,7 @@ A constitution that cannot change will fail, and one that can be changed quietly
 
 *In plain terms: if you are changing something that touches rights, forums' paths, or integrity rules, expect a harder lane — independent eyes and a public, contestable official record before it counts as adopted.*
 
-Any proposed amendment that materially affects Chapter Four Rights Floors, adjudication pathways, or integrity and oversight conditions must receive [Heightened Scrutiny](core_03.050_band_oversight.md#heightened-scrutiny). It must receive independent review and contestable publication before adoption.
+Any proposed amendment that materially affects Chapter Four Rights Floors, adjudication pathways, or integrity and oversight conditions must receive [Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny). It must receive independent review and contestable publication before adoption.
 
 ### 4. Burden of Justification and Public Traceability
 <details>
@@ -157,8 +157,8 @@ A proposed amendment is invalid unless required publication elements are satisfi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§6](#6-procedural-test-2--procedural-validity-and-publication-integrity) Procedural Test 2 publication integrity.
-- Downstream: [§12](#12-ratification-and-adoption) documents and custody expectations; [Chapter Three *Corpus*](subcore_03.045_band_integrative.md#corpus) (3.045) consistency requirements.
-- Read with: [Chapter Three *Corpus*](subcore_03.045_band_integrative.md#corpus) (3.045) and [README.md](README.md) (edition identifiers); [Corpus and Authority Stack](subcore_03.045_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster).
+- Downstream: [§12](#12-ratification-and-adoption) documents and custody expectations; [Chapter Three *Corpus*](subcore_03.080_band_integrative.md#corpus) (S3-L) consistency requirements.
+- Read with: [Chapter Three *Corpus*](subcore_03.080_band_integrative.md#corpus) (S3-L) and [README.md](README.md) (edition identifiers); [Corpus and Authority Stack](subcore_03.080_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster).
 
 </details>
 
@@ -245,7 +245,7 @@ Where a change is found invalid, including by the **Constitutional Forum**'s det
 
 On invalidity determination, adopters must publish a time-bounded remediation plan that:
 - restores controlling prior protections or stricter lawful protections
-- preserves evidence under [Evidence Preservation](core_03.050_band_oversight.md#evidence-preservation) and audit trails
+- preserves evidence under [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) and audit trails
 - provides contestable remedy pathways proportionate to impact and dependency
 
 <a id="serious-misconduct-referral"></a>
@@ -264,7 +264,7 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 - Upstream: [§7](#7-procedural-test-3--authority-chain-and-custody-validity) custody validity; [Chapter Twenty-Nine §5.1](core_29.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) (29.000 §5.1) internal hierarchy for adopters.
 - Subsections: [§12.1](#121-deliberate-adoption)–[§12.3](#123-joining-by-additional-parties).
 - Downstream: [§13](#13-amendment-procedure-requirements) notice and recorded effectiveness.
-- Read with: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** classification referenced in §12.1; [Chapter Three *Corpus*](subcore_03.045_band_integrative.md#corpus) (3.045).
+- Read with: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** classification referenced in §12.1; [Chapter Three *Corpus*](subcore_03.080_band_integrative.md#corpus) (S3-L).
 
 </details>
 
@@ -298,7 +298,7 @@ When the adopter is a jurisdiction or polity, the recorded mechanism must includ
 
 - Upstream: [§12.1](#121-deliberate-adoption) deliberate adoption requirement.
 - Downstream: [§7](#7-procedural-test-3--authority-chain-and-custody-validity) Procedural Test 3 chain checks against document contents.
-- Read with: [README.md](README.md) and [Chapter Three *Corpus*](subcore_03.045_band_integrative.md#corpus) (3.045) (authoritative corpus and edition identifier expectations).
+- Read with: [README.md](README.md) and [Chapter Three *Corpus*](subcore_03.080_band_integrative.md#corpus) (S3-L) (authoritative corpus and edition identifier expectations).
 
 </details>
 
@@ -309,10 +309,10 @@ When the adopter is a jurisdiction or polity, the recorded mechanism must includ
 Adopters must maintain an identifiable adoption document. Examples include **joining** by additional parties (with recorded assent), treaty or compact ratification, corporate or intergovernmental resolution, federated registry entry, or equivalent. The adoption document must state the adopting entity, scope of adoption, and effective date. It must:
 
 - identify the custodian of the authoritative edition of this Constitution and its integrated implementation files.
-- be consistent with document-control expectations in [README.md](README.md) and [Chapter Three *Corpus*](subcore_03.045_band_integrative.md#corpus) (authoritative corpus, edition identifier, custody chain).
-- be consistent with **Corpus** in Chapter Three ([core_03.000_definitions_home.md](subcore_03.045_band_integrative.md#corpus)).
+- be consistent with document-control expectations in [README.md](README.md) and [Chapter Three *Corpus*](subcore_03.080_band_integrative.md#corpus) (authoritative corpus, edition identifier, custody chain).
+- be consistent with **Corpus** in Chapter Three ([core_03.000_definitions_home.md](subcore_03.080_band_integrative.md#corpus)).
 - where [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*) is in adoption scope, name the reduction, cap, or interruption measures required by that Article in the adoption document or in incorporated implementation it pins — not a core-chosen numeric target.
-- point to the adopter's published [Adoption Transition Record](core_03.040_band_continuity.md#adoption-transition-record) and, once it is published, its [Adoption Charter](core_03.040_band_continuity.md#adoption-charter), so a reader can find them ([§12.4 Adoption Transition Record and Adoption Charter](#124-adoption-transition-record-and-adoption-charter)).
+- point to the adopter's published [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record) and, once it is published, its [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter), so a reader can find them ([§12.4 Adoption Transition Record and Adoption Charter](#124-adoption-transition-record-and-adoption-charter)).
 
 #### 12.3 Joining by Additional Parties
 <details>
@@ -336,7 +336,7 @@ Additional parties may **join** as adopters under rules published by existing ad
 
 - Upstream: [§12.2](#122-adoption-document) adoption document.
 - Downstream: [Article XXIX-A](core_04.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*) (the Adoption Transition Record's contents and the final gate); [Chapter Nineteen §3.4 Gatekeeper Checks Across Adopters and Levels of Trust](core_19.000_final_effect_restoration_enforcement.md#34-gatekeeper-checks-across-adopters-and-levels-of-trust).
-- Read with: [Adoption Transition Record](core_03.040_band_continuity.md#adoption-transition-record) and [Adoption Charter](core_03.040_band_continuity.md#adoption-charter).
+- Read with: [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record) and [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter).
 
 </details>
 
@@ -346,13 +346,13 @@ Additional parties may **join** as adopters under rules published by existing ad
 
 Besides the adoption document, an adopter keeps and publishes two documents:
 
-- **Adoption Transition Record:** From the day the adopting document takes effect until the steady-state phase begins, the adopter keeps and publishes an [Adoption Transition Record](core_03.040_band_continuity.md#adoption-transition-record) with the contents [Article XXIX-A](core_04.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*) requires. It carries, marked provisional, the forum authority assignment, the record custodian and the office-level contact for gatekeeper checks, and the levels of trust the adopter extends. An adopter that extends any level of trust above the public level must have at least a provisional forum authority assignment.
-- **Adoption Charter:** When the adopter passes the final gate into the steady-state phase, it publishes an [Adoption Charter](core_03.040_band_continuity.md#adoption-charter) that confirms or replaces the provisional entries, and the Adoption Transition Record is closed and archived. The steady-state phase does not begin until the Adoption Charter is published.
-  - The Adoption Charter states the forum authority assignment; the record custodian for Standing Records and the office-level contact for gatekeeper checks; the level of trust extended to each other adopter, with its reasons, the technical advice it rests on, and any reasons for departing from that advice; standards agreed with other adopters; and a [Charter Pointer](core_03.040_band_continuity.md#charter-pointer) to each [Charter Role Map](core_03.040_band_continuity.md#charter-role-map) that applies to the adopter's systems and institutions.
-  - The office-level contact for gatekeeper checks is a routing contact. It either holds the Standing Record or tells the gatekeeper which record custodian does, using the [Charter Role Maps](core_03.040_band_continuity.md#charter-role-map) that apply and, where a map names no custodian for stakeholder Standing Records, the Backup Record Custodian ([CF-22.415 §11 Backup Record Custodian](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-11-backup-record-custodian); [Chapter Five §6.6.2 Stakeholder Standing Records](core_05.000_charters.md#662-stakeholder-standing-records)). Its answer times are set by the check-answer window in [Chapter Nineteen §3.1 Anti-Aggregation of Gated-Pathway Effects](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects).
-  - It is published as [Public Oversight Baseline Disclosure](core_03.050_band_oversight.md#public-oversight-baseline-disclosure) and names offices and roles only. A named sentient's address, phone number, or other contact details are never published in it.
+- **Adoption Transition Record:** From the day the adopting document takes effect until the steady-state phase begins, the adopter keeps and publishes an [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record) with the contents [Article XXIX-A](core_04.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*) requires. It carries, marked provisional, the forum authority assignment, the record custodian and the office-level contact for gatekeeper checks, and the levels of trust the adopter extends. An adopter that extends any level of trust above the public level must have at least a provisional forum authority assignment.
+- **Adoption Charter:** When the adopter passes the final gate into the steady-state phase, it publishes an [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter) that confirms or replaces the provisional entries, and the Adoption Transition Record is closed and archived. The steady-state phase does not begin until the Adoption Charter is published.
+  - The Adoption Charter states the forum authority assignment; the record custodian for Standing Records and the office-level contact for gatekeeper checks; the level of trust extended to each other adopter, with its reasons, the technical advice it rests on, and any reasons for departing from that advice; standards agreed with other adopters; and a [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) to each [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) that applies to the adopter's systems and institutions.
+  - The office-level contact for gatekeeper checks is a routing contact. It either holds the Standing Record or tells the gatekeeper which record custodian does, using the [Charter Role Maps](subcore_03.075_band_continuity.md#charter-role-map) that apply and, where a map names no custodian for stakeholder Standing Records, the Backup Record Custodian ([CF-22.415 §11 Backup Record Custodian](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-11-backup-record-custodian); [Chapter Five §6.6.2 Stakeholder Standing Records](core_05.000_charters.md#662-stakeholder-standing-records)). Its answer times are set by the check-answer window in [Chapter Nineteen §3.1 Anti-Aggregation of Gated-Pathway Effects](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects).
+  - It is published as [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) and names offices and roles only. A named sentient's address, phone number, or other contact details are never published in it.
 - **Changes:** A change to either document takes effect as a new dated version, published, and the earlier versions stay available.
-  - **An unplanned vacancy:** If the record custodian or the office-level contact becomes vacant or cannot act, that is a seat vacancy under [Chapter Six §6.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve](core_06.000_functional_independence_separation_of_duties.md#63-general-seat-vacancy-rule). The adopter publishes a new dated version naming the replacement within its [Class Repair Window](core_03.035_band_accountability.md#class-repair-window), and meanwhile the Backup Record Custodian ([CF-22.415 §11 Backup Record Custodian](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-11-backup-record-custodian)) answers gatekeeper checks for that adopter.
+  - **An unplanned vacancy:** If the record custodian or the office-level contact becomes vacant or cannot act, that is a seat vacancy under [Chapter Six §6.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve](core_06.000_functional_independence_separation_of_duties.md#63-general-seat-vacancy-rule). The adopter publishes a new dated version naming the replacement within its [Class Repair Window](subcore_03.070_band_accountability.md#class-repair-window), and meanwhile the Backup Record Custodian ([CF-22.415 §11 Backup Record Custodian](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-11-backup-record-custodian)) answers gatekeeper checks for that adopter.
 - **Review:** Once the Adoption Charter is published, the adopter confirms it, with its record custodian and office-level contact, at least once in each **Adoption Charter review interval**, which is twelve months, and publishes the confirmation as a new dated version.
 - **What neither document is:** The Adoption Transition Record and the Adoption Charter are not the adoption document, are not evidence of certification, and do not by themselves show that an Adoption Transition is complete.
 
@@ -371,7 +371,7 @@ Besides the adoption document, an adopter keeps and publishes two documents:
 
 *In plain terms: amending has to follow a visible process — real notice, real chance to object, independence where the chapter demands it — and effect dates have to be honest records, not retroactive surprises hidden from affected stakeholders.*
 
-A change to a [subcore](subcore_03.045_band_integrative.md#subcore) file is an amendment of this Constitution. It follows this chapter in full, including heightened review under **section 3** where it affects rights, and it may not be made as an edit to implementation text.
+A change to a [subcore](subcore_03.080_band_integrative.md#subcore) file is an amendment of this Constitution. It follows this chapter in full, including heightened review under **section 3** where it affects rights, and it may not be made as an edit to implementation text.
 
 #### 13.1 Notice and Contest
 <details>
@@ -451,7 +451,7 @@ This subsection sets out how a proposed change to the text of this Constitution 
 
 - Upstream: [Chapter Twenty-Seven §6](core_27.000_non_regression.md#6-layer-scope) (27.000 §6) substantive-chapter mirror; [§9](#9-review-triggers) and [§11](#11-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
 - Downstream: [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) and [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) remain sole canonical homes for listed taxonomies.
-- Read with: [Chapter Four — Owner Non-Relocation](core_04.000_rights_part_a.md#22-owner-non-relocation) (4.000) and [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
+- Read with: [Chapter Four — Owner Non-Relocation](core_04.000_rights_part_a.md#22-owner-non-relocation) (4.000) and [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
 
 </details>
 
@@ -459,11 +459,11 @@ This subsection sets out how a proposed change to the text of this Constitution 
 
 *In plain terms: Chapter Twenty-Eight owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Fifteen §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale or Chapter Twenty anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.*
 
-Under [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Any review-trigger, escalation-trigger, or referral-trigger language in this chapter — including mandatory escalation language in **section 9** (*Review Triggers*) and in **section 11** (*Invalid-Change Handling and Remediation Continuity*) — operates as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
+Under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer. Any review-trigger, escalation-trigger, or referral-trigger language in this chapter — including mandatory escalation language in **section 9** (*Review Triggers*) and in **section 11** (*Invalid-Change Handling and Remediation Continuity*) — operates as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
 Cross-layer drift that imports classification substance, sanction mechanics, or adjudicative workflow from another owner layer into **Chapter Twenty-Eight** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from review-trigger language — is **non-compliant** under this section.
 
-Future additions that touch offense-flavored or sanction-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), read with [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#owner-non-relocation).
+Future additions that touch offense-flavored or sanction-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Twenty-Eight layer routing index</span></strong></summary>

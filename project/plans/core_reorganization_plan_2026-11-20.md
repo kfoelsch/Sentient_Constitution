@@ -77,7 +77,7 @@ That gives three tiers, and a three-way placement test for every sentence:
 
 **What the tier needs before any content moves:**
 
-- the [Chapter Five *Corpus*](../../subcore_03.045_band_integrative.md#corpus) entry and the *Corpus and Authority Stack* definitions;
+- the [Chapter Five *Corpus*](../../subcore_03.080_band_integrative.md#corpus) entry and the *Corpus and Authority Stack* definitions;
 - [Preamble §9](../../core_01.000_constitutional_map.md#9-adopted-implementation-corpus), the owner register, and the [Chapter Thirty §4.1](../../core_29.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) hierarchy;
 - Chapter Twenty-Nine (amendment covers the subcore);
 - Chapter Thirty-One (the subcore needs no separate incorporation);
@@ -190,7 +190,7 @@ Added at the custodian's request (2026-11-20: "the section 2 TODO … should be 
 | 4a | Section 2 audit (CHAPTER-S2-WHY) | small | step 4 |
 | 5 | Lean office texts | small | step 4 |
 | 6 | Forum intake to a Chapter Twenty-Three subcore file (pilot) | medium | steps 2 and 4 |
-| 7 | Definitions bands to a definitions subcore | large | step 6 reviewed |
+| 7 | Definitions bands to a definitions subcore (done 2026-11-20, 824th and 827th moves: Subcores 3-D to 3-O, files 03.040 to 03.095) | large | step 6 reviewed |
 | 8 | Pipeline chapters, one at a time | large | step 6 reviewed |
 | 9 | Corpus content promoted to the subcore (section 4, item 5) | large | step 7 pilot reviewed |
 
