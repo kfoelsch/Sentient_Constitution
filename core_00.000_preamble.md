@@ -560,7 +560,9 @@ Beyond the numbered `core_*` chapters, four adopted corpora complete the [consti
 
 When an adopter validly incorporates them under [Chapter Thirty-One](core_31.000_incorporation.md), these files bind as implementation text within the adoption scope. Sentient Constitution meaning still controls — they **implement, not narrow**, the chapters above. Edition pinning, custody chains, and the no-silent-drift rule keep adopted text traceable to what was actually ratified. The canonical list and boundary rules live in [Chapter Five — Corpus](core_05.045_band_integrative.md#corpus).
 
-Principles, definitions, rights, process pipelines, governance, amendment rules, and incorporated implementation must be read together to preserve the Constitution's protective purpose.
+Between the chapters and the adopted corpora sits the [**subcore**](core_05.045_band_integrative.md#subcore): `subcore_*` files that hold the full detail of guarantees and procedure that must be the same for every adopter. Each belongs to one chapter, binds as that chapter does, and changes only by amendment under [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity). The chapter states each guarantee in plain words; its subcore file gives the full rule.
+
+Principles, definitions, rights, process pipelines, governance, amendment rules, the subcore, and incorporated implementation must be read together to preserve the Constitution's protective purpose.
 
 ---
 

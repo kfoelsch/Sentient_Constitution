@@ -95,6 +95,7 @@ Chapter Thirty-One is the constitutional owner of **the incorporation bridge**, 
 - Those files carry out this Constitution under **Chapter One**. They do not replace it.
 - Combining the files into one document for packaging does **not** change their status, as long as they stay on that list.
 - A reference to **Chapter Thirty-One** or to an incorporated file, anywhere in these volumes, brings in the matching **adopted** obligations, but only **where they apply** and **only within the stated adoption scope**.
+- The [subcore](core_05.045_band_integrative.md#subcore) is **not** implementation text. It is part of this Constitution, binds every adopter without separate incorporation, and is pinned by the same edition as the chapters it belongs to.
 
 **Chapter scope:** The chapter covers:
 

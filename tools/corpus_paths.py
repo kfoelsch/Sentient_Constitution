@@ -93,8 +93,21 @@ def adopted_implementation_subfiles(root: Path) -> list[str]:
     return paths
 
 
+SUBCORE_GLOB = "subcore_*.md"
+
+
+def subcore_files(root: Path) -> list[str]:
+    """Binding subcore files (TIER-PLACE-01): same force as the core, kept at the root."""
+    return [path.name for path in sorted(root.glob(SUBCORE_GLOB)) if path.is_file()]
+
+
 def binding_corpus_scope(root: Path, *, include_support_docs: bool = False) -> list[str]:
-    scope = [*CORE_FILES, *ADOPTED_IMPLEMENTATION_WRAPPERS, *adopted_implementation_subfiles(root)]
+    scope = [
+        *CORE_FILES,
+        *subcore_files(root),
+        *ADOPTED_IMPLEMENTATION_WRAPPERS,
+        *adopted_implementation_subfiles(root),
+    ]
     if include_support_docs:
         scope.extend(SUPPORT_DOCS)
     return scope

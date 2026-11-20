@@ -35,7 +35,7 @@ Chapter Twenty-Nine is the constitutional owner of **procedural and custody vali
 
 *In plain terms: a change can be substantively fine and still fail because of how it was made. This chapter is the procedural and paperwork spine for legitimate change, and it holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody that proves the text is the real one, and a contest path that works, so that independent reviewers and the public can challenge the change. A rights-affecting update must not snap irreversibly into place before those guardrails have actually run.*
 
-**Purpose:** This Constitution may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions, subject to **Chapter Twenty-Eight** (non-regression), **Chapter Thirty** (supremacy and external-order interface), subject to the validity conditions in this chapter.
+**Purpose:** This Constitution, including its [subcore](core_05.045_band_integrative.md#subcore), may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions, subject to **Chapter Twenty-Eight** (non-regression), **Chapter Thirty** (supremacy and external-order interface), subject to the validity conditions in this chapter.
 
 **Role:** The chapter is the procedural half of change validity. It covers whether a change was made the right way, and what happens when it was not:
 
@@ -354,6 +354,8 @@ Besides the adoption document, an adopter keeps and publishes two documents:
 <br>
 
 *In plain terms: amending has to follow a visible process — real notice, real chance to object, independence where the chapter demands it — and effect dates have to be honest records, not retroactive surprises hidden from affected stakeholders.*
+
+A change to a [subcore](core_05.045_band_integrative.md#subcore) file is an amendment of this Constitution. It follows this chapter in full, including heightened review under **section 2** where it affects rights, and it may not be made as an edit to implementation text.
 
 #### 12.1 Notice and Contest
 <details>

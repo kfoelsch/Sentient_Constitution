@@ -1,11 +1,11 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T07:48:54+00:00",
+  "generated_at": "2026-11-20T08:57:10+00:00",
   "files": {
     "core_00.000_preamble.md": {
-      "total_lines": 569,
+      "total_lines": 571,
       "sections": [
-        {"header":"PREAMBLE / FOUNDATIONAL REQUIREMENTS","level":1,"line_start":2,"line_end":569,"anchor":"#chapter-00-preamble--foundational-requirements"},
+        {"header":"PREAMBLE / FOUNDATIONAL REQUIREMENTS","level":1,"line_start":2,"line_end":571,"anchor":"#chapter-00-preamble--foundational-requirements"},
         {"header":"What Systems Reward","level":3,"line_start":30,"line_end":67,"anchor":"#what-systems-reward"},
         {"header":"1. The Model","level":3,"line_start":68,"line_end":113,"anchor":"#two-fundamental-questions"},
         {"header":"2. Measurements Overview","level":3,"line_start":114,"line_end":141,"anchor":"#2-measurements-overview"},
@@ -21,7 +21,7 @@
         {"header":"6.2 How the Full Chain Fits Together","level":4,"line_start":412,"line_end":430,"anchor":"#62-how-the-full-chain-fits-together"},
         {"header":"7. Process Ownership and Outputs","level":3,"line_start":431,"line_end":516,"anchor":"#7-process-ownership-and-outputs"},
         {"header":"8. Governance, Change, and Incorporation","level":3,"line_start":517,"line_end":549,"anchor":"#8-governance-change-and-incorporation"},
-        {"header":"9. Adopted Implementation Corpus","level":3,"line_start":550,"line_end":569,"anchor":null}
+        {"header":"9. Adopted Implementation Corpus","level":3,"line_start":550,"line_end":571,"anchor":null}
       ]
     },
     "core_01.000_values_principles.md": {
@@ -550,9 +550,9 @@
       ]
     },
     "core_05.045_band_integrative.md": {
-      "total_lines": 1291,
+      "total_lines": 1298,
       "sections": [
-        {"header":"Integrative Constitutional Definitions","level":1,"line_start":1,"line_end":1291,"anchor":null},
+        {"header":"Integrative Constitutional Definitions","level":1,"line_start":1,"line_end":1298,"anchor":null},
         {"header":"Integrative: Independent Terms","level":3,"line_start":36,"line_end":642,"anchor":"#non-compliance"},
         {"header":"Non-Compliance","level":4,"line_start":40,"line_end":92,"anchor":null},
         {"header":"Constitutional Contract Layer","level":4,"line_start":93,"line_end":153,"anchor":"#constitutional-contract-layer"},
@@ -574,11 +574,11 @@
         {"header":"Misalignment Detection","level":5,"line_start":869,"line_end":913,"anchor":"#misalignment-detection"},
         {"header":"Open Systems, Data, and Auditing","level":5,"line_start":914,"line_end":952,"anchor":"#open-systems-data-and-auditing"},
         {"header":"Misaligned Reward Correction","level":5,"line_start":953,"line_end":988,"anchor":"#misaligned-reward-correction"},
-        {"header":"Integrative: Dependent Clusters","level":3,"line_start":989,"line_end":1291,"anchor":"#misaligned-reward-correction-c"},
-        {"header":"Def.I1 Corpus and Authority Stack","level":4,"line_start":994,"line_end":1291,"anchor":"#corpus-authority-stack-supremacy-and-enforceability-cluster"},
-        {"header":"Corpus","level":5,"line_start":1053,"line_end":1099,"anchor":"#corpus"},
-        {"header":"Authority Stack and Internal Hierarchy","level":5,"line_start":1100,"line_end":1211,"anchor":"#authority-stack"},
-        {"header":"Constitutional Constraint","level":5,"line_start":1212,"line_end":1291,"anchor":"#constitutional-constraint"}
+        {"header":"Integrative: Dependent Clusters","level":3,"line_start":989,"line_end":1298,"anchor":"#misaligned-reward-correction-c"},
+        {"header":"Def.I1 Corpus and Authority Stack","level":4,"line_start":994,"line_end":1298,"anchor":"#corpus-authority-stack-supremacy-and-enforceability-cluster"},
+        {"header":"Corpus","level":5,"line_start":1053,"line_end":1106,"anchor":"#corpus"},
+        {"header":"Authority Stack and Internal Hierarchy","level":5,"line_start":1107,"line_end":1218,"anchor":"#authority-stack"},
+        {"header":"Constitutional Constraint","level":5,"line_start":1219,"line_end":1298,"anchor":"#constitutional-constraint"}
       ]
     },
     "core_05.050_band_oversight.md": {
@@ -1633,9 +1633,9 @@
       ]
     },
     "core_29.000_amendment_ratification.md": {
-      "total_lines": 465,
+      "total_lines": 467,
       "sections": [
-        {"header":"CHAPTER TWENTY-NINE: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY","level":1,"line_start":1,"line_end":465,"anchor":null},
+        {"header":"CHAPTER TWENTY-NINE: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY","level":1,"line_start":1,"line_end":467,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":34,"line_end":69,"anchor":null},
         {"header":"2. Heightened Review for Rights-Affecting Changes","level":3,"line_start":70,"line_end":85,"anchor":null},
         {"header":"3. Burden of Justification and Public Traceability","level":3,"line_start":86,"line_end":101,"anchor":null},
@@ -1651,11 +1651,11 @@
         {"header":"11.2 Adoption Document","level":4,"line_start":279,"line_end":300,"anchor":null},
         {"header":"11.3 Joining by Additional Parties","level":4,"line_start":301,"line_end":316,"anchor":null},
         {"header":"11.4 Adoption Transition Record and Adoption Charter","level":4,"line_start":317,"line_end":342,"anchor":null},
-        {"header":"12. Amendment Procedure Requirements","level":3,"line_start":343,"line_end":430,"anchor":null},
-        {"header":"12.1 Notice and Contest","level":4,"line_start":358,"line_end":373,"anchor":null},
-        {"header":"12.2 Recorded Effectiveness","level":4,"line_start":374,"line_end":389,"anchor":null},
-        {"header":"12.3 Proposal, Hearing, and Comment Window","level":4,"line_start":390,"line_end":430,"anchor":null},
-        {"header":"13. Owner Non-Relocation","level":3,"line_start":431,"line_end":465,"anchor":"#13-owner-non-relocation"}
+        {"header":"12. Amendment Procedure Requirements","level":3,"line_start":343,"line_end":432,"anchor":null},
+        {"header":"12.1 Notice and Contest","level":4,"line_start":360,"line_end":375,"anchor":null},
+        {"header":"12.2 Recorded Effectiveness","level":4,"line_start":376,"line_end":391,"anchor":null},
+        {"header":"12.3 Proposal, Hearing, and Comment Window","level":4,"line_start":392,"line_end":432,"anchor":null},
+        {"header":"13. Owner Non-Relocation","level":3,"line_start":433,"line_end":467,"anchor":"#13-owner-non-relocation"}
       ]
     },
     "core_30.000_expansion_supremacy.md": {
@@ -1678,13 +1678,13 @@
       ]
     },
     "core_31.000_incorporation.md": {
-      "total_lines": 228,
+      "total_lines": 229,
       "sections": [
-        {"header":"CHAPTER THIRTY-ONE: INCORPORATION BRIDGE","level":1,"line_start":1,"line_end":228,"anchor":null},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":57,"line_end":106,"anchor":null},
-        {"header":"2. Custody, Editions, and Operative Effect","level":3,"line_start":107,"line_end":154,"anchor":null},
-        {"header":"3. Safeguards","level":3,"line_start":155,"line_end":191,"anchor":null},
-        {"header":"4. Adoption Framing and Scope of Authority","level":3,"line_start":192,"line_end":228,"anchor":null}
+        {"header":"CHAPTER THIRTY-ONE: INCORPORATION BRIDGE","level":1,"line_start":1,"line_end":229,"anchor":null},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":57,"line_end":107,"anchor":null},
+        {"header":"2. Custody, Editions, and Operative Effect","level":3,"line_start":108,"line_end":155,"anchor":null},
+        {"header":"3. Safeguards","level":3,"line_start":156,"line_end":192,"anchor":null},
+        {"header":"4. Adoption Framing and Scope of Authority","level":3,"line_start":193,"line_end":229,"anchor":null}
       ]
     },
     "corpus_systems.md": {

@@ -1068,13 +1068,20 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: the Corpus is the official, versioned set of binding constitutional texts — not drafts, notes, or unofficial copies.*
+*In plain terms: the Corpus is the official, versioned set of binding constitutional texts — not drafts, notes, or unofficial copies. It has three tiers: the core chapters, written to be read; the subcore, which holds the full detail that must be the same for every adopter and binds exactly as the core does; and adopted implementation text, which may differ between adopters and binds only as adopted.*
 
 - **What it is**
   - **In scope:** The authoritative integrated set of binding constitutional sources:
     - the numbered `core_*` Sentient Constitution files read as one text;
+    - the subcore;
     - any valid compatibility wrappers during transition; and
     - adopted implementation text.
+
+    <a id="subcore"></a>
+    - **Subcore:** binding constitutional text kept outside the `core_*` files, in `subcore_*` files, so the chapters stay readable. The subcore works as follows:
+      - **Part of this Constitution:** Each subcore file belongs to one numbered chapter, which lists it. It has the same force as that chapter and binds every adopter without separate incorporation.
+      - **Amended the same way:** A subcore file changes only by amendment under [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity), including heightened review under its section 2 for a change that affects rights.
+      - **Details, never narrows:** The chapter states each guarantee at least in one plain line; its subcore file gives the full rule and procedure. A subcore file may not narrow its chapter. Where a chapter and its subcore file seem to differ, the reading more protective of the affected sentient controls, and the difference is corrected by amendment.
 
     Sources are versioned and custodied through valid adoption and edition controls under the [Corpus and Authority Stack cluster](core_05.045_band_integrative.md#defi1-corpus-and-authority-stack).
   - **Out of scope:**
@@ -1127,7 +1134,7 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:** The paired rule that first decides which kind of source is speaking, and whether it binds, across the operative [Corpus](core_05.045_band_integrative.md#corpus) — and only then, if a real conflict remains inside the binding Constitution, how to resolve it. Source layers include:
-    - **binding constitutional sources** — the [Preamble](core_00.000_preamble.md), [Chapter One](core_01.000_values_principles.md), and the other numbered chapters of this Constitution, read together as one text;
+    - **binding constitutional sources** — the [Preamble](core_00.000_preamble.md), [Chapter One](core_01.000_values_principles.md), the other numbered chapters of this Constitution, and the [subcore](core_05.045_band_integrative.md#subcore) files each chapter lists, read together as one text;
     - **binding incorporated implementation sources** — designated obligations in adopted implementation text, within valid adoption and incorporation scope under [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) and [Chapter Thirty-One](core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge); and
     - **process and map support sources** — architecture maps, worklists, and regression or evidence records (including [doc_architecture.md](doc_architecture.md)), unless a valid adopting document expressly incorporates them as binding.
 
