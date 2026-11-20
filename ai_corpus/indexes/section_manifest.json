@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-19T18:22:39+00:00",
+  "generated_at": "2026-11-20T01:39:22+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -1936,16 +1936,16 @@
       ]
     },
     "corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md": {
-      "total_lines": 295,
+      "total_lines": 293,
       "sections": [
-        {"header":"CJS-31.110: Specific Joint Interlocks and Shared Abstractions","level":1,"line_start":1,"line_end":295,"anchor":null},
+        {"header":"CJS-31.110: Specific Joint Interlocks and Shared Abstractions","level":1,"line_start":1,"line_end":293,"anchor":null},
         {"header":"Purpose, Role, and Scope","level":2,"line_start":69,"line_end":94,"anchor":null},
-        {"header":"CJS-31.110 §1 Hybrid Delegated Authority (Delegated Binding Bodies)","level":2,"line_start":95,"line_end":163,"anchor":"#cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies"},
-        {"header":"CJS-31.110 §1.1 Composition Minimum","level":3,"line_start":121,"line_end":149,"anchor":null},
-        {"header":"CJS-31.110 §1.2 Attachment Publication","level":3,"line_start":150,"line_end":163,"anchor":null},
-        {"header":"CJS-31.110 §3 Cross-Implementation Trust Integrity (Joint Operation Model)","level":2,"line_start":164,"line_end":207,"anchor":null},
-        {"header":"CJS-31.110 §4 Class-Scaled Lane Staffing and Competency Redundancy","level":2,"line_start":208,"line_end":247,"anchor":null},
-        {"header":"CJS-31.110 §5 Shared Procedural Abstractions for Delegated Bodies and Forum Routing","level":2,"line_start":248,"line_end":295,"anchor":null}
+        {"header":"CJS-31.110 §1 Hybrid Delegated Authority (Delegated Binding Bodies)","level":2,"line_start":95,"line_end":161,"anchor":"#cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies"},
+        {"header":"CJS-31.110 §1.1 Composition Minimum","level":3,"line_start":121,"line_end":148,"anchor":null},
+        {"header":"CJS-31.110 §1.2 Attachment Publication","level":3,"line_start":149,"line_end":161,"anchor":null},
+        {"header":"CJS-31.110 §3 Cross-Implementation Trust Integrity (Joint Operation Model)","level":2,"line_start":162,"line_end":205,"anchor":null},
+        {"header":"CJS-31.110 §4 Class-Scaled Lane Staffing and Competency Redundancy","level":2,"line_start":206,"line_end":245,"anchor":null},
+        {"header":"CJS-31.110 §5 Shared Procedural Abstractions for Delegated Bodies and Forum Routing","level":2,"line_start":246,"line_end":293,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_reader_guide.md": {
