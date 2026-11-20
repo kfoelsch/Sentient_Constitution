@@ -162,7 +162,7 @@ These were recorded as open or "to confirm" in moves now archived in [archive/DO
 
 ### Carried from the archived move log, 2026-11-20 run (moves 805–812)
 
-- [ ] Bank supervision body (810th move): draft the chapter for the separate Independent Body that [project/plans/public_monetary_office_draft_2026-11-19.md](project/plans/public_monetary_office_draft_2026-11-19.md) §5 names (bank and payment-provider supervision, deposit protection, bank resolution).
+- [x] Bank supervision body (810th move): drafted 2026-11-20 as [project/plans/bank_supervision_office_draft_2026-11-20.md](project/plans/bank_supervision_office_draft_2026-11-20.md); its provisional choices await the custodian.
 - [ ] Provisional defaults (810th and 812th moves): confirm or change the defaults in the monetary and debt office drafts (emergency borrowers named after two years, five-year target review, five-year compensation-account correction, escape-clause terms) and in Chapter Eight §11 (three-week minutes window, five-year transcript delay, one-week quiet period, five-year method-review interval).
 
 ### Whole-project evaluation — open hesitations (Claude review, 2026-11-15)

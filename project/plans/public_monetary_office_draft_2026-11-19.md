@@ -21,7 +21,7 @@ against the live text; they will be rewritten when the chapter is placed.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to set the target and choose the exchange-rate regime, subject to this chapter.
-> - A new chapter would establish the bank supervision body named in §5.
+> - A new chapter would establish the bank supervision body named in §5; it is drafted in [bank_supervision_office_draft_2026-11-20.md](bank_supervision_office_draft_2026-11-20.md).
 > - A new corpus-institutions file would hold the target method, the financial-stability framework, the collateral framework, the reserve-management policy, and ledger fields.
 >
 > **Move log.** Drafted under the seven hundred and eightieth move; revised under the eight hundred and tenth (number provisional under MOVE-NUMBER-01).
@@ -186,7 +186,7 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 - by rules that apply alike to every firm in the same class, never to favor or punish a firm; and
 - with a published decision and reasons, on the same calendar and transparency rules as its other decisions.
 
-**Bank supervision body.** Supervision of individual banks and payment providers, deposit protection, and the resolution of a failing bank belong to a separate Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), established by its own chapter. That chapter must at least provide that:
+**Bank supervision body.** Supervision of individual banks and payment providers, deposit protection, and the resolution of a failing bank belong to a separate Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), established by its own chapter (drafted as the [Bank Supervision Office](bank_supervision_office_draft_2026-11-20.md)). That chapter must at least provide that:
 
 - the body applies the office's system-wide tools to individual firms, and sets firm-specific requirements under published standards;
 - deposit protection is funded by charges on the protected firms, held in a fund apart from public revenue;
