@@ -146,7 +146,7 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 **Independent Body:** The Public Monetary Office is an Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, the Public Finance Office, and every bank or payment provider it deals with;
-- the protected decision-makers are the members of its decision board, who serve long, staggered, non-renewable terms; and
+- the protected decision-makers are the members of its decision board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in monetary economics, public debt, or payment systems. They serve long, staggered, non-renewable terms; and
 - its own costs are paid from its operating income under a published budget, as a self-funded body under *Protected funding* in Chapter Eight §11, building its own reserve from that income, and any surplus goes to the governing authority's general revenue by a published rule, never at the office's choice.
 
 **Seat map:** Every materially binding act of the office, such as setting a policy rate, issuing debt, or lending in an emergency, places the four seats under Chapter Eight. The independent check seat is an auditor outside the office.
