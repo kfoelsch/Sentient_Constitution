@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T05:16:59+00:00",
+  "generated_at": "2026-11-20T05:21:59+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -2759,13 +2759,15 @@
       ]
     },
     "corpus_forum/cf_23.455_fallback_operation.md": {
-      "total_lines": 138,
+      "total_lines": 156,
       "sections": [
-        {"header":"CF-23.455: Fallback Operation","level":1,"line_start":1,"line_end":138,"anchor":null},
-        {"header":"CF-23.455 §1 Temporary Quorum and Provisional Authority","level":2,"line_start":71,"line_end":83,"anchor":null},
-        {"header":"CF-23.455 §2 Fallback Venues and Backup Forums","level":2,"line_start":84,"line_end":95,"anchor":null},
-        {"header":"CF-23.455 §3 Capture-Sensitive Fallback Operation","level":2,"line_start":96,"line_end":106,"anchor":null},
-        {"header":"CF-23.455 §4 Family-Capture Fallback Operation","level":2,"line_start":107,"line_end":138,"anchor":null}
+        {"header":"CF-23.455: Fallback Operation","level":1,"line_start":1,"line_end":156,"anchor":null},
+        {"header":"CF-23.455 §1 Purpose, Role, and Scope","level":2,"line_start":63,"line_end":74,"anchor":null},
+        {"header":"CF-23.455 §2 Why Forum Fallback Exists","level":2,"line_start":75,"line_end":88,"anchor":null},
+        {"header":"CF-23.455 §3 Temporary Quorum and Provisional Authority","level":2,"line_start":89,"line_end":101,"anchor":null},
+        {"header":"CF-23.455 §4 Fallback Venues and Backup Forums","level":2,"line_start":102,"line_end":113,"anchor":null},
+        {"header":"CF-23.455 §5 Capture-Sensitive Fallback Operation","level":2,"line_start":114,"line_end":124,"anchor":null},
+        {"header":"CF-23.455 §6 Family-Capture Fallback Operation","level":2,"line_start":125,"line_end":156,"anchor":null}
       ]
     },
     "corpus_forum/cf_23.460_emergency_adjudication.md": {
