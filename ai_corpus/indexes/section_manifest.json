@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T04:28:29+00:00",
+  "generated_at": "2026-11-20T05:00:44+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -2808,9 +2808,12 @@
       ]
     },
     "corpus_forum/cf_23.475_sentience_status_record.md": {
-      "total_lines": 82,
+      "total_lines": 94,
       "sections": [
-        {"header":"Sentience-Status Adjudication Record (Implementation Protocol)","level":1,"line_start":1,"line_end":82,"anchor":null}
+        {"header":"Sentience-Status Adjudication Record (Implementation Protocol)","level":1,"line_start":1,"line_end":94,"anchor":null},
+        {"header":"1. Purpose, Role, and Scope","level":2,"line_start":50,"line_end":55,"anchor":null},
+        {"header":"2. Why the Sentience-Status Record Exists","level":2,"line_start":56,"line_end":64,"anchor":null},
+        {"header":"3. Record Format and Boundaries","level":2,"line_start":65,"line_end":94,"anchor":null}
       ]
     }
   }
