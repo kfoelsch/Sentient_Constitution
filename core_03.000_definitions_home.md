@@ -43,17 +43,17 @@ Two rules govern how another chapter meets a Chapter Three definition once it in
 **Chapter scope:** The chapter covers:
 
 - the canonical home and non-duplication rule (**section 2**);
-- the meta rules for independent definitions (**section 3**) and for dependent clusters (**section 4**);
+- the rules for independent definitions (**section 3**) and for dependent clusters (**section 4**);
 - how definitions and proof work, stated in one line for each guarantee, with the full rules in the chapter's subcore files (**section 5**);
-- every defined term in one line, linked to its full definition (**section 6**); and
-- the alphabetical directory, the compass and definition map, and the measurement crosswalk, which say where each definition is found.
+- the alphabetical directory, the compass and definition map, and the measurement crosswalk, which say where each definition is found; and
+- two complete definitions, one independent definition and one dependent cluster, shown in full as examples of the structure every definition has (**section 6**, which closes the chapter).
 
 Chapter Three is the overview; the full text sits in its subcore files:
 
 - how a definition is built, in Subcore 3-A;
 - what counts as failing an applicable definition, in Subcore 3-B;
 - burden of proof, traceability, and verification, in Subcore 3-C; and
-- the full definitions, band by band, starting with the Integrative terms in Subcore 3-D. The bands not yet moved are still in this chapter's band files (**section 6.2**).
+- the full definitions, band by band, starting with the Integrative terms in [Subcore 3-D](subcore_03.045_band_integrative.md#subcore-3-d-integrative-definitions). The bands not yet moved are still in this chapter's band and apex files, listed in the [compass](#chapter-three-compass-and-definition-map).
 
 <a id="2-canonical-home-and-non-duplication-rule"></a>
 <a id="2-why-definitions-have-one-home"></a>
@@ -190,48 +190,6 @@ These guarantees hold for every definition and every compliance claim under this
 - **Whoever claims compliance proves it:** the burden of proof is on the one who claims to comply, not on the sentient affected, and the proof must be traceable, open to inspection, and checkable by others, even where security limits how or when it is shown ([Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification), *Burden of Proof, Traceability, and Verification*).
 
 Each subcore file gives the full rule. None of them may narrow a line in this section.
-
-<a id="6-definitions-at-a-glance"></a>
-### 6. Definitions at a Glance
-
-*In plain terms: every defined term in one line, with a link to its full definition. The one-line summaries help you find a term; the full definition decides what it means.*
-
-Each entry names a term, says in one line what it is, and links its full definition. A summary here never narrows or replaces the full definition it links. Where the two seem to differ, the full definition controls.
-
-<a id="61-integrative-terms"></a>
-#### 6.1 Integrative Terms
-
-These terms must be met across several Tetrad legs at once. Their full definitions are in [Subcore 3-D](subcore_03.045_band_integrative.md#subcore-3-d-integrative-definitions), *Integrative Definitions*.
-
-- **[Non-Compliance](subcore_03.045_band_integrative.md#non-compliance)**: A system or definition is non-compliant when its requirements are not met in practice — judged by what it actually does and produces, through the measures that apply, when the system is running as a whole.
-- **[Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer)**: The layer that answers who may govern, by what legitimacy, and under what lasting terms — not ordinary consultation, usage, or branding.
-- **[Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice)**: Decisions about who holds governing authority, by what mechanism, and on what lasting terms — one-person-one-voice at that founding layer, not impact-weighted ordinary stakeholder voting.
-- **[Documented Legitimacy Mechanism](subcore_03.045_band_integrative.md#documented-legitimacy-mechanism)**: The written, published rule an adopter uses to decide how governing power is granted, renewed, and handed on — such as elections, a civic lottery, federation votes, or a treaty, compact, or Constitutional Charter adopted with recorded agreement.
-- **[Innovation Reward and Anti-Enclosure](subcore_03.045_band_integrative.md#innovation-reward-and-anti-enclosure)**: Real invention and useful creation are rewarded, but the reward may not harden into lasting lock-up of repair, reuse, research, or public-interest use.
-- **[No-Bypass](subcore_03.045_band_integrative.md#no-bypass)**: A constitutional requirement follows the act, not its packaging.
-- **[Constitutional Collision](subcore_03.045_band_integrative.md#constitutional-collision)**: A collision is when two things this Constitution requires cannot both be fully done in the same act, decision, or design, so honoring one limits the other.
-- **[Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record)**: A Collision Record is the written account of how one material Constitutional Collision was decided.
-- **[Derived Information](subcore_03.045_band_integrative.md#derived-information)**: Derived information is anything produced by combining, linking, inferring from, modeling, or de-identifying other information.
-- **[Abstract Strictness](subcore_03.045_band_integrative.md#abstract-strictness)**: Abstract strictness means choosing the harshest, most demanding, or most restrictive reading of a text just because it is harsher, without showing that it protects anyone more.
-- **[Fullest Protective Effect](subcore_03.045_band_integrative.md#fullest-protective-effect)**: When two readings or two rules apply to the same thing, the one that protects sentients most, taken as a whole, is the one that applies.
-- **[Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.045_band_integrative.md#incentive-alignment-proxy-integrity-and-contingent-settlement)**, a group of related terms:
-  - **[Incentive Alignment](subcore_03.045_band_integrative.md#incentive-alignment)**: Rewards, targets, and governance signals must push agents and systems toward real constitutional outcomes — not toward proxies, loopholes, or capture.
-  - **[Incentive Alignment — Baseline Constitutional Alignment](subcore_03.045_band_integrative.md#incentive-alignment--baseline-constitutional-alignment)**: Incentives must stay aligned with safety, truth, trust, and meaningful agency over time — not only in the short term.
-  - **[Incentive Alignment — Strategic, Scaled, and Adversarial Evaluation](subcore_03.045_band_integrative.md#incentive-alignment--strategic-scaled-and-adversarial-evaluation)**: Incentives are checked under gaming, scale, coordination, and deliberate misuse, not only under polite lab conditions.
-  - **[Incentive Alignment — Contingent Claims, Games of Chance, and Event-Contract Markets](subcore_03.045_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets)**: Bets, prediction markets, and chance-based payouts must not reward unlawful harm, insider power, or twisting of public or fiduciary decisions.
-  - **[Misalignment Detection](subcore_03.045_band_integrative.md#misalignment-detection)**: No one gets to be the only one who can spot, check, or challenge when governance goes wrong.
-  - **[Open Systems, Data, and Auditing](subcore_03.045_band_integrative.md#open-systems-data-and-auditing)**: The information needed to check governance must stay open.
-  - **[Misaligned Reward Correction](subcore_03.045_band_integrative.md#misaligned-reward-correction)**: Once misalignment is verified, rewards that came through a misaligned or corrupt reward pathway cannot be quietly kept.
-- **[Corpus and Authority Stack](subcore_03.045_band_integrative.md#defi1-corpus-and-authority-stack)**: This cluster answers which text is binding, which source wins in a conflict, whether claimed duties can actually be checked and enforced, and — with the Chapter One owner register — who owns which topic.
-  - **[Corpus](subcore_03.045_band_integrative.md#corpus)**: The Corpus is the official, versioned set of binding constitutional texts — not drafts, notes, or unofficial copies.
-  - **[Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy)**: The order for settling what binds: first which source layer is speaking and whether it binds, then which chapter owns the topic, and only then, for a real conflict, the last-resort hierarchy.
-  - **[Constitutional Constraint](subcore_03.045_band_integrative.md#constitutional-constraint)**: A constitutional constraint is a binding limit that decides whether a claim, action, or practice is valid under this Constitution — not optional advice.
-
-<a id="62-terms-not-yet-moved"></a>
-#### 6.2 Terms Not Yet Moved
-
-The full definitions of the other bands and of the aim and leg heads are still in this chapter's band and apex files, listed in the [compass](#chapter-three-compass-and-definition-map). Each moves to its own subcore file, and gains its one-line entries here, in later passes.
-
 
 ---
 
@@ -670,6 +628,258 @@ Chapter Three definitions are sorted by the [Two Constitutional Aims](core_00.00
 | [Constitutional Performance measurement family](core_03.060_band_performance.md#measuring-constitutional-performance-preamble-measurement-family) | Are constitutional outcomes delivered efficiently without pointless waste? | [Continuity](core_03.040_band_continuity.md) | Family-home in [`core_03.060_band_performance.md`](core_03.060_band_performance.md); all leaf bodies currently in **Continuity** because they are Continuity-band cluster members (stewardship / shared-system capacity / proportionality–burden–efficiency) — instrumental to both aims; not a Tetrad leg. Parallel to Timeliness: family home ≠ leaf home |
 
 </details>
+
+<br>
+
+<a id="6-two-complete-definitions"></a>
+### 6. Two Complete Definitions
+
+*In plain terms: two real definitions, copied in full, to show what every definition in this Constitution looks like. There is no short version of any definition: a definition applies only as its full text.*
+
+This section shows two definitions exactly as they appear in their canonical homes: one independent definition and one dependent cluster. They are examples for reading, not separate text. Each copy is kept identical to its canonical home, and the canonical home controls.
+
+**There is no short form of a definition.** A definition's name, its plain-terms line, or a summary of it elsewhere never stands in for the definition. A definition is invoked, satisfied, and judged only in its full text, with all of its parts ([section 3](#3-independent-definitions) and [section 4](#4-dependent-cluster-rules)).
+
+Every definition has the same parts:
+
+- a **Trace**, which says where the definition comes from and what it must be read with;
+- an ***In plain terms*** line, which helps the reader but never narrows the definition;
+- **What it is**, the Ontological (O) part, which sets what is in scope and what is out;
+- **How to measure and assess**, the Measurement (M) and Assessment (A) parts, which say how the definition is checked; and
+- **What must hold**, the Compliance (C) part, which says what counts as failing it.
+
+A dependent cluster adds a head before its members. The head says when the cluster applies, lists its members, and names, under **Anti-bypass**, the parts that may not be met one at a time.
+
+<a id="61-an-independent-definition-no-bypass"></a>
+#### 6.1 An Independent Definition: No-Bypass
+
+[No-Bypass](subcore_03.045_band_integrative.md#no-bypass) is one of the shortest independent definitions. Its canonical home is [Subcore 3-D](subcore_03.045_band_integrative.md#subcore-3-d-integrative-definitions).
+
+<!-- ch3-example:start subcore_03.045_band_integrative.md#no-bypass #### No-Bypass -->
+
+---
+
+##### No-Bypass
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream: Principles: [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1); [Article XXVIII-B](core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
+- Read with:
+  - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy),
+  - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
+  - [Auditability](core_03.050_band_oversight.md#auditability), and
+  - [Contestability](core_03.035_band_accountability.md#contestability). Cluster-local **Anti-bypass** rules apply this definition inside their own cluster.
+
+</details>
+
+<br>
+
+*In plain terms: a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, document, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution. Whether a requirement was met is judged on checkable evidence of what the act does, not on its own label or paperwork.*
+
+- **What it is**
+  - **In scope:** A constitutional requirement attaches to the substantive act. It cannot be avoided by changing the label, route, owner (including a supplier, partner, or other system that performs or bears the act), forum, document, or timing of that same act, and packaging the act as a special process does not skip it. Whether a requirement was met is judged on what the act substantively is and does, shown by evidence that can be checked, not on the actor's own label, self-report, or paperwork. Emergency designation, Adoption Transition planning, implementation detail, custody transfer, certification, contract, standing consequence, institutional restructuring, efficiency, cost, innovation, or scale justification, administrative convenience, and comparable framings are allowed only if the step itself follows this Constitution. They may not be used to bypass Rights-Floor minimums, the rules for lawfully changing the Constitution, [Contestability](core_03.035_band_accountability.md#contestability), [Auditability](core_03.050_band_oversight.md#auditability), [Accountability](core_03.005_apex_accountability_leg.md#accountability), or functional independence and separation of duties.
+  - **Out of scope:** an ordinary choice of form, route, or timing that leaves every constitutional requirement for the act in force.
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](core_03.005_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether the same substantive act still carries every constitutional requirement after its label, route, owner, forum, document, or timing has changed.
+
+    **Primary assessment:** Compare the act as framed with the act as it substantively is. A requirement counts as bypassed if it would have applied under the plain framing and does not apply under the chosen one, with no change in what the act does.
+- **What must hold**
+  - **Primary failure:** Avoiding a constitutional requirement by changing the label, route, owner, forum, document, or timing of the same act, or by using an allowed framing whose own step does not follow this Constitution. A no-bypass statement or review step that leaves the act's actual treatment unchanged is also non-compliant, as is accepting the actor's own label, self-report, or paperwork as proof that a requirement was met.
+<!-- ch3-example:end -->
+
+<a id="62-a-dependent-cluster-binding-stakeholder-choice"></a>
+#### 6.2 A Dependent Cluster: Binding Stakeholder Choice
+
+[Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice) is the smallest dependent cluster, with three members. Its canonical home is the [Participation band](core_03.055_band_participation.md).
+
+<!-- ch3-example:start core_03.055_band_participation.md#binding-stakeholder-choice-cluster #### Def.P2 Binding Stakeholder Choice -->
+
+---
+
+##### Def.P2 Binding Stakeholder Choice
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Owner floor: [Chapter Twenty-Six §6.3](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (26.000 §6.3) (*Decision-Resolution Requirements for Binding Stakeholder Choice*).
+- Read with:
+  - [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers);
+  - [System Charter](core_03.040_band_continuity.md#system-charter),
+  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter);
+  - [Stakeholder Status and Weight](core_03.055_band_participation.md#stakeholder-status-and-weight),
+  - [Governance](core_03.035_band_accountability.md#governance),
+  - [Constitutional Contract Layer](subcore_03.045_band_integrative.md#constitutional-contract-layer),
+  - [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice),
+  - [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight),
+  - [Article XII](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*),
+  - [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment), and
+  - [Chapter Two §13.1.5](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
+- Layer: **Stakeholder System Participation (SSP)** — voice inside already-authorized systems. Distinct from **Constitutional Contract Layer (CCL)** authorization.
+- Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
+- Cross-leg note: integrative with **Accountability** procedural integrity.
+- Chapter Two basis: Chapter Two §15.1, §5.2, §18.4, §15, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Implementation publication: institutional
+  - **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) /
+  - **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) files carry local process and weighting substance;
+  - [System Charter](core_03.040_band_continuity.md#system-charter) or
+  - [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) /
+  - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10 points to those files without absorbing them.
+
+</details>
+
+<br>
+
+*In plain terms: when sentients who are affected by a system disagree about a decision that will stick, there must be a published fair process — who gets a say, how much influence anyone may have, how the decision gets made and challenged, and how conflicts among rights get written down — not back-room power.*
+
+**Admission scope.** This cluster applies when a real disagreement requires a binding stakeholder choice inside a system, institution, or decision domain that is already authorized — especially where who may take part, how they are represented, how much influence they get, rights-affecting outcomes, or rights-collision records are at issue. Outside that cluster's scope, the individual pieces may still guide procedure without pulling in the whole compound requirement.
+
+Where admission scope is met, this cluster is the place those rules live together inside the **Stakeholder System Participation** layer. It covers:
+
+- **how the decision gets made** — a published, transparent, auditable sequence for participation, representation, contest, and any proportional influence;
+- **who gets how much say** — published, bounded weighting by impact, dependency, standing, or similar factors, open to contest and revalidation; and
+- **what the Stakeholder Rights-Collision Record must show when rights collide** — the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.
+
+It does not replace [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice), equal-weight authorization rules under **[Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)**, or emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](core_03.040_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice). When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
+
+**System Charter and Institutional Charter relationship.** A governing [System Charter](core_03.040_band_continuity.md#system-charter) or [Institutional Charter](core_03.040_band_continuity.md#institutional-charter) states operated scope and, where this cluster's admission scope applies, **points to** the published process rules that satisfy this cluster. The System Charter or Institutional Charter does not itself carry the decision sequence, weighting model, or rights-collision record. For institutions, those [Charter Pointers](core_03.040_band_continuity.md#charter-pointer) ordinarily resolve to **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) participation-window / decision-path materials and the **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) weighting publication file (**CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 9). Dead Charter Pointers, or System Charter or Institutional Charter text offered as a substitute for those rules, fail both the System Charter or Institutional Charter duty and this cluster.
+
+**Cluster members.** This cluster comprises:
+
+- [Binding Stakeholder Choice — Decision-Resolution Requirements](core_03.055_band_participation.md#binding-collective-choice-decision-resolution-process);
+- [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](core_03.055_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice);
+- [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](core_03.055_band_participation.md#rights-collision-record-binding-stakeholder-choice);
+- [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice), as the governance owner floor for the compound requirement.
+
+**Anti-bypass.** Compartments: deliberation, representation, weighting, record, and rights-collision. Checking one while the others fail is non-compliant; none of these counts as compliance on its own:
+
+- a published sequence without meaningful stakeholder representation;
+- a weighting model that cannot be contested or revalidated; or
+- a binding rights-affecting outcome without the required rights-collision record.
+
+See **Anti-Segmentation Principle**.
+
+*Measurements (family routing):* Measured under the Participation measurement family. Find the concrete measures on the member definitions below.
+
+###### Binding Stakeholder Choice — Decision-Resolution Requirements
+
+*In plain terms: when material disagreement requires a binding stakeholder choice inside an already-authorized domain, there must be a published, transparent, auditable sequence for participation, representation, contest, and any proportional influence — not ad hoc power.*
+
+- **What it is**
+  - **In scope:** A **Stakeholder System Participation** layer requirement: when material disagreement requires a binding stakeholder choice within an already-authorized:
+    - system;
+    - institution; or
+    - bounded decision domain,
+    the process must provide a published, transparent, and auditable sequence for:
+      - affected-party participation;
+      - representation;
+      - contestability; and
+      - any proportional influence.
+      The sequence must not substitute ad hoc power for recorded process.
+  - **Out of scope:**
+    - informal straw polls;
+    - unilateral operator decrees; or
+    - Foundational Constitutional Choice equal-weight voting rules used inside already-authorized Stakeholder System Participation decisions.
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether the full published sequence is real — deliberation, plural evaluation where stakes rise, and lawful reopening — not a rubber stamp.
+
+    **Primary assessment:**
+    - **Structured sequence:** verify the full sequence is:
+      - pre-published; and
+      - audit-equipped.
+    - **Local deliberation first:** verify the sequence opens with meaningful opportunity for affected participants to:
+      - deliberate;
+      - submit reasons; and
+      - preserve materially different views.
+    - **Plural evaluation where stakes rise:** when any of the following rises:
+      - impact;
+      - irreversibility;
+      - [Dependency](core_03.040_band_continuity.md#dependency); or
+      - uncertainty,
+      verify plural and appropriately independent evaluation rather than:
+      - sole-authority lock-in; or
+      - unchallengeable interpretation lock-in.
+    - **Review and divergence reopening:** verify materially binding outcomes remain challengeable. Verify reopening through applicable lawful challenge and review routes consistent with [Contestability](core_03.035_band_accountability.md#contestability) when any of the following arises:
+      - results turned out meaningfully different from what was expected;
+      - important new evidence comes to light; or
+      - the process itself is shown to have been defective.
+- **What must hold**
+  - **Primary failure:**
+    - skipping the published sequence;
+    - sham deliberation;
+    - rubber-stamp plural review; or
+    - foreclosing challenge or lawful reopening where required.
+  - Owner floor: [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+
+---
+
+###### Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)
+
+*In plain terms: within already-authorized governance, weighting by impact, dependency, standing, or similar factors must be published, bounded against single-factor dominance, and open to contest and revalidation — and must not replace foundational equal-weight authorization rules.*
+
+- **What it is**
+  - **In scope:** Limits on how much say affected sentients may have — **weighting** — in binding stakeholder choices *inside* already-authorized [Governance](core_03.035_band_accountability.md#governance). How much say a stakeholder gets may track:
+    - [Material Impact](core_03.050_band_oversight.md#material-impact);
+    - [Dependency](core_03.040_band_continuity.md#dependency);
+    - **standing**; or
+    - similar factors.
+    These limits do **not** replace one-person-one-vote [Foundational Constitutional Choice](subcore_03.045_band_integrative.md#foundational-constitutional-choice) rules. Read [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers) to tell which set of rules applies (**[Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility)**).
+  - **Out of scope:**
+    - foundational constitutional choice equal-weight rules; or
+    - informal straw polls that do not set binding stakeholder weights.
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether weighting rules are published, bounded against single-factor dominance, and subject to contest and periodic revalidation.
+
+    **Primary assessment:** Weighting rules must be:
+    - published;
+    - bounded against single-factor dominance; and
+    - subject to contest and periodic revalidation.
+    Cross-check against:
+    - [Stakeholder Weight](core_03.055_band_participation.md#stakeholder-weight); and
+    - **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)
+    where applicable.
+- **What must hold**
+  - **Primary failure:**
+    - unpublished weights;
+    - unchecked single-factor dominance; or
+    - absent contest or revalidation where periodic review is required for the mechanism class.
+  - Owner floor: [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+
+---
+
+###### Stakeholder Rights-Collision Record (Binding Stakeholder Choice)
+
+*In plain terms: when a binding stakeholder choice turns on a material conflict among rights or structural duties, the Stakeholder Rights-Collision Record must show the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.*
+
+- **What it is**
+  - **In scope:** The Stakeholder Rights-Collision Record elements required when a binding stakeholder choice **turns on material conflict** among:
+    - constitutional Rights Floors;
+    - protections; or
+    - structural duties —
+    the **Stakeholder System Participation** record discipline read together with:
+    - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test); and
+    - **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*).
+  - This Stakeholder Rights-Collision Record is the Stakeholder System Participation instance of the [Constitutional Collision Record](subcore_03.045_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements — rights in tension to the operative rule and triggering facts; feasible alternatives to alternatives considered; least-restrictive rationale and accepted trade-offs to the basis for selection; uncertainty treatment to evidence and uncertainty; review or reversal triggers to review triggers — and do not narrow them.
+  - **Out of scope:**
+    - ordinary meeting minutes; or
+    - the Chapter Two rights-collision procedure itself when no binding stakeholder choice turns on the conflict.
+- **How to measure and assess**
+  - **Primary measure:** [Participation measurement family](core_03.025_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether binding rights-affecting stakeholder choices carry a usable rights-collision record — not silent or opaque trade-offs.
+
+    **Primary assessment:** The Stakeholder Rights-Collision Record must identify:
+    - rights in tension;
+    - feasible alternatives;
+    - least-restrictive rationale;
+    - accepted trade-offs;
+    - uncertainty treatment; and
+    - review or reversal triggers —
+    consistent with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter Two §13.3 (*Minimization of Avoidable Burden*). Do not treat this list as narrowing **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
+- **What must hold**
+  - **Primary failure:**
+    - a binding stakeholder choice is finalized without a clear written account of how colliding rights were resolved, when those rights effects matter; or
+    - the required Stakeholder Rights-Collision Record pieces are missing when a real rights conflict is in play.
+  - Owner floor: [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+<!-- ch3-example:end -->
 
 <br>
 

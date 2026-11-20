@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **856** of **1391** headings carry a gloss (62%).
+Coverage: **861** of **1396** headings carry a gloss (62%).
 
 ## Contents
 
@@ -18,7 +18,7 @@ Coverage: **856** of **1391** headings carry a gloss (62%).
 - [CHAPTER 02, PART D: CONSTITUTIONAL INTERPRETATION](#chapter-02-part-d-constitutional-interpretation) — `core_02.030_constitutional_interpretation.md` (5/12 glossed)
 - [CHAPTER 02, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-02-part-e-stewardship-and-the-steward-role) — `core_02.040_stewardship_capacity_principles.md` (17/18 glossed)
 - [CHAPTER 02, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-02-part-f-governance-incentive-alignment-and-integrated-application) — `core_02.050_governance_incentive_application.md` (19/26 glossed)
-- [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (17/21 glossed)
+- [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (22/26 glossed)
 - [CHAPTER THREE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)](#chapter-three-definitions-accountability-tetrad-leg) — `core_03.005_apex_accountability_leg.md` (3/3 glossed)
 - [CHAPTER THREE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)](#chapter-three-definitions-continuity-constitutional-aim) — `core_03.010_apex_continuity_aim.md` (3/3 glossed)
 - [CHAPTER THREE DEFINITIONS: FLOURISHING](#chapter-three-definitions-flourishing) — `core_03.015_apex_flourishing_aim.md` (3/3 glossed)
@@ -954,7 +954,7 @@ every later chapter, institutional design, and system is read through this chapt
 
 ## CHAPTER THREE: FOUNDATIONAL DEFINITIONS
 
-Source file: [`core_03.000_definitions_home.md`](../../core_03.000_definitions_home.md) · 17/21 headings glossed
+Source file: [`core_03.000_definitions_home.md`](../../core_03.000_definitions_home.md) · 22/26 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -1040,24 +1040,6 @@ a word in this Constitution has to mean something you can check, nobody can win 
 
 [Source](../../core_03.000_definitions_home.md#5-how-definitions-and-proof-work)
 
-#### 6. Definitions at a Glance
-
-every defined term in one line, with a link to its full definition. The one-line summaries help you find a term; the full definition decides what it means.
-
-[Source](../../core_03.000_definitions_home.md#6-definitions-at-a-glance)
-
-##### 6.1 Integrative Terms
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_03.000_definitions_home.md#61-integrative-terms)
-
-##### 6.2 Terms Not Yet Moved
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_03.000_definitions_home.md#62-terms-not-yet-moved)
-
 #### Chapter Three Alphabetical Directory (Non-Operative)
 
 this is a searchable list of definition names. It points; it does not change what those names mean.
@@ -1075,6 +1057,54 @@ Chapter Three is sorted by the two aims and the four Tetrad legs; this table say
 Preamble §2 (*Measurements Overview*) asks seven category questions; this table maps each question to the Chapter Three homes that answer it.
 
 [Source](../../core_03.000_definitions_home.md#measurement-crosswalk-reader-guidance)
+
+#### 6. Two Complete Definitions
+
+two real definitions, copied in full, to show what every definition in this Constitution looks like. There is no short version of any definition: a definition applies only as its full text.
+
+[Source](../../core_03.000_definitions_home.md#6-two-complete-definitions)
+
+##### 6.1 An Independent Definition: No-Bypass
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_03.000_definitions_home.md#61-an-independent-definition-no-bypass)
+
+###### No-Bypass
+
+a constitutional requirement follows the act, not its packaging. Changing the label, route, owner, forum, document, or timing of the same act does not lift the requirement. Emergency, contract, certification, and similar framings are allowed only when the step itself follows this Constitution. Whether a requirement was met is judged on checkable evidence of what the act does, not on its own label or paperwork.
+
+[Source](../../core_03.000_definitions_home.md#no-bypass)
+
+##### 6.2 A Dependent Cluster: Binding Stakeholder Choice
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_03.000_definitions_home.md#62-a-dependent-cluster-binding-stakeholder-choice)
+
+###### Def.P2 Binding Stakeholder Choice
+
+when sentients who are affected by a system disagree about a decision that will stick, there must be a published fair process — who gets a say, how much influence anyone may have, how the decision gets made and challenged, and how conflicts among rights get written down — not back-room power.
+
+[Source](../../core_03.000_definitions_home.md#defp2-binding-stakeholder-choice)
+
+###### Binding Stakeholder Choice — Decision-Resolution Requirements
+
+when material disagreement requires a binding stakeholder choice inside an already-authorized domain, there must be a published, transparent, auditable sequence for participation, representation, contest, and any proportional influence — not ad hoc power.
+
+[Source](../../core_03.000_definitions_home.md#binding-stakeholder-choice--decision-resolution-requirements)
+
+###### Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)
+
+within already-authorized governance, weighting by impact, dependency, standing, or similar factors must be published, bounded against single-factor dominance, and open to contest and revalidation — and must not replace foundational equal-weight authorization rules.
+
+[Source](../../core_03.000_definitions_home.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice)
+
+###### Stakeholder Rights-Collision Record (Binding Stakeholder Choice)
+
+when a binding stakeholder choice turns on a material conflict among rights or structural duties, the Stakeholder Rights-Collision Record must show the tension, alternatives, least-restrictive rationale, trade-offs, uncertainty treatment, and review or reversal triggers.
+
+[Source](../../core_03.000_definitions_home.md#stakeholder-rights-collision-record-binding-stakeholder-choice)
 
 ## CHAPTER THREE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)
 

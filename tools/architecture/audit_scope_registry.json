@@ -267,6 +267,9 @@
    ],
    "reason": "Chapter Three definition-entry format (O/E/C entries, bands, aims and legs) exists only in the core_05 files."
   },
+  "ch3-worked-examples-check": {
+   "scope": "corpus"
+  },
   "ch5-entry-format-audit": {
    "scope": "corpus"
   },

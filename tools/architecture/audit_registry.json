@@ -368,6 +368,16 @@
       "run": "auto",
       "writes": false
     },
+    "ch3-worked-examples-check": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
+    "ch3-worked-examples": {
+      "category": "ch5",
+      "run": "never",
+      "writes": true
+    },
     "ch5-single-definition-audit": {
       "category": "ch5",
       "run": "auto",
