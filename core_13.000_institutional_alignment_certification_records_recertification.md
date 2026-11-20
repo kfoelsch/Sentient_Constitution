@@ -149,7 +149,7 @@ The integrity rules of [Chapter Ten §3.2 Transparency and Auditability of the S
   - **CF-22.445 §5.1** (*Stage Targets and Outer Bounds*);
   - [Chapter Five §9 Amendment and Review](core_05.000_charters.md#9-amendment-review-and-scope-misalignment) (5.000 §9);
   - [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) (S3-B §3) and [§4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns);
-  - [Chapter Twenty-Two §6 Transfer, consolidation, and anti-self-judging](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (22.000 §6) and [§4.3.3 Lead default limits](core_22.000_forum.md#433-lead-default-limits);
+  - [Chapter Twenty-Two §6 Transfer, consolidation, and anti-self-judging](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (22.000 §6) and [Subcore 22-A §6 Lead-Default Limits](subcore_22.010_forum_intake_default_venue.md#6-lead-default-limits) (S22-A §6);
   - [Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6).
 - Downstream: [§5](#5-challenging-a-certification); [§6](#6-relationship-to-standing); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000).
 - Read with:

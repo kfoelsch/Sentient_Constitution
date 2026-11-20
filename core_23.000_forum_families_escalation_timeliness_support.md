@@ -433,7 +433,7 @@ A matter can leave its default lead forum in five ways. In this section, "escala
 
 | Move | What happens | When | Rules in |
 |------|--------------|------|----------|
-| **Transfer or consolidation** | A matter, or related matters, go to one lead forum. The case keeps its Forum Case Record. | The default venue under **Chapter Twenty-Two section 4.3.2** no longer fits, or related matters need one lead. | **Chapter Twenty-Two section 6**, and [CF-22.415 §12 Transfer Procedure](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-12-transfer-procedure) (*Transfer Procedure*). |
+| **Transfer or consolidation** | A matter, or related matters, go to one lead forum. The case keeps its Forum Case Record. | The default venue under [Subcore 22-A §5 Default Venue Table](subcore_22.010_forum_intake_default_venue.md#5-default-venue-table) no longer fits, or related matters need one lead. | **Chapter Twenty-Two section 6**, and [CF-22.415 §12 Transfer Procedure](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-12-transfer-procedure) (*Transfer Procedure*). |
 | **Referral** | One component issue goes to the family that must decide it. It stays with that family for primary-stakes merits, and the lead keeps its own part of the case. | A component question belongs primarily to another family. | **Chapter Twenty-Two section 6** (*Integrity-led alignment coordination*), and [Referral Distinguished from Expansion](#referral-distinguished-from-expansion). |
 | **Question for ruling** | The lead family sends a question of constitutional meaning, validity, or structural effect to **Constitutional** forums. | The matter cannot be resolved without that question. | [Sending Questions to Constitutional Forums for Ruling](#sending-questions-to-constitutional-forums-for-ruling). |
 | **Family-to-family escalation** | The case moves to a different forum family. | The receiving family has become the better merits forum under primary-stakes routing, anti-self-judging protection, or a constitutional question sent for ruling. | [Family-to-Family Escalation](#family-to-family-escalation). |
@@ -904,6 +904,6 @@ Forum families must maintain or obtain access to **independent** support across 
 
 *Worked examples (they add no rule):* [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): forum routing and tier windows run through every full vignette, for example [CJS-14.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-14.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a).
 
-**Previous file:** [core_22.000_forum.md](core_22.000_forum.md)
+**Previous file:** [subcore_22.010_forum_intake_default_venue.md](subcore_22.010_forum_intake_default_venue.md)
 
 **Next file:** [core_24.000_enforcement.md](core_24.000_enforcement.md)

@@ -791,6 +791,21 @@
       "pre_reorganization_2026_11_20": "23000"
     },
     {
+      "old_id": "Chapter 22 §4.2.2 and §§4.3.1-4.3.4",
+      "original_file": "core_22.000_forum.md",
+      "machine_id": "SUB-22010",
+      "display_id": "S22-A",
+      "layer": "SUBCORE",
+      "core_home": "22",
+      "title": "S22-A",
+      "destination_file": "subcore_22.010_forum_intake_default_venue.md",
+      "status": "active",
+      "machine_number": "22010",
+      "layer_digit": "0",
+      "ordinal_name": "S22-A",
+      "pre_subcore_2026_11_20": "22000"
+    },
+    {
       "old_id": "Chapter 23 Part B",
       "original_file": "core_23.005_forum_families_escalation_timeliness_support.md",
       "machine_id": "23000",

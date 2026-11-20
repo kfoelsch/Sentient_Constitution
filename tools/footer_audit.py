@@ -58,6 +58,7 @@ CORE_CHAIN = (
     "core_20.000_misconduct_designation.md",
     "core_21.000_misconduct_pattern_applications.md",
     "core_22.000_forum.md",
+    "subcore_22.010_forum_intake_default_venue.md",
     "core_23.000_forum_families_escalation_timeliness_support.md",
     "core_24.000_enforcement.md",
     "core_25.000_special_enforcement.md",

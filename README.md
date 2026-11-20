@@ -111,7 +111,7 @@ The Constitution is one document split into a Preamble and thirty chapters, with
 | **Chapter 15**: [Standing measurement](core_15.000_standing_measurement.md) | Measuring how good or how bad each recorded contribution or violation was |
 | **Chapters 16–19**: [16](core_16.000_standing_integration.md) · [17](core_17.000_contribution_consequences.md) · [18](core_18.000_violation_consequences.md) · [19](core_19.000_final_effect_restoration_enforcement.md) | What those Standing Records lead to: effects, restoration, and remedies |
 | **Chapters 20–21**: [20](core_20.000_misconduct_designation.md) · [21](core_21.000_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
-| **Chapter 22**: [Forum](core_22.000_forum.md) | Review bodies and hearings: standards, where a case starts, forum cases, and why no one may judge their own case |
+| **Chapter 22**: [Forum](core_22.000_forum.md) · [Subcore 22-A forum intake and default venue](subcore_22.010_forum_intake_default_venue.md) | Review bodies and hearings: standards, where a case starts, forum cases, and why no one may judge their own case |
 | **Chapter 23**: [Forum families and timely resolution](core_23.000_forum_families_escalation_timeliness_support.md) | The kinds of review body, escalation, deadlines, and support for those taking part |
 | [Worked examples for Chapters 14–21](corpus_joint_structure/cjs_14.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
 | **Chapter 24**: [Enforcement](core_24.000_enforcement.md) | How outcomes get carried out, and what stops them being dodged |
@@ -206,6 +206,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Burden of proof, traceability, verification: [Subcore 3-C](subcore_03.030_burden_traceability_verification.md)
 - System classes, dependency types, and steward levels: [Subcore 8-A](subcore_08.010_system_classification.md)
 - Data types and data-handling rules: [Subcore 4-A](subcore_04.050_data_types.md)
+- Which forum hears a case first (intake desk and default venue table): [Subcore 22-A](subcore_22.010_forum_intake_default_venue.md)
 - Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Six; the required lanes: [Subcore 6-A](subcore_06.010_constitutional_lanes.md)
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00.000_preamble.md#the-model)
 - Auditing and independent verification: Article XVII is the floor; Chapter Three [Auditability](subcore_03.085_band_oversight.md#auditability) is the property; [CJS-3.115 §3](corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3) is how and when; Chapter Eight is one large process that uses that stack

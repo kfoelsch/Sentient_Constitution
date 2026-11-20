@@ -720,7 +720,7 @@ Those tools must keep the fields required by **section 6.1** separately visible 
   - **CI-26.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*) — the four record seats as seat types 1–4, with the wrong-seat rule;
   - **CF-22.435 §7** (*no self-investigation*) and
   - **CF-22.435 §9** (*Records, Referrals, and Backup Routes*) for verified-finding handoff;
-  - [Chapter Twenty-Two §4.3.3](core_22.000_forum.md#433-lead-default-limits) (22.000 §4.3.3) (*anti-self-judging backup*);
+  - [Subcore 22-A §6 Lead-Default Limits](subcore_22.010_forum_intake_default_venue.md#6-lead-default-limits) (S22-A §6) (*anti-self-judging backup*);
   - [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action) (*who authorized; the log is not the Standing Record*);
   - [Chapter Two §17.5](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (2.040 §17.5) (*halt, refuse, document, escalate*).
 - Downstream: [§8](#8-handling-a-standing-record) (*what the holders do with a Standing Record once custody is settled*); [Chapter Fifteen §3](core_15.000_standing_measurement.md#3-question-2--how-good-or-bad-was-it) (*Question 2 measures only Standing Records entered under this section and §8*); [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (16.000) (*Question 3 effects trace to an attributed record*).

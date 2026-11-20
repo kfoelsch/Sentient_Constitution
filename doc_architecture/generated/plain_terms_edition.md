@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **590** of **1027** headings carry a gloss (57%).
+Coverage: **590** of **1023** headings carry a gloss (58%).
 
 ## Contents
 
@@ -36,7 +36,7 @@ Coverage: **590** of **1027** headings carry a gloss (57%).
 - [CHAPTER NINETEEN: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-nineteen-final-standing-effect-restoration-and-enforcement) — `core_19.000_final_effect_restoration_enforcement.md` (12/18 glossed)
 - [CHAPTER TWENTY: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-anti-constitutional-misconduct-designation) — `core_20.000_misconduct_designation.md` (10/18 glossed)
 - [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING](#chapter-twenty-one-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) — `core_21.000_misconduct_pattern_applications.md` (18/51 glossed)
-- [CHAPTER TWENTY-TWO: STANDARDS, ROUTING, AND FORUM CASES](#chapter-twenty-two-standards-routing-and-forum-cases) — `core_22.000_forum.md` (6/38 glossed)
+- [CHAPTER TWENTY-TWO: STANDARDS, ROUTING, AND FORUM CASES](#chapter-twenty-two-standards-routing-and-forum-cases) — `core_22.000_forum.md` (6/34 glossed)
 - [CHAPTER TWENTY-THREE: FORUM FAMILIES, ESCALATION, TIMELY RESOLUTION, AND SUPPORT](#chapter-twenty-three-forum-families-escalation-timely-resolution-and-support) — `core_23.000_forum_families_escalation_timeliness_support.md` (7/26 glossed)
 - [CHAPTER TWENTY-FOUR: ENFORCEMENT](#chapter-twenty-four-enforcement) — `core_24.000_enforcement.md` (8/9 glossed)
 - [CHAPTER TWENTY-FIVE: SPECIAL ENFORCEMENT](#chapter-twenty-five-special-enforcement) — `core_25.000_special_enforcement.md` (6/23 glossed)
@@ -4237,7 +4237,7 @@ attacking the machinery that makes answerability real — evidence, verification
 
 ## CHAPTER TWENTY-TWO: STANDARDS, ROUTING, AND FORUM CASES
 
-Source file: [`core_22.000_forum.md`](../../core_22.000_forum.md) · 6/38 headings glossed
+Source file: [`core_22.000_forum.md`](../../core_22.000_forum.md) · 6/34 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -4334,30 +4334,6 @@ each family's **first-touch desk** — the **intake triage body** — asks what 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_22.000_forum.md#43-default-venue)
-
-###### 4.3.1 Routing Sequence at Filing
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_22.000_forum.md#431-routing-sequence-at-filing)
-
-###### 4.3.2 Default Venue Table
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_22.000_forum.md#432-default-venue-table)
-
-###### 4.3.3 Lead-Default Limits
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_22.000_forum.md#433-lead-default-limits)
-
-###### 4.3.4 Special Routing Rules
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_22.000_forum.md#434-special-routing-rules)
 
 ##### 4.4 Mixed Stakes and Routing Asymmetry
 

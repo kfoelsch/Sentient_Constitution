@@ -189,7 +189,7 @@ Added at the custodian's request (2026-11-20: "the section 2 TODO … should be 
 | 4 | One renumbering pass, inserting the reviewed §2 sections | large | steps 3 and 3a |
 | 4a | Section 2 audit (CHAPTER-S2-WHY; done 2026-11-20, 833rd move: chapter lead files and subcore files) | small | step 4 |
 | 5 | Lean office texts | small | step 4 |
-| 6 | Forum intake to a Chapter Twenty-Three subcore file (pilot) | medium | steps 2 and 4 |
+| 6 | Forum intake to a Chapter Twenty-Three subcore file (pilot; done 2026-11-20, 834th move: Subcore 22-A, attached to Chapter Twenty-Two after the renumbering) | medium | steps 2 and 4 |
 | 7 | Definitions bands to a definitions subcore (done 2026-11-20, 824th and 827th moves: Subcores 3-D to 3-O, files 03.040 to 03.095) | large | step 6 reviewed |
 | 8 | Pipeline chapters, one at a time | large | step 6 reviewed |
 | 9 | Corpus content promoted to the subcore (section 4, item 5; done 2026-11-20: Subcores 8-A, 4-A, and 6-A, 828th to 830th moves) | large | step 7 pilot reviewed |
