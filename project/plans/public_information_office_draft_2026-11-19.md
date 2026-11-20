@@ -38,7 +38,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > - **Not owned here:** case-specific forensic and analytical support (**CF-23.430**); forum records and Standing Records (registrars and [Chapter Fifteen](../../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened)); data types and handling (**CS-6.305**, **CS-6.310**); scientific publication duties of other institutions (**CI-6.270**).
 > - **Implementation owner:** a new corpus-institutions file (indicator catalog, release calendar, research intake forms).
 >
-> Reading order: §1 purpose → §2 why the office exists → §3 independence → §4 statistics and indicators → §5 forum-requested research → §6 methods and evidence → §7 information handling → §8 no steering → §9 records, audit, and challenge → §10 scaling.
+> Reading order: §1 purpose → §2 why the office exists → §3 independence → §4 statistics and indicators → §5 forum-requested research → §6 methods and evidence → §7 information handling → §8 no steering → §9 records, audit, and challenge → §10 funding, reserve, and shortfalls → §11 scaling.
 
 </details>
 
@@ -54,7 +54,7 @@ Chapter [I] is the constitutional owner of **public statistics and forum-request
   - [material stake](../../core_00.000_preamble.md#material-stake);
   - [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_08.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
   - the Chapter One principles and Chapter Six Articles named in the **Grounded in** paragraph of [§2](#2-why-the-public-information-office-exists).
-- Downstream: [§2](#2-why-the-public-information-office-exists) through [§10](#10-proportional-scaling); the Public Finance Office chapter (ledger check, research reserve); a new corpus-institutions file (indicator catalog, release calendar, research intake forms).
+- Downstream: [§2](#2-why-the-public-information-office-exists) through [§11](#11-proportional-scaling); the Public Finance Office chapter (ledger check, research reserve); a new corpus-institutions file (indicator catalog, release calendar, research intake forms).
 - Read with:
   - [CF-23.440 §14](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-14-research-and-uncertainty-reduction-authority) (*Research and Uncertainty-Reduction Authority*);
   - **CF-23.430** (*Forum forensic and analytical support*);
@@ -67,13 +67,12 @@ Chapter [I] is the constitutional owner of **public statistics and forum-request
 
 *In plain terms: forums, governing bodies, and the public need numbers and research they can all trust. This chapter puts that work in one office that nobody can lean on.*
 
-**Purpose:** Chapter [I] gives forums, governing bodies, and the public a shared body of figures and research that none of them controls. It does this through one independent office that publishes its methods before its numbers, releases to everyone at once, runs research at forum request at arm's length from the parties, and logs every correction.
+**Purpose:** Chapter [I] gives forums, governing bodies, and the public a shared body of figures and research that none of them controls, produced by one independent office.
 
 **Role:** Chapter [I] is the constitutional owner of public statistics and forum-requested research. Where it sits:
 
 - [CF-23.440 §14](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-14-research-and-uncertainty-reduction-authority) lets a forum commission research once it publishes a finding that uncertainty is blocking reliable decisions. This chapter runs that research; the forum still decides what the findings mean for its case.
-- The Public Finance Office chapter pays for the office and for forum-requested research. That office does not direct this one, and this office publishes an independent check of that office's ledger.
-- **CF-23.430** keeps case-specific forensic and analytical support. This chapter covers research that goes beyond a single case.
+- The Public Finance Office chapter pays for the office and for forum-requested research, and does not direct either.
 - A later corpus-institutions file carries the indicator catalog, release calendar, and research intake forms. It may not narrow this chapter.
 
 **Chapter scope:** The office:
@@ -86,14 +85,15 @@ Chapter [I] is the constitutional owner of **public statistics and forum-request
 The chapter's sections cover:
 
 - why the office exists and what it is grounded in (**section 2**);
-- the office's independence, appointment, funding, and seats (**section 3**);
+- the office's independence, appointment, and seats (**section 3**);
 - public statistics and indicators (**section 4**);
 - research requested by forums (**section 5**);
 - methods and evidence standards (**section 6**);
 - information handling and privacy (**section 7**);
 - the bar on steering (**section 8**);
-- records, audit, and challenge (**section 9**); and
-- proportional scaling (**section 10**).
+- records, audit, and challenge (**section 9**);
+- funding, reserve, and shortfalls (**section 10**); and
+- proportional scaling (**section 11**).
 
 **Out of scope:** The office does not decide any matter, finding, classification, or Standing Record, set policy or advocate for it, or hold funds. The chapter leaves case-specific forensic and analytical support to **CF-23.430**, forum records and Standing Records to the registrars and [Chapter Fifteen](../../core_15.000_standing_assessment.md#chapter-fifteen-standing-records--question-1-what-happened), data types and handling to **CS-6.305** and **CS-6.310**, and other institutions' scientific publication duties to **CI-6.270**.
 
@@ -101,7 +101,7 @@ The chapter's sections cover:
 
 *In plain terms: people can only govern themselves, and forums can only judge fairly, if they are working from the same facts. When the people in power control the numbers, the numbers start to say what those people want.*
 
-This section explains the reasons for the chapter. It is non-operative: the binding rules are in [§3](#3-independence-and-placement) through [§10](#10-proportional-scaling).
+This section explains the reasons for the chapter. It is non-operative: the binding rules are in [§3](#3-independence-and-placement) through [§11](#11-proportional-scaling).
 
 **Grounded in:**
 
@@ -139,7 +139,7 @@ The chapter turns those lessons into four design choices:
 - **Participation:** equal release to the public.
 - **Timeliness:** research runs at forum request without waiting for a funder.
 
-These reasons do not add duties. They explain why the duties in §3 to §10 take the shape they do.
+These reasons do not add duties. They explain why the duties in §3 to §11 take the shape they do.
 
 ### 3. Independence and Placement
 
@@ -149,7 +149,7 @@ These reasons do not add duties. They explain why the duties in §3 to §10 take
 
 - it sits outside the Material Control Line of the governing authority, every forum family, and the Public Finance Office;
 - the protected decision-makers are its head and its chief methodologists; and
-- its funding is protected under *Protected funding* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies): its floor is set on its own track, is paid through the Public Finance Office, and the Finance Office may not set, reduce, delay, or condition it. Its reserve under that requirement is held for it in the Public Finance Office's reserve fund.
+- its funding, reserve, and shortfall protections are set out in §10.
 
 **Seat map:** Every materially binding act of the office, such as publishing an official figure, selecting a researcher, or correcting a release, places the four seats under Chapter Eight. The check seat for a method or figure is an independent method reviewer outside the team that produced it.
 
@@ -233,7 +233,33 @@ The office must not advocate for a policy, a party, or an outcome. It may explai
 
 **Remedy.** A successful challenge leads to a published correction, a re-run, or new researcher selection, as fits. The original release stays visible with its correction.
 
-### 10. Proportional Scaling
+### 10. Funding, Reserve, and Shortfalls
+
+*In plain terms: whoever pays the office could steer what it finds, so its money is protected the way every independent body's is: its own budget track, its own reserve for bad years, and a published rule for any cut. The general rule is in Chapter Eight; this section says how it applies here.*
+
+**General rule.** *Protected funding* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies to the office in full, including its *Reserve* and *Shortfalls* requirements. The Public Finance Office chapter carries the mechanics; this section applies them to this office.
+
+**Funding floor.** The office's floor:
+
+- is worked out on its own published track, under the rules of [§4 of the Public Finance Office chapter](public_finance_office_draft_2026-11-19.md#4-funding-floors-for-forums-and-remedy-systems), from the indicator catalog, the release calendar, and the expected volume of forum-requested research the office oversees;
+- is paid through the Public Finance Office, which may not set, reduce, delay, or condition it; and
+- is protected by [§5 of that chapter](public_finance_office_draft_2026-11-19.md#5-no-steering-by-money), so a cut or delay that follows an unwelcome figure is presumed to be steering.
+
+**Research money is separate.** Researchers are paid from the research reserve under [§6 of the Public Finance Office chapter](public_finance_office_draft_2026-11-19.md#6-research-funding-at-forum-request). That reserve is not part of the office's floor or reserve, and neither may be used to cover the other.
+
+**Reserve.** The office's reserve is held for it as its own share of the reserve fund under [§11 of the Public Finance Office chapter](public_finance_office_draft_2026-11-19.md#11-reserve-fund). Its default target is one quarter of its floor for a funding cycle. It is drawn only for this office.
+
+**Shortfalls.** In a shortfall under [§12 of the Public Finance Office chapter](public_finance_office_draft_2026-11-19.md#12-shortfalls-and-emergencies), the office's reserve is drawn first. If its floor must still be cut, these functions are cut last, in this order:
+
+- releases of indicators that this Constitution or a forum relies on, on their published calendar;
+- oversight of research already under way; and
+- correction of errors in published figures.
+
+A shortfall never suspends the *Methods first* or *Equal release* rules of §4. It may delay a release only by a published notice that applies to every user alike.
+
+**Other income.** The office may charge for custom data work only on published terms. It may not charge a party to a matter for figures that bear on that matter, and fee income never replaces or reduces its floor.
+
+### 11. Proportional Scaling
 
 *In plain terms: a small community may share an office or borrow statistics from a larger one, as long as the work stays independent.*
 
