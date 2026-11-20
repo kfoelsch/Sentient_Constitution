@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **850** of **1385** headings carry a gloss (61%).
+Coverage: **856** of **1391** headings carry a gloss (62%).
 
 ## Contents
 
@@ -18,7 +18,7 @@ Coverage: **850** of **1385** headings carry a gloss (61%).
 - [CHAPTER 02, PART D: CONSTITUTIONAL INTERPRETATION](#chapter-02-part-d-constitutional-interpretation) — `core_02.030_constitutional_interpretation.md` (5/12 glossed)
 - [CHAPTER 02, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-02-part-e-stewardship-and-the-steward-role) — `core_02.040_stewardship_capacity_principles.md` (17/18 glossed)
 - [CHAPTER 02, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-02-part-f-governance-incentive-alignment-and-integrated-application) — `core_02.050_governance_incentive_application.md` (19/26 glossed)
-- [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (11/15 glossed)
+- [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (17/21 glossed)
 - [CHAPTER THREE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)](#chapter-three-definitions-accountability-tetrad-leg) — `core_03.005_apex_accountability_leg.md` (3/3 glossed)
 - [CHAPTER THREE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)](#chapter-three-definitions-continuity-constitutional-aim) — `core_03.010_apex_continuity_aim.md` (3/3 glossed)
 - [CHAPTER THREE DEFINITIONS: FLOURISHING](#chapter-three-definitions-flourishing) — `core_03.015_apex_flourishing_aim.md` (3/3 glossed)
@@ -954,7 +954,7 @@ every later chapter, institutional design, and system is read through this chapt
 
 ## CHAPTER THREE: FOUNDATIONAL DEFINITIONS
 
-Source file: [`core_03.000_definitions_home.md`](../../core_03.000_definitions_home.md) · 11/15 headings glossed
+Source file: [`core_03.000_definitions_home.md`](../../core_03.000_definitions_home.md) · 17/21 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -976,9 +976,45 @@ independent definitions are reusable building blocks. They stand on their own un
 
 ##### 3.1 Invocation, Satisfaction, and Compliance
 
-when an independent definition applies, it must be met in full — no picking the convenient pieces.
+when an independent definition applies, it must be invoked, traced, and met in full — no picking the convenient pieces.
 
 [Source](../../core_03.000_definitions_home.md#31-invocation-satisfaction-and-compliance)
+
+###### 3.1.1 Required Invocation
+
+if a definition matters to the case, it has to be used.
+
+[Source](../../core_03.000_definitions_home.md#311-required-invocation)
+
+###### 3.1.2 Traceability of Invoked Definitions
+
+every definition used in an evaluation must be traceable, part by part, to what the system actually does.
+
+[Source](../../core_03.000_definitions_home.md#312-traceability-of-invoked-definitions)
+
+###### 3.1.3 Full Satisfaction
+
+meeting part of a definition is not meeting it.
+
+[Source](../../core_03.000_definitions_home.md#313-full-satisfaction)
+
+###### 3.1.4 Consistency with Other Definitions
+
+a definition is read together with the others that apply to the same system, at the same time, under the same conditions.
+
+[Source](../../core_03.000_definitions_home.md#314-consistency-with-other-definitions)
+
+###### 3.1.5 Selective Invocation Is Evasion
+
+choosing which definitions to use so as to get a better answer is evasion.
+
+[Source](../../core_03.000_definitions_home.md#315-selective-invocation-is-evasion)
+
+###### 3.1.6 No Fragmentation of Compliance
+
+a system cannot be split into pieces so that each piece passes while the whole fails.
+
+[Source](../../core_03.000_definitions_home.md#316-no-fragmentation-of-compliance)
 
 #### 4. Dependent-Cluster Meta Rules
 

@@ -97,9 +97,28 @@ Independent and Semi-independent definitions do not require joint satisfaction w
 <a id="31-invocation-satisfaction-and-compliance"></a>
 
 #### 3.1 Invocation, Satisfaction, and Compliance
-*In plain terms: when an independent definition applies, it must be met in full — no picking the convenient pieces.*
+*In plain terms: when an independent definition applies, it must be invoked, traced, and met in full — no picking the convenient pieces.*
 
-Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination. All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings (Subcore 3-C, section 3 — Definition Traceability Requirement). Those mappings must include each definition's:
+This subsection has six parts:
+
+- [§3.1.1 Required Invocation](#311-required-invocation);
+- [§3.1.2 Traceability of Invoked Definitions](#312-traceability-of-invoked-definitions);
+- [§3.1.3 Full Satisfaction](#313-full-satisfaction);
+- [§3.1.4 Consistency with Other Definitions](#314-consistency-with-other-definitions);
+- [§3.1.5 Selective Invocation Is Evasion](#315-selective-invocation-is-evasion); and
+- [§3.1.6 No Fragmentation of Compliance](#316-no-fragmentation-of-compliance).
+
+<a id="311-required-invocation"></a>
+##### 3.1.1 Required Invocation
+*In plain terms: if a definition matters to the case, it has to be used.*
+
+Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination.
+
+<a id="312-traceability-of-invoked-definitions"></a>
+##### 3.1.2 Traceability of Invoked Definitions
+*In plain terms: every definition used in an evaluation must be traceable, part by part, to what the system actually does.*
+
+All Independent Definitions invoked in system evaluation must appear explicitly in Definition Traceability mappings ([Subcore 3-C §3 Definition Traceability Requirement](subcore_03.030_burden_traceability_verification.md#3-definition-traceability-requirement)). Those mappings must include each definition's:
 
 - Ontological (O) component;
 - Measurement (M) component;
@@ -108,11 +127,27 @@ Failing to invoke or correctly apply any materially required Independent Definit
 
 Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
 
-When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with the Requirements for Definition Structure (Subcore 3-A §2 (*Definition Components and Joint Satisfaction*)). Partial satisfaction or selective application is non-compliant.
+<a id="313-full-satisfaction"></a>
+##### 3.1.3 Full Satisfaction
+*In plain terms: meeting part of a definition is not meeting it.*
 
-Independent Definitions must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. Subcore 3-B, sections 2 and 3 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — require that consistency.
+When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with [Subcore 3-A §2 Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#2-definition-components-and-joint-satisfaction). Partial satisfaction or selective application is non-compliant.
 
-Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. Subcore 3-B, sections 2 and 3 — Definition Integrity and Anti-Evasion Constraints; Non-Compliance from Observable System Behavior — govern that conduct.
+<a id="314-consistency-with-other-definitions"></a>
+##### 3.1.4 Consistency with Other Definitions
+*In plain terms: a definition is read together with the others that apply to the same system, at the same time, under the same conditions.*
+
+Independent Definitions must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. [Subcore 3-B §2 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) and [§3 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#3-non-compliance-from-observable-system-behavior) require that consistency.
+
+<a id="315-selective-invocation-is-evasion"></a>
+##### 3.1.5 Selective Invocation Is Evasion
+*In plain terms: choosing which definitions to use so as to get a better answer is evasion.*
+
+Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. [Subcore 3-B §2 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) and [§3 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#3-non-compliance-from-observable-system-behavior) govern that conduct.
+
+<a id="316-no-fragmentation-of-compliance"></a>
+##### 3.1.6 No Fragmentation of Compliance
+*In plain terms: a system cannot be split into pieces so that each piece passes while the whole fails.*
 
 Independent Definitions must not fragment, isolate, or redistribute compliance in a way that blocks full-system evaluation under required assessment conditions.
 
