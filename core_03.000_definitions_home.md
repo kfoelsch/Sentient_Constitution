@@ -586,21 +586,33 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 <br>
 
-*In plain terms: Chapter Three is sorted by the two aims and the four Tetrad legs; this table says which file holds which cluster range.*
+*In plain terms: Chapter Three is sorted by the two aims and the four Tetrad legs. The first table lists the apex files, one for each aim and leg; the second lists the band files, where the definitions themselves live.*
 
-Chapter Three definitions are sorted by the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
+Chapter Three definitions are sorted by the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad).
 
-**Constitutional bands**
+**Apex files.** Each apex file holds the head definition of one aim or leg, the map of how it breaks down into band definitions, and its measurement family.
+
+| Aim or leg | Kind | File |
+|---|---|---|
+| **Flourishing** | Constitutional aim | [core_03.015_apex_flourishing_aim.md](core_03.015_apex_flourishing_aim.md) |
+| **Continuity** | Constitutional aim | [core_03.010_apex_continuity_aim.md](core_03.010_apex_continuity_aim.md) |
+| **Oversight** | Tetrad leg | [core_03.020_apex_oversight_leg.md](core_03.020_apex_oversight_leg.md) |
+| **Participation** | Tetrad leg | [core_03.025_apex_participation_leg.md](core_03.025_apex_participation_leg.md) |
+| **Accountability** | Tetrad leg | [core_03.005_apex_accountability_leg.md](core_03.005_apex_accountability_leg.md) |
+| **Timeliness** | Tetrad leg | [core_03.030_apex_timeliness_leg.md](core_03.030_apex_timeliness_leg.md) |
+
+**Band files.** Each band file holds full definitions: independent terms, semi-independent terms, and dependent clusters.
 
 | Band | File | **Def.** cluster range |
 |---|---|---|
-| **Flourishing aim** | [core_03.015_apex_flourishing_aim.md](core_03.015_apex_flourishing_aim.md) | aim hierarchy map only — leaf definitions in band files |
-| **Continuity aim** | [core_03.010_apex_continuity_aim.md](core_03.010_apex_continuity_aim.md) | aim hierarchy map only — leaf definitions in band files |
-| **Oversight leg** | [core_03.050_band_oversight.md](core_03.050_band_oversight.md) | **Def.O1–Def.O2** |
-| **Participation leg** | [core_03.055_band_participation.md](core_03.055_band_participation.md) | **Def.P1–Def.P4** |
-| **Accountability leg** | [core_03.035_band_accountability.md](core_03.035_band_accountability.md) | **Def.A1–Def.A4** |
-| **Continuity band** | [core_03.040_band_continuity.md](core_03.040_band_continuity.md) | **Def.C1–Def.C4** |
-| **Integrative cross-leg** | [subcore_03.045_band_integrative.md](subcore_03.045_band_integrative.md) | **Def.I1** |
+| **Oversight** | [core_03.050_band_oversight.md](core_03.050_band_oversight.md) | **Def.O1–Def.O2** |
+| **Participation** | [core_03.055_band_participation.md](core_03.055_band_participation.md) | **Def.P1–Def.P4** |
+| **Accountability** | [core_03.035_band_accountability.md](core_03.035_band_accountability.md) | **Def.A1–Def.A4** |
+| **Continuity** | [core_03.040_band_continuity.md](core_03.040_band_continuity.md) | **Def.C1–Def.C4** |
+| **Integrative** (cross-leg) | [subcore_03.045_band_integrative.md](subcore_03.045_band_integrative.md) (Subcore 3-D) | **Def.I1** |
+| **Constitutional Performance** | [core_03.060_band_performance.md](core_03.060_band_performance.md) | none; holds only the measurement family, and its terms are in the Continuity band |
+
+The two aims and the Timeliness leg have no band file of their own. Their terms sit in the band files above, and each one's apex file maps where.
 
 ---
 

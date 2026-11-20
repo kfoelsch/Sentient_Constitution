@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-11-20T16:56:02+00:00",
+  "generated_at": "2026-11-20T17:12:20+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.105 §1 topics, Chapter Three terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -586,7 +586,7 @@
     "Def.O1": {"file":"core_03.050_band_oversight.md","anchor":"#defo1","heading":"Def.O1 Transparency, Auditability, and Verification","line":1054,"kind":"cluster"},
     "Def.O2": {"file":"core_03.050_band_oversight.md","anchor":"#defo2","heading":"Def.O2 Truth and Epistemic Integrity","line":1651,"kind":"cluster"},
     "Def.P1": {"file":"core_03.055_band_participation.md","anchor":"#defp1","heading":"Def.P1 Animal Life, Sentient Life, and Sentience Status","line":2424,"kind":"cluster"},
-    "Def.P2": {"file":"core_03.000_definitions_home.md","anchor":"#defp2-binding-stakeholder-choice","heading":"Def.P2 Binding Stakeholder Choice","line":673,"kind":"cluster"},
+    "Def.P2": {"file":"core_03.000_definitions_home.md","anchor":"#defp2-binding-stakeholder-choice","heading":"Def.P2 Binding Stakeholder Choice","line":685,"kind":"cluster"},
     "Def.P3": {"file":"core_03.055_band_participation.md","anchor":"#defp3","heading":"Def.P3 Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity","line":3424,"kind":"cluster"},
     "Def.P4": {"file":"core_03.055_band_participation.md","anchor":"#defp4","heading":"Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability","line":3790,"kind":"cluster"}
   },

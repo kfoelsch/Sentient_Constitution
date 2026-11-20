@@ -52,8 +52,10 @@ def main() -> int:
         index_text = index_path.read_text(encoding="utf-8")
         if COMPASS_ANCHOR not in index_text:
             failures.append(f"{CH5_INDEX}: missing compass anchor #{COMPASS_ANCHOR}")
-        if "Constitutional bands" not in index_text:
-            failures.append(f"{CH5_INDEX}: missing constitutional bands table")
+        if "**Apex files.**" not in index_text:
+            failures.append(f"{CH5_INDEX}: missing apex files table")
+        if "**Band files.**" not in index_text:
+            failures.append(f"{CH5_INDEX}: missing band files table")
 
     found_clusters: set[str] = set()
     for band_file in CH5_BANDS:

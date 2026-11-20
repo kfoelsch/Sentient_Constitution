@@ -1048,7 +1048,7 @@ this is a searchable list of definition names. It points; it does not change wha
 
 #### Chapter Three Compass and Definition Map
 
-Chapter Three is sorted by the two aims and the four Tetrad legs; this table says which file holds which cluster range.
+Chapter Three is sorted by the two aims and the four Tetrad legs. The first table lists the apex files, one for each aim and leg; the second lists the band files, where the definitions themselves live.
 
 [Source](../../core_03.000_definitions_home.md#chapter-three-compass-and-definition-map)
 
