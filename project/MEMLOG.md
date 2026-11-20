@@ -46,7 +46,7 @@ Earlier completed session detail is preserved in [MEMLOG_SNAPSHOT_2026-10-21.md]
 
 ## Archive Index
 
-- **2026-11-20 archive runs (base commits `ba0175c` and `70b2698`):** no MEMLOG entry was complete, so none moved; [archive/DOC_ARCHITECTURE_MOVES_765-804_ARCHIVED_2026-11-20.md](../archive/DOC_ARCHITECTURE_MOVES_765-804_ARCHIVED_2026-11-20.md) (moves 765–804).
+- **2026-11-20 archive runs (base commits `ba0175c`, `70b2698`, and `80f6f13`):** no MEMLOG entry was complete, so none moved; [archive/DOC_ARCHITECTURE_MOVES_765-812_ARCHIVED_2026-11-20.md](../archive/DOC_ARCHITECTURE_MOVES_765-812_ARCHIVED_2026-11-20.md) (moves 765–812).
 - **2026-11-19 archive runs (base commits `4c22ddff` and `86987dd`):** no MEMLOG entry was complete, so none moved; [archive/DOC_ARCHITECTURE_MOVES_664-764_ARCHIVED_2026-11-19.md](../archive/DOC_ARCHITECTURE_MOVES_664-764_ARCHIVED_2026-11-19.md) (moves 664–764).
 - **2026-11-18 archive run (base commit `026b4f96`):** no MEMLOG entry was complete, so none moved; [archive/DOC_ARCHITECTURE_MOVES_650-651_ARCHIVED_2026-11-18.md](../archive/DOC_ARCHITECTURE_MOVES_650-651_ARCHIVED_2026-11-18.md) (moves 650–651); [archive/TODO_RESOLVED_2026-11-18.md](../archive/TODO_RESOLVED_2026-11-18.md) (four TODO items complete).
 - **2026-11-18 second archive run (base commit `3a89bdaf`):** no MEMLOG entry was complete, so none moved; [archive/DOC_ARCHITECTURE_MOVES_652-663_ARCHIVED_2026-11-18.md](../archive/DOC_ARCHITECTURE_MOVES_652-663_ARCHIVED_2026-11-18.md) (moves 652–663); [archive/TODO_RESOLVED_2026-11-18.md](../archive/TODO_RESOLVED_2026-11-18.md) (two more TODO items complete).

@@ -71,7 +71,7 @@ Full router: [corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md](.
 | Stable ID | Topic | Primary owner |
 |-----------|-------|---------------|
 | CJS-R01 | Delegated binding bodies and hybrid composition (non-forum institutions) | [**CI-9.210 §3**](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md) |
-| CJS-R02 | Forum chambers, divisions, and designated panels (Chapter Twenty-Three families) | [**CF-23.405 §5**–**CF-23.405 §8**](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md) |
+| CJS-R02 | Forum chambers, divisions, and designated panels (Chapter Twenty-Three families) | [**CF-23.405 §7**–**CF-23.405 §10**](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md) |
 | CJS-R03 | Lawful panel formation, disclosure, recusal, substitution, inability-to-form | [**CF-23.410**](../../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md) |
 | CJS-R04 | Routing, intake, transfer, questions for ruling, representative treatment | [**CF-23.415**](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md) |
 | CJS-R05 | Appeal, secondary review, exhaustion | [**CF-23.420**](../../corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md) |

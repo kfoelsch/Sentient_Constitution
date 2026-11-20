@@ -160,6 +160,11 @@ These were recorded as open or "to confirm" in moves now archived in [archive/DO
 - [ ] Chapter Eight §11 *Independent Bodies* (759th move): the opening owner sentence of Chapter Eight and the Preamble owner register do not yet mention §11, and the Chapter Twenty-Three §2.2 benches do not cite it.
 - [ ] Default gift threshold (761st move): confirm or change the default in [Article XIII-C](core_06.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*), one day's pay at the median local wage until an adopter publishes its own.
 
+### Carried from the archived move log, 2026-11-20 run (moves 805–812)
+
+- [ ] Bank supervision body (810th move): draft the chapter for the separate Independent Body that [project/plans/public_monetary_office_draft_2026-11-19.md](project/plans/public_monetary_office_draft_2026-11-19.md) §5 names (bank and payment-provider supervision, deposit protection, bank resolution).
+- [ ] Provisional defaults (810th and 812th moves): confirm or change the defaults in the monetary and debt office drafts (emergency borrowers named after two years, five-year target review, five-year compensation-account correction, escape-clause terms) and in Chapter Eight §11 (three-week minutes window, five-year transcript delay, one-week quiet period, five-year method-review interval).
+
 ### Whole-project evaluation — open hesitations (Claude review, 2026-11-15)
 
 Raised in a "would I want to live in this world?" read of the README, START_HERE, VISION, the conceptual overview, the Rights Floor sheet, and the *In plain terms* glosses for Chapters 16, 18, 21, and 27–29. The reviewer did not read the full core, so each item starts with a check against source.
@@ -182,7 +187,7 @@ Items the custodian has set aside are in [project/SHELVED.md](project/SHELVED.md
 
 ## Archives
 
-- **2026-11-20 archive runs (base commits `ba0175c` and `70b2698`):** [archive/DOC_ARCHITECTURE_MOVES_765-804_ARCHIVED_2026-11-20.md](archive/DOC_ARCHITECTURE_MOVES_765-804_ARCHIVED_2026-11-20.md) (moves 765–804); no TODO item was complete.
+- **2026-11-20 archive runs (base commits `ba0175c`, `70b2698`, and `80f6f13`):** [archive/DOC_ARCHITECTURE_MOVES_765-812_ARCHIVED_2026-11-20.md](archive/DOC_ARCHITECTURE_MOVES_765-812_ARCHIVED_2026-11-20.md) (moves 765–812); no TODO item was complete.
 - **2026-11-19 archive runs (base commits `4c22ddff` and `86987dd`):** [archive/DOC_ARCHITECTURE_MOVES_664-764_ARCHIVED_2026-11-19.md](archive/DOC_ARCHITECTURE_MOVES_664-764_ARCHIVED_2026-11-19.md) (moves 664–764); three open items carried into the backlog in the second run.
 - **2026-11-18 archive run (base commit `026b4f96`):** [archive/DOC_ARCHITECTURE_MOVES_650-651_ARCHIVED_2026-11-18.md](archive/DOC_ARCHITECTURE_MOVES_650-651_ARCHIVED_2026-11-18.md) (moves 650–651), [archive/TODO_RESOLVED_2026-11-18.md](archive/TODO_RESOLVED_2026-11-18.md) (four TODO items complete); no MEMLOG entry was complete.
 - **2026-11-18 second archive run (base commit `3a89bdaf`):** [archive/DOC_ARCHITECTURE_MOVES_652-663_ARCHIVED_2026-11-18.md](archive/DOC_ARCHITECTURE_MOVES_652-663_ARCHIVED_2026-11-18.md) (moves 652–663), [archive/TODO_RESOLVED_2026-11-18.md](archive/TODO_RESOLVED_2026-11-18.md) (two more TODO items complete, second-run section); no MEMLOG entry was complete.
