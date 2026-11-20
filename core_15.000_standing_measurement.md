@@ -79,6 +79,13 @@ Without a shared scale, the same harm could be called minor in one place and gra
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): help and harm are measured the same way for everyone;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): a shared scale lets anyone see whether a measure was applied fairly;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): like cases get like measures, which is a basis of fair treatment;
+    - [Continuity](core_00.000_preamble.md#continuity): a stable scale keeps measures comparable from year to year;
 - Chapter Two principles:
   - [§3.2 Recognition, Reinforcement, and Aspiration](core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
   - [§4 Safety (Harm Constraint)](core_02.000_values_principles.md#4-safety-harm-constraint);

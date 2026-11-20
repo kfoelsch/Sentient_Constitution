@@ -72,10 +72,8 @@ This page is the non-operative navigation home for the Systems and Data layer. T
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CS-4.305, Part A — Handling rules (§1–§8) | [cs_04.305_information_types_and_handling.md](corpus_systems/cs_04.305_information_types_and_handling.md) |
-| CS-4.310, Part B — Data classifications (§9) | [cs_04.310_data_classifications.md](corpus_systems/cs_04.310_data_classifications.md) |
-| CS-8.305, Part A — Classification machinery (§1–§7) | [cs_08.305_system_classification_machinery.md](corpus_systems/cs_08.305_system_classification_machinery.md) |
-| CS-8.310, Part B — System impact classifications (§8–§13) | [cs_08.310_system_impact_classifications.md](corpus_systems/cs_08.310_system_impact_classifications.md) |
+| CS-4.305 — System Data Types Record (§8) | [cs_04.305_information_types_and_handling.md](corpus_systems/cs_04.305_information_types_and_handling.md) |
+| CS-8.305 — Classification machinery (§1 and §7) | [cs_08.305_system_classification_machinery.md](corpus_systems/cs_08.305_system_classification_machinery.md) |
 | CS-8.315 — System alignment certification run sheet | [cs_08.315_system_alignment_certification_run_sheet.md](corpus_systems/cs_08.315_system_alignment_certification_run_sheet.md) |
 | CS-8.320 — System alignment certification illustrations | [cs_08.320_system_alignment_certification_illustrations.md](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md) |
 | CS-26.305 — Critical system stewardship | [cs_26.305_critical_system_stewardship.md](corpus_systems/cs_26.305_critical_system_stewardship.md) |

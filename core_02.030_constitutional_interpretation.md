@@ -166,7 +166,7 @@ This principle does not:
 - create, extend, or narrow any Chapter Four Rights-Floor provision; or
 - displace a cluster's own statement of which compartments and protected duties it covers. A cluster states those under **Anti-bypass** and cites this section for the rule.
 
-Whole-system evaluations must test anti-segmentation under [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [§5 Evaluations Where Implicated](core_08.000_system_alignment_certification_evaluation.md#5-evaluations-where-implicated), and [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) where a jointly invoked cluster applies, before classification, governance, or compliance claims stand. This section works with [Subcore 3-B §3.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#31-common-evasion-patterns) and [§3.2 Reductive Evasion](subcore_03.020_definition_integrity.md#32-reductive-evasion).
+Whole-system evaluations must test anti-segmentation under [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [§5 Evaluations Where Implicated](core_08.000_system_alignment_certification_evaluation.md#5-evaluations-where-implicated), and [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) where a jointly invoked cluster applies, before classification, governance, or compliance claims stand. This section works with [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns) and [§4.2 Reductive Evasion](subcore_03.020_definition_integrity.md#42-reductive-evasion).
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 Derived-Information Principle
@@ -175,7 +175,7 @@ Whole-system evaluations must test anti-segmentation under [Chapter Eight §4 Wh
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg (privacy underpins agency and expression, which reconstruction from combined data would defeat); **accountability** leg (the party relying on a de-identified or aggregate label shows that it holds); [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Upstream: [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle); [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle).
-- Downstream: [§13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination); [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling).
+- Downstream: [§13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination); [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling).
 
 </details>
 
@@ -229,7 +229,7 @@ Absence of intent does not take covered derived information outside this princip
 This principle does not:
 - apply to ordinary aggregates, such as anonymous traffic totals, that reveal nothing protected and cannot reasonably be used to re-identify anyone or reconstruct anything protected;
 - create, extend, or narrow any Chapter Four Rights-Floor provision; or
-- displace the data-type rules in [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling), which apply it.
+- displace the data-type rules in [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling), which apply it.
 
 <a id="152-definitional-layer-and-required-disciplines"></a>
 #### 15.2 Definitional Layer and Required Disciplines

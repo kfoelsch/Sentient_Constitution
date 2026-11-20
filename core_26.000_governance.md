@@ -12,6 +12,7 @@
 > Where this lives (navigation):
 > - **Constitutional owner:** this chapter defines legitimacy and stewardship requirements for governing authority.
 > - **Implementation owner:** designated implementation layers provide procedural oversight mechanics, staffing design, operational controls, and designated institutional mechanics.
+> - **Attached subcore file:** [Subcore 26-A](subcore_26.010_governance_disclosure.md#subcore-26-a-governance-disclosure) (*Governance Disclosure*) holds the minimum contents of the governance report every institution publishes.
 > - **Anti-relocation rule:** constitutional legitimacy thresholds remain here; workflow detail belongs to owner layers.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line uses the same layout as Chapter Four: it appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Where a subsection opens with lead-in sentences before a list (for example, **§§ 3.1–3.2** after the mechanism-family lead-in, section 5 before its **Chapter Three** stewardship-definition index bullets, and section 5.1 before its equality-floor bullets), the gloss sits immediately before the list or the block it most closely tracks. Reader-facing gloss only.
@@ -61,6 +62,15 @@ Every system of rules rests on someone's authority to make them. If that authori
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): those governed have a say in who governs them and how;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): governing power must be earned, kept, and answered for;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): legitimacy is open to review, not simply claimed;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): authority lapses or is renewed on time, not held forever;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): governing power is used for sentients, not over them;
+    - [Continuity](core_00.000_preamble.md#continuity): legitimate governance keeps shared systems stable across generations;
 - Chapter Two principles:
   - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
   - [§17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard);
@@ -158,7 +168,7 @@ Recognized mechanism families include:
   - scope;
   - renewal or reauthorization cadence; and
   - material limits on delegated power.
-  Auditability must be proportionate to the classification under [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications), and to **material impact** under Chapter Three ([*Material*](subcore_03.085_band_oversight.md#material), [*Dependency*](subcore_03.075_band_continuity.md#dependency), [*Stakeholder*](subcore_03.090_band_participation.md#stakeholder)).
+  Auditability must be proportionate to the classification under [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification), and to **material impact** under Chapter Three ([*Material*](subcore_03.085_band_oversight.md#material), [*Dependency*](subcore_03.075_band_continuity.md#dependency), [*Stakeholder*](subcore_03.090_band_participation.md#stakeholder)).
 - **Non-Usurpation:** Governing bodies may not treat silence, usage alone, or **marketing alignment** as substitute authorization. Deliberate adoption remains governed by [**Chapter Twenty-Eight §12** (*Ratification and Adoption*)](core_28.000_amendment_ratification.md#12-ratification-and-adoption).
 
 **Contestation, correction, and pluralism**
@@ -265,7 +275,7 @@ Recognized mechanism families include:
   - **Rights-Floor** threat addressed through **Chapter Four** and adopted implementation procedure.
   Escalating levels keyed to that clock are permitted in designated implementation text when they satisfy [**Substantive Fairness**](subcore_03.090_band_participation.md#substantive-fairness), [**Necessity**](subcore_03.070_band_accountability.md#necessity), and [**Proportionality**](subcore_03.070_band_accountability.md#proportionality) under **Chapter Two** and **Chapter Three, including its subcore**.
 - **Procedural fairness:** Recall-class procedures must satisfy applicable **Chapter Four** requirements (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) family, including **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*) where internal role process applies). They must not substitute for individualized **removal-for-cause** or discipline channels where **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) or incorporated procedure is the appropriate venue for the underlying conduct.
-- **Anti-serial abuse and stability:** Mechanisms must include **cooling** or **anti-serial** rules proportionate to **material impact** and the system class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** so recall-class mechanisms cannot be redeployed as structured harassment or permanent campaigning; bad-faith patterns remain contestable under **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XXI-A** (*Justice Objective and Scope*).
+- **Anti-serial abuse and stability:** Mechanisms must include **cooling** or **anti-serial** rules proportionate to **material impact** and the system class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** so recall-class mechanisms cannot be redeployed as structured harassment or permanent campaigning; bad-faith patterns remain contestable under **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XXI-A** (*Justice Objective and Scope*).
 - **High-impact alignment:** Recall-class votes that would change **Foundational Constitutional Choice** outcomes or the legitimacy mechanism itself remain subject to the **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gate and **§3** (*Ethical Culture and Integrity (Federated Scale)*) requirements where applicable.
 
 ### 4. Ethical Culture and Integrity (Federated Scale)
@@ -545,7 +555,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 - Upstream: [§3](#3-authorization-and-legitimacy-of-governing-authority)–[§6](#6-voting-and-binding-collective-choice-protocols) how authority is authorized, recorded, and exercised in collective choice.
 - Downstream: Role integrity and due-process requirements in
   - [Article XII-C: Internal Roles, Accountability, and Due-Process Requirements](core_04.010_rights_part_b.md#article-xii-c-internal-roles-accountability-and-due-process-requirements); **corpus** design and lane hooks in
-  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**,
+  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**,
   - [CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), and
   - [CJS-30.110](corpus_joint_structure/cjs_30.110_specific_joint_interlocks.md#cjs-30110-specific-joint-interlocks-and-shared-abstractions) (*Specific joint interlocks and shared abstractions*) as cited below.
 - Read with:
@@ -572,7 +582,7 @@ Material stewardship and operation require **sentients** who can **exercise** au
   - command containment;
   - set participation terms; or
   - release evidence.
-  The seat types and boundaries are fixed in **CI-26.205 §6** (*Seat catalog*), which a local role definition instantiates and may not enlarge. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine the system class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** with **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) lane design are applied through **CJS-30.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*) and its routed owner hooks.
+  The seat types and boundaries are fixed in **CI-26.205 §6** (*Seat catalog*), which a local role definition instantiates and may not enlarge. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine the system class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** with **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) lane design are applied through **CJS-30.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*) and its routed owner hooks.
 - **Open stewardship-development pathways and incentive integrity requirement:** Qualified sentients must have non-arbitrary stewardship-development pathways into progressively consequential stewardship responsibilities, and stewardship incentives must reward constitutional care without burdening good-faith safety or integrity escalation.
 - **Anti-symbolism rule:** Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, stewardship-development pathway access implementation, and incentive-governance mechanics are governed by [**CI-26.205**](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*) and **CI-4.215** (*Resource stewardship and incentive integrity*).
 - **Portable competence:** The no-single-point-of-failure requirement above carries out [Chapter Two §17.6 Portable Competence](core_02.040_stewardship_capacity_principles.md#176-portable-competence). Coverage, exercised handoffs, and cross-functional understanding are scaled to impact and classification; rotation is a tool, not a duty.
@@ -582,6 +592,6 @@ Material stewardship and operation require **sentients** who can **exercise** au
 
 ---
 
-**Previous file:** [core_04.040_rights_part_e.md](core_04.040_rights_part_e.md)
+**Previous file:** [core_25.000_special_enforcement.md](core_25.000_special_enforcement.md)
 
-**Next file:** [core_27.000_non_regression.md](core_27.000_non_regression.md)
+**Next file:** [subcore_26.010_governance_disclosure.md](subcore_26.010_governance_disclosure.md)

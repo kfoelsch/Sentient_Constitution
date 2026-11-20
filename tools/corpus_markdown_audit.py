@@ -552,14 +552,14 @@ def check_ch2_42_evansion_nesting(section_lines: list[str]) -> list[str]:
             break
     if cat_i is None:
         errors.append(
-            "Subcore 3-B §2.1: missing category line '- **Fake measures and paperwork**'"
+            "Subcore 3-B §4.1: missing category line '- **Fake measures and paperwork**'"
         )
         return errors
 
     children = collect_immediate_nested_bullets(section_lines, cat_i)
     if not children:
         errors.append(
-            "Subcore 3-B §2.1: missing nested lines under Fake measures and paperwork"
+            "Subcore 3-B §4.1: missing nested lines under Fake measures and paperwork"
         )
         return errors
     return errors
@@ -619,12 +619,12 @@ def main() -> int:
 
     s65 = slice_between(
         ch4_text,
-        "### 3. Definition Traceability Requirement",
-        "### 4. Observability of Traceability Requirement",
+        "### 4. Definition Traceability Requirement",
+        "### 5. Observability of Traceability Requirement",
     )
     if s65 is None:
         findings.append(
-            "Could not slice Subcore 3-C §2 (missing heading or section 3 boundary)"
+            "Could not slice Subcore 3-C §4 (missing heading or section 5 boundary)"
         )
     else:
         findings.extend(
@@ -633,12 +633,12 @@ def main() -> int:
 
     s42 = slice_between(
         ch3_text,
-        "#### 3.1 Common Evasion Patterns",
-        "#### 3.2 Reductive Evasion",
+        "#### 4.1 Common Evasion Patterns",
+        "#### 4.2 Reductive Evasion",
     )
     if s42 is None:
         findings.append(
-            "Could not slice Subcore 3-B §2.1 (missing heading or §2.2 boundary)"
+            "Could not slice Subcore 3-B §4.1 (missing heading or §4.2 boundary)"
         )
     else:
         findings.extend(check_ch2_42_evansion_nesting(s42.splitlines()))

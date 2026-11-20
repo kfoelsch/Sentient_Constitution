@@ -13,7 +13,6 @@ SECTION_ID_RE = re.compile(r"^(CJS|CS|CI|CF)-(\d+)(?:\.(\d+))?(?:\.(\d+))?", re.
 CS_PART_DEFAULTS = {
     "CS-4.305": "corpus_systems/cs_04.305_information_types_and_handling.md",
     "CS-8.305": "corpus_systems/cs_08.305_system_classification_machinery.md",
-    "CS-8.310": "corpus_systems/cs_08.310_system_impact_classifications.md",
 }
 
 

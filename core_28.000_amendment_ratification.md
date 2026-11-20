@@ -76,6 +76,14 @@ A constitution that cannot change will fail, and one that can be changed quietly
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): every change is published and open to challenge before it takes effect;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): each change is traceable to who proposed and approved it;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): changes are reviewed in the open, not made in the dark;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): the Constitution can improve for sentients without losing their trust;
+    - [Continuity](core_00.000_preamble.md#continuity): a fair way to change keeps the text alive without breaking it;
 - Chapter Two principles:
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
   - [§17.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests);
@@ -264,7 +272,7 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 - Upstream: [§7](#7-procedural-test-3--authority-chain-and-custody-validity) custody validity; [Chapter Twenty-Nine §5.1](core_29.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) (29.000 §5.1) internal hierarchy for adopters.
 - Subsections: [§12.1](#121-deliberate-adoption)–[§12.3](#123-joining-by-additional-parties).
 - Downstream: [§13](#13-amendment-procedure-requirements) notice and recorded effectiveness.
-- Read with: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** classification referenced in §12.1; [Chapter Three *Corpus*](subcore_03.080_band_integrative.md#corpus) (S3-L).
+- Read with: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** classification referenced in §12.1; [Chapter Three *Corpus*](subcore_03.080_band_integrative.md#corpus) (S3-L).
 
 </details>
 
@@ -286,7 +294,7 @@ On invalidity determination, adopters must publish a time-bounded remediation pl
 
 *In plain terms: binding adoption has to be explicit, recorded, and auditable to the scale of the system — quiet or partial "we kind of follow it" does not let an operator claim constitutional protection while dodging obligations, and a steward's own-conduct note is not adoption.*
 
-This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. Auditability must meet a standard proportionate to system class, material impact, and dependency under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**. Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.
+This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. Auditability must meet a standard proportionate to system class, material impact, and dependency under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**. Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.
 
 A steward is bound when a qualifying adopter records a valid adoption document under this section and [Chapter Thirty §5 Adoption Framing and Scope of Authority](core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority); listing a steward as a party bound by adoption does not make that steward themselves a qualifying adopter.
 

@@ -114,6 +114,14 @@ Implementation text keeps improving, and adopters adopt it at different times. W
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): everyone can tell which text an adopter is bound by;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): an adopter answers for exactly the text it adopted;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the adopted text is published and can be compared with this one;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients know which protections apply to them;
+    - [Continuity](core_00.000_preamble.md#continuity): a clear record of adoption keeps the text stable over time;
 - Chapter Two principles:
   - [§15.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
   - [§15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer);
@@ -149,7 +157,7 @@ This section sets out how incorporated text is pinned to editions, held in custo
   - custodian identity; and
   - linkage to the adoption document, in a form sufficient for provenance and applicable scope.
 
-  Custody records must be proportionate to assigned system classification under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, and to [**Material Impact**](subcore_03.085_band_oversight.md#material-impact), [**Dependency**](subcore_03.075_band_continuity.md#dependency), affected [**Stakeholder**](subcore_03.090_band_participation.md#stakeholder) position, and applicable [**Materiality**](subcore_03.085_band_oversight.md#materiality) requirements in [**Chapter Three**](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (consistent with [**Classification-Scaled Governance**](subcore_03.085_band_oversight.md#classification-scaled-governance)).
+  Custody records must be proportionate to assigned system classification under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, and to [**Material Impact**](subcore_03.085_band_oversight.md#material-impact), [**Dependency**](subcore_03.075_band_continuity.md#dependency), affected [**Stakeholder**](subcore_03.090_band_participation.md#stakeholder) position, and applicable [**Materiality**](subcore_03.085_band_oversight.md#materiality) requirements in [**Chapter Three**](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (consistent with [**Classification-Scaled Governance**](subcore_03.085_band_oversight.md#classification-scaled-governance)).
 - **Implementation-file scope (enumerated):** Without limitation, this section covers:
   - [corpus_systems.md](corpus_systems.md) (*systems implementation file*)
   - [corpus_institutions.md](corpus_institutions.md) (*Constitutional Institutions*)

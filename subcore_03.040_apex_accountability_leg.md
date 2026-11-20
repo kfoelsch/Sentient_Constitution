@@ -40,7 +40,7 @@
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action),
   - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity),
   - [Chapter Two §19.6](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6),
-  - [Subcore 3-B §3.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#311-formal-label-and-representation-gaming) (S3-B §3.1.1), and
+  - [Subcore 3-B §4.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#411-formal-label-and-representation-gaming) (S3-B §4.1.1), and
   - [Chapter Nineteen §5.1](core_19.000_final_effect_restoration_enforcement.md#51-remediation-capacity-and-funding) (19.000 §5.1) /
   - [Chapter Nineteen §5.4](core_19.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority) (19.000 §5.4).
 
@@ -50,9 +50,32 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Chapter Three, Accountability Tetrad leg, is the constitutional owner of the **Accountability** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Accountability band](subcore_03.070_band_accountability.md).
 
 *In plain terms: hold actors answerable — attribution, records, and real recourse have to work, not just ceremonies on paper.*
+
+### 2. Why Accountability Is a Leg of the Tetrad
+
+*In plain terms: power that cannot be traced back to someone who must answer for it will be misused sooner or later. This file says what it means for a system to be answerable.*
+
+Every system that affects sentients holds some power over them. Accountability is what ties that power to named roles that must explain their decisions, carry their consequences, and put things right when they fail. Without it, the other three legs have no one to act on: oversight finds a fault no one owns, and participation is a voice no one has to answer.
+
+**Grounded in:**
+
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) leg, which this file defines;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): answerable power is used for sentients, not against them;
+    - [Continuity](core_00.000_preamble.md#continuity): answerable systems stay correctable over time;
+- Chapter Two principles:
+  - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
+  - [§19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
+- Chapter Four Articles:
+  - [Article XXI](core_04.030_rights_part_d.md#article-xxi-justice-after-verified-violation) (*Justice After Verified Violation*).
+
+### Accountability: Head Definition
 
 <a id="accountability"></a>
 

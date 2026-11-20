@@ -7,7 +7,8 @@
 >
 > - **Constitutional owner:** the separation-of-duties requirement for materially binding acts, met through distinct seats; the universal minimum contents of each [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; the minimum independence conditions that every later constitutional process must apply. The standard requirements for a body named as an Independent Body moved to Chapter Seven on 2026-11-20.
 > - **Principle-layer source:** [Chapter Two §18.3](core_02.050_governance_incentive_application.md#183-separation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
-> - **Implementation owner:** [CJS-3.125 §11](corpus_joint_structure/cjs_03.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*Constitutional lane and functional separation*), [CI-6.205 §2](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes), and [CI-26.205 §6](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
+> - **Constitutional lanes:** [Subcore 6-A](subcore_06.010_constitutional_lanes.md#subcore-6-a-constitutional-lanes) (*Constitutional Lanes*), attached to this chapter, states the required lanes the seats are hosted in and how a lane map is assessed.
+> - **Implementation owner:** [CI-6.205 §2](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*Functional Separation Lanes*), and [CI-26.205 §6](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
 > - **Process-specific application remains downstream:** Chapter Eight applies this requirement to system alignment certification and to institutional alignment certification; [Chapter Fourteen §7.1](core_14.000_standing_assessment.md#71-separation-of-duties) applies it to Standing Records; Chapter Twenty-Two and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
 >
 > Reading order: §1 purpose and scope → §2 why the jobs are separated → §3 Four-Seat Requirement → §4 independence and conflicts → §5 wrong-seat routing → §6 published placement, substitutes, and delegation → §7 proportional scaling → §8 emergencies → §9 Act Records and handoffs → §10 downstream application.
@@ -108,7 +109,7 @@ The chapter's sections cover:
 
 The standard independence requirements for a body named as an Independent Body are in [Chapter Seven](core_07.000_independent_bodies.md#chapter-seven-independent-bodies), *Independent Bodies*.
 
-**Out of scope:** This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](subcore_03.085_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
+**Out of scope:** This chapter does not apply to a Class P Operating Party. Its acts stay inside its [private unit](subcore_03.085_band_oversight.md#domain-specific-materiality-private-unit), a single sentient, a household, or a tightly bounded private circle whose members all chose to be in it, and an Operating Party whose acts others must follow or may rely on as settled is at least Class L under **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*). A sole sentient with a computer needs no second seat-holder. The requirement applies from the day the Operating Party takes a Materially Binding Act.
 
 <a id="2-why-the-jobs-are-separated"></a>
 ### 2. Why the Jobs Are Separated
@@ -128,6 +129,13 @@ These examples do not show that any one system is flawless. They show that the i
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): each step of an act is held by a seat that answers for it;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): no party can start, approve, record, and judge the same act;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): mistakes and lies are caught before they harm sentients;
+    - [Continuity](core_00.000_preamble.md#continuity): separated duties make capture and slow decay harder;
 - Chapter Two principles:
   - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
   - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
@@ -458,10 +466,10 @@ A business run by a single sentient or a few may place its verify-or-authorize, 
   - can be contested through the independent route outside the group, because deciding whether to admit an applicant is a materially binding act of the group (see *The group's own acts*, above).
 - **No trap:** A group's terms may not make the seat a cost the business cannot bear ([Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden)).
 - **Leaving:** A member that leaves takes its official records with it. The group may not hold them back or make leaving depend on leaving them behind. The group:
-  - gives the member a full export of its Act Records and the data in them, in a form the member or a new host can use ([CS-4.305 §1.2 Continuity-critical collection and exportability](corpus_systems/cs_04.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability)), and discloses up front any lawful limit on the export;
+  - gives the member a full export of its Act Records and the data in them, in a form the member or a new host can use ([Subcore 4-A §9.2 Continuity-critical collection and exportability](subcore_04.050_data_types.md#92-continuity-critical-collection-and-exportability)), and discloses up front any lawful limit on the export;
   - hands the record seat for those acts to the holder the member names, and stays the record seat holder until the member names one, so the Act Records stay reconstructable while a challenge, correction, or remedy is open ([§9 Act Records and Attributable Handoffs](#9-act-records-and-attributable-handoffs)); and
-  - keeps only what its own duties still require, such as the Act Record of an act it hosted for another member or of an act still under challenge, and only for the retention period it disclosed ([CS-4.305 §1.3 Collection notice and deletion](corpus_systems/cs_04.305_information_types_and_handling.md#13-collection-notice-and-deletion)).
-- **Data kept by the group:** What the group keeps is handled by data type under [CS-4.310 §9 Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-9-data-classifications):
+  - keeps only what its own duties still require, such as the Act Record of an act it hosted for another member or of an act still under challenge, and only for the retention period it disclosed ([Subcore 4-A §9.3 Collection notice and deletion](subcore_04.050_data_types.md#93-collection-notice-and-deletion)).
+- **Data kept by the group:** What the group keeps is handled by data type under [Subcore 4-A §10 Data Classifications](subcore_04.050_data_types.md#10-data-classifications):
   - **Identity and attribution data (Type I):** used only to verify who held each seat and who acted;
   - **Participation and transaction data (Type H):** used only for the official record, audit, and challenge duties of the act;
   - **Governance source data (Type G):** open to audit and not public by default;
@@ -555,7 +563,7 @@ None of the following is by itself an emergency:
   - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity);
   - [Record Integrity](subcore_03.070_band_accountability.md#record-integrity).
 - Downstream: [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action); [CI-26.205 §6 shared seat rules](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); every process record governed by §9; [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
-- Read with: [§5 Wrong-Seat Routing](#5-wrong-seat-routing) and [Subcore 3-C §6](subcore_03.030_burden_traceability_verification.md#6-compliance-evidence-standard) (S3-C §6).
+- Read with: [§5 Wrong-Seat Routing](#5-wrong-seat-routing) and [Subcore 3-C §7](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard) (S3-C §7).
 
 </details>
 
@@ -618,4 +626,4 @@ A later chapter may add stronger independence, recusal, separation, custody, pan
 
 **Previous file:** [core_05.000_charters.md](core_05.000_charters.md)
 
-**Next file:** [core_07.000_independent_bodies.md](core_07.000_independent_bodies.md)
+**Next file:** [subcore_06.010_constitutional_lanes.md](subcore_06.010_constitutional_lanes.md)

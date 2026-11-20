@@ -63,6 +63,14 @@ The same logic applies to failure. When the same kind of outcome keeps going und
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): freezing, seizing, or force is used only under strict, reviewable rules;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): these strong measures are watched closely because they are so strong;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): they are used only for as long as needed;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients are kept safe from someone still dangerous;
+    - [Continuity](core_00.000_preamble.md#continuity): recovering what is owed lets harm be repaired;
 - Chapter Two principles:
   - [§3.3 Anti-Degrading Process](core_02.000_values_principles.md#33-anti-degrading-process);
   - [§13.1.1 Necessity](core_02.020_interaction_interpretation.md#1311-necessity);
@@ -315,4 +323,4 @@ This section governs referrals under [Chapter Twenty-Four §8 Routing to Special
 
 **Previous file:** [core_24.000_enforcement.md](core_24.000_enforcement.md)
 
-**Next file:** [core_04.000_rights_part_a.md](core_04.000_rights_part_a.md)
+**Next file:** [core_26.000_governance.md](core_26.000_governance.md)

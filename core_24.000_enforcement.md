@@ -24,7 +24,7 @@
   - [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (*the separation between those who judge and those who carry out*);
   - [Chapter Four §2.1](core_04.000_rights_part_a.md#21-practical-enforcement) (*practical enforcement of the Rights Floor*);
   - [Article XIV-B: Right to Redress and Remedy](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy);
-  - [Subcore 3-C §2](subcore_03.030_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (*a different use of "enforcement": the exclusive pathway for the evaluation standards in Subcores 3-A to 3-C, not the carrying out of outcomes*).
+  - [Subcore 3-C §3](subcore_03.030_burden_traceability_verification.md#3-exclusive-enforcement-and-burden-allocation) (*a different use of "enforcement": the exclusive pathway for the evaluation standards in Subcores 3-A to 3-C, not the carrying out of outcomes*).
 
 </details>
 
@@ -68,6 +68,13 @@ A system gets more of whatever it rewards ([What Systems Reward](core_00.000_pre
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): an outcome counts only when it has actually happened;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): ordered remedies are delivered without open-ended delay;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients receive the remedies they are owed;
+    - [Continuity](core_00.000_preamble.md#continuity): harm stops paying, which protects shared systems;
 - Chapter Two principles:
   - [§6.1 Correction and Remedy](core_02.000_values_principles.md#61-correction-and-remedy);
   - [§13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality);

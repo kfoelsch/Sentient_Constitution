@@ -80,6 +80,15 @@ Chapter Eight sets how a system is evaluated. An evaluation run or chosen by the
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): affected sentients can raise concerns and challenge the outcome;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the forum that decides answers for its decision in the published System Certification Record;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): no system certifies itself;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): review is finished within set time bounds;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients can trust a certified system;
+    - [Continuity](core_00.000_preamble.md#continuity): independent review keeps flawed systems from becoming part of shared infrastructure;
 - Chapter Two principles:
   - [§6 Trust and Trustworthiness (Coordination Integrity)](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
   - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
@@ -416,9 +425,9 @@ When a forum-supervised challenge is required, internal operator review, vendor 
   - [Chapter Eight §3](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) through
   - [§6](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*misclassification, misalignment, and defects found in evaluation*);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
-  - [Subcore 3-B §2](subcore_03.020_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (S3-B §2) and
-  - [§3](subcore_03.020_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*);
-  - [Subcore 3-B §3.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#31-common-evasion-patterns) (S3-B §3.1) (*scope-and-boundary evasion*);
+  - [Subcore 3-B §3](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) (S3-B §3) and
+  - [§4](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*);
+  - [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns) (S3-B §4.1) (*scope-and-boundary evasion*);
   - [System Charter](subcore_03.075_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
 - Downstream:
   - [Chapter Ten §3](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (*the outcome is stated on the System Certification Record*);
@@ -427,7 +436,7 @@ When a forum-supervised challenge is required, internal operator review, vendor 
   - [Chapter Ten §6.3](core_10.000_system_alignment_certification_records_recertification.md#63-verified-input-gate) and [§6.5](core_10.000_system_alignment_certification_records_recertification.md#65-violation-standing-record) (*verified-input gate where facts support adverse findings*);
   - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*forum supervision*);
   - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
-- Read with: **[CS-4.305 §5](corpus_systems/cs_04.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) for scheduled data-type re-evaluation, and **[CS-8.305 §3](corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*) for system-class reassess triggers and SAC verification.
+- Read with: **[Subcore 4-A §6.2](subcore_04.050_data_types.md#62-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) for scheduled data-type re-evaluation, and **[Subcore 8-A §3.5](subcore_08.010_system_classification.md#35-reclassification-requirement)** (*Reclassification requirement*) for system-class reassess triggers and SAC verification.
 - Subsections:
   - [§4.1](#41-go-live-gate) (*go-live gate*, with
   - [§4.1.1 Systems Already Operating](#411-systems-already-operating) and
@@ -795,7 +804,7 @@ A denied or revoked operator may apply again.
 - **What the new application must show:** what changed.
   - a new readiness showing, with the proof step already done and verified; and
   - where the cause was governance or incentive, the changed structure in operation.
-- **What is not new:** a successor, renamed, split, or transferred entity that carries the same operator, control, or system ([Chapter Ten §4.4 Non-Evasion](core_10.000_system_alignment_certification_records_recertification.md#44-non-evasion); [Subcore 3-B §3.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#31-common-evasion-patterns)).
+- **What is not new:** a successor, renamed, split, or transferred entity that carries the same operator, control, or system ([Chapter Ten §4.4 Non-Evasion](core_10.000_system_alignment_certification_records_recertification.md#44-non-evasion); [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns)).
 - **Waiting periods:** a forum may not set a waiting period for its own sake.
 
 <a id="45-effects-of-denial-and-revocation"></a>
@@ -820,6 +829,6 @@ These are the effects of a denial or revocation under [§4.4 Denial and Revocati
 
 ---
 
-**Previous file:** [core_08.000_system_alignment_certification_evaluation.md](core_08.000_system_alignment_certification_evaluation.md)
+**Previous file:** [subcore_08.010_system_classification.md](subcore_08.010_system_classification.md)
 
 **Next file:** [core_10.000_system_alignment_certification_records_recertification.md](core_10.000_system_alignment_certification_records_recertification.md)

@@ -51,6 +51,13 @@ Where an official's decision can be overturned by a phone call, the public gets 
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): officials of an independent body still answer for how they use their office;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): bodies that cannot be leaned on can check those who hold power;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients get honest findings and sound money they can rely on;
+    - [Continuity](core_00.000_preamble.md#continuity): independence keeps public functions working across changes of power;
 - Chapter Two principles:
   - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
   - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
@@ -110,7 +117,7 @@ Where an official's decision can be overturned by a phone call, the public gets 
     - is held in safe and readily available form, never in assets issued by anyone the body funds, checks, measures, or decides about;
     - is restored after a draw before any increase above the floor; and
     - has its balance, target, and every draw published.
-    Taking money from the reserve for any other purpose is interference under *Pattern evidence* below and an integrity trigger under **CI-6.210 §3** (*Integrity Trigger Taxonomy and Cross-Layer Routing (Control Package)*);
+    Taking money from the reserve for any other purpose is interference under *Pattern evidence* below and an integrity trigger under [Subcore 4-B §3 Integrity Trigger Categories](subcore_04.060_integrity_triggers_gifts_funding.md#3-integrity-trigger-categories);
   - **Shortfalls:** where the money for its floor falls short, whoever pays it must:
     - publish the shortfall and its cause;
     - draw on the body's reserve before reducing its floor;
@@ -121,7 +128,7 @@ Where an official's decision can be overturned by a phone call, the public gets 
     A shortfall does not excuse the body's own deadlines, but it may cite the shortfall when it seeks an extension the governing rules allow;
   - **Funding integrity:** the funding-integrity floor of [Article XIII-D](core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*) applies to whoever funds it, whether or not the body decides for others; and
   - **Self-funded bodies:** a body paid from its own operating income under a published budget meets this requirement where no one may seize, redirect, or condition that income except by a published rule set in advance. It builds its reserve from that income.
-- **Information handling and privacy:** an Independent Body sees personal data that others cannot, so it publishes patterns, never individual sentients. It handles each data type under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*), applies [**Article II-E**](core_04.000_rights_part_a.md#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*) and [**Article IX-B**](core_04.010_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*), and in addition:
+- **Information handling and privacy:** an Independent Body sees personal data that others cannot, so it publishes patterns, never individual sentients. It handles each data type under Subcore 4-A (*Data Types*), applies [**Article II-E**](core_04.000_rights_part_a.md#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*) and [**Article IX-B**](core_04.010_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*), and in addition:
   - **Only what its duties need:** it collects only the personal data its published duties need, keeps it no longer than a published retention period, and uses it only for the duty it was collected for;
   - **Not passed on:** it does not give personal data to the governing authority, to any body or party it serves, funds, checks, measures, or decides about, or to anyone else, except where its designating text or a published lawful exception requires it, and each such transfer is logged and its kind and number published;
   - **No identification:** it never publishes personal data in a form that identifies a sentient without that sentient's consent or a published lawful exception. What it publishes about its own acts, and about the bodies it funds, checks, measures, or decides about, is not personal data for this purpose;
@@ -172,6 +179,6 @@ No body is listed yet.
 
 ---
 
-**Previous file:** [core_06.000_functional_independence_separation_of_duties.md](core_06.000_functional_independence_separation_of_duties.md)
+**Previous file:** [subcore_06.010_constitutional_lanes.md](subcore_06.010_constitutional_lanes.md)
 
 **Next file:** [core_08.000_system_alignment_certification_evaluation.md](core_08.000_system_alignment_certification_evaluation.md)

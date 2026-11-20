@@ -51,9 +51,32 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Chapter Three, Participation Tetrad leg, is the constitutional owner of the **Participation** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Participation band](subcore_03.090_band_participation.md).
 
 *In plain terms: give affected sentients real voice in systems that affect them — scaled to how much is on the line, not token consultation.*
+
+### 2. Why Participation Is a Leg of the Tetrad
+
+*In plain terms: sentients affected by a system know things about it that its operators do not, and they have a right to a say. This file says what a real say looks like.*
+
+Decisions made without those they affect miss harms that only those sentients can see, and they lose the consent that makes a system legitimate. Participation gives affected sentients a working voice, a way to contest, and a share in decisions in proportion to their stake. A voice that is offered but never changes anything does not count.
+
+**Grounded in:**
+
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Participation](subcore_03.060_apex_participation_leg.md#participation) leg, which this file defines;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): a real say is part of living well;
+    - [Continuity](core_00.000_preamble.md#continuity): those affected often see risks to shared systems first;
+  - [material stake](core_00.000_preamble.md#material-stake);
+- Chapter Two principles: [§17.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests);
+- Chapter Four Articles:
+  - [Article XII](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*);
+  - [Article XX](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status) (*Standing and Participation Status*).
+
+### Participation: Head Definition
 
 <a id="participation-constitutional"></a>
 <a id="participation"></a>

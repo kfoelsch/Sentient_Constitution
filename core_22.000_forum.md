@@ -15,6 +15,7 @@
 
 > Where this lives (navigation):
 > - **Companion chapter:** [Chapter Twenty-Three](core_23.000_forum_families_escalation_timeliness_support.md#chapter-twenty-three-forum-families-escalation-timely-resolution-and-support) holds forum family definitions, escalation and questions for ruling, timely resolution, and forum support.
+> - **Attached subcore file:** [Subcore 22-A](subcore_22.010_forum_intake_default_venue.md#subcore-22-a-forum-intake-and-default-venue) (*Forum Intake and Default Venue*) holds the intake triage body's work, the routing sequence at filing, the default venue table, the lead-default limits, the special routing rules, and the limits on cross-institution coordination (§8).
 > - **Constitutional owner:** **section 1** (*purpose*, *role*, and *chapter scope*); **primary adjudicative application** of norms this chapter allocates, **as distinct from** routine **executive administration**, and **accountability** requirements (**section 3**); **Dispute sequencing** for ordinary disputes inside already-authorized systems, **published**, **predictable** **threshold** placement, **default starting venue**, **primary-stakes** routing, **intake triage body** (**first-touch desk**), mixed stakes, asymmetry, Standing-Record contests, **good-faith characterization and anti-gaming**, and **sentient-accessible** **threshold** **access** expectations (**section 4**, **read with** **`corpus_forum.md`**); **transfer**, **consolidation**, and **coordination** (**section 6**, read with **Chapter Twenty-Three section 4** certification and backup); **anti-self-judging** backup routing; and escalation hooks tied to **Chapter Fourteen**, **Chapter Twenty**, and **Chapter Four** justice and challenge rights.
 > - **Pipeline navigation:** [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together) — [§§1–6](#1-purpose-role-and-scope) in this chapter; forum families, escalation, timely resolution, and support in [Chapter Twenty-Three](core_23.000_forum_families_escalation_timeliness_support.md#chapter-twenty-three-forum-families-escalation-timely-resolution-and-support).
 > - **Chapters Fourteen–Nineteen three-question pipeline:** Chapter Fourteen **sections 4–6** answer Question 1 (*what happened?*) through verified, axis-pure records. [Chapter Fifteen §3](core_15.000_standing_measurement.md#3-question-2--how-good-or-bad-was-it) and the [Chapter Fifteen §8 unified proportional LEQU scale](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) answer Question 2 (*how good or bad was it?*) through evaluation dimensions, shared five-times LEQU bands, and the shared **s** = 1...9 grammar while preserving separate Contribution and Violation records. [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) answers Question 3 (*what happens because of it?*) through remedies, safeguards, competency bars and clearances, and standing locks. The Violation Axis slot is controlled only by verified impact; negligence, concealment, coercion, response, and comparable character descriptors do not move it. [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) may add the corresponding anti-constitutional-misconduct designation to a Chapter Fifteen slot 7, 8, or 9 record but does not assign the numeric slot.
@@ -135,7 +136,15 @@ A right that cannot be brought before someone independent is only a hope. Disput
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): all four legs meet in a forum:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): the sentient affected must be heard;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): someone must answer for the decision;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): an independent body checks what was done;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): relief that comes too late is no relief;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): [Continuity](core_00.000_preamble.md#continuity), since disputes left open wear down the shared systems sentients depend on;
 - Chapter Two principles:
+  - [§3.1 Fairness](core_02.000_values_principles.md#31-fairness): above all, a forum must be fair, or none of this holds;
   - [§17.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization);
   - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
   - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
@@ -256,7 +265,7 @@ Each **forum family** bears primary responsibility for incentive structures prim
 
 ##### 3.2.3 Relation to Implementation Files
 
-Institutional contest, secondary review, and integrity monitoring in the institutional family work alongside this chapter. That work includes:
+The institutions files (the CI files in the implementation corpus) set out how sentients challenge an institution, how its decisions get a second look, and how it is watched for conflicts of interest, capture, and corruption. They work alongside this chapter. They include:
 
 - **[CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) through **[CI-4.205](corpus_institutions/ci_04.205_transparency_participation_accessible_pathways.md#ci-4205-transparency-participation-and-accessible-challenge-and-service-pathways)** (*Transparency, participation, and accessible challenge and service pathways*);
 - **[CI-22.210](corpus_institutions/ci_22.210_cross_institution_coordination_escalation.md#ci-22210-cross-institution-coordination-and-escalation)** (*Cross-institution coordination and escalation*); and
@@ -281,7 +290,7 @@ Two limits keep that work in its place:
   - [Chapter Twenty-Three §4](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*escalation from default venue; Interim protection*);
   - [Chapter Twenty-Three §5](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*);
   - [Chapter Twenty-Three §6](core_23.000_forum_families_escalation_timeliness_support.md#6-forum-support-before-during-and-after-review--oversight-architecture) (*forum support before, during, and after review*).
-- Within §4: [§4.1](#41-dispute-sequencing) (*dispute sequencing*); [§4.2](#42-primary-stakes-routing-and-intake) (*primary-stakes test, intake triage body, good-faith characterization, and initial access*); [§4.3](#43-default-venue) (*routing sequence, default venue table, limits on default leads, and special routing rules*); [§4.4](#44-mixed-stakes-and-routing-asymmetry) (*mixed stakes and asymmetry*).
+- Within §4: [§4.1](#41-dispute-sequencing) (*dispute sequencing*); [§4.2](#42-primary-stakes-routing-and-intake) (*primary-stakes test, intake triage body, good-faith characterization, and initial access*); [§4.3](#43-default-venue) (*default venue, with the routing sequence, default venue table, limits on default leads, and special routing rules in Subcore 22-A*); [§4.4](#44-mixed-stakes-and-routing-asymmetry) (*mixed stakes and asymmetry*).
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, and **timeliness** legs;
   - [material stake](core_00.000_preamble.md#material-stake) scaling for primary-stakes routing;
@@ -290,7 +299,7 @@ Two limits keep that work in its place:
   - [Chapter Fifteen §§5.1–5.2](core_15.000_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (15.000 §5.1) (*cross-axis normalized descriptors informing primary stake without moving the impact slot*);
   - **[CF-22.415](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*) and
   - **CF-22.425 §4** (*Constitutional Alignment Certification and Review*);
-  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, **[CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle)** (*System lifecycle*), and **[CS-8.315](corpus_systems/cs_08.315_system_alignment_certification_run_sheet.md#cs-8315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) (*system classification, deployment, and recertification duties*);
+  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, **[CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle)** (*System lifecycle*), and **[CS-8.315](corpus_systems/cs_08.315_system_alignment_certification_run_sheet.md#cs-8315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) (*system classification, deployment, and recertification duties*);
   - [Chapter Twenty §6](core_20.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) (20.000 §6) (*anti-constitutional-misconduct designation for qualifying Chapter Fifteen slots 7–9*);
   - [Chapter Twenty §7](core_20.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (20.000 §7) (*due process for the anti-constitutional-misconduct designation read with this chapter and **Article XXI** (*Justice After Verified Violation*)*);
   - [Article XXI-A](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*justice objective and scope*).
@@ -366,17 +375,7 @@ flowchart TB
 
 ##### 4.2.2 Intake Triage Body (First-Touch Desk)
 
-Each required forum family must maintain an **intake triage body**, or a functionally equivalent arrangement within that family, as the family's **first-touch desk** at filing. That body:
-- **applies** primary-stakes routing under this section;
-- **sorts** incoming matters for **published** intake treatment consistent with **primary stakes**;
-- **flags** preservation, **Rights-Floor**, **cross-family routing**, and **backup-forum** needs (see [Ways a Matter Moves Between Forums](core_23.000_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums)); and
-- **administers** initial access so that transfer, consolidation, certification, and backup discipline under **section 6** and **Chapter Twenty-Three section 4** can take effect inside the **intake target** of the matching tier ([Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline)).
-
-That body also stays within three limits. It:
-
-- is **not** a separate constitutional forum family;
-- **must not** substitute for a lawfully constituted merits panel on **substantive outcomes** or **collapse** **family** boundaries; and
-- **must not** employ funding, fee, administrative preference, or other incentive devices to defeat primary-stakes routing or enable opaque threshold sorting.
+Each required forum family must maintain an **intake triage body**, or a functionally equivalent arrangement within that family, as the family's **first-touch desk** at filing. What it does, and the limits that keep it from deciding the merits or collapsing family boundaries, are in [Subcore 22-A §3 Intake Triage Body (First-Touch Desk)](subcore_22.010_forum_intake_default_venue.md#3-intake-triage-body-first-touch-desk).
 
 <a id="423-good-faith-characterization-and-anti-gaming"></a>
 
@@ -412,59 +411,14 @@ The **intake triage body** under this section, together with **CF-22.415** (*Rou
 
 #### 4.3 Default Venue
 
-<a id="431-routing-sequence-at-filing"></a>
+At filing, the family's **intake triage body** picks the lead forum family by primary stake. [Subcore 22-A](subcore_22.010_forum_intake_default_venue.md#subcore-22-a-forum-intake-and-default-venue) (*Forum Intake and Default Venue*), attached to this chapter, holds:
 
-##### 4.3.1 Routing Sequence at Filing
+- the routing sequence at filing ([§4 Routing Sequence at Filing](subcore_22.010_forum_intake_default_venue.md#4-routing-sequence-at-filing));
+- the default venue table ([§5 Default Venue Table](subcore_22.010_forum_intake_default_venue.md#5-default-venue-table));
+- the limits on default leads ([§6 Lead-Default Limits](subcore_22.010_forum_intake_default_venue.md#6-lead-default-limits)); and
+- the special routing rules ([§7 Special Routing Rules](subcore_22.010_forum_intake_default_venue.md#7-special-routing-rules)).
 
-**Routing map from Chapter Fourteen §6 (*Verification and Record Requirements*).** Chapters Fourteen and Fifteen tell forums how to record and *measure* what happened. They do **not** by themselves pick which forum hears the case. At filing, the family's **intake triage body** (first-touch desk) works through this sequence:
-
-1. **Check what is already verified:** Note any verified Chapter Fifteen **Contribution Axis** or **Violation Axis** material — including the impact slot, severity band, process / response character, and standing effect — when those already exist.
-2. **Do not treat accusations as settled facts:** Allegations and provisional labels guide routing and evidence preservation only, until findings exist under **Subcores 3-A to 3-C**.
-3. **Pick the lead forum by what the fight is really about:** Use the default venue table in **section 4.3.2**: **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, or **Constitutional**. Apply the special routing rules in **section 4.3.4** where they fit.
-
-<a id="432-default-venue-table"></a>
-
-##### 4.3.2 Default Venue Table
-
-At filing, **default** venue follows these rules unless **section 6** transfers or consolidates:
-
-| Family | Party pattern | Primary stake (summary) |
-|--------|---------------|--------------------------|
-| **Sentient** | Sentient-to-sentient matters, and member, participant, household, neighborhood, association, local, regional, online, or comparable community-governance disputes where no institution is a necessary party and no other family holds the primary stake | Private or community obligations, remedial or restorative harms, local restoration, local or online community norms, community-governance participation, exclusion, restoration, or internal self-governance contests |
-| **Technical Forum Domains** | Any party pattern, but **primary** stake is technical-governance procedure, system-alignment specifications, expert-evidence standards, scientific / engineering / medical administration, comparable knowledge-governance within adopted scope, **or** **Article VI-B** (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators / expert evidence / bounded uncertainty | **Technical** standards, system-alignment specifications, measurement and testing methods, expert administrative procedure, evidence stewardship, textbook or curriculum integrity, standards governance, bounded uncertainty-reduction relevant to adjudication, regulation, or alignment certification, **or** sentience-status indicator adjudication under **Article VI-B** (*Sentience-Status Adjudication Floor*) |
-| **Institutional** | Any **institution** is a **necessary** party **or** the main fight is about what an institution is allowed to do, what it is charged to do, or whether it followed the rules that govern it | What an institution may do, what it is charged to do, the scope it is supervised under, how it is classified, or whether it followed its duties |
-| **Environment** | Anyone can be a party, not only systems, and an Environment Forum must also take part in reviewing any system whose alignment materially affects the environment | **Ecological integrity**, **environmental preconditions**, restoration or remediation of shared ecological systems, attributable environmental burdens, lifecycle or systemic ecological harm, environmental-alignment component review for systems with material ecological exposure, or **pattern** or **systemic** ecological failure where classification, alignment certification, recertification, or Rights-Floor enforcement depends on that determination |
-| **Integrity** | **Integrity** as **the** main issue (including **grave** violation of conflict, procedure, or capture controls), official **constitutional alignment certification** or **ongoing alignment validation** for systems and institutions, **or** a **Chapter Twenty** ACMD for a Chapter Fifteen **slot 7, 8, or 9** impact slot as **the** **primary** stake | **Integrity** of office, process, contest pathways, disclosure, conflict rules, anti-capture duties, official system-alignment certification, validation, and recertification using technical-forum inputs and Environment Forum environmental-alignment component determinations where material (**including** **pattern** or **systemic** failure **across** institutions or systems where **Chapter Fifteen** measurement, a corresponding **Chapter Twenty** designation, or **Rights-Floor** enforcement depends on that determination) |
-| **Constitutional** | **Structural** constitutional validity, **norm** meaning for **all** interpreters, or remedy that **restructures** governance **by constitutional requirement** | **Constitutional** validity or meaning, action **beyond lawful authority**, supremacy, or **class-wide** **structural** remedy |
-
-<a id="433-lead-default-limits"></a>
-
-##### 4.3.3 Lead-Default Limits
-
-These rules limit how the table's default leads interact. They do not replace **section 6** and **Chapter Twenty-Three section 4**, or the mixed-stakes and asymmetry rules in **section 4.4**.
-
-- **Primary-stakes collision:** If the main fight is about what an institution is allowed to do, what it is charged to do, or whether it followed the rules that govern it, the Chapter Twenty **Integrity** lead default (set in **section 4.3.4**) does not override the **Institutional** row. **Section 4.4** and **section 6** govern mixed stakes, necessary institutional parties, and lead forum selection.
-- **Constitutional questions for ruling:** **Integrity** lead for a Chapter Twenty designation does not displace Chapter Fifteen numeric slot measurement, sending a question for ruling, or escalation to **Constitutional** forums under **Chapter Twenty-Three section 4** where constitutional meaning, validity, or class-wide structural remedy requires determination under the **Constitutional** row or through family-to-family escalation.
-- **Anti-self-judging backup:** Where material allegations warrant independent merits review of **Integrity** forum integrity in a Chapter Twenty designation proceeding concerning a Chapter Fifteen slot 7–9 record, backup routing under **section 5** and **Chapter Twenty-Three section 3** applies without narrowing **Chapter Twenty section 7** or **Article XXI** (*Justice After Verified Violation*).
-
-<a id="434-special-routing-rules"></a>
-
-##### 4.3.4 Special Routing Rules
-
-These rules apply on top of the default venue table in **section 4.3.2**. **Section 4.3.3** limits how the table's default leads interact.
-
-- **Chapter Twenty designation:** Where a **Chapter Twenty** ACMD is the **primary** stake, **Integrity** is the default lead. Keep:
-  - the Chapter Fifteen numeric impact slot;
-  - **Constitutional** certification where needed;
-  - institutional-party rules; and
-  - anti-self-judging backup under **sections 4, 6, and 8**.
-- **Forum-bias disputes:** If the fight is mainly about a panelist who should have stepped aside, biased panel participation, or a comparable forum-integrity violation — including on a **Constitutional** forum panel under **[Article XXVI-C](core_04.030_rights_part_d.md#article-xxvi-c-constitutional-forum-independence-and-external-review) (*Constitutional Forum Independence and External Review*)** — route it to **Integrity** forums first. Under **section 6**, a forum cannot be the sole final judge of its own bias: a **Constitutional** forum cannot be the only final forum deciding whether its own panelist should have recused. Standing-lock discipline: **[Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks)**. Named misconduct pattern: **[Chapter Twenty-One §6.3 Forum Recusal Failure and Biased Panel Participation](core_21.000_misconduct_pattern_applications.md#63-forum-recusal-failure-and-biased-panel-participation)**.
-- **Technical how-to questions:** Specifications, methods, measurement, testing, and expert-evidence questions go to **Technical Forum Domains** when those are the primary stake or component questions for ruling.
-- **System-alignment sign-off:**
-  - Official **constitutional alignment certification** for new materially impactful systems, and **ongoing alignment validation** for existing ones, default to **Integrity** as lead. So does institutional alignment certification of an Institution, which keeps **Institutional** forums as holders of the institutional mandate and duty-compliance components.
-  - Integrity uses technical-forum inputs plus constitutional, institutional, ecological, rights, and anti-capture requirements.
-  - Where the system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk, the **Environment** forum family must complete its environmental-alignment review (sign-off or objection) before certification, validation, recertification, or material release from environmental conditions may become final.
-  - Keep referrals or sending for ruling to **Technical Forum Domains**, **Institutional**, **Environment**, **Sentient**, and **Constitutional** for component questions those families own.
+Default venue holds unless **section 6** transfers or consolidates.
 
 <a id="44-mixed-stakes-and-routing-asymmetry"></a>
 
@@ -527,7 +481,7 @@ A case reaches a forum in one of four ways. The intake triage body records the i
 
 | Intake | What arrives | First step | Routed by |
 |--------|--------------|------------|-----------|
-| **Direct case** (a [Direct Case](subcore_03.070_band_accountability.md#direct-case)) | A dispute that does not contest a Certification Record, a Standing Record, or an Adoption Transition Record: sentient-to-sentient, community, institutional, integrity, ecological, or constitutional claims. | Filing with the forum, after the ordinary participation path under [Dispute sequencing](#dispute-sequencing) where one applies. | Primary stakes, under the default venue table in **section 4.3.2**. |
+| **Direct case** (a [Direct Case](subcore_03.070_band_accountability.md#direct-case)) | A dispute that does not contest a Certification Record, a Standing Record, or an Adoption Transition Record: sentient-to-sentient, community, institutional, integrity, ecological, or constitutional claims. | Filing with the forum, after the ordinary participation path under [Dispute sequencing](#dispute-sequencing) where one applies. | Primary stakes, under the default venue table in [Subcore 22-A §5 Default Venue Table](subcore_22.010_forum_intake_default_venue.md#5-default-venue-table). |
 | **Certification contest** (a [Review Case](subcore_03.070_band_accountability.md#review-case)) | A challenge to a System or Institutional Certification Record or one of its certification findings. | The Certification Record's published challenge path, or direct access where delay would materially endanger rights, evidence, independence, or practical restoration. | The four challenge paths, under **section 5.4**. |
 | **Standing-Record contest** (a [Review Case](subcore_03.070_band_accountability.md#review-case)) | A challenge to a contribution Standing Record or violation Standing Record. | Logged on the Standing Record and set *under challenge* by its custodian, or direct access where delay would materially endanger rights, evidence, independence, or practical restoration. | The real issue in the challenge, under **section 5.5**. |
 | **Adoption Transition Record contest** (a [Review Case](subcore_03.070_band_accountability.md#review-case)) | A challenge to an adopter's [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record): a gate decision, an enforcement-readiness declaration, a ledger entry, interim authority, or a provisional entry. | The challenge route the adopter publishes with the Adoption Transition Record, or direct access where delay would materially endanger rights, evidence, independence, or practical restoration. | The real issue in the challenge, under **section 5.6**. |
@@ -549,7 +503,7 @@ Who holds each seat depends on the intake:
 | Seat | Direct case | Certification contest | Standing-Record contest | Adoption Transition Record contest |
 |------|-------------|-----------------------|-------------------------|-------------------------------------|
 | **[Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat)** (brings the case) | The claimant: a sentient, institution, community, or published representative. A sentient needs no institution to file. | The challenger, who is any affected sentient or stakeholder. The operator or proponent when it contests a denial or revocation. | The subject or claimant contesting the Standing Record. | An affected sentient, institution, community, or oversight body. |
-| **[Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat)** (decides the case) | The merits panel of the lead forum family under **section 4.3.2**. | A forum that did not make the challenged finding, chosen under **section 5.4**. | A forum that did not verify the Standing Record. Never the record custodian or a Backup Record Authority. | A forum independent of the ledger owner and of the party that made the contested decision, chosen under **section 5.6**. |
+| **[Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat)** (decides the case) | The merits panel of the lead forum family under [Subcore 22-A §5 Default Venue Table](subcore_22.010_forum_intake_default_venue.md#5-default-venue-table). | A forum that did not make the challenged finding, chosen under **section 5.4**. | A forum that did not verify the Standing Record. Never the record custodian or a Backup Record Authority. | A forum independent of the ledger owner and of the party that made the contested decision, chosen under **section 5.6**. |
 | **[Record Seat](subcore_03.070_band_accountability.md#record-seat)** (keeps the case file) | The office that keeps the [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record). Not the panel and not a party. | The office that keeps the [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record). The System or Institutional Certification Record stays with the record holder its Charter Role Map names, and the lead forum coordinates it without keeping it. | The office that keeps the [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record). The Standing Record stays with its record custodian. | The office that keeps the [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record). The [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record) stays with the adopter that keeps and publishes it. |
 | **[Contest Seat](subcore_03.070_band_accountability.md#contest-seat)** (reviews the forum's own decision) | Appeal or secondary review under [CF-22.420](corpus_forum/cf_22.420_appeal_secondary_review_exhaustion_pathways.md#cf-22420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, Secondary Review, and Exhaustion Pathways*). A backup family where the forum's own bias or capture is alleged. | The same, with escalation to **Constitutional** forums where constitutional validity is in question. | The same. | The same as a direct case. |
 | **Respondents, not seat holders** | None. | The operator, the lead forum, the component authorities, and the Certification Record holder. | The record-opening authority and the record custodian. | The adopter, the ledger owner, the Adoption Transition authority, and the party that made the contested decision or declaration. |
@@ -625,7 +579,7 @@ These rules cover how forum work reaches Standing Records:
 A certification contest is a [Review Case](subcore_03.070_band_accountability.md#review-case). A System or Institutional Certification Record names four challenge paths ([Chapter Ten §5.2 Contestability Paths](core_10.000_system_alignment_certification_records_recertification.md#52-contestability-paths); [Chapter Thirteen §5.2 Contestability Paths](core_13.000_institutional_alignment_certification_records_recertification.md#52-contestability-paths)). The paths apply [Dispute sequencing](#dispute-sequencing) under **section 4**. They are routes into the forums, not a new forum, and this chapter decides which forum takes each:
 
 - The **published record challenge path** is the ordinary first step for an ordinary dispute about the Certification Record. A challenge raised there is logged on the Certification Record, and the tier windows under **Chapter Twenty-Three §5** (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*) run from its receipt. Internal operator review, vendor attestation, or technical sign-off is not this path.
-- The **component forum path** takes a challenge to one certification finding to the forum family that has jurisdiction over it under the default venue table in **section 4.3.2**.
+- The **component forum path** takes a challenge to one certification finding to the forum family that has jurisdiction over it under the default venue table in [Subcore 22-A §5 Default Venue Table](subcore_22.010_forum_intake_default_venue.md#5-default-venue-table).
   - Examples:
     - **Technical Forum Domains** for specifications, methods, and evidence standards;
     - **Environment** for the environmental-alignment component; and
@@ -833,4 +787,4 @@ A claim that a forum family, remedy system, or standing-integration function is 
 
 **Previous file:** [core_21.000_misconduct_pattern_applications.md](core_21.000_misconduct_pattern_applications.md)
 
-**Next file:** [core_23.000_forum_families_escalation_timeliness_support.md](core_23.000_forum_families_escalation_timeliness_support.md)
+**Next file:** [subcore_22.010_forum_intake_default_venue.md](subcore_22.010_forum_intake_default_venue.md)

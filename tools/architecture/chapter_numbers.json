@@ -454,6 +454,45 @@
       "pre_reorganization_2026_11_20": "06040"
     },
     {
+      "old_id": "CS-2",
+      "original_file": "corpus_systems/cs_02_b_data_classifications.md",
+      "machine_id": "SUB-04050",
+      "display_id": "S4-A",
+      "layer": "SUBCORE",
+      "core_home": "04",
+      "title": "S4-A",
+      "destination_file": "subcore_04.050_data_types.md",
+      "status": "active",
+      "machine_number": "04050",
+      "layer_digit": "0",
+      "ordinal_name": "S4-A",
+      "legacy_file_label": "CS-2 Part B",
+      "legacy_section_ids": [
+        "CS-2",
+        "CS-2.9"
+      ],
+      "legacy_chapter_ids": [
+        "CS-2"
+      ],
+      "pre_reorganization_2026_11_20": "CS-06310",
+      "pre_subcore_2026_11_20": "CS-04310"
+    },
+    {
+      "old_id": "CI-6.210 §§3-4",
+      "original_file": "corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md",
+      "machine_id": "SUB-04060",
+      "display_id": "S4-B",
+      "layer": "SUBCORE",
+      "core_home": "04",
+      "title": "S4-B",
+      "destination_file": "subcore_04.060_integrity_triggers_gifts_funding.md",
+      "status": "active",
+      "machine_number": "04060",
+      "layer_digit": "0",
+      "ordinal_name": "S4-B",
+      "pre_subcore_2026_11_20": "CI-06210"
+    },
+    {
       "old_id": "Chapter 7",
       "original_file": "core_07_charters.md",
       "machine_id": "05000",
@@ -484,6 +523,21 @@
       "pre_reorganization_2026_11_20": "08000"
     },
     {
+      "old_id": "CJS-3.125 §11 term",
+      "original_file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
+      "machine_id": "SUB-06010",
+      "display_id": "S6-A",
+      "layer": "SUBCORE",
+      "core_home": "06",
+      "title": "S6-A",
+      "destination_file": "subcore_06.010_constitutional_lanes.md",
+      "status": "active",
+      "machine_number": "06010",
+      "layer_digit": "0",
+      "ordinal_name": "S6-A",
+      "pre_subcore_2026_11_20": "CJS-03125"
+    },
+    {
       "old_id": "Chapter 8 §11",
       "original_file": "core_08.000_functional_independence_separation_of_duties.md",
       "machine_id": "07000",
@@ -511,6 +565,35 @@
       "layer_digit": "0",
       "ordinal_name": "8",
       "pre_reorganization_2026_11_20": "09000"
+    },
+    {
+      "old_id": "CS-3",
+      "original_file": "corpus_systems/cs_03_b_system_impact_classifications.md",
+      "machine_id": "SUB-08010",
+      "display_id": "S8-A",
+      "layer": "SUBCORE",
+      "core_home": "08",
+      "title": "S8-A",
+      "destination_file": "subcore_08.010_system_classification.md",
+      "status": "active",
+      "machine_number": "08010",
+      "layer_digit": "0",
+      "ordinal_name": "S8-A",
+      "legacy_file_label": "CS-3 Part B",
+      "legacy_section_ids": [
+        "CS-3",
+        "CS-3.8",
+        "CS-3.9",
+        "CS-3.10",
+        "CS-3.11",
+        "CS-3.12",
+        "CS-3.13"
+      ],
+      "legacy_chapter_ids": [
+        "CS-3"
+      ],
+      "pre_reorganization_2026_11_20": "CS-09310",
+      "pre_subcore_2026_11_20": "CS-08310"
     },
     {
       "old_id": "Chapter 9",
@@ -723,6 +806,21 @@
       "pre_reorganization_2026_11_20": "23000"
     },
     {
+      "old_id": "Chapter 22 §4.2.2 and §§4.3.1-4.3.4",
+      "original_file": "core_22.000_forum.md",
+      "machine_id": "SUB-22010",
+      "display_id": "S22-A",
+      "layer": "SUBCORE",
+      "core_home": "22",
+      "title": "S22-A",
+      "destination_file": "subcore_22.010_forum_intake_default_venue.md",
+      "status": "active",
+      "machine_number": "22010",
+      "layer_digit": "0",
+      "ordinal_name": "S22-A",
+      "pre_subcore_2026_11_20": "22000"
+    },
+    {
       "old_id": "Chapter 23 Part B",
       "original_file": "core_23.005_forum_families_escalation_timeliness_support.md",
       "machine_id": "23000",
@@ -781,6 +879,21 @@
       "layer_digit": "0",
       "ordinal_name": "26",
       "pre_reorganization_2026_11_20": "27000"
+    },
+    {
+      "old_id": "CI-4.205 §4",
+      "original_file": "corpus_institutions/ci_04.205_transparency_participation_accessible_pathways.md",
+      "machine_id": "SUB-26010",
+      "display_id": "S26-A",
+      "layer": "SUBCORE",
+      "core_home": "26",
+      "title": "S26-A",
+      "destination_file": "subcore_26.010_governance_disclosure.md",
+      "status": "active",
+      "machine_number": "26010",
+      "layer_digit": "0",
+      "ordinal_name": "S26-A",
+      "pre_subcore_2026_11_20": "CI-04205"
     },
     {
       "old_id": "Chapter 15",
@@ -1913,28 +2026,6 @@
       "pre_reorganization_2026_11_20": "CS-06305"
     },
     {
-      "old_id": "CS-2",
-      "original_file": "corpus_systems/cs_02_b_data_classifications.md",
-      "machine_id": "CS-04310",
-      "display_id": "CS-4.310",
-      "layer": "CS",
-      "core_home": "04",
-      "title": "data classifications",
-      "destination_file": "corpus_systems/cs_04.310_data_classifications.md",
-      "status": "active",
-      "machine_number": "04310",
-      "layer_digit": "3",
-      "legacy_file_label": "CS-2 Part B",
-      "legacy_section_ids": [
-        "CS-2",
-        "CS-2.9"
-      ],
-      "legacy_chapter_ids": [
-        "CS-2"
-      ],
-      "pre_reorganization_2026_11_20": "CS-06310"
-    },
-    {
       "old_id": "CS-6",
       "original_file": "corpus_systems/cs_06_comprehensibility_complexity_stewardship.md",
       "machine_id": "CS-04315",
@@ -2235,33 +2326,6 @@
         "CS-3"
       ],
       "pre_reorganization_2026_11_20": "CS-09305"
-    },
-    {
-      "old_id": "CS-3",
-      "original_file": "corpus_systems/cs_03_b_system_impact_classifications.md",
-      "machine_id": "CS-08310",
-      "display_id": "CS-8.310",
-      "layer": "CS",
-      "core_home": "08",
-      "title": "system impact classifications",
-      "destination_file": "corpus_systems/cs_08.310_system_impact_classifications.md",
-      "status": "active",
-      "machine_number": "08310",
-      "layer_digit": "3",
-      "legacy_file_label": "CS-3 Part B",
-      "legacy_section_ids": [
-        "CS-3",
-        "CS-3.8",
-        "CS-3.9",
-        "CS-3.10",
-        "CS-3.11",
-        "CS-3.12",
-        "CS-3.13"
-      ],
-      "legacy_chapter_ids": [
-        "CS-3"
-      ],
-      "pre_reorganization_2026_11_20": "CS-09310"
     },
     {
       "old_id": "CS-9.315",

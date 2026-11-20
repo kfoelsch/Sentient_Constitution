@@ -47,9 +47,29 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Chapter Three, Timeliness Tetrad leg, is the constitutional owner of the **Timeliness** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Accountability band](subcore_03.070_band_accountability.md), which holds the Timeliness implementing leaves.
 
 *In plain terms: move problems through detection, challenge, resolution, and repair in time — published clocks that leave harm compounding are not timeliness.*
+
+### 2. Why Timeliness Is a Leg of the Tetrad
+
+*In plain terms: a remedy that comes too late is no remedy. This file says what it means for a system to act in time.*
+
+Every protection in this Constitution can be defeated by delay: a review that never finishes, a correction that waits until the harm is done, an appeal that outlasts the sentient's need. Timeliness makes speed part of the duty itself, scaled to how much is at stake and how fast harm can spread.
+
+**Grounded in:**
+
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness) leg, which this file defines;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): a remedy that comes too late is no remedy;
+    - [Continuity](core_00.000_preamble.md#continuity): acting in time stops small failures from becoming lasting ones;
+- Chapter Four Articles: [Article XXVII](core_04.040_rights_part_e.md#article-xxvii-timely-retrospective-review-and-restorative-alignment) (*Timely Retrospective Review and Restorative Alignment*);
+- Chapter Twenty-Three: [§5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+
+### Timeliness: Head Definition
 
 <a id="timeliness-constitutional"></a>
 <a id="timeliness"></a>

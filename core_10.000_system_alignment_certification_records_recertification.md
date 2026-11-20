@@ -87,6 +87,14 @@ Systems change after they are certified: new versions ship, owners change, and r
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the System Certification Record shows who decided what, and when;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): recertification checks that the system still meets the standard;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): recertification comes on schedule, not only after harm;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients keep the protection the certification promised;
+    - [Continuity](core_00.000_preamble.md#continuity): certification stays true as the system changes over time;
 - Chapter Two principles:
   - [§6 Trust and Trustworthiness (Coordination Integrity)](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
   - [§10 Resilience and Self-Healing Design](core_02.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design);
@@ -118,7 +126,7 @@ Systems change after they are certified: new versions ship, owners change, and r
 - Read with:
   - [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification);
   - [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation);
-  - **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, and
+  - **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, and
   - **CS-4.345** (*System lifecycle*);
   - **CJS-3.110 §4** (*transparency levels and audit-access terms*).
 - Subsections:
@@ -213,7 +221,7 @@ The System Certification Record must identify, at minimum:
 
 The System Certification Record must identify, at minimum:
 
-- **System Classification Record:** the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), or its required contents under CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*), reflecting the evaluation under [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation), stating:
+- **System Classification Record:** the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), or its required contents under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*), reflecting the evaluation under [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation), stating:
   - the assigned system class;
   - the classification rationale;
   - key assumptions, including material-impact assumptions;
@@ -233,17 +241,17 @@ The System Certification Record must identify, at minimum:
 
 ##### 3.1.3 System Data Types Record
 
-The System Certification Record must identify, at minimum, the [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record), or its required contents under CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*), produced or verified under [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation), stating:
+The System Certification Record must identify, at minimum, the [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record), or its required contents under Subcore 4-A (*Data Types*), produced or verified under [Chapter Eight §4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation), stating:
 - the data types materially in scope;
 - the classification rationale for ambiguous or multi-type data;
 - the separation and cross-domain-linkage controls relied on;
 - the handling, retention, lifecycle, and infrastructure-assurance posture;
 - enough attribution capability to support [Attributable Action](subcore_03.070_band_accountability.md#attributable-action) and [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity);
-- the most recent scheduled data-type re-evaluation, under **[CS-4.305 §5](corpus_systems/cs_04.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-4.305 §8 System Data Types Record Governance](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-8-system-data-types-record-governance)**:
+- the most recent scheduled data-type re-evaluation, under **[Subcore 4-A §6.2](subcore_04.050_data_types.md#62-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-4.305 §8 System Data Types Record Governance](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-8-system-data-types-record-governance)**:
   - its date or cycle identifier;
   - its cadence (scaled to system class and impact); and
   - any material retypes;
-- any justified restrictions on disclosure or audit access, with their public substitutes where CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) requires them; and
+- any justified restrictions on disclosure or audit access, with their public substitutes where Subcore 4-A (*Data Types*) requires them; and
 - where the Type O baseline applies, how [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) covers the certified scope: the System Charter fields relied on, boundary findings, and any coverage gaps or certification conditions.
 
 <a id="314-rights-floor-and-domain-findings"></a>
@@ -390,7 +398,7 @@ This section applies [Transparency](subcore_03.085_band_oversight.md#transparenc
 
 **Transparency** — sentients must be able to see what matters:
 
-- A System Certification Record must disclose decision-relevant facts, at a level proportionate to system class and material impact under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)**, including what [§3 System Certification Record](#3-system-certification-record) requires:
+- A System Certification Record must disclose decision-relevant facts, at a level proportionate to system class and material impact under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, including what [§3 System Certification Record](#3-system-certification-record) requires:
   - scope;
   - assumptions;
   - evidence basis;
@@ -398,10 +406,10 @@ This section applies [Transparency](subcore_03.085_band_oversight.md#transparenc
   - certification conditions;
   - outcomes; and
   - reliance limits;
-- A System Certification Record is **Type O** certification data for every system class. It is published at public-baseline fidelity, with lawful substitutes, under [CS-4.310 Part B §9.3 Type O](corpus_systems/cs_04.310_data_classifications.md#93-type-o-open-public-oversight-baseline-disclosure-data);
+- A System Certification Record is **Type O** certification data for every system class. It is published at public-baseline fidelity, with lawful substitutes, under [Subcore 4-A §10.3 Type O](subcore_04.050_data_types.md#103-type-o-open-public-oversight-baseline-disclosure-data);
 - Limits on disclosure justified by safety or security are permitted only where they are consistent with [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) and Chapter Two disclosure constraints;
 - Volume, formatting, or technical obscurity must not stand in for decision-relevant clarity; and
-- The online-publication baseline, the paywall prohibition for [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure), and the maximum-feasible public-substitute discipline are governed by [Transparency](subcore_03.085_band_oversight.md#transparency) and Public Oversight Baseline Disclosure, and implemented as **Type O** data under **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, read with **CJS-3.110 §4** (*transparency levels and audit-access terms*).
+- The online-publication baseline, the paywall prohibition for [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure), and the maximum-feasible public-substitute discipline are governed by [Transparency](subcore_03.085_band_oversight.md#transparency) and Public Oversight Baseline Disclosure, and implemented as **Type O** data under **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, read with **CJS-3.110 §4** (*transparency levels and audit-access terms*).
 
 **Auditability** — sentients must be able to reconstruct and check the System Certification Record:
 
@@ -430,11 +438,11 @@ This section applies [Transparency](subcore_03.085_band_oversight.md#transparenc
   - [§6](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*misclassification, misalignment, and defects found in evaluation*);
   - [§5](#5-challenging-a-certification) (*credible challenge*);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
-  - [Subcore 3-B §2](subcore_03.020_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) (S3-B §2) and
-  - [§3](subcore_03.020_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*);
+  - [Subcore 3-B §3](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) (S3-B §3) and
+  - [§4](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*);
   - [System Charter](subcore_03.075_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
 - Downstream: [§6.3](#63-verified-input-gate) and [§6.5](#65-violation-standing-record) (*verified-input gate where facts support adverse findings*); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*reopened forum supervision*); [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
-- Read with: **[CS-4.305 §5](corpus_systems/cs_04.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-8.305 §3](corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement)** (*Reclassification requirement*).
+- Read with: **[Subcore 4-A §6.2](subcore_04.050_data_types.md#62-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[Subcore 8-A §3.5](subcore_08.010_system_classification.md#35-reclassification-requirement)** (*Reclassification requirement*).
 - Subsections:
   - [§4.1](#41-recertification-schedule-and-the-new-system-certification-record) (*recertification schedule and the new System Certification Record*);
   - [§4.2](#42-reopening-triggers) (*reopening triggers*);
@@ -509,8 +517,8 @@ Review reopens under Chapter Twenty-Two and incorporated system implementation d
   - a credible challenge under [§5 Challenging a Certification](#5-challenging-a-certification);
   - an ecological objection.
 - **Classification and data-type misalignment:**
-  - system-class misalignment, or overdue reassessment, under **[CS-8.305 §3 Criticality, Concentration, Temporal, and Adversarial Factors](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-3-criticality-concentration-temporal-and-adversarial-factors)**, specifically its [§3.5 reclassification requirement](corpus_systems/cs_08.305_system_classification_machinery.md#35-reclassification-requirement);
-  - data-type or handling misalignment, or an overdue or skipped scheduled data-type re-evaluation, under **[CS-4.305 §5 Cross-Domain Governance Principles](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-5-cross-domain-governance-principles)**, specifically its [§5.2 reclassification and lifecycle governance](corpus_systems/cs_04.305_information_types_and_handling.md#52-reclassification-and-lifecycle-governance);
+  - system-class misalignment, or overdue reassessment, under **[Subcore 8-A §3 Criticality, Concentration, Temporal, and Adversarial Factors](subcore_08.010_system_classification.md#3-criticality-concentration-temporal-and-adversarial-factors)**, specifically its [Subcore 8-A §3.5 reclassification requirement](subcore_08.010_system_classification.md#35-reclassification-requirement);
+  - data-type or handling misalignment, or an overdue or skipped scheduled data-type re-evaluation, under **[Subcore 4-A §6 Cross-Domain Governance Principles](subcore_04.050_data_types.md#6-cross-domain-governance-principles)**, specifically its [Subcore 4-A §6.2 reclassification and lifecycle governance](subcore_04.050_data_types.md#62-reclassification-and-lifecycle-governance);
   - classification misalignment.
 - **System Charter and operator governance:**
   - a [System Charter](subcore_03.075_band_continuity.md#system-charter) amendment, a mismatch between the System Charter and behavior, operation materially outside chartered scope, or an overdue scheduled System Charter review;
@@ -635,9 +643,9 @@ A system's status, its count of clean recertifications, and its monitoring indic
 
 Evasion of this chapter's obligations is governed by Subcore 3-B — this chapter does not restate that discipline:
 
-- [Subcore 3-B §2 — Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints);
-- [Subcore 3-B §3 — Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#3-non-compliance-from-observable-system-behavior);
-- including scope-and-boundary evasion under [Subcore 3-B §3.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#31-common-evasion-patterns).
+- [Subcore 3-B §3 — Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints);
+- [Subcore 3-B §4 — Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior);
+- including scope-and-boundary evasion under [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns).
 
 <a id="5-challenging-a-certification"></a>
 

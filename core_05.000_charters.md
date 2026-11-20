@@ -101,6 +101,14 @@ Every later check (certification, standing, forum review) asks whether a system 
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): affected sentients can read the limits before they rely on a system or institution;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): each role is held by a named seat that answers for it;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): reviewers can compare what was done with what was promised;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients can rely on systems and institutions that keep to published limits;
+    - [Continuity](core_00.000_preamble.md#continuity): written limits keep a system or institution within bounds as it grows;
 - Chapter Two principles:
   - [§7.2 Assembly, Collective Organization, and Institutional Formation](core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation);
   - [§18.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure);
@@ -124,7 +132,7 @@ Every later check (certification, standing, forum review) asks whether a system 
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
   - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional);
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability).
-- Downstream: [§5](#5-what-system-and-institutional-charters-must-state); [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) (*class and certification depth*); [Chapter Eleven §3.1 Institution Class](core_11.000_institutional_alignment_certification_evaluation.md#31-institution-class) (11.000 §3.1) (*the class of an Institution*); **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*) for the class catalog.
+- Downstream: [§5](#5-what-system-and-institutional-charters-must-state); [Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) (*class and certification depth*); [Chapter Eleven §3.1 Institution Class](core_11.000_institutional_alignment_certification_evaluation.md#31-institution-class) (11.000 §3.1) (*the class of an Institution*); **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*) for the class catalog.
 - Read with:
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*);
   - **CF-22.415 §7** (*Institutional and Local Registrars*);
@@ -158,7 +166,7 @@ The five system impact classes are the frame for everything below. From most to 
 - **Class L, local, limited-impact, and non-critical:** its effects reach beyond a private unit but are local, replaceable, and containable.
 - **Class P, personal, private-use, isolated, and experimental:** its effects stay inside a private unit, with no meaningful outside reliance.
 
-[CS-8.310 §8](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-8-system-impact-classifications) (*System Impact Classifications*) holds the full definitions. Classes A, B, C, and L must publish and Class P may, and [§3.2 Which Classes Are Covered](#32-which-classes-are-covered) says how an Institution takes its class, from the Systems it runs or from its own impact.
+[Subcore 8-A §7](subcore_08.010_system_classification.md#7-system-impact-classifications) (*System Impact Classifications*) holds the full definitions. Classes A, B, C, and L must publish and Class P may, and [§3.2 Which Classes Are Covered](#32-which-classes-are-covered) says how an Institution takes its class, from the Systems it runs or from its own impact.
 
 <a id="31-who-must-publish"></a>
 #### 3.1 Who Must Publish
@@ -191,7 +199,7 @@ The class of the Chartered Party decides whether publishing is required or a cho
 
 An Operating Party is Class P only while its activity stays below the line in every one of the nine domains of [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality), which in practice means its acts and effects stay inside its [private unit](subcore_03.085_band_oversight.md#domain-specific-materiality-private-unit):
 
-- **Crossing a line:** Crossing the line in any one domain makes it at least Class L under **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*), whatever its size or what it calls itself.
+- **Crossing a line:** Crossing the line in any one domain makes it at least Class L under **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), whatever its size or what it calls itself.
 - **Staying below every line:** It stays Class P however many members it has.
 - **Those inside:** Class P also depends on those inside it. Anyone inside who notices the Operating Party crossing a line has a duty to report it, and the report is protected ([Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality)).
 
@@ -473,7 +481,7 @@ A System Charter states, in plain language that affected sentients and auditors 
 4. **Out-of-scope limits:** the material activities, authorities, and domains it is not authorized to exercise.
 5. **Affected communities and dependencies:** who relies on the Chartered Party, and which systems or infrastructure it depends on or gates, where material.
    - **Not an opt-out:** Leaving a group off this list does not take it out of scope. A sentient the Chartered Party materially affects keeps every Rights Floor protection whether or not the document names it, and a list narrower than the real reliance is read against the real reliance.
-6. **Classification assumptions:** the class or stewardship level relied on, with a [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) to **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*) and **CS-26.305** (*Critical system stewardship*) where they apply.
+6. **Classification assumptions:** the class or stewardship level relied on, with a [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) to **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*) and **CS-26.305** (*Critical system stewardship*) where they apply.
 7. **Charter Role Map:** the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map), or a Charter Pointer to the published document that is the Charter Role Map ([§6 The Charter Role Map and Standing-Record Custody](#6-the-charter-role-map-and-standing-record-custody)).
 8. **Binding stakeholder-choice Charter Pointers:**
    - **When it applies:** when a real disagreement among affected sentients requires a binding stakeholder choice inside the system. [Def.P2 Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) calls this its admission scope.
@@ -1135,6 +1143,6 @@ Every version of a System Charter or Institutional Charter is dated and kept. Th
 
 ---
 
-**Previous file:** [subcore_03.095_band_performance.md](subcore_03.095_band_performance.md)
+**Previous file:** [subcore_04.060_integrity_triggers_gifts_funding.md](subcore_04.060_integrity_triggers_gifts_funding.md)
 
 **Next file:** [core_06.000_functional_independence_separation_of_duties.md](core_06.000_functional_independence_separation_of_duties.md)

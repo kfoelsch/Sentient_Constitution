@@ -23,6 +23,8 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Chapter Three, Accountability band, is the constitutional owner of the **leaf definitions under the Accountability Tetrad leg**, including harm, forums, standing, force, contestability, redress, market structure, and related answerability terms. Binding O/M/A/C and [Tetrad Leg Decomposition](subcore_03.040_apex_accountability_leg.md#accountability-tetrad-leg-decomposition) live in [subcore_03.040_apex_accountability_leg.md](subcore_03.040_apex_accountability_leg.md#accountability). Do not duplicate leg-head O/M/A/C here. Timeliness-leg implementing leaves currently live in this band; the Timeliness leg-head is [subcore_03.065_apex_timeliness_leg.md](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional).
 | Cluster | Section |
 |---|---|
@@ -30,6 +32,24 @@ Chapter Three, Accountability band, is the constitutional owner of the **leaf de
 | **Def.A2** | Forum Families and Dispute Routing |
 | **Def.A3** | Standing State, Contribution, and Violation |
 | **Def.A4** | Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm |
+
+### 2. Why These Accountability Terms Are Defined
+
+*In plain terms: words like necessary, proportionate, and in good faith decide who must answer for what. This file pins them down so they cannot be stretched to excuse a decision.*
+
+Most disputes about responsibility turn on a few words: was the action necessary, was it proportionate, was it feasible to do better, was it done in good faith. Left loose, each of these becomes a ready excuse. Defining them here, with how to measure them and what must hold, gives every chapter the same test for when a decision-maker has met their duty.
+
+**Grounded in:**
+
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) leg, because these terms decide who must answer for what;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): pinned-down terms keep decisions about sentients from being excused;
+    - [Continuity](core_00.000_preamble.md#continuity): consistent terms keep accountability stable over time;
+- Chapter Two principles:
+  - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
+  - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
+- Subcore 3-D: [Accountability (Tetrad Leg)](subcore_03.040_apex_accountability_leg.md#subcore-3-d-accountability-tetrad-leg).
 
 ---
 
@@ -588,7 +608,7 @@ Chapter Three, Accountability band, is the constitutional owner of the **leaf de
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
   - [Chapter Eight §4.4](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4);
   - [Chapter Ten §3](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3); and **
-  - [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** where attributable action or audit-level responsibility is materially implicated.
+  - [Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** where attributable action or audit-level responsibility is materially implicated.
 - Read with:
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action),
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
@@ -3786,7 +3806,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Non-Compliance](subcore_03.080_band_integrative.md#non-compliance); [Subcore 3-B §4 — Non-Compliance Finding Profiles](subcore_03.020_definition_integrity.md#4-non-compliance-finding-profiles) (S3-B §4).
+- Upstream: [Non-Compliance](subcore_03.080_band_integrative.md#non-compliance); [Subcore 3-B §5 — Non-Compliance Finding Profiles](subcore_03.020_definition_integrity.md#5-non-compliance-finding-profiles) (S3-B §5).
 - Downstream: [CJS-3.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer) — governance-layer routing for profile **layer** codes.
 
@@ -5062,7 +5082,7 @@ See **Anti-Segmentation Principle**.
   - [Reversibility](subcore_03.075_band_continuity.md#reversibility),
   - [Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure),
   - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation), and
-  - [Subcore 3-B §3.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#311-formal-label-and-representation-gaming) (S3-B §3.1.1).
+  - [Subcore 3-B §4.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#411-formal-label-and-representation-gaming) (S3-B §4.1.1).
 
 </details>
 
@@ -5344,7 +5364,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (scaled / adversarial deployment scrutiny).
-- Owner floor: [Article XV-C](core_04.020_rights_part_c.md#article-xv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Systems-layer implementation: [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications) classification.
+- Owner floor: [Article XV-C](core_04.020_rights_part_c.md#article-xv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Systems-layer implementation: [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification) classification.
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](subcore_03.070_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
   - [Autonomous Lethal System](subcore_03.070_band_accountability.md#autonomous-lethal-system),
@@ -5355,7 +5375,7 @@ See **Anti-Segmentation Principle**.
   - [Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure),
   - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
   - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics), and
-  - [Subcore 3-B §3.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#311-formal-label-and-representation-gaming) (S3-B §3.1.1).
+  - [Subcore 3-B §4.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#411-formal-label-and-representation-gaming) (S3-B §4.1.1).
 
 </details>
 
@@ -5387,7 +5407,7 @@ See **Anti-Segmentation Principle**.
 
     **Primary assessment:** Judge what the system actually does, not what it is called. At minimum, check:
 
-    - nominal human-in-the-loop and systems-layer classification claims under [Subcore 3-B §3.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#311-formal-label-and-representation-gaming);
+    - nominal human-in-the-loop and systems-layer classification claims under [Subcore 3-B §4.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#411-formal-label-and-representation-gaming);
     - the coercive effect on sentients, not the weapon-class label ("non-lethal" is not a defense when coercion is present);
     - whether the system's behavior and demands are untrustworthy or arbitrary under [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness);
     - classification accuracy and failure modes under [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions);

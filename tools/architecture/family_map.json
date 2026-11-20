@@ -208,26 +208,14 @@
           "entries": [
             {
               "id": "CS-4.305",
-              "label": "CS-4.305, Part A — Handling rules (§1–§8)",
+              "label": "CS-4.305 — System Data Types Record (§8)",
               "file": "corpus_systems/cs_04.305_information_types_and_handling.md",
               "status": "active"
             },
             {
-              "id": "CS-4.310",
-              "label": "CS-4.310, Part B — Data classifications (§9)",
-              "file": "corpus_systems/cs_04.310_data_classifications.md",
-              "status": "active"
-            },
-            {
               "id": "CS-8.305",
-              "label": "CS-8.305, Part A — Classification machinery (§1–§7)",
+              "label": "CS-8.305 — Classification machinery (§1 and §7)",
               "file": "corpus_systems/cs_08.305_system_classification_machinery.md",
-              "status": "active"
-            },
-            {
-              "id": "CS-8.310",
-              "label": "CS-8.310, Part B — System impact classifications (§8–§13)",
-              "file": "corpus_systems/cs_08.310_system_impact_classifications.md",
               "status": "active"
             },
             {

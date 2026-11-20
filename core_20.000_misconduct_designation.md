@@ -117,6 +117,13 @@ A violation can be serious in its own right and also attack the system of protec
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): those who attack the protections everyone depends on must answer for it;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): an anti-constitutional misconduct designation is narrow and carries extra safeguards against misuse;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): the protections every sentient relies on are defended;
+    - [Continuity](core_00.000_preamble.md#continuity): naming the gravest harm protects the constitutional order over time;
 - Chapter Two principles:
   - [§15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
   - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);

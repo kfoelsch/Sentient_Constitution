@@ -87,6 +87,13 @@ A society that credits help and answers harm needs a fair way to establish what 
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): standing rests on settled facts, so credit and blame land on the right party;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the facts are verified and written down before anyone relies on them;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): no sentient is judged by rumour or popularity;
+    - [Continuity](core_00.000_preamble.md#continuity): reliable records keep the standing system trustworthy over time;
 - Chapter Two principles:
   - [§3.2 Recognition, Reinforcement, and Aspiration](core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
@@ -118,7 +125,7 @@ Together, the answers to all three questions form the complete standing assessme
 
 #### 3.1 Purpose and Scope
 
-This chapter states the constitutional record frame, and [Chapter Fifteen](core_15.000_standing_measurement.md#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) the measurement frame, for **systems**, **sentients**, and **institutions**, including every system classified under [**CS-8.305**](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*). These frames do not measure gossip, popularity, vague reputation, inherent dignity, or general worth; none is a permissible subject of standing assessment.
+This chapter states the constitutional record frame, and [Chapter Fifteen](core_15.000_standing_measurement.md#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) the measurement frame, for **systems**, **sentients**, and **institutions**, including every system classified under [**CS-8.305**](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*). These frames do not measure gossip, popularity, vague reputation, inherent dignity, or general worth; none is a permissible subject of standing assessment.
 
 The standing pipeline must remain effective when:
 
@@ -714,13 +721,13 @@ Those tools must keep the fields required by **section 6.1** separately visible 
   - [*Institutional Charter*](subcore_03.075_band_continuity.md#institutional-charter) (*published scope documents whose Charter Role Map names the record-opening authority and custodian for a chartered scope*);
   - [Chapter Five §6 *The Charter Role Map and Standing-Record Custody*](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody) (5.000 §6);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) — the Standing-Record custody field;
-  - [**CJS-3.125 §11** *Constitutional lane and functional separation*](corpus_joint_structure/cjs_03.125_accountability_operations.md#constitutional-lane-and-functional-separation) (*the five lanes the record duties are placed in; separation of duties*);
+  - [**Subcore 6-A §1** *Constitutional Lanes and Functional Separation*](subcore_06.010_constitutional_lanes.md#1-constitutional-lanes-and-functional-separation) (*the five lanes the record duties are placed in; separation of duties*);
   - **CI-6.205 §2** (*Functional separation lanes — published lane map, the fallback when a System Charter or Institutional Charter is silent*);
   - **CI-6.205 §3** (*authority chain and delegation controls*);
   - **CI-26.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*) — the four record seats as seat types 1–4, with the wrong-seat rule;
   - **CF-22.435 §7** (*no self-investigation*) and
   - **CF-22.435 §9** (*Records, Referrals, and Backup Routes*) for verified-finding handoff;
-  - [Chapter Twenty-Two §4.3.3](core_22.000_forum.md#433-lead-default-limits) (22.000 §4.3.3) (*anti-self-judging backup*);
+  - [Subcore 22-A §6 Lead-Default Limits](subcore_22.010_forum_intake_default_venue.md#6-lead-default-limits) (S22-A §6) (*anti-self-judging backup*);
   - [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action) (*who authorized; the log is not the Standing Record*);
   - [Chapter Two §17.5](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (2.040 §17.5) (*halt, refuse, document, escalate*).
 - Downstream: [§8](#8-handling-a-standing-record) (*what the holders do with a Standing Record once custody is settled*); [Chapter Fifteen §3](core_15.000_standing_measurement.md#3-question-2--how-good-or-bad-was-it) (*Question 2 measures only Standing Records entered under this section and §8*); [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (16.000) (*Question 3 effects trace to an attributed record*).
@@ -737,7 +744,7 @@ Those tools must keep the fields required by **section 6.1** separately visible 
 
 This applies [Chapter Six §3 *Four-Seat Constitutional Requirement*](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) to Standing Records. Four duties touch every Standing Record, and each is a separate seat on the same Standing Record:
 
-| Duty | What it is | Lane under [CJS-3.125 §11 *Constitutional lane and functional separation*](corpus_joint_structure/cjs_03.125_accountability_operations.md#constitutional-lane-and-functional-separation) |
+| Duty | What it is | Lane under [Subcore 6-A §1.1 Required Lanes](subcore_06.010_constitutional_lanes.md#11-required-lanes) |
 | --- | --- | --- |
 | **Request** | asking that a Standing Record be opened, corrected, expired, or superseded, including the subject's or a claimant's own request | execution, or the requesting party, who holds the initiating seat on its own request and needs no institution to do so |
 | **Verify** | establishing the factual basis under Subcores 3-A to 3-C to the **section 3.5** gate — the record-opening authority's act | assurance and audit |
@@ -983,7 +990,7 @@ None of this requires a Standing Record to exist. **Section 4.2** *Silence is th
   - [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) (*chain of custody for evidence*).
 - Tetrad leg(s): **accountability** (a named actor answers for every entry); **oversight** (no party verifies its own claim). Primary aim(s): **Flourishing** and **Continuity**.
 - Read with:
-  - [Subcore 3-C §6](subcore_03.030_burden_traceability_verification.md#6-compliance-evidence-standard) (S3-C §6) (*evidence standard the verify seat applies to recorder and party statements*);
+  - [Subcore 3-C §7](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard) (S3-C §7) (*evidence standard the verify seat applies to recorder and party statements*);
   - [Good Faith](subcore_03.070_band_accountability.md#good-faith) (*candour presumption, not accuracy*);
   - [Contestability](subcore_03.070_band_accountability.md#contestability) and
   - [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*a challenge raised on the Standing Record is logged and routed before any filing*);
@@ -1010,7 +1017,7 @@ What a prior recorder says after the fact is weighed on these terms:
 - **Support, refutation, agreement:** A prior recorder's support does not by itself verify a contribution; their refutation does not by itself disprove one; their agreement with the subject or with a challenger settles nothing on its own.
 - **Availability:** A prior recorder's availability or unavailability neither freezes nor completes the Standing Record: where a prior recorder cannot be reached, the Standing Record says so and proceeds on the remaining verified materials.
 - **Who decides the weight:** How much a recorder statement weighs is a Subcores 3-A to 3-C question for the verify seat, not a custody question.
-- **Good faith and accuracy:** The verifying authority reads a recorder statement as offered in [Good Faith](subcore_03.070_band_accountability.md#good-faith) absent contrary indication, but good faith goes to candour, not to accuracy; accuracy is established by corroboration under [Subcore 3-C §6 Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#6-compliance-evidence-standard).
+- **Good faith and accuracy:** The verifying authority reads a recorder statement as offered in [Good Faith](subcore_03.070_band_accountability.md#good-faith) absent contrary indication, but good faith goes to candour, not to accuracy; accuracy is established by corroboration under [Subcore 3-C §7 Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard).
 - **Corroborated statements:** A statement that agrees with contemporaneous logs, prior versions, audits, or independent validation carries the weight of those materials.
 - **Statements that stand alone:** A statement that stands alone is an attestation and does not by itself carry the burden. A statement from a claimant, subject, challenger, or an office in their control line is self-attestation for that purpose.
 - **Statements explaining an omission:** Where the statement explains *why* the Standing Record was left as it was — as when a prior recorder says an item was omitted because it had not been verified — it is evidence of the Standing Record's state at that time and of what was unverified then; it does not decide whether the omitted fact has since been verified, which the verify seat answers on the present materials.

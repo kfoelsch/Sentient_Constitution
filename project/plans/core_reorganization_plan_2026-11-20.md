@@ -140,9 +140,9 @@ These are listed in order of reading benefit:
 3. **Forum intake.** Chapter Twenty-Three keeps the right to file, the primary-stakes test, good-faith characterization, the time bounds, and the routing asymmetry. The triage desk's steps, the routing sequence, the default venue table, and the special routing rules move to a Chapter Twenty-Three subcore file. They become subcore text, not corpus text, because the venue table decides who hears a case and must not vary between adopters.
 4. **Independent Bodies.** The general rules stay whole; the office texts go to the subcore when the chapter is created (step 3).
 5. **Corpus content promoted to the subcore** (sweep of all 77 corpus files, custodian's choice 2026-11-20: "Items 1-4"). These are constitutional taxonomies that the core relies on but that live only in the corpus. Each move leaves the procedures in the corpus.
-   - **System classes → Subcore 8-A.** [CS-8.310](../../corpus_systems/cs_08.310_system_impact_classifications.md) §§8–13 (Class A/B/C/L/P) and [CS-8.305](../../corpus_systems/cs_08.305_system_classification_machinery.md) §§2–6 (dimensions, criticality factors, Dep-A–P dependency types, boundaries, domain taxonomy). About 115 links from 18 core files. CS-8.305 §7 (classification governance and challenge) stays in the corpus.
+   - **System classes → Subcore 8-A.** [CS-8.310](../../subcore_08.010_system_classification.md) §§8–13 (Class A/B/C/L/P) and [CS-8.305](../../corpus_systems/cs_08.305_system_classification_machinery.md) §§2–6 (dimensions, criticality factors, Dep-A–P dependency types, boundaries, domain taxonomy). About 115 links from 18 core files. CS-8.305 §7 (classification governance and challenge) stays in the corpus.
    - **Stewardship criticality levels → Subcore 8-A.** [CS-26.305](../../corpus_systems/cs_26.305_critical_system_stewardship.md) §§2–3 (classification as steward; CSS-A/B/C). The steward obligations in §§4–20 stay in the corpus.
-   - **Data types → Subcore 4-A.** [CS-4.310](../../corpus_systems/cs_04.310_data_classifications.md) §9 (Types E, G, O, H, I, N, S, Y, W, U, T; shared works; commercial grants) and [CS-4.305](../../corpus_systems/cs_04.305_information_types_and_handling.md) §§1–7 (determination, anti-circumvention, access-posture bands, separation and attribution, Type O baseline). About 160 links from 20 core files. CS-4.305 §8 (System Data Types Record governance) stays in the corpus.
+   - **Data types → Subcore 4-A.** [CS-4.310](../../subcore_04.050_data_types.md) §9 (Types E, G, O, H, I, N, S, Y, W, U, T; shared works; commercial grants) and [CS-4.305](../../corpus_systems/cs_04.305_information_types_and_handling.md) §§1–7 (determination, anti-circumvention, access-posture bands, separation and attribution, Type O baseline). About 160 links from 20 core files. CS-4.305 §8 (System Data Types Record governance) stays in the corpus.
    - **Functional separation lanes → a Chapter Six subcore file.** The lane categories in [CJS-3.125](../../corpus_joint_structure/cjs_03.125_accountability_operations.md) §11, which Chapter Six relies on.
    - **Not promoted:** the oDef library (CJS-3.105–3.140) stays in the CJS as the operational layer. Illustrations and vignettes (CS-8.320, CJS-14.105), forum operations, lifecycle, funding, adoption transition, and the domain institution files stay in the corpus. The CI-26.205 §§2 and 6 role criteria and Seat Catalog go with the office texts (step 5).
 
@@ -176,7 +176,7 @@ Added at the custodian's request (2026-11-20: "the section 2 TODO … should be 
 2. **New chapters are born with it.** The *Constitutional Map* and *Independent Bodies* chapters get their §2 in step 3. The Preamble is not a chapter and keeps its own shape.
 3. **Insert in the renumbering pass (step 4)**, with the old section anchors kept so links outside the corpus still land.
 4. **Audit after the pass.** Add the CHAPTER-S2-WHY audit (the *why* heading and the bulleted Grounded in list in every core chapter lead file) once every chapter passes, so later moves cannot regress.
-5. **Subcore files** carry no §2 of their own; each points to its chapter's §2. **Corpus files** continue the section 2 pass already under way on the Mac (26 of 85 corpus files have a Grounded in list), with the audit extended to them when that pass finishes.
+5. **Subcore files** each carry a §2 *why* of their own (custodian, 2026-11-20: "All subcore files."), drafted for review in [subcore_section_2_drafts_2026-11-20.md](subcore_section_2_drafts_2026-11-20.md) and inserted in the same renumbering pass. **Corpus files** continue the section 2 pass already under way on the Mac (26 of 85 corpus files have a Grounded in list), with the audit extended to them when that pass finishes.
 
 ## Proposed order
 
@@ -187,12 +187,12 @@ Added at the custodian's request (2026-11-20: "the section 2 TODO … should be 
 | 3 | Split the chapters (the Preamble and Constitutional Map, and Independent Bodies) and put the office texts in the subcore | medium | step 2 |
 | 3a | Draft every chapter's new §2 and Grounded in list for review | medium | none (runs beside steps 1–3) |
 | 4 | One renumbering pass, inserting the reviewed §2 sections | large | steps 3 and 3a |
-| 4a | Section 2 audit (CHAPTER-S2-WHY) | small | step 4 |
+| 4a | Section 2 audit (CHAPTER-S2-WHY; done 2026-11-20, 833rd move: chapter lead files and subcore files) | small | step 4 |
 | 5 | Lean office texts | small | step 4 |
-| 6 | Forum intake to a Chapter Twenty-Three subcore file (pilot) | medium | steps 2 and 4 |
+| 6 | Forum intake to a Chapter Twenty-Three subcore file (pilot; done 2026-11-20, 834th move: Subcore 22-A, attached to Chapter Twenty-Two after the renumbering) | medium | steps 2 and 4 |
 | 7 | Definitions bands to a definitions subcore (done 2026-11-20, 824th and 827th moves: Subcores 3-D to 3-O, files 03.040 to 03.095) | large | step 6 reviewed |
 | 8 | Pipeline chapters, one at a time | large | step 6 reviewed |
-| 9 | Corpus content promoted to the subcore (section 4, item 5) | large | step 7 pilot reviewed |
+| 9 | Corpus content promoted to the subcore (section 4, item 5; done 2026-11-20: Subcores 8-A, 4-A, and 6-A, 828th to 830th moves) | large | step 7 pilot reviewed |
 
 Each step is its own move, with preflight and the full audit, and an archive and merge at the custodian's call. Steps 3 and 4 run back to back in one session, with `work` held, because a half-renumbered tree breaks every cite.
 

@@ -27,12 +27,30 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Chapter Three, Constitutional Performance band, is the constitutional owner of the **Constitutional Performance measurement family** — questions about whether systems actually deliver constitutional results without pointless waste. The detailed definitions themselves are **not here**. They all live in the [Continuity band](subcore_03.075_band_continuity.md).
 
 - Why: those definitions belong with Continuity stewardship topics — lasting capacity, waste, and getting real results for the resources spent. See the [efficiency / capacity / burden topic group](subcore_03.075_band_continuity.md#constitutional-efficiency) and the [proportionality–burden–efficiency cluster](subcore_03.070_band_accountability.md#proportionality).
 - The questions still serve both constitutional aims ([**Flourishing**](core_00.000_preamble.md#flourishing) and [**Continuity**](core_00.000_preamble.md#continuity)).
 
 *In plain terms: this file is the home for questions about whether systems actually deliver constitutional results without pointless waste. The detailed definitions live in the Continuity band.*
+
+### 2. Why Constitutional Performance Is Measured
+
+*In plain terms: following every rule is not the goal; delivering the outcomes the rules exist for is. This file is the home for checking that, without waste.*
+
+A system can satisfy each process requirement and still deliver little, or deliver it at a cost in sentient time and materials that defeats the purpose. Measuring constitutional performance asks whether the outcomes actually arrive, and whether the burden of getting them is justified. It keeps proxies and paperwork from standing in for results.
+
+**Grounded in:**
+
+- Preamble:
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): outcomes for sentients are what the rules exist to deliver;
+    - [Continuity](core_00.000_preamble.md#continuity): measuring waste protects the time and resources shared systems need;
+- Chapter Two principles:
+  - [§9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good);
+  - [§9.2 Constitutional Efficiency](core_02.010_values_principles_continuity_aim.md#92-constitutional-efficiency).
 
 <a id="performance-measurement-family"></a>
 
@@ -61,4 +79,4 @@ These cross-cutting measures ask whether systems deliver constitutional outcomes
 
 **Previous file:** [subcore_03.090_band_participation.md](subcore_03.090_band_participation.md)
 
-**Next file:** [core_05.000_charters.md](core_05.000_charters.md)
+**Next file:** [core_04.000_rights_part_a.md](core_04.000_rights_part_a.md)

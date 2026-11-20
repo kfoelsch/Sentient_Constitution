@@ -59,6 +59,15 @@ The Constitution spreads its work across many chapters, a subcore, and four adop
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): a sentient can find the rule that answers their question;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every topic has a named owner chapter that answers for it;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): a reader can see how the parts fit and spot a gap or overlap;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): a reader reaches the right rule without delay;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): the Constitution serves sentients only if they can find their way through it;
+    - [Continuity](core_00.000_preamble.md#continuity): a clear map keeps the text whole as it grows and changes;
 - Chapter Two principles:
   - [§5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
   - [§5.2.4 Complexity-as-Defeat Discipline](core_02.000_values_principles.md#524-complexity-as-defeat-discipline);

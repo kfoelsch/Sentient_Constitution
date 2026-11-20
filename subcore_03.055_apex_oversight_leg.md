@@ -45,9 +45,31 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Chapter Three, Oversight Tetrad leg, is the constitutional owner of the **Oversight** Tetrad-leg head definition (O/M/A/C) and hierarchy map. Leaf definitions are in the [Oversight band](subcore_03.085_band_oversight.md).
 
 *In plain terms: watch systems, check them, and keep them within bounds — oversight has to be able to see problems and change outcomes, not just hold a ceremony.*
+
+### 2. Why Oversight Is a Leg of the Tetrad
+
+*In plain terms: a system that is only checked by itself will tend to find nothing wrong. This file says what it means for a system to be checked from outside.*
+
+The sentients who run a system have reasons, sometimes good ones, not to see its faults. Oversight puts an independent review between what a system claims and what it does, with enough access and evidence to find problems before they harm sentients. It is how the other legs learn what needs answering for.
+
+**Grounded in:**
+
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) leg, which this file defines;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): checking from outside catches harm a system would not find in itself;
+    - [Continuity](core_00.000_preamble.md#continuity): outside checks catch slow decay before it becomes failure;
+- Chapter Two principles: [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
+- Chapter Four Articles:
+  - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
+  - [Article XVII-A](core_04.020_rights_part_c.md#article-xvii-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*).
+
+### Oversight: Head Definition
 
 <a id="oversight-constitutional"></a>
 <a id="oversight"></a>

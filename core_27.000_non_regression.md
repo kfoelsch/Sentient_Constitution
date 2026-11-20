@@ -79,6 +79,13 @@ Protections are most often lost not by repeal but by small steps: a narrower def
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): any change that weakens a guarantee is caught and must be justified;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): every change is compared with what the Constitution guarantees;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): protections sentients rely on cannot be quietly removed;
+    - [Continuity](core_00.000_preamble.md#continuity): guarantees hold across time and changes of power;
 - Chapter Two principles:
   - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
   - [§14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override);
@@ -244,6 +251,6 @@ Future additions that touch offense-flavored, sanction-flavored, or classificati
 
 ---
 
-**Previous file:** [core_26.000_governance.md](core_26.000_governance.md)
+**Previous file:** [subcore_26.010_governance_disclosure.md](subcore_26.010_governance_disclosure.md)
 
 **Next file:** [core_28.000_amendment_ratification.md](core_28.000_amendment_ratification.md)

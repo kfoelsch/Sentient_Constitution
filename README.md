@@ -101,22 +101,22 @@ The Constitution is one document split into a Preamble and thirty chapters, with
 | **Chapter 2**: [Part A](core_02.000_values_principles.md) · [Part B](core_02.010_values_principles_continuity_aim.md) · [Part C](core_02.020_interaction_interpretation.md) · [Part D](core_02.030_constitutional_interpretation.md) · [Part E](core_02.040_stewardship_capacity_principles.md) · [Part F](core_02.050_governance_incentive_application.md) | Core values, how to read and apply the text, and what is expected of the humans and AIs who run systems |
 | **Chapter 3**: [Definitions](core_03.000_definitions_home.md) | The dictionary: what each key term means ([all Chapter 3 files ↓](#chapter-three-files)) |
 | **Chapter 3 subcore**: [3-A Definition structure](subcore_03.010_definition_structure.md) · [3-B Definition integrity](subcore_03.020_definition_integrity.md) · [3-C Burden of proof and verification](subcore_03.030_burden_traceability_verification.md) · 3-D to 3-O, every definition in full ([listed below ↓](#chapter-three-files)) | The rules behind the dictionary, and the dictionary itself: how a definition is built, protected against loopholes, and backed with evidence |
-| **Chapter 4**: [Part A](core_04.000_rights_part_a.md) · [Part B](core_04.010_rights_part_b.md) · [Part C](core_04.020_rights_part_c.md) · [Part D](core_04.030_rights_part_d.md) · [Part E](core_04.040_rights_part_e.md) | **The Rights Floor**: Articles I–XXIX |
+| **Chapter 4**: [Part A](core_04.000_rights_part_a.md) · [Part B](core_04.010_rights_part_b.md) · [Part C](core_04.020_rights_part_c.md) · [Part D](core_04.030_rights_part_d.md) · [Part E](core_04.040_rights_part_e.md) · [Subcore 4-A data types](subcore_04.050_data_types.md) · [Subcore 4-B integrity triggers, gifts, and funding](subcore_04.060_integrity_triggers_gifts_funding.md) | **The Rights Floor**: Articles I–XXIX |
 | **Chapter 5**: [System and Institutional Charters](core_05.000_charters.md) | Every system of Class L or above publishes a System Charter, and every institution an Institutional Charter (one system: the same document), stating its chartered scope and the seats that hold each role (voluntary for Class P) |
-| **Chapter 6**: [Separation of Duties](core_06.000_functional_independence_separation_of_duties.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
+| **Chapter 6**: [Separation of Duties](core_06.000_functional_independence_separation_of_duties.md) · [Subcore 6-A constitutional lanes](subcore_06.010_constitutional_lanes.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
 | **Chapter 7**: [Independent Bodies](core_07.000_independent_bodies.md) | What makes a body independent, and the list of bodies every adopter must have |
-| **Chapters 8–10**: [8](core_08.000_system_alignment_certification_evaluation.md) · [9](core_09.000_system_alignment_certification_forum_process_outcomes.md) · [10](core_10.000_system_alignment_certification_records_recertification.md) · [worked illustrations, CS-8.320](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md) | Checking and certifying that a system meets the standard |
+| **Chapters 8–10**: [8](core_08.000_system_alignment_certification_evaluation.md) · [Subcore 8-A system classes](subcore_08.010_system_classification.md) · [9](core_09.000_system_alignment_certification_forum_process_outcomes.md) · [10](core_10.000_system_alignment_certification_records_recertification.md) · [worked illustrations, CS-8.320](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md) | Checking and certifying that a system meets the standard |
 | **Chapters 11–13**: [11](core_11.000_institutional_alignment_certification_evaluation.md) · [12](core_12.000_institutional_alignment_certification_forum_process_outcomes.md) · [13](core_13.000_institutional_alignment_certification_records_recertification.md) | Checking and certifying that an institution meets the standard; not a licence to form or run one |
 | **Chapter 14**: [Standing Records](core_14.000_standing_assessment.md) | Keeping verified records of what a participant has contributed and any violations |
 | **Chapter 15**: [Standing measurement](core_15.000_standing_measurement.md) | Measuring how good or how bad each recorded contribution or violation was |
 | **Chapters 16–19**: [16](core_16.000_standing_integration.md) · [17](core_17.000_contribution_consequences.md) · [18](core_18.000_violation_consequences.md) · [19](core_19.000_final_effect_restoration_enforcement.md) | What those Standing Records lead to: effects, restoration, and remedies |
 | **Chapters 20–21**: [20](core_20.000_misconduct_designation.md) · [21](core_21.000_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
-| **Chapter 22**: [Forum](core_22.000_forum.md) | Review bodies and hearings: standards, where a case starts, forum cases, and why no one may judge their own case |
+| **Chapter 22**: [Forum](core_22.000_forum.md) · [Subcore 22-A forum intake and default venue](subcore_22.010_forum_intake_default_venue.md) | Review bodies and hearings: standards, where a case starts, forum cases, and why no one may judge their own case |
 | **Chapter 23**: [Forum families and timely resolution](core_23.000_forum_families_escalation_timeliness_support.md) | The kinds of review body, escalation, deadlines, and support for those taking part |
 | [Worked examples for Chapters 14–21](corpus_joint_structure/cjs_14.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
 | **Chapter 24**: [Enforcement](core_24.000_enforcement.md) | How outcomes get carried out, and what stops them being dodged |
 | **Chapter 25**: [Special enforcement](core_25.000_special_enforcement.md) | Extra safeguards for freezing or seizing money or property, for anything that could turn violent, and for fixing why enforcement keeps failing |
-| **Chapter 26**: [Governance](core_26.000_governance.md) | Who may govern, and how that authority is granted and checked |
+| **Chapter 26**: [Governance](core_26.000_governance.md) · [Subcore 26-A governance disclosure](subcore_26.010_governance_disclosure.md) | Who may govern, and how that authority is granted and checked |
 | **Chapter 27**: [Non-regression](core_27.000_non_regression.md) | Protections can be strengthened but not rolled back |
 | **Chapter 28**: [Amendment and adoption](core_28.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
 | **Chapter 29**: [Supremacy and other laws](core_29.000_expansion_supremacy.md) | How it relates to local, national, and international law |
@@ -193,7 +193,7 @@ If any of these disagree, **the Constitution text wins**.
 The numbered `core_*` files state **why** and **what**. The implementation files state **how** — taxonomies, protocols, institutions, forum operations, and joint interlocks. They **apply** Chapter Three terms; they do not redefine them or invent parallel rights. Designated obligations in these files are **binding implementation text incorporated by reference** under valid adoption. They do **not** create a second constitutional source.
 
 - [corpus_joint_structure.md](corpus_joint_structure.md): cross-implementation joint structure (CJS-30.110 interlocks, CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*) operational cluster library, CJS-0.105 §1 topic router)
-- [corpus_systems.md](corpus_systems.md): systems implementation (CS-4.305 and CS-4.310 information types, CS-8.305 and CS-8.310 system classification, CS-26.305 critical stewardship, named protocols)
+- [corpus_systems.md](corpus_systems.md): systems implementation (Subcore 4-A information types, CS-8.305 and Subcore 8-A system classification, CS-26.305 critical stewardship, named protocols)
 - [corpus_institutions.md](corpus_institutions.md): institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
 - [corpus_forum.md](corpus_forum.md): forum operations (panel formation, recusal, review lanes, continuity, emergency adjudication)
 
@@ -204,7 +204,12 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 ### Common Lookups
 
 - Burden of proof, traceability, verification: [Subcore 3-C](subcore_03.030_burden_traceability_verification.md)
-- Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Six
+- System classes, dependency types, and steward levels: [Subcore 8-A](subcore_08.010_system_classification.md)
+- Data types and data-handling rules: [Subcore 4-A](subcore_04.050_data_types.md)
+- Gifts, conflicts of interest, funding changes, and the kinds of integrity failure: [Subcore 4-B](subcore_04.060_integrity_triggers_gifts_funding.md)
+- What every institution's governance report must contain: [Subcore 26-A](subcore_26.010_governance_disclosure.md)
+- Which forum hears a case first (intake desk and default venue table): [Subcore 22-A](subcore_22.010_forum_intake_default_venue.md)
+- Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Six; the required lanes: [Subcore 6-A](subcore_06.010_constitutional_lanes.md)
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00.000_preamble.md#the-model)
 - Auditing and independent verification: Article XVII is the floor; Chapter Three [Auditability](subcore_03.085_band_oversight.md#auditability) is the property; [CJS-3.115 §3](corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3) is how and when; Chapter Eight is one large process that uses that stack
 - Duty to resist unlawful or unconstitutional instructions: [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)

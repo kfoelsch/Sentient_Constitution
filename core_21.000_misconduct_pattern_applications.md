@@ -52,6 +52,13 @@ Capture, manipulation of evidence, and domination of markets or information recu
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): repeated forms of attack are answered consistently;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): reviewers recognize the same pattern the same way;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients are protected from tactics that would otherwise repeat;
+    - [Continuity](core_00.000_preamble.md#continuity): recognizing patterns early keeps them from wearing down protections;
 - Chapter Two principles:
   - [§11.2 Pro-Competition and Anti-Domination](core_02.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination);
   - [§13.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity);
@@ -355,7 +362,7 @@ Evaluators assess these patterns as follows:
   - [Transparency](subcore_03.085_band_oversight.md#transparency) in
   - **Chapter Three**.
 - Rights and verification: [Article XI-B: Expression](core_04.010_rights_part_b.md#article-xi-b-expression) and [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) in **Chapter Four**. These supply Rights Floors and verification discipline without relocating designation review.
-- Implementation context: adopted **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** and institutional implementation under **Chapter Thirty** where materially relevant.
+- Implementation context: adopted **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** and institutional implementation under **Chapter Thirty** where materially relevant.
 
 </details>
 
@@ -414,7 +421,7 @@ The following are non-exhaustive examples of in-scope means:
 **Operational response** remains governed by those documents and adopted owner layers, including:
 - Rights-Floor implementation under **Chapter Four**;
 - **Article XVII** (*Audit, Transparency, and Independent Verification*) verification and auditability discipline;
-- **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** handling where designated; and
+- **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** handling where designated; and
 - institutional governance under **Chapter Thirty**.
 
 This subsection states when such conduct may implicate final ACMD under this chapter; it does not relocate operational rules to this chapter.
@@ -1350,7 +1357,7 @@ Prohibited **concentration of wealth, power, control, or opportunity**, includin
   - [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*),
   - [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*),
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*), and adopted
-  - **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)**, **[CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle)** (*System lifecycle*), and **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications)** infrastructure, dependency, reliability, and classification controls where materially relevant.
+  - **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)**, **[CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle)** (*System lifecycle*), and **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** infrastructure, dependency, reliability, and classification controls where materially relevant.
 - Related patterns: [§7.1](#71-concentration-based-subversion-criteria-interaction) where infrastructure control produces capture or dependency abuse; [§5.2](#52-unlawful-or-unconstitutional-command-conduct) where the conduct is ordered, automated, or technically enforced; [§6.2](#62-enforcement-refusal-suppression-or-non-prosecution-conduct) where accountability for the infrastructure conduct is suppressed.
 - Topic routing (mandatory read-with): [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Question 3 gated-pathway lock routing for infrastructure denial or dependency cutoff — general locks only*).
 - Read with:

@@ -2,7 +2,7 @@
 
 Date: 2026-04-13  
 Status: implementation support / adopter-facing template pack  
-Primary anchors: `corpus_systems.md` CS-4.345, CS-4.305 and CS-4.310, CS-4.305 and CS-4.310; `corpus_institutions.md` CI-6.215; CJS-3.130 §17, CJS-3.110 §3 and CJS-3.115 §3, CJS-3.125 §11, CJS-3.125 §12, CJS-3.125 §13
+Primary anchors: `corpus_systems.md` CS-4.345, Subcore 4-A, Subcore 4-A; `corpus_institutions.md` CI-6.215; CJS-3.130 §17, CJS-3.110 §3 and CJS-3.115 §3, CJS-3.125 §11, CJS-3.125 §12, CJS-3.125 §13
 
 This file provides reusable implementation templates for systems governance artifacts that the constitutional corpus already requires in substance but does not fully normalize into named packets.
 

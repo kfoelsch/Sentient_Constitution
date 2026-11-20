@@ -583,10 +583,6 @@
       ],
       "read_with": [
         {
-          "id": "CJS-3.125 \u00a711",
-          "file": "corpus_joint_structure/cjs_03.140_odef_parse_mechanics.md"
-        },
-        {
           "id": "CF-22.435",
           "file": "corpus_forum/cf_22.405_forum_formation_chamber_structure.md"
         }
@@ -605,10 +601,6 @@
       "read_with": [
         {
           "id": "CJS-3.105 \u00a70",
-          "file": "corpus_joint_structure/cjs_03.140_odef_parse_mechanics.md"
-        },
-        {
-          "id": "CJS-3.125 \u00a711",
           "file": "corpus_joint_structure/cjs_03.140_odef_parse_mechanics.md"
         },
         {

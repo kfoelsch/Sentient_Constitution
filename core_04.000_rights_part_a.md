@@ -15,6 +15,8 @@
 > - **Part C** covers **Articles XIV–XIX**: trustworthy systems, security and force limits, information integrity, audit, lifecycle, and sandboxed innovation.
 > - **Part D** covers **Articles XX–XXVI**: standing, justice after verified violation, portability, movement and refuge, complexity, root-cause diagnostics, and interpretive review.
 > - **Part E** covers **Articles XXVII–XXIX**: conflict resolution and review, constitutional evolution, Adoption Transition, and re-baselining.
+> - [Subcore 4-A](subcore_04.050_data_types.md#subcore-4-a-data-types), attached to this chapter, holds the data types (**Type E** to **Type T**) and the data-handling rules that Articles VII, XVI, XVII, and XXIV rely on.
+> - [Subcore 4-B](subcore_04.060_integrity_triggers_gifts_funding.md#subcore-4-b-integrity-triggers-gifts-and-funding), attached to this chapter, holds the integrity trigger categories and the gift register, gift threshold, apparent-conflict clearance, and funding-change log that carry Articles XIII-C (*Conflicts of Interest, Gifts, and Benefits*) and XIII-D (*Funding Integrity*).
 >
 > That presentation order does not change execution priorities. Rights fulfillment still depends on systems-first work: substrate, environment, lifecycle, infrastructure, and governance must be sound enough for personal and cooperative rights to survive.
 
@@ -131,6 +133,14 @@ The five parts are different reading paths through the same floor. **Part A** (t
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): every sentient holds these rights and can invoke them;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): whoever denies a right must answer for it;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): a right must be honored and restored in time to matter;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): the Rights Floor is the minimum every sentient needs to live well;
+    - [Continuity](core_00.000_preamble.md#continuity): rights also protect the living world and the systems later generations depend on;
 - Chapter Two principles:
   - [§3 Foundational Objective: Wellbeing (Flourishing Aim)](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim);
   - [§4 Safety (Harm Constraint)](core_02.000_values_principles.md#4-safety-harm-constraint);
@@ -446,12 +456,12 @@ This Article sets out when highest scrutiny applies to existential and ecologica
   - where **Ecological Recovery Capacity** is materially implicated, assess whether the affected ecosystem or life-supporting system can sustain and regenerate itself under prevailing habitat conditions — by ecological function, connectivity, regenerative processes, and interdependence across the system as a whole, not by looking at one species, one local population, or one kind of organism on its own.
   
   Checking boxes at the local level, showing a favorable cost-benefit estimate on paper, or securing a short-term gain does not satisfy this Article while credible paths to civilization-scale harm or irreversible ecological recovery loss remain open and not materially addressed.
-- **Burden and record:** Where the **Scrutiny trigger** is met, actors seeking authorization, continuation, or expansion bear the burden under [Subcore 3-C §2 Exclusive Enforcement and Burden Allocation](subcore_03.030_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) and must meet it under [highest scrutiny](subcore_03.085_band_oversight.md#highest-scrutiny). Uncertainty, contested evidence, or low estimated probability does not discharge the burden. They must show, by evidence meeting [Subcore 3-C §6 Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#6-compliance-evidence-standard), that:
+- **Burden and record:** Where the **Scrutiny trigger** is met, actors seeking authorization, continuation, or expansion bear the burden under [Subcore 3-C §3 Exclusive Enforcement and Burden Allocation](subcore_03.030_burden_traceability_verification.md#3-exclusive-enforcement-and-burden-allocation) and must meet it under [highest scrutiny](subcore_03.085_band_oversight.md#highest-scrutiny). Uncertainty, contested evidence, or low estimated probability does not discharge the burden. They must show, by evidence meeting [Subcore 3-C §7 Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard), that:
   - for each materially safer alternative, they either adopted it into the activity under review or showed that it would not still achieve the activity's legitimate purpose or is not available. Relying on an official record that alternatives were considered, without that showing, is non-compliant;
   - mitigation and interruption measures are proportionate to the scale of possible harm;
   - monitoring can detect the causal pathway early enough to interrupt it **before harm becomes irreversible**, and a named actor holds both the authority and the practical capacity to interrupt it.
   
-  The burden is continuing: it must be met again on new material evidence, on expansion, and at intervals proportionate to the risk. Where it is not met, the activity is non-compliant, and consequences follow [Subcore 3-B §4 — Non-Compliance Finding Profiles](subcore_03.020_definition_integrity.md#4-non-compliance-finding-profiles). Each authorization, continuation, or expansion determination under this Article is a [materially binding act](subcore_03.070_band_accountability.md#materially-binding-act). Its [Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) must link the actor's showing and the reviewer's assessment, and must openly state uncertainty, assumptions, evidence limits, disagreement, and material gaps.
+  The burden is continuing: it must be met again on new material evidence, on expansion, and at intervals proportionate to the risk. Where it is not met, the activity is non-compliant, and consequences follow [Subcore 3-B §5 — Non-Compliance Finding Profiles](subcore_03.020_definition_integrity.md#5-non-compliance-finding-profiles). Each authorization, continuation, or expansion determination under this Article is a [materially binding act](subcore_03.070_band_accountability.md#materially-binding-act). Its [Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) must link the actor's showing and the reviewer's assessment, and must openly state uncertainty, assumptions, evidence limits, disagreement, and material gaps.
 - **Present benefit limit:** Present benefit does not justify disproportionate exposure of future sentients, systems critical to ecological recovery, or life-supporting ecological conditions to civilization-scale or survival-critical harm, or any natural ecosystem, at any scale, to irreversible loss of its [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity).
 - **Named measures:** Anyone seeking authorization, continuation, or expansion under this Article must name specific reduction, cap, or interruption measures in their [adoption document](core_28.000_amendment_ratification.md#122-adoption-document) or in incorporated implementation text within adoption scope — including harm to the climate system as an [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions) factor. Those measures must match the scale of the risk.
   - This Article still does not set a numeric target.
@@ -651,7 +661,7 @@ This Article sets out the floors for post-sale access and subscriptions:
   - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
   - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Read with: [Article XXII-A](core_04.030_rights_part_d.md#article-xxii-a-portability-rights) (*Portability Rights*).
-- Read with: **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, especially [§1.2](corpus_systems/cs_04.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
+- Read with: **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, especially [Subcore 4-A §9.2](subcore_04.050_data_types.md#92-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
 - Read with: **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.130 §18** (*data-retention and lifecycle-integrity terms*).
 - Read with: [Article IX-B](core_04.010_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*) — data ownership and other sentients' shares in the same data.
 - Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) — records that deletion must not defeat.
@@ -676,7 +686,7 @@ This Article sets out the floors for post-sale access and subscriptions:
 
 This Article sets out the floors for product data handling, collection notice, deletion, and network dependency:
 
-- **Data handling:** Operators must classify and handle data under this Article as [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) requires, where incorporated under [Chapter Thirty](core_30.000_incorporation.md). This includes the notice and deletion rules in [CS-4.305 §1.3 collection notice and deletion](corpus_systems/cs_04.305_information_types_and_handling.md#13-collection-notice-and-deletion) and the continuity-critical export rules in [CS-4.305 §1.2 continuity-critical collection and exportability](corpus_systems/cs_04.305_information_types_and_handling.md#12-continuity-critical-collection-and-exportability).
+- **Data handling:** Operators must classify and handle data under this Article as [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) requires, where incorporated under [Chapter Thirty](core_30.000_incorporation.md). This includes the notice and deletion rules in [Subcore 4-A §9.3 collection notice and deletion](subcore_04.050_data_types.md#93-collection-notice-and-deletion) and the continuity-critical export rules in [Subcore 4-A §9.2 continuity-critical collection and exportability](subcore_04.050_data_types.md#92-continuity-critical-collection-and-exportability).
 - **Data collection notice:** Producers and operators of any product, device, or service that collects, infers, or transmits data about sentients must tell them, before collection begins and in a form they can find and understand:
   - what data is collected or inferred;
   - the purpose of each kind of data;
@@ -1438,6 +1448,6 @@ This Article sets the minimum rules for sharing the load fairly between systems.
 
 ---
 
-**Previous file:** [core_25.000_special_enforcement.md](core_25.000_special_enforcement.md)
+**Previous file:** [subcore_03.095_band_performance.md](subcore_03.095_band_performance.md)
 
 **Next file:** [core_04.010_rights_part_b.md](core_04.010_rights_part_b.md)

@@ -84,6 +84,15 @@ Different disputes need different expertise, and some questions are too large fo
 
 **Grounded in:**
 
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): a sentient can reach a forum with the right expertise;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): hard questions are passed to a forum that must answer them;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): support and escalation keep forums honest and capable;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): clocks make sure decisions come in time;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients get decisions they can rely on;
+    - [Continuity](core_00.000_preamble.md#continuity): forums stay capable as caseloads and questions change;
 - Chapter Two principles:
   - [§9.2 Constitutional Efficiency](core_02.010_values_principles_continuity_aim.md#92-constitutional-efficiency);
   - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
@@ -433,7 +442,7 @@ A matter can leave its default lead forum in five ways. In this section, "escala
 
 | Move | What happens | When | Rules in |
 |------|--------------|------|----------|
-| **Transfer or consolidation** | A matter, or related matters, go to one lead forum. The case keeps its Forum Case Record. | The default venue under **Chapter Twenty-Two section 4.3.2** no longer fits, or related matters need one lead. | **Chapter Twenty-Two section 6**, and [CF-22.415 §12 Transfer Procedure](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-12-transfer-procedure) (*Transfer Procedure*). |
+| **Transfer or consolidation** | A matter, or related matters, go to one lead forum. The case keeps its Forum Case Record. | The default venue under [Subcore 22-A §5 Default Venue Table](subcore_22.010_forum_intake_default_venue.md#5-default-venue-table) no longer fits, or related matters need one lead. | **Chapter Twenty-Two section 6**, and [CF-22.415 §12 Transfer Procedure](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-12-transfer-procedure) (*Transfer Procedure*). |
 | **Referral** | One component issue goes to the family that must decide it. It stays with that family for primary-stakes merits, and the lead keeps its own part of the case. | A component question belongs primarily to another family. | **Chapter Twenty-Two section 6** (*Integrity-led alignment coordination*), and [Referral Distinguished from Expansion](#referral-distinguished-from-expansion). |
 | **Question for ruling** | The lead family sends a question of constitutional meaning, validity, or structural effect to **Constitutional** forums. | The matter cannot be resolved without that question. | [Sending Questions to Constitutional Forums for Ruling](#sending-questions-to-constitutional-forums-for-ruling). |
 | **Family-to-family escalation** | The case moves to a different forum family. | The receiving family has become the better merits forum under primary-stakes routing, anti-self-judging protection, or a constitutional question sent for ruling. | [Family-to-Family Escalation](#family-to-family-escalation). |
@@ -709,7 +718,7 @@ Implementation: [Forum Performance, Backlog Requirements, Publication Timeliness
 
 This section implements **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*) for forum supervision of the **Chapters Fourteen through Twenty-Two** standing pipeline.
 
-- **Materiality tiers:** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality](subcore_03.085_band_oversight.md#materiality), mirroring the system classification alphabet in **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*), and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under [§5.1 Emergency Measures and Continuation Burden](#51-emergency-measures-and-continuation-burden) (*Continuation discipline*):
+- **Materiality tiers:** Adopters must classify each material dispute into one of five tiers (A/B/C/L/P) under [Materiality](subcore_03.085_band_oversight.md#materiality), mirroring the system classification alphabet in **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), and apply the default windows below unless a narrower window is required by **Rights-Floor** urgency or a documented extension is authorized under [§5.1 Emergency Measures and Continuation Burden](#51-emergency-measures-and-continuation-burden) (*Continuation discipline*):
   - **Tier A — imminent or dependency-vulnerable ongoing harm, or final high-impact review**
     - Scope of harm:
       - acute or ongoing injury where delay itself compounds damage;
@@ -904,6 +913,6 @@ Forum families must maintain or obtain access to **independent** support across 
 
 *Worked examples (they add no rule):* [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): forum routing and tier windows run through every full vignette, for example [CJS-14.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-14.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a).
 
-**Previous file:** [core_22.000_forum.md](core_22.000_forum.md)
+**Previous file:** [subcore_22.010_forum_intake_default_venue.md](subcore_22.010_forum_intake_default_venue.md)
 
 **Next file:** [core_24.000_enforcement.md](core_24.000_enforcement.md)

@@ -23,6 +23,8 @@
 
 ---
 
+### 1. Purpose, Role, and Scope
+
 Subcore 3-L is the constitutional owner of the **Integrative cross-leg definitions** — terms that must be satisfied across Tetrad legs at once and cannot sit cleanly under one leg alone. That includes:
 - the corpus authority stack;
 - the constitutional contract layer;
@@ -35,6 +37,27 @@ Subcore 3-L is the constitutional owner of the **Integrative cross-leg definitio
 |---|---|
 | **Def.I1** | Corpus and Authority Stack |
 
+### 2. Why These Integrative Terms Are Defined
+
+*In plain terms: some rules decide how all the others fit together, such as which one wins in a conflict and why none can be bypassed. This file defines those.*
+
+A constitution with many parts can be played off against itself: one rule cited to defeat another, a lower text read as narrowing a higher one, a duty split so that no single part covers it. The integrative terms say how the parts are read as one text, so that the strongest applicable protection holds and no route around the Constitution stays open.
+
+**Grounded in:**
+
+- Preamble:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): everyone reads the same rules for how the parts fit together;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): no rule can be used to bypass another;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): conflicts between rules are resolved in the open;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): conflicts are settled by known rules rather than drawn out;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): the rules work together for sentients, not against them;
+    - [Continuity](core_00.000_preamble.md#continuity): a coherent whole holds together as the text grows;
+- Chapter Two principles:
+  - [§15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
+  - [§12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement).
+
 ---
 
 ### Integrative: Independent Terms
@@ -46,8 +69,8 @@ Subcore 3-L is the constitutional owner of the **Integrative cross-leg definitio
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Subcore 3-A §2 — Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#2-definition-components-and-joint-satisfaction) (S3-A §2); [Subcore 3-A §3 Definition Integrity Requirement](subcore_03.010_definition_structure.md#3-definition-integrity-requirement) (S3-A §3); [Subcore 3-B §3 — Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#3-non-compliance-from-observable-system-behavior) (S3-B §3).
-- Downstream: [Subcore 3-C §§2 and 5 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) (S3-C §2); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000); [Non-Compliance Finding Profile](subcore_03.070_band_accountability.md#non-compliance-finding-profile).
+- Upstream: [Subcore 3-A §3 — Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#3-definition-components-and-joint-satisfaction) (S3-A §3); [Subcore 3-A §4 Definition Integrity Requirement](subcore_03.010_definition_structure.md#4-definition-integrity-requirement) (S3-A §4); [Subcore 3-B §4 — Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) (S3-B §4).
+- Downstream: [Subcore 3-C §§3 and 5 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#3-exclusive-enforcement-and-burden-allocation) (S3-C §3); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000); [Non-Compliance Finding Profile](subcore_03.070_band_accountability.md#non-compliance-finding-profile).
 - Read with:
   - [Chapter Two §19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection) (2.050 §19.3) and
   - [§19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response) — **constitutional misalignment** is stewardship and incentive divergence; it is not a substitute label for **non-compliance**;
@@ -81,14 +104,14 @@ Subcore 3-L is the constitutional owner of the **Integrative cross-leg definitio
     - outcomes; and
     - the measures that track them under full functional system conditions.
 
-    Apply all O, M, A, and C parts jointly. Names, paperwork structure, declared intent, or formal categories do not decide. Apply [Subcore 3-B §2 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#2-definition-integrity-and-anti-evasion-constraints) and [§3 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#3-non-compliance-from-observable-system-behavior) when deciding whether behavior or evasion counts as non-compliance.
+    Apply all O, M, A, and C parts jointly. Names, paperwork structure, declared intent, or formal categories do not decide. Apply [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) and [§4 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) when deciding whether behavior or evasion counts as non-compliance.
 <a id="non-compliance-c"></a>
 - **What must hold**
   - **Primary failure:** treating a system, actor, or definition as compliant when:
     - any required O, M, A, or C part fails;
     - evasion narrows the definition; or
     - declared structure or intent is preferred over observable behavior and effects.
-  - **Secondary failure:** defaulting to compliant status where [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#2-exclusive-enforcement-and-burden-allocation) burden of proof or evidence sufficiency is not met.
+  - **Secondary failure:** defaulting to compliant status where [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#3-exclusive-enforcement-and-burden-allocation) burden of proof or evidence sufficiency is not met.
 
 ---
 
@@ -356,7 +379,7 @@ Subcore 3-L is the constitutional owner of the **Integrative cross-leg definitio
   - **Secondary failure:** Continued exclusion of a [Dependency](subcore_03.075_band_continuity.md#dependency)-critical innovation without:
     - class-scaled tightening;
     - conversion to access-preserving reward; or
-    - sunset under [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-8.310 — System Impact Classifications](corpus_systems/cs_08.310_system_impact_classifications.md#cs-8310-part-b-system-impact-classifications).
+    - sunset under [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification).
   - **Tertiary failure:**
     - exclusion that creates [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in), anti-competitive bottlenecks, material [Harm](subcore_03.070_band_accountability.md#harm), or avoidable dependence on a single claimant where less-restrictive reward tools would work as well or better; or
     - reward claims resting on concealment, inadequate disclosure, or pretextual restriction beyond what Chapter Two and Chapter Four justify.
@@ -970,7 +993,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - **When it applies:** where [material stake](core_00.000_preamble.md#material-stake) calls for it and the applicable information-type rules permit it.
     - **What must stay available:** governance-relevant data, audit paths, and review tools, accessible to materially affected sentients. They must not be locked inside a single operator, vendor, or oversight bloc.
     - **What this default favors:** inspectable processes, contestable official records, and independent verification, consistent with [Chapter Two §16.3 Openness Aspiration](core_02.040_stewardship_capacity_principles.md#163-openness-aspiration).
-    - **Subject to:** [Chapter Two §13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications). These include Type N (data that is non-accessible by default) and other classification limits on what may be collected, published, retained, or reconstructed.
+    - **Subject to:** [Chapter Two §13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) and [Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*). These include Type N (data that is non-accessible by default) and other classification limits on what may be collected, published, retained, or reconstructed.
   - **Out of scope:** disclosure that information-type rules forbid. Openness is a default that yields to those limits, not a way around them.
 <a id="open-systems-data-and-auditing-a"></a>
 - **How to measure and assess**

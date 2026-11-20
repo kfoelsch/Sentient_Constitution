@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **590** of **1027** headings carry a gloss (57%).
+Coverage: **590** of **1023** headings carry a gloss (58%).
 
 ## Contents
 
@@ -36,7 +36,7 @@ Coverage: **590** of **1027** headings carry a gloss (57%).
 - [CHAPTER NINETEEN: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-nineteen-final-standing-effect-restoration-and-enforcement) — `core_19.000_final_effect_restoration_enforcement.md` (12/18 glossed)
 - [CHAPTER TWENTY: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-anti-constitutional-misconduct-designation) — `core_20.000_misconduct_designation.md` (10/18 glossed)
 - [CHAPTER TWENTY-ONE: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING](#chapter-twenty-one-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) — `core_21.000_misconduct_pattern_applications.md` (18/51 glossed)
-- [CHAPTER TWENTY-TWO: STANDARDS, ROUTING, AND FORUM CASES](#chapter-twenty-two-standards-routing-and-forum-cases) — `core_22.000_forum.md` (6/38 glossed)
+- [CHAPTER TWENTY-TWO: STANDARDS, ROUTING, AND FORUM CASES](#chapter-twenty-two-standards-routing-and-forum-cases) — `core_22.000_forum.md` (6/34 glossed)
 - [CHAPTER TWENTY-THREE: FORUM FAMILIES, ESCALATION, TIMELY RESOLUTION, AND SUPPORT](#chapter-twenty-three-forum-families-escalation-timely-resolution-and-support) — `core_23.000_forum_families_escalation_timeliness_support.md` (7/26 glossed)
 - [CHAPTER TWENTY-FOUR: ENFORCEMENT](#chapter-twenty-four-enforcement) — `core_24.000_enforcement.md` (8/9 glossed)
 - [CHAPTER TWENTY-FIVE: SPECIAL ENFORCEMENT](#chapter-twenty-five-special-enforcement) — `core_25.000_special_enforcement.md` (6/23 glossed)
@@ -501,7 +501,7 @@ shared infrastructure, such as networks, open tools, public services, data, and 
 
 #### 12. Systemic Evaluation Requirement
 
-this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-8.305 (*System classification machinery*) and CS-8.310** (*System Impact Classifications*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](../../subcore_03.085_band_oversight.md#auditability)).
+this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](../../subcore_03.085_band_oversight.md#auditability)).
 
 [Source](../../core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement)
 
@@ -4237,7 +4237,7 @@ attacking the machinery that makes answerability real — evidence, verification
 
 ## CHAPTER TWENTY-TWO: STANDARDS, ROUTING, AND FORUM CASES
 
-Source file: [`core_22.000_forum.md`](../../core_22.000_forum.md) · 6/38 headings glossed
+Source file: [`core_22.000_forum.md`](../../core_22.000_forum.md) · 6/34 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -4334,30 +4334,6 @@ each family's **first-touch desk** — the **intake triage body** — asks what 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_22.000_forum.md#43-default-venue)
-
-###### 4.3.1 Routing Sequence at Filing
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_22.000_forum.md#431-routing-sequence-at-filing)
-
-###### 4.3.2 Default Venue Table
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_22.000_forum.md#432-default-venue-table)
-
-###### 4.3.3 Lead-Default Limits
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_22.000_forum.md#433-lead-default-limits)
-
-###### 4.3.4 Special Routing Rules
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_22.000_forum.md#434-special-routing-rules)
 
 ##### 4.4 Mixed Stakes and Routing Asymmetry
 
@@ -5161,7 +5137,7 @@ if a system materially affects a sentient — directly or through dependency —
 
 ##### Article X-D: Inclusion and Exclusion Challenge Rights
 
-when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-8.305 (*System classification machinery*) and CS-8.310 (*System Impact Classifications*) — System impact classifications**, that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.
+when participation boundaries matter to **sentients** or **affected** **parties** outside a private unit, a system cannot be the sole judge of who counts as its stakeholder — inclusion and exclusion must be auditable and open to outside challenge. For systems that **validly** remain **Class P** under **CS-8.305** (*System classification machinery*) and **Subcore 8-A** (*System Classification*), that bar is proportionate to private scope: operator discretion over who is in or out of the unit is normal, while every Constitutional Constraint, reclassification, material externalization, and ordinary rights and adjudication routes still apply.
 
 [Source](../../core_04.010_rights_part_b.md#article-x-d-inclusion-and-exclusion-challenge-rights)
 

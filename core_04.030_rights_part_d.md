@@ -630,16 +630,16 @@ This Article sets the floors for restrictions. The operating rules live in the c
 
 Sentients and dependent systems have the right to meaningful, usable exit, migration between systems, and interoperability without coercive lock-in.
 
-- The right does not require disclosures or transfers that would create unjustified risk to safety, security, or the rights of others. What must be released follows each dataset's type and handling posture under **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)**, and where more than one type applies, the most protective applicable type governs:
+- The right does not require disclosures or transfers that would create unjustified risk to safety, security, or the rights of others. What must be released follows each dataset's type and handling posture under **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, and where more than one type applies, the most protective applicable type governs:
   - works the sentient created or provided (Type Y, or Type W once the sentient has made them public), records of the sentient's own participation, exchanges, and activity (Type H), and material inferences or classifications derived from them that affect rights, standing, or opportunities are portable to that sentient, as are copies of works others released to that sentient, within the scope of that release;
   - identity and attribution data (Type I), including the sentient's own credentials and keys, is portable with revocation, rotation, correction, and recoverability preserved;
   - internal-state data (Type N), including inferences, reconstructions, or approximations of internal states, is portable at the sentient's explicit, informed direction and must remain marked as inferred rather than observed where it is inferred;
-  - where records also carry other sentients' data, those parts are withheld, redacted, or transferred only with their consent or a justified override; works with more than one contributor follow the shared-works rules in CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*), under which each contributor may keep a full copy of a work they helped make, within the scope it was already shared;
+  - where records also carry other sentients' data, those parts are withheld, redacted, or transferred only with their consent or a justified override; works with more than one contributor follow the shared-works rules in Subcore 4-A (*Data Types*), under which each contributor may keep a full copy of a work they helped make, within the scope it was already shared;
   - Type S material may be withheld only while its restriction remains justified, time-bound, and review-bound, and the existence and scope of the hold-back must be disclosed wherever that disclosure does not itself create material risk; and
   - this right does not convert Type G governance and operational source records into export entitlements, which remain reachable through audit and Type O disclosure, and does not narrow Type E or Type O accessibility.
 - It does require that exit, migration, and transition work in practice, not only on paper. Portable data must be delivered through continuity and export paths disclosed before commitment, in documented formats and interfaces that a receiving system can use and that:
   - preserve the data's structure, metadata, relationships, and fidelity, together with traceability of its origin and transformations;
-  - carry its CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) type, so the receiving system can apply the same protections; and
+  - carry its Subcore 4-A (*Data Types*) type, so the receiving system can apply the same protections; and
   - do not change its type or lower its protections through conversion, export, or transfer.
 - It is consistent with **Chapter Three** [*Systemic Lock-In*](subcore_03.075_band_continuity.md#systemic-lock-in) read with **[Chapter Three *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration)** where dependency, coupling, or foreclosure matters for anti-lock-in analysis, and with incorporated implementation requirements for interoperability, portability, exit integrity, and justified constraints.
 
@@ -775,7 +775,7 @@ This Article sets out the anti-lock-in rule:
   - [Article XXII-B](#article-xxii-b-reciprocal-interoperability-boundaries) (*Reciprocal Interoperability Boundaries*);
   - [Article XXII-C](#article-xxii-c-anti-lock-in-rule) (*Anti-Lock-In Rule*);
   - [Article XXIV](#article-xxiv-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*);
-  - **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications) (*Data Classifications*) — Information types and handling**;
+  - **[Subcore 4-A](subcore_04.050_data_types.md#subcore-4-a-data-types) (*Data Types*) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*) — Information types and handling**;
   - **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*).
 
 </details>
@@ -806,7 +806,7 @@ This Article sets out the open-formats floor for systems:
   - **Exit:** Export and migration paths under **Article XXII-A** (*Portability Rights*) must offer at least one open format wherever an open format can carry the data without material loss of structure, metadata, relationships, or fidelity.
   - **Interoperability:** Integration boundaries under **Article XXII-B** (*Reciprocal Interoperability Boundaries*) must use open standards and protocols by default, and closed ones only where justified under this sub-article.
   - **Internal and native formats:** Systems should prefer open formats for storage and native working formats. A closed format needs a justification that grows stronger with material impact and dependency.
-  - **Public-facing data:** Data published for public access — including Type O, Type E, and Type W under **[CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-part-a-information-types-and-handling) (*Information types and handling*) and [CS-4.310 — Data Classifications](corpus_systems/cs_04.310_data_classifications.md#cs-4310-part-b-data-classifications)** — must be published in open formats by default.
+  - **Public-facing data:** Data published for public access — including Type O, Type E, and Type W under **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** — must be published in open formats by default.
 - **Justified closed formats:** A closed format, interface, or protocol is justified only where no open alternative meets a material requirement, such as fidelity, performance, safety, security, accessibility, or a specialized function. Where one is used, the system must:
   - record the justification in auditable form;
   - still offer the best available open export, and disclose what that export loses;
@@ -820,7 +820,7 @@ This Article sets out the open-formats floor for systems:
   - The exit duty is not subject to the Adoption Transition.
 - **Scope and limits:**
   - This sub-article binds systems. It does not direct individual sentients which formats to use for their own works, though they are encouraged to prefer open ones. Systems must not require individuals to use closed formats where an open format meets their needs.
-  - Open formats do not mean open content. Confidentiality, encryption, and the handling protections of every CS-4.305 (*Information types and handling*) and CS-4.310 (*Data Classifications*) data type are unaffected.
+  - Open formats do not mean open content. Confidentiality, encryption, and the handling protections of every Subcore 4-A (*Data Types*) data type are unaffected.
   - Openness does not outrank **Safety**, **Truth**, justified confidentiality, or security constraints, consistent with **Chapter Two §16.3** (*Openness Aspiration*).
 
 <a id="article-xxiii-movement-migration-refuge-and-non-statelessness"></a>
