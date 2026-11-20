@@ -1143,6 +1143,6 @@ Every version of a System Charter or Institutional Charter is dated and kept. Th
 
 ---
 
-**Previous file:** [subcore_03.095_band_performance.md](subcore_03.095_band_performance.md)
+**Previous file:** [subcore_04.060_integrity_triggers_gifts_funding.md](subcore_04.060_integrity_triggers_gifts_funding.md)
 
 **Next file:** [core_06.000_functional_independence_separation_of_duties.md](core_06.000_functional_independence_separation_of_duties.md)

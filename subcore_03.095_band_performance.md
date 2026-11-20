@@ -79,4 +79,4 @@ These cross-cutting measures ask whether systems deliver constitutional outcomes
 
 **Previous file:** [subcore_03.090_band_participation.md](subcore_03.090_band_participation.md)
 
-**Next file:** [core_05.000_charters.md](core_05.000_charters.md)
+**Next file:** [core_04.000_rights_part_a.md](core_04.000_rights_part_a.md)

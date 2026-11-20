@@ -1448,6 +1448,6 @@ This Article sets the minimum rules for sharing the load fairly between systems.
 
 ---
 
-**Previous file:** [core_25.000_special_enforcement.md](core_25.000_special_enforcement.md)
+**Previous file:** [subcore_03.095_band_performance.md](subcore_03.095_band_performance.md)
 
 **Next file:** [core_04.010_rights_part_b.md](core_04.010_rights_part_b.md)

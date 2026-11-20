@@ -112,4 +112,4 @@ Entries are made within the 30-day **gift-register entry window**, counted from 
 
 **Previous file:** [subcore_04.050_data_types.md](subcore_04.050_data_types.md)
 
-**Next file:** [core_26.000_governance.md](core_26.000_governance.md)
+**Next file:** [core_05.000_charters.md](core_05.000_charters.md)

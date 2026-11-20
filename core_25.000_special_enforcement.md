@@ -323,4 +323,4 @@ This section governs referrals under [Chapter Twenty-Four §8 Routing to Special
 
 **Previous file:** [core_24.000_enforcement.md](core_24.000_enforcement.md)
 
-**Next file:** [core_04.000_rights_part_a.md](core_04.000_rights_part_a.md)
+**Next file:** [core_26.000_governance.md](core_26.000_governance.md)

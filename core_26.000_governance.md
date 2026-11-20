@@ -592,6 +592,6 @@ Material stewardship and operation require **sentients** who can **exercise** au
 
 ---
 
-**Previous file:** [subcore_04.060_integrity_triggers_gifts_funding.md](subcore_04.060_integrity_triggers_gifts_funding.md)
+**Previous file:** [core_25.000_special_enforcement.md](core_25.000_special_enforcement.md)
 
 **Next file:** [subcore_26.010_governance_disclosure.md](subcore_26.010_governance_disclosure.md)
