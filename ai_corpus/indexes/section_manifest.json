@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T01:40:42+00:00",
+  "generated_at": "2026-11-20T02:39:39+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -1926,13 +1926,13 @@
       ]
     },
     "corpus_joint_structure/cjs_31.105_drafting_contracts.md": {
-      "total_lines": 138,
+      "total_lines": 140,
       "sections": [
-        {"header":"CJS-31.105: Drafting Contracts and Owner-to-CJS Seam","level":1,"line_start":1,"line_end":138,"anchor":null},
+        {"header":"CJS-31.105: Drafting Contracts and Owner-to-CJS Seam","level":1,"line_start":1,"line_end":140,"anchor":null},
         {"header":"Purpose, Role, and Scope","level":2,"line_start":33,"line_end":40,"anchor":null},
-        {"header":"CJS-31.105 §7: Intentional Overlap (Non-Duplication Discipline)","level":2,"line_start":41,"line_end":60,"anchor":null},
-        {"header":"CJS-31.105 §8: Two-Layer Definition Contract (Binding Abstraction + Owner Detail)","level":2,"line_start":61,"line_end":138,"anchor":null},
-        {"header":"CJS-31.105 §8.1 Implementation Boundary (Primary Owner to CJS Seam)","level":3,"line_start":101,"line_end":138,"anchor":null}
+        {"header":"CJS-31.105 §7: Intentional Overlap (Non-Duplication Discipline)","level":2,"line_start":41,"line_end":61,"anchor":null},
+        {"header":"CJS-31.105 §8: Two-Layer Definition Contract (Binding Abstraction + Owner Detail)","level":2,"line_start":62,"line_end":140,"anchor":null},
+        {"header":"CJS-31.105 §8.1 Implementation Boundary (Primary Owner to CJS Seam)","level":3,"line_start":103,"line_end":140,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md": {

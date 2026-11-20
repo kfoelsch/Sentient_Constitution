@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-11-20T01:39:25+00:00",
+  "generated_at": "2026-11-20T02:39:41+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.105 §1 topics, Chapter Five terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -310,8 +310,8 @@
     "CJS-15.105 §9": {"file":"corpus_joint_structure/cjs_15.105_application_vignettes.md","anchor":"#cjs-15105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement","heading":"CJS-15.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)","line":400,"kind":"section"},
     "CJS-31.105": {"file":"corpus_joint_structure/cjs_31.105_drafting_contracts.md","anchor":"#cjs-31105-drafting-contracts-and-owner-to-cjs-seam","heading":"CJS-31.105: Drafting Contracts and Owner-to-CJS Seam","line":1,"kind":"family"},
     "CJS-31.105 §7": {"file":"corpus_joint_structure/cjs_31.105_drafting_contracts.md","anchor":"#cjs-31105-7-intentional-overlap-non-duplication-discipline","heading":"CJS-31.105 §7: Intentional Overlap (Non-Duplication Discipline)","line":41,"kind":"section"},
-    "CJS-31.105 §8": {"file":"corpus_joint_structure/cjs_31.105_drafting_contracts.md","anchor":"#cjs-31105-8-two-layer-definition-contract-binding-abstraction-owner-detail","heading":"CJS-31.105 §8: Two-Layer Definition Contract (Binding Abstraction + Owner Detail)","line":61,"kind":"section"},
-    "CJS-31.105 §8.1": {"file":"corpus_joint_structure/cjs_31.105_drafting_contracts.md","anchor":"#cjs-31105-81-implementation-boundary-primary-owner-to-cjs-seam","heading":"CJS-31.105 §8.1 Implementation Boundary (Primary Owner to CJS Seam)","line":101,"kind":"section"},
+    "CJS-31.105 §8": {"file":"corpus_joint_structure/cjs_31.105_drafting_contracts.md","anchor":"#cjs-31105-8-two-layer-definition-contract-binding-abstraction-owner-detail","heading":"CJS-31.105 §8: Two-Layer Definition Contract (Binding Abstraction + Owner Detail)","line":62,"kind":"section"},
+    "CJS-31.105 §8.1": {"file":"corpus_joint_structure/cjs_31.105_drafting_contracts.md","anchor":"#cjs-31105-81-implementation-boundary-primary-owner-to-cjs-seam","heading":"CJS-31.105 §8.1 Implementation Boundary (Primary Owner to CJS Seam)","line":103,"kind":"section"},
     "CJS-31.110": {"file":"corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md","anchor":"#cjs-31110-specific-joint-interlocks-and-shared-abstractions","heading":"CJS-31.110: Specific Joint Interlocks and Shared Abstractions","line":1,"kind":"family"},
     "CJS-31.110 §1": {"file":"corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md","anchor":"#cjs-31110-1-hybrid-delegated-authority-delegated-binding-bodies","heading":"CJS-31.110 §1 Hybrid Delegated Authority (Delegated Binding Bodies)","line":95,"kind":"section"},
     "CJS-31.110 §1.1": {"file":"corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md","anchor":"#cjs-31110-11-composition-minimum","heading":"CJS-31.110 §1.1 Composition Minimum","line":121,"kind":"section"},

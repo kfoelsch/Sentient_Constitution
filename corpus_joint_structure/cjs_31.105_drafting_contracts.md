@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Thirty-One](../core_31.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-31.105 §7** (*drafting contracts and the primary-owner-to-CJS seam*), **CJS-31.105 §8**, and **CJS-31.105 §8.1**.
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Thirty-One](../core_31.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-31.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*), **CJS-31.105 §8** (*Two-Layer Definition Contract (Binding Abstraction + Owner Detail)*), and **CJS-31.105 §8.1** (*Implementation boundary (primary owner to CJS seam)*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) or the [joint-structure reader guide](cjs_reader_guide.md). Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -28,7 +28,7 @@ Core home: 31
 
 This file is the joint-structure implementation home for **CJS-31.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*), **CJS-31.105 §8** (*Two-Layer Definition Contract (Binding Abstraction + Owner Detail)*), and **CJS-31.105 §8.1** (*Implementation boundary (primary owner to CJS seam)*).
 
-*In plain terms: these sections are for editors and auditors. They say how to split a topic across files without writing two competing rulebooks, and how to keep **CJS** as a connector rather than a second owner.*
+*In plain terms: these sections are for editors and auditors. They say how to split a topic across files without writing two competing rulebooks, and how to keep **CJS** as a connector where another file owns the topic, while leaving CJS-owned rules with CJS.*
 
 ## Purpose, Role, and Scope
 
@@ -40,7 +40,6 @@ Average readers can skip this file unless a citation sends them here. How to ent
 
 ## CJS-31.105 §7: Intentional Overlap (Non-Duplication Discipline)
 
-
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -49,6 +48,8 @@ Average readers can skip this file unless a citation sends them here. How to ent
 </details>
 
 <br>
+
+*In plain terms: when a topic is deliberately split across files, the named owner keeps its full rule and the other files add only the connections they need.*
 
 Some topics are **deliberately** split across implementation files — for example contest-integrity design, delegated subunits, or forensic and technical-forum interfaces. For those rows:
 
@@ -59,7 +60,6 @@ Some topics are **deliberately** split across implementation files — for examp
 Domain-layer overlap discipline: apply [Institutions Overlap Discipline](../corpus_institutions/ci_00.205_registry_and_reading_rules.md#institutions-overlap-discipline), [Forums Overlap Discipline](../corpus_forum/cf_00.405_registry_and_reading_rules.md#forums-overlap-discipline), and [Systems Overlap Discipline](../corpus_systems/cs_00.305_registry_and_reading_rules.md#systems-overlap-discipline) in the respective registry annexes.
 
 ## CJS-31.105 §8: Two-Layer Definition Contract (Binding Abstraction + Owner Detail)
-
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -75,6 +75,8 @@ Domain-layer overlap discipline: apply [Institutions Overlap Discipline](../corp
 </details>
 
 <br>
+
+*In plain terms: use a shared binding abstraction only when one owner cannot safely cover the cross-layer issue; leave the detailed tests and procedures with the named owner.*
 
 The CJS folder may adopt **binding high-level joint abstractions** only where a term or construct is materially cross-implementation and cannot be safely interpreted through a single owner file alone.
 
@@ -121,7 +123,7 @@ Domain-layer read-with contracts: apply [Institutions Read-with Pointers](../cor
 
 <br>
 
-*In plain terms: **CJS** connects files — it does not swallow them. When editors revise joint-structure text, keep the full rule in the **primary owner** file (**CS**, **CI**, or **CF**), keep **CJS** pointers short, and keep **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) cluster citations traceable under **CJS-0.105 §3** (*Stable Identifiers, Edition Alignment, and Drafting Notes*).*
+*In plain terms: **CJS** connects files without taking over another owner’s rules. When editors revise joint-structure text, keep the full rule in the **primary owner** file (**CS**, **CI**, or **CF** where one of those owns the topic), keep **CJS** pointers short, and keep **CJS-5.105 (*Operational cluster library (oDef)*) through CJS-5.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) cluster citations traceable under **CJS-0.105 §3** (*Stable Identifiers, Edition Alignment, and Drafting Notes*).*
 
 Under the identifier and definition-home rules in **CJS-0.110 §1** (*Section Identifiers and Article References*), the **CJS-5.105** (*operational cluster library (oDef)*) through **CJS-5.135** (*Integrative cross-leg operations (oDef.22–oDef.23)*) files remain the operative home for **oDef** clusters.
 
