@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-19T17:30:14+00:00",
+  "generated_at": "2026-11-20T03:52:05+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -778,9 +778,9 @@
       ]
     },
     "core_08.000_functional_independence_separation_of_duties.md": {
-      "total_lines": 643,
+      "total_lines": 667,
       "sections": [
-        {"header":"CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES","level":1,"line_start":2,"line_end":643,"anchor":"#chapter-eight-functional-independence-and-separation-of-duties"},
+        {"header":"CHAPTER EIGHT: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES","level":1,"line_start":2,"line_end":667,"anchor":"#chapter-eight-functional-independence-and-separation-of-duties"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":59,"line_end":113,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why the Jobs Are Separated","level":3,"line_start":114,"line_end":142,"anchor":"#2-why-the-jobs-are-separated"},
         {"header":"2.1 Why Four Seats","level":4,"line_start":130,"line_end":142,"anchor":"#21-why-four-seats"},
@@ -802,7 +802,7 @@
         {"header":"8. Emergency and Urgent Action","level":3,"line_start":490,"line_end":532,"anchor":"#8-emergency-and-urgent-action"},
         {"header":"9. Act Records and Attributable Handoffs","level":3,"line_start":533,"line_end":576,"anchor":"#9-act-records-and-attributable-handoffs"},
         {"header":"10. Relationship to Later Processes","level":3,"line_start":577,"line_end":607,"anchor":"#10-relationship-to-later-processes"},
-        {"header":"11. Independent Bodies","level":3,"line_start":608,"line_end":643,"anchor":"#11-independent-bodies"}
+        {"header":"11. Independent Bodies","level":3,"line_start":608,"line_end":667,"anchor":"#11-independent-bodies"}
       ]
     },
     "core_09.000_system_alignment_certification_evaluation.md": {
@@ -1749,14 +1749,14 @@
       ]
     },
     "corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md": {
-      "total_lines": 402,
+      "total_lines": 397,
       "sections": [
-        {"header":"CJS-0.105: Registry and Reading Rules","level":1,"line_start":1,"line_end":402,"anchor":null},
-        {"header":"CJS-0.105 §1: Cross-File Routing","level":2,"line_start":69,"line_end":170,"anchor":"#cross-file-routing"},
-        {"header":"Maintainer-Only Detail: Authoritative Topic Router","level":3,"line_start":121,"line_end":170,"anchor":"#cjs-01-topic-router-stable-ids"},
-        {"header":"CJS-0.105 §2: Joint Structure Registry","level":2,"line_start":171,"line_end":211,"anchor":null},
-        {"header":"CJS-0.105 §3: Stable Identifiers, Edition Alignment, and Drafting Notes","level":2,"line_start":212,"line_end":267,"anchor":null},
-        {"header":"CJS-0.105 §4: Time-Window Names","level":2,"line_start":268,"line_end":402,"anchor":null}
+        {"header":"CJS-0.105: Registry and Reading Rules","level":1,"line_start":1,"line_end":397,"anchor":null},
+        {"header":"CJS-0.105 §1: Cross-File Routing","level":2,"line_start":68,"line_end":168,"anchor":"#cross-file-routing"},
+        {"header":"Maintainer-Only Detail: Authoritative Topic Router","level":3,"line_start":119,"line_end":168,"anchor":"#cjs-01-topic-router-stable-ids"},
+        {"header":"CJS-0.105 §2: Joint Structure Registry","level":2,"line_start":169,"line_end":208,"anchor":null},
+        {"header":"CJS-0.105 §3: Stable Identifiers, Edition Alignment, and Drafting Notes","level":2,"line_start":209,"line_end":263,"anchor":null},
+        {"header":"CJS-0.105 §4: Time-Window Names","level":2,"line_start":264,"line_end":397,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md": {
@@ -1926,26 +1926,26 @@
       ]
     },
     "corpus_joint_structure/cjs_31.105_drafting_contracts.md": {
-      "total_lines": 138,
+      "total_lines": 140,
       "sections": [
-        {"header":"CJS-31.105: Drafting Contracts and Owner-to-CJS Seam","level":1,"line_start":1,"line_end":138,"anchor":null},
+        {"header":"CJS-31.105: Drafting Contracts and Owner-to-CJS Seam","level":1,"line_start":1,"line_end":140,"anchor":null},
         {"header":"Purpose, Role, and Scope","level":2,"line_start":33,"line_end":40,"anchor":null},
-        {"header":"CJS-31.105 §7: Intentional Overlap (Non-Duplication Discipline)","level":2,"line_start":41,"line_end":60,"anchor":null},
-        {"header":"CJS-31.105 §8: Two-Layer Definition Contract (Binding Abstraction + Owner Detail)","level":2,"line_start":61,"line_end":138,"anchor":null},
-        {"header":"CJS-31.105 §8.1 Implementation Boundary (Primary Owner to CJS Seam)","level":3,"line_start":101,"line_end":138,"anchor":null}
+        {"header":"CJS-31.105 §7: Intentional Overlap (Non-Duplication Discipline)","level":2,"line_start":41,"line_end":61,"anchor":null},
+        {"header":"CJS-31.105 §8: Two-Layer Definition Contract (Binding Abstraction + Owner Detail)","level":2,"line_start":62,"line_end":140,"anchor":null},
+        {"header":"CJS-31.105 §8.1 Implementation Boundary (Primary Owner to CJS Seam)","level":3,"line_start":103,"line_end":140,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md": {
-      "total_lines": 295,
+      "total_lines": 293,
       "sections": [
-        {"header":"CJS-31.110: Specific Joint Interlocks and Shared Abstractions","level":1,"line_start":1,"line_end":295,"anchor":null},
+        {"header":"CJS-31.110: Specific Joint Interlocks and Shared Abstractions","level":1,"line_start":1,"line_end":293,"anchor":null},
         {"header":"Purpose, Role, and Scope","level":2,"line_start":69,"line_end":94,"anchor":null},
-        {"header":"CJS-31.110 §1 Hybrid Delegated Authority (Delegated Binding Bodies)","level":2,"line_start":95,"line_end":163,"anchor":"#cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies"},
-        {"header":"CJS-31.110 §1.1 Composition Minimum","level":3,"line_start":121,"line_end":149,"anchor":null},
-        {"header":"CJS-31.110 §1.2 Attachment Publication","level":3,"line_start":150,"line_end":163,"anchor":null},
-        {"header":"CJS-31.110 §3 Cross-Implementation Trust Integrity (Joint Operation Model)","level":2,"line_start":164,"line_end":207,"anchor":null},
-        {"header":"CJS-31.110 §4 Class-Scaled Lane Staffing and Competency Redundancy","level":2,"line_start":208,"line_end":247,"anchor":null},
-        {"header":"CJS-31.110 §5 Shared Procedural Abstractions for Delegated Bodies and Forum Routing","level":2,"line_start":248,"line_end":295,"anchor":null}
+        {"header":"CJS-31.110 §1 Hybrid Delegated Authority (Delegated Binding Bodies)","level":2,"line_start":95,"line_end":161,"anchor":"#cjs-21-mandatory-hybrid-authority-composition-delegated-binding-bodies"},
+        {"header":"CJS-31.110 §1.1 Composition Minimum","level":3,"line_start":121,"line_end":148,"anchor":null},
+        {"header":"CJS-31.110 §1.2 Attachment Publication","level":3,"line_start":149,"line_end":161,"anchor":null},
+        {"header":"CJS-31.110 §3 Cross-Implementation Trust Integrity (Joint Operation Model)","level":2,"line_start":162,"line_end":205,"anchor":null},
+        {"header":"CJS-31.110 §4 Class-Scaled Lane Staffing and Competency Redundancy","level":2,"line_start":206,"line_end":245,"anchor":null},
+        {"header":"CJS-31.110 §5 Shared Procedural Abstractions for Delegated Bodies and Forum Routing","level":2,"line_start":246,"line_end":293,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_reader_guide.md": {
@@ -2082,19 +2082,18 @@
       ]
     },
     "corpus_systems/cs_06.330_decentralized_continuity_partition_resilience.md": {
-      "total_lines": 195,
+      "total_lines": 207,
       "sections": [
-        {"header":"CS-6.330: Decentralized Continuity and Partition Resilience","level":1,"line_start":1,"line_end":195,"anchor":null},
-        {"header":"CS-6.330 §1 Purpose, Role, and Scope","level":2,"line_start":46,"line_end":52,"anchor":null},
-        {"header":"CS-6.330 §2 Continuity Modes and Rights-Floor Invariants","level":2,"line_start":53,"line_end":66,"anchor":null},
-        {"header":"CS-6.330 §3 Local-First Governance Execution under Disconnection","level":2,"line_start":67,"line_end":81,"anchor":null},
-        {"header":"CS-6.330 §4 Partition-Safe Decision Constraints","level":2,"line_start":82,"line_end":96,"anchor":null},
-        {"header":"CS-6.330 §5 Offline Audit Integrity and Reconciliation","level":2,"line_start":97,"line_end":110,"anchor":null},
-        {"header":"CS-6.330 §6 Decentralized Trust Anchor and Credential Continuity","level":2,"line_start":111,"line_end":142,"anchor":null},
-        {"header":"6.1 Threshold Recovery and Emergency Trust-Anchor Rotation Safeguards","level":3,"line_start":124,"line_end":142,"anchor":null},
-        {"header":"CS-6.330 §7 Performance and Reliability under Decentralized Operation","level":2,"line_start":143,"line_end":151,"anchor":null},
-        {"header":"CS-6.330 §8 Rejoin, De-Escalation, and Anti-Normalization","level":2,"line_start":152,"line_end":165,"anchor":null},
-        {"header":"CS-6.330 §9 Self-Healing under Decentralized Continuity","level":2,"line_start":166,"line_end":195,"anchor":null}
+        {"header":"CS-6.330: Decentralized Continuity and Partition Resilience","level":1,"line_start":1,"line_end":207,"anchor":null},
+        {"header":"CS-6.330 §2 Continuity Modes and Rights-Floor Invariants","level":2,"line_start":62,"line_end":76,"anchor":"#cs-6330-1-purpose-role-and-scope"},
+        {"header":"CS-6.330 §3 Local-First Governance Execution under Disconnection","level":2,"line_start":77,"line_end":92,"anchor":null},
+        {"header":"CS-6.330 §4 Partition-Safe Decision Constraints","level":2,"line_start":93,"line_end":107,"anchor":null},
+        {"header":"CS-6.330 §5 Offline Audit Integrity and Reconciliation","level":2,"line_start":108,"line_end":122,"anchor":null},
+        {"header":"CS-6.330 §6 Decentralized Trust Anchor and Credential Continuity","level":2,"line_start":123,"line_end":155,"anchor":null},
+        {"header":"6.1 Threshold Recovery and Emergency Trust-Anchor Rotation Safeguards","level":3,"line_start":137,"line_end":155,"anchor":null},
+        {"header":"CS-6.330 §7 Performance and Reliability under Decentralized Operation","level":2,"line_start":156,"line_end":164,"anchor":null},
+        {"header":"CS-6.330 §8 Rejoin, De-Escalation, and Anti-Normalization","level":2,"line_start":165,"line_end":179,"anchor":null},
+        {"header":"CS-6.330 §9 Self-Healing under Decentralized Continuity","level":2,"line_start":180,"line_end":207,"anchor":null}
       ]
     },
     "corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md": {
@@ -2295,14 +2294,14 @@
       ]
     },
     "corpus_institutions/ci_00.205_registry_and_reading_rules.md": {
-      "total_lines": 177,
+      "total_lines": 176,
       "sections": [
-        {"header":"CI-0.205: Institutions Registry and Identifier Rules","level":1,"line_start":1,"line_end":177,"anchor":null},
-        {"header":"Institutions Identifier and Article-Reference Rules","level":2,"line_start":50,"line_end":71,"anchor":null},
-        {"header":"Institutions Registry (Stable Section Families)","level":2,"line_start":72,"line_end":95,"anchor":null},
-        {"header":"Institutions Domain Routing (Integrator Annex)","level":2,"line_start":96,"line_end":177,"anchor":null},
-        {"header":"Institutions Overlap Discipline","level":3,"line_start":123,"line_end":152,"anchor":null},
-        {"header":"Institutions Read-with Pointers","level":3,"line_start":153,"line_end":177,"anchor":null}
+        {"header":"CI-0.205: Institutions Registry and Identifier Rules","level":1,"line_start":1,"line_end":176,"anchor":null},
+        {"header":"Institutions Identifier and Article-Reference Rules","level":2,"line_start":49,"line_end":70,"anchor":null},
+        {"header":"Institutions Registry (Stable Section Families)","level":2,"line_start":71,"line_end":94,"anchor":null},
+        {"header":"Institutions Domain Routing (Integrator Annex)","level":2,"line_start":95,"line_end":176,"anchor":null},
+        {"header":"Institutions Overlap Discipline","level":3,"line_start":122,"line_end":151,"anchor":null},
+        {"header":"Institutions Read-with Pointers","level":3,"line_start":152,"line_end":176,"anchor":null}
       ]
     },
     "corpus_institutions/ci_00.210_scope_purpose_legitimacy_interface.md": {

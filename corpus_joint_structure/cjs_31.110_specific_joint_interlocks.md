@@ -105,7 +105,7 @@ The shared operational cluster library starts at [CJS-5.105](cjs_05.105_cross_im
   - **CJS-31.110 §1.2** (*Attachment publication*);
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Three fami…*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*).
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Three families)*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*).
 
 </details>
 
@@ -120,15 +120,14 @@ A hybrid design that names home and rotating roles but omits **CJS-31.110 §1.2*
 
 ### CJS-31.110 §1.1 Composition Minimum
 
-
 *In plain terms: a group that makes binding decisions cannot be all long-serving insiders or all newcomers. It must mix stable "home" members with rotating members — and home members must usually be the minority when the group decides together.*
 
-**Who this covers**
+**Who this covers:**
 
 - **Institution decision bodies** — committees, divisions, and similar bodies below a parent institution that make binding decisions, within the **Class C and above** applicability of **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*). Owner detail: **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*). Router topic: **CJS-R01** in **CJS-0.105 §1** (*Cross-File Routing*).
-- **Forum chambers and panels** — chambers, divisions, and designated panels under **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*) through **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*). Router topic: **CJS-R02** in **CJS-0.105 §1** (*Cross-File Routing*). The minimum **Class C** institutional design minimum in **CF-23.405 §6** (*Chamber Authority Composition and Service Mechanics*) applies even where other governed systems are below Class C.
+- **Forum chambers and panels** — chambers, divisions, and designated panels under **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*) through **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*). Router topic: **CJS-R02** in **CJS-0.105 §1** (*Cross-File Routing*). The **Class C** institutional design minimum in **CF-23.405 §6** (*Chamber Authority Composition and Service Mechanics*) applies even where other governed systems are below Class C.
 
-**The hybrid mix required**
+**The hybrid mix required:**
 
 Every covered body must use a **hybrid design** that includes both:
 
@@ -148,7 +147,6 @@ For forums, apply [CF-23.450 §3 Activation Triggers](../corpus_forum/cf_23.450_
 **When institution and forum rules both apply.** Where **CI** and **CF** both speak to the same body, the clearly adopted rule with the [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) governs.
 
 ### CJS-31.110 §1.2 Attachment Publication
-
 
 *In plain terms: once the hybrid mix is required (**CJS-31.110 §1.1** (*Composition minimum*)), the published rules must spell out how long rotating members serve, how home-member terms work, and who may not change those durations in secret.*
 
@@ -185,7 +183,7 @@ The meanings of **Trust**, **Trustworthiness**, and **Trust Degradation and Misl
 
 A trustworthiness claim is non-compliant if one implementation file gives reassuring signals while another implementation file in the same chain leaves unresolved problems that defeat observable, verifiable, or contestable reliance.
 
-For implementation routing, **Class A**, **Class B**, and **Class C** systems follow **[CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310](../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** (*System Impact Classifications*) and **[CS-27.305 — Critical system stewardship](../corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow **[CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310](../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** (*System Impact Classifications*) criteria and limits, apply **Chapter Nine §4** (*Whole-System Certification Evaluation*) evaluation discipline at proportionate depth (**Class L**, mandatory) or as encouraged practice (**Class P**), and may not evade obligations where material external effects exist.
+For implementation routing, **Class A**, **Class B**, and **Class C** systems follow **[CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310](../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** (*System Impact Classifications*) and **[CS-27.305 — Critical system stewardship](../corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)** for class-scaled trustworthiness assurance. **Class L** and **Class P** systems follow **[CS-9.305](../corpus_systems/cs_09.305_system_classification_machinery.md#cs-9305-part-a-system-classification-machinery) (*System classification machinery*) and [CS-9.310](../corpus_systems/cs_09.310_system_impact_classifications.md#cs-9310-part-b-system-impact-classifications)** (*System Impact Classifications*) criteria and limits, apply **Chapter Nine §4** (*Whole-System Certification Evaluation*) evaluation discipline at proportionate depth (**Class L**, mandatory) or as encouraged practice while validly **Class P**. For Class P, certification becomes mandatory on reclassification to Class L or higher or when the operator voluntarily asserts constitutional compliance, under [Chapter Nine §2 Why System Alignment Certification Exists](../core_09.000_system_alignment_certification_evaluation.md#2-why-system-alignment-certification-exists). Systems may not evade obligations where material external effects exist.
 
 Where trust depends on multiple systems, institutions, dependencies, or implementation layers, institutions must maintain a published and auditable map that identifies:
 
@@ -212,7 +210,7 @@ Trust claims must remain consistent with [Chapter One §15.4.4 Combined Satisfac
 
 - Upstream: [Chapter One §17.6 Portable Competence](../core_01.040_stewardship_capacity_principles.md#176-portable-competence) (1.040 §17.6) (*the principle this subsection carries out*).
 - Read with: **CJS-31.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*); **CJS-5.105 §0** (*Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface*).
-- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in
+- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*) in
   - **CJS-0.105 §1** (*Topic router*); primary owners
   - **CI-8.205** (*Institutional design, separation of powers, and authority custody*),
   - **CI-27.205** (*Appointment, competency, rotation, and removal*),
@@ -252,8 +250,8 @@ The constitutional requirements for authorized roles, competency, and succession
 
 - Read with: **CJS-31.110 §5** (*Shared Procedural Abstractions for Delegated Bodies and Forum Routing*); **CJS-5.105 §0** (*Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface*).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Three fami…*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*).
-- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-23.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Three families)*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*).
+- Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to-form*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-23.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
 - Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, questions for ruling, representative treatment*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-23.415** (*Routing operations, transfer, questions for ruling, and representative treatment*).
 
 </details>

@@ -149,7 +149,7 @@ These reasons do not add duties. They explain why the duties in §3 to §10 take
 
 - it sits outside the Material Control Line of the governing authority, every forum family, and the Public Finance Office;
 - the protected decision-makers are its head and its chief methodologists; and
-- its funding floor is set on its own track under the Public Finance Office chapter, and the Finance Office may not reduce, delay, or condition it.
+- its funding is protected under *Protected funding* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies): its floor is set on its own track, is paid through the Public Finance Office, and the Finance Office may not set, reduce, delay, or condition it. Its reserve under that requirement is held for it in the Public Finance Office's reserve fund.
 
 **Seat map:** Every materially binding act of the office, such as publishing an official figure, selecting a researcher, or correcting a release, places the four seats under Chapter Eight. The check seat for a method or figure is an independent method reviewer outside the team that produced it.
 
@@ -237,10 +237,4 @@ The office must not advocate for a policy, a party, or an outcome. It may explai
 
 *In plain terms: a small community may share an office or borrow statistics from a larger one, as long as the work stays independent.*
 
-A small adopter may:
-
-- place the office's seats in fewer hands under [Chapter Eight §7](../../core_08.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting);
-- share administration under **CF-23.470 §3**; or
-- adopt another adopter's statistics or research office by published agreement, if that office meets this chapter.
-
-Even when hosting is merged, the office keeps decision-makers separate from the Public Finance Office and from every forum whose research it runs.
+The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies, including sharing administration under **CF-23.470 §3** and using another adopter's office by published agreement, if that office also meets this chapter. Even when hosting is merged, the office keeps decision-makers separate from every forum whose research it runs.
