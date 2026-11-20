@@ -11,7 +11,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); plain-language aim at [Preamble §1](core_00.000_preamble.md#continuity).
+- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); plain-language aim at [Preamble §1](core_00.000_preamble.md#continuity).
 - Downstream: Principles:
   - [Chapter Two §8 Continuity Aim: Introduction](core_02.010_values_principles_continuity_aim.md#8-continuity-aim-introduction) (2.010 §8);
   - [Chapter Two §9 Shared-System Capacity](core_02.010_values_principles_continuity_aim.md#9-shared-system-capacity) (2.010 §9);
@@ -78,7 +78,7 @@ Chapter Three, Continuity aim, is the constitutional owner of the **Continuity**
 
 *In plain terms: this map lists Continuity's building blocks — stability, sustainability, ecological wellbeing, dependency, and cross-system support — and where each leaf lives.*
 
-Definitions under this aim inherit this aim's scope unless they expressly narrow or widen it. Full topic map: [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map).
+Definitions under this aim inherit this aim's scope unless they expressly narrow or widen it. Full topic map: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map).
 
 **Main building blocks** (named in [Preamble §1 The Model](core_00.000_preamble.md#continuity) — long-horizon stability, sustainability, resilience, and ecological wellbeing) — where each term lives, and which cluster to read when several apply together:
 

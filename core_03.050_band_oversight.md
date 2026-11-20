@@ -9,7 +9,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream: Oversight-band canonical definition homes for Chapter Three.
 - Read with: **Oversight** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -1057,7 +1057,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
-- Chapter Two basis: Chapter Two §15.2, §6, §19.1, §19.2 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §15.2, §6, §19.1, §19.2 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Accountability](core_03.005_apex_accountability_leg.md#accountability),
   - [Contestability](core_03.035_band_accountability.md#contestability),
@@ -1656,7 +1656,7 @@ See **Anti-Segmentation Principle**.
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
 - Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*).
 - Cross-leg note: integrative with **Accountability** where contest and correction are implicated.
-- Chapter Two basis: Chapter Two §15.2, §5.1, §6, §19.1, §19.2 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §15.2, §5.1, §6, §19.1, §19.2 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Good Faith](core_03.035_band_accountability.md#good-faith),
   - [Materiality](core_03.050_band_oversight.md#materiality),

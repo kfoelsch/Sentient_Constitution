@@ -10,7 +10,7 @@ from pathlib import Path
 
 from ch5_paths import CH5_BANDS, CH5_INDEX
 
-COMPASS_ANCHOR = "chapter-three-compass-and-definition-map"
+COMPASS_ANCHOR = "6-compass-and-definition-map"
 TRACE_BLOCK_RE = re.compile(
     r"<details>\s*\n<summary><strong><span style=\"color: #2563eb;\">Trace</span></strong></summary>\s*\n(.*?)\n</details>",
     re.DOTALL,

@@ -1040,23 +1040,23 @@ a word in this Constitution has to mean something you can check, nobody can win 
 
 [Source](../../core_03.000_definitions_home.md#5-how-definitions-and-proof-work)
 
-#### Chapter Three Compass and Definition Map
+#### 6. Compass and Definition Map
 
 Chapter Three is sorted by the two aims and the four Tetrad legs. The first table lists the apex files, one for each aim and leg; the second lists the band files, where the definitions themselves live; and the alphabetical directory lists every definition by name.
 
-[Source](../../core_03.000_definitions_home.md#chapter-three-compass-and-definition-map)
+[Source](../../core_03.000_definitions_home.md#6-compass-and-definition-map)
 
-#### 6. Two Complete Definitions
+#### 7. Two Complete Definitions
 
 two real definitions, copied in full, to show what every definition in this Constitution looks like. There is no short version of any definition: a definition applies only as its full text.
 
-[Source](../../core_03.000_definitions_home.md#6-two-complete-definitions)
+[Source](../../core_03.000_definitions_home.md#7-two-complete-definitions)
 
-##### 6.1 An Independent Definition: No-Bypass
+##### 7.1 An Independent Definition: No-Bypass
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_03.000_definitions_home.md#61-an-independent-definition-no-bypass)
+[Source](../../core_03.000_definitions_home.md#71-an-independent-definition-no-bypass)
 
 ###### No-Bypass
 
@@ -1064,11 +1064,11 @@ a constitutional requirement follows the act, not its packaging. Changing the la
 
 [Source](../../core_03.000_definitions_home.md#no-bypass)
 
-##### 6.2 A Dependent Cluster: Binding Stakeholder Choice
+##### 7.2 A Dependent Cluster: Binding Stakeholder Choice
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_03.000_definitions_home.md#62-a-dependent-cluster-binding-stakeholder-choice)
+[Source](../../core_03.000_definitions_home.md#72-a-dependent-cluster-binding-stakeholder-choice)
 
 ###### Def.P2 Binding Stakeholder Choice
 

@@ -9,7 +9,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad).
+- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad).
 - Downstream: Chapter Three measurement-family home for Constitutional Performance; **all leaf bodies** remain in the [Continuity band](core_03.040_band_continuity.md) (stewardship / shared-system capacity / proportionality–burden–efficiency clusters).
 - Read with:
   - [Constitutional Efficiency](core_03.040_band_continuity.md#constitutional-efficiency),

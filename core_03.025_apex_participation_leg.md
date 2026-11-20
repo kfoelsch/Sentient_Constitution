@@ -10,7 +10,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000);
+  - [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (participation leg;
   - [material stake](core_00.000_preamble.md#material-stake) scaling);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); primary aim
@@ -99,7 +99,7 @@ Chapter Three, Participation Tetrad leg, is the constitutional owner of the **Pa
 
 *In plain terms: this map lists the Participation clusters; leaf definitions inherit this leg's scope unless they say otherwise.*
 
-Leaf definitions under this leg inherit this leg's scope unless they expressly narrow or widen it. Full topic map: [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map).
+Leaf definitions under this leg inherit this leg's scope unless they expressly narrow or widen it. Full topic map: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map).
 
 **Dependent clusters** (**Def.P1–Def.P3**) — joint-invocation homes:
 

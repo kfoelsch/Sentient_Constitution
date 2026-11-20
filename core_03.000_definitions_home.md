@@ -45,15 +45,15 @@ Two rules govern how another chapter meets a Chapter Three definition once it in
 - the canonical home and non-duplication rule (**section 2**);
 - the rules for independent definitions (**section 3**) and for dependent clusters (**section 4**);
 - how definitions and proof work, stated in one line for each guarantee, with the full rules in the chapter's subcore files (**section 5**);
-- the compass and definition map, with its alphabetical directory, which says where each definition is found; and
-- two complete definitions, one independent definition and one dependent cluster, shown in full as examples of the structure every definition has (**section 6**, which closes the chapter).
+- the compass and definition map, with its alphabetical directory, which says where each definition is found (**section 6**); and
+- two complete definitions, one independent definition and one dependent cluster, shown in full as examples of the structure every definition has (**section 7**, which closes the chapter).
 
 Chapter Three is the overview; the full text sits in its subcore files:
 
 - how a definition is built, in Subcore 3-A;
 - what counts as failing an applicable definition, in Subcore 3-B;
 - burden of proof, traceability, and verification, in Subcore 3-C; and
-- the full definitions, band by band, starting with the Integrative terms in [Subcore 3-D](subcore_03.045_band_integrative.md#subcore-3-d-integrative-definitions). The bands not yet moved are still in this chapter's band and apex files, listed in the [compass](#chapter-three-compass-and-definition-map).
+- the full definitions, band by band, starting with the Integrative terms in [Subcore 3-D](subcore_03.045_band_integrative.md#subcore-3-d-integrative-definitions). The bands not yet moved are still in this chapter's band and apex files, listed in the [compass](#6-compass-and-definition-map).
 
 <a id="2-canonical-home-and-non-duplication-rule"></a>
 <a id="2-why-definitions-have-one-home"></a>
@@ -158,7 +158,7 @@ Independent Definitions must not fragment, isolate, or redistribute compliance i
 
 *In plain terms: cluster members must be read and satisfied together — no member is a standalone shortcut around joint requirements.*
 
-A **dependent cluster** is a group of definitions that must be met together, inside the scope each cluster states. [§4.1 Joint Invocation and Satisfaction](#41-joint-invocation-and-satisfaction) and [§4.2 Standalone Definitions Interaction and Full Context](#42-standalone-definitions-interaction-and-full-context) apply to every cluster. Dependent clusters **Def.O1–Def.I1** live in the constitutional band files — see [Clusters A-Z](#clusters-a-z) and the [compass](#chapter-three-compass-and-definition-map).
+A **dependent cluster** is a group of definitions that must be met together, inside the scope each cluster states. [§4.1 Joint Invocation and Satisfaction](#41-joint-invocation-and-satisfaction) and [§4.2 Standalone Definitions Interaction and Full Context](#42-standalone-definitions-interaction-and-full-context) apply to every cluster. Dependent clusters **Def.O1–Def.I1** live in the constitutional band files — see [Clusters A-Z](#clusters-a-z) and the [compass](#6-compass-and-definition-map).
 
 <a id="41-joint-invocation-and-satisfaction"></a>
 
@@ -193,8 +193,8 @@ Each subcore file gives the full rule. None of them may narrow a line in this se
 
 ---
 
-### Chapter Three Compass and Definition Map
-<a id="chapter-three-compass-and-definition-map"></a>
+<a id="6-compass-and-definition-map"></a>
+### 6. Compass and Definition Map
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -610,8 +610,8 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 
 ---
 
-<a id="6-two-complete-definitions"></a>
-### 6. Two Complete Definitions
+<a id="7-two-complete-definitions"></a>
+### 7. Two Complete Definitions
 
 *In plain terms: two real definitions, copied in full, to show what every definition in this Constitution looks like. There is no short version of any definition: a definition applies only as its full text.*
 
@@ -629,8 +629,8 @@ Every definition has the same parts:
 
 A dependent cluster adds a head before its members. The head says when the cluster applies, lists its members, and names, under **Anti-bypass**, the parts that may not be met one at a time.
 
-<a id="61-an-independent-definition-no-bypass"></a>
-#### 6.1 An Independent Definition: No-Bypass
+<a id="71-an-independent-definition-no-bypass"></a>
+#### 7.1 An Independent Definition: No-Bypass
 
 [No-Bypass](subcore_03.045_band_integrative.md#no-bypass) is one of the shortest independent definitions. Its canonical home is [Subcore 3-D](subcore_03.045_band_integrative.md#subcore-3-d-integrative-definitions).
 
@@ -667,8 +667,8 @@ A dependent cluster adds a head before its members. The head says when the clust
   - **Primary failure:** Avoiding a constitutional requirement by changing the label, route, owner, forum, document, or timing of the same act, or by using an allowed framing whose own step does not follow this Constitution. A no-bypass statement or review step that leaves the act's actual treatment unchanged is also non-compliant, as is accepting the actor's own label, self-report, or paperwork as proof that a requirement was met.
 <!-- ch3-example:end -->
 
-<a id="62-a-dependent-cluster-binding-stakeholder-choice"></a>
-#### 6.2 A Dependent Cluster: Binding Stakeholder Choice
+<a id="72-a-dependent-cluster-binding-stakeholder-choice"></a>
+#### 7.2 A Dependent Cluster: Binding Stakeholder Choice
 
 [Binding Stakeholder Choice](core_03.055_band_participation.md#defp2-binding-stakeholder-choice) is the smallest dependent cluster, with three members. Its canonical home is the [Participation band](core_03.055_band_participation.md).
 
@@ -697,7 +697,7 @@ A dependent cluster adds a head before its members. The head says when the clust
 - Layer: **Stakeholder System Participation (SSP)** — voice inside already-authorized systems. Distinct from **Constitutional Contract Layer (CCL)** authorization.
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Accountability** procedural integrity.
-- Chapter Two basis: Chapter Two §15.1, §5.2, §18.4, §15, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §15.1, §5.2, §18.4, §15, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Implementation publication: institutional
   - **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) /
   - **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) files carry local process and weighting substance;

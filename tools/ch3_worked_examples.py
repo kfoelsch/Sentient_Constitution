@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Keep Chapter Three §6 worked examples identical to their canonical homes.
+"""Keep Chapter Three §7 worked examples identical to their canonical homes.
 
-Chapter Three §6 shows two complete definitions (one independent definition,
+Chapter Three §7 shows two complete definitions (one independent definition,
 one dependent cluster) as reader examples. Each example sits between marker
 comments naming its canonical home:
 

@@ -9,7 +9,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream: Participation-band canonical definition homes for Chapter Three.
 - Read with: **Participation** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -2449,7 +2449,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
   - [System Capture](core_03.040_band_continuity.md#system-capture), and the
   - [Authority Stack and Internal Hierarchy](subcore_03.045_band_integrative.md#authority-stack-and-internal-hierarchy) entry.
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
-- Chapter Two basis: Chapter Two §15.1, §6, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §15.1, §6, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 
 </details>
 
@@ -3244,7 +3244,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 - Layer: **Stakeholder System Participation (SSP)** — voice inside already-authorized systems. Distinct from **Constitutional Contract Layer (CCL)** authorization.
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Accountability** procedural integrity.
-- Chapter Two basis: Chapter Two §15.1, §5.2, §18.4, §15, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §15.1, §5.2, §18.4, §15, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Implementation publication: institutional
   - **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) /
   - **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) files carry local process and weighting substance;
@@ -3427,7 +3427,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
-- Chapter Two basis: §17, Chapter Two §15.1, §6 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: §17, Chapter Two §15.1, §6 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation),
   - [Consent](core_03.055_band_participation.md#consent),
@@ -3800,7 +3800,7 @@ See **Anti-Segmentation Principle**.
   - [Instantiation Consent](core_03.055_band_participation.md#instantiation-consent);
   - [Parent-System Relationship](core_03.055_band_participation.md#parent-system-relationship).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
-- Chapter Two basis: Chapter Two §7, §7.1, §15.1 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §7, §7.1, §15.1 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 
 </details>
 

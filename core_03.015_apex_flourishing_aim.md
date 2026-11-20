@@ -9,14 +9,14 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); principle-layer gloss at [Preamble §1](core_00.000_preamble.md#flourishing).
+- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); principle-layer gloss at [Preamble §1](core_00.000_preamble.md#flourishing).
 - Downstream: Principles:
   - [Chapter Two §3 Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) (2.000 §3);
   - [Chapter Two §2.1 Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (2.000 §2.1);
   - [Chapter Two §6 Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) (2.000 §6);
   - [Chapter Two §19.1.5 Constitutional Outcome Claims Discipline](core_02.050_governance_incentive_application.md#1915-constitutional-outcome-claims-discipline) (2.050 §19.1.5);
   - [Constitutional Aim Decomposition](#constitutional-aim-decomposition); Tetrad band files where **Flourishing** is primary aim per
-  - [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000).
+  - [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000).
 - Read with:
   - [Wellbeing](core_03.040_band_continuity.md#wellbeing),
   - [Safety (Constitutional Constraint)](core_03.040_band_continuity.md#safety-constitutional-constraint),
@@ -77,7 +77,7 @@ Chapter Three, Flourishing aim, is the constitutional owner of the **Flourishing
 
 *In plain terms: this map lists Flourishing's building blocks — truth, safety, trustworthiness, and meaningful agency — and where each leaf lives.*
 
-Leaf definitions under this aim inherit this aim's scope unless they expressly narrow or widen it. Full topic map: [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map).
+Leaf definitions under this aim inherit this aim's scope unless they expressly narrow or widen it. Full topic map: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map).
 
 **Constituents** (named in [Preamble §1 The Model](core_00.000_preamble.md#flourishing)) — definition home and joint-invocation cluster:
 

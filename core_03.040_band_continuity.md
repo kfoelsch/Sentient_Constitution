@@ -9,7 +9,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream: Continuity-band canonical definition homes for Chapter Three.
 - Read with: **Continuity** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -5444,7 +5444,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Constitutional frame: **Continuity** leg; **Continuity** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
 - Continuity disambiguation: Constitutional **Continuity** aim — survival-floor and economic continuity.
 - Flourishing measurement: serves Flourishing measurement family **survival-floor access** family under the [Constitutional Aim Decomposition](core_03.015_apex_flourishing_aim.md#constitutional-aim-decomposition); **Continuity** aim remains primary for long-horizon economic and survival-floor continuity.
-- Chapter Two basis: Chapter Two §15.1, Chapter Two §15.1, Chapter Two §15.1, §19.1 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §15.1, Chapter Two §15.1, Chapter Two §15.1, §19.1 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Collective Organization](core_03.055_band_participation.md#collective-organization),
   - [Productive Capacity](core_03.040_band_continuity.md#productive-capacity),
@@ -6032,7 +6032,7 @@ Chapter Three, Continuity band, is the constitutional owner of the **definitions
 - Constitutional frame: **Continuity** leg; **Continuity** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Accountability** where review and correction duties apply.
 - Continuity disambiguation: Constitutional **Continuity** aim — durable governance discipline.
-- Chapter Two basis: Chapter Two §15.1, §18.1, §19.1, §15 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §15.1, §18.1, §19.1, §15 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Governance](core_03.035_band_accountability.md#governance),
   - [Shared-System Capacity](core_03.040_band_continuity.md#shared-system-capacity),
@@ -6681,7 +6681,7 @@ See **Anti-Segmentation Principle**.
 
 - Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Participation** and **Oversight**.
-- Chapter Two basis: Chapter Two §15.2, §6, §19.1, §19.2 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §15.2, §6, §19.1, §19.2 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 </details>
 
 <br>
@@ -6899,7 +6899,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Continuity** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
-- Chapter Two basis: §7, §19.1, §15 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: §7, §19.1, §15 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Transparency](core_03.050_band_oversight.md#transparency),
   - [Auditability](core_03.050_band_oversight.md#auditability),

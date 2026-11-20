@@ -10,7 +10,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000);
+  - [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (oversight leg;
   - [material stake](core_00.000_preamble.md#material-stake) scaling);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); primary aim
@@ -91,7 +91,7 @@ Chapter Three, Oversight Tetrad leg, is the constitutional owner of the **Oversi
 
 *In plain terms: this map lists the Oversight clusters and topic groups; leaf definitions inherit this leg's scope unless they say otherwise.*
 
-Leaf definitions under this leg inherit this leg's scope unless they expressly narrow or widen it. Full topic map: [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map).
+Leaf definitions under this leg inherit this leg's scope unless they expressly narrow or widen it. Full topic map: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map).
 
 **Dependent clusters** (**Def.O1–Def.O2**) — joint-invocation homes:
 

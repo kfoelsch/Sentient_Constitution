@@ -9,7 +9,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream: Accountability-band canonical definition homes for Chapter Three.
 - Read with: **Accountability** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -2773,7 +2773,7 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
   - [Harm Minimization (Tradeoff Selection)](core_03.035_band_accountability.md#harm-minimization-tradeoff-selection), where materially implicated. Those definitions support this cluster but are not themselves cluster members unless another cluster or owner provision independently requires their joint invocation.
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
-- Chapter Two basis: Chapter Two §15.1, §18.1, §19.1, §16 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §15.1, §18.1, §19.1, §16 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 </details>
 
 <br>
@@ -3191,7 +3191,7 @@ The following limits also apply:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
-- Chapter Two basis: Chapter Two §15.1, §5.2, §18.4, §15, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §15.1, §5.2, §18.4, §15, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Adjudication and Dispute Resolution](core_03.035_band_accountability.md#adjudication-and-dispute-resolution),
   - [Contestability](core_03.035_band_accountability.md#contestability),
@@ -3817,7 +3817,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
-- Chapter Two basis: §18.1, §18.3, §18.4, §19.1, §15 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: §18.1, §18.3, §18.4, §19.1, §15 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Auditability](core_03.050_band_oversight.md#auditability),
   - [Contestability](core_03.035_band_accountability.md#contestability),
@@ -4919,7 +4919,7 @@ See **Anti-Segmentation Principle**.
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Continuity** where irreversible harm is implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational force protocols.
-- Chapter Two basis: Chapter Two §15.1, §18.1, §19.1, §16 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §15.1, §18.1, §19.1, §16 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Coercion and Manipulation](core_03.055_band_participation.md#coercion-and-manipulation),
   - [Necessity](core_03.035_band_accountability.md#necessity),

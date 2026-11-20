@@ -13,7 +13,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream: Integrative-band canonical definition homes for Chapter Three.
 - Read with: **Integrative** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -1002,7 +1002,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 
 - Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](core_03.050_band_oversight.md#materiality).
 - Cross-leg note: **Oversight**, **Accountability**, and **Participation** — authority stack spans all Tetrad legs.
-- Chapter Two basis: Chapter Two §15.1, §6, Chapter Two §13.2, §19.2, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#chapter-three-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §15.1, §6, Chapter Two §13.2, §19.2, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Auditability](core_03.050_band_oversight.md#auditability),
   - [Contestability](core_03.035_band_accountability.md#contestability),
