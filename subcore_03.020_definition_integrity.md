@@ -64,8 +64,12 @@ Systems rarely say they are ignoring a rule. More often they keep the words and 
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) legs;
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): weakening a definition where it is applied counts as non-compliance;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): reviewers can see when a harm is split into pieces too small to count;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): definitions keep protecting sentients in practice, not only on paper;
+    - [Continuity](core_00.000_preamble.md#continuity): closed loopholes stay closed over time;
 - Chapter Two principles:
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
   - [§15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);

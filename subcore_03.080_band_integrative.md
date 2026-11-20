@@ -46,8 +46,14 @@ A constitution with many parts can be played off against itself: one rule cited 
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): all four legs, [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): everyone reads the same rules for how the parts fit together;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): no rule can be used to bypass another;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): conflicts between rules are resolved in the open;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): conflicts are settled by known rules rather than drawn out;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): the rules work together for sentients, not against them;
+    - [Continuity](core_00.000_preamble.md#continuity): a coherent whole holds together as the text grows;
 - Chapter Two principles:
   - [§15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
   - [§12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement).

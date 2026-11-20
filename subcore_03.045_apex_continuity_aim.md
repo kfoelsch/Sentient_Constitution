@@ -60,8 +60,12 @@ Flourishing depends on things that can be worn down quietly: ecosystems, shared 
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): all four legs, [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): sentients have a say in how shared systems are kept going;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): those who wear systems down must answer for it;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): lasting harm is caught before it is too late to reverse;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): stewardship happens before failure, not after;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): the [Continuity](core_00.000_preamble.md#continuity) aim, which this file defines;
 - Chapter Two principles: [§8 Continuity Aim: Introduction](core_02.010_values_principles_continuity_aim.md#8-continuity-aim-introduction);
 - Chapter Four Articles: [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*).
 

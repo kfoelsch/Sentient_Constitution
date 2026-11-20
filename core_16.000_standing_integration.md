@@ -80,8 +80,12 @@ Chapters Fourteen and Fifteen settle what happened and how much it mattered. Som
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness) legs;
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): what follows from a measure is fair, ordered, and traceable to it;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): consequences follow in a set order, without open-ended delay;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): help and harm stay separate, so no one can hide harm behind credit;
+    - [Continuity](core_00.000_preamble.md#continuity): a predictable order keeps standing from drifting over time;
 - Chapter Two principles:
   - [§3.2 Recognition, Reinforcement, and Aspiration](core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
   - [§6.1 Correction and Remedy](core_02.000_values_principles.md#61-correction-and-remedy);

@@ -88,8 +88,12 @@ A society that credits help and answers harm needs a fair way to establish what 
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) legs;
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): standing rests on settled facts, so credit and blame land on the right party;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the facts are verified and written down before anyone relies on them;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): no sentient is judged by rumour or popularity;
+    - [Continuity](core_00.000_preamble.md#continuity): reliable records keep the standing system trustworthy over time;
 - Chapter Two principles:
   - [§3.2 Recognition, Reinforcement, and Aspiration](core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);

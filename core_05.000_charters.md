@@ -102,8 +102,13 @@ Every later check (certification, standing, forum review) asks whether a system 
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) legs;
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): affected sentients can read the limits before they rely on a system or institution;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): each role is held by a named seat that answers for it;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): reviewers can compare what was done with what was promised;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients can rely on systems and institutions that keep to published limits;
+    - [Continuity](core_00.000_preamble.md#continuity): written limits keep a system or institution within bounds as it grows;
 - Chapter Two principles:
   - [§7.2 Assembly, Collective Organization, and Institutional Formation](core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation);
   - [§18.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure);

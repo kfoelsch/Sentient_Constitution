@@ -58,8 +58,14 @@ Chapter Eleven sets what an institution is evaluated on. The institution has eve
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): all four legs, [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): sentients affected by the institution can raise concerns and challenge its certification;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): a forum the institution does not control decides, and its reasons are published in the Institutional Certification Record;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): an institution never chooses its own reviewer;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): review is finished within set time bounds;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients can trust a certified institution;
+    - [Continuity](core_00.000_preamble.md#continuity): independent review keeps captured institutions from holding shared power;
 - Chapter Two principles:
   - [§7.2 Assembly, Collective Organization, and Institutional Formation](core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation);
   - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);

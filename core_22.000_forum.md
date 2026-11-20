@@ -265,7 +265,7 @@ Each **forum family** bears primary responsibility for incentive structures prim
 
 ##### 3.2.3 Relation to Implementation Files
 
-Institutional contest, secondary review, and integrity monitoring in the institutional family work alongside this chapter. That work includes:
+The institutions files (the CI files in the implementation corpus) set out how sentients challenge an institution, how its decisions get a second look, and how it is watched for conflicts of interest, capture, and corruption. They work alongside this chapter. They include:
 
 - **[CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) through **[CI-4.205](corpus_institutions/ci_04.205_transparency_participation_accessible_pathways.md#ci-4205-transparency-participation-and-accessible-challenge-and-service-pathways)** (*Transparency, participation, and accessible challenge and service pathways*);
 - **[CI-22.210](corpus_institutions/ci_22.210_cross_institution_coordination_escalation.md#ci-22210-cross-institution-coordination-and-escalation)** (*Cross-institution coordination and escalation*); and

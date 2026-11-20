@@ -62,8 +62,12 @@ Punishment alone leaves the harmed sentient unrepaired and the cause in place. T
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness) legs;
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): whoever caused verified harm must repair it;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): repair and prevention come first, before the harm spreads;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): those harmed are made whole where possible;
+    - [Continuity](core_00.000_preamble.md#continuity): stopping harm from recurring protects shared systems;
 - Chapter Two principles:
   - [§6.1 Correction and Remedy](core_02.000_values_principles.md#61-correction-and-remedy);
   - [§13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality);

@@ -53,8 +53,12 @@ Capture, manipulation of evidence, and domination of markets or information recu
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) legs;
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): repeated forms of attack are answered consistently;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): reviewers recognize the same pattern the same way;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients are protected from tactics that would otherwise repeat;
+    - [Continuity](core_00.000_preamble.md#continuity): recognizing patterns early keeps them from wearing down protections;
 - Chapter Two principles:
   - [§11.2 Pro-Competition and Anti-Domination](core_02.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination);
   - [§13.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity);

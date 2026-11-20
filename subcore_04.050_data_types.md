@@ -74,8 +74,13 @@ Data about sentients can protect them or be used against them, and the differenc
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) legs;
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): sentients control and can see data about themselves;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): a system answers for how it handles each type of data;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the type sets which protections reviewers can verify;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sensitive data is protected, so sentients are not exposed;
+    - [Continuity](core_00.000_preamble.md#continuity): data that keeps systems running stays available and sound;
 - Chapter Two principles: [§13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination);
 - Chapter Four Articles:
   - [Article II-E](core_04.000_rights_part_a.md#article-ii-e-data-handling-and-network-dependency) (*Data Handling and Network Dependency*);

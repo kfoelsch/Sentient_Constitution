@@ -57,8 +57,12 @@ After the earlier steps, the results have to land somewhere concrete. If they be
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness) legs;
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every consequence is visible and has a stated way back;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): restoration follows a clear path, without a hidden, permanent mark;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): a sentient can always see what is open and closed to them;
+    - [Continuity](core_00.000_preamble.md#continuity): restoring standing returns sentients to full part in shared life;
 - Chapter Two principles:
   - [§6.1 Correction and Remedy](core_02.000_values_principles.md#61-correction-and-remedy);
   - [§5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);

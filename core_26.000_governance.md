@@ -62,8 +62,14 @@ Every system of rules rests on someone's authority to make them. If that authori
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): all four legs, [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): those governed have a say in who governs them and how;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): governing power must be earned, kept, and answered for;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): legitimacy is open to review, not simply claimed;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): authority lapses or is renewed on time, not held forever;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): governing power is used for sentients, not over them;
+    - [Continuity](core_00.000_preamble.md#continuity): legitimate governance keeps shared systems stable across generations;
 - Chapter Two principles:
   - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
   - [§17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard);

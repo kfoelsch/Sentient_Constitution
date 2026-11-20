@@ -63,8 +63,12 @@ If every system carried the full weight of every duty, small and private systems
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) legs;
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the heaviest duties fall where failure would do the most harm;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the class sets how closely a system is reviewed;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients get the most protection where they depend most;
+    - [Continuity](core_00.000_preamble.md#continuity): critical shared systems get the strongest care;
   - [material stake](core_00.000_preamble.md#material-stake);
 - Chapter Two principles: [§12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement);
 - Chapter Four Articles:

@@ -54,8 +54,12 @@ A system can meet every procedural rule and still leave the sentients it serves 
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): all four legs, [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): [Flourishing](core_00.000_preamble.md#flourishing);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): a sentient's own voice is part of living well;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): systems answer for how sentients actually fare;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): outcomes are checked, not assumed;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): help that comes too late does not serve wellbeing;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): the [Flourishing](core_00.000_preamble.md#flourishing) aim, which this file defines;
 - Chapter Two principles:
   - [§2 Flourishing Aim: Introduction](core_02.000_values_principles.md#2-flourishing-aim-introduction);
   - [§3 Foundational Objective: Wellbeing (Flourishing Aim)](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim).

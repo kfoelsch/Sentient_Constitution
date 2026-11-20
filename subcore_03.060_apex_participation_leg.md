@@ -66,8 +66,10 @@ Decisions made without those they affect miss harms that only those sentients ca
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Participation](subcore_03.060_apex_participation_leg.md#participation) leg;
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Participation](subcore_03.060_apex_participation_leg.md#participation) leg, which this file defines;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): a real say is part of living well;
+    - [Continuity](core_00.000_preamble.md#continuity): those affected often see risks to shared systems first;
   - [material stake](core_00.000_preamble.md#material-stake);
 - Chapter Two principles: [§17.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests);
 - Chapter Four Articles:

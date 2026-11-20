@@ -52,8 +52,12 @@ Where an official's decision can be overturned by a phone call, the public gets 
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) legs;
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): officials of an independent body still answer for how they use their office;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): bodies that cannot be leaned on can check those who hold power;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients get honest findings and sound money they can rely on;
+    - [Continuity](core_00.000_preamble.md#continuity): independence keeps public functions working across changes of power;
 - Chapter Two principles:
   - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
   - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);

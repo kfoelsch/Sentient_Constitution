@@ -81,8 +81,14 @@ Chapter Eight sets how a system is evaluated. An evaluation run or chosen by the
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): all four legs, [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight), and [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): affected sentients can raise concerns and challenge the outcome;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the forum that decides answers for its decision in the published System Certification Record;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): no system certifies itself;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): review is finished within set time bounds;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients can trust a certified system;
+    - [Continuity](core_00.000_preamble.md#continuity): independent review keeps flawed systems from becoming part of shared infrastructure;
 - Chapter Two principles:
   - [§6 Trust and Trustworthiness (Coordination Integrity)](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
   - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);

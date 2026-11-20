@@ -115,8 +115,13 @@ Implementation text keeps improving, and adopters adopt it at different times. W
 **Grounded in:**
 
 - Preamble:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the [Participation](subcore_03.060_apex_participation_leg.md#participation), [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight) legs;
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): everyone can tell which text an adopter is bound by;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): an adopter answers for exactly the text it adopted;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the adopted text is published and can be compared with this one;
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): sentients know which protections apply to them;
+    - [Continuity](core_00.000_preamble.md#continuity): a clear record of adoption keeps the text stable over time;
 - Chapter Two principles:
   - [§15.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
   - [§15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer);

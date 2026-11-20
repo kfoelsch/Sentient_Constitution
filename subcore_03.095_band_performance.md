@@ -45,7 +45,9 @@ A system can satisfy each process requirement and still deliver little, or deliv
 **Grounded in:**
 
 - Preamble:
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both, [Flourishing](core_00.000_preamble.md#flourishing) and [Continuity](core_00.000_preamble.md#continuity);
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
+    - [Flourishing](core_00.000_preamble.md#flourishing): outcomes for sentients are what the rules exist to deliver;
+    - [Continuity](core_00.000_preamble.md#continuity): measuring waste protects the time and resources shared systems need;
 - Chapter Two principles:
   - [§9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good);
   - [§9.2 Constitutional Efficiency](core_02.010_values_principles_continuity_aim.md#92-constitutional-efficiency).
