@@ -39,7 +39,7 @@ This page, the *n*-party protocol, the handoff gates, and the joining-rule templ
 
 ## 0. What this is not
 
-This page is **not** [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope). CS-6.350 sequences migration **after** a recorded Chapter Twenty-Nine adoption document. Two-party sitting and the first adoption document fill-in remain in [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). For more than two parties, start here; do not open a second self-application sitting type. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Institutional Charter is not this kit’s joining-rule template and not CS-6.350 phase entry. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-23.405 §2 map is not this kit’s joining-rule template.
+This page is **not** [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope). CS-6.350 sequences migration **after** a recorded Chapter Twenty-Nine adoption document. Two-party sitting and the first adoption document fill-in remain in [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). For more than two parties, start here; do not open a second self-application sitting type. Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A Chapter Five Institutional Charter is not this kit’s joining-rule template and not CS-6.350 phase entry. Founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A CF-23.405 §4 map is not this kit’s joining-rule template.
 
 This kit does **not**:
 
@@ -217,7 +217,7 @@ Full adoption is **not** popularity, *n* operations-guide users, or “everyone 
 
 It is a qualifying body that binds itself and the systems under its authority, with a recorded [Chapter Twenty-Nine §11](../../core_29.000_amendment_ratification.md#11-ratification-and-adoption) adoption document, [Chapter Thirty-One](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority) custody, and a documented [Chapter Twenty-Seven §2.1](../../core_27.000_governance.md#21-mechanism-families-auditability-and-pluralism) legitimacy mechanism. After that adoption document, [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope) sequences migration of **those systems**.
 
-Progress under [Article XXIX-B](../../core_06.040_rights_part_e.md#article-xxix-b-adoption-transition-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties. The operator path to found those institutions is [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A filled Institutional Charter template is not that progress. The operator path to found those forums is [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A filled CF-23.405 §2 template is not that progress.
+Progress under [Article XXIX-B](../../core_06.040_rights_part_e.md#article-xxix-b-adoption-transition-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties. The operator path to found those institutions is [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). A filled Institutional Charter template is not that progress. The operator path to found those forums is [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). A filled CF-23.405 §4 template is not that progress.
 
 CS-6.350 phase names apply only inside that post-adoption-document migration. Do not rename party-count growth as “limited adoption” or “expanded adoption.”
 
@@ -239,7 +239,7 @@ CS-6.350 phase names apply only inside that post-adoption-document migration. Do
 | [`README.md`](README.md) | This folder’s door — process path toward an adoption document, not the adoption document |
 | [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) | Two-party sitting, §10.2 fill-in, scope honesty, dispute bootstrap, non-adoption banner. First adoption document door. |
 | [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md) | Ordinary or constitutional-function institution foundation after this path. Labeled-not-live Chapter Five Institutional Charter fill-in. Not CS-6.350. Not a forum family. |
-| [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation after this path. Labeled-not-live CF-23.405 §2 map fill-in. Not CS-6.350. Not a ceremony forum. |
+| [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation after this path. Labeled-not-live CF-23.405 §4 map fill-in. Not CS-6.350. Not a ceremony forum. |
 | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X* body and cost profile. Not a thinner adoption pack. |
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration design (substeps 1.1–1.2) |
 | [`evaluation/self_application/`](../../evaluation/self_application/) | Invite for each party’s sitting (same sitting; more files) |
@@ -263,5 +263,5 @@ CS-6.350 phase names apply only inside that post-adoption-document migration. Do
 | 2026-08-31 | v0.3 | §2 recast as three substeps matching the first-adopter kit. |
 | 2026-08-31 | v0.4 | Moved under `implementation/adoption/`. Relative links retargeted. Folder door is [`README.md`](README.md). |
 | 2026-08-31 | v0.5 | Pointer to [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Article XXIX-B progress is not a filled Institutional Charter template. |
-| 2026-08-31 | v0.6 | Pointer to [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Article XXIX-B progress is not a filled CF-23.405 §2 template. |
+| 2026-08-31 | v0.6 | Pointer to [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Article XXIX-B progress is not a filled CF-23.405 §4 template. |
 | 2026-09-09 | v0.7 | Pointer to [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md). |

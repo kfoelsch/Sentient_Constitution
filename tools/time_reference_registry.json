@@ -105,6 +105,26 @@
     {
       "name": "gift-threshold review period",
       "owner": "CI-8.210 §4"
+    },
+    {
+      "name": "method-review interval",
+      "owner": "Chapter Eight §11"
+    },
+    {
+      "name": "minutes window",
+      "owner": "Chapter Eight §11"
+    },
+    {
+      "name": "transcript delay",
+      "owner": "Chapter Eight §11"
+    },
+    {
+      "name": "reporting year",
+      "owner": "Chapter Eight §11"
+    },
+    {
+      "name": "pre-release quiet period",
+      "owner": "Chapter Eight §11"
     }
   ],
   "scaled_windows": [

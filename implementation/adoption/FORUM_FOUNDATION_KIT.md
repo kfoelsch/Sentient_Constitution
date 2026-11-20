@@ -32,7 +32,7 @@ This page is the process-support home for naming independent review and founding
 
 *In plain terms: this page sequences independent-review naming and forum-family foundation. It does not form the forum, and it does not adopt the Constitution.*
 
-This page gives cooperating sentients a fill-in path from operations-guide cooperation toward (1) a named independent-review path that is not the cooperating crew, and (2) a published [CF-23.405 §2](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-2-family-to-forum-structure-translation-map) forum-structure map after a qualifying adopter records a Chapter Twenty-Nine adoption document. Binding family inventory, non-collapse, and map fields stay in [CF-23.405](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md). Binding routing stays in [Chapter Twenty-Three](../../core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases).
+This page gives cooperating sentients a fill-in path from operations-guide cooperation toward (1) a named independent-review path that is not the cooperating crew, and (2) a published [CF-23.405 §4](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-4-family-to-forum-structure-translation-map) forum-structure map after a qualifying adopter records a Chapter Twenty-Nine adoption document. Binding family inventory, non-collapse, and map fields stay in [CF-23.405](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md). Binding routing stays in [Chapter Twenty-Three](../../core_23.000_forum.md#chapter-twenty-three-standards-routing-and-forum-cases).
 
 This page, the naming block, the map fill-in, and the non-forum banner **cannot narrow core text**. A filled template that diverges from CF-23.405, Chapter Twenty-Three, Chapter Twenty-Nine §11, or Chapter Thirty-One §4 is not a compliance path.
 
@@ -56,7 +56,7 @@ This kit also does **not**:
   - Using this page is not [Chapter Twenty-Nine §11](../../core_29.000_amendment_ratification.md#11-ratification-and-adoption) adoption.
   - It is not [Chapter Thirty-One](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority) incorporation.
 - **Create a live forum family**
-  - The form in [§6](#6-forum-structure-map-fill-in-not-a-live-map) is a draft. It is not a live CF-23.405 §2 map until the adopting entity publishes it in **its** records.
+  - The form in [§6](#6-forum-structure-map-fill-in-not-a-live-map) is a draft. It is not a live CF-23.405 §4 map until the adopting entity publishes it in **its** records.
   - A shared note, group chat, or “we are the independent review panel now” file does not make you one.
   - Starting useful dispute-handling work does not make the founding group the merits bench ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization)).
 - **Bind people who did not agree, or mint official files**
@@ -81,7 +81,7 @@ First adopters need independent review *before* they can record a valid adoption
 
 | Track | What you are naming or founding | What it still is not | When it can go live |
 |---|---|---|---|
-| **A. Independent-review path** | A published backup, external reviewer, or existing adjudicative body the cooperating crew does not solely staff, so [Chapter Twenty-Nine Procedural Test 4](../../core_29.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) and [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) can be named honestly. | Not a Chapter Twenty-Three forum family. Not a CF-23.405 §2 map. Not independent review if the crew is the only merits path. | Named on a Chapter Twenty-Nine adoption document, or used as operations-guide backup while the parties stay at declarations. First-adopter dispute bootstrap: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md#5-dispute-bootstrap). |
+| **A. Independent-review path** | A published backup, external reviewer, or existing adjudicative body the cooperating crew does not solely staff, so [Chapter Twenty-Nine Procedural Test 4](../../core_29.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity) and [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) can be named honestly. | Not a Chapter Twenty-Three forum family. Not a CF-23.405 §4 map. Not independent review if the crew is the only merits path. | Named on a Chapter Twenty-Nine adoption document, or used as operations-guide backup while the parties stay at declarations. First-adopter dispute bootstrap: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md#5-dispute-bootstrap). |
 | **B. Forum-family formation** | The six Chapter Twenty-Three families as a published [CF-23.405](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md) structure: **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, **Constitutional**, in that order. | Not headcount of cooperating parties. Not the institution kit. Not community governance as a seventh family. Not collapsing families by renaming. | A qualifying adopter already holds a recorded [§11.1–§11.2](../../core_29.000_amendment_ratification.md#111-deliberate-adoption) adoption document. Then the map / staffing / cliff path in this kit. Drafting Track B before an adoption document is scaffolding only. |
 
 **Same duties for both kinds of steward.** [Chapter One §17.1](../../core_01.040_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
@@ -102,7 +102,7 @@ Track A (independent-review path — not a forum family)
 Track B (forum-family formation)
         recorded Chapter Twenty-Nine adoption document (first-adopter / scaling kits)
                 ↓
-        CF-23.405 §2 map + cliffs (this kit)
+        CF-23.405 §4 map + cliffs (this kit)
                 ↓
         live published forum structure in that adopter’s custody
         CF-23.410 panels · CF-23.415 intake · CF-23.470 staffing · CF-23.450–14 continuity
@@ -115,9 +115,9 @@ Track B (forum-family formation)
 The first-adopter kit’s [three substeps](FIRST_ADOPTER_KIT.md#1-three-substeps-do-not-collapse) still apply. Founding a forum family does not merge them, and does not skip them for Track B.
 
 - Fitness screen and own-conduct declaration remain substeps 1.1–1.2. They are not a forum-structure map.
-- A Chapter Twenty-Nine adoption document remains substep 1.3. A live CF-23.405 §2 map is not that adoption document.
+- A Chapter Twenty-Nine adoption document remains substep 1.3. A live CF-23.405 §4 map is not that adoption document.
 - Track A may name independent review without founding families. Track A still cannot claim constitutional protection while dodging matching obligations, bind non-consenters, or treat the cooperating crew as the sole merits path.
-- Track B may not go live without a recorded adoption document. [CF-23.405 §1](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-1-core-structural-rule) binds **adopting entities**.
+- Track B may not go live without a recorded adoption document. [CF-23.405 §3](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-3-core-structural-rule) binds **adopting entities**.
 
 ---
 
@@ -128,7 +128,7 @@ Use this after the parties know which track they are on. Two parties start from 
 1. **Pin the edition.** Name `SC-Corpus-2026.10.21` unless a later publication cut exists. Do not mix editions.
 2. **Name the track.** Independent-review path (Track A) or forum-family formation (Track B). If Track B and there is no recorded adoption document, stop at scaffolding. Attach the [non-forum banner](#10-non-forum-banner).
 3. **If Track A**, fill [§5](#5-independent-review-naming-not-a-forum-family). Copy the completed block into the adoption document or the operations-guide file. Do not relabel it as a forum family.
-4. **If Track B**, name classification honestly. [CF-23.405 §6](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-6-chamber-authority-composition-and-service-mechanics) / [CI-9.210 §3](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-3-delegated-subunits-institutional-design-class-and-attachment-discipline): every Chapter Twenty-Three family, forum, chamber, division, or designated panel takes at least the **Class C** (*coordination dependency*) floor. Do not pick a lower class to dodge burden.
+4. **If Track B**, name classification honestly. [CF-23.405 §8](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-8-chamber-authority-composition-and-service-mechanics) / [CI-9.210 §3](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-3-delegated-subunits-institutional-design-class-and-attachment-discipline): every Chapter Twenty-Three family, forum, chamber, division, or designated panel takes at least the **Class C** (*coordination dependency*) floor. Do not pick a lower class to dodge burden.
 5. **Fill the forum-structure map** in [§6](#6-forum-structure-map-fill-in-not-a-live-map). Copy the completed block into the adopting entity’s custody. Leaving a filled copy in this repo is not publication.
 6. **Apply the [§4](#4-formation-cliffs-not-a-slope) cliffs** before claiming a live forum structure. Fail any cliff → scaffolding only.
 7. **Staff panels, intake, backup, and remedy** as [§7](#7-families-intake-panels-backup-remedy) requires. A paper map with the founding crew in every family is not formation.
@@ -150,12 +150,12 @@ Advancement from a draft to a live forum structure must **not** rest on elapsed 
 | **Track honesty** | Track A as named independent review, or Track B with a recorded Chapter Twenty-Nine adoption document. | Track B claimed with no adoption document. A draft map labeled “we are the forum family now.” Track A relabeled as a Chapter Twenty-Three family. |
 | **Qualifying body (Track B)** | A body that can bind the named scope ([Chapter Thirty-One §4](../../core_31.000_incorporation.md#4-adoption-framing-and-scope-of-authority)) already holds a recorded adoption document. That body holds the map in **its** custody. | Stewards listing themselves as the forum. *n* declarations stapled together. |
 | **Independent review (Track A, and Track B backup)** | A published backup, external reviewer, or existing adjudicative body the founding crew does not solely staff. [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture); [Chapter Twenty-Nine Procedural Test 4](../../core_29.000_amendment_ratification.md#7-test-4--contestability-and-independent-review-validity). Keep [Article XIV-A](../../core_06.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../core_06.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) reachable. | The only merits path is the founding crew. A ceremony “forum” invented to check this box. |
-| **Chapter Twenty-Three inventory (Track B)** | All six families are named, distinct, and in Chapter Twenty-Three §3 table order. [CF-23.405 §1](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-1-core-structural-rule). If this kit and CF-23.405 disagree, CF-23.405 wins. | Five families plus a merged leftover. A seventh “community” or “intake” family. Local titles used to erase a family. |
-| **Non-collapse (Track B)** | Shared clerks, buildings, or software still leave separate intake, panels where applicable, and appeal or review paths per family. [CF-23.405 §3](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-3-family-distinction-and-non-collapse-rule). | One family treated as a chamber of another so independent routing, review, or remedy disappears. Emergency or caseload used as a standing merger. |
-| **Forum-structure map (Track B)** | Published fields matching [CF-23.405 §2](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-2-family-to-forum-structure-translation-map). | Mission slogan, org-chart names, or a filled template left in `implementation/adoption/`. |
+| **Chapter Twenty-Three inventory (Track B)** | All six families are named, distinct, and in Chapter Twenty-Three §3 table order. [CF-23.405 §3](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-3-core-structural-rule). If this kit and CF-23.405 disagree, CF-23.405 wins. | Five families plus a merged leftover. A seventh “community” or “intake” family. Local titles used to erase a family. |
+| **Non-collapse (Track B)** | Shared clerks, buildings, or software still leave separate intake, panels where applicable, and appeal or review paths per family. [CF-23.405 §5](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-5-family-distinction-and-non-collapse-rule). | One family treated as a chamber of another so independent routing, review, or remedy disappears. Emergency or caseload used as a standing merger. |
+| **Forum-structure map (Track B)** | Published fields matching [CF-23.405 §4](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-4-family-to-forum-structure-translation-map). | Mission slogan, org-chart names, or a filled template left in `implementation/adoption/`. |
 | **Intake desks are not families** | Each required family has an intake triage body (or functional equivalent) that sorts; it does not decide merits. [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-default-venue-and-primary-stakes); [CF-23.415](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md). | First-touch desk used as a seventh family or as the merits bench. |
 | **Anti-self-judging backup (Track B)** | Each family’s own-bias, capture, conflict, recusal-failure, concealment, or process-abuse claims have a named lead that is not that same family as sole final merits home. Assignment stays in [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture). Family-level capture backup is not controlled by the captured family. | Intra-family appeal offered as the only path when the accusation is that the family itself is captured. |
-| **Staffing, not paper (Track B)** | Enough adjudicators to form lawful [CF-23.410](../../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md) panels without routine dependence on the same small recurring bench for all matters; clerical and accessibility support; reserve under [CF-23.470](../../corpus_forum/cf_23.470_staffing_reserve_capacity_structural_records.md). [CF-23.405 §4](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-4-minimum-structural-availability-by-family). | Names on a chart with no one who can actually sit. |
+| **Staffing, not paper (Track B)** | Enough adjudicators to form lawful [CF-23.410](../../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md) panels without routine dependence on the same small recurring bench for all matters; clerical and accessibility support; reserve under [CF-23.470](../../corpus_forum/cf_23.470_staffing_reserve_capacity_structural_records.md). [CF-23.405 §6](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-6-minimum-structural-availability-by-family). | Names on a chart with no one who can actually sit. |
 | **Appointment independence (Track B)** | **Integrity**, **Constitutional**, and **Environment** forums, and **Technical Forum Domains** when they hear sentience-status adjudication, use published, contested, rotatable appointment or an equivalent independence check ([Chapter Twenty-Three §3](../../core_23.000_forum.md#3-default-venue-and-primary-stakes); [Chapter Twenty-Seven §2.2](../../core_27.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums)). | Founding crew self-appointment to those benches. |
 | **Remedy capacity** | Practical capacity to deliver challenge and redress ([Chapter Twenty §4](../../core_20.000_final_effect_restoration_enforcement.md#4-enforcement-realism-and-remedy-systems)). | Named routes with no capacity. |
 | **No self-appointment** | Effects that bind others, certify, or decide merits use the separate lawful authority assigned by this Constitution ([Chapter One §17.4](../../core_01.040_stewardship_capacity_principles.md#174-aligned-self-organization)). | “We founded it, so we hear it.” |
@@ -170,8 +170,8 @@ FORMATION CHECK (complete before claiming a live forum structure)
 [ ] Independent review is not solely the founding crew.
 [ ] Track B only: a qualifying adopter holds the map in its custody.
 [ ] Track B only: all six Chapter Twenty-Three families are distinct, in table order.
-[ ] Track B only: shared plumbing has not collapsed family function (CF-23.405 §3).
-[ ] Track B only: CF-23.405 §2 map fields match CF-23.405 (CF-23.405 wins on conflict).
+[ ] Track B only: shared plumbing has not collapsed family function (CF-23.405 §5).
+[ ] Track B only: CF-23.405 §4 map fields match CF-23.405 (CF-23.405 wins on conflict).
 [ ] Track B only: intake desks sort; they do not sit as a seventh family
     or as the merits bench.
 [ ] Track B only: each family’s own-integrity claims have a named backup
@@ -203,7 +203,7 @@ The added fields below help test the proposed route; they do not grant authority
 NOT-LIVE BANNER
 This block is a process-support template.
 It is not a Chapter Twenty-Three forum family.
-It is not a CF-23.405 §2 forum-structure map.
+It is not a CF-23.405 §4 forum-structure map.
 It is not a Chapter Twenty-Nine adoption document.
 It is not a Chapter Five Institutional Charter.
 It is not CS-6.350 phase entry.
@@ -256,12 +256,12 @@ If this box cannot be completed honestly, stop: operations-guide plus declaratio
 
 ## 6. Forum-structure map fill-in (not a live map)
 
-**This block becomes a CF-23.405 §2 map only when the adopting entity completes it and publishes it in that body’s custody.** Copy it out of this repo. Leaving a filled copy here is not publication. If any field below disagrees with [CF-23.405 §2](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-2-family-to-forum-structure-translation-map), CF-23.405 §2 wins. Family order and names follow [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-default-venue-and-primary-stakes) and [CF-23.405 §1](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-1-core-structural-rule). Local titles may differ; function must not.
+**This block becomes a CF-23.405 §4 map only when the adopting entity completes it and publishes it in that body’s custody.** Copy it out of this repo. Leaving a filled copy here is not publication. If any field below disagrees with [CF-23.405 §4](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-4-family-to-forum-structure-translation-map), CF-23.405 §4 wins. Family order and names follow [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-default-venue-and-primary-stakes) and [CF-23.405 §3](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-3-core-structural-rule). Local titles may differ; function must not.
 
 ```text
 NOT-LIVE BANNER
 This block is a process-support template.
-It is not a published CF-23.405 §2 forum-structure map.
+It is not a published CF-23.405 §4 forum-structure map.
 It is not a Chapter Twenty-Three forum family.
 It is not a Chapter Twenty-Nine adoption document.
 It is not a Chapter Five Institutional Charter.
@@ -273,7 +273,7 @@ Track: B forum-family formation
 Recorded Chapter Twenty-Nine adoption document (where it lives):
 Adopting entity (legal or network identity):
 Classification minimum: Class C for every family / chamber
-  (CI-9.210 §3 / CF-23.405 §6). Higher class if governed scope requires it:
+  (CI-9.210 §3 / CF-23.405 §8). Higher class if governed scope requires it:
 
 For each family below, local titles may differ; the constitutional
 family name stays. Do not add a seventh family.
@@ -361,16 +361,16 @@ This map binds:
 This map does not bind:
 ```
 
-**Chamber-creation add-on (still not live).** If a family will create an internal chamber, division, or designated panel, the creating document must also state the [CF-23.405 §5](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-5-chamber-creation-identification-and-family-boundary) / [CF-23.405 §6](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-6-chamber-authority-composition-and-service-mechanics) fields: family it sits in, subject-matter scope, competence profile, institutional design class, attachment-publication, and how chamber rulings are reviewed ([CF-23.405 §7](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-7-chamber-appeals-review-and-routing-limits)). A chamber never outranks its family boundary. Specialist chambers also read [CF-23.405 §8](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-8-specialist-and-technical-chamber-discipline) and [CF-23.440](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md). Do not use a chamber to relabel one family as another.
+**Chamber-creation add-on (still not live).** If a family will create an internal chamber, division, or designated panel, the creating document must also state the [CF-23.405 §7](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-7-chamber-creation-identification-and-family-boundary) / [CF-23.405 §8](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-8-chamber-authority-composition-and-service-mechanics) fields: family it sits in, subject-matter scope, competence profile, institutional design class, attachment-publication, and how chamber rulings are reviewed ([CF-23.405 §9](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-9-chamber-appeals-review-and-routing-limits)). A chamber never outranks its family boundary. Specialist chambers also read [CF-23.405 §10](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-10-specialist-and-technical-chamber-discipline) and [CF-23.440](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md). Do not use a chamber to relabel one family as another.
 
 ```text
-CHAMBER-CREATION DRAFT (not a live adoption document; CF-23.405 §5 wins on conflict)
+CHAMBER-CREATION DRAFT (not a live adoption document; CF-23.405 §7 wins on conflict)
 Family this chamber sits in:
 Subject-matter scope:
 Competence profile:
 Institutional design class (Class C minimum; A or B if scope requires):
 How chamber rulings are reviewed:
-Why family-level handling is not enough (CF-23.405 §8, if specialist):
+Why family-level handling is not enough (CF-23.405 §10, if specialist):
 This chamber is not a separate constitutional forum family.
   [ ] acknowledged
 ```
@@ -383,14 +383,14 @@ Do not restate CF or Chapter Twenty-Three. Use the owner files. This section is 
 
 | Duty | Owner | Founding-crew check |
 |---|---|---|
-| Six distinct families, same order as the default venue table | [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-default-venue-and-primary-stakes) / [Chapter Twenty-Four §2 Forum Family Definitions](../../core_24.000_forum_families_escalation_timeliness_support.md#2-forum-family-definitions--accountability-through-adjudication); [CF-23.405 §1](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-1-core-structural-rule) | Name all six. Do not add a seventh. Local titles may differ; function must not. |
-| Non-collapse | [CF-23.405 §3](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-3-family-distinction-and-non-collapse-rule) | Shared plumbing is allowed. Merged function is not. |
-| Published map | [CF-23.405 §2](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-2-family-to-forum-structure-translation-map) | Filers can tell which body handles what. |
+| Six distinct families, same order as the default venue table | [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-default-venue-and-primary-stakes) / [Chapter Twenty-Four §2 Forum Family Definitions](../../core_24.000_forum_families_escalation_timeliness_support.md#2-forum-family-definitions--accountability-through-adjudication); [CF-23.405 §3](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-3-core-structural-rule) | Name all six. Do not add a seventh. Local titles may differ; function must not. |
+| Non-collapse | [CF-23.405 §5](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-5-family-distinction-and-non-collapse-rule) | Shared plumbing is allowed. Merged function is not. |
+| Published map | [CF-23.405 §4](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-4-family-to-forum-structure-translation-map) | Filers can tell which body handles what. |
 | Intake triage body | [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-default-venue-and-primary-stakes); [CF-23.415](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md) | First-touch desk sorts; it does not decide merits or become a family. |
 | Lawful panels | [CF-23.410](../../corpus_forum/cf_23.410_panel_formation_disclosure_recusal_bench_constitution.md) | Disclosure, recusal, and bench constitution are published. A named crew is not a panel. |
-| Chamber authority | [CF-23.405 §5](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-5-chamber-creation-identification-and-family-boundary)–[CF-23.405 §8](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-8-specialist-and-technical-chamber-discipline); **CJS-31.110 §1**; [CI-9.210 §3](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-3-delegated-subunits-institutional-design-class-and-attachment-discipline) | Class C minimum. Attachment published. Chamber stays inside its family. |
+| Chamber authority | [CF-23.405 §7](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-7-chamber-creation-identification-and-family-boundary)–[CF-23.405 §10](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-10-specialist-and-technical-chamber-discipline); **CJS-31.110 §1**; [CI-9.210 §3](../../corpus_institutions/ci_09.210_classification_linked_institutional_obligations.md#ci-9210-3-delegated-subunits-institutional-design-class-and-attachment-discipline) | Class C minimum. Attachment published. Chamber stays inside its family. |
 | Anti-self-judging and capture backup | [Chapter Twenty-Three §5](../../core_23.000_forum.md#5-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture); [CF-23.425](../../corpus_forum/cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md) | Own-integrity claims leave that family as sole final merits home. Captured family does not control restoration. |
-| Staffing and reserve | [CF-23.470](../../corpus_forum/cf_23.470_staffing_reserve_capacity_structural_records.md); [CF-23.405 §4](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-4-minimum-structural-availability-by-family) | Enough people to sit without one recurring bench hearing everything. |
+| Staffing and reserve | [CF-23.470](../../corpus_forum/cf_23.470_staffing_reserve_capacity_structural_records.md); [CF-23.405 §6](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-6-minimum-structural-availability-by-family) | Enough people to sit without one recurring bench hearing everything. |
 | Appointment independence | [Chapter Twenty-Three §3](../../core_23.000_forum.md#3-default-venue-and-primary-stakes); [Chapter Twenty-Seven §2.2](../../core_27.000_governance.md#22-eligibility-contested-selection-and-democratic-minimums); [CI-27.205](../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md) | Integrity, Constitutional, Environment, and Technical-on-sentience-status are not founding-crew self-appointment. |
 | Appeal and exhaustion | [CF-23.420](../../corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md) | Articles XIV-A and XIV-B remain reachable. |
 | Continuity under stress | [CF-23.450](../../corpus_forum/cf_23.450_forum_continuity.md); [CF-23.455](../../corpus_forum/cf_23.455_fallback_operation.md); [CF-23.460](../../corpus_forum/cf_23.460_emergency_adjudication.md) | Fallback is named. Emergency is not a standing family merger. |
@@ -411,12 +411,12 @@ Community governance bodies themselves are not a forum family. Their records bec
 
 ## 9. After a live map
 
-A live CF-23.405 §2 map is still not Chapter Twenty-Nine adoption, not CS-6.350 phase entry, and not certification. It is also not a Standing Record.
+A live CF-23.405 §4 map is still not Chapter Twenty-Nine adoption, not CS-6.350 phase entry, and not certification. It is also not a Standing Record.
 
 - **Routing, transfer, certification, and representative treatment** use [CF-23.415](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md). The map names the desks; CF-23.415 runs them.
 - **Appeal and exhaustion** use [CF-23.420](../../corpus_forum/cf_23.420_appeal_secondary_review_exhaustion_pathways.md).
 - **Integrity operations** while a matter is live use [CF-23.425](../../corpus_forum/cf_23.425_integrity_safeguards_anti_capture_anti_self_judging.md).
-- **Continuity, fallback, and emergency adjudication** use [CF-23.450](../../corpus_forum/cf_23.450_forum_continuity.md), [CF-23.455](../../corpus_forum/cf_23.455_fallback_operation.md), and [CF-23.460](../../corpus_forum/cf_23.460_emergency_adjudication.md). Emergency is not a standing justification for family merger ([CF-23.405 §3](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-3-family-distinction-and-non-collapse-rule)).
+- **Continuity, fallback, and emergency adjudication** use [CF-23.450](../../corpus_forum/cf_23.450_forum_continuity.md), [CF-23.455](../../corpus_forum/cf_23.455_fallback_operation.md), and [CF-23.460](../../corpus_forum/cf_23.460_emergency_adjudication.md). Emergency is not a standing justification for family merger ([CF-23.405 §5](../../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-5-family-distinction-and-non-collapse-rule)).
 - **Systems under a recorded adoption document** migrate under [CS-6.350](../../corpus_systems/cs_06.350_adoption_transition_constitution_migration_governance.md#cs-6350-1-purpose-role-and-scope). Do not reuse CS-6.350 phase names as a metaphor for “we stood up a panel.”
 - **Progress** under [Article XXIX-B](../../core_06.040_rights_part_e.md#article-xxix-b-adoption-transition-authority-limits-and-reauthorization) is shrinking interim authority and increasing functionality of constitutional institutions and processes — forums, standing and challenge routes, amendment and oversight machinery — not headcount of cooperating parties, and not the number of filled templates.
 
@@ -424,7 +424,7 @@ A live CF-23.405 §2 map is still not Chapter Twenty-Nine adoption, not CS-6.350
 
 ## 10. Non-forum banner
 
-Attach this to any working-group note, draft org chart, or “we are founding a forum” file that is **not** a published CF-23.405 §2 map in the adopting entity’s custody.
+Attach this to any working-group note, draft org chart, or “we are founding a forum” file that is **not** a published CF-23.405 §4 map in the adopting entity’s custody.
 
 ```text
 NON-FORUM BANNER
@@ -432,7 +432,7 @@ Corpus edition pin: SC-Corpus-2026.10.21
 Date:
 
 This file is formation scaffolding and/or operations-guide cooperation.
-It is not a published CF-23.405 §2 forum-structure map.
+It is not a published CF-23.405 §4 forum-structure map.
 It is not a Chapter Twenty-Three forum family.
 It is not a Chapter Five Institutional Charter under CI-8.205 §6.
 It is not a Chapter Twenty-Nine §11 adoption document.
@@ -454,7 +454,7 @@ If the file is also not a Chapter Twenty-Nine adoption document, attach the firs
 
 ## 11. Honest statements (copy if they are true)
 
-1. **Scaffolding.** We are drafting a forum-structure map or naming an independent-review path. We will not treat this markdown as a Chapter Twenty-Three forum family, as a CF-23.405 §2 map, as a Institutional Charter, or as appointment to a merits bench.
+1. **Scaffolding.** We are drafting a forum-structure map or naming an independent-review path. We will not treat this markdown as a Chapter Twenty-Three forum family, as a CF-23.405 §4 map, as a Institutional Charter, or as appointment to a merits bench.
 2. **Track A.** We are naming a published backup, external reviewer, or existing adjudicative body we do not solely staff. We will not relabel it as a forum family, and we will not claim adoption if this path is only us.
 3. **Track B.** A qualifying adopter already holds a recorded Chapter Twenty-Nine adoption document. We are founding the six Chapter Twenty-Three families under that adoption document — not as a substitute for it, and not by collapsing families or inventing a seventh.
 4. **Stop.** We cannot name independent review outside the founding crew, or we cannot bind the named scope. Scaffolding plus banners only.
@@ -492,5 +492,5 @@ If the file is also not a Chapter Twenty-Nine adoption document, attach the firs
 
 | Date | Version | Note |
 |---|---|---|
-| 2026-08-31 | v0.1 | Initial process-support kit: two tracks (independent-review path vs forum-family formation), formation cliffs, labeled-not-live independent-review naming and CF-23.405 §2 map fill-in, non-forum banner. Not CF-23.405. Not Chapter Twenty-Three. Not CI-8.205 §6. Not CS-6.350. Not Chapter Twenty-Nine adoption. |
+| 2026-08-31 | v0.1 | Initial process-support kit: two tracks (independent-review path vs forum-family formation), formation cliffs, labeled-not-live independent-review naming and CF-23.405 §4 map fill-in, non-forum banner. Not CF-23.405. Not Chapter Twenty-Three. Not CI-8.205 §6. Not CS-6.350. Not Chapter Twenty-Nine adoption. |
 | 2026-09-09 | v0.2 | Pointer to [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md). |

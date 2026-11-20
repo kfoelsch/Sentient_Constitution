@@ -16,12 +16,12 @@ against the live text; they will be rewritten when the chapter is placed.
 > 3. **Wellbeing and business revenue.** The draft makes the office the disbursing and accounting office for programs the governing authority funds, not their policy owner (§7). Alternative: leave those programs out of this chapter entirely.
 > 4. **Challenge venue.** Funding disputes go to Integrity forums, with backup routing when an Integrity forum is itself a claimant (§10).
 > 5. **Reserve fund size (§11).** The default target is one quarter of the sum of the floors for a cycle. Alternative: a larger target for adopters whose revenue swings widely, or a target set by a published risk test.
-> 6. **Currency and bonds.** Settled by the custodian (2026-11-19): this office does not issue currency or borrow. A separate Public Monetary Office holds both powers; see the draft [public_monetary_office_draft_2026-11-19.md](public_monetary_office_draft_2026-11-19.md).
+> 6. **Currency and bonds.** Settled by the custodian (2026-11-19, refined 2026-11-20): this office does not issue currency or borrow. The Public Monetary Office issues currency ([draft](public_monetary_office_draft_2026-11-19.md)) and a separate Public Debt Office issues and manages public debt ([draft](public_debt_office_draft_2026-11-20.md)).
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.md#222-incentives-and-non-substitution) sends "system-wide budgets, cross-cutting research funding, and governance-scale programs" to Chapter Twenty-Seven and CS-6.335. That pointer would name this chapter instead.
 > - [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) ("ordinary appropriations controls") would name this chapter's research reserve (§6).
-> - [CI-25.210 §1](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-1-capacity-funding-and-succession) "funding source" would accept the office as the named source.
+> - [CI-25.210 §3](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-3-capacity-funding-and-succession) "funding source" would accept the office as the named source.
 > - [CF-23.415 §8](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-8-integrity-registrar) (Integrity registrar) would receive this office's audits.
 > - [Chapter Twenty §4.2](../../core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability) keeps forums answerable for their own adequacy; this chapter supplies the money path, not a new answerable party.
 > - A new corpus-institutions file would hold the formula, reserve sizes, and ledger fields.
@@ -64,7 +64,7 @@ Chapter [F] is the constitutional owner of **public funding of the constitutiona
 - Read with:
   - [CS-6.335](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*);
   - **CI-6.210** (*Public revenue, fees, recurring charges, and billing integrity*) and **CI-6.215** (*Resource stewardship and incentive integrity*);
-  - [CI-25.210 §1](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-1-capacity-funding-and-succession) (*Capacity, Funding, and Succession*);
+  - [CI-25.210 §3](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-3-capacity-funding-and-succession) (*Capacity, Funding, and Succession*);
   - **CF-23.415 §8** (*Integrity Registrar*) and **CF-23.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
 
 </details>
@@ -81,7 +81,7 @@ Chapter [F] is the constitutional owner of **public funding of the constitutiona
 - [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.md#222-incentives-and-non-substitution) bars payoffs and cost rules from replacing proper routing or a real merits decision. This chapter applies that bar to funding.
 - [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the total budget under §4.
 - The Public Information Office chapter runs forum-requested research and checks this office's figures. This office pays for that work and does not direct it.
-- The Public Monetary Office chapter issues currency and public debt. This office may not issue currency or borrow, and the Public Monetary Office may not decide spending.
+- The Public Monetary Office chapter issues currency, and the Public Debt Office chapter issues and manages public debt. This office may not issue currency or borrow, and neither of those offices may decide spending.
 - A later corpus-institutions file carries the formula, reserve sizes, and ledger fields. It may not narrow this chapter.
 
 **Chapter scope:** The office holds, allocates, disburses, and accounts for public money for:
@@ -164,8 +164,9 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 **Independent Body:** The Public Finance Office is an Independent Body under [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of every forum family and body it funds, of the governing authority except for the budget-setting powers this chapter names and the duty to run the appointment draw, and of the Public Information Office;
-- the protected decision-makers are the members of its funding board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass the board's competency gate, which tests public accounting, budgeting, and audit skill; and
-- its own funding is protected under *Protected funding* in Chapter Eight §11, as §9 applies it.
+- the protected decision-makers are the members of its funding board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass the board's competency gate, which tests public accounting, budgeting, and audit skill;
+- its own funding is protected under *Protected funding* in Chapter Eight §11, as §9 applies it; and
+- where its accounts for the business activity under §7 can move asset prices, *Market-moving information* in Chapter Eight §11 applies to that work in full.
 
 **Seat map:** Every materially binding funding act places the four seats as follows:
 
@@ -341,7 +342,7 @@ The *Protected funding* requirement of [Chapter Eight §11](../../core_08.000_fu
 
 **General rule.** The *Shortfalls* requirement of *Protected funding* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies to every Independent Body this office pays. This section applies it to them and extends it to every other body with a §4 floor.
 
-When actual revenue falls below the sum of the floors, the office must, under that rule:
+When actual revenue falls below the sum of the floors, payments on public debt already lawfully issued are made first, as the Public Debt Office chapter requires. The office must then, under that rule:
 
 - publish the shortfall and its cause;
 - draw each affected body's share of the §11 reserve fund before reducing its floor;
@@ -359,4 +360,4 @@ A shortfall does not excuse a forum's tier milestones. It is a fact the forum ma
 
 *In plain terms: a small community does not need a ministry. It still needs the money to be counted by someone other than the person spending it.*
 
-The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies, including sharing buildings, clerks, and systems under **CF-23.470 §5**. For this office, it also means that even when hosting is merged, the Public Finance Office, the Public Information Office, and the Public Monetary Office keep separate decision-makers.
+The *Scaling* rule in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies) applies, including sharing buildings, clerks, and systems under **CF-23.470 §5**. For this office, it also means that even when hosting is merged, the Public Finance Office, the Public Information Office, the Public Monetary Office, and the Public Debt Office keep separate decision-makers, except that a small adopter may host this office with the Public Debt Office as that chapter allows.

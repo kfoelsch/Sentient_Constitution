@@ -105,7 +105,7 @@ The shared operational cluster library starts at [CJS-5.105](cjs_05.105_cross_im
   - **CJS-31.110 §1.2** (*Attachment publication*);
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Three families)*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*).
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Three families)*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-23.405 §7** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.405 §10** (*Specialist and Technical Chamber Discipline*).
 
 </details>
 
@@ -125,7 +125,7 @@ A hybrid design that names home and rotating roles but omits **CJS-31.110 §1.2*
 **Who this covers:**
 
 - **Institution decision bodies** — committees, divisions, and similar bodies below a parent institution that make binding decisions, within the **Class C and above** applicability of **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*). Owner detail: **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*). Router topic: **CJS-R01** in **CJS-0.105 §1** (*Cross-File Routing*).
-- **Forum chambers and panels** — chambers, divisions, and designated panels under **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*) through **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*). Router topic: **CJS-R02** in **CJS-0.105 §1** (*Cross-File Routing*). The **Class C** institutional design minimum in **CF-23.405 §6** (*Chamber Authority Composition and Service Mechanics*) applies even where other governed systems are below Class C.
+- **Forum chambers and panels** — chambers, divisions, and designated panels under **CF-23.405 §7** (*Chamber Creation, Identification, and Family Boundary*) through **CF-23.405 §10** (*Specialist and Technical Chamber Discipline*). Router topic: **CJS-R02** in **CJS-0.105 §1** (*Cross-File Routing*). The **Class C** institutional design minimum in **CF-23.405 §8** (*Chamber Authority Composition and Service Mechanics*) applies even where other governed systems are below Class C.
 
 **The hybrid mix required:**
 
@@ -155,7 +155,7 @@ Where **CJS-31.110 §1** (*Hybrid Delegated Authority (Delegated Binding Bodies)
 - a bounded formula for rotating attachment that rotating authorities can understand before service;
 - no undefined discretion over how long rotating attachment lasts;
 - term, renewal, or stagger rules for home-based continuity; and
-- any class-, forum-, institution-, emergency-, or substitution-specific safeguards required by **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*), **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.450** (*Forum continuity*), **CF-23.455** (*Fallback operation*), **CF-23.460** (*Emergency adjudication*), or related hooks.
+- any class-, forum-, institution-, emergency-, or substitution-specific safeguards required by **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*), **CF-23.405 §7** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.450** (*Forum continuity*), **CF-23.455** (*Fallback operation*), **CF-23.460** (*Emergency adjudication*), or related hooks.
 
 In everyday reading: publish how long rotating members serve, how home-member terms work, and that those lengths are not changed in secret. Sample formulas are illustrations unless a **primary owner** makes them mandatory. Home-based term rules do not need to copy rotating attachment rules.
 
@@ -250,7 +250,7 @@ The constitutional requirements for authorized roles, competency, and succession
 
 - Read with: **CJS-31.110 §5** (*Shared Procedural Abstractions for Delegated Bodies and Forum Routing*); **CJS-5.105 §0** (*Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface*).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
-- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Three families)*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-23.405 §5** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.405 §8** (*Specialist and Technical Chamber Discipline*).
+- Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Three families)*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-23.405 §7** (*Chamber Creation, Identification, and Family Boundary*), **CF-23.405 §10** (*Specialist and Technical Chamber Discipline*).
 - Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to-form*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-23.410** (*Panel formation, disclosure, recusal, and lawful bench constitution*).
 - Topic routing (mandatory read-with): **CJS-R04** (*Routing, intake, transfer, questions for ruling, representative treatment*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-23.415** (*Routing operations, transfer, questions for ruling, and representative treatment*).
 
@@ -278,7 +278,7 @@ Before applying these procedural role terms, apply the role-definition preface i
 
 For **CI-9.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*), a **delegated subunit** is the institutional application of **Delegated binding body**: a standing or recurring internal body — a division, chamber, committee, designated panel, or regional or functional office with decision rights — that exercises materially binding delegated authority for the parent institution and is not the institution's sole governing plenary.
 
-Forum-specific detail, including forum families, routing, appeals, and specialist chamber doctrine, remains in [**CF-23.405**](../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*) and related **CF** sections. Where **CF-23.405 §6** (*Chamber Authority Composition and Service Mechanics*) states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Twenty-Three** forums. Where **CI** and **CF** obligations overlap, the clearly adopted rule with the [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) governs under [Chapter One §15.4.3 Incorporation Layer](../core_01.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
+Forum-specific detail, including forum families, routing, appeals, and specialist chamber doctrine, remains in [**CF-23.405**](../corpus_forum/cf_23.405_forum_formation_chamber_structure.md#cf-23405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*) and related **CF** sections. Where **CF-23.405 §8** (*Chamber Authority Composition and Service Mechanics*) states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Twenty-Three** forums. Where **CI** and **CF** obligations overlap, the clearly adopted rule with the [Fullest Protective Effect](../core_05.045_band_integrative.md#fullest-protective-effect) governs under [Chapter One §15.4.3 Incorporation Layer](../core_01.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
 
 It is non-compliant to treat a body or route as valid if the official records do not make lawful authority, independence safeguards, backup routes, and contest routes auditable where they materially apply.
 
