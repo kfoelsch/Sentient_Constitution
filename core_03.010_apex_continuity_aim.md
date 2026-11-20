@@ -33,7 +33,7 @@
   - [material stake](core_00.000_preamble.md#material-stake) requires fails **Continuity**, even if near-term outputs go up),
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) scaled to
   - [material stake](core_00.000_preamble.md#material-stake) (how Continuity stays legitimate — not a fifth building block), Continuity measurement family, and
-  - [Chapter Three alphabetical directory](core_03.000_definitions_home.md#chapter-three-alphabetical-directory-non-operative) (3.000).
+  - [Chapter Three alphabetical directory](core_03.000_definitions_home.md#definitions-a-z) (3.000).
 
 </details>
 

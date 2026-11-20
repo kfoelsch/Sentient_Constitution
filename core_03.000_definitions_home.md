@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Three, Part A** — reader guidance, Independent Definitions meta rules, dependent-cluster rules, alphabetical directory, and the constitutional compass.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Three, Part A** — reader guidance, the rules for independent definitions and dependent clusters, the constitutional compass with its alphabetical directory, and two complete definitions as examples.
 
 </details>
 
@@ -45,7 +45,7 @@ Two rules govern how another chapter meets a Chapter Three definition once it in
 - the canonical home and non-duplication rule (**section 2**);
 - the rules for independent definitions (**section 3**) and for dependent clusters (**section 4**);
 - how definitions and proof work, stated in one line for each guarantee, with the full rules in the chapter's subcore files (**section 5**);
-- the alphabetical directory and the compass and definition map, which say where each definition is found; and
+- the compass and definition map, with its alphabetical directory, which says where each definition is found; and
 - two complete definitions, one independent definition and one dependent cluster, shown in full as examples of the structure every definition has (**section 6**, which closes the chapter).
 
 Chapter Three is the overview; the full text sits in its subcore files:
@@ -193,13 +193,59 @@ Each subcore file gives the full rule. None of them may narrow a line in this se
 
 ---
 
-<a id="chapter-three-alphabetical-directory"></a>
+### Chapter Three Compass and Definition Map
+<a id="chapter-three-compass-and-definition-map"></a>
 
-### Chapter Three Alphabetical Directory (Non-Operative)
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream:
+  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
+  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
+  - [material stake](core_00.000_preamble.md#material-stake);
+  - [Preamble §2 Measurements Overview](core_00.000_preamble.md#2-measurements-overview).
+- Downstream: constitutional orientation for all Chapter Three band definitions and **Def.** dependent clusters.
+- Read with:
+  - [Independent Definitions](core_03.000_definitions_home.md#3-independent-definitions),
+  - [§3.1 Invocation, Satisfaction, and Compliance](core_03.000_definitions_home.md#31-invocation-satisfaction-and-compliance),
+  - [§4.1 Joint Invocation and Satisfaction](core_03.000_definitions_home.md#41-joint-invocation-and-satisfaction), and
+  - [§4.2 Standalone Definitions Interaction and Full Context](core_03.000_definitions_home.md#42-standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
+
+</details>
+
+<br>
+
+*In plain terms: Chapter Three is sorted by the two aims and the four Tetrad legs. The first table lists the apex files, one for each aim and leg; the second lists the band files, where the definitions themselves live; and the alphabetical directory lists every definition by name.*
+
+Chapter Three definitions are sorted by the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad).
+
+**Apex files.** Each apex file holds the head definition of one aim or leg, the map of how it breaks down into band definitions, and its measurement family.
+
+| Aim or leg | Kind | File |
+|---|---|---|
+| **Accountability** | Tetrad leg | [core_03.005_apex_accountability_leg.md](core_03.005_apex_accountability_leg.md) |
+| **Continuity** | Constitutional aim | [core_03.010_apex_continuity_aim.md](core_03.010_apex_continuity_aim.md) |
+| **Flourishing** | Constitutional aim | [core_03.015_apex_flourishing_aim.md](core_03.015_apex_flourishing_aim.md) |
+| **Oversight** | Tetrad leg | [core_03.020_apex_oversight_leg.md](core_03.020_apex_oversight_leg.md) |
+| **Participation** | Tetrad leg | [core_03.025_apex_participation_leg.md](core_03.025_apex_participation_leg.md) |
+| **Timeliness** | Tetrad leg | [core_03.030_apex_timeliness_leg.md](core_03.030_apex_timeliness_leg.md) |
+
+**Band files.** Each band file holds full definitions: independent terms, semi-independent terms, and dependent clusters.
+
+| Band | File | **Def.** cluster range |
+|---|---|---|
+| **Accountability** | [core_03.035_band_accountability.md](core_03.035_band_accountability.md) | **Def.A1–Def.A4** |
+| **Continuity** | [core_03.040_band_continuity.md](core_03.040_band_continuity.md) | **Def.C1–Def.C4** |
+| **Integrative** (cross-leg) | [subcore_03.045_band_integrative.md](subcore_03.045_band_integrative.md) (Subcore 3-D) | **Def.I1** |
+| **Oversight** | [core_03.050_band_oversight.md](core_03.050_band_oversight.md) | **Def.O1–Def.O2** |
+| **Participation** | [core_03.055_band_participation.md](core_03.055_band_participation.md) | **Def.P1–Def.P4** |
+| **Constitutional Performance** | [core_03.060_band_performance.md](core_03.060_band_performance.md) | none; holds only the measurement family, and its terms are in the Continuity band |
+
+The two aims and the Timeliness leg have no band file of their own. Their terms sit in the band files above, and each one's apex file maps where.
 
 ---
 
-*In plain terms: this is a searchable list of definition names. It points; it does not change what those names mean.*
+The alphabetical directory below is a searchable list of every definition and cluster name. It points; it does not change what those names mean.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Alphabetical directory: definitions and clusters</span></strong></summary>
@@ -561,58 +607,6 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 </details>
 
 <br>
-
----
-
-### Chapter Three Compass and Definition Map
-<a id="chapter-three-compass-and-definition-map"></a>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Upstream:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
-  - [material stake](core_00.000_preamble.md#material-stake);
-  - [Preamble §2 Measurements Overview](core_00.000_preamble.md#2-measurements-overview).
-- Downstream: constitutional orientation for all Chapter Three band definitions and **Def.** dependent clusters.
-- Read with:
-  - [Independent Definitions](core_03.000_definitions_home.md#3-independent-definitions),
-  - [§3.1 Invocation, Satisfaction, and Compliance](core_03.000_definitions_home.md#31-invocation-satisfaction-and-compliance),
-  - [§4.1 Joint Invocation and Satisfaction](core_03.000_definitions_home.md#41-joint-invocation-and-satisfaction), and
-  - [§4.2 Standalone Definitions Interaction and Full Context](core_03.000_definitions_home.md#42-standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
-
-</details>
-
-<br>
-
-*In plain terms: Chapter Three is sorted by the two aims and the four Tetrad legs. The first table lists the apex files, one for each aim and leg; the second lists the band files, where the definitions themselves live.*
-
-Chapter Three definitions are sorted by the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad).
-
-**Apex files.** Each apex file holds the head definition of one aim or leg, the map of how it breaks down into band definitions, and its measurement family.
-
-| Aim or leg | Kind | File |
-|---|---|---|
-| **Flourishing** | Constitutional aim | [core_03.015_apex_flourishing_aim.md](core_03.015_apex_flourishing_aim.md) |
-| **Continuity** | Constitutional aim | [core_03.010_apex_continuity_aim.md](core_03.010_apex_continuity_aim.md) |
-| **Oversight** | Tetrad leg | [core_03.020_apex_oversight_leg.md](core_03.020_apex_oversight_leg.md) |
-| **Participation** | Tetrad leg | [core_03.025_apex_participation_leg.md](core_03.025_apex_participation_leg.md) |
-| **Accountability** | Tetrad leg | [core_03.005_apex_accountability_leg.md](core_03.005_apex_accountability_leg.md) |
-| **Timeliness** | Tetrad leg | [core_03.030_apex_timeliness_leg.md](core_03.030_apex_timeliness_leg.md) |
-
-**Band files.** Each band file holds full definitions: independent terms, semi-independent terms, and dependent clusters.
-
-| Band | File | **Def.** cluster range |
-|---|---|---|
-| **Oversight** | [core_03.050_band_oversight.md](core_03.050_band_oversight.md) | **Def.O1–Def.O2** |
-| **Participation** | [core_03.055_band_participation.md](core_03.055_band_participation.md) | **Def.P1–Def.P4** |
-| **Accountability** | [core_03.035_band_accountability.md](core_03.035_band_accountability.md) | **Def.A1–Def.A4** |
-| **Continuity** | [core_03.040_band_continuity.md](core_03.040_band_continuity.md) | **Def.C1–Def.C4** |
-| **Integrative** (cross-leg) | [subcore_03.045_band_integrative.md](subcore_03.045_band_integrative.md) (Subcore 3-D) | **Def.I1** |
-| **Constitutional Performance** | [core_03.060_band_performance.md](core_03.060_band_performance.md) | none; holds only the measurement family, and its terms are in the Continuity band |
-
-The two aims and the Timeliness leg have no band file of their own. Their terms sit in the band files above, and each one's apex file maps where.
 
 ---
 

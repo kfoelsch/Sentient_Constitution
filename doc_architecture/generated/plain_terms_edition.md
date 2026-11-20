@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **860** of **1395** headings carry a gloss (62%).
+Coverage: **859** of **1394** headings carry a gloss (62%).
 
 ## Contents
 
@@ -18,7 +18,7 @@ Coverage: **860** of **1395** headings carry a gloss (62%).
 - [CHAPTER 02, PART D: CONSTITUTIONAL INTERPRETATION](#chapter-02-part-d-constitutional-interpretation) — `core_02.030_constitutional_interpretation.md` (5/12 glossed)
 - [CHAPTER 02, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-02-part-e-stewardship-and-the-steward-role) — `core_02.040_stewardship_capacity_principles.md` (17/18 glossed)
 - [CHAPTER 02, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-02-part-f-governance-incentive-alignment-and-integrated-application) — `core_02.050_governance_incentive_application.md` (19/26 glossed)
-- [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (21/25 glossed)
+- [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (20/24 glossed)
 - [CHAPTER THREE DEFINITIONS: ACCOUNTABILITY (TETRAD LEG)](#chapter-three-definitions-accountability-tetrad-leg) — `core_03.005_apex_accountability_leg.md` (3/3 glossed)
 - [CHAPTER THREE DEFINITIONS: CONTINUITY (CONSTITUTIONAL AIM)](#chapter-three-definitions-continuity-constitutional-aim) — `core_03.010_apex_continuity_aim.md` (3/3 glossed)
 - [CHAPTER THREE DEFINITIONS: FLOURISHING](#chapter-three-definitions-flourishing) — `core_03.015_apex_flourishing_aim.md` (3/3 glossed)
@@ -954,7 +954,7 @@ every later chapter, institutional design, and system is read through this chapt
 
 ## CHAPTER THREE: FOUNDATIONAL DEFINITIONS
 
-Source file: [`core_03.000_definitions_home.md`](../../core_03.000_definitions_home.md) · 21/25 headings glossed
+Source file: [`core_03.000_definitions_home.md`](../../core_03.000_definitions_home.md) · 20/24 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -1040,15 +1040,9 @@ a word in this Constitution has to mean something you can check, nobody can win 
 
 [Source](../../core_03.000_definitions_home.md#5-how-definitions-and-proof-work)
 
-#### Chapter Three Alphabetical Directory (Non-Operative)
-
-this is a searchable list of definition names. It points; it does not change what those names mean.
-
-[Source](../../core_03.000_definitions_home.md#chapter-three-alphabetical-directory-non-operative)
-
 #### Chapter Three Compass and Definition Map
 
-Chapter Three is sorted by the two aims and the four Tetrad legs. The first table lists the apex files, one for each aim and leg; the second lists the band files, where the definitions themselves live.
+Chapter Three is sorted by the two aims and the four Tetrad legs. The first table lists the apex files, one for each aim and leg; the second lists the band files, where the definitions themselves live; and the alphabetical directory lists every definition by name.
 
 [Source](../../core_03.000_definitions_home.md#chapter-three-compass-and-definition-map)
 

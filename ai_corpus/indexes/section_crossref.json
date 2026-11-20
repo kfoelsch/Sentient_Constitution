@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-11-20T17:12:19+00:00",
+  "generated_at": "2026-11-20T17:21:36+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -2864,7 +2864,7 @@
     [7,"#196-keeping-responsibility-when-ownership-or-structure-changes"],
     [134,"#311-formal-label-and-representation-gaming"],
     [7,"#1915-constitutional-outcome-claims-discipline"],
-    [8,"#chapter-three-alphabetical-directory-non-operative"],
+    [8,"#definitions-a-z"],
     [16,"#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing"],
     [16,"#ecological-footprint-semi-independent"],
     [17,"#oversight-independent-terms"],

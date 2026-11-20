@@ -57,7 +57,7 @@ Chapter Three, Flourishing aim, is the constitutional owner of the **Flourishing
   - **Primary measure:** How to tell whether sentient wellbeing is actually protected and improved. This line only points to the measures; the how-to-measure rules sit on each linked definition.
     - **Main outcome measure:** [Wellbeing](core_03.040_band_continuity.md#wellbeing).
     - **Topic map:** [Constitutional Aim Decomposition](#constitutional-aim-decomposition).
-    - **Searchable index:** [Chapter Three alphabetical directory](core_03.000_definitions_home.md#chapter-three-alphabetical-directory-non-operative).
+    - **Searchable index:** [Chapter Three alphabetical directory](core_03.000_definitions_home.md#definitions-a-z).
   - **Primary assessment:**
     - Judge under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake).
     - Tie claimed flourishing results to the [constituent](#constitutional-aim-decomposition) conditions and to outcomes sentients actually experience, under Subcore 3-C and [Chapter Two §19.1.5 Constitutional Outcome Claims Discipline](core_02.050_governance_incentive_application.md#1915-constitutional-outcome-claims-discipline).
