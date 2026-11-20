@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T06:50:24+00:00",
+  "generated_at": "2026-11-20T07:48:54+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -2375,24 +2375,32 @@
       ]
     },
     "corpus_institutions/ci_06.240_vulnerable_personal_services_markets_article_viie_interface.md": {
-      "total_lines": 96,
+      "total_lines": 117,
       "sections": [
-        {"header":"CI-6.240: Vulnerable Personal Services Markets — General Regulation and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Interface","level":1,"line_start":1,"line_end":96,"anchor":null}
+        {"header":"CI-6.240: Vulnerable Personal Services Markets — General Regulation and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Interface","level":1,"line_start":1,"line_end":117,"anchor":null},
+        {"header":"CI-6.240 §1: Purpose, Role, and Scope","level":2,"line_start":51,"line_end":71,"anchor":null},
+        {"header":"CI-6.240 §2: Why These Personal-Service Safeguards Exist","level":2,"line_start":72,"line_end":84,"anchor":null},
+        {"header":"CI-6.240 §3: Institutional Interfaces and Local Duties","level":2,"line_start":85,"line_end":117,"anchor":null}
       ]
     },
     "corpus_institutions/ci_06.245_relational_coercive_control_intimate_power_anti_domination.md": {
-      "total_lines": 88,
+      "total_lines": 109,
       "sections": [
-        {"header":"CI-6.245: Relational Coercive Control, Intimate Power, and Anti-Domination Routing","level":1,"line_start":1,"line_end":88,"anchor":null}
+        {"header":"CI-6.245: Relational Coercive Control, Intimate Power, and Anti-Domination Routing","level":1,"line_start":1,"line_end":109,"anchor":null},
+        {"header":"CI-6.245 §1: Purpose, Role, and Scope","level":2,"line_start":50,"line_end":65,"anchor":null},
+        {"header":"CI-6.245 §2: Why Coercive-Control Routes Exist","level":2,"line_start":66,"line_end":78,"anchor":null},
+        {"header":"CI-6.245 §3: Institutional Interfaces and Local Duties","level":2,"line_start":79,"line_end":109,"anchor":null}
       ]
     },
     "corpus_institutions/ci_06.250_community_life_voluntary_association_non_instrumental_time.md": {
-      "total_lines": 154,
+      "total_lines": 171,
       "sections": [
-        {"header":"CI-6.250: Community Life, Voluntary Association, and Non-Instrumental Time","level":1,"line_start":1,"line_end":154,"anchor":null},
-        {"header":"CI-6.250 §1: Civic Infrastructure and Non-Instrumental Time","level":2,"line_start":75,"line_end":97,"anchor":null},
-        {"header":"CI-6.250 §2: Voluntary Association and Anti-Coercion Guardrails","level":2,"line_start":98,"line_end":122,"anchor":null},
-        {"header":"CI-6.250 §3: Referral and Escalation Interfaces","level":2,"line_start":123,"line_end":154,"anchor":null}
+        {"header":"CI-6.250: Community Life, Voluntary Association, and Non-Instrumental Time","level":1,"line_start":1,"line_end":171,"anchor":null},
+        {"header":"CI-6.250 §1: Purpose, Role, and Scope","level":2,"line_start":55,"line_end":78,"anchor":null},
+        {"header":"CI-6.250 §2: Why Community and Voluntary Association Matter","level":2,"line_start":79,"line_end":91,"anchor":null},
+        {"header":"CI-6.250 §3: Civic Infrastructure and Non-Instrumental Time","level":2,"line_start":92,"line_end":114,"anchor":null},
+        {"header":"CI-6.250 §4: Voluntary Association and Anti-Coercion Guardrails","level":2,"line_start":115,"line_end":139,"anchor":null},
+        {"header":"CI-6.250 §5: Referral and Escalation Interfaces","level":2,"line_start":140,"line_end":171,"anchor":null}
       ]
     },
     "corpus_institutions/ci_06.255_commons_cooperatives_mutual_aid_non_market_governance.md": {
