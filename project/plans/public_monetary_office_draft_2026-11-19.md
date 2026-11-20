@@ -231,11 +231,11 @@ The ledger follows [Article XVII](../../core_06.020_rights_part_c.md#article-xvi
 
 ### 9. Audit and Challenge
 
-*In plain terms: outsiders check the books, and anyone harmed can challenge a decision.*
+*In plain terms: outsiders check the books, and anyone harmed can challenge a decision. The general rule is in Chapter Eight; this section lists what a challenge to this office may claim.*
 
-**Audit.** An independent financial audit covers the office each cycle, and the Public Information Office publishes an independent check of the ledger.
+**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies). In addition, the Public Information Office publishes an independent check of the ledger each cycle.
 
-**Challenge.** Any sentient affected by an act of the office may challenge it before an Integrity forum. The challenge may claim:
+**Grounds.** A challenge may claim:
 
 - issuing currency or debt outside this chapter;
 - direct financing contrary to §6;
@@ -243,7 +243,7 @@ The ledger follows [Article XVII](../../core_06.020_rights_part_c.md#article-xvi
 - debt above the §7 limit or hidden from the §8 ledger; or
 - a missed target with no explanation under §4.
 
-A forum does not set the target or the policy rate; it decides whether the office followed this chapter.
+Under *Scope of review* in Chapter Eight §11, a forum does not set the target or the policy rate; it decides whether the office followed this chapter.
 
 ### 10. Emergencies
 

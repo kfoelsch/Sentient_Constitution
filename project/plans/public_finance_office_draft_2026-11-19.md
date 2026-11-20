@@ -288,11 +288,11 @@ The *Protected funding* requirement of [Chapter Eight §11](../../core_08.000_fu
 
 ### 10. Audit and Challenge
 
-*In plain terms: the books are checked by someone outside the office, and anyone harmed by a funding decision can challenge it.*
+*In plain terms: the books are checked by someone outside the office, and anyone harmed by a funding decision can challenge it. The general rule for every independent body lives in Chapter Eight; this section adds what is special to the office that holds the purse.*
 
-**Audit.** An independent financial audit, and a resource audit where shared resources are involved, covers the office on the review cadence in [Chapter Twenty-Four §4](../../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline). Results go to the Integrity registrar under **CF-23.415 §6** and are published on the ledger.
+**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies). Its financial audit runs on the review cadence in [Chapter Twenty-Four §4](../../core_24.000_forum_families_escalation_timeliness_support.md#4-timely-resolution-materiality-tiers-and-anti-delay-discipline), and its results are also published on the ledger.
 
-**Challenge.** A funded body, a party, a researcher, or any sentient affected by a funding act may challenge it before an Integrity forum. The challenge may claim:
+**Grounds.** A funded body, a party, a researcher, or any sentient affected by a funding act may challenge it before an Integrity forum. The challenge may claim:
 
 - a floor set below the formula, or a formula that does not meet §4;
 - steering under §5;
@@ -300,9 +300,7 @@ The *Protected funding* requirement of [Chapter Eight §11](../../core_08.000_fu
 - a breach of the §7 firewall; or
 - a draw, transfer, or failure to replenish contrary to §11.
 
-**Self-judging.** Where the Integrity forum that would hear the challenge is itself funded under the act being challenged, the matter routes to an independent backup forum under [Ways a Matter Moves Between Forums](../../core_24.000_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums).
-
-**Interim relief.** While a challenge is pending, the forum may order the disputed floor restored where a reduction foreseeably lets ongoing harm continue or makes redress useless.
+**Self-judging and interim relief.** Every forum is funded by this office, so the *No self-judging* rule in Chapter Eight routes a challenge away from any forum funded under the act at issue. Interim relief under that section includes an order restoring a disputed floor.
 
 ### 11. Reserve Fund
 

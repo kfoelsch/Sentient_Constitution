@@ -287,13 +287,13 @@ The office must not advocate for a policy, a party, or an outcome. It may explai
 
 ### 9. Records, Audit, and Challenge
 
-*In plain terms: anyone can question a figure, a method, or a researcher choice, and an independent forum decides.*
+*In plain terms: anyone can question a figure, a method, or a researcher choice, and an independent forum decides. The general audit and challenge rule for every independent body lives in Chapter Eight; this section says how it applies here.*
 
-**Audit.** The office's methods and releases are reviewed by an independent method auditor on a published cadence. Its spending is audited with the Public Finance Office under that chapter's audit rule.
+**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_08.000_functional_independence_separation_of_duties.md#11-independent-bodies). For this office:
 
-**Challenge.** Any sentient affected by a release, a method, a confidence rung, a researcher selection, or a refusal to publish may challenge it before an Integrity forum, or before a Technical Forum Domain where the dispute is purely about method. Where the forum that would hear the challenge requested the research at issue, the matter routes to an independent backup forum under [Ways a Matter Moves Between Forums](../../core_24.000_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums).
-
-**Remedy.** A successful challenge leads to a published correction, a re-run, or new researcher selection, as fits. The original release stays visible with its correction.
+- the audit of its work is an independent method audit of its methods and releases, and its spending is audited with the Public Finance Office's audit;
+- a challenge may concern a release, a method, a confidence rung, a researcher selection, or a refusal to publish; and
+- a successful challenge leads to a published correction, a re-run, or a new researcher selection, as fits.
 
 ### 10. Funding, Reserve, and Shortfalls
 
