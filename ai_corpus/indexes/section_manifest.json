@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T02:41:33+00:00",
+  "generated_at": "2026-11-20T03:00:28+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -1749,14 +1749,14 @@
       ]
     },
     "corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md": {
-      "total_lines": 402,
+      "total_lines": 397,
       "sections": [
-        {"header":"CJS-0.105: Registry and Reading Rules","level":1,"line_start":1,"line_end":402,"anchor":null},
-        {"header":"CJS-0.105 §1: Cross-File Routing","level":2,"line_start":69,"line_end":170,"anchor":"#cross-file-routing"},
-        {"header":"Maintainer-Only Detail: Authoritative Topic Router","level":3,"line_start":121,"line_end":170,"anchor":"#cjs-01-topic-router-stable-ids"},
-        {"header":"CJS-0.105 §2: Joint Structure Registry","level":2,"line_start":171,"line_end":211,"anchor":null},
-        {"header":"CJS-0.105 §3: Stable Identifiers, Edition Alignment, and Drafting Notes","level":2,"line_start":212,"line_end":267,"anchor":null},
-        {"header":"CJS-0.105 §4: Time-Window Names","level":2,"line_start":268,"line_end":402,"anchor":null}
+        {"header":"CJS-0.105: Registry and Reading Rules","level":1,"line_start":1,"line_end":397,"anchor":null},
+        {"header":"CJS-0.105 §1: Cross-File Routing","level":2,"line_start":68,"line_end":168,"anchor":"#cross-file-routing"},
+        {"header":"Maintainer-Only Detail: Authoritative Topic Router","level":3,"line_start":119,"line_end":168,"anchor":"#cjs-01-topic-router-stable-ids"},
+        {"header":"CJS-0.105 §2: Joint Structure Registry","level":2,"line_start":169,"line_end":208,"anchor":null},
+        {"header":"CJS-0.105 §3: Stable Identifiers, Edition Alignment, and Drafting Notes","level":2,"line_start":209,"line_end":263,"anchor":null},
+        {"header":"CJS-0.105 §4: Time-Window Names","level":2,"line_start":264,"line_end":397,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md": {
