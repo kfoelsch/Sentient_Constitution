@@ -7,6 +7,8 @@ Companion to public_monetary_office_draft_2026-11-19.md and public_finance_offic
 
 **Date:** 2026-11-20. **Asked for by:** the custodian ("Did you do a sweep of state banks' best practices? If not, let's do that.").
 
+**Status (2026-11-20).** The custodian accepted every recommendation below. They are written into the revised [Public Monetary Office draft](public_monetary_office_draft_2026-11-19.md), a new [Public Debt Office draft](public_debt_office_draft_2026-11-20.md), and the [Public Finance Office draft](public_finance_office_draft_2026-11-19.md) (§12 debt service first, §13 scaling).
+
 **What this note does.** It checks the [Public Monetary Office draft](public_monetary_office_draft_2026-11-19.md) against the main international frameworks and the practice of leading central banks and debt offices. For each practice it says whether the draft already meets it, partly meets it, or misses it, and recommends a change. Nothing in the draft has been changed yet.
 
 **Sources.** The comparison draws on these frameworks and institutions, from general knowledge of their published texts. I did not fetch current editions for this note, so exact figures (such as lag periods) should be checked before any of them is cited in the corpus.
