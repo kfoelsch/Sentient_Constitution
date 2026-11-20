@@ -117,6 +117,13 @@ Force comes last; the risk is checked and talking is tried first.
 
 - **Risk check first:** before carrying out an outcome where violence is reasonably foreseeable, the enforcement body assesses the risk to everyone present and plans how to lower it.
 - **De-escalation first:** the enforcement body tries communication, time, distance, and other non-forceful steps first, and keeps trying them while it is safe to do so.
+- <a id="trusted-voices"></a>**Trusted voices:** the enforcement body offers the sentient contact with family, friends, a faith or community leader, or anyone else the sentient trusts, who may help persuade them to stop or to surrender. This happens on these terms:
+  - **Voluntary for everyone:** each helper takes part only by free choice, may stop at any time, and suffers nothing for declining. The sentient may refuse any helper.
+  - **Screened and guided:** a trained negotiator speaks with each helper first, about their relationship with the sentient and any risk the contact could raise, and guides what is said. A helper the negotiator judges likely to inflame the situation is not used.
+  - **Through the channel, not face to face:** contact goes through the negotiator, by relayed message, phone, or video, and the negotiator stays involved. A helper meets the sentient face to face only where the negotiator judges it safe, and never where the sentient is armed or holding anyone.
+  - **Never leverage:** a helper is never used as a threat, a bargaining chip, or an audience, and is never placed in danger ([§4.6 Protecting Life and Others](#46-protecting-life-and-others)).
+  - **What is said stays protected:** a helper is not made to give evidence of what the sentient told them during the contact, except to prevent an imminent threat to life.
+  - **Care for helpers:** a helper is offered support afterward, whatever the outcome.
 - **Last resort and least force:** force is used only when no non-forceful step will carry the outcome out or prevent imminent harm, and only as much force as that requires. It stops as soon as the need ends.
 
 <a id="43-limits-on-force"></a>
@@ -134,6 +141,7 @@ Non-lethal force is preferred to force that risks injury, and indirect force is 
 
 1. **Presence and containment:** a visible, trained presence, a perimeter, time, and distance, so the sentient cannot leave or harm others while talking continues. In a standoff, this force level also includes:
    - **Info-Sphere and mobility limited:** the sentient's [Info-Sphere](subcore_03.090_band_participation.md#info-sphere) access is limited to emergency services and the enforcement contact for the matter, so that they cannot use it to plan or coordinate violence. Travel documents, transport passes and bookings, and the motor vehicles and other transport the sentient controls are suspended, and transport and border offices are given notice, so that they cannot flee. Nothing here stops the sentient from reaching the surrender point or emergency care.
+   - **Trusted voices continue:** contact with trusted helpers under [§4.2 Before Force](#trusted-voices) (*Trusted voices*) goes on through the same enforcement channel, alongside the demand to surrender.
    - **Demand to surrender:** through that enforcement channel, the sentient is told clearly to turn themselves in, that they must come unarmed, how to do so safely, and every step that will follow if they do not. Any talks about surrender go through the same channel.
 2. **Indirect means:** steps that act on the surroundings rather than the body, such as barriers, nets, disabling a car, drone, or other device, light and sound, and remotely stopping the systems the sentient is using. No system may be stopped that keeps anyone alive, such as medical equipment, without the same care as force that risks injury. In a standoff, this force level also includes, in this order:
    - **Freeze above the protected minimum and power cut:** all access to resources is frozen except the protected minimum, and power to where the sentient is staying is cut.
