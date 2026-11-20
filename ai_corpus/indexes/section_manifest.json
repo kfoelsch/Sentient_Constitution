@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T06:08:07+00:00",
+  "generated_at": "2026-11-20T06:17:20+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 569,
@@ -2313,10 +2313,13 @@
       ]
     },
     "corpus_institutions/ci_00.215_compliance_mapping_stable_registry.md": {
-      "total_lines": 120,
+      "total_lines": 139,
       "sections": [
-        {"header":"CI-0.215: Compliance Mapping and Stable Registry","level":1,"line_start":1,"line_end":120,"anchor":null},
-        {"header":"Implementation Notes","level":2,"line_start":106,"line_end":120,"anchor":null}
+        {"header":"CI-0.215: Compliance Mapping and Stable Registry","level":1,"line_start":1,"line_end":139,"anchor":null},
+        {"header":"CI-0.215 §1: Purpose, Role, and Scope","level":2,"line_start":53,"line_end":58,"anchor":null},
+        {"header":"CI-0.215 §2: Why the Compliance Map Exists","level":2,"line_start":59,"line_end":71,"anchor":null},
+        {"header":"CI-0.215 §3: Compliance Map","level":2,"line_start":72,"line_end":124,"anchor":null},
+        {"header":"Implementation Notes","level":2,"line_start":125,"line_end":139,"anchor":null}
       ]
     },
     "corpus_institutions/ci_06.205_transparency_participation_accessible_pathways.md": {
@@ -2411,14 +2414,16 @@
       ]
     },
     "corpus_institutions/ci_06.270_scientific_publication_peer_review_replication_evidence_stewardship.md": {
-      "total_lines": 177,
+      "total_lines": 194,
       "sections": [
-        {"header":"CI-6.270: Scientific Publication, Peer Review, Replication, and Evidence Stewardship","level":1,"line_start":1,"line_end":177,"anchor":null},
-        {"header":"CI-6.270 §1: Publication Intake and Correction Records","level":2,"line_start":77,"line_end":94,"anchor":null},
-        {"header":"CI-6.270 §2: Evidence, Review, and Reviewer Custody","level":2,"line_start":95,"line_end":113,"anchor":null},
-        {"header":"CI-6.270 §3: Challenge, Correction, and Access","level":2,"line_start":114,"line_end":132,"anchor":null},
-        {"header":"CI-6.270 §4: Incentive Criteria","level":2,"line_start":133,"line_end":148,"anchor":null},
-        {"header":"CI-6.270 §5: Ombuds, Escalation, and Technical Forum Referral","level":2,"line_start":149,"line_end":177,"anchor":null}
+        {"header":"CI-6.270: Scientific Publication, Peer Review, Replication, and Evidence Stewardship","level":1,"line_start":1,"line_end":194,"anchor":null},
+        {"header":"CI-6.270 §1: Purpose, Role, and Scope","level":2,"line_start":53,"line_end":80,"anchor":null},
+        {"header":"CI-6.270 §2: Why Scientific Publication Integrity Exists","level":2,"line_start":81,"line_end":93,"anchor":null},
+        {"header":"CI-6.270 §3: Publication Intake and Correction Records","level":2,"line_start":94,"line_end":111,"anchor":null},
+        {"header":"CI-6.270 §4: Evidence, Review, and Reviewer Custody","level":2,"line_start":112,"line_end":130,"anchor":null},
+        {"header":"CI-6.270 §5: Challenge, Correction, and Access","level":2,"line_start":131,"line_end":149,"anchor":null},
+        {"header":"CI-6.270 §6: Incentive Criteria","level":2,"line_start":150,"line_end":165,"anchor":null},
+        {"header":"CI-6.270 §7: Ombuds, Escalation, and Technical Forum Referral","level":2,"line_start":166,"line_end":194,"anchor":null}
       ]
     },
     "corpus_institutions/ci_06.275_adoption_transition_governance_institutional_evolution.md": {
@@ -2533,14 +2538,16 @@
       ]
     },
     "corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md": {
-      "total_lines": 139,
+      "total_lines": 156,
       "sections": [
-        {"header":"CI-25.210: Remedy Systems and Institutional Redress Capacity","level":1,"line_start":1,"line_end":139,"anchor":null},
-        {"header":"CI-25.210 §1: Capacity, Funding, and Succession","level":2,"line_start":71,"line_end":83,"anchor":null},
-        {"header":"CI-25.210 §2: Durability, Backlog, and Publication","level":2,"line_start":84,"line_end":98,"anchor":null},
-        {"header":"CI-25.210 §3: High-Impact Remedy Domains","level":2,"line_start":99,"line_end":113,"anchor":null},
-        {"header":"CI-25.210 §4: Standards Interface and Accountability Routing","level":2,"line_start":114,"line_end":121,"anchor":null},
-        {"header":"CI-25.210 §5: Remedy Parity and Capacity-Failure Interface","level":2,"line_start":122,"line_end":139,"anchor":null}
+        {"header":"CI-25.210: Remedy Systems and Institutional Redress Capacity","level":1,"line_start":1,"line_end":156,"anchor":null},
+        {"header":"CI-25.210 §1: Purpose, Role, and Scope","level":2,"line_start":63,"line_end":74,"anchor":null},
+        {"header":"CI-25.210 §2: Why Remedy Capacity Exists","level":2,"line_start":75,"line_end":87,"anchor":null},
+        {"header":"CI-25.210 §3: Capacity, Funding, and Succession","level":2,"line_start":88,"line_end":100,"anchor":null},
+        {"header":"CI-25.210 §4: Durability, Backlog, and Publication","level":2,"line_start":101,"line_end":115,"anchor":null},
+        {"header":"CI-25.210 §5: High-Impact Remedy Domains","level":2,"line_start":116,"line_end":130,"anchor":null},
+        {"header":"CI-25.210 §6: Standards Interface and Accountability Routing","level":2,"line_start":131,"line_end":138,"anchor":null},
+        {"header":"CI-25.210 §7: Remedy Parity and Capacity-Failure Interface","level":2,"line_start":139,"line_end":156,"anchor":null}
       ]
     },
     "corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md": {

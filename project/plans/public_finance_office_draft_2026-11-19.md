@@ -21,7 +21,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Twenty-Three §2.2.2](../../core_23.000_forum.md#222-incentives-and-non-substitution) sends "system-wide budgets, cross-cutting research funding, and governance-scale programs" to Chapter Twenty-Seven and CS-6.335. That pointer would name this chapter instead.
 > - [CF-23.440 §15](../../corpus_forum/cf_23.440_technical_specialist_forums_specialist_chambers.md#cf-23440-15-research-and-uncertainty-reduction-authority) ("ordinary appropriations controls") would name this chapter's research reserve (§6).
-> - [CI-25.210 §1](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-1-capacity-funding-and-succession) "funding source" would accept the office as the named source.
+> - [CI-25.210 §3](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-3-capacity-funding-and-succession) "funding source" would accept the office as the named source.
 > - [CF-23.415 §8](../../corpus_forum/cf_23.415_routing_operations_transfer_certification_representative_treatment.md#cf-23415-8-integrity-registrar) (Integrity registrar) would receive this office's audits.
 > - [Chapter Twenty §4.2](../../core_20.000_final_effect_restoration_enforcement.md#42-remedy-system-durability) keeps forums answerable for their own adequacy; this chapter supplies the money path, not a new answerable party.
 > - A new corpus-institutions file would hold the formula, reserve sizes, and ledger fields.
@@ -64,7 +64,7 @@ Chapter [F] is the constitutional owner of **public funding of the constitutiona
 - Read with:
   - [CS-6.335](../../corpus_systems/cs_06.335_resource_allocation_funding_stewardship.md#cs-6335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*);
   - **CI-6.210** (*Public revenue, fees, recurring charges, and billing integrity*) and **CI-6.215** (*Resource stewardship and incentive integrity*);
-  - [CI-25.210 §1](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-1-capacity-funding-and-succession) (*Capacity, Funding, and Succession*);
+  - [CI-25.210 §3](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-3-capacity-funding-and-succession) (*Capacity, Funding, and Succession*);
   - **CF-23.415 §8** (*Integrity Registrar*) and **CF-23.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
 
 </details>
