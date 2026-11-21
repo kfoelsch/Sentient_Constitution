@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-21T18:27:51+00:00",
+  "generated_at": "2026-11-21T18:42:24+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -1101,33 +1101,33 @@
       ]
     },
     "core_26.000_governance.md": {
-      "total_lines": 578,
+      "total_lines": 583,
       "sections": [
-        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":578,"anchor":null},
+        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":583,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":26,"line_end":56,"anchor":null},
         {"header":"2. Why the Constitutional Contract Exists","level":3,"line_start":57,"line_end":84,"anchor":"#2-why-the-constitutional-contract-exists"},
-        {"header":"3. Authorization and Legitimacy of Governing Authority","level":3,"line_start":85,"line_end":284,"anchor":null},
+        {"header":"3. Authorization and Legitimacy of Governing Authority","level":3,"line_start":85,"line_end":289,"anchor":null},
         {"header":"3.1 Mechanism Families, Auditability, and Pluralism","level":4,"line_start":109,"line_end":173,"anchor":null},
         {"header":"3.1.1 Mechanism Families","level":5,"line_start":115,"line_end":130,"anchor":"#311-mechanism-families"},
         {"header":"3.1.2 Sortition Integrity and Anti-Capture Use","level":5,"line_start":131,"line_end":148,"anchor":"#312-sortition-integrity-and-anti-capture-use"},
         {"header":"3.1.3 Auditability, Publication, and Non-Usurpation","level":5,"line_start":149,"line_end":161,"anchor":"#313-auditability-publication-and-non-usurpation"},
         {"header":"3.1.4 Contestation, Correction, and Pluralism","level":5,"line_start":162,"line_end":173,"anchor":"#314-contestation-correction-and-pluralism"},
-        {"header":"3.2 Eligibility, Contested Selection, and Democratic Minimums","level":4,"line_start":174,"line_end":254,"anchor":null},
+        {"header":"3.2 Eligibility, Contested Selection, and Democratic Minimums","level":4,"line_start":174,"line_end":259,"anchor":null},
         {"header":"3.2.1 Reach of the Democratic Minimums","level":5,"line_start":180,"line_end":195,"anchor":"#321-reach-of-the-democratic-minimums"},
         {"header":"3.2.2 Eligibility for Governing and Critical-Stewardship Roles","level":5,"line_start":196,"line_end":207,"anchor":"#322-eligibility-for-governing-and-critical-stewardship-roles"},
         {"header":"3.2.3 Contested Selection, Opposition Protection, and Peaceful Succession","level":5,"line_start":208,"line_end":224,"anchor":"#323-contested-selection-opposition-protection-and-peaceful-succession"},
-        {"header":"3.2.4 Selection-Funding Boundaries","level":5,"line_start":225,"line_end":245,"anchor":"#324-selection-funding-boundaries"},
-        {"header":"3.2.5 Forum Appointment Independence Requirement","level":5,"line_start":246,"line_end":254,"anchor":"#325-forum-appointment-independence-requirement"},
-        {"header":"3.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails","level":4,"line_start":255,"line_end":284,"anchor":null},
-        {"header":"4. Ethical Culture and Integrity (Federated Scale)","level":3,"line_start":285,"line_end":306,"anchor":null},
-        {"header":"5. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)","level":3,"line_start":307,"line_end":385,"anchor":null},
-        {"header":"5.1 Stewardship Direction","level":4,"line_start":350,"line_end":365,"anchor":null},
-        {"header":"5.2 Ecosystem Value Orientation","level":4,"line_start":366,"line_end":385,"anchor":null},
-        {"header":"6. Voting and Binding Collective Choice Protocols","level":3,"line_start":386,"line_end":531,"anchor":null},
-        {"header":"6.1 Entitlement and Eligibility","level":4,"line_start":402,"line_end":452,"anchor":null},
-        {"header":"6.2 Records, Gates, and Method Neutrality","level":4,"line_start":453,"line_end":494,"anchor":null},
-        {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":495,"line_end":531,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
-        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":532,"line_end":578,"anchor":null}
+        {"header":"3.2.4 Selection-Funding Boundaries","level":5,"line_start":225,"line_end":250,"anchor":"#324-selection-funding-boundaries"},
+        {"header":"3.2.5 Forum Appointment Independence Requirement","level":5,"line_start":251,"line_end":259,"anchor":"#325-forum-appointment-independence-requirement"},
+        {"header":"3.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails","level":4,"line_start":260,"line_end":289,"anchor":null},
+        {"header":"4. Ethical Culture and Integrity (Federated Scale)","level":3,"line_start":290,"line_end":311,"anchor":null},
+        {"header":"5. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)","level":3,"line_start":312,"line_end":390,"anchor":null},
+        {"header":"5.1 Stewardship Direction","level":4,"line_start":355,"line_end":370,"anchor":null},
+        {"header":"5.2 Ecosystem Value Orientation","level":4,"line_start":371,"line_end":390,"anchor":null},
+        {"header":"6. Voting and Binding Collective Choice Protocols","level":3,"line_start":391,"line_end":536,"anchor":null},
+        {"header":"6.1 Entitlement and Eligibility","level":4,"line_start":407,"line_end":457,"anchor":null},
+        {"header":"6.2 Records, Gates, and Method Neutrality","level":4,"line_start":458,"line_end":499,"anchor":null},
+        {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":500,"line_end":536,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
+        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":537,"line_end":583,"anchor":null}
       ]
     },
     "core_27.000_non_regression.md": {
