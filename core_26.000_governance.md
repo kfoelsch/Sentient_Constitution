@@ -263,8 +263,8 @@ Some forums judge the very authorities that govern, so those authorities must no
 
 **Scope**
 
-- This subsection applies where a **documented legitimacy mechanism** authorizes **governing authority** through **individual or collegial mandates** that persist for a defined interval between the mechanism's ordinary **contested selection** events or comparable **reauthorization** milestones.
-- It does **not** require recall-class pathways for designs where mandates do not operate that way (including many **sortition** panels, **short-rotation** bodies, or **treaty-only** authorization), provided the **peaceful-succession guarantee** in **§3.2** (*Eligibility, Contested Selection, and Democratic Minimums*) remains satisfied on the mechanism's own terms.
+- This subsection covers governing authority that a **documented legitimacy mechanism** gives to a sentient or a group for a set term, lasting from one regular **contested selection** (or comparable renewal) to the next.
+- Designs that do not hand out fixed terms like this, such as many **sortition** panels, bodies whose members rotate quickly, or authority granted only by treaty, do not need a recall pathway. They must still keep the **peaceful-succession guarantee** of [§3.2.3 Contested Selection, Opposition Protection, and Peaceful Succession](#323-contested-selection-opposition-protection-and-peaceful-succession) on their own terms.
 
 **Recall-class pathway requirement**
 
