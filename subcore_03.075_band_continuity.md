@@ -5787,7 +5787,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
     - depiction of a sentient in documentary, reporting, or comparable factual framing;
     - synthetic or generated depiction held out as authentic; and
     - voice and comparable identity-bearing modalities where a sentient remains reasonably identifiable.
-  - **Data types:** Recognizably identifiable likeness and voice are [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data). Depiction or analysis that infers a sentient's internal states from likeness or voice is also [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data).
+  - **Data types:** Recognizably identifiable likeness and voice are [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data) (Subcore 4-A). Depiction or analysis that infers a sentient's internal states from likeness or voice is also [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data).
   - **Out of scope:**
     - non-identifiable generic imagery or anonymized depiction that cannot reasonably identify a sentient;
     - coincidental resemblance that is not presented as, and would not reasonably be taken to be, a particular sentient;
@@ -5920,7 +5920,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
     - experiential-data discipline under **Article IX-B** (*Experiential and Derived Data Rights*);
     - [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational); and
     - [Creative Work Attribution](subcore_03.075_band_continuity.md#creative-work-attribution).
-  - **Data types:** Covered work is [**Type H**](subcore_04.050_data_types.md#104-type-h-historical-relational-transactional-and-participation-data) as participation- or interaction-derived data, and [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data) where it is identifiable to the sentient who produced it. Training, evaluation, or analysis that infers or reconstructs a sentient's internal states is [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data). Pooling does not lower the type while re-identification or reconstruction remains reasonably possible.
+  - **Data types:** Covered work is [**Type H**](subcore_04.050_data_types.md#104-type-h-historical-relational-transactional-and-participation-data) (Subcore 4-A) as participation- or interaction-derived data, and [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data) where it is identifiable to the sentient who produced it. Training, evaluation, or analysis that infers or reconstructs a sentient's internal states is [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data). Pooling does not lower the type while re-identification or reconstruction remains reasonably possible.
   - **Out of scope:**
     - non-sentient-produced material where **Article IX-D** (*Creative Work, Training-Data Use, and Anti-Displacement*) consent and attribution duties do not apply; or
     - ordinary operational aggregates that are not traced to specific sentients — for example:
@@ -6871,7 +6871,7 @@ See **Anti-Segmentation Principle**.
     - privacy;
     - internal state; or
     - Rights-Floor access.
-  - **Data types:** Logs, measurements, and monitoring records that reach sentients are at least [**Type H**](subcore_04.050_data_types.md#104-type-h-historical-relational-transactional-and-participation-data); identity-linked monitoring is also [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data); monitoring that infers or reconstructs internal states is [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data). Security monitoring and investigation material is [**Type S**](subcore_04.050_data_types.md#107-type-s-safety-security-and-restricted-investigation-data) while restricted, and its personal components keep their **H**, **I**, or **N** type when that restriction ends. Ordinary logging outside this boundary still produces typed data and stays under its type's handling rules.
+  - **Data types:** Logs, measurements, and monitoring records that reach sentients are at least [**Type H**](subcore_04.050_data_types.md#104-type-h-historical-relational-transactional-and-participation-data) (Subcore 4-A); identity-linked monitoring is also [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data); monitoring that infers or reconstructs internal states is [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data). Security monitoring and investigation material is [**Type S**](subcore_04.050_data_types.md#107-type-s-safety-security-and-restricted-investigation-data) while restricted, and its personal components keep their **H**, **I**, or **N** type when that restriction ends. Ordinary logging outside this boundary still produces typed data and stays under its type's handling rules.
   - **Out of scope:**
     - ordinary measurement, security logging, or evidence gathering that does not chill, coerce, manipulate, expose, reconstruct, or control agency, privacy, or internal state; and
     - ordinary operational aggregates not traced to specific sentients, such as:

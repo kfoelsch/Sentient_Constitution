@@ -738,6 +738,9 @@
   "section-cite-name-audit": {
    "scope": "corpus"
   },
+  "subcore-cite-label-audit": {
+   "scope": "corpus"
+  },
   "section-crossref-format-test": {
    "scope": "not-file-based",
    "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."

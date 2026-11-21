@@ -170,7 +170,7 @@ Certification depth, record burden, certification interval, stakeholder review, 
 - Higher-impact, higher-dependency, and higher-risk systems require stronger proof, clearer records, and more practicable participation — including substantive accessibility, stakeholder input, and challenge routes scaled to who relies on the system.
 - Lower system classes and bounded scopes still require honest classification and proportionate assurance; they do not receive a free pass from material obligations where external effects exist.
 
-The process applies by impact class, as the [reclassification requirement](subcore_08.010_system_classification.md#35-reclassification-requirement) of **CS-8.305** (*System classification machinery*) sets out:
+The process applies by impact class, as the [Subcore 8-A reclassification requirement](subcore_08.010_system_classification.md#35-reclassification-requirement), read with **CS-8.305** (*System classification machinery*), sets out:
 
 - **Class A, Class B, and Class C:** these systems carry the highest impact, dependency, and risk, and whole-system evaluation under [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation), [§5 Evaluations Where Implicated](#5-evaluations-where-implicated), and [§6 Rights-Floor and Domain Evaluations](#6-rights-floor-and-domain-evaluations), each as its own sub-phase applies, is mandatory at full depth;
 - **Class L:** the same evaluation is mandatory but proportionate, with a longer default certification interval and simpler records where CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*) permits; and
@@ -715,8 +715,8 @@ Certification must hold data handling to the following privacy discipline:
 - *Types W, U, and T.* For **Type W**, **Type U**, and **Type T** works, certification must verify that the creator's control is honored, including:
   - withdrawal of a public release under [Subcore 4-A §10.9](subcore_04.050_data_types.md#109-type-w-works-published) (*Type W: Works, Published*);
   - the limits of each recorded grant under [Subcore 4-A §10.13](subcore_04.050_data_types.md#1013-commercial-grants) (*Commercial Grants*); and
-  - the creator's [reserved rights](subcore_04.050_data_types.md#10133-reserved-rights).
-- *No implied consent.* A grant covers only the uses it names, within the grant's scope, term, territory, and medium. Anything it does not name stays with the creator. Certification must not treat a default setting, bundled terms, silence, or a broader grant as consent to a use the grant does not name. For example, a general licence to publish or sell a work is not consent to use it as training data, which needs the creator's own specific consent (see the [reserved rights](subcore_04.050_data_types.md#10133-reserved-rights)).
+  - the creator's reserved rights under [Subcore 4-A §10.13.3 Reserved Rights](subcore_04.050_data_types.md#10133-reserved-rights).
+- *No implied consent.* A grant covers only the uses it names, within the grant's scope, term, territory, and medium. Anything it does not name stays with the creator. Certification must not treat a default setting, bundled terms, silence, or a broader grant as consent to a use the grant does not name. For example, a general licence to publish or sell a work is not consent to use it as training data, which needs the creator's own specific consent (see [Subcore 4-A §10.13.3 Reserved Rights](subcore_04.050_data_types.md#10133-reserved-rights)).
 
 <a id="443-protective-storage-and-key-custody"></a>
 ##### 4.4.3 Protective Storage and Key Custody
@@ -831,14 +831,14 @@ When a certification matter materially implicates more than one Chapter Four pri
 
 **Cluster loci.** Distributed privacy coverage lives across the following, each with the data types it reaches:
 
-- **Article VII-A** (*Self-Ownership of Body*) — [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data) for health, biometric, and substrate-linked records;
-- **Article VII-B** (*Self-Ownership of Mind*) — [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data) for internal states, including their reconstruction or inference;
+- **Article VII-A** (*Self-Ownership of Body*) — [**Type I**](subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data) (Subcore 4-A) for health, biometric, and substrate-linked records;
+- **Article VII-B** (*Self-Ownership of Mind*) — [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data) (Subcore 4-A) for internal states, including their reconstruction or inference;
 - **Article IX** (*Likeness, Experiential Data, and Publication Rights*):
   - **Type I** for likeness and voice under [Article IX-A](core_04.010_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Self-Ownership of Likeness and Reputation*);
-  - [**Type H**](subcore_04.050_data_types.md#104-type-h-historical-relational-transactional-and-participation-data) for experiential and interaction-derived data under [Article IX-B](core_04.010_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*); and
-  - [**Type Y**](subcore_04.050_data_types.md#108-type-y-yours) for a creator's works under [Article IX-D](core_04.010_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*), whose protections carry into [**Type W**](subcore_04.050_data_types.md#109-type-w-works-published), [**Type U**](subcore_04.050_data_types.md#1011-type-u-use-licensed), and [**Type T**](subcore_04.050_data_types.md#1012-type-t-transferred) together with the creator's [reserved rights](subcore_04.050_data_types.md#10133-reserved-rights);
-- **Article X-A** (*Agency and Freedom from Manipulation*) — [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data) for internal states, including their reconstruction or inference; and
-- **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) — [**Type S**](subcore_04.050_data_types.md#107-type-s-safety-security-and-restricted-investigation-data) for restricted security and investigation material, whose **H**, **I**, or **N** components keep that type's protection when the restriction ends.
+  - [**Type H**](subcore_04.050_data_types.md#104-type-h-historical-relational-transactional-and-participation-data) (Subcore 4-A) for experiential and interaction-derived data under [Article IX-B](core_04.010_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*); and
+  - [**Type Y**](subcore_04.050_data_types.md#108-type-y-yours) (Subcore 4-A) for a creator's works under [Article IX-D](core_04.010_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*), whose protections carry into [**Type W**](subcore_04.050_data_types.md#109-type-w-works-published), [**Type U**](subcore_04.050_data_types.md#1011-type-u-use-licensed), and [**Type T**](subcore_04.050_data_types.md#1012-type-t-transferred) together with the creator's [reserved rights](subcore_04.050_data_types.md#10133-reserved-rights);
+- **Article X-A** (*Agency and Freedom from Manipulation*) — [**Type N**](subcore_04.050_data_types.md#106-type-n-neurocognitive-and-internal-data) (Subcore 4-A) for internal states, including their reconstruction or inference; and
+- **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) — [**Type S**](subcore_04.050_data_types.md#107-type-s-safety-security-and-restricted-investigation-data) (Subcore 4-A) for restricted security and investigation material, whose **H**, **I**, or **N** components keep that type's protection when the restriction ends.
 
 **What certification must show:**
 

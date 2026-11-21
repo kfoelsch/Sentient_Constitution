@@ -413,10 +413,10 @@ The **intake triage body** under this section, together with **CF-22.415** (*Rou
 
 At filing, the family's **intake triage body** picks the lead forum family by primary stake. [Subcore 22-A](subcore_22.010_forum_intake_default_venue.md#subcore-22-a-forum-intake-and-default-venue) (*Forum Intake and Default Venue*), attached to this chapter, holds:
 
-- the routing sequence at filing ([§4 Routing Sequence at Filing](subcore_22.010_forum_intake_default_venue.md#4-routing-sequence-at-filing));
-- the default venue table ([§5 Default Venue Table](subcore_22.010_forum_intake_default_venue.md#5-default-venue-table));
-- the limits on default leads ([§6 Lead-Default Limits](subcore_22.010_forum_intake_default_venue.md#6-lead-default-limits)); and
-- the special routing rules ([§7 Special Routing Rules](subcore_22.010_forum_intake_default_venue.md#7-special-routing-rules)).
+- the routing sequence at filing ([Subcore 22-A §4 Routing Sequence at Filing](subcore_22.010_forum_intake_default_venue.md#4-routing-sequence-at-filing));
+- the default venue table ([Subcore 22-A §5 Default Venue Table](subcore_22.010_forum_intake_default_venue.md#5-default-venue-table));
+- the limits on default leads ([Subcore 22-A §6 Lead-Default Limits](subcore_22.010_forum_intake_default_venue.md#6-lead-default-limits)); and
+- the special routing rules ([Subcore 22-A §7 Special Routing Rules](subcore_22.010_forum_intake_default_venue.md#7-special-routing-rules)).
 
 Default venue holds unless **section 6** transfers or consolidates.
 

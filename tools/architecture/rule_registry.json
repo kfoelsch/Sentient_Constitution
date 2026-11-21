@@ -432,6 +432,13 @@
       "status": "blocking"
     },
     {
+      "id": "SUBCORE-CITE-01",
+      "legacy_ref": "subcore cites carry a Subcore N-X label",
+      "summary": "Every Markdown link into a subcore file outside Chapter Three must say which subcore it cites: the link text starts with \"Subcore N-X\" (or \"Subcores\"), or the same line names \"Subcore N-X\" for that file, so term links such as [Type I](subcore_04.050_data_types.md#…) pass beside a (Subcore 4-A) label. Readers then tell standardized detail (Subcore N-X) from fixed guarantee text (Chapter N) by the cite; both have the same force. Chapter Three definition files, footer navigation lines, headings, fenced code, and self-links are out of scope.",
+      "make_target": "subcore-cite-label-audit",
+      "status": "blocking"
+    },
+    {
       "id": "PART-CITE-CHAPTER-01",
       "legacy_ref": "Part-and-section cite names its chapter",
       "summary": "A `Part A`–`Part F` cite, with or without a section number, whose target is in another chapter than the citing file names that chapter directly before `Part` (`Chapter Nine §4.2 Certification Defects and Correction`, `Chapter Nine`, `CS-4.310 Part B §9.3`), because Part letters repeat from chapter to chapter. Short `Part B` is allowed only inside the chapter that holds it and in a connector run after a qualified cite. Reported without an automatic repair: a qualifier or Part letter that disagrees with the link target (`wrong-chapter`, `part-mismatch`), a bare mention in a file whose chapter has no such Part (`unqualified-part`) or a family document that is not itself a Part (`ambiguous-part`), a qualifier naming a Part the chapter lacks (`unknown-part`, `Chapter Eleven`), an unlinked cite whose chapter cannot be found (`unresolved`), and link text that names one chapter while the link goes to another (`link-chapter-mismatch`). `--write` inserts the missing chapter. Headings, code, doc_architecture.md, dated records under implementation/, and dated change-log table rows are out of scope.",
