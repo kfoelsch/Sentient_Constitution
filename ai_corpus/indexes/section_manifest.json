@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-21T20:43:44+00:00",
+  "generated_at": "2026-11-21T20:54:30+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -1101,9 +1101,9 @@
       ]
     },
     "core_26.000_governance.md": {
-      "total_lines": 595,
+      "total_lines": 597,
       "sections": [
-        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":595,"anchor":null},
+        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":597,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":26,"line_end":56,"anchor":null},
         {"header":"2. Why the Constitutional Contract Exists","level":3,"line_start":57,"line_end":84,"anchor":"#2-why-the-constitutional-contract-exists"},
         {"header":"3. Authorization and Legitimacy of Governing Authority","level":3,"line_start":85,"line_end":301,"anchor":null},
@@ -1119,15 +1119,15 @@
         {"header":"3.2.4 Selection-Funding Boundaries","level":5,"line_start":225,"line_end":250,"anchor":"#324-selection-funding-boundaries"},
         {"header":"3.2.5 Forum Appointment Independence Requirement","level":5,"line_start":251,"line_end":259,"anchor":"#325-forum-appointment-independence-requirement"},
         {"header":"3.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails","level":4,"line_start":260,"line_end":301,"anchor":null},
-        {"header":"4. Ethical Culture and Integrity (Federated Scale)","level":3,"line_start":302,"line_end":323,"anchor":null},
-        {"header":"5. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)","level":3,"line_start":324,"line_end":402,"anchor":null},
-        {"header":"5.1 Stewardship Direction","level":4,"line_start":367,"line_end":382,"anchor":null},
-        {"header":"5.2 Ecosystem Value Orientation","level":4,"line_start":383,"line_end":402,"anchor":null},
-        {"header":"6. Voting and Binding Collective Choice Protocols","level":3,"line_start":403,"line_end":548,"anchor":null},
-        {"header":"6.1 Entitlement and Eligibility","level":4,"line_start":419,"line_end":469,"anchor":null},
-        {"header":"6.2 Records, Gates, and Method Neutrality","level":4,"line_start":470,"line_end":511,"anchor":null},
-        {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":512,"line_end":548,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
-        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":549,"line_end":595,"anchor":null}
+        {"header":"4. Ethical Culture and Integrity (Federated Scale)","level":3,"line_start":302,"line_end":325,"anchor":null},
+        {"header":"5. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)","level":3,"line_start":326,"line_end":404,"anchor":null},
+        {"header":"5.1 Stewardship Direction","level":4,"line_start":369,"line_end":384,"anchor":null},
+        {"header":"5.2 Ecosystem Value Orientation","level":4,"line_start":385,"line_end":404,"anchor":null},
+        {"header":"6. Voting and Binding Collective Choice Protocols","level":3,"line_start":405,"line_end":550,"anchor":null},
+        {"header":"6.1 Entitlement and Eligibility","level":4,"line_start":421,"line_end":471,"anchor":null},
+        {"header":"6.2 Records, Gates, and Method Neutrality","level":4,"line_start":472,"line_end":513,"anchor":null},
+        {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":514,"line_end":550,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
+        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":551,"line_end":597,"anchor":null}
       ]
     },
     "core_27.000_non_regression.md": {

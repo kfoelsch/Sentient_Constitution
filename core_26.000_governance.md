@@ -317,9 +317,11 @@ Some forums judge the very authorities that govern, so those authorities must no
 
 *In plain terms: governance cannot run on a culture of corner-cutting — for decisions that hit **affected** **parties** hard, missing integrity means missing legitimacy, whatever the org chart says.*
 
-**Integrity culture** supports **authorization** in practice. Federated and multi-organization contexts must be evaluated through **Chapter Three** definitions and designated implementation text. Operational mechanics, indicators, and procedures for federated integrity, accountability pathways, and organization-level behavior belong in designated implementation layers as applicable. They must be applied under **Subcores 3-A to 3-C** traceability, observability, and verification requirements.
+**Authorization** works in practice only when a culture of integrity stands behind it:
 
-Where observable integrity conditions are absent, **legitimacy claims** under section 3 of this chapter are **presumptively deficient** for **materially high-impact** public decisions.
+- **Many organizations together:** where governance is shared across a federation or several organizations, their integrity is judged by the **Chapter Three** definitions and designated implementation text.
+- **Where the details live:** the day-to-day methods, indicators, and procedures for checking integrity, accountability pathways, and how each organization behaves belong in designated implementation text. They must be applied under the traceability, observability, and verification requirements of [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md).
+- **No visible integrity, no presumed legitimacy:** for a public decision with materially high impact, a claim of legitimacy under [§3 Authorization and Legitimacy of Governing Authority](#3-authorization-and-legitimacy-of-governing-authority) is presumed to fall short when integrity cannot be observed.
 
 ### 5. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)
 <details>
