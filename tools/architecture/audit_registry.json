@@ -172,6 +172,11 @@
       "run": "auto",
       "writes": false
     },
+    "subcore-cite-label-audit": {
+      "category": "links",
+      "run": "auto",
+      "writes": false
+    },
     "section-label-anchor-audit": {
       "category": "links",
       "run": "auto",
@@ -821,6 +826,11 @@
       "writes": false
     },
     "section-cite-name-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "subcore-cite-label-audit-test": {
       "category": "tests",
       "run": "auto",
       "writes": false

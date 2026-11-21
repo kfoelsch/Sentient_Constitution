@@ -165,7 +165,7 @@ The Constitution says *what* must happen and *why*. These four collections spell
 | Material | What it is | Status |
 |---|---|---|
 | **The Constitution text**: the Preamble and Chapters 1–30 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
-| **The subcore**: the `subcore_*` files, each attached to one chapter (today the fifteen Chapter 3 subcore files, [list ↑](#the-full-text)) | The full detail of rules that must be the same everywhere, kept out of the chapters so they stay readable | Part of the Constitution text: binds exactly as its chapter does, and changes only by amendment |
+| **The subcore**: the `subcore_*` files, each attached to one chapter ([list ↑](#the-full-text)) | The full detail of rules that must be the same everywhere, kept out of the chapters so they stay readable | Part of the Constitution text: binds exactly as its chapter does, and changes only by amendment. A cite that begins "Chapter Ten" points to fixed guarantee text, and one that begins "Subcore 10-A" to standardized detail; both have the same force |
 | **Implementation details**: the `corpus_*` files and folders ([list ↑](#implementation-files)) | Step-by-step detail on *how* to carry out what the Constitution requires | Binding only inside an organization that has adopted it; still being developed |
 | **Everything else**: this page, guides, overviews, summaries, and translations | Help for readers | Never binding, and cannot change the meaning of the Constitution |
 

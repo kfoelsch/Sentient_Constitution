@@ -104,26 +104,33 @@ Every system of rules rests on someone's authority to make them. If that authori
 
 <br>
 
-**Governing authority** is the power to make or enforce decisions that materially affect sentients under this Constitution.
-
-It must rest on a [**documented legitimacy mechanism**](subcore_03.080_band_integrative.md#documented-legitimacy-mechanism) chosen and published by the adopter.
-
-Mechanism families, publication, auditability, and pluralism are addressed in **§3.1** (*Mechanism Families, Auditability, and Pluralism*); eligibility for governing roles and democratic-institution minimum checks in **§3.2** (*Eligibility, Contested Selection, and Democratic Minimums*); recall-class mid-cycle transfer guardrails in **§3.3** (*Recall-Class Pathways and Mid-Cycle Transfer Guardrails*).
+**Governing authority** is the power to make or enforce decisions that materially affect sentients under this Constitution. It must rest on a [**documented legitimacy mechanism**](subcore_03.080_band_integrative.md#documented-legitimacy-mechanism) chosen and published by the adopter.
 
 #### 3.1 Mechanism Families, Auditability, and Pluralism
 
 *In plain terms: whoever governs must show a clear, chosen rule for how power is authorized — elections, lotteries, federation votes, **treaty, compact, or Constitutional Charter** processes, or hybrids — not an informal shrug. The active rules must be visible and **open to verification**; silence, mere usage, or branding cannot count as consent. When authorization rots or is captured, **sentients** need real ways to challenge it and, where possible, to renew or replace power peacefully — and different legitimate arrangements may coexist if rights and non-domination hold.*
 
-Recognized mechanism families include:
+<a id="311-mechanism-families"></a>
 
-- representative elections or consent renewal
-- **community-initiated early transfer or reauthorization** (*recall-class* pathways) for **continuing mandates** between ordinary selection or reauthorization events, governed by **§3.3** (*Recall-Class Pathways and Mid-Cycle Transfer Guardrails*)
-- **sortition** or civic lottery for specified bodies
-- **federated ratification** by network members or member bodies under published rules
-- **treaty, compact, or Constitutional Charter** adoption with recorded assent
-- hybrid or ordered designs that satisfy **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gates for **high-impact** decisions
+##### 3.1.1 Mechanism Families
 
-**Sortition integrity and anti-capture use**
+Recognized mechanism families fall into three groups:
+
+- **Selecting, renewing, and replacing those who govern:**
+  - representative elections or consent renewal;
+  - **community-initiated early transfer or reauthorization** (*recall-class* pathways) for **continuing mandates** between ordinary selection or reauthorization events, governed by [§3.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails](#33-recall-class-pathways-and-mid-cycle-transfer-guardrails); and
+  - **sortition** or civic lottery for specified bodies, under [§3.1.2 Sortition Integrity and Anti-Capture Use](#312-sortition-integrity-and-anti-capture-use).
+- **Recorded agreement among members or parties:**
+  - **federated ratification** by network members or member bodies under published rules; and
+  - **treaty, compact, or Constitutional Charter** adoption with recorded assent.
+- **Combinations:**
+  - hybrid or ordered designs that satisfy **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gates for **high-impact** decisions.
+
+<a id="312-sortition-integrity-and-anti-capture-use"></a>
+
+##### 3.1.2 Sortition Integrity and Anti-Capture Use
+
+Sortition is governed by these rules:
 
 - **Anti-capture function:** Sortition may be used as an anti-corruption and anti-capture mechanism for specified governing, oversight, review, agenda-setting, procurement, audit, or constitutional-deliberation bodies where random selection materially reduces predictable capture through:
   - campaign finance;
@@ -162,7 +169,11 @@ Recognized mechanism families include:
   - protected escalation; and
   - response to capture allegations.
 
-**Auditability, publication, and non-usurpation**
+<a id="313-auditability-publication-and-non-usurpation"></a>
+
+##### 3.1.3 Auditability, Publication, and Non-Usurpation
+
+The active mechanism must be open to verification, and nothing short of it counts as authorization:
 
 - **Publication and Proportionality:** The active mechanism must be auditable. Audit records must include:
   - scope;
@@ -171,7 +182,11 @@ Recognized mechanism families include:
   Auditability must be proportionate to the classification under [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification), and to **material impact** under Chapter Three ([*Material*](subcore_03.085_band_oversight.md#material), [*Dependency*](subcore_03.075_band_continuity.md#dependency), [*Stakeholder*](subcore_03.090_band_participation.md#stakeholder)).
 - **Non-Usurpation:** Governing bodies may not treat silence, usage alone, or **marketing alignment** as substitute authorization. Deliberate adoption remains governed by [**Chapter Twenty-Eight §12** (*Ratification and Adoption*)](core_28.000_amendment_ratification.md#12-ratification-and-adoption).
 
-**Contestation, correction, and pluralism**
+<a id="314-contestation-correction-and-pluralism"></a>
+
+##### 3.1.4 Contestation, Correction, and Pluralism
+
+Authorization can fail, and more than one legitimate arrangement can exist:
 
 - **Failure and Correction:** Where authorization is contested, materially drifted, or captured, systems must provide **contestable challenge pathways**. Those challenge pathways include:
   - **Article XII-A** (*Stakeholder System Participation and Representation*) and **Article XII-B** (*Weighted Participation and Anti-Token Constraints*);

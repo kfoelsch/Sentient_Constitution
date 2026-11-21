@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **588** of **987** headings carry a gloss (60%).
+Coverage: **588** of **991** headings carry a gloss (59%).
 
 ## Contents
 
@@ -45,7 +45,7 @@ Coverage: **588** of **987** headings carry a gloss (60%).
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.020_rights_part_c.md` (33/34 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.030_rights_part_d.md` (31/32 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.040_rights_part_e.md` (13/14 glossed)
-- [CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_26.000_governance.md` (14/16 glossed)
+- [CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_26.000_governance.md` (14/20 glossed)
 - [CHAPTER TWENTY-SEVEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-seven-non-regression-and-substantive-amendment-validity) — `core_27.000_non_regression.md` (6/7 glossed)
 - [CHAPTER TWENTY-EIGHT: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-eight-amendment-ratification-and-procedural-validity) — `core_28.000_amendment_ratification.md` (21/22 glossed)
 - [CHAPTER TWENTY-NINE: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-twenty-nine-expansion-supremacy-and-external-legal-orders) — `core_29.000_expansion_supremacy.md` (14/15 glossed)
@@ -5509,7 +5509,7 @@ non-compliant systems and property can be remediated during Adoption Transition 
 
 ## CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP
 
-Source file: [`core_26.000_governance.md`](../../core_26.000_governance.md) · 14/16 headings glossed
+Source file: [`core_26.000_governance.md`](../../core_26.000_governance.md) · 14/20 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -5534,6 +5534,30 @@ power to make rules for others must be earned and kept, not simply held. This ch
 whoever governs must show a clear, chosen rule for how power is authorized — elections, lotteries, federation votes, **treaty, compact, or Constitutional Charter** processes, or hybrids — not an informal shrug. The active rules must be visible and **open to verification**; silence, mere usage, or branding cannot count as consent. When authorization rots or is captured, **sentients** need real ways to challenge it and, where possible, to renew or replace power peacefully — and different legitimate arrangements may coexist if rights and non-domination hold.
 
 [Source](../../core_26.000_governance.md#31-mechanism-families-auditability-and-pluralism)
+
+###### 3.1.1 Mechanism Families
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_governance.md#311-mechanism-families)
+
+###### 3.1.2 Sortition Integrity and Anti-Capture Use
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_governance.md#312-sortition-integrity-and-anti-capture-use)
+
+###### 3.1.3 Auditability, Publication, and Non-Usurpation
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_governance.md#313-auditability-publication-and-non-usurpation)
+
+###### 3.1.4 Contestation, Correction, and Pluralism
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_governance.md#314-contestation-correction-and-pluralism)
 
 ##### 3.2 Eligibility, Contested Selection, and Democratic Minimums
 
