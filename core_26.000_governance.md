@@ -250,7 +250,7 @@ Money given or spent to influence a selection is limited by these rules:
 
 ##### 3.2.5 Forum Appointment Independence Requirement
 
-Certain forums must be staffed through an appointment route that the authority they review cannot control:
+Some forums judge the very authorities that govern, so those authorities must not get to pick who sits on them:
 
 - [**Integrity**](core_23.000_forum_families_escalation_timeliness_support.md#35-integrity-forums), [**Constitutional**](core_23.000_forum_families_escalation_timeliness_support.md#36-constitutional-forums), and [**Environment**](core_23.000_forum_families_escalation_timeliness_support.md#34-environment-forums) forums, and [**Technical Forum Domains**](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) when they hear sentience-status adjudication, must be staffed through **published**, **contested**, **rotatable** appointment or an equivalent independence check (sortition, federated designation, or comparable).
 - This requirement is **mechanism-neutral**: it does not mandate a single polity type or a single appointment method.
