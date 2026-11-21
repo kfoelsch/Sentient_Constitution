@@ -200,7 +200,11 @@ Authorization can fail, and more than one legitimate arrangement can exist:
 
 *In plain terms: you cannot bar someone from governing or critical stewardship roles with a birthday rule — fitness and readiness must be shown in ways that stand up to scrutiny, not smuggled in as age. A real legitimacy mechanism offers real choices, protects dissent enough that it can matter, and includes a credible path to hand power over — not a rigged contest, not retaliation for opposition, and not permanent incumbency dressed up as procedure.*
 
-**Eligibility for governing and critical-stewardship roles**
+<a id="321-eligibility-for-governing-and-critical-stewardship-roles"></a>
+
+##### 3.2.1 Eligibility for Governing and Critical-Stewardship Roles
+
+Age is not a qualification for governing or for critical stewardship:
 
 - **Eligibility without age requirements:**
     - Roles that exercise **governing authority** under this chapter must not impose a **calendar age** or a **life-stage ceiling** as an eligibility condition.
@@ -208,20 +212,28 @@ Authorization can fail, and more than one legitimate arrangement can exist:
     - **Competency**, **succession readiness**, and **fitness** standards remain governed by **Chapter Twenty-Six**, section **6** (*Authorized Roles, Competency Development, and Contribution*), **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)**, designated implementation text, and the institutional family (e.g. appointment and role-pathway mechanics under **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) and related sections) as applicable.
     - Those standards must be **demonstrated** under **Subcores 3-A to 3-C**, subject to [**Substantive Fairness**](subcore_03.090_band_participation.md#substantive-fairness), [**Proportionality**](subcore_03.070_band_accountability.md#proportionality), and [**Necessity**](subcore_03.070_band_accountability.md#necessity) in Chapter Three, and not used as **proxies** for age-based exclusion.
 
-**Contested selection, opposition protection, and peaceful succession**
+<a id="322-contested-selection-opposition-protection-and-peaceful-succession"></a>
 
-- **Democratic-institution minimum checks:** Any legitimacy mechanism that purports to authorize governing authority must, at a minimum, provide all of the following:
+##### 3.2.2 Contested Selection, Opposition Protection, and Peaceful Succession
 
-    1. **Contested selection** — meaningful opportunity for alternative candidates, proposals, or positions to be presented and assessed by the authorizing community.
-    2. **Opposition protection** — real, not merely formal, freedom for dissenting sentients, proposals, and coalitions to organize, communicate, and challenge incumbent authority without retaliation, consistent with **Articles XI-B** (*Expression*), **XI-C** (*Press and Journalistic Activity*), and **XI-D** (*Assembly, Dissent, and Peaceful Protest*), **Article X-A** (*Freedom from Manipulation*), and **Article XV-A** (*Protected Activity*).
-    3. **Peaceful-succession guarantee** — a defined succession pathway for transfer or reauthorization of authority on the terms the mechanism itself states, with denial or material degradation of the peaceful-succession pathway treated as a failure of the mechanism under **Failure and Correction** above.
+Any legitimacy mechanism that purports to authorize governing authority must, at a minimum, provide all of the following **democratic-institution minimum checks**:
 
-    - These minimum checks apply to [**Foundational Constitutional Choice**](subcore_03.080_band_integrative.md#foundational-constitutional-choice) (Chapter Three) and to any other authorization action within the mechanism's scope.
-    - The minimum checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or Constitutional Charter** designs, and hybrid designs alike.
-    - Dissent or peaceful protest against incumbent authority under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) must not reduce governance-voting, candidacy, office-holding, forum-service, or recall rights, and must not be treated as a ground for removal.
-    - Nominal opposition preservation paired with functional exclusion through covert info-sphere dependency, **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, or comparable structural means is non-compliant under both these minimum checks and the **Pluralism** clause.
+1. **Contested selection** — meaningful opportunity for alternative candidates, proposals, or positions to be presented and assessed by the authorizing community.
+2. **Opposition protection** — real, not merely formal, freedom for dissenting sentients, proposals, and coalitions to organize, communicate, and challenge incumbent authority without retaliation, consistent with **Articles XI-B** (*Expression*), **XI-C** (*Press and Journalistic Activity*), and **XI-D** (*Assembly, Dissent, and Peaceful Protest*), **Article X-A** (*Freedom from Manipulation*), and **Article XV-A** (*Protected Activity*).
+3. **Peaceful-succession guarantee** — a defined succession pathway for transfer or reauthorization of authority on the terms the mechanism itself states, with denial or material degradation of the peaceful-succession pathway treated as a failure of the mechanism under **Failure and Correction** above.
 
-**Selection-funding boundaries**
+The democratic-institution minimum checks are applied as follows:
+
+- These minimum checks apply to [**Foundational Constitutional Choice**](subcore_03.080_band_integrative.md#foundational-constitutional-choice) (Chapter Three) and to any other authorization action within the mechanism's scope.
+- The minimum checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or Constitutional Charter** designs, and hybrid designs alike.
+- Dissent or peaceful protest against incumbent authority under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) must not reduce governance-voting, candidacy, office-holding, forum-service, or recall rights, and must not be treated as a ground for removal.
+- Nominal opposition preservation paired with functional exclusion through covert info-sphere dependency, **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, or comparable structural means is non-compliant under both these minimum checks and the **Pluralism** clause.
+
+<a id="323-selection-funding-boundaries"></a>
+
+##### 3.2.3 Selection-Funding Boundaries
+
+Money given or spent to influence a selection is limited by these rules:
 
 - **Money is not speech:** Under [**Article XI-B**](core_04.010_rights_part_b.md#article-xi-b-expression) (*Expression*), giving or spending to influence a selection is conduct, not expression. Contributions to campaigns, candidates, nominees, and appointers can and should be limited, and the limits below are not limits on expression. The purpose is that a selection reflects the authorizing community, not the money behind a candidate.
 - **Scope:** These boundaries apply where a legitimacy mechanism selects governing authority through campaigning, nomination, or competitive appointment. They do not apply to sortition, which has its own integrity requirement above, or to the ratification votes of member bodies in federated or treaty designs.
@@ -256,7 +268,11 @@ Authorization can fail, and more than one legitimate arrangement can exist:
 - **Mechanism-neutral:** These boundaries require a contribution cap but do not require a candidate spending limit or public financing. An adopter may set a spending limit for candidates and nominees; if it does, the limit must be viewpoint-neutral and high enough for a challenger to compete. A design in which undisclosed or ineligible funding can decide a selection fails the **contested selection** check above. Where external law forbids a boundary, the adopter applies it as far as that law allows and publishes the gap, as [Chapter Twenty-Nine](core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law) provides.
 - **Opposition protection:** These rules must not be used to deter the organizing, communication, and dissent protected by **opposition protection** above.
 
-**Forum appointment independence requirement**
+<a id="324-forum-appointment-independence-requirement"></a>
+
+##### 3.2.4 Forum Appointment Independence Requirement
+
+Certain forums must be staffed through an appointment route that the authority they review cannot control:
 
 - [**Integrity**](core_23.000_forum_families_escalation_timeliness_support.md#35-integrity-forums), [**Constitutional**](core_23.000_forum_families_escalation_timeliness_support.md#36-constitutional-forums), and [**Environment**](core_23.000_forum_families_escalation_timeliness_support.md#34-environment-forums) forums, and [**Technical Forum Domains**](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) when they hear sentience-status adjudication, must be staffed through **published**, **contested**, **rotatable** appointment or an equivalent independence check (sortition, federated designation, or comparable).
 - This requirement is **mechanism-neutral**: it does not mandate a single polity type or a single appointment method.

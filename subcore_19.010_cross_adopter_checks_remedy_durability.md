@@ -113,7 +113,7 @@ The following violate this rule where they foreseeably nullify challenge or reme
 - dependence on a single fragile office; or
 - chronic milestone failure.
 
-Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum benches, or of **Technical Forum Domains** benches that hear sentience-status adjudication, is a durability failure under this section, read with [Chapter Twenty-Six §3.2 Eligibility, Contested Selection, and Democratic Minimums](core_26.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums).
+Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum benches, or of **Technical Forum Domains** benches that hear sentience-status adjudication, is a durability failure under this section, read with [Chapter Twenty-Six §3.2.4 Forum Appointment Independence Requirement](core_26.000_governance.md#324-forum-appointment-independence-requirement).
 
 <a id="remedy-parity-funding-minimum"></a>
 **Remedy-parity funding minimum.** For each system class an adopter administers:

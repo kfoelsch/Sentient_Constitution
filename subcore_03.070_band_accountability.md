@@ -2021,7 +2021,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 - Downstream:
   - [Chapter Six §4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
   - [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for influence-contact boundaries, and [Article XIII-C](core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) for post-service and prospective-role conflicts;
-  - [Chapter Twenty-Six §3.2](core_26.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums) (26.000 §3.2) (*Eligibility, Contested Selection, and Democratic Minimums*) for selection-funding boundaries;
+  - [Chapter Twenty-Six §3.2.3](core_26.000_governance.md#323-selection-funding-boundaries) (26.000 §3.2.3) (*Selection-Funding Boundaries*) for selection-funding boundaries;
   - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
   - **CI-26.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*);
   - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*);
