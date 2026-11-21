@@ -102,4 +102,4 @@ The restitution precondition in [Chapter Twenty-Six §6.1 Entitlement and Eligib
 
 **Previous file:** [subcore_26.020_selection_funding.md](subcore_26.020_selection_funding.md)
 
-**Next file:** [core_27.000_non_regression.md](core_27.000_non_regression.md)
+**Next file:** [subcore_26.040_sortition_integrity.md](subcore_26.040_sortition_integrity.md)

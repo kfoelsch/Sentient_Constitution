@@ -12,7 +12,7 @@
 > Where this lives (navigation):
 > - **Constitutional owner:** this chapter defines legitimacy and stewardship requirements for governing authority.
 > - **Implementation owner:** designated implementation layers provide procedural oversight mechanics, staffing design, operational controls, and designated institutional mechanics.
-> - **Attached subcore files:** [Subcore 26-A](subcore_26.010_governance_disclosure.md#subcore-26-a-governance-disclosure) (*Governance Disclosure*) holds the minimum contents of the governance report every institution publishes. [Subcore 26-B](subcore_26.020_selection_funding.md#subcore-26-b-selection-funding) (*Selection Funding*) holds the standard detail of the selection-funding boundaries: the disclosure register, the protected-identity route, the anti-circumvention rules, and the default caps, limits, public-support design, and outcome-review measures. [Subcore 26-C](subcore_26.030_voting_entitlement.md#subcore-26-c-voting-entitlement) (*Voting Entitlement*) holds the standard detail of governance-voting entitlement: how the residence period is counted, the political-equality floor, and the rules for withholding and restoring durable political voice.
+> - **Attached subcore files:** [Subcore 26-A](subcore_26.010_governance_disclosure.md#subcore-26-a-governance-disclosure) (*Governance Disclosure*) holds the minimum contents of the governance report every institution publishes. [Subcore 26-B](subcore_26.020_selection_funding.md#subcore-26-b-selection-funding) (*Selection Funding*) holds the standard detail of the selection-funding boundaries: the disclosure register, the protected-identity route, the anti-circumvention rules, and the default caps, limits, public-support design, and outcome-review measures. [Subcore 26-C](subcore_26.030_voting_entitlement.md#subcore-26-c-voting-entitlement) (*Voting Entitlement*) holds the standard detail of governance-voting entitlement: how the residence period is counted, the political-equality floor, and the rules for withholding and restoring durable political voice. [Subcore 26-D](subcore_26.040_sortition_integrity.md#subcore-26-d-sortition-integrity) (*Sortition Integrity*) holds the standard detail of sortition: the uses it may serve, the integrity rules a mechanism must publish, and the operational safeguards.
 > - **Anti-relocation rule:** constitutional legitimacy thresholds remain here; workflow detail belongs to owner layers.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line uses the same layout as Chapter Four: it appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Where a subsection opens with lead-in sentences before a list (for example, **§§ 3.1–3.2** after the mechanism-family lead-in, section 5 before its **Chapter Three** stewardship-definition index bullets, and section 5.1 before its equality-floor bullets), the gloss sits immediately before the list or the block it most closely tracks. Reader-facing gloss only.
@@ -132,42 +132,17 @@ Recognized mechanism families fall into three groups:
 
 Sortition is governed by these rules:
 
-- **Anti-capture function:** Sortition may be used as an anti-corruption and anti-capture mechanism for specified governing, oversight, review, agenda-setting, procurement, audit, or constitutional-deliberation bodies where random selection materially reduces predictable capture through:
-  - campaign finance;
-  - incumbency dependence;
-  - patronage;
-  - factional gatekeeping; or
-  - pre-selection bribery.
+- **Anti-capture function:** Sortition may be used as an anti-corruption and anti-capture mechanism for specified bodies where random selection materially reduces predictable capture. The bodies it may serve and the capture routes it guards against are listed in [Subcore 26-D §3 Anti-Capture Uses](subcore_26.040_sortition_integrity.md#3-anti-capture-uses).
 - **Required use for Independent Bodies:** The decision-makers of every Independent Body are drawn by lot from the candidates who pass its competency gate, under *Appointment by sortition* in [Chapter Seven §3 Independent Bodies](core_07.000_independent_bodies.md#3-what-makes-a-body-independent).
-- **Integrity requirement:** A sortition mechanism that exercises or materially shapes **governing authority** must publish:
-  - auditable selection rules;
-  - eligibility boundaries;
-  - exclusion grounds;
-  - replacement rules;
-  - rotation cadence;
-  - compensation and access supports;
-  - conflict controls;
-  - briefing and evidence rules;
-  - facilitator or staff independence controls;
-  - anti-lobbying and anti-intimidation safeguards, which apply the **Influence-contact boundaries** of [**Article XIII-B**](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) at their strictest: private contact with selected members about the matter is barred except through the open briefing record; and
-  - contest routes for:
-    - selection failure;
-    - manipulation;
-    - capture; or
-    - procedural distortion.
+- **Integrity requirement:** A sortition mechanism that exercises or materially shapes **governing authority** must publish auditable rules for how members are selected, excluded, replaced, supported, briefed, and protected, and contest routes for selection failure, manipulation, capture, or procedural distortion. The full list is in [Subcore 26-D §4 Published Integrity Rules](subcore_26.040_sortition_integrity.md#4-published-integrity-rules).
+  - Private contact with selected members about the matter is barred except through the open briefing record, applying the **Influence-contact boundaries** of [**Article XIII-B**](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) at their strictest.
 - **No legitimacy laundering:** A civic lottery, citizens' assembly, or randomly selected panel must not be used as legitimacy theater for decisions when an interested authority controls, in a way that defeats meaningful deliberation, contestability, or the participation gates of **Article XII-A** (*Stakeholder System Participation and Representation*) and **Article XII-B** (*Weighted Participation and Anti-Token Constraints*):
   - the agenda;
   - the evidence record;
   - facilitator control;
   - the implementation response; or
   - acceptance criteria.
-- **Implementation owner:** Operational safeguards for sortition integrity belong in designated implementation text and **[CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) anti-capture and anti-corruption controls. Those safeguards include:
-  - randomization verification;
-  - conflict screening;
-  - staffing separation;
-  - disclosure;
-  - protected escalation; and
-  - response to capture allegations.
+- **Implementation owner:** Operational safeguards for sortition integrity belong in designated implementation text and **[CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*). The safeguards they must cover are listed in [Subcore 26-D §5 Operational Safeguards](subcore_26.040_sortition_integrity.md#5-operational-safeguards).
 
 <a id="313-auditability-publication-and-non-usurpation"></a>
 

@@ -86,6 +86,7 @@ CORE_CHAIN = (
     "subcore_26.010_governance_disclosure.md",
     "subcore_26.020_selection_funding.md",
     "subcore_26.030_voting_entitlement.md",
+    "subcore_26.040_sortition_integrity.md",
     "core_27.000_non_regression.md",
     "core_28.000_amendment_ratification.md",
     "core_29.000_expansion_supremacy.md",

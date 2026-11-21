@@ -1106,6 +1106,20 @@
       "ordinal_name": "S26-C"
     },
     {
+      "old_id": "Chapter 26 §3.1.2",
+      "original_file": "core_26.000_governance.md",
+      "machine_id": "SUB-26040",
+      "display_id": "S26-D",
+      "layer": "SUBCORE",
+      "core_home": "26",
+      "title": "S26-D",
+      "destination_file": "subcore_26.040_sortition_integrity.md",
+      "status": "active",
+      "machine_number": "26040",
+      "layer_digit": "0",
+      "ordinal_name": "S26-D"
+    },
+    {
       "old_id": "Chapter 15",
       "original_file": "core_15_non_regression.md",
       "machine_id": "27000",
