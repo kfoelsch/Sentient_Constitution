@@ -272,17 +272,18 @@ Some forums judge the very authorities that govern, so those authorities must no
 
 **Guardrails**
 
-- **Temporal proportionality (petition and procedure):** Initiation and completion requirements for recall-class measures must be **proportionate to elapsed time** since the mandate was last authorized through the mechanism's ordinary **contested selection** or **Foundational Constitutional Choice**, or **affirmatively renewed** on comparable terms. Those requirements include:
-  - petition or sponsor thresholds;
-  - signature windows;
-  - quorums;
-  - voting schedules; and
-  - any supermajority or multi-step confirmation.
-  Shorter elapsed intervals must impose **stricter** requirements absent **documented acute failure**, including:
-  - material misalignment or capture of authorization;
-  - denial of the peaceful-succession pathway; or
-  - **Rights-Floor** threat addressed through **Chapter Four** and adopted implementation procedure.
-  Escalating levels keyed to that clock are permitted in designated implementation text when they satisfy [**Substantive Fairness**](subcore_03.090_band_participation.md#substantive-fairness), [**Necessity**](subcore_03.070_band_accountability.md#necessity), and [**Proportionality**](subcore_03.070_band_accountability.md#proportionality) under **Chapter Two** and **Chapter Three, including its subcore**.
+- **Temporal proportionality (petition and procedure):** The sooner a recall is tried after those in office were last chosen, the harder it must be. The clock starts at the last regular **contested selection**, the last **Foundational Constitutional Choice**, or the last renewal on comparable terms.
+    - **What gets harder early in a term:**
+        - the number of sponsors or signatures a petition needs;
+        - the time allowed to gather signatures;
+        - quorums;
+        - voting schedules; and
+        - any supermajority or extra confirmation step.
+    - **When an early recall is not held to the stricter bar:** when there is a documented acute failure, such as:
+        - authority that is materially misaligned or captured;
+        - denial of the peaceful-succession pathway; or
+        - a threat to the **Rights Floor**, handled under **Chapter Four** and adopted implementation procedure.
+    - **Stepped requirements:** designated implementation text may set requirements that step down as the term goes on, if they meet [**Substantive Fairness**](subcore_03.090_band_participation.md#substantive-fairness), [**Necessity**](subcore_03.070_band_accountability.md#necessity), and [**Proportionality**](subcore_03.070_band_accountability.md#proportionality) under **Chapter Two** and **Chapter Three, including its subcore**.
 - **Procedural fairness:** Recall-class procedures must satisfy applicable **Chapter Four** requirements (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) family, including **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*) where internal role process applies). They must not substitute for individualized **removal-for-cause** or discipline channels where **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) or incorporated procedure is the appropriate venue for the underlying conduct.
 - **Anti-serial abuse and stability:** Mechanisms must include **cooling** or **anti-serial** rules proportionate to **material impact** and the system class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** so recall-class mechanisms cannot be redeployed as structured harassment or permanent campaigning; bad-faith patterns remain contestable under **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XXI-A** (*Justice Objective and Scope*).
 - **High-impact alignment:** Recall-class votes that would change **Foundational Constitutional Choice** outcomes or the legitimacy mechanism itself remain subject to the **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gate and **§3** (*Ethical Culture and Integrity (Federated Scale)*) requirements where applicable.
