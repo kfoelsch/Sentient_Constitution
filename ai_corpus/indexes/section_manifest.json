@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-20T23:55:16+00:00",
+  "generated_at": "2026-11-21T00:00:02+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -644,29 +644,29 @@
       ]
     },
     "core_16.000_standing_integration.md": {
-      "total_lines": 419,
+      "total_lines": 355,
       "sections": [
-        {"header":"CHAPTER SIXTEEN: STANDING INTEGRATION — QUESTION 3, WHAT FOLLOWS?","level":1,"line_start":1,"line_end":419,"anchor":null},
+        {"header":"CHAPTER SIXTEEN: STANDING INTEGRATION — QUESTION 3, WHAT FOLLOWS?","level":1,"line_start":1,"line_end":355,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":35,"line_end":73,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why Standing Integration Exists","level":3,"line_start":74,"line_end":99,"anchor":"#2-why-standing-integration-exists"},
-        {"header":"3. Chapter Fourteen Records Do Not Change","level":3,"line_start":100,"line_end":247,"anchor":"#3-chapter-fourteen-records-do-not-change"},
-        {"header":"3.1 Records the Decision Uses","level":4,"line_start":157,"line_end":181,"anchor":"#31-records-the-decision-uses"},
-        {"header":"3.2 Absent Axes","level":4,"line_start":182,"line_end":194,"anchor":"#32-absent-axes"},
-        {"header":"3.3 Facts and Measurements Stay Fixed","level":4,"line_start":195,"line_end":217,"anchor":"#33-facts-and-measurements-stay-fixed"},
-        {"header":"3.4 What Does Not Count as Standing","level":4,"line_start":218,"line_end":233,"anchor":"#34-what-does-not-count-as-standing"},
-        {"header":"3.5 Changes Come Only through Chapter Fourteen","level":4,"line_start":234,"line_end":240,"anchor":"#35-changes-come-only-through-chapter-fourteen"},
-        {"header":"3.6 The Rights Floor Is Not Reduced","level":4,"line_start":241,"line_end":247,"anchor":"#36-the-rights-floor-is-not-reduced"},
-        {"header":"4. Automatic Integration, Review, and Continuity","level":3,"line_start":248,"line_end":344,"anchor":"#4-automatic-integration-review-and-continuity"},
-        {"header":"4.1 Creating the Integration Record","level":4,"line_start":255,"line_end":261,"anchor":"#41-creating-the-integration-record"},
-        {"header":"4.2 What the Integration Record Identifies","level":4,"line_start":262,"line_end":285,"anchor":"#42-what-the-integration-record-identifies"},
-        {"header":"4.3 Automation and Human Review","level":4,"line_start":286,"line_end":292,"anchor":"#43-automation-and-human-review"},
-        {"header":"4.4 Processing Order","level":4,"line_start":293,"line_end":335,"anchor":"#44-processing-order"},
-        {"header":"4.5 Inspection and Outage Continuity","level":4,"line_start":336,"line_end":344,"anchor":"#45-inspection-and-outage-continuity"},
-        {"header":"5. Descriptor Integration and Attachment Normalization","level":3,"line_start":345,"line_end":419,"anchor":"#5-descriptor-integration-and-attachment-normalization"},
-        {"header":"5.1 Descriptors and Attachments","level":4,"line_start":352,"line_end":363,"anchor":"#51-descriptors-and-attachments"},
-        {"header":"5.2 Importing Descriptors","level":4,"line_start":364,"line_end":374,"anchor":"#52-importing-descriptors"},
-        {"header":"5.3 Violation Attachments","level":4,"line_start":375,"line_end":400,"anchor":"#53-violation-attachments"},
-        {"header":"5.4 What Descriptors and Attachments May Do","level":4,"line_start":401,"line_end":419,"anchor":"#54-what-descriptors-and-attachments-may-do"}
+        {"header":"3. Chapter Fourteen Records Do Not Change","level":3,"line_start":100,"line_end":229,"anchor":"#3-chapter-fourteen-records-do-not-change"},
+        {"header":"3.1 Records the Decision Uses","level":4,"line_start":157,"line_end":163,"anchor":"#31-records-the-decision-uses"},
+        {"header":"3.2 Absent Axes","level":4,"line_start":164,"line_end":176,"anchor":"#32-absent-axes"},
+        {"header":"3.3 Facts and Measurements Stay Fixed","level":4,"line_start":177,"line_end":199,"anchor":"#33-facts-and-measurements-stay-fixed"},
+        {"header":"3.4 What Does Not Count as Standing","level":4,"line_start":200,"line_end":215,"anchor":"#34-what-does-not-count-as-standing"},
+        {"header":"3.5 Changes Come Only through Chapter Fourteen","level":4,"line_start":216,"line_end":222,"anchor":"#35-changes-come-only-through-chapter-fourteen"},
+        {"header":"3.6 The Rights Floor Is Not Reduced","level":4,"line_start":223,"line_end":229,"anchor":"#36-the-rights-floor-is-not-reduced"},
+        {"header":"4. Automatic Integration, Review, and Continuity","level":3,"line_start":230,"line_end":280,"anchor":"#4-automatic-integration-review-and-continuity"},
+        {"header":"4.1 Creating the Integration Record","level":4,"line_start":237,"line_end":243,"anchor":"#41-creating-the-integration-record"},
+        {"header":"4.2 What the Integration Record Identifies","level":4,"line_start":244,"line_end":250,"anchor":"#42-what-the-integration-record-identifies"},
+        {"header":"4.3 Automation and Human Review","level":4,"line_start":251,"line_end":257,"anchor":"#43-automation-and-human-review"},
+        {"header":"4.4 Processing Order","level":4,"line_start":258,"line_end":271,"anchor":"#44-processing-order"},
+        {"header":"4.5 Inspection and Outage Continuity","level":4,"line_start":272,"line_end":280,"anchor":"#45-inspection-and-outage-continuity"},
+        {"header":"5. Descriptor Integration and Attachment Normalization","level":3,"line_start":281,"line_end":355,"anchor":"#5-descriptor-integration-and-attachment-normalization"},
+        {"header":"5.1 Descriptors and Attachments","level":4,"line_start":288,"line_end":299,"anchor":"#51-descriptors-and-attachments"},
+        {"header":"5.2 Importing Descriptors","level":4,"line_start":300,"line_end":310,"anchor":"#52-importing-descriptors"},
+        {"header":"5.3 Violation Attachments","level":4,"line_start":311,"line_end":336,"anchor":"#53-violation-attachments"},
+        {"header":"5.4 What Descriptors and Attachments May Do","level":4,"line_start":337,"line_end":355,"anchor":"#54-what-descriptors-and-attachments-may-do"}
       ]
     },
     "core_17.000_contribution_consequences.md": {
@@ -1877,6 +1877,18 @@
         {"header":"12.6 Scaled Duties","level":4,"line_start":901,"line_end":928,"anchor":null},
         {"header":"13. Classification as Steward","level":3,"line_start":929,"line_end":977,"anchor":null},
         {"header":"14. Stewardship Criticality Levels","level":3,"line_start":978,"line_end":998,"anchor":null}
+      ]
+    },
+    "subcore_16.010_integration_record_processing_order.md": {
+      "total_lines": 147,
+      "sections": [
+        {"header":"SUBCORE 16-A: INTEGRATION RECORD AND PROCESSING ORDER","level":1,"line_start":2,"line_end":147,"anchor":"#subcore-16-a-integration-record-and-processing-order"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
+        {"header":"2. Why the Mechanics Are the Same for Every Adopter","level":3,"line_start":23,"line_end":44,"anchor":null},
+        {"header":"3. Contents of the Standing Records Used","level":3,"line_start":45,"line_end":69,"anchor":"#3-contents-of-the-standing-records-used"},
+        {"header":"4. What the Integration Record Identifies","level":3,"line_start":70,"line_end":93,"anchor":"#4-what-the-integration-record-identifies"},
+        {"header":"5. Processing Order","level":3,"line_start":94,"line_end":136,"anchor":"#5-processing-order"},
+        {"header":"6. Outage Continuity","level":3,"line_start":137,"line_end":147,"anchor":"#6-outage-continuity"}
       ]
     },
     "subcore_17.010_recency_competency_clearance.md": {

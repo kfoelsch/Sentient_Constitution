@@ -158,25 +158,7 @@ Chapter Sixteen starts with the verified Standing Records produced under Chapter
 
 *In plain terms: contribution and violation each have their own verified Standing Record. Use the one that applies to the decision, and never merge the two.*
 
-The decision uses the following verified Standing Records, one for each axis that applies:
-
-- If contribution applies, use the **contribution Standing Record**, including:
-  - its verified facts;
-  - Contribution Axis slot;
-  - supporting evidence;
-  - scope;
-  - time period;
-  - review status; and
-  - contribution descriptors.
-- If violation applies, use the **violation Standing Record**, including:
-  - its verified facts;
-  - Violation Axis slot;
-  - supporting evidence;
-  - scope;
-  - time period;
-  - review status;
-  - process or response character; and
-  - violation descriptors.
+The decision uses the verified Standing Record for each axis that applies: the **contribution Standing Record** where contribution applies, and the **violation Standing Record** where violation applies. Each brings its verified facts, its slot, its evidence, and its descriptors, as listed in [Subcore 16-A §3 Contents of the Standing Records Used](subcore_16.010_integration_record_processing_order.md#3-contents-of-the-standing-records-used). The two are never merged.
 
 <a id="32-absent-axes"></a>
 #### 3.2 Absent Axes
@@ -263,24 +245,7 @@ The standing system must automatically create or update an **integration record*
 
 *In plain terms: every integration record states its inputs, who and what is affected, the results, and what happens next.*
 
-Each integration record must identify the following, in four groups:
-
-1. **Inputs:**
-   - each source Standing Record and its current version;
-   - each applicable fixed Contribution Axis or Violation Axis measurement; and
-   - each descriptor (how the verified benefit or harm happened) and each attachment (the legal or constitutional character of the response), imported unchanged from its source Standing Record and normalized as [§5 Descriptor Integration and Attachment Normalization](#5-descriptor-integration-and-attachment-normalization) provides.
-2. **Who and what is affected:**
-   - affected sentients, interests, systems, and institutions; and
-   - affected gated pathways, meaning the roles, privileges, or kinds of access the decision opens, limits, or closes.
-3. **Results:**
-   - on the violation side: correction, remedy, safeguards, and locks;
-   - on the contribution side: currentness and competency-clearance results; and
-   - the final standing effect for each applicable gated pathway.
-4. **What happens next:**
-   - implementation milestones;
-   - the review route;
-   - reassessment triggers; and
-   - any Chapter Twenty gateway status.
+Each integration record identifies its inputs, who and what is affected, the results on each track with the final standing effect for each applicable gated pathway, and what happens next, including the review route and reassessment triggers. The full list is in [Subcore 16-A §4 What the Integration Record Identifies](subcore_16.010_integration_record_processing_order.md#4-what-the-integration-record-identifies).
 
 <a id="43-automation-and-human-review"></a>
 #### 4.3 Automation and Human Review
@@ -294,43 +259,14 @@ Automation may complete any step for which verified inputs and published rules p
 
 *In plain terms: every decision, automated or manual, follows the same eight steps. The contribution track and the violation track are each decided from their own Standing Record and do not wait for each other. They meet only at the final standing effect, where a lock controls.*
 
-The following processing order applies to both automated and manual decisions. It has eight numbered steps, grouped under four headings:
+Every decision follows one fixed processing order of eight steps, set out in [Subcore 16-A §5 Processing Order](subcore_16.010_integration_record_processing_order.md#5-processing-order): prepare the inputs, decide the consequences on each track, state the outcome, then verify and route. Its guarantees are:
 
-**Prepare the inputs:**
-
-1. validate the Chapter Fourteen records and their current review status; and
-2. normalize shared descriptors and attachments without changing either slot.
-
-**Decide the consequences on each track:**
-
-3. decide contribution consequences:
-   - currentness; and
-   - competency bars and clearances.
-4. decide violation consequences (remedy, correction, and prevention), in this order:
-   - remedy and correction;
-   - locks;
-   - voluntary public accountability expression, where used; and
-   - then lock design and enforcement, which covers:
-     - definition and attachment;
-     - proportionality and calibration;
-     - record visibility and escalation;
-     - special violation rules; and
-     - special locks.
-
-**State the outcome:**
-
-5. state one final standing effect for each applicable gated pathway; and
-6. state restoration and reassessment conditions.
-
-**Verify and route:**
-
-7. verify practical enforceability; and
-8. route a qualifying Violation Axis slot 7–9 finding to [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) where anti-constitutional-misconduct designation (ACMD) is at issue.
-
-Steps 3 and 4 do not depend on each other. They can be decided in either order or together, and both are finished before step 5. Two rules govern how the tracks meet:
-
+- **One order for all:** the same order binds automated and manual decisions.
+- **Slots stay fixed:** descriptors and attachments are normalized without changing either slot.
+- **Tracks do not wait:** the contribution track and the violation track are decided from their own Standing Records, in either order or together, and both finish before the final standing effect is stated.
 - **Independence:** remedy, correction, safeguards, and locks come from the violation Standing Record alone, and contribution is not an input to them ([§3 Violation, Correction, and Prevention](core_18.000_violation_consequences.md#3-violation-correction-and-prevention)). The one exception is help given after the violation, which can count as restitution under [§3.1.2 Remedy](core_18.000_violation_consequences.md#312-remedy).
 - **Lock precedence:** an applicable standing lock controls the gated pathway it attaches to, and no contribution result opens a blocked gated pathway ([§3 Contribution Consequences](core_17.000_contribution_consequences.md#3-contribution-consequences)).
+- **Enforceable, and routed only when it qualifies:** practical enforceability is verified before the decision stands, and only a qualifying Violation Axis slot 7–9 finding goes to [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation), where anti-constitutional-misconduct designation (ACMD) is at issue.
 
 <a id="45-inspection-and-outage-continuity"></a>
 #### 4.5 Inspection and Outage Continuity
@@ -339,7 +275,7 @@ Steps 3 and 4 do not depend on each other. They can be decided in either order o
 
 Every automated or manual result must preserve its inputs, rules, intermediate steps, outcome, and review route in a form that affected parties and authorized reviewers can inspect and challenge.
 
-During a technology outage, authorized bodies must use a manual continuity process that preserves the same required fields, processing order, evidence custody, review rights, and applicable time limits. When the technology returns, the system must reconcile the manual and electronic records, preserve both audit trails, explain any difference, and never silently overwrite a decision.
+**Outages:** a technology outage does not suspend the rules. A manual continuity process keeps the same required fields, order, evidence custody, review rights, and time limits, and when the technology returns the manual and electronic records are reconciled without silently overwriting a decision ([Subcore 16-A §6 Outage Continuity](subcore_16.010_integration_record_processing_order.md#6-outage-continuity)).
 
 <a id="5-descriptor-integration-and-attachment-normalization"></a>
 ### 5. Descriptor Integration and Attachment Normalization
@@ -416,4 +352,4 @@ Descriptors and attachments are limited in these ways:
 
 **Previous file:** [core_15.000_standing_measurement.md](core_15.000_standing_measurement.md)
 
-**Next file:** [core_17.000_contribution_consequences.md](core_17.000_contribution_consequences.md)
+**Next file:** [subcore_16.010_integration_record_processing_order.md](subcore_16.010_integration_record_processing_order.md)

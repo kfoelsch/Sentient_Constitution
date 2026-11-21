@@ -59,6 +59,7 @@ CORE_CHAIN = (
     "core_14.000_standing_assessment.md",
     "core_15.000_standing_measurement.md",
     "core_16.000_standing_integration.md",
+    "subcore_16.010_integration_record_processing_order.md",
     "core_17.000_contribution_consequences.md",
     "subcore_17.010_recency_competency_clearance.md",
     "core_18.000_violation_consequences.md",

@@ -716,6 +716,20 @@
       "pre_reorganization_2026_11_20": "17000"
     },
     {
+      "old_id": "Chapter 16 §§3.1, 4.2, 4.4, 4.5",
+      "original_file": "core_16.000_standing_integration.md",
+      "machine_id": "SUB-16010",
+      "display_id": "S16-A",
+      "layer": "SUBCORE",
+      "core_home": "16",
+      "title": "S16-A",
+      "destination_file": "subcore_16.010_integration_record_processing_order.md",
+      "status": "active",
+      "machine_number": "16010",
+      "layer_digit": "0",
+      "ordinal_name": "S16-A"
+    },
+    {
       "old_id": "Chapter 11",
       "original_file": "core_11_b_contribution_consequences.md",
       "machine_id": "17000",

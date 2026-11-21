@@ -137,6 +137,6 @@ Gated pathway outcomes after bars and clearances are stated under [§3 Final Sta
 
 *Worked examples (they add no rule):* [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): the Question 3 continuation of [CJS-14.105 §8 Riparian cooperative restoration](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-8-riparian-cooperative-restoration-contribution-measurement).
 
-**Previous file:** [core_16.000_standing_integration.md](core_16.000_standing_integration.md)
+**Previous file:** [subcore_16.010_integration_record_processing_order.md](subcore_16.010_integration_record_processing_order.md)
 
 **Next file:** [subcore_17.010_recency_competency_clearance.md](subcore_17.010_recency_competency_clearance.md)
