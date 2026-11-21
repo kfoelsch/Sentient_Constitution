@@ -142,4 +142,4 @@ Where institutions share jurisdiction, evidence custody, review, enforcement sup
 
 **Previous file:** [core_22.000_forum.md](core_22.000_forum.md)
 
-**Next file:** [core_23.000_forum_families_escalation_timeliness_support.md](core_23.000_forum_families_escalation_timeliness_support.md)
+**Next file:** [subcore_22.020_forum_case_seats_contest_routing.md](subcore_22.020_forum_case_seats_contest_routing.md)

@@ -891,6 +891,20 @@
       "pre_subcore_2026_11_20": "22000"
     },
     {
+      "old_id": "Chapter 22 §§5.1-5.6",
+      "original_file": "core_22.000_forum.md",
+      "machine_id": "SUB-22020",
+      "display_id": "S22-B",
+      "layer": "SUBCORE",
+      "core_home": "22",
+      "title": "S22-B",
+      "destination_file": "subcore_22.020_forum_case_seats_contest_routing.md",
+      "status": "active",
+      "machine_number": "22020",
+      "layer_digit": "0",
+      "ordinal_name": "S22-B"
+    },
+    {
       "old_id": "Chapter 23 Part B",
       "original_file": "core_23.005_forum_families_escalation_timeliness_support.md",
       "machine_id": "23000",
