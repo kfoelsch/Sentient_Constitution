@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-21T01:04:56+00:00",
+  "generated_at": "2026-11-21T01:11:50+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -505,39 +505,39 @@
       ]
     },
     "core_13.000_institutional_alignment_certification_records_recertification.md": {
-      "total_lines": 609,
+      "total_lines": 532,
       "sections": [
-        {"header":"CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING","level":1,"line_start":1,"line_end":609,"anchor":null},
+        {"header":"CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING","level":1,"line_start":1,"line_end":532,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":21,"line_end":59,"anchor":null},
         {"header":"2. Why Institutional Records and Recertification Exist","level":3,"line_start":60,"line_end":86,"anchor":"#2-why-institutional-records-and-recertification-exist"},
         {"header":"3. Institutional Certification Record","level":3,"line_start":87,"line_end":148,"anchor":"#3-institutional-certification-record"},
         {"header":"3.1 Minimum Record Contents","level":4,"line_start":114,"line_end":140,"anchor":"#31-minimum-record-contents"},
         {"header":"3.2 Transparency and Auditability of the Institutional Certification Record","level":4,"line_start":141,"line_end":148,"anchor":"#32-transparency-and-auditability-of-the-institutional-certification-record"},
-        {"header":"4. Recertification and Reopening","level":3,"line_start":149,"line_end":462,"anchor":"#4-recertification-and-reopening"},
+        {"header":"4. Recertification and Reopening","level":3,"line_start":149,"line_end":385,"anchor":"#4-recertification-and-reopening"},
         {"header":"4.1 Monitoring, Recertification, and Status","level":4,"line_start":179,"line_end":190,"anchor":"#41-monitoring-recertification-and-status"},
-        {"header":"4.2 Reopening Triggers","level":4,"line_start":191,"line_end":339,"anchor":"#42-reopening-triggers"},
-        {"header":"4.2.1 What Counts as New Material Authority","level":5,"line_start":236,"line_end":260,"anchor":"#421-what-counts-as-new-material-authority"},
-        {"header":"4.2.2 Recertification for New Material Authority","level":5,"line_start":261,"line_end":316,"anchor":"#422-recertification-for-new-material-authority"},
-        {"header":"4.2.3 Blockers to Clearing New Material Authority","level":5,"line_start":317,"line_end":339,"anchor":"#423-blockers-to-clearing-new-material-authority"},
-        {"header":"4.3 Provisional and Full Certification","level":4,"line_start":340,"line_end":408,"anchor":"#43-provisional-and-full-certification"},
-        {"header":"4.3.1 The Two Statuses","level":5,"line_start":348,"line_end":359,"anchor":"#431-the-two-statuses"},
-        {"header":"4.3.2 Failure and Step-Down","level":5,"line_start":360,"line_end":373,"anchor":"#432-failure-and-step-down"},
-        {"header":"4.3.3 Cause of Misalignment","level":5,"line_start":374,"line_end":388,"anchor":"#433-cause-of-misalignment"},
-        {"header":"4.3.4 Tier Windows","level":5,"line_start":389,"line_end":394,"anchor":"#434-tier-windows"},
-        {"header":"4.3.5 Class A Reliance","level":5,"line_start":395,"line_end":402,"anchor":"#435-class-a-reliance"},
-        {"header":"4.3.6 Verification, Not Assertion","level":5,"line_start":403,"line_end":408,"anchor":"#436-verification-not-assertion"},
-        {"header":"4.4 Non-Evasion","level":4,"line_start":409,"line_end":423,"anchor":"#44-non-evasion"},
-        {"header":"4.5 Cascade from System Certifications","level":4,"line_start":424,"line_end":437,"anchor":"#45-cascade-from-system-certifications"},
-        {"header":"4.6 Reopening the Institution's Systems","level":4,"line_start":438,"line_end":462,"anchor":"#46-reopening-the-institutions-systems"},
-        {"header":"5. Challenging a Certification","level":3,"line_start":463,"line_end":526,"anchor":"#5-challenging-a-certification"},
-        {"header":"5.1 When the Path Opens","level":4,"line_start":494,"line_end":506,"anchor":"#51-when-the-path-opens"},
-        {"header":"5.2 Contestability Paths","level":4,"line_start":507,"line_end":526,"anchor":"#52-contestability-paths"},
-        {"header":"6. Relationship to Standing","level":3,"line_start":527,"line_end":609,"anchor":"#6-relationship-to-standing"},
-        {"header":"6.1 What May Pass to Standing","level":4,"line_start":552,"line_end":564,"anchor":"#61-what-may-pass-to-standing"},
-        {"header":"6.2 Every Certification Outcome","level":4,"line_start":565,"line_end":573,"anchor":"#62-every-certification-outcome"},
-        {"header":"6.3 Verified-Input Gate","level":4,"line_start":574,"line_end":584,"anchor":"#63-verified-input-gate"},
-        {"header":"6.4 Contribution Standing Record","level":4,"line_start":585,"line_end":590,"anchor":"#64-contribution-standing-record"},
-        {"header":"6.5 Violation Standing Record","level":4,"line_start":591,"line_end":609,"anchor":"#65-violation-standing-record"}
+        {"header":"4.2 Reopening Triggers","level":4,"line_start":191,"line_end":273,"anchor":"#42-reopening-triggers"},
+        {"header":"4.2.1 What Counts as New Material Authority","level":5,"line_start":236,"line_end":246,"anchor":"#421-what-counts-as-new-material-authority"},
+        {"header":"4.2.2 Recertification for New Material Authority","level":5,"line_start":247,"line_end":261,"anchor":"#422-recertification-for-new-material-authority"},
+        {"header":"4.2.3 Blockers to Clearing New Material Authority","level":5,"line_start":262,"line_end":273,"anchor":"#423-blockers-to-clearing-new-material-authority"},
+        {"header":"4.3 Provisional and Full Certification","level":4,"line_start":274,"line_end":342,"anchor":"#43-provisional-and-full-certification"},
+        {"header":"4.3.1 The Two Statuses","level":5,"line_start":282,"line_end":293,"anchor":"#431-the-two-statuses"},
+        {"header":"4.3.2 Failure and Step-Down","level":5,"line_start":294,"line_end":307,"anchor":"#432-failure-and-step-down"},
+        {"header":"4.3.3 Cause of Misalignment","level":5,"line_start":308,"line_end":322,"anchor":"#433-cause-of-misalignment"},
+        {"header":"4.3.4 Tier Windows","level":5,"line_start":323,"line_end":328,"anchor":"#434-tier-windows"},
+        {"header":"4.3.5 Class A Reliance","level":5,"line_start":329,"line_end":336,"anchor":"#435-class-a-reliance"},
+        {"header":"4.3.6 Verification, Not Assertion","level":5,"line_start":337,"line_end":342,"anchor":"#436-verification-not-assertion"},
+        {"header":"4.4 Non-Evasion","level":4,"line_start":343,"line_end":357,"anchor":"#44-non-evasion"},
+        {"header":"4.5 Cascade from System Certifications","level":4,"line_start":358,"line_end":371,"anchor":"#45-cascade-from-system-certifications"},
+        {"header":"4.6 Reopening the Institution's Systems","level":4,"line_start":372,"line_end":385,"anchor":"#46-reopening-the-institutions-systems"},
+        {"header":"5. Challenging a Certification","level":3,"line_start":386,"line_end":449,"anchor":"#5-challenging-a-certification"},
+        {"header":"5.1 When the Path Opens","level":4,"line_start":417,"line_end":429,"anchor":"#51-when-the-path-opens"},
+        {"header":"5.2 Contestability Paths","level":4,"line_start":430,"line_end":449,"anchor":"#52-contestability-paths"},
+        {"header":"6. Relationship to Standing","level":3,"line_start":450,"line_end":532,"anchor":"#6-relationship-to-standing"},
+        {"header":"6.1 What May Pass to Standing","level":4,"line_start":475,"line_end":487,"anchor":"#61-what-may-pass-to-standing"},
+        {"header":"6.2 Every Certification Outcome","level":4,"line_start":488,"line_end":496,"anchor":"#62-every-certification-outcome"},
+        {"header":"6.3 Verified-Input Gate","level":4,"line_start":497,"line_end":507,"anchor":"#63-verified-input-gate"},
+        {"header":"6.4 Contribution Standing Record","level":4,"line_start":508,"line_end":513,"anchor":"#64-contribution-standing-record"},
+        {"header":"6.5 Violation Standing Record","level":4,"line_start":514,"line_end":532,"anchor":"#65-violation-standing-record"}
       ]
     },
     "core_14.000_standing_assessment.md": {
@@ -1909,6 +1909,19 @@
         {"header":"4. Forum Roles and Sequence","level":3,"line_start":75,"line_end":109,"anchor":"#4-forum-roles-and-sequence"},
         {"header":"5. Remediation Readiness Factors","level":3,"line_start":110,"line_end":133,"anchor":"#5-remediation-readiness-factors"},
         {"header":"6. Denial and Revocation Grounds and the One-System Rule","level":3,"line_start":134,"line_end":167,"anchor":"#6-denial-and-revocation-grounds-and-the-one-system-rule"}
+      ]
+    },
+    "subcore_13.010_new_material_authority_system_reopening.md": {
+      "total_lines": 185,
+      "sections": [
+        {"header":"SUBCORE 13-A: NEW MATERIAL AUTHORITY AND REOPENING THE INSTITUTION'S SYSTEMS","level":1,"line_start":2,"line_end":185,"anchor":"#subcore-13-a-new-material-authority-and-reopening-the-institutions-systems"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
+        {"header":"2. Why the Procedure Is the Same for Every Adopter","level":3,"line_start":23,"line_end":46,"anchor":null},
+        {"header":"3. New Material Authority","level":3,"line_start":47,"line_end":157,"anchor":"#3-new-material-authority"},
+        {"header":"3.1 What Counts as New Material Authority","level":4,"line_start":55,"line_end":79,"anchor":"#31-what-counts-as-new-material-authority"},
+        {"header":"3.2 Recertification for New Material Authority","level":4,"line_start":80,"line_end":135,"anchor":"#32-recertification-for-new-material-authority"},
+        {"header":"3.3 Blockers to Clearing New Material Authority","level":4,"line_start":136,"line_end":157,"anchor":"#33-blockers-to-clearing-new-material-authority"},
+        {"header":"4. Reopening the Institution's Systems","level":3,"line_start":158,"line_end":185,"anchor":"#4-reopening-the-institutions-systems"}
       ]
     },
     "subcore_16.010_integration_record_processing_order.md": {

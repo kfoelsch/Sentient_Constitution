@@ -713,6 +713,20 @@
       "pre_reorganization_2026_11_20": "14000"
     },
     {
+      "old_id": "Chapter 13 §§4.2.1–4.2.3, 4.6",
+      "original_file": "core_13.000_institutional_alignment_certification_records_recertification.md",
+      "machine_id": "SUB-13010",
+      "display_id": "S13-A",
+      "layer": "SUBCORE",
+      "core_home": "13",
+      "title": "S13-A",
+      "destination_file": "subcore_13.010_new_material_authority_system_reopening.md",
+      "status": "active",
+      "machine_number": "13010",
+      "layer_digit": "0",
+      "ordinal_name": "S13-A"
+    },
+    {
       "old_id": "Chapter 10",
       "original_file": "core_10_standing_assessment.md",
       "machine_id": "14000",

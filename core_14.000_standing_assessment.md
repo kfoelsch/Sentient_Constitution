@@ -1103,6 +1103,6 @@ A Standing Record outlasts the system that first held it, and the sentient it is
 
 *Worked examples (they add no rule):* [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): every full vignette opens at Question 1, for example [CJS-14.105 §1 Child Neglect / Care-Duty Failure (Tier A)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-1-child-neglect--care-duty-failure-tier-a), [CJS-14.105 §7 An Ordinary Year with No Filing and No Sensitive Role](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-7-an-ordinary-year-with-no-filing-and-no-sensitive-role), and [CJS-14.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
 
-**Previous file:** [core_13.000_institutional_alignment_certification_records_recertification.md](core_13.000_institutional_alignment_certification_records_recertification.md)
+**Previous file:** [subcore_13.010_new_material_authority_system_reopening.md](subcore_13.010_new_material_authority_system_reopening.md)
 
 **Next file:** [core_15.000_standing_measurement.md](core_15.000_standing_measurement.md)
