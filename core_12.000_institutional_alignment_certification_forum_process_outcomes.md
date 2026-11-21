@@ -318,6 +318,6 @@ Whether an Operating Party falls outside the right to form, under the Limits in 
 
 ---
 
-**Previous file:** [core_11.000_institutional_alignment_certification_evaluation.md](core_11.000_institutional_alignment_certification_evaluation.md)
+**Previous file:** [subcore_11.010_institution_class_evaluation_items.md](subcore_11.010_institution_class_evaluation_items.md)
 
 **Next file:** [subcore_12.010_institutional_certification_seats_sequence_readiness.md](subcore_12.010_institutional_certification_seats_sequence_readiness.md)
