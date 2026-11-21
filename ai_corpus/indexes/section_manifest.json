@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-21T03:42:56+00:00",
+  "generated_at": "2026-11-21T03:57:35+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -592,9 +592,9 @@
       ]
     },
     "core_15.000_standing_measurement.md": {
-      "total_lines": 739,
+      "total_lines": 642,
       "sections": [
-        {"header":"CHAPTER FIFTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?","level":1,"line_start":1,"line_end":739,"anchor":null},
+        {"header":"CHAPTER FIFTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?","level":1,"line_start":1,"line_end":642,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":41,"line_end":73,"anchor":null},
         {"header":"2. Why Standing Measurement Exists","level":3,"line_start":74,"line_end":98,"anchor":"#2-why-standing-measurement-exists"},
         {"header":"3. Question 2 — How Good or Bad Was It?","level":3,"line_start":99,"line_end":173,"anchor":null},
@@ -607,31 +607,21 @@
         {"header":"4.2 Contribution Magnitude-Input and Violation Severity-Input Dimensions","level":4,"line_start":208,"line_end":294,"anchor":"#contribution-table-q1-magnitude-input-dimensions"},
         {"header":"4.2.1 How the Way a Benefit Was Produced Affects What Counts","level":5,"line_start":231,"line_end":242,"anchor":"#contribution-table-q2-magnitude-input-dimensions"},
         {"header":"4.2.2 How the Way a Harm Was Caused Is Recorded","level":5,"line_start":243,"line_end":294,"anchor":null},
-        {"header":"5. Route Descriptor Catalogs and Measurement Roles","level":3,"line_start":295,"line_end":403,"anchor":null},
-        {"header":"5.1 Contribution Route Descriptor Catalog and Measurement Roles","level":4,"line_start":308,"line_end":355,"anchor":"#benefit-route-descriptors-q1-measurement-role"},
-        {"header":"5.1.1 Bodily Safety, Relationships, Care, and Agency","level":5,"line_start":318,"line_end":326,"anchor":"#benefit-route-descriptors-q2-measurement-role"},
-        {"header":"5.1.2 Repair, Property, and Resources","level":5,"line_start":327,"line_end":333,"anchor":null},
-        {"header":"5.1.3 Knowledge, Education, Records, and Discovery","level":5,"line_start":334,"line_end":341,"anchor":null},
-        {"header":"5.1.4 Systems and Constitutional Operation","level":5,"line_start":342,"line_end":348,"anchor":null},
-        {"header":"5.1.5 Ecology and Diligence","level":5,"line_start":349,"line_end":355,"anchor":null},
-        {"header":"5.2 Violation Route Descriptor Catalog and Measurement Roles","level":4,"line_start":356,"line_end":403,"anchor":null},
-        {"header":"5.2.1 Bodily Safety, Relationships, Care, and Agency","level":5,"line_start":362,"line_end":371,"anchor":null},
-        {"header":"5.2.2 Repair, Property, and Resources","level":5,"line_start":372,"line_end":378,"anchor":null},
-        {"header":"5.2.3 Knowledge, Education, Records, and Discovery","level":5,"line_start":379,"line_end":386,"anchor":null},
-        {"header":"5.2.4 Systems and Constitutional Operation","level":5,"line_start":387,"line_end":396,"anchor":null},
-        {"header":"5.2.5 Ecology and Diligence","level":5,"line_start":397,"line_end":403,"anchor":null},
-        {"header":"6. Slot Grammar and Shared Scaling","level":3,"line_start":404,"line_end":473,"anchor":"#651-what-the-slot-grammar-does"},
-        {"header":"6.1 Table 1 — Slot Display Labels","level":4,"line_start":420,"line_end":439,"anchor":"#711-what-the-slot-grammar-does"},
-        {"header":"6.2 Shared Impact-Scaling Rules","level":4,"line_start":440,"line_end":473,"anchor":null},
-        {"header":"7. Constitutional Inputs to Axis Assignment","level":3,"line_start":474,"line_end":532,"anchor":null},
-        {"header":"7.1 Definition Inputs","level":4,"line_start":487,"line_end":499,"anchor":null},
-        {"header":"7.2 Principle Inputs","level":4,"line_start":500,"line_end":509,"anchor":null},
-        {"header":"7.3 Rights-Floor and Article Inputs","level":4,"line_start":510,"line_end":532,"anchor":null},
-        {"header":"8. Unified Proportional LEQU Scale — Contribution and Violation Axes","level":3,"line_start":533,"line_end":643,"anchor":null},
-        {"header":"9. Standard Contribution Measures","level":3,"line_start":644,"line_end":665,"anchor":null},
-        {"header":"10. Measurement Illustrations","level":3,"line_start":666,"line_end":674,"anchor":null},
-        {"header":"11. Hand-Off to Question 3 — Cross-Question Measurement Hooks","level":3,"line_start":675,"line_end":739,"anchor":null},
-        {"header":"11.1 Similar-Looking Facts That Must Stay Separate","level":4,"line_start":720,"line_end":739,"anchor":null}
+        {"header":"5. Route Descriptor Catalogs and Measurement Roles","level":3,"line_start":295,"line_end":327,"anchor":null},
+        {"header":"5.1 Contribution Route Descriptor Catalog and Measurement Roles","level":4,"line_start":308,"line_end":319,"anchor":"#benefit-route-descriptors-q1-measurement-role"},
+        {"header":"5.2 Violation Route Descriptor Catalog and Measurement Roles","level":4,"line_start":320,"line_end":327,"anchor":"#benefit-route-descriptors-q2-measurement-role"},
+        {"header":"6. Slot Grammar and Shared Scaling","level":3,"line_start":328,"line_end":397,"anchor":"#651-what-the-slot-grammar-does"},
+        {"header":"6.1 Table 1 — Slot Display Labels","level":4,"line_start":344,"line_end":363,"anchor":"#711-what-the-slot-grammar-does"},
+        {"header":"6.2 Shared Impact-Scaling Rules","level":4,"line_start":364,"line_end":397,"anchor":null},
+        {"header":"7. Constitutional Inputs to Axis Assignment","level":3,"line_start":398,"line_end":435,"anchor":null},
+        {"header":"7.1 Definition Inputs","level":4,"line_start":411,"line_end":414,"anchor":null},
+        {"header":"7.2 Principle Inputs","level":4,"line_start":415,"line_end":418,"anchor":null},
+        {"header":"7.3 Rights-Floor and Article Inputs","level":4,"line_start":419,"line_end":435,"anchor":null},
+        {"header":"8. Unified Proportional LEQU Scale — Contribution and Violation Axes","level":3,"line_start":436,"line_end":546,"anchor":null},
+        {"header":"9. Standard Contribution Measures","level":3,"line_start":547,"line_end":568,"anchor":null},
+        {"header":"10. Measurement Illustrations","level":3,"line_start":569,"line_end":577,"anchor":null},
+        {"header":"11. Hand-Off to Question 3 — Cross-Question Measurement Hooks","level":3,"line_start":578,"line_end":642,"anchor":null},
+        {"header":"11.1 Similar-Looking Facts That Must Stay Separate","level":4,"line_start":623,"line_end":642,"anchor":null}
       ]
     },
     "core_16.000_standing_integration.md": {
@@ -1954,6 +1944,30 @@
         {"header":"4.3 Additional Fields for Violation Standing Records","level":4,"line_start":148,"line_end":181,"anchor":"#43-additional-fields-for-violation-standing-records"},
         {"header":"5. Unnamed Seats in a System Charter or Institutional Charter","level":3,"line_start":182,"line_end":210,"anchor":"#5-unnamed-seats-in-a-system-charter-or-institutional-charter"},
         {"header":"6. Informal and Small-Scope Records","level":3,"line_start":211,"line_end":265,"anchor":"#6-informal-and-small-scope-records"}
+      ]
+    },
+    "subcore_15.010_route_descriptor_constitutional_input_tables.md": {
+      "total_lines": 207,
+      "sections": [
+        {"header":"SUBCORE 15-A: ROUTE DESCRIPTOR AND CONSTITUTIONAL INPUT TABLES","level":1,"line_start":2,"line_end":207,"anchor":"#subcore-15-a-route-descriptor-and-constitutional-input-tables"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
+        {"header":"2. Why the Tables Are the Same for Every Adopter","level":3,"line_start":23,"line_end":43,"anchor":null},
+        {"header":"3. Contribution Route Descriptors","level":3,"line_start":44,"line_end":98,"anchor":"#3-contribution-route-descriptors"},
+        {"header":"3.1 Bodily Safety, Relationships, Care, and Agency","level":4,"line_start":52,"line_end":62,"anchor":"#31-bodily-safety-relationships-care-and-agency"},
+        {"header":"3.2 Repair, Property, and Resources","level":4,"line_start":63,"line_end":71,"anchor":"#32-repair-property-and-resources"},
+        {"header":"3.3 Knowledge, Education, Records, and Discovery","level":4,"line_start":72,"line_end":81,"anchor":"#33-knowledge-education-records-and-discovery"},
+        {"header":"3.4 Systems and Constitutional Operation","level":4,"line_start":82,"line_end":90,"anchor":"#34-systems-and-constitutional-operation"},
+        {"header":"3.5 Ecology and Diligence","level":4,"line_start":91,"line_end":98,"anchor":"#35-ecology-and-diligence"},
+        {"header":"4. Violation Route Descriptors","level":3,"line_start":99,"line_end":157,"anchor":"#4-violation-route-descriptors"},
+        {"header":"4.1 Bodily Safety, Relationships, Care, and Agency","level":4,"line_start":107,"line_end":118,"anchor":"#41-bodily-safety-relationships-care-and-agency"},
+        {"header":"4.2 Repair, Property, and Resources","level":4,"line_start":119,"line_end":127,"anchor":"#42-repair-property-and-resources"},
+        {"header":"4.3 Knowledge, Education, Records, and Discovery","level":4,"line_start":128,"line_end":137,"anchor":"#43-knowledge-education-records-and-discovery"},
+        {"header":"4.4 Systems and Constitutional Operation","level":4,"line_start":138,"line_end":149,"anchor":"#44-systems-and-constitutional-operation"},
+        {"header":"4.5 Ecology and Diligence","level":4,"line_start":150,"line_end":157,"anchor":"#45-ecology-and-diligence"},
+        {"header":"5. Constitutional Input Tables","level":3,"line_start":158,"line_end":207,"anchor":"#5-constitutional-input-tables"},
+        {"header":"5.1 Definition Inputs","level":4,"line_start":166,"line_end":180,"anchor":"#51-definition-inputs"},
+        {"header":"5.2 Principle Inputs","level":4,"line_start":181,"line_end":192,"anchor":"#52-principle-inputs"},
+        {"header":"5.3 Rights-Floor and Article Inputs","level":4,"line_start":193,"line_end":207,"anchor":"#53-rights-floor-and-article-inputs"}
       ]
     },
     "subcore_16.010_integration_record_processing_order.md": {

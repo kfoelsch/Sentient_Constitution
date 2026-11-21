@@ -785,6 +785,20 @@
       "pre_reorganization_2026_11_20": "16000"
     },
     {
+      "old_id": "Chapter 15 §§5.1.1–5.2.5 and 7.1–7.3 tables",
+      "original_file": "core_15.000_standing_measurement.md",
+      "machine_id": "SUB-15010",
+      "display_id": "S15-A",
+      "layer": "SUBCORE",
+      "core_home": "15",
+      "title": "S15-A",
+      "destination_file": "subcore_15.010_route_descriptor_constitutional_input_tables.md",
+      "status": "active",
+      "machine_number": "15010",
+      "layer_digit": "0",
+      "ordinal_name": "S15-A"
+    },
+    {
       "old_id": "Chapter 11",
       "original_file": "core_11_standing_integration.md",
       "machine_id": "16000",

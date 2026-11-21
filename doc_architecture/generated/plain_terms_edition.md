@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **588** of **997** headings carry a gloss (59%).
+Coverage: **588** of **987** headings carry a gloss (60%).
 
 ## Contents
 
@@ -29,7 +29,7 @@ Coverage: **588** of **997** headings carry a gloss (59%).
 - [CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-twelve-institutional-alignment-certification--forum-process-and-outcomes) — `core_12.000_institutional_alignment_certification_forum_process_outcomes.md` (12/15 glossed)
 - [CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-thirteen-institutional-alignment-certification--records-recertification-challenge-and-standing) — `core_13.000_institutional_alignment_certification_records_recertification.md` (12/31 glossed)
 - [CHAPTER FOURTEEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-fourteen-standing-records--question-1-what-happened) — `core_14.000_standing_assessment.md` (9/46 glossed)
-- [CHAPTER FIFTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) — `core_15.000_standing_measurement.md` (11/38 glossed)
+- [CHAPTER FIFTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) — `core_15.000_standing_measurement.md` (11/28 glossed)
 - [CHAPTER SIXTEEN: STANDING INTEGRATION — QUESTION 3, WHAT FOLLOWS?](#chapter-sixteen-standing-integration--question-3-what-follows) — `core_16.000_standing_integration.md` (20/21 glossed)
 - [CHAPTER SEVENTEEN: CONTRIBUTION CONSEQUENCES](#chapter-seventeen-contribution-consequences) — `core_17.000_contribution_consequences.md` (5/6 glossed)
 - [CHAPTER EIGHTEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-eighteen-violation-consequences--remedy-correction-and-locks) — `core_18.000_violation_consequences.md` (41/49 glossed)
@@ -2967,7 +2967,7 @@ once custody is settled, five rules govern how the sentients and offices that ho
 
 ## CHAPTER FIFTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?
 
-Source file: [`core_15.000_standing_measurement.md`](../../core_15.000_standing_measurement.md) · 11/38 headings glossed
+Source file: [`core_15.000_standing_measurement.md`](../../core_15.000_standing_measurement.md) · 11/28 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -3053,71 +3053,11 @@ the two catalogs below name the kinds of verified help (**section 5.1**) and har
 
 [Source](../../core_15.000_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles)
 
-###### 5.1.1 Bodily Safety, Relationships, Care, and Agency
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#511-bodily-safety-relationships-care-and-agency)
-
-###### 5.1.2 Repair, Property, and Resources
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#512-repair-property-and-resources)
-
-###### 5.1.3 Knowledge, Education, Records, and Discovery
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#513-knowledge-education-records-and-discovery)
-
-###### 5.1.4 Systems and Constitutional Operation
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#514-systems-and-constitutional-operation)
-
-###### 5.1.5 Ecology and Diligence
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#515-ecology-and-diligence)
-
 ##### 5.2 Violation Route Descriptor Catalog and Measurement Roles
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_15.000_standing_measurement.md#52-violation-route-descriptor-catalog-and-measurement-roles)
-
-###### 5.2.1 Bodily Safety, Relationships, Care, and Agency
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#521-bodily-safety-relationships-care-and-agency)
-
-###### 5.2.2 Repair, Property, and Resources
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#522-repair-property-and-resources)
-
-###### 5.2.3 Knowledge, Education, Records, and Discovery
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#523-knowledge-education-records-and-discovery)
-
-###### 5.2.4 Systems and Constitutional Operation
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#524-systems-and-constitutional-operation)
-
-###### 5.2.5 Ecology and Diligence
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#525-ecology-and-diligence)
 
 #### 6. Slot Grammar and Shared Scaling
 

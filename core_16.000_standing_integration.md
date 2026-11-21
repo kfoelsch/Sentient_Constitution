@@ -350,6 +350,6 @@ Descriptors and attachments are limited in these ways:
 
 *Worked examples (they add no rule):* [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): [CJS-14.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-10-question-3-routing-patterns) and the Question 3 continuations of [CJS-14.105 §8 Riparian cooperative restoration](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-8-riparian-cooperative-restoration-contribution-measurement) and [CJS-14.105 §9 Watershed steward negligence](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
 
-**Previous file:** [core_15.000_standing_measurement.md](core_15.000_standing_measurement.md)
+**Previous file:** [subcore_15.010_route_descriptor_constitutional_input_tables.md](subcore_15.010_route_descriptor_constitutional_input_tables.md)
 
 **Next file:** [subcore_16.010_integration_record_processing_order.md](subcore_16.010_integration_record_processing_order.md)
