@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-21T00:00:02+00:00",
+  "generated_at": "2026-11-21T00:04:14+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -494,23 +494,23 @@
       ]
     },
     "core_12.000_institutional_alignment_certification_forum_process_outcomes.md": {
-      "total_lines": 386,
+      "total_lines": 323,
       "sections": [
-        {"header":"CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES","level":1,"line_start":1,"line_end":386,"anchor":null},
+        {"header":"CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES","level":1,"line_start":1,"line_end":323,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":21,"line_end":51,"anchor":null},
         {"header":"2. Why Forum Review of Institutional Certification Exists","level":3,"line_start":52,"line_end":80,"anchor":"#2-why-forum-review-of-institutional-certification-exists"},
-        {"header":"3. Forum Process","level":3,"line_start":81,"line_end":185,"anchor":"#3-forum-process"},
-        {"header":"3.1 Four Seats in an Institutional Certification","level":4,"line_start":109,"line_end":136,"anchor":"#31-four-seats-in-an-institutional-certification"},
-        {"header":"3.2 Forum Roles and Sequence","level":4,"line_start":137,"line_end":170,"anchor":"#32-forum-roles-and-sequence"},
-        {"header":"3.3 Forums, Certifiers, and Record Offices as Institutions","level":4,"line_start":171,"line_end":185,"anchor":"#33-forums-certifiers-and-record-offices-as-institutions"},
-        {"header":"4. Certification Outcomes","level":3,"line_start":186,"line_end":386,"anchor":"#4-certification-outcomes"},
-        {"header":"4.1 Go-Live for an Institution","level":4,"line_start":228,"line_end":274,"anchor":"#41-go-live-for-an-institution"},
-        {"header":"4.1.1 Certification Conditions","level":5,"line_start":243,"line_end":259,"anchor":"#411-certification-conditions"},
-        {"header":"4.1.2 Other Effects of an Outcome","level":5,"line_start":260,"line_end":274,"anchor":"#412-other-effects-of-an-outcome"},
-        {"header":"4.2 Certification Defects and Correction","level":4,"line_start":275,"line_end":291,"anchor":"#42-certification-defects-and-correction"},
-        {"header":"4.3 Remediation Readiness for an Institution","level":4,"line_start":292,"line_end":316,"anchor":"#43-remediation-readiness-for-an-institution"},
-        {"header":"4.4 Denial and Revocation for an Institution","level":4,"line_start":317,"line_end":347,"anchor":"#44-denial-and-revocation-for-an-institution"},
-        {"header":"4.5 Effects of Denial and Revocation for an Institution","level":4,"line_start":348,"line_end":386,"anchor":"#45-effects-of-denial-and-revocation-for-an-institution"}
+        {"header":"3. Forum Process","level":3,"line_start":81,"line_end":150,"anchor":"#3-forum-process"},
+        {"header":"3.1 Four Seats in an Institutional Certification","level":4,"line_start":109,"line_end":121,"anchor":"#31-four-seats-in-an-institutional-certification"},
+        {"header":"3.2 Forum Roles and Sequence","level":4,"line_start":122,"line_end":135,"anchor":"#32-forum-roles-and-sequence"},
+        {"header":"3.3 Forums, Certifiers, and Record Offices as Institutions","level":4,"line_start":136,"line_end":150,"anchor":"#33-forums-certifiers-and-record-offices-as-institutions"},
+        {"header":"4. Certification Outcomes","level":3,"line_start":151,"line_end":323,"anchor":"#4-certification-outcomes"},
+        {"header":"4.1 Go-Live for an Institution","level":4,"line_start":193,"line_end":239,"anchor":"#41-go-live-for-an-institution"},
+        {"header":"4.1.1 Certification Conditions","level":5,"line_start":208,"line_end":224,"anchor":"#411-certification-conditions"},
+        {"header":"4.1.2 Other Effects of an Outcome","level":5,"line_start":225,"line_end":239,"anchor":"#412-other-effects-of-an-outcome"},
+        {"header":"4.2 Certification Defects and Correction","level":4,"line_start":240,"line_end":256,"anchor":"#42-certification-defects-and-correction"},
+        {"header":"4.3 Remediation Readiness for an Institution","level":4,"line_start":257,"line_end":269,"anchor":"#43-remediation-readiness-for-an-institution"},
+        {"header":"4.4 Denial and Revocation for an Institution","level":4,"line_start":270,"line_end":284,"anchor":"#44-denial-and-revocation-for-an-institution"},
+        {"header":"4.5 Effects of Denial and Revocation for an Institution","level":4,"line_start":285,"line_end":323,"anchor":"#45-effects-of-denial-and-revocation-for-an-institution"}
       ]
     },
     "core_13.000_institutional_alignment_certification_records_recertification.md": {
@@ -1877,6 +1877,18 @@
         {"header":"12.6 Scaled Duties","level":4,"line_start":901,"line_end":928,"anchor":null},
         {"header":"13. Classification as Steward","level":3,"line_start":929,"line_end":977,"anchor":null},
         {"header":"14. Stewardship Criticality Levels","level":3,"line_start":978,"line_end":998,"anchor":null}
+      ]
+    },
+    "subcore_12.010_institutional_certification_seats_sequence_readiness.md": {
+      "total_lines": 167,
+      "sections": [
+        {"header":"SUBCORE 12-A: INSTITUTIONAL CERTIFICATION SEATS, SEQUENCE, AND READINESS","level":1,"line_start":2,"line_end":167,"anchor":"#subcore-12-a-institutional-certification-seats-sequence-and-readiness"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
+        {"header":"2. Why the Detail Is the Same for Every Adopter","level":3,"line_start":23,"line_end":45,"anchor":null},
+        {"header":"3. Four Seats in an Institutional Certification","level":3,"line_start":46,"line_end":74,"anchor":"#3-four-seats-in-an-institutional-certification"},
+        {"header":"4. Forum Roles and Sequence","level":3,"line_start":75,"line_end":109,"anchor":"#4-forum-roles-and-sequence"},
+        {"header":"5. Remediation Readiness Factors","level":3,"line_start":110,"line_end":133,"anchor":"#5-remediation-readiness-factors"},
+        {"header":"6. Denial and Revocation Grounds and the One-System Rule","level":3,"line_start":134,"line_end":167,"anchor":"#6-denial-and-revocation-grounds-and-the-one-system-rule"}
       ]
     },
     "subcore_16.010_integration_record_processing_order.md": {

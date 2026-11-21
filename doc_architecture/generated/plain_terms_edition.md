@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **586** of **1006** headings carry a gloss (58%).
+Coverage: **588** of **1006** headings carry a gloss (58%).
 
 ## Contents
 
@@ -26,7 +26,7 @@ Coverage: **586** of **1006** headings carry a gloss (58%).
 - [CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-system-alignment-certification--forum-process-and-outcomes) — `core_09.000_system_alignment_certification_forum_process_outcomes.md` (11/37 glossed)
 - [CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-ten-system-alignment-certification--records-recertification-challenge-and-standing) — `core_10.000_system_alignment_certification_records_recertification.md` (12/36 glossed)
 - [CHAPTER ELEVEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eleven-institutional-alignment-certification--evaluation) — `core_11.000_institutional_alignment_certification_evaluation.md` (5/12 glossed)
-- [CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-twelve-institutional-alignment-certification--forum-process-and-outcomes) — `core_12.000_institutional_alignment_certification_forum_process_outcomes.md` (10/15 glossed)
+- [CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-twelve-institutional-alignment-certification--forum-process-and-outcomes) — `core_12.000_institutional_alignment_certification_forum_process_outcomes.md` (12/15 glossed)
 - [CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-thirteen-institutional-alignment-certification--records-recertification-challenge-and-standing) — `core_13.000_institutional_alignment_certification_records_recertification.md` (12/31 glossed)
 - [CHAPTER FOURTEEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-fourteen-standing-records--question-1-what-happened) — `core_14.000_standing_assessment.md` (9/46 glossed)
 - [CHAPTER FIFTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) — `core_15.000_standing_measurement.md` (11/38 glossed)
@@ -2475,7 +2475,7 @@ the same rule as in the section before: a Rights-Floor or domain check runs on t
 
 ## CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES
 
-Source file: [`core_12.000_institutional_alignment_certification_forum_process_outcomes.md`](../../core_12.000_institutional_alignment_certification_forum_process_outcomes.md) · 10/15 headings glossed
+Source file: [`core_12.000_institutional_alignment_certification_forum_process_outcomes.md`](../../core_12.000_institutional_alignment_certification_forum_process_outcomes.md) · 12/15 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -2497,13 +2497,13 @@ the same independent forums, in the same order, review the institution, with the
 
 ##### 3.1 Four Seats in an Institutional Certification
 
-*(no plain-terms gloss in source)*
+the same four seats as in any certification, and the Institution never picks or controls the seats that judge, keep, or hear challenges to its own certification.
 
 [Source](../../core_12.000_institutional_alignment_certification_forum_process_outcomes.md#31-four-seats-in-an-institutional-certification)
 
 ##### 3.2 Forum Roles and Sequence
 
-*(no plain-terms gloss in source)*
+an Integrity Forum leads, the Institutional Forums judge the core parts, a System's own questions stay in the System's own review, and the sentients the Institution affects can speak, anonymously if they need to.
 
 [Source](../../core_12.000_institutional_alignment_certification_forum_process_outcomes.md#32-forum-roles-and-sequence)
 
