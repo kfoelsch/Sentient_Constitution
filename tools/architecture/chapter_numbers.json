@@ -626,6 +626,20 @@
       "pre_reorganization_2026_11_20": "11000"
     },
     {
+      "old_id": "none",
+      "original_file": "core_10.000_system_alignment_certification_records_recertification.md",
+      "machine_id": "SUB-10010",
+      "display_id": "S10-A",
+      "layer": "SUBCORE",
+      "core_home": "10",
+      "title": "S10-A",
+      "destination_file": "subcore_10.010_system_certification_record_contents.md",
+      "status": "active",
+      "machine_number": "10010",
+      "layer_digit": "0",
+      "ordinal_name": "S10-A"
+    },
+    {
       "old_id": "Chapter 9",
       "original_file": "core_09_d_institutional_alignment_certification.md",
       "machine_id": "11000",

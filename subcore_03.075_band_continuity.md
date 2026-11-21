@@ -1534,7 +1534,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Ten §3.1.8 Outcome and Reliance Limits](core_10.000_system_alignment_certification_records_recertification.md#318-outcome-and-reliance-limits) (10.000 §3.1.8) (*outcome and reliance limits*); read with [Chapter Nine §4.1 Go-Live Gate](core_09.000_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (9.000 §4.1) (*go-live gate*) and [Chapter Nine §3.3 Contestability Chain](core_09.000_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain) (9.000 §3.3) (*reliance limits during a contest*).
+- Canonical owner: [Subcore 10-A §3.8 Outcome and Reliance Limits](subcore_10.010_system_certification_record_contents.md#38-outcome-and-reliance-limits) (S10-A §3.8) (*outcome and reliance limits*); read with [Chapter Nine §4.1 Go-Live Gate](core_09.000_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (9.000 §4.1) (*go-live gate*) and [Chapter Nine §3.3 Contestability Chain](core_09.000_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain) (9.000 §3.3) (*reliance limits during a contest*).
 - Cluster component: none.
 - Read with:
   - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
@@ -1554,7 +1554,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
     - a [Stay](subcore_03.070_band_accountability.md#stay), which postpones or blocks an action or outcome —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification); [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record); [Certification Condition](subcore_03.075_band_continuity.md#certification-condition).
-  - The System Certification Record entry is stated in [Chapter Ten §3.1.8 Outcome and Reliance Limits](core_10.000_system_alignment_certification_records_recertification.md#318-outcome-and-reliance-limits), the limits during a contest in [Chapter Nine §3.3 Contestability Chain](core_09.000_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain), and the bar on go-live in [Chapter Nine §4.1 Go-Live Gate](core_09.000_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate); this entry is the Chapter Three meaning only.
+  - The System Certification Record entry is stated in [Subcore 10-A §3.8 Outcome and Reliance Limits](subcore_10.010_system_certification_record_contents.md#38-outcome-and-reliance-limits), the limits during a contest in [Chapter Nine §3.3 Contestability Chain](core_09.000_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain), and the bar on go-live in [Chapter Nine §4.1 Go-Live Gate](core_09.000_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate); this entry is the Chapter Three meaning only.
 <a id="reliance-limits-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*

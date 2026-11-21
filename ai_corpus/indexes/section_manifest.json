@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-21T00:48:50+00:00",
+  "generated_at": "2026-11-21T01:04:56+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -436,44 +436,35 @@
       ]
     },
     "core_10.000_system_alignment_certification_records_recertification.md": {
-      "total_lines": 846,
+      "total_lines": 684,
       "sections": [
-        {"header":"CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING","level":1,"line_start":1,"line_end":846,"anchor":null},
+        {"header":"CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING","level":1,"line_start":1,"line_end":684,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":45,"line_end":81,"anchor":null},
         {"header":"2. Why Certification Records and Recertification Exist","level":3,"line_start":82,"line_end":107,"anchor":"#2-why-certification-records-and-recertification-exist"},
-        {"header":"3. System Certification Record","level":3,"line_start":108,"line_end":428,"anchor":null},
-        {"header":"3.1 Minimum Record Contents","level":4,"line_start":198,"line_end":379,"anchor":"#31-minimum-record-contents"},
-        {"header":"3.1.1 System Identity, Scope, and Prior System Certification Record","level":5,"line_start":206,"line_end":219,"anchor":"#311-system-identity-scope-and-prior-system-certification-record"},
-        {"header":"3.1.2 Classification and Whole-System Findings","level":5,"line_start":220,"line_end":241,"anchor":"#312-classification-and-whole-system-findings"},
-        {"header":"3.1.3 System Data Types Record","level":5,"line_start":242,"line_end":258,"anchor":"#313-system-data-types-record"},
-        {"header":"3.1.4 Rights-Floor and Domain Findings","level":5,"line_start":259,"line_end":283,"anchor":"#314-rights-floor-and-domain-findings"},
-        {"header":"3.1.5 Technical Evidence and Review Findings","level":5,"line_start":284,"line_end":304,"anchor":"#315-technical-evidence-and-review-findings"},
-        {"header":"3.1.6 Supervision, Independence, and Challenge Paths","level":5,"line_start":305,"line_end":317,"anchor":"#316-supervision-independence-and-challenge-paths"},
-        {"header":"3.1.7 Concerns, Cause, and Remediation Readiness","level":5,"line_start":318,"line_end":337,"anchor":"#317-concerns-cause-and-remediation-readiness"},
-        {"header":"3.1.8 Outcome and Reliance Limits","level":5,"line_start":338,"line_end":349,"anchor":"#318-outcome-and-reliance-limits"},
-        {"header":"3.1.9 Operating Plan","level":5,"line_start":350,"line_end":367,"anchor":"#319-operating-plan"},
-        {"header":"3.1.10 Completeness","level":5,"line_start":368,"line_end":379,"anchor":"#3110-completeness"},
-        {"header":"3.2 Transparency and Auditability of the System Certification Record","level":4,"line_start":380,"line_end":428,"anchor":"#32-transparency-and-auditability-of-the-system-certification-record"},
-        {"header":"4. Recertification and Reopening","level":3,"line_start":429,"line_end":651,"anchor":"#4-recertification-and-reopening"},
-        {"header":"4.1 Recertification Schedule and the New System Certification Record","level":4,"line_start":487,"line_end":501,"anchor":"#41-recertification-schedule-and-the-new-system-certification-record"},
-        {"header":"4.2 Reopening Triggers","level":4,"line_start":502,"line_end":531,"anchor":"#42-reopening-triggers"},
-        {"header":"4.3 Provisional and Full Certification","level":4,"line_start":532,"line_end":641,"anchor":"#43-provisional-and-full-certification"},
-        {"header":"4.3.1 The Two Statuses","level":5,"line_start":538,"line_end":572,"anchor":"#431-the-two-statuses"},
-        {"header":"4.3.2 Failure and Step-Down","level":5,"line_start":573,"line_end":583,"anchor":"#432-failure-and-step-down"},
-        {"header":"4.3.3 Cause of Misalignment","level":5,"line_start":584,"line_end":608,"anchor":"#433-cause-of-misalignment"},
-        {"header":"4.3.4 Tier Windows","level":5,"line_start":609,"line_end":619,"anchor":"#434-tier-windows"},
-        {"header":"4.3.5 Class A Reliance","level":5,"line_start":620,"line_end":630,"anchor":"#435-class-a-reliance"},
-        {"header":"4.3.6 Verification, Not Assertion","level":5,"line_start":631,"line_end":641,"anchor":"#436-verification-not-assertion"},
-        {"header":"4.4 Non-Evasion","level":4,"line_start":642,"line_end":651,"anchor":"#44-non-evasion"},
-        {"header":"5. Challenging a Certification","level":3,"line_start":652,"line_end":739,"anchor":"#5-challenging-a-certification"},
-        {"header":"5.1 When the Path Opens","level":4,"line_start":705,"line_end":719,"anchor":"#51-when-the-path-opens"},
-        {"header":"5.2 Contestability Paths","level":4,"line_start":720,"line_end":739,"anchor":"#52-contestability-paths"},
-        {"header":"6. Relationship to Standing","level":3,"line_start":740,"line_end":846,"anchor":"#6-relationship-to-standing"},
-        {"header":"6.1 What a System Certification Record Can Pass on to Standing","level":4,"line_start":770,"line_end":786,"anchor":"#61-what-a-system-certification-record-can-pass-on-to-standing"},
-        {"header":"6.2 Every Certification Outcome","level":4,"line_start":787,"line_end":794,"anchor":"#62-every-certification-outcome"},
-        {"header":"6.3 Verified-Input Gate","level":4,"line_start":795,"line_end":805,"anchor":"#63-verified-input-gate"},
-        {"header":"6.4 Contribution Standing Record","level":4,"line_start":806,"line_end":818,"anchor":"#64-contribution-standing-record"},
-        {"header":"6.5 Violation Standing Record","level":4,"line_start":819,"line_end":846,"anchor":"#65-violation-standing-record"}
+        {"header":"3. System Certification Record","level":3,"line_start":108,"line_end":266,"anchor":null},
+        {"header":"3.1 Minimum Record Contents","level":4,"line_start":198,"line_end":217,"anchor":"#31-minimum-record-contents"},
+        {"header":"3.1.10 Completeness","level":5,"line_start":206,"line_end":217,"anchor":"#3110-completeness"},
+        {"header":"3.2 Transparency and Auditability of the System Certification Record","level":4,"line_start":218,"line_end":266,"anchor":"#32-transparency-and-auditability-of-the-system-certification-record"},
+        {"header":"4. Recertification and Reopening","level":3,"line_start":267,"line_end":489,"anchor":"#4-recertification-and-reopening"},
+        {"header":"4.1 Recertification Schedule and the New System Certification Record","level":4,"line_start":325,"line_end":339,"anchor":"#41-recertification-schedule-and-the-new-system-certification-record"},
+        {"header":"4.2 Reopening Triggers","level":4,"line_start":340,"line_end":369,"anchor":"#42-reopening-triggers"},
+        {"header":"4.3 Provisional and Full Certification","level":4,"line_start":370,"line_end":479,"anchor":"#43-provisional-and-full-certification"},
+        {"header":"4.3.1 The Two Statuses","level":5,"line_start":376,"line_end":410,"anchor":"#431-the-two-statuses"},
+        {"header":"4.3.2 Failure and Step-Down","level":5,"line_start":411,"line_end":421,"anchor":"#432-failure-and-step-down"},
+        {"header":"4.3.3 Cause of Misalignment","level":5,"line_start":422,"line_end":446,"anchor":"#433-cause-of-misalignment"},
+        {"header":"4.3.4 Tier Windows","level":5,"line_start":447,"line_end":457,"anchor":"#434-tier-windows"},
+        {"header":"4.3.5 Class A Reliance","level":5,"line_start":458,"line_end":468,"anchor":"#435-class-a-reliance"},
+        {"header":"4.3.6 Verification, Not Assertion","level":5,"line_start":469,"line_end":479,"anchor":"#436-verification-not-assertion"},
+        {"header":"4.4 Non-Evasion","level":4,"line_start":480,"line_end":489,"anchor":"#44-non-evasion"},
+        {"header":"5. Challenging a Certification","level":3,"line_start":490,"line_end":577,"anchor":"#5-challenging-a-certification"},
+        {"header":"5.1 When the Path Opens","level":4,"line_start":543,"line_end":557,"anchor":"#51-when-the-path-opens"},
+        {"header":"5.2 Contestability Paths","level":4,"line_start":558,"line_end":577,"anchor":"#52-contestability-paths"},
+        {"header":"6. Relationship to Standing","level":3,"line_start":578,"line_end":684,"anchor":"#6-relationship-to-standing"},
+        {"header":"6.1 What a System Certification Record Can Pass on to Standing","level":4,"line_start":608,"line_end":624,"anchor":"#61-what-a-system-certification-record-can-pass-on-to-standing"},
+        {"header":"6.2 Every Certification Outcome","level":4,"line_start":625,"line_end":632,"anchor":"#62-every-certification-outcome"},
+        {"header":"6.3 Verified-Input Gate","level":4,"line_start":633,"line_end":643,"anchor":"#63-verified-input-gate"},
+        {"header":"6.4 Contribution Standing Record","level":4,"line_start":644,"line_end":656,"anchor":"#64-contribution-standing-record"},
+        {"header":"6.5 Violation Standing Record","level":4,"line_start":657,"line_end":684,"anchor":"#65-violation-standing-record"}
       ]
     },
     "core_11.000_institutional_alignment_certification_evaluation.md": {
@@ -1877,6 +1868,24 @@
         {"header":"12.6 Scaled Duties","level":4,"line_start":901,"line_end":928,"anchor":null},
         {"header":"13. Classification as Steward","level":3,"line_start":929,"line_end":977,"anchor":null},
         {"header":"14. Stewardship Criticality Levels","level":3,"line_start":978,"line_end":998,"anchor":null}
+      ]
+    },
+    "subcore_10.010_system_certification_record_contents.md": {
+      "total_lines": 218,
+      "sections": [
+        {"header":"SUBCORE 10-A: SYSTEM CERTIFICATION RECORD CONTENTS","level":1,"line_start":2,"line_end":218,"anchor":"#subcore-10-a-system-certification-record-contents"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
+        {"header":"2. Why the Contents Are the Same for Every Adopter","level":3,"line_start":23,"line_end":45,"anchor":null},
+        {"header":"3. Minimum Contents of the System Certification Record","level":3,"line_start":46,"line_end":218,"anchor":"#3-minimum-contents-of-the-system-certification-record"},
+        {"header":"3.1 System Identity, Scope, and Prior System Certification Record","level":4,"line_start":54,"line_end":67,"anchor":"#31-system-identity-scope-and-prior-system-certification-record"},
+        {"header":"3.2 Classification and Whole-System Findings","level":4,"line_start":68,"line_end":89,"anchor":"#32-classification-and-whole-system-findings"},
+        {"header":"3.3 System Data Types Record","level":4,"line_start":90,"line_end":106,"anchor":"#33-system-data-types-record"},
+        {"header":"3.4 Rights-Floor and Domain Findings","level":4,"line_start":107,"line_end":131,"anchor":"#34-rights-floor-and-domain-findings"},
+        {"header":"3.5 Technical Evidence and Review Findings","level":4,"line_start":132,"line_end":152,"anchor":"#35-technical-evidence-and-review-findings"},
+        {"header":"3.6 Supervision, Independence, and Challenge Paths","level":4,"line_start":153,"line_end":165,"anchor":"#36-supervision-independence-and-challenge-paths"},
+        {"header":"3.7 Concerns, Cause, and Remediation Readiness","level":4,"line_start":166,"line_end":185,"anchor":"#37-concerns-cause-and-remediation-readiness"},
+        {"header":"3.8 Outcome and Reliance Limits","level":4,"line_start":186,"line_end":197,"anchor":"#38-outcome-and-reliance-limits"},
+        {"header":"3.9 Operating Plan","level":4,"line_start":198,"line_end":218,"anchor":"#39-operating-plan"}
       ]
     },
     "subcore_11.010_institution_class_evaluation_items.md": {

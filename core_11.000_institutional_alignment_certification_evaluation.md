@@ -366,6 +366,6 @@ The institutional duties and the rule against repeating an evaluation already ma
 
 *Worked examples (they add no rule):* [CS-8.320 §12 Illustrative Institution Walkthroughs](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-12-illustrative-institution-walkthroughs) (*three invented Institutions walked through this chapter*).
 
-**Previous file:** [core_10.000_system_alignment_certification_records_recertification.md](core_10.000_system_alignment_certification_records_recertification.md)
+**Previous file:** [subcore_10.010_system_certification_record_contents.md](subcore_10.010_system_certification_record_contents.md)
 
 **Next file:** [subcore_11.010_institution_class_evaluation_items.md](subcore_11.010_institution_class_evaluation_items.md)

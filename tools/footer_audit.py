@@ -53,6 +53,7 @@ CORE_CHAIN = (
     "subcore_08.010_system_classification.md",
     "core_09.000_system_alignment_certification_forum_process_outcomes.md",
     "core_10.000_system_alignment_certification_records_recertification.md",
+    "subcore_10.010_system_certification_record_contents.md",
     "core_11.000_institutional_alignment_certification_evaluation.md",
     "subcore_11.010_institution_class_evaluation_items.md",
     "core_12.000_institutional_alignment_certification_forum_process_outcomes.md",

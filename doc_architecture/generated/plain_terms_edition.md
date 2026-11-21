@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **588** of **1006** headings carry a gloss (58%).
+Coverage: **588** of **997** headings carry a gloss (59%).
 
 ## Contents
 
@@ -24,7 +24,7 @@ Coverage: **588** of **1006** headings carry a gloss (58%).
 - [CHAPTER SEVEN: INDEPENDENT BODIES](#chapter-seven-independent-bodies) — `core_07.000_independent_bodies.md` (4/5 glossed)
 - [CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-system-alignment-certification--evaluation) — `core_08.000_system_alignment_certification_evaluation.md` (17/58 glossed)
 - [CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-system-alignment-certification--forum-process-and-outcomes) — `core_09.000_system_alignment_certification_forum_process_outcomes.md` (11/37 glossed)
-- [CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-ten-system-alignment-certification--records-recertification-challenge-and-standing) — `core_10.000_system_alignment_certification_records_recertification.md` (12/36 glossed)
+- [CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-ten-system-alignment-certification--records-recertification-challenge-and-standing) — `core_10.000_system_alignment_certification_records_recertification.md` (12/27 glossed)
 - [CHAPTER ELEVEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eleven-institutional-alignment-certification--evaluation) — `core_11.000_institutional_alignment_certification_evaluation.md` (5/12 glossed)
 - [CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-twelve-institutional-alignment-certification--forum-process-and-outcomes) — `core_12.000_institutional_alignment_certification_forum_process_outcomes.md` (12/15 glossed)
 - [CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-thirteen-institutional-alignment-certification--records-recertification-challenge-and-standing) — `core_13.000_institutional_alignment_certification_records_recertification.md` (12/31 glossed)
@@ -2191,7 +2191,7 @@ a denial or revocation changes what the operator may say about its system, who i
 
 ## CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING
 
-Source file: [`core_10.000_system_alignment_certification_records_recertification.md`](../../core_10.000_system_alignment_certification_records_recertification.md) · 12/36 headings glossed
+Source file: [`core_10.000_system_alignment_certification_records_recertification.md`](../../core_10.000_system_alignment_certification_records_recertification.md) · 12/27 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -2216,60 +2216,6 @@ a System Certification Record is the auditable case file for one system under re
 *(no plain-terms gloss in source)*
 
 [Source](../../core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents)
-
-###### 3.1.1 System Identity, Scope, and Prior System Certification Record
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#311-system-identity-scope-and-prior-system-certification-record)
-
-###### 3.1.2 Classification and Whole-System Findings
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#312-classification-and-whole-system-findings)
-
-###### 3.1.3 System Data Types Record
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#313-system-data-types-record)
-
-###### 3.1.4 Rights-Floor and Domain Findings
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#314-rights-floor-and-domain-findings)
-
-###### 3.1.5 Technical Evidence and Review Findings
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#315-technical-evidence-and-review-findings)
-
-###### 3.1.6 Supervision, Independence, and Challenge Paths
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#316-supervision-independence-and-challenge-paths)
-
-###### 3.1.7 Concerns, Cause, and Remediation Readiness
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#317-concerns-cause-and-remediation-readiness)
-
-###### 3.1.8 Outcome and Reliance Limits
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#318-outcome-and-reliance-limits)
-
-###### 3.1.9 Operating Plan
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#319-operating-plan)
 
 ###### 3.1.10 Completeness
 
