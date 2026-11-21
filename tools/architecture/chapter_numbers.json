@@ -872,6 +872,20 @@
       "pre_reorganization_2026_11_20": "19000"
     },
     {
+      "old_id": "Chapter 18 §§4.5.1–4.5.8",
+      "original_file": "core_18.000_violation_consequences.md",
+      "machine_id": "SUB-18010",
+      "display_id": "S18-A",
+      "layer": "SUBCORE",
+      "core_home": "18",
+      "title": "S18-A",
+      "destination_file": "subcore_18.010_special_locks.md",
+      "status": "active",
+      "machine_number": "18010",
+      "layer_digit": "0",
+      "ordinal_name": "S18-A"
+    },
+    {
       "old_id": "Chapter 11",
       "original_file": "core_11_d_final_effect_restoration_enforcement.md",
       "machine_id": "19000",

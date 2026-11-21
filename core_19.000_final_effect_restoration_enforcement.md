@@ -352,6 +352,6 @@ Rights and standing consequences are real only when sentients can invoke them, v
 
 *Worked examples (they add no rule):* [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): [CJS-14.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-10-question-3-routing-patterns).
 
-**Previous file:** [core_18.000_violation_consequences.md](core_18.000_violation_consequences.md)
+**Previous file:** [subcore_18.010_special_locks.md](subcore_18.010_special_locks.md)
 
 **Next file:** [subcore_19.010_cross_adopter_checks_remedy_durability.md](subcore_19.010_cross_adopter_checks_remedy_durability.md)

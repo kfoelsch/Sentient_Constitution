@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-21T03:57:35+00:00",
+  "generated_at": "2026-11-21T13:11:55+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -662,9 +662,9 @@
       ]
     },
     "core_18.000_violation_consequences.md": {
-      "total_lines": 1225,
+      "total_lines": 965,
       "sections": [
-        {"header":"CHAPTER EIGHTEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS","level":1,"line_start":1,"line_end":1225,"anchor":null},
+        {"header":"CHAPTER EIGHTEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS","level":1,"line_start":1,"line_end":965,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":28,"line_end":55,"anchor":null},
         {"header":"2. Why Violation Consequences Exist","level":3,"line_start":56,"line_end":81,"anchor":"#2-why-violation-consequences-exist"},
         {"header":"3. Violation, Correction, and Prevention","level":3,"line_start":82,"line_end":373,"anchor":null},
@@ -685,7 +685,7 @@
         {"header":"3.4.2 Remedy-Parity Tripwire","level":5,"line_start":330,"line_end":348,"anchor":"#342-remedy-parity-tripwire"},
         {"header":"3.4.3 Exemptions from the Tripwire","level":5,"line_start":349,"line_end":361,"anchor":"#343-exemptions-from-the-tripwire"},
         {"header":"3.4.4 Measuring Remedy Parity","level":5,"line_start":362,"line_end":373,"anchor":"#344-measuring-remedy-parity"},
-        {"header":"4. Lock Design and Enforcement","level":3,"line_start":374,"line_end":1225,"anchor":"#4-lock-design-and-enforcement"},
+        {"header":"4. Lock Design and Enforcement","level":3,"line_start":374,"line_end":965,"anchor":"#4-lock-design-and-enforcement"},
         {"header":"4.1 Definition and Attachment","level":4,"line_start":401,"line_end":503,"anchor":"#41-definition-and-attachment"},
         {"header":"4.1.1 Attachment Fields","level":5,"line_start":415,"line_end":428,"anchor":"#411-attachment-fields"},
         {"header":"4.1.2 What a Lock Attaches To","level":5,"line_start":429,"line_end":457,"anchor":"#412-what-a-lock-attaches-to"},
@@ -703,16 +703,16 @@
         {"header":"4.4.5 Coercive or Liberty-Restricting Safeguards","level":5,"line_start":726,"line_end":747,"anchor":"#445-coercive-or-liberty-restricting-safeguards"},
         {"header":"4.4.6 Influence-Pathway Locks","level":5,"line_start":748,"line_end":765,"anchor":"#446-influence-pathway-locks"},
         {"header":"4.4.7 Capacity Locks","level":5,"line_start":766,"line_end":815,"anchor":"#447-capacity-locks"},
-        {"header":"4.5 Special Locks","level":4,"line_start":816,"line_end":1205,"anchor":"#45-special-locks"},
-        {"header":"4.5.1 Forum-Service Standing Lock","level":5,"line_start":842,"line_end":875,"anchor":"#451-forum-service-standing-lock"},
-        {"header":"4.5.2 Stakeholder-Participation Standing Lock","level":5,"line_start":876,"line_end":907,"anchor":"#452-stakeholder-participation-standing-lock"},
-        {"header":"4.5.3 Institutional Authority Standing Lock","level":5,"line_start":908,"line_end":967,"anchor":"#453-institutional-authority-standing-lock"},
-        {"header":"4.5.4 Perjury Standing Lock","level":5,"line_start":968,"line_end":1027,"anchor":"#454-perjury-standing-lock"},
-        {"header":"4.5.5 Anti-Constitutional Trust Lock","level":5,"line_start":1028,"line_end":1069,"anchor":"#455-anti-constitutional-trust-lock"},
-        {"header":"4.5.6 Dissolution Reformation Lock","level":5,"line_start":1070,"line_end":1124,"anchor":"#456-dissolution-reformation-lock"},
-        {"header":"4.5.7 Care and Stewardship Lock","level":5,"line_start":1125,"line_end":1159,"anchor":"#457-care-and-stewardship-lock"},
-        {"header":"4.5.8 Financial Authority Standing Lock","level":5,"line_start":1160,"line_end":1205,"anchor":"#458-financial-authority-standing-lock"},
-        {"header":"4.6 Interim Holds and Locks","level":4,"line_start":1206,"line_end":1225,"anchor":"#46-interim-holds-and-locks"}
+        {"header":"4.5 Special Locks","level":4,"line_start":816,"line_end":945,"anchor":"#45-special-locks"},
+        {"header":"4.5.1 Forum-Service Standing Lock","level":5,"line_start":842,"line_end":852,"anchor":"#451-forum-service-standing-lock"},
+        {"header":"4.5.2 Stakeholder-Participation Standing Lock","level":5,"line_start":853,"line_end":865,"anchor":"#452-stakeholder-participation-standing-lock"},
+        {"header":"4.5.3 Institutional Authority Standing Lock","level":5,"line_start":866,"line_end":879,"anchor":"#453-institutional-authority-standing-lock"},
+        {"header":"4.5.4 Perjury Standing Lock","level":5,"line_start":880,"line_end":892,"anchor":"#454-perjury-standing-lock"},
+        {"header":"4.5.5 Anti-Constitutional Trust Lock","level":5,"line_start":893,"line_end":904,"anchor":"#455-anti-constitutional-trust-lock"},
+        {"header":"4.5.6 Dissolution Reformation Lock","level":5,"line_start":905,"line_end":918,"anchor":"#456-dissolution-reformation-lock"},
+        {"header":"4.5.7 Care and Stewardship Lock","level":5,"line_start":919,"line_end":931,"anchor":"#457-care-and-stewardship-lock"},
+        {"header":"4.5.8 Financial Authority Standing Lock","level":5,"line_start":932,"line_end":945,"anchor":"#458-financial-authority-standing-lock"},
+        {"header":"4.6 Interim Holds and Locks","level":4,"line_start":946,"line_end":965,"anchor":"#46-interim-holds-and-locks"}
       ]
     },
     "core_19.000_final_effect_restoration_enforcement.md": {
@@ -1994,6 +1994,23 @@
         {"header":"4.2 Guarding against Gatekeeping","level":4,"line_start":113,"line_end":137,"anchor":"#42-guarding-against-gatekeeping"},
         {"header":"4.3 Continuity, Retesting, and Capacity Change","level":4,"line_start":138,"line_end":152,"anchor":"#43-continuity-retesting-and-capacity-change"},
         {"header":"4.4 What the Clearance Record Must Say","level":4,"line_start":153,"line_end":174,"anchor":"#44-what-the-clearance-record-must-say"}
+      ]
+    },
+    "subcore_18.010_special_locks.md": {
+      "total_lines": 428,
+      "sections": [
+        {"header":"SUBCORE 18-A: SPECIAL LOCKS IN DETAIL","level":1,"line_start":2,"line_end":428,"anchor":"#subcore-18-a-special-locks-in-detail"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
+        {"header":"2. Why the Locks Are the Same for Every Adopter","level":3,"line_start":23,"line_end":45,"anchor":null},
+        {"header":"3. The Eight Special Locks","level":3,"line_start":46,"line_end":428,"anchor":"#3-the-eight-special-locks"},
+        {"header":"3.1 Forum-Service Standing Lock","level":4,"line_start":54,"line_end":88,"anchor":"#31-forum-service-standing-lock"},
+        {"header":"3.2 Stakeholder-Participation Standing Lock","level":4,"line_start":89,"line_end":121,"anchor":"#32-stakeholder-participation-standing-lock"},
+        {"header":"3.3 Institutional Authority Standing Lock","level":4,"line_start":122,"line_end":182,"anchor":"#33-institutional-authority-standing-lock"},
+        {"header":"3.4 Perjury Standing Lock","level":4,"line_start":183,"line_end":243,"anchor":"#34-perjury-standing-lock"},
+        {"header":"3.5 Anti-Constitutional Trust Lock","level":4,"line_start":244,"line_end":286,"anchor":"#35-anti-constitutional-trust-lock"},
+        {"header":"3.6 Dissolution Reformation Lock","level":4,"line_start":287,"line_end":342,"anchor":"#36-dissolution-reformation-lock"},
+        {"header":"3.7 Care and Stewardship Lock","level":4,"line_start":343,"line_end":378,"anchor":"#37-care-and-stewardship-lock"},
+        {"header":"3.8 Financial Authority Standing Lock","level":4,"line_start":379,"line_end":428,"anchor":"#38-financial-authority-standing-lock"}
       ]
     },
     "subcore_19.010_cross_adopter_checks_remedy_durability.md": {

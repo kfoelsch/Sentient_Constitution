@@ -70,6 +70,7 @@ CORE_CHAIN = (
     "core_17.000_contribution_consequences.md",
     "subcore_17.010_recency_competency_clearance.md",
     "core_18.000_violation_consequences.md",
+    "subcore_18.010_special_locks.md",
     "core_19.000_final_effect_restoration_enforcement.md",
     "subcore_19.010_cross_adopter_checks_remedy_durability.md",
     "core_20.000_misconduct_designation.md",
