@@ -284,9 +284,20 @@ Some forums judge the very authorities that govern, so those authorities must no
         - denial of the peaceful-succession pathway; or
         - a threat to the **Rights Floor**, handled under **Chapter Four** and adopted implementation procedure.
     - **Stepped requirements:** designated implementation text may set requirements that step down as the term goes on, if they meet [**Substantive Fairness**](subcore_03.090_band_participation.md#substantive-fairness), [**Necessity**](subcore_03.070_band_accountability.md#necessity), and [**Proportionality**](subcore_03.070_band_accountability.md#proportionality) under **Chapter Two** and **Chapter Three, including its subcore**.
-- **Procedural fairness:** Recall-class procedures must satisfy applicable **Chapter Four** requirements (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) family, including **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*) where internal role process applies). They must not substitute for individualized **removal-for-cause** or discipline channels where **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) or incorporated procedure is the appropriate venue for the underlying conduct.
-- **Anti-serial abuse and stability:** Mechanisms must include **cooling** or **anti-serial** rules proportionate to **material impact** and the system class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** so recall-class mechanisms cannot be redeployed as structured harassment or permanent campaigning; bad-faith patterns remain contestable under **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XXI-A** (*Justice Objective and Scope*).
-- **High-impact alignment:** Recall-class votes that would change **Foundational Constitutional Choice** outcomes or the legitimacy mechanism itself remain subject to the **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gate and **§3** (*Ethical Culture and Integrity (Federated Scale)*) requirements where applicable.
+- **Procedural fairness:** Recall-class procedures must meet:
+    - the applicable **Chapter Four** requirements of the **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) family; and
+    - **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*) where internal role process applies.
+
+    A recall must not stand in for removal for cause or discipline of one role holder where that conduct belongs in:
+    - the removal pathway of [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways);
+    - **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*); or
+    - other incorporated procedure.
+- **Anti-serial abuse and stability:** Recall must not become a tool for structured harassment or permanent campaigning.
+    - Mechanisms must include **cooling** or **anti-serial** rules proportionate to **material impact** and to the system class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**.
+    - Bad-faith patterns remain contestable under **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XXI-A** (*Justice Objective and Scope*).
+- **High-impact alignment:** A recall vote that would change a **Foundational Constitutional Choice** outcome or the legitimacy mechanism itself remains subject to:
+    - the **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gate; and
+    - the requirements of [§4 Ethical Culture and Integrity (Federated Scale)](#4-ethical-culture-and-integrity-federated-scale), where they apply.
 
 ### 4. Ethical Culture and Integrity (Federated Scale)
 <details>
