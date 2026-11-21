@@ -913,6 +913,6 @@ Forum families must maintain or obtain access to **independent** support across 
 
 *Worked examples (they add no rule):* [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): forum routing and tier windows run through every full vignette, for example [CJS-14.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-14.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a).
 
-**Previous file:** [subcore_22.010_forum_intake_default_venue.md](subcore_22.010_forum_intake_default_venue.md)
+**Previous file:** [subcore_22.020_forum_case_seats_contest_routing.md](subcore_22.020_forum_case_seats_contest_routing.md)
 
 **Next file:** [core_24.000_enforcement.md](core_24.000_enforcement.md)

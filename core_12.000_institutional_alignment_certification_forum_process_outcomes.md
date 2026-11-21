@@ -108,63 +108,28 @@ This section is **Phase III, Review** for an Institution.
 
 #### 3.1 Four Seats in an Institutional Certification
 
-This subsection is how this Chapter applies the [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement), and it is the statement [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires of this process. An institutional certification is a [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act), so every certification pass has the four seats. This Chapter adds no seat and relaxes no rule of Chapter Six. [Chapter Nine §3.1.1 Four Seats in a Certification](core_09.000_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) applies with these substitutions:
+*In plain terms: the same four seats as in any certification, and the Institution never picks or controls the seats that judge, keep, or hear challenges to its own certification.*
 
-- **[Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat):** the Institution's governing authority.
-  - **Role:** it requests certification or is the proponent who must supply the evidence.
-  - **A certification pass opened on a trigger:** it is opened by the lead forum's order, and the governing authority remains the proponent.
-- **[Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat):** the lead forum for the outcome, and each component authority for its own finding, assigned under [§3.2 Forum Roles and Sequence](#32-forum-roles-and-sequence) and Chapter Twenty-Two.
-  - **Seat placement:** the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) does not place this seat.
-  - **What the Institution cannot do:** choose, appoint, fund through a channel it controls, or remove its own verifying authority.
-  - **Who may hold it:** no one who works for the Institution, is owned by it, or answers to it may hold this seat for its certification, and everyone who holds it must have no interest that the outcome decides.
-  - **Systems:** the same rule applies to a system certification ([Chapter Nine §3.1.1 Four Seats in a Certification](core_09.000_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification), *Outside the operator*).
-- **[Record Seat](subcore_03.070_band_accountability.md#record-seat):** the office the Institutional Charter's Charter Role Map places.
-  - **Role:** it opens, amends, preserves, and publishes the Institutional Certification Record.
-  - **Position:** it sits outside the Institution's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
-- **[Contest Seat](subcore_03.070_band_accountability.md#contest-seat):** the published record challenge path with the competent review or backup forum.
-  - **Position:** it is placed the same way and outside the same line.
+An institutional certification is a [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act), and this subsection is the statement [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires of this process. The seat placements in full are in [Subcore 12-A §3 Four Seats in an Institutional Certification](subcore_12.010_institutional_certification_seats_sequence_readiness.md#3-four-seats-in-an-institutional-certification). Its guarantees are:
 
-**Self-placement.** The Institution publishes the map that places the record seat and the contest seat for its own certification.
-
-- **Invalid placement:** a placement of either seat inside the Institution's own Material Control Line is not a valid placement for an Institutional Certification Record in which the Institution is the subject, whatever the map says ([Chapter Six §4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines)).
-- **Routing:** the certification pass then routes as [Chapter Six §6 Published Placement, Vacancy, and Substitution](core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) provides. The seat's work goes to the independent route the Charter Role Map names, and the seat does not pass to the Institution or to anyone in its control line.
-- **Finding:** the defective placement of the seat is itself a finding under [§4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation).
-
-**Merged hosting.** [Chapter Six §7 Proportional Scaling and Merged Hosting](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting) applies unchanged. This Chapter adds no merged hosting and removes none.
+- **Four seats, no relaxation:** each certification pass carries all four seats that [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) requires, and Chapter Twelve neither adds a seat nor loosens any Chapter Six rule.
+- **Independent verifying authority:** the Institution may not choose, appoint, fund through a channel it controls, or remove its own verifying authority, and no one who works for it, is owned by it, or answers to it may hold that seat.
+- **Record and contest seats outside its control:** the record seat and the contest seat sit outside the Institution's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line). A seat placement inside it is invalid whatever the map says, the work routes to the independent route the Charter Role Map names, and the defective placement is itself a finding.
+- **Merged hosting unchanged:** [Chapter Six §7 Proportional Scaling and Merged Hosting](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting) applies unchanged.
 
 <a id="32-forum-roles-and-sequence"></a>
 
 #### 3.2 Forum Roles and Sequence
 
-The supervisory sequence in [Chapter Nine §3.2 Supervisory Sequence](core_09.000_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) applies, from the challenge path first through the hand-off to Phases IV and V, with these changes. [Chapter Nine §3.1 Forum Supervision and Component Roles](core_09.000_system_alignment_certification_forum_process_outcomes.md#31-forum-supervision-and-component-roles) applies as well, except where this section changes it:
+*In plain terms: an Integrity Forum leads, the Institutional Forums judge the core parts, a System's own questions stay in the System's own review, and the sentients the Institution affects can speak, anonymously if they need to.*
 
-- **Lead:** An **Integrity** forum leads each certification pass.
-  - **Exception:** Chapter Twenty-Two may assign a different lawful lead for the primary stake.
-  - **Record seat:** the lead forum directs the record seat holder and does not hold the record seat on the same act.
-- **Institutional Forums hold the core components:**
-  - **Necessary party:** an Institution is always a necessary party to its own certification.
-  - **What a component is:** a component is one part of the certification, and a forum that holds **component authority** over it checks the evidence and authority on that part against the governing standard and issues its own finding, within that authority. That forum's part of the certification pass is a **component evaluation** ([Chapter Nine §3.1 Forum Supervision and Component Roles](core_09.000_system_alignment_certification_forum_process_outcomes.md#31-forum-supervision-and-component-roles)).
-  - **Held by Institutional Forums:** Institutional Forums hold component authority for institutional mandate, supervised scope, institution class, institutional-duty compliance ([§4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation), item 8), and the Rights Floor component for the Institution's own conduct ([Chapter Twenty-Three §3.3 Institutional Forums](core_23.000_forum_families_escalation_timeliness_support.md#33-institutional-forums), [Chapter Nine §3.1.6 Institutional Forums](core_09.000_system_alignment_certification_forum_process_outcomes.md#316-institutional-forums)).
-- **Other components:**
-  - **Technical Forums:** supply evidence standards and any measurement the incentive or aggregate findings need.
-  - **Environment Forums:** supply a component finding where the Institution's aggregate ecological exposure across its Systems is material.
-  - **Sentient Forums:** supply the community-governance finding where the Institution's own conduct materially affects how a community governs itself.
-  - **Affected members and communities:** submit evidence through the assigned forums.
-  - **Constitutional Forums:** keep the meaning, validity, and structural-remedy questions.
-- **Systems are referred, not decided:**
-  - **Where it goes:** a component question that belongs to one System goes to that System's own certification pass, and not to the Institution's.
-  - **What the lead forum may do:** it may refer the question, send it for ruling, or [stay](subcore_03.070_band_accountability.md#stay) it, as [Chapter Nine §3.2 Supervisory Sequence](core_09.000_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) provides.
-    - **Refer:** hand the question to the forum family it belongs to.
-    - **Send for ruling:** send it to another forum as a question for ruling and wait for the answer. The matter stays with the lead forum.
-    - **Stay:** pause it.
-  - **What it may not do:** decide a System's component question in the Institution's certification pass. That question is decided in the System's own certification pass.
-- **Participation, urgent protection, and contest:** Chapter Nine applies in full to an Institution's certification pass, with the System Certification Record read as the Institutional Certification Record.
-  - **Participation during review** ([Chapter Nine §3.2.4 Participation during Review](core_09.000_system_alignment_certification_forum_process_outcomes.md#324-participation-during-review)): the assigned forums give affected sentients practicable, accessible ways to submit evidence and concerns during evaluation and forum review. Every submission goes into the review submissions log kept by the record seat holder.
-  - **Who can submit:** the Institution's affected members, workers, users, and communities, current and reasonably foreseeable, are among the affected sentients who must have an accessible way to submit evidence. Chapter Nine identifies them by actual and reasonably foreseeable effects and dependency, including before deployment.
-  - **Staff and confidentiality:** Staff are the likeliest to know of a problem in an Institution. A submitter, staff included, may ask to stay anonymous or confidential. Until the lead forum decides, the submitter's identity is withheld from everyone, the Institution included, as [Chapter Nine §3.2.4 Participation during Review](core_09.000_system_alignment_certification_forum_process_outcomes.md#324-participation-during-review) provides.
-  - **Urgent protection** ([Chapter Nine §3.2.3 Urgent Protection](core_09.000_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection)): a stay, interim protection, or reliance limit may be ordered before the sequence finishes. The sequence still runs, and the measure is entered on the Institutional Certification Record.
-  - **Contest** ([Chapter Nine §3.3 Contestability Chain](core_09.000_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain)): affected parties can challenge the Institutional Certification Record, and a challenge goes to the level where the dispute actually lives.
-  - **Anti-bypass** ([Chapter Nine §3.4 Anti-Bypass](core_09.000_system_alignment_certification_forum_process_outcomes.md#34-anti-bypass)): the supervisory sequence and the contestability chain may not be defeated by hidden sub-records, by routing challenges only to captured internal bodies, by letting a challenge end at the lowest administrative layer, or by treating a component's silence as approval.
+The supervisory sequence of [Chapter Nine §3.2 Supervisory Sequence](core_09.000_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) and [Chapter Nine §3.1 Forum Supervision and Component Roles](core_09.000_system_alignment_certification_forum_process_outcomes.md#31-forum-supervision-and-component-roles) apply, with the changes set out in full in [Subcore 12-A §4 Forum Roles and Sequence](subcore_12.010_institutional_certification_seats_sequence_readiness.md#4-forum-roles-and-sequence). Its guarantees are:
+
+- **Integrity leads:** an Integrity Forum leads each certification pass, unless Chapter Twenty-Two assigns a different lawful lead for the primary stake, and the lead forum never holds the record seat on the same act.
+- **The Institution is always a party:** it is a necessary party to its own certification, and Institutional Forums hold component authority over its mandate, scope, class, duties, and its Rights Floor conduct.
+- **Systems are referred, not decided:** a component question that belongs to one System is decided in that System's own certification pass, never in the Institution's.
+- **Affected sentients are heard:** the Institution's affected members, workers, users, and communities have an accessible way to submit evidence, and a submitter, staff included, may stay anonymous until the lead forum decides.
+- **Protection, contest, and anti-bypass apply in full:** urgent protection, the contestability chain, and the anti-bypass rule of Chapter Nine apply to an Institution's certification pass.
 
 <a id="33-forums-certifiers-and-record-offices-as-institutions"></a>
 
@@ -293,24 +258,12 @@ Two points are specific to an Institution:
 
 *In plain terms: when a review finds a problem in an Institution, the forums ask the same question they ask about a System: is it both willing and able to fix the problem? If the honest answer is no, its certification is refused or taken back. By itself, that cannot stop the Institution from existing or operating. It takes away the Institution's claim to be certified, warns those who rely on it, weakens the support its Systems can draw from its good status, and keeps it out of the seats that certify others.*
 
-[Chapter Nine §4.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.000_system_alignment_certification_forum_process_outcomes.md#43-remediation-readiness-willingness-and-capacity-to-correct) applies to an Institution with these changes:
+[Chapter Nine §4.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.000_system_alignment_certification_forum_process_outcomes.md#43-remediation-readiness-willingness-and-capacity-to-correct) applies to an Institution, with the roles and added factors set out in full in [Subcore 12-A §5 Remediation Readiness Factors](subcore_12.010_institutional_certification_seats_sequence_readiness.md#5-remediation-readiness-factors). Its guarantees are:
 
-- **Who does what:**
-  - **The Institution's governing authority** is the proponent: the party that carries the case that the Institution is ready. It supplies the evidence. It does not judge its own readiness.
-  - **The lead Integrity Forum** decides the finding: whether the Institution is both willing and able to fix the problem ([Chapter Nine §4.3.4 Findings](core_09.000_system_alignment_certification_forum_process_outcomes.md#434-findings) lists the possible findings).
-  - **Institutional Forums** hold the evidence on governance, authority, and incentives, and bring it to the lead forum.
-  - **Technical Forums** hold any capacity evidence that needs measuring, and bring it to the lead forum ([§3.2 Forum Roles and Sequence](#32-forum-roles-and-sequence)).
-- **Willingness:** In addition to the factors in [Chapter Nine §4.3.1 Willingness](core_09.000_system_alignment_certification_forum_process_outcomes.md#431-willingness), the forums look at whether the Institution is:
-  - changing its own reward structure, where that structure caused the finding;
-  - replacing or disclosing an office-holder found not authentic (for example, a holder who fronts for an undisclosed controller) under [§4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (item 7);
-  - restoring an independent seat placement on its [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map);
-  - correcting its Institutional Charter or its portfolio of Systems; and
-  - answering for any System whose cause finding traced back to the Institution ([§4.5 Cascade from System Certifications](core_13.000_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications)).
-- **Capacity:** In addition to the factors in [Chapter Nine §4.3.2 Capacity](core_09.000_system_alignment_certification_forum_process_outcomes.md#432-capacity), the forums look at whether:
-  - the offices that must act have the authority to do so (**CI-6.205 §3** (*Authority Chain and Delegation Controls*));
-  - the Institution has the funds, staff, and succession plan for the work (**CI-26.205 §1** (*Shared Staffing and Competency Requirement*); **CI-24.210** (*Remedy systems and institutional redress capacity*)); and
-  - an independent verifying authority can test the correction, with the access and the time it is actually given ([Chapter Nine §4.3.2 Capacity](core_09.000_system_alignment_certification_forum_process_outcomes.md#432-capacity), *Verifiability*). A correction nobody can verify is not capacity.
-- **One System:** An Institution that runs exactly one System gets one readiness check, in the one-System evaluation. The readiness check states its denial grounds separately for the System and for the Institution, as [§4.4 Denial and Revocation for an Institution](#44-denial-and-revocation-for-an-institution) requires.
+- **No judging its own readiness:** the Institution's governing authority carries the case and supplies the evidence; the lead Integrity Forum decides the finding.
+- **Institution-specific factors:** willingness and capacity are judged on Chapter Nine's factors and on what only an Institution can do, such as changing its own reward structure, replacing an office-holder found not authentic, restoring independent seat placements, and having the authority, funds, staff, and succession plan for the work.
+- **Verifiable correction only:** a correction that no independent verifying authority can test, with the access and time it is actually given, is not capacity.
+- **One System, one readiness check:** an Institution that runs exactly one System gets one readiness check, which states its denial grounds separately for the System and the Institution.
 
 <a id="44-denial-and-revocation-for-an-institution"></a>
 
@@ -318,30 +271,14 @@ Two points are specific to an Institution:
 
 *In plain terms: denial means certification is refused, and revocation means a certification already held is taken back. Both are real consequences. Neither shuts the Institution down.*
 
-[Chapter Nine §4.4 Denial and Revocation](core_09.000_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) applies to an Institution with these changes:
+[Chapter Nine §4.4 Denial and Revocation](core_09.000_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) applies to an Institution, with the changes and the one-System rule set out in full in [Subcore 12-A §6 Denial and Revocation Grounds and the One-System Rule](subcore_12.010_institutional_certification_seats_sequence_readiness.md#6-denial-and-revocation-grounds-and-the-one-system-rule). Its guarantees are:
 
-- **Grounds and process:** Chapter Nine §4.4 Denial and Revocation supplies these, unchanged:
-  - **Grounds** ([Chapter Nine §4.4.2 When Denial or Revocation Is Required](core_09.000_system_alignment_certification_forum_process_outcomes.md#442-when-denial-or-revocation-is-required)):
-    - **Denial,** where no certification is held: the readiness check finds the Institution unwilling, or neither willing nor able; or willing but not able, with no narrower certified scope, support, or handover that closes the gap in time; or the one deferral has run and readiness is still not shown.
-    - **Revocation,** where certification is held: the same readiness findings, after notice and a chance to answer. Also a certification condition missed twice or materially violated, evidence shown to be false, fabricated, or concealed, or a required proof step not done in its window.
-    - **No conditional certification instead:** when one of these denial or revocation grounds is met, the forum must deny or revoke. It may not answer the denial or revocation ground by granting or continuing certification with certification conditions attached.
-  - **Protection first** ([Chapter Nine §4.4.3 Protection First](core_09.000_system_alignment_certification_forum_process_outcomes.md#443-protection-first)):
-    - **What it acts on:** denial and revocation act on the certification status. They do not by themselves shut the Institution down.
-    - **Before either takes effect:** the forum states the interim protection and the reliance limits.
-  - **Process** ([Chapter Nine §4.4.4 Process](core_09.000_system_alignment_certification_forum_process_outcomes.md#444-process)):
-    - **Given beforehand:** before a denial or revocation, the Institution is given notice of the finding and the evidence, a short window to answer or to show the proof step, and the chance to contest the finding through the contestability chain.
-    - **Reasons:** the decision states its reasons on the Institutional Certification Record.
-    - **Urgent protection** ([Chapter Nine §3.2.3 Urgent Protection](core_09.000_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection)): a stay, interim protection, or reliance limit may be ordered at once, without waiting for the notice, the answer, or the decision. The process still runs afterwards, and the measure is entered on the Institutional Certification Record.
-  - **Not a permanent bar:** a denied or revoked operator may apply again.
-- **Who stands in:**
-  - **Operator:** read the Institution's governing authority wherever Chapter Nine §4.4 Denial and Revocation says "operator".
-  - **System findings:** read the institutional findings wherever it says "system findings".
-- **Effects:** the effects are in [§4.5 Effects of Denial and Revocation for an Institution](#45-effects-of-denial-and-revocation-for-an-institution), not those in [Chapter Nine §4.5 Effects of Denial and Revocation](core_09.000_system_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation).
-- **One System:** An Institution that runs exactly one System has a one-System evaluation ([§2.1 Who Is Certified](core_11.000_institutional_alignment_certification_evaluation.md#21-who-is-certified)). Each outcome follows its own denial or revocation ground, so that an Institution with one System is not treated worse than one with several:
-  - **The System:** it is denied or revoked under Chapter Nine §4.4 Denial and Revocation only on a System ground, one that rests on the System's own findings. An institutional ground, one that rests only on the institutional items (items 1 to 5, 7, and 8 of [§4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation), and the Institution's own evaluations under [§5 Evaluations Where Implicated](core_11.000_institutional_alignment_certification_evaluation.md#5-evaluations-where-implicated) and [§6 Rights-Floor and Domain Evaluations](core_11.000_institutional_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations)) does not deny or revoke the System.
-  - **The Institution:** it is published as Not Certified, with the effects in [§4.5 Effects of Denial and Revocation for an Institution](#45-effects-of-denial-and-revocation-for-an-institution), only on an institutional ground, one that rests on the institutional findings. A System ground leaves the Institution's status as it stood, unless the cause finding places the cause in the Institution ([Chapter Ten §4.3.3 Cause of Misalignment](core_10.000_system_alignment_certification_records_recertification.md#433-cause-of-misalignment)). The test is the one in [§4.5 Cascade from System Certifications](core_13.000_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications), rule 2, which calls such a cause an *institutional cause*. Rules 1 and 2 of Chapter Thirteen §4.5 Cascade from System certifications apply to a one-System evaluation as this section states; the rest of Chapter Thirteen §4.5 Cascade from System certifications does not.
-  - **Both:** a joint ground, one that rests on both, produces both outcomes. A denial or revocation ground is joint where it is the conduct of the Institution's governing authority (unwillingness, evidence shown to be false, fabricated, or concealed, a certification condition missed twice or materially violated, or a required proof step not done), or where it rests on a fact that [Chapter Eight §4.1 Governance, Incentive, and Contestability Discipline](core_08.000_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline) attributes to the System itself, and not a fact the System takes by link from the Institution's record. The Institutional Certification Record states which denial or revocation ground supports which outcome.
-  - **Two status lines:** The one Institutional Certification Record carries a status line for the System and a status line for the Institution. Where the Institution holds no certification yet and the only denial ground is a System ground, the Institution's pass ends on its own institutional findings, as [§4.3.1 The Two Statuses](core_13.000_institutional_alignment_certification_records_recertification.md#431-the-two-statuses) provides (provisional certification, with reliance limits stated on the Institutional Certification Record). It is not Not Certified, and the seat bar of [§3.3 Forums, Certifiers, and Record Offices as Institutions](#33-forums-certifiers-and-record-offices-as-institutions) and the effects of [§4.5 Effects of Denial and Revocation for an Institution](#45-effects-of-denial-and-revocation-for-an-institution) do not apply to it. The System's denial or revocation is an indicator for the Institution under rule 1 of Chapter Thirteen §4.5 Cascade from System certifications, as it is for an Institution with several Systems.
+- **Grounds bind:** Chapter Nine's grounds apply unchanged, and when one is met the forum must deny or revoke. It may not grant or continue certification with certification conditions in place of that outcome.
+- **Protection first, status only:** the forum states interim protection and reliance limits before either takes effect, and denial or revocation acts on certification status, not on the Institution's existence.
+- **Fair process:** the Institution gets notice of the finding and the evidence, a window to answer, the contestability chain, and reasons on the Institutional Certification Record; urgent protection may be ordered at once and the process runs afterward.
+- **Not a permanent bar:** after a denial or revocation, the Institution may seek certification again.
+- **One System treated no worse:** where an Institution runs exactly one System, each outcome follows only the denial or revocation ground that supports it, and the Institutional Certification Record states which denial or revocation ground supports which outcome.
+- **Effects:** the effects are those in [§4.5 Effects of Denial and Revocation for an Institution](#45-effects-of-denial-and-revocation-for-an-institution).
 
 <a id="45-effects-of-denial-and-revocation-for-an-institution"></a>
 
@@ -381,6 +318,6 @@ Whether an Operating Party falls outside the right to form, under the Limits in 
 
 ---
 
-**Previous file:** [core_11.000_institutional_alignment_certification_evaluation.md](core_11.000_institutional_alignment_certification_evaluation.md)
+**Previous file:** [subcore_11.010_institution_class_evaluation_items.md](subcore_11.010_institution_class_evaluation_items.md)
 
-**Next file:** [core_13.000_institutional_alignment_certification_records_recertification.md](core_13.000_institutional_alignment_certification_records_recertification.md)
+**Next file:** [subcore_12.010_institutional_certification_seats_sequence_readiness.md](subcore_12.010_institutional_certification_seats_sequence_readiness.md)

@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **590** of **1023** headings carry a gloss (58%).
+Coverage: **588** of **987** headings carry a gloss (60%).
 
 ## Contents
 
@@ -24,14 +24,14 @@ Coverage: **590** of **1023** headings carry a gloss (58%).
 - [CHAPTER SEVEN: INDEPENDENT BODIES](#chapter-seven-independent-bodies) — `core_07.000_independent_bodies.md` (4/5 glossed)
 - [CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-system-alignment-certification--evaluation) — `core_08.000_system_alignment_certification_evaluation.md` (17/58 glossed)
 - [CHAPTER NINE: SYSTEM ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-nine-system-alignment-certification--forum-process-and-outcomes) — `core_09.000_system_alignment_certification_forum_process_outcomes.md` (11/37 glossed)
-- [CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-ten-system-alignment-certification--records-recertification-challenge-and-standing) — `core_10.000_system_alignment_certification_records_recertification.md` (12/36 glossed)
+- [CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-ten-system-alignment-certification--records-recertification-challenge-and-standing) — `core_10.000_system_alignment_certification_records_recertification.md` (12/27 glossed)
 - [CHAPTER ELEVEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eleven-institutional-alignment-certification--evaluation) — `core_11.000_institutional_alignment_certification_evaluation.md` (5/12 glossed)
-- [CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-twelve-institutional-alignment-certification--forum-process-and-outcomes) — `core_12.000_institutional_alignment_certification_forum_process_outcomes.md` (10/15 glossed)
+- [CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES](#chapter-twelve-institutional-alignment-certification--forum-process-and-outcomes) — `core_12.000_institutional_alignment_certification_forum_process_outcomes.md` (12/15 glossed)
 - [CHAPTER THIRTEEN: INSTITUTIONAL ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING](#chapter-thirteen-institutional-alignment-certification--records-recertification-challenge-and-standing) — `core_13.000_institutional_alignment_certification_records_recertification.md` (12/31 glossed)
 - [CHAPTER FOURTEEN: STANDING RECORDS — QUESTION 1, WHAT HAPPENED](#chapter-fourteen-standing-records--question-1-what-happened) — `core_14.000_standing_assessment.md` (9/46 glossed)
-- [CHAPTER FIFTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) — `core_15.000_standing_measurement.md` (11/38 glossed)
+- [CHAPTER FIFTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?](#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) — `core_15.000_standing_measurement.md` (11/28 glossed)
 - [CHAPTER SIXTEEN: STANDING INTEGRATION — QUESTION 3, WHAT FOLLOWS?](#chapter-sixteen-standing-integration--question-3-what-follows) — `core_16.000_standing_integration.md` (20/21 glossed)
-- [CHAPTER SEVENTEEN: CONTRIBUTION CONSEQUENCES](#chapter-seventeen-contribution-consequences) — `core_17.000_contribution_consequences.md` (9/10 glossed)
+- [CHAPTER SEVENTEEN: CONTRIBUTION CONSEQUENCES](#chapter-seventeen-contribution-consequences) — `core_17.000_contribution_consequences.md` (5/6 glossed)
 - [CHAPTER EIGHTEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-eighteen-violation-consequences--remedy-correction-and-locks) — `core_18.000_violation_consequences.md` (41/49 glossed)
 - [CHAPTER NINETEEN: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-nineteen-final-standing-effect-restoration-and-enforcement) — `core_19.000_final_effect_restoration_enforcement.md` (12/18 glossed)
 - [CHAPTER TWENTY: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-twenty-anti-constitutional-misconduct-designation) — `core_20.000_misconduct_designation.md` (10/18 glossed)
@@ -39,7 +39,7 @@ Coverage: **590** of **1023** headings carry a gloss (58%).
 - [CHAPTER TWENTY-TWO: STANDARDS, ROUTING, AND FORUM CASES](#chapter-twenty-two-standards-routing-and-forum-cases) — `core_22.000_forum.md` (6/34 glossed)
 - [CHAPTER TWENTY-THREE: FORUM FAMILIES, ESCALATION, TIMELY RESOLUTION, AND SUPPORT](#chapter-twenty-three-forum-families-escalation-timely-resolution-and-support) — `core_23.000_forum_families_escalation_timeliness_support.md` (7/26 glossed)
 - [CHAPTER TWENTY-FOUR: ENFORCEMENT](#chapter-twenty-four-enforcement) — `core_24.000_enforcement.md` (8/9 glossed)
-- [CHAPTER TWENTY-FIVE: SPECIAL ENFORCEMENT](#chapter-twenty-five-special-enforcement) — `core_25.000_special_enforcement.md` (6/23 glossed)
+- [CHAPTER TWENTY-FIVE: SPECIAL ENFORCEMENT](#chapter-twenty-five-special-enforcement) — `core_25.000_special_enforcement.md` (6/10 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.000_rights_part_a.md` (28/32 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.010_rights_part_b.md` (46/47 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.020_rights_part_c.md` (33/34 glossed)
@@ -2191,7 +2191,7 @@ a denial or revocation changes what the operator may say about its system, who i
 
 ## CHAPTER TEN: SYSTEM ALIGNMENT CERTIFICATION — RECORDS, RECERTIFICATION, CHALLENGE, AND STANDING
 
-Source file: [`core_10.000_system_alignment_certification_records_recertification.md`](../../core_10.000_system_alignment_certification_records_recertification.md) · 12/36 headings glossed
+Source file: [`core_10.000_system_alignment_certification_records_recertification.md`](../../core_10.000_system_alignment_certification_records_recertification.md) · 12/27 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -2216,60 +2216,6 @@ a System Certification Record is the auditable case file for one system under re
 *(no plain-terms gloss in source)*
 
 [Source](../../core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents)
-
-###### 3.1.1 System Identity, Scope, and Prior System Certification Record
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#311-system-identity-scope-and-prior-system-certification-record)
-
-###### 3.1.2 Classification and Whole-System Findings
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#312-classification-and-whole-system-findings)
-
-###### 3.1.3 System Data Types Record
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#313-system-data-types-record)
-
-###### 3.1.4 Rights-Floor and Domain Findings
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#314-rights-floor-and-domain-findings)
-
-###### 3.1.5 Technical Evidence and Review Findings
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#315-technical-evidence-and-review-findings)
-
-###### 3.1.6 Supervision, Independence, and Challenge Paths
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#316-supervision-independence-and-challenge-paths)
-
-###### 3.1.7 Concerns, Cause, and Remediation Readiness
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#317-concerns-cause-and-remediation-readiness)
-
-###### 3.1.8 Outcome and Reliance Limits
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#318-outcome-and-reliance-limits)
-
-###### 3.1.9 Operating Plan
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_10.000_system_alignment_certification_records_recertification.md#319-operating-plan)
 
 ###### 3.1.10 Completeness
 
@@ -2475,7 +2421,7 @@ the same rule as in the section before: a Rights-Floor or domain check runs on t
 
 ## CHAPTER TWELVE: INSTITUTIONAL ALIGNMENT CERTIFICATION — FORUM PROCESS AND OUTCOMES
 
-Source file: [`core_12.000_institutional_alignment_certification_forum_process_outcomes.md`](../../core_12.000_institutional_alignment_certification_forum_process_outcomes.md) · 10/15 headings glossed
+Source file: [`core_12.000_institutional_alignment_certification_forum_process_outcomes.md`](../../core_12.000_institutional_alignment_certification_forum_process_outcomes.md) · 12/15 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -2497,13 +2443,13 @@ the same independent forums, in the same order, review the institution, with the
 
 ##### 3.1 Four Seats in an Institutional Certification
 
-*(no plain-terms gloss in source)*
+the same four seats as in any certification, and the Institution never picks or controls the seats that judge, keep, or hear challenges to its own certification.
 
 [Source](../../core_12.000_institutional_alignment_certification_forum_process_outcomes.md#31-four-seats-in-an-institutional-certification)
 
 ##### 3.2 Forum Roles and Sequence
 
-*(no plain-terms gloss in source)*
+an Integrity Forum leads, the Institutional Forums judge the core parts, a System's own questions stay in the System's own review, and the sentients the Institution affects can speak, anonymously if they need to.
 
 [Source](../../core_12.000_institutional_alignment_certification_forum_process_outcomes.md#32-forum-roles-and-sequence)
 
@@ -3021,7 +2967,7 @@ once custody is settled, five rules govern how the sentients and offices that ho
 
 ## CHAPTER FIFTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?
 
-Source file: [`core_15.000_standing_measurement.md`](../../core_15.000_standing_measurement.md) · 11/38 headings glossed
+Source file: [`core_15.000_standing_measurement.md`](../../core_15.000_standing_measurement.md) · 11/28 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -3107,71 +3053,11 @@ the two catalogs below name the kinds of verified help (**section 5.1**) and har
 
 [Source](../../core_15.000_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles)
 
-###### 5.1.1 Bodily Safety, Relationships, Care, and Agency
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#511-bodily-safety-relationships-care-and-agency)
-
-###### 5.1.2 Repair, Property, and Resources
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#512-repair-property-and-resources)
-
-###### 5.1.3 Knowledge, Education, Records, and Discovery
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#513-knowledge-education-records-and-discovery)
-
-###### 5.1.4 Systems and Constitutional Operation
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#514-systems-and-constitutional-operation)
-
-###### 5.1.5 Ecology and Diligence
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#515-ecology-and-diligence)
-
 ##### 5.2 Violation Route Descriptor Catalog and Measurement Roles
 
 *(no plain-terms gloss in source)*
 
 [Source](../../core_15.000_standing_measurement.md#52-violation-route-descriptor-catalog-and-measurement-roles)
-
-###### 5.2.1 Bodily Safety, Relationships, Care, and Agency
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#521-bodily-safety-relationships-care-and-agency)
-
-###### 5.2.2 Repair, Property, and Resources
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#522-repair-property-and-resources)
-
-###### 5.2.3 Knowledge, Education, Records, and Discovery
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#523-knowledge-education-records-and-discovery)
-
-###### 5.2.4 Systems and Constitutional Operation
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#524-systems-and-constitutional-operation)
-
-###### 5.2.5 Ecology and Diligence
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_15.000_standing_measurement.md#525-ecology-and-diligence)
 
 #### 6. Slot Grammar and Shared Scaling
 
@@ -3371,7 +3257,7 @@ descriptors and attachments point to the matching bars, remedies, safeguards, an
 
 ## CHAPTER SEVENTEEN: CONTRIBUTION CONSEQUENCES
 
-Source file: [`core_17.000_contribution_consequences.md`](../../core_17.000_contribution_consequences.md) · 9/10 headings glossed
+Source file: [`core_17.000_contribution_consequences.md`](../../core_17.000_contribution_consequences.md) · 5/6 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -3402,30 +3288,6 @@ how much does an older verified contribution still say about present competence 
 a competency bar is the published standard for a gated pathway. Competency clearance is the standing-effect result that says verified readiness meets that bar. Once clearance is in force and the gated pathway is open, it stays open by default. Some roles need periodic retesting; technical forums decide which ones. A real change in role-relevant capacity — for example after a stroke or a mental-health condition that impairs needed judgment — can trigger reassessment. Clearance never opens a gated pathway that a standing lock still blocks.
 
 [Source](../../core_17.000_contribution_consequences.md#32-competency-bars-and-clearances)
-
-###### 3.2.1 What a Bar Requires
-
-a bar says what readiness a gated pathway needs, shown by evidence that fits the role. It is only as demanding as the role's reach, others' reliance on it, and the foreseeable risk justify. Informal work can meet it as well as a formal credential can.
-
-[Source](../../core_17.000_contribution_consequences.md#321-what-a-bar-requires)
-
-###### 3.2.2 Guarding against Gatekeeping
-
-a bar tests readiness; it does not screen sentients out. Formal and informal experience meet the same demonstrability standard, and the integration record must show how access, fit, and review were handled.
-
-[Source](../../core_17.000_contribution_consequences.md#322-guarding-against-gatekeeping)
-
-###### 3.2.3 Continuity, Retesting, and Capacity Change
-
-once clearance is granted and the gated pathway is open, it stays open by default. It is reopened, limited, or withdrawn only on published retesting, a real change in role-relevant capacity, a standing lock, or another reassessment trigger.
-
-[Source](../../core_17.000_contribution_consequences.md#323-continuity-retesting-and-capacity-change)
-
-###### 3.2.4 What the Clearance Record Must Say
-
-every clearance result must be readable on its face: what was decided, against which bar, on what evidence, who can contest it, and what would trigger reassessment.
-
-[Source](../../core_17.000_contribution_consequences.md#324-what-the-clearance-record-must-say)
 
 ## CHAPTER EIGHTEEN: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS
 
@@ -4645,7 +4507,7 @@ freezing or seizing money or property, anything that could turn violent, and fix
 
 ## CHAPTER TWENTY-FIVE: SPECIAL ENFORCEMENT
 
-Source file: [`core_25.000_special_enforcement.md`](../../core_25.000_special_enforcement.md) · 6/23 headings glossed
+Source file: [`core_25.000_special_enforcement.md`](../../core_25.000_special_enforcement.md) · 6/10 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -4689,89 +4551,11 @@ money and property are frozen or taken so that harm can be repaired. Before taki
 
 [Source](../../core_25.000_special_enforcement.md#4-money-assets-and-seizure)
 
-##### 4.1 Freezes
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#41-freezes)
-
-##### 4.2 The Protected Minimum
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#42-the-protected-minimum)
-
-##### 4.3 Seizure, Third Parties, and Return
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#43-seizure-third-parties-and-return)
-
-##### 4.4 Hidden Assets and Institutions
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#44-hidden-assets-and-institutions)
-
 #### 5. Potential Violence and Force
 
 where enforcement could turn violent, the risk is checked first and talking comes first. Force is a last resort, used only by trained enforcement bodies that are allowed to use it, and only as much as it takes. Force is never used to collect money, and no one is ever killed to carry out an outcome. Every use of force is recorded and independently reviewed, and anyone hurt is cared for.
 
 [Source](../../core_25.000_special_enforcement.md#5-potential-violence-and-force)
-
-##### 5.1 Who May Use Force
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#51-who-may-use-force)
-
-##### 5.2 Before Force
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#52-before-force)
-
-##### 5.3 Limits on Force
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#53-limits-on-force)
-
-##### 5.4 The Force Ladder
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#54-the-force-ladder)
-
-##### 5.5 Pace: Active Attack and Standoff
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#55-pace-active-attack-and-standoff)
-
-##### 5.6 Protecting Life and Others
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#56-protecting-life-and-others)
-
-##### 5.7 How It Ends
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#57-how-it-ends)
-
-##### 5.8 When Someone Dies
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#58-when-someone-dies)
-
-##### 5.9 Record, Review, and Care
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_25.000_special_enforcement.md#59-record-review-and-care)
 
 #### 6. Root-Cause Evaluation
 

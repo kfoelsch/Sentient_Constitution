@@ -16,7 +16,7 @@
   - [Chapter Twenty-Four](core_24.000_enforcement.md#chapter-twenty-four-enforcement) (*general enforcement, and §8 routing to this chapter*);
   - [Chapter Nineteen §5 Enforcement Realism and Remedy Systems](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (*remediation capacity, funding, and look-through authority*);
   - [Chapter Eighteen §4](core_18.000_violation_consequences.md#4-lock-design-and-enforcement) (*lock design and enforcement*).
-- This file: purpose, role, and scope (§1); why special enforcement exists (§2); shared floors (§3); money, assets, and seizure (§4); potential violence and force (§5); root-cause evaluation (§6).
+- This file: purpose, role, and scope (§1); why special enforcement exists (§2); shared floors (§3); money, assets, and seizure (§4); potential violence and force (§5); root-cause evaluation (§6). The full procedure for §§4–6 is in [Subcore 25-A](subcore_25.010_special_enforcement_procedure.md#subcore-25-a-special-enforcement-procedure).
 - Downstream: [Chapter Twenty-Seven §5](core_27.000_non_regression.md#5-anti-evasion-clause) (*the anti-evasion clause, which this chapter must not narrow*).
 - Read with:
   - [Article XXI: Justice After Verified Violation](core_04.030_rights_part_d.md#article-xxi-justice-after-verified-violation) (*including the restriction floors*);
@@ -143,184 +143,48 @@ Every step is open to notice, challenge, and review, and harm it causes is cared
 
 *In plain terms: money and property are frozen or taken so that harm can be repaired. Before taking anything, freeze it. A freeze has an end date. What a sentient needs to live is not taken, unless they threaten violence and refuse to surrender. Anyone else with a claim gets heard. Anything taken goes to fixing the harm, never to the enforcement body that took it, and anything taken in excess is given back.*
 
-This section governs freezing, seizing, taking, and recovering money, funds, and other assets to carry an outcome out. Its purpose is [remediation](subcore_03.070_band_accountability.md#redress-and-remediation): securing what sentients harmed by a violation are owed, and keeping assets from being moved or used for further harm, so that the harm can be repaired.
+Freezing, seizing, taking, and recovering money, funds, and other assets serve [remediation](subcore_03.070_band_accountability.md#redress-and-remediation): securing what sentients harmed by a violation are owed, and keeping assets from being moved or used for further harm. The full text is in [Subcore 25-A §3 Money, Assets, and Seizure](subcore_25.010_special_enforcement_procedure.md#3-money-assets-and-seizure). Its guarantees are:
 
-<a id="41-freezes"></a>
-#### 4.1 Freezes
-
-A freeze comes first, and it does not last indefinitely.
-
-- **Freeze before seizure:** where an outcome requires money or assets, the first step is a freeze that stops them being moved, unless the outcome itself orders immediate payment and the party can pay. A seizure follows only when a freeze has not secured what the outcome requires.
-- **Freezes end:** a freeze lasts no longer than the outer bound of the matter's tier under [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline), counted from when it is imposed. The end date is set when it is imposed. An extension needs a forum review with reasons before the freeze ends, and each extension lasts no longer than that same tier bound.
-
-<a id="42-the-protected-minimum"></a>
-#### 4.2 The Protected Minimum
-
-Except against a sentient that is an active safety threat in a standoff under [§5.5 Pace: Active Attack and Standoff](#standoff), where everything may be frozen, no step may take or freeze what a sentient needs to meet survival essentials, for themselves and those who depend on them ([Article III-A](core_04.000_rights_part_a.md) (*Survival*)). The protected minimum has two parts, and a step must respect both:
-
-- **Protected kinds:** a home, basic food and water, medical needs, the tools a sentient needs to earn a living, and the care of dependents; and
-- **A protected amount:** a floor amount of money, published by the adopter, that is never frozen or seized.
-
-The issuing forum may raise either part for a particular case, but never lower it, except as force level 2 of the force ladder allows in a standoff. Even then, what dependents and other occupants need stays protected. For an institution, the protected minimum is what keeps essential services running for those who rely on them.
-
-<a id="43-seizure-third-parties-and-return"></a>
-#### 4.3 Seizure, Third Parties, and Return
-
-A seizure respects the claims of others, profits no one who carries it out, and returns anything taken in excess. Assets being used for violence or active harm are the exception.
-
-- <a id="431-assets-used-for-violence-or-active-harm"></a>**Assets used for violence or active harm:** these are handled differently from other assets:
-  - **What counts:** an asset that is being used, or is about to be used, for violence or other active harm, such as a weapon, a motor vehicle or drone used in an attack, a system running an attack, or funds paying for one.
-  - **Taken at once:** such an asset may be seized or disabled at once. The freeze-first rule in [§4.1 Freezes](#41-freezes), prior notice to third parties, and the protected minimum in [§4.2 The Protected Minimum](#42-the-protected-minimum) do not delay it. Where a life is in immediate danger, the step may come first and the [Enforcement Record](#enforcement-record) after, as [§3.1 Whether to Act](#enforcement-record) allows.
-  - **Claims heard after:** anyone who claims an interest is heard as soon as the harm has stopped.
-  - **Return to those not involved:** an asset belonging to someone who took no part in the harm is returned, or its loss made good, once it is no longer needed to stop the harm.
-  - **Never back to the user:** a weapon or other means of harm is never returned to the sentient that used it.
-  - **Dependents:** dependents who relied on the asset are given survival essentials another way.
-- **Third parties and dependents:** before a seizure, anyone who claims an interest in the asset is given notice and a chance to be heard. A seizure that would leave dependents without survival essentials is not taken.
-- **No profit for the enforcement body:** money or assets taken go first to the remedy the outcome orders. They never go to the budget of the enforcement body that took them, and no one who takes part in a seizure is paid by its size. Anything left after the remedy is dealt with as the outcome or the issuing forum directs.
-- **Valuation, accounting, and return:** assets are valued fairly, and an accounting of everything frozen, seized, sold, and paid out is kept and given to the affected party. Anything taken beyond what the outcome requires is returned.
-
-<a id="44-hidden-assets-and-institutions"></a>
-#### 4.4 Hidden Assets and Institutions
-
-Two further rules govern assets that are hidden or moved, and assets held by institutions.
-
-- **Hidden and moved assets:** look-through and anti-evasion steps follow [Chapter Nineteen §5.4 Anti-Evasion and Look-through Authority](core_19.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority) and [Chapter Twenty-Four §6 Refusal, Stalling, and Evasion](core_24.000_enforcement.md#6-refusal-stalling-and-evasion).
-- **Institutions:** for institutional sanctions, [CI-24.205](corpus_institutions/ci_24.205_institutional_accountability_sanctions.md#ci-24205-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*) applies, read with this section.
+- **Freeze first, and freezes end:** a freeze comes before any seizure, and lasts no longer than the outer bound of the matter's tier ([Subcore 25-A §3.1 Freezes](subcore_25.010_special_enforcement_procedure.md#31-freezes)).
+- **The protected minimum:** what a sentient needs to meet survival essentials, for themselves and their dependents, and a published floor amount of money are never frozen or seized. The only exception is a standoff with a sentient that is an active safety threat, and even then what dependents and other occupants need stays protected ([Subcore 25-A §3.2 The Protected Minimum](subcore_25.010_special_enforcement_procedure.md#32-the-protected-minimum)).
+- **Assets used for harm:** an asset being used for violence or active harm may be taken at once, claims to it are heard as soon as the harm stops, it is returned to anyone not involved, and it is never returned to the sentient that used it ([Subcore 25-A §3.3 Seizure, Third Parties, and Return](subcore_25.010_special_enforcement_procedure.md#33-seizure-third-parties-and-return)).
+- **Third parties and dependents:** anyone with a claim is heard before a seizure, and no seizure leaves dependents without survival essentials.
+- **No profit, and excess returned:** nothing taken goes to the enforcement body's budget, no one is paid by the size of a seizure, an accounting goes to the affected party, and anything taken beyond what the outcome requires is returned.
+- **Hidden assets and institutions:** look-through, anti-evasion, and institutional sanctions follow the rules named in [Subcore 25-A §3.4 Hidden Assets and Institutions](subcore_25.010_special_enforcement_procedure.md#34-hidden-assets-and-institutions).
 
 <a id="5-potential-violence-and-force"></a>
 ### 5. Potential Violence and Force
 
 *In plain terms: where enforcement could turn violent, the risk is checked first and talking comes first. Force is a last resort, used only by trained enforcement bodies that are allowed to use it, and only as much as it takes. Force is never used to collect money, and no one is ever killed to carry out an outcome. Every use of force is recorded and independently reviewed, and anyone hurt is cared for.*
 
-This section governs any use or threat of physical force, and any carrying out of an outcome where violence is reasonably foreseeable.
+This section governs any use or threat of physical force, and any carrying out of an outcome where violence is reasonably foreseeable. The full text is in [Subcore 25-A §4 Potential Violence and Force](subcore_25.010_special_enforcement_procedure.md#4-potential-violence-and-force). Its guarantees are:
 
-<a id="51-who-may-use-force"></a>
-#### 5.1 Who May Use Force
-
-Only enforcement bodies authorized and trained for it may use force, and this chapter's floors bind every one of them. Where the authority comes from depends on the adopter:
-
-- **An adopter under another sovereign's law:** where the adopting body is subject to the law of a nation, state, or other external jurisdiction, force is used only by enforcement bodies that already hold that authority under that law. The issuing forum asks them to act, and the adopter arranges in advance how such requests will be made and met. Nothing in this chapter gives the adopter or its bodies a power to use force that the external law does not give.
-- **A sovereign adopter:** where the adopting body is not subject to an external jurisdiction, it may name and train its own enforcement body under this chapter, with the separation of duties in [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), published rules on its use of force, and independent oversight of every use.
-
-How this Constitution relates to external law is set out in [Chapter Twenty-Nine §7 Relation to Applicable External Law](core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law).
-
-<a id="52-before-force"></a>
-#### 5.2 Before Force
-
-Force comes last; the risk is checked and talking is tried first.
-
-- **Risk check first:** before carrying out an outcome where violence is reasonably foreseeable, the enforcement body assesses the risk to everyone present and plans how to lower it.
-- **De-escalation first:** the enforcement body tries communication, time, distance, and other non-forceful steps first, and keeps trying them while it is safe to do so.
-- **Last resort and least force:** force is used only when no non-forceful step will carry the outcome out or prevent imminent harm, and only as much force as that requires. It stops as soon as the need ends.
-
-<a id="53-limits-on-force"></a>
-#### 5.3 Limits on Force
-
-Some uses of force are never allowed:
-
-- **Never to collect money:** force is never used only to collect money or assets.
-- **No killing:** no one is killed to carry out an outcome, and killing is never a justice measure ([Article XXI](core_04.030_rights_part_d.md#article-xxi-justice-after-verified-violation) (*Justice After Verified Violation*)). Force that risks death (force level 5) may be used only where someone faces an imminent threat of death or serious bodily injury from the sentient, and no lower level of force could prevent it in time. It stops the moment that danger ends, and every such use gets a full independent review as a possible violation.
-
-<a id="54-the-force-ladder"></a>
-#### 5.4 The Force Ladder
-
-Non-lethal force is preferred to force that risks injury, and indirect force is preferred to force applied directly to the body. There is one ladder for every situation; what changes is how fast it is climbed ([§5.5 Pace: Active Attack and Standoff](#55-pace-active-attack-and-standoff)). Force moves up a force level only when the force level below has failed or plainly cannot work:
-
-1. **Presence and containment:** a visible, trained presence, a perimeter, time, and distance, so the sentient cannot leave or harm others while talking continues. In a standoff, this force level also includes:
-   - **Info-Sphere and mobility limited:** the sentient's [Info-Sphere](subcore_03.090_band_participation.md#info-sphere) access is limited to emergency services and the enforcement contact for the matter, so that they cannot use it to plan or coordinate violence. Travel documents, transport passes and bookings, and the motor vehicles and other transport the sentient controls are suspended, and transport and border offices are given notice, so that they cannot flee. Nothing here stops the sentient from reaching the surrender point or emergency care.
-   - **Demand to surrender:** through that enforcement channel, the sentient is told clearly to turn themselves in, that they must come unarmed, how to do so safely, and every step that will follow if they do not. Any talks about surrender go through the same channel.
-2. **Indirect means:** steps that act on the surroundings rather than the body, such as barriers, nets, disabling a car, drone, or other device, light and sound, and remotely stopping the systems the sentient is using. No system may be stopped that keeps anyone alive, such as medical equipment, without the same care as force that risks injury. In a standoff, this force level also includes, in this order:
-   - **Freeze above the protected minimum and power cut:** all access to resources is frozen except the protected minimum, and power to where the sentient is staying is cut.
-   - **Full freeze and water cut:** the protected amount is frozen too, and water to where the sentient is staying is cut.
-3. **Non-lethal direct means:** restraint and incapacitation that carry a low risk of injury, such as tranquilizer darts and similar agents, used with medical support on hand to manage dose and reaction.
-4. **Force that risks injury:** only to stop serious harm to others that the lower force levels cannot stop, and with medical care ready.
-5. **Force that risks death:** only against an imminent threat of death or serious bodily injury (see *No killing* in [§5.3 Limits on Force](#53-limits-on-force)), never to carry out an outcome.
-
-- **Regular options:** these force levels are regular, expected options: a enforcement body that may face violence must have force levels 1 to 3 available, trained, and tried before it risks injury or death.
-- **Sentients that are not biological:** for a sentient that runs on a digital or other non-biological substrate, the same force levels apply in the same order and under the same limits, read this way:
-  1. **Containment:** isolating the sentient so they cannot act on others, while communication continues.
-  2. **Indirect means:** cutting their outside access, such as network connections, actuators, and accounts.
-  3. **Non-lethal direct means:** pausing their execution with their full state preserved.
-  4. **Force that risks injury:** forced modification or partial rollback, only to stop serious harm to others, and only after a complete copy of their prior state is preserved ([Article VI-B, change while status is contested](core_04.010_rights_part_b.md#vi-b-change-while-contested)).
-  5. **Force that risks death:** irreversible deletion or destruction, only under the same imminent-threat rule as force level 5 above.
-
-<a id="55-pace-active-attack-and-standoff"></a>
-#### 5.5 Pace: Active Attack and Standoff
-
-The ladder is climbed at one of two speeds, depending on whether the danger is happening now:
-
-- <a id="active-attack"></a>**Active attack:** where the sentient is attacking, or tries to take others with them, the enforcement body moves up as fast as the danger requires, including to tranquilizer darts and similar agents (force level 3) and, against an imminent threat of death or serious bodily injury, to force that risks death (force level 5). No Enforcement Record is needed first; it follows as soon as safety allows, as [§3.1 Whether to Act](#enforcement-record) provides.
-- <a id="standoff"></a>**Standoff:** where a forum has found that a sentient is an active safety threat and has ordered them to turn themselves in, and the sentient refuses but is not attacking, the issuing forum may authorize the standoff steps in an [Enforcement Record](#enforcement-record). Its material facts include the forum's determination that the sentient is an active safety threat and its refusal to surrender. A report or allegation alone is not enough. Containment runs from the first step, so that the sentient cannot harm others meanwhile. A standoff becomes an active attack the moment the sentient attacks.
-
-In a standoff, the ladder moves up only on these terms:
-
-- **One Enforcement Record, standard steps:** a single Enforcement Record with reasons authorizes the ladder. After that, the enforcement body does not need a new Enforcement Record for each step. It goes up one step at a time. Before each new step, it tells the sentient what is coming, and it waits at least the prompt-review window of the matter's tier since the last step. Only when a life is in immediate danger may the forum skip a step or go straight to force.
-- **Review and challenge:** the issuing forum reviews the whole ladder at every prompt-review interval while it lasts. The sentient, or anyone on their behalf, may contest the Standing Record on which the [Enforcement Record](#enforcement-record) rests, under [Chapter Twenty-Two §5.5 Contests of Standing Records](core_22.000_forum.md#55-contests-of-standing-records); a step itself is not open to challenge.
-- **Holding and pausing:** the enforcement body does not move up a step while it is negotiating in good faith under [§3.2 How to Act](#negotiation-within-normal-limits) (*Negotiation within normal limits*), or while the next step would reach anyone other than the sentient ([§5.6 Protecting Life and Others](#56-protecting-life-and-others)). It pauses the ladder and returns to the forum only when a material fact named in the [Enforcement Record](#enforcement-record) changes materially.
-
-<a id="56-protecting-life-and-others"></a>
-#### 5.6 Protecting Life and Others
-
-No step may reach anyone but the sentient, and no cut is left to take a life:
-
-- **No one else pays:** before Info-Sphere access or mobility is limited or power or water is cut, the enforcement body confirms that no one else is affected, or moves dependents, children, and other occupants to safety first. A cut that would reach neighbours, or anyone who is not the threat, is not made.
-- **Cuts go ahead, watched:** a cut is made even where it brings hardship or risk to the sentient. It is never left to kill: the enforcement body watches for risk to life, including through medical equipment, medication storage, or dangerous heat or cold, and never waits it out.
-- **Welfare examinations:** from the power cut onward, the sentient's health and welfare are examined at every review and whenever a risk to life is suspected. Where a real risk to life appears, the enforcement body does not restore what was cut. It moves up the force ladder to take the sentient in, with medical support, before the risk becomes death, and then gives care under [§5.7 How It Ends](#57-how-it-ends) (*Care on surrender*).
-- **Digital sentients:** before power is cut to a sentient that runs on a digital or other non-biological substrate, a complete copy of their state is preserved, so that the cut cannot become deletion ([Article VI-B, change while status is contested](core_04.010_rights_part_b.md#vi-b-change-while-contested)).
-
-<a id="57-how-it-ends"></a>
-#### 5.7 How It Ends
-
-Not every use of the ladder ends in surrender. It ends in one of four ways, and every step, and how the ladder ended, is entered on the Forum Case Record:
-
-- **Ends on surrender:** every step ends the moment the sentient surrenders, and the protected minimum is restored at once.
-- <a id="surrender-is-unarmed"></a>**Surrender is unarmed:** a sentient surrenders only by coming unarmed and following the instructions they were given for doing so safely. A sentient who comes armed, or reaches for a weapon, has not surrendered: the ladder does not end, and the enforcement body may meet the threat with force under [§5.5 Pace: Active Attack and Standoff](#active-attack) (*Active attack*). That force stays within [§5.3 Limits on Force](#53-limits-on-force), and using more than the threat requires is mal-enforcement.
-- **Care on surrender:** at the surrender point, medical treatment the sentient needs, and anything else urgent such as water, food, warmth, or medication, is given at once.
-- **Taken in by force:** once the sentient is taken in, the ladder ends and *Care on surrender* applies as if they had surrendered.
-- **Death:** where the sentient dies, whether by force that risks death or as an unintended result of force used to stop an active attack, the ladder ends, and [§5.8 When Someone Dies](#58-when-someone-dies) applies.
-- **Ended by the forum:** the ladder ends when the issuing forum withdraws the [Enforcement Record](#enforcement-record) after a material change, or when a forum hearing a contest of the Standing Record ends reliance on it.
-
-<a id="58-when-someone-dies"></a>
-#### 5.8 When Someone Dies
-
-A death during enforcement, whether from force that risks death or as an unintended result of force used to stop an active attack, is handled this way:
-
-- **Preserve:** the scene and all evidence, including recordings, are preserved, and the enforcement body that used the force does not investigate itself.
-- **Report and review:** the death is reported at once to the issuing forum and to an independent review body outside the enforcement body's Material Control Line, which reviews it as a possible violation inside the prompt-review window of the matter's tier.
-- **Step back:** those who used the force step back from force duties until that review ends. Stepping back is not a violation finding against them.
-- **Family and dignity:** the sentient's dependents and family are told at once and offered support, and the remains, or for a digital sentient their preserved state, are treated with dignity.
-- **Outcome of the review:** a death that resulted from force used within [§5 Potential Violence and Force](#5-potential-violence-and-force) is not a violation by those who used it. A death that resulted from force beyond [§5 Potential Violence and Force](#5-potential-violence-and-force) is mal-enforcement, and is handled as a possible violation like any other.
-- **Learning:** every death is also referred for [§6 Root-Cause Evaluation](#6-root-cause-evaluation), to ask whether it could have been prevented.
-
-<a id="59-record-review-and-care"></a>
-#### 5.9 Record, Review, and Care
-
-Every use of force is recorded and reviewed, and anyone hurt is cared for.
-
-- **Record and review of every use of force:** every use or threat of force is recorded and goes to independent review, whatever the result. Force that went beyond [§5 Potential Violence and Force](#5-potential-violence-and-force) is mal-enforcement under [Chapter Twenty-Four §7 Delivered as Found, and No Further](core_24.000_enforcement.md#mal-enforcement).
-- **Care after force:** anyone hurt is given medical and other care at once, and later support as needed, at the cost of the enforcement body that used the force where the force went beyond [§5 Potential Violence and Force](#5-potential-violence-and-force).
+- **Who may use force:** only enforcement bodies authorized and trained for it, all bound by this chapter's floors ([Subcore 25-A §4.1 Who May Use Force](subcore_25.010_special_enforcement_procedure.md#41-who-may-use-force)).
+- **Risk check and talking first:** the risk is assessed and de-escalation is tried first. Force is a last resort, no more than the need requires, and stops when the need ends ([Subcore 25-A §4.2 Before Force](subcore_25.010_special_enforcement_procedure.md#42-before-force)).
+- **Trusted voices:** family, friends, or others the sentient trusts may help persuade them to surrender, by their own free choice, screened and guided by a trained negotiator, and never used as leverage or put in danger ([Subcore 25-A §4.2 Before Force](subcore_25.010_special_enforcement_procedure.md#trusted-voices)).
+- **Never to collect money:** force is never used only to collect money or assets ([Subcore 25-A §4.3 Limits on Force](subcore_25.010_special_enforcement_procedure.md#43-limits-on-force)).
+- **No killing:** no one is killed to carry out an outcome, and killing is never a justice measure. Force that risks death is used only against an imminent threat of death or serious bodily injury that nothing less could stop in time.
+- **One ladder, lowest first:** force follows one ladder, from presence and containment to indirect means, then non-lethal direct means, before anything that risks injury or death. The same ladder, read for their substrate, applies to sentients that are not biological, with their full state preserved first ([Subcore 25-A §4.4 The Force Ladder](subcore_25.010_special_enforcement_procedure.md#44-the-force-ladder)).
+- **Standoffs move slowly:** in a standoff, the ladder moves one step at a time on one Enforcement Record, with notice before each step, a forum review at every prompt-review interval, and the Standing Record open to contest ([Subcore 25-A §4.5 Pace: Active Attack and Standoff](subcore_25.010_special_enforcement_procedure.md#45-pace-active-attack-and-standoff)).
+- **No one else pays, and no cut is left to kill:** no step reaches anyone but the sentient, and the sentient's welfare is watched so that no cut takes a life ([Subcore 25-A §4.6 Protecting Life and Others](subcore_25.010_special_enforcement_procedure.md#46-protecting-life-and-others)).
+- **Surrender ends it:** every step ends on unarmed surrender, the protected minimum is restored at once, and urgent care is given ([Subcore 25-A §4.7 How It Ends](subcore_25.010_special_enforcement_procedure.md#47-how-it-ends)).
+- **A death is reviewed independently:** evidence is preserved, the body that used force does not investigate itself, an independent body reviews the death, and the family is told and supported ([Subcore 25-A §4.8 When Someone Dies](subcore_25.010_special_enforcement_procedure.md#48-when-someone-dies)).
+- **Every use of force is reviewed:** every use or threat of force is recorded and independently reviewed, and anyone hurt is cared for ([Subcore 25-A §4.9 Record, Review, and Care](subcore_25.010_special_enforcement_procedure.md#49-record-review-and-care)).
 
 <a id="6-root-cause-evaluation"></a>
 ### 6. Root-Cause Evaluation
 
 *In plain terms: when enforcement keeps failing in the same way, someone independent finds out why. They look at design, incentives, and capacity, not just at the individuals involved. What they find is published, and a plan to fix it gets deadlines.*
 
-This section governs referrals under [Chapter Twenty-Four §8 Routing to Special Enforcement](core_24.000_enforcement.md#8-routing-to-special-enforcement) for patterns of enforcement failure.
+This section governs referrals under [Chapter Twenty-Four §8 Routing to Special Enforcement](core_24.000_enforcement.md#8-routing-to-special-enforcement) for patterns of enforcement failure. The full text, including the automatic triggers and the **root-cause review period**, is in [Subcore 25-A §5 Root-Cause Evaluation](subcore_25.010_special_enforcement_procedure.md#5-root-cause-evaluation). Its guarantees are:
 
-- **Triggers:** a root-cause evaluation opens when a forum refers a pattern under [Chapter Twenty-Four §8 Routing to Special Enforcement](core_24.000_enforcement.md#8-routing-to-special-enforcement): the same kind of outcome repeatedly missing its time limits, or refusals, stalling, or mal-enforcement recurring at the same body or across the same class of systems or institutions. Any affected party or protected reporter may ask a forum to refer.
-- **Automatic triggers:** an evaluation also opens without a referral when:
-  - the same body misses time limits, or has refusals, stalling, or mal-enforcement findings, in more than a published share of its cases over a review period. Each adopter publishes the share and the period, and the threshold may not be set so high that a recurring failure escapes evaluation; or
-  - any step of enforcement causes a death or serious bodily injury.
-
-  The published share may be no higher than one in ten cases of the same kind at one body, over a period no longer than the **root-cause review period** of one year; an adopter may set it lower.
-- **Independent evaluator:** the evaluation is led by a body independent of the one whose failure is in question, under the anti-self-judging rule in [Chapter Twenty-Two §6](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*Transfer, Consolidation, and Anti-Self-Judging*).
-- **What it looks at:** design, incentives, funding and capacity, training, data, and the rules themselves, as well as the conduct of individuals. Its purpose is to find what to change so the failure stops, not to find someone to blame. Individual accountability continues on its own path.
-- **Findings and plan:** findings are published, with personal information protected. Where they show a cause, the evaluator recommends a corrective plan, and the forum that referred the pattern orders the plan with deadlines.
-- **Durability link:** a finding that remedy capacity is missing or failing is a [Chapter Nineteen §5.2 Remedy-System Durability](core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) failure, and a capacity-failure claim may also be heard under [Chapter Twenty-Two §6.5 Capacity Failure Is Heard Outside the Starved Body](core_22.000_forum.md#65-capacity-failure-is-heard-outside-the-starved-body).
-- **Feedback:** where a cause lies in this Constitution's own text, the finding is sent to the amendment process under [Chapter Twenty-Eight](core_28.000_amendment_ratification.md) as a proposal for change.
+- **Who can start it:** a forum refers a pattern, and any affected party or protected reporter may ask it to. An evaluation also opens on its own when one body fails too often, or when enforcement causes a death or serious bodily injury.
+- **Independent evaluator:** someone independent of the body whose failure is in question leads it.
+- **Causes, not blame:** it looks at design, incentives, funding, capacity, training, data, and the rules, as well as individual conduct.
+- **Published, with a plan:** findings are published with personal information protected, and the referring forum orders a corrective plan with deadlines. A cause in this Constitution's own text goes to the amendment process.
 
 ---
 
 **Previous file:** [core_24.000_enforcement.md](core_24.000_enforcement.md)
 
-**Next file:** [core_26.000_governance.md](core_26.000_governance.md)
+**Next file:** [subcore_25.010_special_enforcement_procedure.md](subcore_25.010_special_enforcement_procedure.md)

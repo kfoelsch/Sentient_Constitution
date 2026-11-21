@@ -548,6 +548,6 @@ After final designation under **section 6** with **section 7** safeguards met:
 
 *Worked examples (they add no rule):* [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): [CJS-14.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-14.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-10-question-3-routing-patterns).
 
-**Previous file:** [core_19.000_final_effect_restoration_enforcement.md](core_19.000_final_effect_restoration_enforcement.md)
+**Previous file:** [subcore_19.010_cross_adopter_checks_remedy_durability.md](subcore_19.010_cross_adopter_checks_remedy_durability.md)
 
 **Next file:** [core_21.000_misconduct_pattern_applications.md](core_21.000_misconduct_pattern_applications.md)
