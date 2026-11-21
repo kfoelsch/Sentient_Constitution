@@ -219,8 +219,15 @@ Age is not a qualification for governing or for critical stewardship:
 Any legitimacy mechanism that purports to authorize governing authority must, at a minimum, provide all of the following **democratic-institution minimum checks**:
 
 1. **Contested selection** — meaningful opportunity for alternative candidates, proposals, or positions to be presented and assessed by the authorizing community.
-2. **Opposition protection** — real, not merely formal, freedom for dissenting sentients, proposals, and coalitions to organize, communicate, and challenge incumbent authority without retaliation, consistent with **Articles XI-B** (*Expression*), **XI-C** (*Press and Journalistic Activity*), and **XI-D** (*Assembly, Dissent, and Peaceful Protest*), **Article X-A** (*Freedom from Manipulation*), and **Article XV-A** (*Protected Activity*).
-3. **Peaceful-succession guarantee** — a defined succession pathway for transfer or reauthorization of authority on the terms the mechanism itself states, with denial or material degradation of the peaceful-succession pathway treated as a failure of the mechanism under **Failure and Correction** above.
+2. **Opposition protection** — dissenting sentients, proposals, and coalitions have real, not merely formal, freedom to oppose incumbent authority:
+    - **Freedoms protected:** to organize, to communicate, and to challenge incumbent authority, all without retaliation.
+    - **Rights it is consistent with:**
+        - **Article XI-B** (*Expression*);
+        - **Article XI-C** (*Press and Journalistic Activity*);
+        - **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*);
+        - **Article X-A** (*Freedom from Manipulation*);
+        - **Article XV-A** (*Protected Activity*).
+3. **Peaceful-succession guarantee** — the mechanism must say how power is handed to someone new or renewed for those who hold it, and that handover must happen on the terms the mechanism states. Blocking the handover, or making it materially harder, counts as a failure of the mechanism, to be challenged and corrected under the **Failure and Correction** rule of [§3.1.4 Contestation, Correction, and Pluralism](#314-contestation-correction-and-pluralism).
 
 The democratic-institution minimum checks are applied as follows:
 
