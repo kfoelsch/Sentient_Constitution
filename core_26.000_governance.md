@@ -233,8 +233,13 @@ The democratic-institution minimum checks are applied as follows:
 
 - These minimum checks apply to [**Foundational Constitutional Choice**](subcore_03.080_band_integrative.md#foundational-constitutional-choice) (Chapter Three) and to any other authorization action within the mechanism's scope.
 - The minimum checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or Constitutional Charter** designs, and hybrid designs alike.
-- Dissent or peaceful protest against incumbent authority under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) must not reduce governance-voting, candidacy, office-holding, forum-service, or recall rights, and must not be treated as a ground for removal.
-- Nominal opposition preservation paired with functional exclusion through covert info-sphere dependency, **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, or comparable structural means is non-compliant under both these minimum checks and the **Pluralism** clause.
+- Dissenting from or peacefully protesting against those in power, as **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) protects ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)), must never cost anyone their part in governance. It must not:
+    - reduce their right to vote in governance, run for office, hold office, serve on a forum, or take part in a recall; or
+    - be used as a reason to remove them from a role.
+- A design fails these minimum checks, and the **Pluralism** rule of [§3.1.4 Contestation, Correction, and Pluralism](#314-contestation-correction-and-pluralism), if it lets opposition exist on paper while shutting it out in practice. Ways of shutting it out include:
+    - making opponents secretly dependent on the information channels they need to reach others (covert info-sphere dependency);
+    - capturing the stewardship of high-autonomy systems, contrary to **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*); and
+    - any other structural means with the same effect.
 
 <a id="323-selection-funding-boundaries"></a>
 
