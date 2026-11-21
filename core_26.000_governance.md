@@ -114,14 +114,17 @@ Every system of rules rests on someone's authority to make them. If that authori
 
 ##### 3.1.1 Mechanism Families
 
-Recognized mechanism families include:
+Recognized mechanism families fall into three groups:
 
-- representative elections or consent renewal
-- **community-initiated early transfer or reauthorization** (*recall-class* pathways) for **continuing mandates** between ordinary selection or reauthorization events, governed by **§3.3** (*Recall-Class Pathways and Mid-Cycle Transfer Guardrails*)
-- **sortition** or civic lottery for specified bodies
-- **federated ratification** by network members or member bodies under published rules
-- **treaty, compact, or Constitutional Charter** adoption with recorded assent
-- hybrid or ordered designs that satisfy **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gates for **high-impact** decisions
+- **Selecting, renewing, and replacing those who govern:**
+  - representative elections or consent renewal;
+  - **community-initiated early transfer or reauthorization** (*recall-class* pathways) for **continuing mandates** between ordinary selection or reauthorization events, governed by [§3.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails](#33-recall-class-pathways-and-mid-cycle-transfer-guardrails); and
+  - **sortition** or civic lottery for specified bodies, under [§3.1.2 Sortition Integrity and Anti-Capture Use](#312-sortition-integrity-and-anti-capture-use).
+- **Recorded agreement among members or parties:**
+  - **federated ratification** by network members or member bodies under published rules; and
+  - **treaty, compact, or Constitutional Charter** adoption with recorded assent.
+- **Combinations:**
+  - hybrid or ordered designs that satisfy **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gates for **high-impact** decisions.
 
 <a id="312-sortition-integrity-and-anti-capture-use"></a>
 
