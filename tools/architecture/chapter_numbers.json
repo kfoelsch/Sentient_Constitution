@@ -611,6 +611,20 @@
       "pre_reorganization_2026_11_20": "10000"
     },
     {
+      "old_id": "Chapter 9 §§3.1.1, 3.1.2, 3.1.5–3.1.7, 3.2.2",
+      "original_file": "core_09.000_system_alignment_certification_forum_process_outcomes.md",
+      "machine_id": "SUB-09010",
+      "display_id": "S9-A",
+      "layer": "SUBCORE",
+      "core_home": "09",
+      "title": "S9-A",
+      "destination_file": "subcore_09.010_certification_seats_forum_roles_sequence.md",
+      "status": "active",
+      "machine_number": "09010",
+      "layer_digit": "0",
+      "ordinal_name": "S9-A"
+    },
+    {
       "old_id": "Chapter 9",
       "original_file": "core_09_c_system_alignment_certification_record_recertification.md",
       "machine_id": "10000",

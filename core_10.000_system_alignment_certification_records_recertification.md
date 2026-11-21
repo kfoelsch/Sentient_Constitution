@@ -679,6 +679,6 @@ These items, in the System Certification Record, may supply verified input for a
 
 ---
 
-**Previous file:** [core_09.000_system_alignment_certification_forum_process_outcomes.md](core_09.000_system_alignment_certification_forum_process_outcomes.md)
+**Previous file:** [subcore_09.010_certification_seats_forum_roles_sequence.md](subcore_09.010_certification_seats_forum_roles_sequence.md)
 
 **Next file:** [subcore_10.010_system_certification_record_contents.md](subcore_10.010_system_certification_record_contents.md)

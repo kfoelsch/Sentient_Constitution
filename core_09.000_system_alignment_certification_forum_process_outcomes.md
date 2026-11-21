@@ -183,53 +183,19 @@ This section gives each forum family its **component role** in system alignment 
 
 ##### 3.1.1 Four Seats in a Certification
 
-This subsection is how Chapter Eight applies the [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement). [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires every later process to say how it assigns and uses all four seats, and this subsection is that statement for certification. A certification is a [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act), so every certification pass has the four seats Chapter Six defines, under the names Chapter Six gives them. This subsection adds no seat and relaxes no rule of Chapter Six. Other rules in this chapter may be stricter, never weaker.
+Who holds each of the four seats in a system certification is set out in full in [Subcore 9-A §3 Four Seats in a Certification](subcore_09.010_certification_seats_forum_roles_sequence.md#3-four-seats-in-a-certification). Their guarantees are:
 
-For the certification act, the seats are held as follows:
-
-- **[Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat):** the system operator, steward, vendor, or other proponent seeking certification. It requests, operates, or claims alignment.
-- **[Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat):** the forum or bounded component authority that checks the evidence and authority against the governing standard and issues its finding, within that authority.
-- **[Record Seat](subcore_03.070_band_accountability.md#record-seat):** the office that opens, enters, amends, preserves, and publishes the coordinated System Certification Record. That System Certification Record is the Act Record for the certification act (see [Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents)).
-- **[Contest Seat](subcore_03.070_band_accountability.md#contest-seat):** the published record challenge path, together with the competent review or backup forum, for the challenged act (see [Chapter Ten §5.2 Contestability Paths](core_10.000_system_alignment_certification_records_recertification.md#52-contestability-paths)).
-
-**Where the seats are placed:**
-
-- The system's [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) places the initiating, record, and contest seats for a certification. For each, it lists the eligible offices, the stewards now authorized to hold them, and the substitute.
-- The record seat and the contest seat it names sit outside the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of the operator and proponent.
-- The map does not place the verify-or-authorize seat. The lead forum and the component authorities are assigned under [§3.2 Supervisory Sequence](#32-supervisory-sequence) and Chapter Twenty-Two, so the operator cannot choose its own verifying authority.
-- The System Certification Record names the Charter Role Map version in force for each certification pass (see [Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents)).
-- A seat the map leaves unplaced is a System Charter defect to log and correct, and the certification pass routes as [Chapter Six §6 Published Placement, Vacancy, and Substitution](core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) provides.
-
-**Outside the operator.** Everyone who holds a verify-or-authorize seat in a certification must be outside the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of the operator and the proponent, and must have no interest that the outcome decides. In particular:
-
-- The operator, steward, vendor, or other proponent cannot choose, appoint, fund through a channel it controls, or remove the forum or component authority that checks it.
-- No one who works for it, is owned by it, or answers to it may hold the seat for its certification.
-- A sentient who cannot meet this must step aside from that pass (recusal under Chapter Twenty-Two).
-- A seat placement that fails this is not valid, whatever any Charter Role Map says ([Chapter Six §4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines)).
-
-A forum family may hold different seats on different acts. It may not use its family label to merge seats prohibited by [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) on the same act.
-
-**Lead forum and record holder:**
-
-- The lead forum holds the verify-or-authorize seat for the outcome, and each forum or authority that gives a component finding holds it for that finding.
-- The lead forum directs the sequence, but it does not hold the record seat on the same act.
-- The record holder named in the Charter Role Map opens, amends, preserves, and publishes the System Certification Record. It enters what the deciding forums determined and does not decide anything itself.
-- The "one coordinated record" duty in Chapter Twenty-Two is a duty of the lead forum to coordinate the System Certification Record, not to keep it.
+- **Four seats, as Chapter Six names them:** every certification pass has the initiating, verify-or-authorize, record, and contest seats of [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement); this adds no seat and relaxes no rule of Chapter Six.
+- **The operator does not pick its checker:** the Charter Role Map does not place the verify-or-authorize seat; the lead forum and the component authorities are assigned under [§3.2 Supervisory Sequence](#32-supervisory-sequence) and Chapter Twenty-Two.
+- **Outside the operator:** everyone who holds a verify-or-authorize seat is outside the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of the operator and the proponent and has no interest the outcome decides, and the record seat and the contest seat it names sit outside that line too; a seat placement that fails this is not valid, whatever any Charter Role Map says.
+- **No merging by family label:** a forum family may hold different seats on different acts, but may not use its family label to merge seats that Chapter Six keeps apart on the same act.
+- **The lead does not keep the System Certification Record:** the lead forum directs the sequence but does not hold the record seat; the record holder enters what the deciding forums determined and decides nothing itself.
 
 <a id="312-technical-forums"></a>
 
 ##### 3.1.2 Technical Forums
 
-**The technical piece:**
-
-- Maintain and apply technical specifications, measurement methods, testing protocols, expert-evidence standards, methods for reducing uncertainty, and technical adequacy findings, within their lawful scope;
-- Supply **component findings** for the System Certification Record. These include findings on system-class-scaled assurance and data-handling infrastructure under [§3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) and [§4.4 Data Types and Handling Evaluation](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation);
-- Answer the technical questions the lead forum sends them for ruling, for the System Certification Record, as [Chapter Twenty-Three §3.2 Technical Forum Domains](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) allows;
-- Supply component findings on health and safety information where the system supplies, lists, recommends, or advises on products or services that can affect body, health, or safety. [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](core_08.000_system_alignment_certification_evaluation.md#66-trustworthiness-and-system-reliance-integrity-evaluation) tests this under **Article III-F** (*Safe Products and Health Information*). The technical finding is whether warnings, health claims, nutrition facts, ingredients, and allergen information are accurate, backed by evidence, and kept current, and whether they say plainly what is unknown or untested; and
-- Hold the [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) component role (indicator evaluation, expert evidence, and bounded uncertainty):
-  - This applies where certification materially affects who counts as a **sentient** for rights, standing, or protection purposes, consistent with [Article VI-B](core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*).
-  - Technical Forums are the default lead under [Chapter Twenty-Three §3.2 Technical Forum Domains](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) and [Chapter Twenty-Three §4 Escalation and Questions for Ruling](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook).
-  - Where Chapter Twenty-Two so requires, they refer the matter to Integrity, Institutional, or Constitutional special routes under that hook.
+Technical Forums supply the technical component findings for the System Certification Record, within their lawful scope, and answer the technical questions the lead forum sends them for ruling. Their role in full, including health and safety information under **Article III-F** (*Safe Products and Health Information*) and the [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) component role, is in [Subcore 9-A §4.1 Technical Forums](subcore_09.010_certification_seats_forum_roles_sequence.md#41-technical-forums).
 
 <a id="313-integrity-forums"></a>
 
@@ -254,40 +220,19 @@ A forum family may hold different seats on different acts. It may not use its fa
 
 ##### 3.1.5 Sentient Forums
 
-Where a system materially affects how a community governs itself, Sentient Forums:
-
-- Supply **community-governance findings** on whether the system's decisions follow the communities' published processes, let affected members be heard and contest, and meet the Chapter Eight tests that apply ([§5.3 Assembly, Collective Organization, and Institutional Formation](core_08.000_system_alignment_certification_evaluation.md#53-assembly-collective-organization-and-institutional-formation), [§6.3 Proportionate Cross-System Support Evaluation](core_08.000_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation), and [§6.4 Nondiscrimination Evaluation](core_08.000_system_alignment_certification_evaluation.md#64-nondiscrimination-evaluation)). This covers membership, exclusion, moderation, access to shared community process, participatory inputs, and commons use, whoever operates the system ([Chapter Twenty-Three §3.1 Sentient Forums](core_23.000_forum_families_escalation_timeliness_support.md#31-sentient-forums) describes these matters);
-- Hold the Rights Floor component for community-level stakes, such as exclusion, access to shared community process, or commons use. Institutional Forums hold the broader Rights Floor questions under [§3.1.6 Institutional Forums](#316-institutional-forums). Where no family holds the component, the Integrity lead applies the Rights Floors, using the other component findings;
-- Yield to the Institutional Forum if their Rights Floor findings conflict, since the Institutional Forum has the final say in that pass. Both findings stay on the System Certification Record under [§3.2 Supervisory Sequence](#32-supervisory-sequence), and the conflict stays open to challenge under [§3.3 Contestability Chain](#33-contestability-chain);
-- Hear challenges confined to a community-governance finding (the component forum path under [§3.3 Contestability Chain](#33-contestability-chain)), and receive community-level evidence and concerns from affected members during review, as part of the participation duty of the assigned forums under [§3.2 Supervisory Sequence](#32-supervisory-sequence); and
-- Take up remedy and restoration among sentients after a certification pass finds harm to community members, under [Chapter Twenty-Three §3.1 Sentient Forums](core_23.000_forum_families_escalation_timeliness_support.md#31-sentient-forums). This follows the certification pass and creates no second merits track.
+Where a system materially affects how a community governs itself, Sentient Forums supply community-governance findings and hold the Rights Floor component for community-level stakes. Where their Rights Floor findings conflict with those of the Institutional Forum, the Institutional Forum has the final say in that certification pass, both findings stay on the System Certification Record, and the conflict stays open to challenge. Their role in full is in [Subcore 9-A §4.2 Sentient Forums](subcore_09.010_certification_seats_forum_roles_sequence.md#42-sentient-forums).
 
 <a id="316-institutional-forums"></a>
 
 ##### 3.1.6 Institutional Forums
 
-Where an institution is involved, Institutional Forums:
-
-- Supply the component findings on what the institution is allowed and charged to do, the scope it is supervised under, how it is classified, and whether it is meeting its duties, when those questions arise in a certification; and
-- Decide whether certification would preserve or defeat constitutionally protected floors. This applies when those floors are materially involved and any of these is true: an institution is a necessary party; the operator or steward is institutional; or institutional mandate or supervised compliance is the primary stake. The floors are the Chapter Four Rights Floors in the [Chapter Eight §6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) table. The decision includes evaluation under the matching domain section there, where its trigger applies. The floors are:
-  - **Article III-A** (*Survival*);
-  - **Article IV-A** (*Equal Educational Access*);
-  - **Article IV** (*Right to Sentient-Centered Education*);
-  - **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*);
-  - **Article VI-C** (*Nondiscrimination*);
-  - **Article VI-D** (*Accessibility*);
-  - **Article XIV** (*Right to Reliable and Trustworthy Systems*); and
-  - **Article XIV-A** (*Reliability and Trustworthiness Baseline*), with [**Safe Conditions**](subcore_03.075_band_continuity.md#safe-conditions).
+Where an institution is involved, Institutional Forums supply the component findings on its mandate, supervision, class, and duties, and decide whether certification would preserve or defeat the Chapter Four Rights Floors when those floors are materially involved. Their role in full, with the list of those floors, is in [Subcore 9-A §4.3 Institutional Forums](subcore_09.010_certification_seats_forum_roles_sequence.md#43-institutional-forums).
 
 <a id="317-constitutional-and-other-regular-forum-families"></a>
 
 ##### 3.1.7 Constitutional and Other Regular Forum Families
 
-**Constitutional and residual stakes:**
-
-- Keep the questions Chapter Twenty-Two gives them: whether constitutional text is valid, what it means, and whether a class-wide fix must restructure governance, along with any other question whose main stake Chapter Twenty-Two gives to a family not named above;
-- Answer the constitutional questions the lead forum sends them for ruling under [Chapter Twenty-Three §4 Escalation and Questions for Ruling](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling): a question of validity, a structural question about restructuring governance, or a conflict among lower panels on a constitutional point. Until they answer, the lead forum cannot treat that point as finally resolved ([§3.2 Supervisory Sequence](#32-supervisory-sequence), step 5); and
-- Technical expertise and Integrity coordination must not take those questions over.
+Constitutional and other regular forum families keep the questions Chapter Twenty-Two gives them, including the validity and meaning of constitutional text and class-wide structural remedy. Until they answer a question sent to them for ruling, the lead forum cannot treat that point as finally resolved, and technical expertise and Integrity coordination must not take those questions over. Their role in full is in [Subcore 9-A §4.4 Constitutional and Other Regular Forum Families](subcore_09.010_certification_seats_forum_roles_sequence.md#44-constitutional-and-other-regular-forum-families).
 
 <a id="32-supervisory-sequence"></a>
 
@@ -305,27 +250,14 @@ Before any forum signs off on a System Certification Record, the System Certific
 
 ##### 3.2.2 Default Sequence
 
-The **supervisory sequence** is the step-by-step order in which forums supervise a System Certification Record. Chapter Twenty-Two may require a different lawful order when primary stakes, anti-self-judging protection, or certification routing applies. Otherwise, the default sequence is:
+The **supervisory sequence** is the step-by-step order in which forums supervise a System Certification Record. Chapter Twenty-Two may require a different lawful order when primary stakes, anti-self-judging protection, or certification routing applies. Otherwise the default sequence applies; its six steps are set out in full in [Subcore 9-A §5 Default Sequence](subcore_09.010_certification_seats_forum_roles_sequence.md#5-default-sequence). Its guarantees are:
 
-1. **Lead coordination:** An **Integrity** forum leads each pass of official constitutional alignment certification, validation, or recertification, including a certification pass that ends in withdrawal or non-certification. It directs the record seat holder (see [§3.1 Forum Supervision and Component Roles](#31-forum-supervision-and-component-roles)) to open the one coordinated System Certification Record for that pass, and the record seat holder maintains it. The System Certification Record opened here is completed in Phase V (see step 6). The exception is where Chapter Twenty-Two assigns a different lawful lead for the primary stake.
-2. **Component findings:** Technical, Environment, Institutional, Sentient, Constitutional, and other assigned forum families each produce bounded component findings within their lawful jurisdiction:
-   - **Technical Forums** supply specifications, methods, tests, and technical adequacy findings. That includes [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) component findings where [§3.1 Forum Supervision and Component Roles](#31-forum-supervision-and-component-roles) assigns that stake;
-   - **Environment Forums** supply required environmental-alignment component findings where there is material ecological exposure. That includes [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) evaluation under [§6.1 Ecological Footprint Evaluation](core_08.000_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) where attributable environmental burdens are material;
-   - **Institutional Forums** supply required institutional-mandate and Rights Floor component findings where [§3.1 Forum Supervision and Component Roles](#31-forum-supervision-and-component-roles) assigns those stakes;
-   - **Sentient Forums** supply community-governance findings where the system materially affects how a community governs itself, and the Rights Floor component for community-level stakes, with Institutional Forums having the final say where the two conflict ([§3.1.5 Sentient Forums](#315-sentient-forums)); and
-   - **Constitutional** and other assigned forum families supply component findings for stakes that Chapter Twenty-Two assigns to them.
-3. **Referral, sending for ruling, and stay:** The lead forum must refer, send for ruling, or [stay](subcore_03.070_band_accountability.md#stay) any component question that belongs mainly to another forum family. Until the required component work behind an authorization is finished, the lead forum cannot authorize the affected scope, and it cannot remove or significantly loosen the certification conditions of the affected scope. Required component work includes:
-   - any finding a component forum is required to give;
-   - a decision on any material objection (one that could affect the outcome);
-   - verification that any certification condition required before authorization has been met; and
-   - the answer to any question sent to another forum (a question for ruling), if the authorization depends on that answer.
-
-   Two rules keep this from being bypassed or from stalling the process:
-   - **Limited operation needs a completed finding:** A component authority may issue a completed finding that supports operation within set limits, under stated continuing certification conditions or corrective work (see [§4.1 Go-Live Gate](#41-go-live-gate)). The finding must say why the permitted scope still protects the applicable Rights Floors, and what remains to be verified.
-   - **Silence is not approval:** An unanswered objection, a missing finding, or a component's silence never counts as authorization.
-4. **Integration for decision:** The lead forum integrates the component findings for decision. The record seat holder enters them in the one System Certification Record opened at step 1. The System Certification Record then states, as things stand when the decision is made: which forum or authority gave each component finding, what each finding says, every unresolved item, every certification condition, and every reliance limit.
-5. **Constitutional disposition:** If constitutional meaning, validity, or class-wide structural remedy is materially at issue, the lead forum must send the question for ruling or escalate under Chapter Twenty-Two before treating the matter as finally resolved on that point.
-6. **Hand-off to Phase IV and Phase V:** The lead forum states the outcome under [§4 Certification Outcomes](#4-certification-outcomes) (Phase IV, Decide). The record seat holder then completes the System Certification Record under [Chapter Ten §3 System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (Phase V, Record) by entering the outcome and the concerns raised in reaching it. No second record is opened for the decision.
+1. **Integrity leads:** an Integrity Forum leads each certification pass, including one that ends in withdrawal or non-certification, unless Chapter Twenty-Two assigns a different lead for the primary stake, and one coordinated System Certification Record is opened for that pass.
+2. **Bounded component findings:** each assigned forum family gives its findings only within its lawful jurisdiction.
+3. **Nothing authorized before the work is done:** the lead forum refers, sends for ruling, or stays any component question that belongs mainly to another family, and it cannot authorize an affected scope, or remove or significantly loosen its certification conditions, until the required component work is finished. Limited operation needs a completed finding, and silence is never approval.
+4. **Everything stated at decision:** the System Certification Record states who gave each component finding, what it says, and every unresolved item, certification condition, and reliance limit.
+5. **Constitutional points ruled first:** where constitutional meaning, validity, or class-wide structural remedy is materially at issue, the question is sent for ruling or escalated before the matter is treated as finally resolved on that point.
+6. **One System Certification Record:** the outcome is entered in the System Certification Record opened at step 1, and no second one is opened for the decision.
 
 <a id="323-urgent-protection"></a>
 
@@ -831,4 +763,4 @@ These are the effects of a denial or revocation under [§4.4 Denial and Revocati
 
 **Previous file:** [subcore_08.010_system_classification.md](subcore_08.010_system_classification.md)
 
-**Next file:** [core_10.000_system_alignment_certification_records_recertification.md](core_10.000_system_alignment_certification_records_recertification.md)
+**Next file:** [subcore_09.010_certification_seats_forum_roles_sequence.md](subcore_09.010_certification_seats_forum_roles_sequence.md)
