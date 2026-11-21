@@ -574,7 +574,7 @@ This subsection sets out the [Interim Hold](subcore_03.070_band_accountability.m
   - general property, as distinct from the specific weight, funds, or keys in contest.
 - **Applications:** A hold may be issued only in these applications, or where a provision of this Constitution or an incorporated text names it:
   - [**Article XI-E** (*Institutional Formation and Business Creation*)](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation), for authority in an Operating Party;
-  - [Chapter Five §7 Formation Check: Office-Holder Standing and Authenticity](core_05.000_charters.md#7-formation-check-office-holder-standing-and-authenticity) and **CI-26.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*), for a holder of a covered office at any time; and
+  - [Chapter Five §7 Formation Check: Office-Holder Standing and Authenticity](core_05.000_charters.md#7-formation-check-office-holder-standing-and-authenticity) and [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways), for a holder of a covered office at any time; and
   - **CF-22.410 §17** (*Interim Hold on a Panel Member or Seat Holder*), with [**Article XIII-A** (*Non-Capture Safeguards*)](core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards), for a forum, certifier, record, or verify-or-authorize seat.
 
   Other interim relief under this chapter stays available for what it already covers. Relief directed at a named sentient's exercise of a gated pathway on less than a verified finding follows this subsection.

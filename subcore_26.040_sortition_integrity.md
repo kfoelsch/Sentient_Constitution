@@ -96,4 +96,4 @@ Operational safeguards for sortition integrity belong in designated implementati
 
 **Previous file:** [subcore_26.030_voting_entitlement.md](subcore_26.030_voting_entitlement.md)
 
-**Next file:** [core_27.000_non_regression.md](core_27.000_non_regression.md)
+**Next file:** [subcore_26.050_role_holders_interpretive_bodies.md](subcore_26.050_role_holders_interpretive_bodies.md)

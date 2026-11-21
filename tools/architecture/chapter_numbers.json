@@ -1120,6 +1120,20 @@
       "ordinal_name": "S26-D"
     },
     {
+      "old_id": "CI-26.205 §§2, 4",
+      "original_file": "corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md",
+      "machine_id": "SUB-26050",
+      "display_id": "S26-E",
+      "layer": "SUBCORE",
+      "core_home": "26",
+      "title": "S26-E",
+      "destination_file": "subcore_26.050_role_holders_interpretive_bodies.md",
+      "status": "active",
+      "machine_number": "26050",
+      "layer_digit": "0",
+      "ordinal_name": "S26-E"
+    },
+    {
       "old_id": "Chapter 15",
       "original_file": "core_15_non_regression.md",
       "machine_id": "27000",

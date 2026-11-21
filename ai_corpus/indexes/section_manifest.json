@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-21T19:15:55+00:00",
+  "generated_at": "2026-11-21T19:33:32+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -2128,6 +2128,16 @@
         {"header":"5. Operational Safeguards","level":3,"line_start":82,"line_end":99,"anchor":"#5-operational-safeguards"}
       ]
     },
+    "subcore_26.050_role_holders_interpretive_bodies.md": {
+      "total_lines": 82,
+      "sections": [
+        {"header":"SUBCORE 26-E: ROLE HOLDERS AND INTERPRETIVE BODIES","level":1,"line_start":2,"line_end":82,"anchor":"#subcore-26-e-role-holders-and-interpretive-bodies"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
+        {"header":"2. Why These Rules Are the Same for Every Adopter","level":3,"line_start":23,"line_end":44,"anchor":null},
+        {"header":"3. Role Criteria, Appointment Standards, and Removal Pathways","level":3,"line_start":45,"line_end":65,"anchor":"#3-role-criteria-appointment-standards-and-removal-pathways"},
+        {"header":"4. Interpretive-Body Composition Controls","level":3,"line_start":66,"line_end":82,"anchor":"#4-interpretive-body-composition-controls"}
+      ]
+    },
     "corpus_systems.md": {
       "total_lines": 102,
       "sections": [
@@ -2905,16 +2915,16 @@
       ]
     },
     "corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md": {
-      "total_lines": 423,
+      "total_lines": 379,
       "sections": [
-        {"header":"CI-26.205: Appointment, Competency, Rotation, and Removal","level":1,"line_start":1,"line_end":423,"anchor":null},
+        {"header":"CI-26.205: Appointment, Competency, Rotation, and Removal","level":1,"line_start":1,"line_end":379,"anchor":null},
         {"header":"CI-26.205 §1: Shared Staffing and Competency Requirement","level":2,"line_start":90,"line_end":110,"anchor":null},
-        {"header":"CI-26.205 §2: Role Criteria, Appointment Standards, and Removal Pathways","level":2,"line_start":111,"line_end":142,"anchor":null},
-        {"header":"CI-26.205 §3: Periodic Performance and Capability Review","level":2,"line_start":143,"line_end":161,"anchor":null},
-        {"header":"CI-26.205 §4: Interpretive-Body Composition Controls","level":2,"line_start":162,"line_end":185,"anchor":null},
-        {"header":"CI-26.205 §5: Authorized Roles and Accountability Chains","level":2,"line_start":186,"line_end":233,"anchor":null},
-        {"header":"CI-26.205 §6: Seat Catalog — Process-Role Archetypes and Operational Boundaries","level":2,"line_start":234,"line_end":369,"anchor":null},
-        {"header":"CI-26.205 §7: Practice Licence, Practice Clearance, and Joint Professional Practice","level":2,"line_start":370,"line_end":423,"anchor":"#ci-46-seat-advisory"}
+        {"header":"CI-26.205 §2: Role Criteria, Appointment Standards, and Removal Pathways","level":2,"line_start":111,"line_end":116,"anchor":null},
+        {"header":"CI-26.205 §3: Periodic Performance and Capability Review","level":2,"line_start":117,"line_end":135,"anchor":null},
+        {"header":"CI-26.205 §4: Interpretive-Body Composition Controls","level":2,"line_start":136,"line_end":141,"anchor":null},
+        {"header":"CI-26.205 §5: Authorized Roles and Accountability Chains","level":2,"line_start":142,"line_end":189,"anchor":null},
+        {"header":"CI-26.205 §6: Seat Catalog — Process-Role Archetypes and Operational Boundaries","level":2,"line_start":190,"line_end":325,"anchor":null},
+        {"header":"CI-26.205 §7: Practice Licence, Practice Clearance, and Joint Professional Practice","level":2,"line_start":326,"line_end":379,"anchor":"#ci-46-seat-advisory"}
       ]
     },
     "corpus_forum/cf_00.405_registry_and_reading_rules.md": {

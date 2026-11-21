@@ -753,7 +753,7 @@ The same clock applies to certification seats. If the map does not name who star
   - [Standing Record](subcore_03.070_band_accountability.md#standing-record);
   - [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing);
   - [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (2.040 §17.5);
-  - **CI-26.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*);
+  - [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways);
   - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*).
 
 </details>
@@ -784,7 +784,7 @@ Before a sentient takes a covered office, the Chartered Party checks and records
 - no [standing lock](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) or [special lock](core_18.000_violation_consequences.md#45-special-locks), including the [Institutional Authority Standing Lock](core_18.000_violation_consequences.md#45-special-locks), is in force that blocks the gated pathway the office is (the outstanding-lock gate in **Article XI-E** (*Institutional Formation and Business Creation*));
 - no [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) (**Article XI-E** (*Institutional Formation and Business Creation*)) is in force on the sentient for that office;
 - the published [competency bar](core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) for that gated pathway is met, with competency clearance where the gated pathway needs it; and
-- each conflict is disclosed under **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*) and cleared by a seat independent of the holder, and any cooling-off period under **CI-26.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*) is observed.
+- each conflict is disclosed under **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*) and cleared by a seat independent of the holder, and any cooling-off period under [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways) is observed.
 
 Only verified Standing Records count, and only through the [Verified Inputs for Standing](subcore_03.070_band_accountability.md#verified-inputs-for-standing) gate. An unverified allegation, a rumor, a reputation, social prestige, or the holder's identity, background, health, or disability as such is not standing and is not considered. This section creates no lock, no hold, no bar, and no Standing Record.
 
@@ -926,7 +926,7 @@ The formation check is kept in proportion to what it protects:
   - **CI-18.210** (*Institutional failure and dissolution*);
   - **CI-24.205** (*Institutional accountability and sanctions*);
   - **CJS-3.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*).
-- Read with: [Interim Hold](subcore_03.070_band_accountability.md#interim-hold); [Stay](subcore_03.070_band_accountability.md#stay); **CI-26.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*).
+- Read with: [Interim Hold](subcore_03.070_band_accountability.md#interim-hold); [Stay](subcore_03.070_band_accountability.md#stay); [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
 
 </details>
 
@@ -952,7 +952,7 @@ A failed or late formation check is a defect to log and correct. On its own it i
 
 When a sentient fails the standing check:
 
-- **Out of the office:** The sentient may not hold that office. The role rules in **CI-26.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*) already say so, and where the cause is an outstanding lock or an Interim Hold, so does **Article XI-E** (*Institutional Formation and Business Creation*).
+- **Out of the office:** The sentient may not hold that office. The role rules in [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways) already say so, and where the cause is an outstanding lock or an Interim Hold, so does **Article XI-E** (*Institutional Formation and Business Creation*).
 - **Filling the seat:** Someone else takes the office, or a substitute does, and the change is recorded in a new dated version of the Role Map.
 - **No lawful holder:** If that leaves the Chartered Party without a lawful holder of a governing office and others depend on it, the forum with jurisdiction may name an interim steward and does not stop the Chartered Party, as [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*) provides for the Interim Hold.
 

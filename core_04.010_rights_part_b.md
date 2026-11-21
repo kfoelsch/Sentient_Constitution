@@ -2376,7 +2376,7 @@ This sub-Article applies to the covered bodies, **appointing authorities**, and 
   - **Post-service rules:** Covered bodies and **adopting institutions** must also publish post-service rules scaled to material stake. These rules bar accepting a role or benefit from an interested party in connection with a matter they handled until the cooling-off period has passed or an independent seat has cleared the offer in a published decision.
   - **Default cooling-off period:** The default is **five years** from the end of the member's, panelist's, or staff member's last involvement in the matter.
   - **Variation:** An adopting institution may set a longer period. It may set a shorter one only where material stake is low, and it must publish its reasons.
-  - **Mechanics:** [**CI-26.205 §2**](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal) (*Role Criteria, Appointment Standards, and Removal Pathways*) sets the post-service rules and clearance steps.
+  - **Mechanics:** [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways) sets the post-service rules and clearance steps.
 
 #### Article XIII-D: Funding Integrity
 
