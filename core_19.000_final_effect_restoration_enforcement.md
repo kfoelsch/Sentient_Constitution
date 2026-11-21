@@ -198,27 +198,17 @@ This subsection sets out what is public, what stays private, and how a public no
 
 *In plain terms: a gatekeeper at one adopter may send the same narrow question to another adopter's record custodian that it could send at home, and gets an answer as far as the answering adopter trusts the asker. The level of trust changes who may ask and what kind of answer is given. It never changes how much of a Standing Record is disclosed. Each adopter decides the level of trust it extends for itself, and the adopter on the other side cannot contest that decision. Each adopter keeps its own Standing Records and its own keys, and the door stays open for adopters to merge later.*
 
-This subsection sets out how a gatekeeper check crosses from one adopter to another, who sets the level of trust between adopters, and what a level of trust can never do:
+The full rules are in [Subcore 19-A §3 Gatekeeper Checks Across Adopters](subcore_19.010_cross_adopter_checks_remedy_durability.md#3-gatekeeper-checks-across-adopters). Their guarantees are:
 
-- **Finding the custodian:** A gatekeeper at one adopter sends a gatekeeper check under [§3.1 Anti-Aggregation of Gated-Pathway Effects](#31-anti-aggregation-of-gated-pathway-effects) to the record custodian of the adopter that holds the effect. It uses the office-level contact named in that adopter's [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter) or, until the Adoption Charter is published, in its [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record) ([Chapter Twenty-Eight §12.4 Adoption Transition Record and Adoption Charter](core_28.000_amendment_ratification.md#124-adoption-transition-record-and-adoption-charter)).
-- **Levels of trust:** Each adopter decides the level of trust it extends to each other adopter. The default is the public level. The levels of trust are:
-  - **Public level:** the adopter reads the other's public notices under [§3.3 Public Notice of Violation Findings](#33-public-notice-of-violation-findings) and answers lock checks under the lock floor below, and nothing more. It sends and receives no other gatekeeper checks.
-  - **Notice level:** the public level, plus recognition of the other adopter's decision packages under [CS-4.320 §9 Cross-Jurisdiction Execution and Anti-Evasion Controls](corpus_systems/cs_04.320_justice_safeguards_restitution_rehabilitation.md#cs-4320-9-cross-jurisdiction-execution-and-anti-evasion-controls), so that a lock or remedy can be recognized and acted on.
-  - **Query level:** the notice level, plus gatekeeper checks. The answering adopter answers a gatekeeper check from the other adopter's gatekeepers on the same terms as a local one, and records each request on the subject's Standing Record at the answering adopter, as §3.1 Anti-Aggregation of Gated-Pathway Effects requires.
-  - **Joint level:** the query level, plus a transfer of Standing Records between the adopters, or custody under one record custodian. A transfer happens only after the sentient is told, under a key plan agreed before the transfer, and with a way for the sentient to exit that is reversible.
-- <a id="34-lock-floor"></a>**Lock floor:** Whatever the level of trust, every adopter answers a **lock check** from a gatekeeper of any adopter that has published an Adoption Charter or Adoption Transition Record. A lock check asks only whether a standing lock, including a special lock under [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks), applies to the asker's own gated pathway for the subject. The answer is the same narrow answer §3.1 Anti-Aggregation of Gated-Pathway Effects gives at home: whether a lock applies to that gated pathway, and nothing about slots, contribution, or the underlying events. The answering adopter confirms that the asker is a gatekeeper for that gated pathway at an adopter with a published document, records the request on the subject's Standing Record as §3.1 Anti-Aggregation of Gated-Pathway Effects requires, and may refuse an asker that has passed answers on. The floor lets a verified lock follow the sentient across a boundary without letting the Standing Record behind it travel.
-- **Direction:** A level of trust is one-way unless the two adopters agree otherwise. What adopter A answers for adopter B rests on A's decision about B. Adopters may agree common standards among themselves, and levels between adopters that follow a common standard may follow it.
-- **What no level of trust does:** No level of trust widens what a gatekeeper check may answer under §3.1 Anti-Aggregation of Gated-Pathway Effects, makes private data public, lets anyone require the subject to show a Standing Record, or ends a sentient's right to direct disclosure of their own Standing Record to a party they name. Those limits hold at every level of trust.
-- **What sets the level of trust:**
-  - The adopter's Institutional Forum decides, under the forum authority assignment named in its Adoption Charter or Adoption Transition Record. That forum must be separate from the record custodian seat for the Standing Records it decides about. An adopter with no forum authority assignment, even a provisional one, extends only the public level. An adopter whose entries are still provisional extends no more than the notice level.
-  - Technical Forum Domains advise the Institutional Forum on privacy and security, including custody practice, key handling, and audit. Their advice is published with the decision.
-  - A decision that departs from that advice must meet [Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny): written reasons that answer the advice, publication, and review by a forum outside the deciding adopter.
-  - A forum that also serves the other adopter says so in its published reasons and states how that conflict was screened. Recusal under [CF-22.410 §7 Recusal Triggers](corpus_forum/cf_22.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-22410-7-recusal-triggers) applies to its members.
-  - The decision, its reasons, and the advice are published in the Adoption Charter. Raising or lowering a level of trust is a new dated version.
-- **Lowering a level of trust:** An adopter lowers a level of trust on published reasons, for example passing a gatekeeper answer on, refusing an audit, or a failure in record custody or key practice, and gives notice to the other adopter. The Institutional Forum decides whether the lowering is urgent and says so in its reasons. An urgent lowering takes effect on notice. Any other lowering takes effect at the end of the **lowering notice period**, which is fourteen calendar days from the notice. Lowering a level of trust does not end a lock already in force; [§5.3 Cross-Jurisdiction Continuity](#53-cross-jurisdiction-continuity) still applies through forums and law.
-- **Whose decision it is:** A level of trust is the deciding adopter's own decision. The adopter on the other side has no right to contest it, and no forum hears it on that adopter's application. Two checks stay inside the deciding adopter: a sentient under that adopter's authority may challenge the decision through that adopter's own forum process, and a departure from technical advice meets Heightened Scrutiny as set out above. Where a challenge alleges that the deciding forum was itself biased, captured, or conflicted, the cross-forum anti-self-judging rule in [Chapter Twenty-Two §6 Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) applies.
-- **Keys and merging:** Each adopter keeps its own data stack and encryption keys at every level of trust below the joint level ([Subcore 4-A §6 Cross-Domain Governance Principles](subcore_04.050_data_types.md#6-cross-domain-governance-principles), protective storage and key custody). Moving to the joint level is a deliberate transfer and is never a default.
-- **No relationship, no escape:** Where two adopters have only the public level, a verified lock, remedy, safeguard, or review obligation still binds across the boundary under §5.3 Cross-Jurisdiction Continuity. The absence of a lookup route is not a reason to disregard it.
+- **Same narrow question:** a gatekeeper at one adopter asks another adopter's record custodian, through the office-level contact in its Adoption Charter or Adoption Transition Record, the same narrow gatekeeper check it could ask at home.
+- **Four levels of trust, public by default:** each adopter decides the level of trust it extends to each other adopter (public, notice, query, or joint), and the default is the public level. A level of trust is one-way unless both agree otherwise.
+- <a id="34-lock-floor"></a>**Lock floor:** whatever the level of trust, every adopter answers a lock check from a gatekeeper at any adopter with a published Adoption Charter or Adoption Transition Record, with only whether a lock applies to that gated pathway, so a verified lock follows the sentient without the Standing Record behind it.
+- **What no level of trust does:** no level of trust widens what a gatekeeper check may answer, makes private data public, lets anyone require the subject to show a Standing Record, or ends a sentient's right to direct disclosure of their own Standing Record.
+- **Who decides, and how:** the adopter's Institutional Forum decides, separate from the record custodian seat, on published technical advice. A departure from that advice meets [Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny), and the decision is published in the Adoption Charter.
+- **Lowering with notice:** a level of trust is lowered on published reasons and notice to the other adopter, at once if urgent and otherwise after the **lowering notice period** of fourteen calendar days, and lowering never ends a lock already in force.
+- **Own decision, own checks:** the other adopter cannot contest a level of trust, but a sentient under the deciding adopter's authority may challenge it in that adopter's own forums.
+- **Own keys, no forced merging:** each adopter keeps its own data and keys below the joint level, and the joint level is a deliberate transfer, made only after the sentient is told and with a reversible exit.
+- **No relationship, no escape:** a verified lock, remedy, safeguard, or review obligation binds across the boundary under [§5.3 Cross-Jurisdiction Continuity](#53-cross-jurisdiction-continuity) even where no lookup route exists.
 
 <a id="4-restoration-and-reassessment"></a>
 ### 4. Restoration and Reassessment
@@ -331,61 +321,13 @@ where the responsible actors under a verified violation finding, and their succe
 <a id="52-remedy-system-durability"></a>
 #### 5.2 Remedy-System Durability
 
-Forums, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems must have sufficient:
+The full rules are in [Subcore 19-A §4 Remedy-System Durability and Parity](subcore_19.010_cross_adopter_checks_remedy_durability.md#4-remedy-system-durability-and-parity). Their guarantees are:
 
-- staffing;
-- funding;
-- independence;
-- records capacity;
-- accessibility; and
-- succession planning.
-
-Capacity duties scale with:
-
-- risk;
-- case volume;
-- vulnerability; and
-- rights sensitivity.
-
-Child protection, environmental enforcement, benefits administration, detention oversight, public-health response, and comparable high-impact systems require durable remedy systems capable of timely:
-
-- intake;
-- preservation;
-- review; and
-- enforcement.
-
-Those systems must meet the standards below, and each body has its own role:
-
-- **Timing:** the [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) tier milestones and pipeline-stage windows.
-- **Capacity and measurement:** the published capacity, measurement, and milestone standards under [Technical Forum Domains](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains). Technical Forums set and maintain those standards; they are not the command hierarchy for remedy systems or institutions.
-- **Who answers for performance:** accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](core_22.000_forum.md#4-default-venue-and-primary-stakes) forum family:
-  - ordinarily [Institutional](core_23.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) forums; or
-  - [Integrity](core_23.000_forum_families_escalation_timeliness_support.md#35-integrity-forums) forums where capture, process failure, or system-alignment collapse is primary.
-- **Implementation detail:** [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns the institutional implementation detail for remedy-system capacity.
-
-The following violate this rule where they foreseeably nullify challenge or remedy:
-
-- designed backlog;
-- inaccessible intake;
-- chronic underfunding;
-- dependence on a single fragile office; or
-- chronic milestone failure.
-
-Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum benches, or of **Technical Forum Domains** benches that hear sentience-status adjudication, is a durability failure under this subsection, read with [Chapter Twenty-Six §3.2 Eligibility, Contested Selection, and Democratic Minimums](core_26.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums).
-
-<a id="52-remedy-parity-funding-minimum"></a>
-**Remedy-parity funding minimum.** For each system class an adopter administers:
-
-- **The minimum:** the capacity funded for remedy, restoration, and reassessment must be no less than the capacity funded for lock administration, enforcement, and safeguard imposition on the same class.
-- **Public figures:** the ratio must be published with the [§3.4 Remedy Parity and Lock Preconditions](core_18.000_violation_consequences.md#34-remedy-parity-and-lock-preconditions) tripwire figures.
-- **Departing from parity:** an adopter that departs from parity must:
-  - record the reasons under [Chapter Twenty-Six §5.1 Stewardship Direction](core_26.000_governance.md#51-stewardship-direction); and
-  - show, on the integration record, that remedy commencement and restoration review are nonetheless meeting their tier windows.
-- **Parity and the tripwire stay separate:**
-  - budget parity does not excuse a tripped [§3.4 Remedy Parity and Lock Preconditions](core_18.000_violation_consequences.md#34-remedy-parity-and-lock-preconditions) tripwire; and
-  - a met tripwire does not excuse silent departure from parity.
-- **Starting reserve:** when an adopter first stands up lock machinery for a class of systems, it must hold a reserve for remedy, restoration, and reassessment on that class. The reserve must be enough to meet the parity minimum until ongoing funding is in place.
-- **Ongoing funding:** revenue from a class of systems should support the necessary remedies that arise from their use. Where it does not, that points to misaligned funding levels, misaligned governance, or both.
+- **Durable bodies:** forums, oversight bodies, complaint offices, technical review bodies, and rights-sensitive administrative systems have enough staffing, funding, independence, records capacity, accessibility, and succession planning, scaled to risk, case volume, vulnerability, and rights sensitivity.
+- **High-impact systems:** child protection, environmental enforcement, benefits administration, detention oversight, public-health response, and comparable systems have remedy systems able to take in, preserve, review, and enforce on time.
+- **Clear roles:** timing follows [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline), Technical Forums set capacity and measurement standards without commanding remedy systems, and the primary-stakes forum family answers for performance.
+- **Hollow capacity is a violation:** designed backlog, inaccessible intake, chronic underfunding, dependence on one fragile office, chronic milestone failure, and under-appointment of the benches named in the subcore text violate this rule where they foreseeably nullify challenge or remedy.
+- <a id="52-remedy-parity-funding-minimum"></a>**Remedy-parity funding minimum:** for each system class, capacity funded for remedy, restoration, and reassessment is no less than capacity funded for locks, enforcement, and safeguards on the same class; the ratio is published, a departure is reasoned and shown not to delay remedy, and a starting reserve is held when lock machinery is first stood up.
 
 <a id="53-cross-jurisdiction-continuity"></a>
 #### 5.3 Cross-Jurisdiction Continuity
@@ -412,4 +354,4 @@ Rights and standing consequences are real only when sentients can invoke them, v
 
 **Previous file:** [core_18.000_violation_consequences.md](core_18.000_violation_consequences.md)
 
-**Next file:** [core_20.000_misconduct_designation.md](core_20.000_misconduct_designation.md)
+**Next file:** [subcore_19.010_cross_adopter_checks_remedy_durability.md](subcore_19.010_cross_adopter_checks_remedy_durability.md)

@@ -803,6 +803,20 @@
       "pre_reorganization_2026_11_20": "20000"
     },
     {
+      "old_id": "Chapter 19 §§3.4, 5.2",
+      "original_file": "core_19.000_final_effect_restoration_enforcement.md",
+      "machine_id": "SUB-19010",
+      "display_id": "S19-A",
+      "layer": "SUBCORE",
+      "core_home": "19",
+      "title": "S19-A",
+      "destination_file": "subcore_19.010_cross_adopter_checks_remedy_durability.md",
+      "status": "active",
+      "machine_number": "19010",
+      "layer_digit": "0",
+      "ordinal_name": "S19-A"
+    },
+    {
       "old_id": "Chapter 12",
       "original_file": "core_12_a_misconduct_designation.md",
       "machine_id": "20000",

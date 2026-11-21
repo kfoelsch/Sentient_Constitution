@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-21T00:04:14+00:00",
+  "generated_at": "2026-11-21T00:10:15+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -735,26 +735,26 @@
       ]
     },
     "core_19.000_final_effect_restoration_enforcement.md": {
-      "total_lines": 415,
+      "total_lines": 357,
       "sections": [
-        {"header":"CHAPTER NINETEEN: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT","level":1,"line_start":1,"line_end":415,"anchor":null},
+        {"header":"CHAPTER NINETEEN: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT","level":1,"line_start":1,"line_end":357,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":25,"line_end":50,"anchor":null},
         {"header":"2. Why Final Effects and Restoration Exist","level":3,"line_start":51,"line_end":75,"anchor":"#2-why-final-effects-and-restoration-exist"},
-        {"header":"3. Final Standing Effect","level":3,"line_start":76,"line_end":223,"anchor":null},
+        {"header":"3. Final Standing Effect","level":3,"line_start":76,"line_end":213,"anchor":null},
         {"header":"3.1 Anti-Aggregation of Gated-Pathway Effects","level":4,"line_start":117,"line_end":149,"anchor":"#31-anti-aggregation-of-gated-pathway-effects"},
         {"header":"3.2 Plain Statement of Effect and Burden","level":4,"line_start":150,"line_end":167,"anchor":"#32-plain-statement-of-effect-and-burden"},
         {"header":"3.3 Public Notice of Violation Findings","level":4,"line_start":168,"line_end":196,"anchor":"#33-public-notice-of-violation-findings"},
-        {"header":"3.4 Gatekeeper Checks Across Adopters and Levels of Trust","level":4,"line_start":197,"line_end":223,"anchor":"#34-gatekeeper-checks-across-adopters-and-levels-of-trust"},
-        {"header":"4. Restoration and Reassessment","level":3,"line_start":224,"line_end":284,"anchor":"#4-restoration-and-reassessment"},
-        {"header":"4.1 Reassessment and Restoration Outcomes","level":4,"line_start":233,"line_end":251,"anchor":"#41-reassessment-and-restoration-outcomes"},
-        {"header":"4.2 Permanent Locks","level":4,"line_start":252,"line_end":269,"anchor":"#42-permanent-locks"},
-        {"header":"4.3 Rest State and Archival","level":4,"line_start":270,"line_end":284,"anchor":"#43-rest-state-and-archival"},
-        {"header":"5. Enforcement Realism and Remedy Systems","level":3,"line_start":285,"line_end":415,"anchor":"#5-enforcement-realism-and-remedy-systems"},
-        {"header":"5.1 Remediation Capacity and Funding","level":4,"line_start":312,"line_end":331,"anchor":"#51-remediation-capacity-and-funding"},
-        {"header":"5.2 Remedy-System Durability","level":4,"line_start":332,"line_end":390,"anchor":"#52-remedy-system-durability"},
-        {"header":"5.3 Cross-Jurisdiction Continuity","level":4,"line_start":391,"line_end":395,"anchor":"#53-cross-jurisdiction-continuity"},
-        {"header":"5.4 Anti-Evasion and Look-through Authority","level":4,"line_start":396,"line_end":400,"anchor":"#54-anti-evasion-and-look-through-authority"},
-        {"header":"5.5 Timely Implementation","level":4,"line_start":401,"line_end":415,"anchor":"#55-timely-implementation"}
+        {"header":"3.4 Gatekeeper Checks Across Adopters and Levels of Trust","level":4,"line_start":197,"line_end":213,"anchor":"#34-gatekeeper-checks-across-adopters-and-levels-of-trust"},
+        {"header":"4. Restoration and Reassessment","level":3,"line_start":214,"line_end":274,"anchor":"#4-restoration-and-reassessment"},
+        {"header":"4.1 Reassessment and Restoration Outcomes","level":4,"line_start":223,"line_end":241,"anchor":"#41-reassessment-and-restoration-outcomes"},
+        {"header":"4.2 Permanent Locks","level":4,"line_start":242,"line_end":259,"anchor":"#42-permanent-locks"},
+        {"header":"4.3 Rest State and Archival","level":4,"line_start":260,"line_end":274,"anchor":"#43-rest-state-and-archival"},
+        {"header":"5. Enforcement Realism and Remedy Systems","level":3,"line_start":275,"line_end":357,"anchor":"#5-enforcement-realism-and-remedy-systems"},
+        {"header":"5.1 Remediation Capacity and Funding","level":4,"line_start":302,"line_end":321,"anchor":"#51-remediation-capacity-and-funding"},
+        {"header":"5.2 Remedy-System Durability","level":4,"line_start":322,"line_end":332,"anchor":"#52-remedy-system-durability"},
+        {"header":"5.3 Cross-Jurisdiction Continuity","level":4,"line_start":333,"line_end":337,"anchor":"#53-cross-jurisdiction-continuity"},
+        {"header":"5.4 Anti-Evasion and Look-through Authority","level":4,"line_start":338,"line_end":342,"anchor":"#54-anti-evasion-and-look-through-authority"},
+        {"header":"5.5 Timely Implementation","level":4,"line_start":343,"line_end":357,"anchor":"#55-timely-implementation"}
       ]
     },
     "core_20.000_misconduct_designation.md": {
@@ -1915,6 +1915,16 @@
         {"header":"4.2 Guarding against Gatekeeping","level":4,"line_start":113,"line_end":137,"anchor":"#42-guarding-against-gatekeeping"},
         {"header":"4.3 Continuity, Retesting, and Capacity Change","level":4,"line_start":138,"line_end":152,"anchor":"#43-continuity-retesting-and-capacity-change"},
         {"header":"4.4 What the Clearance Record Must Say","level":4,"line_start":153,"line_end":174,"anchor":"#44-what-the-clearance-record-must-say"}
+      ]
+    },
+    "subcore_19.010_cross_adopter_checks_remedy_durability.md": {
+      "total_lines": 136,
+      "sections": [
+        {"header":"SUBCORE 19-A: CROSS-ADOPTER CHECKS AND REMEDY-SYSTEM DURABILITY","level":1,"line_start":2,"line_end":136,"anchor":"#subcore-19-a-cross-adopter-checks-and-remedy-system-durability"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
+        {"header":"2. Why the Detail Is the Same for Every Adopter","level":3,"line_start":23,"line_end":44,"anchor":null},
+        {"header":"3. Gatekeeper Checks Across Adopters","level":3,"line_start":45,"line_end":71,"anchor":"#3-gatekeeper-checks-across-adopters"},
+        {"header":"4. Remedy-System Durability and Parity","level":3,"line_start":72,"line_end":136,"anchor":"#4-remedy-system-durability-and-parity"}
       ]
     },
     "subcore_22.010_forum_intake_default_venue.md": {
