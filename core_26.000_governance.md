@@ -175,9 +175,25 @@ Authorization can fail, and more than one legitimate arrangement can exist:
 
 *In plain terms: you cannot bar someone from governing or critical stewardship roles with a birthday rule — fitness and readiness must be shown in ways that stand up to scrutiny, not smuggled in as age. A real legitimacy mechanism offers real choices, protects dissent enough that it can matter, and includes a credible path to hand power over — not a rigged contest, not retaliation for opposition, and not permanent incumbency dressed up as procedure.*
 
-<a id="321-eligibility-for-governing-and-critical-stewardship-roles"></a>
+<a id="321-reach-of-the-democratic-minimums"></a>
 
-##### 3.2.1 Eligibility for Governing and Critical-Stewardship Roles
+##### 3.2.1 Reach of the Democratic Minimums
+
+The democratic-institution minimum checks in [§3.2.3 Contested Selection, Opposition Protection, and Peaceful Succession](#323-contested-selection-opposition-protection-and-peaceful-succession) reach every authorization and every design:
+
+- These minimum checks apply to [**Foundational Constitutional Choice**](subcore_03.080_band_integrative.md#foundational-constitutional-choice) (Chapter Three) and to any other authorization action within the mechanism's scope.
+- The minimum checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or Constitutional Charter** designs, and hybrid designs alike.
+- Dissenting from or peacefully protesting against those in power, as **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) protects ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)), must never cost anyone their part in governance. It must not:
+    - reduce their right to vote in governance, run for office, hold office, serve on a forum, or take part in a recall; or
+    - be used as a reason to remove them from a role.
+- A design fails these minimum checks, and the **Pluralism** rule of [§3.1.4 Contestation, Correction, and Pluralism](#314-contestation-correction-and-pluralism), if it lets opposition exist on paper while shutting it out in practice. Ways of shutting it out include:
+    - making opponents secretly dependent on the information channels they need to reach others (covert info-sphere dependency);
+    - capturing the stewardship of high-autonomy systems, contrary to **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*); and
+    - any other structural means with the same effect.
+
+<a id="322-eligibility-for-governing-and-critical-stewardship-roles"></a>
+
+##### 3.2.2 Eligibility for Governing and Critical-Stewardship Roles
 
 Age is not a qualification for governing or for critical stewardship:
 
@@ -187,9 +203,9 @@ Age is not a qualification for governing or for critical stewardship:
     - **Competency**, **succession readiness**, and **fitness** standards remain governed by **Chapter Twenty-Six**, section **6** (*Authorized Roles, Competency Development, and Contribution*), **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)**, designated implementation text, and the institutional family (e.g. appointment and role-pathway mechanics under **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) and related sections) as applicable.
     - Those standards must be **demonstrated** under **Subcores 3-A to 3-C**, subject to [**Substantive Fairness**](subcore_03.090_band_participation.md#substantive-fairness), [**Proportionality**](subcore_03.070_band_accountability.md#proportionality), and [**Necessity**](subcore_03.070_band_accountability.md#necessity) in Chapter Three, and not used as **proxies** for age-based exclusion.
 
-<a id="322-contested-selection-opposition-protection-and-peaceful-succession"></a>
+<a id="323-contested-selection-opposition-protection-and-peaceful-succession"></a>
 
-##### 3.2.2 Contested Selection, Opposition Protection, and Peaceful Succession
+##### 3.2.3 Contested Selection, Opposition Protection, and Peaceful Succession
 
 Any legitimacy mechanism that purports to authorize governing authority must, at a minimum, provide all of the following **democratic-institution minimum checks**:
 
@@ -204,21 +220,9 @@ Any legitimacy mechanism that purports to authorize governing authority must, at
         - **Article XV-A** (*Protected Activity*).
 3. **Peaceful-succession guarantee** — the mechanism must say how power is handed to someone new or renewed for those who hold it, and that handover must happen on the terms the mechanism states. Blocking the handover, or making it materially harder, counts as a failure of the mechanism, to be challenged and corrected under the **Failure and Correction** rule of [§3.1.4 Contestation, Correction, and Pluralism](#314-contestation-correction-and-pluralism).
 
-The democratic-institution minimum checks are applied as follows:
+<a id="324-selection-funding-boundaries"></a>
 
-- These minimum checks apply to [**Foundational Constitutional Choice**](subcore_03.080_band_integrative.md#foundational-constitutional-choice) (Chapter Three) and to any other authorization action within the mechanism's scope.
-- The minimum checks are **mechanism-neutral**: they do not mandate a single polity type, and they apply across representative, sortition, federated-ratification, **treaty, compact, or Constitutional Charter** designs, and hybrid designs alike.
-- Dissenting from or peacefully protesting against those in power, as **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) protects ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)), must never cost anyone their part in governance. It must not:
-    - reduce their right to vote in governance, run for office, hold office, serve on a forum, or take part in a recall; or
-    - be used as a reason to remove them from a role.
-- A design fails these minimum checks, and the **Pluralism** rule of [§3.1.4 Contestation, Correction, and Pluralism](#314-contestation-correction-and-pluralism), if it lets opposition exist on paper while shutting it out in practice. Ways of shutting it out include:
-    - making opponents secretly dependent on the information channels they need to reach others (covert info-sphere dependency);
-    - capturing the stewardship of high-autonomy systems, contrary to **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*); and
-    - any other structural means with the same effect.
-
-<a id="323-selection-funding-boundaries"></a>
-
-##### 3.2.3 Selection-Funding Boundaries
+##### 3.2.4 Selection-Funding Boundaries
 
 Money given or spent to influence a selection is limited by these rules:
 
@@ -237,9 +241,9 @@ Money given or spent to influence a selection is limited by these rules:
 - **Mechanism-neutral:** These boundaries require a contribution cap but do not require a candidate spending limit or public financing. An adopter may set a spending limit for candidates and nominees; if it does, the limit must be viewpoint-neutral and high enough for a challenger to compete. A design in which undisclosed or ineligible funding can decide a selection fails the **contested selection** check above. Where external law forbids a boundary, the adopter applies it as far as that law allows and publishes the gap, as [Chapter Twenty-Nine](core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law) provides.
 - **Opposition protection:** These rules must not be used to deter the organizing, communication, and dissent protected by **opposition protection** above.
 
-<a id="324-forum-appointment-independence-requirement"></a>
+<a id="325-forum-appointment-independence-requirement"></a>
 
-##### 3.2.4 Forum Appointment Independence Requirement
+##### 3.2.5 Forum Appointment Independence Requirement
 
 Certain forums must be staffed through an appointment route that the authority they review cannot control:
 

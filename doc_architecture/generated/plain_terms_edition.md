@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **588** of **995** headings carry a gloss (59%).
+Coverage: **588** of **996** headings carry a gloss (59%).
 
 ## Contents
 
@@ -45,7 +45,7 @@ Coverage: **588** of **995** headings carry a gloss (59%).
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.020_rights_part_c.md` (33/34 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.030_rights_part_d.md` (31/32 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.040_rights_part_e.md` (13/14 glossed)
-- [CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_26.000_governance.md` (14/24 glossed)
+- [CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_26.000_governance.md` (14/25 glossed)
 - [CHAPTER TWENTY-SEVEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-seven-non-regression-and-substantive-amendment-validity) — `core_27.000_non_regression.md` (6/7 glossed)
 - [CHAPTER TWENTY-EIGHT: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-eight-amendment-ratification-and-procedural-validity) — `core_28.000_amendment_ratification.md` (21/22 glossed)
 - [CHAPTER TWENTY-NINE: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-twenty-nine-expansion-supremacy-and-external-legal-orders) — `core_29.000_expansion_supremacy.md` (14/15 glossed)
@@ -5509,7 +5509,7 @@ non-compliant systems and property can be remediated during Adoption Transition 
 
 ## CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP
 
-Source file: [`core_26.000_governance.md`](../../core_26.000_governance.md) · 14/24 headings glossed
+Source file: [`core_26.000_governance.md`](../../core_26.000_governance.md) · 14/25 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -5565,29 +5565,35 @@ you cannot bar someone from governing or critical stewardship roles with a birth
 
 [Source](../../core_26.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums)
 
-###### 3.2.1 Eligibility for Governing and Critical-Stewardship Roles
+###### 3.2.1 Reach of the Democratic Minimums
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_26.000_governance.md#321-eligibility-for-governing-and-critical-stewardship-roles)
+[Source](../../core_26.000_governance.md#321-reach-of-the-democratic-minimums)
 
-###### 3.2.2 Contested Selection, Opposition Protection, and Peaceful Succession
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_26.000_governance.md#322-contested-selection-opposition-protection-and-peaceful-succession)
-
-###### 3.2.3 Selection-Funding Boundaries
+###### 3.2.2 Eligibility for Governing and Critical-Stewardship Roles
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_26.000_governance.md#323-selection-funding-boundaries)
+[Source](../../core_26.000_governance.md#322-eligibility-for-governing-and-critical-stewardship-roles)
 
-###### 3.2.4 Forum Appointment Independence Requirement
+###### 3.2.3 Contested Selection, Opposition Protection, and Peaceful Succession
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_26.000_governance.md#324-forum-appointment-independence-requirement)
+[Source](../../core_26.000_governance.md#323-contested-selection-opposition-protection-and-peaceful-succession)
+
+###### 3.2.4 Selection-Funding Boundaries
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_governance.md#324-selection-funding-boundaries)
+
+###### 3.2.5 Forum Appointment Independence Requirement
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_governance.md#325-forum-appointment-independence-requirement)
 
 ##### 3.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails
 

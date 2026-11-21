@@ -3,9 +3,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-Six](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 26-B**. Until 2026-11-21 its text was part of Chapter Twenty-Six §3.2.3 (*Selection-Funding Boundaries*).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-Six](core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 26-B**. Until 2026-11-21 its text was part of Chapter Twenty-Six §3.2.4 (*Selection-Funding Boundaries*).
 >
-> **Upstream:** [Chapter Twenty-Six §3.2.3 Selection-Funding Boundaries](core_26.000_governance.md#323-selection-funding-boundaries).
+> **Upstream:** [Chapter Twenty-Six §3.2.4 Selection-Funding Boundaries](core_26.000_governance.md#324-selection-funding-boundaries).
 > **Downstream:** **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*) and **CJS-3.110 §6** (*integrity assurance and resilience operations*).
 
 </details>
@@ -16,7 +16,7 @@
 
 ### 1. Purpose, Role, and Scope
 
-Subcore 26-B is the constitutional owner of the **standard detail of the selection-funding boundaries**: the disclosure register and the protected-identity route, the anti-circumvention rules, the default contribution cap, the default third-party spending limit, the default public-support design, and the outcome-review measures. [Chapter Twenty-Six §3.2.3 Selection-Funding Boundaries](core_26.000_governance.md#323-selection-funding-boundaries) states the guarantees: money given or spent to influence a selection is conduct, not expression; only members of the authorizing community may give, from their own resources; support is disclosed before the selection is decided; every donor is capped; and an independent body enforces the rules.
+Subcore 26-B is the constitutional owner of the **standard detail of the selection-funding boundaries**: the disclosure register and the protected-identity route, the anti-circumvention rules, the default contribution cap, the default third-party spending limit, the default public-support design, and the outcome-review measures. [Chapter Twenty-Six §3.2.4 Selection-Funding Boundaries](core_26.000_governance.md#324-selection-funding-boundaries) states the guarantees: money given or spent to influence a selection is conduct, not expression; only members of the authorizing community may give, from their own resources; support is disclosed before the selection is decided; every donor is capped; and an independent body enforces the rules.
 
 *In plain terms: Chapter Twenty-Six says who may pay for a campaign and that the money must be limited and public. This file gives the exact numbers and steps.*
 
@@ -46,7 +46,7 @@ A funding rule protects a selection only if it is hard to get around. If adopter
 
 *In plain terms: who gave what is published in a searchable list. A donor who could face retaliation can keep their name sealed, but never the amount.*
 
-The disclosure duty in [Chapter Twenty-Six §3.2.3 Selection-Funding Boundaries](core_26.000_governance.md#323-selection-funding-boundaries) is met as follows:
+The disclosure duty in [Chapter Twenty-Six §3.2.4 Selection-Funding Boundaries](core_26.000_governance.md#324-selection-funding-boundaries) is met as follows:
 
 - The disclosure must name the real source, not only the intermediary, and must be published in a public, searchable, machine-readable register.
 - A donor who shows a credible risk of retaliation may use a **protected-identity route**. The amount and the fact of the gift stay public.
@@ -85,7 +85,7 @@ The adopter's published mechanism must set a cap on what one donor may give in a
 
 *In plain terms: outside groups that spend on a selection are limited to a fraction of what a candidate may spend.*
 
-Anyone other than a candidate or nominee who spends to influence the selection must register before spending and identify themselves in what they publish. They must also report their sources and spending, stay within a published limit during the selection period, and not coordinate their spending with a candidate, nominee, or appointer. Every funder of a third party is bound by the eligible-source rules of [Chapter Twenty-Six §3.2.3 Selection-Funding Boundaries](core_26.000_governance.md#323-selection-funding-boundaries) and the cap in [§5 Contribution Caps](#5-contribution-caps).
+Anyone other than a candidate or nominee who spends to influence the selection must register before spending and identify themselves in what they publish. They must also report their sources and spending, stay within a published limit during the selection period, and not coordinate their spending with a candidate, nominee, or appointer. Every funder of a third party is bound by the eligible-source rules of [Chapter Twenty-Six §3.2.4 Selection-Funding Boundaries](core_26.000_governance.md#324-selection-funding-boundaries) and the cap in [§5 Contribution Caps](#5-contribution-caps).
 
 - **Default limit:** ten percent of the spending limit that applies to the candidate or nominee the spending targets.
 - Where the adopter sets no such spending limit, it must set a third-party limit itself and publish its reasons. There is no default in that case.
