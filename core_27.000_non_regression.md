@@ -251,6 +251,6 @@ Future additions that touch offense-flavored, sanction-flavored, or classificati
 
 ---
 
-**Previous file:** [subcore_26.010_governance_disclosure.md](subcore_26.010_governance_disclosure.md)
+**Previous file:** [subcore_26.050_role_holders_interpretive_bodies.md](subcore_26.050_role_holders_interpretive_bodies.md)
 
 **Next file:** [core_28.000_amendment_ratification.md](core_28.000_amendment_ratification.md)

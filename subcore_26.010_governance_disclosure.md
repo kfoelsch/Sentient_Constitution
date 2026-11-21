@@ -62,4 +62,4 @@ Each institution publishes a standard governance report on a fixed schedule. At 
 
 **Previous file:** [core_26.000_governance.md](core_26.000_governance.md)
 
-**Next file:** [core_27.000_non_regression.md](core_27.000_non_regression.md)
+**Next file:** [subcore_26.020_selection_funding.md](subcore_26.020_selection_funding.md)

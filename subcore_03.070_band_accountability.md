@@ -1165,7 +1165,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [**Article XX-B** (*Contestability and Proportional Restriction Limits*)](core_04.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits);
   - [**Article XIII-A** (*Non-Capture Safeguards*)](core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards);
   - **CF-22.410 §17** (*Interim Hold on a Panel Member or Seat Holder*);
-  - **CI-26.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*).
+  - [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
 - Read with:
   - [Stay](subcore_03.070_band_accountability.md#stay),
   - [Standing Lock](subcore_03.070_band_accountability.md#standing-lock),
@@ -2021,9 +2021,9 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 - Downstream:
   - [Chapter Six §4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
   - [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for influence-contact boundaries, and [Article XIII-C](core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) for post-service and prospective-role conflicts;
-  - [Chapter Twenty-Six §3.2](core_26.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums) (26.000 §3.2) (*Eligibility, Contested Selection, and Democratic Minimums*) for selection-funding boundaries;
+  - [Chapter Twenty-Six §3.2.4](core_26.000_governance.md#324-selection-funding-boundaries) (26.000 §3.2.4) (*Selection-Funding Boundaries*) for selection-funding boundaries;
   - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
-  - **CI-26.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*);
+  - [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways);
   - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*);
   - **CJS-3.110 §6** (*integrity assurance and resilience operations*); and
   - **CF-22.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
