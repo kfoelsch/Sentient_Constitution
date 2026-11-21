@@ -116,4 +116,4 @@ At each periodic revalidation under [**Article XXVIII-A**](core_04.040_rights_pa
 
 **Previous file:** [subcore_26.010_governance_disclosure.md](subcore_26.010_governance_disclosure.md)
 
-**Next file:** [core_27.000_non_regression.md](core_27.000_non_regression.md)
+**Next file:** [subcore_26.030_voting_entitlement.md](subcore_26.030_voting_entitlement.md)

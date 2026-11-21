@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-21T17:59:14+00:00",
+  "generated_at": "2026-11-21T18:06:53+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -1101,9 +1101,9 @@
       ]
     },
     "core_26.000_governance.md": {
-      "total_lines": 622,
+      "total_lines": 599,
       "sections": [
-        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":622,"anchor":null},
+        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":599,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":26,"line_end":56,"anchor":null},
         {"header":"2. Why the Constitutional Contract Exists","level":3,"line_start":57,"line_end":84,"anchor":"#2-why-the-constitutional-contract-exists"},
         {"header":"3. Authorization and Legitimacy of Governing Authority","level":3,"line_start":85,"line_end":305,"anchor":null},
@@ -1122,11 +1122,11 @@
         {"header":"5. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)","level":3,"line_start":328,"line_end":406,"anchor":null},
         {"header":"5.1 Stewardship Direction","level":4,"line_start":371,"line_end":386,"anchor":null},
         {"header":"5.2 Ecosystem Value Orientation","level":4,"line_start":387,"line_end":406,"anchor":null},
-        {"header":"6. Voting and Binding Collective Choice Protocols","level":3,"line_start":407,"line_end":575,"anchor":null},
-        {"header":"6.1 Entitlement and Eligibility","level":4,"line_start":423,"line_end":496,"anchor":null},
-        {"header":"6.2 Records, Gates, and Method Neutrality","level":4,"line_start":497,"line_end":538,"anchor":null},
-        {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":539,"line_end":575,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
-        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":576,"line_end":622,"anchor":null}
+        {"header":"6. Voting and Binding Collective Choice Protocols","level":3,"line_start":407,"line_end":552,"anchor":null},
+        {"header":"6.1 Entitlement and Eligibility","level":4,"line_start":423,"line_end":473,"anchor":null},
+        {"header":"6.2 Records, Gates, and Method Neutrality","level":4,"line_start":474,"line_end":515,"anchor":null},
+        {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":516,"line_end":552,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
+        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":553,"line_end":599,"anchor":null}
       ]
     },
     "core_27.000_non_regression.md": {
@@ -2103,6 +2103,17 @@
         {"header":"6. Third-Party Spending Limits","level":3,"line_start":84,"line_end":94,"anchor":"#6-third-party-spending-limits"},
         {"header":"7. Public Support Default Design","level":3,"line_start":95,"line_end":104,"anchor":"#7-public-support-default-design"},
         {"header":"8. Outcome Review Measures","level":3,"line_start":105,"line_end":119,"anchor":"#8-outcome-review-measures"}
+      ]
+    },
+    "subcore_26.030_voting_entitlement.md": {
+      "total_lines": 105,
+      "sections": [
+        {"header":"SUBCORE 26-C: VOTING ENTITLEMENT","level":1,"line_start":2,"line_end":105,"anchor":"#subcore-26-c-voting-entitlement"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
+        {"header":"2. Why Voting Entitlement Is the Same for Every Adopter","level":3,"line_start":23,"line_end":44,"anchor":null},
+        {"header":"3. Residence Period","level":3,"line_start":45,"line_end":58,"anchor":"#3-residence-period"},
+        {"header":"4. Political-Equality Floor","level":3,"line_start":59,"line_end":74,"anchor":"#4-political-equality-floor"},
+        {"header":"5. Restitution Precondition and Restoration","level":3,"line_start":75,"line_end":105,"anchor":"#5-restitution-precondition-and-restoration"}
       ]
     },
     "corpus_systems.md": {
