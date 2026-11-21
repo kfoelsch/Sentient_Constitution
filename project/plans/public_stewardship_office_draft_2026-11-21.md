@@ -13,20 +13,22 @@ rewritten when the file is placed.
 > **Placement.** Like every Independent Body under the core reorganization plan, the office gets a one-line guarantee list in [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) and a subcore file attached to Chapter Seven. This draft is written as that subcore file. [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) would point to it.
 >
 > **Choices this draft makes (all provisional, for the custodian to confirm):**
-> 1. **Guidance, not command.** The office plans nothing on anyone's behalf: it looks ahead, warns, and advises. The governing authority keeps every decision, but must say in public how its strategy responds to the office's guidance.
-> 2. **A voice for those not yet here.** The office may make submissions, in forums and consultations, on behalf of the future generations protected by Article I-C. It cannot block a decision.
-> 3. **Terms longer than the political cycle,** so the office does not turn over with each selection.
-> 4. **Defaults:** a Long-Term Outlook at least every four years, looking at least 25 years ahead and further where a risk requires it; members serve one staggered term of eight years.
+> 1. **Required plans and reports, but not dictated content.** Added 2026-11-21 at the custodian's request: public bodies must submit stewardship plans that answer the outlook, and public bodies, critical systems, and the largest institutions must report progress against the risk register (§7). The office reviews and publishes; it cannot write a body's plan for it, allocate resources, or punish. The governing authority keeps every decision, but must say in public how its strategy responds to the office's guidance.
+> 2. **Reports, not plans, from private actors.** Private institutions and systems report on the register risks they hold, but are never required to submit plans aligned with the outlook, so that the office coordinates public stewardship without steering private activity.
+> 3. **A voice for those not yet here.** The office may make submissions, in forums and consultations, on behalf of the future generations protected by Article I-C. It cannot block a decision.
+> 4. **Terms longer than the political cycle,** so the office does not turn over with each selection.
+> 5. **Defaults:** a Long-Term Outlook at least every four years, looking at least 25 years ahead and further where a risk requires it; members serve one staggered term of eight years; stewardship plans due within one year of each outlook; progress reports once a year.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) would list the office with the one-line guarantees in the box below.
 > - [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) would require the governing authority's published strategy to respond to the office's Long-Term Outlook and guidance, and §5.1 would name the outlook as an input to direction.
-> - A new corpus-institutions file would hold the outlook template, the risk register fields, and the submission procedure.
+> - A new corpus-institutions file would hold the outlook template, the risk register fields, the plan and report templates, the size threshold for reporting institutions, and the submission procedure.
 >
 > **Proposed Chapter Seven §4 entry:**
 > - **Public Stewardship Office:** looks decades ahead, publishes a Long-Term Outlook and stewardship guidance, and speaks for future generations.
 >     - The outlook and guidance are public, with their evidence and confidence.
->     - The governing authority must say in public how its strategy responds; the office cannot command or block.
+>     - Public bodies must submit stewardship plans that answer the outlook, and public bodies, critical systems, and the largest institutions must report progress; the office reviews and publishes them.
+>     - The governing authority must say in public how its strategy responds; the office cannot write anyone's plan, command, or block.
 >     - Members serve terms longer than the political cycle and cannot be removed for the content of their advice.
 
 </details>
@@ -40,9 +42,9 @@ rewritten when the file is placed.
 
 **Purpose:** Subcore 7-[S] makes sure that long-term risks, commitments, and opportunities are seen and weighed when decisions are made today, and that future generations have a voice when those decisions are made.
 
-**Role:** Subcore 7-[S] is the constitutional owner of the **Long-Term Outlook**, **stewardship guidance**, and **future-generations submissions**. Where it sits:
+**Role:** Subcore 7-[S] is the constitutional owner of the **Long-Term Outlook**, **stewardship guidance**, **stewardship plans and progress reports**, and **future-generations submissions**. Where it sits:
 
-- [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) puts the duty of stewardship on those who govern. This office informs that duty; it does not take it over.
+- [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) puts the duty of stewardship on those who govern. This office informs that duty and holds public bodies to account for planning against it; it does not take it over.
 - The Public Policy Office evaluates one proposal at a time. This office looks across all policy and over a longer horizon. For a proposal with long-horizon or irreversible effects, the two publish one combined evaluation.
 - The Public Information Office produces the statistics and research this office relies on.
 - The Public Debt Office and the Public Finance Office report the obligations that later generations will carry, and this office takes them into account.
@@ -51,10 +53,11 @@ rewritten when the file is placed.
 
 - publishes the Long-Term Outlook (§4) and keeps the Long-Term Risk Register (§5);
 - issues stewardship guidance and assesses the governing authority's response (§6);
-- prepares the long-horizon section of Public Policy Office evaluations (§7); and
-- makes submissions for future generations (§8).
+- requires stewardship plans from public bodies, and progress reports from public bodies, critical systems, and the largest institutions, and reviews and publishes them (§7);
+- prepares the long-horizon section of Public Policy Office evaluations (§8); and
+- makes submissions for future generations (§9).
 
-**Out of scope:** The office does not plan an economy, allocate resources, direct any institution, set targets that bind anyone, or decide any matter that belongs to a forum.
+**Out of scope:** The office does not write any body's plan for it, allocate resources, direct how a plan is carried out, impose penalties, require private institutions or systems to plan, or decide any matter that belongs to a forum.
 
 ### 2. Why the Public Stewardship Office Exists
 
@@ -121,7 +124,33 @@ The office publishes a **Long-Term Outlook** at least every four years, and befo
 - **Progress assessment:** midway between outlooks, the office publishes an assessment of how far the governing authority's strategy is meeting the long-term risks in the register.
 - **Contestability:** a failure to publish a response is a procedural failure that may be challenged under [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism). The merits of a response are for the public and the authorizing community to judge, not the office.
 
-### 7. Long-Horizon Review of Proposals
+### 7. Stewardship Plans and Progress Reports
+
+*In plain terms: every public body has to show, in a written plan, how it will deal with the long-term risks in its area, and then report each year on how it is doing. The largest private players report too, but only on how the risks they hold are developing. The office checks and publishes all of it.*
+
+The office coordinates public stewardship by requiring plans and reports, while those who hold authority keep the choice of what to do:
+
+- **Who must submit a stewardship plan:**
+    - the governing authority and each public office, department, or agency acting under it;
+    - each Independent Body, for the risks in its own domain; and
+    - any other public body that the outlook names as holding responsibility for a risk in the register.
+- **What a stewardship plan contains:**
+    - the risks and priorities in the outlook and guidance that fall within the body's responsibility;
+    - what the body will do about each, by when, and with what resources, or why it will not act;
+    - the indicators by which progress will be judged; and
+    - how the plan fits the governing authority's strategy under [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
+- **When plans are due:** within one year of each Long-Term Outlook, and again when a body's responsibilities change materially.
+- **Who must report progress, once a year:**
+    - every body that submitted a stewardship plan, against that plan;
+    - each steward of a critical system under [CS-26.305 — Critical system stewardship](../../corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship), on the register risks its system holds; and
+    - each institution above a published size, on the register risks it holds.
+- **Private actors report, but do not plan:** a private institution or system reports facts about the risks it holds, in the published template. It is never required to submit a plan aligned with the outlook, and no report may be used to direct its lawful activity.
+- **Review:** the office reviews each plan for whether it answers the outlook and is realistic, and each report for whether it shows real progress. It publishes every plan, report, and review, with information protected under the Chapter Four Rights Floor described but withheld.
+- **Limits:** the office may say that a plan falls short and why. It may not rewrite a plan, approve or veto one, allocate resources, or impose a penalty. An Independent Body's plan never overrides that body's independent judgment within its own domain.
+- **Failure to submit:** a missing or late plan or report is published as such. For a public body it is a procedural failure that may be challenged under [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism); for a critical-system steward or a reporting institution it is a disclosure failure under the adopted implementation text that governs it.
+- **Use in the progress assessment:** plans and reports are the main evidence for the progress assessment in §6.
+
+### 8. Long-Horizon Review of Proposals
 
 *In plain terms: when a proposal would lock in effects for decades or forever, the office adds a long-term section to its evaluation.*
 
@@ -129,7 +158,7 @@ The office publishes a **Long-Term Outlook** at least every four years, and befo
 - **What it covers:** effects on future generations, irreversible thresholds in the risk register, and the obligations the proposal would pass on.
 - **One publication:** the long-horizon section is published as part of the Public Policy Office's evaluation, under that office's time limits and response rule.
 
-### 8. Speaking for Future Generations
+### 9. Speaking for Future Generations
 
 *In plain terms: the office may speak up for future sentients where today's decisions affect them, but it cannot stop those decisions.*
 
@@ -137,25 +166,25 @@ The office publishes a **Long-Term Outlook** at least every four years, and befo
 - **No party power:** a submission does not make the office a party, does not delay a proceeding, and cannot block a decision.
 - **Even-handedness:** the office speaks for future interests, not for any present faction, and publishes every submission.
 
-### 9. No Command Over Planning
+### 10. Coordination Without Command
 
-*In plain terms: looking ahead is not running things. The office never tells anyone what they must produce, buy, or do.*
+*In plain terms: the office makes sure everyone with public responsibility has a plan and reports on it, but it never writes those plans or tells anyone what to produce, buy, or do.*
 
-- The office does not plan production, allocate resources, set binding targets, or direct any institution, system, or sentient.
+- The office requires plans and reports under §7, and its power ends there: it does not plan production, allocate resources, set binding targets, or direct how any institution, system, or sentient carries out its work.
 - Its guidance is advice. No rule, contract, or funding decision may treat it as a command.
 - More than one long-term strategy can be legitimate. The office's guidance never limits the pluralism protected by [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism).
 
-### 10. Records, Accuracy, and Challenge
+### 11. Records, Accuracy, and Challenge
 
 *In plain terms: everything the office says can be checked, and it looks back regularly at how its earlier outlooks held up.*
 
-- **Open records:** the outlook, register, guidance, assessments, and submissions are published with their evidence, methods, and correction history.
+- **Open records:** the outlook, register, guidance, assessments, plans, reports, reviews, and submissions are published with their evidence, methods, and correction history.
 - **Look-back:** each outlook includes a comparison of the previous outlooks with what has happened since, and what the office changed as a result.
 - **Challenge:** any sentient may ask for a correction of an error of fact or method. Capture or manipulation of the office may be raised with the Integrity Forum.
 
-### 11. Proportional Scaling
+### 12. Proportional Scaling
 
 *In plain terms: a small community still needs someone looking ahead, but can share the work.*
 
 - An adopter below a published size may share the office with other adopters, or combine it with its Public Policy Office, provided the long-term work keeps its own seats, its eight-year terms, and its own publications.
-- A small adopter may publish a shorter outlook, but never drops the risk register or the governing authority's duty to respond.
+- A small adopter may publish a shorter outlook and use short-form plans and reports, but never drops the risk register, the plans of its public bodies, or the governing authority's duty to respond.
