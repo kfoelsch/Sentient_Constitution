@@ -1078,6 +1078,20 @@
       "pre_subcore_2026_11_20": "CI-04205"
     },
     {
+      "old_id": "Chapter 26 §3.2.3",
+      "original_file": "core_26.000_governance.md",
+      "machine_id": "SUB-26020",
+      "display_id": "S26-B",
+      "layer": "SUBCORE",
+      "core_home": "26",
+      "title": "S26-B",
+      "destination_file": "subcore_26.020_selection_funding.md",
+      "status": "active",
+      "machine_number": "26020",
+      "layer_digit": "0",
+      "ordinal_name": "S26-B"
+    },
+    {
       "old_id": "Chapter 15",
       "original_file": "core_15_non_regression.md",
       "machine_id": "27000",

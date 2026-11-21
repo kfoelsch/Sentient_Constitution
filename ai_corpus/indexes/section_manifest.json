@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-21T17:48:40+00:00",
+  "generated_at": "2026-11-21T17:59:14+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -1101,32 +1101,32 @@
       ]
     },
     "core_26.000_governance.md": {
-      "total_lines": 640,
+      "total_lines": 622,
       "sections": [
-        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":640,"anchor":null},
+        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":622,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":26,"line_end":56,"anchor":null},
         {"header":"2. Why the Constitutional Contract Exists","level":3,"line_start":57,"line_end":84,"anchor":"#2-why-the-constitutional-contract-exists"},
-        {"header":"3. Authorization and Legitimacy of Governing Authority","level":3,"line_start":85,"line_end":323,"anchor":null},
+        {"header":"3. Authorization and Legitimacy of Governing Authority","level":3,"line_start":85,"line_end":305,"anchor":null},
         {"header":"3.1 Mechanism Families, Auditability, and Pluralism","level":4,"line_start":109,"line_end":198,"anchor":null},
         {"header":"3.1.1 Mechanism Families","level":5,"line_start":115,"line_end":130,"anchor":"#311-mechanism-families"},
         {"header":"3.1.2 Sortition Integrity and Anti-Capture Use","level":5,"line_start":131,"line_end":173,"anchor":"#312-sortition-integrity-and-anti-capture-use"},
         {"header":"3.1.3 Auditability, Publication, and Non-Usurpation","level":5,"line_start":174,"line_end":186,"anchor":"#313-auditability-publication-and-non-usurpation"},
         {"header":"3.1.4 Contestation, Correction, and Pluralism","level":5,"line_start":187,"line_end":198,"anchor":"#314-contestation-correction-and-pluralism"},
-        {"header":"3.2 Eligibility, Contested Selection, and Democratic Minimums","level":4,"line_start":199,"line_end":293,"anchor":null},
+        {"header":"3.2 Eligibility, Contested Selection, and Democratic Minimums","level":4,"line_start":199,"line_end":275,"anchor":null},
         {"header":"3.2.1 Eligibility for Governing and Critical-Stewardship Roles","level":5,"line_start":205,"line_end":216,"anchor":"#321-eligibility-for-governing-and-critical-stewardship-roles"},
         {"header":"3.2.2 Contested Selection, Opposition Protection, and Peaceful Succession","level":5,"line_start":217,"line_end":245,"anchor":"#322-contested-selection-opposition-protection-and-peaceful-succession"},
-        {"header":"3.2.3 Selection-Funding Boundaries","level":5,"line_start":246,"line_end":284,"anchor":"#323-selection-funding-boundaries"},
-        {"header":"3.2.4 Forum Appointment Independence Requirement","level":5,"line_start":285,"line_end":293,"anchor":"#324-forum-appointment-independence-requirement"},
-        {"header":"3.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails","level":4,"line_start":294,"line_end":323,"anchor":null},
-        {"header":"4. Ethical Culture and Integrity (Federated Scale)","level":3,"line_start":324,"line_end":345,"anchor":null},
-        {"header":"5. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)","level":3,"line_start":346,"line_end":424,"anchor":null},
-        {"header":"5.1 Stewardship Direction","level":4,"line_start":389,"line_end":404,"anchor":null},
-        {"header":"5.2 Ecosystem Value Orientation","level":4,"line_start":405,"line_end":424,"anchor":null},
-        {"header":"6. Voting and Binding Collective Choice Protocols","level":3,"line_start":425,"line_end":593,"anchor":null},
-        {"header":"6.1 Entitlement and Eligibility","level":4,"line_start":441,"line_end":514,"anchor":null},
-        {"header":"6.2 Records, Gates, and Method Neutrality","level":4,"line_start":515,"line_end":556,"anchor":null},
-        {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":557,"line_end":593,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
-        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":594,"line_end":640,"anchor":null}
+        {"header":"3.2.3 Selection-Funding Boundaries","level":5,"line_start":246,"line_end":266,"anchor":"#323-selection-funding-boundaries"},
+        {"header":"3.2.4 Forum Appointment Independence Requirement","level":5,"line_start":267,"line_end":275,"anchor":"#324-forum-appointment-independence-requirement"},
+        {"header":"3.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails","level":4,"line_start":276,"line_end":305,"anchor":null},
+        {"header":"4. Ethical Culture and Integrity (Federated Scale)","level":3,"line_start":306,"line_end":327,"anchor":null},
+        {"header":"5. Strategy, Stewardship Direction, and Ecosystem Value (Non-Corporate)","level":3,"line_start":328,"line_end":406,"anchor":null},
+        {"header":"5.1 Stewardship Direction","level":4,"line_start":371,"line_end":386,"anchor":null},
+        {"header":"5.2 Ecosystem Value Orientation","level":4,"line_start":387,"line_end":406,"anchor":null},
+        {"header":"6. Voting and Binding Collective Choice Protocols","level":3,"line_start":407,"line_end":575,"anchor":null},
+        {"header":"6.1 Entitlement and Eligibility","level":4,"line_start":423,"line_end":496,"anchor":null},
+        {"header":"6.2 Records, Gates, and Method Neutrality","level":4,"line_start":497,"line_end":538,"anchor":null},
+        {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":539,"line_end":575,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
+        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":576,"line_end":622,"anchor":null}
       ]
     },
     "core_27.000_non_regression.md": {
@@ -2089,6 +2089,20 @@
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
         {"header":"2. Why Every Institution Reports the Same Way","level":3,"line_start":23,"line_end":45,"anchor":null},
         {"header":"3. Governance Disclosure Report","level":3,"line_start":46,"line_end":65,"anchor":"#3-governance-disclosure-report"}
+      ]
+    },
+    "subcore_26.020_selection_funding.md": {
+      "total_lines": 119,
+      "sections": [
+        {"header":"SUBCORE 26-B: SELECTION FUNDING","level":1,"line_start":2,"line_end":119,"anchor":"#subcore-26-b-selection-funding"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
+        {"header":"2. Why the Funding Detail Is the Same for Every Adopter","level":3,"line_start":23,"line_end":44,"anchor":null},
+        {"header":"3. Disclosure Register and Protected-Identity Route","level":3,"line_start":45,"line_end":59,"anchor":"#3-disclosure-register-and-protected-identity-route"},
+        {"header":"4. Anti-Circumvention","level":3,"line_start":60,"line_end":72,"anchor":"#4-anti-circumvention"},
+        {"header":"5. Contribution Caps","level":3,"line_start":73,"line_end":83,"anchor":"#5-contribution-caps"},
+        {"header":"6. Third-Party Spending Limits","level":3,"line_start":84,"line_end":94,"anchor":"#6-third-party-spending-limits"},
+        {"header":"7. Public Support Default Design","level":3,"line_start":95,"line_end":104,"anchor":"#7-public-support-default-design"},
+        {"header":"8. Outcome Review Measures","level":3,"line_start":105,"line_end":119,"anchor":"#8-outcome-review-measures"}
       ]
     },
     "corpus_systems.md": {

@@ -116,7 +116,7 @@ The Constitution is one document split into a Preamble and thirty chapters, with
 | [Worked examples for Chapters 14–21](corpus_joint_structure/cjs_14.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
 | **Chapter 24**: [Enforcement](core_24.000_enforcement.md) | How outcomes get carried out, and what stops them being dodged |
 | **Chapter 25**: [Special enforcement](core_25.000_special_enforcement.md) · [Subcore 25-A special enforcement procedure](subcore_25.010_special_enforcement_procedure.md) | Extra safeguards for freezing or seizing money or property, for anything that could turn violent, and for fixing why enforcement keeps failing |
-| **Chapter 26**: [Governance](core_26.000_governance.md) · [Subcore 26-A governance disclosure](subcore_26.010_governance_disclosure.md) | Who may govern, and how that authority is granted and checked |
+| **Chapter 26**: [Governance](core_26.000_governance.md) · [Subcore 26-A governance disclosure](subcore_26.010_governance_disclosure.md) · [Subcore 26-B selection funding](subcore_26.020_selection_funding.md) | Who may govern, and how that authority is granted and checked |
 | **Chapter 27**: [Non-regression](core_27.000_non_regression.md) | Protections can be strengthened but not rolled back |
 | **Chapter 28**: [Amendment and adoption](core_28.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
 | **Chapter 29**: [Supremacy and other laws](core_29.000_expansion_supremacy.md) | How it relates to local, national, and international law |
@@ -220,6 +220,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - How contribution fades over time, and the full rules for competency bars and clearances: [Subcore 17-A](subcore_17.010_recency_competency_clearance.md)
 - The force ladder, freezes and seizure, and the death-review steps: [Subcore 25-A](subcore_25.010_special_enforcement_procedure.md)
 - What every institution's governance report must contain: [Subcore 26-A](subcore_26.010_governance_disclosure.md)
+- The disclosure register, default caps and limits, and outcome-review measures for selection funding: [Subcore 26-B](subcore_26.020_selection_funding.md)
 - Which forum hears a case first (intake desk and default venue table): [Subcore 22-A](subcore_22.010_forum_intake_default_venue.md)
 - Who sits on a forum case, and where each kind of challenge goes: [Subcore 22-B](subcore_22.020_forum_case_seats_contest_routing.md)
 - Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Six; the required lanes: [Subcore 6-A](subcore_06.010_constitutional_lanes.md)
