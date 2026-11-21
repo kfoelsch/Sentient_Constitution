@@ -427,23 +427,7 @@ It requires that verified forum findings enter standing through the same gate as
 - Externalized harms, coercive dependencies, Rights-Floor narrowing, or concealed burdens may disqualify or limit the claimed contribution.
 - A claimed contribution does not offset a separate violation finding.
 
-Each row in the table below names a common route of verified help and its constitutional relevance. More than one row may apply to the same Standing Record.
-
-| Type of verified contribution | What happened | Tetrad leg(s) | Primary aim(s) |
-| --- | --- | --- | --- |
-| Survival & bodily maintenance | Someone received food, shelter, medical care, or safety | **Participation**, **Oversight** | **Flourishing** |
-| Caretaking & teaching | Children were raised, elders cared for, or others educated | **Participation**, **Oversight** | **Flourishing**, **Continuity** |
-| Trauma resolution | Someone received help recovering from psychological harm that blocked wellbeing | **Participation**, **Accountability** | **Flourishing** |
-| Removing severe burdens | Crushing debt, exploitative working conditions, or systemic barriers were removed | **Participation**, **Oversight** | **Flourishing** |
-| Restoring agency | Someone gained meaningful choices about their own life | **Participation** | **Flourishing** |
-| Expanding productive capacity | Tools, infrastructure, or opportunities enabled others to thrive independently | **Participation**, **Oversight** | **Flourishing**, **Continuity** |
-| Improving time efficiency | Avoidable waiting, administrative friction, or coordination overhead was reduced, returning usable time for care, rest, agency, learning, or rights-consistent work | **Participation**, **Oversight** | **Flourishing** |
-| Reducing ecological or infrastructure risk | Environmental collapse or critical-system failure was prevented | **Oversight**, **Accountability** | **Continuity**, **Flourishing** |
-| Reducing ecological footprint | Resource use, emissions, or land and water demand were verifiably reduced without shifting the burden onto others or onto ecosystems | **Oversight**, **Accountability** | **Continuity**, **Flourishing** |
-| Rehabilitating ecosystems | Degraded land, water, or habitat was restored toward a functioning, self-sustaining condition | **Oversight**, **Accountability** | **Continuity**, **Flourishing** |
-| Protecting endangered species | Species at risk of extinction, or the habitats they depend on, were protected from loss | **Oversight**, **Accountability** | **Continuity**, **Flourishing** |
-| Reducing pollution and waste | Contamination, harmful emissions, or waste were prevented, removed, or safely managed | **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
-| Strengthening safety, truth, auditability, or challenge capacity | Institutions or practices were built or repaired to protect rights and hold power accountable | **Participation**, **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
+The table of common routes of verified help, with the Tetrad legs and aims each bears on, is in [Subcore 14-A §3.1 Contribution Event Types](subcore_14.010_standing_record_event_types_fields_custody.md#31-contribution-event-types). More than one route may apply to the same Standing Record.
 
 <a id="52-violation-event-types"></a>
 
@@ -454,23 +438,7 @@ Each row in the table below names a common route of verified help and its consti
 - Allegations, provisional tags, forum narratives, and intake labels may support routing or triage, but they do not complete Question 1.
 - Positive contribution does not offset, excuse, undo, or relabel a verified violation.
 
-Each row in the table below names a common route of verified loss, danger, or duty failure and its constitutional relevance. More than one row may apply to the same Standing Record.
-
-| Type of verified loss or danger | What happened | Tetrad leg(s) | Primary aim(s) |
-| --- | --- | --- | --- |
-| Survival or bodily-maintenance deprivation | Avoidable death, denied care, unsafe conditions, or material survival deprivation occurred | **Accountability**, **Participation** | **Flourishing** |
-| Severe avoidable burden | Crushing, imposed, or systematically shifted burdens materially impaired wellbeing or agency | **Accountability**, **Participation** | **Flourishing** |
-| Coercive agency loss | Coercion, manipulation, credible threat, confinement, or liberty danger occurred | **Accountability**, **Participation** | **Flourishing** |
-| Rights-Floor defeat | Non-negotiable constitutional floors, supremacy, or challenge-and-remedy access were materially violated | **Accountability**, **Oversight** | **Flourishing**, **Continuity** |
-| Ecological or infrastructure damage | Conditions needed for constitutional wellbeing were damaged | **Accountability**, **Oversight** | **Continuity**, **Flourishing** |
-| Pollution or waste harm | Contamination, harmful emissions, or waste harmed air, water, soil, or health | **Accountability**, **Oversight** | **Flourishing**, **Continuity** |
-| Species or habitat destruction | Species at risk of extinction, or the habitats they depend on, were destroyed, fragmented, or driven toward loss, including loss treated as offsettable | **Accountability**, **Oversight** | **Continuity**, **Flourishing** |
-| Loss of ecological recovery capacity | An ecosystem's ability to regenerate after harm was foreclosed or made avoidably hard or impossible to reverse | **Accountability**, **Oversight** | **Continuity**, **Flourishing** |
-| Externalized ecological harm or depletion | Ecological costs were shifted onto others or onto ecosystems, resources were depleted past regeneration, or a footprint or sustainability claim hid continuing deterioration | **Accountability**, **Oversight** | **Continuity**, **Flourishing** |
-| Destroyed productive capacity | Tools, capabilities, relationships, or resources needed for independent thriving were foreclosed | **Accountability** | **Flourishing** |
-| Degraded Safety, Truth, or auditability | Concealment, misinformation, broken records, inaccessible challenge paths, or unreviewable aggregation occurred | **Oversight**, **Accountability** | **Flourishing**, **Continuity** |
-| Obstruction of accountability | Verified interference with answerability machinery — evidence integrity, verification, forum process, Standing Records, remedy windows, or contest and redress paths — occurred; where the obstruction is a meta-attack on a distinct underlying harm, open a linked separate violation Standing Record | **Accountability**, **Oversight**, **Timeliness** | **Flourishing**, **Continuity** |
-| System capture or dependency abuse | Structural enablement, dependency-asymmetry abuse, anti-evasion design, or capture of accountability pathways occurred | **Accountability**, **Participation** | **Continuity**, **Flourishing** |
+The table of common routes of verified loss, danger, or duty failure, with the Tetrad legs and aims each bears on, is in [Subcore 14-A §3.2 Violation Event Types](subcore_14.010_standing_record_event_types_fields_custody.md#32-violation-event-types). More than one route may apply to the same Standing Record.
 
 
 <a id="6-verification-and-record-requirements"></a>
@@ -507,24 +475,13 @@ A Standing Record carries the fields below, and the last two subsections add fie
 
 ##### 6.1.1 Fields Every Standing Record Must Carry
 
-Every Standing Record must include, at minimum:
+The fields are listed in full in [Subcore 14-A §4.1 Fields Every Standing Record Must Carry](subcore_14.010_standing_record_event_types_fields_custody.md#41-fields-every-standing-record-must-carry). Their guarantees are:
 
-- the Standing Record type — **contribution Standing Record** or **violation Standing Record**;
-- who or what is being assessed and the scope of the assessment, including relevant system boundaries, role boundaries, affected communities, and dependency relationships;
-- what conduct or finding is being assessed, including the acts, omissions, duties, impacts, bounded event, pattern within scope, contribution record, or violation finding the Standing Record relies on;
-- the record span and current review status — for example, provisional, final for a stated purpose, under challenge, superseded, or due for scheduled re-evaluation;
-- any related Standing Records cross-referenced as required under **section 6.2**;
-- the official records, witnesses, measurements, audits, forum decisions, or other verification materials that make the Standing Record demonstrable, reviewable, and contestable under Subcores 3-A to 3-C;
-- the **record-opening authority** that verified the factual basis and authorized entry, and the separate **record custodian** that entered and holds the Standing Record, each named under **section 7**;
-- how to challenge the Standing Record, including:
-  - which forum or authority reviews it;
-  - any disclosure limits; and
-  - the conditions for:
-    - correction;
-    - restoration;
-    - expiration; or
-    - scheduled review;
-- the axis-specific Question 2 measurement fields required below, once measurement occurs.
+- **What, who, and on what basis:** each Standing Record states whether it is a contribution Standing Record or a violation Standing Record, who or what is assessed and the scope of the assessment, and the conduct or finding it relies on.
+- **Its span and status:** it states the span it covers and its current review status.
+- **Demonstrable:** it lists the verification materials that make it demonstrable, reviewable, and contestable under Subcores 3-A to 3-C, and cross-references related Standing Records under [§6.2 Related Standing Record Cross-References](#62-related-standing-record-cross-references).
+- **Two named offices:** it names the record-opening authority that verified the factual basis and the separate record custodian that entered and holds it, each under [§7 Record Custody and Opening Authority](#7-record-custody-and-opening-authority).
+- **How to challenge it:** it states which forum or authority reviews it, any disclosure limits, and the conditions for correction, restoration, expiration, or scheduled review.
 
 <a id="612-inspectable-attributable-action"></a>
 
@@ -548,57 +505,13 @@ Privacy, confidentiality, or the opacity of a system's internals does not exempt
 
 ##### 6.1.4 Additional Fields for Contribution Standing Records
 
-**Contribution Standing Records** must also state:
-
-- the Question 2 contribution measurement, including:
-  - the primary band;
-  - slot `s` where assigned (see [Chapter Fifteen §6 Slot Grammar and Shared Scaling](core_15.000_standing_measurement.md#6-slot-grammar-and-shared-scaling));
-  - evidence basis;
-  - materiality reasoning; and
-  - any adopted LEQU or comparable calibration used for transparent support;
-- where contribution is shared, how credit was allocated, including consideration of:
-  - time;
-  - effort;
-  - coordination;
-  - maintenance;
-  - causal contribution; and
-  - less-visible support work;
-- the contribution measurement, as recorded here, that any later Chapter Sixteen standing effect must be based on.
+A contribution Standing Record also states its Question 2 contribution measurement and, where contribution is shared, how credit was allocated, counting less-visible support work. Any later Chapter Sixteen standing effect must rest on the measurement recorded there. The fields in full are in [Subcore 14-A §4.2 Additional Fields for Contribution Standing Records](subcore_14.010_standing_record_event_types_fields_custody.md#42-additional-fields-for-contribution-standing-records).
 
 <a id="615-additional-fields-for-violation-standing-records"></a>
 
 ##### 6.1.5 Additional Fields for Violation Standing Records
 
-**Violation Standing Records** must also state:
-
-- the Question 2 violation measurement, including:
-  - the finding authority or record basis;
-  - LEQU impact;
-  - slot `s` where assigned (see [Chapter Fifteen §6 Slot Grammar and Shared Scaling](core_15.000_standing_measurement.md#6-slot-grammar-and-shared-scaling));
-  - process / response character where applicable; and
-  - any Chapter Twenty designation status;
-- where several actors share or divide responsibility for a violation, the verified reasons for any adverse standing recorded against one particular actor, including:
-  - causal role;
-  - duty;
-  - authority;
-  - control;
-  - foreseeability;
-  - benefit;
-  - concealment; or
-  - feasible prevention capacity;
-- where the violation finding involves a forum disclosure omission or intentional recusal-process failure (read **§10.2.2** (*How the Way a Harm Was Caused Is Recorded*) for measurement discipline):
-  - the verified basis for the omission or failure;
-  - the unmet disclosure or recusal duty;
-  - the actor's knowledge, recklessness, or intent where found; and
-  - whether the conduct materially affected:
-    - panel lawfulness;
-    - independence;
-    - recusal challenge;
-    - evidence integrity;
-    - remedy timing;
-    - backup routing; or
-    - practical contestability;
-- the violation measurement, as recorded here, that any later Chapter Sixteen standing effect must be based on.
+A violation Standing Record also states its Question 2 violation measurement, including any Chapter Twenty designation status; where several actors share responsibility, the verified reasons for any adverse standing recorded against one of them; and, for a forum disclosure omission or recusal-process failure, the verified basis and its effect on the panel and on contestability. Any later Chapter Sixteen standing effect must rest on the measurement recorded there. The fields in full are in [Subcore 14-A §4.3 Additional Fields for Violation Standing Records](subcore_14.010_standing_record_event_types_fields_custody.md#43-additional-fields-for-violation-standing-records).
 
 <a id="62-related-standing-record-cross-references"></a>
 
@@ -889,27 +802,12 @@ flowchart TB
     style T fill:none,stroke:#9333ea,color:#ffffff
 ```
 
-A System Charter or Institutional Charter that leaves a required record seat or the independent route unnamed:
+The rules for Standing Records under such a System Charter or Institutional Charter are set out in full in [Subcore 14-A §5 Unnamed Seats in a System Charter or Institutional Charter](subcore_14.010_standing_record_event_types_fields_custody.md#5-unnamed-seats-in-a-system-charter-or-institutional-charter). Their guarantees are:
 
-- **Consequence:** The System Charter or Institutional Charter is invalid, and a change that would do so is not allowed ([Chapter Five §6.7.1 When a Gap Exists and How It Is Logged](core_05.000_charters.md#671-when-a-gap-exists-and-how-it-is-logged)).
-- **Chapter Five owns the gap process:** [Chapter Five §6.7 Gaps in the Map for Operator Standing Records](core_05.000_charters.md#67-gaps-in-the-map-for-operator-standing-records) also owns:
-  - how a gap is logged;
-  - the response and resolution windows (including emergency substitution); and
-  - when custody goes back to the named holders.
-
-For Standing Records, this section adds:
-
-- **Who may not act:** While a required seat is vacant and the System Charter or Institutional Charter names no valid replacement, no one may perform that seat's function, except by the route in the next bullet.
-- **Where the Standing Record goes:** The Standing Record goes to the Backup Record Authority and the Backup Record Custodian, or to a forum under **section 4.7**, as [§7.4 No Self-Custody](#74-no-self-custody) provides, and the lane map does not stand in. Each Standing Record stays whole with one custodian.
-- **Standing Records already held:**
-  - On the day notice of the gap reaches a forum, a registrar, or the Backup Record Authority, any operator Standing Record held by an office inside the Chartered Party's Material Control Line moves to the Backup Record Custodian with its full trail.
-  - Until then that office holds it read-only, enters no version, and gives the Backup Record Custodian a complete copy with its full trail at once.
-  - A custodian outside the line keeps the Standing Record and, during the gap, enters each version that the Backup Record Authority or a forum authorizes. If a forum finds that the custodian is inside the line, the Standing Record moves to the Backup Record Custodian with its full trail, as for an office inside the line.
-- **Stewards:** A steward who is asked to fill a seat that the System Charter or Institutional Charter does not give them:
-  - **Declines the seat:** Having the access or technical ability to enter the Standing Record gives them no authority to enter it.
-  - **Names the request and the gap:** They name both in the log.
-  - **Sends the Standing Record on:** They send it by the route in *Where the Standing Record goes* above.
-  - **Keeps their other duties:** The duties they already have under [§7.4 No Self-Custody](#74-no-self-custody) (*Stewards inside the subject*) continue: they halt what they control, log the reconstructable set, preserve the evidence they hold, notify, and escalate. None of those acts verifies the facts or enters the Standing Record. The log and the preserved evidence go with the Standing Record as inputs for the authority that verifies it; they are not an entry, and they do not decide the facts.
+- **Invalid until fixed:** a System Charter or Institutional Charter that leaves a required record seat or the independent route unnamed is invalid, and a change that would do so is not allowed; [Chapter Five §6.7 Gaps in the Map for Operator Standing Records](core_05.000_charters.md#67-gaps-in-the-map-for-operator-standing-records) owns the gap process.
+- **No one fills the seat on the side:** while a required seat is vacant with no valid replacement, no one performs its function. The Standing Record goes to the Backup Record Authority and the Backup Record Custodian, or to a forum under [§4.7 Forum Boundary](#47-forum-boundary); the lane map does not stand in, and each Standing Record stays whole with one custodian.
+- **Held inside the line, it moves out:** once notice of the gap reaches a forum, a registrar, or the Backup Record Authority, a Standing Record held by an office inside the Chartered Party's Material Control Line moves to the Backup Record Custodian with its full trail.
+- **Access is not authority:** a steward asked to fill a seat not given to them declines it, logs the request and the gap, sends the Standing Record on, and keeps their duties to halt, log, preserve, notify, and escalate.
 
 <a id="78-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record"></a>
 
@@ -929,51 +827,16 @@ Where no System Charter or Institutional Charter covers the system, institution,
 
 Separation of duties scales with material stake, not with formality ([Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement)).
 
-- **Work covered:** Local communities run on many kinds of contribution, and much of it is unpaid and informal. This applies to unpaid, peer-organized, mutual-aid, care, maintenance, repair, teaching, and community-stewardship work, which [Chapter Seventeen §3 Contribution Consequences](core_17.000_contribution_consequences.md#3-contribution-consequences) requires to be recognized on equal standards.
-  - **What it looks like locally:** Neighbors sharing food and tools (mutual aid); looking after a sick or aging neighbor (care); keeping a shared garden or creek in good shape (maintenance and community stewardship); fixing a neighbor's pipes (repair); tutoring or showing someone a skill (teaching). Each is its own kind of contribution.
-- **Who fills the verify seat:** For that work, the verify seat is satisfied by **any independent body with published authority to rely on the Standing Record**, which then acts as the verifying authority.
-  - **Who that usually is:** Often the body that will rely on the Standing Record: a local group such as a watershed council, an organization that funds the work or keeps it going, the **CI-4.255** (*Commons, cooperatives, mutual aid, and non-market community governance*) records-recognition authority (a body that recognizes records of community work like this), or a forum under **section 4.7**.
-- **What does not count:** The verify seat is not satisfied by the formality of the verifying authority.
+The full rules, with worked examples, are in [Subcore 14-A §6 Informal and Small-Scope Records](subcore_14.010_standing_record_event_types_fields_custody.md#6-informal-and-small-scope-records). Their guarantees are:
 
-On such a Standing Record:
+- **Informal work counts:** unpaid, peer-organized, mutual-aid, care, maintenance, repair, teaching, and community-stewardship work is recognized on equal standards.
+- **Any independent relying body may verify:** the verify seat is satisfied by any independent body with published authority to rely on the Standing Record, not by how formal it is; where no such body is available, the Standing Record goes to a forum under [§4.7 Forum Boundary](#47-forum-boundary).
+- **No group needed:** a sentient acting alone may seek a record of their own contribution, and a group without a System Charter or Institutional Charter, or one that is not an Institution, does not block its members.
+- **Own materials are inputs:** a claimant's own account, logs, and photos, and a member's statement about another member's share, are inputs and never verification.
+- **Seats stay separate:** no one both verifies and holds the same Standing Record, and neither seat may be a claimant or inside a claimant's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); the same holds for a violation Standing Record in an informal setting.
+- **No formal-institution bar:** requiring verification by a formal institution an informal group cannot reach, where an independent relying body is available, is the arbitrary-gatekeeping pattern of [Chapter Seventeen §3.2 Competency Bars and Clearances](core_17.000_contribution_consequences.md#32-competency-bars-and-clearances).
+- **Silence is still the default:** none of this requires a Standing Record to exist. Under [§4.2 Silence Is the Default](#42-silence-is-the-default), informal work is not recorded because it could be, and separation of duties binds only once a Standing Record is sought.
 
-- a sentient acting alone needs no group, institution, [System Charter](subcore_03.075_band_continuity.md#system-charter), or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) to seek a record of their own contribution. In that case:
-  - **Who asks:** They hold the initiating seat on their own request, as subject and claimant.
-  - **Their own materials:** Their own account, logs, and photos are inputs and never verification.
-  - **Verify seat:** Any independent body with published authority to rely on the Standing Record (the verifying authority).
-  - **Entry and custody:** A separate record custodian enters and holds the Standing Record.
-  - **If someone contests it:** The contest goes to the challenge lane or a forum under **section 4.7**.
-  - **No relying body available:** Where no such relying body is available, the Standing Record goes to a forum under **section 4.7**.
-  - **Example, a retired plumber:** A retired plumber who has repaired neighbors' pipes unpaid for years, with no group behind them, can ask a **CI-4.255** (*Commons, cooperatives, mutual aid, and non-market community governance*) records-recognition authority to open a Standing Record:
-    - **Requests and claims:** The plumber.
-    - **Verifies:** The authority, working from the work logs and the neighbors' attestations.
-    - **Enters and holds:** A separate record custodian.
-    - **If someone contests it:** The contest goes to a forum, not back to the verifying authority.
-- the participants are subjects and, where they seek recognition, claimants. In a collective record under **section 6.3**:
-  - **Co-participants:** Each is a claimant.
-  - **A member's statement about another member's share:** It is an input, never verification.
-- the materials that support the Standing Record come from two places:
-  - **Non-participants:** Beneficiaries, neighbors, and other non-participants supply attestations as verification materials under **section 6.1**.
-  - **The group's own log:** The sentient who kept it is the recorder and a witness under *Recorder statements are inputs* below.
-- the relying body's record custodian enters and holds what a separate verifying authority has verified:
-  - **Who may not hold either seat:** Neither the record custodian nor the verifying authority may be a claimant or in a claimant's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
-  - **One body, two seats:** The same relying body may host both seats under a published lane map with auditable, contestable independence safeguards.
-  - **Never the same one:** No authority, custodian, or sentient may perform both duties on the same Standing Record.
-- a group's own status does not condition a member's claim:
-  - **Informal groups:** A group with no [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), or one that is not an Institution at all, does not block its members.
-  - **Each participant:** May seek recognition as an individual claimant for work done in the group or outside it.
-  - **What the Standing Record covers:** It concerns the participant's contribution and not the group's standing.
-  - **Example, a quilting circle:** A quilting circle that gives quilts to newly arrived refugees is the pattern: each quilter may seek a Standing Record, verified by an independent relying body such as the agency that receives the quilts, and the circle needs no System Charter or Institutional Charter for that.
-- a violation Standing Record can arise in the same informal settings, and the seats stay separate there too:
-  - **Example, a bar incident:** Someone films another sentient in a bar who becomes drunk, disorderly, and violent, though no one is physically harmed.
-    - **No injury needed:** A verified credible threat of violence can support a violation Standing Record even when no one is hurt (**section 5.2**, coercive agency loss).
-    - **The video is an input:** The sentient who filmed is a witness. The footage is an input and never verification by itself, and its existence opens nothing on its own (**section 4.2**).
-    - **The sentient on the video:** They are the subject. They are told when a Standing Record opens, and they may not fill any seat ([§7.4 No Self-Custody](#74-no-self-custody)).
-    - **Verify seat:** An independent body with published authority to rely on the Standing Record, such as a local licensing or safety body, or a forum under **section 4.7**. The sentient who filmed and the bar's owner are excluded from it if either is a claimant or in a claimant's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
-    - **Entry, custody, and contest:** A separate record custodian enters and holds the Standing Record, and a contest goes to the challenge lane or a forum under **section 4.7**, not back to the verifying body.
-- a bar or process that requires verification by a formal institution an informal group cannot reach, where an independent relying body is available, is the [Chapter Seventeen §3.2 Competency Bars and Clearances](core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) arbitrary-gatekeeping pattern, not separation of duties.
-
-None of this requires a Standing Record to exist. **Section 4.2** *Silence is the default* controls: informal work is not recorded because it could be, and separation of duties binds only once a Standing Record is sought.
 
 <a id="8-handling-a-standing-record"></a>
 
@@ -1105,4 +968,4 @@ A Standing Record outlasts the system that first held it, and the sentient it is
 
 **Previous file:** [subcore_13.010_new_material_authority_system_reopening.md](subcore_13.010_new_material_authority_system_reopening.md)
 
-**Next file:** [core_15.000_standing_measurement.md](core_15.000_standing_measurement.md)
+**Next file:** [subcore_14.010_standing_record_event_types_fields_custody.md](subcore_14.010_standing_record_event_types_fields_custody.md)

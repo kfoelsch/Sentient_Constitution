@@ -756,6 +756,20 @@
       "pre_reorganization_2026_11_20": "15000"
     },
     {
+      "old_id": "Chapter 14 §§5.1–5.2 tables, 6.1.1, 6.1.4, 6.1.5, 7.7, 7.9",
+      "original_file": "core_14.000_standing_assessment.md",
+      "machine_id": "SUB-14010",
+      "display_id": "S14-A",
+      "layer": "SUBCORE",
+      "core_home": "14",
+      "title": "S14-A",
+      "destination_file": "subcore_14.010_standing_record_event_types_fields_custody.md",
+      "status": "active",
+      "machine_number": "14010",
+      "layer_digit": "0",
+      "ordinal_name": "S14-A"
+    },
+    {
       "old_id": "Chapter 10",
       "original_file": "core_11_b_standing_measurement.md",
       "machine_id": "15000",

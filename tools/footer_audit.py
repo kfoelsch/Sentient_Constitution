@@ -62,6 +62,7 @@ CORE_CHAIN = (
     "core_13.000_institutional_alignment_certification_records_recertification.md",
     "subcore_13.010_new_material_authority_system_reopening.md",
     "core_14.000_standing_assessment.md",
+    "subcore_14.010_standing_record_event_types_fields_custody.md",
     "core_15.000_standing_measurement.md",
     "core_16.000_standing_integration.md",
     "subcore_16.010_integration_record_processing_order.md",

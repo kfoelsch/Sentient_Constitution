@@ -734,6 +734,6 @@ Some facts are related but answer different questions. Record them separately:
 
 *Worked examples (they add no rule):* [CJS-14.105 §8 Riparian Cooperative Restoration (Contribution Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-8-riparian-cooperative-restoration-contribution-measurement) measures a verified contribution and [CJS-14.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement) a verified violation (see [§10 Measurement Illustrations](#10-measurement-illustrations)), within the [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes).
 
-**Previous file:** [core_14.000_standing_assessment.md](core_14.000_standing_assessment.md)
+**Previous file:** [subcore_14.010_standing_record_event_types_fields_custody.md](subcore_14.010_standing_record_event_types_fields_custody.md)
 
 **Next file:** [core_16.000_standing_integration.md](core_16.000_standing_integration.md)
