@@ -15,11 +15,12 @@ rewritten when the file is placed.
 > **Choices this draft makes (all provisional, for the custodian to confirm):**
 > 1. **Required plans and reports, but not dictated content.** Added 2026-11-21 at the custodian's request: public bodies, and every system or institution of Class C or higher, must submit stewardship plans that answer the outlook and report progress against them once a year (§7). Added later the same day at the custodian's request: plans follow a yearly cascade, with the office's report on April 1, public bodies' plans on July 1, and every other Class C or higher body's plan on October 1. The office reviews and publishes; it cannot write a body's plan for it, allocate resources, or punish. The governing authority keeps every decision, but must say in public how its strategy responds to the office's guidance.
 > 2. **An alignment ladder with a forum route.** Added 2026-11-22 at the custodian's request: each review ends with a rating from 1 to 5 (§7.5). A rating below 3 opens the body to contest before a forum, which may order a revised plan and a renewed stakeholder hearing, and record a failure that continues across two cycles, but may not dictate the plan's content. The rating measures the quality of a body's response, not agreement with the guidance.
-> 3. **Class, not ownership, decides who plans.** Changed 2026-11-21 at the custodian's request ("we require that stewards represent their constituents. If we are doing that, doesn't that mean that they should be planning too? ... I don't think the line between private and public makes any difference here."). An earlier version required plans from public bodies only. Because stewards must represent stakeholder interests under Chapter Two §17.7, and because planning is essential to both Continuity and Flourishing, every system or institution of Class C or higher plans, public or private, and may add any planning it judges important to the sentients it represents. Class L and Class P bodies may plan but need not. The office still cannot direct any body's lawful activity through a plan.
-> 4. **A voice for those not yet here.** The office may make submissions, in forums and consultations, on behalf of the future generations protected by Article I-C. It cannot block a decision.
-> 5. **A Stewardship Fund.** Added 2026-11-21 at the custodian's request: the office has its own budget, a fixed minimum share of public spending set for each four-year cycle, which pays for outcome-based incentives for technological, ecological, and social improvement and for public education and advocacy on long-term priorities, and reserves at least one-third for basic research decided by peer review panels drawn by lot (§8). This is the one place the office allocates resources.
-> 6. **Terms longer than the political cycle,** so the office does not turn over with each selection.
-> 7. **Defaults:** a Yearly Stewardship Report on April 1, public plans on July 1, and other plans on October 1; a full Long-Term Outlook at least every fourth year, looking 5, 10, 25, 50, and 100 years ahead, with less detail the further out it looks, and further where a risk requires it; members serve one staggered term of eight years; a full plan after each outlook and a yearly update and progress report in between; at least one-third of the fund for basic research, with at least 5 percent of that share for unconventional research and at least 5 percent for new teams and institutions; at least one-tenth set aside for prizes; incentive programs end no more than ten years after they open.
+> 3. **Recommendations from the international comparison.** Added 2026-11-22 at the custodian's request ("Go ahead and do all of your recommendations. Also implement proportionality in the planning cycle so it is less of a burden on class C, and most on class A."), following [the comparison memo](../analysis/pso_international_comparison_2026-11-22.md): a fund board behind a firewall from the plan reviewers (§8.5); an advocacy unit kept apart from the reviewers and limited to published priorities (§8.3); plans focused on at most a published number of material risks (§7.2); burden scaled by class, with Class C joining from the second full cycle (§7.3); a published rubric checked by an outside auditor (§7.5); and a lighter review of research results (§8.4).
+> 4. **Class, not ownership, decides who plans.** Changed 2026-11-21 at the custodian's request ("we require that stewards represent their constituents. If we are doing that, doesn't that mean that they should be planning too? ... I don't think the line between private and public makes any difference here."). An earlier version required plans from public bodies only. Because stewards must represent stakeholder interests under Chapter Two §17.7, and because planning is essential to both Continuity and Flourishing, every system or institution of Class C or higher plans, public or private, and may add any planning it judges important to the sentients it represents. Class L and Class P bodies may plan but need not. The office still cannot direct any body's lawful activity through a plan.
+> 5. **A voice for those not yet here.** The office may make submissions, in forums and consultations, on behalf of the future generations protected by Article I-C. It cannot block a decision.
+> 6. **A Stewardship Fund.** Added 2026-11-21 at the custodian's request: the office has its own budget, a fixed minimum share of public spending set for each four-year cycle, which pays for outcome-based incentives for technological, ecological, and social improvement and for public education and advocacy on long-term priorities, and reserves at least one-third for basic research decided by peer review panels drawn by lot (§8). This is the one place the office allocates resources.
+> 7. **Terms longer than the political cycle,** so the office does not turn over with each selection.
+> 8. **Defaults:** a Yearly Stewardship Report on April 1, public plans on July 1, and other plans on October 1; a full Long-Term Outlook at least every fourth year, looking 5, 10, 25, 50, and 100 years ahead, with less detail the further out it looks, and further where a risk requires it; members serve one staggered term of eight years; plans and reports scaled by class, with Class A in full every year and Class C short-form every second year; at most five focus risks per plan; at least one-third of the fund for basic research, with at least 5 percent of that share for unconventional research and at least 5 percent for new teams and institutions; at least one-tenth set aside for prizes; incentive programs end no more than ten years after they open.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Five §5.1 What a System Charter States](../../core_05.000_charters.md#51-what-a-system-charter-states) would gain item 11, which §5.3 then carries into every Institutional Charter: "**Stewardship planning and evaluation:** how the Chartered Party plans for, and evaluates its progress against, the stewardship guidance that bears on it, by Charter Pointer to its stewardship plan and progress report where Subcore 7-[S] §7 requires them, or a statement that it does not plan against the outlook where §7 does not." Added 2026-11-21 at the custodian's request.
@@ -31,7 +32,7 @@ rewritten when the file is placed.
 > **Proposed Chapter Seven §4 entry:**
 > - **Public Stewardship Office:** looks decades ahead, publishes a Long-Term Outlook and stewardship guidance, and speaks for future generations.
 >     - The outlook and guidance are public, with their evidence and confidence.
->     - Public bodies, and every system or institution of Class C or higher, public or private, must submit stewardship plans that answer the outlook and report progress yearly; the office reviews and publishes them.
+>     - Public bodies, and every system or institution of Class C or higher, public or private, must submit stewardship plans that answer the outlook and report progress, with the burden scaled by class; the office reviews, rates, and publishes them.
 >     - It runs a Stewardship Fund, with its own protected budget, for incentives for technological, ecological, and social improvement, for public education and advocacy on the long term, and for basic research decided by peer review.
 >     - The governing authority must say in public how its strategy responds; the office cannot write anyone's plan, command, or block.
 >     - Members serve terms longer than the political cycle and cannot be removed for the content of their advice.
@@ -158,7 +159,7 @@ It looks further than 100 years where a risk requires it. Across these horizons,
 
 ### 7. Stewardship Plans and Progress Reports
 
-*In plain terms: those who run systems and institutions that matter to many sentients are already bound to act for those sentients. Acting for someone means planning for their future. So every public body, and every system or institution of Class C or higher, public or private, writes a plan that answers the outlook and reports each year on how it is doing. Plans follow a yearly cascade: the office reports in April, public bodies plan in response by July, and everyone else plans in response to both by October. The office checks and publishes the plans and reports; it never writes them.*
+*In plain terms: those who run systems and institutions that matter to many sentients are already bound to act for those sentients. Acting for someone means planning for their future. So every public body, and every system or institution of Class C or higher, public or private, writes a plan that answers the outlook and reports on how it is doing. The biggest bodies do the most: Class A plans and reports in full every year, while Class C writes a short plan and reports every second year. Plans follow a yearly cascade: the office reports in April, public bodies plan in response by July, and everyone else plans in response to both by October. The office checks and publishes the plans and reports; it never writes them.*
 
 Stewards already owe a duty to the sentients their system or institution affects under [Chapter Two §17.7 Duty to Represent Stakeholder Interests](../../core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests). Representing someone's interests includes planning for their future, and planning serves both [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims): [Continuity](../../core_00.000_preamble.md#continuity), because risks seen and planned for early can be survived, and [Flourishing](../../core_00.000_preamble.md#flourishing), because wellbeing over time depends on choices made well ahead. The duty to plan therefore follows the size of a body's effect on sentients, not whether it is public or private. Those who hold authority keep the choice of what to do.
 
@@ -178,9 +179,9 @@ The duty to plan falls on every public body and on every system or institution l
 
 #### 7.2 What a Stewardship Plan Contains
 
-Each stewardship plan answers the outlook for the body's own area and the sentients it affects. It sets out:
+Each stewardship plan answers the outlook for the body's own area and the sentients it affects. So that a plan steers rather than lists everything, each one focuses on a small number of material risks. It sets out:
 
-- the risks and priorities in the outlook and guidance that bear on the body or on the sentients it affects;
+- **the focus risks:** the register risks and priorities that the outlook marks as material for bodies of its kind and class, at most a published number (by default, five), together with any others the body chooses to add;
 - what the body will do about each, by when, and with what resources, or why it will not act, in concrete steps for the 5- and 10-year horizons and as a stated direction for the 25-, 50-, and 100-year horizons;
 - any other planning the body judges important to the sentients it represents;
 - how the stakeholders it represents were heard in making the plan, through the routes [Article XII-A](../../core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) requires;
@@ -195,7 +196,12 @@ Plans follow a yearly cascade, so that each layer can respond to the one before 
     - **April 1:** the office publishes its Yearly Stewardship Report under §4, including its review of the previous cycle's plans and reports;
     - **July 1:** the governing authority, its offices, departments, and agencies, each Independent Body, and every other public body that must plan publish their plans and progress reports in response, and the governing authority publishes its response to the guidance under §6;
     - **October 1:** every other system or institution of Class C or higher publishes its plan and progress report, in response to both the office's report and the public plans.
-- **Full plans and yearly updates:** in the cycle that follows a full Long-Term Outlook, each body publishes a full plan. In the other years it publishes an update that shows what changed and why, or confirms that nothing did, together with its yearly progress report in the published template.
+- **Proportional by class:** the planning burden rises with a body's effect on sentients, so it falls most on Class A and least on Class C:
+    - **Class A:** a full plan covering all five horizons after each full Long-Term Outlook; every year, an update that shows what changed and why, or confirms that nothing did, and a full progress report; rated every year;
+    - **Class B:** a full plan covering all five horizons after each full Long-Term Outlook; every year, a progress report, with an update only where something material has changed; rated every year;
+    - **Class C:** a short-form plan in the published template after each full Long-Term Outlook, giving concrete steps for the 5- and 10-year horizons and a stated direction only where the body chooses; a short progress report every second year, with an update only where something material has changed; rated on each plan and report it files;
+    - **Public bodies:** the governing authority and each Independent Body follow the Class A tier; any other public body follows the tier of its own class, or the Class B tier where it has none.
+- **Phased start:** in the first full cycle after the office's first Long-Term Outlook, public bodies and Class A and Class B systems and institutions plan; Class C systems and institutions join from the second full cycle.
 - **Setting the dates:** the dates above are defaults. An adopter may move them, but must keep the order and at least three months between steps.
 - **Newcomers and changes:** a body that becomes required to plan, by reaching Class C or otherwise, publishes its first plan on its next due date that falls at least six months later. A body whose responsibilities change materially updates its plan on its next due date.
 
@@ -230,7 +236,11 @@ Each review ends with an **alignment rating** on a five-point ladder, so that re
     - **3, adequately reasoned:** deals with the main risks; any departure from the guidance is explained with credible reasons; progress is partial but real;
     - **2, weak:** a material risk is ignored or unexplained, the steps could not deliver what the plan promises, or progress has stalled without a credible reason;
     - **1, absent or empty:** no plan or report, a token plan, or no progress and no explanation.
-- **Published with reasons:** each rating is published with the review that supports it, in the Yearly Stewardship Report, and the office applies the same published criteria to every body.
+- **Published with reasons:** each rating is published with the review that supports it, in the Yearly Stewardship Report.
+- **A published rubric, checked from outside:**
+    - the office publishes detailed criteria for each step of the ladder, with sample plans showing what earns each rating, and applies the same criteria to every body;
+    - each year an outside auditor rates a random sample of plans and reports on its own and compares its ratings with the office's;
+    - the auditor publishes where the two differ, and the office explains or corrects each material difference in its next Yearly Stewardship Report.
 - **Contesting the rating:** a body may ask the office to reconsider its rating within a published period after the report, and may then contest it before a forum under [Chapter Twenty-Two](../../core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases).
 - **A rating below 3 opens the body to forum contest:**
     - **Who may bring it:** any sentient the body represents or materially affects, or the office itself; for a public body, any sentient;
@@ -291,7 +301,9 @@ The office may help the public understand the long-term picture and argue for ac
 
 - The office may fund and run education on long-term risks and opportunities: teaching materials, courses, public talks, and plain-language guides to the outlook and the register.
 - The office may advocate in public for the long-term priorities in its outlook, and may support others who teach about them through open grants.
-- Advocacy argues for outcomes the outlook supports, with its evidence and confidence shown. It never supports or opposes a candidate, party, or faction in a contested selection, and it is paused during the quiet period before each vote, whose length the adopter sets.
+- Advocacy argues only for priorities stated in a published Long-Term Outlook or Yearly Stewardship Report, with their evidence and confidence shown. It never argues for or against a specific body's plan or rating.
+- Education and advocacy are run by a unit kept apart from the staff who review and rate plans: neither takes part in the other's work, so that a rating is never shaped by a campaign.
+- Advocacy never supports or opposes a candidate, party, or faction in a contested selection, and it is paused during the quiet period before each vote, whose length the adopter sets.
 - Anyone may answer the office's advocacy, and the office publishes significant responses alongside it.
 
 #### 8.4 Basic Research
@@ -321,7 +333,8 @@ Part of the fund pays for research whose value lies in understanding rather than
         - **3, solid:** sound and useful results, including a clear negative result;
         - **2, limited:** little new knowledge, or methods too weak to rely on;
         - **1, none:** the work was not done, or its results were not reported honestly;
-    - **A second look:** because the worth of basic research often shows only later, each grant is rated again five years after it ends, and the later rating stands alongside the first;
+    - **Kept light:** the review at the end of a grant is short, based on the researchers' own summary and published outputs;
+    - **A second look:** because the worth of basic research often shows only later, a random sample of grants, together with any grant whose researchers ask, is rated again five years after it ends, and the later rating stands alongside the first;
     - **Published and answerable:** every rating is published with its reasons, and the researchers may respond and ask for reconsideration;
     - **Findings are free:** a rating never rewards or penalizes results for being welcome or unwelcome to any authority, faction, or consensus.
 - **How ratings shape future funding:**
@@ -333,6 +346,8 @@ Part of the fund pays for research whose value lies in understanding rather than
 
 Every use of the fund is public, free of conflicts of interest, and judged by its results:
 
+- **A separate fund board:** the fund is run by a fund board within the office, with its own seats drawn by lot under the same rules as the office's decision seats. The board decides incentive programs and fund shares; review panels decide research grants under §8.4.
+- **A firewall:** no member or staff member who reviews or rates plans under §7 takes part in any fund decision, and no member or staff member of the fund board takes part in reviewing or rating plans. Neither side may see the other's pending decisions before they are published.
 - Every program, award, recipient, and amount is published.
 - No member, reviewer, or staff member takes part in a decision that concerns themselves or anyone with whom they have a financial, family, or professional tie.
 - **A cap per recipient:** so that the fund cannot become a channel for one favoured recipient, no single recipient may receive more than a set share of the fund in any four-year cycle:
