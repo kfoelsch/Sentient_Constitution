@@ -335,7 +335,10 @@ Every use of the fund is public, free of conflicts of interest, and judged by it
 
 - Every program, award, recipient, and amount is published.
 - No member, reviewer, or staff member takes part in a decision that concerns themselves or anyone with whom they have a financial, family, or professional tie.
-- No single recipient may receive more than a published share of the fund in any cycle.
+- **A cap per recipient:** so that the fund cannot become a channel for one favoured recipient, no single recipient may receive more than a set share of the fund in any four-year cycle:
+    - **The cap:** the adopter publishes the share in advance; by default it is one-twentieth (5 percent) of the fund for the cycle;
+    - **Counted together:** awards to a recipient and to any body it controls, or that controls it, count toward the same cap;
+    - **Prizes:** a prize won in open competition is paid in full even if it takes the winner over the cap, because its terms were published before anyone competed.
 - The office publishes a yearly fund report, with its Yearly Stewardship Report, showing what each program and grant cost and what it achieved.
 - Each Long-Term Outlook includes an evaluation of how well the fund's spending has served the long-term priorities.
 
