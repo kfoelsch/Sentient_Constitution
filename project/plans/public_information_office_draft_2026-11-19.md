@@ -147,7 +147,7 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 *In plain terms: the office answers to its methods. It has the standard protections every independent body gets, and its methods are checked by people outside the team that made the figures.*
 
-**Independent Body:** The Public Information Office is an Independent Body under [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
+**Independent Body:** The Public Information Office is an Independent Body under [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, and the Public Finance Office;
 - the protected decision-makers are its head and its chief methodologists. The methodologists are drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in statistics, research methods, or the field they will oversee, and the head is chosen from among them under that section's *Leadership* rule;
@@ -265,7 +265,7 @@ Every figure and finding the office publishes is rated on a ladder of nine rungs
 
 *In plain terms: the office handles more personal data than almost anyone. The general privacy rule for every independent body lives in Chapter Eight; this section adds what is special to statistics and research.*
 
-**General rule.** The office meets *Information handling and privacy* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition:
+**General rule.** The office meets *Information handling and privacy* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition:
 
 - data collected for statistics or research is used only for statistics or research, never for any other duty of the office or of anyone else; and
 - no statistical record may be used as evidence against any sentient it describes, whoever gave the data.
@@ -290,7 +290,7 @@ The office must not advocate for a policy, a party, or an outcome. It may explai
 
 *In plain terms: anyone can question a figure, a method, or a researcher choice, and an independent forum decides. The general audit and challenge rule for every independent body lives in Chapter Eight; this section says how it applies here.*
 
-**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). For this office:
+**General rule.** The office meets *Audit and challenge* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). For this office:
 
 - the audit of its work is an independent method audit of its methods and releases, and its spending is audited with the Public Finance Office's audit;
 - a challenge may concern a release, a method, a confidence rung, a researcher selection, or a refusal to publish; and
@@ -300,7 +300,7 @@ The office must not advocate for a policy, a party, or an outcome. It may explai
 
 *In plain terms: whoever pays the office could steer what it finds, so its money is protected the way every independent body's is: its own budget track, its own reserve for bad years, and a published rule for any cut. The general rule is in Chapter Eight; this section says how it applies here.*
 
-**General rule.** *Protected funding* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to the office in full, including its *Reserve* and *Shortfalls* requirements. The Public Finance Office chapter carries the mechanics; this section applies them to this office.
+**General rule.** *Protected funding* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to the office in full, including its *Reserve* and *Shortfalls* requirements. The Public Finance Office chapter carries the mechanics; this section applies them to this office.
 
 **Funding floor.** The office's floor:
 
@@ -324,6 +324,10 @@ A shortfall never suspends the *Methods first* or *Equal release* rules of §4. 
 
 ### 11. Proportional Scaling
 
-*In plain terms: a small community may share an office or borrow statistics from a larger one, as long as the work stays independent. The general rule for every independent body lives in Chapter Eight.*
+*In plain terms: a small community may share an office or borrow statistics from a larger one, as long as the work stays independent. The general rule for every independent body lives in Chapter Seven.*
 
-The *Scaling* rule in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies, including sharing administration under **CF-23.470 §5**. An adopter that uses another adopter's office, or its published figures, states the rung of each figure it relies on, and a figure measured for another population keeps its rung only for that population unless the method reviewer shows that it carries over.
+The *Scaling* rule in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to this office in full. For this office it also means:
+
+- **Sharing:** a small adopter may share this office with other adopters by published agreement, and may share administration under **CF-23.470 §5**.
+- **Lighter forms:** a small adopter may use another adopter's office, or its published figures, instead of producing every figure itself.
+- **Never scaled down:** an adopter that relies on another adopter's figures states the rung of each figure it relies on, and a figure measured for another population keeps its rung only for that population unless the method reviewer shows that it carries over.

@@ -161,7 +161,7 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 
 *In plain terms: the office is its own body, with the standard protections every independent body gets. On top of those, the people who decide funding may not sit on anything they fund.*
 
-**Independent Body:** The Public Finance Office is an Independent Body under [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
+**Independent Body:** The Public Finance Office is an Independent Body under [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of every forum family and body it funds, of the governing authority except for the budget-setting powers this chapter names and the duty to run the appointment draw, and of the Public Information Office;
 - the protected decision-makers are the members of its funding board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass the board's competency gate, which tests public accounting, budgeting, and audit skill;
@@ -281,7 +281,7 @@ The ledger follows [Article XVII](../../core_04.020_rights_part_c.md#article-xvi
 
 *In plain terms: whoever pays the payer can steer it. The general rule that protects the funding of every independent body lives in Chapter Eight; this section only says how it applies to the two offices.*
 
-The *Protected funding* requirement of [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to the Public Finance Office and the Public Information Office. For these two offices:
+The *Protected funding* requirement of [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to the Public Finance Office and the Public Information Office. For these two offices:
 
 - each office's floor is worked out under the same rules as §4, on its own track;
 - the Public Finance Office pays the Public Information Office's floor but may not set, reduce, delay, or condition it, and the protections of §5 apply to it in full; and
@@ -291,7 +291,7 @@ The *Protected funding* requirement of [Chapter Eight §11](../../core_07.000_in
 
 *In plain terms: the books are checked by someone outside the office, and anyone harmed by a funding decision can challenge it. The general rule for every independent body lives in Chapter Eight; this section adds what is special to the office that holds the purse.*
 
-**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). Its financial audit runs on the review cadence in [Chapter Twenty-Four §4](../../core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline), and its results are also published on the ledger.
+**General rule.** The office meets *Audit and challenge* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). Its financial audit runs on the review cadence in [Chapter Twenty-Four §4](../../core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline), and its results are also published on the ledger.
 
 **Grounds.** A funded body, a party, a researcher, or any sentient affected by a funding act may challenge it before an Integrity forum. The challenge may claim:
 
@@ -307,7 +307,7 @@ The *Protected funding* requirement of [Chapter Eight §11](../../core_07.000_in
 
 *In plain terms: money is set aside for bad years, so a dip in revenue or a budget fight does not shut down the forums. Every independent body must have such a reserve under Chapter Eight; this office holds the reserves of the bodies it pays, and adds the rules below.*
 
-**General rule.** The *Reserve* requirement of *Protected funding* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to every Independent Body this office pays. This section applies it to them, and extends the same protection to every other forum, remedy system, and body with a §4 floor.
+**General rule.** The *Reserve* requirement of *Protected funding* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to every Independent Body this office pays. This section applies it to them, and extends the same protection to every other forum, remedy system, and body with a §4 floor.
 
 **The fund.** The office keeps a **reserve fund** that holds the reserve of each body it pays, in its own ledger account, separate from the §4 floors, the §6 research reserve, and the §7 programs. Each body's share is shown in the §8 ledger, and a body's share is drawn only for that body.
 
@@ -340,7 +340,7 @@ The *Protected funding* requirement of [Chapter Eight §11](../../core_07.000_in
 
 *In plain terms: when money really runs short, the reserve is used first; after that, cuts are shared by a published rule, the most urgent protections are cut last, and every cut ends on a date. The general rule is in Chapter Eight; this section says how it applies to everything this office pays.*
 
-**General rule.** The *Shortfalls* requirement of *Protected funding* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to every Independent Body this office pays. This section applies it to them and extends it to every other body with a §4 floor.
+**General rule.** The *Shortfalls* requirement of *Protected funding* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to every Independent Body this office pays. This section applies it to them and extends it to every other body with a §4 floor.
 
 When actual revenue falls below the sum of the floors, payments on public debt already lawfully issued are made first, as the Public Debt Office chapter requires. The office must then, under that rule:
 
@@ -360,4 +360,8 @@ A shortfall does not excuse a forum's tier milestones. It is a fact the forum ma
 
 *In plain terms: a small community does not need a ministry. It still needs the money to be counted by someone other than the person spending it.*
 
-The *Scaling* rule in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies, including sharing buildings, clerks, and systems under **CF-23.470 §5**. For this office, it also means that even when hosting is merged, the Public Finance Office, the Public Information Office, the Public Monetary Office, and the Public Debt Office keep separate decision-makers, except that a small adopter may host this office with the Public Debt Office as that chapter allows.
+The *Scaling* rule in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to this office in full. For this office it also means:
+
+- **Sharing:** a small adopter may share this office with other adopters by published agreement, and may share buildings, clerks, and systems under **CF-23.470 §5**.
+- **Combining:** a small adopter may host this office with the Public Debt Office, as that chapter allows.
+- **Never scaled down:** even when hosting is merged, the Public Finance Office, the Public Information Office, the Public Monetary Office, and the Public Debt Office keep separate decision-makers, apart from the combination with the Public Debt Office above.

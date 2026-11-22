@@ -133,7 +133,7 @@ These reasons do not add duties. They explain why the duties in §3 to §14 take
 
 *In plain terms: the banks pay for their supervisor, but they cannot choose it, lean on it, or hire away its people.*
 
-**Independent Body:** The Bank Supervision Office is an Independent Body under [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
+**Independent Body:** The Bank Supervision Office is an Independent Body under [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, the Public Monetary Office, the Public Debt Office, the Public Finance Office, and every firm it licenses or supervises;
 - the protected decision-makers are the members of its supervision board and of its resolution panel, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in banking supervision, financial risk, accounting, or insolvency and resolution;
@@ -298,7 +298,7 @@ The register follows [Article XVII](../../core_04.020_rights_part_c.md#article-x
 
 *In plain terms: outsiders check the office's work, and a firm, a depositor, or anyone else harmed can challenge a decision. The general rule is in Chapter Eight; this section lists what a challenge to this office may claim.*
 
-**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition, the deposit-protection fund is audited separately each reporting year.
+**General rule.** The office meets *Audit and challenge* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition, the deposit-protection fund is audited separately each reporting year.
 
 **Grounds.** A challenge may claim:
 
@@ -317,6 +317,9 @@ Under *Scope of review* in Chapter Eight §11, a forum does not set a firm's req
 
 *In plain terms: a small community may share a supervisor with others, but depositors keep the same protection.*
 
-**Small adopters.** The *Scaling* rule in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies. A small adopter may share this office or its deposit-protection fund with other adopters by published agreement, provided each depositor keeps the protected amount and the payout period of this chapter, and the supervision and resolution panels stay separate. Where an adopter licenses few firms, it may use another adopter's office for supervision while keeping its own register.
+The *Scaling* rule in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to this office in full. For this office it also means:
 
-**Adopters that use another currency.** An adopter that uses a currency it does not issue keeps this chapter in full. It agrees with the issuer of that currency, by a published agreement, how emergency lending and system-wide tools will work for its firms.
+- **Sharing:** a small adopter may share this office or its deposit-protection fund with other adopters by published agreement.
+- **Lighter forms:** where an adopter licenses few firms, it may use another adopter's office for supervision while keeping its own register.
+- **Never scaled down:** each depositor keeps the protected amount and the payout period of this chapter, and the supervision and resolution panels stay separate.
+- **Adopters that use another currency:** an adopter that uses a currency it does not issue keeps this chapter in full. It agrees with the issuer of that currency, by a published agreement, how emergency lending and system-wide tools will work for its firms.

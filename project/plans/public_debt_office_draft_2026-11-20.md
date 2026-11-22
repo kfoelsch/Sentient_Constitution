@@ -123,7 +123,7 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 
 *In plain terms: the office borrows what it is told to borrow, but how it borrows is its own job, done by published rules.*
 
-**Independent Body:** The Public Debt Office is an Independent Body under [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
+**Independent Body:** The Public Debt Office is an Independent Body under [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, the Public Finance Office, the Public Monetary Office, and every buyer, dealer, or adviser it deals with;
 - the protected decision-makers are the members of its debt board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in public finance, debt markets, or financial risk management; and
@@ -237,7 +237,7 @@ The ledger follows [Article XVII](../../core_04.020_rights_part_c.md#article-xvi
 
 *In plain terms: outsiders check the books, and anyone harmed can challenge a decision. The general rule is in Chapter Eight; this section lists what a challenge to this office may claim.*
 
-**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition, the Public Information Office publishes an independent check of the ledger each cycle.
+**General rule.** The office meets *Audit and challenge* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition, the Public Information Office publishes an independent check of the ledger each cycle.
 
 **Grounds.** A challenge may claim:
 
@@ -253,6 +253,9 @@ Under *Scope of review* in Chapter Eight §11, a forum does not decide how much 
 
 *In plain terms: a small community, or one that uses someone else's money, still needs its debts counted by someone other than the borrower.*
 
-**Small adopters.** The *Scaling* rule in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies. A small adopter may host this office together with the Public Finance Office only if the debt decision-makers stay separate from the spending decision-makers. §6, §7, §8, and §9 apply in full.
+The *Scaling* rule in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to this office in full. For this office it also means:
 
-**Adopters that use another currency.** An adopter that uses a currency it does not issue needs no Public Monetary Office. It keeps this chapter in full.
+- **Sharing:** a small adopter may share this office with other adopters, or use another adopter's office, by published agreement.
+- **Combining:** a small adopter may host this office together with the Public Finance Office.
+- **Never scaled down:** the debt decision-makers stay separate from the spending decision-makers, and §6, §7, §8, and §9 apply in full.
+- **Adopters that use another currency:** an adopter that uses a currency it does not issue needs no Public Monetary Office. It keeps this chapter in full.
