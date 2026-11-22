@@ -594,7 +594,12 @@ Adopters must maintain documented, auditable, and challengeable role definitions
 - set participation terms; or
 - release evidence.
 
-The seat types and boundaries are fixed in **CI-26.205 §6** (*Seat catalog*), which a local role definition instantiates and may not enlarge. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine the system class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** with **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) lane design are applied through **CJS-30.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*) and its routed owner hooks.
+The seat types and boundaries are fixed in **CI-26.205 §6** (*Seat catalog*), which a local role definition instantiates and may not enlarge. Constitutional duties must not depend on single points of sentient-level failure.
+
+Staffing and backup scale with the class of the system, through class-scaled lane staffing and competency-redundancy interlocks:
+
+- **What they combine:** the system class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, with the lane design under **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*); and
+- **Where they are applied:** through **CJS-30.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*) and its routed owner hooks.
 
 <a id="72-development-pathways-and-incentives"></a>
 
@@ -624,7 +629,15 @@ Role definitions and competency rules under this section apply the [shared stewa
 
 #### 7.6 Related Rules
 
-This section is read with **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*); adopted governance implementation on role integrity; **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)** and **[CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*); and the institutional family (**[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*), **[CI-4.215](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity)** (*Resource stewardship and incentive integrity*), and related sections as applicable).
+This section is read with the following:
+
+- **Rights:** **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*);
+- **Governance implementation:** adopted governance implementation on role integrity;
+- **Systems corpus:** **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)** and **[CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*); and
+- **Institutions corpus:** the institutional family:
+    - **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*);
+    - **[CI-4.215](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity)** (*Resource stewardship and incentive integrity*); and
+    - related sections as applicable.
 
 ---
 

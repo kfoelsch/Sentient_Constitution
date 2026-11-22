@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-22T16:29:22+00:00",
+  "generated_at": "2026-11-22T17:05:52+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -1101,9 +1101,9 @@
       ]
     },
     "core_26.000_governance.md": {
-      "total_lines": 633,
+      "total_lines": 646,
       "sections": [
-        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":633,"anchor":null},
+        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":646,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":26,"line_end":56,"anchor":null},
         {"header":"2. Why the Constitutional Contract Exists","level":3,"line_start":57,"line_end":84,"anchor":"#2-why-the-constitutional-contract-exists"},
         {"header":"3. Authorization and Legitimacy of Governing Authority","level":3,"line_start":85,"line_end":301,"anchor":null},
@@ -1128,13 +1128,13 @@
         {"header":"6.1 Entitlement and Eligibility","level":4,"line_start":451,"line_end":495,"anchor":null},
         {"header":"6.2 Records, Gates, and Method Neutrality","level":4,"line_start":496,"line_end":517,"anchor":null},
         {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":518,"line_end":547,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
-        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":548,"line_end":633,"anchor":null},
-        {"header":"7.1 Authorized Roles and Competency","level":4,"line_start":585,"line_end":600,"anchor":"#71-authorized-roles-and-competency"},
-        {"header":"7.2 Development Pathways and Incentives","level":4,"line_start":601,"line_end":606,"anchor":"#72-development-pathways-and-incentives"},
-        {"header":"7.3 Real Authority, Not Symbols","level":4,"line_start":607,"line_end":612,"anchor":"#73-real-authority-not-symbols"},
-        {"header":"7.4 Portable Competence","level":4,"line_start":613,"line_end":618,"anchor":"#74-portable-competence"},
-        {"header":"7.5 One Standard for Every Steward","level":4,"line_start":619,"line_end":624,"anchor":"#75-one-standard-for-every-steward"},
-        {"header":"7.6 Related Rules","level":4,"line_start":625,"line_end":633,"anchor":"#76-related-rules"}
+        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":548,"line_end":646,"anchor":null},
+        {"header":"7.1 Authorized Roles and Competency","level":4,"line_start":585,"line_end":605,"anchor":"#71-authorized-roles-and-competency"},
+        {"header":"7.2 Development Pathways and Incentives","level":4,"line_start":606,"line_end":611,"anchor":"#72-development-pathways-and-incentives"},
+        {"header":"7.3 Real Authority, Not Symbols","level":4,"line_start":612,"line_end":617,"anchor":"#73-real-authority-not-symbols"},
+        {"header":"7.4 Portable Competence","level":4,"line_start":618,"line_end":623,"anchor":"#74-portable-competence"},
+        {"header":"7.5 One Standard for Every Steward","level":4,"line_start":624,"line_end":629,"anchor":"#75-one-standard-for-every-steward"},
+        {"header":"7.6 Related Rules","level":4,"line_start":630,"line_end":646,"anchor":"#76-related-rules"}
       ]
     },
     "core_27.000_non_regression.md": {
