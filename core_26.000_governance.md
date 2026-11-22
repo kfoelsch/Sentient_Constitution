@@ -12,7 +12,7 @@
 > Where this lives (navigation):
 > - **Constitutional owner:** this chapter defines legitimacy and stewardship requirements for governing authority.
 > - **Implementation owner:** designated implementation layers provide procedural oversight mechanics, staffing design, operational controls, and designated institutional mechanics.
-> - **Attached subcore files:** [Subcore 26-A](subcore_26.010_governance_disclosure.md#subcore-26-a-governance-disclosure) (*Governance Disclosure*) holds the minimum contents of the governance report every institution publishes. [Subcore 26-B](subcore_26.020_selection_funding.md#subcore-26-b-selection-funding) (*Selection Funding*) holds the standard detail of the selection-funding boundaries: the disclosure register, the protected-identity route, the anti-circumvention rules, and the default caps, limits, public-support design, and outcome-review measures. [Subcore 26-C](subcore_26.030_voting_entitlement.md#subcore-26-c-voting-entitlement) (*Voting Entitlement*) holds the standard detail of governance-voting entitlement: how the residence period is counted, the political-equality floor, and the rules for withholding and restoring durable political voice. [Subcore 26-D](subcore_26.040_sortition_integrity.md#subcore-26-d-sortition-integrity) (*Sortition Integrity*) holds the standard detail of sortition: the uses it may serve, the integrity rules a mechanism must publish, and the operational safeguards. [Subcore 26-E](subcore_26.050_role_holders_interpretive_bodies.md#subcore-26-e-role-holders-and-interpretive-bodies) (*Role Holders and Interpretive Bodies*) holds the published rules for role holders (qualification, succession, rotation, removal, and post-service limits) and the composition controls for bodies that interpret the Constitution.
+> - **Attached subcore files:** [Subcore 26-A](subcore_26.010_governance_disclosure.md#subcore-26-a-governance-disclosure) (*Governance Disclosure*) holds the minimum contents of the governance report every institution publishes. [Subcore 26-B](subcore_26.020_selection_funding.md#subcore-26-b-selection-funding) (*Selection Funding*) holds the standard detail of the selection-funding boundaries: the disclosure register, the protected-identity route, the anti-circumvention rules, and the default caps, limits, public-support design, and outcome-review measures. [Subcore 26-C](subcore_26.030_voting_entitlement.md#subcore-26-c-voting-entitlement) (*Voting Entitlement*) holds the full rules of governance-voting entitlement that Chapter Twenty-Six §6.1 states in one line each: entitlement and its suspension, the separation from stakeholder voice, the bar on age rules, joining the electorate and counting the residence period, the political-equality floor, and the rules for withholding and restoring durable political voice. [Subcore 26-D](subcore_26.040_sortition_integrity.md#subcore-26-d-sortition-integrity) (*Sortition Integrity*) holds the standard detail of sortition: the uses it may serve, the integrity rules a mechanism must publish, and the operational safeguards. [Subcore 26-E](subcore_26.050_role_holders_interpretive_bodies.md#subcore-26-e-role-holders-and-interpretive-bodies) (*Role Holders and Interpretive Bodies*) holds the published rules for role holders (qualification, succession, rotation, removal, and post-service limits) and the composition controls for bodies that interpret the Constitution.
 > - **Anti-relocation rule:** constitutional legitimacy thresholds remain here; workflow detail belongs to owner layers.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line uses the same layout as Chapter Four: it appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Where a subsection opens with lead-in sentences before a list (for example, **§§ 3.1–3.2** after the mechanism-family lead-in, section 5 before its **Chapter Three** stewardship-definition index bullets, and section 5.1 before its equality-floor bullets), the gloss sits immediately before the list or the block it most closely tracks. Reader-facing gloss only.
@@ -471,81 +471,17 @@ Where an adopter's legitimacy mechanism includes collective voting or an analogo
 
 *In plain terms: eligible sentients get a real vote when the rules say they do — and on the big questions (who governs and how), each voice counts equally. Weighting by impact can apply inside an already-authorized system for many decisions, but not as a trick to dilute the foundational vote. Calendar age and substrate class cannot be used to weight those foundational choices. A sentient votes after a residence period of one year, one sentient has one vote however many places it runs in, and creating voters to swing a vote is a violation by whoever does it. A standing lock may pause ordinary voting on a gated pathway, but standing games cannot permanently silence someone; the gravest misconduct may withhold foundational voice until restitution is actually complete — not as vague retaliation.*
 
-This subsection implements **Chapter Four**, **Article X-B** (*Governance Participation and Voting Entitlement*). Its subsections are:
+This subsection implements **Chapter Four**, **Article X-B** (*Governance Participation and Voting Entitlement*). Its full rules are in [Subcore 26-C](subcore_26.030_voting_entitlement.md#subcore-26-c-voting-entitlement) (*Voting Entitlement*). Every sentient is guaranteed the following:
 
-- [§6.1.1 Governance-Voting Entitlement](#611-governance-voting-entitlement): who is entitled to vote in governance;
-- [§6.1.2 Stakeholder Voice Is Separate](#612-stakeholder-voice-is-separate): how that differs from stakeholder voice;
-- [§6.1.3 No Age Disqualification](#613-no-age-disqualification): the bar on age rules;
-- [§6.1.4 Joining the Electorate](#614-joining-the-electorate): how a sentient joins the electorate;
-- [§6.1.5 Political-Equality Floor for Foundational Constitutional Choice](#615-political-equality-floor-for-foundational-constitutional-choice): equal weight in foundational choice; and
-- [§6.1.6 Durable Political-Voice Floor](#616-durable-political-voice-floor): the limits on withholding political voice.
-
-<a id="611-governance-voting-entitlement"></a>
-
-##### 6.1.1 Governance-Voting Entitlement
-
-**Sentients** are entitled to participate in **governance voting** on these terms:
-
-- **When the entitlement applies:** when published eligibility criteria are met and no applicable [standing lock](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) blocks the **governance-voting** pathway.
-- **Contestable criteria:** eligibility criteria remain contestable under **Article XX-A** (*Standing Distinction*) and **Article XX-C** (*Contribution, Competency Bars, and Gated-Pathway Eligibility*), together with any designated incorporated criteria. Those criteria may not narrow constitutional limits.
-- **Other binding collective choice:** the same entitlement applies to comparable legitimacy-mechanism **binding collective choice** procedures. Such procedures must be conducted under the adopter's **documented legitimacy mechanism** (section 3 of this chapter).
-- **Suspension or limitation:** suspension or limitation of that participation requires an applicable standing lock on the **governance-voting** pathway, recorded under [Chapter Eighteen §4.1 Definition and Attachment](core_18.000_violation_consequences.md#41-definition-and-attachment).
-
-<a id="612-stakeholder-voice-is-separate"></a>
-
-##### 6.1.2 Stakeholder Voice Is Separate
-
-**governance-voting** and stake-weighted stakeholder voice are kept apart, each with its own lock:
-
-- **Not part of governance voting:** **governance-voting** does **not** include stake-weighted stakeholder voice inside an already-authorized system, institution, or bounded decision domain.
-- **Its own lock:** those Stakeholder System Participation pathways use the **stakeholder-participation** lock under [Chapter Eighteen §3.2 Prevention — General Standing Locks](core_18.000_violation_consequences.md#32-prevention--general-standing-locks).
-- **Abuse of stakeholder voice:** verified corruption, capture, false-stake abuse, or coercive gaming of stakeholder voice triggers the [Stakeholder-Participation Standing Lock](core_18.000_violation_consequences.md#45-special-locks) under [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks).
-- **Locks do not cross over:** a **stakeholder-participation** lock does not by itself strip **governance-voting** or **Foundational Constitutional Choice**, and a **governance-voting** lock does not by itself strip stake-weighted stakeholder voice.
-
-<a id="613-no-age-disqualification"></a>
-
-##### 6.1.3 No Age Disqualification
-
-Eligibility may not turn on age, openly or in disguise:
-
-- **No age bar:** **calendar age or life stage alone** must not disqualify eligibility.
-- **Residence is not an age rule:** the residence period in [§6.1.4 Joining the Electorate](#614-joining-the-electorate) is not an age rule: it applies to every sentient alike.
-- **Competency requirements:** competency, capacity, or role-fitness requirements must satisfy **Chapter Three, including its subcore** ([**Substantive Fairness**](subcore_03.090_band_participation.md#substantive-fairness), [**Proportionality**](subcore_03.070_band_accountability.md#proportionality), and [**Necessity**](subcore_03.070_band_accountability.md#necessity)) and must not operate as **disguised age discrimination**.
-- **Suspension and restoration:** suspension and restoration of this participation **track attachment and lifting of the applicable standing lock** under the same constitutional and incorporated criteria.
-
-<a id="614-joining-the-electorate"></a>
-
-##### 6.1.4 Joining the Electorate
-
-A sentient joins the electorate on the same terms as every other sentient:
-
-- **Residence period:** A sentient enters the electorate for **governance voting**, including **Foundational Constitutional Choice**, after a **residence period** of one continuous year.
-  - The residence period is the same for every sentient, whatever its age, substrate, or origin, and an adopter may not lengthen or shorten it. It is a waiting period only: it delays no other right, and the sentient is protected under the Chapter Four Rights Floor from the start.
-  - When residence begins, and how it is counted for branches, merged sentients, and time before adoption, are set out in [Subcore 26-C §3 Residence Period](subcore_26.030_voting_entitlement.md#3-residence-period).
-- **One subject, one vote:** Each distinct subject holds one vote. Running in more than one place, or acting through branches, does not add votes.
-- **Protection first, count before voting:** An entity whose sentience status or subject count is still being decided under **Article VI-B** (*Sentience-Status Adjudication Floor*) is protected under the Chapter Four Rights Floor from the start. It enters the electorate when its status and count are settled and its residence period is complete. Time in residence while the matter was pending counts.
-- **Creation to shift a vote:** Creating sentients, or inducing branches to elect to be distinct, in order to change the outcome of a vote is non-compliant conduct by the creator under Chapter Three [*Instantiation Consent*](subcore_03.090_band_participation.md#instantiation-consent). The created sentients keep their own entitlement under [§6.1 Entitlement and Eligibility](#61-entitlement-and-eligibility).
-<a id="615-political-equality-floor-for-foundational-constitutional-choice"></a>
-
-##### 6.1.5 Political-Equality Floor for Foundational Constitutional Choice
-
-**Foundational Constitutional Choice** (Chapter Three) covers decisions about who holds governing authority, what the legitimacy mechanism is, and that authority's scope and durable terms. Those questions are governed by a **political-equality floor**: within the community entitled to participate, each sentient has equal participation weight.
-
-- Weighting by impact, dependency, standing, or comparable factors applies only to decisions *within* governance already authorized for a specified system, institution, or bounded decision domain. It does **not** apply to the foundational authorization of the legitimacy mechanism itself.
-- Calendar age, substrate class, and lineage are never participation-weight factors in foundational constitutional choice.
-- How foundational questions are told apart from ordinary binding choice is set out in [Subcore 26-C §4 Political-Equality Floor](subcore_26.030_voting_entitlement.md#4-political-equality-floor).
-
-<a id="616-durable-political-voice-floor"></a>
-
-##### 6.1.6 Durable Political-Voice Floor
-
-This floor guards against disenfranchisement. A standing lock on the **governance-voting** pathway may suspend ordinary governance-voting entitlement. It must not be used as a **durable-political-voice** disqualification vector.
-
-- **Anti-constitutional misconduct — restitution precondition:** A **final designation** of **anti-constitutional misconduct** for a **Violation Axis slot 7, 8, or 9** finding under **Chapter Twenty** (*Anti-Constitutional Misconduct*) withholds **durable political voice** — including participation in **Foundational Constitutional Choice** — until **full restitution** is satisfied: proportionate [**Redress and Remediation**](subcore_03.070_band_accountability.md#redress-and-remediation) (Chapter Three), including **restitution** for material harm from the offense where owed, is **fully discharged** as finally determined under **Chapter Twenty-Two** and applicable incorporated procedure, consistent with **Chapter Twenty** due-process safeguards and **Article XXI-A** (*Justice Objective and Scope*).
-- **Good faith and restoration:** Poverty, disability, exile, loss of substrate, or valuation uncertainty alone must never keep voice withheld where good-faith restoration is under way. Where full discharge is impossible, partial or conditional restoration milestones may restore voice. Bad-faith delay or evasion by the sentenced party never compels early restoration.
-- **Limits on any restriction:** A restriction of participation in foundational constitutional choice must be individualized, necessary, proportionate, narrowly tailored to the misconduct, and paired with a real restoration pathway. Restrictions that sweep in broad categories or track protected characteristics are non-compliant.
-- The full rules on good-faith inability, partial and conditional restoration, and the tests a restriction must meet are in [Subcore 26-C §5 Restitution Precondition and Restoration](subcore_26.030_voting_entitlement.md#5-restitution-precondition-and-restoration).
-- Cross-reference: **Chapter Four, **Article XX** (*Standing and Participation Status*)**; **Chapter Twenty** (*Anti-Constitutional Misconduct*) for **final ACMD** on qualifying **Violation Axis slot 7, 8, or 9** findings and safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause.
+- **Entitlement:** a sentient who meets published, contestable eligibility criteria votes in governance and in comparable binding collective choice, and only a standing lock on the **governance-voting** pathway may suspend or limit that vote ([Subcore 26-C §3 Governance-Voting Entitlement](subcore_26.030_voting_entitlement.md#3-governance-voting-entitlement)).
+- **Stakeholder voice is separate:** stake-weighted stakeholder voice inside an authorized system is not governance voting, and a lock on one does not by itself strip the other ([Subcore 26-C §4 Stakeholder Voice Is Separate](subcore_26.030_voting_entitlement.md#4-stakeholder-voice-is-separate)).
+- **No age disqualification:** calendar age or life stage alone never disqualifies, and competency, capacity, or role-fitness requirements must not operate as disguised age discrimination ([Subcore 26-C §5 No Age Disqualification](subcore_26.030_voting_entitlement.md#5-no-age-disqualification)).
+- **Residence period:** a sentient enters the electorate for **governance voting**, including **Foundational Constitutional Choice**, after a **residence period** of one continuous year. It is the same for every sentient, whatever its age, substrate, or origin, an adopter may not lengthen or shorten it, and it delays no other right: the sentient is protected under the Chapter Four Rights Floor from the start ([Subcore 26-C §6 Joining the Electorate](subcore_26.030_voting_entitlement.md#6-joining-the-electorate)).
+- **One subject, one vote:** each distinct subject holds one vote, and running in more than one place or acting through branches does not add votes.
+- **Protection first:** an entity whose sentience status or subject count is still being decided is protected under the Chapter Four Rights Floor from the start, and enters the electorate when its status and count are settled and its residence period is complete.
+- **No creating voters:** creating sentients, or inducing branches to elect to be distinct, to change the outcome of a vote is non-compliant conduct by the creator, and the created sentients keep their own entitlement.
+- **Political-equality floor:** in **Foundational Constitutional Choice** (who holds governing authority, under what legitimacy mechanism, with what scope and durable terms), each sentient has equal participation weight. Weighting by impact, dependency, or standing applies only within governance already authorized, never to the foundational authorization itself, and calendar age, substrate class, and lineage are never weighting factors ([Subcore 26-C §7 Political-Equality Floor](subcore_26.030_voting_entitlement.md#7-political-equality-floor)).
+- **Durable political voice:** a standing lock may suspend ordinary governance-voting entitlement but must never be used to take away political voice for good. Only a final designation of anti-constitutional misconduct for a **Violation Axis slot 7, 8, or 9** finding under **Chapter Twenty** withholds durable political voice, and only until restitution is complete. Poverty, disability, exile, loss of substrate, or valuation uncertainty alone never keeps voice withheld where good-faith restoration is under way. Where full discharge is impossible, partial or conditional restoration milestones may restore voice, and bad-faith delay or evasion by the sentenced party never compels early restoration. Any restriction must be individualized, necessary, proportionate, narrowly tailored to the misconduct, and paired with a real restoration pathway, and restrictions that sweep in broad categories or track protected characteristics are non-compliant ([Subcore 26-C §8 Durable Political-Voice Floor and Restoration](subcore_26.030_voting_entitlement.md#8-durable-political-voice-floor-and-restoration)).
 
 #### 6.2 Records, Gates, and Method Neutrality
 <details>
