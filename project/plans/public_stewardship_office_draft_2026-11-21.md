@@ -19,7 +19,7 @@ rewritten when the file is placed.
 > 4. **A voice for those not yet here.** The office may make submissions, in forums and consultations, on behalf of the future generations protected by Article I-C. It cannot block a decision.
 > 5. **A Stewardship Fund.** Added 2026-11-21 at the custodian's request: the office has its own budget, a fixed minimum share of public spending set for each four-year cycle, which pays for outcome-based incentives for technological, ecological, and social improvement and for public education and advocacy on long-term priorities, and reserves at least one-third for basic research decided by peer review panels drawn by lot (§8). This is the one place the office allocates resources.
 > 6. **Terms longer than the political cycle,** so the office does not turn over with each selection.
-> 7. **Defaults:** a Yearly Stewardship Report on April 1, public plans on July 1, and other plans on October 1; a full Long-Term Outlook at least every fourth year, looking 5, 10, 25, 50, and 100 years ahead, with less detail the further out it looks, and further where a risk requires it; members serve one staggered term of eight years; a full plan after each outlook and a yearly update and progress report in between; at least one-third of the fund for basic research; incentive programs end no more than ten years after they open.
+> 7. **Defaults:** a Yearly Stewardship Report on April 1, public plans on July 1, and other plans on October 1; a full Long-Term Outlook at least every fourth year, looking 5, 10, 25, 50, and 100 years ahead, with less detail the further out it looks, and further where a risk requires it; members serve one staggered term of eight years; a full plan after each outlook and a yearly update and progress report in between; at least one-third of the fund for basic research; at least one-tenth set aside for prizes; incentive programs end no more than ten years after they open.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Five §5.1 What a System Charter States](../../core_05.000_charters.md#51-what-a-system-charter-states) would gain item 11, which §5.3 then carries into every Institutional Charter: "**Stewardship planning and evaluation:** how the Chartered Party plans for, and evaluates its progress against, the stewardship guidance that bears on it, by Charter Pointer to its stewardship plan and progress report where Subcore 7-[S] §7 requires them, or a statement that it does not plan against the outlook where §7 does not." Added 2026-11-21 at the custodian's request.
@@ -265,7 +265,7 @@ The fund has its own budget, protected from the reactions of those the office ad
 
 - The adopter sets the fund as a fixed minimum share of public spending, published in advance.
 - The fund is set for each four-year outlook cycle at a time, so that it cannot be cut in response to the office's outlook, guidance, or reviews.
-- Unspent money stays in the fund until the end of the following cycle, then returns to the public budget.
+- Unspent money stays in the fund until the end of the following cycle, then returns to the public budget, except money committed to a prize under §8.2.
 - The Public Finance Office holds and accounts for the fund, and its accounts are audited like any other public money.
 
 #### 8.2 Improvement Incentives
@@ -276,7 +276,12 @@ The office may offer incentives for technological, ecological, and social improv
 - **Examples:**
     - technological: cleaner or more efficient production, and more resilient critical systems;
     - ecological: restoration of damaged ecosystems, and a lower footprint under Article I-B;
-    - social: better health, wider access to the survival floor, stronger communities, and less exclusion;
+    - health: targeted treatments and preventions for specific diseases, such as a cure, a vaccine, or a cheaper diagnostic, especially for diseases that markets neglect;
+    - social: better public health, wider access to the survival floor, stronger communities, and less exclusion;
+- **Prize reserve:**
+    - a published share of the fund, by default at least one-tenth, is set aside for prizes;
+    - money committed to a prize stays in the reserve until the prize is won or its end date passes, even across cycles, so that large prizes for hard targets, such as a cure, are credible;
+    - a prize states its target, how a winner is verified, and its amount before it opens, and a winning treatment or prevention must be made available on fair terms to the sentients who need it;
 - **Outcomes, not favourites:** each incentive pays for a measured result and is open to any sentient, institution, or system that can deliver it, whatever method it uses;
 - **End dates:** each incentive program states its target, its budget, and an end date no more than ten years after it opens, and is evaluated in public before any renewal.
 
