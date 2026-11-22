@@ -108,8 +108,16 @@ A proposal for binding policy must be evaluated before the final decision when i
 A proposal below the threshold is evaluated when any of the following asks:
 
 - the governing authority or the proposal's sponsor;
-- a published share of members of the authorizing community, by petition; or
-- a forum, where the proposal bears on a matter before it.
+- a published share of members of the authorizing community, by petition;
+- a forum, where the proposal bears on a matter before it; or
+- any sentient who asks a question that uncovers a gap: a likely material effect, on a group, a right, the survival floor, or public money, that no evaluation or published record of the proposal addresses.
+
+**Gap questions:** a question that may uncover a gap may be asked about any proposal, including one already evaluated:
+
+- **Answered in public:** the office answers each question in public within a published time;
+- **Where there is a gap:** the office evaluates the proposal, or adds to an existing evaluation, at least in short form, covering the effect the question raised;
+- **Where there is none:** the office says where the effect is already addressed, or why it is not likely to be material;
+- **No flooding:** the office may answer questions that raise the same point together, and need not answer again a point it has already answered.
 
 **Emergency measures:** a measure adopted under a declared emergency may take effect before evaluation. The office evaluates it within 90 days after it takes effect, and the evaluation is a required input to any renewal of the measure.
 
