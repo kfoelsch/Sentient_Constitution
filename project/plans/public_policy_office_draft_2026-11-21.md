@@ -51,7 +51,7 @@ rewritten when the file is placed.
 
 **Scope:** The office:
 
-- evaluates proposals for binding policy that meet the materiality threshold in §4;
+- evaluates proposals for binding policy that meet the materiality threshold in §4.1, or are asked for under §4.2 and §4.3;
 - reviews adopted policy at its set review date;
 - publishes every evaluation and review with its data, methods, and confidence;
 - creates and publishes open decision-making models that anyone may use, check, and improve (§9); and
@@ -97,6 +97,10 @@ The office is an Independent Body and meets [Chapter Seven §3 What Makes a Body
 
 *In plain terms: every proposal that would make a real difference to many sentients, to rights, or to public money gets an evaluation before it is decided.*
 
+This section sets which proposals must be evaluated (§4.1), who may ask for an evaluation of any other proposal (§4.2), how a question that uncovers a gap is handled (§4.3), and how emergency measures are evaluated (§4.4).
+
+#### 4.1 The Materiality Threshold
+
 A proposal for binding policy must be evaluated before the final decision when it meets the published materiality threshold. At a minimum, the threshold covers a proposal that would:
 
 - **Rights:** restrict or condition a right under the Chapter Four Rights Floor;
@@ -105,6 +109,8 @@ A proposal for binding policy must be evaluated before the final decision when i
 - **Reach:** materially affect more than a published share of the members of the authorizing community; or
 - **Irreversibility:** have effects that cannot practicably be undone.
 
+#### 4.2 Evaluation on Request
+
 A proposal below the threshold is evaluated when any of the following asks:
 
 - the governing authority or the proposal's sponsor;
@@ -112,14 +118,18 @@ A proposal below the threshold is evaluated when any of the following asks:
 - a forum, where the proposal bears on a matter before it; or
 - any sentient who asks a question that uncovers a gap: a likely material effect, on a group, a right, the survival floor, or public money, that no evaluation or published record of the proposal addresses.
 
-**Gap questions:** a question that may uncover a gap may be asked about any proposal, including one already evaluated:
+#### 4.3 Gap Questions
+
+A question that may uncover a gap may be asked about any proposal, including one already evaluated:
 
 - **Answered in public:** the office answers each question in public within a published time;
 - **Where there is a gap:** the office evaluates the proposal, or adds to an existing evaluation, at least in short form, covering the effect the question raised;
 - **Where there is none:** the office says where the effect is already addressed, or why it is not likely to be material;
 - **No flooding:** the office may answer questions that raise the same point together, and need not answer again a point it has already answered.
 
-**Emergency measures:** the emergency rules of [Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](../../core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) and [Chapter Six §8 Emergency and Urgent Action](../../core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) govern every emergency measure. This office adds evidence to them; it does not replace their review or their clocks:
+#### 4.4 Emergency Measures
+
+The emergency rules of [Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](../../core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) and [Chapter Six §8 Emergency and Urgent Action](../../core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) govern every emergency measure. This office adds evidence to them; it does not replace their review or their clocks:
 
 - **Before evaluation:** a measure taken under those rules may take effect before the office evaluates it. Its default expiry, independent review, and restore-challenge window run as Chapter Twenty-Three §5.1 sets them.
 - **Evaluation before any continuation:** a measure that would continue past its default expiry must carry the continuation burden of Chapter Twenty-Three §5.1: continuing necessity, proportionality, and the absence of a less-restrictive feasible alternative. The office publishes an evaluation addressing those three points, with the measure's likely effects and costs, before the decision to continue is made. Where time is too short for a full evaluation, it publishes a short-form evaluation first and the full evaluation within 90 days after the measure took effect.
