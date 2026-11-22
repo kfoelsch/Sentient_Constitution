@@ -111,10 +111,26 @@ The office publishes a **Long-Term Outlook** at least every four years, and befo
 
 It looks further than 100 years where a risk requires it. Across these horizons, at a minimum the outlook covers:
 
-- **Trends:** the likely course of population, wellbeing, survival-floor access, and the condition of [Productive Capacity](../../subcore_03.075_band_continuity.md#productive-capacity);
-- **Ecology:** ecological limits and footprint, as Article I-B requires to be visible;
+- **Population and wellbeing:**
+    - population size, age structure, and movement;
+    - wellbeing, health, and survival-floor access; and
+    - skills and education, and whether they match the work likely to be needed;
+- **Technology:**
+    - emerging technologies: what they could do, how soon they may be ready, what they may cost, and the risks they bring;
+    - declining technologies: what is replacing them, which assets may be stranded, and which workers and communities will need help through the change;
+- **Resources:**
+    - resource uses that are rising, and how long supply can keep up;
+    - resource uses that are falling, and what that frees up;
+    - reserves and rates of depletion, substitutes, and the share that is reused or recycled;
+- **Economy:**
+    - cost trends for essentials such as energy, food, housing, key materials, and labour;
+    - economic cycles: where the economy stands in the cycle, and the likely risk, depth, and timing of downturns;
+    - shifts in work and employment, including work taken over by automation; and
+    - the condition of [Productive Capacity](../../subcore_03.075_band_continuity.md#productive-capacity), including the ageing and replacement of infrastructure;
+- **Ecology:** ecological limits and footprint, as Article I-B requires to be visible, including climate, biodiversity, soil, and water;
 - **Critical systems:** the resilience of systems whose failure would be catastrophic or hard to recover from;
-- **Obligations to the future:** public debt, unfunded commitments, and depleting resources that later generations will carry;
+- **Obligations to the future:** public debt, unfunded commitments, maintenance left undone, and depleting resources that later generations will carry;
+- **Opportunities:** developments that could markedly improve life, and what it would take to reach them;
 - **Scenarios:** more than one plausible future, including severe ones, and what would tell them apart early; and
 - **Confidence:** how sure the office is of each part, on the confidence ladder the Public Information Office uses.
 
