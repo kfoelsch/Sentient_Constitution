@@ -571,21 +571,60 @@ How these rules meet other chapters and implementation text is set out in [Subco
 
 Material stewardship and operation require **sentients** who can **exercise** authority **competently**, not only **structures** that distribute it on paper.
 
-- **Authorized-role and competency requirement:** Adopters must maintain documented, auditable, and challengeable role definitions and competency or succession capacity proportionate to impact and classification. A role definition states, act by act, which seats the role holds under [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement), and states its operational boundary. Those seats are who may:
-  - request;
-  - verify;
-  - record;
-  - hear a challenge;
-  - command containment;
-  - set participation terms; or
-  - release evidence.
-  The seat types and boundaries are fixed in **CI-26.205 §6** (*Seat catalog*), which a local role definition instantiates and may not enlarge. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine the system class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** with **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) lane design are applied through **CJS-30.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*) and its routed owner hooks.
-- **Open stewardship-development pathways and incentive integrity requirement:** Qualified sentients must have non-arbitrary stewardship-development pathways into progressively consequential stewardship responsibilities, and stewardship incentives must reward constitutional care without burdening good-faith safety or integrity escalation.
-- **Anti-symbolism rule:** Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, stewardship-development pathway access implementation, and incentive-governance mechanics are governed by [**CI-26.205**](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*) and **CI-4.215** (*Resource stewardship and incentive integrity*).
-- **Portable competence:** The no-single-point-of-failure requirement above carries out [Chapter Two §17.6 Portable Competence](core_02.040_stewardship_capacity_principles.md#176-portable-competence). Coverage, exercised handoffs, and cross-functional understanding are scaled to impact and classification; rotation is a tool, not a duty.
-- **Shared stewardship standard:** Role definitions and competency rules under this section apply the [shared stewardship standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) in **Chapter Two §17.1** (*Shared Stewardship Standard*) and [Chapter Two §17.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure). They must not create a substrate-specific duty stack, and they must not exempt human operators from the costly cases that bind AI stewards. Verified failures record on the same Chapter Fifteen axes; [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) binds both.
+This section's subsections are:
 
-**Cross-reference (section 7):** **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*); adopted governance implementation on role integrity; **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)** and **[CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*); and the institutional family (**[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*), **[CI-4.215](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity)** (*Resource stewardship and incentive integrity*), and related sections as applicable).
+- [§7.1 Authorized Roles and Competency](#71-authorized-roles-and-competency): documented roles, the seats they hold, and no single point of failure;
+- [§7.2 Development Pathways and Incentives](#72-development-pathways-and-incentives): fair paths into responsibility, and incentives that reward care;
+- [§7.3 Real Authority, Not Symbols](#73-real-authority-not-symbols): titles and advisory forums are not enough;
+- [§7.4 Portable Competence](#74-portable-competence): coverage and handoffs scaled to impact;
+- [§7.5 One Standard for Every Steward](#75-one-standard-for-every-steward): the same duties for every kind of steward; and
+- [§7.6 Related Rules](#76-related-rules): where the detail lives.
+
+<a id="71-authorized-roles-and-competency"></a>
+
+#### 7.1 Authorized Roles and Competency
+
+Adopters must maintain documented, auditable, and challengeable role definitions and competency or succession capacity proportionate to impact and classification. A role definition states, act by act, which seats the role holds under [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement), and states its operational boundary. Those seats are who may:
+
+- request;
+- verify;
+- record;
+- hear a challenge;
+- command containment;
+- set participation terms; or
+- release evidence.
+
+The seat types and boundaries are fixed in **CI-26.205 §6** (*Seat catalog*), which a local role definition instantiates and may not enlarge. Constitutional duties must not depend on single points of sentient-level failure. Class-scaled lane staffing and competency-redundancy interlocks that combine the system class under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** with **[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) lane design are applied through **CJS-30.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*) and its routed owner hooks.
+
+<a id="72-development-pathways-and-incentives"></a>
+
+#### 7.2 Development Pathways and Incentives
+
+Qualified sentients must have non-arbitrary stewardship-development pathways into progressively consequential stewardship responsibilities, and stewardship incentives must reward constitutional care without burdening good-faith safety or integrity escalation.
+
+<a id="73-real-authority-not-symbols"></a>
+
+#### 7.3 Real Authority, Not Symbols
+
+Titles or advisory forums do not satisfy this section where real authority and competency are required for materially binding decisions. Detailed role taxonomy, qualification/succession controls, stewardship-development pathway access implementation, and incentive-governance mechanics are governed by [**CI-26.205**](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*) and **CI-4.215** (*Resource stewardship and incentive integrity*).
+
+<a id="74-portable-competence"></a>
+
+#### 7.4 Portable Competence
+
+The no-single-point-of-failure requirement in [§7.1 Authorized Roles and Competency](#71-authorized-roles-and-competency) carries out [Chapter Two §17.6 Portable Competence](core_02.040_stewardship_capacity_principles.md#176-portable-competence). Coverage, exercised handoffs, and cross-functional understanding are scaled to impact and classification; rotation is a tool, not a duty.
+
+<a id="75-one-standard-for-every-steward"></a>
+
+#### 7.5 One Standard for Every Steward
+
+Role definitions and competency rules under this section apply the [shared stewardship standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) in **Chapter Two §17.1** (*Shared Stewardship Standard*) and [Chapter Two §17.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure). They must not create a substrate-specific duty stack, and they must not exempt human operators from the costly cases that bind AI stewards. Verified failures record on the same Chapter Fifteen axes; [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) binds both.
+
+<a id="76-related-rules"></a>
+
+#### 7.6 Related Rules
+
+This section is read with **Article XII-C** (*Internal Roles, Accountability, and Due-Process Requirements*); adopted governance implementation on role integrity; **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)** and **[CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*); and the institutional family (**[CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*), **[CI-4.215](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity)** (*Resource stewardship and incentive integrity*), and related sections as applicable).
 
 ---
 

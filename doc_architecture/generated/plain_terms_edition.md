@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **589** of **997** headings carry a gloss (59%).
+Coverage: **589** of **1003** headings carry a gloss (59%).
 
 ## Contents
 
@@ -45,7 +45,7 @@ Coverage: **589** of **997** headings carry a gloss (59%).
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.020_rights_part_c.md` (33/34 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.030_rights_part_d.md` (31/32 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.040_rights_part_e.md` (13/14 glossed)
-- [CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_26.000_governance.md` (15/26 glossed)
+- [CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_26.000_governance.md` (15/32 glossed)
 - [CHAPTER TWENTY-SEVEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-seven-non-regression-and-substantive-amendment-validity) — `core_27.000_non_regression.md` (6/7 glossed)
 - [CHAPTER TWENTY-EIGHT: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-eight-amendment-ratification-and-procedural-validity) — `core_28.000_amendment_ratification.md` (21/22 glossed)
 - [CHAPTER TWENTY-NINE: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-twenty-nine-expansion-supremacy-and-external-legal-orders) — `core_29.000_expansion_supremacy.md` (14/15 glossed)
@@ -5509,7 +5509,7 @@ non-compliant systems and property can be remediated during Adoption Transition 
 
 ## CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP
 
-Source file: [`core_26.000_governance.md`](../../core_26.000_governance.md) · 15/26 headings glossed
+Source file: [`core_26.000_governance.md`](../../core_26.000_governance.md) · 15/32 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -5660,6 +5660,42 @@ serious collective decisions need a real process — hear **affected** **parties
 power must sit with **stewards** and **officers** who can actually do the job — with backups, fair paths to responsibility, and incentives that reward integrity — not with hollow titles or decorative committees.
 
 [Source](../../core_26.000_governance.md#7-authorized-roles-competency-development-and-contribution)
+
+##### 7.1 Authorized Roles and Competency
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_governance.md#71-authorized-roles-and-competency)
+
+##### 7.2 Development Pathways and Incentives
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_governance.md#72-development-pathways-and-incentives)
+
+##### 7.3 Real Authority, Not Symbols
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_governance.md#73-real-authority-not-symbols)
+
+##### 7.4 Portable Competence
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_governance.md#74-portable-competence)
+
+##### 7.5 One Standard for Every Steward
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_governance.md#75-one-standard-for-every-steward)
+
+##### 7.6 Related Rules
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_26.000_governance.md#76-related-rules)
 
 ## CHAPTER TWENTY-SEVEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY
 

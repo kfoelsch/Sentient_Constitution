@@ -3,7 +3,7 @@
   "effective_date": "2026-10-21",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "heading_count": 997,
+  "heading_count": 1003,
   "glossed_count": 589,
   "files": [
     {
@@ -1210,7 +1210,7 @@
     {
       "file": "core_26.000_governance.md",
       "title": "CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP",
-      "heading_count": 26,
+      "heading_count": 32,
       "glossed_count": 15,
       "sections": [
         {"file":"core_26.000_governance.md","level":1,"title":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","anchor":"chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship","line":1,"gloss":null,"gloss_line":null},
@@ -1238,7 +1238,13 @@
         {"file":"core_26.000_governance.md","level":4,"title":"6.1 Entitlement and Eligibility","anchor":"61-entitlement-and-eligibility","line":451,"gloss":"eligible sentients get a real vote when the rules say they do — and on the big questions (who governs and how), each voice counts equally. Weighting by impact can apply inside an already-authorized system for many decisions, but not as a trick to dilute the foundational vote. Calendar age and substrate class cannot be used to weight those foundational choices. A sentient votes after a residence period of one year, one sentient has one vote however many places it runs in, and creating voters to swing a vote is a violation by whoever does it. A standing lock may pause ordinary voting on a gated pathway, but standing games cannot permanently silence someone; the gravest misconduct may withhold foundational voice until restitution is actually complete — not as vague retaliation.","gloss_line":472},
         {"file":"core_26.000_governance.md","level":4,"title":"6.2 Records, Gates, and Method Neutrality","anchor":"62-records-gates-and-method-neutrality","line":496,"gloss":"rules must be clear before the fact, records **must be open to verification**, high-stakes choices need legitimacy gates — and many voting methods are allowed if **participants** can understand them and push back.","gloss_line":508},
         {"file":"core_26.000_governance.md","level":4,"title":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","anchor":"63-decision-resolution-requirements-for-binding-stakeholder-choice","line":518,"gloss":"serious collective decisions need a real process — hear **affected** **parties** out first, bring in independent eyes when stakes are high, publish how weighting works, handle rights conflicts openly, treat \"emergency\" as narrow and temporary, and leave the door open when reality diverges from the plan.","gloss_line":536},
-        {"file":"core_26.000_governance.md","level":3,"title":"7. Authorized Roles, Competency Development, and Contribution","anchor":"7-authorized-roles-competency-development-and-contribution","line":548,"gloss":"power must sit with **stewards** and **officers** who can actually do the job — with backups, fair paths to responsibility, and incentives that reward integrity — not with hollow titles or decorative committees.","gloss_line":570}
+        {"file":"core_26.000_governance.md","level":3,"title":"7. Authorized Roles, Competency Development, and Contribution","anchor":"7-authorized-roles-competency-development-and-contribution","line":548,"gloss":"power must sit with **stewards** and **officers** who can actually do the job — with backups, fair paths to responsibility, and incentives that reward integrity — not with hollow titles or decorative committees.","gloss_line":570},
+        {"file":"core_26.000_governance.md","level":4,"title":"7.1 Authorized Roles and Competency","anchor":"71-authorized-roles-and-competency","line":585,"gloss":null,"gloss_line":null},
+        {"file":"core_26.000_governance.md","level":4,"title":"7.2 Development Pathways and Incentives","anchor":"72-development-pathways-and-incentives","line":601,"gloss":null,"gloss_line":null},
+        {"file":"core_26.000_governance.md","level":4,"title":"7.3 Real Authority, Not Symbols","anchor":"73-real-authority-not-symbols","line":607,"gloss":null,"gloss_line":null},
+        {"file":"core_26.000_governance.md","level":4,"title":"7.4 Portable Competence","anchor":"74-portable-competence","line":613,"gloss":null,"gloss_line":null},
+        {"file":"core_26.000_governance.md","level":4,"title":"7.5 One Standard for Every Steward","anchor":"75-one-standard-for-every-steward","line":619,"gloss":null,"gloss_line":null},
+        {"file":"core_26.000_governance.md","level":4,"title":"7.6 Related Rules","anchor":"76-related-rules","line":625,"gloss":null,"gloss_line":null}
       ]
     },
     {
