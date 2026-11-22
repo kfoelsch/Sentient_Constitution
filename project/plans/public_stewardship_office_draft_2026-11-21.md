@@ -395,6 +395,9 @@ The fund gives the office money to spend, not power over those it pays:
 
 *In plain terms: a small community still needs someone looking ahead, but can share the work.*
 
-- An adopter below a published size may share the office with other adopters, or combine it with its Public Policy Office, provided the long-term work keeps its own seats, its eight-year terms, and its own publications.
-- A small adopter may pool its Stewardship Fund with other adopters, and may run its basic-research share through a shared review panel.
-- A small adopter may publish a shorter outlook and use short-form plans and reports, but never drops the risk register, the plans of its public bodies, or the governing authority's duty to respond.
+The *Scaling* rule in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to this office in full. For this office it also means:
+
+- **Sharing:** a small adopter may share the office with other adopters by published agreement, pool its Stewardship Fund with theirs, and run its basic-research share through a shared review panel.
+- **Combining:** a small adopter may combine the office with its Public Policy Office, provided the long-term work keeps its own seats, its eight-year terms, and its own publications.
+- **Lighter forms:** a small adopter may publish a shorter outlook and use short-form plans and reports.
+- **Never scaled down:** the risk register, the plans and reports required under §7, the alignment ratings, and the governing authority's duty to respond apply in full.

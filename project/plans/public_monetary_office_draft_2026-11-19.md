@@ -150,7 +150,7 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 
 *In plain terms: the office answers to its target and its rules, not to whoever is in power this year.*
 
-**Independent Body:** The Public Monetary Office is an Independent Body under [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
+**Independent Body:** The Public Monetary Office is an Independent Body under [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, the Public Finance Office, the Public Debt Office, and every bank or payment provider it deals with;
 - the protected decision-makers are the members of its decision board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in monetary economics, financial stability, or payment systems. They serve long, staggered, non-renewable terms; and
@@ -186,7 +186,7 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 - by rules that apply alike to every firm in the same class, never to favor or punish a firm; and
 - with a published decision and reasons, on the same calendar and transparency rules as its other decisions.
 
-**Bank supervision body.** Supervision of individual banks and payment providers, deposit protection, and the resolution of a failing bank belong to a separate Independent Body under [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), established by its own chapter (drafted as the [Bank Supervision Office](bank_supervision_office_draft_2026-11-20.md)). That chapter must at least provide that:
+**Bank supervision body.** Supervision of individual banks and payment providers, deposit protection, and the resolution of a failing bank belong to a separate Independent Body under [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), established by its own chapter (drafted as the [Bank Supervision Office](bank_supervision_office_draft_2026-11-20.md)). That chapter must at least provide that:
 
 - the body applies the office's system-wide tools to individual firms, and sets firm-specific requirements under published standards;
 - deposit protection is funded by charges on the protected firms, held in a fund apart from public revenue;
@@ -226,7 +226,7 @@ Purchases of assets other than public debt must be broad and neutral across sect
 
 *In plain terms: the office decides in the open, its members cannot profit from what they know, it answers in public hearings, and no one can order it what to do. The general rules for every independent body live in Chapter Eight; this section adds what is special to this office.*
 
-**General rules.** The office meets *Open decisions*, *Market-moving information*, and *No override* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), with their defaults: minutes within three weeks, transcripts after five years, a quiet period of one week, and an outside review of its forecasting and analysis at least every five years. The office's decisions move asset prices, so the quiet period and the bar on holdings apply to it in full. In addition:
+**General rules.** The office meets *Open decisions*, *Market-moving information*, and *No override* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), with their defaults: minutes within three weeks, transcripts after five years, a quiet period of one week, and an outside review of its forecasting and analysis at least every five years. The office's decisions move asset prices, so the quiet period and the bar on holdings apply to it in full. In addition:
 
 - the vote of each member is published on the day of the decision;
 - at least twice a year, the office appears in an open public session of the governing authority, and its annual report covers its target, its financial-stability work, its balance sheet, and its accounts; and
@@ -287,7 +287,7 @@ The ledger follows [Article XVII](../../core_04.020_rights_part_c.md#article-xvi
 
 *In plain terms: outsiders check the books, and anyone harmed can challenge a decision. The general rule is in Chapter Eight; this section lists what a challenge to this office may claim.*
 
-**General rule.** The office meets *Audit and challenge* in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition, the Public Information Office publishes an independent check of the ledger each cycle.
+**General rule.** The office meets *Audit and challenge* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition, the Public Information Office publishes an independent check of the ledger each cycle.
 
 **Grounds.** A challenge may claim:
 
@@ -331,6 +331,8 @@ The office may not lend to a firm that is insolvent. Total emergency lending is 
 
 *In plain terms: a small community can share these functions, as long as no one ends up printing money for their own spending.*
 
-**Small adopters.** The *Scaling* rule in [Chapter Eight §11](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies. Even when hosting is merged, the §6 bar on direct financing, §8, and the §10 ledger apply in full, and this office stays separate from the Public Debt Office.
+The *Scaling* rule in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to this office in full. For this office it also means:
 
-**Adopters that use another currency.** An adopter that uses a currency it does not issue needs no Public Monetary Office. Its public debt is governed by the Public Debt Office chapter, and its financial-stability and supervision duties under §5 go to the bank supervision body or are shared with the issuer of the currency it uses by published agreement.
+- **Sharing:** a small adopter may share these functions with other adopters by published agreement.
+- **Never scaled down:** even when hosting is merged, the §6 bar on direct financing, §8, and the §10 ledger apply in full, and this office stays separate from the Public Debt Office.
+- **Adopters that use another currency:** an adopter that uses a currency it does not issue needs no Public Monetary Office. Its public debt is governed by the Public Debt Office chapter, and its financial-stability and supervision duties under §5 go to the bank supervision body or are shared with the issuer of the currency it uses by published agreement.

@@ -168,6 +168,9 @@ A short-form evaluation, using the same headings, may be used for a proposal bel
 
 *In plain terms: a small community still gets honest evaluations, but with a lighter process.*
 
-- An adopter below a published size may share an office with other adopters under a published agreement, or use the short-form evaluation for every proposal.
-- Sharing an office never lets one adopter direct its evaluation of another's proposal.
+The *Scaling* rule in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to this office in full. For this office it also means:
 
+- **Sharing:** a small adopter may share an office with other adopters under a published agreement. Sharing never lets one adopter direct the office's evaluation of another adopter's proposal.
+- **Combining:** a small adopter may combine this office with its Public Stewardship Office, as that chapter allows.
+- **Lighter forms:** a small adopter may use the short-form evaluation for every proposal.
+- **Never scaled down:** every evaluation and review is still published, and the governing authority's duty to respond or explain applies in full.
