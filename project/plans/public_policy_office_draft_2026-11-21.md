@@ -16,7 +16,8 @@ rewritten when the file is placed.
 > 1. **Advice, not a veto.** The office evaluates; the governing authority decides. The authority must publish a reasoned response to every material finding ("respond or explain"), but it may proceed against the office's advice.
 > 2. **Evaluation before the final decision** for every proposal above a published materiality threshold, and a **review after adoption** at a date set when the policy is adopted.
 > 3. **No ranking of political aims.** The office tests whether a proposal is likely to achieve the aim its sponsor states, at what cost, and to whom. It does not say which aims are better.
-> 4. **Defaults:** evaluation within 60 days of a request (30 days for a short-form evaluation); an emergency measure evaluated within 90 days after it takes effect; a review at the policy's set date and no later than five years after adoption.
+> 4. **Open decision-making models.** Added 2026-11-22 at the custodian's request ("creates and publishes open models for decision making. We want the foundations of its work to be as widely available as possible"): the office publishes its models, data, and tools under an open licence, keeps every evaluation reproducible, takes outside improvements, and may not rest an evaluation on a closed model (§9).
+> 5. **Defaults:** evaluation within 60 days of a request (30 days for a short-form evaluation); an emergency measure evaluated within 90 days after it takes effect; a review at the policy's set date and no later than five years after adoption.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) would list the office with the one-line guarantees in the box below.
@@ -26,6 +27,7 @@ rewritten when the file is placed.
 > **Proposed Chapter Seven §4 entry:**
 > - **Public Policy Office:** evaluates, before the final decision, what a materially consequential proposal is likely to do in practice, and reviews it again after adoption.
 >     - Every evaluation is public, with its data, methods, and confidence.
+>     - The office creates and publishes open decision-making models, free for anyone to use, check, and improve.
 >     - The office uses the same methods for every sponsor and does not rank political aims.
 >     - The governing authority must answer every material finding in writing; the office cannot block a decision.
 
@@ -51,7 +53,8 @@ rewritten when the file is placed.
 
 - evaluates proposals for binding policy that meet the materiality threshold in §4;
 - reviews adopted policy at its set review date;
-- publishes every evaluation and review with its data, methods, and confidence; and
+- publishes every evaluation and review with its data, methods, and confidence;
+- creates and publishes open decision-making models that anyone may use, check, and improve (§9); and
 - reports each year on how accurate its past evaluations turned out to be.
 
 **Out of scope:** The office does not decide any policy, rank political aims, endorse or oppose a sponsor, draft legislation for one side, or decide any matter that belongs to a forum.
@@ -156,7 +159,29 @@ A short-form evaluation, using the same headings, may be used for a proposal bel
 - **No advocacy:** the office and its members do not campaign for or against a proposal, a sponsor, or a party.
 - **No pressure:** any attempt to direct a conclusion, delay a publication, or tie funding to a result is a violation, reported to the Integrity Forum.
 
-### 9. Records, Accuracy, and Challenge
+### 9. Open Decision-Making Models
+
+*In plain terms: the office builds the tools it uses to predict what a policy will do, and gives them away. Anyone can run them, check them, improve them, or use them to test their own idea before proposing it.*
+
+The office creates and publishes **open decision-making models**: the models, data, and tools on which its evaluations rest. The foundations of its work are made as widely available as possible, so that anyone can check an evaluation and anyone can use the same tools to test a proposal of their own.
+
+- **What is published:**
+    - every model the office uses to estimate a policy's effects, costs, and distribution, with its code, documentation, and assumptions;
+    - the input data, as Type O data under [Subcore 4-A §10.3 Type O](../../subcore_04.050_data_types.md#103-type-o-open-public-oversight-baseline-disclosure-data), with protected types replaced by the strongest feasible Type O substitute under the standard data-type rules of [Subcore 4-A §10 Data Classifications](../../subcore_04.050_data_types.md#10-data-classifications); and
+    - plain-language guides, and a simple public way to run the main models without programming skills.
+- **Open to all:**
+    - everything is published under an open licence that lets anyone use, copy, change, and share it, for any lawful purpose, without fee;
+    - the models run on freely available software; and
+    - other adopters may use them freely.
+- **Reproducible:** each evaluation names the model version and data it used, so that anyone can run it again and get the same results.
+- **Open to improvement:**
+    - anyone may propose a correction or improvement to a model;
+    - the office reviews each proposal and publishes what it accepted or declined, and why; and
+    - a change to a model is a change of method under §8, published before it is used.
+- **No closed foundations:** no evaluation may rest on a model, tool, or data set that cannot be published this way. Where the office relies on outside work, it uses openly licensed work or rebuilds it openly.
+- **Advice, not command:** a model's output informs an evaluation; it never binds a decision, and the evaluation still states its confidence under §5.
+
+### 10. Records, Accuracy, and Challenge
 
 *In plain terms: everything the office publishes can be checked, and once a year it shows how its past predictions turned out.*
 
@@ -164,7 +189,7 @@ A short-form evaluation, using the same headings, may be used for a proposal bel
 - **Accuracy report:** each year the office publishes how its past estimates compared with outcomes, and what it changed as a result.
 - **Challenge:** any sentient may ask for a correction of an error of fact or method. Capture or manipulation of the office may be raised with the Integrity Forum.
 
-### 10. Proportional Scaling
+### 11. Proportional Scaling
 
 *In plain terms: a small community still gets honest evaluations, but with a lighter process.*
 
