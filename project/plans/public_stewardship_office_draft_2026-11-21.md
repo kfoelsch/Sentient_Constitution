@@ -257,37 +257,64 @@ Planning and evaluation in response to stewardship guidance is a standing item i
 
 *In plain terms: the office has its own budget. It uses part of it to reward those who make technology cleaner, safer, or better, help the natural world recover, or make life in the community fairer and healthier. It also teaches the public about the long-term challenges ahead and makes the case for acting on them. It uses the rest to pay for basic research, the curiosity-driven science that does not pay off right away but has driven long-term growth. The office sets the goals and the rules; it never picks winners behind closed doors.*
 
-The office runs a **Stewardship Fund** so that it can do more than advise: it can pay for progress on the long-term priorities in the outlook.
+The office runs a **Stewardship Fund** so that it can do more than advise: it can pay for progress on the long-term priorities in the outlook. The subsections below set the budget (§8.1), the three things it pays for: improvement incentives (§8.2), public education and advocacy (§8.3), and basic research (§8.4), and the rules that keep its awards fair and accountable (§8.5) and its reach limited (§8.6).
 
-- **The budget:**
-    - The adopter sets the fund as a fixed minimum share of public spending, published in advance.
-    - The fund is set for each four-year outlook cycle at a time, so that it cannot be cut in response to the office's outlook, guidance, or reviews.
-    - Unspent money stays in the fund until the end of the following cycle, then returns to the public budget.
-    - The Public Finance Office holds and accounts for the fund, and its accounts are audited like any other public money.
-- **Improvement incentives:** the office may offer incentives for technological, ecological, and social improvement that answer priorities in the outlook or risks in the register:
-    - **Forms:** prizes for reaching a published performance target, commitments to pay for each unit of a proven improvement delivered, matching grants, and support for adopting improvements that already exist;
-    - **Examples:**
-        - technological: cleaner or more efficient production, and more resilient critical systems;
-        - ecological: restoration of damaged ecosystems, and a lower footprint under Article I-B;
-        - social: better health, wider access to the survival floor, stronger communities, and less exclusion;
-    - **Outcomes, not favourites:** each incentive pays for a measured result and is open to any sentient, institution, or system that can deliver it, whatever method it uses;
-    - **End dates:** each incentive program states its target, its budget, and an end date no more than ten years after it opens, and is evaluated in public before any renewal.
-- **Public education and advocacy for the long term:**
-    - The office may fund and run education on long-term risks and opportunities: teaching materials, courses, public talks, and plain-language guides to the outlook and the register.
-    - The office may advocate in public for the long-term priorities in its outlook, and may support others who teach about them through open grants.
-    - Advocacy argues for outcomes the outlook supports, with its evidence and confidence shown. It never supports or opposes a candidate, party, or faction in a contested selection, and it is paused during the quiet period before each vote, whose length the adopter sets.
-    - Anyone may answer the office's advocacy, and the office publishes significant responses alongside it.
-- **Basic research:**
-    - At least one-third of the fund is reserved for basic research: open-ended inquiry that seeks understanding rather than a product.
-    - The office sets the share and the broad fields only. Individual grants are decided on merit by review panels of qualified researchers drawn by lot, and the office may not choose, veto, or steer individual projects or their findings.
-    - Grants do not depend on any expected commercial or political return.
-    - Results and data are published openly, except where publication would create a grave hazard to life or safety; any such withholding is described in public with its reason and reviewed at least every two years.
-- **Fair awards:**
-    - Every program, award, recipient, and amount is published.
-    - No member, reviewer, or staff member takes part in a decision that concerns themselves or anyone with whom they have a financial, family, or professional tie.
-    - No single recipient may receive more than a published share of the fund in any cycle.
-- **Accountability:** the office publishes a yearly fund report, with its Yearly Stewardship Report, showing what each program and grant cost and what it achieved. Each Long-Term Outlook includes an evaluation of how well the fund's spending has served the long-term priorities.
-- **Limits:** the fund is the only money the office may allocate. It may not attach conditions that direct a recipient's lawful activity beyond the measured result being paid for, and it may not use the fund to reward or penalize anyone for the content of a plan, report, or submission under §7.
+#### 8.1 The Budget
+
+The fund has its own budget, protected from the reactions of those the office advises:
+
+- The adopter sets the fund as a fixed minimum share of public spending, published in advance.
+- The fund is set for each four-year outlook cycle at a time, so that it cannot be cut in response to the office's outlook, guidance, or reviews.
+- Unspent money stays in the fund until the end of the following cycle, then returns to the public budget.
+- The Public Finance Office holds and accounts for the fund, and its accounts are audited like any other public money.
+
+#### 8.2 Improvement Incentives
+
+The office may offer incentives for technological, ecological, and social improvement that answer priorities in the outlook or risks in the register:
+
+- **Forms:** prizes for reaching a published performance target, commitments to pay for each unit of a proven improvement delivered, matching grants, and support for adopting improvements that already exist;
+- **Examples:**
+    - technological: cleaner or more efficient production, and more resilient critical systems;
+    - ecological: restoration of damaged ecosystems, and a lower footprint under Article I-B;
+    - social: better health, wider access to the survival floor, stronger communities, and less exclusion;
+- **Outcomes, not favourites:** each incentive pays for a measured result and is open to any sentient, institution, or system that can deliver it, whatever method it uses;
+- **End dates:** each incentive program states its target, its budget, and an end date no more than ten years after it opens, and is evaluated in public before any renewal.
+
+#### 8.3 Public Education and Advocacy for the Long Term
+
+The office may help the public understand the long-term picture and argue for acting on it, within limits that keep it out of contested selections:
+
+- The office may fund and run education on long-term risks and opportunities: teaching materials, courses, public talks, and plain-language guides to the outlook and the register.
+- The office may advocate in public for the long-term priorities in its outlook, and may support others who teach about them through open grants.
+- Advocacy argues for outcomes the outlook supports, with its evidence and confidence shown. It never supports or opposes a candidate, party, or faction in a contested selection, and it is paused during the quiet period before each vote, whose length the adopter sets.
+- Anyone may answer the office's advocacy, and the office publishes significant responses alongside it.
+
+#### 8.4 Basic Research
+
+Part of the fund pays for research whose value lies in understanding rather than in any near-term product:
+
+- At least one-third of the fund is reserved for basic research: open-ended inquiry that seeks understanding rather than a product.
+- The office sets the share and the broad fields only. Individual grants are decided on merit by review panels of qualified researchers drawn by lot, and the office may not choose, veto, or steer individual projects or their findings.
+- Grants do not depend on any expected commercial or political return.
+- Results and data are published openly, except where publication would create a grave hazard to life or safety; any such withholding is described in public with its reason and reviewed at least every two years.
+
+#### 8.5 Fair Awards and Accountability
+
+Every use of the fund is public, free of conflicts of interest, and judged by its results:
+
+- Every program, award, recipient, and amount is published.
+- No member, reviewer, or staff member takes part in a decision that concerns themselves or anyone with whom they have a financial, family, or professional tie.
+- No single recipient may receive more than a published share of the fund in any cycle.
+- The office publishes a yearly fund report, with its Yearly Stewardship Report, showing what each program and grant cost and what it achieved.
+- Each Long-Term Outlook includes an evaluation of how well the fund's spending has served the long-term priorities.
+
+#### 8.6 Limits
+
+The fund gives the office money to spend, not power over those it pays:
+
+- The fund is the only money the office may allocate.
+- The office may not attach conditions that direct a recipient's lawful activity beyond the measured result being paid for.
+- The office may not use the fund to reward or penalize anyone for the content of a plan, report, or submission under §7.
 
 ### 9. Long-Horizon Review of Proposals
 
