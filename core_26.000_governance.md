@@ -12,7 +12,7 @@
 > Where this lives (navigation):
 > - **Constitutional owner:** this chapter defines legitimacy and stewardship requirements for governing authority.
 > - **Implementation owner:** designated implementation layers provide procedural oversight mechanics, staffing design, operational controls, and designated institutional mechanics.
-> - **Attached subcore files:** [Subcore 26-A](subcore_26.010_governance_disclosure.md#subcore-26-a-governance-disclosure) (*Governance Disclosure*) holds the minimum contents of the governance report every institution publishes. [Subcore 26-B](subcore_26.020_selection_funding.md#subcore-26-b-selection-funding) (*Selection Funding*) holds the standard detail of the selection-funding boundaries: the disclosure register, the protected-identity route, the anti-circumvention rules, and the default caps, limits, public-support design, and outcome-review measures. [Subcore 26-C](subcore_26.030_voting_entitlement.md#subcore-26-c-voting-entitlement) (*Voting Entitlement*) holds the full rules of governance-voting entitlement that Chapter Twenty-Six §6.1 states in one line each: entitlement and its suspension, the separation from stakeholder voice, the bar on age rules, joining the electorate and counting the residence period, the political-equality floor, and the rules for withholding and restoring durable political voice. [Subcore 26-D](subcore_26.040_sortition_integrity.md#subcore-26-d-sortition-integrity) (*Sortition Integrity*) holds the standard detail of sortition: the uses it may serve, the integrity rules a mechanism must publish, and the operational safeguards. [Subcore 26-E](subcore_26.050_role_holders_interpretive_bodies.md#subcore-26-e-role-holders-and-interpretive-bodies) (*Role Holders and Interpretive Bodies*) holds the published rules for role holders (qualification, succession, rotation, removal, and post-service limits) and the composition controls for bodies that interpret the Constitution.
+> - **Attached subcore files:** [Subcore 26-A](subcore_26.010_governance_disclosure.md#subcore-26-a-governance-disclosure) (*Governance Disclosure*) holds the minimum contents of the governance report every institution publishes. [Subcore 26-B](subcore_26.020_selection_funding.md#subcore-26-b-selection-funding) (*Selection Funding*) holds the standard detail of the selection-funding boundaries: the disclosure register, the protected-identity route, the anti-circumvention rules, and the default caps, limits, public-support design, and outcome-review measures. [Subcore 26-C](subcore_26.030_voting_entitlement.md#subcore-26-c-voting-entitlement) (*Voting Entitlement*) holds the full rules of governance-voting entitlement that Chapter Twenty-Six §6.1 states in one line each: entitlement and its suspension, the separation from stakeholder voice, the bar on age rules, joining the electorate and counting the residence period, the political-equality floor, and the rules for withholding and restoring durable political voice. [Subcore 26-D](subcore_26.040_sortition_integrity.md#subcore-26-d-sortition-integrity) (*Sortition Integrity*) holds the standard detail of sortition: the uses it may serve, the integrity rules a mechanism must publish, and the operational safeguards. [Subcore 26-E](subcore_26.050_role_holders_interpretive_bodies.md#subcore-26-e-role-holders-and-interpretive-bodies) (*Role Holders and Interpretive Bodies*) holds the published rules for role holders (qualification, succession, rotation, removal, and post-service limits) and the composition controls for bodies that interpret the Constitution. [Subcore 26-F](subcore_26.060_binding_collective_choice.md#subcore-26-f-binding-collective-choice) (*Binding Collective Choice*) holds the full rules behind §6.2 and §6.3: what is published in advance, how outcomes are verified, the binding gate, method neutrality, the decision-resolution requirements, the Charter Pointer rule, and related rules elsewhere.
 > - **Anti-relocation rule:** constitutional legitimacy thresholds remain here; workflow detail belongs to owner layers.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line uses the same layout as Chapter Four: it appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Where a subsection opens with lead-in sentences before a list (for example, **§§ 3.1–3.2** after the mechanism-family lead-in, section 5 before its **Chapter Three** stewardship-definition index bullets, and section 5.1 before its equality-floor bullets), the gloss sits immediately before the list or the block it most closely tracks. Reader-facing gloss only.
@@ -507,32 +507,12 @@ This subsection implements **Chapter Four**, **Article X-B** (*Governance Partic
 
 *In plain terms: rules must be clear before the fact, records **must be open to verification**, high-stakes choices need legitimacy gates — and many voting methods are allowed if **participants** can understand them and push back.*
 
-This subsection sets out the official record, gate, and method-neutrality requirements for governance mechanisms:
+This subsection sets the requirements for the outcome records, gates, and methods of governance mechanisms. Their full text is in [Subcore 26-F §3 Records, Gates, and Method Neutrality](subcore_26.060_binding_collective_choice.md#3-records-gates-and-method-neutrality). Every sentient is guaranteed the following:
 
-- **Publication and ex ante clarity:** Published rules must identify:
-  - scope;
-  - electorate or weighting model; and
-  - quorum or threshold logic.
-  They should identify the method for recording assent before the decision event where feasible.
-- **Integrity and verifiability requirement:** Outcome records must support independent verification proportionate to impact. Material integrity defects must trigger review under Chapter Four and owner-layer procedures. Those defects include:
-  - eligibility;
-  - custody;
-  - tally; and
-  - coercion resistance.
-- **Binding-effect gate:** No materially high-impact collective choice is binding unless:
-  - **Article XII-A** (*Stakeholder System Participation and Representation*) legitimacy gates are satisfied;
-  - **dissent** and **alternative** recording duties are satisfied; and
-  - **contest** pathways are satisfied.
-- **Method neutrality with comprehensibility:** The following methods are all constitutionally compatible when they satisfy core constraints:
-  - single-mark;
-  - ordinal;
-  - approval; and
-  - score/range.
-  Those constraints are:
-  - proportionality;
-  - meaningful agency;
-  - transparency; and
-  - challenge rights.
+- **Rules in advance:** the scope of the decision, the electorate or weighting model, and the quorum or threshold logic are published before the decision.
+- **Verifiable outcomes:** outcome records support independent verification in proportion to impact, and a material integrity defect triggers review.
+- **Binding gate:** no materially high-impact collective choice binds unless its legitimacy gates, dissent and alternative recording, and contest routes are satisfied.
+- **Method neutrality:** any common voting method, such as single-mark, ranked, approval, or score voting, is allowed if it is proportionate, transparent, preserves meaningful agency, and is open to challenge.
 
 <a id="63-decision-resolution-requirements-for-binding-stakeholder-choice"></a>
 #### 6.3 Decision-Resolution Requirements for Binding Stakeholder Choice
@@ -555,35 +535,15 @@ This subsection sets out the official record, gate, and method-neutrality requir
 
 *In plain terms: serious collective decisions need a real process — hear **affected** **parties** out first, bring in independent eyes when stakes are high, publish how weighting works, handle rights conflicts openly, treat "emergency" as narrow and temporary, and leave the door open when reality diverges from the plan.*
 
-Where material disagreement requires a **binding stakeholder choice** within an already-authorized system, institution, or bounded decision domain, the process must comply with the following Chapter Three definitions (operative specification and O/M/A/C decomposition reside there):
+Where material disagreement requires a **binding stakeholder choice** within an already-authorized system, institution, or bounded decision domain, the process must meet these requirements. Their full text, and the Chapter Three definitions that specify them, are in [Subcore 26-F §4 Decision-Resolution Requirements for Binding Stakeholder Choice](subcore_26.060_binding_collective_choice.md#4-decision-resolution-requirements-for-binding-stakeholder-choice):
 
-- **Structured sequence, local deliberation first, plural evaluation, reopening:** [Binding Stakeholder Choice — Decision-Resolution Requirements](subcore_03.090_band_participation.md#binding-collective-choice-decision-resolution-process).
-- **Stakeholder representation and weight limits:** [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) (also cross-referenced from [§6.1 Entitlement and Eligibility](#61-entitlement-and-eligibility)).
-- **Stakeholder rights-collision discipline:** [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice) — read with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test).
-- **Emergency exception:** [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — read with:
-  - [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency);
-  - [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated;
-  - [Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency); and
-  - **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*).
+- **Structured process:** deliberation starts locally, options are evaluated in more than one way, and the decision can be reopened when results diverge from the plan.
+- **Limited weighting:** stakeholder representation and weight stay within published limits.
+- **Open rights collisions:** a conflict between rights is resolved and recorded openly, under **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*).
+- **Narrow emergencies:** acting before deliberation is allowed only as a narrow, temporary exception, read with [Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden).
+- **Charter Pointer:** a System Charter or Institutional Charter points to these published process rules rather than repeating them ([Subcore 26-F §5 Charter Pointer Rule](subcore_26.060_binding_collective_choice.md#5-charter-pointer-rule)).
 
-**Charter Pointer rule.** A governing System Charter or Institutional Charter points to the rules of this section rather than repeating them:
-
-- **What it states:** a governing [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) states operated scope.
-- **What it points to:** where Def.P2 admission scope applies, it must **point to** the published process rules that satisfy this section ([Chapter Five §5 What System and Institutional Charters Must State](core_05.000_charters.md#5-what-system-and-institutional-charters-must-state), item 8).
-- **What stays here:** the System Charter or Institutional Charter does not carry the decision sequence, weighting model, or rights-collision record; they stay here.
-- **Where they are published:** institutional publication of those materials lives under **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) / **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*).
-- **The pointer field:** the [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) is required by **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10.
-
-**Cross-reference (section 6):** Voting rules in this section are read with these sources:
-
-- **Voting requirements:** [§6.1 Entitlement and Eligibility](#61-entitlement-and-eligibility) and [§6.2 Records, Gates, and Method Neutrality](#62-records-gates-and-method-neutrality) state voting requirements together with **Chapter Four**, **Article X-B** (*Governance Participation and Voting Entitlement*).
-- **Technical implementation:** adopted governance, systems, and institutional implementation text provides applicable rules where **technical** implementation of voting touches classified systems, data handling, steward obligations, or designated institutional procedure.
-
-**Cross-reference (Chapter Twenty-Six):** Related matters are settled in other chapters:
-
-- **Adoption and amendment:** documents of **constitutional adoption** and amendment validity appear in **Chapter Twenty-Eight**.
-- **External law:** **supremacy relative to external law**, **stricter external protections**, and disputes involving external tribunals appear in **Chapter Twenty-Nine**.
-- **Non-regression:** **non-regression** substantive limits appear in **Chapter Twenty-Seven**.
+How these rules meet other chapters and implementation text is set out in [Subcore 26-F §6 Related Rules Elsewhere](subcore_26.060_binding_collective_choice.md#6-related-rules-elsewhere).
 
 ### 7. Authorized Roles, Competency Development, and Contribution
 <details>

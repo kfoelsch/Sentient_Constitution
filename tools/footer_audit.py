@@ -88,6 +88,7 @@ CORE_CHAIN = (
     "subcore_26.030_voting_entitlement.md",
     "subcore_26.040_sortition_integrity.md",
     "subcore_26.050_role_holders_interpretive_bodies.md",
+    "subcore_26.060_binding_collective_choice.md",
     "core_27.000_non_regression.md",
     "core_28.000_amendment_ratification.md",
     "core_29.000_expansion_supremacy.md",

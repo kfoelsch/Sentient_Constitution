@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-22T15:54:40+00:00",
+  "generated_at": "2026-11-22T16:26:51+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -1101,9 +1101,9 @@
       ]
     },
     "core_26.000_governance.md": {
-      "total_lines": 634,
+      "total_lines": 594,
       "sections": [
-        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":634,"anchor":null},
+        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":594,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":26,"line_end":56,"anchor":null},
         {"header":"2. Why the Constitutional Contract Exists","level":3,"line_start":57,"line_end":84,"anchor":"#2-why-the-constitutional-contract-exists"},
         {"header":"3. Authorization and Legitimacy of Governing Authority","level":3,"line_start":85,"line_end":301,"anchor":null},
@@ -1124,11 +1124,11 @@
         {"header":"5.1 Stewardship Direction","level":4,"line_start":370,"line_end":385,"anchor":null},
         {"header":"5.2 Ecosystem Value Orientation","level":4,"line_start":386,"line_end":407,"anchor":null},
         {"header":"5.3 Public Institutions Supporting Stewardship","level":4,"line_start":408,"line_end":434,"anchor":"#53-public-institutions-supporting-stewardship"},
-        {"header":"6. Voting and Binding Collective Choice Protocols","level":3,"line_start":435,"line_end":587,"anchor":null},
+        {"header":"6. Voting and Binding Collective Choice Protocols","level":3,"line_start":435,"line_end":547,"anchor":null},
         {"header":"6.1 Entitlement and Eligibility","level":4,"line_start":451,"line_end":495,"anchor":null},
-        {"header":"6.2 Records, Gates, and Method Neutrality","level":4,"line_start":496,"line_end":537,"anchor":null},
-        {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":538,"line_end":587,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
-        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":588,"line_end":634,"anchor":null}
+        {"header":"6.2 Records, Gates, and Method Neutrality","level":4,"line_start":496,"line_end":517,"anchor":null},
+        {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":518,"line_end":547,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
+        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":548,"line_end":594,"anchor":null}
       ]
     },
     "core_27.000_non_regression.md": {
@@ -2140,6 +2140,18 @@
         {"header":"2. Why These Rules Are the Same for Every Adopter","level":3,"line_start":23,"line_end":44,"anchor":null},
         {"header":"3. Role Criteria, Appointment Standards, and Removal Pathways","level":3,"line_start":45,"line_end":65,"anchor":"#3-role-criteria-appointment-standards-and-removal-pathways"},
         {"header":"4. Interpretive-Body Composition Controls","level":3,"line_start":66,"line_end":82,"anchor":"#4-interpretive-body-composition-controls"}
+      ]
+    },
+    "subcore_26.060_binding_collective_choice.md": {
+      "total_lines": 137,
+      "sections": [
+        {"header":"SUBCORE 26-F: BINDING COLLECTIVE CHOICE","level":1,"line_start":2,"line_end":137,"anchor":"#subcore-26-f-binding-collective-choice"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":29,"anchor":null},
+        {"header":"2. Why Binding Collective Choice Is the Same for Every Adopter","level":3,"line_start":30,"line_end":51,"anchor":null},
+        {"header":"3. Records, Gates, and Method Neutrality","level":3,"line_start":52,"line_end":84,"anchor":"#3-records-gates-and-method-neutrality"},
+        {"header":"4. Decision-Resolution Requirements for Binding Stakeholder Choice","level":3,"line_start":85,"line_end":101,"anchor":"#4-decision-resolution-requirements-for-binding-stakeholder-choice"},
+        {"header":"5. Charter Pointer Rule","level":3,"line_start":102,"line_end":115,"anchor":"#5-charter-pointer-rule"},
+        {"header":"6. Related Rules Elsewhere","level":3,"line_start":116,"line_end":137,"anchor":"#6-related-rules-elsewhere"}
       ]
     },
     "corpus_systems.md": {
