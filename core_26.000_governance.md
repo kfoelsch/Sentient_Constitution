@@ -484,21 +484,34 @@ This subsection implements **Chapter Four**, **Article X-B** (*Governance Partic
 
 ##### 6.1.1 Governance-Voting Entitlement
 
-**Sentients** are entitled to participate in **governance voting** when published eligibility criteria are met and no applicable [standing lock](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) blocks the **governance-voting** pathway. Eligibility criteria remain contestable under **Article XX-A** (*Standing Distinction*) and **Article XX-C** (*Contribution, Competency Bars, and Gated-Pathway Eligibility*), together with any designated incorporated criteria. Those criteria may not narrow constitutional limits.
+**Sentients** are entitled to participate in **governance voting** on these terms:
 
-The same entitlement applies to comparable legitimacy-mechanism **binding collective choice** procedures. Such procedures must be conducted under the adopter's **documented legitimacy mechanism** (section 3 of this chapter). Suspension or limitation of that participation requires an applicable standing lock on the **governance-voting** pathway, recorded under [Chapter Eighteen §4.1 Definition and Attachment](core_18.000_violation_consequences.md#41-definition-and-attachment).
+- **When the entitlement applies:** when published eligibility criteria are met and no applicable [standing lock](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) blocks the **governance-voting** pathway.
+- **Contestable criteria:** eligibility criteria remain contestable under **Article XX-A** (*Standing Distinction*) and **Article XX-C** (*Contribution, Competency Bars, and Gated-Pathway Eligibility*), together with any designated incorporated criteria. Those criteria may not narrow constitutional limits.
+- **Other binding collective choice:** the same entitlement applies to comparable legitimacy-mechanism **binding collective choice** procedures. Such procedures must be conducted under the adopter's **documented legitimacy mechanism** (section 3 of this chapter).
+- **Suspension or limitation:** suspension or limitation of that participation requires an applicable standing lock on the **governance-voting** pathway, recorded under [Chapter Eighteen §4.1 Definition and Attachment](core_18.000_violation_consequences.md#41-definition-and-attachment).
 
 <a id="612-stakeholder-voice-is-separate"></a>
 
 ##### 6.1.2 Stakeholder Voice Is Separate
 
-**governance-voting** does **not** include stake-weighted stakeholder voice inside an already-authorized system, institution, or bounded decision domain. Those Stakeholder System Participation pathways use the **stakeholder-participation** lock under [Chapter Eighteen §3.2 Prevention — General Standing Locks](core_18.000_violation_consequences.md#32-prevention--general-standing-locks). Verified corruption, capture, false-stake abuse, or coercive gaming of stakeholder voice triggers the [Stakeholder-Participation Standing Lock](core_18.000_violation_consequences.md#45-special-locks) under [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks). A **stakeholder-participation** lock does not by itself strip **governance-voting** or **Foundational Constitutional Choice**, and a **governance-voting** lock does not by itself strip stake-weighted stakeholder voice.
+**governance-voting** and stake-weighted stakeholder voice are kept apart, each with its own lock:
+
+- **Not part of governance voting:** **governance-voting** does **not** include stake-weighted stakeholder voice inside an already-authorized system, institution, or bounded decision domain.
+- **Its own lock:** those Stakeholder System Participation pathways use the **stakeholder-participation** lock under [Chapter Eighteen §3.2 Prevention — General Standing Locks](core_18.000_violation_consequences.md#32-prevention--general-standing-locks).
+- **Abuse of stakeholder voice:** verified corruption, capture, false-stake abuse, or coercive gaming of stakeholder voice triggers the [Stakeholder-Participation Standing Lock](core_18.000_violation_consequences.md#45-special-locks) under [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks).
+- **Locks do not cross over:** a **stakeholder-participation** lock does not by itself strip **governance-voting** or **Foundational Constitutional Choice**, and a **governance-voting** lock does not by itself strip stake-weighted stakeholder voice.
 
 <a id="613-no-age-disqualification"></a>
 
 ##### 6.1.3 No Age Disqualification
 
-**Calendar age or life stage alone** must not disqualify eligibility. The residence period below is not an age rule: it applies to every sentient alike. Competency, capacity, or role-fitness requirements must satisfy **Chapter Three, including its subcore** ([**Substantive Fairness**](subcore_03.090_band_participation.md#substantive-fairness), [**Proportionality**](subcore_03.070_band_accountability.md#proportionality), and [**Necessity**](subcore_03.070_band_accountability.md#necessity)) and must not operate as **disguised age discrimination**. Suspension and restoration of this participation **track attachment and lifting of the applicable standing lock** under the same constitutional and incorporated criteria.
+Eligibility may not turn on age, openly or in disguise:
+
+- **No age bar:** **calendar age or life stage alone** must not disqualify eligibility.
+- **Residence is not an age rule:** the residence period in [§6.1.4 Joining the Electorate](#614-joining-the-electorate) is not an age rule: it applies to every sentient alike.
+- **Competency requirements:** competency, capacity, or role-fitness requirements must satisfy **Chapter Three, including its subcore** ([**Substantive Fairness**](subcore_03.090_band_participation.md#substantive-fairness), [**Proportionality**](subcore_03.070_band_accountability.md#proportionality), and [**Necessity**](subcore_03.070_band_accountability.md#necessity)) and must not operate as **disguised age discrimination**.
+- **Suspension and restoration:** suspension and restoration of this participation **track attachment and lifting of the applicable standing lock** under the same constitutional and incorporated criteria.
 
 <a id="614-joining-the-electorate"></a>
 
