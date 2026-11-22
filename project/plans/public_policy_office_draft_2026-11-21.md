@@ -24,7 +24,7 @@ rewritten when the file is placed.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) would list the office with the one-line guarantees in the box below.
-> - [Chapter Twenty-Six §5.1 Stewardship Direction](../../core_26.000_governance.md#51-stewardship-direction) would name the office's post-adoption reviews as one input to the Review and Correction Duty.
+> - [Chapter Twenty-Six §5.3 Public Institutions Supporting Stewardship](../../core_26.000_governance.md#53-public-institutions-supporting-stewardship) (added 2026-11-22) already makes the post-adoption reviews of whichever body Chapter Seven §4 lists for policy impact evaluation an input to the Review and Correction Duty. Once this office is listed, that line would name it.
 > - A new corpus-institutions file would hold the evaluation template, the materiality threshold, and the intake forms.
 >
 > **Proposed Chapter Seven §4 entry:**
@@ -245,7 +245,7 @@ A proposal above the threshold comes with its sponsor's own account of what it w
 - **Review date:** every policy evaluated under §4 carries a review date, set at adoption. If none is set, it is five years after adoption.
 - **The review:** compares what happened with what the evaluation and the sponsor predicted, using the indicators named in §5, and states whether the evidence supports keeping, changing, or ending the policy.
 - **Response:** the governing authority publishes a reasoned response to the review, as in §6.
-- **Link to stewardship:** reviews are an input to the [Review and Correction Duty](../../subcore_03.075_band_continuity.md#review-and-correction-duty) under [Chapter Twenty-Six §5.1 Stewardship Direction](../../core_26.000_governance.md#51-stewardship-direction).
+- **Link to stewardship:** reviews are an input to the [Review and Correction Duty](../../subcore_03.075_band_continuity.md#review-and-correction-duty) under [Chapter Twenty-Six §5.3 Public Institutions Supporting Stewardship](../../core_26.000_governance.md#53-public-institutions-supporting-stewardship).
 
 ### 8. Even-Handedness and No Steering
 

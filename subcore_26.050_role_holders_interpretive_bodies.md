@@ -79,4 +79,4 @@ Interpretive-body composition controls (**Article XXVI** (*Constitutional Interp
 
 **Previous file:** [subcore_26.040_sortition_integrity.md](subcore_26.040_sortition_integrity.md)
 
-**Next file:** [core_27.000_non_regression.md](core_27.000_non_regression.md)
+**Next file:** [subcore_26.060_binding_collective_choice.md](subcore_26.060_binding_collective_choice.md)
