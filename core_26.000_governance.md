@@ -566,11 +566,24 @@ Where material disagreement requires a **binding stakeholder choice** within an 
   - [Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency); and
   - **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*).
 
-**Charter Pointer rule.** A governing [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) states operated scope and, where Def.P2 admission scope applies, must **point to** the published process rules that satisfy this section ([Chapter Five §5 What System and Institutional Charters Must State](core_05.000_charters.md#5-what-system-and-institutional-charters-must-state), item 8). The System Charter or Institutional Charter does not carry the decision sequence, weighting model, or rights-collision record; they stay here. Institutional publication of those materials lives under **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) / **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*), with the [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) required by **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10.
+**Charter Pointer rule.** A governing System Charter or Institutional Charter points to the rules of this section rather than repeating them:
 
-**Cross-reference (section 6):** Subsections **4.1–4.2** state voting requirements together with **Chapter Four**, **Article X-B** (*Governance Participation and Voting Entitlement*). Adopted governance, systems, and institutional implementation text provides applicable rules where **technical** implementation of voting touches classified systems, data handling, steward obligations, or designated institutional procedure.
+- **What it states:** a governing [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) states operated scope.
+- **What it points to:** where Def.P2 admission scope applies, it must **point to** the published process rules that satisfy this section ([Chapter Five §5 What System and Institutional Charters Must State](core_05.000_charters.md#5-what-system-and-institutional-charters-must-state), item 8).
+- **What stays here:** the System Charter or Institutional Charter does not carry the decision sequence, weighting model, or rights-collision record; they stay here.
+- **Where they are published:** institutional publication of those materials lives under **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) / **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*).
+- **The pointer field:** the [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) is required by **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10.
 
-**Cross-reference (Chapter Twenty-Six):** Documents of **constitutional adoption** and amendment validity appear in **Chapter Twenty-Eight**. **Supremacy relative to external law**, **stricter external protections**, and disputes involving external tribunals appear in **Chapter Twenty-Nine**. **Non-regression** substantive limits appear in **Chapter Twenty-Seven**.
+**Cross-reference (section 6):** Voting rules in this section are read with these sources:
+
+- **Voting requirements:** [§6.1 Entitlement and Eligibility](#61-entitlement-and-eligibility) and [§6.2 Records, Gates, and Method Neutrality](#62-records-gates-and-method-neutrality) state voting requirements together with **Chapter Four**, **Article X-B** (*Governance Participation and Voting Entitlement*).
+- **Technical implementation:** adopted governance, systems, and institutional implementation text provides applicable rules where **technical** implementation of voting touches classified systems, data handling, steward obligations, or designated institutional procedure.
+
+**Cross-reference (Chapter Twenty-Six):** Related matters are settled in other chapters:
+
+- **Adoption and amendment:** documents of **constitutional adoption** and amendment validity appear in **Chapter Twenty-Eight**.
+- **External law:** **supremacy relative to external law**, **stricter external protections**, and disputes involving external tribunals appear in **Chapter Twenty-Nine**.
+- **Non-regression:** **non-regression** substantive limits appear in **Chapter Twenty-Seven**.
 
 ### 7. Authorized Roles, Competency Development, and Contribution
 <details>

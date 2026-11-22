@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-22T15:43:11+00:00",
+  "generated_at": "2026-11-22T15:54:40+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -1101,9 +1101,9 @@
       ]
     },
     "core_26.000_governance.md": {
-      "total_lines": 621,
+      "total_lines": 634,
       "sections": [
-        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":621,"anchor":null},
+        {"header":"CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP","level":1,"line_start":1,"line_end":634,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":26,"line_end":56,"anchor":null},
         {"header":"2. Why the Constitutional Contract Exists","level":3,"line_start":57,"line_end":84,"anchor":"#2-why-the-constitutional-contract-exists"},
         {"header":"3. Authorization and Legitimacy of Governing Authority","level":3,"line_start":85,"line_end":301,"anchor":null},
@@ -1124,11 +1124,11 @@
         {"header":"5.1 Stewardship Direction","level":4,"line_start":370,"line_end":385,"anchor":null},
         {"header":"5.2 Ecosystem Value Orientation","level":4,"line_start":386,"line_end":407,"anchor":null},
         {"header":"5.3 Public Institutions Supporting Stewardship","level":4,"line_start":408,"line_end":434,"anchor":"#53-public-institutions-supporting-stewardship"},
-        {"header":"6. Voting and Binding Collective Choice Protocols","level":3,"line_start":435,"line_end":574,"anchor":null},
+        {"header":"6. Voting and Binding Collective Choice Protocols","level":3,"line_start":435,"line_end":587,"anchor":null},
         {"header":"6.1 Entitlement and Eligibility","level":4,"line_start":451,"line_end":495,"anchor":null},
         {"header":"6.2 Records, Gates, and Method Neutrality","level":4,"line_start":496,"line_end":537,"anchor":null},
-        {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":538,"line_end":574,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
-        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":575,"line_end":621,"anchor":null}
+        {"header":"6.3 Decision-Resolution Requirements for Binding Stakeholder Choice","level":4,"line_start":538,"line_end":587,"anchor":"#63-decision-resolution-requirements-for-binding-stakeholder-choice"},
+        {"header":"7. Authorized Roles, Competency Development, and Contribution","level":3,"line_start":588,"line_end":634,"anchor":null}
       ]
     },
     "core_27.000_non_regression.md": {
