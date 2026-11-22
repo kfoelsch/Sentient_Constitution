@@ -18,7 +18,7 @@ rewritten when the file is placed.
 > 3. **A voice for those not yet here.** The office may make submissions, in forums and consultations, on behalf of the future generations protected by Article I-C. It cannot block a decision.
 > 4. **A Stewardship Fund.** Added 2026-11-21 at the custodian's request: the office has its own budget, a fixed minimum share of public spending set for each four-year cycle, which pays for outcome-based incentives for technological, ecological, and social improvement and for public education and advocacy on long-term priorities, and reserves at least one-third for basic research decided by peer review panels drawn by lot (§8). This is the one place the office allocates resources.
 > 5. **Terms longer than the political cycle,** so the office does not turn over with each selection.
-> 6. **Defaults:** a Long-Term Outlook at least every four years, looking at least 100 years ahead, in greater detail for the first 25 years, and further where a risk requires it; members serve one staggered term of eight years; stewardship plans due within one year of each outlook; progress reports once a year; at least one-third of the fund for basic research; incentive programs end no more than ten years after they open.
+> 6. **Defaults:** a Long-Term Outlook at least every four years, looking 5, 10, 25, 50, and 100 years ahead, with less detail the further out it looks, and further where a risk requires it; members serve one staggered term of eight years; stewardship plans due within one year of each outlook; progress reports once a year; at least one-third of the fund for basic research; incentive programs end no more than ten years after they open.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) would list the office with the one-line guarantees in the box below.
@@ -99,9 +99,17 @@ The office is an Independent Body and meets [Chapter Seven §3 What Makes a Body
 
 ### 4. Long-Term Outlook
 
-*In plain terms: every few years the office publishes its best honest picture of where things are heading, and what could go badly wrong or well.*
+*In plain terms: every few years the office publishes its best honest picture of where things are heading, five, ten, twenty-five, fifty, and a hundred years out, and what could go badly wrong or well. The nearer years get firm figures; the far years get broad scenarios.*
 
-The office publishes a **Long-Term Outlook** at least every four years, and before each regular contested selection where the cycle allows. It looks at least 100 years ahead, in greater detail for the first 25 years, and further where a risk requires it. At a minimum it covers:
+The office publishes a **Long-Term Outlook** at least every four years, and before each regular contested selection where the cycle allows. The outlook looks ahead over five horizons, with less detail the further out it looks:
+
+- **5 years:** specific projections with figures, and the decisions that are due soon;
+- **10 years:** projections with ranges, and the investments and commitments that take this long to bear fruit;
+- **25 years:** the main trends and their likely ranges;
+- **50 years:** a small set of plausible scenarios and what would tell them apart;
+- **100 years:** broad scenarios, irreversible thresholds, and the conditions future generations are likely to inherit.
+
+It looks further than 100 years where a risk requires it. Across these horizons, at a minimum the outlook covers:
 
 - **Trends:** the likely course of population, wellbeing, survival-floor access, and the condition of [Productive Capacity](../../subcore_03.075_band_continuity.md#productive-capacity);
 - **Ecology:** ecological limits and footprint, as Article I-B requires to be visible;
@@ -139,7 +147,7 @@ The office coordinates public stewardship by requiring plans and reports, while 
     - any other public body that the outlook names as holding responsibility for a risk in the register.
 - **What a stewardship plan contains:**
     - the risks and priorities in the outlook and guidance that fall within the body's responsibility;
-    - what the body will do about each, by when, and with what resources, or why it will not act;
+    - what the body will do about each, by when, and with what resources, or why it will not act, in concrete steps for the 5- and 10-year horizons and as a stated direction for the 25-, 50-, and 100-year horizons;
     - the indicators by which progress will be judged; and
     - how the plan fits the governing authority's strategy under [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
 - **When plans are due:** within one year of each Long-Term Outlook, and again when a body's responsibilities change materially.
