@@ -132,7 +132,13 @@ A question that may uncover a gap may be asked about any proposal, including one
 The emergency rules of [Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](../../core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) and [Chapter Six §8 Emergency and Urgent Action](../../core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) govern every emergency measure. This office adds evidence to them; it does not replace their review or their clocks:
 
 - **Before evaluation:** a measure taken under those rules may take effect before the office evaluates it. Its default expiry, independent review, and restore-challenge window run as Chapter Twenty-Three §5.1 sets them.
-- **Evaluation before any continuation:** a measure that would continue past its default expiry must carry the continuation burden of Chapter Twenty-Three §5.1: continuing necessity, proportionality, and the absence of a less-restrictive feasible alternative. The office publishes an evaluation addressing those three points, with the measure's likely effects and costs, before the decision to continue is made. Where time is too short for a full evaluation, it publishes a short-form evaluation first and the full evaluation within 90 days after the measure took effect.
+- **Evaluation before any continuation:** a measure that would continue past its default expiry must carry the continuation burden of Chapter Twenty-Three §5.1. The office publishes an evaluation before the decision to continue is made:
+    - **What it addresses:** the three parts of that burden:
+        - continuing necessity;
+        - proportionality; and
+        - the absence of a less-restrictive feasible alternative;
+    - **What else it covers:** the measure's likely effects and costs;
+    - **When time is short:** a short-form evaluation comes first, and the full evaluation follows within 90 days after the measure took effect.
 - **An input, not the review:** the evaluation is evidence for the independent reviewer and for the body deciding continuation. It does not take the place of the independent review, and it never delays the protective steps or the restore-challenge clock.
 - **Looking back:** once the measure ends, the office's review under §7 is published as an input to the retrospective review required by [Article XXVII-A](../../core_04.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure) (*Retrospective Review and Disclosure*).
 - **No normalization:** a proposal to make an emergency measure permanent is a new proposal, evaluated in full under this section before it is adopted.
