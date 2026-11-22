@@ -17,7 +17,8 @@ rewritten when the file is placed.
 > 2. **Evaluation before the final decision** for every proposal above a published materiality threshold, and a **review after adoption** at a date set when the policy is adopted.
 > 3. **No ranking of political aims.** The office tests whether a proposal is likely to achieve the aim its sponsor states, at what cost, and to whom. It does not say which aims are better.
 > 4. **Open decision-making models.** Added 2026-11-22 at the custodian's request ("creates and publishes open models for decision making. We want the foundations of its work to be as widely available as possible"): the office publishes its models, data, and tools under an open licence, keeps every evaluation reproducible, takes outside improvements, and may not rest an evaluation on a closed model (§9).
-> 5. **Defaults:** evaluation within 60 days of a request (30 days for a short-form evaluation); an emergency measure evaluated before any continuation past its default expiry under Chapter Twenty-Three §5.1, in short form if time requires, and in full within 90 days after it takes effect; a review at the policy's set date and no later than five years after adoption.
+> 5. **Best-practice additions.** Added 2026-11-22 at the custodian's request ("Please implement your recommendations"), from the [best-practice comparison](../analysis/ppo_international_comparison_2026-11-22.md): a right of access to information (§3, resting on the new *Access to information* requirement in Chapter Seven §3, which is binding text and applies to every Independent Body); a short-form update when a proposal is materially amended after its evaluation (§6); the sponsor's own impact statement, rated fit or not fit for purpose (§5.2); voluntary platform costing before contested selections and drafting help open to every sponsor (§8); and an outside review of the office every five years (§10).
+> 6. **Defaults:** evaluation within 60 days of a request (30 days for a short-form evaluation); information from a public body or sponsor within 15 days of the office's request; an amendment update within 10 days of the amendment; an emergency measure evaluated before any continuation past its default expiry under Chapter Twenty-Three §5.1, in short form if time requires, and in full within 90 days after it takes effect; a review at the policy's set date and no later than five years after adoption; platform costings published together at least 14 days before a contested selection; an outside review at least every five years.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) would list the office with the one-line guarantees in the box below.
@@ -29,7 +30,8 @@ rewritten when the file is placed.
 >     - Every evaluation is public, with its data, methods, and confidence.
 >     - The office creates and publishes open decision-making models, free for anyone to use, check, and improve.
 >     - The office uses the same methods for every sponsor and does not rank political aims.
->     - The governing authority must answer every material finding in writing; the office cannot block a decision.
+>     - The office may obtain from any public body and from a proposal's sponsor the information its evaluations need.
+    - The governing authority must answer every material finding in writing; the office cannot block a decision.
 
 </details>
 
@@ -46,18 +48,20 @@ rewritten when the file is placed.
 
 - [Chapter Twenty-Six](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) keeps the power to decide. This office advises and publishes; it decides nothing.
 - The Public Information Office produces the statistics and research this office relies on. This office does not produce official statistics, and that office does not evaluate proposals.
-- The Public Stewardship Office looks decades ahead across all policy. This office looks at one proposal at a time. For a proposal with long-horizon or irreversible effects, the two publish one combined evaluation (§5).
+- The Public Stewardship Office looks decades ahead across all policy. This office looks at one proposal at a time. For a proposal with long-horizon or irreversible effects, the two publish one combined evaluation (§5.1).
 - The Public Finance Office pays for the office and does not direct it.
 
 **Scope:** The office:
 
-- evaluates proposals for binding policy that meet the materiality threshold in §4.1, or are asked for under §4.2 and §4.3;
+- evaluates proposals for binding policy that meet the materiality threshold in §4.1, or are asked for under §4.2 and §4.3, and updates an evaluation when a proposal is materially amended (§6);
+- rates each sponsor's own impact statement (§5.2);
 - reviews adopted policy at its set review date;
 - publishes every evaluation and review with its data, methods, and confidence;
-- creates and publishes open decision-making models that anyone may use, check, and improve (§9); and
+- creates and publishes open decision-making models that anyone may use, check, and improve (§9);
+- offers platform costing before contested selections, and drafting help, to every candidate and sponsor on the same terms (§8); and
 - reports each year on how accurate its past evaluations turned out to be.
 
-**Out of scope:** The office does not decide any policy, rank political aims, endorse or oppose a sponsor, draft legislation for one side, or decide any matter that belongs to a forum.
+**Out of scope:** The office does not decide any policy, rank political aims, endorse or oppose a sponsor, draft legislation for one side (the drafting help in §8 is technical and open to every sponsor on the same terms), or decide any matter that belongs to a forum.
 
 ### 2. Why the Public Policy Office Exists
 
@@ -92,6 +96,12 @@ The office is an Independent Body and meets [Chapter Seven §3 What Makes a Body
 - **Competencies:** the gate covers evaluation methods, statistics, economics, and the social and ecological sciences, and at least one seat is held by a sentient with lived experience of the effects of public policy on those with least power.
 - **Funding:** through a floor set by the Public Finance Office, which may not be cut in response to an evaluation.
 - **Post-service limits:** members and staff are bound by the cooling-off rules of Subcore 26-E §3 for any sponsor of a proposal they evaluated.
+- **Access to information:** the office has the right of access in *Access to information* in Chapter Seven §3, and for this office:
+    - **From whom:** any public body, and the sponsor of any proposal the office is evaluating, whether or not the sponsor is a public body;
+    - **What:** the data, models, analysis, and explanations behind the proposal and its expected effects, including any analysis the sponsor relied on but did not publish;
+    - **How fast:** within 15 days of the request, because evaluations run on fixed time limits;
+    - **Effect of delay:** where a holder's delay keeps the office from meeting a time limit in §6, the time limit runs from when the information arrives, and the record of the decision says why; and
+    - **Published:** each evaluation lists every request it made, and every refusal or delay with the holder's reason.
 
 ### 4. What Must Be Evaluated
 
@@ -147,6 +157,10 @@ The emergency rules of [Chapter Twenty-Three §5.1 Emergency Measures and Contin
 
 *In plain terms: every evaluation answers the same questions in the same order, so evaluations can be compared and nothing awkward is left out.*
 
+This section sets what every evaluation contains (§5.1) and what the sponsor of a proposal shows of its own analysis (§5.2).
+
+#### 5.1 Contents
+
 Every evaluation follows the published template and states, at a minimum:
 
 - **The aim:** the effect the sponsor says the proposal will have, in the sponsor's words, and how it would be measured.
@@ -162,12 +176,23 @@ Every evaluation follows the published template and states, at a minimum:
 
 A short-form evaluation, using the same headings, may be used for a proposal below the threshold.
 
+#### 5.2 The Sponsor's Impact Statement
+
+A proposal above the threshold comes with its sponsor's own account of what it will do, so that the sponsor's reasoning is tested as well as the proposal:
+
+- **Who submits:** the sponsor of a proposal that meets the threshold in §4.1 submits an impact statement with the proposal, on the office's published template, using the headings of §5.1. A sponsor that is not a public body, such as a petition, may ask the office for the help in §8 or submit a shorter statement, and is never refused evaluation for lack of one.
+- **Rating:** the office rates the statement **fit for purpose** or **not fit for purpose**, against published criteria, within the time limit for the evaluation, and publishes the rating with its reasons beside the statement.
+- **Not fit for purpose:** the sponsor may revise the statement once before the final decision. The rating and any revision are part of the record, and the governing authority's response under §6 addresses a not-fit rating that stands.
+- **The office's own estimate:** the office still makes its own estimate of every effect that is material or contested, and says where it agrees or differs with the sponsor. A fit rating never replaces the office's evaluation.
+- **Tracked over time:** the yearly accuracy report in §10 shows each sponsor's ratings over time, so that the quality of sponsors' analysis can be seen to improve or not.
+
 ### 6. Timing, Response, and No Veto
 
 *In plain terms: the evaluation comes out before the vote. The decision-makers do not have to agree with it, but they have to say in public why not.*
 
 - **Before the decision:** the evaluation is published before the final decision, within 60 days of the request, or 30 days for a short-form evaluation. The governing authority may not cut that time short by delaying the request.
 - **Late evaluation:** if the office misses its time limit, the decision may go ahead. The record of the decision states that no evaluation was available, and the office publishes its evaluation as soon as it is done.
+- **Amended proposals:** when a proposal is amended after its evaluation in a way that would change a material finding, or that would itself meet the threshold in §4.1, the sponsor notifies the office and the office publishes a short-form update, covering the amendment, within 10 days. The final decision is not taken until the update is published or the 10 days have passed. Amendments made together may be covered by one update.
 - **Response:** before or with the final decision, the governing authority publishes a reasoned response to each material finding: where it agrees, where it disagrees and why, and what it changed.
 - **No veto:** an evaluation never blocks, delays, or invalidates a decision. A decision made without the required evaluation or response may be challenged as a procedural failure under [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism).
 
@@ -188,6 +213,16 @@ A short-form evaluation, using the same headings, may be used for a proposal bel
 - **No ranking of aims:** the office tests whether a proposal is likely to meet its own stated aim, and at what cost. It does not judge whether the aim is worth pursuing.
 - **No advocacy:** the office and its members do not campaign for or against a proposal, a sponsor, or a party.
 - **No pressure:** any attempt to direct a conclusion, delay a publication, or tie funding to a result is a violation, reported to the Integrity Forum.
+- **Platform costing before contested selections:** before a contested selection under [Chapter Twenty-Six §3.2 Eligibility, Contested Selection, and Democratic Minimums](../../core_26.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums), the office offers to evaluate the main proposals of every candidate or slate:
+    - **Voluntary:** no candidate is required to take part, and the office does not comment on anyone who does not;
+    - **Equal terms:** every submission is evaluated by the same methods, on the same timetable, with a submission deadline published in advance;
+    - **Published together:** all results are published on the same day, at least 14 days before the selection, and none is published earlier; and
+    - **No ranking:** the results state effects and costs. They never rank candidates or aims.
+- **Drafting help:** any sponsor may ask the office for technical help in drafting a proposal, such as estimating its costs or checking that it does what the sponsor intends:
+    - **Same terms for all:** the help is offered to every sponsor on the same published terms;
+    - **Confidential only until introduction:** the help stays confidential until the proposal is introduced or published, and then the record of the request and the help given is published in full;
+    - **Technical only:** the help never includes advice on whether to pursue an aim; and
+    - **Disclosed in the evaluation:** an evaluation of a proposal the office helped draft says so.
 
 ### 9. Open Decision-Making Models
 
@@ -217,6 +252,7 @@ The office creates and publishes **open decision-making models**: the models, da
 
 - **Open records:** each evaluation and review is published with its data, methods, assumptions, and correction history, except data that must be protected under the Chapter Four Rights Floor, which is described but withheld.
 - **Accuracy report:** each year the office publishes how its past estimates compared with outcomes, and what it changed as a result.
+- **Outside review:** under *Audit of its work* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), at least every five years a panel from outside the office reviews its methods, the accuracy of its past evaluations, its access to information, and its independence in practice. The panel may include reviewers from other adopters' offices, and its findings are published with the office's response.
 - **Challenge:** any sentient may ask for a correction of an error of fact or method. Capture or manipulation of the office may be raised with the Integrity Forum.
 
 ### 11. Proportional Scaling
