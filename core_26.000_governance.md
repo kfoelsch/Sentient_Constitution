@@ -329,8 +329,9 @@ Some forums judge the very authorities that govern, so those authorities must no
 
 - Upstream: Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [§3](#3-authorization-and-legitimacy-of-governing-authority) authorization scope for stewardship within rule-making power.
 - Downstream: Subsections
-  - [5.1](#51-stewardship-direction) and
-  - [5.2](#52-ecosystem-value-orientation); canonical definitions for stewardship requirements in
+  - [5.1](#51-stewardship-direction),
+  - [5.2](#52-ecosystem-value-orientation), and
+  - [5.3](#53-public-institutions-supporting-stewardship); canonical definitions for stewardship requirements in
   - [*Strategic Stewardship Obligation*](subcore_03.075_band_continuity.md#strategic-stewardship-obligation),
   - [*Review and Correction Duty*](subcore_03.075_band_continuity.md#review-and-correction-duty),
   - [*Burden-Reduction Duty*](subcore_03.075_band_continuity.md#burden-reduction-duty), and
@@ -401,6 +402,35 @@ Direction must remain outcome-oriented rather than institution-preserving for it
 Productive capacity enters ecosystem value as an **instrumental good** supporting the other outcomes named in this subsection. It does not rank with Safety, Truth, or the Rights Floor in **Chapter Four**, and it is not satisfied by raw throughput, utilization, headcount, revenue, or other proxies that diverge from the underlying outcomes ([*Proxy Divergence*](subcore_03.085_band_oversight.md#proxy-divergence); [*Constitutional Efficiency*](subcore_03.075_band_continuity.md#constitutional-efficiency); [*Avoidable Burden*](subcore_03.075_band_continuity.md#avoidable-burden)).
 
 Proxy indicators (financial or otherwise) may inform decisions only where they remain traceable to these outcomes and do not substitute for them.
+
+<a id="53-public-institutions-supporting-stewardship"></a>
+
+#### 5.3 Public Institutions Supporting Stewardship
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [§5.1](#51-stewardship-direction); [§5.2](#52-ecosystem-value-orientation); [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent).
+- Downstream: the Independent Bodies listed in [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) and their subcore files.
+- Read with: [*Review and Correction Duty*](subcore_03.075_band_continuity.md#review-and-correction-duty); [*Strategic Stewardship Obligation*](subcore_03.075_band_continuity.md#strategic-stewardship-obligation); [*Proxy Divergence*](subcore_03.085_band_oversight.md#proxy-divergence).
+
+</details>
+
+<br>
+
+*In plain terms: those who steer must not be the only ones who check the map. Independent public offices look far ahead, test proposals before they are decided, check them again afterward, and keep the official numbers honest. The governing authority still decides, but it has to use their work and say in public where it departs from it.*
+
+Stewardship direction under this section draws on public institutions that the governing authority does not control. Where [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) lists an Independent Body for one of the following functions, the governing authority uses that body's work as stated:
+
+- **Long-horizon outlook and guidance:** the body that publishes the long-term outlook and stewardship guidance. The governing authority's published strategy under this section takes account of the outlook, and the authority publishes a reasoned response to the guidance.
+- **Policy impact evaluation:** the body that evaluates proposed binding policy before the final decision and reviews it after adoption. Its reviews are an input to the [*Review and Correction Duty*](subcore_03.075_band_continuity.md#review-and-correction-duty), and the authority answers each material finding as that body's subcore file requires.
+- **Official statistics and research:** the body that produces official statistics. The indicators that show direction is outcome-oriented under [§5.1 Stewardship Direction](#51-stewardship-direction), and the proxies used under [§5.2 Ecosystem Value Orientation](#52-ecosystem-value-orientation), come from that body's published figures or can be checked against them.
+- **Public finances and obligations to the future:** the bodies that report public spending, debt, and the obligations later generations will carry. The authority's strategy states how it takes those obligations into account.
+
+These institutions are bounded:
+
+- **They advise; the authority directs:** none of them sets direction, which stays with the governing authority within its authorization under [§3 Authorization and Legitimacy of Governing Authority](#3-authorization-and-legitimacy-of-governing-authority). The authority may depart from their findings, with published reasons.
+- **They do not replace stewardship duties:** their work informs the duties named in this section, and never takes the place of the authority's own duties under Chapter Three.
+- **Where no body is listed:** where [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) lists no body for a function, the authority still meets the duties of this section, using the best independent sources available, and publishes which sources it used.
 
 ### 6. Voting and Binding Collective Choice Protocols
 <details>

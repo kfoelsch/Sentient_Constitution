@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_29.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **588** of **996** headings carry a gloss (59%).
+Coverage: **589** of **997** headings carry a gloss (59%).
 
 ## Contents
 
@@ -45,7 +45,7 @@ Coverage: **588** of **996** headings carry a gloss (59%).
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.020_rights_part_c.md` (33/34 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.030_rights_part_d.md` (31/32 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.040_rights_part_e.md` (13/14 glossed)
-- [CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_26.000_governance.md` (14/25 glossed)
+- [CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_26.000_governance.md` (15/26 glossed)
 - [CHAPTER TWENTY-SEVEN: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-seven-non-regression-and-substantive-amendment-validity) — `core_27.000_non_regression.md` (6/7 glossed)
 - [CHAPTER TWENTY-EIGHT: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-eight-amendment-ratification-and-procedural-validity) — `core_28.000_amendment_ratification.md` (21/22 glossed)
 - [CHAPTER TWENTY-NINE: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-twenty-nine-expansion-supremacy-and-external-legal-orders) — `core_29.000_expansion_supremacy.md` (14/15 glossed)
@@ -5509,7 +5509,7 @@ non-compliant systems and property can be remediated during Adoption Transition 
 
 ## CHAPTER TWENTY-SIX: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP
 
-Source file: [`core_26.000_governance.md`](../../core_26.000_governance.md) · 14/25 headings glossed
+Source file: [`core_26.000_governance.md`](../../core_26.000_governance.md) · 15/26 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -5624,6 +5624,12 @@ the point is good outcomes for sentients — not protecting an institution's com
 "value" means durable wellbeing and trustworthy coordination — money and throughput can be signals, not the mission, and they never outrank Safety, Truth, or rights.
 
 [Source](../../core_26.000_governance.md#52-ecosystem-value-orientation)
+
+##### 5.3 Public Institutions Supporting Stewardship
+
+those who steer must not be the only ones who check the map. Independent public offices look far ahead, test proposals before they are decided, check them again afterward, and keep the official numbers honest. The governing authority still decides, but it has to use their work and say in public where it departs from it.
+
+[Source](../../core_26.000_governance.md#53-public-institutions-supporting-stewardship)
 
 #### 6. Voting and Binding Collective Choice Protocols
 
