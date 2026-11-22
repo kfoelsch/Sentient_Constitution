@@ -13,8 +13,8 @@ rewritten when the file is placed.
 > **Placement.** Like every Independent Body under the core reorganization plan, the office gets a one-line guarantee list in [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) and a subcore file attached to Chapter Seven. This draft is written as that subcore file. [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) would point to it.
 >
 > **Choices this draft makes (all provisional, for the custodian to confirm):**
-> 1. **Required plans and reports, but not dictated content.** Added 2026-11-21 at the custodian's request: public bodies must submit stewardship plans that answer the outlook, and public bodies, critical systems, and the largest institutions must report progress against the risk register (§7). The office reviews and publishes; it cannot write a body's plan for it, allocate resources, or punish. The governing authority keeps every decision, but must say in public how its strategy responds to the office's guidance.
-> 2. **Reports, not plans, from private actors.** Private institutions and systems report on the register risks they hold, but are never required to submit plans aligned with the outlook, so that the office coordinates public stewardship without steering private activity. The System Charter and Institutional Charter item in §7 keeps this line: a private body's System Charter or Institutional Charter states whether it plans against the outlook, and "no" is a complete answer.
+> 1. **Required plans and reports, but not dictated content.** Added 2026-11-21 at the custodian's request: public bodies, and every system or institution of Class C or higher, must submit stewardship plans that answer the outlook and report progress against them once a year (§7). The office reviews and publishes; it cannot write a body's plan for it, allocate resources, or punish. The governing authority keeps every decision, but must say in public how its strategy responds to the office's guidance.
+> 2. **Class, not ownership, decides who plans.** Changed 2026-11-21 at the custodian's request ("we require that stewards represent their constituents. If we are doing that, doesn't that mean that they should be planning too? ... I don't think the line between private and public makes any difference here."). An earlier version required plans from public bodies only. Because stewards must represent stakeholder interests under Chapter Two §17.7, and because planning is essential to both Continuity and Flourishing, every system or institution of Class C or higher plans, public or private, and may add any planning it judges important to the sentients it represents. Class L and Class P bodies may plan but need not. The office still cannot direct any body's lawful activity through a plan.
 > 3. **A voice for those not yet here.** The office may make submissions, in forums and consultations, on behalf of the future generations protected by Article I-C. It cannot block a decision.
 > 4. **A Stewardship Fund.** Added 2026-11-21 at the custodian's request: the office has its own budget, a fixed minimum share of public spending set for each four-year cycle, which pays for outcome-based incentives for technological, ecological, and social improvement and for public education and advocacy on long-term priorities, and reserves at least one-third for basic research decided by peer review panels drawn by lot (§8). This is the one place the office allocates resources.
 > 5. **Terms longer than the political cycle,** so the office does not turn over with each selection.
@@ -25,12 +25,12 @@ rewritten when the file is placed.
 > - [CI-6.205 §6.3 Minimum Fields (Formation Template)](../../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-63-minimum-fields-formation-template) would gain the matching template field.
 > - [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) would list the office with the one-line guarantees in the box below.
 > - [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) would require the governing authority's published strategy to respond to the office's Long-Term Outlook and guidance, and §5.1 would name the outlook as an input to direction.
-> - A new corpus-institutions file would hold the outlook template, the risk register fields, the plan and report templates, the size threshold for reporting institutions, the fund's share of public spending, the incentive and grant rules, and the submission procedure.
+> - A new corpus-institutions file would hold the outlook template, the risk register fields, the plan and report templates, the fund's share of public spending, the incentive and grant rules, and the submission procedure.
 >
 > **Proposed Chapter Seven §4 entry:**
 > - **Public Stewardship Office:** looks decades ahead, publishes a Long-Term Outlook and stewardship guidance, and speaks for future generations.
 >     - The outlook and guidance are public, with their evidence and confidence.
->     - Public bodies must submit stewardship plans that answer the outlook, and public bodies, critical systems, and the largest institutions must report progress; the office reviews and publishes them.
+>     - Public bodies, and every system or institution of Class C or higher, public or private, must submit stewardship plans that answer the outlook and report progress yearly; the office reviews and publishes them.
 >     - It runs a Stewardship Fund, with its own protected budget, for incentives for technological, ecological, and social improvement, for public education and advocacy on the long term, and for basic research decided by peer review.
 >     - The governing authority must say in public how its strategy responds; the office cannot write anyone's plan, command, or block.
 >     - Members serve terms longer than the political cycle and cannot be removed for the content of their advice.
@@ -57,12 +57,12 @@ rewritten when the file is placed.
 
 - publishes the Long-Term Outlook (§4) and keeps the Long-Term Risk Register (§5);
 - issues stewardship guidance and assesses the governing authority's response (§6);
-- requires stewardship plans from public bodies, and progress reports from public bodies, critical systems, and the largest institutions, and reviews and publishes them (§7);
+- requires stewardship plans and yearly progress reports from public bodies and from every system or institution of Class C or higher, public or private, and reviews and publishes them (§7);
 - runs the Stewardship Fund: incentives for technological, ecological, and social improvement, public education and advocacy on the long term, and grants for basic research (§8);
 - prepares the long-horizon section of Public Policy Office evaluations (§9); and
 - makes submissions for future generations (§10).
 
-**Out of scope:** The office does not write any body's plan for it, allocate resources beyond its own Stewardship Fund, direct how any other body carries out its plan (the office runs its own plan and programs), impose penalties, require private institutions or systems to plan, or decide any matter that belongs to a forum.
+**Out of scope:** The office does not write any body's plan for it, allocate resources beyond its own Stewardship Fund, direct how any other body carries out its plan (the office runs its own plan and programs), impose penalties, require a Class L or Class P body to plan, or decide any matter that belongs to a forum.
 
 ### 2. Why the Public Stewardship Office Exists
 
@@ -82,6 +82,8 @@ Those who govern answer to the sentients alive and able to vote now, over terms 
     - [Continuity](../../core_00.000_preamble.md#continuity): risks to survival, ecology, and productive capacity are seen early enough to act on;
 - Chapter Twenty-Six:
   - [§5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate), including the [Strategic Stewardship Obligation](../../subcore_03.075_band_continuity.md#strategic-stewardship-obligation);
+- Chapter Two:
+  - [§17.7 Duty to Represent Stakeholder Interests](../../core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests): representing those a system or institution affects includes planning for their future;
 - Chapter Four Articles:
   - [Article I-C](../../core_04.000_rights_part_a.md#article-i-c-intergenerational-responsibility) (*Intergenerational Responsibility*);
   - [Article I-B](../../core_04.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Ecological Footprint and Transparency*);
@@ -155,33 +157,38 @@ It looks further than 100 years where a risk requires it. Across these horizons,
 
 ### 7. Stewardship Plans and Progress Reports
 
-*In plain terms: every public body has to show, in a written plan, how it will deal with the long-term risks in its area, and then report each year on how it is doing. The largest private players report too, but only on how the risks they hold are developing. The office checks and publishes all of it.*
+*In plain terms: those who run systems and institutions that matter to many sentients are already bound to act for those sentients. Acting for someone means planning for their future. So every public body, and every system or institution of Class C or higher, public or private, writes a plan that answers the outlook and reports each year on how it is doing. The office checks and publishes the plans and reports; it never writes them.*
 
-The office coordinates public stewardship by requiring plans and reports, while those who hold authority keep the choice of what to do:
+Stewards already owe a duty to the sentients their system or institution affects under [Chapter Two §17.7 Duty to Represent Stakeholder Interests](../../core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests). Representing someone's interests includes planning for their future, and planning serves both [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims): [Continuity](../../core_00.000_preamble.md#continuity), because risks seen and planned for early can be survived, and [Flourishing](../../core_00.000_preamble.md#flourishing), because wellbeing over time depends on choices made well ahead. The duty to plan therefore follows the size of a body's effect on sentients, not whether it is public or private. Those who hold authority keep the choice of what to do:
 
 - **Who must submit a stewardship plan:**
     - the governing authority and each public office, department, or agency acting under it;
-    - each Independent Body, for the risks in its own domain; and
-    - any other public body that the outlook names as holding responsibility for a risk in the register.
+    - each Independent Body, for the risks in its own domain;
+    - any other public body that the outlook names as holding responsibility for a risk in the register; and
+    - every system or institution of Class A, Class B, or Class C under [Subcore 8-A §7 System Impact Classifications](../../subcore_08.010_system_classification.md#7-system-impact-classifications) or its institutional counterpart, whether public or private.
+- **Below Class C:** a Class L or Class P system or institution may plan against the outlook but is not required to.
 - **What a stewardship plan contains:**
-    - the risks and priorities in the outlook and guidance that fall within the body's responsibility;
+    - the risks and priorities in the outlook and guidance that bear on the body or on the sentients it affects;
     - what the body will do about each, by when, and with what resources, or why it will not act, in concrete steps for the 5- and 10-year horizons and as a stated direction for the 25-, 50-, and 100-year horizons;
+    - any other planning the body judges important to the sentients it represents;
+    - how the stakeholders it represents were heard in making the plan, through the routes [Article XII-A](../../core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) requires;
     - the indicators by which progress will be judged; and
-    - how the plan fits the governing authority's strategy under [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
-- **When plans are due:** within one year of each Long-Term Outlook, and again when a body's responsibilities change materially.
-- **Who must report progress, once a year:**
-    - every body that submitted a stewardship plan, against that plan;
-    - each steward of a critical system under [CS-26.305 — Critical system stewardship](../../corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship), on the register risks its system holds; and
-    - each institution above a published size, on the register risks it holds.
-- **Private actors report, but do not plan:** a private institution or system reports facts about the risks it holds, in the published template. It is never required to submit a plan aligned with the outlook, and no report may be used to direct its lawful activity.
+    - for a public body, how the plan fits the governing authority's strategy under [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
+- **When plans are due:** within one year of each Long-Term Outlook, within one year of a body reaching Class C, and again when a body's responsibilities change materially.
+- **Progress reports:** every body that must plan reports once a year on its progress against its plan, in the published template.
 - **Review:** the office reviews each plan for whether it answers the outlook and is realistic, and each report for whether it shows real progress. It publishes every plan, report, and review, with information protected under the Chapter Four Rights Floor described but withheld.
-- **Limits:** the office may say that a plan falls short and why. It may not rewrite a plan, approve or veto one, allocate resources, or impose a penalty. An Independent Body's plan never overrides that body's independent judgment within its own domain.
-- **Failure to submit:** a missing or late plan or report is published as such. For a public body it is a procedural failure that may be challenged under [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism); for a critical-system steward or a reporting institution it is a disclosure failure under the adopted implementation text that governs it.
+- **Limits:**
+    - the office may say that a plan falls short and why;
+    - it may not rewrite a plan, approve or veto one, allocate resources, or impose a penalty;
+    - a plan is the body's own: the office may not use a plan or report to direct a body's lawful activity; and
+    - an Independent Body's plan never overrides that body's independent judgment within its own domain.
+- **Failure to submit:** a missing or late plan or report is published as such.
+    - For a public body, it is also a procedural failure that may be challenged under [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism).
+    - For any other body, it is a missing item in its System Charter or Institutional Charter under [Chapter Five §3.6 If a System Charter or Institutional Charter Is Missing](../../core_05.000_charters.md#36-if-a-system-charter-or-institutional-charter-is-missing).
 - **Use in the progress assessment:** plans and reports are the main evidence for the progress assessment in §6.
 - **Carried in the System Charter or Institutional Charter:** planning and evaluation in response to stewardship guidance is a standing item in each System Charter and Institutional Charter under [Chapter Five §5 What System and Institutional Charters Must State](../../core_05.000_charters.md#5-what-system-and-institutional-charters-must-state), so that it is part of how every chartered body describes itself, not a separate exercise:
-    - **A public body's System Charter or Institutional Charter** points, by Charter Pointer, to its current stewardship plan and its latest progress report, and names who in the body is responsible for them;
-    - **A critical-system steward's or reporting institution's System Charter or Institutional Charter** points to its latest progress report on the register risks it holds;
-    - **Any other chartered body's System Charter or Institutional Charter** states whether the body plans against the outlook, and if it does, points to that plan; saying it does not is a complete answer;
+    - **A body that must plan** points, by Charter Pointer, to its current stewardship plan and its latest progress report, and names who in the body is responsible for them;
+    - **A Class L or Class P body** states whether it plans against the outlook, and if it does, points to that plan; saying it does not is a complete answer;
     - **Upkeep:** a dead or out-of-date pointer to a required plan or report is a missing item under [Chapter Five §5.2 Charter Pointers](../../core_05.000_charters.md#52-charter-pointers), handled like any other missing item.
 
 ### 8. Stewardship Fund: Improvement Incentives, Public Education, and Basic Research
