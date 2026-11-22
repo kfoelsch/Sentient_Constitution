@@ -18,7 +18,8 @@ rewritten when the file is placed.
 > 3. **No ranking of political aims.** The office tests whether a proposal is likely to achieve the aim its sponsor states, at what cost, and to whom. It does not say which aims are better.
 > 4. **Open decision-making models.** Added 2026-11-22 at the custodian's request ("creates and publishes open models for decision making. We want the foundations of its work to be as widely available as possible"): the office publishes its models, data, and tools under an open licence, keeps every evaluation reproducible, takes outside improvements, and may not rest an evaluation on a closed model (§9).
 > 5. **Best-practice additions.** Added 2026-11-22 at the custodian's request ("Please implement your recommendations"), from the [best-practice comparison](../analysis/ppo_international_comparison_2026-11-22.md): a right of access to information (§3, resting on the new *Access to information* requirement in Chapter Seven §3, which is binding text and applies to every Independent Body); a short-form update when a proposal is materially amended after its evaluation (§6); the sponsor's own impact statement, rated fit or not fit for purpose (§5.2); voluntary platform costing before contested selections and drafting help open to every sponsor (§8); and an outside review of the office every five years (§10).
-> 6. **Defaults:** evaluation within 60 days of a request (30 days for a short-form evaluation); information from a public body or sponsor within 15 days of the office's request; an amendment update within 10 days of the amendment; an emergency measure evaluated before any continuation past its default expiry under Chapter Twenty-Three §5.1, in short form if time requires, and in full within 90 days after it takes effect; a review at the policy's set date and no later than five years after adoption; platform costings published together at least 14 days before a contested selection; an outside review at least every five years.
+> 6. **Evaluation at cost.** Added 2026-11-22 at the custodian's request ("any sentient should be able to propose a diligent policy and have it evaluated at cost. The results would be required to be published just like any other submission"): §4.5 lets any sentient submit a proposal on the template and pay the published cost, with fee relief for those who cannot pay, the same methods as every evaluation, compulsory publication with no withdrawal, and required evaluations first.
+> 7. **Defaults:** evaluation within 60 days of a request (30 days for a short-form evaluation); information from a public body or sponsor within 15 days of the office's request; an amendment update within 10 days of the amendment; an emergency measure evaluated before any continuation past its default expiry under Chapter Twenty-Three §5.1, in short form if time requires, and in full within 90 days after it takes effect; a review at the policy's set date and no later than five years after adoption; platform costings published together at least 14 days before a contested selection; an outside review at least every five years; fee relief for evaluations at cost from a reserved one tenth of the capacity given to them.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) would list the office with the one-line guarantees in the box below.
@@ -54,6 +55,7 @@ rewritten when the file is placed.
 **Scope:** The office:
 
 - evaluates proposals for binding policy that meet the materiality threshold in §4.1, or are asked for under §4.2 and §4.3, and updates an evaluation when a proposal is materially amended (§6);
+- evaluates, at cost, any proposal a sentient submits under §4.5;
 - rates each sponsor's own impact statement (§5.2);
 - reviews adopted policy at its set review date;
 - publishes every evaluation and review with its data, methods, and confidence;
@@ -107,7 +109,7 @@ The office is an Independent Body and meets [Chapter Seven §3 What Makes a Body
 
 *In plain terms: every proposal that would make a real difference to many sentients, to rights, or to public money gets an evaluation before it is decided.*
 
-This section sets which proposals must be evaluated (§4.1), who may ask for an evaluation of any other proposal (§4.2), how a question that uncovers a gap is handled (§4.3), and how emergency measures are evaluated (§4.4).
+This section sets which proposals must be evaluated (§4.1), who may ask for an evaluation of any other proposal (§4.2), how a question that uncovers a gap is handled (§4.3), how emergency measures are evaluated (§4.4), and how any sentient may have a proposal of their own evaluated at cost (§4.5).
 
 #### 4.1 The Materiality Threshold
 
@@ -152,6 +154,18 @@ The emergency rules of [Chapter Twenty-Three §5.1 Emergency Measures and Contin
 - **An input, not the review:** the evaluation is evidence for the independent reviewer and for the body deciding continuation. It does not take the place of the independent review, and it never delays the protective steps or the restore-challenge clock.
 - **Looking back:** once the measure ends, the office's review under §7 is published as an input to the retrospective review required by [Article XXVII-A](../../core_04.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure) (*Retrospective Review and Disclosure*).
 - **No normalization:** a proposal to make an emergency measure permanent is a new proposal, evaluated in full under this section before it is adopted.
+
+#### 4.5 Evaluation at Cost
+
+Any sentient may propose a policy of their own and have the office evaluate it, whether or not anyone has put it forward for decision:
+
+- **A diligent proposal:** the proposal is submitted on the office's published template. It states its aim, says what it would change and for whom, and is specific enough to evaluate. The office returns a proposal that falls short, once, with the reasons, so that it can be fixed.
+- **At cost:** the requester pays a fee that covers the office's published cost of the evaluation and no more. The fee schedule is published, depends only on the size of the evaluation, and never on who asks or on what the result is likely to be.
+- **Fee relief:** a requester who cannot pay may ask for a reduced or waived fee under a published rule. The office keeps a published share of its capacity for these evaluations (by default, one tenth of the capacity it gives to evaluations at cost).
+- **Same evaluation:** the office evaluates the proposal by the same methods, template, and confidence ladder as any other (§5.1 and §8), in short form or in full as the requester chooses. Paying the fee buys the evaluation, never a finding.
+- **Published like any other:** the proposal and the evaluation are published together, as every evaluation is under §10. Once submitted, a proposal cannot be withdrawn to keep its evaluation from being published.
+- **Capacity:** evaluations required under §4.1 through §4.4 come first. The office publishes its queue and expected waiting times, and fees pay for added capacity, so that this route never slows required evaluations.
+- **What it is not:** an evaluation at cost does not put a proposal before the governing authority or any forum. A sponsor who later introduces the same proposal may rely on the evaluation, updated under §6 if the proposal has changed.
 
 ### 5. What an Evaluation Contains
 
