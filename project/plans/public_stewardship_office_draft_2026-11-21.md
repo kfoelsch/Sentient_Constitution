@@ -299,7 +299,7 @@ The office may help the public understand the long-term picture and argue for ac
 Part of the fund pays for research whose value lies in understanding rather than in any near-term product:
 
 - At least one-third of the fund is reserved for basic research: open-ended inquiry that seeks understanding rather than a product.
-- The office sets the share and the broad fields only. Individual grants are decided on merit by review panels of qualified researchers drawn by lot, and the office may not choose, veto, or steer individual projects or their findings.
+- The office sets the share and the broad fields only, and ranks the fields by urgency, drawing on the risks and priorities in the outlook and register. Individual grants are decided on merit by review panels of qualified researchers drawn by lot, and the office may not choose, veto, or steer individual projects or their findings.
 - Grants do not depend on any expected commercial or political return.
 - **Unconventional research:** at least 5 percent of the basic-research share is set aside for riskier, unconventional work that does not fully align with consensus views in science and engineering:
     - **Its own panel:** these grants are decided by a separate review panel drawn by lot, which includes reviewers from outside the field in question;
@@ -313,6 +313,21 @@ Part of the fund pays for research whose value lies in understanding rather than
     - **A path to more:** a team that delivers what it promised has a published record it can rely on when it competes for larger grants;
     - **No gaming:** an established team or institution may not qualify by renaming or splitting itself, and the office publishes who received each grant and their prior funding.
 - Results and data are published openly, except where publication would create a grave hazard to life or safety; any such withholding is described in public with its reason and reviewed at least every two years.
+- **Review of results:** when a grant ends, a review panel drawn by lot rates what the work achieved on a five-point scale of worth:
+    - **What is rated:** how worthwhile the results are, not how exactly they match the goals stated in the proposal; a sound change of direction is not counted against the work, and a clear negative result that settles a question counts as real worth;
+    - **The scale:**
+        - **5, major contribution:** changed understanding, or opened a new field, method, or line of work;
+        - **4, substantial:** clear new knowledge that others are building on;
+        - **3, solid:** sound and useful results, including a clear negative result;
+        - **2, limited:** little new knowledge, or methods too weak to rely on;
+        - **1, none:** the work was not done, or its results were not reported honestly;
+    - **A second look:** because the worth of basic research often shows only later, each grant is rated again five years after it ends, and the later rating stands alongside the first;
+    - **Published and answerable:** every rating is published with its reasons, and the researchers may respond and ask for reconsideration;
+    - **Findings are free:** a rating never rewards or penalizes results for being welcome or unwelcome to any authority, faction, or consensus.
+- **How ratings shape future funding:**
+    - **Urgency first:** the fund's money is divided among fields by their urgency rank, so the most urgent topics always get priority;
+    - **Track record second:** within a field, the panels deciding new grants weigh each applicant's past ratings alongside the quality of the proposal;
+    - **New teams are not penalized:** a team with no ratings yet competes on its proposal alone, including through the new-teams set-aside.
 
 #### 8.5 Fair Awards and Accountability
 
