@@ -60,7 +60,7 @@ rewritten when the file is placed.
 - prepares the long-horizon section of Public Policy Office evaluations (§9); and
 - makes submissions for future generations (§10).
 
-**Out of scope:** The office does not write any body's plan for it, allocate resources beyond its own Stewardship Fund, direct how a plan is carried out, impose penalties, require private institutions or systems to plan, or decide any matter that belongs to a forum.
+**Out of scope:** The office does not write any body's plan for it, allocate resources beyond its own Stewardship Fund, direct how any other body carries out its plan (the office runs its own plan and programs), impose penalties, require private institutions or systems to plan, or decide any matter that belongs to a forum.
 
 ### 2. Why the Public Stewardship Office Exists
 
@@ -209,7 +209,7 @@ The office runs a **Stewardship Fund** so that it can do more than advise: it ca
 
 *In plain terms: the office makes sure everyone with public responsibility has a plan and reports on it, but it never writes those plans or tells anyone what to produce, buy, or do.*
 
-- The office requires plans and reports under §7 and offers incentives and grants under §8, and its power ends there: it does not plan production, allocate resources beyond its own fund, set binding targets, or direct how any institution, system, or sentient carries out its work.
+- The office requires plans and reports under §7 and offers incentives and grants under §8, and its power ends there: it does not plan production, allocate resources beyond its own fund, set binding targets, or direct how any institution, system, or sentient outside the office carries out its work. Within the office, it plans and runs its own work, including the Stewardship Fund's programs.
 - An incentive is an offer, never a duty. No one is penalized for declining one, and no public body may make an incentive a condition of any right or service.
 - Its guidance is advice. No rule, contract, or funding decision may treat it as a command.
 - More than one long-term strategy can be legitimate. The office's guidance never limits the pluralism protected by [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism).
