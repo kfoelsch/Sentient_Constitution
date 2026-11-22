@@ -18,7 +18,7 @@ rewritten when the file is placed.
 > 3. **A voice for those not yet here.** The office may make submissions, in forums and consultations, on behalf of the future generations protected by Article I-C. It cannot block a decision.
 > 4. **A Stewardship Fund.** Added 2026-11-21 at the custodian's request: the office has its own budget, a fixed minimum share of public spending set for each four-year cycle, which pays for outcome-based incentives for technological, ecological, and social improvement and for public education and advocacy on long-term priorities, and reserves at least one-third for basic research decided by peer review panels drawn by lot (§8). This is the one place the office allocates resources.
 > 5. **Terms longer than the political cycle,** so the office does not turn over with each selection.
-> 6. **Defaults:** a Long-Term Outlook at least every four years, looking at least 25 years ahead and further where a risk requires it; members serve one staggered term of eight years; stewardship plans due within one year of each outlook; progress reports once a year; at least one-third of the fund for basic research; incentive programs end no more than ten years after they open.
+> 6. **Defaults:** a Long-Term Outlook at least every four years, looking at least 100 years ahead, in greater detail for the first 25 years, and further where a risk requires it; members serve one staggered term of eight years; stewardship plans due within one year of each outlook; progress reports once a year; at least one-third of the fund for basic research; incentive programs end no more than ten years after they open.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) would list the office with the one-line guarantees in the box below.
@@ -101,7 +101,7 @@ The office is an Independent Body and meets [Chapter Seven §3 What Makes a Body
 
 *In plain terms: every few years the office publishes its best honest picture of where things are heading, and what could go badly wrong or well.*
 
-The office publishes a **Long-Term Outlook** at least every four years, and before each regular contested selection where the cycle allows. It looks at least 25 years ahead, and further where a risk requires it. At a minimum it covers:
+The office publishes a **Long-Term Outlook** at least every four years, and before each regular contested selection where the cycle allows. It looks at least 100 years ahead, in greater detail for the first 25 years, and further where a risk requires it. At a minimum it covers:
 
 - **Trends:** the likely course of population, wellbeing, survival-floor access, and the condition of [Productive Capacity](../../subcore_03.075_band_continuity.md#productive-capacity);
 - **Ecology:** ecological limits and footprint, as Article I-B requires to be visible;
