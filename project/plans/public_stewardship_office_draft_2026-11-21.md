@@ -202,7 +202,13 @@ Plans follow a yearly cascade, so that each layer can respond to the one before 
 
 The office reviews and publishes what it receives, but the plan stays the body's own:
 
-- **Review:** the office reviews each plan for whether it answers the outlook and is realistic, and each report for whether it shows real progress. It publishes every plan, report, and review, with information protected under the Chapter Four Rights Floor described but withheld.
+- **Review:** the office reads every plan and report it receives and writes a short public review of each:
+    - **Plans:** whether the plan deals with the risks and priorities in the outlook that bear on the body, and whether its steps, timing, and resources could actually deliver what it promises;
+    - **Progress reports:** whether the body has moved forward on the indicators its own plan set, not merely been busy;
+    - **When:** the reviews of each cycle's plans and reports appear in the next Yearly Stewardship Report under §4.
+- **Publication:** every plan, report, and review is published in full, with one exception:
+    - **What is withheld:** any part that contains information the Chapter Four Rights Floor protects, such as personal information about individual sentients;
+    - **What is shown instead:** a note in its place saying what kind of information was withheld and why, so that readers know something is missing and can ask for it to be justified.
 - **Limits:**
     - the office may say that a plan falls short and why;
     - it may not rewrite a plan, approve or veto one, allocate resources, or impose a penalty;
