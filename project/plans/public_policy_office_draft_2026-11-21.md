@@ -17,7 +17,7 @@ rewritten when the file is placed.
 > 2. **Evaluation before the final decision** for every proposal above a published materiality threshold, and a **review after adoption** at a date set when the policy is adopted.
 > 3. **No ranking of political aims.** The office tests whether a proposal is likely to achieve the aim its sponsor states, at what cost, and to whom. It does not say which aims are better.
 > 4. **Open decision-making models.** Added 2026-11-22 at the custodian's request ("creates and publishes open models for decision making. We want the foundations of its work to be as widely available as possible"): the office publishes its models, data, and tools under an open licence, keeps every evaluation reproducible, takes outside improvements, and may not rest an evaluation on a closed model (§9).
-> 5. **Defaults:** evaluation within 60 days of a request (30 days for a short-form evaluation); an emergency measure evaluated within 90 days after it takes effect; a review at the policy's set date and no later than five years after adoption.
+> 5. **Defaults:** evaluation within 60 days of a request (30 days for a short-form evaluation); an emergency measure evaluated before any continuation past its default expiry under Chapter Twenty-Three §5.1, in short form if time requires, and in full within 90 days after it takes effect; a review at the policy's set date and no later than five years after adoption.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) would list the office with the one-line guarantees in the box below.
@@ -119,7 +119,13 @@ A proposal below the threshold is evaluated when any of the following asks:
 - **Where there is none:** the office says where the effect is already addressed, or why it is not likely to be material;
 - **No flooding:** the office may answer questions that raise the same point together, and need not answer again a point it has already answered.
 
-**Emergency measures:** a measure adopted under a declared emergency may take effect before evaluation. The office evaluates it within 90 days after it takes effect, and the evaluation is a required input to any renewal of the measure.
+**Emergency measures:** the emergency rules of [Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](../../core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) and [Chapter Six §8 Emergency and Urgent Action](../../core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) govern every emergency measure. This office adds evidence to them; it does not replace their review or their clocks:
+
+- **Before evaluation:** a measure taken under those rules may take effect before the office evaluates it. Its default expiry, independent review, and restore-challenge window run as Chapter Twenty-Three §5.1 sets them.
+- **Evaluation before any continuation:** a measure that would continue past its default expiry must carry the continuation burden of Chapter Twenty-Three §5.1: continuing necessity, proportionality, and the absence of a less-restrictive feasible alternative. The office publishes an evaluation addressing those three points, with the measure's likely effects and costs, before the decision to continue is made. Where time is too short for a full evaluation, it publishes a short-form evaluation first and the full evaluation within 90 days after the measure took effect.
+- **An input, not the review:** the evaluation is evidence for the independent reviewer and for the body deciding continuation. It does not take the place of the independent review, and it never delays the protective steps or the restore-challenge clock.
+- **Looking back:** once the measure ends, the office's review under §7 is published as an input to the retrospective review required by [Article XXVII-A](../../core_04.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure) (*Retrospective Review and Disclosure*).
+- **No normalization:** a proposal to make an emergency measure permanent is a new proposal, evaluated in full under this section before it is adopted.
 
 ### 5. What an Evaluation Contains
 
