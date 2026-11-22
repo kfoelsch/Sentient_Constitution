@@ -14,11 +14,12 @@ rewritten when the file is placed.
 >
 > **Choices this draft makes (all provisional, for the custodian to confirm):**
 > 1. **Required plans and reports, but not dictated content.** Added 2026-11-21 at the custodian's request: public bodies, and every system or institution of Class C or higher, must submit stewardship plans that answer the outlook and report progress against them once a year (§7). Added later the same day at the custodian's request: plans follow a yearly cascade, with the office's report on April 1, public bodies' plans on July 1, and every other Class C or higher body's plan on October 1. The office reviews and publishes; it cannot write a body's plan for it, allocate resources, or punish. The governing authority keeps every decision, but must say in public how its strategy responds to the office's guidance.
-> 2. **Class, not ownership, decides who plans.** Changed 2026-11-21 at the custodian's request ("we require that stewards represent their constituents. If we are doing that, doesn't that mean that they should be planning too? ... I don't think the line between private and public makes any difference here."). An earlier version required plans from public bodies only. Because stewards must represent stakeholder interests under Chapter Two §17.7, and because planning is essential to both Continuity and Flourishing, every system or institution of Class C or higher plans, public or private, and may add any planning it judges important to the sentients it represents. Class L and Class P bodies may plan but need not. The office still cannot direct any body's lawful activity through a plan.
-> 3. **A voice for those not yet here.** The office may make submissions, in forums and consultations, on behalf of the future generations protected by Article I-C. It cannot block a decision.
-> 4. **A Stewardship Fund.** Added 2026-11-21 at the custodian's request: the office has its own budget, a fixed minimum share of public spending set for each four-year cycle, which pays for outcome-based incentives for technological, ecological, and social improvement and for public education and advocacy on long-term priorities, and reserves at least one-third for basic research decided by peer review panels drawn by lot (§8). This is the one place the office allocates resources.
-> 5. **Terms longer than the political cycle,** so the office does not turn over with each selection.
-> 6. **Defaults:** a Yearly Stewardship Report on April 1, public plans on July 1, and other plans on October 1; a full Long-Term Outlook at least every fourth year, looking 5, 10, 25, 50, and 100 years ahead, with less detail the further out it looks, and further where a risk requires it; members serve one staggered term of eight years; a full plan after each outlook and a yearly update and progress report in between; at least one-third of the fund for basic research; incentive programs end no more than ten years after they open.
+> 2. **An alignment ladder with a forum route.** Added 2026-11-22 at the custodian's request: each review ends with a rating from 1 to 5 (§7.5). A rating below 3 opens the body to contest before a forum, which may order a revised plan and a renewed stakeholder hearing, and record a failure that continues across two cycles, but may not dictate the plan's content. The rating measures the quality of a body's response, not agreement with the guidance.
+> 3. **Class, not ownership, decides who plans.** Changed 2026-11-21 at the custodian's request ("we require that stewards represent their constituents. If we are doing that, doesn't that mean that they should be planning too? ... I don't think the line between private and public makes any difference here."). An earlier version required plans from public bodies only. Because stewards must represent stakeholder interests under Chapter Two §17.7, and because planning is essential to both Continuity and Flourishing, every system or institution of Class C or higher plans, public or private, and may add any planning it judges important to the sentients it represents. Class L and Class P bodies may plan but need not. The office still cannot direct any body's lawful activity through a plan.
+> 4. **A voice for those not yet here.** The office may make submissions, in forums and consultations, on behalf of the future generations protected by Article I-C. It cannot block a decision.
+> 5. **A Stewardship Fund.** Added 2026-11-21 at the custodian's request: the office has its own budget, a fixed minimum share of public spending set for each four-year cycle, which pays for outcome-based incentives for technological, ecological, and social improvement and for public education and advocacy on long-term priorities, and reserves at least one-third for basic research decided by peer review panels drawn by lot (§8). This is the one place the office allocates resources.
+> 6. **Terms longer than the political cycle,** so the office does not turn over with each selection.
+> 7. **Defaults:** a Yearly Stewardship Report on April 1, public plans on July 1, and other plans on October 1; a full Long-Term Outlook at least every fourth year, looking 5, 10, 25, 50, and 100 years ahead, with less detail the further out it looks, and further where a risk requires it; members serve one staggered term of eight years; a full plan after each outlook and a yearly update and progress report in between; at least one-third of the fund for basic research; incentive programs end no more than ten years after they open.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Five §5.1 What a System Charter States](../../core_05.000_charters.md#51-what-a-system-charter-states) would gain item 11, which §5.3 then carries into every Institutional Charter: "**Stewardship planning and evaluation:** how the Chartered Party plans for, and evaluates its progress against, the stewardship guidance that bears on it, by Charter Pointer to its stewardship plan and progress report where Subcore 7-[S] §7 requires them, or a statement that it does not plan against the outlook where §7 does not." Added 2026-11-21 at the custodian's request.
@@ -161,7 +162,7 @@ It looks further than 100 years where a risk requires it. Across these horizons,
 
 Stewards already owe a duty to the sentients their system or institution affects under [Chapter Two §17.7 Duty to Represent Stakeholder Interests](../../core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests). Representing someone's interests includes planning for their future, and planning serves both [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims): [Continuity](../../core_00.000_preamble.md#continuity), because risks seen and planned for early can be survived, and [Flourishing](../../core_00.000_preamble.md#flourishing), because wellbeing over time depends on choices made well ahead. The duty to plan therefore follows the size of a body's effect on sentients, not whether it is public or private. Those who hold authority keep the choice of what to do.
 
-The subsections below say who must plan (§7.1), what a plan contains (§7.2), when plans are due (§7.3), how the office reviews them and where its power stops (§7.4), what happens when a plan is missing (§7.5), and how planning appears in each System Charter and Institutional Charter (§7.6).
+The subsections below say who must plan (§7.1), what a plan contains (§7.2), when plans are due (§7.3), how the office reviews them and where its power stops (§7.4), how each plan is rated and what a low rating opens to challenge (§7.5), what happens when a plan is missing (§7.6), and how planning appears in each System Charter and Institutional Charter (§7.7).
 
 #### 7.1 Who Must Plan
 
@@ -213,19 +214,38 @@ The office reviews and publishes what it receives, but the plan stays the body's
     - **Holding back:** any withholding is narrow, documented, and challengeable, and the published version notes which type was withheld and why; no withholding may hide a material risk, a failure, or a lack of progress.
 - **Limits:**
     - the office may say that a plan falls short and why;
-    - it may not rewrite a plan, approve or veto one, allocate resources, or impose a penalty;
+    - it may not rewrite a plan, approve or veto one, allocate resources, or impose a penalty; its alignment rating under §7.5 is a published assessment, and any consequence of a low rating is decided by a forum, not by the office;
     - a plan is the body's own: the office may not use a plan or report to direct a body's lawful activity; and
     - an Independent Body's plan never overrides that body's independent judgment within its own domain.
 - **Use in the progress assessment:** plans and reports are the main evidence for the progress assessment in §6.
 
-#### 7.5 Failure to Submit
+#### 7.5 Alignment Rating and Forum Contest
 
-A missing plan or report is never hidden. The office publishes every missing or late plan or report as such, and it has a further consequence:
+Each review ends with an **alignment rating** on a five-point ladder, so that readers can see at a glance how well a body is planning for the sentients it affects, and so that a poor plan has a consequence that someone other than the office decides.
+
+- **What the rating measures:** how well the plan and progress report answer the outlook and guidance, not whether the body agrees with them. A body that departs from the guidance with credible, published reasons can still rate well, so the ladder never limits the pluralism protected by [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism).
+- **The ladder:**
+    - **5, fully aligned:** deals with every relevant risk and priority, with realistic steps, resources, and indicators, and progress is on track;
+    - **4, largely aligned:** minor gaps or delays, each with a credible plan to close it;
+    - **3, adequately reasoned:** deals with the main risks; any departure from the guidance is explained with credible reasons; progress is partial but real;
+    - **2, weak:** a material risk is ignored or unexplained, the steps could not deliver what the plan promises, or progress has stalled without a credible reason;
+    - **1, absent or empty:** no plan or report, a token plan, or no progress and no explanation.
+- **Published with reasons:** each rating is published with the review that supports it, in the Yearly Stewardship Report, and the office applies the same published criteria to every body.
+- **Contesting the rating:** a body may ask the office to reconsider its rating within a published period after the report, and may then contest it before a forum under [Chapter Twenty-Two](../../core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases).
+- **A rating below 3 opens the body to forum contest:**
+    - **Who may bring it:** any sentient the body represents or materially affects, or the office itself; for a public body, any sentient;
+    - **What the forum decides:** whether the body has failed its duty to plan for those it represents under [Chapter Two §17.7 Duty to Represent Stakeholder Interests](../../core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests);
+    - **What the forum may order:** a revised plan by a set date, a renewed hearing of the body's stakeholders under [Article XII-A](../../core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation), and, where the failure continues across two cycles, a record of it in the body's standing records under [Chapter Fourteen](../../core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened);
+    - **What the forum may not order:** the content of the plan, or any step that directs the body's lawful activity beyond planning properly.
+
+#### 7.6 Failure to Submit
+
+A missing plan or report is never hidden. The office publishes every missing or late plan or report as such and rates it 1 under §7.5, and it has a further consequence:
 
 - **For a public body:** it is a procedural failure that may be challenged under [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism).
 - **For any other body:** it is a missing item in its System Charter or Institutional Charter under [Chapter Five §3.6 If a System Charter or Institutional Charter Is Missing](../../core_05.000_charters.md#36-if-a-system-charter-or-institutional-charter-is-missing).
 
-#### 7.6 Carried in the System Charter or Institutional Charter
+#### 7.7 Carried in the System Charter or Institutional Charter
 
 Planning and evaluation in response to stewardship guidance is a standing item in each System Charter and Institutional Charter under [Chapter Five §5 What System and Institutional Charters Must State](../../core_05.000_charters.md#5-what-system-and-institutional-charters-must-state), so that it is part of how every chartered body describes itself, not a separate exercise:
 
