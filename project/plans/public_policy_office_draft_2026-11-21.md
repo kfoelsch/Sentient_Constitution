@@ -19,7 +19,8 @@ rewritten when the file is placed.
 > 4. **Open decision-making models.** Added 2026-11-22 at the custodian's request ("creates and publishes open models for decision making. We want the foundations of its work to be as widely available as possible"): the office publishes its models, data, and tools under an open licence, keeps every evaluation reproducible, takes outside improvements, and may not rest an evaluation on a closed model (§9).
 > 5. **Best-practice additions.** Added 2026-11-22 at the custodian's request ("Please implement your recommendations"), from the [best-practice comparison](../analysis/ppo_international_comparison_2026-11-22.md): a right of access to information (§3, resting on the new *Access to information* requirement in Chapter Seven §3, which is binding text and applies to every Independent Body); a short-form update when a proposal is materially amended after its evaluation (§6); the sponsor's own impact statement, rated fit or not fit for purpose (§5.2); voluntary platform costing before contested selections and drafting help open to every sponsor (§8); and an outside review of the office every five years (§10).
 > 6. **Evaluation at cost.** Added 2026-11-22 at the custodian's request ("any sentient should be able to propose a diligent policy and have it evaluated at cost. The results would be required to be published just like any other submission"): §4.5 lets any sentient submit a proposal on the template and pay the published cost, with fee relief for those who cannot pay, the same methods as every evaluation, compulsory publication with no withdrawal, and required evaluations first.
-> 7. **Defaults:** evaluation within 60 days of a request (30 days for a short-form evaluation); information from a public body or sponsor within 15 days of the office's request; an amendment update within 10 days of the amendment; an emergency measure evaluated before any continuation past its default expiry under Chapter Twenty-Three §5.1, in short form if time requires, and in full within 90 days after it takes effect; a review at the policy's set date and no later than five years after adoption; platform costings published together at least 14 days before a contested selection; an outside review at least every five years; fee relief for evaluations at cost from a reserved one tenth of the capacity given to them.
+> 7. **Constitutional alignment screen.** Added 2026-11-22 at the custodian's request ("there ought to be some kind of constitutional alignment evaluation of policies. Those that are not aligned would be rejected without a full evaluation"): §4.6 screens every proposal first. A proposal plainly in conflict with binding text gets a published screening finding instead of a full evaluation. The finding is not a ruling: final interpretation stays with the Constitutional Forums under Article XXVI, the finding can be contested there, and the office still cannot block a decision, but a governing authority that proceeds must answer the finding.
+> 8. **Defaults:** a constitutional alignment screen within 10 days of receiving a proposal; evaluation within 60 days of a request (30 days for a short-form evaluation); information from a public body or sponsor within 15 days of the office's request; an amendment update within 10 days of the amendment; an emergency measure evaluated before any continuation past its default expiry under Chapter Twenty-Three §5.1, in short form if time requires, and in full within 90 days after it takes effect; a review at the policy's set date and no later than five years after adoption; platform costings published together at least 14 days before a contested selection; an outside review at least every five years; fee relief for evaluations at cost from a reserved one tenth of the capacity given to them.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) would list the office with the one-line guarantees in the box below.
@@ -56,6 +57,7 @@ rewritten when the file is placed.
 
 - evaluates proposals for binding policy that meet the materiality threshold in §4.1, or are asked for under §4.2 and §4.3, and updates an evaluation when a proposal is materially amended (§6);
 - evaluates, at cost, any proposal a sentient submits under §4.5;
+- screens every proposal for constitutional alignment before a full evaluation, and declines a full evaluation of a proposal that plainly conflicts with this Constitution (§4.6);
 - rates each sponsor's own impact statement (§5.2);
 - reviews adopted policy at its set review date;
 - publishes every evaluation and review with its data, methods, and confidence;
@@ -109,7 +111,7 @@ The office is an Independent Body and meets [Chapter Seven §3 What Makes a Body
 
 *In plain terms: every proposal that would make a real difference to many sentients, to rights, or to public money gets an evaluation before it is decided.*
 
-This section sets which proposals must be evaluated (§4.1), who may ask for an evaluation of any other proposal (§4.2), how a question that uncovers a gap is handled (§4.3), how emergency measures are evaluated (§4.4), and how any sentient may have a proposal of their own evaluated at cost (§4.5).
+This section sets which proposals must be evaluated (§4.1), who may ask for an evaluation of any other proposal (§4.2), how a question that uncovers a gap is handled (§4.3), how emergency measures are evaluated (§4.4), how any sentient may have a proposal of their own evaluated at cost (§4.5), and the constitutional alignment screen that every proposal passes first (§4.6).
 
 #### 4.1 The Materiality Threshold
 
@@ -166,6 +168,29 @@ Any sentient may propose a policy of their own and have the office evaluate it, 
 - **Published like any other:** the proposal and the evaluation are published together, as every evaluation is under §10. Once submitted, a proposal cannot be withdrawn to keep its evaluation from being published.
 - **Capacity:** evaluations required under §4.1 through §4.4 come first. The office publishes its queue and expected waiting times, and fees pay for added capacity, so that this route never slows required evaluations.
 - **What it is not:** an evaluation at cost does not put a proposal before the governing authority or any forum. A sponsor who later introduces the same proposal may rely on the evaluation, updated under §6 if the proposal has changed.
+
+#### 4.6 Constitutional Alignment Screen
+
+Before any full evaluation, the office screens each proposal against this Constitution. A proposal that plainly conflicts with it is not given a full evaluation:
+
+- **What is screened:** whether the proposal conflicts with binding constitutional text, including:
+    - the rights of the Chapter Four Rights Floor;
+    - access to survival-floor goods and services; and
+    - the requirements of the core chapters, read with the [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims) as that text states them.
+- **What is not screened:** whether the proposal's aim is worth pursuing. The screen tests conflict with binding text, never political preference, and §8 applies to it in full.
+- **Three outcomes:** the office publishes one of these within 10 days of receiving the proposal, on published criteria:
+    - **Aligned:** no conflict is found, and the evaluation goes ahead;
+    - **In doubt:** a conflict is arguable. The evaluation goes ahead and includes an alignment section that names each provision at issue and the question it raises; and
+    - **Not aligned:** the proposal plainly conflicts with binding text on any reasonable reading. The office declines a full evaluation and publishes a screening finding that names each provision and explains the conflict.
+- **Part of a proposal:** where only part of a proposal is not aligned, the office says which part, and may evaluate the rest.
+- **Not a ruling:** a screening finding is the office's published view, not an interpretation of the Constitution. Final interpretation belongs to the Constitutional Forums under [Chapter Twenty-Three §3.6 Constitutional Forums](../../core_23.000_forum_families_escalation_timeliness_support.md#36-constitutional-forums) and [Article XXVI](../../core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+- **After a finding of not aligned:**
+    - **Revise:** the sponsor may revise the proposal and submit it again for a fresh screen;
+    - **Contest:** the sponsor, or any sentient with a [material stake](../../core_00.000_preamble.md#material-stake) in the proposal, may bring the finding before a Constitutional Forum. If the forum finds the proposal aligned or in doubt, the office evaluates it, and its time limit under §6 starts from the forum's decision; and
+    - **Proceeding anyway:** if the governing authority goes ahead with the proposal, it must answer the screening finding as a material finding under §6, and the finding is published notice for any constitutional challenge to the policy once adopted.
+- **Emergency measures:** the screen never delays a measure under §4.4. It is done with the evaluation before any continuation.
+- **Evaluation at cost:** for a proposal under §4.5 found not aligned, the requester pays only the published cost of the screen.
+- **Kept honest:** every screen is published with its reasons, and the yearly accuracy report in §10 shows how Constitutional Forums decided the findings brought before them.
 
 ### 5. What an Evaluation Contains
 
@@ -265,7 +290,7 @@ The office creates and publishes **open decision-making models**: the models, da
 *In plain terms: everything the office publishes can be checked, and once a year it shows how its past predictions turned out.*
 
 - **Open records:** each evaluation and review is published with its data, methods, assumptions, and correction history, except data that must be protected under the Chapter Four Rights Floor, which is described but withheld.
-- **Accuracy report:** each year the office publishes how its past estimates compared with outcomes, and what it changed as a result.
+- **Accuracy report:** each year the office publishes how its past estimates compared with outcomes, how Constitutional Forums decided the screening findings brought before them, and what it changed as a result.
 - **Outside review:** under *Audit of its work* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), at least every five years a panel from outside the office reviews its methods, the accuracy of its past evaluations, its access to information, and its independence in practice. The panel may include reviewers from other adopters' offices, and its findings are published with the office's response.
 - **Challenge:** any sentient may ask for a correction of an error of fact or method. Capture or manipulation of the office may be raised with the Integrity Forum.
 
