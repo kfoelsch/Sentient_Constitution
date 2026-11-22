@@ -370,7 +370,15 @@ The fund gives the office money to spend, not power over those it pays:
 
 *In plain terms: the office makes sure everyone with public responsibility has a plan and reports on it, but it never writes those plans or tells anyone what to produce, buy, or do.*
 
-- The office requires plans and reports under §7 and offers incentives and grants under §8, and its power ends there: it does not plan production, allocate resources beyond its own fund, set binding targets, or direct how any institution, system, or sentient outside the office carries out its work. Within the office, it plans and runs its own work, including the Stewardship Fund's programs.
+- **What the office may do:**
+    - require plans and reports under §7; and
+    - offer incentives and grants under §8.
+- **Where its power ends:** outside the office, it does not:
+    - plan production;
+    - allocate resources beyond its own fund;
+    - set binding targets; or
+    - direct how any institution, system, or sentient carries out its work.
+- **Inside the office:** it plans and runs its own work, including the Stewardship Fund's programs.
 - An incentive is an offer, never a duty. No one is penalized for declining one, and no public body may make an incentive a condition of any right or service.
 - Its guidance is advice. No rule, contract, or funding decision may treat it as a command.
 - More than one long-term strategy can be legitimate. The office's guidance never limits the pluralism protected by [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism).
