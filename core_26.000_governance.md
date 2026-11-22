@@ -488,9 +488,9 @@ This subsection implements **Chapter Four**, **Article X-B** (*Governance Partic
         - **Barred factors:** calendar age, substrate class, and lineage are never weighting factors.
     - **Durable political voice:** a standing lock may suspend ordinary governance-voting entitlement but must never be used to take away political voice for good ([Subcore 26-C §8 Durable Political-Voice Floor and Restoration](subcore_26.030_voting_entitlement.md#8-durable-political-voice-floor-and-restoration)):
         - **The only ground for withholding:** only a final designation of anti-constitutional misconduct for a **Violation Axis slot 7, 8, or 9** finding under **Chapter Twenty** withholds durable political voice, and only until restitution is complete;
-        - **Good-faith inability:** poverty, disability, exile, loss of substrate, or valuation uncertainty alone never keeps voice withheld where good-faith restoration is under way;
-        - **Partial restoration:** where full discharge is impossible, partial or conditional restoration milestones may restore voice;
-        - **No reward for evasion:** bad-faith delay or evasion by the sentenced party never compels early restoration; and
+        - **Good-faith inability:** a sentient who is genuinely working to make restitution does not stay without a voice merely because it cannot yet finish. Poverty, disability, exile, loss of substrate, or uncertainty about how much is owed is never, on its own, a reason to keep voice withheld while that good-faith effort continues;
+        - **Partial restoration:** where full restitution cannot be made despite good-faith effort, the procedure under **Chapter Twenty-Two** may set partial or conditional milestones instead, and meeting them may restore voice;
+        - **No reward for evasion:** a sentient who delays or evades restitution in bad faith does not get its voice back early, whether because time has passed or because restitution is still unfinished; and
         - **Limits on any restriction:** any restriction must be individualized, necessary, proportionate, narrowly tailored to the misconduct, and paired with a real restoration pathway, and restrictions that sweep in broad categories or track protected characteristics are non-compliant.
 
 #### 6.2 Records, Gates, and Method Neutrality
