@@ -18,7 +18,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > 5. **Provisional defaults:** a five-year compensation-account correction period and the published escape-clause terms in §7; both are for the custodian to confirm.
 >
 > **Existing text that would change when this is placed (not edited yet):**
-> - [Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to authorize borrowing, subject to this chapter.
+> - [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to authorize borrowing, subject to this chapter.
 > - A new corpus-institutions file would hold the cyclical-adjustment method, the sustainability test, auction rules, and ledger fields.
 
 </details>
@@ -36,9 +36,9 @@ Chapter [D] is the constitutional owner of **public debt**.
 - Upstream:
   - [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**;
   - [material stake](../../core_00.000_preamble.md#material-stake);
-  - [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
-  - [Chapter Eight §11 Independent Bodies](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (8.000 §11);
-  - the Chapter One principles and Chapter Six Articles named in the **Grounded in** block of [§2](#2-why-the-public-debt-office-exists).
+  - [Chapter Six §3 Four-Seat Constitutional Requirement](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3);
+  - [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (7.000 §3);
+  - the Chapter Two principles and Chapter Four Articles named in the **Grounded in** block of [§2](#2-why-the-public-debt-office-exists).
 - Downstream: [§2](#2-why-the-public-debt-office-exists) through [§11](#11-proportional-scaling-and-adopters-without-their-own-currency); the Public Finance Office, Public Information Office, and Public Monetary Office chapters; a new corpus-institutions file.
 - Read with:
   - [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
@@ -58,7 +58,7 @@ Chapter [D] is the constitutional owner of **public debt**.
 - The Public Finance Office chapter governs how public money is spent and protects the funding floors. It may not borrow, and this office may not decide spending.
 - The Public Monetary Office chapter governs the currency and interest rates. It may not decide or advise on how much debt is issued or when, and this office has no say over interest rates.
 - The Public Information Office chapter produces the figures this office relies on, including the cyclical adjustment in §7, and checks this office's ledger.
-- [Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to decide whether and how much to borrow, within §7.
+- [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to decide whether and how much to borrow, within §7.
 - A later corpus-institutions file carries the cyclical-adjustment method, the sustainability test, auction rules, and ledger fields. It may not narrow this chapter.
 
 **Chapter scope:** The office:
@@ -91,11 +91,11 @@ This section explains the reasons for the chapter. It is non-operative: the bind
 
 **Grounded in:**
 
-- Chapter One principles:
+- Chapter Two principles:
   - [§18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties);
   - [§19 Incentive Alignment and System Capture](../../core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); and
   - [§19.2 Convenient Proxies and Proxy Divergence](../../core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence).
-- Chapter Six Articles:
+- Chapter Four Articles:
   - [Article V-A](../../core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*);
   - [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*);
   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*); and
@@ -126,12 +126,12 @@ These reasons do not add duties. They explain why the duties in §3 to §11 take
 **Independent Body:** The Public Debt Office is an Independent Body under [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, the Public Finance Office, the Public Monetary Office, and every buyer, dealer, or adviser it deals with;
-- the protected decision-makers are the members of its debt board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in public finance, debt markets, or financial risk management; and
-- its funding is protected under *Protected funding* in Chapter Eight §11 and paid through the Public Finance Office.
+- the protected decision-makers are the members of its debt board, drawn by lot under *Appointment by sortition* in Chapter Seven §3 from candidates who pass a competency gate in public finance, debt markets, or financial risk management; and
+- its funding is protected under *Protected funding* in Chapter Seven §3 and paid through the Public Finance Office.
 
-**Seat map:** Every materially binding act of the office, such as setting the debt strategy, running an auction, or buying back debt, places the four seats under Chapter Eight. The independent check seat is an auditor outside the office.
+**Seat map:** Every materially binding act of the office, such as setting the debt strategy, running an auction, or buying back debt, places the four seats under Chapter Six. The independent check seat is an auditor outside the office.
 
-**No dual roles (added for this office):** In addition to Chapter Eight §11, no one may at the same time hold a decision seat in this office and any seat in the Public Finance Office, the Public Monetary Office, the governing authority, or a buyer, dealer, or adviser the office deals with. The office's auctions and strategy move asset prices, so *Market-moving information* in Chapter Eight §11 applies to it in full, including the quiet period before each auction and the bar on holdings.
+**No dual roles (added for this office):** In addition to Chapter Seven §3, no one may at the same time hold a decision seat in this office and any seat in the Public Finance Office, the Public Monetary Office, the governing authority, or a buyer, dealer, or adviser the office deals with. The office's auctions and strategy move asset prices, so *Market-moving information* in Chapter Seven §3 applies to it in full, including the quiet period before each auction and the bar on holdings.
 
 **Separation from interest-rate policy.** The Public Monetary Office has no say over how much debt is issued, when, or on what terms, and this office has no say over interest rates. The two offices share information only through published channels.
 
@@ -214,7 +214,7 @@ The escape clause never lifts the bar on direct financing in the Public Monetary
 
 **Paid when due.** Interest and repayments on debt already lawfully issued are paid when due.
 
-**Debt service first.** Where revenue falls short, payments on debt already lawfully issued come before the shortfall rules for everything else. The shortfall rules of the Public Finance Office chapter and *Protected funding* in Chapter Eight §11 then govern what remains.
+**Debt service first.** Where revenue falls short, payments on debt already lawfully issued come before the shortfall rules for everything else. The shortfall rules of the Public Finance Office chapter and *Protected funding* in Chapter Seven §3 then govern what remains.
 
 **No new borrowing at the floors' cost.** New borrowing may never be justified by cutting a funding floor below its formula, and the sustainability test in §7 must show that debt can be serviced without doing so.
 
@@ -235,7 +235,7 @@ The ledger follows [Article XVII](../../core_04.020_rights_part_c.md#article-xvi
 
 ### 10. Audit and Challenge
 
-*In plain terms: outsiders check the books, and anyone harmed can challenge a decision. The general rule is in Chapter Eight; this section lists what a challenge to this office may claim.*
+*In plain terms: outsiders check the books, and anyone harmed can challenge a decision. The general rule is in Chapter Seven §3; this section lists what a challenge to this office may claim.*
 
 **General rule.** The office meets *Audit and challenge* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition, the Public Information Office publishes an independent check of the ledger each cycle.
 
@@ -247,7 +247,7 @@ The ledger follows [Article XVII](../../core_04.020_rights_part_c.md#article-xvi
 - a departure from the fiscal rule not booked to the compensation account, or a correction plan not published or not followed, contrary to §7; or
 - a missed or delayed payment contrary to §8.
 
-Under *Scope of review* in Chapter Eight §11, a forum does not decide how much to borrow; it decides whether the office and the governing authority followed this chapter.
+Under *Scope of review* in Chapter Seven §3, a forum does not decide how much to borrow; it decides whether the office and the governing authority followed this chapter.
 
 ### 11. Proportional Scaling and Adopters Without Their Own Currency
 

@@ -18,7 +18,7 @@ against the live text; they will be rewritten when the chapter is placed.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - The Public Monetary Office draft §5 would point here by chapter number.
-> - [Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to set the protected amount and the levy formula, subject to this chapter.
+> - [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to set the protected amount and the levy formula, subject to this chapter.
 > - A new corpus-institutions file would hold the prudential standards, the intervention ladder, the resolution toolkit, the levy formula, and register fields.
 
 </details>
@@ -36,9 +36,9 @@ Chapter [B] is the constitutional owner of **the supervision of banks and paymen
 - Upstream:
   - [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**;
   - [material stake](../../core_00.000_preamble.md#material-stake);
-  - [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
-  - [Chapter Eight §11 Independent Bodies](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (8.000 §11);
-  - the Chapter One principles and Chapter Six Articles named in the **Grounded in** block of [§2](#2-why-the-bank-supervision-office-exists).
+  - [Chapter Six §3 Four-Seat Constitutional Requirement](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3);
+  - [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (7.000 §3);
+  - the Chapter Two principles and Chapter Four Articles named in the **Grounded in** block of [§2](#2-why-the-bank-supervision-office-exists).
 - Downstream: [§2](#2-why-the-bank-supervision-office-exists) through [§14](#14-proportional-scaling-and-adopters-without-their-own-currency); the Public Monetary Office, Public Debt Office, and Public Finance Office chapters; a new corpus-institutions file.
 - Read with:
   - [Article XIII-C](../../core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*);
@@ -57,9 +57,9 @@ Chapter [B] is the constitutional owner of **the supervision of banks and paymen
 
 - The Public Monetary Office chapter sets system-wide financial-stability tools and lends as a last resort. This office applies those tools to individual firms and tells the Monetary Office whether a firm seeking emergency lending is solvent. Neither office does the other's job.
 - The Public Debt Office chapter records any public money used in a resolution as public debt.
-- The Public Finance Office chapter pays this office's floor and holds its reserve under Chapter Eight §11.
+- The Public Finance Office chapter pays this office's floor and holds its reserve under Chapter Seven §3.
 - The Public Information Office chapter publishes the financial-system figures this office relies on.
-- [Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the protected amount under §8 and the levy formula under §3.
+- [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the protected amount under §8 and the levy formula under §3.
 - A later corpus-institutions file carries the prudential standards, the intervention ladder, the resolution toolkit, the levy formula, and register fields. It may not narrow this chapter.
 
 **Chapter scope:** The office:
@@ -96,11 +96,11 @@ This section explains the reasons for the chapter. It is non-operative: the bind
 
 **Grounded in:**
 
-- Chapter One principles:
+- Chapter Two principles:
   - [§18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties);
   - [§19 Incentive Alignment and System Capture](../../core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); and
   - [§19.2 Convenient Proxies and Proxy Divergence](../../core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence).
-- Chapter Six Articles:
+- Chapter Four Articles:
   - [Article V-A](../../core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*);
   - [Article XIII-C](../../core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*);
   - [Article XIII-D](../../core_04.010_rights_part_b.md#article-xiii-d-funding-integrity) (*Funding Integrity*); and
@@ -136,17 +136,17 @@ These reasons do not add duties. They explain why the duties in §3 to §14 take
 **Independent Body:** The Bank Supervision Office is an Independent Body under [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of the governing authority, every forum family, the Public Monetary Office, the Public Debt Office, the Public Finance Office, and every firm it licenses or supervises;
-- the protected decision-makers are the members of its supervision board and of its resolution panel, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass a competency gate in banking supervision, financial risk, accounting, or insolvency and resolution;
-- its decisions and releases can move asset prices, so *Market-moving information* in Chapter Eight §11 applies in full; and
-- its floor is set under *Protected funding* in Chapter Eight §11 and paid through the Public Finance Office.
+- the protected decision-makers are the members of its supervision board and of its resolution panel, drawn by lot under *Appointment by sortition* in Chapter Seven §3 from candidates who pass a competency gate in banking supervision, financial risk, accounting, or insolvency and resolution;
+- its decisions and releases can move asset prices, so *Market-moving information* in Chapter Seven §3 applies in full; and
+- its floor is set under *Protected funding* in Chapter Seven §3 and paid through the Public Finance Office.
 
 **Funding from the firms it supervises.** The cost of supervision is recovered from licensed firms by charges set under a published formula tied to each firm's size and risk. The charges are collected into the office's funding track through the Public Finance Office, never paid to the office by a firm directly. No firm may pay more to get a different decision, and no charge may depend on the outcome of a supervisory decision. A shortfall in charges never reduces the office's floor.
 
 **Separate panels.** Supervision and resolution are decided by separate panels with separate decision-makers, so the body that judged a firm's health is not the only one deciding how to handle its failure.
 
-**Seat map:** Every materially binding act of the office, such as granting or withdrawing a licence, imposing a requirement, intervening, paying out deposits, or placing a firm in resolution, places the four seats under Chapter Eight. The independent check seat is a reviewer outside the panel that acted.
+**Seat map:** Every materially binding act of the office, such as granting or withdrawing a licence, imposing a requirement, intervening, paying out deposits, or placing a firm in resolution, places the four seats under Chapter Six. The independent check seat is a reviewer outside the panel that acted.
 
-**No dual roles (added for this office):** In addition to Chapter Eight §11, no one may at the same time hold a decision seat in this office and any seat in the Public Monetary Office, the Public Debt Office, the Public Finance Office, the governing authority, or a licensed firm. Members and staff may not hold or trade securities of any licensed firm, except through broad funds cleared in advance.
+**No dual roles (added for this office):** In addition to Chapter Seven §3, no one may at the same time hold a decision seat in this office and any seat in the Public Monetary Office, the Public Debt Office, the Public Finance Office, the governing authority, or a licensed firm. Members and staff may not hold or trade securities of any licensed firm, except through broad funds cleared in advance.
 
 ### 4. Licensing
 
@@ -263,7 +263,7 @@ The office may act sooner than the ladder requires. It may not act later, and a 
 *In plain terms: the office that lends to banks in a crisis and the office that grades them work together, but neither decides for the other.*
 
 - **Solvency findings.** Before the Public Monetary Office lends to a firm in an emergency, this office tells it, by a published finding (disclosed after the same delay as the loan), whether the firm is solvent.
-- **Shared information.** The two offices share supervisory and market information under *Information handling and privacy* in Chapter Eight §11, through published channels.
+- **Shared information.** The two offices share supervisory and market information under *Information handling and privacy* in Chapter Seven §3, through published channels.
 - **System-wide tools.** The Public Monetary Office sets the system-wide tools; this office applies them to firms and reports how they are working.
 - **No cover-ups.** Neither office may withhold from the other information that bears on the other's duties, or ask the other to delay a step to protect a firm.
 
@@ -277,7 +277,7 @@ The office may act sooner than the ladder requires. It may not act later, and a 
 - use a supervisory power to reward or punish a firm for its owners' political activity; or
 - time a decision to help or harm anyone in a selection.
 
-**No revolving door.** A member or staff member who supervised a firm may not take a role, contract, or benefit from that firm, or from a firm that acquired it, during a cooling-off period after their last involvement (by default, five years), as **CI-28.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*) provides. Former staff may not represent a firm before the office in a matter they handled.
+**No revolving door.** A member or staff member who supervised a firm may not take a role, contract, or benefit from that firm, or from a firm that acquired it, during a cooling-off period after their last involvement (by default, five years), as **CI-27.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*) provides. Former staff may not represent a firm before the office in a matter they handled.
 
 ### 12. The Public Register
 
@@ -296,7 +296,7 @@ The register follows [Article XVII](../../core_04.020_rights_part_c.md#article-x
 
 ### 13. Audit and Challenge
 
-*In plain terms: outsiders check the office's work, and a firm, a depositor, or anyone else harmed can challenge a decision. The general rule is in Chapter Eight; this section lists what a challenge to this office may claim.*
+*In plain terms: outsiders check the office's work, and a firm, a depositor, or anyone else harmed can challenge a decision. The general rule is in Chapter Seven §3; this section lists what a challenge to this office may claim.*
 
 **General rule.** The office meets *Audit and challenge* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). In addition, the deposit-protection fund is audited separately each reporting year.
 
@@ -311,7 +311,7 @@ The register follows [Article XVII](../../core_04.020_rights_part_c.md#article-x
 
 **Timing in resolution.** A challenge to a resolution decision does not stop the resolution while it is under way. Where the challenge succeeds, the remedy is compensation, not reversal of transfers already made.
 
-Under *Scope of review* in Chapter Eight §11, a forum does not set a firm's requirements in place of the office; it decides whether the office followed this chapter.
+Under *Scope of review* in Chapter Seven §3, a forum does not set a firm's requirements in place of the office; it decides whether the office followed this chapter.
 
 ### 14. Proportional Scaling and Adopters Without Their Own Currency
 

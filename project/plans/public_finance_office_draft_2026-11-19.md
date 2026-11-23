@@ -11,19 +11,19 @@ against the live text; they will be rewritten when the chapter is placed.
 > **Status.** First draft, 2026-11-19, asked for by the custodian. Companion draft: the Public Information Office chapter in this folder. The custodian chose two separate offices and new core chapter placement; the draft is written before anything is relocated.
 >
 > **Open choices this draft makes provisionally (each one chooses meaning; confirm or change):**
-> 1. **Who sets the total.** The draft lets the governing authority under Chapter Twenty-Eight set the overall budget, while the office sets nothing above or below the floors. Alternative: the office proposes the total and the governing authority can only approve or reject it.
-> 2. **Floor formula inputs.** The draft ties forum floors to the published CF-23.445 caseload, backlog, and tier figures, plus the Chapter Twenty §4.2 remedy-parity minimum. It sets no number.
+> 1. **Who sets the total.** The draft lets the governing authority under Chapter Twenty-Seven set the overall budget, while the office sets nothing above or below the floors. Alternative: the office proposes the total and the governing authority can only approve or reject it.
+> 2. **Floor formula inputs.** The draft ties forum floors to the published CF-22.445 caseload, backlog, and tier figures, plus the Chapter Nineteen §5.2 remedy-parity minimum. It sets no number.
 > 3. **Wellbeing and business revenue.** The draft makes the office the disbursing and accounting office for programs the governing authority funds, not their policy owner (§7). Alternative: leave those programs out of this chapter entirely.
 > 4. **Challenge venue.** Funding disputes go to Integrity forums, with backup routing when an Integrity forum is itself a claimant (§10).
 > 5. **Reserve fund size (§11).** The default target is one quarter of the sum of the floors for a cycle. Alternative: a larger target for adopters whose revenue swings widely, or a target set by a published risk test.
 > 6. **Currency and bonds.** Settled by the custodian (2026-11-19, refined 2026-11-20): this office does not issue currency or borrow. The Public Monetary Office issues currency ([draft](public_monetary_office_draft_2026-11-19.md)) and a separate Public Debt Office issues and manages public debt ([draft](public_debt_office_draft_2026-11-20.md)).
 >
 > **Existing text that would change when this is placed (not edited yet):**
-> - [Chapter Twenty-Three §2.2.2](../../core_22.000_forum.md#322-incentives-and-non-substitution) sends "system-wide budgets, cross-cutting research funding, and governance-scale programs" to Chapter Twenty-Eight and CS-6.335. That pointer would name this chapter instead.
-> - [CF-23.440 §15](../../corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md#cf-22440-15-research-and-uncertainty-reduction-authority) ("ordinary appropriations controls") would name this chapter's research reserve (§6).
-> - [CI-26.210 §3](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-3-capacity-funding-and-succession) "funding source" would accept the office as the named source.
-> - [CF-23.415 §8](../../corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-8-integrity-registrar) (Integrity registrar) would receive this office's audits.
-> - [Chapter Twenty §4.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) keeps forums answerable for their own adequacy; this chapter supplies the money path, not a new answerable party.
+> - [Chapter Twenty-Two §3.2.2](../../core_22.000_forum.md#322-incentives-and-non-substitution) sends "system-wide budgets, cross-cutting research funding, and governance-scale programs" to Chapter Twenty-Seven and CS-4.335. That pointer would name this chapter instead.
+> - [CF-22.440 §15](../../corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md#cf-22440-15-research-and-uncertainty-reduction-authority) ("ordinary appropriations controls") would name this chapter's research reserve (§6).
+> - [CI-25.210 §3](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-3-capacity-funding-and-succession) "funding source" would accept the office as the named source.
+> - [CF-22.415 §8](../../corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-8-integrity-registrar) (Integrity registrar) would receive this office's audits.
+> - [Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) keeps forums answerable for their own adequacy; this chapter supplies the money path, not a new answerable party.
 > - A new corpus-institutions file would hold the formula, reserve sizes, and ledger fields.
 >
 > **Move log.** No move number is taken yet. The "Work through TODO decisions" thread holds the next number (680 unmerged); the number is coordinated with it when this draft enters the corpus.
@@ -39,7 +39,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > This chapter would be **part of the Sentient Constitution** and **binding only together** with the other numbered `core_*` files read as one text.
 >
 > - **Constitutional owner:** the office that holds, allocates, disburses, and accounts for the public money that keeps forums, registrars, remedy systems, oversight bodies, and the Public Information Office running; the funding floors that protect them; research funding at forum request; and the bar on using money to steer any forum, finding, or record.
-> - **Not owned here:** how much any one system must pay into shared infrastructure ([CS-6.335](../../corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)); how an institution raises fees or stays solvent (**CI-6.210**, **CI-6.215**); who answers for a forum's adequacy ([Chapter Twenty §4.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability)); who holds governing authority ([Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship)).
+> - **Not owned here:** how much any one system must pay into shared infrastructure ([CS-4.335](../../corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)); how an institution raises fees or stays solvent (**CI-4.210**, **CI-4.215**); who answers for a forum's adequacy ([Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability)); who holds governing authority ([Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship)).
 > - **Implementation owner:** a new corpus-institutions file (formula, reserves, ledger fields).
 >
 > Reading order: §1 purpose → §2 why the office exists → §3 independence → §4 funding floors → §5 no steering by money → §6 research funding → §7 other programs → §8 ledger → §9 the office's own funding → §10 audit and challenge → §11 reserve fund → §12 shortfalls and emergencies → §13 scaling.
@@ -56,16 +56,16 @@ Chapter [F] is the constitutional owner of **public funding of the constitutiona
 - Upstream:
   - [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**;
   - [material stake](../../core_00.000_preamble.md#material-stake);
-  - [Chapter Eight §3 Four-Seat Constitutional Requirement](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (8.000 §3);
-  - [Chapter Twenty §4 Enforcement Realism and Remedy Systems](../../core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (20.000 §4);
-  - [Chapter Twenty-Three §2.2.2 Incentives and Non-Substitution](../../core_22.000_forum.md#322-incentives-and-non-substitution) (23.000 §2.2.2);
-  - the Chapter One principles and Chapter Six Articles named in the **Grounded in** paragraph of [§2](#2-why-the-public-finance-office-exists).
+  - [Chapter Six §3 Four-Seat Constitutional Requirement](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3);
+  - [Chapter Nineteen §5 Enforcement Realism and Remedy Systems](../../core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (19.000 §5);
+  - [Chapter Twenty-Two §3.2.2 Incentives and Non-Substitution](../../core_22.000_forum.md#322-incentives-and-non-substitution) (22.000 §3.2.2);
+  - the Chapter Two principles and Chapter Four Articles named in the **Grounded in** paragraph of [§2](#2-why-the-public-finance-office-exists).
 - Downstream: [§2](#2-why-the-public-finance-office-exists) through [§13](#13-proportional-scaling); the Public Information Office chapter; a new corpus-institutions file (formula, reserves, ledger fields).
 - Read with:
-  - [CS-6.335](../../corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*);
-  - **CI-6.210** (*Public revenue, fees, recurring charges, and billing integrity*) and **CI-6.215** (*Resource stewardship and incentive integrity*);
-  - [CI-26.210 §3](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-3-capacity-funding-and-succession) (*Capacity, Funding, and Succession*);
-  - **CF-23.415 §8** (*Integrity Registrar*) and **CF-23.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
+  - [CS-4.335](../../corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*);
+  - **CI-4.210** (*Public revenue, fees, recurring charges, and billing integrity*) and **CI-4.215** (*Resource stewardship and incentive integrity*);
+  - [CI-25.210 §3](../../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-3-capacity-funding-and-succession) (*Capacity, Funding, and Succession*);
+  - **CF-22.415 §8** (*Integrity Registrar*) and **CF-22.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*).
 
 </details>
 
@@ -77,9 +77,9 @@ Chapter [F] is the constitutional owner of **public funding of the constitutiona
 
 **Role:** Chapter [F] is the constitutional owner of public funding of the constitutional machinery. Where it sits:
 
-- [Chapter Twenty §4.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) requires forums and remedy systems to be adequately funded and keeps each forum's primary-stakes family answerable for its own adequacy. This chapter supplies the money path that meets that requirement; it adds no new answerable party.
-- [Chapter Twenty-Three §2.2.2](../../core_22.000_forum.md#322-incentives-and-non-substitution) bars payoffs and cost rules from replacing proper routing or a real merits decision. This chapter applies that bar to funding.
-- [Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the total budget under §4.
+- [Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) requires forums and remedy systems to be adequately funded and keeps each forum's primary-stakes family answerable for its own adequacy. This chapter supplies the money path that meets that requirement; it adds no new answerable party.
+- [Chapter Twenty-Two §3.2.2](../../core_22.000_forum.md#322-incentives-and-non-substitution) bars payoffs and cost rules from replacing proper routing or a real merits decision. This chapter applies that bar to funding.
+- [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the total budget under §4.
 - The Public Information Office chapter runs forum-requested research and checks this office's figures. This office pays for that work and does not direct it.
 - The Public Monetary Office chapter issues currency, and the Public Debt Office chapter issues and manages public debt. This office may not issue currency or borrow, and neither of those offices may decide spending.
 - A later corpus-institutions file carries the formula, reserve sizes, and ledger fields. It may not narrow this chapter.
@@ -87,7 +87,7 @@ Chapter [F] is the constitutional owner of **public funding of the constitutiona
 **Chapter scope:** The office holds, allocates, disburses, and accounts for public money for:
 
 - forum families, their benches, intake triage bodies, registrars, and backup bodies;
-- remedy systems under [Chapter Twenty §4](../../core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems);
+- remedy systems under [Chapter Nineteen §5](../../core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems);
 - oversight, audit, and independent verification bodies under [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification);
 - research that a forum requests;
 - the Public Information Office; and
@@ -108,7 +108,7 @@ The chapter's sections cover:
 - shortfalls and emergencies (**section 12**); and
 - proportional scaling (**section 13**).
 
-**Out of scope:** The office administers money. It does not decide any matter, finding, classification, or Standing Record, and it does not set the policy of any program it pays for. The chapter leaves cross-system funding (what one system owes to shared infrastructure) to [CS-6.335](../../corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship), how an institution raises fees or stays solvent to **CI-6.210** and **CI-6.215**, and case-specific forensic support to **CF-23.430**. Where this chapter is silent, the rest of the Constitution governs.
+**Out of scope:** The office administers money. It does not decide any matter, finding, classification, or Standing Record, and it does not set the policy of any program it pays for. The chapter leaves cross-system funding (what one system owes to shared infrastructure) to [CS-4.335](../../corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship), how an institution raises fees or stays solvent to **CI-4.210** and **CI-4.215**, and case-specific forensic support to **CF-22.430**. Where this chapter is silent, the rest of the Constitution governs.
 
 ### 2. Why the Public Finance Office Exists
 
@@ -118,11 +118,11 @@ This section explains the reasons for the chapter. It is non-operative: the bind
 
 **Grounded in:**
 
-- Chapter One principles:
+- Chapter Two principles:
   - [§18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties);
   - [§19 Incentive Alignment and System Capture](../../core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture), especially [§19.1.2 What Incentives Must Not Do](../../core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do) and [§19.3 Misalignment Detection](../../core_02.050_governance_incentive_application.md#193-misalignment-detection); and
   - [§6.1 Correction and Remedy](../../core_02.000_values_principles.md#61-correction-and-remedy).
-- Chapter Six Articles:
+- Chapter Four Articles:
   - [Article XIV-B](../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
   - [Article XVII-A](../../core_04.020_rights_part_c.md#article-xvii-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*);
@@ -130,7 +130,7 @@ This section explains the reasons for the chapter. It is non-operative: the bind
   - [Article V-A](../../core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*); and
   - [Article XXVII-C](../../core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 
-**The problem it answers.** The Constitution already says that forums and remedy systems must be adequately funded, and that chronic underfunding is a failure ([Chapter Twenty §4.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability)). It did not say who holds the money, how much each body gets, or what stops the holder from using the budget as a lever. Without that, three failures are easy:
+**The problem it answers.** The Constitution already says that forums and remedy systems must be adequately funded, and that chronic underfunding is a failure ([Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability)). It did not say who holds the money, how much each body gets, or what stops the holder from using the budget as a lever. Without that, three failures are easy:
 
 - **Starving by neglect:** a forum's budget drifts below its caseload until backlog becomes the decision.
 - **Steering by budget:** funding moves toward bodies whose rulings please the funder and away from those whose rulings do not, with no single act that looks like interference.
@@ -164,9 +164,9 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 **Independent Body:** The Public Finance Office is an Independent Body under [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent), and meets every standard requirement there. For this office:
 
 - it sits outside the Material Control Line of every forum family and body it funds, of the governing authority except for the budget-setting powers this chapter names and the duty to run the appointment draw, and of the Public Information Office;
-- the protected decision-makers are the members of its funding board, drawn by lot under *Appointment by sortition* in Chapter Eight §11 from candidates who pass the board's competency gate, which tests public accounting, budgeting, and audit skill;
-- its own funding is protected under *Protected funding* in Chapter Eight §11, as §9 applies it; and
-- where its accounts for the business activity under §7 can move asset prices, *Market-moving information* in Chapter Eight §11 applies to that work in full.
+- the protected decision-makers are the members of its funding board, drawn by lot under *Appointment by sortition* in Chapter Seven §3 from candidates who pass the board's competency gate, which tests public accounting, budgeting, and audit skill;
+- its own funding is protected under *Protected funding* in Chapter Seven §3, as §9 applies it; and
+- where its accounts for the business activity under §7 can move asset prices, *Market-moving information* in Chapter Seven §3 applies to that work in full.
 
 **Seat map:** Every materially binding funding act places the four seats as follows:
 
@@ -174,10 +174,10 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 |------|--------------------------------|
 | Ask or act | the Public Finance Office |
 | Check | an independent financial auditor outside the office's Material Control Line |
-| Keep the official record | the Integrity registrar under **CF-23.415 §8** |
+| Keep the official record | the Integrity registrar under **CF-22.415 §8** |
 | Hear the challenge | an Integrity forum, with backup routing under §10 |
 
-**No dual roles (added for this office):** In addition to Chapter Eight §11, no sentient, office, or AI system may at the same time hold a funding seat in this office and:
+**No dual roles (added for this office):** In addition to Chapter Seven §3, no sentient, office, or AI system may at the same time hold a funding seat in this office and:
 
 - sit on a bench or panel that the office funds, or advise one on a pending matter; or
 - hold any seat in the Public Information Office.
@@ -188,12 +188,12 @@ These reasons do not add duties. They explain why the duties in §3 to §13 take
 
 **The floor.** Each funded body has a **funding floor** for each funding cycle. The floor is worked out by a published formula from:
 
-- the caseload, backlog, and tier figures published under **CF-23.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*);
-- the capacity standards set by Technical Forum Domains under [Chapter Twenty §4.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability);
+- the caseload, backlog, and tier figures published under **CF-22.445** (*Forum performance, backlog requirements, publication timeliness, and accessibility*);
+- the capacity standards set by Technical Forum Domains under [Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability);
 - the [remedy-parity funding minimum](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum); and
 - accessibility, interpretation, and representation costs that intake must carry.
 
-**The total.** The governing authority under Chapter Twenty-Eight sets the total budget. The total must be at least the sum of the floors. A total below that sum is a [Chapter Twenty §4.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) chronic-underfunding failure on its face, and the governing authority must publish why it happened and how it will be cured.
+**The total.** The governing authority under Chapter Twenty-Seven sets the total budget. The total must be at least the sum of the floors. A total below that sum is a [Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) chronic-underfunding failure on its face, and the governing authority must publish why it happened and how it will be cured.
 
 **Cycle protection.** A floor, once set for a cycle:
 
@@ -221,7 +221,7 @@ A formula change that would lower the floor of a body with a pending matter agai
 - tie funding to a classification or a Standing Record; or
 - see a pending matter's record, except the aggregate figures that §4 uses.
 
-These apply the rule in [Chapter Twenty-Three §2.2.2](../../core_22.000_forum.md#322-incentives-and-non-substitution) that payoffs and cost rules must not take the place of proper routing or a real merits decision.
+These apply the rule in [Chapter Twenty-Two §3.2.2](../../core_22.000_forum.md#322-incentives-and-non-substitution) that payoffs and cost rules must not take the place of proper routing or a real merits decision.
 
 **Pattern evidence (added for this office):** Beyond the Article XIII-D (*Funding Integrity*) pattern rule, either of the following is evidence of steering and shifts the burden to the office or the governing authority to show a lawful, published reason:
 
@@ -232,7 +232,7 @@ These apply the rule in [Chapter Twenty-Three §2.2.2](../../core_22.000_forum.m
 
 *In plain terms: when a forum needs research to decide well, the office pays for it out of a set-aside fund, by rule. The office does not get a vote on whether the research is a good idea.*
 
-**Research reserve.** Each cycle, the office holds a **research reserve** sized by the published formula. The reserve funds research, replication, testing, field study, standards development, and evidence synthesis requested by a forum under [CF-23.440 §15](../../corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md#cf-22440-15-research-and-uncertainty-reduction-authority) or a comparable published finding by another forum family.
+**Research reserve.** Each cycle, the office holds a **research reserve** sized by the published formula. The reserve funds research, replication, testing, field study, standards development, and evidence synthesis requested by a forum under [CF-22.440 §15](../../corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md#cf-22440-15-research-and-uncertainty-reduction-authority) or a comparable published finding by another forum family.
 
 **Funding by rule.** When a forum issues a published scope order, the office must fund it unless:
 
@@ -250,8 +250,8 @@ The office must not refuse or delay funding because of the question asked, the l
 
 The governing authority may designate the office as the disbursing and accounting office for:
 
-- wellbeing and survival-floor programs under **Article III** (*Survival and Essential Access*), whose fiscal orientation stays with **CI-6.215** and **CI-9.210**;
-- public revenue, fees, and recurring charges under **CI-6.210**; and
+- wellbeing and survival-floor programs under **Article III** (*Survival and Essential Access*), whose fiscal orientation stays with **CI-4.215** and **CI-8.210**;
+- public revenue, fees, and recurring charges under **CI-4.210**; and
 - public enterprises and other business activity of the adopter.
 
 For each designated program, the office:
@@ -279,7 +279,7 @@ The ledger follows [Article XVII](../../core_04.020_rights_part_c.md#article-xvi
 
 ### 9. The Office's Own Funding and the Information Office's Funding
 
-*In plain terms: whoever pays the payer can steer it. The general rule that protects the funding of every independent body lives in Chapter Eight; this section only says how it applies to the two offices.*
+*In plain terms: whoever pays the payer can steer it. The general rule that protects the funding of every independent body lives in Chapter Seven §3; this section only says how it applies to the two offices.*
 
 The *Protected funding* requirement of [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to the Public Finance Office and the Public Information Office. For these two offices:
 
@@ -289,9 +289,9 @@ The *Protected funding* requirement of [Chapter Seven §3 What Makes a Body Inde
 
 ### 10. Audit and Challenge
 
-*In plain terms: the books are checked by someone outside the office, and anyone harmed by a funding decision can challenge it. The general rule for every independent body lives in Chapter Eight; this section adds what is special to the office that holds the purse.*
+*In plain terms: the books are checked by someone outside the office, and anyone harmed by a funding decision can challenge it. The general rule for every independent body lives in Chapter Seven §3; this section adds what is special to the office that holds the purse.*
 
-**General rule.** The office meets *Audit and challenge* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). Its financial audit runs on the review cadence in [Chapter Twenty-Five §4](../../core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline), and its results are also published on the ledger.
+**General rule.** The office meets *Audit and challenge* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent). Its financial audit runs on the review cadence in [Chapter Twenty-Three §5](../../core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline), and its results are also published on the ledger.
 
 **Grounds.** A funded body, a party, a researcher, or any sentient affected by a funding act may challenge it before an Integrity forum. The challenge may claim:
 
@@ -301,17 +301,17 @@ The *Protected funding* requirement of [Chapter Seven §3 What Makes a Body Inde
 - a breach of the §7 firewall; or
 - a draw, transfer, or failure to replenish contrary to §11.
 
-**Self-judging and interim relief.** Every forum is funded by this office, so the *No self-judging* rule in Chapter Eight routes a challenge away from any forum funded under the act at issue. Interim relief under that section includes an order restoring a disputed floor.
+**Self-judging and interim relief.** Every forum is funded by this office, so the *No self-judging* rule in Chapter Seven §3 routes a challenge away from any forum funded under the act at issue. Interim relief under that section includes an order restoring a disputed floor.
 
 ### 11. Reserve Fund
 
-*In plain terms: money is set aside for bad years, so a dip in revenue or a budget fight does not shut down the forums. Every independent body must have such a reserve under Chapter Eight; this office holds the reserves of the bodies it pays, and adds the rules below.*
+*In plain terms: money is set aside for bad years, so a dip in revenue or a budget fight does not shut down the forums. Every independent body must have such a reserve under Chapter Seven §3; this office holds the reserves of the bodies it pays, and adds the rules below.*
 
 **General rule.** The *Reserve* requirement of *Protected funding* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to every Independent Body this office pays. This section applies it to them, and extends the same protection to every other forum, remedy system, and body with a §4 floor.
 
 **The fund.** The office keeps a **reserve fund** that holds the reserve of each body it pays, in its own ledger account, separate from the §4 floors, the §6 research reserve, and the §7 programs. Each body's share is shown in the §8 ledger, and a body's share is drawn only for that body.
 
-**Target size.** Each body's share has a published target, worked out under the formula in §4. The default target is one quarter of the body's floor for a cycle, as Chapter Eight §11 sets. The governing authority may set a higher target, and may set a lower one only with published reasons that an independent check seat reviews.
+**Target size.** Each body's share has a published target, worked out under the formula in §4. The default target is one quarter of the body's floor for a cycle, as Chapter Seven §3 sets. The governing authority may set a higher target, and may set a lower one only with published reasons that an independent check seat reviews.
 
 **Building and keeping it.** The office sets aside a published share of revenue each cycle until the fund reaches its target. Money left unspent at the end of a cycle goes to the fund first. Once the fund is at its target, any surplus may return to general revenue only by a published act at the end of a cycle.
 
@@ -338,7 +338,7 @@ The *Protected funding* requirement of [Chapter Seven §3 What Makes a Body Inde
 
 ### 12. Shortfalls and Emergencies
 
-*In plain terms: when money really runs short, the reserve is used first; after that, cuts are shared by a published rule, the most urgent protections are cut last, and every cut ends on a date. The general rule is in Chapter Eight; this section says how it applies to everything this office pays.*
+*In plain terms: when money really runs short, the reserve is used first; after that, cuts are shared by a published rule, the most urgent protections are cut last, and every cut ends on a date. The general rule is in Chapter Seven §3; this section says how it applies to everything this office pays.*
 
 **General rule.** The *Shortfalls* requirement of *Protected funding* in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to every Independent Body this office pays. This section applies it to them and extends it to every other body with a §4 floor.
 
@@ -350,11 +350,11 @@ When actual revenue falls below the sum of the floors, payments on public debt a
 - protect last, in this order:
   - intake and emergency adjudication;
   - remedies for survival-relevant and rights-floor matters; and
-  - the remedy-parity minimum under [Chapter Twenty §4.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum);
+  - the remedy-parity minimum under [Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum);
 - set an end date for each reduction; and
 - restore floors first when revenue recovers.
 
-A shortfall does not excuse a forum's tier milestones. It is a fact the forum may cite when it seeks a tier-appropriate extension under [Chapter Twenty-Five §4](../../core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+A shortfall does not excuse a forum's tier milestones. It is a fact the forum may cite when it seeks a tier-appropriate extension under [Chapter Twenty-Three §5](../../core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 ### 13. Proportional Scaling
 
@@ -362,6 +362,6 @@ A shortfall does not excuse a forum's tier milestones. It is a fact the forum ma
 
 The *Scaling* rule in [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies to this office in full. For this office it also means:
 
-- **Sharing:** a small adopter may share this office with other adopters by published agreement, and may share buildings, clerks, and systems under **CF-23.470 §5**.
+- **Sharing:** a small adopter may share this office with other adopters by published agreement, and may share buildings, clerks, and systems under **CF-22.470 §5**.
 - **Combining:** a small adopter may host this office with the Public Debt Office, as that chapter allows.
 - **Never scaled down:** even when hosting is merged, the Public Finance Office, the Public Information Office, the Public Monetary Office, and the Public Debt Office keep separate decision-makers, apart from the combination with the Public Debt Office above.
