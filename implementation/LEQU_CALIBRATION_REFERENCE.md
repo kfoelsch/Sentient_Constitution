@@ -93,6 +93,17 @@ Assign the highest `s` for which `x ≥ T(s)`. Conduct character does not multip
 
 **Display translation.** When this page writes “~14 days,” it means 14 days as a fraction of the 80-year display column ≈ `0.00048` LEQU — the same `x` a steward would use for a non-biological subject whose deprivation lasted that long in experienced operating time. The subject is not being reclassified as human.
 
+
+<a id="why-one-reference-duration"></a>
+**Why one reference duration for every subject.** A deprivation measured in time (a pause, a containment, a cutoff of agency with the identity-bearing existence intact) needs a fixed conversion from time to LEQU, and this page uses the same 80-year column for every subject. The reasons:
+
+- **Same terms on every substrate.** A subject's own expected runtime cannot be the denominator. For a sentient with no fixed mortality it is open-ended, so every pause would round to zero; for a short-lived sentient it would inflate the same pause. Either way two subjects who lost the same experienced time would land in different slots because of what kind of being they are, which **Article VI-C** (*Nondiscrimination*) forbids.
+- **Duration, not worth.** The column converts experienced time denied; it ranks no one. Destruction of an identity-bearing existence is 1 LEQU on every substrate whatever its expected runtime (§2), so the reference duration matters only for partial, time-measured losses.
+- **Why 80 years.** It is the biological-human calibration example that [Chapter Fifteen §3.1](../core_15.000_standing_measurement.md#31-lequ-baseline) allows, and using it keeps the biological worked examples (W1 to W4) and the non-biological ones (W5 onward) on one scale. A different constant would move every time-measured row together and change no ordering between subjects.
+- **Experienced time, not wall-clock time.** For a subject whose experienced rate differs from wall-clock time, the duration entered is the experienced operating time denied, as the *Display translation* paragraph above says.
+
+[Chapter Fifteen §3.1](../core_15.000_standing_measurement.md#31-lequ-baseline) lets an adopter use an ordinary human lifespan as its calibration example; whatever figure an adopter takes for that lifespan, it applies the same figure to every subject and states it with its published thresholds. Evaluator disagreement near the slot thresholds (for example W5 against the slot 1 and slot 2 boundary) is still to be collected.
+
 ---
 
 <a id="2-lifespan-equivalent-without-fixed-mortality"></a>
