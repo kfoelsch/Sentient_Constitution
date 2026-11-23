@@ -163,7 +163,7 @@ These were recorded as open or "to confirm" in moves now archived in [archive/DO
 
 - [ ] NU-4 cadence (695th move): decide how the local annual-or-tighter NU-4 wording relates to the shared routine cadence.
 - [x] Chapter Seven §3 *Independent Bodies* (759th move; Chapter Six §11 until the 823rd move): the Chapter Six scope list and the Chapter One owner register now point to Chapter Seven (823rd move). The Chapter Twenty-Two benches now cite Chapter Seven §3: every forum family is an Independent Body (940th move, custodian decision 2026-11-23).
-- [ ] Default gift threshold (761st move): confirm or change the default in [Article XIII-C](core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*), one day's pay at the median local wage until an adopter publishes its own.
+- [x] Default gift threshold (761st move): confirmed 2026-11-23 (942nd move), kept at one day's pay at the median local wage. Original note: confirm or change the default in [Article XIII-C](core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*), one day's pay at the median local wage until an adopter publishes its own.
 
 ### Carried from the archived move log, 2026-11-20 run (moves 805–812)
 
