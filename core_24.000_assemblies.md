@@ -197,7 +197,7 @@ This section adds typed emergencies to the discipline every emergency already ca
   - censorship, except narrow, time-limited operational secrets;
   - extending any assembly or executive term, or changing the draw for sitting members; and
   - postponing an election, except under the election rule below.
-- **Elections:** an election may be postponed only during mass displacement (including displacement caused by war or invasion), or an infrastructure or system failure, that makes a fair election impossible in the affected area.
+- **Elections:** an election may be postponed only during mass displacement (including displacement caused by war or invasion), or an infrastructure or system failure, that makes a fair election impossible in the affected area. The Electoral Office, not the executive, certifies whether it does, under [Subcore 7-A §5 Running and Counting Votes](subcore_07.010_electoral_office.md#5-running-and-counting-votes).
   - Sitting members hold over only until the postponed election.
   - The election is held within 90 days after the emergency ends, and the draws for the upper assemblies resume with it.
   - A **Constitutional** forum may review any postponement.

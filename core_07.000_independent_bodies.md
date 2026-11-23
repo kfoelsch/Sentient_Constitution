@@ -6,7 +6,8 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files and the subcore, read as one text. It contains **Chapter Seven**, *Independent Bodies*: its purpose (§1), why it exists (§2), what makes a body independent (§3), and the bodies this Constitution creates (§4). Until 2026-11-20, §3 was Chapter Six §11.
 >
 > **Upstream:** [core_06.000_functional_independence_separation_of_duties.md](core_06.000_functional_independence_separation_of_duties.md) (Chapter Six)
-> **Next:** [core_08.000_system_alignment_certification_evaluation.md](core_08.000_system_alignment_certification_evaluation.md)
+> **Attached subcore file:** [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*) holds the operating rules of the Electoral Office listed in §4.
+> **Next:** [subcore_07.010_electoral_office.md](subcore_07.010_electoral_office.md) (Subcore 7-A)
 
 </details>
 
@@ -20,6 +21,7 @@
   - [§3](#3-what-makes-a-body-independent);
   - [§4](#4-the-bodies-this-constitution-creates).
 - Downstream: each chapter, subcore file, or designated implementation text that names a body as an Independent Body by citing §3.
+- Attached subcore: [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*).
 
 </details>
 
@@ -90,18 +92,18 @@ Where an official's decision can be overturned by a phone call, the public gets 
 
 **Standard requirements:** Each Independent Body must meet all of the following:
 
-- **Outside control:** it sits outside the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of every body or party it serves, funds, checks, measures, or decides about, and of the governing authority except for the budget powers that the designating text expressly gives and the duty to run the appointment draw.
+- **Outside control:** it sits outside the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of every body or party it serves, funds, checks, measures, or decides about, and of the governing authority except for the budget powers that the designating text expressly gives.
 - **No override:** no one may direct the body in how it carries out its duties, and no act of the governing authority or anyone else may suspend any requirement of this section, even in an emergency under [Chapter Six §8 Emergency and Urgent Action](core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action). Any emergency power that the designating text gives the body is its own, used by its own decision.
 - **Appointment by sortition:** its decision-makers are chosen by lot from the sentients who pass its competency gate, not by election and not by the choice of any official, so that no one who wants to steer the body can pick who sits on it:
   - **Competency gate:** for each decision seat, the body publishes role criteria and qualification standards under [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways). A candidate passes the gate by meeting the [Chapter Seventeen §3.2 Competency Bars and Clearances](core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) bar for that seat, applied after the standing-lock check that the same subsection requires. The gate tests readiness only, and may not screen out by sponsorship, prestige, or anything else that [Subcore 17-A §4.2 Guarding against Gatekeeping](subcore_17.010_recency_competency_clearance.md#42-guarding-against-gatekeeping) bars;
   - **Open entry:** any sentient who passes the gate enters the pool by applying. No one nominates, sponsors, vets, or approves a candidate, and a refusal of entry states its reason and is open to challenge;
   - **Conflict screen:** before the draw, a candidate is set aside for a published reason if they hold a [material stake](core_00.000_preamble.md#material-stake) in the body's work, hold a seat that *No dual roles* below bars, or are inside a cooling-off period under [**Article XIII-C**](core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*). The screen is open to challenge;
-  - **The draw:** the draw meets the sortition integrity requirement of [Chapter Twenty-Seven §3.1 Mechanism Families, Auditability, and Pluralism](core_27.000_governance.md#31-mechanism-families-auditability-and-pluralism). Its method and random source are published before the pool closes, the draw is open to observers, anyone can rerun it and get the same result, and the pool size and the result are published together;
+  - **The draw:** the Electoral Office runs the draw from the pool the body certifies, under [Subcore 7-A §7 Public Draws](subcore_07.010_electoral_office.md#7-public-draws), and may not change the pool. The Electoral Office's own draw, and any draw that a designating text gives to another body, is run as Subcore 7-A §3 *Independence and Placement* or that text says. The draw meets the sortition integrity requirement of [Chapter Twenty-Seven §3.1 Mechanism Families, Auditability, and Pluralism](core_27.000_governance.md#31-mechanism-families-auditability-and-pluralism). Its method and random source are published before the pool closes, the draw is open to observers, anyone can rerun it and get the same result, and the pool size and the result are published together;
   - **Balance:** the draw may be stratified so that the body reflects the fields or places it serves, but only by criteria published before the pool opens;
   - **Thin pool:** where fewer candidates pass than a published minimum (by default, three for each open seat), the body widens and reopens the call. It may not lower the gate or appoint someone directly, and the seat is covered in the meantime under [Chapter Six §6 Published Placement, Vacancy, and Substitution](core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution);
   - **Terms:** terms are fixed, staggered so that only part of the body changes at once, and not renewable. A former holder may re-enter the pool only after one full term has passed;
   - **Vacancy:** a seat that falls vacant is filled by a fresh draw from the current pool, never by appointment;
-  - **No veto:** neither the governing authority nor any body or party the body serves, funds, checks, measures, or decides about may veto, confirm, reorder, or delay a drawn candidate. Any appointment power that the designating text gives the governing authority is a duty to run the draw by the published rule and nothing more;
+  - **No veto:** neither the governing authority nor any body or party the body serves, funds, checks, measures, or decides about may veto, confirm, reorder, or delay a drawn candidate. Whoever runs the draw has no power beyond running it by the published rule;
   - **Leadership:** where the body has a head or chair, the drawn members choose one of themselves by a published rule, or by lot among themselves;
   - **Other methods:** a designating text may use another method for a seat only where it publishes why sortition cannot fill that seat, such as a qualified pool too small to draw from, and the method it uses instead is published, contested, and rotatable appointment under [Chapter Twenty-Seven §3.2 Eligibility, Contested Selection, and Democratic Minimums](core_27.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums) that still meets every other requirement in this list.
 - **Removal:** a decision-maker may be removed mid-term only for a published cause, through a removal pathway under [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways), and the removal is open to challenge. Removal, reassignment, or loss of pay because of a decision, finding, published figure, or dissent is barred.
@@ -196,9 +198,15 @@ Each entry below names an Independent Body that this Constitution requires of ev
   - no one may direct how a case is decided, and no forum member loses a seat, pay, or funding because of a ruling;
   - every ruling is published with its reasons and each panel member's vote; and
   - a forum never judges its own act or its own bias; that goes to an independent backup forum.
+- **Electoral Office:** keeps the electorate roll and runs elections, referendums, and public draws. Its operating rules are in [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*). It guarantees every sentient that:
+  - every sentient who meets the entitlement rules is on the roll, and can see and correct its own entry;
+  - the roll counts residence and subjects by one published rule for every kind of sentient;
+  - every result can be checked by anyone, and every vote is followed by a public audit;
+  - who funds a selection is published in a searchable register; and
+  - no assembly, executive, or candidate chooses who is drawn by lot.
 
 ---
 
 **Previous file:** [subcore_06.010_constitutional_lanes.md](subcore_06.010_constitutional_lanes.md)
 
-**Next file:** [core_08.000_system_alignment_certification_evaluation.md](core_08.000_system_alignment_certification_evaluation.md)
+**Next file:** [subcore_07.010_electoral_office.md](subcore_07.010_electoral_office.md)

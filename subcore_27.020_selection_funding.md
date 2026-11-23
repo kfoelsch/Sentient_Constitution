@@ -48,10 +48,10 @@ A funding rule protects a selection only if it is hard to get around. If adopter
 
 The disclosure duty in [Chapter Twenty-Seven §3.2.4 Selection-Funding Boundaries](core_27.000_governance.md#324-selection-funding-boundaries) is met as follows:
 
-- The disclosure must name the real source, not only the intermediary, and must be published in a public, searchable, machine-readable register.
+- The disclosure must name the real source, not only the intermediary, and must be published in a public, searchable, machine-readable register, which the Electoral Office keeps under [Subcore 7-A §6 Selection-Funding Register](subcore_07.010_electoral_office.md#6-selection-funding-register).
 - A donor who shows a credible risk of retaliation may use a **protected-identity route**. The amount and the fact of the gift stay public.
     - **Credible risk:** The risk is credible if there is a reasonable likelihood, not a certainty, that disclosure would expose the donor, or those close to the donor, to harassment, threats, violence, or loss of work, housing, or benefits because of the gift. A pattern of retaliation against supporters of the recipient, the cause, or the group is enough, as is a specific threat. The donor need not prove past harm.
-    - **Decision:** An independent seat decides, viewpoint-neutrally and on a recorded basis, in time for the gift to be disclosed before the selection is decided. A pending request never delays disclosure of the amount and the fact of the gift. A decision lasts for one selection cycle and can be renewed.
+    - **Decision:** The Electoral Office's protected-identity panel, an independent seat under Subcore 7-A §6 *Selection-Funding Register*, decides, viewpoint-neutrally and on a recorded basis, in time for the gift to be disclosed before the selection is decided. A pending request never delays disclosure of the amount and the fact of the gift. A decision lasts for one selection cycle and can be renewed.
     - **Checks:** The seat verifies the donor's identity, eligibility, and total giving against the cap. The route is not open to candidates, nominees, appointers, or anyone acting for an institution.
     - **Sealed records:** Identity records are open to auditors and the enforcing body for their audits and for violations. They are otherwise confidential and are deleted after a published retention period.
 
