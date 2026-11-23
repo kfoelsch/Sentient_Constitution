@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-23T23:27:00+00:00",
+  "generated_at": "2026-11-23T23:36:29+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -1153,16 +1153,16 @@
       ]
     },
     "core_28.000_non_regression.md": {
-      "total_lines": 298,
+      "total_lines": 250,
       "sections": [
-        {"header":"CHAPTER TWENTY-EIGHT: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY","level":1,"line_start":1,"line_end":298,"anchor":null},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":46,"line_end":74,"anchor":null},
-        {"header":"2. Why Non-Regression Exists","level":3,"line_start":75,"line_end":98,"anchor":"#2-why-non-regression-exists"},
-        {"header":"3. Non-Regression Floor","level":3,"line_start":99,"line_end":141,"anchor":null},
-        {"header":"4. Substantive Test 1 — Substantive Non-Regression Validity","level":3,"line_start":142,"line_end":189,"anchor":"#4-substantive-test-1--substantive-non-regression-validity"},
-        {"header":"5. Anti-Evasion Clause","level":3,"line_start":190,"line_end":216,"anchor":null},
-        {"header":"6. Protective Steps While a Change Is in Doubt","level":3,"line_start":217,"line_end":238,"anchor":"#6-protective-steps-while-a-change-is-in-doubt"},
-        {"header":"7. Work This Chapter Leaves to Other Chapters","level":3,"line_start":239,"line_end":298,"anchor":"#7-work-this-chapter-leaves-to-other-chapters"}
+        {"header":"CHAPTER TWENTY-EIGHT: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY","level":1,"line_start":1,"line_end":250,"anchor":null},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":49,"line_end":77,"anchor":null},
+        {"header":"2. Why Non-Regression Exists","level":3,"line_start":78,"line_end":101,"anchor":"#2-why-non-regression-exists"},
+        {"header":"3. Non-Regression Floor","level":3,"line_start":102,"line_end":140,"anchor":null},
+        {"header":"4. Substantive Test 1 — Substantive Non-Regression Validity","level":3,"line_start":141,"line_end":177,"anchor":"#4-substantive-test-1--substantive-non-regression-validity"},
+        {"header":"5. Anti-Evasion Clause","level":3,"line_start":178,"line_end":204,"anchor":null},
+        {"header":"6. Protective Steps While a Change Is in Doubt","level":3,"line_start":205,"line_end":222,"anchor":"#6-protective-steps-while-a-change-is-in-doubt"},
+        {"header":"7. Work This Chapter Leaves to Other Chapters","level":3,"line_start":223,"line_end":250,"anchor":"#7-work-this-chapter-leaves-to-other-chapters"}
       ]
     },
     "core_29.000_amendment_ratification.md": {
@@ -2274,6 +2274,20 @@
         {"header":"4. Decision-Resolution Requirements for Binding Stakeholder Choice","level":3,"line_start":85,"line_end":101,"anchor":"#4-decision-resolution-requirements-for-binding-stakeholder-choice"},
         {"header":"5. Charter Pointer Rule","level":3,"line_start":102,"line_end":115,"anchor":"#5-charter-pointer-rule"},
         {"header":"6. Related Rules Elsewhere","level":3,"line_start":116,"line_end":137,"anchor":"#6-related-rules-elsewhere"}
+      ]
+    },
+    "subcore_28.010_non_regression_determinations.md": {
+      "total_lines": 154,
+      "sections": [
+        {"header":"SUBCORE 28-A: NON-REGRESSION DETERMINATIONS","level":1,"line_start":2,"line_end":154,"anchor":"#subcore-28-a-non-regression-determinations"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":19,"line_end":30,"anchor":"#1-purpose-role-and-scope"},
+        {"header":"2. Why Non-Regression Is Decided in Public","level":3,"line_start":31,"line_end":52,"anchor":"#2-why-non-regression-is-decided-in-public"},
+        {"header":"3. Trade-Offs Between Classes","level":3,"line_start":53,"line_end":64,"anchor":"#3-trade-offs-between-classes"},
+        {"header":"4. Who Decides","level":3,"line_start":65,"line_end":76,"anchor":"#4-who-decides"},
+        {"header":"5. Replacing a Mechanism","level":3,"line_start":77,"line_end":84,"anchor":"#5-replacing-a-mechanism"},
+        {"header":"6. Corrections","level":3,"line_start":85,"line_end":99,"anchor":"#6-corrections"},
+        {"header":"7. Protective Steps While a Change Is in Doubt","level":3,"line_start":100,"line_end":111,"anchor":"#7-protective-steps-while-a-change-is-in-doubt"},
+        {"header":"8. Work Chapter Twenty-Eight Leaves to Other Chapters","level":3,"line_start":112,"line_end":154,"anchor":"#8-work-chapter-twenty-eight-leaves-to-other-chapters"}
       ]
     },
     "corpus_systems.md": {

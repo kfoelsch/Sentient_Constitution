@@ -95,6 +95,7 @@ CORE_CHAIN = (
     "subcore_27.050_role_holders_interpretive_bodies.md",
     "subcore_27.060_binding_collective_choice.md",
     "core_28.000_non_regression.md",
+    "subcore_28.010_non_regression_determinations.md",
     "core_29.000_amendment_ratification.md",
     "core_30.000_expansion_supremacy.md",
     "core_31.000_incorporation.md",

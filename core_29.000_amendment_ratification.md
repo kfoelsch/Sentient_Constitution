@@ -493,6 +493,6 @@ Future additions that touch offense-flavored or sanction-flavored language must 
 
 ---
 
-**Previous file:** [core_28.000_non_regression.md](core_28.000_non_regression.md)
+**Previous file:** [subcore_28.010_non_regression_determinations.md](subcore_28.010_non_regression_determinations.md)
 
 **Next file:** [core_30.000_expansion_supremacy.md](core_30.000_expansion_supremacy.md)

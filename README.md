@@ -118,7 +118,7 @@ The Constitution is one document split into a Preamble and thirty chapters, with
 | **Chapter 25**: [Enforcement](core_25.000_enforcement.md) | How outcomes get carried out, and what stops them being dodged |
 | **Chapter 26**: [Special enforcement](core_26.000_special_enforcement.md) · [Subcore 26-A special enforcement procedure](subcore_26.010_special_enforcement_procedure.md) | Extra safeguards for freezing or seizing money or property, for anything that could turn violent, and for fixing why enforcement keeps failing |
 | **Chapter 27**: [Governance](core_27.000_governance.md) · [Subcore 27-A governance disclosure](subcore_27.010_governance_disclosure.md) · [Subcore 27-B selection funding](subcore_27.020_selection_funding.md) · [Subcore 27-C voting entitlement](subcore_27.030_voting_entitlement.md) · [Subcore 27-D sortition integrity](subcore_27.040_sortition_integrity.md) · [Subcore 27-E role holders and interpretive bodies](subcore_27.050_role_holders_interpretive_bodies.md) · [Subcore 27-F binding collective choice](subcore_27.060_binding_collective_choice.md) | Who may govern, and how that authority is granted and checked |
-| **Chapter 28**: [Non-regression](core_28.000_non_regression.md) | Protections can be strengthened but not rolled back |
+| **Chapter 28**: [Non-regression](core_28.000_non_regression.md) · [Subcore 28-A non-regression determinations](subcore_28.010_non_regression_determinations.md) | Protections can be strengthened but not rolled back |
 | **Chapter 29**: [Amendment and adoption](core_29.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
 | **Chapter 30**: [Supremacy and other laws](core_30.000_expansion_supremacy.md) | How it relates to local, national, and international law |
 | **Chapter 31**: [Incorporation](core_31.000_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
@@ -209,6 +209,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Data types and data-handling rules: [Subcore 4-A](subcore_04.050_data_types.md)
 - Gifts, conflicts of interest, funding changes, and the kinds of integrity failure: [Subcore 4-B](subcore_04.060_integrity_triggers_gifts_funding.md)
 - Who keeps the voter roll, runs and audits votes, keeps the campaign-funding register, and runs public draws: [Subcore 7-A](subcore_07.010_electoral_office.md)
+- Who decides whether a change weakens a protection, and when a replacement or a correction is not a weakening: [Subcore 28-A](subcore_28.010_non_regression_determinations.md)
 - Who evaluates what a proposed policy will do, before and after it is decided: [Subcore 7-B](subcore_07.020_public_policy_office.md)
 - Who publishes the Long-Term Outlook, reviews stewardship plans, and runs the Stewardship Fund: [Subcore 7-C](subcore_07.030_public_stewardship_office.md)
 - Who holds each seat in a system certification, what each forum family contributes, and the default order of review: [Subcore 9-A](subcore_09.010_certification_seats_forum_roles_sequence.md)

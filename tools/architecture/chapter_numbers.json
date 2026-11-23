@@ -1244,6 +1244,20 @@
       "pre_assemblies_2026_11_23": "27000"
     },
     {
+      "old_id": "Subcore 28-A (new)",
+      "original_file": "subcore_28.010_non_regression_determinations.md",
+      "machine_id": "SUB-28010",
+      "display_id": "S28-A",
+      "layer": "SUBCORE",
+      "core_home": "28",
+      "title": "S28-A",
+      "destination_file": "subcore_28.010_non_regression_determinations.md",
+      "status": "active",
+      "machine_number": "28010",
+      "layer_digit": "0",
+      "ordinal_name": "S28-A"
+    },
+    {
       "old_id": "Chapter 17",
       "original_file": "core_17_amendment_ratification.md",
       "machine_id": "29000",
