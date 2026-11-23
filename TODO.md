@@ -150,7 +150,7 @@ These were recorded as open in the 509th, 510th and 512th moves, now archived in
 These were recorded as not done in moves now archived in [archive/DOC_ARCHITECTURE_MOVES_504-543_ARCHIVED_2026-11-15.md](archive/DOC_ARCHITECTURE_MOVES_504-543_ARCHIVED_2026-11-15.md). The other open items in those moves are either decided or shelved in [project/SHELVED.md](project/SHELVED.md).
 
 - [ ] Capacity locks (537th move): the application vignettes have no capacity-lock or care-lock example yet. No record schema or validator names lock types, so none changed.
-- [ ] Definitions map anchors (604th move): `tools/generate_ch1_principle_definition_map.py` builds some anchors in a hyphenated form (for example `#17-7-duty-to-represent-stakeholder-interests`) where the heading's own anchor is `#177-duty-to-represent-stakeholder-interests`. The fragment audit accepts both; the §17.7 link was not checked in a browser. Confirm it lands, or change the generator to use the heading's own anchor.
+- [x] Definitions map anchors (604th move): done 2026-11-23 (936th move); the generator and the map now use each heading's own anchor. `tools/generate_ch1_principle_definition_map.py` builds some anchors in a hyphenated form (for example `#17-7-duty-to-represent-stakeholder-interests`) where the heading's own anchor is `#177-duty-to-represent-stakeholder-interests`. The fragment audit accepts both; the §17.7 link was not checked in a browser. Confirm it lands, or change the generator to use the heading's own anchor.
 
 ### Carried from the archived move log, 2026-11-17 run (moves 608–649)
 

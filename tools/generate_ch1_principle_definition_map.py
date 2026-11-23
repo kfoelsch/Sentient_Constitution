@@ -5,12 +5,12 @@ import argparse, csv, re, sys
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from definition_index import collect_ch5_entries_with_apex
+from local_markdown_fragment_audit import github_slug
 
 FILES=("core_02.000_values_principles.md","core_02.010_values_principles_continuity_aim.md","core_02.020_interaction_interpretation.md","core_02.030_constitutional_interpretation.md","core_02.040_stewardship_capacity_principles.md","core_02.050_governance_incentive_application.md")
 def slug(text: str) -> str:
-    text=text.lower().replace('&','and')
-    text=re.sub(r'[^a-z0-9]+','-',text).strip('-')
-    return text
+    """Return the heading's own GitHub anchor (``17.7 Duty`` gives ``177-duty``), as the fragment audit computes it."""
+    return github_slug(text)
 
 def anchors(root: Path) -> dict[str,str]:
     out={}
@@ -45,7 +45,8 @@ def main() -> None:
     for row in rows:
         n=row['Principle'].strip(); title=row['Title'].strip(); linkdata=sections.get(n)
         if linkdata:
-            f,t=linkdata; p=f'[{n} {title}](../../{f}#{amap.get(n, slug(n+" "+title))})'
+            # Label and anchor come from the current heading, not the matrix's older title.
+            f,t=linkdata; p=f'[{n} {t}](../../{f}#{amap.get(n, slug(n+" "+t))})'
         else: p=f'{n} {title}'
         names=[d for d in defs if row.get(d,'').strip() in ('✓','⚠')]
         if names:
