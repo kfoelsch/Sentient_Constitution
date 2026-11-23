@@ -12,9 +12,16 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (*inputs and decision order*); [Chapter Seventeen](core_17.000_contribution_consequences.md#chapter-seventeen-contribution-consequences) (*contribution consequences; not an input here, and never an offset*); [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) and [Chapter Fifteen](core_15.000_standing_measurement.md#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) (*Questions 1 and 2*).
+- Upstream:
+  - [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (*inputs and decision order*);
+  - [Chapter Seventeen](core_17.000_contribution_consequences.md#chapter-seventeen-contribution-consequences) (*contribution consequences; not an input here, and never an offset*);
+  - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) and [Chapter Fifteen](core_15.000_standing_measurement.md#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) (*Questions 1 and 2*).
 - This file: Question 3 violation consequences: remedy and correction, general standing locks, voluntary public accountability expression, remedy parity, and lock design and enforcement.
-- Downstream: [Chapter Nineteen](core_19.000_final_effect_restoration_enforcement.md#chapter-nineteen-final-standing-effect-restoration-and-enforcement) (*final standing effect, restoration, and enforcement realism*); [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (*designation only*); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (*forum supervision*); [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+- Downstream:
+  - [Chapter Nineteen](core_19.000_final_effect_restoration_enforcement.md#chapter-nineteen-final-standing-effect-restoration-and-enforcement) (*final standing effect, restoration, and enforcement realism*);
+  - [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (*designation only*);
+  - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (*forum supervision*);
+  - [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Read with:
   - [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*Inspectable, attributable action*) for the minimum inspectable-action set that the [§4.4.3 Duty to Resist](#443-duty-to-resist) refusal log uses;
   - steward pointer (process support; cannot narrow this chapter): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).

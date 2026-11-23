@@ -1599,4 +1599,9 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - The owner/clock index (`implementation/steward_owner_clock_index.json`) gains the matching `automation` case, [OPERATOR_ROUTING.md](evaluation/OPERATOR_ROUTING.md) a routing row, and `tools/steward_door_lockstep_audit.py` the card title. The generated next-step class table and spine pack were regenerated.
 - Stale labels in the index were fixed: nine "Chapter Twenty-Eight-Three §6" and "§6.1" labels now read "Chapter Twenty-Three §5" and "§5.1" (their links already pointed there), and "Chapter Two §16.2 Distributed Understanding" now reads §16.1.
 
+**Nine hundred and fifty-fifth move (chapter-number audit clean: long Trace lines split into sub-bullets; 2026-11-23; layout only, no rule changed; number provisional under MOVE-NUMBER-01).** Works on TODO item *Core reorganization follow-ups* (c). What changed:
+
+- `make chapter-number-audit` (CHAPTER-NUMBER-01, report-only) no longer finds any Trace link without its `(N.NNN §N)` label; the findings left were 35 Trace lines carrying four or more inline references, which its D14 check wants as sub-bullets. All 35, in 14 core files and 7 corpus files, are now a label line with one sub-bullet per reference group. The split was made at top-level semicolons only, so parenthetical glosses stay with their link; six lines were split by hand (the *Worked examples* lines in Chapters Fourteen to Sixteen, Chapter Twenty-Seven's corpus hooks, and two CJS read-with lines).
+- The audit's registry-size check expected 39 subcore rows; there are 41 subcore files and rows since the Electoral Office (Subcore 7-A) and the earlier subcore additions, so it now expects 41. The audit reports 0 findings.
+
 **Next file:** [README.md](README.md)

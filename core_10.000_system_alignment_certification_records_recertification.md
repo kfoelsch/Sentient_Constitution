@@ -277,7 +277,10 @@ This section applies [Transparency](subcore_03.085_band_oversight.md#transparenc
   - [Subcore 3-B §3](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) (S3-B §3) and
   - [§4](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*);
   - [System Charter](subcore_03.075_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
-- Downstream: [§6.3](#63-verified-input-gate) and [§6.5](#65-violation-standing-record) (*verified-input gate where facts support adverse findings*); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*reopened forum supervision*); [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
+- Downstream:
+  - [§6.3](#63-verified-input-gate) and [§6.5](#65-violation-standing-record) (*verified-input gate where facts support adverse findings*);
+  - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*reopened forum supervision*);
+  - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
 - Read with: **[Subcore 4-A §6.2](subcore_04.050_data_types.md#62-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[Subcore 8-A §3.5](subcore_08.010_system_classification.md#35-reclassification-requirement)** (*Reclassification requirement*).
 - Subsections:
   - [§4.1](#41-recertification-schedule-and-the-new-system-certification-record) (*recertification schedule and the new System Certification Record*);

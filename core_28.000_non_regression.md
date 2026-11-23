@@ -144,7 +144,11 @@ Material weakening includes indirect narrowing through:
 
 - Upstream: [§3](#3-non-regression-floor) non-regression floor definition.
 - Downstream: [§5](#5-anti-evasion-clause) evasion; [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) (29.000) Procedural Tests 2–4 and procedural requirements (invalid if Substantive Test 1 fails regardless of procedure).
-- Read with: [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) non-negotiable principle constraints; [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) legitimacy obligations; [Article XXVI-A](core_04.030_rights_part_d.md#article-xxvi-a-bounded-interpretive-mandate-and-public-reasons) (*Bounded Interpretive Mandate and Public Reasons*) and [Article XXVI-B](core_04.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*) for the forum's determination and its review; [Chapter Twenty-Nine §13.3](core_29.000_amendment_ratification.md#133-proposal-hearing-and-comment-window) (29.000 §13.3) for how a proposal is brought to that forum.
+- Read with:
+  - [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) non-negotiable principle constraints;
+  - [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) legitimacy obligations;
+  - [Article XXVI-A](core_04.030_rights_part_d.md#article-xxvi-a-bounded-interpretive-mandate-and-public-reasons) (*Bounded Interpretive Mandate and Public Reasons*) and [Article XXVI-B](core_04.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*) for the forum's determination and its review;
+  - [Chapter Twenty-Nine §13.3](core_29.000_amendment_ratification.md#133-proposal-hearing-and-comment-window) (29.000 §13.3) for how a proposal is brought to that forum.
 
 </details>
 

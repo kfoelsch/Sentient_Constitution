@@ -98,7 +98,11 @@ Every system of rules rests on someone's authority to make them. If that authori
   - [Article XII-A: Stakeholder System Participation and Representation](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation),
   - [Article XII-B: Weighted Participation and Anti-Token Constraints](core_04.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints),
   - [Article XX: Standing and Participation Status](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status), and the expression, assembly, and procedural-fairness articles keyed in the operative bullets below.
-- Read with: Designated **corpus** hooks named in this section (**[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)**; **[CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*); [CI-27.205](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*) and [CI-4.215](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*)).
+- Read with: designated **corpus** hooks named in this section:
+  - **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)**;
+  - **[CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*);
+  - [CI-27.205](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*); and
+  - [CI-4.215](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*).
 
 </details>
 
@@ -410,7 +414,11 @@ Proxy indicators (financial or otherwise) may inform decisions only where they r
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [§5.1](#51-stewardship-direction); [§5.2](#52-ecosystem-value-orientation); [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent).
+- Upstream:
+  - [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate);
+  - [§5.1](#51-stewardship-direction);
+  - [§5.2](#52-ecosystem-value-orientation);
+  - [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent).
 - Downstream: the Independent Bodies listed in [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) and their subcore files.
 - Read with: [*Review and Correction Duty*](subcore_03.075_band_continuity.md#review-and-correction-duty); [*Strategic Stewardship Obligation*](subcore_03.075_band_continuity.md#strategic-stewardship-obligation); [*Proxy Divergence*](subcore_03.085_band_oversight.md#proxy-divergence).
 
