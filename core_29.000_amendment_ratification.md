@@ -240,7 +240,7 @@ Rights-affecting amendments and authority-structure amendments do not take irrev
 - Upstream: [§5](#5-validity-floor-rule)–[§10](#10-provisional-effect-rule) validity and timing rules.
 - Downstream:
   - Mandatory referral records route to [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) (separate Contribution Axis and Violation Axis records and numeric measurement on the §9 unified scale), [Chapter Sixteen §4](core_16.000_standing_integration.md#4-automatic-integration-review-and-continuity) (16.000 §4) (integration routing of qualifying Violation Axis slot 7–9 findings), and [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) (the corresponding anti-constitutional-misconduct designation for a qualifying Chapter Fifteen Violation Axis slot 7, 8, or 9 record); this chapter does not classify.
-  - Referral-style obligations in operative bullets route per [Chapter Twenty-Eight §6](core_28.000_non_regression.md#6-layer-scope) (28.000 §6) layer scope.
+  - Referral-style obligations in operative bullets route per [Chapter Twenty-Eight §7](core_28.000_non_regression.md#7-work-this-chapter-leaves-to-other-chapters) (28.000 §7) (*Work This Chapter Leaves to Other Chapters*).
 - Read with: [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) forum-family and jurisdiction routing where invalidity determinations implicate forum role.
 
 </details>
@@ -465,7 +465,7 @@ This subsection sets out how a proposed change to the text of this Constitution 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Eight §6](core_28.000_non_regression.md#6-layer-scope) (28.000 §6) substantive-chapter mirror; [§9](#9-review-triggers) and [§11](#11-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
+- Upstream: [Chapter Twenty-Eight §7](core_28.000_non_regression.md#7-work-this-chapter-leaves-to-other-chapters) (28.000 §7) substantive-chapter mirror; [§9](#9-review-triggers) and [§11](#11-invalid-change-handling-and-remediation-continuity) trigger language scoped here.
 - Downstream: [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) and [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) remain sole canonical homes for listed taxonomies.
 - Read with: [Chapter Four — Owner Non-Relocation](core_04.000_rights_part_a.md#22-owner-non-relocation) (4.000) and [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) for the converse Rights-Floor discipline pattern.
 
@@ -487,7 +487,7 @@ Future additions that touch offense-flavored or sanction-flavored language must 
 > Canonical owner routing lives in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights). For editorial orientation, obligations outside the procedural change-validity owner layer include:
 > - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Fifteen** in [core_15.000_standing_measurement.md](core_15.000_standing_measurement.md); **standing effects and integration** — **Chapter Sixteen** in [core_16.000_standing_integration.md](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows);
 > - **numeric Contribution and Violation Axis slots** — the **Chapter Fifteen §8 unified scale**, with separate Standing Records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation** for qualifying Violation Axis slots 7–9 — **Chapter Twenty** in [core_20.000_misconduct_designation.md](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation); and
-> - **sanction taxonomy** and adjudicative workflow — owner layers identified in [Chapter Twenty-Eight §6 Layer Scope](core_28.000_non_regression.md#6-layer-scope) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+> - **sanction taxonomy** and adjudicative workflow — owner layers identified in [Chapter Twenty-Eight §7 Work This Chapter Leaves to Other Chapters](core_28.000_non_regression.md#7-work-this-chapter-leaves-to-other-chapters) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
 
 </details>
 

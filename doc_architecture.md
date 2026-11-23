@@ -1522,4 +1522,9 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - Five checked TODO items (severe-designation tests, captured-institution route, Chapter Twenty-Five enforcement, special enforcement chapter, stress-pack first pass) move to [archive/TODO_RESOLVED_2026-11-23.md](archive/TODO_RESOLVED_2026-11-23.md). The checked *Capacity locks* item stays until the custodian reviews CJS-14.105 §10.13 and §10.14.
 - No MEMLOG entry was complete, so none moved.
 
+**Nine hundred and sixty-ninth move (Chapter Twenty-Eight §6 "Layer Scope" split into two plainly titled sections; 2026-11-23; structure and titles only, no rule changed; number provisional under MOVE-NUMBER-01).** Decision (custodian, in the project thread: "I think we want two sections, with less jargon in the titles, please"). What changed:
+
+- [Chapter Twenty-Eight](core_28.000_non_regression.md) §6 becomes [§6 Protective Steps While a Change Is in Doubt](core_28.000_non_regression.md#6-protective-steps-while-a-change-is-in-doubt) (heightened review, provisional suspension, evidence preservation, remediation publication), with its own Trace and plain-terms line, and [§7 Work This Chapter Leaves to Other Chapters](core_28.000_non_regression.md#7-work-this-chapter-leaves-to-other-chapters) (the owner list, the drift rule, the pointer rule, and the routing index), keeping the old Trace. The old `6-layer-scope` anchor stays on §6 for older links.
+- Live links that meant the owner rule now point to §7: the chapter Trace and §5 in Chapter Twenty-Eight, Chapter Twenty-Nine §11, §14, and its reader guidance, and the *Owner Non-Relocation* entry in Subcore 3-L. The TODO item for the Chapter §1 follow-ups is checked.
+
 **Next file:** [README.md](README.md)

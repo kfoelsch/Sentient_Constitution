@@ -30,7 +30,8 @@
   - [§3](#3-non-regression-floor);
   - [§4](#4-substantive-test-1--substantive-non-regression-validity);
   - [§5](#5-anti-evasion-clause);
-  - [§6](#6-layer-scope).
+  - [§6](#6-protective-steps-while-a-change-is-in-doubt);
+  - [§7](#7-work-this-chapter-leaves-to-other-chapters).
 - Downstream:
   - [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) (29.000) procedural validity, ratification, amendment requirements, and referral of serious bad-faith conduct.
   - [Chapter Thirty](core_30.000_expansion_supremacy.md#chapter-thirty-expansion-supremacy-and-external-legal-orders) (30.000) expansion and supremacy;
@@ -188,7 +189,7 @@ A change that is not found to be a correction is judged as any other change. A p
 
 - Upstream: [§3](#3-non-regression-floor)–[§4](#4-substantive-test-1--substantive-non-regression-validity) substantive invalidity standards.
 - Downstream: serious bad-faith conduct in amendment or adoption is referred under [Chapter Twenty-Nine §11](core_29.000_amendment_ratification.md#11-invalid-change-handling-and-remediation-continuity) (29.000 §11); this chapter does not classify.
-- Read with: [§6](#6-layer-scope) layer scope (triggers are not canonical slot-classification or sanction law).
+- Read with: [§7](#7-work-this-chapter-leaves-to-other-chapters) (*Work This Chapter Leaves to Other Chapters*) (triggers are not canonical slot-classification or sanction law).
 
 </details>
 
@@ -207,8 +208,31 @@ Invalidity remains where substantive constitutional effect is materially equival
 Serious bad-faith conduct in amendment or adoption is referred under [Chapter Twenty-Nine §11](core_29.000_amendment_ratification.md#11-invalid-change-handling-and-remediation-continuity) (*Invalid-Change Handling and Remediation Continuity*), not handled here.
 
 <a id="6-layer-scope"></a>
+<a id="6-protective-steps-while-a-change-is-in-doubt"></a>
 
-### 6. Layer Scope
+### 6. Protective Steps While a Change Is in Doubt
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§4](#4-substantive-test-1--substantive-non-regression-validity) Substantive Test 1; [§5](#5-anti-evasion-clause) anti-evasion clause.
+- Downstream: [Chapter Twenty-Nine §10](core_29.000_amendment_ratification.md#10-provisional-effect-rule) (29.000 §10) provisional effect; [Chapter Twenty-Nine §11](core_29.000_amendment_ratification.md#11-invalid-change-handling-and-remediation-continuity) (29.000 §11) invalid-change handling.
+- Read with: [§7](#7-work-this-chapter-leaves-to-other-chapters) (*Work This Chapter Leaves to Other Chapters*).
+
+</details>
+
+<br>
+
+*In plain terms: while it is in doubt whether a change is valid, this chapter can order extra review, keep the evidence safe, pause the change where that is truly needed, and require the fix to be published.*
+
+This chapter may impose immediate validity-protection controls. Those controls include:
+- heightened review;
+- provisional suspension where materially necessary;
+- [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation); and
+- remediation publication.
+
+<a id="7-work-this-chapter-leaves-to-other-chapters"></a>
+
+### 7. Work This Chapter Leaves to Other Chapters
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
@@ -227,13 +251,7 @@ Serious bad-faith conduct in amendment or adoption is referred under [Chapter Tw
 
 <br>
 
-*In plain terms: Chapter Twenty-Eight can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Fifteen §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale, and Chapter Twenty only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.*
-
-This chapter may impose immediate validity-protection controls. Those controls include:
-- heightened review;
-- provisional suspension where materially necessary;
-- [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation); and
-- remediation publication.
+*In plain terms: this chapter does not sort offenses, score standing, or set sanctions. Numeric standing measurement belongs to the Chapter Fifteen §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale, and Chapter Twenty only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.*
 
 Under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification (Chapter Fifteen for the Violation Axis slot and Chapter Twenty for the anti-constitutional-misconduct designation), sanction taxonomy (Chapters Sixteen to Nineteen), standing measurement (Chapter Fifteen), adjudicative workflow (Chapter Twenty-Two), and procedural amendment validity (Chapter Twenty-Nine). Slot-flavored or classification-flavored language in this chapter or in **Chapter Twenty-Nine** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 

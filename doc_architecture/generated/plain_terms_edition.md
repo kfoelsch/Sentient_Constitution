@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_30.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **598** of **1013** headings carry a gloss (59%).
+Coverage: **599** of **1014** headings carry a gloss (59%).
 
 ## Contents
 
@@ -47,7 +47,7 @@ Coverage: **598** of **1013** headings carry a gloss (59%).
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.030_rights_part_d.md` (31/32 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.040_rights_part_e.md` (13/14 glossed)
 - [CHAPTER TWENTY-SEVEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_27.000_governance.md` (15/32 glossed)
-- [CHAPTER TWENTY-EIGHT: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) — `core_28.000_non_regression.md` (6/7 glossed)
+- [CHAPTER TWENTY-EIGHT: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) — `core_28.000_non_regression.md` (7/8 glossed)
 - [CHAPTER TWENTY-NINE: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-nine-amendment-ratification-and-procedural-validity) — `core_29.000_amendment_ratification.md` (21/22 glossed)
 - [CHAPTER THIRTY: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-thirty-expansion-supremacy-and-external-legal-orders) — `core_30.000_expansion_supremacy.md` (14/15 glossed)
 - [CHAPTER THIRTY-ONE: INCORPORATION BRIDGE](#chapter-thirty-one-incorporation-bridge) — `core_31.000_incorporation.md` (5/6 glossed)
@@ -5758,7 +5758,7 @@ power must sit with **stewards** and **officers** who can actually do the job �
 
 ## CHAPTER TWENTY-EIGHT: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY
 
-Source file: [`core_28.000_non_regression.md`](../../core_28.000_non_regression.md) · 6/7 headings glossed
+Source file: [`core_28.000_non_regression.md`](../../core_28.000_non_regression.md) · 7/8 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -5790,11 +5790,17 @@ calling a rollback "implementation guidance," burying it in metadata, or calling
 
 [Source](../../core_28.000_non_regression.md#5-anti-evasion-clause)
 
-#### 6. Layer Scope
+#### 6. Protective Steps While a Change Is in Doubt
 
-Chapter Twenty-Eight can demand extra review, preserve evidence, or pause things when validity is in doubt — but it does not run parallel classification or invent new offense categories; numeric standing measurement belongs to the Chapter Fifteen §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale, and Chapter Twenty only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
+while it is in doubt whether a change is valid, this chapter can order extra review, keep the evidence safe, pause the change where that is truly needed, and require the fix to be published.
 
 [Source](../../core_28.000_non_regression.md#6-layer-scope)
+
+#### 7. Work This Chapter Leaves to Other Chapters
+
+this chapter does not sort offenses, score standing, or set sanctions. Numeric standing measurement belongs to the Chapter Fifteen §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale, and Chapter Twenty only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
+
+[Source](../../core_28.000_non_regression.md#7-work-this-chapter-leaves-to-other-chapters)
 
 ## CHAPTER TWENTY-NINE: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY
 

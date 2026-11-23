@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-23T22:18:07+00:00",
+  "generated_at": "2026-11-23T22:32:10+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -1153,15 +1153,16 @@
       ]
     },
     "core_28.000_non_regression.md": {
-      "total_lines": 262,
+      "total_lines": 280,
       "sections": [
-        {"header":"CHAPTER TWENTY-EIGHT: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY","level":1,"line_start":1,"line_end":262,"anchor":null},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":45,"line_end":73,"anchor":null},
-        {"header":"2. Why Non-Regression Exists","level":3,"line_start":74,"line_end":97,"anchor":"#2-why-non-regression-exists"},
-        {"header":"3. Non-Regression Floor","level":3,"line_start":98,"line_end":140,"anchor":null},
-        {"header":"4. Substantive Test 1 — Substantive Non-Regression Validity","level":3,"line_start":141,"line_end":184,"anchor":"#4-substantive-test-1--substantive-non-regression-validity"},
-        {"header":"5. Anti-Evasion Clause","level":3,"line_start":185,"line_end":210,"anchor":null},
-        {"header":"6. Layer Scope","level":3,"line_start":211,"line_end":262,"anchor":"#6-layer-scope"}
+        {"header":"CHAPTER TWENTY-EIGHT: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY","level":1,"line_start":1,"line_end":280,"anchor":null},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":46,"line_end":74,"anchor":null},
+        {"header":"2. Why Non-Regression Exists","level":3,"line_start":75,"line_end":98,"anchor":"#2-why-non-regression-exists"},
+        {"header":"3. Non-Regression Floor","level":3,"line_start":99,"line_end":141,"anchor":null},
+        {"header":"4. Substantive Test 1 — Substantive Non-Regression Validity","level":3,"line_start":142,"line_end":185,"anchor":"#4-substantive-test-1--substantive-non-regression-validity"},
+        {"header":"5. Anti-Evasion Clause","level":3,"line_start":186,"line_end":212,"anchor":null},
+        {"header":"6. Protective Steps While a Change Is in Doubt","level":3,"line_start":213,"line_end":234,"anchor":"#6-protective-steps-while-a-change-is-in-doubt"},
+        {"header":"7. Work This Chapter Leaves to Other Chapters","level":3,"line_start":235,"line_end":280,"anchor":"#7-work-this-chapter-leaves-to-other-chapters"}
       ]
     },
     "core_29.000_amendment_ratification.md": {
