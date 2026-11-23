@@ -1610,4 +1610,10 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - New record [project/reviews/severe_designation_boundary_tests_2026-11-23.md](project/reviews/severe_designation_boundary_tests_2026-11-23.md) traces five cases (organized capture, failed good-faith administration, dissident reform, mass protest, investigative reporting) through Chapter Twenty §§3–7 at slot 7 or above. Capture is designated; reform and protest are protected by §5.5.
 - Two gaps go to the custodian: criteria 3 and 4 need no mental state, so failed good-faith administration can meet every step (Gap A); §5.5 does not name Article XI-C press and journalistic activity or protected reporting (Gap B). The TODO item stays open with this note.
 
+**Nine hundred and sixty-first move (Chapter Twenty: good-faith failure and journalism closed out of the designation; 2026-11-23; rule change; number provisional under MOVE-NUMBER-01).** Decision (custodian, in the project thread: "please close the gaps and implement your suggestions"). What changed in [Chapter Twenty](core_20.000_misconduct_designation.md):
+
+- §5.3 gains *Rollback or causal contribution standing alone*: where criterion 3 (*Material rollback effect*) or criterion 4 (*Causally significant conduct*) is the only criterion met, the ACMD attaches only if the Standing Record also shows purpose, knowledge, reckless disregard of a known and serious risk, or continuation after a fair chance to correct. Good-faith administration that fails, even at scale, keeps the ordinary Chapters Sixteen to Nineteen consequences at its Chapter Fifteen slot.
+- §5.5 now names press and journalistic activity under Article XI-C and protected reporting (whistleblowing), and a new bullet says selecting, withholding to protect a source, or publishing material from constitutional records is not *material omission* or *custody manipulation* under criterion 2. The heading and anchor are unchanged.
+- The §5 plain-terms note says both. The [boundary test record](project/reviews/severe_designation_boundary_tests_2026-11-23.md) records the resolution and the TODO item is checked.
+
 **Next file:** [README.md](README.md)

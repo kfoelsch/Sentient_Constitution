@@ -43,7 +43,10 @@ Chapter Twenty §3 (frame, §3.1 no re-measurement, §3.2 exclusive authority), 
 
 **Note 1 (no change proposed).** §6's eligibility sentence ("may make the ACMD eligible") reads as permissive. Whether one of the four routes is *required* is not stated. Option (a) under Gap A would reduce the weight on this sentence. If the custodian prefers, the sentence can say "must" in the same edit.
 
-## 6. Not done
+## 6. Resolution
 
-- No text change. Gaps A and B go to the custodian as decisions, one at a time.
+The custodian approved both recommendations ("please close the gaps and implement your suggestions"), and the 961st move made them: Chapter Twenty §5.3 gains *Rollback or causal contribution standing alone* (Gap A, option a), and §5.5 now names press and journalistic activity under Article XI-C and protected reporting, with a criterion 2 sentence on selecting, withholding, and publishing (Gap B). Note 1 is left as it stands; the new §5.3 rule takes the weight off it. Case 2 now **holds** and case 5 **holds** without the gap.
+
+## 7. Not done
+
 - An independent read (another model family and one human reader) of the five cases.

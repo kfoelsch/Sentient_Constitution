@@ -247,7 +247,7 @@ Steps 3 and 4 list the **section 7** parts in the order they are presented. Once
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
 
-*In plain terms: evaluators first accept the Chapter Fifteen impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. They may not split one scheme to game the anti-constitutional-misconduct designation.*
+*In plain terms: evaluators first accept the Chapter Fifteen impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. When only the rollback or real-world-blockage check is met, honest failure is not enough: the Standing Record must also show purpose, knowledge, reckless disregard, or a refusal to correct when correction was possible. Dissent, protest, journalism, and whistleblowing are not anti-constitutional misconduct. They may not split one scheme to game the anti-constitutional-misconduct designation.*
 
 #### 5.1 Unified Incident
 
@@ -304,15 +304,25 @@ Assess every criterion the facts actually support together on the same **unified
 
 Do not count the same conduct as both **criterion 5** (*Insurrection or material forcible subversion*) and **criterion 6** (*Operative nullification*) unless each one has its own independent proof. For example, the Standing Record must show separate forcible acts and separate ways of making process or remedies unusable — not two labels for one undifferentiated fact.
 
+**Rollback or causal contribution standing alone.** Where **criterion 3** (*Material rollback effect*) or **criterion 4** (*Causally significant conduct*) is the only criterion the verified Standing Record supports, with no **criterion 1** (*Willful deceptive intent*), **criterion 2** (*Knowing falsification or suppression*), **criterion 5** (*Insurrection or material forcible subversion*), or **criterion 6** (*Operative nullification*), the ACMD attaches only if the Standing Record also shows one of the following:
+
+- purpose to bring about the weakening, unlawful constitutional effect, delayed correction, blocked challenge rights, or Rights-Floor degradation;
+- knowledge that the conduct would bring it about;
+- reckless disregard of a known and serious risk that it would; or
+- continuation of the conduct after a fair chance to correct it in good faith, where correction was possible.
+
+Good-faith administration that fails, even at scale, does not meet this test through its size or its consequences alone. Its verified violation still carries the ordinary consequences of **Chapters Sixteen to Nineteen** at the slot Chapter Fifteen assigned.
+
 #### 5.4 Good-Faith Drafting Carve-Out
 
 An honest, good-faith drafting mistake is not anti-constitutional misconduct if it is disclosed promptly and fixed before it has any constitutional effect. This protection covers only mistakes that matter solely under **criteria 1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*) and arise in **change** or **record** contexts. It never excuses **criteria 5** or **6** (*Insurrection or material forcible subversion* or *Operative nullification*) conduct.
 
 #### 5.5 Dissent and Peaceful Protest Carve-Out
 
-Dissent, advocacy for amendment or replacement of authority by lawful means, peaceful protest, and [protected nonviolent civil disobedience](core_04.010_rights_part_b.md#xi-d-nonviolent-civil-disobedience) under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) are not anti-constitutional misconduct.
+Dissent, advocacy for amendment or replacement of authority by lawful means, peaceful protest, and [protected nonviolent civil disobedience](core_04.010_rights_part_b.md#xi-d-nonviolent-civil-disobedience) under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) are not anti-constitutional misconduct. Nor are press and journalistic activity under [**Article XI-C**](core_04.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Press and Journalistic Activity*) and [protected reporting (whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing).
 
 - They satisfy no criterion — including **criterion 5** or **6** (*Insurrection or material forcible subversion* or *Operative nullification*) — through their message, intensity, popularity, or aim of changing who holds authority or what the Constitution says.
+- Selecting, withholding to protect a source, or publishing material from constitutional records in the course of journalism or protected reporting is not *material omission* or *custody manipulation* under **criterion 2** (*Knowing falsification or suppression*). That criterion reaches those who keep or alter constitutional custody and verification records, and falsifying a custody or verification record stays separable conduct.
 - **Criteria 5** and **6** (*Insurrection or material forcible subversion* and *Operative nullification*) require force, coercion, usurpation, or operative nullification shown by separable conduct.
 
 ### 6. Violation Axis Slot 7–9 Anti-Constitutional Designation
