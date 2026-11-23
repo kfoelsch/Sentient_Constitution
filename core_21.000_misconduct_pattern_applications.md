@@ -1596,7 +1596,7 @@ Two other chapters keep their own jobs:
 This section does **not**:
 - convert every obstruction finding into an Anti-Constitutional Misconduct Review matter;
 - equate obstruction of accountability with ACMD; or
-- relocate standing measurement, ordinary locks, or forum supervision from Chapters Fourteen, Twelve, or Fifteen.
+- relocate standing measurement, ordinary locks, or forum supervision from Chapters Fifteen, Sixteen, or Twenty-Two.
 
 It routes evaluation of the umbrella pattern into the existing ACMD criteria and due-process safeguards of this chapter.
 

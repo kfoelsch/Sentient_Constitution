@@ -1566,4 +1566,11 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - In five Chapter Three subcores (3-A and the four apex legs) the Upstream list had been split mid-sentence into bullets; it is now whole entries again, and *material stake scaling* is kept where the Grounded in list does not carry it.
 - Section-level Trace widgets were not touched: they record upstream for that section, not the chapter. No audit enforces the separation yet.
 
+**Nine hundred and forty-ninth move (stale cites found in the §1 drafting pass; 2026-11-23; number provisional under MOVE-NUMBER-01).** Works through the *Found while reading* list in [PURPOSE_ROLE_SCOPE_DRAFTS_APPLIED_2026-11-23.md](archive/PURPOSE_ROLE_SCOPE_DRAFTS_APPLIED_2026-11-23.md). What changed:
+
+- [Chapter Twenty-One](core_21.000_misconduct_pattern_applications.md) (old Chapter Twenty-Two): the "does not relocate" list now names the owners the same section states two lines earlier, standing measurement in Chapter Fifteen, ordinary locks in Chapter Sixteen, and forum supervision in Chapter Twenty-Two (it read "Chapters Fourteen, Twelve, or Fifteen", left over from renumbering).
+- The placement boxes of Chapters Sixteen to Nineteen: garbled ranges such as "Chapter Sixteen §§1–Chapter Sixteen 4" now read "Chapter Sixteen §§1–5", Chapter Eighteen "§§3–4", Chapter Nineteen "§§3–5"; "The other Parts are" now reads "The other three chapters are"; and the false "Section numbers run continuously across the four Parts" now says each chapter numbers its own sections.
+- [Subcore 3-H](subcore_03.070_band_accountability.md) cites Chapter Sixteen §3 through Chapter Nineteen in place of "Chapter Sixteen §§3–Chapter Nineteen 3", and the CS-8.315 run sheet links "Chapters Eleven to Thirteen" in place of "Chapter Eleven §1–Chapter Thirteen §6".
+- Chart node labels of the form "Chapter Ten §4–Chapter Ten §5" were left as they are, because VIS-CHART-SECNUM-09 requires the section number to open the label. The Chapter Seventeen §1 stale link text (item 4) was already fixed. The Chapter Twenty-Eight §6 owner list (item 1) goes to the custodian, because it is binding text with five owners against four chapters.
+
 **Next file:** [README.md](README.md)
