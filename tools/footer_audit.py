@@ -80,6 +80,7 @@ CORE_CHAIN = (
     "subcore_22.020_forum_case_seats_contest_routing.md",
     "core_23.000_forum_families_escalation_timeliness_support.md",
     "core_24.000_assemblies.md",
+    "subcore_24.010_taxation.md",
     "core_25.000_enforcement.md",
     "core_26.000_special_enforcement.md",
     "subcore_26.010_special_enforcement_procedure.md",

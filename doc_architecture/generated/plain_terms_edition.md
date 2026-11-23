@@ -4460,7 +4460,7 @@ Source file: [`core_24.000_assemblies.md`](../../core_24.000_assemblies.md) · 9
 
 #### 1. Purpose, Role, and Scope
 
-this chapter says what a polity's assemblies are for: making general rules, setting budgets, choosing and checking the executive, and handling emergencies, and what they may never do.
+this chapter says what a polity's assemblies are for: making general rules, setting tax policy and budgets, choosing and checking the executive, and handling emergencies, and what they may never do.
 
 [Source](../../core_24.000_assemblies.md#1-purpose-role-and-scope)
 
@@ -4472,7 +4472,7 @@ someone has to make the general rules and set the budget, in public, and answer 
 
 #### 3. What Assemblies Decide
 
-assemblies make the rules, pass the budget, choose and oversee the executive, and give the polity's consent to constitutional change. They do not judge cases or run the independent bodies.
+assemblies make the rules, set tax policy, pass the budget, choose and oversee the executive, and give the polity's consent to constitutional change. They do not judge cases or run the independent bodies.
 
 [Source](../../core_24.000_assemblies.md#3-what-assemblies-decide)
 

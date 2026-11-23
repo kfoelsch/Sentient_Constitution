@@ -1018,6 +1018,20 @@
       "ordinal_name": "24"
     },
     {
+      "old_id": "Chapter 24 §3 (new)",
+      "original_file": "subcore_24.010_taxation.md",
+      "machine_id": "SUB-24010",
+      "display_id": "S24-A",
+      "layer": "SUBCORE",
+      "core_home": "24",
+      "title": "S24-A",
+      "destination_file": "subcore_24.010_taxation.md",
+      "status": "active",
+      "machine_number": "24010",
+      "layer_digit": "0",
+      "ordinal_name": "S24-A"
+    },
+    {
       "old_id": "Chapter 25 (new)",
       "original_file": "core_25.000_enforcement.md",
       "machine_id": "25000",

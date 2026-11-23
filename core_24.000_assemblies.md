@@ -5,6 +5,8 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files and the subcore, read as one text. It contains **Chapter Twenty-Four**, *Assemblies*: its purpose (§1), why it exists (§2), what assemblies decide (§3), how work is divided between tiers (§4), how assemblies decide (§5), executives (§6), community referendums (§7), emergencies (§8), and the limits on every assembly (§9). The chapter was added on 2026-11-23, and the chapters that were Twenty-Four to Thirty became Twenty-Five to Thirty-One.
 >
+> - **Attached subcore file:** [Subcore 24-A](subcore_24.010_taxation.md#subcore-24-a-taxation) (*Taxation*) holds the standard detail of the tax power in §3: the tests every tax must pass, preferred and barred tax designs, ease-of-use duties, enforcement, taxpayer rights, how tax rules are made, and outcome review.
+>
 > **Upstream:** [core_23.000_forum_families_escalation_timeliness_support.md](core_23.000_forum_families_escalation_timeliness_support.md) (Chapter Twenty-Three)
 > **Next:** [core_25.000_enforcement.md](core_25.000_enforcement.md)
 
@@ -24,6 +26,7 @@
   - [§7](#7-community-referendums);
   - [§8](#8-emergencies);
   - [§9](#9-limits-on-every-assembly).
+- Attached subcore: [Subcore 24-A](subcore_24.010_taxation.md#subcore-24-a-taxation) (*Taxation*).
 - Downstream: [Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (*forum review of emergency measures*); adopted implementation text that names an adopter's assemblies, tiers, and published tier matters.
 
 </details>
@@ -35,7 +38,7 @@ Chapter Twenty-Four is the constitutional owner of **what an assembly of a polit
 <a id="1-purpose-role-and-scope"></a>
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: this chapter says what a polity's assemblies are for: making general rules, setting budgets, choosing and checking the executive, and handling emergencies, and what they may never do.*
+*In plain terms: this chapter says what a polity's assemblies are for: making general rules, setting tax policy and budgets, choosing and checking the executive, and handling emergencies, and what they may never do.*
 
 **Purpose:** Chapter Twenty-Four sets the role, powers, procedure, and limits of the assemblies through which a polity adopter exercises governing authority.
 
@@ -78,11 +81,12 @@ General rules and budgets bind everyone, so they must be made in the open by a b
 <a id="3-what-assemblies-decide"></a>
 ### 3. What Assemblies Decide
 
-*In plain terms: assemblies make the rules, pass the budget, choose and oversee the executive, and give the polity's consent to constitutional change. They do not judge cases or run the independent bodies.*
+*In plain terms: assemblies make the rules, set tax policy, pass the budget, choose and oversee the executive, and give the polity's consent to constitutional change. They do not judge cases or run the independent bodies.*
 
 Within the matters assigned to its tier under section 4, an assembly:
 
 - **Makes general rules:** enacts binding general rules that implement, and never narrow, this Constitution.
+- **Sets tax policy:** decides the tier's tax policy by general rule: what is taxed, at what rates, and with what exemptions and credits, read with [CI-4.210](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public Revenue, Fees, Recurring Charges, and Billing Integrity*). No tax is levied except by an assembly's general rule, and each tier taxes only within its matters under section 4. Every tax meets [Subcore 24-A Taxation](subcore_24.010_taxation.md#subcore-24-a-taxation): the tests of a fair and simple tax, the barred tax designs, the enforcement limits, and the rights of those who owe tax.
 - **Adopts the budget:** adopts the tier's budget and its public revenue, read with [CI-4.210](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public Revenue, Fees, Recurring Charges, and Billing Integrity*). Each tier adopts its own budget.
 - **Chooses and oversees the executive:** chooses the tier's executive under section 6, questions it, holds inquiries, and may remove it.
 - **Gives the polity's assent:** gives the polity's assent to adoption or amendment where [Chapter Twenty-Nine §12 Ratification and Adoption](core_29.000_amendment_ratification.md#12-ratification-and-adoption) calls for it.
@@ -216,4 +220,4 @@ Every assembly is bound by these limits:
 
 **Previous file:** [core_23.000_forum_families_escalation_timeliness_support.md](core_23.000_forum_families_escalation_timeliness_support.md)
 
-**Next file:** [core_25.000_enforcement.md](core_25.000_enforcement.md)
+**Next file:** [subcore_24.010_taxation.md](subcore_24.010_taxation.md)
