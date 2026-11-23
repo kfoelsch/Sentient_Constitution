@@ -50,6 +50,8 @@ CORE_CHAIN = (
     "subcore_06.010_constitutional_lanes.md",
     "core_07.000_independent_bodies.md",
     "subcore_07.010_electoral_office.md",
+    "subcore_07.020_public_policy_office.md",
+    "subcore_07.030_public_stewardship_office.md",
     "core_08.000_system_alignment_certification_evaluation.md",
     "subcore_08.010_system_classification.md",
     "core_09.000_system_alignment_certification_forum_process_outcomes.md",

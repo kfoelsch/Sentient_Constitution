@@ -1,6 +1,6 @@
 # Public Stewardship Office: International Comparison (2026-11-22)
 
-**Purpose:** at the custodian's request ("take our PSO draft and compare it to comparable institutions worldwide and see how we do"), this memo compares the [Public Stewardship Office draft](../plans/public_stewardship_office_draft_2026-11-21.md) (Subcore 7-[S]) with institutions that do similar work elsewhere, and proposes changes.
+**Purpose:** at the custodian's request ("take our PSO draft and compare it to comparable institutions worldwide and see how we do"), this memo compares the [Public Stewardship Office draft](../../subcore_07.030_public_stewardship_office.md) (Subcore 7-[S]) with institutions that do similar work elsewhere, and proposes changes.
 
 **How this memo was made:** it summarizes well-known features of each institution from memory, and points to sources located by web search on 2026-11-22. The sources were identified, not read in full. Confirm any figure or date against its source before citing it. The memo is non-operative: it changes no draft text.
 
@@ -106,4 +106,4 @@ No single institution anywhere combines everything the draft does. Each part of 
 - ARIA: [ARIA policy statement](https://www.gov.uk/government/publications/advanced-research-and-invention-agency-aria-statement-of-policy-intent/advanced-research-and-invention-agency-aria-policy-statement); [ARIA annual report 2025–26](https://www.gov.uk/government/publications/aria-annual-report-and-accounts-2025-to-2026--2/advanced-research-and-invention-agency-annual-report-and-accounts-2025-to-2026).
 - Other institutions named above (Finland, Sitra, the EU foresight reports, Singapore, Japan, Germany, France, the CBO, the OBR, Australia, the ERC, the NSF, the prizes, the REF and ERA) are described from memory and were not located by search on this date.
 
-**Next file:** [Public Stewardship Office draft](../plans/public_stewardship_office_draft_2026-11-21.md)
+**Next file:** [Public Stewardship Office draft](../../subcore_07.030_public_stewardship_office.md)

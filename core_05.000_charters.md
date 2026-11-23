@@ -428,9 +428,9 @@ The fifth limit works on one act of an Institution, exercising new material auth
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
 
-- [§5.1 What a System Charter States](#51-what-a-system-charter-states) lists the ten items.
+- [§5.1 What a System Charter States](#51-what-a-system-charter-states) lists the eleven items.
 - [§5.2 Charter Pointers](#52-charter-pointers) says that a System Charter or Institutional Charter may refer to another published document instead of copying its text, and what makes that reference valid.
-- [§5.3 What an Institutional Charter Adds](#53-what-an-institutional-charter-adds) covers what an Institutional Charter holds beyond the ten items: the System Charters of the Systems the Institution runs, and why it runs them.
+- [§5.3 What an Institutional Charter Adds](#53-what-an-institutional-charter-adds) covers what an Institutional Charter holds beyond the eleven items: the System Charters of the Systems the Institution runs, and why it runs them.
 - [§5.4 Acts That Need a Practice Licence or Practice Clearance](#54-acts-that-need-a-practice-licence-or-practice-clearance) says that a System Charter or Institutional Charter may claim such an act only if every sentient who performs it holds the licence or clearance, or works as a learner under a supervisor who does. Until then, the act is listed as out of scope (item 4 in [§5.1 What a System Charter States](#51-what-a-system-charter-states)).
 - [§5.5 Scaling](#55-scaling) says what changes with class.
 
@@ -490,6 +490,7 @@ A System Charter states, in plain language that affected sentients and auditors 
     - anyone can report an emergency that the Chartered Party's activities cause or could stop, and reach someone able to act on it at once.
 
     The enforcement contact must be reachable whenever the Chartered Party operates. The emergency contact must be reachable at all hours where the Chartered Party operates continuously or its activities could cause or stop imminent harm; otherwise it must be reachable whenever the Chartered Party operates, with a published forwarding path for other times. Both must be kept current, and they are a missing item under [§3.6 If a System Charter or Institutional Charter Is Missing](#36-if-a-system-charter-or-institutional-charter-is-missing) if they do not work. Serving an outcome through the published enforcement contact counts as serving the Chartered Party.
+11. **Stewardship planning and evaluation:** how the Chartered Party plans for, and evaluates its progress against, the stewardship guidance that bears on it, by Charter Pointer to its stewardship plan and progress report where [Subcore 7-C §7](subcore_07.030_public_stewardship_office.md#7-stewardship-plans-and-progress-reports) requires them, or a statement that it does not plan against the outlook where it does not.
 
 <a id="52-charter-pointers"></a>
 #### 5.2 Charter Pointers
@@ -499,7 +500,7 @@ A System Charter or Institutional Charter may point to another published documen
 <a id="53-what-an-institutional-charter-adds"></a>
 #### 5.3 What an Institutional Charter Adds
 
-An Institutional Charter states items 1 to 10 of [§5.1 What a System Charter States](#51-what-a-system-charter-states) for the Institution itself, and also holds:
+An Institutional Charter states items 1 to 11 of [§5.1 What a System Charter States](#51-what-a-system-charter-states) for the Institution itself, and also holds:
 
 - **The System Charters:** Every System Charter in force for the Systems the Institution operates, stewards, or materially controls, included in full or by a Charter Pointer that resolves to the current published version.
 - **The portfolio rationale:** Why the Institution runs those particular Systems, how they serve its stated purpose and relate to one another, and which dependencies they share. A System with no stated reason is a missing item.

@@ -566,6 +566,34 @@
       "ordinal_name": "S7-A"
     },
     {
+      "old_id": "Subcore 7-B (new)",
+      "original_file": "subcore_07.020_public_policy_office.md",
+      "machine_id": "SUB-07020",
+      "display_id": "S7-B",
+      "layer": "SUBCORE",
+      "core_home": "07",
+      "title": "S7-B",
+      "destination_file": "subcore_07.020_public_policy_office.md",
+      "status": "active",
+      "machine_number": "07020",
+      "layer_digit": "0",
+      "ordinal_name": "S7-B"
+    },
+    {
+      "old_id": "Subcore 7-C (new)",
+      "original_file": "subcore_07.030_public_stewardship_office.md",
+      "machine_id": "SUB-07030",
+      "display_id": "S7-C",
+      "layer": "SUBCORE",
+      "core_home": "07",
+      "title": "S7-C",
+      "destination_file": "subcore_07.030_public_stewardship_office.md",
+      "status": "active",
+      "machine_number": "07030",
+      "layer_digit": "0",
+      "ordinal_name": "S7-C"
+    },
+    {
       "old_id": "Chapter 9",
       "original_file": "core_09_a_system_alignment_certification_evaluation.md",
       "machine_id": "08000",

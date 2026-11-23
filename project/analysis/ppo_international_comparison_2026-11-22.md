@@ -1,6 +1,6 @@
 # Public Policy Office: Comparison with Best Practice (2026-11-22)
 
-**Purpose:** at the custodian's request ("compare our PPO to best practices of comparable real world institutions"), this memo compares the [Public Policy Office draft](../plans/public_policy_office_draft_2026-11-21.md) (Subcore 7-[P]) with institutions that evaluate proposed policy elsewhere, and proposes changes. Companion memo: the [Public Stewardship Office comparison](pso_international_comparison_2026-11-22.md).
+**Purpose:** at the custodian's request ("compare our PPO to best practices of comparable real world institutions"), this memo compares the [Public Policy Office draft](../../subcore_07.020_public_policy_office.md) (Subcore 7-[P]) with institutions that evaluate proposed policy elsewhere, and proposes changes. Companion memo: the [Public Stewardship Office comparison](pso_international_comparison_2026-11-22.md).
 
 **How this memo was made:** it summarizes well-known features of each institution from memory, and points to sources located by web search on 2026-11-22. The sources were identified, not read in full. Confirm any figure or date against its source before citing it. The memo is non-operative: it changes no draft text.
 
@@ -110,4 +110,4 @@ Six recommendations are at the end.
 - Open models: [OpenFisca](https://interoperable-europe.ec.europa.eu/collection/justice-law-and-security/solution/openfisca); [PolicyEngine](https://github.com/PolicyEngine).
 - Other institutions named above (the CBO, CPB, OBR, Canadian Parliamentary Budget Officer, Normenkontrollrat, OIRA, the Washington State Institute, What Works Centres, UK post-implementation reviews, EUROMOD, and the Office of Technology Assessment) are described from memory and were not located by search on this date.
 
-**Next file:** [Public Policy Office draft](../plans/public_policy_office_draft_2026-11-21.md)
+**Next file:** [Public Policy Office draft](../../subcore_07.020_public_policy_office.md)

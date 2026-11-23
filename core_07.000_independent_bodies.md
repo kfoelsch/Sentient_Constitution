@@ -6,7 +6,7 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files and the subcore, read as one text. It contains **Chapter Seven**, *Independent Bodies*: its purpose (§1), why it exists (§2), what makes a body independent (§3), and the bodies this Constitution creates (§4). Until 2026-11-20, §3 was Chapter Six §11.
 >
 > **Upstream:** [core_06.000_functional_independence_separation_of_duties.md](core_06.000_functional_independence_separation_of_duties.md) (Chapter Six)
-> **Attached subcore file:** [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*) holds the operating rules of the Electoral Office listed in §4.
+> **Attached subcore files:** [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*), [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) (*Public Policy Office*), and [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*) hold the operating rules of the offices listed in §4.
 > **Next:** [subcore_07.010_electoral_office.md](subcore_07.010_electoral_office.md) (Subcore 7-A)
 
 </details>
@@ -21,7 +21,7 @@
   - [§3](#3-what-makes-a-body-independent);
   - [§4](#4-the-bodies-this-constitution-creates).
 - Downstream: each chapter, subcore file, or designated implementation text that names a body as an Independent Body by citing §3.
-- Attached subcore: [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*).
+- Attached subcore: [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*); [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) (*Public Policy Office*); [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*).
 
 </details>
 
@@ -208,6 +208,18 @@ Each entry below names an Independent Body that this Constitution requires of ev
   - every result can be checked by anyone, and every vote is followed by a public audit;
   - who funds a selection is published in a searchable register; and
   - no assembly, executive, or candidate chooses who is drawn by lot.
+- **Public Policy Office:** evaluates, before the final decision, what a materially consequential proposal is likely to do in practice, and reviews it again after adoption. Its operating rules are in [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) (*Public Policy Office*). It guarantees every sentient that:
+  - every evaluation is public, with its data, methods, and confidence;
+  - the office creates and publishes open decision-making models, free for anyone to use, check, and improve;
+  - the office uses the same methods for every sponsor and does not rank political aims;
+  - the office may obtain from any public body and from a proposal's sponsor the information its evaluations need; and
+  - the governing authority must answer every material finding in writing, and the office cannot block a decision.
+- **Public Stewardship Office:** looks decades ahead, publishes a Long-Term Outlook and stewardship guidance, and speaks for future generations. Its operating rules are in [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*). It guarantees every sentient that:
+  - the outlook and guidance are public, with their evidence and confidence;
+  - public bodies, and every system or institution of Class C or higher, public or private, submit stewardship plans that answer the outlook and report progress, with the burden scaled by class, and the office reviews, rates, and publishes them;
+  - the office runs a Stewardship Fund, with its own protected budget, for incentives for technological, ecological, and social improvement, for public education and advocacy on the long term, and for basic research decided by peer review;
+  - the governing authority must say in public how its strategy responds, and the office cannot write anyone's plan, command, or block; and
+  - members serve terms longer than the political cycle and cannot be removed for the content of their advice.
 
 ---
 

@@ -246,8 +246,8 @@ This chapter may impose immediate validity-protection controls. Those controls i
   - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) and [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) canonical owners.
 - Downstream: [Chapter Twenty-Nine §14](core_29.000_amendment_ratification.md#14-owner-non-relocation) (29.000 §14) mirrored procedural-layer discipline; implementation text for review execution mechanics.
 - Read with:
-  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the
-  - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights);
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation);
+  - the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights);
   - [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) on change-path and incorporation;
   - [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) (29.000) for procedural tests that do not duplicate slot-classification taxonomy.
 
@@ -257,9 +257,23 @@ This chapter may impose immediate validity-protection controls. Those controls i
 
 *In plain terms: this chapter does not sort offenses, score standing, or set sanctions. Numeric standing measurement belongs to the Chapter Fifteen §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale, and Chapter Twenty only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.*
 
-Under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification (Chapter Fifteen for the Violation Axis slot and Chapter Twenty for the anti-constitutional-misconduct designation), sanction taxonomy (Chapters Sixteen to Nineteen), standing measurement (Chapter Fifteen), adjudicative workflow (Chapter Twenty-Two), and procedural amendment validity (Chapter Twenty-Nine). Slot-flavored or classification-flavored language in this chapter or in **Chapter Twenty-Nine** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
+Under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer, including:
+- **Final offense classification:**
+  - Chapter Fifteen for the Violation Axis slot; and
+  - Chapter Twenty for the anti-constitutional-misconduct designation;
+- **Sanction taxonomy:** Chapters Sixteen to Nineteen;
+- **Standing measurement:** Chapter Fifteen;
+- **Adjudicative workflow:** Chapter Twenty-Two; and
+- **Procedural amendment validity:** Chapter Twenty-Nine.
 
-Cross-layer drift that imports adjudicative workflow, sanction mechanics, or classification substance from another owner layer into **Chapter Twenty-Eight** or **Chapter Twenty-Nine** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from review-trigger language — is **non-compliant** under this section.
+Slot-flavored or classification-flavored language in this chapter or in **Chapter Twenty-Nine** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
+
+Cross-layer drift is **non-compliant** under this section:
+- **What cross-layer drift is:** importing adjudicative workflow, sanction mechanics, or classification substance from another owner layer into **Chapter Twenty-Eight** or **Chapter Twenty-Nine**;
+- **Forms it takes:**
+  - direct text;
+  - reader-guidance prose elevated to operative effect; or
+  - inference from review-trigger language.
 
 Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation).
 
