@@ -123,7 +123,7 @@ def emit(catalog: dict | None = None) -> str:
             "",
             "### 7E) Humanity/Individual/ Cross-layer stress (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`)",
             "",
-            "Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-DD>/`. `RS-IND-001`–`RS-IND-015` have setups and a first-pass run (`evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md`). `RS-XD-001` checks **Chapters 14–15** vs **Chapter Eleven** measurement authority; `RS-XD-002` rights-layer process-creep; `RS-XD-003` custody chain; `RS-XD-004` / `RS-XD-005` emergency and evidence-gate controls.",
+            "Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-DD>/`. All 35 rows have setups and a first-pass run (`evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md`, `evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md`). `RS-XD-001` checks **Chapters 14–15** vs **Chapter Eleven** measurement authority; `RS-XD-002` rights-layer process-creep; `RS-XD-003` custody chain; `RS-XD-004` / `RS-XD-005` emergency and evidence-gate controls.",
             "",
             "## 8) (Reserved)",
             "",
