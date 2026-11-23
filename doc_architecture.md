@@ -1573,4 +1573,11 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - [Subcore 3-H](subcore_03.070_band_accountability.md) cites Chapter Sixteen §3 through Chapter Nineteen in place of "Chapter Sixteen §§3–Chapter Nineteen 3", and the CS-8.315 run sheet links "Chapters Eleven to Thirteen" in place of "Chapter Eleven §1–Chapter Thirteen §6".
 - Chart node labels of the form "Chapter Ten §4–Chapter Ten §5" were left as they are, because VIS-CHART-SECNUM-09 requires the section number to open the label. The Chapter Seventeen §1 stale link text (item 4) was already fixed. The Chapter Twenty-Eight §6 owner list (item 1) goes to the custodian, because it is binding text with five owners against four chapters.
 
+**Nine hundred and fiftieth move (pointers back to Chapter Two §16.5 Automation; 2026-11-23; no rule changed; number provisional under MOVE-NUMBER-01).** Works on the TODO item *Chapter Two §16.5*. What changed:
+
+- [Chapter Sixteen §4.3](core_16.000_standing_integration.md#43-automation-and-human-review) now says its automation rule applies [Chapter Two §16.5 Automation](core_02.040_stewardship_capacity_principles.md#165-automation), and [§4.4](core_16.000_standing_integration.md#44-processing-order) *Tracks do not wait* cites [§16.5.1 Parallelization](core_02.040_stewardship_capacity_principles.md#1651-parallelization).
+- **CS-27.305** (*Made at action*) and **CF-22.445 §5.2** (*Publication Timeliness*) cite §16.5 beside their "automated capture wherever the system allows" wording.
+- [PRINCIPLE_TO_DEFINITIONS_MAP.md](project/plain_language/PRINCIPLE_TO_DEFINITIONS_MAP.md) gains a §16.5 row, added by hand from the §16.5 definitions widget, because the source matrix CSV the generator reads is no longer in the tree (as for the §17.7 row).
+- Not done: a steward-door card for automation in `implementation/STEWARD_ENTRY_DOORS.md`, which would need a new next-step class in its JSON schema.
+
 **Next file:** [README.md](README.md)
