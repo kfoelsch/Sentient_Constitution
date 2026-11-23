@@ -142,17 +142,20 @@ An exemption, deduction, credit, reduced rate, or deferral that favors some taxp
 
 No assembly, executive, or revenue office may:
 
-- **Tax without a general rule:** levy a tax, or set or change a rate, base, or tax break, other than by the assembly's general rule. An executive may not be given power to set rates.
-- **Tax outside its tier:** tax a matter outside the tier's published matters under [Chapter Twenty-Four §4 Dividing Work Between Tiers](core_24.000_assemblies.md#4-dividing-work-between-tiers).
-- **Tax backward:** impose a new tax, a higher rate, or a narrower tax break on income, transactions, or holdings from before the rule was enacted. A change that only lowers tax may apply backward.
-- **Tax away survival:** levy or collect tax in a way that leaves a sentient below the [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*) floor.
-- **Tax a right:** tax voting, standing for office, petitioning, worship, speech, peaceful assembly, or bringing a case to a forum, or make any of them depend on having paid tax.
-- **Tax by identity:** set a tax, rate, or tax break by a characteristic protected under [Article VI-C](core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*), including [Substrate Class](subcore_03.090_band_participation.md#substrate-class), or by viewpoint or political affiliation.
-- **Hide a tax:** raise general revenue through a fee, fine, charge, or price that is not enacted and reported as a tax.
-- **Pay collectors by results:** pay, promote, rate, or reward any official, contractor, or system by the amount of tax assessed, collected, or penalized, or set collection quotas. This includes private tax collection on a share of what is collected.
-- **Make secret deals:** agree a tax treatment with one taxpayer that is not published. A ruling given to one taxpayer is published within a set time, with identifying details removed, and applies to every taxpayer in the same position.
-- **Tax in an emergency without a rule:** an emergency under [Chapter Twenty-Four §8 Emergencies](core_24.000_assemblies.md#8-emergencies) does not unlock any power to tax.
-- **Create a cliff past one hundred percent:** design taxes and benefit withdrawals so that earning one more unit leaves a sentient worse off than before.
+- **Acting without authority:**
+  - **Tax without a general rule:** levy a tax, or set or change a rate, base, or tax break, other than by the assembly's general rule. An executive may not be given power to set rates.
+  - **Tax outside its tier:** tax a matter outside the tier's published matters under [Chapter Twenty-Four §4 Dividing Work Between Tiers](core_24.000_assemblies.md#4-dividing-work-between-tiers).
+  - **Tax in an emergency without a rule:** an emergency under [Chapter Twenty-Four §8 Emergencies](core_24.000_assemblies.md#8-emergencies) does not unlock any power to tax.
+  - **Tax backward:** impose a new tax, a higher rate, or a narrower tax break on income, transactions, or holdings from before the rule was enacted. A change that only lowers tax may apply backward.
+- **Harming what is protected:**
+  - **Tax away survival:** levy or collect tax in a way that leaves a sentient below the [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*) floor.
+  - **Tax a right:** tax voting, standing for office, petitioning, worship, speech, peaceful assembly, or bringing a case to a forum, or make any of them depend on having paid tax.
+  - **Tax by identity:** set a tax, rate, or tax break by a characteristic protected under [Article VI-C](core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*), including [Substrate Class](subcore_03.090_band_participation.md#substrate-class), or by viewpoint or political affiliation.
+  - **Create a cliff past one hundred percent:** design taxes and benefit withdrawals so that earning one more unit leaves a sentient worse off than before.
+- **Hiding or bending the system:**
+  - **Hide a tax:** raise general revenue through a fee, fine, charge, or price that is not enacted and reported as a tax.
+  - **Make secret deals:** agree a tax treatment with one taxpayer that is not published. A ruling given to one taxpayer is published within a set time, with identifying details removed, and applies to every taxpayer in the same position.
+  - **Pay collectors by results:** pay, promote, rate, or reward any official, contractor, or system by the amount of tax assessed, collected, or penalized, or set collection quotas. This includes private tax collection on a share of what is collected.
 
 <a id="52-allowed-only-with-reasons-and-review"></a>
 
