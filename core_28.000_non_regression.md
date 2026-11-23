@@ -154,7 +154,7 @@ Material weakening includes indirect narrowing through:
 
 <br>
 
-*In plain terms: Substantive Test 1 is the checklist — if a proposal would gut Chapter Two constraints, Subcores 3-A to 3-C integrity, Chapter Four Rights Floors, or Chapter Twenty-Seven legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion. The Constitutional Forum decides whether a proposal fails it, in public, with reasons, after everyone has had time to respond. A change that fixes a real error in a protection, and keeps its core, is a correction and not a weakening.*
+*In plain terms: Substantive Test 1 is the checklist — if a proposal would gut Chapter Two constraints, Subcores 3-A to 3-C integrity, Chapter Four Rights Floors, or Chapter Twenty-Seven legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion. The Constitutional Forum decides whether a proposal fails it, in public, with reasons, after everyone has had time to respond. A change that fixes a real error in a protection, and keeps its core, is a correction and not a weakening. Replacing an office or body is not a weakening if the protection it served stays at least as strong.*
 
 A proposed amendment is invalid if it materially weakens any of the following:
 - Chapter Two non-negotiable principle constraints
@@ -170,6 +170,8 @@ Invalidity includes indirect narrowing through:
 - emergency re-labeling.
 
 **Who decides.** Whether a proposed amendment fails Substantive Test 1 is decided by the **Constitutional Forum**, in a published determination with reasons under **Article XXVI-A** (*Bounded Interpretive Mandate and Public Reasons*). The determination follows the amendment comment window in **Chapter Twenty-Nine §13.3** (*Proposal, Hearing, and Comment Window*), and it is open to independent review under **Article XXVI-B** (*Challenge Rights and Independent Review*). A proposer's own statement that a change is not a weakening is an input to that determination, not the determination.
+
+**Replacing a mechanism.** Replacing a mechanism, office, or body is not a weakening where the protection it served is carried at least as strongly by the replacement or by another mechanism. The affected body's own claim that its replacement weakens a protection is an input to the determination, not the determination.
 
 **Corrections.** A change that narrows a Chapter Four protection is not a weakening where the **Constitutional Forum** finds it to be a correction. The forum may make that finding only where its published determination finds all of the following:
 - **Error shown:** The protection as written defeats its own purpose, either by harming the class it protects or by conflicting with another Rights Floor in the same case. The error is shown by recorded effects and not by argument alone;

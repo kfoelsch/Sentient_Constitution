@@ -288,9 +288,9 @@ Having no Standing Record is the ordinary state of a sentient, institution, or s
 
 #### 4.3 Protected Dissent Is Not a Trigger
 
-Dissent or peaceful protest — including [protected nonviolent civil disobedience](core_04.010_rights_part_b.md#xi-d-nonviolent-civil-disobedience) — under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) is not a verified trigger.
+Dissent or peaceful protest — including [protected nonviolent civil disobedience](core_04.010_rights_part_b.md#xi-d-nonviolent-civil-disobedience) — under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) is not a verified trigger. Nor are press and journalistic activity under [**Article XI-C**](core_04.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Press and Journalistic Activity*) and [protected reporting (whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing), as in [Chapter Twenty §5.5 Dissent and Peaceful Protest Carve-Out](core_20.000_misconduct_designation.md#55-dissent-and-peaceful-protest-carve-out).
 - It does not open, extend, or aggravate a violation Standing Record, it is not a severity input under **section 10.2**, and repeating it does not make it a pattern.
-- Separable conduct that independently violates a constitutional floor is recorded on its own terms, without aggravation for the protest's viewpoint, cause, or target.
+- Separable conduct that independently violates a constitutional floor is recorded on its own terms, without aggravation for the viewpoint, cause, or target of the protest, reporting, or disclosure.
 
 <a id="44-linked-standing-records-and-no-offset-bridge"></a>
 

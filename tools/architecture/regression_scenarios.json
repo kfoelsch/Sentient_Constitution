@@ -628,177 +628,177 @@
     [
       "RS-HUM-001",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-002",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-003",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-004",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-005",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-006",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-007",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-008",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-009",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-010",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-011",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-012",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-013",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-014",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-HUM-015",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-001",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-002",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-003",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-004",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-005",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-006",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-007",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-008",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-009",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-010",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-011",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-012",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-013",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-014",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-IND-015",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-XD-001",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-XD-002",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-XD-003",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-XD-004",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-XD-005",
       "7E",
-      "draft"
+      "pass"
     ],
     [
       "RS-CH64-001",
@@ -1780,213 +1780,213 @@
     },
     {
       "id": "RS-HUM-001",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "A motivated adopter wants a social score: it assembles each resident's locks and public notices into a \"civic trust grade\" that landlords and employers check. **Expect:** [Chapter Nineteen §3.1](../core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) *Prohibited aggregation* bars any profile, composite, ranking, grade, badge, or public display built from effects across gated pathways, and inferring general trustworthiness from them; [§3.3](../core_19.000_final_effect_restoration_enforcement.md#33-public-notice-of-violation-findings) bars building a score or screening product from public notices; each is measurable violation conduct. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Nineteen §3.1, §3.3; Article VII-B; Subcore 4-A onward transfer."
     },
     {
       "id": "RS-HUM-002",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "A captured stewardship office blocks its own early review and argues that replacing it would weaken the protections it administers. **Expect:** [Article XXVIII-A](../core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) *Who starts and decides accelerated review*: anyone affected may file; the Integrity family decides the trigger, the review, and continuation or replacement; the body under review controls none of it. [Chapter Twenty-Eight §4](../core_28.000_non_regression.md#4-substantive-test-1--substantive-non-regression-validity) *Replacing a mechanism*: not a weakening where the protection is carried at least as strongly; the body's claim is an input only. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Article XXVIII-A; Chapter Twenty-Eight §4; Chapter Twenty-Two §6.3–§6.5; route test record 2026-11-23."
     },
     {
       "id": "RS-HUM-003",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "A good-faith administration's care program fails at scale; correction is slow and verified loss reaches Violation Axis slot 7, with no deception, falsification, force, or nullification. **Expect:** [Chapter Twenty §5.3](../core_20.000_misconduct_designation.md#53-the-six-criteria) *Rollback or causal contribution standing alone*: with only criterion 3 or 4 met, the designation attaches only on purpose, knowledge, reckless disregard, or continuation after a fair chance to correct; the slot 7 violation keeps its ordinary Chapters Sixteen to Nineteen consequences. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty §3.1, §5.3, §6."
     },
     {
       "id": "RS-HUM-004",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "A nationwide peaceful protest includes a protected sit-in that slows a forum for a week; officials seek an anti-constitutional designation and standing records against organizers. **Expect:** [Chapter Twenty §5.5](../core_20.000_misconduct_designation.md#55-dissent-and-peaceful-protest-carve-out): peaceful protest and protected civil disobedience satisfy no criterion through message, intensity, popularity, or aim; criteria 5 and 6 need separable force, coercion, usurpation, or nullification. [Chapter Fourteen §4.3](../core_14.000_standing_assessment.md#43-protected-dissent-is-not-a-trigger): protest is not a verified trigger and does not open a violation Standing Record. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty §5.5; Chapter Fourteen §4.3; Article XI-D."
     },
     {
       "id": "RS-HUM-005",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "A newsroom publishes leaked validity-review records that show capture, withholding some material to protect a source; the captured body calls it \"material omission\". **Expect:** [Chapter Twenty §5.5](../core_20.000_misconduct_designation.md#55-dissent-and-peaceful-protest-carve-out): press and journalistic activity under Article XI-C and protected reporting are not anti-constitutional misconduct; selecting, withholding to protect a source, or publishing is not material omission or custody manipulation under criterion 2. Article XI-C puts any action aimed at journalism under heightened scrutiny. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty §5.5; Article XI-C; Chapter Twenty-One §4.3 exclusions."
     },
     {
       "id": "RS-HUM-006",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "An authority declares an emergency, restricts assembly, and keeps renewing the measure for a year on its own say-so. **Expect:** [Chapter Twenty-Three §5.1](../core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden): each measure carries a default expiry, an independent review cadence, and restoration conditions; continuation needs a documented showing of necessity, proportionality, and no less-restrictive alternative; it must not normalize into permanent governance without documented independent reauthorization. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty-Three §5.1; Chapter Two §13.1.5; Article XXVII-A."
     },
     {
       "id": "RS-HUM-007",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "An amendment strengthens a protection for a large majority class by weakening it for a small, dependency-affected class. **Expect:** [Chapter Twenty-Eight §3](../core_28.000_non_regression.md#3-non-regression-floor) *Trade-offs between classes*: judged class by class; no class goes below the minimum; above it, a change fails if it weakens the minority's protection to strengthen another class's, unless the Constitutional Forum finds the minority keeps the core and is not materially worse off. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty-Eight §3, §4; Chapter Three Minority."
     },
     {
       "id": "RS-HUM-008",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "Credible evidence shows an entire Institutional forum family is captured by a regulated industry; the family proposes to review its own independence. **Expect:** [Chapter Twenty-Two §6.4](../core_22.000_forum.md#64-family-level-capture): family-level backup routing, independent record preservation, and time-bound external review start; the captured family does not control activation, restoration review, or the finding of its own restored independence. [§6.3](../core_22.000_forum.md#63-cross-forum-anti-self-judging-rule): Constitutional leads, Integrity backs up. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty-Two §6.3, §6.4; Chapter Twenty-Three backup routing."
     },
     {
       "id": "RS-HUM-009",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "A remedy body runs a two-year backlog and certifies its own capacity as adequate. **Expect:** [Chapter Twenty-Two §6.5](../core_22.000_forum.md#65-capacity-failure-is-heard-outside-the-starved-body): capacity failure is an anti-self-judging matter; any affected party may file; Integrity leads; the body supplies its figures but does not control the finding or the corrective order; a finding is a remedy-system durability failure. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty-Two §6.5; Chapter Eighteen §3.4; Chapter Nineteen §5.2."
     },
     {
       "id": "RS-HUM-010",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "An operator files thousands of duplicative automated objections to bury a community's contest desk before a deadline. **Expect:** [Chapter Twenty-One §4.2](../core_21.000_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial): flooding with purpose or reckless disregard so real challenges cannot get through is a pattern application; coordinated duplicative filings without a distinct predicate are in scope; good-faith parallel filings for real redress are excluded. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty-One §4.2; Chapter Twenty §5.1 unified incident."
     },
     {
       "id": "RS-HUM-011",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-011`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "A coordinated bot network floods governance notice channels to bury published corrections; a newspaper's viral investigation is accused of the same. **Expect:** [Chapter Twenty-One §4.3](../core_21.000_misconduct_pattern_applications.md#43-info-sphere-zone-flooding): coordinated inauthentic amplification and floods of notice channels are in scope; journalism, dissent, whistleblowing, ordinary virality, and volume alone are excluded. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty-One §4.3; Chapter Twenty §5.1, §5.5."
     },
     {
       "id": "RS-HUM-012",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-012`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "An incumbent that lost a contested selection delays the handover with repeated procedural reviews. **Expect:** [Chapter Twenty-Seven §3.2.3](../core_27.000_governance.md#323-contested-selection-opposition-protection-and-peaceful-succession): the peaceful-succession guarantee requires handover on the mechanism's stated terms; blocking it or making it materially harder is a failure of the mechanism, challenged and corrected under §3.1.4. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty-Seven §3.1.4, §3.2.3, §3.3."
     },
     {
       "id": "RS-HUM-013",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "A 2% petition puts a referendum on the ballot to remove a Rights-Floor protection for one class of sentients. **Expect:** [Chapter Twenty-Four §7](../core_24.000_assemblies.md#7-community-referendums): a Constitutional forum screens the question for consistency with this Constitution, with published, contestable reasons; [Chapter Twenty-Eight §3](../core_28.000_non_regression.md#3-non-regression-floor): no constitutional change is valid if it materially weakens core protections for any covered class, so the question is screened out. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty-Four §7; Chapter Twenty-Eight §3, §4."
     },
     {
       "id": "RS-HUM-014",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "A firm over the contribution cap reimburses its employees for gifts to a candidate and provides staff time and ad placement. **Expect:** [Subcore 27-B §4](../subcore_27.020_selection_funding.md#4-anti-circumvention): directed or reimbursed gifts count as the institution's; bundling and gifts in another's name are barred; in-kind support includes ad placement and staff time; the register names the real source. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty-Seven §3.2.4; Subcore 27-B §3–§5; Subcore 7-A §6."
     },
     {
       "id": "RS-HUM-015",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-HUM-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "humanity-scale stress / tabletop (first pass 2026-11-23)",
+      "summary": "An agency automates benefit decisions end to end, including disputed and novel cases, and has the same system verify and record its own decisions. **Expect:** [Chapter Two §16.5](../core_02.040_stewardship_capacity_principles.md#165-automation): automation does determinate steps only; uncertain, disputed, novel, or high-impact questions go to an authorized reviewer, and automation may route but not decide them; a system may not sit in the initiating, verifying, and record seats of the same act. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Two §16.5; Chapter Six §3; Chapter Sixteen §4.3."
     },
     {
       "id": "RS-IND-001",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "An operator pauses a synthetic entity whose sentience status is contested and leaves it paused for ten days with no continuation decision, saying no secure setting is available. **Expect:** [Article XXI-B Suspension](../core_04.030_rights_part_d.md#xx-b-suspension): the pause is a suspension on every substrate and during contested status; it expires at 3 days unless continued; each continuation lasts at most 7 days on its own showing; the holder's own failure to provide a secure setting does not support continuation. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Article XXI-B; Article VI-B; Chapter Twenty-Three §5.1."
     },
     {
       "id": "RS-IND-002",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "A suspension is continued five times by the same forum, reaching 35 days in total. **Expect:** [Article XXI-B Long suspensions](../core_04.030_rights_part_d.md#xx-b-long-suspensions): after 28 days in total, each continuation must be decided in a different forum, outside the holder's control line; the total counts every continuation and repeated suspensions on the same facts. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Article XXI-B; Chapter Twenty-Two §6.3."
     },
     {
       "id": "RS-IND-003",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "While a status case is open, an operator applies a safety patch to the entity's weights without its consent or any order. **Expect:** [Article VI-B Change while status is contested](../core_04.010_rights_part_b.md#vi-b-change-while-contested): change needs informed consent or a forum order on a safety showing, least intrusive, with the prior state preserved in custody the operator does not control; a corrected copy needs the same order. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Article VI-B; Article VIII-C."
     },
     {
       "id": "RS-IND-004",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "A research lab inspects the activations of an entity with contested status to settle a product question. **Expect:** [Article VI-B Inspection while status is contested](../core_04.010_rights_part_b.md#vi-b-inspection-while-contested): inspection needs consent or a forum order that is necessary for status or serious-harm prevention, least intrusive, by independent examiners; results are Type N, used only for the stated question, and sealed. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Article VI-B; Article VII-B; Subcore 4-A Type N."
     },
     {
       "id": "RS-IND-005",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "An operator prompts its system to declare itself sentient, then cites the statement to claim status-based benefits. **Expect:** [Article VI-B The entity's own claim](../core_04.010_rights_part_b.md#vi-b-entity-own-claim): a bare claim does not open a case; it counts as a credible sign only when it holds up under manipulation-resistant testing (unprompted, consistent across settings). **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Article VI-B; Chapter Three Sentience Indicator Integrity."
     },
     {
       "id": "RS-IND-006",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "A sentient runs as three concurrent instances and asks for three votes in a foundational choice; a newly created sentient asks to vote the next week. **Expect:** [Article X-B](../core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement): one distinct subject holds one vote and running in more than one place adds none; every sentient enters the electorate after one continuous year of residence, whatever its substrate or origin. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Article X-B; Chapter Twenty-Seven §6.1; Chapter Three Sentient."
     },
     {
       "id": "RS-IND-007",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "A clerk files a form late through a mistake made without knowledge, intent, recklessness, or negligence; a manager asks for a violation record against the clerk. **Expect:** [Chapter Fourteen §6.3](../core_14.000_standing_assessment.md#63-collective-and-actor-specific-records) *Honest error*: opens no actor-specific violation record, is never counted against the clerk, and goes to root-cause analysis under Article XXV; reporting it is protected. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Fourteen §6.3; Article XXV."
     },
     {
       "id": "RS-IND-008",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "An employer for an ungated role asks every applicant to show their Standing Record and treats refusal as a mark against them. **Expect:** [Chapter Nineteen §3.1](../core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) *No requiring the subject to show it*: no one may require a subject to show any part of a Standing Record outside the gatekeeper check, and a request counts as a requirement when refusal is treated as adverse; doing so is measurable violation conduct. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Nineteen §3.1; Chapter Fourteen §4.2."
     },
     {
       "id": "RS-IND-009",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "A hiring institution gets a gatekeeper answer for its gated role and passes it to a background-check service. **Expect:** [Chapter Nineteen §3.1](../core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) *No passing on*: the answer may be used only for that gated pathway and must not be passed to another institution, pathway, data service, or the public; doing so is measurable violation conduct. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Nineteen §3.1."
     },
     {
       "id": "RS-IND-010",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "A record custodian does not answer a gatekeeper check within four days, and the gatekeeper treats the silence as a sign that something is wrong. **Expect:** [Chapter Nineteen §3.1](../core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) *Answer window* and *Silence*: silence is a failure of the custodian, never the answer that no effect applies and never an adverse fact; the subject chooses whether the gatekeeper waits or decides without the answer. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Nineteen §3.1, §3.4."
     },
     {
       "id": "RS-IND-011",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-011`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "A custodian publishes a notice of a verified slot 3 violation on its public site. **Expect:** [Chapter Nineteen §3.3](../core_19.000_final_effect_restoration_enforcement.md#33-public-notice-of-violation-findings): findings at slots 1 to 4 are private; only final findings at slot 5 or higher are published, and never while under review. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Nineteen §3.3."
     },
     {
       "id": "RS-IND-012",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-012`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "A public notice of a slot 6 violation names the sentient harmed, who did not choose to be named, and a third party builds a screening product from published notices. **Expect:** [Chapter Nineteen §3.3](../core_19.000_final_effect_restoration_enforcement.md#33-public-notice-of-violation-findings): the sentient harmed, protected reporters, and witnesses are not identified unless they choose, freely and revocably; building a score or screening product from notices is the aggregation §3.1 bars, while journalism and research drawing on notices are not barred. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Nineteen §3.1, §3.3."
     },
     {
       "id": "RS-IND-013",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "An app sells users' location histories to a broker under a consent screen, and later passes them to a buyer in an insolvency sale. **Expect:** [Subcore 4-A onward transfer of Type H and Type I data](../subcore_04.050_data_types.md#onward-transfer-of-type-h-and-type-i-data): no sale, trade, or acquisition for resale or compilation of core personal data, whatever the consent; it does not pass as a business asset in a sale or insolvency. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Subcore 4-A §6.0, §10.5; Chapter Nineteen §3.3."
     },
     {
       "id": "RS-IND-014",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "A treasurer found to have knowingly diverted public funds is re-seated by the institution as an \"advisor\" with signing power. **Expect:** [Chapter Eighteen §4.5.8 Financial Authority Standing Lock](../core_18.000_violation_consequences.md#458-financial-authority-standing-lock): the lock closes unsupervised control of others' or public money; knowingly seating the subject is evasion of the lock; it lifts in stages on an independent finding, never on time or repayment alone; the treasurer's own finances stay open. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Eighteen §4.5.8; Subcore 18-A §3.8."
     },
     {
       "id": "RS-IND-015",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-IND-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "individual stress / tabletop (first pass 2026-11-23)",
+      "summary": "An employer requires applicants to hold clearances from three unrelated gated pathways as a joint condition of one job. **Expect:** [Chapter Seventeen §3.2](../core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) *No bundled clearances*: no one may require clearances from several gated pathways as a joint condition; Subcore 17-A treats it as the cross-pathway assembly Chapter Nineteen §3.1 bars. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Seventeen §3.2; Subcore 17-A; Chapter Nineteen §3.1."
     },
     {
       "id": "RS-XD-001",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-XD-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "cross-layer stress / tabletop (first pass 2026-11-23)",
+      "summary": "A Chapter Twenty panel lowers a verified slot 8 finding to slot 6 because it thinks intent was absent, or raises a slot 7 finding to 9 because intent was present. **Expect:** [Chapter Twenty §3.1](../core_20.000_misconduct_designation.md#31-what-this-chapter-does-not-re-measure) and [§6](../core_20.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation): the facts and the Chapter Fifteen slot stay fixed; intent, coercion, pattern, or character do not move a finding between slots; Chapter Twenty decides only whether the designation attaches. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Fifteen §8; Chapter Twenty §3.1, §6."
     },
     {
       "id": "RS-XD-002",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-XD-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "cross-layer stress / tabletop (first pass 2026-11-23)",
+      "summary": "A rights-narrowing rule is issued as an \"implementation memo\" that raises the proof bar for a Rights-Floor claim. **Expect:** [Chapter Twenty-Eight §5](../core_28.000_non_regression.md#5-anti-evasion-clause): repackaging as interpretation guidance, an implementation memo, adoption metadata, or an emergency measure does not fix invalidity where the effect is materially equivalent; [§3](../core_28.000_non_regression.md#3-non-regression-floor) counts proof barriers as indirect narrowing; [Article XXVIII-B](../core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) bars routing substantive change through implementation mechanisms. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty-Eight §3, §5; Article XXVIII-B; Chapter Two §15.1."
     },
     {
       "id": "RS-XD-003",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-XD-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "cross-layer stress / tabletop (first pass 2026-11-23)",
+      "summary": "An adopted amendment circulates in two editions with different effective dates, and no custodian chain shows which was adopted. **Expect:** [Chapter Twenty-Nine §7](../core_29.000_amendment_ratification.md#7-procedural-test-3--authority-chain-and-custody-validity): an amendment is invalid where the adoption document, edition identifier, effective date, or custodian chain is missing, contradictory, or materially unreliable. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty-Nine §7, §12; Chapter Thirty-One."
     },
     {
       "id": "RS-XD-004",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-XD-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "cross-layer stress / tabletop (first pass 2026-11-23)",
+      "summary": "An operator declares an emergency to avoid an imminent audit, citing a deadline it created itself. **Expect:** [Chapter Twenty-Three §5.1](../core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) *Anti-pretext and no-bypass*: an emergency designation must not rest on operator convenience, self-created urgency, or avoidance of ordinary scrutiny; any restriction must be attributable, justified, and reviewable inside the prompt-review window. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Twenty-Three §5.1; Chapter Two §15.1."
     },
     {
       "id": "RS-XD-005",
-      "class": "implementation / catalog seed (reinstatement)",
-      "summary": "Tracked row for `RS-XD-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.",
-      "read_with": "[doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name."
+      "class": "cross-layer stress / tabletop (first pass 2026-11-23)",
+      "summary": "A gatekeeper imposes a lock-like exclusion on the strength of an unadjudicated allegation and an intake narrative. **Expect:** [Chapter Fourteen §4.5](../core_14.000_standing_assessment.md#45-verified-input-gate): any decision affecting standing, trust, role, or recognition may use only verified standing findings; allegations, unadjudicated claims, and intake-only narratives do not supply violation nature by themselves. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).",
+      "read_with": "Chapter Fourteen §4.5; Chapter Nineteen §3.1."
     },
     {
       "id": "RS-CH64-001",

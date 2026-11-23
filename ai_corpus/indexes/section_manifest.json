@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-23T20:23:25+00:00",
+  "generated_at": "2026-11-23T22:18:07+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -739,26 +739,26 @@
       ]
     },
     "core_20.000_misconduct_designation.md": {
-      "total_lines": 553,
+      "total_lines": 563,
       "sections": [
-        {"header":"CHAPTER TWENTY: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION","level":1,"line_start":1,"line_end":553,"anchor":null},
+        {"header":"CHAPTER TWENTY: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION","level":1,"line_start":1,"line_end":563,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":65,"line_end":111,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why Anti-Constitutional Misconduct Designation Exists","level":3,"line_start":112,"line_end":136,"anchor":"#2-why-anti-constitutional-misconduct-designation-exists"},
         {"header":"3. How Designation Decisions Work — Continuity and Tetrad-Capture Frame","level":3,"line_start":137,"line_end":180,"anchor":null},
         {"header":"3.1 What This Chapter Does Not Re-Measure","level":4,"line_start":164,"line_end":170,"anchor":null},
         {"header":"3.2 Exclusive Authority to Issue a Final ACMD","level":4,"line_start":171,"line_end":180,"anchor":null},
         {"header":"4. Decision Sequence","level":3,"line_start":181,"line_end":217,"anchor":null},
-        {"header":"5. Criteria Set (for Anti-Constitutional-Misconduct Designation) — Accountability at Constitutional Scale","level":3,"line_start":218,"line_end":317,"anchor":null},
+        {"header":"5. Criteria Set (for Anti-Constitutional-Misconduct Designation) — Accountability at Constitutional Scale","level":3,"line_start":218,"line_end":327,"anchor":null},
         {"header":"5.1 Unified Incident","level":4,"line_start":252,"line_end":266,"anchor":null},
         {"header":"5.2 Single Catastrophic Incident and Sustained High-Gravity Pattern","level":4,"line_start":267,"line_end":287,"anchor":null},
-        {"header":"5.3 The Six Criteria","level":4,"line_start":288,"line_end":306,"anchor":null},
-        {"header":"5.4 Good-Faith Drafting Carve-Out","level":4,"line_start":307,"line_end":310,"anchor":null},
-        {"header":"5.5 Dissent and Peaceful Protest Carve-Out","level":4,"line_start":311,"line_end":317,"anchor":null},
-        {"header":"6. Violation Axis Slot 7–9 Anti-Constitutional Designation","level":3,"line_start":318,"line_end":386,"anchor":null},
-        {"header":"7. Due-Process Safeguards, Remedy, and Prevention","level":3,"line_start":387,"line_end":553,"anchor":"#7-due-process-safeguards-remedy-and-prevention"},
-        {"header":"7.1 Remedy and Correction (Anti-Constitutional)","level":4,"line_start":452,"line_end":493,"anchor":null},
-        {"header":"7.2 Prevention — Anti-Constitutional Locks","level":4,"line_start":494,"line_end":523,"anchor":null},
-        {"header":"7.3 Voluntary Public Accountability Expression (Anti-Constitutional)","level":4,"line_start":524,"line_end":553,"anchor":null}
+        {"header":"5.3 The Six Criteria","level":4,"line_start":288,"line_end":315,"anchor":null},
+        {"header":"5.4 Good-Faith Drafting Carve-Out","level":4,"line_start":316,"line_end":319,"anchor":null},
+        {"header":"5.5 Dissent and Peaceful Protest Carve-Out","level":4,"line_start":320,"line_end":327,"anchor":null},
+        {"header":"6. Violation Axis Slot 7–9 Anti-Constitutional Designation","level":3,"line_start":328,"line_end":396,"anchor":null},
+        {"header":"7. Due-Process Safeguards, Remedy, and Prevention","level":3,"line_start":397,"line_end":563,"anchor":"#7-due-process-safeguards-remedy-and-prevention"},
+        {"header":"7.1 Remedy and Correction (Anti-Constitutional)","level":4,"line_start":462,"line_end":503,"anchor":null},
+        {"header":"7.2 Prevention — Anti-Constitutional Locks","level":4,"line_start":504,"line_end":533,"anchor":null},
+        {"header":"7.3 Voluntary Public Accountability Expression (Anti-Constitutional)","level":4,"line_start":534,"line_end":563,"anchor":null}
       ]
     },
     "core_21.000_misconduct_pattern_applications.md": {
@@ -1097,22 +1097,22 @@
       ]
     },
     "core_04.040_rights_part_e.md": {
-      "total_lines": 594,
+      "total_lines": 598,
       "sections": [
-        {"header":"CHAPTER FOUR: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":594,"anchor":null},
+        {"header":"CHAPTER FOUR: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":598,"anchor":null},
         {"header":"Part E: Conflict Resolution, Review, Constitutional Evolution, and Adoption Transition","level":3,"line_start":18,"line_end":61,"anchor":null},
         {"header":"Article XXVII: Timely Retrospective Review and Restorative Alignment","level":3,"line_start":62,"line_end":238,"anchor":null},
         {"header":"Article XXVII-A: Retrospective Review and Disclosure","level":4,"line_start":120,"line_end":156,"anchor":null},
         {"header":"Article XXVII-B: Rights-Collision Procedure and Restorative Alignment","level":4,"line_start":157,"line_end":194,"anchor":null},
         {"header":"Article XXVII-C: Timely Resolution and Anti-Delay Floor","level":4,"line_start":195,"line_end":238,"anchor":"#article-xxvii-c-timely-resolution-and-anti-delay-floor"},
-        {"header":"Article XXVIII: Constitutional Evolution and Non-Entrenchment","level":3,"line_start":239,"line_end":331,"anchor":null},
-        {"header":"Article XXVIII-A: Non-Entrenchment and Revisability","level":4,"line_start":259,"line_end":294,"anchor":null},
-        {"header":"Article XXVIII-B: Periodic Revalidation and Transparent Change","level":4,"line_start":295,"line_end":331,"anchor":null},
-        {"header":"Article XXIX: Adoption Transition Governance, Continuity, and Re-Baselining","level":3,"line_start":332,"line_end":594,"anchor":null},
-        {"header":"Article XXIX-A: Phased Adoption and Rights-Floor Continuity","level":4,"line_start":366,"line_end":453,"anchor":"#article-xxix-a-phased-adoption-and-rightsfloor-minimums-continuity"},
-        {"header":"Article XXIX-B: Adoption Transition Authority Limits and Reauthorization","level":4,"line_start":454,"line_end":495,"anchor":"#incentive-alignment-adoption-transition-carve-out"},
-        {"header":"Article XXIX-C: Failure Off-Ramps, Re-Baselining, and Traceability","level":4,"line_start":496,"line_end":532,"anchor":null},
-        {"header":"Article XXIX-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives","level":4,"line_start":533,"line_end":594,"anchor":"#article-xxix-d-non-compliant-property-and-systems-voluntary-turnover-incentives"}
+        {"header":"Article XXVIII: Constitutional Evolution and Non-Entrenchment","level":3,"line_start":239,"line_end":335,"anchor":null},
+        {"header":"Article XXVIII-A: Non-Entrenchment and Revisability","level":4,"line_start":259,"line_end":298,"anchor":null},
+        {"header":"Article XXVIII-B: Periodic Revalidation and Transparent Change","level":4,"line_start":299,"line_end":335,"anchor":null},
+        {"header":"Article XXIX: Adoption Transition Governance, Continuity, and Re-Baselining","level":3,"line_start":336,"line_end":598,"anchor":null},
+        {"header":"Article XXIX-A: Phased Adoption and Rights-Floor Continuity","level":4,"line_start":370,"line_end":457,"anchor":"#article-xxix-a-phased-adoption-and-rightsfloor-minimums-continuity"},
+        {"header":"Article XXIX-B: Adoption Transition Authority Limits and Reauthorization","level":4,"line_start":458,"line_end":499,"anchor":"#incentive-alignment-adoption-transition-carve-out"},
+        {"header":"Article XXIX-C: Failure Off-Ramps, Re-Baselining, and Traceability","level":4,"line_start":500,"line_end":536,"anchor":null},
+        {"header":"Article XXIX-D: Non-Compliant Property and Systems; Voluntary Turnover Incentives","level":4,"line_start":537,"line_end":598,"anchor":"#article-xxix-d-non-compliant-property-and-systems-voluntary-turnover-incentives"}
       ]
     },
     "core_27.000_governance.md": {
@@ -1153,15 +1153,15 @@
       ]
     },
     "core_28.000_non_regression.md": {
-      "total_lines": 260,
+      "total_lines": 262,
       "sections": [
-        {"header":"CHAPTER TWENTY-EIGHT: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY","level":1,"line_start":1,"line_end":260,"anchor":null},
+        {"header":"CHAPTER TWENTY-EIGHT: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY","level":1,"line_start":1,"line_end":262,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":45,"line_end":73,"anchor":null},
         {"header":"2. Why Non-Regression Exists","level":3,"line_start":74,"line_end":97,"anchor":"#2-why-non-regression-exists"},
         {"header":"3. Non-Regression Floor","level":3,"line_start":98,"line_end":140,"anchor":null},
-        {"header":"4. Substantive Test 1 — Substantive Non-Regression Validity","level":3,"line_start":141,"line_end":182,"anchor":"#4-substantive-test-1--substantive-non-regression-validity"},
-        {"header":"5. Anti-Evasion Clause","level":3,"line_start":183,"line_end":208,"anchor":null},
-        {"header":"6. Layer Scope","level":3,"line_start":209,"line_end":260,"anchor":"#6-layer-scope"}
+        {"header":"4. Substantive Test 1 — Substantive Non-Regression Validity","level":3,"line_start":141,"line_end":184,"anchor":"#4-substantive-test-1--substantive-non-regression-validity"},
+        {"header":"5. Anti-Evasion Clause","level":3,"line_start":185,"line_end":210,"anchor":null},
+        {"header":"6. Layer Scope","level":3,"line_start":211,"line_end":262,"anchor":"#6-layer-scope"}
       ]
     },
     "core_29.000_amendment_ratification.md": {
