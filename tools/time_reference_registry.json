@@ -133,6 +133,22 @@
     {
       "name": "assembly term",
       "owner": "CI-27.205 §8"
+    },
+    {
+      "name": "tax-break lapse period",
+      "owner": "Subcore 24-A §4.3"
+    },
+    {
+      "name": "amnesty interval",
+      "owner": "Subcore 24-A §5.2"
+    },
+    {
+      "name": "reassessment period",
+      "owner": "Subcore 24-A §7.4"
+    },
+    {
+      "name": "tax notice period",
+      "owner": "Subcore 24-A §8"
     }
   ],
   "scaled_windows": [

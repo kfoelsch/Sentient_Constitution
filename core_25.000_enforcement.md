@@ -172,6 +172,6 @@ This section says which steps go to special enforcement under [Chapter Twenty-Si
 
 ---
 
-**Previous file:** [core_24.000_assemblies.md](core_24.000_assemblies.md)
+**Previous file:** [subcore_24.010_taxation.md](subcore_24.010_taxation.md)
 
 **Next file:** [core_26.000_special_enforcement.md](core_26.000_special_enforcement.md)

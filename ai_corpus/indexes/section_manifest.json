@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-23T15:01:01+00:00",
+  "generated_at": "2026-11-23T15:09:34+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -888,18 +888,18 @@
       ]
     },
     "core_24.000_assemblies.md": {
-      "total_lines": 220,
+      "total_lines": 223,
       "sections": [
-        {"header":"CHAPTER TWENTY-FOUR: ASSEMBLIES","level":1,"line_start":2,"line_end":220,"anchor":"#chapter-twenty-four-assemblies"},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":36,"line_end":54,"anchor":"#1-purpose-role-and-scope"},
-        {"header":"2. Why Assemblies Exist","level":3,"line_start":55,"line_end":78,"anchor":"#2-why-assemblies-exist"},
-        {"header":"3. What Assemblies Decide","level":3,"line_start":79,"line_end":98,"anchor":"#3-what-assemblies-decide"},
-        {"header":"4. Dividing Work Between Tiers","level":3,"line_start":99,"line_end":111,"anchor":"#4-dividing-work-between-tiers"},
-        {"header":"5. How Assemblies Decide","level":3,"line_start":112,"line_end":130,"anchor":"#5-how-assemblies-decide"},
-        {"header":"6. Executives","level":3,"line_start":131,"line_end":143,"anchor":"#6-executives"},
-        {"header":"7. Community Referendums","level":3,"line_start":144,"line_end":157,"anchor":"#7-community-referendums"},
-        {"header":"8. Emergencies","level":3,"line_start":158,"line_end":204,"anchor":"#8-emergencies"},
-        {"header":"9. Limits on Every Assembly","level":3,"line_start":205,"line_end":220,"anchor":"#9-limits-on-every-assembly"}
+        {"header":"CHAPTER TWENTY-FOUR: ASSEMBLIES","level":1,"line_start":2,"line_end":223,"anchor":"#chapter-twenty-four-assemblies"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":39,"line_end":57,"anchor":"#1-purpose-role-and-scope"},
+        {"header":"2. Why Assemblies Exist","level":3,"line_start":58,"line_end":81,"anchor":"#2-why-assemblies-exist"},
+        {"header":"3. What Assemblies Decide","level":3,"line_start":82,"line_end":101,"anchor":"#3-what-assemblies-decide"},
+        {"header":"4. Dividing Work Between Tiers","level":3,"line_start":102,"line_end":114,"anchor":"#4-dividing-work-between-tiers"},
+        {"header":"5. How Assemblies Decide","level":3,"line_start":115,"line_end":133,"anchor":"#5-how-assemblies-decide"},
+        {"header":"6. Executives","level":3,"line_start":134,"line_end":146,"anchor":"#6-executives"},
+        {"header":"7. Community Referendums","level":3,"line_start":147,"line_end":160,"anchor":"#7-community-referendums"},
+        {"header":"8. Emergencies","level":3,"line_start":161,"line_end":207,"anchor":"#8-emergencies"},
+        {"header":"9. Limits on Every Assembly","level":3,"line_start":208,"line_end":223,"anchor":"#9-limits-on-every-assembly"}
       ]
     },
     "core_25.000_enforcement.md": {
@@ -2079,6 +2079,32 @@
         {"header":"5. Certification Contest Paths","level":3,"line_start":96,"line_end":131,"anchor":"#5-certification-contest-paths"},
         {"header":"6. Standing-Record Contests","level":3,"line_start":132,"line_end":164,"anchor":"#6-standing-record-contests"},
         {"header":"7. Adoption Transition Record Contests","level":3,"line_start":165,"line_end":207,"anchor":"#7-adoption-transition-record-contests"}
+      ]
+    },
+    "subcore_24.010_taxation.md": {
+      "total_lines": 300,
+      "sections": [
+        {"header":"SUBCORE 24-A: TAXATION","level":1,"line_start":2,"line_end":300,"anchor":"#subcore-24-a-taxation"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":19,"line_end":30,"anchor":"#1-purpose-role-and-scope"},
+        {"header":"2. Why the Tax Rules Are the Same for Every Adopter","level":3,"line_start":31,"line_end":55,"anchor":"#2-why-the-tax-rules-are-the-same-for-every-adopter"},
+        {"header":"3. Tests Every Tax Must Pass","level":3,"line_start":56,"line_end":75,"anchor":"#3-tests-every-tax-must-pass"},
+        {"header":"4. Good Tax Policies","level":3,"line_start":76,"line_end":125,"anchor":"#4-good-tax-policies"},
+        {"header":"4.1 Preferred Designs","level":4,"line_start":82,"line_end":101,"anchor":"#41-preferred-designs"},
+        {"header":"4.2 Taxes on Harm","level":4,"line_start":102,"line_end":113,"anchor":"#42-taxes-on-harm"},
+        {"header":"4.3 Tax Breaks Under Review","level":4,"line_start":114,"line_end":125,"anchor":"#43-tax-breaks-under-review"},
+        {"header":"5. Barred Tax Policies","level":3,"line_start":126,"line_end":166,"anchor":"#5-barred-tax-policies"},
+        {"header":"5.1 Never Allowed","level":4,"line_start":132,"line_end":149,"anchor":"#51-never-allowed"},
+        {"header":"5.2 Allowed Only with Reasons and Review","level":4,"line_start":150,"line_end":166,"anchor":"#52-allowed-only-with-reasons-and-review"},
+        {"header":"6. Ease of Use","level":3,"line_start":167,"line_end":184,"anchor":"#6-ease-of-use"},
+        {"header":"7. Enforcement","level":3,"line_start":185,"line_end":247,"anchor":"#7-enforcement"},
+        {"header":"7.1 A Graduated Response","level":4,"line_start":191,"line_end":201,"anchor":"#71-a-graduated-response"},
+        {"header":"7.2 Penalties and Interest","level":4,"line_start":202,"line_end":212,"anchor":"#72-penalties-and-interest"},
+        {"header":"7.3 Fair and Even Enforcement","level":4,"line_start":213,"line_end":225,"anchor":"#73-fair-and-even-enforcement"},
+        {"header":"7.4 Limits on Collection","level":4,"line_start":226,"line_end":236,"anchor":"#74-limits-on-collection"},
+        {"header":"7.5 Separate Seats","level":4,"line_start":237,"line_end":247,"anchor":"#75-separate-seats"},
+        {"header":"8. Making and Changing Tax Rules","level":3,"line_start":248,"line_end":262,"anchor":"#8-making-and-changing-tax-rules"},
+        {"header":"9. Taxpayer Rights","level":3,"line_start":263,"line_end":279,"anchor":"#9-taxpayer-rights"},
+        {"header":"10. Outcome Review Measures","level":3,"line_start":280,"line_end":300,"anchor":"#10-outcome-review-measures"}
       ]
     },
     "subcore_26.010_special_enforcement_procedure.md": {
