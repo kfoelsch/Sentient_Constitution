@@ -16,7 +16,7 @@
 
 ### 1. Purpose, Role, and Scope
 
-Subcore 26-D is the constitutional owner of the **standard detail of sortition integrity**: the bodies sortition may serve and the capture routes it guards against, the full list of integrity rules a sortition mechanism must publish, and the operational safeguards that implementation text must cover. [Chapter Twenty-Six §3.1.2 Sortition Integrity and Anti-Capture Use](core_26.000_governance.md#312-sortition-integrity-and-anti-capture-use) states the guarantees: sortition may be used against capture, Independent Bodies must use it, a mechanism must publish its integrity rules, private contact with selected members is barred, and a lottery may not be used as legitimacy theater.
+Subcore 26-D is the constitutional owner of the **standard detail of sortition integrity**: the bodies sortition may serve and the capture routes it guards against, the full list of integrity rules a sortition mechanism must publish, the operational safeguards that implementation text must cover, and the added rules for lot drawn from an elected pool. [Chapter Twenty-Six §3.1.2 Sortition Integrity and Anti-Capture Use](core_26.000_governance.md#312-sortition-integrity-and-anti-capture-use) states the guarantees: sortition may be used against capture, Independent Bodies must use it, a mechanism must publish its integrity rules, private contact with selected members is barred, and a lottery may not be used as legitimacy theater.
 
 *In plain terms: Chapter Twenty-Six says when sortition may be used and that it must be fair and open. This file lists exactly what a fair, open lottery must publish and protect.*
 
@@ -91,6 +91,25 @@ Operational safeguards for sortition integrity belong in designated implementati
 - disclosure;
 - protected escalation; and
 - response to capture allegations.
+
+<a id="6-lot-drawn-from-an-elected-pool"></a>
+
+### 6. Lot Drawn from an Elected Pool
+
+*In plain terms: when voters elect local members and a lottery among those members fills regional or national seats, the lottery must be fair to every place and group, and the members it picks must still answer for what they do.*
+
+A mechanism that fills the seats of a wider body by lot from the elected members of smaller bodies meets [§3 Anti-Capture Uses](#3-anti-capture-uses), [§4 Published Integrity Rules](#4-published-integrity-rules), and [§5 Operational Safeguards](#5-operational-safeguards), and the rules below. The elections that form the pool remain subject to [Chapter Twenty-Six §3.2 Eligibility, Contested Selection, and Democratic Minimums](core_26.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums) in full, including the selection-funding boundaries. The rules are these:
+
+- **The pool:** Only sentients elected to the smaller bodies are in the pool, drawn while they hold that seat or at the end of the term they were elected to. Candidates who stood and were not elected are not in the pool.
+- **A draw fair to every place:** The draw is stratified by area so that each area's share of the wider body's seats matches its share of the population that body serves, within a published tolerance. The mechanism publishes any further strata it uses and its reasons.
+- **Size against chance:** Before each draw, the mechanism publishes the chance that a bloc holding less than half of the pool wins a majority of the wider body. It sets the body's size or strata so that this chance stays below a bound it publishes with its reasons.
+- **A draw anyone can check:** The draw uses a public source of randomness. The method and the inputs are published before the draw, so that anyone can reproduce the result.
+- **Answering for the term:** Drawn members do not face re-election to the wider body, so the mechanism provides all of these:
+  - each member's vote on every [materially binding act](subcore_03.070_band_accountability.md#materially-binding-act) is recorded in its Act Record;
+  - each member's conduct is reviewed at the end of the term, by a seat independent of the wider body, and the review is published; and
+  - removal for cause is available under [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
+- **Affected classes:** Where the draw leaves a materially affected class without the representation pathway that [Article XII-A](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) requires for a high-impact decision, the mechanism adds one, by a further stratum, reserved seats, or another published route.
+- **Contact in a standing assembly:** Where the wider body sits as a standing assembly, the private-contact bar of [§4 Published Integrity Rules](#4-published-integrity-rules) applies to contact by an [**interested party**](subcore_03.070_band_accountability.md#interested-party). A member of the authorizing community may contact a drawn member in their own capacity, and the contact is logged in the open briefing record. Every other floor of [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) applies at its strictest.
 
 ---
 
