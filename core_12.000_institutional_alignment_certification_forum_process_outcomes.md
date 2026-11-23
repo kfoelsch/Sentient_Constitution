@@ -162,9 +162,9 @@ A forum host, a certifying body, an Institutional Certification Record office, a
   - [Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway](core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) (23.000 §4).
 - Downstream: [§3](core_13.000_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record); [§4](core_13.000_institutional_alignment_certification_records_recertification.md#4-recertification-and-reopening); [§6](core_13.000_institutional_alignment_certification_records_recertification.md#6-relationship-to-standing).
 - Read with:
-  - **CI-18.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*);
+  - **CI-18.210** (*Institutional failure and dissolution*) and **CI-25.205** (*Institutional accountability and sanctions*);
   - **CI-6.205 §3** (*Authority Chain and Delegation Controls*);
-  - **CI-26.205 §1** (*Shared Staffing and Competency Requirement*);
+  - **CI-27.205 §1** (*Shared Staffing and Competency Requirement*);
   - [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 
 </details>
@@ -233,7 +233,7 @@ Apart from the Systems and the certification conditions, an outcome has only the
 - **Reopening and the cascade:** A review can be reopened, and a failed System certification can affect the Institution. See [§4 Recertification and Reopening](core_13.000_institutional_alignment_certification_records_recertification.md#4-recertification-and-reopening).
 - **Standing:** An outcome can touch a sentient's standing only through [§6 Relationship to Standing](core_13.000_institutional_alignment_certification_records_recertification.md#6-relationship-to-standing).
 
-Sanctions, dissolution, and institutional-failure consequences stay with **CI-18.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*). This Chapter creates none of them.
+Sanctions, dissolution, and institutional-failure consequences stay with **CI-18.210** (*Institutional failure and dissolution*) and **CI-25.205** (*Institutional accountability and sanctions*). This Chapter creates none of them.
 
 <a id="42-certification-defects-and-correction"></a>
 
@@ -296,7 +296,7 @@ Two points are specific to an Institution:
    - The status does not certify or block any System by itself. The System's own certification pass decides.
 4. **Seats in other bodies' certifications:** The Institution gives them up while it is Not Certified, as [§3.3 Forums, Certifiers, and Record Offices as Institutions](#33-forums-certifiers-and-record-offices-as-institutions) provides.
 5. **Referral:** The lead forum refers the matter to the forum that has jurisdiction over the type of certification problem identified. There are three routes:
-   - **To the forum that decides failure and sanctions:** The lead forum refers the matter to the forum with jurisdiction under **CI-18.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*) where:
+   - **To the forum that decides failure and sanctions:** The lead forum refers the matter to the forum with jurisdiction under **CI-18.210** (*Institutional failure and dissolution*) and **CI-25.205** (*Institutional accountability and sanctions*) where:
      - the finding is able and not willing;
      - a revocation rests on concealment or fraudulent evidence; or
      - a failed formation check was not resolved inside the resolution window in [Chapter Five §8 When a Holder Fails the Formation Check](core_05.000_charters.md#8-when-a-holder-fails-the-formation-check) (*Resolution window*).

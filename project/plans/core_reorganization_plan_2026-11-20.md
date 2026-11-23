@@ -35,7 +35,7 @@ The third round settled the open decisions:
 
 | Layer | Files | Words | Binding |
 |---|---|---|---|
-| Core | 53 `core_*` files | about 556,000 | binds every adopter. It changes only by amendment under Chapter Twenty-Nine. |
+| Core | 53 `core_*` files | about 556,000 | binds every adopter. It changes only by amendment under Chapter Thirty. |
 | Corpus | 85 files in four corpora | about 284,000 | binds only as adopted. Chapter Thirty-One makes each corpus file "binding **only as adopted** through a recorded adoption chain", pinned by edition. |
 
 The core is far too long to read. The six band files of Chapter Five alone hold about 170,000 words, almost a third of the core, and the pipeline chapters (Nine to Twenty-Four) hold about 150,000 more.
@@ -51,7 +51,7 @@ The core is far too long to read. The six band files of Chapter Five alone hold 
 
 **Against:**
 
-- **It freezes what should flex.** Much of the corpus is meant to vary between adopters by scale and setting: staffing patterns, forms, worked examples, record templates, sharing arrangements. Making it all binding everywhere would put every form field under the heightened amendment review of Chapter Twenty-Nine. A small adopter could not adapt any of it.
+- **It freezes what should flex.** Much of the corpus is meant to vary between adopters by scale and setting: staffing patterns, forms, worked examples, record templates, sharing arrangements. Making it all binding everywhere would put every form field under the heightened amendment review of Chapter Thirty. A small adopter could not adapt any of it.
 - **It turns illustrations into law.** The corpus mixes requirements with vignettes, worked examples, and reference methods, which were never written to bind.
 - **It does not separate guarantees from procedure.** A reader still could not tell which corpus sentences protect them.
 
@@ -62,7 +62,7 @@ Add a tier with the same force as the core, kept in separate files, called the *
 The rules for the tier:
 
 - **Same force.** A subcore file is part of the Constitution. It binds every adopter, as the core does, without separate incorporation.
-- **Same amendment route.** A subcore file changes only by amendment under Chapter Twenty-Nine, with the same heightened review for rights-affecting changes.
+- **Same amendment route.** A subcore file changes only by amendment under Chapter Thirty, with the same heightened review for rights-affecting changes.
 - **Attached to a chapter.** Each subcore file belongs to one core chapter and is named for it (for example, *Subcore 16-A: Measurement Procedure*). The chapter lists its subcore files.
 - **Core states, subcore details.** The core states every guarantee in plain words, at least in one line. The subcore gives the full rule and procedure. A subcore file may not narrow its chapter. Where the two seem to differ, the reading more protective of the affected sentient controls, and the gap is a drafting defect to fix.
 - **The corpus stays as it is.** It remains adopter-shaped implementation that binds as adopted, for what may properly vary between adopters.
@@ -78,8 +78,8 @@ That gives three tiers, and a three-way placement test for every sentence:
 **What the tier needs before any content moves:**
 
 - the [Chapter Five *Corpus*](../../subcore_03.080_band_integrative.md#corpus) entry and the *Corpus and Authority Stack* definitions;
-- [Preamble §9](../../core_01.000_constitutional_map.md#9-adopted-implementation-corpus), the owner register, and the [Chapter Thirty §4.1](../../core_29.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) hierarchy;
-- Chapter Twenty-Nine (amendment covers the subcore);
+- [Preamble §9](../../core_01.000_constitutional_map.md#9-adopted-implementation-corpus), the owner register, and the [Chapter Thirty-One §4.1](../../core_30.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) hierarchy;
+- Chapter Thirty (amendment covers the subcore);
 - Chapter Thirty-One (the subcore needs no separate incorporation);
 - `README.md`;
 - the audit tooling: every audit that scans "binding text" must scan `subcore_*` files too, and the chapter-number tooling must know them.
@@ -105,9 +105,9 @@ The translations are paused, so they will be re-synced later rather than edited 
 | … | Rights, charters | Chapters Six and Seven |
 | … | Functional independence and separation of duties | Chapter Eight §1–§10 |
 | … | **Independent Bodies**: the general rules for every body, and a list of the bodies the Constitution creates, with each one's purpose and a one-line statement of each guarantee it gives sentients | Chapter Eight §11, and the office drafts |
-| … | Pipeline chapters, each shortened, with subcore files | Chapters Nine to Twenty-Four |
-| … | Enforcement, special enforcement, governance | Chapters Twenty-Five to Twenty-Seven |
-| … | Non-regression, amendment, supremacy, incorporation | Chapters Twenty-Eight to Thirty-One |
+| … | Pipeline chapters, each shortened, with subcore files | Chapters Nine to Twenty-Five |
+| … | Enforcement, special enforcement, governance | Chapters Twenty-Six to Twenty-Eight |
+| … | Non-regression, amendment, supremacy, incorporation | Chapters Twenty-Nine to Thirty-One |
 
 **How the offices are placed (decision F).** The five office drafts (Finance, Information, Monetary, Debt, Bank Supervision; about 21,000 words together) do not become core chapters. Each becomes one subcore file attached to the Independent Bodies chapter, for example *Subcore IB-M: Public Monetary Office*. The chapter's list gives each office a short entry (purpose, who it answers to, and one line for each guarantee that protects sentients directly), so a reader learns what each office promises without reading its operating rules. Examples of such one-line guarantees:
 
@@ -129,7 +129,7 @@ The general rules now in Chapter Eight §11 are about 2,770 words. They stay who
 - meeting a definition's words while defeating its purpose, by narrowing it where it applies or splitting a harm into pieces, is failing it;
 - whoever claims compliance must prove it, and the proof must be traceable and checkable by others, even where security limits how or when it is shown.
 
-The burden-of-proof line is the one most readers need, so the *Constitutional Map* repeats it in its overview. This removes three chapters from the reading path and shortens the renumbering, since the chapter count drops by three. The §2 drafts for Chapters Two to Four in [section_2_drafts_2026-11-20.md](section_2_drafts_2026-11-20.md) become the opening of that core section instead.
+The burden-of-proof line is the one most readers need, so the *Constitutional Map* repeats it in its overview. This removes three chapters from the reading path and shortens the renumbering, since the chapter count drops by three. The §2 drafts for Chapters Two to Four in [SECTION_2_DRAFTS_2026-11-20_APPLIED_2026-11-23.md](../../archive/SECTION_2_DRAFTS_2026-11-20_APPLIED_2026-11-23.md) become the opening of that core section instead.
 
 ## 4. What moves into subcore files (after the renumbering)
 
@@ -141,10 +141,10 @@ These are listed in order of reading benefit:
 4. **Independent Bodies.** The general rules stay whole; the office texts go to the subcore when the chapter is created (step 3).
 5. **Corpus content promoted to the subcore** (sweep of all 77 corpus files, custodian's choice 2026-11-20: "Items 1-4"). These are constitutional taxonomies that the core relies on but that live only in the corpus. Each move leaves the procedures in the corpus.
    - **System classes → Subcore 8-A.** [CS-8.310](../../subcore_08.010_system_classification.md) §§8–13 (Class A/B/C/L/P) and [CS-8.305](../../corpus_systems/cs_08.305_system_classification_machinery.md) §§2–6 (dimensions, criticality factors, Dep-A–P dependency types, boundaries, domain taxonomy). About 115 links from 18 core files. CS-8.305 §7 (classification governance and challenge) stays in the corpus.
-   - **Stewardship criticality levels → Subcore 8-A.** [CS-26.305](../../corpus_systems/cs_26.305_critical_system_stewardship.md) §§2–3 (classification as steward; CSS-A/B/C). The steward obligations in §§4–20 stay in the corpus.
+   - **Stewardship criticality levels → Subcore 8-A.** [CS-27.305](../../corpus_systems/cs_27.305_critical_system_stewardship.md) §§2–3 (classification as steward; CSS-A/B/C). The steward obligations in §§4–20 stay in the corpus.
    - **Data types → Subcore 4-A.** [CS-4.310](../../subcore_04.050_data_types.md) §9 (Types E, G, O, H, I, N, S, Y, W, U, T; shared works; commercial grants) and [CS-4.305](../../corpus_systems/cs_04.305_information_types_and_handling.md) §§1–7 (determination, anti-circumvention, access-posture bands, separation and attribution, Type O baseline). About 160 links from 20 core files. CS-4.305 §8 (System Data Types Record governance) stays in the corpus.
    - **Functional separation lanes → a Chapter Six subcore file.** The lane categories in [CJS-3.125](../../corpus_joint_structure/cjs_03.125_accountability_operations.md) §11, which Chapter Six relies on.
-   - **Not promoted:** the oDef library (CJS-3.105–3.140) stays in the CJS as the operational layer. Illustrations and vignettes (CS-8.320, CJS-14.105), forum operations, lifecycle, funding, adoption transition, and the domain institution files stay in the corpus. The CI-26.205 §§2 and 6 role criteria and Seat Catalog go with the office texts (step 5).
+   - **Not promoted:** the oDef library (CJS-3.105–3.140) stays in the CJS as the operational layer. Illustrations and vignettes (CS-8.320, CJS-14.105), forum operations, lifecycle, funding, adoption transition, and the domain institution files stay in the corpus. The CI-27.205 §§2 and 6 role criteria and Seat Catalog go with the office texts (step 5).
 
 **Guarantee check for every move.** Before and after each move, list each guarantee sentence and confirm that it is either still in the core or stated there in one line, with the full text in a subcore file. Record the list in the move log.
 
@@ -165,25 +165,25 @@ Added at the custodian's request (2026-11-20: "the section 2 TODO … should be 
 
 **Where the core stands (chapter lead files).**
 
-- **Have a *why* §2, need only the Grounded in list:** Chapters Five, Six, Eight, Nine, Twelve, Twenty-Five, and Twenty-Six (seven chapters).
+- **Have a *why* §2, need only the Grounded in list:** Chapters Five, Six, Eight, Nine, Twelve, Twenty-Six, and Twenty-Seven (seven chapters).
 - **Need a new §2:** the other twenty-four chapters, now twenty, since Chapter One is exempt and Chapters Two to Four move to the subcore. In most of them today's §2 is working text, so a new §2 pushes every later section down by one.
 
 **Why it belongs in the renumbering.** Inserting a new §2 renumbers every later section of the chapter, and every cite to those sections across the corpus. Doing it inside the renumbering pass means each cite is rewritten once. Doing it afterward would mean a second large cite rewrite.
 
 **How it runs.**
 
-1. **Draft first (step 3a; drafted 2026-11-20 in [section_2_drafts_2026-11-20.md](section_2_drafts_2026-11-20.md), which proposes exempting Chapter One, leaving twenty-three).** Draft the twenty-four new §2 sections and the seven Grounded in lists in one working file under `project/plans/`, for the custodian's review before anything is inserted. Each §2 is short, written to be read, and draws its *why* from the chapter's existing §1, plain-terms lines, and Trace widget.
+1. **Draft first (step 3a; drafted 2026-11-20 in [SECTION_2_DRAFTS_2026-11-20_APPLIED_2026-11-23.md](../../archive/SECTION_2_DRAFTS_2026-11-20_APPLIED_2026-11-23.md), which proposes exempting Chapter One, leaving twenty-three).** Draft the twenty-four new §2 sections and the seven Grounded in lists in one working file under `project/plans/`, for the custodian's review before anything is inserted. Each §2 is short, written to be read, and draws its *why* from the chapter's existing §1, plain-terms lines, and Trace widget.
 2. **New chapters are born with it.** The *Constitutional Map* and *Independent Bodies* chapters get their §2 in step 3. The Preamble is not a chapter and keeps its own shape.
 3. **Insert in the renumbering pass (step 4)**, with the old section anchors kept so links outside the corpus still land.
 4. **Audit after the pass.** Add the CHAPTER-S2-WHY audit (the *why* heading and the bulleted Grounded in list in every core chapter lead file) once every chapter passes, so later moves cannot regress.
-5. **Subcore files** each carry a §2 *why* of their own (custodian, 2026-11-20: "All subcore files."), drafted for review in [subcore_section_2_drafts_2026-11-20.md](subcore_section_2_drafts_2026-11-20.md) and inserted in the same renumbering pass. **Corpus files** continue the section 2 pass already under way on the Mac (26 of 85 corpus files have a Grounded in list), with the audit extended to them when that pass finishes.
+5. **Subcore files** each carry a §2 *why* of their own (custodian, 2026-11-20: "All subcore files."), drafted for review in [SUBCORE_SECTION_2_DRAFTS_2026-11-20_APPLIED_2026-11-23.md](../../archive/SUBCORE_SECTION_2_DRAFTS_2026-11-20_APPLIED_2026-11-23.md) and inserted in the same renumbering pass. **Corpus files** continue the section 2 pass already under way on the Mac (26 of 85 corpus files have a Grounded in list), with the audit extended to them when that pass finishes.
 
 ## Proposed order
 
 | Step | Work | Size | Depends on |
 |---|---|---|---|
 | 1 | Write the three-tier placement test into `doc_architecture.md` | small | none |
-| 2 | Create the subcore tier: amend Chapters Five, Twenty-Nine, Thirty, Thirty-One, the Preamble, and the README, and extend the tooling | medium | step 1 |
+| 2 | Create the subcore tier: amend Chapters Five, Thirty, Thirty-One, Thirty-One, the Preamble, and the README, and extend the tooling | medium | step 1 |
 | 3 | Split the chapters (the Preamble and Constitutional Map, and Independent Bodies) and put the office texts in the subcore | medium | step 2 |
 | 3a | Draft every chapter's new §2 and Grounded in list for review | medium | none (runs beside steps 1–3) |
 | 4 | One renumbering pass, inserting the reviewed §2 sections | large | steps 3 and 3a |

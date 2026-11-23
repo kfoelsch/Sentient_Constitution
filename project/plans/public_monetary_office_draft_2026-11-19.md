@@ -20,7 +20,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > 7. **Provisional defaults:** emergency borrowers named after two years and the five-year target review. Each is for the custodian to confirm. The minutes, transcript, quiet-period, and method-review defaults now sit in Chapter Eight §11 *Open decisions* and *Market-moving information*.
 >
 > **Existing text that would change when this is placed (not edited yet):**
-> - [Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to set the target and choose the exchange-rate regime, subject to this chapter.
+> - [Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to set the target and choose the exchange-rate regime, subject to this chapter.
 > - A new chapter would establish the bank supervision body named in §5; it is drafted in [bank_supervision_office_draft_2026-11-20.md](bank_supervision_office_draft_2026-11-20.md).
 > - A new corpus-institutions file would hold the target method, the financial-stability framework, the collateral framework, the reserve-management policy, and ledger fields.
 >
@@ -37,7 +37,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > This chapter would be **part of the Sentient Constitution** and **binding only together** with the other numbered `core_*` files read as one text.
 >
 > - **Constitutional owner:** the office that issues the public currency, manages its value under a published target, and watches over the stability of the financial system; and the bars on printing money to pay for spending and on steering by money or credit.
-> - **Not owned here:** public debt (Public Debt Office chapter); spending and funding floors (Public Finance Office chapter); public statistics, including the price figures the office relies on (Public Information Office chapter); who holds governing authority ([Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship)); supervision of individual banks, deposit protection, and bank resolution (the bank supervision body under §5).
+> - **Not owned here:** public debt (Public Debt Office chapter); spending and funding floors (Public Finance Office chapter); public statistics, including the price figures the office relies on (Public Information Office chapter); who holds governing authority ([Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship)); supervision of individual banks, deposit protection, and bank resolution (the bank supervision body under §5).
 > - **Implementation owner:** a new corpus-institutions file (target method, financial-stability framework, collateral framework, reserve-management policy, ledger fields).
 >
 > Reading order: §1 purpose → §2 why the office exists → §3 independence → §4 currency and the stability target → §5 financial stability → §6 no money for spending, balance-sheet operations, and no steering → §7 governance, transparency, and no override → §8 capital and losses → §9 exchange rate and reserves → §10 public ledger and digital currency → §11 audit and challenge → §12 emergencies → §13 scaling.
@@ -76,7 +76,7 @@ Chapter [M] is the constitutional owner of **public currency**.
 - The Public Finance Office chapter governs how public money is spent and protects the funding floors. It may not issue currency, and this office may not decide spending.
 - The Public Debt Office chapter governs public borrowing. This office has no say over how much debt is issued, when, or on what terms, and the Public Debt Office has no say over interest rates.
 - The Public Information Office chapter produces the price and economic figures this office uses, and checks this office's ledger.
-- [Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the target under §4 and choose the exchange-rate regime under §9.
+- [Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the target under §4 and choose the exchange-rate regime under §9.
 - A later corpus-institutions file carries the target method, the financial-stability framework, the collateral framework, the reserve-management policy, and ledger fields. It may not narrow this chapter.
 
 **Chapter scope:** The office:

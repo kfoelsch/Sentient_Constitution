@@ -54,7 +54,7 @@ The older per-definition JSON files under `ai_corpus/definitions/` are retained 
 | `core_06.020_rights_part_d.md` | ~560 | Core | Chapter 15 Part D (Articles XXV-XXVII) |
 | `core_14.000_governance.md` | ~330 | Core | Chapter 16 (constitutional contract) |
 | `core_15.000_non_regression.md` | ~640 | Core | Chapters 17-20 (non-regression, amendment) |
-| `core_18.000_incorporation.md` | ~160 | Core | Chapter 27 (incorporation bridge) |
+| `core_18.000_incorporation.md` | ~160 | Core | Chapter 28 (incorporation bridge) |
 | `corpus_systems.md` | ~2,170 | Adopted | Systems adopted implementation text (CS-6.305, CS-6.310, CS-9.305, CS-9.310, CS-14.305; Protocols A, B, S4, S5) |
 | `corpus_institutions.md` | ~940 | Adopted | Institutional governance across the CI corpus |
 | `corpus_forum.md` | ~1,150 | Adopted | Forum operations |

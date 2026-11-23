@@ -1,6 +1,6 @@
 # Option A routing compare
 
-**Status:** Process support — **not** binding. This sheet **cannot narrow core text**. It is not Chapter Twenty-Nine adoption, not standing measurement, and not a shared-standard showing if a human-operator sample is missing.
+**Status:** Process support — **not** binding. This sheet **cannot narrow core text**. It is not Chapter Thirty adoption, not standing measurement, and not a shared-standard showing if a human-operator sample is missing.
 
 **Bar (now):** [PRE_PUBLICATION_SPEC.md](../../implementation/PRE_PUBLICATION_SPEC.md) §6.5 Option A — qualitative. Two agents given the same fact pattern agree *enough* when they:
 

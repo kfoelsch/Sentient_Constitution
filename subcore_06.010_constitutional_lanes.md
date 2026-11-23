@@ -6,7 +6,7 @@
 > This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 6-A**. Until 2026-11-20 its text was the term *Constitutional lane and functional separation* in CJS-3.125 §11 (*Accountability: Distributed and Proportional Authority Terms*).
 >
 > **Upstream:** [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), the chapter this file is attached to.
-> **Downstream:** [CI-6.205 §2](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*Functional Separation Lanes*: each institution's published lane map); [CI-26.205 §6](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*).
+> **Downstream:** [CI-6.205 §2](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*Functional Separation Lanes*: each institution's published lane map); [CI-27.205 §6](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*).
 
 </details>
 
@@ -40,7 +40,7 @@ The [Chapter Fourteen §7.1 Separation of Duties](core_14.000_standing_assessmen
 
 #### 1.3 Seats a Lane Hosts
 
-The seat types a lane hosts — the four core seats plus the containment, participation-terms, release-control, and direction seats — and what each may and may not do are fixed in [CI-26.205 §6](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*); a lane map places seats, it does not redefine them.
+The seat types a lane hosts — the four core seats plus the containment, participation-terms, release-control, and direction seats — and what each may and may not do are fixed in [CI-27.205 §6](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*); a lane map places seats, it does not redefine them.
 
 #### 1.4 Assessing a Lane Map
 

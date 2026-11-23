@@ -63,7 +63,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 - Downstream:
   - [Chapter Nineteen §3.1 Anti-Aggregation of Gated-Pathway Effects](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) (19.000 §3.1) (*a gatekeeper check asks the record custodian; the Adoption Charter is where an adopter names that custodian and the office to ask*);
   - [Chapter Fourteen §7](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7) (*record custody and opening authority*); and
-  - [Chapter Twenty-Eight §12.2](core_28.000_amendment_ratification.md#122-adoption-document) (28.000 §12.2) (*the adoption document records the act of adoption and is a different document*).
+  - [Chapter Twenty-Nine §12.2](core_29.000_amendment_ratification.md#122-adoption-document) (29.000 §12.2) (*the adoption document records the act of adoption and is a different document*).
 - Cluster component: none. This entry stands alone in the Continuity band.
 - Read with:
   - [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record),
@@ -111,7 +111,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
   - **Primary failure:**
     - offering an Adoption Charter as proof of adoption, of certification, or that the Adoption Transition is complete; or
     - publishing a named sentient's contact details in place of an office or role contact.
-  - **Secondary failure:** an Adoption Charter that is unpublished, unfindable, dead, or stale (not confirmed within the Adoption Charter review interval of [Chapter Twenty-Eight §12.4 Adoption Transition Record and Adoption Charter](core_28.000_amendment_ratification.md#124-adoption-transition-record-and-adoption-charter)); a named custodian or contact that does not answer inside the check-answer window; entries that contradict a Charter Role Map; a level of trust extended without published reasons; or a departure from technical advice without written reasons.
+  - **Secondary failure:** an Adoption Charter that is unpublished, unfindable, dead, or stale (not confirmed within the Adoption Charter review interval of [Chapter Twenty-Nine §12.4 Adoption Transition Record and Adoption Charter](core_29.000_amendment_ratification.md#124-adoption-transition-record-and-adoption-charter)); a named custodian or contact that does not answer inside the check-answer window; entries that contradict a Charter Role Map; a level of trust extended without published reasons; or a departure from technical advice without written reasons.
   - **Tertiary failure:** using the level of trust extended to refuse a lawful gatekeeper check, or to widen disclosure beyond [Chapter Nineteen §3.1 Anti-Aggregation of Gated-Pathway Effects](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects).
 
 ---
@@ -3160,7 +3160,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (2.020 §13.3), [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (tradeoff principles).
-- Owner floor: [Chapter Twenty-Six §5](core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) (26.000 §5).
+- Owner floor: [Chapter Twenty-Seven §5](core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) (27.000 §5).
 - Cluster component: [the dependent cluster *Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](subcore_03.070_band_accountability.md#proportionality)
 - Read with:
   - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden),
@@ -3671,7 +3671,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
   - documented;
   - subject to [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) and independent review; and
   - reversible or restorable where feasible under [Reversibility](subcore_03.075_band_continuity.md#reversibility).
-- **Owner floor:** implements [Chapter Twenty-Three §5.1](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*); procedural cadence, continuation burdens, and restoration sequencing are owned there, and binding stakeholder-choice resolution by [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+- **Owner floor:** implements [Chapter Twenty-Three §5.1](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*); procedural cadence, continuation burdens, and restoration sequencing are owned there, and binding stakeholder-choice resolution by [Chapter Twenty-Seven §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
 - **Floor protection:** does not authorize pretextual, sustained, or indefinite invocation that bypasses:
   - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint);
   - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint);
@@ -3735,7 +3735,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
     - preserve [Contestability](subcore_03.070_band_accountability.md#contestability) and retrospective [Auditability](subcore_03.085_band_oversight.md#auditability);
     - treat force-majeure claims under [Force Majeure](subcore_03.070_band_accountability.md#force-majeure);
     - procedural cadence, continuation burdens, and restoration / rollback sequencing are owned by [Chapter Twenty-Three §5.1](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*);
-    - where emergency facts affect binding collective choice, apply [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency), [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice), and Chapter Twenty-Six owner requirements; and
+    - where emergency facts affect binding collective choice, apply [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency), [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice), and Chapter Twenty-Seven owner requirements; and
     - owner-layer governance implementation appears in designated implementation text and must not narrow [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) or [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint).
 <a id="emergency-and-contingency-constitutional-c"></a>
 - **What must hold**
@@ -3793,7 +3793,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
     - creating, substituting for, amending, or durably restructuring constitutional authority under an emergency label;
     - emergency continuity, temporary stewardship, compromised-channel exclusion, crisis delegation, or subversion response used to entrench a new governing authority;
     - bypassing [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice);
-    - evading Chapter Twenty-Nine validity procedures; or
+    - evading Chapter Thirty validity procedures; or
     - normalizing emergency constitutional power after the emergency predicate fails.
 
 ---
@@ -3841,7 +3841,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
     - identifies affected stakeholders where feasible;
     - records deferred participation or access;
     - restores or reopens stakeholder-participation pathways on the [Chapter Twenty-Three §5.1 restore-challenge windows](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden); and
-    - where material disagreement requires binding decision before ordinary deliberation can occur, applies [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) and [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+    - where material disagreement requires binding decision before ordinary deliberation can occur, applies [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) together with [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) and [Chapter Twenty-Seven §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
 <a id="stakeholder-emergency-and-contingency-c"></a>
 - **What must hold**
   - **Primary failure:** The following are non-compliant:
@@ -3894,7 +3894,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
     - is documented;
     - is independently reviewable;
     - is reversible or restorable where feasible;
-    - preserves the later deliberation, notice, challenge, participation-restoration, and record duties required by [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency), [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice), **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*), and [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice); and
+    - preserves the later deliberation, notice, challenge, participation-restoration, and record duties required by [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency), [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice), **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*), and [Chapter Twenty-Seven §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice); and
     - where the same facts touch the [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer), also applies [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency).
 <a id="emergency-pre-deliberation-action-binding-collective-choice-c"></a>
 - **What must hold**
@@ -3903,7 +3903,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
     - sustained or inadequately reviewed pre-deliberation power;
     - emergency action used to bypass [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice) or the [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer); or
     - pre-deliberation action offered as final stakeholder authorization without the required restoration, review, and reopening pathway.
-  - Owner floor: [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+  - Owner floor: [Chapter Twenty-Seven §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -4655,7 +4655,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); scales with [material stake](core_00.000_preamble.md#material-stake).
-- Downstream: [Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6) (*duties follow the work through reorganization*); [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) and [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*), for institutional design, authority, and redress mechanics.
+- Downstream: [Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6) (*duties follow the work through reorganization*); [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) and [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*), for institutional design, authority, and redress mechanics.
 - Cluster component: [System Boundaries, Integrity, and Exit](#system-boundaries-integrity-and-exit).
 - Read with:
   - [System](subcore_03.075_band_continuity.md#system),
@@ -4668,7 +4668,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
   - [Business Creation](subcore_03.090_band_participation.md#business-creation),
   - [Material Control Line](subcore_03.070_band_accountability.md#material-control-line), and
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action).
-- Distinguish: an Institution is defined here by its function, not by legal form or name. [Chapter Twenty-Six](core_26.000_governance.md) (26.000) treaty, compact, or Constitutional Charter documents that found a political community are a different matter. The mechanics of forming, staffing, supervising, and dissolving Institutions live in [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) (formation), [CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*) (staffing), [CI-6.215](corpus_institutions/ci_06.215_oversight_assurance_controls_evidence.md#ci-6215-oversight-assurance-controls-and-evidence) (*Oversight, assurance, controls, and evidence*) (supervision), and [CI-18.210](corpus_institutions/ci_18.210_institutional_failure_dissolution.md#ci-18210-institutional-failure-and-dissolution) (*Institutional failure and dissolution*) (dissolution), not in this entry.
+- Distinguish: an Institution is defined here by its function, not by legal form or name. [Chapter Twenty-Seven](core_27.000_governance.md) (27.000) treaty, compact, or Constitutional Charter documents that found a political community are a different matter. The mechanics of forming, staffing, supervising, and dissolving Institutions live in [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) (formation), [CI-27.205](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*) (staffing), [CI-6.215](corpus_institutions/ci_06.215_oversight_assurance_controls_evidence.md#ci-6215-oversight-assurance-controls-and-evidence) (*Oversight, assurance, controls, and evidence*) (supervision), and [CI-18.210](corpus_institutions/ci_18.210_institutional_failure_dissolution.md#ci-18210-institutional-failure-and-dissolution) (*Institutional failure and dissolution*) (dissolution), not in this entry.
 
 </details>
 
@@ -4754,11 +4754,11 @@ Continuity duties reach into dependency, risk, records, charters, certification,
     - the **record-opening authority** and **record custodian** for [Standing Records](subcore_03.070_band_accountability.md#standing-record) concerning the chartered scope and the systems it stewards, which the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) carries as its entries for Standing Records ([Chapter Five §6 The Charter Role Map and Standing-Record Custody](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody)), together with the independent route that applies when the [Chartered Party](subcore_03.075_band_continuity.md#chartered-party) is itself the subject ([Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority)); and
     - where [Def.P2 Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) admission scope applies, [Charter Pointers](subcore_03.075_band_continuity.md#charter-pointer) to the published decision-sequence, weighting, and rights-collision-record rules that carry that substance (for institutions, commonly the **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) participation-window / decision-path materials and the **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) weighting publication file).
 
-    Where an Institution operates, stewards, or materially controls exactly one System that needs a System Charter, that System Charter names the Institution as steward and also serves as the Institution's [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter): one document covers both. It supports institutional creation under [System Creation](subcore_03.090_band_participation.md#system-creation) and [Business Creation](subcore_03.090_band_participation.md#business-creation) by making operated scope reviewable without narrowing those floors. A System Charter is required at Class L or higher and voluntary at Class P. The duty to publish a System Charter, its minimum contents, and its amendment and review rules are stated in [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters). Adopt, amend, and supervise mechanics route to [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) (adopt and amend) and [CI-6.215](corpus_institutions/ci_06.215_oversight_assurance_controls_evidence.md#ci-6215-oversight-assurance-controls-and-evidence) (*Oversight, assurance, controls, and evidence*) (supervise) under **Chapter Thirty** incorporation discipline.
+    Where an Institution operates, stewards, or materially controls exactly one System that needs a System Charter, that System Charter names the Institution as steward and also serves as the Institution's [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter): one document covers both. It supports institutional creation under [System Creation](subcore_03.090_band_participation.md#system-creation) and [Business Creation](subcore_03.090_band_participation.md#business-creation) by making operated scope reviewable without narrowing those floors. A System Charter is required at Class L or higher and voluntary at Class P. The duty to publish a System Charter, its minimum contents, and its amendment and review rules are stated in [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters). Adopt, amend, and supervise mechanics route to [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) (adopt and amend) and [CI-6.215](corpus_institutions/ci_06.215_oversight_assurance_controls_evidence.md#ci-6215-oversight-assurance-controls-and-evidence) (*Oversight, assurance, controls, and evidence*) (supervise) under **Chapter Thirty-One** incorporation discipline.
   - **Out of scope:**
     - an [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), which gathers the System Charters of an Institution that runs more than one System and states why it runs them;
     - a [Constitutional Charter](subcore_03.075_band_continuity.md#constitutional-charter), the founding document of a political community; or
-    - the operative [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) decision sequence, weighting model, or rights-collision record duties themselves — those live in the published governance / participation rules the System Charter points to, under [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+    - the operative [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice) decision sequence, weighting model, or rights-collision record duties themselves — those live in the published governance / participation rules the System Charter points to, under [Chapter Twenty-Seven §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
 <a id="system-charter-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Continuity measurement family](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family) — *Can sentients and systems endure — ecologically, dependably, and across failure?*
@@ -4855,14 +4855,14 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
-- Downstream: [Chapter Twenty-Six §3.1 Mechanism Families, Auditability, and Pluralism](core_26.000_governance.md#31-mechanism-families-auditability-and-pluralism) (26.000 §3.1) (*the treaty, compact, or Constitutional Charter mechanism family*).
+- Downstream: [Chapter Twenty-Seven §3.1 Mechanism Families, Auditability, and Pluralism](core_27.000_governance.md#31-mechanism-families-auditability-and-pluralism) (27.000 §3.1) (*the treaty, compact, or Constitutional Charter mechanism family*).
 - Read with:
   - [Documented Legitimacy Mechanism](subcore_03.080_band_integrative.md#documented-legitimacy-mechanism),
   - [Governance](subcore_03.070_band_accountability.md#governance),
   - [Institution](subcore_03.075_band_continuity.md#institution),
   - [System Charter](subcore_03.075_band_continuity.md#system-charter), and
   - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter).
-- Distinguish: a Constitutional Charter authorizes a political community to govern. It is not a [System Charter](subcore_03.075_band_continuity.md#system-charter) or an [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), which state the scope of a system or institution, it is not an [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter), which states how a settled adopter's forum, custodian, and trust arrangements work, and it is not the document by which a body adopts this Constitution ([Chapter Twenty-Eight §12 Ratification and Adoption](core_28.000_amendment_ratification.md#12-ratification-and-adoption) (28.000 §12)).
+- Distinguish: a Constitutional Charter authorizes a political community to govern. It is not a [System Charter](subcore_03.075_band_continuity.md#system-charter) or an [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), which state the scope of a system or institution, it is not an [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter), which states how a settled adopter's forum, custodian, and trust arrangements work, and it is not the document by which a body adopts this Constitution ([Chapter Twenty-Nine §12 Ratification and Adoption](core_29.000_amendment_ratification.md#12-ratification-and-adoption) (29.000 §12)).
 
 </details>
 
@@ -4871,7 +4871,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 *In plain terms: a **Constitutional Charter** is the founding document by which a political community authorizes those who govern it. It answers "by what right does this body govern?" A System Charter or Institutional Charter answers a different question: "what does this system or institution say it does?"*
 
 - **What it is**
-  - **In scope:** The document by which a political community is founded, or its governing authority is authorized, adopted with recorded assent under the treaty, compact, or Constitutional Charter family of [Chapter Twenty-Six §3.1 Mechanism Families, Auditability, and Pluralism](core_26.000_governance.md#31-mechanism-families-auditability-and-pluralism). A treaty or compact that does the same work between member bodies is read the same way.
+  - **In scope:** The document by which a political community is founded, or its governing authority is authorized, adopted with recorded assent under the treaty, compact, or Constitutional Charter family of [Chapter Twenty-Seven §3.1 Mechanism Families, Auditability, and Pluralism](core_27.000_governance.md#31-mechanism-families-auditability-and-pluralism). A treaty or compact that does the same work between member bodies is read the same way.
   - **Out of scope:**
     - a [System Charter](subcore_03.075_band_continuity.md#system-charter), an [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), or an [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter);
     - the document by which a body adopts this Constitution; or
@@ -4907,8 +4907,8 @@ Continuity duties reach into dependency, risk, records, charters, certification,
   - [§3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (*certification seats and the record of them*);
   - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*),
-  - **CI-26.205 §5** (*Authorized Roles and Accountability Chains*), and
-  - **CI-26.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
+  - **CI-27.205 §5** (*Authorized Roles and Accountability Chains*), and
+  - **CI-27.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [System Boundaries, Integrity, and Exit](#system-boundaries-integrity-and-exit).
 - Read with:
   - [System Charter](subcore_03.075_band_continuity.md#system-charter),
@@ -4924,7 +4924,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action),
   - [Auditability](subcore_03.085_band_oversight.md#auditability), and
   - [Contestability](subcore_03.070_band_accountability.md#contestability).
-- Distinguish: a Charter Role Map is not an organization chart or a list of job titles. A title carries no authority over a materially binding act unless the map places it in a seat. The seat types and their boundaries live in [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) and **CI-26.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*), not in this entry. The mechanics of keeping the map current live in [CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), not here.
+- Distinguish: a Charter Role Map is not an organization chart or a list of job titles. A title carries no authority over a materially binding act unless the map places it in a seat. The seat types and their boundaries live in [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) and **CI-27.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*), not in this entry. The mechanics of keeping the map current live in [CI-27.205](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), not here.
 
 </details>
 
@@ -4940,7 +4940,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
     - each deputy or substitute who may act in the seat, including for an absent, excluded, captured, or conflicted holder, and the independent route when no qualified substitute is available; and
     - the version, the effective date, and the change history.
   - **Out of scope:**
-    - the seat types and their boundaries, which are fixed in [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) and **CI-26.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*);
+    - the seat types and their boundaries, which are fixed in [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) and **CI-27.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*);
     - an organization chart, staff directory, or list of titles that places no seat;
     - the standards for qualifying a steward, which the map records the results of but does not set; and
     - a seat that constitutional routing assigns and the System Charter or Institutional Charter does not. In a system alignment certification, the forums that hold the verify-or-authorize seat are assigned under Chapter Eight and Chapter Twenty-Two, so the map does not choose them.
@@ -4978,7 +4978,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); scales with [material stake](core_00.000_preamble.md#material-stake).
 - Downstream:
   - [Chapter Five §5 What System and Institutional Charters Must State](core_05.000_charters.md#5-what-system-and-institutional-charters-must-state) (5.000 §5) (*what a System Charter or Institutional Charter may point to, and the duty that each pointer resolve*);
-  - [Chapter Twenty-Six §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_26.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (26.000 §6.3) (*the Charter Pointer rule for binding stakeholder choice*);
+  - [Chapter Twenty-Seven §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (27.000 §6.3) (*the Charter Pointer rule for binding stakeholder choice*);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*);
   - **CF-22.415 §7** (*Institutional and Local Registrars*) (*the completeness check that each pointer resolves*).
 - Cluster component: [System Boundaries, Integrity, and Exit](#system-boundaries-integrity-and-exit).
@@ -5059,7 +5059,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 
     A business or other stewarded organizational form that is itself a System is a Chartered Party. So is an Institution that runs more than one System, which holds their System Charters in its Institutional Charter.
   - **Out of scope:**
-    - a Class P [Operating Party](subcore_03.085_band_oversight.md#operating-party) that has not published a System Charter or Institutional Charter and is not required to. It is not a Chartered Party until it publishes. The rules on forming apply to it all the same, and so does the consequence procedure in **CI-18.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*) on a verified trigger carrying the required risk finding;
+    - a Class P [Operating Party](subcore_03.085_band_oversight.md#operating-party) that has not published a System Charter or Institutional Charter and is not required to. It is not a Chartered Party until it publishes. The rules on forming apply to it all the same, and so does the consequence procedure in **CI-18.210** (*Institutional failure and dissolution*) and **CI-25.205** (*Institutional accountability and sanctions*) on a verified trigger carrying the required risk finding;
     - a sentient who holds an office in a Chartered Party. The holder is a steward of the office, and a failure by the holder lands on that office, not on the Chartered Party;
     - an office, forum, or governing board inside a Chartered Party, which is one of its seats and not the party itself;
     - a political community that adopts a [Constitutional Charter](subcore_03.075_band_continuity.md#constitutional-charter), which is a different document; and
@@ -5316,7 +5316,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
   - [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*territorial / ecosystem-integrity precondition*). Interaction pointers:
   - [Article XXIII-B](core_04.030_rights_part_d.md#article-xxiii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*) and
   - [Article XXIII-C](core_04.030_rights_part_d.md#article-xxiii-c-non-statelessness) (*Non-Statelessness*);
-  - [Chapter Thirty](core_30.000_incorporation.md) (30.000) (*adopter-jurisdiction discipline and Chapter Twenty-Seven non-regression*).
+  - [Chapter Thirty-One](core_31.000_incorporation.md) (31.000) (*adopter-jurisdiction discipline and Chapter Twenty-Eight non-regression*).
 - Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](subcore_03.075_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) where community continuity is materially tied to place, ecosystem, occupancy continuity, bodily-maintenance access, or participation capacity. (Safe Conditions and Rest now in Section 3.5 Labor and Economic Floor cluster.)
 - Cluster component: [the dependent cluster *Indigenous Continuity, Language Culture and Heritage, Natural Systems Standing, and Intergenerational Responsibility*](subcore_03.075_band_continuity.md#community-anchored-continuity-indigenous-language-culture-and-heritage) (*joint invocation across indigenous continuity, language / culture / heritage, natural-systems standing, and intergenerational responsibility*).
 - Read with:
@@ -5348,7 +5348,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
     - substrate-agnostic under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion); and
     - capability-functional — triggered by material implication of community continuity, not by a category label.
 
-    Route territorial-continuity interactions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (ecosystem / precondition integrity) and to [Chapter Thirty](core_30.000_incorporation.md) (adopter-jurisdiction discipline). This entry does not adjudicate historical territorial claims or create a restitution mandate.
+    Route territorial-continuity interactions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (ecosystem / precondition integrity) and to [Chapter Thirty-One](core_31.000_incorporation.md) (adopter-jurisdiction discipline). This entry does not adjudicate historical territorial claims or create a restitution mandate.
   - **Out of scope:**
     - individual nondiscrimination claims alone;
     - deciding historical land title in this Constitution, historical territorial adjudication, or restitution mandates; and
@@ -5368,14 +5368,14 @@ Continuity duties reach into dependency, risk, records, charters, certification,
     Routing and read-with:
     - Route territorial-continuity questions:
       - to **Article I-A** (*Environmental Preconditions and Ecological Integrity*); and
-      - where adopter-jurisdiction determinations of historical territorial claims are at stake, also to [Chapter Thirty](core_30.000_incorporation.md) §2 (*Custody, Editions, and Operative Effect*), §3 (*Safeguards*), and §4 (*Adoption Framing and Scope of Authority*), without this entry making the adjudication.
-    - If an adopter already recognizes indigenous or comparable community-continuity rights, apply [Chapter Twenty-Seven non-regression](core_27.000_non_regression.md). This entry does not create that recognition; non-regression only prevents the adopter from rolling it back.
+      - where adopter-jurisdiction determinations of historical territorial claims are at stake, also to [Chapter Thirty-One](core_31.000_incorporation.md) §2 (*Custody, Editions, and Operative Effect*), §3 (*Safeguards*), and §4 (*Adoption Framing and Scope of Authority*), without this entry making the adjudication.
+    - If an adopter already recognizes indigenous or comparable community-continuity rights, apply [Chapter Twenty-Eight non-regression](core_28.000_non_regression.md). This entry does not create that recognition; non-regression only prevents the adopter from rolling it back.
     - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility) applies where community-continuity transmission across generations is materially implicated.
     - [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing) applies where the community-to-ecosystem relationship is materially implicated.
 <a id="indigenous-continuity-constitutional-c"></a>
 - **What must hold**
-  - **Primary failure:** narrowings, displacements, exclusions contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion), or category-label exclusions that defeat community-level continuity without satisfying **Article VI-C** (*Nondiscrimination*) [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality) tests; using this entry or [Chapter Thirty](core_30.000_incorporation.md) incorporation to cut land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding documents;
-  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Twenty-Seven non-regression](core_27.000_non_regression.md); [Chapter Thirty §4 Safeguards](core_30.000_incorporation.md#4-safeguards) safeguards and [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer) clearly adopted baseline with the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect));
+  - **Primary failure:** narrowings, displacements, exclusions contrary to [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion), or category-label exclusions that defeat community-level continuity without satisfying **Article VI-C** (*Nondiscrimination*) [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality) tests; using this entry or [Chapter Thirty-One](core_31.000_incorporation.md) incorporation to cut land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding documents;
+  - **Secondary failure:** adopter narrowing below the adopter's own prior recognition floor ([Chapter Twenty-Eight non-regression](core_28.000_non_regression.md); [Chapter Thirty-One §4 Safeguards](core_31.000_incorporation.md#4-safeguards) safeguards and [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer) clearly adopted baseline with the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect));
   - **Tertiary failure:** misreading the boundary of this entry, including:
     - category-label framings substituting for capability-functional evaluation; and
     - reading this entry as adjudicating historical territorial claims, creating a restitution mandate, or narrowing [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) ecosystem-integrity floors.
@@ -6634,7 +6634,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (2.050 §19.1.3); [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (periodic revalidation / misalignment detection).
-- Owner floor: [Chapter Twenty-Six §5](core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) (26.000 §5).
+- Owner floor: [Chapter Twenty-Seven §5](core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) (27.000 §5).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
   - [Accountability, Contestability, and Redress Pathways](subcore_03.070_band_accountability.md#accountability-contestability-and-redress-pathways);
@@ -6643,7 +6643,7 @@ See **Anti-Segmentation Principle**.
   - [System Capture](subcore_03.075_band_continuity.md#system-capture),
   - [Auditability](subcore_03.085_band_oversight.md#auditability),
   - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional), and Subcores 3-A to 3-C (traceability, observability, verification) as referenced in
-  - [Chapter Twenty-Six §5](core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) (26.000 §5).
+  - [Chapter Twenty-Seven §5](core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) (27.000 §5).
 
 </details>
 
@@ -7179,7 +7179,7 @@ See **Anti-Segmentation Principle**.
   - **Primary failure:**
     - cherry-picking one member definition to bypass another within admission scope ([§4.1 Joint Invocation and Satisfaction](core_03.000_definitions_home.md#41-joint-invocation-and-satisfaction); Subcore 3-B §3 (*Definition Integrity and Anti-Evasion Constraints*) through §3 (*Non-Compliance from Observable System Behavior*)); and
     - isolated formal compliance with disclosure or audit artifacts that defeats substantively informed understanding, independent verification, or effective challenge.
-  - **Secondary failure:** looking compliant in one implementation file while related duties that the same trust claim depends on remain unmet in another — see [Chapter Two §15.4.4](core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*) and [CJS-30.110 §3](corpus_joint_structure/cjs_30.110_specific_joint_interlocks.md#cjs-30110-3-cross-implementation-trust-integrity-joint-operation-model) (*Cross-implementation trust integrity*).
+  - **Secondary failure:** looking compliant in one implementation file while related duties that the same trust claim depends on remain unmet in another — see [Chapter Two §15.4.4](core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*) and [CJS-31.110 §3](corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md#cjs-31110-3-cross-implementation-trust-integrity-joint-operation-model) (*Cross-implementation trust integrity*).
   - **Tertiary failure:**
     - treating trust-erosion patterns as non-material where Materiality-family definitions require treating them as material; and
     - splitting evaluation so no member definition captures the full functional wrong.

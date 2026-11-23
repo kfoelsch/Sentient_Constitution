@@ -70,7 +70,7 @@ When a trigger fires, route it to the correct owner section — not every proble
 - **CI-6.205** — structural independence and lane safeguards when capture is suspected;
 - **CI-22.205** — fair procedure and contest rights;
 - applicable **CF** sections — forum-side support; and
-- **CI-4.215** (*Resource stewardship and incentive integrity*), **CI-24.205** (*Institutional accountability and sanctions*) for sanctions where misconduct is confirmed.
+- **CI-4.215** (*Resource stewardship and incentive integrity*), **CI-25.205** (*Institutional accountability and sanctions*) for sanctions where misconduct is confirmed.
 
 Standing Records remain under [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened), and contribution and violation measurement, including the Violation Axis, remains under [Chapter Fifteen](core_15.000_standing_measurement.md#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it). [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) owns the separate anti-constitutional-misconduct designation.
 

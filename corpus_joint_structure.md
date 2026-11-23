@@ -17,7 +17,7 @@ This page is the non-operative navigation home for the Joint Structure layer. Th
 
 The operational cluster chapters are **CJS-3.105** (*operational cluster library*), **CJS-3.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*), **CJS-3.115 §3** (*Audit process home*), **CJS-3.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*), **CJS-3.125 §11** (*Accountability: Distributed and Proportional Authority Terms*), **CJS-3.130 §16** (*Continuity: Dependency Integrity and Disclosure Terms*), and **CJS-3.135 §22** (*Integrative: Constrained-Secrecy and Protected-Investigation Terms*). The [CJS-3.115 §3 audit process home](corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3) explains the shared audit process.
 
-The main interface and drafting homes are **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-30.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*), **CJS-3.140 §13** (*Operational Structure and Subsection-Local Terminology*), and **CJS-6.105 §9** (*Boundary between Support Roles and Merits Decisions*). Expand **Joint structure index** below or open [CJS-0.105 §1 Cross-File Routing](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) for a specific file.
+The main interface and drafting homes are **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-31.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*), **CJS-3.140 §13** (*Operational Structure and Subsection-Local Terminology*), and **CJS-6.105 §9** (*Boundary between Support Roles and Merits Decisions*). Expand **Joint structure index** below or open [CJS-0.105 §1 Cross-File Routing](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) for a specific file.
 
 **Does not:**
 
@@ -29,8 +29,8 @@ The main interface and drafting homes are **CJS-0.110** (*Scope, purpose, and bo
 
 - [Chapter Two](core_02.000_values_principles.md) / [Preamble](core_00.000_preamble.md) — [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) provide the compass for **oDef** and the shared operational clusters.
 - [Chapter Three](core_03.000_definitions_home.md) definition stack and [Corpus](subcore_03.080_band_integrative.md#corpus) designation — joint interfaces and **oDef** clusters that must track constitutional **Def.*** meaning without redefining it
-- Cross-layer support for [Chapter Four](core_04.000_rights_part_a.md) through [Chapter Twenty-Six](core_26.000_governance.md) where systems, institutions, and forums must satisfy shared integrity terms together
-- [Chapter Thirty](core_30.000_incorporation.md) incorporation discipline for how implementation text binds when adopted
+- Cross-layer support for [Chapter Four](core_04.000_rights_part_a.md) through [Chapter Twenty-Seven](core_27.000_governance.md) where systems, institutions, and forums must satisfy shared integrity terms together
+- [Chapter Thirty-One](core_31.000_incorporation.md) incorporation discipline for how implementation text binds when adopted
 
 **Siblings:**
 
@@ -40,7 +40,7 @@ The main interface and drafting homes are **CJS-0.110** (*Scope, purpose, and bo
 - [Forums](corpus_forum.md) — start here for panels, routing, appeals, and hearing operations
 - [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) and [CJS-0.105 §1 Cross-File Routing](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) — topic-driven entry when you already know the subject; this router table is integrator/maintainer detail.
 
-**Binding:** When an adopter incorporates this layer under [Chapter Thirty](core_30.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Thirty-One](core_31.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **New to the non-core corpus?** Start at the [joint-structure reader guide](corpus_joint_structure/cjs_reader_guide.md) — how to enter this layer, how labels work, and which file to open. The binding gateway is [CJS-0.110 §0 Purpose, Role, and Scope](corpus_joint_structure/cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-0-purpose-role-and-scope).
 
@@ -53,7 +53,7 @@ The main interface and drafting homes are **CJS-0.110** (*Scope, purpose, and bo
 >
 > **Compatibility entrypoint:** this root file is the stable navigation wrapper for the joint-structure implementation file. Substantive CJS text lives in the `corpus_joint_structure/` subfiles. Broad references to `corpus_joint_structure.md` continue to mean the joint-structure implementation file as a whole.
 >
-> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_joint_structure.md` is incorporated under Sentient Constitution Chapter Thirty. This wrapper is an index.
+> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_joint_structure.md` is incorporated under Sentient Constitution Chapter Thirty-One. This wrapper is an index.
 
 </details>
 
@@ -85,7 +85,7 @@ The main interface and drafting homes are **CJS-0.110** (*Scope, purpose, and bo
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CJS-30.105 §7–CJS-30.105 §8.1: Drafting contracts and owner-to-CJS seam | [cjs_30.105_drafting_contracts.md](corpus_joint_structure/cjs_30.105_drafting_contracts.md) |
+| CJS-31.105 §7–CJS-31.105 §8.1: Drafting contracts and owner-to-CJS seam | [cjs_31.105_drafting_contracts.md](corpus_joint_structure/cjs_31.105_drafting_contracts.md) |
 
 ### oDef Parse Mechanics
 
@@ -97,7 +97,7 @@ The main interface and drafting homes are **CJS-0.110** (*Scope, purpose, and bo
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CJS-30.110: Specific Joint Interlocks and Shared Abstractions | [cjs_30.110_specific_joint_interlocks.md](corpus_joint_structure/cjs_30.110_specific_joint_interlocks.md) |
+| CJS-31.110: Specific Joint Interlocks and Shared Abstractions | [cjs_31.110_specific_joint_interlocks.md](corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md) |
 | CJS-6.105 §9–CJS-6.105 §11: Support roles, hosting independence, and classification alignment | [cjs_06.105_support_hosting_classification.md](corpus_joint_structure/cjs_06.105_support_hosting_classification.md) |
 
 ### Worked Examples

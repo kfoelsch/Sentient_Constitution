@@ -126,7 +126,7 @@ The supervisory sequence in [Chapter Nine §3.2 Supervisory Sequence](core_09.00
   - answering for any System whose cause finding traced back to the Institution ([§4.5 Cascade from System Certifications](core_13.000_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications)).
 - **Capacity:** In addition to the factors in [Chapter Nine §4.3.2 Capacity](core_09.000_system_alignment_certification_forum_process_outcomes.md#432-capacity), the forums look at whether:
   - the offices that must act have the authority to do so (**CI-6.205 §3** (*Authority Chain and Delegation Controls*));
-  - the Institution has the funds, staff, and succession plan for the work (**CI-26.205 §1** (*Shared Staffing and Competency Requirement*); **CI-24.210** (*Remedy systems and institutional redress capacity*)); and
+  - the Institution has the funds, staff, and succession plan for the work (**CI-27.205 §1** (*Shared Staffing and Competency Requirement*); **CI-25.210** (*Remedy systems and institutional redress capacity*)); and
   - an independent verifying authority can test the correction, with the access and the time it is actually given ([Chapter Nine §4.3.2 Capacity](core_09.000_system_alignment_certification_forum_process_outcomes.md#432-capacity), *Verifiability*). A correction nobody can verify is not capacity.
 - **One System:** An Institution that runs exactly one System gets one readiness check, in the one-System evaluation. The readiness check states its denial grounds separately for the System and for the Institution, as [Chapter Twelve §4.4 Denial and Revocation for an Institution](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution) requires.
 

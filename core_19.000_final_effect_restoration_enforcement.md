@@ -14,7 +14,7 @@
 
 - Upstream: [Chapter Seventeen](core_17.000_contribution_consequences.md#chapter-seventeen-contribution-consequences) (*contribution outcomes*); [Chapter Eighteen](core_18.000_violation_consequences.md#chapter-eighteen-violation-consequences--remedy-correction-and-locks) (*violation outcomes and locks*); [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (*decision order*).
 - This file: Question 3 final standing effect, restoration and reassessment, and enforcement realism and remedy systems.
-- Downstream: [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (*designation only*); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (*forum supervision*); [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+- Downstream: [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (*designation only*); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (*forum supervision*); [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Worked examples (they add no rule): [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): [CJS-14.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-10-question-3-routing-patterns).
 
 </details>
@@ -286,7 +286,7 @@ Consequences under this chapter only count if real institutions can carry them o
   - monitor follow-through;
   - enforce safeguards; and
   - review locks.
-- **Where the details live:** [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns how a Remedy System is put into practice.
+- **Where the details live:** [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns how a Remedy System is put into practice.
 - **Read with:** **Article XIV-B** (*Right to Redress and Remedy*), and [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) for forum supervision.
 
 Standing integration fails if consequences exist only on paper. Adopters must keep the practical capacity, and keep it timely, to:

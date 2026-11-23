@@ -10,7 +10,7 @@ rewritten when the file is placed.
 
 > **Status.** First draft, 2026-11-21, at the custodian's request ("the public stewardship office, which is in charge of long term planning and guidance"). Companion draft: the [Public Policy Office](public_policy_office_draft_2026-11-21.md). Related drafts awaiting review: the [Public Information Office](public_information_office_draft_2026-11-19.md), the [Public Finance Office](public_finance_office_draft_2026-11-19.md), and the [Public Debt Office](public_debt_office_draft_2026-11-20.md), whose obligations this office's outlook must take into account.
 >
-> **Placement.** Like every Independent Body under the core reorganization plan, the office gets a one-line guarantee list in [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) and a subcore file attached to Chapter Seven. This draft is written as that subcore file. [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) would point to it.
+> **Placement.** Like every Independent Body under the core reorganization plan, the office gets a one-line guarantee list in [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) and a subcore file attached to Chapter Seven. This draft is written as that subcore file. [Chapter Twenty-Seven §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) would point to it.
 >
 > **Choices this draft makes (all provisional, for the custodian to confirm):**
 > 1. **Required plans and reports, but not dictated content.** Added 2026-11-21 at the custodian's request: public bodies, and every system or institution of Class C or higher, must submit stewardship plans that answer the outlook and report progress against them once a year (§7). Added later the same day at the custodian's request: plans follow a yearly cascade, with the office's report on April 1, public bodies' plans on July 1, and every other Class C or higher body's plan on October 1. The office reviews and publishes; it cannot write a body's plan for it, allocate resources, or punish. The governing authority keeps every decision, but must say in public how its strategy responds to the office's guidance.
@@ -26,7 +26,7 @@ rewritten when the file is placed.
 > - [Chapter Five §5.1 What a System Charter States](../../core_05.000_charters.md#51-what-a-system-charter-states) would gain item 11, which §5.3 then carries into every Institutional Charter: "**Stewardship planning and evaluation:** how the Chartered Party plans for, and evaluates its progress against, the stewardship guidance that bears on it, by Charter Pointer to its stewardship plan and progress report where Subcore 7-[S] §7 requires them, or a statement that it does not plan against the outlook where §7 does not." Added 2026-11-21 at the custodian's request.
 > - [CI-6.205 §6.3 Minimum Fields (Formation Template)](../../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-63-minimum-fields-formation-template) would gain the matching template field.
 > - [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) would list the office with the one-line guarantees in the box below.
-> - [Chapter Twenty-Six §5.3 Public Institutions Supporting Stewardship](../../core_26.000_governance.md#53-public-institutions-supporting-stewardship) (added 2026-11-22) already requires the governing authority's strategy to take account of the long-term outlook and to answer the guidance of whichever body Chapter Seven §4 lists for that function. Once this office is listed, that line would name it.
+> - [Chapter Twenty-Seven §5.3 Public Institutions Supporting Stewardship](../../core_27.000_governance.md#53-public-institutions-supporting-stewardship) (added 2026-11-22) already requires the governing authority's strategy to take account of the long-term outlook and to answer the guidance of whichever body Chapter Seven §4 lists for that function. Once this office is listed, that line would name it.
 > - A new corpus-institutions file would hold the outlook template, the risk register fields, the plan and report templates, the fund's share of public spending, the incentive and grant rules, and the submission procedure.
 >
 > **Proposed Chapter Seven §4 entry:**
@@ -50,7 +50,7 @@ rewritten when the file is placed.
 
 **Role:** Subcore 7-[S] is the constitutional owner of the **Long-Term Outlook**, **stewardship guidance**, **stewardship plans and progress reports**, the **Stewardship Fund**, and **future-generations submissions**. Where it sits:
 
-- [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) puts the duty of stewardship on those who govern. This office informs that duty and holds public bodies to account for planning against it; it does not take it over.
+- [Chapter Twenty-Seven §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) puts the duty of stewardship on those who govern. This office informs that duty and holds public bodies to account for planning against it; it does not take it over.
 - The Public Policy Office evaluates one proposal at a time. This office looks across all policy and over a longer horizon. For a proposal with long-horizon or irreversible effects, the two publish one combined evaluation.
 - The Public Information Office produces the statistics and research this office relies on.
 - The Public Debt Office and the Public Finance Office report the obligations that later generations will carry, and this office takes them into account.
@@ -82,8 +82,8 @@ Those who govern answer to the sentients alive and able to vote now, over terms 
   - [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims): both aims:
     - [Flourishing](../../core_00.000_preamble.md#flourishing): wellbeing is pursued for those who come later as well as those here now;
     - [Continuity](../../core_00.000_preamble.md#continuity): risks to survival, ecology, and productive capacity are seen early enough to act on;
-- Chapter Twenty-Six:
-  - [§5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate), including the [Strategic Stewardship Obligation](../../subcore_03.075_band_continuity.md#strategic-stewardship-obligation);
+- Chapter Twenty-Seven:
+  - [§5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate), including the [Strategic Stewardship Obligation](../../subcore_03.075_band_continuity.md#strategic-stewardship-obligation);
 - Chapter Two:
   - [§17.7 Duty to Represent Stakeholder Interests](../../core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests): representing those a system or institution affects includes planning for their future;
 - Chapter Four Articles:
@@ -97,9 +97,9 @@ Those who govern answer to the sentients alive and able to vote now, over terms 
 
 The office is an Independent Body and meets [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) in full:
 
-- **Decision seats:** drawn by lot from the candidates who pass the office's published competency gate, under the role rules of [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](../../subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
+- **Decision seats:** drawn by lot from the candidates who pass the office's published competency gate, under the role rules of [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](../../subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
 - **Long, staggered terms:** members serve one term of eight years, not renewable, staggered so that no single selection cycle replaces a majority.
-- **No removal for advice:** a member may be removed only for a published cause under Subcore 26-E §3. The content of the office's outlook, guidance, or submissions is never a cause.
+- **No removal for advice:** a member may be removed only for a published cause under Subcore 27-E §3. The content of the office's outlook, guidance, or submissions is never a cause.
 - **Competencies:** the gate covers foresight and scenario methods, ecology, demography, public finance, and critical systems, and at least one seat is held by a sentient under the age the adopter sets for its youth seat.
 - **Funding:** the office's running costs come through a floor set by the Public Finance Office, which may not be cut in response to the office's advice. The Stewardship Fund is a separate budget under §8.
 
@@ -153,9 +153,9 @@ It looks further than 100 years where a risk requires it. Across these horizons,
 *In plain terms: the office gives advice on priorities, and those who govern must say openly what they did with it.*
 
 - **Guidance:** with each Yearly Stewardship Report, the office publishes or updates its stewardship guidance: the long-term priorities it judges most important and the options for meeting them. Guidance binds no one.
-- **Response:** the governing authority's published strategy under [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) states, for each item of guidance, whether it adopts it, adapts it, or declines it, with reasons. The response is published with the public bodies' plans on the second date of the planning cycle under §7.3.
+- **Response:** the governing authority's published strategy under [Chapter Twenty-Seven §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) states, for each item of guidance, whether it adopts it, adapts it, or declines it, with reasons. The response is published with the public bodies' plans on the second date of the planning cycle under §7.3.
 - **Progress assessment:** each Yearly Stewardship Report assesses how far the governing authority's strategy, and the plans and reports of the previous cycle, are meeting the long-term risks in the register.
-- **Contestability:** a failure to publish a response is a procedural failure that may be challenged under [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism). The merits of a response are for the public and the authorizing community to judge, not the office.
+- **Contestability:** a failure to publish a response is a procedural failure that may be challenged under [Chapter Twenty-Seven §3.1.4 Contestation, Correction, and Pluralism](../../core_27.000_governance.md#314-contestation-correction-and-pluralism). The merits of a response are for the public and the authorizing community to judge, not the office.
 
 ### 7. Stewardship Plans and Progress Reports
 
@@ -186,7 +186,7 @@ Each stewardship plan answers the outlook for the body's own area and the sentie
 - any other planning the body judges important to the sentients it represents;
 - how the stakeholders it represents were heard in making the plan, through the routes [Article XII-A](../../core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) requires;
 - the indicators by which progress will be judged; and
-- for a public body, how the plan fits the governing authority's strategy under [Chapter Twenty-Six §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_26.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
+- for a public body, how the plan fits the governing authority's strategy under [Chapter Twenty-Seven §5 Strategy, Stewardship Direction, and Ecosystem Value](../../core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
 
 #### 7.3 The Yearly Planning Cycle
 
@@ -229,7 +229,7 @@ The office reviews and publishes what it receives, but the plan stays the body's
 
 Each review ends with an **alignment rating** on a five-point ladder, so that readers can see at a glance how well a body is planning for the sentients it affects, and so that a poor plan has a consequence that someone other than the office decides.
 
-- **What the rating measures:** how well the plan and progress report answer the outlook and guidance, not whether the body agrees with them. A body that departs from the guidance with credible, published reasons can still rate well, so the ladder never limits the pluralism protected by [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism).
+- **What the rating measures:** how well the plan and progress report answer the outlook and guidance, not whether the body agrees with them. A body that departs from the guidance with credible, published reasons can still rate well, so the ladder never limits the pluralism protected by [Chapter Twenty-Seven §3.1.4 Contestation, Correction, and Pluralism](../../core_27.000_governance.md#314-contestation-correction-and-pluralism).
 - **The ladder:**
     - **5, fully aligned:** deals with every relevant risk and priority, with realistic steps, resources, and indicators, and progress is on track;
     - **4, largely aligned:** minor gaps or delays, each with a credible plan to close it;
@@ -252,7 +252,7 @@ Each review ends with an **alignment rating** on a five-point ladder, so that re
 
 A missing plan or report is never hidden. The office publishes every missing or late plan or report as such and rates it 1 under §7.5, and it has a further consequence:
 
-- **For a public body:** it is a procedural failure that may be challenged under [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism).
+- **For a public body:** it is a procedural failure that may be challenged under [Chapter Twenty-Seven §3.1.4 Contestation, Correction, and Pluralism](../../core_27.000_governance.md#314-contestation-correction-and-pluralism).
 - **For any other body:** it is a missing item in its System Charter or Institutional Charter under [Chapter Five §3.6 If a System Charter or Institutional Charter Is Missing](../../core_05.000_charters.md#36-if-a-system-charter-or-institutional-charter-is-missing).
 
 #### 7.7 Carried in the System Charter or Institutional Charter
@@ -396,7 +396,7 @@ The fund gives the office money to spend, not power over those it pays:
 - **Inside the office:** it plans and runs its own work, including the Stewardship Fund's programs.
 - An incentive is an offer, never a duty. No one is penalized for declining one, and no public body may make an incentive a condition of any right or service.
 - Its guidance is advice. No rule, contract, or funding decision may treat it as a command.
-- More than one long-term strategy can be legitimate. The office's guidance never limits the pluralism protected by [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism).
+- More than one long-term strategy can be legitimate. The office's guidance never limits the pluralism protected by [Chapter Twenty-Seven §3.1.4 Contestation, Correction, and Pluralism](../../core_27.000_governance.md#314-contestation-correction-and-pluralism).
 
 ### 12. Records, Accuracy, and Challenge
 

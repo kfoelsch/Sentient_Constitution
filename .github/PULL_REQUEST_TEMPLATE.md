@@ -50,7 +50,7 @@ lane-specific targets    →  (steward-door-lockstep-audit, obligation-diff, ali
 
 ## Lane D — Substantive Test 1 self-check
 
-<!-- Delete this section unless Lane D. State what the change does NOT weaken: Chapter Two constraints, Subcore 3-A to 3-C integrity, Chapter Four Rights Floor, Chapter Twenty-Six legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels. List downstream files that cite the changed section. -->
+<!-- Delete this section unless Lane D. State what the change does NOT weaken: Chapter Two constraints, Subcore 3-A to 3-C integrity, Chapter Four Rights Floor, Chapter Twenty-Seven legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels. List downstream files that cite the changed section. -->
 
 ## Attribution
 

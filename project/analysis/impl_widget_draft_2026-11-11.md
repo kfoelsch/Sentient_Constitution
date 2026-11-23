@@ -66,7 +66,7 @@ Table row: `| NAV-IMPL-WIDGET-01 | Implementation widget and inline line | `make
 | Article VI-C: Nondiscrimination | collapsed widget | CI-6.205, CI-6.220, CI-6.260 |
 | Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure | inline line | CI-6.265 |
 
-Chapter 24 §2 and §6.1 are separate units: §6 holds the timing rules and §6.1 the emergency measures. The three Chapter 6 single-owner Articles test the inline form. Article VI-C is the Chapter 6 test of the widget form. Together the pilot gives a home to seven of the twelve files no core file names: CI-6.225, CI-6.235, CI-6.260, CI-6.265, CF-23.450, CF-23.455 and CF-23.460. The other five (CI-6.230, CI-6.245, CI-6.250, CS-6.355 and CJS-31.105) need the decisions in `impl_link_proposals_2026-11-11.md` first.
+Chapter 25 §2 and §6.1 are separate units: §6 holds the timing rules and §6.1 the emergency measures. The three Chapter 6 single-owner Articles test the inline form. Article VI-C is the Chapter 6 test of the widget form. Together the pilot gives a home to seven of the twelve files no core file names: CI-6.225, CI-6.235, CI-6.260, CI-6.265, CF-23.450, CF-23.455 and CF-23.460. The other five (CI-6.230, CI-6.245, CI-6.250, CS-6.355 and CJS-31.105) need the decisions in `impl_link_proposals_2026-11-11.md` first.
 
 ### Markup, widget form (Chapter 23 §5)
 

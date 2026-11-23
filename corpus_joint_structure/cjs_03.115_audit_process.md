@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Thirty](../core_30.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3.115 §3** (*Audit process home*) / **oDef.3**; the related **CJS-3.110 §3** auditability and reconstructability annex is in [cjs_03.110_oversight_operations.md](cjs_03.110_oversight_operations.md#cjs-3110-3-oversight-auditability-and-reconstructability-terms-annex).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Thirty-One](../core_31.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3.115 §3** (*Audit process home*) / **oDef.3**; the related **CJS-3.110 §3** auditability and reconstructability annex is in [cjs_03.110_oversight_operations.md](cjs_03.110_oversight_operations.md#cjs-3110-3-oversight-auditability-and-reconstructability-terms-annex).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 >
@@ -17,7 +17,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Thirty](../core_30.000_incorporation.md#chapter-thirty-incorporation-bridge) (30.000) incorporation discipline and
+  - [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Downstream: this file's **audit process home** (what / why / how / when / sibling modes); machine-facing OP annexes in [cjs_03.110_oversight_operations.md](cjs_03.110_oversight_operations.md) (**CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*) auditability terms, **CJS-3.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*), **CJS-3.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*)).
 - Read with: **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*); **CJS-3.110 §4** (*Oversight: Transparency Levels and Audit-Access Terms*); **CJS-3.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*); **CJS-3.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*).
@@ -154,13 +154,13 @@ Audit when any of the following applies (often more than one):
 | System Data Types Record audit | **CS-4.305 §8.3** (*Audit the System Data Types Record*) |
 | Data typing and access-posture for audit outputs | **Subcore 4-A** (*Data Types*) (Type O / Type G / bands); output-level preference in **CJS-3.110 §4** |
 | System Classification Record audit | **CS-8.305 §7.3** (*Auditability and Verification*) |
-| Steward assurance review (steward conduct, governance, and oversight effectiveness) | **CS-26.305** (*Critical system stewardship*) §CS-26.305 §8 *Conduct, conflicts of interest, and independence* and §CS-26.305 §11 *Integrated risk governance (Class A/B)* |
+| Steward assurance review (steward conduct, governance, and oversight effectiveness) | **CS-27.305** (*Critical system stewardship*) §CS-27.305 §8 *Conduct, conflicts of interest, and independence* and §CS-27.305 §11 *Integrated risk governance (Class A/B)* |
 | Continuous audit (systems layer: automated constitutional auditing) | **CS-4.345** (*System lifecycle*) ACA. Continuous audit of eligibility criteria and restriction review is Rights Floor practice under **Article XX-B** (*Contestability and Proportional Restriction Limits*) and **Article XX-C** (*Contribution, Competency Bars, and Gated-Pathway Eligibility*), not this row |
-| Complexity audits (systems profile) | **CS-4.315**; **Article XXIV-B** (*Complexity Audit and Modularity Requirements*); applied to the steward organization under **CS-26.305** (*Critical system stewardship*) §CS-26.305 §5 *Comprehensibility and complexity stewardship* |
+| Complexity audits (systems profile) | **CS-4.315**; **Article XXIV-B** (*Complexity Audit and Modularity Requirements*); applied to the steward organization under **CS-27.305** (*Critical system stewardship*) §CS-27.305 §5 *Comprehensibility and complexity stewardship* |
 | Claim verification (material-claim verification scope, structured claim-testing, and correction integrity) | **CJS-3.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*); **Article XVII-C** (*Verification Accessibility*) |
 | Institutional transparency and accessible challenge and service pathways | **CI-4.205** (read with **CI-6.215 §3** where monitoring or escalation applies) |
 | Forum performance, backlog, publication, accessibility | **CF-22.445** |
-| Cross-implementation trust when layers combine | **CJS-30.110 §3** / **CJS-R17** |
+| Cross-implementation trust when layers combine | **CJS-31.110 §3** / **CJS-R17** |
 
 **Machine-facing annexes (not this file):**
 

@@ -35,7 +35,7 @@ This page is the non-operative navigation home for the Systems and Data layer. T
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
 - [Joint Structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Thirty](core_30.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Thirty-One](core_31.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Systems index** below. Identifier rules remain in the [systems registry](corpus_systems/cs_00.305_registry_and_reading_rules.md).
 
@@ -46,7 +46,7 @@ This page is the non-operative navigation home for the Systems and Data layer. T
 >
 > **Compatibility entrypoint:** this root file is the stable navigation wrapper for the systems implementation file. Substantive CS text lives in the `corpus_systems/` subfiles. Broad references to `corpus_systems.md` continue to mean the systems implementation file as a whole.
 >
-> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_systems.md` is incorporated under Sentient Constitution Chapter Thirty. This wrapper is an index.
+> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_systems.md` is incorporated under Sentient Constitution Chapter Thirty-One. This wrapper is an index.
 
 </details>
 
@@ -76,7 +76,7 @@ This page is the non-operative navigation home for the Systems and Data layer. T
 | CS-8.305 — Classification machinery (§1 and §7) | [cs_08.305_system_classification_machinery.md](corpus_systems/cs_08.305_system_classification_machinery.md) |
 | CS-8.315 — System alignment certification run sheet | [cs_08.315_system_alignment_certification_run_sheet.md](corpus_systems/cs_08.315_system_alignment_certification_run_sheet.md) |
 | CS-8.320 — System alignment certification illustrations | [cs_08.320_system_alignment_certification_illustrations.md](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md) |
-| CS-26.305 — Critical system stewardship | [cs_26.305_critical_system_stewardship.md](corpus_systems/cs_26.305_critical_system_stewardship.md) |
+| CS-27.305 — Critical system stewardship | [cs_27.305_critical_system_stewardship.md](corpus_systems/cs_27.305_critical_system_stewardship.md) |
 
 ### Engineering Protocols
 

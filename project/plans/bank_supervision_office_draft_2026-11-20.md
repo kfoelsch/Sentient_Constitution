@@ -18,7 +18,7 @@ against the live text; they will be rewritten when the chapter is placed.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - The Public Monetary Office draft §5 would point here by chapter number.
-> - [Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to set the protected amount and the levy formula, subject to this chapter.
+> - [Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to set the protected amount and the levy formula, subject to this chapter.
 > - A new corpus-institutions file would hold the prudential standards, the intervention ladder, the resolution toolkit, the levy formula, and register fields.
 
 </details>
@@ -59,7 +59,7 @@ Chapter [B] is the constitutional owner of **the supervision of banks and paymen
 - The Public Debt Office chapter records any public money used in a resolution as public debt.
 - The Public Finance Office chapter pays this office's floor and holds its reserve under Chapter Eight §11.
 - The Public Information Office chapter publishes the financial-system figures this office relies on.
-- [Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the protected amount under §8 and the levy formula under §3.
+- [Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to set the protected amount under §8 and the levy formula under §3.
 - A later corpus-institutions file carries the prudential standards, the intervention ladder, the resolution toolkit, the levy formula, and register fields. It may not narrow this chapter.
 
 **Chapter scope:** The office:
@@ -277,7 +277,7 @@ The office may act sooner than the ladder requires. It may not act later, and a 
 - use a supervisory power to reward or punish a firm for its owners' political activity; or
 - time a decision to help or harm anyone in a selection.
 
-**No revolving door.** A member or staff member who supervised a firm may not take a role, contract, or benefit from that firm, or from a firm that acquired it, during a cooling-off period after their last involvement (by default, five years), as **CI-27.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*) provides. Former staff may not represent a firm before the office in a matter they handled.
+**No revolving door.** A member or staff member who supervised a firm may not take a role, contract, or benefit from that firm, or from a firm that acquired it, during a cooling-off period after their last involvement (by default, five years), as **CI-28.205 §2** (*Role Criteria, Appointment Standards, and Removal Pathways*) provides. Former staff may not represent a firm before the office in a matter they handled.
 
 ### 12. The Public Register
 

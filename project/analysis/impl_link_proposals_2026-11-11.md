@@ -15,7 +15,7 @@
 | 5 | CI-6.250 (community life, voluntary association, non-instrumental time) | Article XI-D *Assembly, Dissent, and Peaceful Protest* (`core_06.005`, line 1594) for §1; Article XI-F *Non-Imposition and Consent in Association* (line 1768) for §2 | Body pointer in each Article |
 | 6 | CI-6.260 (place-based stewardship, Indigenous continuity, consultation routes) | Article VI-C *Nondiscrimination* (`core_06.005`, line 223) and Article I-A *Environmental Preconditions and Ecological Integrity* (`core_06.000`, line 245). Optionally the Chapter Five *Indigenous Continuity* definition in its Trace. | Body pointer in each Article |
 | 7 | CI-6.265 (innovation reward, disclosure, anti-enclosure) | Article XVIII-D *Innovation Reward, Disclosure, and Anti-Enclosure* (`core_06.010`, line 1540); XVIII-E and XVIII-F are optional | Body pointer in Article XVIII-D |
-| 8 | CS-6.355 (subversion response, replacement, reconstitution) | Article XXV *Constitutional Interpretation, Review, and Anti-Capture Safeguards* (`core_06.015`, line 1344); optionally Chapter Twenty-Four §2.1 | Body pointer in Article XXV |
+| 8 | CS-6.355 (subversion response, replacement, reconstitution) | Article XXV *Constitutional Interpretation, Review, and Anti-Capture Safeguards* (`core_06.015`, line 1344); optionally Chapter Twenty-Five §2.1 | Body pointer in Article XXV |
 | 9 | CF-23.450 (forum continuity) | `core_15.000` §6.1 *Emergency measures and continuation burden* (line 1073); Trace Downstream, beside the CF files already listed | Trace Downstream bullet, plus one body sentence at the end of §6.1 |
 | 10 | CF-23.455 (fallback operation) | `core_15.000` §3 *Transfer, consolidation, and coordination — continuity and anti-capture* (line 346) and §6.1; Trace Downstream | Trace Downstream bullet; the §6.1 sentence above |
 | 11 | CF-23.460 (emergency adjudication) | `core_15.000` §6.1 *Emergency measures and continuation burden* (line 1073); Trace Downstream | Trace Downstream bullet; the §6.1 sentence above |
@@ -39,7 +39,7 @@
 
 - **Institutional implementation:** Support bundles, stigma controls, care-first routing, and emergency sunset review for collective public-health measures are governed by [**CI-6.235**](corpus_institutions/ci_04.235_collective_public_health_epidemic_response_addiction_informed_care.md#ci-6235-collective-public-health-epidemic-response-and-addiction-informed-care) (*Collective public health, epidemic response, and addiction-informed care*).
 
-*Confidence and notes:* High for VII-C. The file also cites Chapter Twenty-Four §2.1, which is already covered below.
+*Confidence and notes:* High for VII-C. The file also cites Chapter Twenty-Five §2.1, which is already covered below.
 
 ### 4. CI-6.245
 
@@ -91,7 +91,7 @@ Draft: (same sentence as CF-23.450)
 
 ### 12. CJS-31.105
 
-Draft: - Read with: [CJS-31.105](corpus_joint_structure/cjs_30.105_drafting_contracts.md#cjs-31105-drafting-contracts-and-owner-to-cjs-seam) (*drafting contracts, for editors and auditors*) and [CJS-31.110](corpus_joint_structure/cjs_30.110_specific_joint_interlocks.md#cjs-31110-specific-joint-interlocks-and-shared-abstractions) (*specific joint interlocks*).
+Draft: - Read with: [CJS-31.105](corpus_joint_structure/cjs_31.105_drafting_contracts.md#cjs-31105-drafting-contracts-and-owner-to-cjs-seam) (*drafting contracts, for editors and auditors*) and [CJS-31.110](corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md#cjs-31110-specific-joint-interlocks-and-shared-abstractions) (*specific joint interlocks*).
 
 *Confidence and notes:* Low priority. The file says average readers can skip it. Linking it is a consistency choice, not a reader need. CJS-31.110 is cited from five core chapters but not from Chapter 20.
 

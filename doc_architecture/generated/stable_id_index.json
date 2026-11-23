@@ -141,12 +141,17 @@
       "status": "present"
     },
     {
-      "file": "core_24.000_enforcement.md",
+      "file": "core_24.000_assemblies.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_25.000_special_enforcement.md",
+      "file": "core_25.000_enforcement.md",
+      "label": "core",
+      "status": "present"
+    },
+    {
+      "file": "core_26.000_special_enforcement.md",
       "label": "core",
       "status": "present"
     },
@@ -176,27 +181,27 @@
       "status": "present"
     },
     {
-      "file": "core_26.000_governance.md",
+      "file": "core_27.000_governance.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_27.000_non_regression.md",
+      "file": "core_28.000_non_regression.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_28.000_amendment_ratification.md",
+      "file": "core_29.000_amendment_ratification.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_29.000_expansion_supremacy.md",
+      "file": "core_30.000_expansion_supremacy.md",
       "label": "core",
       "status": "present"
     },
     {
-      "file": "core_30.000_incorporation.md",
+      "file": "core_31.000_incorporation.md",
       "label": "core",
       "status": "present"
     },
@@ -370,18 +375,18 @@
     {
       "id": "CJS-R17",
       "topic": "Cross-implementation trust integrity (joint operation model)",
-      "primary_owner": "**CJS-30.110 \u00a73 \u2014 Cross-implementation trust integrity**",
+      "primary_owner": "**CJS-31.110 \u00a73 \u2014 Cross-implementation trust integrity**",
       "primary_attach": [
-        "CJS-30.110 \u00a73"
+        "CJS-31.110 \u00a73"
       ]
     },
     {
       "id": "CJS-R18",
       "topic": "Class-scaled lane staffing and competency redundancy for materially binding stewardship",
-      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md), **CI-26.205**, **CI-4.215**, **CI-22.210**",
+      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md), **CI-27.205**, **CI-4.215**, **CI-22.210**",
       "primary_attach": [
         "CI-6.205",
-        "CI-26.205",
+        "CI-27.205",
         "CI-4.215",
         "CI-22.210"
       ]
@@ -397,9 +402,9 @@
     {
       "id": "CJS-R20",
       "topic": "Remedy parity and lock-to-remedy capacity",
-      "primary_owner": "[**CI-24.210**](../corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md)",
+      "primary_owner": "[**CI-25.210**](../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md)",
       "primary_attach": [
-        "CI-24.210"
+        "CI-25.210"
       ]
     },
     {
@@ -421,9 +426,9 @@
     {
       "id": "CJS-R23",
       "topic": "Seat types, local role maps, and wrong-seat routing",
-      "primary_owner": "[**CI-26.205**](../corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md) (*CI-26.205 \u00a76 seat catalog \u2014 the nine seat types, their operational boundaries, and the wrong-seat rule; CI-26.205 \u00a75 role maps instantiate them*)",
+      "primary_owner": "[**CI-27.205**](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md) (*CI-27.205 \u00a76 seat catalog \u2014 the nine seat types, their operational boundaries, and the wrong-seat rule; CI-27.205 \u00a75 role maps instantiate them*)",
       "primary_attach": [
-        "CI-26.205"
+        "CI-27.205"
       ]
     }
   ],
@@ -463,10 +468,10 @@
     {
       "id": "CJS-R18",
       "topic": "Class-scaled lane staffing and competency redundancy for materially binding stewardship",
-      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md), **CI-26.205**, **CI-4.215**, **CI-22.210**",
+      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md), **CI-27.205**, **CI-4.215**, **CI-22.210**",
       "primary_attach": [
         "CI-6.205",
-        "CI-26.205",
+        "CI-27.205",
         "CI-4.215",
         "CI-22.210"
       ]
@@ -474,9 +479,9 @@
     {
       "id": "CJS-R20",
       "topic": "Remedy parity and lock-to-remedy capacity",
-      "primary_owner": "[**CI-24.210**](../corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md)",
+      "primary_owner": "[**CI-25.210**](../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md)",
       "primary_attach": [
-        "CI-24.210"
+        "CI-25.210"
       ]
     },
     {
@@ -490,9 +495,9 @@
     {
       "id": "CJS-R23",
       "topic": "Seat types, local role maps, and wrong-seat routing",
-      "primary_owner": "[**CI-26.205**](../corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md) (*CI-26.205 \u00a76 seat catalog \u2014 the nine seat types, their operational boundaries, and the wrong-seat rule; CI-26.205 \u00a75 role maps instantiate them*)",
+      "primary_owner": "[**CI-27.205**](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md) (*CI-27.205 \u00a76 seat catalog \u2014 the nine seat types, their operational boundaries, and the wrong-seat rule; CI-27.205 \u00a75 role maps instantiate them*)",
       "primary_attach": [
-        "CI-26.205"
+        "CI-27.205"
       ]
     }
   ]

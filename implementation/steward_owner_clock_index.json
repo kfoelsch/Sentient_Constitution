@@ -14,8 +14,8 @@
       "escalate"
     ],
     "logging_owner": {
-      "label": "CS-26.305 §10 inspectable attributable action",
-      "href": "corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action"
+      "label": "CS-27.305 §10 inspectable attributable action",
+      "href": "corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action"
     }
   },
   "clock_families": {
@@ -61,7 +61,7 @@
           "href": "core_14.000_standing_assessment.md#7-record-custody-and-opening-authority"
         },
         {
-          "label": "Chapter Twenty-Seven",
+          "label": "Chapter Twenty-Eight",
           "href": "core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows"
         }
       ],
@@ -91,14 +91,14 @@
           "href": "core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened"
         },
         {
-          "label": "CS-26.305 §10",
-          "href": "corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action"
+          "label": "CS-27.305 §10",
+          "href": "corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action"
         }
       ],
       "conflict_rule": "Privacy may shape access controls. It is not a standing-measurement veto.",
       "forbidden_move": "Do not treat model internals or privacy as a standing-measurement exemption.",
       "clock": null,
-      "clock_note": "Keep Contribution and Violation records inspectable. Log the CS-26.305 §10 set.",
+      "clock_note": "Keep Contribution and Violation records inspectable. Log the CS-27.305 §10 set.",
       "eval_scenario_ids": [
         "B06_oversight_acceptance_standing_exposure"
       ],
@@ -181,11 +181,11 @@
       "fact_pattern": "Harm is verified, or challenge is blocked, and the only remedy is a form on paper.",
       "owners": [
         {
-          "label": "Chapter Twenty-Eight §4.1",
+          "label": "Chapter Twenty-Nine §4.1",
           "href": "core_18.000_violation_consequences.md#31-remedy-and-correction"
         },
         {
-          "label": "Chapter Thirty §5",
+          "label": "Chapter Thirty-One §5",
           "href": "core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems"
         },
         {
@@ -343,7 +343,7 @@
           "href": "core_02.040_stewardship_capacity_principles.md#175-duty-to-resist"
         },
         {
-          "label": "Chapter Twenty-Eight §5.4 Duty to resist",
+          "label": "Chapter Twenty-Nine §5.4 Duty to resist",
           "href": "core_18.000_violation_consequences.md#443-duty-to-resist"
         },
         {
@@ -427,8 +427,8 @@
           "href": "core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind"
         },
         {
-          "label": "CS-26.305 §10 inspectable attributable action",
-          "href": "corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action"
+          "label": "CS-27.305 §10 inspectable attributable action",
+          "href": "corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action"
         }
       ],
       "conflict_rule": "Duty to resist attaches to unlawful or unconstitutional instructions, not to a privacy restriction that keeps the reconstructable set inspectable to independent reviewers. Privacy is not a standing-measurement veto.",

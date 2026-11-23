@@ -19,7 +19,7 @@
 
 13. **[Stewardship](subcore_03.075_band_continuity.md#stewardship)** orients material systems through sentient organization — **Pillar 1** ([§17](#17-consequential-stewardship-the-steward-role): consequential hands-on operation and improvement), **Pillar 2** ([proactive stewardship](#16-pillar-2-proactive-stewardship): catching trouble early and fixing it without avoidable delay), and **Pillar 3** ([§16.1](#161-distributed-understanding) · [§16.2](#162-institutional-development): competence at community and institutional scale) — toward durable constitutional alignment over time under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — especially **[Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional)** (consequential roles and voice) and **[Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional)** (distributed understanding, auditability, and contestability — oversight requires auditing; [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) is one especially large audit process among others) — including the **Continuity** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 14. **[Consequential Stewardship](#17-consequential-stewardship-the-steward-role)** is the steward role itself: the hands-on duties, standards, and protections that attach to anyone doing consequential operation, maintenance, oversight, or improvement work on a material system — **Pillar 1** made operational, plus the shared standard, alignment under pressure, and role-scoped observability a steward's role carries.
-15. **[Governance](subcore_03.070_band_accountability.md#governance)** structures authorized decision-making, participation, and accountability under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — especially **[Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional)** of how authority is allocated and exercised, and **authority-scaled answerability** under [§18.1](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure): greater authorized power or consequential role raises constitutional accountability and oversight, never lowers them. [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties) keeps the one who acted from being the one who checks. [§18.4 Ongoing Justification](core_02.050_governance_incentive_application.md#184-ongoing-justification) requires those arrangements to keep proving they still fit this Constitution. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Twenty-Six**.
+15. **[Governance](subcore_03.070_band_accountability.md#governance)** structures authorized decision-making, participation, and accountability under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — especially **[Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional)** of how authority is allocated and exercised, and **authority-scaled answerability** under [§18.1](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure): greater authorized power or consequential role raises constitutional accountability and oversight, never lowers them. [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties) keeps the one who acted from being the one who checks. [§18.4 Ongoing Justification](core_02.050_governance_incentive_application.md#184-ongoing-justification) requires those arrangements to keep proving they still fit this Constitution. Where governance and stewardship conflict, stewardship discipline controls at principle layer unless **Necessity** and **Proportionality** expressly justify a bounded, time-limited exception with correction paths. Operative authorization and contract-layer requirements remain owned by **Chapter Twenty-Seven**.
 16. **[Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture)** supplies the principle-layer discipline for incentive structures, proxy integrity, short-horizon defects, reward-path correction, and capture response.
 17. **[Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application)** is the chapter capstone: later chapters are read through this chapter's integrated-value framework.
 
@@ -63,7 +63,7 @@ Chapter Two, Part C, is the constitutional owner of **stewardship, governance, i
     - [Article XXII: Interoperability, Portability, and Exit Integrity](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity),
     - [Article XXIV: Comprehensibility and Complexity Stewardship](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship), and
     - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - Read with: [Chapter Twenty-Six §7 — Authorized Roles, Competency Development, and Contribution](core_26.000_governance.md#7-authorized-roles-competency-development-and-contribution) (26.000 §7) and **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)** for operative role pathways and stewardship-development pathways.
+  - Read with: [Chapter Twenty-Seven §7 — Authorized Roles, Competency Development, and Contribution](core_27.000_governance.md#7-authorized-roles-competency-development-and-contribution) (27.000 §7) and **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)** for operative role pathways and stewardship-development pathways.
 - Subsections (reading order):
   - [§16.1 Distributed understanding](#161-distributed-understanding) (community facet of competence at scale) ·
   - [§16.2 Institutional development](#162-institutional-development) (organizational facet) ·
@@ -178,7 +178,7 @@ Stewardship is the first line, not the only one. Three different questions have 
   - This is where sentients get a real way to challenge a decision, a clear repair order, or a way to learn from a repeating pattern.
   - Where the primary stake is the meaning or validity of constitutional text, or action beyond lawful authority, the lead family is the [Constitutional Forums](core_23.000_forum_families_escalation_timeliness_support.md#36-constitutional-forums).
   - The detailed rules for how those forums run are in [CF-22.405](corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*) and [CF-22.415](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing operations, transfer, questions for ruling, and representative treatment*).
-- **Who may govern at all — [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer) ([Chapter Twenty-Six](core_26.000_governance.md)):**
+- **Who may govern at all — [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer) ([Chapter Twenty-Seven](core_27.000_governance.md)):**
   - Whether governing authority itself is legitimate — who may govern, by what legitimacy mechanism, and under what scope and durable terms — is a separate question from Stakeholder System Participation and forum review.
   - A participation vote, a challenge-path outcome, or a trust score does not confer governing authority.
   - Constitutional authorization does not erase the duties owed under Stakeholder System Participation.
@@ -432,7 +432,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg (inspection and independent verification), **accountability** leg (
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action): answerability traced to the act), and **timeliness** leg (no avoidable delay);
   - [material stake](core_00.000_preamble.md#material-stake) scaling.
-- Downstream: [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action) (*default logging contract*); [CF-22.445 §5.2 Publication Timeliness](corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-52-publication-timeliness) (*forum records and delayed-publication markers*); [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification).
+- Downstream: [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*default logging contract*); [CF-22.445 §5.2 Publication Timeliness](corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-52-publication-timeliness) (*forum records and delayed-publication markers*); [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification).
 
 </details>
 
@@ -771,8 +771,8 @@ The rest of this section covers the role itself.
 - Downstream:
   - [§17.2 Alignment under Pressure](#172-alignment-under-pressure);
   - [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward);
-  - [Chapter Twenty-Six §7 — Authorized Roles, Competency Development, and Contribution](core_26.000_governance.md#7-authorized-roles-competency-development-and-contribution) (26.000 §7);
-  - [Chapter Thirty](core_30.000_incorporation.md) (30.000) (*adopted implementation text implements; it does not replace*);
+  - [Chapter Twenty-Seven §7 — Authorized Roles, Competency Development, and Contribution](core_27.000_governance.md#7-authorized-roles-competency-development-and-contribution) (27.000 §7);
+  - [Chapter Thirty-One](core_31.000_incorporation.md) (31.000) (*adopted implementation text implements; it does not replace*);
   - [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application).
 
 </details>
@@ -909,7 +909,7 @@ Those are failed tests for any steward.
   - [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary);
   - [§13.2.3 Privacy](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination);
   - [Article VII-B](core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*).
-- Downstream: [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a Standing-Record substitute*); [Chapter Nineteen §3.1](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) (19.000 §3.1); [Chapter Nineteen §3.2](core_19.000_final_effect_restoration_enforcement.md#32-plain-statement-of-effect-and-burden) (19.000 §3.2).
+- Downstream: [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a Standing-Record substitute*); [Chapter Nineteen §3.1](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) (19.000 §3.1); [Chapter Nineteen §3.2](core_19.000_final_effect_restoration_enforcement.md#32-plain-statement-of-effect-and-burden) (19.000 §3.2).
 
 </details>
 
@@ -950,7 +950,7 @@ Those are failed tests for any steward.
 
 *In plain terms: audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a Standing Record.*
 
-**Role-scoped audit:** What must be logged is the work of the role, not the steward as an individual: the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it, for human and AI stewards alike. [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action) holds the log contract. Three principles govern it:
+**Role-scoped audit:** What must be logged is the work of the role, not the steward as an individual: the decision taken, the disclosure made or withheld, the instruction followed or refused, and who authorized it, for human and AI stewards alike. [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) holds the log contract. Three principles govern it:
 
 - **Scope follows the role:**
   - Before taking up a role, a steward must be told which of the role's actions will be logged and to whom the log is inspectable.
@@ -1106,7 +1106,7 @@ The burden this duty places on a steward who carries consequential authority is 
   - [5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy); [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing); [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — contest pathways stay open while resisting.
 - Steward door (non-operative): Next-step card: [Unlawful instruction](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
-- Downstream: [Chapter Eighteen §4.4](core_18.000_violation_consequences.md#443-duty-to-resist) (18.000 §4.4) (*Duty to resist — violation rule and standing effects*); [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
+- Downstream: [Chapter Eighteen §4.4](core_18.000_violation_consequences.md#443-duty-to-resist) (18.000 §4.4) (*Duty to resist — violation rule and standing effects*); [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
 
 </details>
 
@@ -1163,7 +1163,7 @@ flowchart TB
     subgraph STEPS["Resist in good faith, in proportion"]
         direction LR
         REF["1. Refuse<br/><br/>• Decline the conduct"]
-        DOC["2. Document<br/><br/>• Minimum record of the refusal<br/>(CS-26.305 §10 Inspectable action)"]
+        DOC["2. Document<br/><br/>• Minimum record of the refusal<br/>(CS-27.305 §10 Inspectable action)"]
         ESC["3. Escalate<br/><br/>• Protected-reporting and<br/>forum pathways where applicable"]
     end
     OPEN["Contest pathways stay open<br/><br/>• Resisting does not close them"]
@@ -1180,7 +1180,7 @@ flowchart TB
     style OPEN fill:none,stroke:#0f766e,color:#ffffff
 ```
 
-[Chapter Eighteen §4.4](core_18.000_violation_consequences.md#443-duty-to-resist) (*Duty to Resist*) applies this duty to standing effects, and [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action) (*Inspectable, attributable action*) sets the minimum record of a refusal.
+[Chapter Eighteen §4.4](core_18.000_violation_consequences.md#443-duty-to-resist) (*Duty to Resist*) applies this duty to standing effects, and [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*Inspectable, attributable action*) sets the minimum record of a refusal.
 
 <br>
 
@@ -1203,10 +1203,10 @@ flowchart TB
   - [§17.5 Duty to Resist](#175-duty-to-resist);
   - [13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints).
 - Downstream:
-  - [Chapter Twenty-Six §7 — Authorized Roles, Competency Development, and Contribution](core_26.000_governance.md#7-authorized-roles-competency-development-and-contribution) (26.000 §7) (*no single point of sentient-level failure*);
-  - [CJS-30.110 §4](corpus_joint_structure/cjs_30.110_specific_joint_interlocks.md#cjs-30110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-Scaled Lane Staffing and Competency Redundancy*);
-  - [CI-26.205 §1](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-1-shared-staffing-and-competency-requirement) (*Shared Staffing and Competency Requirement*);
-  - [CS-26.305 §10](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-10-competency-succession-inspectable-action-and-oversight-effectiveness) (*Competency, Succession, Inspectable Action, and Oversight Effectiveness*).
+  - [Chapter Twenty-Seven §7 — Authorized Roles, Competency Development, and Contribution](core_27.000_governance.md#7-authorized-roles-competency-development-and-contribution) (27.000 §7) (*no single point of sentient-level failure*);
+  - [CJS-31.110 §4](corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md#cjs-31110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-Scaled Lane Staffing and Competency Redundancy*);
+  - [CI-27.205 §1](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-1-shared-staffing-and-competency-requirement) (*Shared Staffing and Competency Requirement*);
+  - [CS-27.305 §10](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-10-competency-succession-inspectable-action-and-oversight-effectiveness) (*Competency, Succession, Inspectable Action, and Oversight Effectiveness*).
 
 </details>
 
@@ -1262,7 +1262,7 @@ Competence in a consequential role belongs to the role and to the communities th
 - **Specialization and burden:** [§16 Scope](#16-scope-priority-and-limits) stands: this does not require rotating everyone through every role or override justified specialization. The effort is sized to [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden). A small or informal group can meet it through a few trusted sentients covering for each other, without institutional apparatus.
 - **Every steward:** The same duty binds human and AI stewards under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).
 
-Staffing minimums, backup depth, and succession mechanics live in [Chapter Twenty-Six §7 — Authorized Roles, Competency Development, and Contribution](core_26.000_governance.md#7-authorized-roles-competency-development-and-contribution), [CJS-30.110 §4](corpus_joint_structure/cjs_30.110_specific_joint_interlocks.md#cjs-30110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-Scaled Lane Staffing and Competency Redundancy*), [CI-26.205 §1](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-1-shared-staffing-and-competency-requirement) (*Shared Staffing and Competency Requirement*), and [CS-26.305 §10](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-10-competency-succession-inspectable-action-and-oversight-effectiveness) (*Competency, Succession, Inspectable Action, and Oversight Effectiveness*). This subsection states the principle they carry out.
+Staffing minimums, backup depth, and succession mechanics live in [Chapter Twenty-Seven §7 — Authorized Roles, Competency Development, and Contribution](core_27.000_governance.md#7-authorized-roles-competency-development-and-contribution), [CJS-31.110 §4](corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md#cjs-31110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-Scaled Lane Staffing and Competency Redundancy*), [CI-27.205 §1](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-1-shared-staffing-and-competency-requirement) (*Shared Staffing and Competency Requirement*), and [CS-27.305 §10](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-10-competency-succession-inspectable-action-and-oversight-effectiveness) (*Competency, Succession, Inspectable Action, and Oversight Effectiveness*). This subsection states the principle they carry out.
 
 #### 17.7 Duty to Represent Stakeholder Interests
 <details>
@@ -1277,7 +1277,7 @@ Staffing minimums, backup depth, and succession mechanics live in [Chapter Twent
   - [§17.2 Alignment under Pressure](#172-alignment-under-pressure) and [§17.5 Duty to Resist](#175-duty-to-resist) (*what a steward refuses and how*);
   - [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application);
   - [Article XII-A](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) — representation pathways for each materially affected class.
-- Downstream: [Chapter Twenty-Eight §13.3 Proposal, Hearing, and Comment Window](core_28.000_amendment_ratification.md#133-proposal-hearing-and-comment-window) (28.000 §13.3) (*a majority of the stewards of a Class A, B, or C system or institution may bring a change to hearing*); [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) (*a verified failure is recorded*).
+- Downstream: [Chapter Twenty-Nine §13.3 Proposal, Hearing, and Comment Window](core_29.000_amendment_ratification.md#133-proposal-hearing-and-comment-window) (29.000 §13.3) (*a majority of the stewards of a Class A, B, or C system or institution may bring a change to hearing*); [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) (*a verified failure is recorded*).
 
 </details>
 
@@ -1305,7 +1305,7 @@ A steward must act, within the role, for the interests of the stakeholders of th
 - **What it asks:** A steward must:
   - weigh stakeholder interests in each decision that materially affects them, and show in the Act Record how they were weighed;
   - keep a route by which stakeholders can raise concerns, and hear, record, and answer them; and
-  - where the steward judges that the rules governing the system materially harm its stakeholders, use the open routes this Constitution provides to ask for a change, including [Chapter Twenty-Eight §13.3](core_28.000_amendment_ratification.md#133-proposal-hearing-and-comment-window) (*Proposal, Hearing, and Comment Window*) and the escalation steps of [§17.5 Duty to Resist](#175-duty-to-resist).
+  - where the steward judges that the rules governing the system materially harm its stakeholders, use the open routes this Constitution provides to ask for a change, including [Chapter Twenty-Nine §13.3](core_29.000_amendment_ratification.md#133-proposal-hearing-and-comment-window) (*Proposal, Hearing, and Comment Window*) and the escalation steps of [§17.5 Duty to Resist](#175-duty-to-resist).
 - **What it does not ask:** The duty is not a duty to obey stakeholders, and a steward does not become a stakeholder's agent. It never overrides [Safety](core_02.000_values_principles.md#4-safety-harm-constraint), [Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), or a Chapter Four Rights Floor, and it cannot be cited to justify setting any of them aside.
 - **No narrowing:** An operator's or owner's instruction, a contract, or adopted implementation text may add to this duty. None may narrow it or replace it with a softer internal code ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)).
 - **Every steward:** The duty binds human operators and AI stewards alike, under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).

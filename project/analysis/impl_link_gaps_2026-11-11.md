@@ -24,12 +24,12 @@
 | 16 | 2 | 2 | 0 | 0 | 0 | 0 |
 | 20 | 2 | 0 | 0 | 0 | 2 | 1 |
 
-Totals: 69 files; trace 25, body only 14, ID only 5, none in home chapter 27 (12 named by no core file).
+Totals: 69 files; trace 25, body only 14, ID only 5, none in home chapter 28 (12 named by no core file).
 
 ## Named by ID but never linked (5)
 
 - Core home 05: CJS-5.110, CJS-5.135
-- Core home 13: CI-19.210, CI-25.205
+- Core home 13: CI-19.210, CI-26.205
 - Core home 15: CF-23.410
 
 ## Named by no core file at all (12)

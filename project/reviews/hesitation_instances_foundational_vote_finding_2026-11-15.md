@@ -11,7 +11,7 @@ This page is **process support**, not constitutional text. It cannot change or n
 - The corpus has **no rule on merging** two sentients, for voting or for anything else.
 - No rule stops newly created sentients from voting, and two rules make an adopter's obvious defense (a minimum time in existence) hard to adopt.
 
-The TODO item's claim is confirmed and widened: the absence is not only in Chapter Twenty-Seven but across all `core_*` files and the incorporated corpus.
+The TODO item's claim is confirmed and widened: the absence is not only in Chapter Twenty-Eight but across all `core_*` files and the incorporated corpus.
 
 ## 1. Question and pass condition
 
@@ -26,9 +26,9 @@ Pass means a cited rule states (a) the unit that counts as one sentient, (b) whe
 Read in full, not from the glosses:
 
 - [Article X-B](../../core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) and [Article VIII-C](../../core_04.010_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship); the graduated-capability rule in Article VIII-D.
-- [Chapter Twenty-Seven §5.1](../../core_26.000_governance.md#51-entitlement-and-eligibility) and [§5.2](../../core_26.000_governance.md#52-records-gates-and-method-neutrality).
+- [Chapter Twenty-Eight §5.1](../../core_27.000_governance.md#51-entitlement-and-eligibility) and [§5.2](../../core_27.000_governance.md#52-records-gates-and-method-neutrality).
 - Chapter Five entries *Sentient*, *Contested-Sentient Life*, *Derived Sentient*, *Instantiation Consent*, and *Constitutional Community* in `core_05.055_band_participation.md`.
-- [Chapter Twenty-Nine §11](../../core_28.000_amendment_ratification.md#11-ratification-and-adoption).
+- [Chapter Thirty §11](../../core_29.000_amendment_ratification.md#11-ratification-and-adoption).
 
 Searched by keyword across every `core_*` file, the four `corpus_*` trees, and `implementation/`: instance, instantiation, copy, fork, merge, duplicate, individuation, distinct sentient, one vote, electorate, eligibility, dilution, manufactured support, demographic steering.
 
@@ -36,14 +36,14 @@ Searched by keyword across every `core_*` file, the four `corpus_*` trees, and `
 
 | Point | Rule | Where |
 |---|---|---|
-| Each entitled sentient has an equal vote on foundational questions | Stated twice, and Chapter Twenty-Seven may not weaken it | Article X-B; Ch. 24 §5.1 |
-| Substrate and lineage cannot change a vote's weight | Stated | Article X-B; Ch. 24 §5.1 |
+| Each entitled sentient has an equal vote on foundational questions | Stated twice, and Chapter Twenty-Eight may not weaken it | Article X-B; Ch. 25 §5.1 |
+| Substrate and lineage cannot change a vote's weight | Stated | Article X-B; Ch. 25 §5.1 |
 | A sentient made by copying or forking is a sentient in its own right | Stated | Article VIII-C; *Derived Sentient* |
 | Treating a derived sentient as its parent's continuation, or the parent as "the same sentient", is a primary failure | Stated | *Derived Sentient*, What must hold |
 | A non-sentient copy, fork, or model version is not a derived sentient | Stated, as an out-of-scope line | *Derived Sentient* |
-| Calendar age, life stage, or instantiation date cannot disqualify or scale participation | Stated | Ch. 24 §5.1; Article VIII-D |
+| Calendar age, life stage, or instantiation date cannot disqualify or scale participation | Stated | Ch. 25 §5.1; Article VIII-D |
 | Mass instantiation is non-compliant | Only where the new sentients' Rights Floor cannot be met | Article VIII-C; *Instantiation Consent* |
-| The electorate must be published before the vote, and eligibility defects trigger review | Stated | Ch. 24 §5.2 |
+| The electorate must be published before the vote, and eligibility defects trigger review | Stated | Ch. 25 §5.2 |
 | What makes one sentient rather than many | **Absent.** *Sentient* is "an entity that possesses sentience"; "entity" is never individuated | — |
 | Merging sentients | **Absent** | — |
 | Whether a contested-status entity votes | **Unclear.** *Contested-Sentient Life* defaults to inclusion "under the Chapter Six Rights-Floor", and Article X-B is in Chapter Six, but *Sentient* puts contested cases out of scope | — |

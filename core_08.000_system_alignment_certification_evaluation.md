@@ -159,7 +159,7 @@ As an oversight mechanism, certification is one especially large audit process u
 - It may integrate the results of sibling audit modes, and it does not absorb or replace them. Each keeps its own owner, named in the [sibling audit modes map](corpus_joint_structure/cjs_03.115_audit_process.md#sibling-audit-modes-owner-map) of the audit process home:
   - System Data Types Record audits under **Subcore 4-A** (*Data Types*)
   - System Classification Record audits under **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*)
-  - steward assurance reviews under **CS-26.305** (*Critical system stewardship*)
+  - steward assurance reviews under **CS-27.305** (*Critical system stewardship*)
   - continuous audit under **CS-4.345** (*System lifecycle*) ACA
   - complexity audits under **CS-4.315** (*Comprehensibility and Complexity Stewardship*) and **Article XXIV-B** (*Complexity Audit and Modularity Requirements*)
   - claim verification under **CJS-3.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*)
@@ -537,7 +537,7 @@ To assess governance, incentives, and contestability, certification must apply t
 - **[Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline)** — authorized governance and answerability;
 - **[Chapter Two §19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture)** — proxy integrity, short-horizon defect correction, and capture response, including:
   - **[Chapter Two §19.1.4 Role-Depth and Material-Responsibility Pathways](core_02.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways)** — roles that carry real consequence, and safeguards against symbolic participation;
-- **[Chapter Twenty-Six §7 Authorized Roles, Competency Development, and Contribution](core_26.000_governance.md#7-authorized-roles-competency-development-and-contribution)** and **[CS-26.305 — Critical system stewardship](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship)** — operative role-definition, competency, and traceability requirements where material;
+- **[Chapter Twenty-Seven §7 Authorized Roles, Competency Development, and Contribution](core_27.000_governance.md#7-authorized-roles-competency-development-and-contribution)** and **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)** — operative role-definition, competency, and traceability requirements where material;
 - **[Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification)** where audit, transparency, or independent-verification Rights Floors are materially at stake.
 
 **Institutional facts.** This section asks about the governance and incentives of the system's operator or steward. Where that operator or steward is an [Institution](subcore_03.075_band_continuity.md#institution), those facts are found once, in its Institutional Certification Record, rather than again for every system it runs. The following facts about the Institution may be taken by link from its current Institutional Certification Record under [Chapter Eleven §4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation):

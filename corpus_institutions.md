@@ -26,8 +26,8 @@ This page is the non-operative navigation home for the Institutions layer. The s
 - [Chapter Two](core_02.000_values_principles.md) principles ([Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), aims, material stake) scaled into institutional duties
 - [Chapter Three](core_03.000_definitions_home.md) definitions by reference — this layer does not redefine them
 - [Chapter Four](core_04.000_rights_part_a.md) Rights Floor themes where institutions must deliver accessible challenge and service pathways, remedy, care, health, and related floors
-- [Chapter Nineteen §5](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (*Enforcement Realism and Remedy Systems*) where **CI-24.210** (*Remedy systems and institutional redress capacity*) carries institutional redress capacity
-- [Chapter Twenty-Six](core_26.000_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics
+- [Chapter Nineteen §5](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (*Enforcement Realism and Remedy Systems*) where **CI-25.210** (*Remedy systems and institutional redress capacity*) carries institutional redress capacity
+- [Chapter Twenty-Seven](core_27.000_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics
 
 **Siblings:**
 
@@ -36,7 +36,7 @@ This page is the non-operative navigation home for the Institutions layer. The s
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
 - [Joint Structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Thirty](core_30.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Thirty-One](core_31.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Institutions index** below. Identifier rules remain in the [institutions registry](corpus_institutions/ci_00.205_registry_and_reading_rules.md).
 
@@ -47,7 +47,7 @@ This page is the non-operative navigation home for the Institutions layer. The s
 >
 > **Compatibility entrypoint:** this root file is the stable navigation wrapper for the institutions implementation file. Substantive CI text lives in the `corpus_institutions/` subfiles. Broad references to `corpus_institutions.md` continue to mean the institutions implementation file as a whole.
 >
-> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_institutions.md` is incorporated under Sentient Constitution Chapter Thirty. This wrapper is an index.
+> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_institutions.md` is incorporated under Sentient Constitution Chapter Thirty-One. This wrapper is an index.
 
 </details>
 
@@ -75,7 +75,7 @@ This page is the non-operative navigation home for the Institutions layer. The s
 | Stable family | Authoritative subfile |
 |---|---|
 | CI-6.205: Institutional Design, Separation of Powers, and Authority Custody | [ci_06.205_institutional_design_separation_of_powers.md](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md) |
-| CI-26.205: Appointment, Competency, Rotation, and Removal | [ci_26.205_appointment_competency_rotation_removal.md](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md) |
+| CI-27.205: Appointment, Competency, Rotation, and Removal | [ci_27.205_appointment_competency_rotation_removal.md](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md) |
 
 ### Integrity and Procedure
 
@@ -105,7 +105,7 @@ This page is the non-operative navigation home for the Institutions layer. The s
 | Stable family | Authoritative subfile |
 |---|---|
 | CI-18.210: Institutional Failure and Dissolution | [ci_18.210_institutional_failure_dissolution.md](corpus_institutions/ci_18.210_institutional_failure_dissolution.md) |
-| CI-24.205: Institutional Accountability and Sanctions | [ci_24.205_institutional_accountability_sanctions.md](corpus_institutions/ci_24.205_institutional_accountability_sanctions.md) |
+| CI-25.205: Institutional Accountability and Sanctions | [ci_25.205_institutional_accountability_sanctions.md](corpus_institutions/ci_25.205_institutional_accountability_sanctions.md) |
 | CI-4.275: Adoption Transition Governance and Institutional Evolution | [ci_04.275_adoption_transition_governance_institutional_evolution.md](corpus_institutions/ci_04.275_adoption_transition_governance_institutional_evolution.md) |
 
 ### Domain Interfaces — Care and Sentients
@@ -139,7 +139,7 @@ This page is the non-operative navigation home for the Institutions layer. The s
 | Stable family | Authoritative subfile |
 |---|---|
 | CI-0.215: Compliance Mapping and Stable Registry | [ci_00.215_compliance_mapping_stable_registry.md](corpus_institutions/ci_00.215_compliance_mapping_stable_registry.md) |
-| CI-24.210: Remedy Systems and Institutional Redress Capacity | [ci_24.210_remedy_systems_institutional_redress_capacity.md](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md) |
+| CI-25.210: Remedy Systems and Institutional Redress Capacity | [ci_25.210_remedy_systems_institutional_redress_capacity.md](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md) |
 <!-- END GENERATED FAMILY INDEX -->
 
 </details>

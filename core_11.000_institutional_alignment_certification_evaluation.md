@@ -204,7 +204,7 @@ A first Institutional Certification Record is due within a window the adopting d
 - **A missed window:** An Institution that lets the window run out without a first pass, and is not excused below, has a defect to log and correct, and the missed window opens that pass. An Institution of Class L or higher that is already operating also has the milestone failure below. The Institution is not stopped or barred from operating, since there is no gate ([§2.2 No Permission and No Gate on Forming or Running](#22-no-permission-and-no-gate-on-forming-or-running)).
   - **An Institution already operating:** This is this Chapter's own rule for Institutions of Class L or higher, set by analogy to [Article XXIX-A](core_04.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*), which names Systems and derived entities. If its Adoption Transition window ends and no first certification pass is complete (no provisional or full certification and no decided outcome under [§4 Certification Outcomes](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#4-certification-outcomes)), it has missed its deadline. An Institution that filed and cooperated inside the window has not missed it where the certification pass is incomplete because a forum overran its own time ([Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline), *Overrun review*; [Chapter Ten §4.3.4 Tier Windows](core_10.000_system_alignment_certification_records_recertification.md#434-tier-windows)) or because the one deferral under [§4.3 Remediation Readiness for an Institution](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#43-remediation-readiness-for-an-institution) is running. Unless it has a documented reauthorization showing under [Article XXIX-B](core_04.040_rights_part_e.md#article-xxix-b-adoption-transition-authority-limits-and-reauthorization) (*Adoption Transition Authority Limits and Reauthorization*), that is an Adoption Transition milestone failure, and the ordinary compliance and violation path in [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) opens. The restraint duties in that Article apply from the effective date, and the gap does not become the new normal by lasting. This mirrors [Chapter Nine §4.1.1 Systems Already Operating](core_09.000_system_alignment_certification_forum_process_outcomes.md#411-systems-already-operating). It is not a gate.
   - **The certification pass:** It is decided like any other. It can end in any outcome in [§4 Certification Outcomes](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#4-certification-outcomes), including Not Certified, with the effects in [§4.5 Effects of Denial and Revocation for an Institution](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation-for-an-institution).
-  - **Sanctions and dissolution:** This Chapter creates none. Suspension, receivership, structural separation, and dissolution stay with the forum with jurisdiction under **CI-18.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*). That forum receives a referral only on the referral grounds in [§4.5 Effects of Denial and Revocation for an Institution](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation-for-an-institution) (item 5, *Referral*).
+  - **Sanctions and dissolution:** This Chapter creates none. Suspension, receivership, structural separation, and dissolution stay with the forum with jurisdiction under **CI-18.210** (*Institutional failure and dissolution*) and **CI-25.205** (*Institutional accountability and sanctions*). That forum receives a referral only on the referral grounds in [§4.5 Effects of Denial and Revocation for an Institution](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation-for-an-institution) (item 5, *Referral*).
 
 <a id="3-institution-class-evaluation"></a>
 
@@ -254,7 +254,7 @@ The institution class scales the depth of evidence, the independence of the revi
 - **Class L:** the same eight items, simplified, with simpler records and a longer default certification interval where [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) allows. The core of a Class L pass is the Institutional Charter against practice, the Role Map, the formation check statement, and the currency of the cited System certifications. No item may be omitted, and an item with nothing to find is stated in a line.
 - **Class P:** voluntary, as [§2.1 Who Is Certified](#21-who-is-certified) states.
 
-**A host in a joint professional practice.** Where an Institution is a host ([**CI-26.205 §7**](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-46-seat-advisory) (*Practice Licence, Practice Clearance, and Joint Professional Practice*)), its certification also samples members' acts against the seats the host carries and reads the members' adoption notices against what the host does. A finding about one member's act is a finding about that member, and it reaches the host only where a seat the host carries failed.
+**A host in a joint professional practice.** Where an Institution is a host ([**CI-27.205 §7**](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-advisory) (*Practice Licence, Practice Clearance, and Joint Professional Practice*)), its certification also samples members' acts against the seats the host carries and reads the members' adoption notices against what the host does. A finding about one member's act is a finding about that member, and it reaches the host only where a seat the host carries failed.
 
 <a id="4-whole-institution-certification-evaluation"></a>
 
@@ -274,7 +274,7 @@ The institution class scales the depth of evidence, the independence of the revi
 - Read with:
   - **CI-6.205 §3** (*Authority Chain and Delegation Controls*) and **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*);
   - **CI-4.215** (*Resource stewardship and incentive integrity*);
-  - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-4.205** (*Transparency, participation, and accessible challenge and service pathways*), and **CI-24.210** (*Remedy systems and institutional redress capacity*), for item 8.
+  - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*), **CI-4.205** (*Transparency, participation, and accessible challenge and service pathways*), and **CI-25.210** (*Remedy systems and institutional redress capacity*), for item 8.
 
 </details>
 
@@ -313,7 +313,7 @@ The full tests for each item, and for the two further parts of [Chapter Eight §
   - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*);
   - **CI-4.205** (*Transparency, participation, and accessible challenge and service pathways*);
   - **CI-4.215** (*Resource stewardship and incentive integrity*);
-  - **CI-24.210** (*Remedy systems and institutional redress capacity*).
+  - **CI-25.210** (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -333,7 +333,7 @@ The institutional duties themselves are owned by adopted institutional text, inc
 - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*);
 - **CI-4.205** (*Transparency, participation, and accessible challenge and service pathways*);
 - **CI-4.215** (*Resource stewardship and incentive integrity*); and
-- **CI-24.210** (*Remedy systems and institutional redress capacity*).
+- **CI-25.210** (*Remedy systems and institutional redress capacity*).
 
 This Chapter cites them and does not restate them. Whether the Institution keeps them in fact is tested under [§4 Whole-Institution Certification Evaluation](#4-whole-institution-certification-evaluation) (item 8). An evaluation already made on a cited System Certification Record is not made again.
 

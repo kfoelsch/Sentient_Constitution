@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_28.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 
 </details>
 
@@ -51,7 +51,7 @@ See: [Article XXIV](../../../core_04.030_rights_part_d.md#article-xxiv-comprehen
 
 - A promise that every complaint wins, or that the other side is always wrong.
 - A markdown working group that calls itself independent review ([Chapter Two §17.4](../../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization)).
-- Enforcement against a host or office that has not agreed to follow this Constitution ([Chapter Thirty §5](../../../core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority)).
+- Enforcement against a host or office that has not agreed to follow this Constitution ([Chapter Thirty-One §5](../../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority)).
 
 ## If you want to look further
 
