@@ -88,19 +88,23 @@ Every tax, and every change to a tax, must pass these tests. The assembly states
 
 An assembly uses each design below unless it states in its Act Record why the design does not fit, and what it uses instead:
 
-- **Broad bases and low rates:** tax wide bases with few exclusions, so rates can stay low and the burden is widely shared.
-- **Few rates:** each tax has as few rates and brackets as its purpose allows. **Default:** no more than four rates for any one tax.
-- **A tax-free allowance:** a tax on income or on sentients exempts an amount at least equal to what a sentient needs to meet the [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*) floor where the taxpayer lives.
-- **Offset for consumption taxes:** a broad tax on sales or consumption is paired with a credit, rebate, or exemption that returns at least its cost on survival needs to those with the lowest incomes.
-- **Collection at the source:** tax is withheld or collected where money changes hands (wages, interest, dividends, sales), by the payer, rather than left to each taxpayer to calculate.
-- **Reporting by third parties:** those who pay income to others, such as employers, banks, and platforms, report it to the revenue office and to the recipient.
-- **Pre-filled returns:** where the revenue office already holds the information, it prepares the return and the taxpayer checks, corrects, or confirms it.
-- **One definition, used everywhere:** a term such as income, residence, or a business is defined once for the polity and used by every tax and every tier that taxes that base.
-- **Indexing:** allowances, brackets, and fixed amounts are adjusted each year by a published measure of prices, so inflation does not raise taxes without a vote.
-- **Taxes on land value:** where land is taxed, the tax falls on the value of the location rather than on buildings and improvements, so it does not discourage building or repair.
-- **Simple rules for small taxpayers:** small businesses and occasional sellers may use a simplified method, such as a tax on turnover below a published threshold, instead of full accounts.
-- **Stable rules:** tax rules change only on a published schedule, with the notice in [§8 Making and Changing Tax Rules](#8-making-and-changing-tax-rules).
-- **One place to deal with:** each taxpayer can register, file, pay, and contest every tax of every tier through one service, where tiers share a base or a collection channel.
+- **Bases and rates:**
+  - **Broad bases and low rates:** tax wide bases with few exclusions, so rates can stay low and the burden is widely shared.
+  - **Few rates:** each tax has as few rates and brackets as its purpose allows. **Default:** no more than four rates for any one tax.
+  - **Taxes on land value:** where land is taxed, the tax falls on the value of the location rather than on buildings and improvements, so it does not discourage building or repair.
+- **Protecting those with less:**
+  - **A tax-free allowance:** a tax on income or on sentients exempts an amount at least equal to what a sentient needs to meet the [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*) floor where the taxpayer lives.
+  - **Offset for consumption taxes:** a broad tax on sales or consumption is paired with a credit, rebate, or exemption that returns at least its cost on survival needs to those with the lowest incomes.
+- **Doing the work for taxpayers:**
+  - **Collection at the source:** tax is withheld or collected where money changes hands (wages, interest, dividends, sales), by the payer, rather than left to each taxpayer to calculate.
+  - **Reporting by third parties:** those who pay income to others, such as employers, banks, and platforms, report it to the revenue office and to the recipient.
+  - **Pre-filled returns:** where the revenue office already holds the information, it prepares the return and the taxpayer checks, corrects, or confirms it.
+  - **One place to deal with:** each taxpayer can register, file, pay, and contest every tax of every tier through one service, where tiers share a base or a collection channel.
+- **Simple and stable rules:**
+  - **One definition, used everywhere:** a term such as income, residence, or a business is defined once for the polity and used by every tax and every tier that taxes that base.
+  - **Simple rules for small taxpayers:** small businesses and occasional sellers may use a simplified method, such as a tax on turnover below a published threshold, instead of full accounts.
+  - **Indexing:** allowances, brackets, and fixed amounts are adjusted each year by a published measure of prices, so inflation does not raise taxes without a vote.
+  - **Stable rules:** tax rules change only on a published schedule, with the notice in [§8 Making and Changing Tax Rules](#8-making-and-changing-tax-rules).
 
 <a id="42-taxes-on-harm"></a>
 
