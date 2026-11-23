@@ -239,9 +239,8 @@ Forum families:
   - forensic and analytical support where this chapter assigns them.
 - require anti-self-judging backup routing, which sends a matter to an independent backup forum when the lead forum cannot judge it ([Ways a Matter Moves Between Forums](core_23.000_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums)). Those requirements must not substitute political control for judicial independence.
 - hold the four seats in a forum case in the way [§5.2 Seats in a Forum Case](#52-seats-in-a-forum-case) sets out.
-- **Integrity**, **Constitutional**, and **Environment** forums, and **Technical Forum Domains** when they hear sentience-status adjudication, require:
-  - **published**, **contested**, **rotatable** appointment or an equivalent independence check under [Chapter Twenty-Seven §3.2.5 Forum Appointment Independence Requirement](core_27.000_governance.md#325-forum-appointment-independence-requirement); and
-  - adequate appointment and funding, because under-appointment or underfunding of those benches is a [Chapter Nineteen §5 Enforcement Realism and Remedy Systems](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) failure.
+- are each an **Independent Body** under [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent), as [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) lists them, so their members are drawn by lot from those who pass a published competency gate, their funding is protected, and no one may direct how they decide ([Chapter Twenty-Seven §3.2.5 Forum Appointment Independence Requirement](core_27.000_governance.md#325-forum-appointment-independence-requirement)); and
+- must be appointed and funded adequately, because under-appointment or underfunding of a forum bench is a [Chapter Nineteen §5 Enforcement Realism and Remedy Systems](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) failure.
 
 <a id="322-incentives-and-non-substitution"></a>
 

@@ -146,6 +146,8 @@ Operational family inventory, local title flexibility, and non-collapse mechanic
 
 <a id="62-chambers"></a>
 
+Each family is an **Independent Body** under [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent), listed in [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates).
+
 Each family may use **internal chambers**, divisions, or designated panels; **family** boundaries still govern **appeal**, **questions for ruling**, and **primary-stakes** routing under **Chapter Twenty-Two section 4** and **section 4** of this chapter.
 
 The **subsections** **below** **follow** **section** **4**’s **default** **venue** **table** **order**. Local **titles** **may** **differ** under **CF-22.405** (*Forum Formation, Forum-Structure Mapping, and Chamber Structure*); **function** must not. When the **primary** stake leaves a family's allocation, **Chapter Twenty-Two sections 4 and 6** and **section 4** of this chapter govern routing, transfer, consolidation, certification, and backup — family definitions do not restate that matrix, except that **section 3.5** carries the Integrity family's own sequencing and lead-coordination role.
