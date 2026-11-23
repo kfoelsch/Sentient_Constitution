@@ -90,7 +90,7 @@ You do not have to read everything. Pick the time you have; each path builds on 
 
 <a id="the-full-text"></a><a id="how-to-read"></a><a id="core-files-by-topic"></a><a id="standing-pipeline-and-forums"></a>
 <details>
-<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–30</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–31</span></strong></summary>
 
 The Constitution is one document split into a Preamble and thirty chapters, with a subcore of detailed rules attached to some chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
 
@@ -114,13 +114,14 @@ The Constitution is one document split into a Preamble and thirty chapters, with
 | **Chapter 22**: [Forum](core_22.000_forum.md) · [Subcore 22-A forum intake and default venue](subcore_22.010_forum_intake_default_venue.md) · [Subcore 22-B forum case seats and contest routing](subcore_22.020_forum_case_seats_contest_routing.md) | Review bodies and hearings: standards, where a case starts, forum cases, and why no one may judge their own case |
 | **Chapter 23**: [Forum families and timely resolution](core_23.000_forum_families_escalation_timeliness_support.md) | The kinds of review body, escalation, deadlines, and support for those taking part |
 | [Worked examples for Chapters 14–21](corpus_joint_structure/cjs_14.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
-| **Chapter 24**: [Enforcement](core_24.000_enforcement.md) | How outcomes get carried out, and what stops them being dodged |
-| **Chapter 25**: [Special enforcement](core_25.000_special_enforcement.md) · [Subcore 25-A special enforcement procedure](subcore_25.010_special_enforcement_procedure.md) | Extra safeguards for freezing or seizing money or property, for anything that could turn violent, and for fixing why enforcement keeps failing |
-| **Chapter 26**: [Governance](core_26.000_governance.md) · [Subcore 26-A governance disclosure](subcore_26.010_governance_disclosure.md) · [Subcore 26-B selection funding](subcore_26.020_selection_funding.md) · [Subcore 26-C voting entitlement](subcore_26.030_voting_entitlement.md) · [Subcore 26-D sortition integrity](subcore_26.040_sortition_integrity.md) · [Subcore 26-E role holders and interpretive bodies](subcore_26.050_role_holders_interpretive_bodies.md) · [Subcore 26-F binding collective choice](subcore_26.060_binding_collective_choice.md) | Who may govern, and how that authority is granted and checked |
-| **Chapter 27**: [Non-regression](core_27.000_non_regression.md) | Protections can be strengthened but not rolled back |
-| **Chapter 28**: [Amendment and adoption](core_28.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
-| **Chapter 29**: [Supremacy and other laws](core_29.000_expansion_supremacy.md) | How it relates to local, national, and international law |
-| **Chapter 30**: [Incorporation](core_30.000_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
+| **Chapter 24**: [Assemblies](core_24.000_assemblies.md) | What local, regional, and national assemblies decide, how they decide, executives, community referendums, and typed emergencies |
+| **Chapter 25**: [Enforcement](core_25.000_enforcement.md) | How outcomes get carried out, and what stops them being dodged |
+| **Chapter 26**: [Special enforcement](core_26.000_special_enforcement.md) · [Subcore 26-A special enforcement procedure](subcore_26.010_special_enforcement_procedure.md) | Extra safeguards for freezing or seizing money or property, for anything that could turn violent, and for fixing why enforcement keeps failing |
+| **Chapter 27**: [Governance](core_27.000_governance.md) · [Subcore 27-A governance disclosure](subcore_27.010_governance_disclosure.md) · [Subcore 27-B selection funding](subcore_27.020_selection_funding.md) · [Subcore 27-C voting entitlement](subcore_27.030_voting_entitlement.md) · [Subcore 27-D sortition integrity](subcore_27.040_sortition_integrity.md) · [Subcore 27-E role holders and interpretive bodies](subcore_27.050_role_holders_interpretive_bodies.md) · [Subcore 27-F binding collective choice](subcore_27.060_binding_collective_choice.md) | Who may govern, and how that authority is granted and checked |
+| **Chapter 28**: [Non-regression](core_28.000_non_regression.md) | Protections can be strengthened but not rolled back |
+| **Chapter 29**: [Amendment and adoption](core_29.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
+| **Chapter 30**: [Supremacy and other laws](core_30.000_expansion_supremacy.md) | How it relates to local, national, and international law |
+| **Chapter 31**: [Incorporation](core_31.000_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
 
 <a id="chapter-three-files"></a>
 **All Chapter 3 files:**
@@ -155,8 +156,8 @@ The Constitution says *what* must happen and *why*. These four collections spell
 **Not yet.** This is a pre-release draft ([edition details ↑](#edition)). Here is what that means in practice:
 
 - **Reading it binds no one.** Opening this repository, or any page in it, is not adoption.
-- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 28](core_28.000_amendment_ratification.md#12-ratification-and-adoption) and [Chapter 30](core_30.000_incorporation.md).
-- **It does not override the law.** It does not replace local, national, or international law ([Chapter 29](core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
+- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 29](core_29.000_amendment_ratification.md#12-ratification-and-adoption) and [Chapter 31](core_31.000_incorporation.md).
+- **It does not override the law.** It does not replace local, national, or international law ([Chapter 30](core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
 <a id="binding-vs-support"></a>
 <details>
@@ -164,7 +165,7 @@ The Constitution says *what* must happen and *why*. These four collections spell
 
 | Material | What it is | Status |
 |---|---|---|
-| **The Constitution text**: the Preamble and Chapters 1–30 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
+| **The Constitution text**: the Preamble and Chapters 1–31 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
 | **The subcore**: the `subcore_*` files, each attached to one chapter ([list ↑](#the-full-text)) | The full detail of rules that must be the same everywhere, kept out of the chapters so they stay readable | Part of the Constitution text: binds exactly as its chapter does, and changes only by amendment. A cite that begins "Chapter Ten" points to fixed guarantee text, and one that begins "Subcore 10-A" to standardized detail; both have the same force |
 | **Implementation details**: the `corpus_*` files and folders ([list ↑](#implementation-files)) | Step-by-step detail on *how* to carry out what the Constitution requires | Binding only inside an organization that has adopted it; still being developed |
 | **Everything else**: this page, guides, overviews, summaries, and translations | Help for readers | Never binding, and cannot change the meaning of the Constitution |
@@ -192,12 +193,12 @@ If any of these disagree, **the Constitution text wins**.
 
 The numbered `core_*` files state **why** and **what**. The implementation files state **how** — taxonomies, protocols, institutions, forum operations, and joint interlocks. They **apply** Chapter Three terms; they do not redefine them or invent parallel rights. Designated obligations in these files are **binding implementation text incorporated by reference** under valid adoption. They do **not** create a second constitutional source.
 
-- [corpus_joint_structure.md](corpus_joint_structure.md): cross-implementation joint structure (CJS-30.110 interlocks, CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*) operational cluster library, CJS-0.105 §1 topic router)
-- [corpus_systems.md](corpus_systems.md): systems implementation (Subcore 4-A information types, CS-8.305 and Subcore 8-A system classification, CS-26.305 critical stewardship, named protocols)
+- [corpus_joint_structure.md](corpus_joint_structure.md): cross-implementation joint structure (CJS-31.110 interlocks, CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*) operational cluster library, CJS-0.105 §1 topic router)
+- [corpus_systems.md](corpus_systems.md): systems implementation (Subcore 4-A information types, CS-8.305 and Subcore 8-A system classification, CS-27.305 critical stewardship, named protocols)
 - [corpus_institutions.md](corpus_institutions.md): institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
 - [corpus_forum.md](corpus_forum.md): forum operations (panel formation, recusal, review lanes, continuity, emergency adjudication)
 
-Operative enforcement within any adopter depends on valid adoption under Chapter Twenty-Eight (ratification) and Chapter Thirty (incorporation and custody). Substantive content stands as stated regardless of adoption; "this Constitution lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Thirty §5](core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority).
+Operative enforcement within any adopter depends on valid adoption under Chapter Twenty-Nine (ratification) and Chapter Thirty-One (incorporation and custody). Substantive content stands as stated regardless of adoption; "this Constitution lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Thirty-One §5](core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority).
 
 **Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Chapter One owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), and [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](subcore_03.080_band_integrative.md#constitutional-constraint).
 
@@ -218,21 +219,21 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Lock checks across adopters, and how remedy systems are kept funded: [Subcore 19-A](subcore_19.010_cross_adopter_checks_remedy_durability.md)
 - The eight-step processing order for standing decisions, and what the integration record shows: [Subcore 16-A](subcore_16.010_integration_record_processing_order.md)
 - How contribution fades over time, and the full rules for competency bars and clearances: [Subcore 17-A](subcore_17.010_recency_competency_clearance.md)
-- The force ladder, freezes and seizure, and the death-review steps: [Subcore 25-A](subcore_25.010_special_enforcement_procedure.md)
-- What every institution's governance report must contain: [Subcore 26-A](subcore_26.010_governance_disclosure.md)
-- The disclosure register, default caps and limits, and outcome-review measures for selection funding: [Subcore 26-B](subcore_26.020_selection_funding.md)
-- How the voting residence period is counted, the political-equality floor, and restoring a withheld vote: [Subcore 26-C](subcore_26.030_voting_entitlement.md)
-- What a sortition (lottery) mechanism must publish and protect: [Subcore 26-D](subcore_26.040_sortition_integrity.md)
-- Who may hold an institution's roles, how they are removed, post-service limits, and how interpretive bodies are composed: [Subcore 26-E](subcore_26.050_role_holders_interpretive_bodies.md)
-- What must be published before a binding vote, how results are checked, and the process for binding stakeholder choices: [Subcore 26-F](subcore_26.060_binding_collective_choice.md)
+- The force ladder, freezes and seizure, and the death-review steps: [Subcore 26-A](subcore_26.010_special_enforcement_procedure.md)
+- What every institution's governance report must contain: [Subcore 27-A](subcore_27.010_governance_disclosure.md)
+- The disclosure register, default caps and limits, and outcome-review measures for selection funding: [Subcore 27-B](subcore_27.020_selection_funding.md)
+- How the voting residence period is counted, the political-equality floor, and restoring a withheld vote: [Subcore 27-C](subcore_27.030_voting_entitlement.md)
+- What a sortition (lottery) mechanism must publish and protect: [Subcore 27-D](subcore_27.040_sortition_integrity.md)
+- Who may hold an institution's roles, how they are removed, post-service limits, and how interpretive bodies are composed: [Subcore 27-E](subcore_27.050_role_holders_interpretive_bodies.md)
+- What must be published before a binding vote, how results are checked, and the process for binding stakeholder choices: [Subcore 27-F](subcore_27.060_binding_collective_choice.md)
 - Which forum hears a case first (intake desk and default venue table): [Subcore 22-A](subcore_22.010_forum_intake_default_venue.md)
 - Who sits on a forum case, and where each kind of challenge goes: [Subcore 22-B](subcore_22.020_forum_case_seats_contest_routing.md)
 - Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Six; the required lanes: [Subcore 6-A](subcore_06.010_constitutional_lanes.md)
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00.000_preamble.md#the-model)
 - Auditing and independent verification: Article XVII is the floor; Chapter Three [Auditability](subcore_03.085_band_oversight.md#auditability) is the property; [CJS-3.115 §3](corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3) is how and when; Chapter Eight is one large process that uses that stack
 - Duty to resist unlawful or unconstitutional instructions: [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)
-- Remedy systems and enforcement realism: Chapter Nineteen §5; implementation in CI-24.210
-- Relation to local, national, and international law: [Chapter Twenty-Nine §7](core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)
+- Remedy systems and enforcement realism: Chapter Nineteen §5; implementation in CI-25.210
+- Relation to local, national, and international law: [Chapter Thirty §7](core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)
 
 ### Editor and Operator Resources
 
@@ -249,7 +250,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - AI lookup CLI (locators point, source binds): [ai_corpus/AI_NAVIGATION_GUIDE.md](ai_corpus/AI_NAVIGATION_GUIDE.md), `python3 tools/corpus_lookup.py`, and [AGENTS.md](AGENTS.md)
 - Generated reader files (non-binding): [plain-terms edition](doc_architecture/generated/plain_terms_edition.md), [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md) via `make reader-accessibility`, [human definition lookup](doc_architecture/generated/human_definition_lookup.md)
 
-Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Three *Corpus*](subcore_03.080_band_integrative.md#corpus) and [Chapter Thirty](core_30.000_incorporation.md).
+Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Three *Corpus*](subcore_03.080_band_integrative.md#corpus) and [Chapter Thirty-One](core_31.000_incorporation.md).
 
 </details>
 

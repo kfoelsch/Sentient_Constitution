@@ -1,6 +1,6 @@
 # Governance disclosure template
 
-**Maps to:** `corpus_institutions.md` **CI-4.205** (*Transparency, participation, accessible challenge and service pathways*), [Subcore 26-A §3 Governance Disclosure Report](../subcore_26.010_governance_disclosure.md#3-governance-disclosure-report) (moved from **CI-4.205 §4**), **CI-0.215** (*Compliance mapping and stable registry*).  
+**Maps to:** `corpus_institutions.md` **CI-4.205** (*Transparency, participation, accessible challenge and service pathways*), [Subcore 27-A §3 Governance Disclosure Report](../subcore_27.010_governance_disclosure.md#3-governance-disclosure-report) (moved from **CI-4.205 §4**), **CI-0.215** (*Compliance mapping and stable registry*).  
 **Non-authoritative** unless adopted.
 
 ## Publication cadence

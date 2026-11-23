@@ -68,7 +68,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [§17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard), and
   - [§17.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure);
   - [Chapter Eighteen §4.4](core_18.000_violation_consequences.md#443-duty-to-resist) (18.000 §4.4) (*Duty to resist — violation rule and standing effects*);
-  - [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of a refusal*).
+  - [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of a refusal*).
 - Read with:
   - [Stewardship](subcore_03.075_band_continuity.md#stewardship),
   - [Good Faith](subcore_03.070_band_accountability.md#good-faith),
@@ -571,7 +571,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Due Process](subcore_03.070_band_accountability.md#due-process), and
   - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation).
 - Read with: [Chapter Two §16.4 Document at Action](core_02.040_stewardship_capacity_principles.md#164-document-at-action) (2.040 §16.4) (*the principle that the act makes its own Act Record*).
-- Read with: [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action) (*default logging contract for mixed crews; not a Standing-Record substitute*).
+- Read with: [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*default logging contract for mixed crews; not a Standing-Record substitute*).
 
 </details>
 
@@ -617,7 +617,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Transparency](subcore_03.085_band_oversight.md#transparency),
   - [Contestability](subcore_03.070_band_accountability.md#contestability), and
   - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint).
-- Read with: [CS-26.305 §10 inspectable attributable action](corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-103-inspectable-attributable-action) (*default logging contract for mixed crews; internals are not a standing-measurement exemption*).
+- Read with: [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*default logging contract for mixed crews; internals are not a standing-measurement exemption*).
 
 </details>
 
@@ -770,7 +770,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Merits Determination](subcore_03.070_band_accountability.md#merits-determination),
   - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness), and
   - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation).
-- Read with: owner layers in [core_22.000_forum.md](core_22.000_forum.md), [CF-22.420](corpus_forum/cf_22.420_appeal_secondary_review_exhaustion_pathways.md#cf-22420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*), [CI-22.205](corpus_institutions/ci_22.205_procedure_integrity_contestability_secondary_review.md#ci-22205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*), and [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+- Read with: owner layers in [core_22.000_forum.md](core_22.000_forum.md), [CF-22.420](corpus_forum/cf_22.420_appeal_secondary_review_exhaustion_pathways.md#cf-22420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*), [CI-22.205](corpus_institutions/ci_22.205_procedure_integrity_contestability_secondary_review.md#ci-22205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*), and [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -980,7 +980,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Chapter Fifteen §8 unified scale](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*numeric Violation Axis slot assignment from verified impact*),
   - [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*), and owner layers in
   - [CF-22.425](corpus_forum/cf_22.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-22425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) and
-  - [CI-24.205](corpus_institutions/ci_24.205_institutional_accountability_sanctions.md#ci-24205-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*).
+  - [CI-25.205](corpus_institutions/ci_25.205_institutional_accountability_sanctions.md#ci-25205-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*).
 
 </details>
 
@@ -1165,7 +1165,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [**Article XX-B** (*Contestability and Proportional Restriction Limits*)](core_04.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits);
   - [**Article XIII-A** (*Non-Capture Safeguards*)](core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards);
   - **CF-22.410 §17** (*Interim Hold on a Panel Member or Seat Holder*);
-  - [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
+  - [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
 - Read with:
   - [Stay](subcore_03.070_band_accountability.md#stay),
   - [Standing Lock](subcore_03.070_band_accountability.md#standing-lock),
@@ -1233,8 +1233,8 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty-Five §3.1 Whether to Act](core_25.000_special_enforcement.md#enforcement-record) (25.000 §3.1) (*Enforcement Record*).
-- Upstream: **Article XXI** (*Justice After Verified Violation*); [Chapter Twenty-Four §8 Routing to Special Enforcement](core_24.000_enforcement.md#8-routing-to-special-enforcement) (24.000 §8).
+- Canonical owner: [Chapter Twenty-Six §3.1 Whether to Act](core_26.000_special_enforcement.md#enforcement-record) (26.000 §3.1) (*Enforcement Record*).
+- Upstream: **Article XXI** (*Justice After Verified Violation*); [Chapter Twenty-Five §8 Routing to Special Enforcement](core_25.000_enforcement.md#8-routing-to-special-enforcement) (25.000 §8).
 - Cluster component: none.
 - Read with:
   - [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record),
@@ -1261,10 +1261,10 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - **Out of scope:**
     - the outcome and findings it carries out, which the merits decision sets;
     - an [Interim Hold](subcore_03.070_band_accountability.md#interim-hold), which limits an authority while facts are still being verified; and
-    - the floors for each step, which [Chapter Twenty-Five](core_25.000_special_enforcement.md#chapter-twenty-five-special-enforcement) states —
+    - the floors for each step, which [Chapter Twenty-Six](core_26.000_special_enforcement.md#chapter-twenty-six-special-enforcement) states —
     those sit under their own homes, not under this entry.
   - A challenge goes to the Standing Record it rests on, under [Chapter Twenty-Two §5.5 Contests of Standing Records](core_22.000_forum.md#55-contests-of-standing-records), not to the Enforcement Record or to a single step.
-  - The rule is stated in [Chapter Twenty-Five §3.1 Whether to Act](core_25.000_special_enforcement.md#enforcement-record); this entry is the Chapter Three meaning only.
+  - The rule is stated in [Chapter Twenty-Six §3.1 Whether to Act](core_26.000_special_enforcement.md#enforcement-record); this entry is the Chapter Three meaning only.
 <a id="enforcement-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?*
@@ -1519,7 +1519,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Two §6.1](core_02.000_values_principles.md#61-correction-and-remedy) (2.000 §6.1) (*Correction and Remedy*); applied to standing effects in [Chapter Nineteen §5](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (19.000 §5) (*Enforcement Realism and Remedy Systems*).
-- Implementation owner: [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+- Implementation owner: [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Cluster component: [Accountability, Contestability, and Redress Pathways](subcore_03.070_band_accountability.md#accountability-contestability-and-redress-pathways)
 - Read with:
   - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation),
@@ -1931,7 +1931,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
     - economic; and
     - socio-technical layers that materially affect sentients.
 
-    At principle layer, **Governance** is subordinate to [Stewardship](subcore_03.075_band_continuity.md#stewardship) when authorized structures, incentives, or procedures would otherwise allow foreseeable constitutional misalignment, Rights-Floor degradation, or short-term optimization that defeats durable alignment. **Chapter Twenty-Six** and the **Constitutional Contract Layer** continue to own operative authorization requirements.
+    At principle layer, **Governance** is subordinate to [Stewardship](subcore_03.075_band_continuity.md#stewardship) when authorized structures, incentives, or procedures would otherwise allow foreseeable constitutional misalignment, Rights-Floor degradation, or short-term optimization that defeats durable alignment. **Chapter Twenty-Seven** and the **Constitutional Contract Layer** continue to own operative authorization requirements.
   - **Out of scope:** private club bylaws, brand style guides, or informal social coordination that do not direct or constrain systems this Constitution governs.
 <a id="governance-a"></a>
 - **How to measure and assess**
@@ -1964,7 +1964,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
   - [Chapter Six §4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
   - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); Chapter Twenty-Two forum anti-self-judging;
   - **CI-6.205 §2** (*Functional Separation Lanes*);
-  - **CI-26.205 §6** (*Seat catalog*);
+  - **CI-27.205 §6** (*Seat catalog*);
   - **CI-6.210** (*Conflict, integrity, anti-capture, and anti-corruption*); and
   - **CF-22.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -2021,9 +2021,9 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 - Downstream:
   - [Chapter Six §4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
   - [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for influence-contact boundaries, and [Article XIII-C](core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) for post-service and prospective-role conflicts;
-  - [Chapter Twenty-Six §3.2.4](core_26.000_governance.md#324-selection-funding-boundaries) (26.000 §3.2.4) (*Selection-Funding Boundaries*) for selection-funding boundaries;
+  - [Chapter Twenty-Seven §3.2.4](core_27.000_governance.md#324-selection-funding-boundaries) (27.000 §3.2.4) (*Selection-Funding Boundaries*) for selection-funding boundaries;
   - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
-  - [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways);
+  - [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways);
   - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*);
   - **CJS-3.110 §6** (*integrity assurance and resilience operations*); and
   - **CF-22.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
@@ -2081,7 +2081,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
   - [Chapter Six §4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
   - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); Chapter Twenty-Two forum anti-self-judging;
   - **CI-6.205 §2** (*Functional Separation Lanes*);
-  - **CI-26.205 §6** (*Seat catalog*);
+  - **CI-27.205 §6** (*Seat catalog*);
   - **CI-6.210** (*Conflict, integrity, anti-capture, and anti-corruption*); and
   - **CF-22.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
@@ -2141,7 +2141,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) (*operative separation and incompatibility rules*);
   - [Chapter Six §4 Independence, conflict, and control lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
   - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); and
-  - **CI-26.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
+  - **CI-27.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Material Control Line](subcore_03.070_band_accountability.md#material-control-line),
@@ -2188,7 +2188,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) (*operative separation and incompatibility rules*);
   - [Chapter Six §4 Independence, conflict, and control lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
   - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); and
-  - **CI-26.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
+  - **CI-27.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat),
@@ -2284,7 +2284,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) (*operative separation and incompatibility rules*);
   - [Chapter Six §4 Independence, conflict, and control lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
   - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); and
-  - **CI-26.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
+  - **CI-27.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat),
@@ -2378,7 +2378,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
   - [Chapter Six §4 Independence, conflict, and control lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
   - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
   - [Chapter Twenty-Two Forums and Jurisdiction](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000); and
-  - **CI-26.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
+  - **CI-27.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat),
@@ -2425,8 +2425,8 @@ This legacy anchor now points to the named form within [System Capture](subcore_
   - [Chapter One §5 System and Institutional Charters, Functional Independence, and Separation of Duties](core_01.000_constitutional_map.md#5-system-and-institutional-charters-functional-independence-and-separation-of-duties);
   - [Chapter Two §18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties) (2.050 §18.3);
   - [Chapter Six §1 Purpose, Role, and Scope](core_06.000_functional_independence_separation_of_duties.md#1-purpose-role-and-scope) (6.000 §1) (*application list*) through
-  - [§10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes); Chapters Eight through Twenty-Six process-specific acts; and
-  - **CI-26.205 §6** (*seat catalog*).
+  - [§10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes); Chapters Eight through Twenty-Seven process-specific acts; and
+  - **CI-27.205 §6** (*seat catalog*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality),
@@ -2478,8 +2478,8 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 - Downstream:
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) and
   - [§5 Wrong-Seat Routing](core_06.000_functional_independence_separation_of_duties.md#5-wrong-seat-routing) and
-  - [§9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (*universal minimum contents and routing requirements*); Chapters Eight through Twenty-Six process-specific records;
-  - **CI-26.205 §6** (*seat catalog*); and
+  - [§9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (*universal minimum contents and routing requirements*); Chapters Eight through Twenty-Seven process-specific records;
+  - **CI-27.205 §6** (*seat catalog*); and
   - [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
@@ -3282,8 +3282,8 @@ See **Anti-Segmentation Principle**.
   - [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution),
   - [Merits Determination](subcore_03.070_band_accountability.md#merits-determination),
   - [Contestability](subcore_03.070_band_accountability.md#contestability);
-  - [Chapter Thirty](core_30.000_incorporation.md) (30.000) and
-  - [Chapter Twenty-Nine](core_29.000_expansion_supremacy.md) (29.000) (*adopter enforceability and external legal authority, not defined here*).
+  - [Chapter Thirty-One](core_31.000_incorporation.md) (31.000) and
+  - [Chapter Thirty](core_30.000_expansion_supremacy.md) (30.000) (*adopter enforceability and external legal authority, not defined here*).
 
 </details>
 
@@ -3301,8 +3301,8 @@ See **Anti-Segmentation Principle**.
     - a forum's skill, capacity, or independence;
     - who may file or contest a matter;
     - intra-family docket assignment and scheduling;
-    - when this Constitution is enforceable against an adopter or a non-adopter ([Chapter Thirty](core_30.000_incorporation.md)); and
-    - the lawful authority of an external legal system or regulator over a matter or an adopter ([Chapter Twenty-Nine](core_29.000_expansion_supremacy.md)).
+    - when this Constitution is enforceable against an adopter or a non-adopter ([Chapter Thirty-One](core_31.000_incorporation.md)); and
+    - the lawful authority of an external legal system or regulator over a matter or an adopter ([Chapter Thirty](core_30.000_expansion_supremacy.md)).
 <a id="jurisdiction-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*

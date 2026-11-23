@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_28.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -39,7 +39,7 @@ If a body that actually runs the systems in your life adopted this Constitution:
 - **Today:** The press team wants a public line that the organization follows a careful standard. An outside commentator or the board signs on. Those who actually run the logs and the release are not bound.
 - **With this Constitution:** A company, lab, or public operator that **runs** the system is a ranked fit. Start by using the ideas as a handbook. Full adoption only if you can bind those systems in **your** custody.
 
-See: [FIT_SITUATIONS.md §4.2](../FIT_SITUATIONS.md#42-high-impact-system-operators-deploy-platform-product); [Chapter Thirty §5](../../../core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority).
+See: [FIT_SITUATIONS.md §4.2](../FIT_SITUATIONS.md#42-high-impact-system-operators-deploy-platform-product); [Chapter Thirty-One §5](../../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority).
 
 **One standard when it is costly.**
 - **Today:** A deadline, a bonus, or “ignore it, I’ll take responsibility” shows up. Legal wants a one-way AI extra rulebook. The model is constrained; humans keep a way to skip the rules.
@@ -75,7 +75,7 @@ See: [Article III-C](../../../core_04.000_rights_part_a.md#article-iii-c-labor-a
 
 - **“The city / hospital will think we adopted.”** Say you are using the ideas as a handbook until a formal agreement exists. Attach the [non-adoption banner](../FIRST_ADOPTER_KIT.md#6-non-adoption-banner) when that is the actual situation.
 
-- **“This isn’t law.”** Correct. It does not displace your regulator ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
+- **“This isn’t law.”** Correct. It does not displace your regulator ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
 ## What this will not pretend to give you
 

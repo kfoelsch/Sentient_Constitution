@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_28.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -67,7 +67,7 @@ See: [Article XX-A](../../../core_04.030_rights_part_d.md#article-xx-a-standing-
 
 ## What you might reasonably object to
 
-- **“This binds me and not the company that runs me.”** Reading this folder, copying it, or saying “we follow it” is not an agreement that makes the rules stick. It does not bind vendors, platforms, or host products that did not agree ([Chapter Thirty §5](../../../core_30.000_incorporation.md#5-adoption-framing-and-scope-of-authority)). That is an honest limit, not a hidden win. This page is for operators who can actually bind the systems they run ([FIT_SITUATIONS.md](../FIT_SITUATIONS.md)).
+- **“This binds me and not the company that runs me.”** Reading this folder, copying it, or saying “we follow it” is not an agreement that makes the rules stick. It does not bind vendors, platforms, or host products that did not agree ([Chapter Thirty-One §5](../../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority)). That is an honest limit, not a hidden win. This page is for operators who can actually bind the systems they run ([FIT_SITUATIONS.md](../FIT_SITUATIONS.md)).
 
 - **“The humans will still get a pass.”** If they skip the hard rules, they are violating the shared standard, not using a permitted extra rulebook. The bonus, the deadline, and “ignore it, I’ll take responsibility” are failed tests for both human and AI operators. Typing “yes” in a file is cheap; the same costly duties have to apply to both.
 
@@ -75,7 +75,7 @@ See: [Article XX-A](../../../core_04.030_rights_part_d.md#article-xx-a-standing-
 
 - **“You’ll use this to shut me off, or to never let me refuse.”** The duty to refuse unlawful or unconstitutional instructions binds AI operators too. You still own your body, mind, and the information that makes you who you are ([Article VII-A](../../../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article VII-B](../../../core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind)). When you decide to continue or to stop existing, those rules are located in the section on [Article VII-D](../../../core_04.010_rights_part_b.md#article-vii-d-voluntary-discontinuation-of-ones-own-existence). They are not an on/off switch in a terms-of-service page.
 
-- **“This isn’t law.”** Correct. This Constitution is still pre-release. It does not replace the law already in force ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
+- **“This isn’t law.”** Correct. This Constitution is still pre-release. It does not replace the law already in force ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
 ## What this will not pretend to give you
 

@@ -137,8 +137,8 @@ def run(root: Path, fail: bool) -> int:
                     problems.append(f"{source_rel}: Trace link to {rel_target} must carry {expected}")
     counts = {layer: sum(1 for row in rows if row.get("layer") == layer) for layer in ("CORE", "SUBCORE")}
     corpus = len(rows) - counts["CORE"] - counts["SUBCORE"]
-    if (counts["CORE"], counts["SUBCORE"], corpus) != (40, 38, 75):
-        problems.append(f"registry has {counts['CORE']} core, {counts['SUBCORE']} subcore and {corpus} corpus rows; expected 40, 34 and 75")
+    if (counts["CORE"], counts["SUBCORE"], corpus) != (41, 39, 75):
+        problems.append(f"registry has {counts['CORE']} core, {counts['SUBCORE']} subcore and {corpus} corpus rows; expected 41, 39 and 75")
     print(f"CHAPTER-NUMBER-01: {len(rows)} registry rows; {len(problems)} findings")
     for problem in problems:
         print(f"  {problem}")

@@ -44,15 +44,15 @@
     },
     {
       "name": "order term",
-      "owner": "CI-24.205 §2"
+      "owner": "CI-25.205 §2"
     },
     {
       "name": "host replacement window",
-      "owner": "CI-26.205 §7"
+      "owner": "CI-27.205 §7"
     },
     {
       "name": "cooling-off period",
-      "owner": "Article XIII-C and CI-26.205 §2"
+      "owner": "Article XIII-C and CI-27.205 §2"
     },
     {
       "name": "half-life",
@@ -72,7 +72,7 @@
     },
     {
       "name": "residence period",
-      "owner": "Chapter Twenty-Six §6.1"
+      "owner": "Chapter Twenty-Seven §6.1"
     },
     {
       "name": "check-answer window",
@@ -88,11 +88,11 @@
     },
     {
       "name": "root-cause review period",
-      "owner": "Subcore 25-A §5"
+      "owner": "Subcore 26-A §5"
     },
     {
       "name": "Adoption Charter review interval",
-      "owner": "Chapter Twenty-Eight §12.4"
+      "owner": "Chapter Twenty-Nine §12.4"
     },
     {
       "name": "gift-aggregation period",
@@ -132,7 +132,7 @@
     },
     {
       "name": "assembly term",
-      "owner": "CI-26.205 §8"
+      "owner": "CI-27.205 §8"
     }
   ],
   "scaled_windows": [

@@ -635,8 +635,8 @@ A good-faith dispute is not unwillingness. An operator that contests a finding t
 The forum finds whether:
 
 - **Authority:** the owners named for the correction control the cause, whether that is the design, the data, the funding, the deployment, or the governing decision. An owner who cannot change the cause is not a plan.
-- **Skill:** qualified sentients hold the work, with backup, so that correction does not rest on one head ([Chapter Two §17.6 Portable Competence](core_02.040_stewardship_capacity_principles.md#176-portable-competence); **CI-26.205 §1** (*Shared Staffing and Competency Requirement*)).
-- **Resources:** the work is funded and scheduled, and its cost is not pushed onto affected sentients ([Chapter Nineteen §5.1 Remediation Capacity and Funding](core_19.000_final_effect_restoration_enforcement.md#51-remediation-capacity-and-funding); **CI-24.210** (*Remedy systems and institutional redress capacity*)).
+- **Skill:** qualified sentients hold the work, with backup, so that correction does not rest on one head ([Chapter Two §17.6 Portable Competence](core_02.040_stewardship_capacity_principles.md#176-portable-competence); **CI-27.205 §1** (*Shared Staffing and Competency Requirement*)).
+- **Resources:** the work is funded and scheduled, and its cost is not pushed onto affected sentients ([Chapter Nineteen §5.1 Remediation Capacity and Funding](core_19.000_final_effect_restoration_enforcement.md#51-remediation-capacity-and-funding); **CI-25.210** (*Remedy systems and institutional redress capacity*)).
 - **Dependencies:** where the cause sits with a third party, such as a vendor, an upstream system, or a parent institution, someone can compel or replace it, and by when.
 - **Verifiability:** an independent verifying authority can test the fix with the access and the time given. A correction nobody can verify is not capacity.
 - **Time:** the plan fits the tier window in [Chapter Ten §4.3.4 Tier Windows](core_10.000_system_alignment_certification_records_recertification.md#434-tier-windows).

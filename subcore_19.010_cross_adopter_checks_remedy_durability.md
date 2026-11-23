@@ -6,7 +6,7 @@
 > This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Nineteen](core_19.000_final_effect_restoration_enforcement.md#chapter-nineteen-final-standing-effect-restoration-and-enforcement), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 19-A**. Until 2026-11-21 its text was in Chapter Nineteen: §3 was the body of §3.4 (*Gatekeeper Checks Across Adopters and Levels of Trust*), and §4 was the body of §5.2 (*Remedy-System Durability*), including the remedy-parity funding minimum. Chapter Nineteen keeps one line for each guarantee and links the full text here.
 >
 > **Upstream:** [Chapter Nineteen](core_19.000_final_effect_restoration_enforcement.md#chapter-nineteen-final-standing-effect-restoration-and-enforcement), which keeps the final standing effect, anti-aggregation, the plain statement of effect, public notice, restoration, and the other enforcement-realism rules whole, and one line for each guarantee in this file.
-> **Downstream:** [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*); [CS-4.320 §9](corpus_systems/cs_04.320_justice_safeguards_restitution_rehabilitation.md#cs-4320-9-cross-jurisdiction-execution-and-anti-evasion-controls) (*Cross-jurisdiction execution and anti-evasion controls*).
+> **Downstream:** [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*); [CS-4.320 §9](corpus_systems/cs_04.320_justice_safeguards_restitution_rehabilitation.md#cs-4320-9-cross-jurisdiction-execution-and-anti-evasion-controls) (*Cross-jurisdiction execution and anti-evasion controls*).
 
 </details>
 
@@ -48,7 +48,7 @@ Two adopters that trust each other are tempted to share more than they should, a
 
 This section sets out how a gatekeeper check crosses from one adopter to another, who sets the level of trust between adopters, and what a level of trust can never do:
 
-- **Finding the custodian:** A gatekeeper at one adopter sends a gatekeeper check under [Chapter Nineteen §3.1 Anti-Aggregation of Gated-Pathway Effects](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) to the record custodian of the adopter that holds the effect. It uses the office-level contact named in that adopter's [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter) or, until the Adoption Charter is published, in its [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record) ([Chapter Twenty-Eight §12.4 Adoption Transition Record and Adoption Charter](core_28.000_amendment_ratification.md#124-adoption-transition-record-and-adoption-charter)).
+- **Finding the custodian:** A gatekeeper at one adopter sends a gatekeeper check under [Chapter Nineteen §3.1 Anti-Aggregation of Gated-Pathway Effects](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) to the record custodian of the adopter that holds the effect. It uses the office-level contact named in that adopter's [Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter) or, until the Adoption Charter is published, in its [Adoption Transition Record](subcore_03.075_band_continuity.md#adoption-transition-record) ([Chapter Twenty-Nine §12.4 Adoption Transition Record and Adoption Charter](core_29.000_amendment_ratification.md#124-adoption-transition-record-and-adoption-charter)).
 - **Levels of trust:** Each adopter decides the level of trust it extends to each other adopter. The default is the public level. The levels of trust are:
   - **Public level:** the adopter reads the other's public notices under [Chapter Nineteen §3.3 Public Notice of Violation Findings](core_19.000_final_effect_restoration_enforcement.md#33-public-notice-of-violation-findings) and answers lock checks under the lock floor below, and nothing more. It sends and receives no other gatekeeper checks.
   - **Notice level:** the public level, plus recognition of the other adopter's decision packages under [CS-4.320 §9 Cross-Jurisdiction Execution and Anti-Evasion Controls](corpus_systems/cs_04.320_justice_safeguards_restitution_rehabilitation.md#cs-4320-9-cross-jurisdiction-execution-and-anti-evasion-controls), so that a lock or remedy can be recognized and acted on.
@@ -103,7 +103,7 @@ Those systems must meet the standards below, and each body has its own role:
 - **Who answers for performance:** accountability for staffing, funding, backlog, succession, and performance remains with the [primary-stakes](core_22.000_forum.md#4-default-venue-and-primary-stakes) forum family:
   - ordinarily [Institutional](core_23.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) forums; or
   - [Integrity](core_23.000_forum_families_escalation_timeliness_support.md#35-integrity-forums) forums where capture, process failure, or system-alignment collapse is primary.
-- **Implementation detail:** [CI-24.210](corpus_institutions/ci_24.210_remedy_systems_institutional_redress_capacity.md#ci-24210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns the institutional implementation detail for remedy-system capacity.
+- **Implementation detail:** [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) owns the institutional implementation detail for remedy-system capacity.
 
 The following violate this rule where they foreseeably nullify challenge or remedy:
 
@@ -113,7 +113,7 @@ The following violate this rule where they foreseeably nullify challenge or reme
 - dependence on a single fragile office; or
 - chronic milestone failure.
 
-Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum benches, or of **Technical Forum Domains** benches that hear sentience-status adjudication, is a durability failure under this section, read with [Chapter Twenty-Six §3.2.5 Forum Appointment Independence Requirement](core_26.000_governance.md#325-forum-appointment-independence-requirement).
+Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum benches, or of **Technical Forum Domains** benches that hear sentience-status adjudication, is a durability failure under this section, read with [Chapter Twenty-Seven §3.2.5 Forum Appointment Independence Requirement](core_27.000_governance.md#325-forum-appointment-independence-requirement).
 
 <a id="remedy-parity-funding-minimum"></a>
 **Remedy-parity funding minimum.** For each system class an adopter administers:
@@ -121,7 +121,7 @@ Under-appointment of **Integrity**, **Constitutional**, or **Environment** forum
 - **The minimum:** the capacity funded for remedy, restoration, and reassessment must be no less than the capacity funded for lock administration, enforcement, and safeguard imposition on the same class.
 - **Public figures:** the ratio must be published with the [§3.4 Remedy Parity and Lock Preconditions](core_18.000_violation_consequences.md#34-remedy-parity-and-lock-preconditions) tripwire figures.
 - **Departing from parity:** an adopter that departs from parity must:
-  - record the reasons under [Chapter Twenty-Six §5.1 Stewardship Direction](core_26.000_governance.md#51-stewardship-direction); and
+  - record the reasons under [Chapter Twenty-Seven §5.1 Stewardship Direction](core_27.000_governance.md#51-stewardship-direction); and
   - show, on the integration record, that remedy commencement and restoration review are nonetheless meeting their tier windows.
 - **Parity and the tripwire stay separate:**
   - budget parity does not excuse a tripped [§3.4 Remedy Parity and Lock Preconditions](core_18.000_violation_consequences.md#34-remedy-parity-and-lock-preconditions) tripwire; and

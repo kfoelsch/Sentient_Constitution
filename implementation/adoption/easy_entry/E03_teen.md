@@ -7,7 +7,7 @@
 > **Corpus edition pin:** `SC-Corpus-2026.10.21`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_28.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
 > If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
 
@@ -69,7 +69,7 @@ See: [Article XIV-A](../../../core_04.020_rights_part_c.md#article-xiv-a-reliabi
 
 - **“If I push back, they’ll write me up.”** Good-faith challenge is supposed to be protected against retaliation ([Article XIV-A](../../../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline)). A family report or school note is not, by itself, an official record of verified help or harm ([Chapter Fourteen §4.2](../../../core_14.000_standing_assessment.md#42-silence-is-the-default)).
 
-- **“This isn’t law at my school.”** Correct until a qualifying body adopts it. It does not override applicable education or family law ([Chapter Twenty-Nine §7](../../../core_29.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
+- **“This isn’t law at my school.”** Correct until a qualifying body adopts it. It does not override applicable education or family law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
 - **“What about sex, work, or leaving home?”** Those are two basic protections that can pull in different directions — self-ownership, care relationships, labor, staying with someone you depend on — not a single teen override. Where the text does not pick a winner, it is supposed to say so rather than invent one. A lived-situation sitting may test a specific collision; this brief does not.
 

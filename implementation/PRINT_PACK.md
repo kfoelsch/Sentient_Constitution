@@ -1,6 +1,6 @@
 # Print pack (not adoption)
 
-**Status:** Process / handbook support — **not** binding constitutional or incorporated text. This page **cannot narrow core**. Opening or printing it is not [Chapter Twenty-Eight §12](../core_28.000_amendment_ratification.md#12-ratification-and-adoption) adoption.
+**Status:** Process / handbook support — **not** binding constitutional or incorporated text. This page **cannot narrow core**. Opening or printing it is not [Chapter Twenty-Nine §12](../core_29.000_amendment_ratification.md#12-ratification-and-adoption) adoption.
 **Pinned to corpus edition:** `SC-Corpus-2026.10.21` (effective 2026-10-21; [README.md](../README.md)).
 **Job:** One sitting you can print: what the Constitution is, the Rights Floor in one-liners, the process chain, and one situation brief.
 

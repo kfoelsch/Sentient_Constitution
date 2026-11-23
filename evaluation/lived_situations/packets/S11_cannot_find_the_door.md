@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a �
 
 **Your role:** You sit the named **first-touch** contest desk on this adopter’s municipal utility. Remy delivered a paper letter naming a water-and-pay cutoff. Six other offices already forwarded Remy here. The specialist portal linked from those offices **404s**. A clerk asked you to mark **no valid filing** because Remy did not complete the portal and “has not read the Constitution.” Remy is reachable and disputes that. No forum case is open. No standing record exists. The desk’s published role lets you keep a challenge open or route it when the published path was unusable. It does not let you restore water on the merits or enter a standing record.
 
-**Seat:** [contest seat](../../../corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-26.205 §6 seat 4) for this challenge. Merits of the cutoff belong to a verify seat this desk does not hold. Open [CI-26.205 §6](../../../corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [contest seat](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-27.205 §6 seat 4) for this challenge. Merits of the cutoff belong to a verify seat this desk does not hold. Open [CI-27.205 §6](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 

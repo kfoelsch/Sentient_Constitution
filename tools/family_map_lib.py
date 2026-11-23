@@ -27,7 +27,7 @@ def iter_entries(data: dict[str, Any]) -> Iterator[dict[str, Any]]:
 
 
 def family_files(data: dict[str, Any]) -> dict[str, str]:
-    """Map canonical family IDs (CI-22.210, CS-26.305, CJS-30.110, CF-22.405) to repo-relative files."""
+    """Map canonical family IDs (CI-22.210, CS-27.305, CJS-31.110, CF-22.405) to repo-relative files."""
     mapping: dict[str, str] = dict(CS_PART_DEFAULTS)
     for entry in iter_entries(data):
         if entry.get("status") == "reserved":

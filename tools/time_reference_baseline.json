@@ -135,12 +135,40 @@
       "snippet": "Tier B: at most 14 days (2 weeks);"
     },
     {
-      "key": "core_26.000_governance.md::duration::887dbcb0ed5f",
+      "key": "core_24.000_assemblies.md::duration::24956fa92f38",
+      "snippet": "The election is held within 90 days after the emergency ends, and the draws for the upper assemblies resume with it."
+    },
+    {
+      "key": "core_24.000_assemblies.md::duration::394812e47f35",
+      "snippet": "The assembly chooses the replacement within one week, and until then the outgoing executive acts only as caretaker for routine business."
+    },
+    {
+      "key": "core_24.000_assemblies.md::duration::81e1feec9e25",
+      "snippet": "Term: an executive serves for up to 5 years from being chosen, whether chosen at the start or as a replacement after a vote of no confidence"
+    },
+    {
+      "key": "core_24.000_assemblies.md::duration::9fa0fdd46287",
+      "snippet": "Tier 2: the assembly confirms within 7 days or the declaration lapses."
+    },
+    {
+      "key": "core_24.000_assemblies.md::duration::d8acf5f78560",
+      "snippet": "Tier 1: the assembly confirms within 72 hours or the declaration lapses."
+    },
+    {
+      "key": "core_24.000_assemblies.md::duration::e0ef5159a427",
+      "snippet": "Each renewal lasts up to 90 days and needs two-thirds."
+    },
+    {
+      "key": "core_24.000_assemblies.md::duration::f6c378ffd06c",
+      "snippet": "Each renewal lasts up to 30 days."
+    },
+    {
+      "key": "core_27.000_governance.md::duration::887dbcb0ed5f",
       "snippet": "*In plain terms: if power runs on a term or stretch between real votes, the written rules should say whether the community can end it early—"
     },
     {
-      "key": "corpus_forum/cf_22.405_forum_formation_chamber_structure.md::duration::c258d4415d1c",
-      "snippet": "the attachment-publication requirements in CJS-30.110 §1.2 (*Attachment publication*), with one calendar year treated as the ordinary maximu"
+      "key": "corpus_forum/cf_22.405_forum_formation_chamber_structure.md::duration::80b62024499d",
+      "snippet": "the attachment-publication requirements in CJS-31.110 §1.2 (*Attachment publication*), with one calendar year treated as the ordinary maximu"
     },
     {
       "key": "corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md::duration::0611efa5d411",
@@ -307,7 +335,7 @@
       "snippet": "| Intake acknowledgment | ≤ 24 hours |"
     },
     {
-      "key": "subcore_04.050_data_types.md::duration::a4c6eb7f1210",
+      "key": "subcore_04.050_data_types.md::duration::ffedfcd57a34",
       "snippet": "Where the rights-holder has neither made the work available nor offered it for use on reasonable terms for a continuous period of three year"
     },
     {

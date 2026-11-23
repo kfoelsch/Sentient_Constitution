@@ -6,7 +6,7 @@
 > This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Seventeen](core_17.000_contribution_consequences.md#chapter-seventeen-contribution-consequences), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 17-A**. Until 2026-11-20 its text was in Chapter Seventeen: §3 was the second half of §3.1 (*Recency and Currentness*), and §§4.1–4.4 were §§3.2.1 to 3.2.4. Chapter Seventeen keeps one line for each guarantee and links the full text here.
 >
 > **Upstream:** [Chapter Seventeen §3 Contribution Consequences](core_17.000_contribution_consequences.md#3-contribution-consequences), which keeps the decision order, independence from remedy, lock precedence, the definitions of competency bar and competency clearance, and one line for each guarantee in this file.
-> **Downstream:** [CI-26.205](corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-1-shared-staffing-and-competency-requirement) (*appointment, competency, rotation, and removal*); [Technical Forum Domains](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) (*retesting standards*).
+> **Downstream:** [CI-27.205](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-1-shared-staffing-and-competency-requirement) (*appointment, competency, rotation, and removal*); [Technical Forum Domains](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) (*retesting standards*).
 
 </details>
 

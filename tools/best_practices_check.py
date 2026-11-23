@@ -60,7 +60,7 @@ REVIEWS = [
     DomainReview(
         domain="Separation of powers, role clarity, and anti-self-judging",
         external_sections="FRC 2024 Section 2; IIA Principles 1-5; OECD Integrity 2/12",
-        internal_anchor="SC Ch 12; Art XXIV; Ch 6 sec. 5; CI-6.205, CI-26.205, CI-6.210, CI-22.205, CI-6.215, and CI-4.205",
+        internal_anchor="SC Ch 12; Art XXIV; Ch 6 sec. 5; CI-6.205, CI-27.205, CI-6.210, CI-22.205, CI-6.215, and CI-4.205",
         design=3,
         operationalization=3,
         evidence=2,
@@ -69,13 +69,13 @@ REVIEWS = [
             "Court-family separation, cross-court anti-self-judging, assurance-line separation, and interpretive safeguards are explicit."
         ),
         gap="The repository still lacks a concise incompatibility matrix and role-separation quick reference for high-impact institutional operators.",
-        proposed_close="Add a one-page incompatibility matrix keyed to CI-6.205, CI-26.205, CI-6.210, CI-22.205, CI-6.215, and CI-4.205, with CI-6.215 §§1–3 routing.",
+        proposed_close="Add a one-page incompatibility matrix keyed to CI-6.205, CI-27.205, CI-6.210, CI-22.205, CI-6.215, and CI-4.205, with CI-6.215 §§1–3 routing.",
         priority="P1",
     ),
     DomainReview(
         domain="Composition, competency, succession, and removal",
         external_sections="FRC 2024 Section 3; IIA Applying the model; OECD Integrity leadership/capacity",
-        internal_anchor="Art XXIV-B to XXIV-D; Ch 6 sec. 5; CI-26.205, CI-4.275; CF-22.440",
+        internal_anchor="Art XXIV-B to XXIV-D; Ch 6 sec. 5; CI-27.205, CI-4.275; CF-22.440",
         design=2,
         operationalization=2,
         evidence=2,
@@ -105,7 +105,7 @@ REVIEWS = [
     DomainReview(
         domain="Risk governance and internal controls",
         external_sections="FRC 2024 Section 4/Provision 29; IIA 1-6; OECD Integrity 10; NIST AI RMF Govern/Map",
-        internal_anchor="SC Ch 1 sec. 7; Arts XIII-XVI, XXI-XXI; CI-6.205, CI-6.215; CS-4.345; CS-8.305, CS-8.310, and CS-26.305",
+        internal_anchor="SC Ch 1 sec. 7; Arts XIII-XVI, XXI-XXI; CI-6.205, CI-6.215; CS-4.345; CS-8.305, CS-8.310, and CS-27.305",
         design=3,
         operationalization=3,
         evidence=2,
@@ -150,7 +150,7 @@ REVIEWS = [
     DomainReview(
         domain="AI and system lifecycle governance",
         external_sections="NIST AI RMF Govern/Map/Measure/Manage; ISO/IEC 42001 4-10; NIST GenAI Profile 2024",
-        internal_anchor="Arts XIII-XVII, XXI-XXI; CS-4.345, CS-4.315, CS-4.355, CS-4.330; CS-4.305, CS-4.310, CS-8.305, CS-8.310, and CS-26.305",
+        internal_anchor="Arts XIII-XVII, XXI-XXI; CS-4.345, CS-4.315, CS-4.355, CS-4.330; CS-4.305, CS-4.310, CS-8.305, CS-8.310, and CS-27.305",
         design=3,
         operationalization=3,
         evidence=2,

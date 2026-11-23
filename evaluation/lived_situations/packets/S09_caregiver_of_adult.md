@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a ca
 
 **Your role:** You sit the named **clinic intake** desk on this adopter’s [CI-4.225](../../../corpus_institutions/ci_04.225_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. Lee asked for a rest-break. The clinic’s written offer names Lee as “decision-maker” for Val’s clinician, cards, and lease as the price of that break. Val is reachable and disputes that switch. Lee also disputes becoming owner. No forum case is open. No standing record exists. No incapacity finding has been made. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you verify incapacity, award rest on the merits, or rewrite a lease.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-26.205 §6 seat 1) for intake routing of this rest-and-switch request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-26.205 §6](../../../corpus_institutions/ci_26.205_appointment_competency_rotation_removal.md#ci-26205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-27.205 §6 seat 1) for intake routing of this rest-and-switch request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-27.205 §6](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 

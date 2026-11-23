@@ -99,7 +99,7 @@ The rules common to every special lock are in [Chapter Eighteen §4.5 Special Lo
   - comparable Stakeholder System Participation pathways within the affected system, institution, or bounded decision domain under [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice).
 - **Does not by itself restrict:**
   - [Stakeholder](subcore_03.090_band_participation.md#stakeholder) status or recognition that the sentient is materially affected;
-  - the **governance-voting** pathway, **Foundational Constitutional Choice**, or comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-Six §6.1 Entitlement and Eligibility](core_26.000_governance.md#61-entitlement-and-eligibility);
+  - the **governance-voting** pathway, **Foundational Constitutional Choice**, or comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-Seven §6.1 Entitlement and Eligibility](core_27.000_governance.md#61-entitlement-and-eligibility);
   - Rights-Floor minimums, survival-critical access, or constitutionally required audit, challenge, and remedy pathways.
 - **Risk:** continued capture or distortion of stakeholder voice, false-stake dominance, coerced participation weight, and recurrence of stakeholder-pathway abuse in the same or related domains.
 - **Protected subjects or interests:** affected stakeholders, integrity of binding stakeholder choice, and non-capture of the relevant system, institution, or bounded decision domain.
@@ -291,7 +291,7 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
 **Trigger:** the lock is set by a final order of either of these kinds:
 
 - a final dissolution order under **CI-18.210 §4** (*Dissolution*), including the wind-down order of a forum whose dissolution or disbandment threshold under **CF-22.445 §6** (*Performance Thresholds and Alerts*) is crossed; or
-- a retirement order for a System under **CI-24.205 §5** (*Systems under Consequence Orders*).
+- a retirement order for a System under **CI-25.205 §5** (*Systems under Consequence Orders*).
 
 **Who the lock is about:**
 
@@ -314,7 +314,7 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
   - The lock follows the activity and the control, not the label. A change of name, form, seat, or holder does not take an entity outside it ([Chapter Nineteen §5.4 Anti-Evasion and Look-through Authority](core_19.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority)).
 - **Does not by itself restrict:**
   - any sentient forming or leading a different Operating Party, including one that does similar work and including a sentient who ran the dissolved Chartered Party alone or with others, so long as it is not one of the entities above and no lock on that sentient bars it;
-  - a good-faith purchaser, an independent successor created by a structural-separation order under **CI-24.205 §3** (*Supervised Operation and Receivership*), a workers' cooperative formed by the workers, or an arm's-length buyer under the order;
+  - a good-faith purchaser, an independent successor created by a structural-separation order under **CI-25.205 §3** (*Supervised Operation and Receivership*), a workers' cooperative formed by the workers, or an arm's-length buyer under the order;
   - members, workers, and dependents of the dissolved Chartered Party joining, working in, or being served by another Operating Party;
   - the receiver, liquidator, or successor that the dissolution order itself names to carry services, records, and challenge pathways forward;
   - the remedy, accounting, and records duties the order sets, which outlast the dissolution; or
@@ -322,7 +322,7 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
 - **Risk:** the same Operating Party, under the same control, coming back under a new name or form after a forum has found that nothing short of ending it protects others.
 - **Protected subjects or interests:** the sentients the dissolved Chartered Party harmed or endangered, the dependents moved to receivers, and the integrity of the dissolution order and of the forum that made it.
 - **Corrective conditions:**
-  - **Permanent form:** where the order records pervasive anti-constitutional conduct or unremedied Irreversible Harm under [Chapter Nineteen §4 Restoration and Reassessment](core_19.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment), nothing runs with time. Passage of time, apology, a resolved cause, prior contribution, capital, a change of holders, or a change of name or form cannot lift the lock by itself. It ends only on a published finding of independent review that the dissolution order was set aside under **CI-24.205 §6** (*Review, Fairness, and Enforcement*) or that material new verified facts show the violation finding it rested on was wrong.
+  - **Permanent form:** where the order records pervasive anti-constitutional conduct or unremedied Irreversible Harm under [Chapter Nineteen §4 Restoration and Reassessment](core_19.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment), nothing runs with time. Passage of time, apology, a resolved cause, prior contribution, capital, a change of holders, or a change of name or form cannot lift the lock by itself. It ends only on a published finding of independent review that the dissolution order was set aside under **CI-25.205 §6** (*Review, Fairness, and Enforcement*) or that material new verified facts show the violation finding it rested on was wrong.
   - **Restorable form:** where the order records neither permanent-lock ground, the lock ends on a published finding of independent review that the cause the order found is resolved, the remedy owed is delivered, the safeguards that would stop a repeat are in place, and a return is safer than continued exclusion for the protected interests. Apology, prior contribution, capital, or a change of name or form cannot satisfy that finding of independent review by itself.
 - **Review route and reassessment:**
   - **Who reviews:** an independent review, run outside the dissolved Chartered Party, outside the issuing panel, and outside any body whose authority the lock limits.

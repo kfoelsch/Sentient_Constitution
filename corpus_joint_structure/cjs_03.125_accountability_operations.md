@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Thirty](../core_30.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) through **CJS-3.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Thirty-One](../core_31.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) through **CJS-3.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Thirty](../core_30.000_incorporation.md#chapter-thirty-incorporation-bridge) (30.000) incorporation discipline and
+  - [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Read with: [CJS-3.105 §1](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional Compass and Cluster Map*) constitutional compass.
 
@@ -57,15 +57,15 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
   - **CJS-3.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*);
   - **CJS-3.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*);
   - **CJS-3.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*).
-- Read with: [**CS-26.305**](../corpus_systems/cs_26.305_critical_system_stewardship.md#cs-26305-critical-system-stewardship) (*Critical system stewardship*)
+- Read with: [**CS-27.305**](../corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship) (*Critical system stewardship*)
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../subcore_03.070_band_accountability.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity level** **T1**–**T4** per finding ([Subcore 3-B, section 5](../subcore_03.020_definition_integrity.md#5-non-compliance-finding-profiles) (S3-B)).
 - Chapter Two basis: §15.1, §6, §13.2, §19.2, §17 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-8.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
 - Topic routing (mandatory read-with): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-6.205** (*Institutional design, separation of powers, and authority custody*).
-- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*) in **CJS-0.105 §1** (*Topic router*); primary owners **CI-6.205** (*Institutional design, separation of powers, and authority custody*), **CI-26.205** (*Appointment, competency, rotation, and removal*), **CI-4.215** (*Resource stewardship and incentive integrity*), and **CI-22.210** (*Cross-institution coordination and escalation*).
+- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*) in **CJS-0.105 §1** (*Topic router*); primary owners **CI-6.205** (*Institutional design, separation of powers, and authority custody*), **CI-27.205** (*Appointment, competency, rotation, and removal*), **CI-4.215** (*Resource stewardship and incentive integrity*), and **CI-22.210** (*Cross-institution coordination and escalation*).
 - Topic routing (mandatory read-with): **CJS-R22** (*Standing-Record custody, opening authority, and separation of duties*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-6.205** (*Institutional design, separation of powers, and authority custody*).
-- Topic routing (mandatory read-with): **CJS-R23** (*Seat types, local role maps, and wrong-seat routing*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-26.205** (*Appointment, competency, rotation, and removal*).
+- Topic routing (mandatory read-with): **CJS-R23** (*Seat types, local role maps, and wrong-seat routing*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-27.205** (*Appointment, competency, rotation, and removal*).
 
 </details>
 
@@ -313,7 +313,7 @@ Classification-scaled governance burden
 *In plain terms: When institutional duties depend on system class or stewardship level, the governance burden must scale to the applicable class and stewardship profile.*
 
 - **What it is**
-  - **In scope:** Where an institution's duties depend on [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) classes or **CS-26.305 — Critical system stewardship** stewardship levels, governance burden must scale with the applicable class and stewardship level profile.
+  - **In scope:** Where an institution's duties depend on [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) classes or **CS-27.305 — Critical system stewardship** stewardship levels, governance burden must scale with the applicable class and stewardship level profile.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in classification-scaled governance burden.
 <a id="classification-scaled-governance-burden-a"></a>
 - **How to measure and assess**
@@ -638,9 +638,9 @@ Survival-critical access and voluntary-market interface
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in the survival-critical access and voluntary-market interface.
 <a id="survival-critical-access-and-voluntary-market-interface-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and **CS-26.305 — Critical system stewardship**
+  - **Primary measure:** reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and **CS-27.305 — Critical system stewardship**
 
-    **Primary assessment:** Reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and **CS-26.305 — Critical system stewardship**.
+    **Primary assessment:** Reviewers must examine the whole access design in one review: who qualifies, what users pay, how the market or platform is built, fraud controls, whether the floor works across regions and local costs of living, and how the system is classified. Where pricing, securities, licensing, or platform infrastructure materially controls baseline access, the review must also apply [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and **CS-27.305 — Critical system stewardship**.
 <a id="survival-critical-access-and-voluntary-market-interface-c"></a>
 - **What must hold**
   - **Primary failure:** An arrangement if survival-level access effectively requires work or market participation; if published floor amounts ignore real place-based necessity without justification; if market infrastructure evades classification-scaled stewardship; or if revenue design shifts the primary cost onto indispensable access in violation of the class-aligned revenue minimum.
@@ -1229,7 +1229,7 @@ Realignment resistance and dissolution-review trigger minimum
 *In plain terms: Repeated verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate when lesser measures cannot protect constitutional obligations.*
 
 - **What it is**
-  - **In scope:** Repeated, verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate to constrained authority, supervised operation, dissolution, disbandment, or equivalent owner-layer consequence where lesser measures cannot protect constitutional obligations. Returning a Chartered Party to below Class L by a contraction order is an equivalent consequence. The steps, clocks, findings, and enforcement for these measures are in **CI-18.210** (*Institutional failure and dissolution*) and **CI-24.205** (*Institutional accountability and sanctions*).
+  - **In scope:** Repeated, verified anti-constitutional misconduct, chronic misalignment, or realignment resistance must trigger structural review that can escalate to constrained authority, supervised operation, dissolution, disbandment, or equivalent owner-layer consequence where lesser measures cannot protect constitutional obligations. Returning a Chartered Party to below Class L by a contraction order is an equivalent consequence. The steps, clocks, findings, and enforcement for these measures are in **CI-18.210** (*Institutional failure and dissolution*) and **CI-25.205** (*Institutional accountability and sanctions*).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in realignment resistance and dissolution-review trigger minimum.
 <a id="realignment-resistance-and-dissolution-review-trigger-minimum-a"></a>
 - **How to measure and assess**
@@ -1238,7 +1238,7 @@ Realignment resistance and dissolution-review trigger minimum
     **Primary assessment:** Evaluation must verify whether obstruction, concealment, retaliation, strategic delay, evidence destruction, metric gaming, dependency lock-in, or structural workaround persists after a reasonable opportunity for good-faith resolution, and whether continuity-transfer safeguards preserve rights, services, records, and active challenge pathways during any escalation.
 <a id="realignment-resistance-and-dissolution-review-trigger-minimum-c"></a>
 - **What must hold**
-  - **Primary failure:** Treat persistent realignment resistance as ordinary delay, to use dissolution review as a substitute for the owner-file anti-constitutional-misconduct designation or personal accountability process, or to dissolve or disband a structure without continuity safeguards for affected rights, services, records, and challenge pathways, or to order dissolution or disbandment where a contraction order or structural separation under **CI-24.205** (*Institutional accountability and sanctions*) would protect others.
+  - **Primary failure:** Treat persistent realignment resistance as ordinary delay, to use dissolution review as a substitute for the owner-file anti-constitutional-misconduct designation or personal accountability process, or to dissolve or disband a structure without continuity safeguards for affected rights, services, records, and challenge pathways, or to order dissolution or disbandment where a contraction order or structural separation under **CI-25.205** (*Institutional accountability and sanctions*) would protect others.
 
 <a id="stakeholder-scope-and-targeted-transparency"></a>
 Stakeholder scope and targeted transparency

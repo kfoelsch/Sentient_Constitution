@@ -24,7 +24,7 @@ rewritten when the file is placed.
 >
 > **Existing text that would change when this is placed (not edited yet):**
 > - [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) would list the office with the one-line guarantees in the box below.
-> - [Chapter Twenty-Six §5.3 Public Institutions Supporting Stewardship](../../core_26.000_governance.md#53-public-institutions-supporting-stewardship) (added 2026-11-22) already makes the post-adoption reviews of whichever body Chapter Seven §4 lists for policy impact evaluation an input to the Review and Correction Duty. Once this office is listed, that line would name it.
+> - [Chapter Twenty-Seven §5.3 Public Institutions Supporting Stewardship](../../core_27.000_governance.md#53-public-institutions-supporting-stewardship) (added 2026-11-22) already makes the post-adoption reviews of whichever body Chapter Seven §4 lists for policy impact evaluation an input to the Review and Correction Duty. Once this office is listed, that line would name it.
 > - A new corpus-institutions file would hold the evaluation template, the materiality threshold, and the intake forms.
 >
 > **Proposed Chapter Seven §4 entry:**
@@ -48,7 +48,7 @@ rewritten when the file is placed.
 
 **Role:** Subcore 7-[P] is the constitutional owner of **policy impact evaluation**: the evaluation of proposed binding policy before the final decision, and the review of adopted policy after it takes effect. Where it sits:
 
-- [Chapter Twenty-Six](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) keeps the power to decide. This office advises and publishes; it decides nothing.
+- [Chapter Twenty-Seven](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) keeps the power to decide. This office advises and publishes; it decides nothing.
 - The Public Information Office produces the statistics and research this office relies on. This office does not produce official statistics, and that office does not evaluate proposals.
 - The Public Stewardship Office looks decades ahead across all policy. This office looks at one proposal at a time. For a proposal with long-horizon or irreversible effects, the two publish one combined evaluation (§5.1).
 - The Public Finance Office pays for the office and does not direct it.
@@ -83,9 +83,9 @@ Policies are often adopted on predictions that no one checks: who will benefit, 
   - [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims): both aims:
     - [Flourishing](../../core_00.000_preamble.md#flourishing): policies are judged by what they do for wellbeing, not by what they claim;
     - [Continuity](../../core_00.000_preamble.md#continuity): policies that fail are found and corrected;
-- Chapter Twenty-Six:
-  - [§5.1 Stewardship Direction](../../core_26.000_governance.md#51-stewardship-direction), which requires direction to be outcome-oriented and contestable;
-  - [§5.2 Ecosystem Value Orientation](../../core_26.000_governance.md#52-ecosystem-value-orientation), which lets proxy indicators inform decisions only while they stay traceable to real outcomes;
+- Chapter Twenty-Seven:
+  - [§5.1 Stewardship Direction](../../core_27.000_governance.md#51-stewardship-direction), which requires direction to be outcome-oriented and contestable;
+  - [§5.2 Ecosystem Value Orientation](../../core_27.000_governance.md#52-ecosystem-value-orientation), which lets proxy indicators inform decisions only while they stay traceable to real outcomes;
 - Chapter Four Articles:
   - [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
   - [Article XXVIII-A](../../core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
@@ -96,10 +96,10 @@ Policies are often adopted on predictions that no one checks: who will benefit, 
 
 The office is an Independent Body and meets [Chapter Seven §3 What Makes a Body Independent](../../core_07.000_independent_bodies.md#3-what-makes-a-body-independent) in full:
 
-- **Decision seats:** drawn by lot from the candidates who pass the office's published competency gate, under the role rules of [Subcore 26-E §3 Role Criteria, Appointment Standards, and Removal Pathways](../../subcore_26.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
+- **Decision seats:** drawn by lot from the candidates who pass the office's published competency gate, under the role rules of [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](../../subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
 - **Competencies:** the gate covers evaluation methods, statistics, economics, and the social and ecological sciences, and at least one seat is held by a sentient with lived experience of the effects of public policy on those with least power.
 - **Funding:** through a floor set by the Public Finance Office, which may not be cut in response to an evaluation.
-- **Post-service limits:** members and staff are bound by the cooling-off rules of Subcore 26-E §3 for any sponsor of a proposal they evaluated.
+- **Post-service limits:** members and staff are bound by the cooling-off rules of Subcore 27-E §3 for any sponsor of a proposal they evaluated.
 - **Access to information:** the office has the right of access in *Access to information* in Chapter Seven §3, and for this office:
     - **From whom:** any public body, and the sponsor of any proposal the office is evaluating, whether or not the sponsor is a public body;
     - **What:** the data, models, analysis, and explanations behind the proposal and its expected effects, including any analysis the sponsor relied on but did not publish;
@@ -236,7 +236,7 @@ A proposal above the threshold comes with its sponsor's own account of what it w
 - **No veto:** what the office finds never decides the outcome, but the steps of this section must still be followed:
     - **Findings do not bind:** no evaluation, update, or screening finding blocks a decision or makes it invalid because of what it says. The governing authority may decide against every finding, so long as it answers each one under *Response* above.
     - **The steps do bind:** the governing authority must wait for each required evaluation or update until it is published or its time limit has passed, and must publish its response. These waits are fixed in advance and short. If the office is late, the decision goes ahead under *Late evaluation* above.
-    - **Skipping a step:** a decision taken without a required step, such as deciding before the time limit has passed, or without a response, may be challenged as a procedural failure under [Chapter Twenty-Six §3.1.4 Contestation, Correction, and Pluralism](../../core_26.000_governance.md#314-contestation-correction-and-pluralism). The challenge is about the missing step, never about whether the office's findings were right, and the usual remedy is to have the step carried out.
+    - **Skipping a step:** a decision taken without a required step, such as deciding before the time limit has passed, or without a response, may be challenged as a procedural failure under [Chapter Twenty-Seven §3.1.4 Contestation, Correction, and Pluralism](../../core_27.000_governance.md#314-contestation-correction-and-pluralism). The challenge is about the missing step, never about whether the office's findings were right, and the usual remedy is to have the step carried out.
 
 ### 7. Review After Adoption
 
@@ -245,7 +245,7 @@ A proposal above the threshold comes with its sponsor's own account of what it w
 - **Review date:** every policy evaluated under §4 carries a review date, set at adoption. If none is set, it is five years after adoption.
 - **The review:** compares what happened with what the evaluation and the sponsor predicted, using the indicators named in §5, and states whether the evidence supports keeping, changing, or ending the policy.
 - **Response:** the governing authority publishes a reasoned response to the review, as in §6.
-- **Link to stewardship:** reviews are an input to the [Review and Correction Duty](../../subcore_03.075_band_continuity.md#review-and-correction-duty) under [Chapter Twenty-Six §5.3 Public Institutions Supporting Stewardship](../../core_26.000_governance.md#53-public-institutions-supporting-stewardship).
+- **Link to stewardship:** reviews are an input to the [Review and Correction Duty](../../subcore_03.075_band_continuity.md#review-and-correction-duty) under [Chapter Twenty-Seven §5.3 Public Institutions Supporting Stewardship](../../core_27.000_governance.md#53-public-institutions-supporting-stewardship).
 
 ### 8. Even-Handedness and No Steering
 
@@ -255,7 +255,7 @@ A proposal above the threshold comes with its sponsor's own account of what it w
 - **No ranking of aims:** the office tests whether a proposal is likely to meet its own stated aim, and at what cost. It does not judge whether the aim is worth pursuing.
 - **No advocacy:** the office and its members do not campaign for or against a proposal, a sponsor, or a party.
 - **No pressure:** any attempt to direct a conclusion, delay a publication, or tie funding to a result is a violation, reported to the Integrity Forum.
-- **Platform costing before contested selections:** before a contested selection under [Chapter Twenty-Six §3.2 Eligibility, Contested Selection, and Democratic Minimums](../../core_26.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums), the office offers to evaluate the main proposals of every candidate or slate:
+- **Platform costing before contested selections:** before a contested selection under [Chapter Twenty-Seven §3.2 Eligibility, Contested Selection, and Democratic Minimums](../../core_27.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums), the office offers to evaluate the main proposals of every candidate or slate:
     - **Voluntary:** no candidate is required to take part, and the office does not comment on anyone who does not;
     - **Equal terms:** every submission is evaluated by the same methods, on the same timetable, with a submission deadline published in advance;
     - **Published together:** all results are published on the same day, at least 14 days before the selection, and none is published earlier; and

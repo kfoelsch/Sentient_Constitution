@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This entire file is **reader guidance only**. It is not binding incorporated implementation text. It does not add, remove, or narrow duties under [Chapter Thirty](../core_30.000_incorporation.md). Binding homes remain **CJS-0.110 §0** (*Purpose, Role, and Scope*), **CJS-0.110 §1**, **CJS-0.110 §3**, **CJS-3.140 §13**–**CJS-3.140 §14**, **CJS-30.110**, and **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)**.
+> This entire file is **reader guidance only**. It is not binding incorporated implementation text. It does not add, remove, or narrow duties under [Chapter Thirty-One](../core_31.000_incorporation.md). Binding homes remain **CJS-0.110 §0** (*Purpose, Role, and Scope*), **CJS-0.110 §1**, **CJS-0.110 §3**, **CJS-3.140 §13**–**CJS-3.140 §14**, **CJS-31.110**, and **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)**.
 >
 > The [Joint structure landing page](../corpus_joint_structure.md) remains the layer landing. This file is the human how-to-read annex — not a second front door.
 
@@ -27,7 +27,7 @@ You do **not** need to read this folder front to back. Most readers open a cited
 | **New to this layer** — you want the shared glue among systems, institutions, and forums | Keep reading this guide, then open [CJS-0.110 §0 Purpose, Role, and Scope](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-0-purpose-role-and-scope) |
 | **Topic-driven** — you know the subject (forum ops, institutional governance, cross-layer integrity) | [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md) → primary owner section; maintainer table: [CJS-0.105 §1 Cross-File Routing](cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) |
 | **Domain-driven** — you care about forums, institutions, or systems | [corpus_forum.md](../corpus_forum.md), [corpus_institutions.md](../corpus_institutions.md), or [corpus_systems.md](../corpus_systems.md) |
-| **Following a citation** — a file sent you to **CJS-0.110 §1**, **CJS-30.110 §3**, or another labeled section | Open that section only, not the whole family |
+| **Following a citation** — a file sent you to **CJS-0.110 §1**, **CJS-31.110 §3**, or another labeled section | Open that section only, not the whole family |
 | **Cross-cutting operational terms** (**oDef**) — evidence, procedure, dependency, participation, failure handling | [CJS-3.105 / oDef library](cjs_03.105_cross_implementation_operational_terms.md); each numbered **oDef** identifies a shared operational cluster |
 
 ## The Four Implementation Layers
@@ -62,7 +62,7 @@ Labels tell you which book and which shelf. Constitutional dictionary entries (*
 
 | Label family | Example headers | What they are |
 |---|---|---|
-| **CJS** (this layer) | **CJS-0.110**, **CJS-0.110 §1**, **CJS-0.105 §1**, **CJS-30.110 §3** | Joint-structure files and sections |
+| **CJS** (this layer) | **CJS-0.110**, **CJS-0.110 §1**, **CJS-0.105 §1**, **CJS-31.110 §3** | Joint-structure files and sections |
 | **CS** | **CS-0.310** through **CS-4.340** | Systems families |
 | **CI** | **CI-0.210**, **CI-6.215 §2**, **CI-8.210** | Institutions sections |
 | **CF** | **CF-0.410**, **CF-22.410**, **CF-22.425 §4** | Forum sections |
@@ -100,17 +100,17 @@ Binding parse rules: [CJS-3.140 §13](cjs_03.140_odef_parse_mechanics.md#cjs-314
 | **Reader guide** (this file) | How to enter the layer | Average humans | this file |
 | **CJS-0.105** | Registry, identifier notes, topic router | Editors, auditors, readers who are lost | [cjs_00.105_registry_and_reading_rules.md](cjs_00.105_registry_and_reading_rules.md) |
 | **CJS-0.110** | Scope, shared contract, identifiers | Editors, auditors; general readers when cited | [cjs_00.110_scope_purpose_boundary_interface.md](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-scope-purpose-and-boundary-interface) |
-| **CJS-30.105 §7**–**CJS-30.105 §8.1** | Drafting and seam contracts | Editors and auditors | [cjs_30.105_drafting_contracts.md](cjs_30.105_drafting_contracts.md) |
+| **CJS-31.105 §7**–**CJS-31.105 §8.1** | Drafting and seam contracts | Editors and auditors | [cjs_31.105_drafting_contracts.md](cjs_31.105_drafting_contracts.md) |
 | **CJS-3.140 §13**–**CJS-3.140 §14** | How to parse **oDef** entries | Anyone using **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** | [cjs_03.140_odef_parse_mechanics.md](cjs_03.140_odef_parse_mechanics.md) |
 | **CJS-6.105** | Support roles, hosting independence, and classification alignment | Readers following a support or hosting interface | [cjs_06.105_support_hosting_classification.md](cjs_06.105_support_hosting_classification.md) |
-| **CJS-30.110** | Specific joint interlocks | Topic-driven readers when routed | [cjs_30.110_specific_joint_interlocks.md](cjs_30.110_specific_joint_interlocks.md) |
+| **CJS-31.110** | Specific joint interlocks | Topic-driven readers when routed | [cjs_31.110_specific_joint_interlocks.md](cjs_31.110_specific_joint_interlocks.md) |
 | **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** / **oDef** | Shared operational definitions | Readers needing joint how-to terms | [cjs_03.105_cross_implementation_operational_terms.md](cjs_03.105_cross_implementation_operational_terms.md) |
 
 Come back to a CJS family file when a citation sends you there, when you need to know which file owns a topic, or when you are editing or auditing cross-file routing. Day-to-day domain doctrine lives in **CS**, **CI**, and **CF**.
 
 ## Editors and Auditors
 
-Seam and non-duplication contracts: [CJS-30.105 §7](cjs_30.105_drafting_contracts.md#cjs-30105-7-intentional-overlap-non-duplication-discipline) (*Intentional Overlap (Non-Duplication Discipline)*), [CJS-30.105 §8](cjs_30.105_drafting_contracts.md#cjs-30105-8-two-layer-definition-contract-binding-abstraction--owner-detail) (*Two-Layer Definition Contract (Binding Abstraction + Owner Detail)*), and [CJS-30.105 §8.1](cjs_30.105_drafting_contracts.md#cjs-30105-81-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*). Maintainer drafting notes: [CJS-0.105 §3 Stable Identifiers, Edition Alignment, and Drafting Notes](cjs_00.105_registry_and_reading_rules.md#cjs-0105-3-stable-identifiers-edition-alignment-and-drafting-notes). The authoritative router table in [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (*Cross-File Routing*) is maintainer-only detail — not a reader door.
+Seam and non-duplication contracts: [CJS-31.105 §7](cjs_31.105_drafting_contracts.md#cjs-31105-7-intentional-overlap-non-duplication-discipline) (*Intentional Overlap (Non-Duplication Discipline)*), [CJS-31.105 §8](cjs_31.105_drafting_contracts.md#cjs-31105-8-two-layer-definition-contract-binding-abstraction--owner-detail) (*Two-Layer Definition Contract (Binding Abstraction + Owner Detail)*), and [CJS-31.105 §8.1](cjs_31.105_drafting_contracts.md#cjs-31105-81-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*). Maintainer drafting notes: [CJS-0.105 §3 Stable Identifiers, Edition Alignment, and Drafting Notes](cjs_00.105_registry_and_reading_rules.md#cjs-0105-3-stable-identifiers-edition-alignment-and-drafting-notes). The authoritative router table in [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (*Cross-File Routing*) is maintainer-only detail — not a reader door.
 
 ---
 

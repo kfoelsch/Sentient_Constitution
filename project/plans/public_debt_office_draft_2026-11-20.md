@@ -18,7 +18,7 @@ against the live text; they will be rewritten when the chapter is placed.
 > 5. **Provisional defaults:** a five-year compensation-account correction period and the published escape-clause terms in §7; both are for the custodian to confirm.
 >
 > **Existing text that would change when this is placed (not edited yet):**
-> - [Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to authorize borrowing, subject to this chapter.
+> - [Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) would name the governing authority's power to authorize borrowing, subject to this chapter.
 > - A new corpus-institutions file would hold the cyclical-adjustment method, the sustainability test, auction rules, and ledger fields.
 
 </details>
@@ -58,7 +58,7 @@ Chapter [D] is the constitutional owner of **public debt**.
 - The Public Finance Office chapter governs how public money is spent and protects the funding floors. It may not borrow, and this office may not decide spending.
 - The Public Monetary Office chapter governs the currency and interest rates. It may not decide or advise on how much debt is issued or when, and this office has no say over interest rates.
 - The Public Information Office chapter produces the figures this office relies on, including the cyclical adjustment in §7, and checks this office's ledger.
-- [Chapter Twenty-Seven](../../core_26.000_governance.md#chapter-twenty-six-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to decide whether and how much to borrow, within §7.
+- [Chapter Twenty-Eight](../../core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) governs who holds governing authority, including the authority to decide whether and how much to borrow, within §7.
 - A later corpus-institutions file carries the cyclical-adjustment method, the sustainability test, auction rules, and ledger fields. It may not narrow this chapter.
 
 **Chapter scope:** The office:

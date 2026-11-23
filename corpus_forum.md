@@ -35,7 +35,7 @@ This page is the non-operative navigation home for the Forums layer. The substan
 - [Systems and Data](corpus_systems.md) — systems that support filing, records, routing, or forum continuity
 - [Joint Structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Thirty](core_30.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Thirty-One](core_31.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Forums index** below. Identifier rules remain in the [forums registry](corpus_forum/cf_00.405_registry_and_reading_rules.md).
 
@@ -46,7 +46,7 @@ This page is the non-operative navigation home for the Forums layer. The substan
 >
 > **Compatibility entrypoint:** this root file is the stable navigation wrapper for the forum implementation file. Substantive CF text lives in the `corpus_forum/` subfiles. Broad references to `corpus_forum.md` continue to mean the forum implementation file as a whole.
 >
-> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_forum.md` is incorporated under Sentient Constitution Chapter Thirty. This wrapper is an index.
+> **Authority note:** the linked subfiles are binding incorporated implementation text where `corpus_forum.md` is incorporated under Sentient Constitution Chapter Thirty-One. This wrapper is an index.
 
 </details>
 
@@ -105,7 +105,7 @@ This page is the non-operative navigation home for the Forums layer. The substan
 <!-- END GENERATED FAMILY INDEX -->
 </details>
 
-**Dedicated record protocol (not a CF family):** the [Sentience-Status Adjudication Record](corpus_forum/cf_22.475_sentience_status_record.md) is the Chapter Thirty–enumerated status-file format. It implements, and does not narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*). It is not a substitute for **CF-22.465** (*Standard records, forms, and evidence artifacts*).
+**Dedicated record protocol (not a CF family):** the [Sentience-Status Adjudication Record](corpus_forum/cf_22.475_sentience_status_record.md) is the Chapter Thirty-One–enumerated status-file format. It implements, and does not narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*). It is not a substitute for **CF-22.465** (*Standard records, forms, and evidence artifacts*).
 
 **What to do now:** Continue to the next file. It states this layer’s boundary: what it owns here, and what remains in the Constitution or in the other implementation folders.
 
