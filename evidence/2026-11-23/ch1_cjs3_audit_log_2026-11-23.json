@@ -686,7 +686,7 @@
           "missing": []
         },
         {
-          "label": "Audit process output disclosure preference",
+          "label": "Access-level structure and baseline accessibility",
           "line": 460,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -697,8 +697,8 @@
           "missing": []
         },
         {
-          "label": "Audit-output anti-concealment",
-          "line": 480,
+          "label": "Audit process output disclosure preference",
+          "line": 477,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -708,7 +708,7 @@
           "missing": []
         },
         {
-          "label": "Class A/B/C public-interest visibility",
+          "label": "Audit-output anti-concealment",
           "line": 497,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -719,7 +719,7 @@
           "missing": []
         },
         {
-          "label": "Forensic escalation and reconstruction sufficiency",
+          "label": "Class A/B/C public-interest visibility",
           "line": 514,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -730,8 +730,8 @@
           "missing": []
         },
         {
-          "label": "Independent and third-party audit-path availability",
-          "line": 533,
+          "label": "Forensic escalation and reconstruction sufficiency",
+          "line": 531,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -741,7 +741,7 @@
           "missing": []
         },
         {
-          "label": "Qualified audit pathways and non-exclusive eligibility",
+          "label": "Independent and third-party audit-path availability",
           "line": 550,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -752,7 +752,7 @@
           "missing": []
         },
         {
-          "label": "Restriction scope and justification discipline",
+          "label": "Qualified audit pathways and non-exclusive eligibility",
           "line": 567,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -763,7 +763,7 @@
           "missing": []
         },
         {
-          "label": "Access-level structure and baseline accessibility",
+          "label": "Restriction scope and justification discipline",
           "line": 584,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -1667,7 +1667,7 @@
           "missing": []
         },
         {
-          "label": "Verification and comparative interpretation enablement",
+          "label": "Product and service health and safety information",
           "line": 829,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -1678,7 +1678,7 @@
           "missing": []
         },
         {
-          "label": "Product and service health and safety information",
+          "label": "Ratings, rankings, and paid promotion",
           "line": 846,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -1689,7 +1689,7 @@
           "missing": []
         },
         {
-          "label": "Ratings, rankings, and paid promotion",
+          "label": "Verification and comparative interpretation enablement",
           "line": 863,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2420,63 +2420,8 @@
           "missing": []
         },
         {
-          "label": "Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive \u2014 including the [System Classification Record](../subcore_03.075_band_continuity.md#system-classification-record), the [System Data Types Record](../subcore_03.075_band_continuity.md#system-data-types-record), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**Subcore 4-A** (*Data Types*), **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), and peers). How System Alignment Certification treats resulting defects lives under **[Chapter Nine \u00a74 Certification Outcomes](../core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes)**.",
-          "line": 1212,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Realignment resistance and dissolution-review trigger minimum",
-          "line": 1227,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Stakeholder scope and targeted transparency",
-          "line": 1244,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Structural records, risk-relevant data, and disclosure timing",
-          "line": 1261,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Systemic-pattern detection and escalation",
-          "line": 1278,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
           "label": "Harm reports and corrective notices",
-          "line": 1295,
+          "line": 1208,
           "has_what_it_is": true,
           "has_how_to_measure": false,
           "has_what_must_hold": false,
@@ -2490,7 +2435,7 @@
         },
         {
           "label": "The unsafe product or wrong information must be contained inside the containment window and corrected inside the correction window of the matching category (CU-1 to CU-4 of [Correction Urgency (CU) discipline](#correction-urgency-cu-discipline)). [Article III-F](../core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../subcore_03.090_band_participation.md#commercial-compliance).",
-          "line": 1304,
+          "line": 1217,
           "has_what_it_is": false,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2500,6 +2445,61 @@
           "missing": [
             "What it is"
           ]
+        },
+        {
+          "label": "Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive \u2014 including the [System Classification Record](../subcore_03.075_band_continuity.md#system-classification-record), the [System Data Types Record](../subcore_03.075_band_continuity.md#system-data-types-record), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**Subcore 4-A** (*Data Types*), **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), and peers). How System Alignment Certification treats resulting defects lives under **[Chapter Nine \u00a74 Certification Outcomes](../core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes)**.",
+          "line": 1233,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Realignment resistance and dissolution-review trigger minimum",
+          "line": 1248,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Stakeholder scope and targeted transparency",
+          "line": 1265,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Structural records, risk-relevant data, and disclosure timing",
+          "line": 1282,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Systemic-pattern detection and escalation",
+          "line": 1299,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
         }
       ],
       "classifications": [
@@ -2970,7 +2970,7 @@
           "missing": []
         },
         {
-          "label": "Justification and bounded-retention minimum",
+          "label": "Handoff continuity and authority-transfer lifecycle integrity",
           "line": 719,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2981,7 +2981,7 @@
           "missing": []
         },
         {
-          "label": "Lifecycle expiry, deletion, de-identification, and reclassification controls",
+          "label": "Justification and bounded-retention minimum",
           "line": 736,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2992,7 +2992,7 @@
           "missing": []
         },
         {
-          "label": "Proportional application",
+          "label": "Lifecycle expiry, deletion, de-identification, and reclassification controls",
           "line": 753,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3003,7 +3003,7 @@
           "missing": []
         },
         {
-          "label": "Purpose and proportionality criteria",
+          "label": "Proportional application",
           "line": 770,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3014,7 +3014,7 @@
           "missing": []
         },
         {
-          "label": "Review, revalidation, and prohibited patterns",
+          "label": "Purpose and proportionality criteria",
           "line": 787,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3025,7 +3025,7 @@
           "missing": []
         },
         {
-          "label": "Handoff continuity and authority-transfer lifecycle integrity",
+          "label": "Review, revalidation, and prohibited patterns",
           "line": 804,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3738,7 +3738,7 @@
         "cluster_id": "CJS-3.125 \u00a715",
         "title": "Accountability: Structural Review, Correction Urgency, and Disclosure Terms",
         "file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
-        "line": 1295,
+        "line": 1208,
         "rule": "Harm reports and corrective notices",
         "missing": [
           "How to measure and assess",
@@ -3749,7 +3749,7 @@
         "cluster_id": "CJS-3.125 \u00a715",
         "title": "Accountability: Structural Review, Correction Urgency, and Disclosure Terms",
         "file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
-        "line": 1304,
+        "line": 1217,
         "rule": "The unsafe product or wrong information must be contained inside the containment window and corrected inside the correction window of the matching category (CU-1 to CU-4 of [Correction Urgency (CU) discipline](#correction-urgency-cu-discipline)). [Article III-F](../core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../subcore_03.090_band_participation.md#commercial-compliance).",
         "missing": [
           "What it is"

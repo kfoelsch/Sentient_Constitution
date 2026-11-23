@@ -844,6 +844,14 @@
   "violation-finding-audit": {
    "scope": "corpus"
   },
+  "chapter-s1-purpose-audit": {
+   "scope": "format-owned",
+   "files": [
+    "core_0[1-9].000_*.md",
+    "core_[1-3][0-9].000_*.md"
+   ],
+   "reason": "The section 1 standard applies only to chapter lead files (CHAPTER-S1-PURPOSE-01); the Preamble is not a numbered chapter, and subcore files have their own opening."
+  },
   "chapter-s2-why-audit": {
    "scope": "format-owned",
    "files": [

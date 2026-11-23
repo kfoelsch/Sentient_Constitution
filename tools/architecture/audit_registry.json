@@ -910,12 +910,22 @@
       "run": "auto",
       "writes": false
     },
+    "chapter-s1-purpose-audit": {
+      "category": "layout",
+      "run": "auto",
+      "writes": false
+    },
     "ch10-duplication-audit": {
       "category": "alignment",
       "run": "auto",
       "writes": false
     },
     "chapter-s2-why-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "chapter-s1-purpose-audit-test": {
       "category": "tests",
       "run": "auto",
       "writes": false

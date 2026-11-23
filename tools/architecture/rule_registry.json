@@ -488,6 +488,13 @@
       "status": "blocking"
     },
     {
+      "id": "CHAPTER-S1-PURPOSE-01",
+      "legacy_ref": "section 1 says what the chapter is for, where it sits, and what it covers",
+      "summary": "Every core chapter lead file (core_NN.000) except the Preamble opens with the exact heading ### 1. Purpose, Role, and Scope, holding the lead-ins **Purpose:**, **Role:** and **Chapter scope:** in that order.",
+      "make_target": "chapter-s1-purpose-audit",
+      "status": "blocking"
+    },
+    {
       "id": "VIOLATION-FINDING-01",
       "legacy_ref": "violation finding wording",
       "summary": "On a line about violations, locks, holds, sanctions, or misconduct, a bare \"finding\" says \"violation finding\" when a finding of violation is meant; other findings are qualified.",
