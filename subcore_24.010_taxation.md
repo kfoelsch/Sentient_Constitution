@@ -99,6 +99,9 @@ An assembly raises revenue from the sources below in the order given. Before it 
   - **Congestion:** use of crowded roads, airspace, networks, or other shared infrastructure at peak times.
   - **Risk to shared systems:** activity that puts shared systems at risk, such as excess borrowing by large financial institutions.
   - **Harmful products:** the share of a product's harm that falls on sentients other than the buyer.
+  - **Discouraged activities:** activities that adults may lawfully choose but that the assembly decides to discourage, taxed under the discouragement rule of [§4.3 Taxes on Harm](#43-taxes-on-harm):
+    - **Gambling:** [games of chance](subcore_03.070_band_accountability.md#game-of-chance), betting, and [event-contract markets](subcore_03.070_band_accountability.md#event-contract-market) under [Chapter Two §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets), taxed on what operators keep: the stakes they take minus the winnings they pay out.
+    - **Intoxicants:** alcohol, tobacco and nicotine, cannabis, and other intoxicating substances that are lawful to sell, taxed by the quantity of the active substance, such as the alcohol or nicotine content, rather than by price.
 - **Third: unearned gains from what is shared or scarce** ([Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure) and [§3.1 Fairness](core_02.000_values_principles.md#31-fairness)):
   - **Land value:** the value of location, under [§4.2 Preferred Designs](#42-preferred-designs).
   - **Natural resources:** royalties on minerals, fuels, and other resources taken from land or sea held in common.
@@ -156,6 +159,13 @@ A tax may be used on purpose to make those who cause a measurable harm to others
 - apply to every source of the same harm alike, whoever causes it;
 - publish each year what it raised and what happened to the harm; and
 - say how its effect on those with the lowest incomes is offset.
+
+**Discouragement rule.** Where the purpose of a tax is to discourage an activity that adults may lawfully choose, such as gambling or the use of intoxicants, the rate follows these rules instead of the cost-of-harm rate above:
+
+- **High enough to discourage:** the rate is set to make the activity noticeably costlier, so that it is discouraged.
+- **Not high enough to feed crime:** the rate stays below the level at which the activity moves to unlicensed, smuggled, or criminal supply. Each year the revenue office publishes an estimate of the share of each taxed activity that takes place outside lawful supply. Where that share is material or rising, the assembly lowers the rate or strengthens enforcement against unlawful supply, and says which in its Act Record.
+- **Not a ban:** a discouragement tax does not forbid the activity, and its rate is never set so high that it works as a ban in place of a general rule.
+- **Help, not only price:** the assembly reports with each budget what it spends on prevention and on treatment for dependence, alongside what the tax raises.
 
 <a id="44-tax-breaks-under-review"></a>
 
