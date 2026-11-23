@@ -3730,7 +3730,7 @@ this chapter works in one sequence. First confirm the verified Standing Record f
 
 #### 5. Criteria Set (for Anti-Constitutional-Misconduct Designation) — Accountability at Constitutional Scale
 
-evaluators first accept the Chapter Fifteen impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. They may not split one scheme to game the anti-constitutional-misconduct designation.
+evaluators first accept the Chapter Fifteen impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. When only the rollback or real-world-blockage check is met, honest failure is not enough: the Standing Record must also show purpose, knowledge, reckless disregard, or a refusal to correct when correction was possible. Dissent, protest, journalism, and whistleblowing are not anti-constitutional misconduct. They may not split one scheme to game the anti-constitutional-misconduct designation.
 
 [Source](../../core_20.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale)
 
@@ -5526,7 +5526,7 @@ constitutional problem resolution is a coordination and restoration system — q
 
 ##### Article XXVIII-A: Non-Entrenchment and Revisability
 
-governance must earn its continued authority through regular review — and must be reviewed faster when capture, exclusion, or failure is showing up.
+governance must earn its continued authority through regular review — and must be reviewed faster when capture, exclusion, or failure is showing up. Anyone affected can ask for that faster review, and the body being reviewed does not decide it.
 
 [Source](../../core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability)
 
@@ -5780,7 +5780,7 @@ weakening **Safety (Constitutional Constraint)**, **Truth (Constitutional Constr
 
 #### 4. Substantive Test 1 — Substantive Non-Regression Validity
 
-Substantive Test 1 is the checklist — if a proposal would gut Chapter Two constraints, Subcores 3-A to 3-C integrity, Chapter Four Rights Floors, or Chapter Twenty-Seven legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion. The Constitutional Forum decides whether a proposal fails it, in public, with reasons, after everyone has had time to respond. A change that fixes a real error in a protection, and keeps its core, is a correction and not a weakening.
+Substantive Test 1 is the checklist — if a proposal would gut Chapter Two constraints, Subcores 3-A to 3-C integrity, Chapter Four Rights Floors, or Chapter Twenty-Seven legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion. The Constitutional Forum decides whether a proposal fails it, in public, with reasons, after everyone has had time to respond. A change that fixes a real error in a protection, and keeps its core, is a correction and not a weakening. Replacing an office or body is not a weakening if the protection it served stays at least as strong.
 
 [Source](../../core_28.000_non_regression.md#4-substantive-test-1--substantive-non-regression-validity)
 
