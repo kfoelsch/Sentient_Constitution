@@ -159,7 +159,7 @@ The Rights Floor must work in real life, not just on paper:
 Enforcement depends on real checks, not just rules on paper:
 
 - **Systems get verified before they go live:** [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) and [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) make sure materially impactful systems actually meet the rules before anyone relies on them at scale.
-- **Sentients can push back on certification decisions:** Chapter Eight also provides ways to contest the System Certification Record, demand stakeholder and accessibility review, keep supervisory sequencing in place, and challenge alignment decisions that do not hold up.
+- **Sentients can push back on certification decisions:** Chapters Eight to Ten also provide ways to contest the System Certification Record, demand stakeholder and accessibility review, keep supervisory sequencing in place, and challenge alignment decisions that do not hold up.
 - **You can challenge and audit unreliable systems:** **Article XIV** (*Right to Reliable and Trustworthy Systems*) gives sentients the right to challenge and audit systems that affect them.
 - **Bureaucracy cannot block survival access:** **Article XX-B** (*Contestability and Proportional Restriction Limits*) prevents standing limits from becoming a back door that cuts sentients off from survival-critical protections.
 - **Chapters Eight through Twenty-Two form the practical pipeline:** Together they supply the key processes for contestability, verified classification, forum supervision, and timely remedy.
