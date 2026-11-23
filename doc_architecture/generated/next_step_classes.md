@@ -25,3 +25,4 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 | Market structure | `invalidate_nullifying_threshold_and_restore_review` | [market_structure](../../implementation/STEWARD_ENTRY_DOORS.md#market-structure) |
 | Cross-system support | `compare_mapped_flows_against_adequacy_failures` | [cross_system_support](../../implementation/STEWARD_ENTRY_DOORS.md#cross-system-support) |
 | Delay | `apply_tier_clock_then_existing_card` | [delay](../../implementation/STEWARD_ENTRY_DOORS.md#delay) |
+| Automation | `automate_determinate_steps_keep_judgment_with_sentients` | [automation](../../implementation/STEWARD_ENTRY_DOORS.md#automation) |

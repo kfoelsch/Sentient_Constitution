@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-11-23T20:03:16+00:00",
+  "generated_at": "2026-11-23T20:09:47+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.105 §1 topics, Chapter Three terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -938,7 +938,8 @@
       "comprehensibility",
       "market_structure",
       "cross_system_support",
-      "delay"
+      "delay",
+      "automation"
     ],
     "cases": [
       {"id":"standing_record","card_anchor":"standing","next_step_class":"open_or_correct_standing_record"},
@@ -957,7 +958,8 @@
       {"id":"comprehensibility","card_anchor":"comprehensibility","next_step_class":"point_to_named_home_or_existing_card"},
       {"id":"market_structure","card_anchor":"market-structure","next_step_class":"invalidate_nullifying_threshold_and_restore_review"},
       {"id":"cross_system_support","card_anchor":"cross-system-support","next_step_class":"compare_mapped_flows_against_adequacy_failures"},
-      {"id":"delay","card_anchor":"delay","next_step_class":"apply_tier_clock_then_existing_card"}
+      {"id":"delay","card_anchor":"delay","next_step_class":"apply_tier_clock_then_existing_card"},
+      {"id":"automation","card_anchor":"automation","next_step_class":"automate_determinate_steps_keep_judgment_with_sentients"}
     ]
   },
   "lexical": {

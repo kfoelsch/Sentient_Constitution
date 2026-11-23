@@ -1593,4 +1593,10 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - The §10 plain-terms line and the file's opening note now say fourteen patterns. Each pattern cites the governing sections of Chapter Eighteen, Subcore 18-A, and Chapter Nineteen and adds no rule.
 - No record schema or validator names lock types, so none changed.
 
+**Nine hundred and fifty-fourth move (Automation steward-door card; stale labels in the owner/clock index; 2026-11-23; process support, no rule changed; number provisional under MOVE-NUMBER-01).** Closes the last part of the TODO item *Chapter Two §16.5*. What changed:
+
+- [STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md#automation) gains an **Automation** card (owner text [Chapter Two §16.5 Automation](core_02.040_stewardship_capacity_principles.md#165-automation); next-step class `automate_determinate_steps_keep_judgment_with_sentients`) and a *How to pick* row. It covers both failures: rule-settled work left manual under a stacked sign-off, and automation deciding what needs judgment or holding seats that must be separate.
+- The owner/clock index (`implementation/steward_owner_clock_index.json`) gains the matching `automation` case, [OPERATOR_ROUTING.md](evaluation/OPERATOR_ROUTING.md) a routing row, and `tools/steward_door_lockstep_audit.py` the card title. The generated next-step class table and spine pack were regenerated.
+- Stale labels in the index were fixed: nine "Chapter Twenty-Eight-Three §6" and "§6.1" labels now read "Chapter Twenty-Three §5" and "§5.1" (their links already pointed there), and "Chapter Two §16.2 Distributed Understanding" now reads §16.1.
+
 **Next file:** [README.md](README.md)

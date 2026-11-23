@@ -123,6 +123,13 @@
       "card_anchor": "delay",
       "next_step_class": "apply_tier_clock_then_existing_card",
       "high_pressure": true
+    },
+    {
+      "id": "automation",
+      "card_title": "Automation",
+      "card_anchor": "automation",
+      "next_step_class": "automate_determinate_steps_keep_judgment_with_sentients",
+      "high_pressure": false
     }
   ]
 }

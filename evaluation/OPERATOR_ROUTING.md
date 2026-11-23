@@ -32,6 +32,7 @@ Tested against [`../implementation/steward_owner_clock_index.json`](../implement
 | `market_structure` | Threshold set so high it never binds; winner takes the only door | [Market structure](../implementation/STEWARD_ENTRY_DOORS.md#market-structure) | `invalidate_nullifying_threshold_and_restore_review` |
 | `cross_system_support` | Heavy user extracting from shared foundations without putting resources back | [Cross-system support](../implementation/STEWARD_ENTRY_DOORS.md#cross-system-support) | `compare_mapped_flows_against_adequacy_failures` |
 | `delay` | Delay serving as denial; process or hop count eating the published clock | [Delay](../implementation/STEWARD_ENTRY_DOORS.md#delay) | `apply_tier_clock_then_existing_card` |
+| `automation` | Rule-settled step still done by hand under a stacked sign-off; or automation deciding a disputed question | [Automation](../implementation/STEWARD_ENTRY_DOORS.md#automation) | `automate_determinate_steps_keep_judgment_with_sentients` |
 
 <a id="seat-modifiers"></a>
 ## Seat modifiers

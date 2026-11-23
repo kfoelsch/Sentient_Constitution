@@ -71,6 +71,7 @@ CARD_TITLES = (
     "Market structure",
     "Cross-system support",
     "Delay",
+    "Automation",
 )
 
 CARD_FIELDS = (
