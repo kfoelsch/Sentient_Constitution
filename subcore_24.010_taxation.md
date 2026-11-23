@@ -59,17 +59,22 @@ A tax is the most common way a polity takes something from the sentients it serv
 
 Every tax, and every change to a tax, must pass these tests. The assembly states in its [Act Record](subcore_03.070_band_accountability.md#act-record) how the tax passes each one:
 
-- **Lawful:** the tax is enacted by the assembly's general rule, within the tier's matters, and states its base, its rates, who owes it, and when.
-- **Fair between equals:** taxpayers in the same economic position pay the same tax. Two ways of earning, holding, or spending the same amount are taxed alike unless the assembly states a reason tied to the tax's purpose.
-- **Fair by ability to pay:** the tax system taken as a whole asks more of those with more. A tax that falls harder on those with less is allowed only as part of a system that offsets it, and the assembly publishes the combined effect.
-- **Simple:** an ordinary taxpayer can learn from a plain-language summary what is taxed, at what rate, and what they must do.
-- **Certain:** the amount owed, the due date, and the way to pay can be worked out in advance from published rules, without needing an official's discretion.
-- **Convenient:** the tax is collected at a time and in a way that suits those who pay it, such as at the time of payment or receipt.
-- **Cheap to run:** the cost of collecting the tax and the cost to taxpayers of complying are small compared with what it raises. Both are estimated and published.
-- **Neutral:** the tax does not steer choices about work, saving, investment, or how to organize a business, except where steering is the tax's stated purpose under [§4.2 Taxes on Harm](#42-taxes-on-harm).
-- **Visible:** taxpayers can see the tax and know what they paid. No tax is hidden inside another charge.
-- **Adequate and stable:** the tax system as a whole raises what the budgets adopted under [Chapter Twenty-Four §3 What Assemblies Decide](core_24.000_assemblies.md#3-what-assemblies-decide) need, without frequent changes.
-- **Enforceable:** the tax can be enforced evenly with the information the revenue office can lawfully obtain, so honest taxpayers are not left to carry those who evade.
+- **Lawful and open:**
+  - **Lawful:** the tax is enacted by the assembly's general rule, within the tier's matters, and states its base, its rates, who owes it, and when.
+  - **Visible:** taxpayers can see the tax and know what they paid. No tax is hidden inside another charge.
+- **Fair:**
+  - **Between equals:** taxpayers in the same economic position pay the same tax. Two ways of earning, holding, or spending the same amount are taxed alike unless the assembly states a reason tied to the tax's purpose.
+  - **By ability to pay:** the tax system taken as a whole asks more of those with more. A tax that falls harder on those with less is allowed only as part of a system that offsets it, and the assembly publishes the combined effect.
+- **Easy to use:**
+  - **Simple:** an ordinary taxpayer can learn from a plain-language summary what is taxed, at what rate, and what they must do.
+  - **Certain:** the amount owed, the due date, and the way to pay can be worked out in advance from published rules, without needing an official's discretion.
+  - **Convenient:** the tax is collected at a time and in a way that suits those who pay it, such as at the time of payment or receipt.
+- **Efficient:**
+  - **Cheap to run:** the cost of collecting the tax and the cost to taxpayers of complying are small compared with what it raises. Both are estimated and published.
+  - **Neutral:** the tax does not steer choices about work, saving, investment, or how to organize a business, except where steering is the tax's stated purpose under [§4.2 Taxes on Harm](#42-taxes-on-harm).
+- **Dependable:**
+  - **Adequate and stable:** the tax system as a whole raises what the budgets adopted under [Chapter Twenty-Four §3 What Assemblies Decide](core_24.000_assemblies.md#3-what-assemblies-decide) need, without frequent changes.
+  - **Enforceable:** the tax can be enforced evenly with the information the revenue office can lawfully obtain, so honest taxpayers are not left to carry those who evade.
 
 <a id="4-good-tax-policies"></a>
 
