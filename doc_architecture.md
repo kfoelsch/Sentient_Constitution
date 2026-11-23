@@ -1546,4 +1546,8 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - [MINIMUM_VIABLE_ADOPTER.md](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md) v0.4: profiles 1 and 2 gain a **Remedy route** row; profile 3 gains an **Intake ceiling and overflow** row (about 42 Tier C matters per remedy FTE a year; overflow body named in advance, triggered at about 70% of ceiling).
 - Resolution sections in the remedy-capacity desk test and the endorsement exercises; the two TODO items are checked; the shelved LEQU note now says only the real-evaluator run stays shelved.
 
+**Nine hundred and seventy-third move (Chapter Twenty-Eight "Who decides" as bullets; 2026-11-23; layout only, no rule changed; number provisional under MOVE-NUMBER-01).** Decision (custodian, in the project chat: "In chapter 28, bullets here please"). What changed:
+
+- The *Who decides* paragraph in [Chapter Twenty-Eight §4](core_28.000_non_regression.md#4-substantive-test-1--substantive-non-regression-validity) is now a list with four labelled bullets (decider, timing, review, proposer's statement). The wording is unchanged apart from the list form.
+
 **Next file:** [README.md](README.md)

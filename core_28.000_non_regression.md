@@ -170,7 +170,11 @@ Invalidity includes indirect narrowing through:
 - observability degradation; or
 - emergency re-labeling.
 
-**Who decides.** Whether a proposed amendment fails Substantive Test 1 is decided by the **Constitutional Forum**, in a published determination with reasons under **Article XXVI-A** (*Bounded Interpretive Mandate and Public Reasons*). The determination follows the amendment comment window in **Chapter Twenty-Nine §13.3** (*Proposal, Hearing, and Comment Window*), and it is open to independent review under **Article XXVI-B** (*Challenge Rights and Independent Review*). A proposer's own statement that a change is not a weakening is an input to that determination, not the determination.
+**Who decides:**
+- **Decider:** Whether a proposed amendment fails Substantive Test 1 is decided by the **Constitutional Forum**, in a published determination with reasons under **Article XXVI-A** (*Bounded Interpretive Mandate and Public Reasons*);
+- **Timing:** The determination follows the amendment comment window in **Chapter Twenty-Nine §13.3** (*Proposal, Hearing, and Comment Window*);
+- **Review:** The determination is open to independent review under **Article XXVI-B** (*Challenge Rights and Independent Review*); and
+- **Proposer's statement:** A proposer's own statement that a change is not a weakening is an input to that determination, not the determination.
 
 **Replacing a mechanism.** Replacing a mechanism, office, or body is not a weakening where the protection it served is carried at least as strongly by the replacement or by another mechanism. The affected body's own claim that its replacement weakens a protection is an input to the determination, not the determination.
 
