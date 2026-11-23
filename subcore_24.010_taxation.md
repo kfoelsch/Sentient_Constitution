@@ -232,12 +232,15 @@ Penalties and interest follow these rules:
 
 The revenue office enforces evenly by these rules:
 
-- **Published selection:** returns are chosen for audit by published risk criteria and by random sample, never by the taxpayer's viewpoint, affiliation, or protected characteristic, and never at the request of an official with a personal or political interest.
-- **No lighter touch at the top:** the audit rate for the highest-income tenth of taxpayers, and for the largest institutions, is no lower than the audit rate for those claiming tax breaks meant for low incomes.
-- **Substance over form:** a published general anti-avoidance rule lets the office tax an arrangement by what it actually does where its main purpose is to avoid tax against the rule's intent. A taxpayer may ask in advance whether the rule applies.
-- **Institutions answer for their systems:** an institution is responsible for the tax effects of the systems it runs, including automated and high-autonomy systems, as for its own acts.
-- **Cooperation across borders:** a polity shares tax information with other adopters and other polities only under published agreements that protect confidentiality.
-- **Reports from insiders:** anyone may report evasion, and is protected from retaliation for doing so in good faith.
+- **Choosing whom to audit:**
+  - **Published selection:** returns are chosen for audit by published risk criteria and by random sample, never by the taxpayer's viewpoint, affiliation, or protected characteristic, and never at the request of an official with a personal or political interest.
+  - **No lighter touch at the top:** the audit rate for the highest-income tenth of taxpayers, and for the largest institutions, is no lower than the audit rate for those claiming tax breaks meant for low incomes.
+- **Closing gaps:**
+  - **Substance over form:** a published general anti-avoidance rule lets the office tax an arrangement by what it actually does where its main purpose is to avoid tax against the rule's intent. A taxpayer may ask in advance whether the rule applies.
+  - **Institutions answer for their systems:** an institution is responsible for the tax effects of the systems it runs, including automated and high-autonomy systems, as for its own acts.
+- **Finding evasion:**
+  - **Cooperation across borders:** a polity shares tax information with other adopters and other polities only under published agreements that protect confidentiality.
+  - **Reports from insiders:** anyone may report evasion, and is protected from retaliation for doing so in good faith.
 
 <a id="74-limits-on-collection"></a>
 
