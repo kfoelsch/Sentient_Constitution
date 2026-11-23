@@ -1539,4 +1539,11 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - A new section, *Outside-reader and real-use items (shelved 2026-11-23)*, in [project/SHELVED.md](project/SHELVED.md) holds, whole and with links adjusted for the `project/` folder: the *Interim Hold standard*, *Process-level granularity — Option B*, and *Whole-project evaluation — open hesitations* sections; the crosswalk-tag and third-Preamble-question items; and the LEQU calibration item. Its header names the parts still open apart from independent reads and the reopen condition.
 - `TODO.md` keeps the core reorganization follow-ups, the Process reader guide decision, the remedy-capacity and exercises items with their gaps, the Claude-project docs item, and the capacity-lock review.
 
+**Nine hundred and seventy-second move (remedy routes in the adopter profiles, free filing, and a slot tie rule; 2026-11-23; number provisional under MOVE-NUMBER-01).** Decision (custodian: "please implement your suggestion"). What changed:
+
+- [Chapter Fifteen §8](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes), shared slot method, gains a tie rule: when independent estimates of one verified benefit or loss fall on both sides of a slot boundary, the lower slot is assigned unless the higher one is shown on the Standing Record by the applicable evidence standard, and the spread is recorded.
+- [Subcore 22-A §3](subcore_22.010_forum_intake_default_venue.md#3-intake-triage-body-first-touch-desk) gains *Filing is free to the claimant*: filing, intake, and routing cost the claimant nothing, and no fee, deposit, or cost-shifting order falls on a claimant for a matter that is heard. Abusive filings under published rules and claimant-support funding are left open. Plain-terms line updated.
+- [MINIMUM_VIABLE_ADOPTER.md](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md) v0.4: profiles 1 and 2 gain a **Remedy route** row; profile 3 gains an **Intake ceiling and overflow** row (about 42 Tier C matters per remedy FTE a year; overflow body named in advance, triggered at about 70% of ceiling).
+- Resolution sections in the remedy-capacity desk test and the endorsement exercises; the two TODO items are checked; the shelved LEQU note now says only the real-evaluator run stays shelved.
+
 **Next file:** [README.md](README.md)

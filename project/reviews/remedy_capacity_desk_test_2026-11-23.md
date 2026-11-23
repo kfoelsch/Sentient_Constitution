@@ -42,7 +42,10 @@ So one remedy FTE carries about **105** Tier L matters, **42** Tier C matters, o
 
 **Gap 3 (core, for the custodian): no explicit rule that filing for a remedy is free to the claimant.** Article XVII-C bars costs that defeat a challenge, and Subcore 22-A bars fees used to defeat routing, but no core rule says plainly that opening a remedy matter costs the claimant nothing. *Option:* one sentence in Chapter Twenty-Two or Subcore 22-A that filing, intake, and routing are free to the claimant, and that fees or cost-shifting may not fall on a claimant for a matter that is heard. This is a choice for the custodian.
 
-## 6. Not done
+## 6. Resolution
+
+The custodian approved the recommendations ("please implement your suggestion"), and the 972nd move made them. Profiles 1 and 2 in [MINIMUM_VIABLE_ADOPTER.md](../../implementation/adoption/MINIMUM_VIABLE_ADOPTER.md#61-profile-1--operations-guide-crew) gain a **Remedy route** row (Gap 1). Profile 3 gains an **Intake ceiling and overflow** row (Gap 2). [Subcore 22-A §3](../../subcore_22.010_forum_intake_default_venue.md#3-intake-triage-body-first-touch-desk) gains *Filing is free to the claimant* (Gap 3).
+
+## 7. Not done
 
 - Real caseload and hours: these need an adopter's figures.
-- The profile edits in Gaps 1 and 2, and the core sentence in Gap 3, wait for the custodian.

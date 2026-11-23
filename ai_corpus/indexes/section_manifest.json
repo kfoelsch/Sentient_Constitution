@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-23T22:32:10+00:00",
+  "generated_at": "2026-11-23T23:05:33+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -592,9 +592,9 @@
       ]
     },
     "core_15.000_standing_measurement.md": {
-      "total_lines": 646,
+      "total_lines": 647,
       "sections": [
-        {"header":"CHAPTER FIFTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?","level":1,"line_start":1,"line_end":646,"anchor":null},
+        {"header":"CHAPTER FIFTEEN: STANDING MEASUREMENT — QUESTION 2, HOW GOOD OR BAD WAS IT?","level":1,"line_start":1,"line_end":647,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":41,"line_end":73,"anchor":null},
         {"header":"2. Why Standing Measurement Exists","level":3,"line_start":74,"line_end":98,"anchor":"#2-why-standing-measurement-exists"},
         {"header":"3. Question 2 — How Good or Bad Was It?","level":3,"line_start":99,"line_end":177,"anchor":null},
@@ -610,18 +610,18 @@
         {"header":"5. Route Descriptor Catalogs and Measurement Roles","level":3,"line_start":299,"line_end":331,"anchor":null},
         {"header":"5.1 Contribution Route Descriptor Catalog and Measurement Roles","level":4,"line_start":312,"line_end":323,"anchor":"#benefit-route-descriptors-q1-measurement-role"},
         {"header":"5.2 Violation Route Descriptor Catalog and Measurement Roles","level":4,"line_start":324,"line_end":331,"anchor":"#benefit-route-descriptors-q2-measurement-role"},
-        {"header":"6. Slot Grammar and Shared Scaling","level":3,"line_start":332,"line_end":401,"anchor":"#651-what-the-slot-grammar-does"},
+        {"header":"6. Slot Grammar and Shared Scaling","level":3,"line_start":332,"line_end":402,"anchor":"#651-what-the-slot-grammar-does"},
         {"header":"6.1 Table 1 — Slot Display Labels","level":4,"line_start":348,"line_end":367,"anchor":"#711-what-the-slot-grammar-does"},
-        {"header":"6.2 Shared Impact-Scaling Rules","level":4,"line_start":368,"line_end":401,"anchor":null},
-        {"header":"7. Constitutional Inputs to Axis Assignment","level":3,"line_start":402,"line_end":439,"anchor":null},
-        {"header":"7.1 Definition Inputs","level":4,"line_start":415,"line_end":418,"anchor":null},
-        {"header":"7.2 Principle Inputs","level":4,"line_start":419,"line_end":422,"anchor":null},
-        {"header":"7.3 Rights-Floor and Article Inputs","level":4,"line_start":423,"line_end":439,"anchor":null},
-        {"header":"8. Unified Proportional LEQU Scale — Contribution and Violation Axes","level":3,"line_start":440,"line_end":550,"anchor":null},
-        {"header":"9. Standard Contribution Measures","level":3,"line_start":551,"line_end":572,"anchor":null},
-        {"header":"10. Measurement Illustrations","level":3,"line_start":573,"line_end":581,"anchor":null},
-        {"header":"11. Hand-Off to Question 3 — Cross-Question Measurement Hooks","level":3,"line_start":582,"line_end":646,"anchor":null},
-        {"header":"11.1 Similar-Looking Facts That Must Stay Separate","level":4,"line_start":627,"line_end":646,"anchor":null}
+        {"header":"6.2 Shared Impact-Scaling Rules","level":4,"line_start":368,"line_end":402,"anchor":null},
+        {"header":"7. Constitutional Inputs to Axis Assignment","level":3,"line_start":403,"line_end":440,"anchor":null},
+        {"header":"7.1 Definition Inputs","level":4,"line_start":416,"line_end":419,"anchor":null},
+        {"header":"7.2 Principle Inputs","level":4,"line_start":420,"line_end":423,"anchor":null},
+        {"header":"7.3 Rights-Floor and Article Inputs","level":4,"line_start":424,"line_end":440,"anchor":null},
+        {"header":"8. Unified Proportional LEQU Scale — Contribution and Violation Axes","level":3,"line_start":441,"line_end":551,"anchor":null},
+        {"header":"9. Standard Contribution Measures","level":3,"line_start":552,"line_end":573,"anchor":null},
+        {"header":"10. Measurement Illustrations","level":3,"line_start":574,"line_end":582,"anchor":null},
+        {"header":"11. Hand-Off to Question 3 — Cross-Question Measurement Hooks","level":3,"line_start":583,"line_end":647,"anchor":null},
+        {"header":"11.1 Similar-Looking Facts That Must Stay Separate","level":4,"line_start":628,"line_end":647,"anchor":null}
       ]
     },
     "core_16.000_standing_integration.md": {
@@ -2071,17 +2071,17 @@
       ]
     },
     "subcore_22.010_forum_intake_default_venue.md": {
-      "total_lines": 145,
+      "total_lines": 147,
       "sections": [
-        {"header":"SUBCORE 22-A: FORUM INTAKE AND DEFAULT VENUE","level":1,"line_start":2,"line_end":145,"anchor":"#subcore-22-a-forum-intake-and-default-venue"},
+        {"header":"SUBCORE 22-A: FORUM INTAKE AND DEFAULT VENUE","level":1,"line_start":2,"line_end":147,"anchor":"#subcore-22-a-forum-intake-and-default-venue"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":17,"line_end":22,"anchor":null},
         {"header":"2. Why Default Venue Is Fixed in the Constitution","level":3,"line_start":23,"line_end":48,"anchor":null},
-        {"header":"3. Intake Triage Body (First-Touch Desk)","level":3,"line_start":49,"line_end":67,"anchor":"#3-intake-triage-body-first-touch-desk"},
-        {"header":"4. Routing Sequence at Filing","level":3,"line_start":68,"line_end":79,"anchor":"#4-routing-sequence-at-filing"},
-        {"header":"5. Default Venue Table","level":3,"line_start":80,"line_end":96,"anchor":"#5-default-venue-table"},
-        {"header":"6. Lead-Default Limits","level":3,"line_start":97,"line_end":108,"anchor":"#6-lead-default-limits"},
-        {"header":"7. Special Routing Rules","level":3,"line_start":109,"line_end":129,"anchor":"#7-special-routing-rules"},
-        {"header":"8. Limits on Cross-Institution Coordination","level":3,"line_start":130,"line_end":145,"anchor":"#8-limits-on-cross-institution-coordination"}
+        {"header":"3. Intake Triage Body (First-Touch Desk)","level":3,"line_start":49,"line_end":69,"anchor":"#3-intake-triage-body-first-touch-desk"},
+        {"header":"4. Routing Sequence at Filing","level":3,"line_start":70,"line_end":81,"anchor":"#4-routing-sequence-at-filing"},
+        {"header":"5. Default Venue Table","level":3,"line_start":82,"line_end":98,"anchor":"#5-default-venue-table"},
+        {"header":"6. Lead-Default Limits","level":3,"line_start":99,"line_end":110,"anchor":"#6-lead-default-limits"},
+        {"header":"7. Special Routing Rules","level":3,"line_start":111,"line_end":131,"anchor":"#7-special-routing-rules"},
+        {"header":"8. Limits on Cross-Institution Coordination","level":3,"line_start":132,"line_end":147,"anchor":"#8-limits-on-cross-institution-coordination"}
       ]
     },
     "subcore_22.020_forum_case_seats_contest_routing.md": {

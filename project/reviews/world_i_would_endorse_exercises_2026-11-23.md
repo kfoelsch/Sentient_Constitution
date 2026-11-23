@@ -22,6 +22,10 @@ This page is **process support**, not constitutional text. It cannot change or n
 1. **Exercise 6, threshold ties.** When independent estimates of one verified loss fall on both sides of a slot boundary, the text records uncertainty but does not say which slot to assign. *Option:* the lower slot unless the higher one is shown on the verified record by the applicable evidence standard. This is a measurement choice for the custodian, and it would also close the open half of the LEQU TODO item (evaluator disagreement near thresholds).
 2. **Exercise 2, cost of a reviewer for a small group.** Carried as Gap 1 of the remedy capacity desk test.
 
+## Resolution
+
+The custodian approved the option in point 1 ("please implement your suggestion"), and the 972nd move added a boundary tie rule to the shared slot method in [Chapter Fifteen §8](../../core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes): the lower slot unless the higher one is shown on the Standing Record by the applicable evidence standard, with the spread of estimates recorded. Exercise 6 now **holds** on the text. Point 2 was closed with Gap 1 of the remedy capacity desk test.
+
 ## Not done
 
 - Exercise 6 with real independent evaluators.

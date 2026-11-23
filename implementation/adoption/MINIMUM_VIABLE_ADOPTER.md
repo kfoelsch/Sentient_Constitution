@@ -307,6 +307,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **Order** | Steps 1–3 of [§4](#4-order-of-work). Stop. Attach the [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) |
 | **Staff** | 0.2–1 FTE process (steward doors, reconstructable logs, own-conduct). Independent-review retainer if named |
 | **Funding** | Existing payroll plus a modest legal/review retainer (order 10⁴–10⁵ currency-units / year) |
+| **Remedy route** | Name the independent reviewer who hears complaints about the crew’s conduct. Publish its turnaround against the Tier C window of [Chapter Twenty-Three §5](../../core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (30 days), and state that a claimant pays nothing to file. A retainer carries tens of matters a year at most; say what happens past that |
 | **Honest claim** | “We use stacks as an operations guide.” Not “we adopted” |
 | **Does not fit** | Standing up lock machinery, a merits bench, or CI-6.215 oversight from the same crew |
 
@@ -322,6 +323,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **Order** | Steps 1–4. Do not open Institution Track B or Forum Track B |
 | **Staff** | 2–8 FTE governance overlay (direction, execution, challenge, assurance, publication — merged hosting allowed with published safeguards). Plus paid independent review |
 | **Funding** | Order 10⁵–10⁶ currency-units / year for the overlay and review, on top of ordinary operations |
+| **Remedy route** | Name the paid independent reviewer, which is not the founding crew. Publish its turnaround against the Tier C window of [Chapter Twenty-Three §5](../../core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (30 days), and state that a claimant pays nothing to file. At 0.5–2 FTE on remedy, expect about 20–80 Tier C matters a year |
 | **Honest claim** | “We published a Chapter Three Institutional Charter for this body.” Not “we adopted the Constitution.” Not “we are the oversight body for others” |
 | **Does not fit** | Certification-steward or CI-6.215 oversight of non-consenters. Six live forum families |
 
@@ -337,6 +339,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **Order** | Steps 1–9, with step 7 as **hosted/mapped**, not in-house benches |
 | **Staff** | 8–25 FTE in-house (adoption document custody, Track B functions, remedy file, classification, CS-4.350) **plus** contracted or statutory hosted-forum capacity that is not the founding crew |
 | **Funding** | Order 10⁶–10⁷ currency-units / year in-house, plus whatever the hosted bodies cost, with remedy ≥ lock spend per class |
+| **Intake ceiling and overflow** | One remedy FTE at 70% utilization carries about 42 Tier C matters a year (about 1,500 productive hours, 70% of them on matters, at about 25 hours a Tier C matter: the planning figures in the [remedy-capacity desk test](../../project/reviews/remedy_capacity_desk_test_2026-11-23.md)). Publish the ceiling for the in-house remedy file. Name, in advance, the hosted body or [CF-22.470](../../corpus_forum/cf_22.470_staffing_reserve_capacity_structural_records.md) reserve that takes overflow once published intake passes about 70% of that ceiling, so overflow moves before the Chapter Twenty-Three windows break rather than after a [Chapter Twenty-Two §6.5](../../core_22.000_forum.md#65-capacity-failure-is-heard-outside-the-starved-body) finding |
 | **Honest claim** | “This body adopted, for these systems, and these named independent bodies do the family work.” The map must be usable by a filer |
 | **Does not fit** | Mapping all six families onto the same founding crew. Class A survival-critical systems with only hosted, untested capacity. A forty-person lab that also tries to staff Track B and remedy from the same forty |
 
@@ -431,3 +434,4 @@ Use this as a lookup, not as a new mode.
 | 2026-09-09 | v0.1 | Initial process-support profile: *N* × Class *X*, required vs optional bodies, order of work, order-of-magnitude staff and funding. Names that the full companion stack is not standable by a forty-person lab as written. Not adoption. Not a partial-pack ladder. Does not drop **pre-release**. |
 | 2026-10-04 | v0.2 | §4.1 outlines reusable standard-process recognition as the first operating goal after the adoption document and forum families are live. Outline only; needs a core proposal. Does not drop **pre-release** or add a step to the order of work. |
 | 2026-11-15 | v0.3 | §5.4 gained a row for the onward-transfer rule on core personal data. Kit practice; core text controls. |
+| 2026-11-23 | v0.4 | Profiles 1 and 2 gained a **Remedy route** row (named reviewer, turnaround against the 30-day Tier C window, no claimant filing cost). Profile 3 gained an **Intake ceiling and overflow** row (about 42 Tier C matters per remedy FTE a year; overflow body named in advance, triggered at about 70% of ceiling). From the [remedy-capacity desk test](../../project/reviews/remedy_capacity_desk_test_2026-11-23.md). Kit practice; core text controls. |
