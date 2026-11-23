@@ -1616,4 +1616,9 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - §5.5 now names press and journalistic activity under Article XI-C and protected reporting (whistleblowing), and a new bullet says selecting, withholding to protect a source, or publishing material from constitutional records is not *material omission* or *custody manipulation* under criterion 2. The heading and anchor are unchanged.
 - The §5 plain-terms note says both. The [boundary test record](project/reviews/severe_designation_boundary_tests_2026-11-23.md) records the resolution and the TODO item is checked.
 
+**Nine hundred and sixty-second move (captured-institution replacement route traced; 2026-11-23; process support and TODO only, no rule changed; number provisional under MOVE-NUMBER-01).** What changed:
+
+- New record [project/reviews/captured_institution_replacement_route_test_2026-11-23.md](project/reviews/captured_institution_replacement_route_test_2026-11-23.md) traces the replacement of a captured office through recall (Chapter Twenty-Seven §3.3), referendum (Chapter Twenty-Four §7), amendment (Chapter Twenty-Nine §13.3), the regression objection (Chapter Twenty-Eight §4), and a captured decider (Chapter Twenty-Two §6.3–§6.4). Each has a route the incumbent does not control.
+- Two gaps go to the custodian: Article XXVIII-A accelerated revalidation names no independent owner (Gap A); Chapter Twenty-Eight §4 never says replacing a mechanism is not by itself a weakening (Gap B). The TODO item stays open with this note.
+
 **Next file:** [README.md](README.md)
