@@ -99,6 +99,9 @@ An assembly raises revenue from the sources below in the order given. Before it 
   - **Congestion:** use of crowded roads, airspace, networks, or other shared infrastructure at peak times.
   - **Risk to shared systems:** activity that puts shared systems at risk, such as excess borrowing by large financial institutions.
   - **Harmful products:** the share of a product's harm that falls on sentients other than the buyer.
+  - **Gambling:** [games of chance](subcore_03.070_band_accountability.md#game-of-chance), betting, and [event-contract markets](subcore_03.070_band_accountability.md#event-contract-market) under [Chapter Two §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets), taxed on what operators keep: the stakes they take minus the winnings they pay out. The rate follows these rules instead of the cost-of-harm rate of [§4.3 Taxes on Harm](#43-taxes-on-harm):
+    - **High enough to discourage:** the rate is set to make gambling noticeably costlier, so that it is discouraged.
+    - **Not high enough to feed crime:** the rate stays below the level at which gambling moves to unlicensed or criminal operators. Each year the revenue office publishes an estimate of the share of gambling outside licensed operators. Where that share is material or rising, the assembly lowers the rate or strengthens enforcement against unlicensed operators, and says which in its Act Record.
 - **Third: unearned gains from what is shared or scarce** ([Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure) and [§3.1 Fairness](core_02.000_values_principles.md#31-fairness)):
   - **Land value:** the value of location, under [§4.2 Preferred Designs](#42-preferred-designs).
   - **Natural resources:** royalties on minerals, fuels, and other resources taken from land or sea held in common.
