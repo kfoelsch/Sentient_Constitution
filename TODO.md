@@ -73,7 +73,6 @@ See the [conceptual overview and corpus alignment review](evidence/2026-09-16/co
 - [ ] Test affordable, accessible remedy capacity using the [minimum viable adopter profiles](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md), including actual staffing, cost, delay, and claimant burden.
 - [x] Demonstrate a protected route to replace an institution under capture; test Article XXVII and Chapter Twenty-Seven together. **Done 2026-11-23 (962nd and 963rd moves):** traced in [captured_institution_replacement_route_test_2026-11-23.md](project/reviews/captured_institution_replacement_route_test_2026-11-23.md) (the review's Article XXV is now Article XXVIII and its Chapter Thirteen is now Chapter Twenty-Eight); both gaps closed in Article XXVIII-A (accelerated review is started by anyone affected and decided outside the body under review) and Chapter Twenty-Eight §4 (replacing a mechanism is not by itself a weakening).
 - [ ] Complete and document the eight ordinary-life and failure exercises in the review's “The world I would endorse” section.
-- [ ] Complete the redesigned human operator sitting and independent review under [evaluation/HUMAN_SITTING_PROTOCOL.md](evaluation/HUMAN_SITTING_PROTOCOL.md); file results under `evaluation/results/`.
 
 ### Chapter structure — open follow-ups (carried from the archived move log, 2026-11-14)
 

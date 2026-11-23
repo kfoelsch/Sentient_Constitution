@@ -1642,4 +1642,8 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - [Chapter Fourteen §4.3](core_14.000_standing_assessment.md#43-protected-dissent-is-not-a-trigger) now says press and journalistic activity under Article XI-C and protected reporting are not verified triggers either, matching Chapter Twenty §5.5 (961st move); separable conduct is still recorded without aggravation for the viewpoint, cause, or target of the protest, reporting, or disclosure. The heading and anchor are unchanged.
 - [Chapter Twenty-Three §5.1](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) *No normalization* now cites Chapter Twenty-Nine where permanence would amend this Constitution and Chapter Thirty-One where it would newly bind implementation text; it cited Chapter Thirty-One alone.
 
+**Nine hundred and sixty-seventh move (human sitting item shelved; 2026-11-23; organization only, no rule changed; number provisional under MOVE-NUMBER-01).** Decision (custodian, in the project thread: "shelve the human sittings please"). What changed:
+
+- The TODO item *Complete the redesigned human operator sitting and independent review* moves whole to a new section, *Human sitting items (shelved 2026-11-23)*, in [project/SHELVED.md](project/SHELVED.md), with its link adjusted for the `project/` folder and a reopen condition (human sitters available).
+
 **Next file:** [README.md](README.md)

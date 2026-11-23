@@ -80,6 +80,14 @@ Translations remain paused under the standing decision in [project/MEMLOG.md](ME
 - [ ] **Structured section 2 across the corpus (custodian, 2026-11-18).** Section 2 is not yet consistent from chapter to chapter. Make it a fixed structure: open with why the chapter exists, then state its grounding in plain view by turning the upstream part of the chapter's Trace widget into prose links to the Chapter Two principles and Chapter Four Articles it serves. Suggested shape: keep the long downstream and read-with lists in the widget (they are maintainer material), move only the upstream principles and Articles into a short visible "Grounded in" paragraph, and add an audit that checks each section 2 has that paragraph and the why heading (would also close CHAPTER-S2-WHY-01). Work chapter by chapter; translations follow later. **Update 2026-11-19 (758th move):** the Grounded in block is a bulleted list (Chapter Two principles, then Chapter Four Articles, one link per line), not a prose paragraph; see CHAPTER-S2-WHY-01 in doc_architecture.md. The planned audit should check that form. **Update 2026-11-20 (823rd move):** every core chapter now has its §2 *Why … Exists*, inserted in the renumbering from the reviewed drafts, with the Grounded in list where the chapter had one ready. **Update 2026-11-20 (833rd move):** the CHAPTER-S2-WHY audit is in place (`make chapter-s2-why-audit`, chapter lead files and subcore files). Every chapter lead file except Chapter Two and every subcore file passes it. **Update 2026-11-23 (948th move):** the Grounded in items that repeated in the chapter-opening Trace widgets are removed (49 entries in 23 files). Remaining: translations.
 - [ ] Stale translation drafts (509th move): about 2,774 chunks in `project/translation_drafts/2026-10-25` quote English that no longer exists in the corpus. They could be dropped from the consolidated files, but that is translation material and English sessions do not edit it; wait for the mapping script (see *Translation synchronization* above) or an explicit instruction.
 
+## Human sitting items (shelved 2026-11-23)
+
+**Shelved:** 2026-11-23, custodian ("shelve the human sittings please"). **Why:** a sitting needs human operators and an independent reviewer, who are not yet lined up. **Reopens when:** the custodian has human sitters available.
+
+From *Conceptual overview, lived-experience validation, and evaluation*:
+
+- [ ] Complete the redesigned human operator sitting and independent review under [evaluation/HUMAN_SITTING_PROTOCOL.md](../evaluation/HUMAN_SITTING_PROTOCOL.md); file results under `evaluation/results/`.
+
 ## Decided, not shelved
 
 Recorded here so they are not reopened by mistake.
