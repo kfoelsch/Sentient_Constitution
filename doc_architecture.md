@@ -1555,4 +1555,9 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - Eight snapshots that repeated a later one almost line for line were merged into it and removed: `MEMLOG_SNAPSHOT_2026-11-02`, `-11-08`, `-11-11`, `-11-12`, and `-11-14` into [MEMLOG_SNAPSHOT_2026-11-14b](archive/MEMLOG_SNAPSHOT_2026-11-14b.md); `TODO_SNAPSHOT_2026-11-08` and `-11-11` into [TODO_SNAPSHOT_2026-11-12](archive/TODO_SNAPSHOT_2026-11-12.md); and `TODO_SNAPSHOT_2026-11-14` into [TODO_SNAPSHOT_2026-11-14b](archive/TODO_SNAPSHOT_2026-11-14b.md). Each kept file ends with a *Merged earlier snapshots* section quoting the few lines found only in a removed file (five lines in all). Links in `TODO.md`, `project/MEMLOG.md`, the archived move logs, and the snapshots themselves now point to the kept file; Git history keeps the originals.
 - The TODO item *NU-4 cadence* is closed: the 695th move had already replaced the annual-or-tighter NU-4 wording with the class-based review cadence, and none remains.
 
+**Nine hundred and forty-seventh move (CI-6.205 formation template gains the enforcement and emergency contacts field; 2026-11-23; number provisional under MOVE-NUMBER-01).** Closes the last drafting part of the TODO item *Special enforcement chapter*. What changed:
+
+- [CI-6.205 §6.3](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-63-minimum-fields-formation-template) gains field 12, *Enforcement and emergency contacts*, matching [Chapter Five §5.1](core_05.000_charters.md#51-what-a-system-charter-states) item 10 (added by the 661st move) and deferring to it if the two differ. The template keeps its own numbering, so the new field is 12, not 10. The §6 summary now says twelve fields, and §6.4 says an Institutional Charter states fields 1 to 12.
+- Chapter Five's reader guide said §5.1 lists "nine items"; it now says ten, in both places.
+
 **Next file:** [README.md](README.md)

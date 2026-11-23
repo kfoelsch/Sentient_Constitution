@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-23T19:05:18+00:00",
+  "generated_at": "2026-11-23T19:25:05+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -2895,23 +2895,23 @@
       ]
     },
     "corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md": {
-      "total_lines": 394,
+      "total_lines": 395,
       "sections": [
-        {"header":"CI-6.205: Institutional Design, Separation of Powers, and Authority Custody","level":1,"line_start":1,"line_end":394,"anchor":null},
+        {"header":"CI-6.205: Institutional Design, Separation of Powers, and Authority Custody","level":1,"line_start":1,"line_end":395,"anchor":null},
         {"header":"CI-6.205 §1: Non-Delegable Governing Duties","level":2,"line_start":87,"line_end":98,"anchor":null},
         {"header":"CI-6.205 §2: Functional Separation Lanes","level":2,"line_start":99,"line_end":112,"anchor":null},
         {"header":"CI-6.205 §3: Authority Chain and Delegation Controls","level":2,"line_start":113,"line_end":130,"anchor":null},
         {"header":"CI-6.205 §4: Emergency Delegation","level":2,"line_start":131,"line_end":136,"anchor":null},
         {"header":"CI-6.205 §5: Risk Profile Requirement","level":2,"line_start":137,"line_end":142,"anchor":null},
-        {"header":"CI-6.205 §6: System and Institutional Charter Contents, Review, and Formation Template","level":2,"line_start":143,"line_end":394,"anchor":null},
+        {"header":"CI-6.205 §6: System and Institutional Charter Contents, Review, and Formation Template","level":2,"line_start":143,"line_end":395,"anchor":null},
         {"header":"CI-6.205 §6.1: Owner Boundary","level":3,"line_start":185,"line_end":206,"anchor":null},
         {"header":"CI-6.205 §6.2: Who Must Publish","level":3,"line_start":207,"line_end":223,"anchor":null},
-        {"header":"CI-6.205 §6.3: Minimum Fields (Formation Template)","level":3,"line_start":224,"line_end":282,"anchor":null},
-        {"header":"CI-6.205 §6.4: Institutional Charter Additions","level":3,"line_start":283,"line_end":299,"anchor":null},
-        {"header":"CI-6.205 §6.5: Formation Check Statement Template","level":3,"line_start":300,"line_end":329,"anchor":null},
-        {"header":"CI-6.205 §6.6: Scheduled Review","level":3,"line_start":330,"line_end":350,"anchor":"#ci-6205-66-periodic-review"},
-        {"header":"CI-6.205 §6.7: Anti-Evasion","level":3,"line_start":351,"line_end":374,"anchor":null},
-        {"header":"CI-6.205 §6.8: Systems and Businesses","level":3,"line_start":375,"line_end":394,"anchor":null}
+        {"header":"CI-6.205 §6.3: Minimum Fields (Formation Template)","level":3,"line_start":224,"line_end":283,"anchor":null},
+        {"header":"CI-6.205 §6.4: Institutional Charter Additions","level":3,"line_start":284,"line_end":300,"anchor":null},
+        {"header":"CI-6.205 §6.5: Formation Check Statement Template","level":3,"line_start":301,"line_end":330,"anchor":null},
+        {"header":"CI-6.205 §6.6: Scheduled Review","level":3,"line_start":331,"line_end":351,"anchor":"#ci-6205-66-periodic-review"},
+        {"header":"CI-6.205 §6.7: Anti-Evasion","level":3,"line_start":352,"line_end":375,"anchor":null},
+        {"header":"CI-6.205 §6.8: Systems and Businesses","level":3,"line_start":376,"line_end":395,"anchor":null}
       ]
     },
     "corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md": {

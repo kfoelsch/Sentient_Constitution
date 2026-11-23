@@ -431,9 +431,9 @@ The fifth limit works on one act of an Institution, exercising new material auth
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): how this section is laid out</span></strong></summary>
 
-- [§5.1 What a System Charter States](#51-what-a-system-charter-states) lists the nine items.
+- [§5.1 What a System Charter States](#51-what-a-system-charter-states) lists the ten items.
 - [§5.2 Charter Pointers](#52-charter-pointers) says that a System Charter or Institutional Charter may refer to another published document instead of copying its text, and what makes that reference valid.
-- [§5.3 What an Institutional Charter Adds](#53-what-an-institutional-charter-adds) covers what an Institutional Charter holds beyond the nine items: the System Charters of the Systems the Institution runs, and why it runs them.
+- [§5.3 What an Institutional Charter Adds](#53-what-an-institutional-charter-adds) covers what an Institutional Charter holds beyond the ten items: the System Charters of the Systems the Institution runs, and why it runs them.
 - [§5.4 Acts That Need a Practice Licence or Practice Clearance](#54-acts-that-need-a-practice-licence-or-practice-clearance) says that a System Charter or Institutional Charter may claim such an act only if every sentient who performs it holds the licence or clearance, or works as a learner under a supervisor who does. Until then, the act is listed as out of scope (item 4 in [§5.1 What a System Charter States](#51-what-a-system-charter-states)).
 - [§5.5 Scaling](#55-scaling) says what changes with class.
 
