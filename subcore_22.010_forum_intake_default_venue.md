@@ -122,7 +122,7 @@ These rules apply on top of the default venue table in **section 5**. **Section 
 - **System-alignment sign-off:**
   - Official **constitutional alignment certification** for new materially impactful systems, and **ongoing alignment validation** for existing ones, default to **Integrity** as lead. So does institutional alignment certification of an Institution, which keeps **Institutional** forums as holders of the institutional mandate and duty-compliance components.
   - Integrity uses technical-forum inputs plus constitutional, institutional, ecological, rights, and anti-capture requirements.
-  - Where the system has material ecological exposure, environmental-precondition dependency, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk, the **Environment** forum family must complete its environmental-alignment review (sign-off or objection) before certification, validation, recertification, or material release from environmental conditions may become final.
+  - The **Environment** forum family's environmental-alignment review (sign-off or objection) comes first wherever [Chapter Twenty-Three §3.5 Integrity Forums](core_23.000_forum_families_escalation_timeliness_support.md#35-integrity-forums) requires it.
   - Keep referrals or sending for ruling to **Technical Forum Domains**, **Institutional**, **Environment**, **Sentient**, and **Constitutional** for component questions those families own.
 
 <a id="8-limits-on-cross-institution-coordination"></a>
