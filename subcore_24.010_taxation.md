@@ -163,16 +163,19 @@ No assembly, executive, or revenue office may:
 
 The designs below are disfavored. An assembly may use one only if its Act Record states why no preferred design under [§4 Good Tax Policies](#4-good-tax-policies) would serve, and an independent seat reviews and publishes an opinion on those reasons before the vote:
 
-- **Narrow breaks:** a tax break that benefits a single taxpayer, a named industry, or a small group.
-- **Tax breaks without a lapse date:** a tax break with no end date or no measure of success.
-- **High combined rates:** a design in which a sentient loses more than seventy percent of an extra unit earned to taxes and benefit withdrawals combined, at any income.
-- **Cascading taxes:** a tax on gross turnover at each stage of production, so that tax is charged on tax, except the simplified small-taxpayer method of [§4.1 Preferred Designs](#41-preferred-designs).
-- **Head taxes:** a fixed tax per sentient or per household, regardless of means.
-- **Amnesties:** forgiving penalties or tax for those who did not comply. No more than one amnesty may be offered in any **amnesty interval**, which is ten years, and those who used an earlier one may not use another.
-- **Temporary taxes made permanent:** renewing a tax enacted as temporary.
-- **Earmarking that hides choices:** tying a tax's revenue to one use in a way that keeps the assembly from weighing that use against others in the budget.
-- **Double taxation:** taxing the same income or transaction twice, across taxes or across tiers, without a credit for the tax already paid.
-- **Complexity that needs paid help:** a tax that an ordinary taxpayer cannot reasonably file without paying an adviser.
+- **Breaks for the few:**
+  - **Narrow breaks:** a tax break that benefits a single taxpayer, a named industry, or a small group.
+  - **Tax breaks without a lapse date:** a tax break with no end date or no measure of success.
+  - **Amnesties:** forgiving penalties or tax for those who did not comply. No more than one amnesty may be offered in any **amnesty interval**, which is ten years, and those who used an earlier one may not use another.
+- **Burdens that pile up:**
+  - **High combined rates:** a design in which a sentient loses more than seventy percent of an extra unit earned to taxes and benefit withdrawals combined, at any income.
+  - **Head taxes:** a fixed tax per sentient or per household, regardless of means.
+  - **Cascading taxes:** a tax on gross turnover at each stage of production, so that tax is charged on tax, except the simplified small-taxpayer method of [§4.1 Preferred Designs](#41-preferred-designs).
+  - **Double taxation:** taxing the same income or transaction twice, across taxes or across tiers, without a credit for the tax already paid.
+- **Taxes hard to see or use:**
+  - **Temporary taxes made permanent:** renewing a tax enacted as temporary.
+  - **Earmarking that hides choices:** tying a tax's revenue to one use in a way that keeps the assembly from weighing that use against others in the budget.
+  - **Complexity that needs paid help:** a tax that an ordinary taxpayer cannot reasonably file without paying an adviser.
 
 <a id="6-ease-of-use"></a>
 
@@ -182,15 +185,18 @@ The designs below are disfavored. An assembly may use one only if its Act Record
 
 Every tier that taxes, and the revenue office that collects for it, must meet these duties:
 
-- **Plain language:** each tax has a plain-language summary, published with the rule, that says who owes it, on what, at what rate, and what to do.
-- **One code:** each tier keeps its tax rules in one published, consolidated, searchable code, with every change dated.
-- **Free filing:** every taxpayer can file and pay for free, through the revenue office's own service, without buying software or advice.
-- **Pre-filled where possible:** a sentient whose income is all reported by third parties receives a prepared return to confirm. **Default target:** confirming takes under thirty minutes.
-- **Free help:** free help is available face to face and remotely, in the languages and formats required by [Article VI-D](core_04.010_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*).
-- **Binding answers:** written guidance from the revenue office binds the office in the taxpayer's favor where the taxpayer relied on it in good faith.
-- **Payment plans:** a taxpayer who cannot pay at once may pay by instalments on published terms.
-- **Prompt refunds:** overpaid tax is refunded within a published time, with interest at the same rate the office charges on late tax.
-- **Measured burden:** the revenue office measures and publishes each year the time and cost of complying, by kind of taxpayer.
+- **Clear rules:**
+  - **Plain language:** each tax has a plain-language summary, published with the rule, that says who owes it, on what, at what rate, and what to do.
+  - **One code:** each tier keeps its tax rules in one published, consolidated, searchable code, with every change dated.
+  - **Binding answers:** written guidance from the revenue office binds the office in the taxpayer's favor where the taxpayer relied on it in good faith.
+- **Free and easy filing:**
+  - **Free filing:** every taxpayer can file and pay for free, through the revenue office's own service, without buying software or advice.
+  - **Pre-filled where possible:** a sentient whose income is all reported by third parties receives a prepared return to confirm. **Default target:** confirming takes under thirty minutes.
+  - **Free help:** free help is available face to face and remotely, in the languages and formats required by [Article VI-D](core_04.010_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*).
+- **Fair payment and follow-up:**
+  - **Payment plans:** a taxpayer who cannot pay at once may pay by instalments on published terms.
+  - **Prompt refunds:** overpaid tax is refunded within a published time, with interest at the same rate the office charges on late tax.
+  - **Measured burden:** the revenue office measures and publishes each year the time and cost of complying, by kind of taxpayer.
 
 <a id="7-enforcement"></a>
 
