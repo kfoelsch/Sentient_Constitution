@@ -248,7 +248,10 @@ The revenue office enforces evenly by these rules:
 
 Collection is limited by these rules:
 
-- **Time limit:** the office may reassess a period only within the **reassessment period**. **Defaults:** the reassessment period is three years after the return is filed, or six years where the tax understated is more than a quarter of the correct tax; no limit for fraud or for a return never filed.
+- **Time limit:** once a return is filed, the revenue office may go back and change the tax owed for that period (reassess it) only within the **reassessment period**, counted from the date the return was filed. After that, the amount is final. **Defaults:**
+  - **Ordinary returns:** the reassessment period is three years.
+  - **Large understatements:** the reassessment period is six years where the return left out more than a quarter of the tax actually owed. For example, if the correct tax was 1,000 and the return showed less than 750, the six-year reassessment period applies.
+  - **Fraud or no return:** there is no time limit where the taxpayer committed fraud or never filed a return, because the office could not have known what to check.
 - **Survival is protected:** collection never takes what a sentient needs to meet the [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*) floor, including a basic home, food, medical needs, and the tools of the taxpayer's work up to a published value.
 - **Contest before paying:** while a first independent appeal is pending, collection of the disputed amount is paused, unless a forum finds a real risk that assets will be moved out of reach, in which case it may require security.
 - **Due process for force:** seizing property or freezing accounts needs prior written notice and a chance to be heard, except where a forum authorizes it to prevent assets being moved out of reach. Any freeze or seizure also meets [Chapter Twenty-Six §4 Money, Assets, and Seizure](core_26.000_special_enforcement.md#4-money-assets-and-seizure).
