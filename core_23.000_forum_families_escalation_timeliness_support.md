@@ -864,7 +864,7 @@ This subsection sets the requirements and the operating rules for emergency meas
 - **No normalization:** Emergency measures must not normalize into permanent governance without:
   - **Chapter Two**-consistent justification (**Necessity** and **Proportionality**);
   - **documented independent reauthorization**;
-  - **Chapter Thirty-One** procedures where permanence would amend or newly bind the adopted corpus.
+  - [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) amendment procedure where permanence would amend this Constitution, and [Chapter Thirty-One](core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) incorporation where it would newly bind implementation text in the adopted corpus.
 
 <a id="6-forum-support-before-during-and-after-review--oversight-architecture"></a>
 

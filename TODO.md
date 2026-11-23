@@ -115,7 +115,7 @@ Plan for pinning these down: [evaluation_hesitations_identification_2026-11-15.m
 
 ### P1 — Regression and evidence
 
-- [x] Complete first-pass validation of the 35 Humanity/Individual stress-pack rows (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`) and publish procedures, expected outcomes, and run evidence under the restored evidence tree. **Done 2026-11-23 (964th and 965th moves):** all 35 rows have setups and expected outcomes and pass a first-pass, single-reader tabletop run ([RS-IND](evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md), [RS-HUM and RS-XD](evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md)). The independent read is not done. Two notes went to the custodian: Chapter Fourteen §4.3 does not yet name journalism or protected reporting, and Chapter Twenty-Three §5.1 names only Chapter Thirty-One for making an emergency measure permanent.
+- [x] Complete first-pass validation of the 35 Humanity/Individual stress-pack rows (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`) and publish procedures, expected outcomes, and run evidence under the restored evidence tree. **Done 2026-11-23 (964th and 965th moves):** all 35 rows have setups and expected outcomes and pass a first-pass, single-reader tabletop run ([RS-IND](evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md), [RS-HUM and RS-XD](evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md)). The independent read is not done. Both notes were fixed in the 966th move (custodian: "please"): Chapter Fourteen §4.3 now names journalism and protected reporting, and Chapter Twenty-Three §5.1 cites Chapter Twenty-Nine for amendment and Chapter Thirty-One for incorporation.
 
 ## TODO Maintenance and Archives
 
