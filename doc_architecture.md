@@ -1580,4 +1580,11 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - [PRINCIPLE_TO_DEFINITIONS_MAP.md](project/plain_language/PRINCIPLE_TO_DEFINITIONS_MAP.md) gains a §16.5 row, added by hand from the §16.5 definitions widget, because the source matrix CSV the generator reads is no longer in the tree (as for the §17.7 row).
 - Not done: a steward-door card for automation in `implementation/STEWARD_ENTRY_DOORS.md`, which would need a new next-step class in its JSON schema.
 
+**Nine hundred and fifty-first move (Chapter Twenty chart rendered; Trust Lock pointer; 2026-11-23; no rule changed; number provisional under MOVE-NUMBER-01).** Closes the TODO item *Chapter Twenty chart*. What changed:
+
+- The [Chapter Twenty](core_20.000_misconduct_designation.md) flow chart (§6 to §7 and the three parallel tracks) was rendered with Mermaid 10.9.1 in a headless browser. Every box on the main line shares one centre, the three-track group is centred under §7, and the hand-off to Chapter Sixteen is centred under the package, so VIS-CHART-CENTER-05 is met.
+- §7.2 *Mandatory special lock* kept "Chapter Sixteen must attach", which matches Chapter Sixteen's owner sentence and Chapter Twenty-One's "Only Chapter Sixteen attaches". Its last clause said the Trust Lock rules "remain in Chapter Sixteen" while linking Chapter Eighteen §4.5. It now says they remain in the standing-effect chapters, Chapters Sixteen to Nineteen, starting at that section.
+
+**Nine hundred and fifty-second move (Chapter Twenty-Eight §6 names each owner; 2026-11-23; number provisional under MOVE-NUMBER-01).** Decision (custodian, in the project thread: chose "Name each owner"). [Chapter Twenty-Eight §6 Layer Scope](core_28.000_non_regression.md#6-layer-scope) listed five protected domains against four chapters ("Chapters Fifteen, Twelve, Thirteen, and Seventeen respectively"), three of them left from old numbering. Each domain now names its owner: final offense classification (Chapter Fifteen for the slot, Chapter Twenty for the designation), sanction taxonomy (Chapters Sixteen to Nineteen), standing measurement (Chapter Fifteen), adjudicative workflow (Chapter Twenty-Two), and procedural amendment validity (Chapter Twenty-Nine). Chapter Twenty-Nine §3 heightened review applies.
+
 **Next file:** [README.md](README.md)
