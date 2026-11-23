@@ -36,10 +36,7 @@ Subcore 3-A is the constitutional owner of **definition structure and component 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Preamble §1 The Model](core_00.000_preamble.md#the-model) —
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad),
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), and
-  - [material stake](core_00.000_preamble.md#material-stake) scaling apply chapter-wide through section traces;
+  - [Preamble §1 The Model](core_00.000_preamble.md#the-model);
   - [Chapter Two §1 Purpose, Role, and Scope](core_02.000_values_principles.md#1-purpose-role-and-scope) (2.000 §1) (*values and constraints this definition stack serves*).
 - Upstream: [Subcore 3-A opening](#subcore-3-a-definition-structure-and-component-requirements) — O/M/A/C decomposition and internal-alignment requirement.
 - Tetrad leg(s): **oversight**, **accountability** (definitions must be assessable and enforceable on observable behavior). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00.000_preamble.md#material-stake) scaling applies chapter-wide.

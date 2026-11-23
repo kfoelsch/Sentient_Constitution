@@ -22,9 +22,7 @@
   - [§6](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*evaluation outputs for the System Certification Record*);
   - [Chapter Nine §3](core_09.000_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (9.000 §3) and
   - [§4](core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (*forum review and the outcome that the System Certification Record completes with*);
-  - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3);
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+  - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3).
 - Downstream:
   - [§3](#3-system-certification-record) through
   - [§6](#6-relationship-to-standing);

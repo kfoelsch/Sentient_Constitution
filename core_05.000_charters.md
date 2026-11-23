@@ -18,10 +18,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), especially **oversight** and **accountability**;
-  - [material stake](core_00.000_preamble.md#material-stake);
-  - [Chapter Two §18.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure) (2.050 §18.1);
-  - [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
+  - [material stake](core_00.000_preamble.md#material-stake).
 - Subsections:
   - [§3](#3-when-system-and-institutional-charters-are-required);
   - [§4](#4-the-right-to-form-and-five-narrow-limits);

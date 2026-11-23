@@ -38,9 +38,7 @@
   - [Chapter Five §6 The Charter Role Map and Standing-Record Custody](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody) (5.000 §6) (*where the seats are placed*);
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) and [§10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes);
   - [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000 to 8.010) (*the System Alignment Certification process this Chapter reuses*);
-  - [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions);
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
-  - [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
+  - [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions).
 - Downstream: [§1](#1-purpose-role-and-scope) through [§6](core_13.000_institutional_alignment_certification_records_recertification.md#6-relationship-to-standing); Chapter Fourteen ([11.000](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened)); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000).
 - Read with:
   - [Institutional Alignment Certification](subcore_03.075_band_continuity.md#institutional-alignment-certification) and

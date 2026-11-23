@@ -15,7 +15,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); plain-language aim at [Preamble §1](core_00.000_preamble.md#continuity).
+- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000).
 - Downstream: Principles:
   - [Chapter Two §8 Continuity Aim: Introduction](core_02.010_values_principles_continuity_aim.md#8-continuity-aim-introduction) (2.010 §8);
   - [Chapter Two §9 Shared-System Capacity](core_02.010_values_principles_continuity_aim.md#9-shared-system-capacity) (2.010 §9);

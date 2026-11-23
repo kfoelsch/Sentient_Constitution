@@ -1560,4 +1560,10 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - [CI-6.205 §6.3](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-63-minimum-fields-formation-template) gains field 12, *Enforcement and emergency contacts*, matching [Chapter Five §5.1](core_05.000_charters.md#51-what-a-system-charter-states) item 10 (added by the 661st move) and deferring to it if the two differ. The template keeps its own numbering, so the new field is 12, not 10. The §6 summary now says twelve fields, and §6.4 says an Institutional Charter states fields 1 to 12.
 - Chapter Five's reader guide said §5.1 lists "nine items"; it now says ten, in both places.
 
+**Nine hundred and forty-eighth move (Trace widgets no longer repeat the Grounded in list; 2026-11-23; organization only, no rule changed; number provisional under MOVE-NUMBER-01).** Closes the last open part of the TODO item *Structured section 2 across the corpus*, applying the custodian's 2026-11-19 rule under CHAPTER-S2-WHY-01 that upstream principles and Articles move out of the chapter's Trace widget into the §2 Grounded in list. What changed:
+
+- In the chapter-opening Trace widget of 23 files (Chapters Four, Five, Six, Eight to Eleven, Fourteen, Fifteen, and Thirty-One, and thirteen Chapter Three subcores), every Upstream entry whose links all appear in that file's §2 Grounded in list was removed: 49 entries, mostly the Constitutional Tetrad, the Two Constitutional Aims, and the Aim anchors, plus a few Chapter Two sections and Articles. Entries not in the list (for example *material stake*, the Chapter Three compass, sibling sections) stay. Downstream and read-with lists are unchanged.
+- In five Chapter Three subcores (3-A and the four apex legs) the Upstream list had been split mid-sentence into bullets; it is now whole entries again, and *material stake scaling* is kept where the Grounded in list does not carry it.
+- Section-level Trace widgets were not touched: they record upstream for that section, not the chapter. No audit enforces the separation yet.
+
 **Next file:** [README.md](README.md)

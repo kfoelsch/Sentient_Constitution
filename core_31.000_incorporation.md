@@ -25,8 +25,7 @@
   - [**Corpus**](subcore_03.080_band_integrative.md#corpus) (*what the corpus is, which **implementation text** it lists, and who keeps it*);
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status — not restated here*);
   - [Chapters Twenty-Eight through Thirty](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) (*ratification, adoption chain, supremacy, and procedural validity*);
-  - [Chapter Thirty](core_30.000_expansion_supremacy.md#chapter-thirty-expansion-supremacy-and-external-legal-orders) (30.000) (*internal hierarchy for adopters where applicable*);
-  - [Chapter Two §15.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) (*single conflict procedure — not restated here*).
+  - [Chapter Thirty](core_30.000_expansion_supremacy.md#chapter-thirty-expansion-supremacy-and-external-legal-orders) (30.000) (*internal hierarchy for adopters where applicable*).
 - Subsections:
   - [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope);
   - [§3 Custody, Editions, and Operative Effect](#3-custody-editions-and-operative-effect);

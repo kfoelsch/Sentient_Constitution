@@ -10,8 +10,6 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Chapter One §6 Key Practical Process Pipelines](core_01.000_constitutional_map.md#6-key-practical-process-pipelines) (*Chapters Eight through Twenty-Two chain*).
 - Upstream:

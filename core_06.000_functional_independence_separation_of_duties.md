@@ -19,7 +19,6 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — especially **oversight** and **accountability**;
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Chapter Two §17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (2.040 §17.1);
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);

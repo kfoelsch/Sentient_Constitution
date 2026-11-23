@@ -20,9 +20,7 @@
   - [Chapter Eight §1](core_08.000_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (8.000 §1) (*certification purpose and process overview*);
   - [Chapter Eight §3](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) through
   - [§6](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*evaluation outputs for the System Certification Record*);
-  - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3);
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+  - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3).
 - Downstream:
   - [§3](#3-forum-process) and
   - [§4](#4-certification-outcomes);

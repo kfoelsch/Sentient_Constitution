@@ -31,7 +31,7 @@ Chapter Four is the constitutional owner of **Rights Floors** and rights-level i
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); [material stake](core_00.000_preamble.md#material-stake).
+- Upstream: [material stake](core_00.000_preamble.md#material-stake).
 - Upstream: [Chapter Two §13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (2.020 §13); [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
 - Upstream: [Chapter Two §19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (2.050 §19).
 - Upstream: Subcores 3-A to 3-C; Chapter Three definitions.
