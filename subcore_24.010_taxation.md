@@ -71,7 +71,7 @@ Every tax, and every change to a tax, must pass these tests. The assembly states
   - **Convenient:** the tax is collected at a time and in a way that suits those who pay it, such as at the time of payment or receipt.
 - **Efficient:**
   - **Cheap to run:** the cost of collecting the tax and the cost to taxpayers of complying are small compared with what it raises. Both are estimated and published.
-  - **Neutral:** the tax does not steer choices about work, saving, investment, or how to organize a business, except where steering is the tax's stated purpose under [§4.2 Taxes on Harm](#42-taxes-on-harm).
+  - **Neutral:** the tax does not steer choices about work, saving, investment, or how to organize a business, except where steering is the tax's stated purpose under [§4.3 Taxes on Harm](#43-taxes-on-harm).
 - **Dependable:**
   - **Adequate and stable:** the tax system as a whole raises what the budgets adopted under [Chapter Twenty-Four §3 What Assemblies Decide](core_24.000_assemblies.md#3-what-assemblies-decide) need, without frequent changes.
   - **Enforceable:** the tax can be enforced evenly with the information the revenue office can lawfully obtain, so honest taxpayers are not left to carry those who evade.
@@ -80,11 +80,50 @@ Every tax, and every change to a tax, must pass these tests. The assembly states
 
 ### 4. Good Tax Policies
 
-*In plain terms: these are the designs the evidence favors. An assembly should use them, and must explain in writing when it does not.*
+*In plain terms: these are the revenue sources to use first, and the designs the evidence favors. An assembly should follow them, and must explain in writing when it does not.*
 
-<a id="41-preferred-designs"></a>
+<a id="41-revenue-priorities"></a>
 
-#### 4.1 Preferred Designs
+#### 4.1 Revenue Priorities
+
+*In plain terms: tax harm first, then unearned gains from what everyone shares, then income by ability to pay, and only last the work and trade that keep the economy running.*
+
+An assembly raises revenue from the sources below in the order given. Before it relies on a lower group, it states in its Act Record how far it has used each higher group, and why a higher source is left untaxed or priced below its cost. The order follows the principles of Chapter Two:
+
+- **First: harm to the living world** ([Chapter Two §4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint), the [Continuity](core_00.000_preamble.md#continuity) aim, and [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*)):
+  - **Greenhouse gases:** emissions of carbon dioxide, methane, nitrous oxide, and fluorinated gases, priced by their warming effect.
+  - **Fossil fuels:** the extraction, import, and burning of coal, oil, and gas, charged where the fuel first enters the economy so that every later use carries the price.
+  - **Pollution:** releases of toxic substances, air and water pollutants, and lasting waste such as plastics.
+  - **Depletion of shared resources:** taking water, fish, timber, soil, or habitat faster than they renew.
+- **Second: other costs placed on others** ([Chapter Two §3.1 Fairness](core_02.000_values_principles.md#31-fairness) and [§19.1 Alignment Requirement](core_02.050_governance_incentive_application.md#191-alignment-requirement)):
+  - **Congestion:** use of crowded roads, airspace, networks, or other shared infrastructure at peak times.
+  - **Risk to shared systems:** activity that puts shared systems at risk, such as excess borrowing by large financial institutions.
+  - **Harmful products:** the share of a product's harm that falls on sentients other than the buyer.
+- **Third: unearned gains from what is shared or scarce** ([Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure) and [§3.1 Fairness](core_02.000_values_principles.md#31-fairness)):
+  - **Land value:** the value of location, under [§4.2 Preferred Designs](#42-preferred-designs).
+  - **Natural resources:** royalties on minerals, fuels, and other resources taken from land or sea held in common.
+  - **Public licenses:** charges for the use of radio spectrum, orbital slots, and other scarce public rights.
+  - **Excess returns from dominance:** profits above a normal return earned through market dominance, as measured under [Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure).
+  - **Large inheritances and gifts:** wealth received without work above a generous lifetime threshold.
+- **Fourth: income by ability to pay** ([Chapter Two §3.1 Fairness](core_02.000_values_principles.md#31-fairness)):
+  - **One income tax:** income from work, saving, and investment taxed on one schedule, above the tax-free allowance.
+  - **Consumption taxes with an offset:** broad taxes on spending, paired with the offset in [§4.2 Preferred Designs](#42-preferred-designs).
+- **Last: work, production, and trade** ([Chapter Two §9.1 Productive Capacity](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) and [§13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden)):
+  - **Taxes on hiring:** taxes charged on wages or on the number of workers.
+  - **Taxes on trade:** tariffs and transaction taxes, except a border charge that applies a first-group price to imports.
+  - **Taxes on turnover:** taxes on gross sales, except the small-taxpayer method.
+
+Taxes in the first and second groups follow these rules too:
+
+- **Price the full cost:** the rate rises on a published schedule until it reaches the estimated cost of the harm, so that those affected can plan.
+- **Same price at the border:** imports pay the same price for the harm caused in making them as goods made at home, and exports are not charged twice.
+- **No dependence on harm:** a budget does not plan on revenue from harm staying level. As the harm falls, the assembly replaces that revenue from lower groups and says so in the budget.
+- **No license to harm:** paying a harm tax never makes lawful a harm that this Constitution or the assembly's rules forbid.
+- **Protect those with less:** the offset of [§4.3 Taxes on Harm](#43-taxes-on-harm) applies, so that sentients with the lowest incomes are not made worse off by the price.
+
+<a id="42-preferred-designs"></a>
+
+#### 4.2 Preferred Designs
 
 An assembly uses each design below unless it states in its Act Record why the design does not fit, and what it uses instead:
 
@@ -106,9 +145,9 @@ An assembly uses each design below unless it states in its Act Record why the de
   - **Indexing:** allowances, brackets, and fixed amounts are adjusted each year by a published measure of prices, so inflation does not raise taxes without a vote.
   - **Stable rules:** tax rules change only on a published schedule, with the notice in [§8 Making and Changing Tax Rules](#8-making-and-changing-tax-rules).
 
-<a id="42-taxes-on-harm"></a>
+<a id="43-taxes-on-harm"></a>
 
-#### 4.2 Taxes on Harm
+#### 4.3 Taxes on Harm
 
 A tax may be used on purpose to make those who cause a measurable harm to others pay its cost, such as pollution, congestion, or depletion of a shared resource. Such a tax must:
 
@@ -118,9 +157,9 @@ A tax may be used on purpose to make those who cause a measurable harm to others
 - publish each year what it raised and what happened to the harm; and
 - say how its effect on those with the lowest incomes is offset.
 
-<a id="43-tax-breaks-under-review"></a>
+<a id="44-tax-breaks-under-review"></a>
 
-#### 4.3 Tax Breaks Under Review
+#### 4.4 Tax Breaks Under Review
 
 An exemption, deduction, credit, reduced rate, or deferral that favors some taxpayers or activities over others is a **tax break**, and is spending through the tax system. Every tax break must:
 
@@ -170,7 +209,7 @@ The designs below are disfavored. An assembly may use one only if its Act Record
 - **Burdens that pile up:**
   - **High combined rates:** a design in which a sentient loses more than seventy percent of an extra unit earned to taxes and benefit withdrawals combined, at any income.
   - **Head taxes:** a fixed tax per sentient or per household, regardless of means.
-  - **Cascading taxes:** a tax on gross turnover at each stage of production, so that tax is charged on tax, except the simplified small-taxpayer method of [§4.1 Preferred Designs](#41-preferred-designs).
+  - **Cascading taxes:** a tax on gross turnover at each stage of production, so that tax is charged on tax, except the simplified small-taxpayer method of [§4.2 Preferred Designs](#42-preferred-designs).
   - **Double taxation:** taxing the same income or transaction twice, across taxes or across tiers, without a credit for the tax already paid.
 - **Taxes hard to see or use:**
   - **Temporary taxes made permanent:** renewing a tax enacted as temporary.
@@ -313,7 +352,7 @@ Each year, the revenue office of each tier publishes:
 - **Audit and penalty rates:** by income band and size of institution.
 - **Appeals:** how many assessments were appealed, and how many were changed on appeal.
 - **Refunds:** the time taken to pay refunds.
-- **The tax-break report:** under [§4.3 Tax Breaks Under Review](#43-tax-breaks-under-review).
+- **The tax-break report:** under [§4.4 Tax Breaks Under Review](#44-tax-breaks-under-review).
 
 At each periodic revalidation under [Article XXVIII-A](core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*), the assembly reviews these figures. A rising tax gap, a rising cost of complying, a fall in the share filing without paid help, a lighter audit rate at the top, or a high rate of assessments changed on appeal is evidence that the rules need changing, and the assembly must say in its Act Record what it will change.
 

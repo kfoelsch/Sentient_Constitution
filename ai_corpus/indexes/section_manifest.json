@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-23T16:15:09+00:00",
+  "generated_at": "2026-11-23T16:23:20+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -2082,29 +2082,30 @@
       ]
     },
     "subcore_24.010_taxation.md": {
-      "total_lines": 324,
+      "total_lines": 363,
       "sections": [
-        {"header":"SUBCORE 24-A: TAXATION","level":1,"line_start":2,"line_end":324,"anchor":"#subcore-24-a-taxation"},
+        {"header":"SUBCORE 24-A: TAXATION","level":1,"line_start":2,"line_end":363,"anchor":"#subcore-24-a-taxation"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":19,"line_end":30,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why the Tax Rules Are the Same for Every Adopter","level":3,"line_start":31,"line_end":55,"anchor":"#2-why-the-tax-rules-are-the-same-for-every-adopter"},
         {"header":"3. Tests Every Tax Must Pass","level":3,"line_start":56,"line_end":80,"anchor":"#3-tests-every-tax-must-pass"},
-        {"header":"4. Good Tax Policies","level":3,"line_start":81,"line_end":134,"anchor":"#4-good-tax-policies"},
-        {"header":"4.1 Preferred Designs","level":4,"line_start":87,"line_end":110,"anchor":"#41-preferred-designs"},
-        {"header":"4.2 Taxes on Harm","level":4,"line_start":111,"line_end":122,"anchor":"#42-taxes-on-harm"},
-        {"header":"4.3 Tax Breaks Under Review","level":4,"line_start":123,"line_end":134,"anchor":"#43-tax-breaks-under-review"},
-        {"header":"5. Barred Tax Policies","level":3,"line_start":135,"line_end":181,"anchor":"#5-barred-tax-policies"},
-        {"header":"5.1 Never Allowed","level":4,"line_start":141,"line_end":161,"anchor":"#51-never-allowed"},
-        {"header":"5.2 Allowed Only with Reasons and Review","level":4,"line_start":162,"line_end":181,"anchor":"#52-allowed-only-with-reasons-and-review"},
-        {"header":"6. Ease of Use","level":3,"line_start":182,"line_end":202,"anchor":"#6-ease-of-use"},
-        {"header":"7. Enforcement","level":3,"line_start":203,"line_end":271,"anchor":"#7-enforcement"},
-        {"header":"7.1 A Graduated Response","level":4,"line_start":209,"line_end":219,"anchor":"#71-a-graduated-response"},
-        {"header":"7.2 Penalties and Interest","level":4,"line_start":220,"line_end":230,"anchor":"#72-penalties-and-interest"},
-        {"header":"7.3 Fair and Even Enforcement","level":4,"line_start":231,"line_end":246,"anchor":"#73-fair-and-even-enforcement"},
-        {"header":"7.4 Limits on Collection","level":4,"line_start":247,"line_end":260,"anchor":"#74-limits-on-collection"},
-        {"header":"7.5 Separate Seats","level":4,"line_start":261,"line_end":271,"anchor":"#75-separate-seats"},
-        {"header":"8. Making and Changing Tax Rules","level":3,"line_start":272,"line_end":286,"anchor":"#8-making-and-changing-tax-rules"},
-        {"header":"9. Taxpayer Rights","level":3,"line_start":287,"line_end":303,"anchor":"#9-taxpayer-rights"},
-        {"header":"10. Outcome Review Measures","level":3,"line_start":304,"line_end":324,"anchor":"#10-outcome-review-measures"}
+        {"header":"4. Good Tax Policies","level":3,"line_start":81,"line_end":173,"anchor":"#4-good-tax-policies"},
+        {"header":"4.1 Revenue Priorities","level":4,"line_start":87,"line_end":125,"anchor":"#41-revenue-priorities"},
+        {"header":"4.2 Preferred Designs","level":4,"line_start":126,"line_end":149,"anchor":"#42-preferred-designs"},
+        {"header":"4.3 Taxes on Harm","level":4,"line_start":150,"line_end":161,"anchor":"#43-taxes-on-harm"},
+        {"header":"4.4 Tax Breaks Under Review","level":4,"line_start":162,"line_end":173,"anchor":"#44-tax-breaks-under-review"},
+        {"header":"5. Barred Tax Policies","level":3,"line_start":174,"line_end":220,"anchor":"#5-barred-tax-policies"},
+        {"header":"5.1 Never Allowed","level":4,"line_start":180,"line_end":200,"anchor":"#51-never-allowed"},
+        {"header":"5.2 Allowed Only with Reasons and Review","level":4,"line_start":201,"line_end":220,"anchor":"#52-allowed-only-with-reasons-and-review"},
+        {"header":"6. Ease of Use","level":3,"line_start":221,"line_end":241,"anchor":"#6-ease-of-use"},
+        {"header":"7. Enforcement","level":3,"line_start":242,"line_end":310,"anchor":"#7-enforcement"},
+        {"header":"7.1 A Graduated Response","level":4,"line_start":248,"line_end":258,"anchor":"#71-a-graduated-response"},
+        {"header":"7.2 Penalties and Interest","level":4,"line_start":259,"line_end":269,"anchor":"#72-penalties-and-interest"},
+        {"header":"7.3 Fair and Even Enforcement","level":4,"line_start":270,"line_end":285,"anchor":"#73-fair-and-even-enforcement"},
+        {"header":"7.4 Limits on Collection","level":4,"line_start":286,"line_end":299,"anchor":"#74-limits-on-collection"},
+        {"header":"7.5 Separate Seats","level":4,"line_start":300,"line_end":310,"anchor":"#75-separate-seats"},
+        {"header":"8. Making and Changing Tax Rules","level":3,"line_start":311,"line_end":325,"anchor":"#8-making-and-changing-tax-rules"},
+        {"header":"9. Taxpayer Rights","level":3,"line_start":326,"line_end":342,"anchor":"#9-taxpayer-rights"},
+        {"header":"10. Outcome Review Measures","level":3,"line_start":343,"line_end":363,"anchor":"#10-outcome-review-measures"}
       ]
     },
     "subcore_26.010_special_enforcement_procedure.md": {
