@@ -36,8 +36,11 @@ A community's Public Stewardship Office, appointed for a set term, is captured b
 
 *Option.* Add to Chapter Twenty-Eight §4: replacing a mechanism, office, or body is not a weakening where the protection it served is carried at least as strongly by the replacement or by another mechanism; the affected body's own claim that its replacement weakens a protection is an input to the determination, not the determination. Recommended, and smaller than Gap A.
 
-## 5. Not done
+## 5. Resolution
 
-- No text change. Gaps A and B go to the custodian as decisions, one at a time.
+The custodian approved both recommendations ("please do so"), and the 963rd move made them: Article XXVIII-A gains *Who starts and decides accelerated review* (Gap A, option a), and Chapter Twenty-Eight §4 gains *Replacing a mechanism* (Gap B). Step 7 and step 4 now **hold**.
+
+## 6. Not done
+
 - A worked vignette in CJS-14.105 once the gaps are decided.
 - An independent read (another model family and one human reader).

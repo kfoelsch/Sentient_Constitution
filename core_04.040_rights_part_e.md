@@ -280,7 +280,7 @@ Governance rules, participation mechanisms, weighting models, and funding struct
 
 <br>
 
-*In plain terms: governance must earn its continued authority through regular review — and must be reviewed faster when capture, exclusion, or failure is showing up.*
+*In plain terms: governance must earn its continued authority through regular review — and must be reviewed faster when capture, exclusion, or failure is showing up. Anyone affected can ask for that faster review, and the body being reviewed does not decide it.*
 
 This Article sets out periodic and accelerated review of governance:
 
@@ -292,6 +292,10 @@ This Article sets out periodic and accelerated review of governance:
   - stakeholder exclusion;
   - challenge-right degradation;
   - material under-performance.
+- **Who starts and decides accelerated review:** The body whose mechanism is under review must not control whether review accelerates or how it ends:
+  - any affected party, protected reporter, or self-organized group under [Chapter Two §17.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization) may file evidence of a condition above;
+  - the **Integrity** forum family leads the finding that a condition is shown, the accelerated revalidation, and the decision on continuation or replacement, with the backup pairs in [Chapter Twenty-Two §6.3 Cross-Forum Anti-Self-Judging Rule](core_22.000_forum.md#63-cross-forum-anti-self-judging-rule) where Integrity is itself the body under review; and
+  - the body under review must supply its records of the mechanism's operation and performance and may give evidence, but must not control the trigger finding, the revalidation, or the decision, as with a capacity-failure claim under [Chapter Twenty-Two §6.5 Capacity Failure Is Heard Outside the Starved Body](core_22.000_forum.md#65-capacity-failure-is-heard-outside-the-starved-body).
 #### Article XXVIII-B: Periodic Revalidation and Transparent Change
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
