@@ -1534,4 +1534,9 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - New [draft Process reader guide](project/plans/process_principles_reader_guide_draft_2026-11-23.md), non-normative, gathering 35 Process-first items from the crosswalk under current section numbers, for the custodian's decision.
 - `TODO.md` loses five headings left with no items by archiving (*Chapter structure*, the 2026-11-17, 2026-11-19, and 2026-11-20 carried sections, and *P1 — Regression and evidence*), and the three items above carry update notes.
 
+**Nine hundred and seventy-first move (outside-reader and real-use TODO items shelved; 2026-11-23; organization only, no rule changed; number provisional under MOVE-NUMBER-01).** Decision (custodian, on a decision card: "Shelve them"). What changed:
+
+- A new section, *Outside-reader and real-use items (shelved 2026-11-23)*, in [project/SHELVED.md](project/SHELVED.md) holds, whole and with links adjusted for the `project/` folder: the *Interim Hold standard*, *Process-level granularity — Option B*, and *Whole-project evaluation — open hesitations* sections; the crosswalk-tag and third-Preamble-question items; and the LEQU calibration item. Its header names the parts still open apart from independent reads and the reopen condition.
+- `TODO.md` keeps the core reorganization follow-ups, the Process reader guide decision, the remedy-capacity and exercises items with their gaps, the Claude-project docs item, and the capacity-lock review.
+
 **Next file:** [README.md](README.md)
