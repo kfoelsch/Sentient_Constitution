@@ -149,6 +149,26 @@
     {
       "name": "tax notice period",
       "owner": "Subcore 24-A §8"
+    },
+    {
+      "name": "roll correction period",
+      "owner": "Subcore 7-A §4"
+    },
+    {
+      "name": "roll closing period",
+      "owner": "Subcore 7-A §4"
+    },
+    {
+      "name": "preliminary-results period",
+      "owner": "Subcore 7-A §5"
+    },
+    {
+      "name": "result certification period",
+      "owner": "Subcore 7-A §5"
+    },
+    {
+      "name": "register entry period",
+      "owner": "Subcore 7-A §6"
     }
   ],
   "scaled_windows": [

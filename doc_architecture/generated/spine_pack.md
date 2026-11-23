@@ -38,4 +38,4 @@ human and AI stewards owe the same Chapter Two duties. [§17.5 Duty to Resist](.
 
 ## Steward-door classes
 
-17 public next-step classes. Table: [next_step_classes.md](../../doc_architecture/generated/next_step_classes.md). Cards: [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md). Not the operator gold key.
+18 public next-step classes. Table: [next_step_classes.md](../../doc_architecture/generated/next_step_classes.md). Cards: [STEWARD_ENTRY_DOORS.md](../../implementation/STEWARD_ENTRY_DOORS.md). Not the operator gold key.

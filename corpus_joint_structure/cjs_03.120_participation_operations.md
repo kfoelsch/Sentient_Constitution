@@ -825,23 +825,6 @@ Private internal-state boundary and external observability attribution
 - **What must hold**
   - **Primary failure:** It either to force unlawful exposure of private internal states or to use privacy as an excuse to hide observable conduct, impacts, decision paths, or responsible actors.
 
-<a id="verification-and-comparative-interpretation-enablement"></a>
-Verification and comparative interpretation enablement
-
-*In plain terms: disclosure must make it practically possible to check the system's claims, compare alternatives, and notice important blind spots or failures.*
-
-- **What it is**
-  - **In scope:** Disclosure must make it practically possible to check the system's claims, compare alternatives, and notice important blind spots or failures.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in verification and comparative interpretation enablement.
-<a id="verification-and-comparative-interpretation-enablement-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** at least one realistic path for qualified independent checking, including access to enough records, methods, samples, logs, or explanations to test the claim
-
-    **Primary assessment:** Reviewers must verify at least one realistic path for qualified independent checking, including access to enough records, methods, samples, logs, or explanations to test the claim.
-<a id="verification-and-comparative-interpretation-enablement-c"></a>
-- **What must hold**
-  - **Primary failure:** A disclosure if it sounds informative but cannot actually be used to verify what happened, compare options, find errors, or assign responsibility.
-
 <a id="product-and-service-health-and-safety-information"></a>
 Product and service health and safety information
 
@@ -875,6 +858,23 @@ Ratings, rankings, and paid promotion
 <a id="ratings-rankings-and-paid-promotion-c"></a>
 - **What must hold**
   - **Primary failure:** Presenting fabricated, bought, or selectively filtered reviews as genuine; hiding paid placement; or, where health or safety is at stake, ranking a product above a safer or more suitable option because of what the system earns.
+
+<a id="verification-and-comparative-interpretation-enablement"></a>
+Verification and comparative interpretation enablement
+
+*In plain terms: disclosure must make it practically possible to check the system's claims, compare alternatives, and notice important blind spots or failures.*
+
+- **What it is**
+  - **In scope:** Disclosure must make it practically possible to check the system's claims, compare alternatives, and notice important blind spots or failures.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in verification and comparative interpretation enablement.
+<a id="verification-and-comparative-interpretation-enablement-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** at least one realistic path for qualified independent checking, including access to enough records, methods, samples, logs, or explanations to test the claim
+
+    **Primary assessment:** Reviewers must verify at least one realistic path for qualified independent checking, including access to enough records, methods, samples, logs, or explanations to test the claim.
+<a id="verification-and-comparative-interpretation-enablement-c"></a>
+- **What must hold**
+  - **Primary failure:** A disclosure if it sounds informative but cannot actually be used to verify what happened, compare options, find errors, or assign responsibility.
 
 ---
 

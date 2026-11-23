@@ -15,10 +15,7 @@
 
 - Upstream:
   - [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000);
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (timeliness leg;
-  - [material stake](core_00.000_preamble.md#material-stake) scaling);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); primary aim
-  - [Flourishing](core_00.000_preamble.md#flourishing).
+  - [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Downstream:
   - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) (*implements timeliness leg for resolution pathways*); **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*);
   - [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together);

@@ -15,10 +15,7 @@
 
 - Upstream:
   - [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000);
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (accountability leg;
-  - [material stake](core_00.000_preamble.md#material-stake) scaling);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); primary aim
-  - [Flourishing](core_00.000_preamble.md#flourishing).
+  - [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Downstream: Principles:
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
   - [Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6); Chapter Two Part B tradeoff and interpretation homes:

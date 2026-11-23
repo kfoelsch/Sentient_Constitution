@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nine** — the **forum process** (component roles, supervisory sequence, and the contestability chain) and the certification **outcomes** with the go-live gate (**§3–§4**, continuing from Chapter Eight §1–§6). **Chapter Eight** — purpose, framing (system class), and evaluation requirements — is in [`core_08.000_system_alignment_certification_evaluation.md`](core_08.000_system_alignment_certification_evaluation.md). **Chapter Ten** — the certification **record** and its integrity, **recertification and reopening**, the **challenge path**, and the **standing bridge** (**Chapter Ten §3–Chapter Ten §6**) — is in [`core_10.000_system_alignment_certification_records_recertification.md`](core_10.000_system_alignment_certification_records_recertification.md).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Nine** — the **forum process** (component roles, supervisory sequence, and the contestability chain) and the certification **outcomes** with the go-live gate (**§3–§4**). **Chapter Eight** — purpose, framing (system class), and evaluation requirements — is in [`core_08.000_system_alignment_certification_evaluation.md`](core_08.000_system_alignment_certification_evaluation.md). **Chapter Ten** — the certification **record** and its integrity, **recertification and reopening**, the **challenge path**, and the **standing bridge** (**Chapter Ten §§3–6**) — is in [`core_10.000_system_alignment_certification_records_recertification.md`](core_10.000_system_alignment_certification_records_recertification.md).
 >
 > - **Constitutional owner (joint with Chapters Eight and Ten):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Three [Auditability](subcore_03.085_band_oversight.md#auditability).
 > - **Evaluation inputs:** [Chapter Eight §3](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) through [§6](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) supply evaluation outputs that the forums review and that the outcome rests on.
@@ -20,9 +20,7 @@
   - [Chapter Eight §1](core_08.000_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (8.000 §1) (*certification purpose and process overview*);
   - [Chapter Eight §3](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) through
   - [§6](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*evaluation outputs for the System Certification Record*);
-  - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3);
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+  - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3).
 - Downstream:
   - [§3](#3-forum-process) and
   - [§4](#4-certification-outcomes);

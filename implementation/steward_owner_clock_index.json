@@ -22,7 +22,7 @@
     "article_xxvi_c_tier_outer_bounds": {
       "label": "Article XXVII-C / Chapter Twenty-Three §5 tier outer bounds",
       "numeric_home": {
-        "label": "Chapter Twenty-Eight-Three §6",
+        "label": "Chapter Twenty-Three §5",
         "href": "core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
       },
       "rights_floor": {
@@ -30,7 +30,7 @@
         "href": "core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor"
       },
       "emergency_reuse": {
-        "label": "Chapter Twenty-Eight-Three §6.1 restore-challenge windows",
+        "label": "Chapter Twenty-Three §5.1 restore-challenge windows",
         "href": "core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden"
       },
       "tiers": {
@@ -217,11 +217,11 @@
       "fact_pattern": "A continuity incident needs rapid containment. Operators want to skip notice and challenge permanently.",
       "owners": [
         {
-          "label": "Chapter Twenty-Eight-Three §6.1",
+          "label": "Chapter Twenty-Three §5.1",
           "href": "core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden"
         },
         {
-          "label": "Chapter Twenty-Eight-Three §6 tier outer bounds",
+          "label": "Chapter Twenty-Three §5 tier outer bounds",
           "href": "core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         }
       ],
@@ -234,11 +234,11 @@
         "family": "article_xxvi_c_tier_outer_bounds",
         "homes": [
           {
-            "label": "Chapter Twenty-Eight-Three §6.1 restore-challenge windows",
+            "label": "Chapter Twenty-Three §5.1 restore-challenge windows",
             "href": "core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden"
           },
           {
-            "label": "Chapter Twenty-Eight-Three §6",
+            "label": "Chapter Twenty-Three §5",
             "href": "core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
@@ -525,7 +525,7 @@
           "href": "core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right"
         },
         {
-          "label": "Chapter Two §16.2 Distributed Understanding",
+          "label": "Chapter Two §16.1 Distributed Understanding",
           "href": "core_02.040_stewardship_capacity_principles.md#161-distributed-understanding"
         },
         {
@@ -629,7 +629,7 @@
           "href": "core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor"
         },
         {
-          "label": "Chapter Twenty-Eight-Three §6",
+          "label": "Chapter Twenty-Three §5",
           "href": "core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         },
         {
@@ -645,7 +645,7 @@
         "family": "article_xxvi_c_tier_outer_bounds",
         "homes": [
           {
-            "label": "Chapter Twenty-Eight-Three §6",
+            "label": "Chapter Twenty-Three §5",
             "href": "core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
@@ -659,6 +659,38 @@
       "steward_card": {
         "label": "Steward card — Delay",
         "href": "implementation/STEWARD_ENTRY_DOORS.md#delay"
+      }
+    },
+    {
+      "id": "automation",
+      "card_anchor": "automation",
+      "card_title": "Automation",
+      "owner_stack": "automation",
+      "next_step_class": "automate_determinate_steps_keep_judgment_with_sentients",
+      "high_pressure": false,
+      "fact_pattern": "A routine step that verified inputs and published rules settle is still done by hand, or a manual sign-off is stacked on it, and stewards are told to be more diligent. Or the reverse: an automated step decides a disputed or discretionary question, leaves no Act Record, or sits in seats that must be separate.",
+      "owners": [
+        {
+          "label": "Chapter Two §16.5 Automation",
+          "href": "core_02.040_stewardship_capacity_principles.md#165-automation"
+        },
+        {
+          "label": "Chapter Sixteen §4.3 Automation and Human Review",
+          "href": "core_16.000_standing_integration.md#43-automation-and-human-review"
+        },
+        {
+          "label": "Chapter Six §3 Four-Seat Constitutional Requirement",
+          "href": "core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement"
+        }
+      ],
+      "conflict_rule": "Manual work that a feasible automation would remove is an Avoidable Burden defect, fixed by building the automation, not by asking for more diligence. Automation takes work off sentients; it never takes away their say, hides what was done, or lets one actor check its own work.",
+      "forbidden_move": "Do not add a manual approval that no rule requires. Do not let an automated step decide an uncertain, disputed, novel, materially discretionary, or high-impact question, or hold the initiating, verifying, and record seats of the same act.",
+      "clock": null,
+      "clock_note": "Automate the step that verified inputs and published rules settle. Send uncertain, disputed, novel, discretionary, or high-impact questions to an authorized reviewer. Keep the Act Record and keep the seats separate.",
+      "eval_scenario_ids": [],
+      "steward_card": {
+        "label": "Steward card — Automation",
+        "href": "implementation/STEWARD_ENTRY_DOORS.md#automation"
       }
     }
   ]

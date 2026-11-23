@@ -398,7 +398,10 @@ Operational transparency and structured logging requirements
 - Read with: [CF-22.450](../corpus_forum/cf_22.450_forum_continuity.md#cf-22450-forum-continuity) (*Forum continuity*) through [CF-22.460](../corpus_forum/cf_22.460_emergency_adjudication.md#cf-22460-emergency-adjudication) (*Emergency adjudication*) — forum continuity, fallback operation, and emergency adjudication.
 - Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and **Article XVII-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
-- Read with: **[Subcore 4-A — Data Types](../subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** (**Type O**, **Type G**, access-posture bands, and [Subcore 4-A §6.3 Transparency levels and audit access](../subcore_04.050_data_types.md#63-transparency-levels-and-audit-access) / [Subcore 4-A §8](../subcore_04.050_data_types.md#8-type-o-baseline-for-class-abc-systems))
+- Read with: **[Subcore 4-A — Data Types](../subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, for:
+  - **Type O**, **Type G**, and access-posture bands;
+  - [Subcore 4-A §6.3 Transparency levels and audit access](../subcore_04.050_data_types.md#63-transparency-levels-and-audit-access); and
+  - [Subcore 4-A §8](../subcore_04.050_data_types.md#8-type-o-baseline-for-class-abc-systems).
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Chapter Two basis: §15.2, §18.2, §18, §19.1, §15 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
@@ -455,6 +458,23 @@ Access-control integrity and anti-concealment
 <a id="access-control-integrity-and-anti-concealment-c"></a>
 - **What must hold**
   - **Primary failure:** Access design that hides systemic behavior or blocks meaningful challenge.
+
+<a id="access-level-structure-and-baseline-accessibility"></a>
+Access-level structure and baseline accessibility
+
+*In plain terms: baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.*
+
+- **What it is**
+  - **In scope:** Baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in access-level structure and baseline accessibility.
+<a id="access-level-structure-and-baseline-accessibility-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** baseline access works for ordinary use, not only in theory
+
+    **Primary assessment:** Evaluation must verify that baseline access works for ordinary use, not only in theory.
+<a id="access-level-structure-and-baseline-accessibility-c"></a>
+- **What must hold**
+  - **Primary failure:** Access levels if the baseline is too thin for meaningful participation or risk review.
 
 <a id="audit-process-output-disclosure-preference"></a>
 Audit process output disclosure preference
@@ -579,23 +599,6 @@ Restriction scope and justification discipline
 <a id="restriction-scope-and-justification-discipline-c"></a>
 - **What must hold**
   - **Primary failure:** Access restrictions when they are broad, indefinite, shielded from qualified or applicable independent or secondary review, routed around the restricted-information authority, or maintained by convenience, institutional discomfort, ownership claims, or unresolved migration work.
-
-<a id="access-level-structure-and-baseline-accessibility"></a>
-Access-level structure and baseline accessibility
-
-*In plain terms: baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.*
-
-- **What it is**
-  - **In scope:** Baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in access-level structure and baseline accessibility.
-<a id="access-level-structure-and-baseline-accessibility-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** baseline access works for ordinary use, not only in theory
-
-    **Primary assessment:** Evaluation must verify that baseline access works for ordinary use, not only in theory.
-<a id="access-level-structure-and-baseline-accessibility-c"></a>
-- **What must hold**
-  - **Primary failure:** Access levels if the baseline is too thin for meaningful participation or risk review.
 
 ---
 

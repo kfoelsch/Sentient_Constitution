@@ -35,7 +35,11 @@
   - [CJS-0.105 §2: Joint Structure Registry](#cjs-0105-2-joint-structure-registry);
   - [CJS-0.105 §3: Stable Identifiers, Edition Alignment, and Drafting Notes](#cjs-0105-3-stable-identifiers-edition-alignment-and-drafting-notes);
   - [CJS-0.105 §4: Time-Window Names](#cjs-0105-4-time-window-names).
-- Read with: **CJS-0.105** (*Registry and reading rules*); **CJS-0.105 §1** (*Cross-File Routing*); **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-31.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-3.140** (*oDef Parse Mechanics*), and **CJS-6.105** (*Support roles, hosting independence, and classification alignment*); [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4).
+- Read with:
+  - **CJS-0.105** (*Registry and reading rules*);
+  - **CJS-0.105 §1** (*Cross-File Routing*);
+  - **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-31.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-3.140** (*oDef Parse Mechanics*), and **CJS-6.105** (*Support roles, hosting independence, and classification alignment*);
+  - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4).
 
 </details>
 
@@ -176,7 +180,12 @@ Joint abstractions and constitutional non-redefinition discipline: [CJS-0.110 §
   - [CJS-0.105 §1](#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
   - [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
-- Read with: **CJS-0.105** (*Registry and reading rules*); **CJS-0.105 §2** (*Joint Structure Registry*); **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-31.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-3.140** (*oDef Parse Mechanics*), and **CJS-6.105** (*Support roles, hosting independence, and classification alignment*); **CJS-31.110** (*Specific joint interlocks and shared abstractions*); **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
+- Read with:
+  - **CJS-0.105** (*Registry and reading rules*);
+  - **CJS-0.105 §2** (*Joint Structure Registry*);
+  - **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-31.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-3.140** (*oDef Parse Mechanics*), and **CJS-6.105** (*Support roles, hosting independence, and classification alignment*);
+  - **CJS-31.110** (*Specific joint interlocks and shared abstractions*);
+  - **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
 
 </details>
 

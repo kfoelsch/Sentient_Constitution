@@ -49,7 +49,10 @@
   - [§6](#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture).
 - Companion chapter: [Chapter Twenty-Three](core_23.000_forum_families_escalation_timeliness_support.md#chapter-twenty-three-forum-families-escalation-timely-resolution-and-support) (23.000) (*forum family definitions, escalation, timely resolution, and forum support*).
 - Read with: [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together).
-- Downstream: [CF-22.405](corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum Formation, Forum-Structure Mapping, and Chamber Structure*), [CF-22.415](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*), and [CF-22.420](corpus_forum/cf_22.420_appeal_secondary_review_exhaustion_pathways.md#cf-22420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, Secondary Review, and Exhaustion Pathways*) for operational forum doctrine; [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) where governance legitimacy interacts with adjudication role; [Chapter Thirty-One](core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) (*incorporation discipline* for adopted procedure layers).
+- Downstream:
+  - [CF-22.405](corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum Formation, Forum-Structure Mapping, and Chamber Structure*), [CF-22.415](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*), and [CF-22.420](corpus_forum/cf_22.420_appeal_secondary_review_exhaustion_pathways.md#cf-22420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, Secondary Review, and Exhaustion Pathways*) for operational forum doctrine;
+  - [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) where governance legitimacy interacts with adjudication role;
+  - [Chapter Thirty-One](core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) (*incorporation discipline* for adopted procedure layers).
 - Read with: [Chapter Fifteen §6](core_15.000_standing_measurement.md#6-slot-grammar-and-shared-scaling) (15.000 §6) (*standing-slot grammar*); [Chapter Fifteen §§5.1–5.2](core_15.000_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (15.000 §5.1) (*cross-axis normalized Contribution Axis and Violation Axis descriptors*).
 - Read also with: [Chapter Sixteen §5 Descriptor Integration and Attachment Normalization](core_16.000_standing_integration.md#5-descriptor-integration-and-attachment-normalization) (16.000 §5), together with its section 3 routing by primary stakes; [README.md](README.md) (*reading order and how the corpus is organized*); [doc_architecture.md](doc_architecture.md) (*editorial maps that do not bind unless adopted*).
 - Worked examples (they add no rule): [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): forum routing and tier windows run through every full vignette, for example [CJS-14.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-14.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a).
@@ -239,9 +242,8 @@ Forum families:
   - forensic and analytical support where this chapter assigns them.
 - require anti-self-judging backup routing, which sends a matter to an independent backup forum when the lead forum cannot judge it ([Ways a Matter Moves Between Forums](core_23.000_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums)). Those requirements must not substitute political control for judicial independence.
 - hold the four seats in a forum case in the way [§5.2 Seats in a Forum Case](#52-seats-in-a-forum-case) sets out.
-- **Integrity**, **Constitutional**, and **Environment** forums, and **Technical Forum Domains** when they hear sentience-status adjudication, require:
-  - **published**, **contested**, **rotatable** appointment or an equivalent independence check under [Chapter Twenty-Seven §3.2.5 Forum Appointment Independence Requirement](core_27.000_governance.md#325-forum-appointment-independence-requirement); and
-  - adequate appointment and funding, because under-appointment or underfunding of those benches is a [Chapter Nineteen §5 Enforcement Realism and Remedy Systems](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) failure.
+- are each an **Independent Body** under [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent), as [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) lists them, so their members are drawn by lot from those who pass a published competency gate, their funding is protected, and no one may direct how they decide ([Chapter Twenty-Seven §3.2.5 Forum Appointment Independence Requirement](core_27.000_governance.md#325-forum-appointment-independence-requirement)); and
+- must be appointed and funded adequately, because under-appointment or underfunding of a forum bench is a [Chapter Nineteen §5 Enforcement Realism and Remedy Systems](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) failure.
 
 <a id="322-incentives-and-non-substitution"></a>
 
@@ -290,7 +292,11 @@ Two limits keep that work in its place:
   - [Chapter Twenty-Three §4](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*escalation from default venue; Interim protection*);
   - [Chapter Twenty-Three §5](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*);
   - [Chapter Twenty-Three §6](core_23.000_forum_families_escalation_timeliness_support.md#6-forum-support-before-during-and-after-review--oversight-architecture) (*forum support before, during, and after review*).
-- Within §4: [§4.1](#41-dispute-sequencing) (*dispute sequencing*); [§4.2](#42-primary-stakes-routing-and-intake) (*primary-stakes test, intake triage body, good-faith characterization, and initial access*); [§4.3](#43-default-venue) (*default venue, with the routing sequence, default venue table, limits on default leads, and special routing rules in Subcore 22-A*); [§4.4](#44-mixed-stakes-and-routing-asymmetry) (*mixed stakes and asymmetry*).
+- Within §4:
+  - [§4.1](#41-dispute-sequencing) (*dispute sequencing*);
+  - [§4.2](#42-primary-stakes-routing-and-intake) (*primary-stakes test, intake triage body, good-faith characterization, and initial access*);
+  - [§4.3](#43-default-venue) (*default venue, with the routing sequence, default venue table, limits on default leads, and special routing rules in Subcore 22-A*);
+  - [§4.4](#44-mixed-stakes-and-routing-asymmetry) (*mixed stakes and asymmetry*).
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, and **timeliness** legs;
   - [material stake](core_00.000_preamble.md#material-stake) scaling for primary-stakes routing;
@@ -430,6 +436,8 @@ Default venue holds unless **section 6** transfers or consolidates.
 
 One Forum Case Record and one lead family ordinarily hear interdependent claims. Secondary issues may be certified, stayed, or resolved through issue preclusion as adopting documents provide, consistent with **Article XIV-A** (*Reliability and Trustworthiness Baseline*), **Article XIV-B** (*Right to Redress and Remedy*), and **Chapter Fourteen** joint-assessment and non-substitution discipline.
 
+When one lead forum handles a mixed-stakes case, it must keep the **forum case record** clear enough that separate Chapter Fifteen contribution and violation measurements, any Chapter Twenty designation, and Chapter Sixteen standing effects can still be audited separately and recorded in axis-pure Standing Records.
+
 <a id="442-asymmetry"></a>
 
 ##### 4.4.2 Asymmetry
@@ -451,7 +459,14 @@ Three asymmetry rules keep routing available where the table assigns the stake:
   - [§6](#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*transfer, consolidation, anti-self-judging*);
   - [Chapter Twenty-Three §4](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*backup routing, questions for ruling, and escalation*);
   - [Chapter Twenty-Three §5](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*tier windows that run from receipt of a challenge*).
-- Within §5: [§5.1](#51-intakes) (*the ways a case enters*); [§5.2](#52-seats-in-a-forum-case) (*seats in a forum case*); [§5.3](#53-kinds-of-records) (*forum case records, Certification Records, Standing Records, and Adoption Transition Records*); [§5.4](#54-contests-of-certification-records) (*contests of Certification Records*); [§5.5](#55-contests-of-standing-records) (*contests of Standing Records*); [§5.6](#56-contests-of-adoption-transition-records) (*contests of Adoption Transition Records*); [§5.7](#57-keeping-forum-case-records) (*keeping Forum Case Records*).
+- Within §5:
+  - [§5.1](#51-intakes) (*the ways a case enters*);
+  - [§5.2](#52-seats-in-a-forum-case) (*seats in a forum case*);
+  - [§5.3](#53-kinds-of-records) (*forum case records, Certification Records, Standing Records, and Adoption Transition Records*);
+  - [§5.4](#54-contests-of-certification-records) (*contests of Certification Records*);
+  - [§5.5](#55-contests-of-standing-records) (*contests of Standing Records*);
+  - [§5.6](#56-contests-of-adoption-transition-records) (*contests of Adoption Transition Records*);
+  - [§5.7](#57-keeping-forum-case-records) (*keeping Forum Case Records*).
 - Read with:
   - [Chapter Ten §3 System Certification Record](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record), [Chapter Ten §5 Challenging a Certification](core_10.000_system_alignment_certification_records_recertification.md#5-challenging-a-certification), and [Chapter Ten §6 Relationship to Standing](core_10.000_system_alignment_certification_records_recertification.md#6-relationship-to-standing);
   - [Chapter Thirteen §3 Institutional Certification Record](core_13.000_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record), [Chapter Thirteen §5 Challenging a Certification](core_13.000_institutional_alignment_certification_records_recertification.md#5-challenging-a-certification), and [Chapter Thirteen §6 Relationship to Standing](core_13.000_institutional_alignment_certification_records_recertification.md#6-relationship-to-standing);
@@ -540,7 +555,7 @@ These rules cover how forum work reaches Standing Records:
     - contestable; and
     - verified under Subcores 3-A to 3-C and any required review safeguards.
   - [Chapter Fourteen §4.7 Forum Boundary](core_14.000_standing_assessment.md#47-forum-boundary) owns how verified contribution records and verified violation findings enter Standing Records.
-- When one lead forum handles a mixed-stakes case, it must keep the **forum case record** clear enough that separate Chapter Fifteen contribution and violation measurements, any Chapter Twenty designation, and Chapter Sixteen standing effects can still be audited separately and recorded in axis-pure Standing Records.
+- A mixed-stakes case keeps its contribution, violation, designation, and standing-effect strands separable in the forum case record, as [§4.4.1 One Case Record, One Lead](#441-one-case-record-one-lead) requires.
 
 <a id="54-contests-of-certification-records"></a>
 
@@ -598,7 +613,12 @@ Forum Case Records are kept where the sentients who need them can reach them and
 
 - Upstream: [§4](#4-default-venue-and-primary-stakes) (*default venue table, intake triage, mixed stakes, and asymmetry*); [Chapter Sixteen §4 — Integration record and decision order](core_16.000_standing_integration.md#4-automatic-integration-review-and-continuity) (16.000 §4) (*highest applicable non-compliance category — mixed-stakes coordination*).
 - Downstream: [Chapter Twenty-Three §4](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*constitutional questions for ruling, backup routing activation, and Interim protection while coordination proceeds*).
-- Within §6: [§6.1](#61-scope-expansion-and-representative-treatment) (*widening a case to an affected class or group*); [§6.2](#62-a-transfer-is-one-step-and-keeps-the-case) (*one-step transfer that keeps the case*); [§6.3](#63-cross-forum-anti-self-judging-rule) (*independent lead and backup pairs*); [§6.4](#64-family-level-capture) (*family-level capture*); [§6.5](#65-capacity-failure-is-heard-outside-the-starved-body) (*capacity failure*).
+- Within §6:
+  - [§6.1](#61-scope-expansion-and-representative-treatment) (*widening a case to an affected class or group*);
+  - [§6.2](#62-a-transfer-is-one-step-and-keeps-the-case) (*one-step transfer that keeps the case*);
+  - [§6.3](#63-cross-forum-anti-self-judging-rule) (*independent lead and backup pairs*);
+  - [§6.4](#64-family-level-capture) (*family-level capture*);
+  - [§6.5](#65-capacity-failure-is-heard-outside-the-starved-body) (*capacity failure*).
 - Read with:
   - [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
   - [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);

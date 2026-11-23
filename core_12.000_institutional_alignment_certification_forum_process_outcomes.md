@@ -89,7 +89,11 @@ Chapter Eleven sets what an institution is evaluated on. The institution has eve
   - [Chapter Twenty-Three §3.3 Institutional Forums](core_23.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (23.000 §3.3);
   - [Chapter Twenty-Two §6 Transfer, consolidation, and anti-self-judging](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (22.000 §6) (*cross-forum anti-self-judging rule*);
   - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record).
-- Downstream: [§4](#4-certification-outcomes); [§3](core_13.000_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record); [§4](core_13.000_institutional_alignment_certification_records_recertification.md#4-recertification-and-reopening); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000).
+- Downstream:
+  - [§4](#4-certification-outcomes);
+  - [§3](core_13.000_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record);
+  - [§4](core_13.000_institutional_alignment_certification_records_recertification.md#4-recertification-and-reopening);
+  - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000).
 - Read with:
   - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map);
   - **CF-22.415** (*Routing operations, transfer, questions for ruling, and representative treatment*);

@@ -234,72 +234,72 @@
     },
     "16.1": {
       "title": "Distributed Understanding",
-      "line": 201,
+      "line": 203,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "16.2": {
       "title": "Institutional Development",
-      "line": 275,
+      "line": 277,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "16.3": {
       "title": "Openness Aspiration",
-      "line": 356,
+      "line": 358,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "16.4": {
       "title": "Document at Action",
-      "line": 425,
+      "line": 427,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "16.5": {
       "title": "Automation",
-      "line": 507,
+      "line": 509,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "16.6": {
       "title": "Default Window",
-      "line": 608,
+      "line": 610,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "17": {
       "title": "Consequential Stewardship: The Steward Role",
-      "line": 653,
+      "line": 655,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "17.1": {
       "title": "Shared Stewardship Standard",
-      "line": 758,
+      "line": 760,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "17.2": {
       "title": "Alignment under Pressure",
-      "line": 833,
+      "line": 835,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "17.3": {
       "title": "Logging the Role, Not the Steward",
-      "line": 900,
+      "line": 902,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "17.4": {
       "title": "Aligned Self-Organization",
-      "line": 971,
+      "line": 973,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "17.5": {
       "title": "Duty to Resist",
-      "line": 1097,
+      "line": 1099,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "17.6": {
       "title": "Portable Competence",
-      "line": 1188,
+      "line": 1190,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "17.7": {
       "title": "Duty to Represent Stakeholder Interests",
-      "line": 1267,
+      "line": 1269,
       "file": "core_02.040_stewardship_capacity_principles.md"
     },
     "18": {
@@ -637,7 +637,7 @@
       "title": "Oversight: Transparency Levels and Audit-Access Terms",
       "file": "corpus_joint_structure/cjs_03.110_oversight_operations.md",
       "start_line": 384,
-      "end_line": 601,
+      "end_line": 604,
       "read_with": [],
       "direct_ch1_refs": [
         "13.1.5",
@@ -665,7 +665,7 @@
       "op_rules": [
         {
           "label": "transparency levels and audit-access terms",
-          "line": 426,
+          "line": 429,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -676,84 +676,7 @@
         },
         {
           "label": "Access-control integrity and anti-concealment",
-          "line": 443,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Audit process output disclosure preference",
-          "line": 460,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Audit-output anti-concealment",
-          "line": 480,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Class A/B/C public-interest visibility",
-          "line": 497,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Forensic escalation and reconstruction sufficiency",
-          "line": 514,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Independent and third-party audit-path availability",
-          "line": 533,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Qualified audit pathways and non-exclusive eligibility",
-          "line": 550,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Restriction scope and justification discipline",
-          "line": 567,
+          "line": 446,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -764,7 +687,84 @@
         },
         {
           "label": "Access-level structure and baseline accessibility",
-          "line": 584,
+          "line": 463,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Audit process output disclosure preference",
+          "line": 480,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Audit-output anti-concealment",
+          "line": 500,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Class A/B/C public-interest visibility",
+          "line": 517,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Forensic escalation and reconstruction sufficiency",
+          "line": 534,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Independent and third-party audit-path availability",
+          "line": 553,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Qualified audit pathways and non-exclusive eligibility",
+          "line": 570,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Restriction scope and justification discipline",
+          "line": 587,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -782,8 +782,8 @@
       "cluster_id": "CJS-3.110 \u00a75",
       "title": "Oversight: Independent Verification and Claim-Integrity Terms",
       "file": "corpus_joint_structure/cjs_03.110_oversight_operations.md",
-      "start_line": 602,
-      "end_line": 756,
+      "start_line": 605,
+      "end_line": 759,
       "read_with": [],
       "direct_ch1_refs": [
         "15.2",
@@ -809,7 +809,7 @@
       "op_rules": [
         {
           "label": "independent verification and claim-integrity terms",
-          "line": 637,
+          "line": 640,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -820,7 +820,7 @@
         },
         {
           "label": "Anti-single-authority verification constraint",
-          "line": 654,
+          "line": 657,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -831,7 +831,7 @@
         },
         {
           "label": "Class-scaled template minimum mapping",
-          "line": 671,
+          "line": 674,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -842,7 +842,7 @@
         },
         {
           "label": "Material-claim verification scope",
-          "line": 688,
+          "line": 691,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -853,7 +853,7 @@
         },
         {
           "label": "Reproducibility and external evaluation viability",
-          "line": 705,
+          "line": 708,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -864,7 +864,7 @@
         },
         {
           "label": "Structured claim-testing, reliance, and correction integrity",
-          "line": 722,
+          "line": 725,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -875,7 +875,7 @@
         },
         {
           "label": "Structured review and incentive-integrity minimum",
-          "line": 739,
+          "line": 742,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -893,8 +893,8 @@
       "cluster_id": "CJS-3.110 \u00a76",
       "title": "Oversight: Integrity Assurance and Resilience Operations",
       "file": "corpus_joint_structure/cjs_03.110_oversight_operations.md",
-      "start_line": 757,
-      "end_line": 1120,
+      "start_line": 760,
+      "end_line": 1123,
       "read_with": [],
       "direct_ch1_refs": [
         "15.1",
@@ -919,7 +919,7 @@
       "op_rules": [
         {
           "label": "integrity assurance and resilience operations",
-          "line": 798,
+          "line": 801,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -930,7 +930,7 @@
         },
         {
           "label": "Adversarial response and revalidation non-entrenchment",
-          "line": 815,
+          "line": 818,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -941,7 +941,7 @@
         },
         {
           "label": "Audit reconstruction and access-level continuity",
-          "line": 832,
+          "line": 835,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -952,7 +952,7 @@
         },
         {
           "label": "Class-scaled contest-monitor independence and mandate",
-          "line": 849,
+          "line": 852,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -963,7 +963,7 @@
         },
         {
           "label": "Containment, reversibility, and retention lifecycle coherence",
-          "line": 866,
+          "line": 869,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -974,7 +974,7 @@
         },
         {
           "label": "Contest-integrity pathway chain",
-          "line": 883,
+          "line": 886,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -985,7 +985,7 @@
         },
         {
           "label": "Control-failure declaration chain",
-          "line": 900,
+          "line": 903,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -996,7 +996,7 @@
         },
         {
           "label": "Cross-institution coordination and escalation chain",
-          "line": 917,
+          "line": 920,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1007,7 +1007,7 @@
         },
         {
           "label": "External assurance trigger minimum",
-          "line": 934,
+          "line": 937,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1018,7 +1018,7 @@
         },
         {
           "label": "Incident and assurance notification urgency (NU)",
-          "line": 951,
+          "line": 954,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1029,7 +1029,7 @@
         },
         {
           "label": "Independent verification path integrity",
-          "line": 968,
+          "line": 971,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1040,7 +1040,7 @@
         },
         {
           "label": "Influence-contact and lobbying boundaries",
-          "line": 985,
+          "line": 988,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1051,7 +1051,7 @@
         },
         {
           "label": "Integrity-trigger routing chain",
-          "line": 1002,
+          "line": 1005,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1062,7 +1062,7 @@
         },
         {
           "label": "Property-custody and incentive-separation control chain",
-          "line": 1019,
+          "line": 1022,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1073,7 +1073,7 @@
         },
         {
           "label": "Selection-funding integrity controls",
-          "line": 1036,
+          "line": 1039,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1084,7 +1084,7 @@
         },
         {
           "label": "Shared anti-capture control stack",
-          "line": 1053,
+          "line": 1056,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1095,7 +1095,7 @@
         },
         {
           "label": "Sortition and civic-lottery integrity controls",
-          "line": 1070,
+          "line": 1073,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1106,7 +1106,7 @@
         },
         {
           "label": "Three-lines assurance model",
-          "line": 1087,
+          "line": 1090,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1667,7 +1667,7 @@
           "missing": []
         },
         {
-          "label": "Verification and comparative interpretation enablement",
+          "label": "Product and service health and safety information",
           "line": 829,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -1678,7 +1678,7 @@
           "missing": []
         },
         {
-          "label": "Product and service health and safety information",
+          "label": "Ratings, rankings, and paid promotion",
           "line": 846,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -1689,7 +1689,7 @@
           "missing": []
         },
         {
-          "label": "Ratings, rankings, and paid promotion",
+          "label": "Verification and comparative interpretation enablement",
           "line": 863,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -1709,7 +1709,7 @@
       "title": "Accountability: Distributed and Proportional Authority Terms",
       "file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
       "start_line": 50,
-      "end_line": 415,
+      "end_line": 417,
       "read_with": [],
       "direct_ch1_refs": [
         "11",
@@ -1748,7 +1748,7 @@
       "op_rules": [
         {
           "label": "distributed and proportional authority terms",
-          "line": 95,
+          "line": 97,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1759,7 +1759,7 @@
         },
         {
           "label": "Market-concentration threshold activation",
-          "line": 150,
+          "line": 152,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1770,7 +1770,7 @@
         },
         {
           "label": "anti-domination conduct and remediation catalog",
-          "line": 205,
+          "line": 207,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1781,7 +1781,7 @@
         },
         {
           "label": "consolidation ceiling-setting discipline (adopter-tunable)",
-          "line": 260,
+          "line": 262,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1792,7 +1792,7 @@
         },
         {
           "label": "Authority distribution and anti-monopoly minimum",
-          "line": 277,
+          "line": 279,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1803,7 +1803,7 @@
         },
         {
           "label": "Baseline governance accountability conditions",
-          "line": 294,
+          "line": 296,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1814,7 +1814,7 @@
         },
         {
           "label": "Classification-scaled governance burden",
-          "line": 311,
+          "line": 313,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1825,7 +1825,7 @@
         },
         {
           "label": "Contextual and systemic evaluation discipline",
-          "line": 330,
+          "line": 332,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1836,7 +1836,7 @@
         },
         {
           "label": "Formation and authorization proportionality minimum",
-          "line": 347,
+          "line": 349,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1847,7 +1847,7 @@
         },
         {
           "label": "Proportional oversight-intensity scaling",
-          "line": 364,
+          "line": 366,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1858,7 +1858,7 @@
         },
         {
           "label": "Representation and participation legitimacy controls",
-          "line": 381,
+          "line": 383,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1869,7 +1869,7 @@
         },
         {
           "label": "Stewardship-role depth and non-symbolic governance boundary",
-          "line": 398,
+          "line": 400,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1887,8 +1887,8 @@
       "cluster_id": "CJS-3.125 \u00a712",
       "title": "Accountability: Burden-of-Justification and Constraint Terms",
       "file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
-      "start_line": 416,
-      "end_line": 666,
+      "start_line": 418,
+      "end_line": 668,
       "read_with": [],
       "direct_ch1_refs": [
         "13.1.5",
@@ -1917,7 +1917,7 @@
       "op_rules": [
         {
           "label": "burden-of-justification and constraint terms",
-          "line": 460,
+          "line": 462,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1928,7 +1928,7 @@
         },
         {
           "label": "Class-aligned revenue and access-burden minimum",
-          "line": 479,
+          "line": 481,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1939,7 +1939,7 @@
         },
         {
           "label": "Collective-health and emergency support-bundle minimum",
-          "line": 496,
+          "line": 498,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1950,7 +1950,7 @@
         },
         {
           "label": "Disclosure, audit, and challenge sufficiency",
-          "line": 513,
+          "line": 515,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1961,7 +1961,7 @@
         },
         {
           "label": "Incentive proof, residual misalignment, and scaling",
-          "line": 530,
+          "line": 532,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1972,7 +1972,7 @@
         },
         {
           "label": "Innovation-exclusivity anti-enclosure application",
-          "line": 547,
+          "line": 549,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1983,7 +1983,7 @@
         },
         {
           "label": "Mechanism-integrity and incentive-alignment minimum",
-          "line": 564,
+          "line": 566,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -1994,7 +1994,7 @@
         },
         {
           "label": "Restriction-burden assignment minimum",
-          "line": 581,
+          "line": 583,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2005,7 +2005,7 @@
         },
         {
           "label": "Rights-collision and alternative-selection record",
-          "line": 598,
+          "line": 600,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2016,7 +2016,7 @@
         },
         {
           "label": "Substantive showing and least-restrictive proof",
-          "line": 615,
+          "line": 617,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2027,7 +2027,7 @@
         },
         {
           "label": "Survival-critical access and voluntary-market interface",
-          "line": 632,
+          "line": 634,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2038,7 +2038,7 @@
         },
         {
           "label": "Temporal discipline and revalidation",
-          "line": 649,
+          "line": 651,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2056,8 +2056,8 @@
       "cluster_id": "CJS-3.125 \u00a713",
       "title": "Accountability: Procedural Integrity and Adjudication Terms",
       "file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
-      "start_line": 667,
-      "end_line": 946,
+      "start_line": 669,
+      "end_line": 948,
       "read_with": [],
       "direct_ch1_refs": [
         "15",
@@ -2084,7 +2084,7 @@
       "op_rules": [
         {
           "label": "procedural integrity and adjudication terms",
-          "line": 717,
+          "line": 719,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2095,7 +2095,7 @@
         },
         {
           "label": "Backup activation",
-          "line": 736,
+          "line": 738,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2106,7 +2106,7 @@
         },
         {
           "label": "Burden, proportionality, and enforcement selection",
-          "line": 753,
+          "line": 755,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2117,7 +2117,7 @@
         },
         {
           "label": "Delegated binding body",
-          "line": 770,
+          "line": 772,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2128,7 +2128,7 @@
         },
         {
           "label": "Deposition or preserved-testimony session",
-          "line": 787,
+          "line": 789,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2139,7 +2139,7 @@
         },
         {
           "label": "Due-process requirements",
-          "line": 804,
+          "line": 806,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2150,7 +2150,7 @@
         },
         {
           "label": "Lawful independent forum",
-          "line": 821,
+          "line": 823,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2161,7 +2161,7 @@
         },
         {
           "label": "Before representative treatment can proceed, the Forum Case Record must identify that shared practice clearly enough that affected parties can contest **who is covered** (scope), **whether representation is adequate**, and **whether sentient-specific exceptions** are required.",
-          "line": 846,
+          "line": 848,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2172,7 +2172,7 @@
         },
         {
           "label": "Restoration accessibility and remedy realism",
-          "line": 861,
+          "line": 863,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2183,7 +2183,7 @@
         },
         {
           "label": "Review independence and contestability",
-          "line": 878,
+          "line": 880,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2194,7 +2194,7 @@
         },
         {
           "label": "Sanction validity and restoration conditions",
-          "line": 895,
+          "line": 897,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2205,7 +2205,7 @@
         },
         {
           "label": "System-class and joint-read scaling",
-          "line": 912,
+          "line": 914,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2216,7 +2216,7 @@
         },
         {
           "label": "Uncertainty safeguards and anti-abuse minimum",
-          "line": 929,
+          "line": 931,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2234,8 +2234,8 @@
       "cluster_id": "CJS-3.125 \u00a714",
       "title": "Accountability: Intervention Governance and Override-Authorization Terms",
       "file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
-      "start_line": 947,
-      "end_line": 1108,
+      "start_line": 949,
+      "end_line": 1110,
       "read_with": [],
       "direct_ch1_refs": [
         "15.1",
@@ -2258,7 +2258,7 @@
       "op_rules": [
         {
           "label": "intervention governance and override-authorization terms",
-          "line": 987,
+          "line": 989,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2269,7 +2269,7 @@
         },
         {
           "label": "Authorization and role-scope discipline",
-          "line": 1006,
+          "line": 1008,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2280,7 +2280,7 @@
         },
         {
           "label": "Emergency governance limits and anti-normalization control",
-          "line": 1023,
+          "line": 1025,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2291,7 +2291,7 @@
         },
         {
           "label": "Governance quorum and emergency-sequencing requirements",
-          "line": 1040,
+          "line": 1042,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2302,7 +2302,7 @@
         },
         {
           "label": "Joint necessity and technical-governance coupling minimum",
-          "line": 1057,
+          "line": 1059,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2313,7 +2313,7 @@
         },
         {
           "label": "Proportional procedural scaling",
-          "line": 1074,
+          "line": 1076,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2324,7 +2324,7 @@
         },
         {
           "label": "Records, transparency, and challenge pathway duties",
-          "line": 1091,
+          "line": 1093,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2342,8 +2342,8 @@
       "cluster_id": "CJS-3.125 \u00a715",
       "title": "Accountability: Structural Review, Correction Urgency, and Disclosure Terms",
       "file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
-      "start_line": 1109,
-      "end_line": 1319,
+      "start_line": 1111,
+      "end_line": 1321,
       "read_with": [],
       "direct_ch1_refs": [
         "13.2",
@@ -2372,7 +2372,7 @@
       "op_rules": [
         {
           "label": "structural review, correction urgency, and disclosure terms",
-          "line": 1151,
+          "line": 1153,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2383,7 +2383,7 @@
         },
         {
           "label": "Correction Urgency (CU) discipline",
-          "line": 1168,
+          "line": 1170,
           "has_what_it_is": true,
           "has_how_to_measure": false,
           "has_what_must_hold": false,
@@ -2397,7 +2397,7 @@
         },
         {
           "label": "Where loss of life, serious injury, or irreversible rights loss is imminent, is verified or credibly alleged, and was not created by the party or forum relying on it, **CU-1** runs at the **Emergency setting** ([Chapter Twenty-Three \u00a75 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum_families_escalation_timeliness_support.md#time-scale-settings) (*Time-scale settings*)): containment screening starts inside its 6-hour intake target and the protective steps finish inside its 3-day bound ([CF-22.445 \u00a75.1](../corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)). Where the containment is a measure in force against someone, notice, restore-challenge, and prompt review run as for any emergency measure ([Chapter Twenty-Three \u00a75.1 Emergency Measures and Continuation Burden](../core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden)). Where a CU issue is also before a forum, that matter's tier window governs, and a CU category never changes a dispute's tier.",
-          "line": 1179,
+          "line": 1181,
           "has_what_it_is": false,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2410,62 +2410,7 @@
         },
         {
           "label": "Feedback integration and effectiveness verification",
-          "line": 1191,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive \u2014 including the [System Classification Record](../subcore_03.075_band_continuity.md#system-classification-record), the [System Data Types Record](../subcore_03.075_band_continuity.md#system-data-types-record), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**Subcore 4-A** (*Data Types*), **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), and peers). How System Alignment Certification treats resulting defects lives under **[Chapter Nine \u00a74 Certification Outcomes](../core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes)**.",
-          "line": 1212,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Realignment resistance and dissolution-review trigger minimum",
-          "line": 1227,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Stakeholder scope and targeted transparency",
-          "line": 1244,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Structural records, risk-relevant data, and disclosure timing",
-          "line": 1261,
-          "has_what_it_is": true,
-          "has_how_to_measure": true,
-          "has_what_must_hold": true,
-          "has_op_o": true,
-          "has_op_e": true,
-          "has_op_c": true,
-          "missing": []
-        },
-        {
-          "label": "Systemic-pattern detection and escalation",
-          "line": 1278,
+          "line": 1193,
           "has_what_it_is": true,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2476,7 +2421,7 @@
         },
         {
           "label": "Harm reports and corrective notices",
-          "line": 1295,
+          "line": 1210,
           "has_what_it_is": true,
           "has_how_to_measure": false,
           "has_what_must_hold": false,
@@ -2490,7 +2435,7 @@
         },
         {
           "label": "The unsafe product or wrong information must be contained inside the containment window and corrected inside the correction window of the matching category (CU-1 to CU-4 of [Correction Urgency (CU) discipline](#correction-urgency-cu-discipline)). [Article III-F](../core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../subcore_03.090_band_participation.md#commercial-compliance).",
-          "line": 1304,
+          "line": 1219,
           "has_what_it_is": false,
           "has_how_to_measure": true,
           "has_what_must_hold": true,
@@ -2500,6 +2445,61 @@
           "missing": [
             "What it is"
           ]
+        },
+        {
+          "label": "Use this sub-rule when a material **classification, typing, or status record** other systems, institutions, forums, or certification cycles rely on is incomplete, contested, understated, or evasive \u2014 including the [System Classification Record](../subcore_03.075_band_continuity.md#system-classification-record), the [System Data Types Record](../subcore_03.075_band_continuity.md#system-data-types-record), and comparable owner-layer classification files. Domain anti-evasion lists and required fields stay with the owner file (**Subcore 4-A** (*Data Types*), **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), and peers). How System Alignment Certification treats resulting defects lives under **[Chapter Nine \u00a74 Certification Outcomes](../core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes)**.",
+          "line": 1235,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Realignment resistance and dissolution-review trigger minimum",
+          "line": 1250,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Stakeholder scope and targeted transparency",
+          "line": 1267,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Structural records, risk-relevant data, and disclosure timing",
+          "line": 1284,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
+        },
+        {
+          "label": "Systemic-pattern detection and escalation",
+          "line": 1301,
+          "has_what_it_is": true,
+          "has_how_to_measure": true,
+          "has_what_must_hold": true,
+          "has_op_o": true,
+          "has_op_e": true,
+          "has_op_c": true,
+          "missing": []
         }
       ],
       "classifications": [
@@ -2970,7 +2970,7 @@
           "missing": []
         },
         {
-          "label": "Justification and bounded-retention minimum",
+          "label": "Handoff continuity and authority-transfer lifecycle integrity",
           "line": 719,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2981,7 +2981,7 @@
           "missing": []
         },
         {
-          "label": "Lifecycle expiry, deletion, de-identification, and reclassification controls",
+          "label": "Justification and bounded-retention minimum",
           "line": 736,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -2992,7 +2992,7 @@
           "missing": []
         },
         {
-          "label": "Proportional application",
+          "label": "Lifecycle expiry, deletion, de-identification, and reclassification controls",
           "line": 753,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3003,7 +3003,7 @@
           "missing": []
         },
         {
-          "label": "Purpose and proportionality criteria",
+          "label": "Proportional application",
           "line": 770,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3014,7 +3014,7 @@
           "missing": []
         },
         {
-          "label": "Review, revalidation, and prohibited patterns",
+          "label": "Purpose and proportionality criteria",
           "line": 787,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3025,7 +3025,7 @@
           "missing": []
         },
         {
-          "label": "Handoff continuity and authority-transfer lifecycle integrity",
+          "label": "Review, revalidation, and prohibited patterns",
           "line": 804,
           "has_what_it_is": true,
           "has_how_to_measure": true,
@@ -3717,7 +3717,7 @@
         "cluster_id": "CJS-3.125 \u00a715",
         "title": "Accountability: Structural Review, Correction Urgency, and Disclosure Terms",
         "file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
-        "line": 1168,
+        "line": 1170,
         "rule": "Correction Urgency (CU) discipline",
         "missing": [
           "How to measure and assess",
@@ -3728,7 +3728,7 @@
         "cluster_id": "CJS-3.125 \u00a715",
         "title": "Accountability: Structural Review, Correction Urgency, and Disclosure Terms",
         "file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
-        "line": 1179,
+        "line": 1181,
         "rule": "Where loss of life, serious injury, or irreversible rights loss is imminent, is verified or credibly alleged, and was not created by the party or forum relying on it, **CU-1** runs at the **Emergency setting** ([Chapter Twenty-Three \u00a75 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_23.000_forum_families_escalation_timeliness_support.md#time-scale-settings) (*Time-scale settings*)): containment screening starts inside its 6-hour intake target and the protective steps finish inside its 3-day bound ([CF-22.445 \u00a75.1](../corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)). Where the containment is a measure in force against someone, notice, restore-challenge, and prompt review run as for any emergency measure ([Chapter Twenty-Three \u00a75.1 Emergency Measures and Continuation Burden](../core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden)). Where a CU issue is also before a forum, that matter's tier window governs, and a CU category never changes a dispute's tier.",
         "missing": [
           "What it is"
@@ -3738,7 +3738,7 @@
         "cluster_id": "CJS-3.125 \u00a715",
         "title": "Accountability: Structural Review, Correction Urgency, and Disclosure Terms",
         "file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
-        "line": 1295,
+        "line": 1210,
         "rule": "Harm reports and corrective notices",
         "missing": [
           "How to measure and assess",
@@ -3749,7 +3749,7 @@
         "cluster_id": "CJS-3.125 \u00a715",
         "title": "Accountability: Structural Review, Correction Urgency, and Disclosure Terms",
         "file": "corpus_joint_structure/cjs_03.125_accountability_operations.md",
-        "line": 1304,
+        "line": 1219,
         "rule": "The unsafe product or wrong information must be contained inside the containment window and corrected inside the correction window of the matching category (CU-1 to CU-4 of [Correction Urgency (CU) discipline](#correction-urgency-cu-discipline)). [Article III-F](../core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../subcore_03.090_band_participation.md#commercial-compliance).",
         "missing": [
           "What it is"

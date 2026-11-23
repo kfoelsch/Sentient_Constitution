@@ -13,7 +13,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); principle-layer gloss at [Preamble §1](core_00.000_preamble.md#flourishing).
+- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000).
 - Downstream: Principles:
   - [Chapter Two §3 Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) (2.000 §3);
   - [Chapter Two §2.1 Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (2.000 §2.1);

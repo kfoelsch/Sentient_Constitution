@@ -153,7 +153,10 @@ The three subsections below apply the existing Chapter Twenty sequence to conduc
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§5](core_20.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) Rights Floor; [Chapter Eighteen §4.4.3](core_18.000_violation_consequences.md#443-duty-to-resist) (18.000 §4.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in [§4.1.2](#412-unconstitutional-contract-term-conduct).
+- Upstream:
+  - [§5](core_20.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
+  - [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) Rights Floor;
+  - [Chapter Eighteen §4.4.3](core_18.000_violation_consequences.md#443-duty-to-resist) (18.000 §4.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*) for unconstitutional-instruction routing named in [§4.1.2](#412-unconstitutional-contract-term-conduct).
 - Downstream: [§3.2](core_20.000_misconduct_designation.md#32-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*); [Article XXI-A: Justice Objective and Scope](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) for review pathways that waiver devices must not defeat.
 - Topic routing (mandatory read-with): [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Question 3 gated-pathway lock routing for the same fact family — general locks only*).
 - Read with: [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) (29.000) procedural-validity rules for adoption documents (contrast with ordinary association terms).
@@ -1596,7 +1599,7 @@ Two other chapters keep their own jobs:
 This section does **not**:
 - convert every obstruction finding into an Anti-Constitutional Misconduct Review matter;
 - equate obstruction of accountability with ACMD; or
-- relocate standing measurement, ordinary locks, or forum supervision from Chapters Fourteen, Twelve, or Fifteen.
+- relocate standing measurement, ordinary locks, or forum supervision from Chapters Fifteen, Sixteen, or Twenty-Two.
 
 It routes evaluation of the umbrella pattern into the existing ACMD criteria and due-process safeguards of this chapter.
 

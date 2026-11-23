@@ -79,10 +79,7 @@ def main() -> int:
     args = parse_args()
     root = Path(args.root).resolve()
     findings: list[str] = []
-    # Dormant since the 2026-10-21 corpus renumbering: this glob has matched no file since then, and
-    # pointing it at CJS3_GLOB finds four out-of-order sub-terms (TODO.md, "oDef cluster term order").
-    # Kept as it was through the 2026-11-20 core reorganization so that move changes no content order.
-    for path in sorted((root / "corpus_joint_structure").glob("cjs_05*.md")):
+    for path in sorted(root.glob(CJS3_GLOB)):
         findings.extend(audit_file(root, path))
 
     if findings:

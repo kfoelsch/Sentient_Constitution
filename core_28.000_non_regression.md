@@ -144,7 +144,11 @@ Material weakening includes indirect narrowing through:
 
 - Upstream: [§3](#3-non-regression-floor) non-regression floor definition.
 - Downstream: [§5](#5-anti-evasion-clause) evasion; [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) (29.000) Procedural Tests 2–4 and procedural requirements (invalid if Substantive Test 1 fails regardless of procedure).
-- Read with: [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) non-negotiable principle constraints; [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) legitimacy obligations; [Article XXVI-A](core_04.030_rights_part_d.md#article-xxvi-a-bounded-interpretive-mandate-and-public-reasons) (*Bounded Interpretive Mandate and Public Reasons*) and [Article XXVI-B](core_04.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*) for the forum's determination and its review; [Chapter Twenty-Nine §13.3](core_29.000_amendment_ratification.md#133-proposal-hearing-and-comment-window) (29.000 §13.3) for how a proposal is brought to that forum.
+- Read with:
+  - [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) non-negotiable principle constraints;
+  - [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) legitimacy obligations;
+  - [Article XXVI-A](core_04.030_rights_part_d.md#article-xxvi-a-bounded-interpretive-mandate-and-public-reasons) (*Bounded Interpretive Mandate and Public Reasons*) and [Article XXVI-B](core_04.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*) for the forum's determination and its review;
+  - [Chapter Twenty-Nine §13.3](core_29.000_amendment_ratification.md#133-proposal-hearing-and-comment-window) (29.000 §13.3) for how a proposal is brought to that forum.
 
 </details>
 
@@ -229,7 +233,7 @@ This chapter may impose immediate validity-protection controls. Those controls i
 - [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation); and
 - remediation publication.
 
-Under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification, sanction taxonomy, standing measurement, adjudicative workflow, or procedural amendment validity owned by Chapters Fifteen, Twelve, Thirteen, and Seventeen respectively. Slot-flavored or classification-flavored language in this chapter or in **Chapter Twenty-Nine** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
+Under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation), this chapter must not absorb, restate, or relocate obligations owned by another constitutional owner layer — including final offense classification (Chapter Fifteen for the Violation Axis slot and Chapter Twenty for the anti-constitutional-misconduct designation), sanction taxonomy (Chapters Sixteen to Nineteen), standing measurement (Chapter Fifteen), adjudicative workflow (Chapter Twenty-Two), and procedural amendment validity (Chapter Twenty-Nine). Slot-flavored or classification-flavored language in this chapter or in **Chapter Twenty-Nine** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
 Cross-layer drift that imports adjudicative workflow, sanction mechanics, or classification substance from another owner layer into **Chapter Twenty-Eight** or **Chapter Twenty-Nine** — whether as direct text, as reader-guidance prose elevated to operative effect, or as inference from review-trigger language — is **non-compliant** under this section.
 

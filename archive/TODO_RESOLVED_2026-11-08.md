@@ -1,6 +1,6 @@
 # TODO Resolved — 2026-11-08
 
-Completed sections archived from `TODO.md` by the **archive** procedure (370th move). Links are relative to this folder. The complete pre-cleanup file is [TODO_SNAPSHOT_2026-11-08.md](TODO_SNAPSHOT_2026-11-08.md).
+Completed sections archived from `TODO.md` by the **archive** procedure (370th move). Links are relative to this folder. The complete pre-cleanup file is [TODO_SNAPSHOT_2026-11-12.md](TODO_SNAPSHOT_2026-11-12.md).
 
 ### Audit registry and category report — optional follow-up
 

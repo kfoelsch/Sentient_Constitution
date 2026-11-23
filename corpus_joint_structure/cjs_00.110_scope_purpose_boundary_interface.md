@@ -30,7 +30,11 @@
   - [CJS-6.105 §11](cjs_06.105_support_hosting_classification.md#cjs-6105-11-classification-alignment-for-supervised-scope) (*Classification Alignment for Supervised Scope*);
   - [CJS-3.140 §13](cjs_03.140_odef_parse_mechanics.md#cjs-3140-13-operational-structure-and-subsection-local-terminology) (*Operational Structure and Subsection-Local Terminology*) through
   - [CJS-3.140 §14](cjs_03.140_odef_parse_mechanics.md#cjs-3140-14-operational-clusters) (*Operational Clusters*).
-- Read with: **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-31.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-3.140** (*oDef Parse Mechanics*), and **CJS-6.105** (*Support roles, hosting independence, and classification alignment*);
+- Read with:
+  - **CJS-0.110** (*Scope, purpose, and boundary interface*);
+  - **CJS-31.105** (*Drafting contracts and owner-to-CJS seam*);
+  - **CJS-3.140** (*oDef Parse Mechanics*); and
+  - **CJS-6.105** (*Support roles, hosting independence, and classification alignment*);
   - **CJS-0.110 §0** (*Purpose, Role, and Scope*);
   - **CJS-0.110 §1** (*Section Identifiers and Article References*);
   - **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*);
@@ -128,7 +132,12 @@ This file, **CJS-0.110** (*Scope, purpose, and boundary interface*), is the **bi
 
 - Upstream: [CJS-0.110 §0](#cjs-0110-0-purpose-role-and-scope) (*Purpose, Role, and Scope*) purpose of this layer; [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline; [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4) combined satisfaction and default reading stack.
 - Downstream: **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*); **CJS-3.140 §13** (*Operational Structure and Subsection-Local Terminology*); **CJS-3.140 §14** (*Operational Clusters*); **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
-- Read with: **CJS-0.110 §1** (*Section Identifiers and Article References*); **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-31.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-3.140** (*oDef Parse Mechanics*), and **CJS-6.105** (*Support roles, hosting independence, and classification alignment*); **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*); **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*); [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*).
+- Read with:
+  - **CJS-0.110 §1** (*Section Identifiers and Article References*);
+  - **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-31.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-3.140** (*oDef Parse Mechanics*), and **CJS-6.105** (*Support roles, hosting independence, and classification alignment*);
+  - **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*);
+  - **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*);
+  - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*).
 
 </details>
 

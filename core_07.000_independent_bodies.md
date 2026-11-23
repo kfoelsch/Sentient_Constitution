@@ -6,7 +6,8 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files and the subcore, read as one text. It contains **Chapter Seven**, *Independent Bodies*: its purpose (§1), why it exists (§2), what makes a body independent (§3), and the bodies this Constitution creates (§4). Until 2026-11-20, §3 was Chapter Six §11.
 >
 > **Upstream:** [core_06.000_functional_independence_separation_of_duties.md](core_06.000_functional_independence_separation_of_duties.md) (Chapter Six)
-> **Next:** [core_08.000_system_alignment_certification_evaluation.md](core_08.000_system_alignment_certification_evaluation.md)
+> **Attached subcore file:** [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*) holds the operating rules of the Electoral Office listed in §4.
+> **Next:** [subcore_07.010_electoral_office.md](subcore_07.010_electoral_office.md) (Subcore 7-A)
 
 </details>
 
@@ -20,6 +21,7 @@
   - [§3](#3-what-makes-a-body-independent);
   - [§4](#4-the-bodies-this-constitution-creates).
 - Downstream: each chapter, subcore file, or designated implementation text that names a body as an Independent Body by citing §3.
+- Attached subcore: [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*).
 
 </details>
 
@@ -76,8 +78,12 @@ Where an official's decision can be overturned by a phone call, the public gets 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Six §3](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) through [Chapter Six §7](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting); [Chapter Twenty-Seven §3.2 Eligibility, Contested Selection, and Democratic Minimums](core_27.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums) (27.000 §3.2); [Chapter Nineteen §5.2 Remedy-System Durability](core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) (19.000 §5.2); [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
-- Downstream: each chapter or designated implementation text that names a body as an Independent Body by citing this section.
+- Upstream:
+  - [Chapter Six §3](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) through [Chapter Six §7](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting);
+  - [Chapter Twenty-Seven §3.2 Eligibility, Contested Selection, and Democratic Minimums](core_27.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums) (27.000 §3.2);
+  - [Chapter Nineteen §5.2 Remedy-System Durability](core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) (19.000 §5.2);
+  - [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+- Downstream: each chapter or designated implementation text that names a body as an Independent Body by citing this section, including the forum families of [Chapter Twenty-Three §3 Forum Family Definitions](core_23.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) and [Chapter Twenty-Seven §3.2.5 Forum Appointment Independence Requirement](core_27.000_governance.md#325-forum-appointment-independence-requirement).
 - Read with: [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways); [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*).
 
 </details>
@@ -90,18 +96,18 @@ Where an official's decision can be overturned by a phone call, the public gets 
 
 **Standard requirements:** Each Independent Body must meet all of the following:
 
-- **Outside control:** it sits outside the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of every body or party it serves, funds, checks, measures, or decides about, and of the governing authority except for the budget powers that the designating text expressly gives and the duty to run the appointment draw.
+- **Outside control:** it sits outside the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of every body or party it serves, funds, checks, measures, or decides about, and of the governing authority except for the budget powers that the designating text expressly gives.
 - **No override:** no one may direct the body in how it carries out its duties, and no act of the governing authority or anyone else may suspend any requirement of this section, even in an emergency under [Chapter Six §8 Emergency and Urgent Action](core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action). Any emergency power that the designating text gives the body is its own, used by its own decision.
 - **Appointment by sortition:** its decision-makers are chosen by lot from the sentients who pass its competency gate, not by election and not by the choice of any official, so that no one who wants to steer the body can pick who sits on it:
   - **Competency gate:** for each decision seat, the body publishes role criteria and qualification standards under [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways). A candidate passes the gate by meeting the [Chapter Seventeen §3.2 Competency Bars and Clearances](core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) bar for that seat, applied after the standing-lock check that the same subsection requires. The gate tests readiness only, and may not screen out by sponsorship, prestige, or anything else that [Subcore 17-A §4.2 Guarding against Gatekeeping](subcore_17.010_recency_competency_clearance.md#42-guarding-against-gatekeeping) bars;
   - **Open entry:** any sentient who passes the gate enters the pool by applying. No one nominates, sponsors, vets, or approves a candidate, and a refusal of entry states its reason and is open to challenge;
   - **Conflict screen:** before the draw, a candidate is set aside for a published reason if they hold a [material stake](core_00.000_preamble.md#material-stake) in the body's work, hold a seat that *No dual roles* below bars, or are inside a cooling-off period under [**Article XIII-C**](core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*). The screen is open to challenge;
-  - **The draw:** the draw meets the sortition integrity requirement of [Chapter Twenty-Seven §3.1 Mechanism Families, Auditability, and Pluralism](core_27.000_governance.md#31-mechanism-families-auditability-and-pluralism). Its method and random source are published before the pool closes, the draw is open to observers, anyone can rerun it and get the same result, and the pool size and the result are published together;
+  - **The draw:** the Electoral Office runs the draw from the pool the body certifies, under [Subcore 7-A §7 Public Draws](subcore_07.010_electoral_office.md#7-public-draws), and may not change the pool. The Electoral Office's own draw, and any draw that a designating text gives to another body, is run as Subcore 7-A §3 *Independence and Placement* or that text says. The draw meets the sortition integrity requirement of [Chapter Twenty-Seven §3.1 Mechanism Families, Auditability, and Pluralism](core_27.000_governance.md#31-mechanism-families-auditability-and-pluralism). Its method and random source are published before the pool closes, the draw is open to observers, anyone can rerun it and get the same result, and the pool size and the result are published together;
   - **Balance:** the draw may be stratified so that the body reflects the fields or places it serves, but only by criteria published before the pool opens;
   - **Thin pool:** where fewer candidates pass than a published minimum (by default, three for each open seat), the body widens and reopens the call. It may not lower the gate or appoint someone directly, and the seat is covered in the meantime under [Chapter Six §6 Published Placement, Vacancy, and Substitution](core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution);
   - **Terms:** terms are fixed, staggered so that only part of the body changes at once, and not renewable. A former holder may re-enter the pool only after one full term has passed;
   - **Vacancy:** a seat that falls vacant is filled by a fresh draw from the current pool, never by appointment;
-  - **No veto:** neither the governing authority nor any body or party the body serves, funds, checks, measures, or decides about may veto, confirm, reorder, or delay a drawn candidate. Any appointment power that the designating text gives the governing authority is a duty to run the draw by the published rule and nothing more;
+  - **No veto:** neither the governing authority nor any body or party the body serves, funds, checks, measures, or decides about may veto, confirm, reorder, or delay a drawn candidate. Whoever runs the draw has no power beyond running it by the published rule;
   - **Leadership:** where the body has a head or chair, the drawn members choose one of themselves by a published rule, or by lot among themselves;
   - **Other methods:** a designating text may use another method for a seat only where it publishes why sortition cannot fill that seat, such as a qualified pool too small to draw from, and the method it uses instead is published, contested, and rotatable appointment under [Chapter Twenty-Seven §3.2 Eligibility, Contested Selection, and Democratic Minimums](core_27.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums) that still meets every other requirement in this list.
 - **Removal:** a decision-maker may be removed mid-term only for a published cause, through a removal pathway under [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways), and the removal is open to challenge. Removal, reassignment, or loss of pay because of a decision, finding, published figure, or dissent is barred.
@@ -146,7 +152,7 @@ Where an official's decision can be overturned by a phone call, the public gets 
   - **Financial audit:** an independent financial auditor outside its Material Control Line audits its accounts each funding cycle, with a resource audit where shared resources are involved. Results go to the Integrity registrar under [CF-22.415 §8 Integrity Registrar](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-8-integrity-registrar) and are published;
   - **Audit of its work:** an independent reviewer outside the team that did the work reviews the body's methods and its materially binding acts within each method-review interval (by default, five years), and the findings and the body's response are published;
   - **Challenge:** any sentient affected by a materially binding act of the body, or by its refusal or delay to act, may challenge it before an [Integrity Forum](core_23.000_forum_families_escalation_timeliness_support.md#35-integrity-forums), or before a [Technical Forum Domain](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) where the dispute is purely technical. The designating text lists the challenge grounds special to the body, and may add challenge grounds but may not narrow this route;
-  - **No self-judging:** where the forum that would hear a challenge asked for, is funded by, or is checked or measured by the act at issue, the matter routes to an independent backup forum under [Ways a Matter Moves Between Forums](core_23.000_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums);
+  - **No self-judging:** where the forum that would hear a challenge is the body whose act is challenged, or asked for, is funded by, or is checked or measured by the act at issue, the matter routes to an independent backup forum under [Ways a Matter Moves Between Forums](core_23.000_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums);
   - **Interim relief:** while a challenge is pending, the forum may pause the act, or restore what it took away, where the act foreseeably lets ongoing harm continue or would make redress useless;
   - **Remedy:** a successful challenge leads to a published correction, a redo of the act, or a new selection, as fits. The original stays visible beside its correction; and
   - **Scope of review:** the forum decides whether the body followed its rules. It does not put its own judgment in place of the body's within the discretion that the designating text gives.
@@ -160,6 +166,14 @@ Where an official's decision can be overturned by a phone call, the public gets 
   - **Quiet period:** its decision-makers do not speak in public about a pending decision or release for the pre-release quiet period before it (by default, one week) until it is published; and
   - **No holdings in what it moves:** its decision-makers and senior staff may not hold or trade individual assets whose price its decisions or releases directly move. They may hold broad funds cleared in advance, and their holdings and trades are disclosed and published.
 - **Gifts and apparent conflicts:** its decision-makers and staff follow the gifts-and-benefits and apparent-conflict floors of [Article XIII-C](core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*).
+
+**Forums:** where an Independent Body is a forum family, it judges cases, and this section applies to it as follows:
+
+- **Rulings are reviewed on appeal:** a ruling in a forum case is reviewed through appeal and secondary review under [CF-22.420](corpus_forum/cf_22.420_appeal_secondary_review_exhaustion_pathways.md#cf-22420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, Secondary Review, and Exhaustion Pathways*), not through *Challenge* above. *Challenge* covers its other materially binding acts, such as a refusal of entry to its pool, a draw, its seat map, and how it spends its funding;
+- **Panels come from the drawn members:** the panel for each case is formed from the drawn members under [CF-22.410](corpus_forum/cf_22.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-22410-panel-formation-disclosure-recusal-and-lawful-bench-constitution) (*Panel Formation, Disclosure, Recusal, and Lawful Bench Constitution*), never chosen by a party, the governing authority, or anyone the case is about;
+- **The ruling is the record of a case:** each ruling is published with its reasons, the vote of each panel member, and any dissent, under Chapter Twenty-Two. *Minutes* and *Transcripts* above apply to its decision meetings on its own administration, not to a panel's deliberation in a case;
+- **No one answers for a ruling outside it:** in the open public session under *Reports and hearings*, it explains its work, workload, delays, and accounts. It does not discuss a pending case, and it does not defend or explain a ruling beyond the ruling's published reasons; and
+- **Checks on the checker:** a challenge to an act of an Integrity Forum, and an appeal from an Integrity Forum ruling about itself, goes to an independent backup forum under *No self-judging* above.
 
 **Pattern evidence:** A removal, reassignment, pay change, or funding change that follows a decision, finding, or figure adverse to the party that made the change is evidence of interference. The party that made the change must show a lawful, published reason unrelated to that outcome.
 
@@ -177,15 +191,26 @@ Where an official's decision can be overturned by a phone call, the public gets 
 
 *In plain terms: this is the list of the Independent Bodies every adopter must have, with what each one promises. Each body's full operating rules are in its own subcore file.*
 
-Each entry below names an Independent Body that this Constitution requires of every adopter. It states the body's purpose and, in one line each, every guarantee the body gives sentients directly, and it links the subcore file that holds the body's full operating rules. Each listed body meets [§3 What Makes a Body Independent](#3-what-makes-a-body-independent) in full.
+Each entry below names an Independent Body that this Constitution requires of every adopter. It states the body's purpose and, in one line each, every guarantee the body gives sentients directly, and it links the file that holds the body's full operating rules: a subcore file attached to this chapter, or, for the forum families, the forum chapters and Corpus Forum files. Each listed body meets [§3 What Makes a Body Independent](#3-what-makes-a-body-independent) in full.
 
 - **Adding a body every adopter must have:** by amendment under [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity), with an entry here and a subcore file attached to this chapter.
 - **A body one adopter creates for itself:** it follows [§3 What Makes a Body Independent](#3-what-makes-a-body-independent) when it is named as an Independent Body, and its operating rules are adopted implementation text.
 
-No body is listed yet.
+- **The forum families:** the six forum families of [Chapter Twenty-Three §3 Forum Family Definitions](core_23.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) are each an Independent Body: [Sentient Forums](core_23.000_forum_families_escalation_timeliness_support.md#31-sentient-forums), [Technical Forum Domains](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains), [Institutional Forums](core_23.000_forum_families_escalation_timeliness_support.md#33-institutional-forums), [Environment Forums](core_23.000_forum_families_escalation_timeliness_support.md#34-environment-forums), [Integrity Forums](core_23.000_forum_families_escalation_timeliness_support.md#35-integrity-forums), and [Constitutional Forums](core_23.000_forum_families_escalation_timeliness_support.md#36-constitutional-forums). Their purpose is to decide disputes and review acts under this Constitution, each family for the primary stakes that [Chapter Twenty-Two §4 Default Venue and Primary Stakes](core_22.000_forum.md#4-default-venue-and-primary-stakes) assigns it. Their operating rules are in [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases), Chapter Twenty-Three, and the Corpus Forum files that start from [CF-22.405](corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum Formation, Forum-Structure Mapping, and Chamber Structure*). They guarantee every sentient that:
+  - a case goes to the family whose primary stake it is, and no party can choose a friendlier forum;
+  - the sentients who decide it were drawn by lot from everyone who passed a published competency test, and no one the case is about chose them;
+  - no one may direct how a case is decided, and no forum member loses a seat, pay, or funding because of a ruling;
+  - every ruling is published with its reasons and each panel member's vote; and
+  - a forum never judges its own act or its own bias; that goes to an independent backup forum.
+- **Electoral Office:** keeps the electorate roll and runs elections, referendums, and public draws. Its operating rules are in [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*). It guarantees every sentient that:
+  - every sentient who meets the entitlement rules is on the roll, and can see and correct its own entry;
+  - the roll counts residence and subjects by one published rule for every kind of sentient;
+  - every result can be checked by anyone, and every vote is followed by a public audit;
+  - who funds a selection is published in a searchable register; and
+  - no assembly, executive, or candidate chooses who is drawn by lot.
 
 ---
 
 **Previous file:** [subcore_06.010_constitutional_lanes.md](subcore_06.010_constitutional_lanes.md)
 
-**Next file:** [core_08.000_system_alignment_certification_evaluation.md](core_08.000_system_alignment_certification_evaluation.md)
+**Next file:** [subcore_07.010_electoral_office.md](subcore_07.010_electoral_office.md)

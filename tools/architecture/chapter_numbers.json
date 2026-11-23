@@ -552,6 +552,20 @@
       "ordinal_name": "7"
     },
     {
+      "old_id": "Subcore 7-A (new)",
+      "original_file": "subcore_07.010_electoral_office.md",
+      "machine_id": "SUB-07010",
+      "display_id": "S7-A",
+      "layer": "SUBCORE",
+      "core_home": "07",
+      "title": "S7-A",
+      "destination_file": "subcore_07.010_electoral_office.md",
+      "status": "active",
+      "machine_number": "07010",
+      "layer_digit": "0",
+      "ordinal_name": "S7-A"
+    },
+    {
       "old_id": "Chapter 9",
       "original_file": "core_09_a_system_alignment_certification_evaluation.md",
       "machine_id": "08000",

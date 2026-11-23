@@ -8,7 +8,7 @@ rewritten when the file is placed.
 <details>
 <summary><strong><span style="color: #2563eb;">Drafting notes (non-operative): open choices and touch points</span></strong></summary>
 
-> **Status.** First draft, 2026-11-21, at the custodian's request ("something like the public policy office, which is in charge of evaluating the real world effects of proposed policies"). Companion draft: the [Public Stewardship Office](public_stewardship_office_draft_2026-11-21.md). Related drafts awaiting review: the [Public Information Office](public_information_office_draft_2026-11-19.md), which produces the figures this office relies on, and the [Public Finance Office](public_finance_office_draft_2026-11-19.md), which funds it.
+> **Status.** First draft, 2026-11-21, at the custodian's request ("something like the public policy office, which is in charge of evaluating the real world effects of proposed policies"). Companion draft: the [Public Stewardship Office](public_stewardship_office_draft_2026-11-21.md).
 >
 > **Placement.** Under the core reorganization plan, every Independent Body gets a one-line guarantee list in [Chapter Seven §4 The Bodies This Constitution Creates](../../core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) and a subcore file attached to Chapter Seven. This draft is written as that subcore file.
 >

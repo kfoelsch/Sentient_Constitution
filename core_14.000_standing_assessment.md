@@ -10,8 +10,6 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Chapter One §6 Key Practical Process Pipelines](core_01.000_constitutional_map.md#6-key-practical-process-pipelines) (*Chapters Eight through Twenty-Two chain*).
 - Upstream:
@@ -41,7 +39,10 @@
   - [Article XXI-A](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*justice constraints*).
 - Read with: [Chapter Three *Standing State, Contribution, and Violation*](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation) (S3-J) (*canonical definition routing*).
 - Read with: [README.md](README.md) (*reading order*); [doc_architecture.md](doc_architecture.md) (*non-binding editorial maps unless adopted*).
-- Worked examples (they add no rule): [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): every full vignette opens at Question 1, for example [CJS-14.105 §1 Child Neglect / Care-Duty Failure (Tier A)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-1-child-neglect--care-duty-failure-tier-a), [CJS-14.105 §7 An Ordinary Year with No Filing and No Sensitive Role](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-7-an-ordinary-year-with-no-filing-and-no-sensitive-role), and [CJS-14.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
+- Worked examples (they add no rule): every full vignette in the [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes) opens at Question 1, for example:
+  - [CJS-14.105 §1 Child Neglect / Care-Duty Failure (Tier A)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-1-child-neglect--care-duty-failure-tier-a);
+  - [CJS-14.105 §7 An Ordinary Year with No Filing and No Sensitive Role](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-7-an-ordinary-year-with-no-filing-and-no-sensitive-role); and
+  - [CJS-14.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement).
 
 </details>
 

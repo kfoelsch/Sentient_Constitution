@@ -12,8 +12,6 @@
 - Upstream:
   - [Chapter Fourteen §3](core_14.000_standing_assessment.md#3-the-three-questions) (*three-question frame*);
   - [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) through [Chapter Fourteen §8](core_14.000_standing_assessment.md#8-handling-a-standing-record) (*Question 1 — verified facts, Standing Records, custody, and handling*);
-  - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
-  - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [Chapter One §6 Key Practical Process Pipelines](core_01.000_constitutional_map.md#6-key-practical-process-pipelines) (*Chapters Eight through Twenty-Two chain*).
 - Subsections in this file:
   - [§3](#3-question-2--how-good-or-bad-was-it) (*Question 2 — LEQU baseline, status bridge, limits, and scope*);
@@ -29,7 +27,9 @@
   - [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (16.000) (*Question 3 effects and integration*);
   - [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) (*designation only — does not reopen Question 2 measurement*).
 - Read with: [Chapter Three *Standing State, Contribution, and Violation*](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation) (S3-J) (*canonical definition routing*).
-- Worked examples (they add no rule): [CJS-14.105 §8 Riparian Cooperative Restoration (Contribution Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-8-riparian-cooperative-restoration-contribution-measurement) measures a verified contribution and [CJS-14.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement) a verified violation (see [§10 Measurement Illustrations](#10-measurement-illustrations)), within the [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes).
+- Worked examples (they add no rule), within the [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes) (see [§10 Measurement Illustrations](#10-measurement-illustrations)):
+  - [CJS-14.105 §8 Riparian Cooperative Restoration (Contribution Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-8-riparian-cooperative-restoration-contribution-measurement) measures a verified contribution; and
+  - [CJS-14.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement) measures a verified violation.
 
 </details>
 
@@ -100,7 +100,11 @@ Without a shared scale, the same harm could be called minor in one place and gra
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) (*Question 1 — Standing Records and verified facts*); [Chapter Fourteen §4.5](core_14.000_standing_assessment.md#45-verified-input-gate) (*verified-input gate*); [Chapter Fourteen §6](core_14.000_standing_assessment.md#6-verification-and-record-requirements) (*record requirements*); [Chapter Fourteen §3](core_14.000_standing_assessment.md#3-the-three-questions) (*three-question frame*).
+- Upstream:
+  - [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) (*Question 1 — Standing Records and verified facts*);
+  - [Chapter Fourteen §4.5](core_14.000_standing_assessment.md#45-verified-input-gate) (*verified-input gate*);
+  - [Chapter Fourteen §6](core_14.000_standing_assessment.md#6-verification-and-record-requirements) (*record requirements*);
+  - [Chapter Fourteen §3](core_14.000_standing_assessment.md#3-the-three-questions) (*three-question frame*).
 - Downstream:
   - [§4](#4-magnitude-and-severity-input-dimensions) (*measurement input dimensions for both axes*);
   - [§5](#5-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*);

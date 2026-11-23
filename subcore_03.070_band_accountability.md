@@ -13,7 +13,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
+- Upstream: [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000).
 - Downstream: Accountability-band canonical definition homes for Chapter Three.
 - Read with: **Accountability** band definitions; mandatory cluster read-with where admission scope applies.
 
@@ -4182,7 +4182,7 @@ See **Anti-Segmentation Principle**.
 
 - Downstream: Principles: [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5); [20. Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (standing effects read through integrated interpretive framework).
 - Canonical owner:
-  - [Chapter Sixteen §§3–Chapter Nineteen 3](core_16.000_standing_integration.md#3-chapter-fourteen-records-do-not-change) (16.000 §3) (*immutable inputs, integration, descriptors, consequences, final standing effect, restoration, enforcement, and non-substitution*); read with
+  - [Chapter Sixteen §3 Chapter Fourteen Records Do Not Change](core_16.000_standing_integration.md#3-chapter-fourteen-records-do-not-change) (16.000 §3) through Chapter Nineteen (*immutable inputs, integration, descriptors, consequences, final standing effect, restoration, enforcement, and non-substitution*); read with
   - [Chapter Fourteen — §4 Standing Records](core_14.000_standing_assessment.md#4-question-1--what-happened) (14.000 §4),
   - [Chapter Fourteen §4 Standing Records as the unit of application](core_14.000_standing_assessment.md#4-question-1--what-happened) (14.000 §4),
   - [Chapter Fourteen §6 Standing Record operational requirements](core_14.000_standing_assessment.md#6-verification-and-record-requirements) (14.000 §6), and

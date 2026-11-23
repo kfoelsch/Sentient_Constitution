@@ -63,7 +63,9 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - Chapter Two basis: §15.1, §6, §13.2, §19.2, §17 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-8.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
 - Topic routing (mandatory read-with): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-6.205** (*Institutional design, separation of powers, and authority custody*).
-- Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*) in **CJS-0.105 §1** (*Topic router*); primary owners **CI-6.205** (*Institutional design, separation of powers, and authority custody*), **CI-27.205** (*Appointment, competency, rotation, and removal*), **CI-4.215** (*Resource stewardship and incentive integrity*), and **CI-22.210** (*Cross-institution coordination and escalation*).
+- Topic routing (mandatory read-with):
+  - **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially binding stewardship*) in **CJS-0.105 §1** (*Topic router*);
+  - primary owners **CI-6.205** (*Institutional design, separation of powers, and authority custody*), **CI-27.205** (*Appointment, competency, rotation, and removal*), **CI-4.215** (*Resource stewardship and incentive integrity*), and **CI-22.210** (*Cross-institution coordination and escalation*).
 - Topic routing (mandatory read-with): **CJS-R22** (*Standing-Record custody, opening authority, and separation of duties*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-6.205** (*Institutional design, separation of powers, and authority custody*).
 - Topic routing (mandatory read-with): **CJS-R23** (*Seat types, local role maps, and wrong-seat routing*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-27.205** (*Appointment, competency, rotation, and removal*).
 
@@ -1204,6 +1206,27 @@ Feedback integration and effectiveness verification
 - **What must hold**
   - **Primary failure:** Documented but uncorrected recurring defects.
 
+<a id="harm-reports-and-corrective-notices"></a>
+Harm reports and corrective notices
+
+*In plain terms: when sentients report harm from a product or service, such as an allergic reaction, an injury, an illness, or a wrong label, the reports must be collected and acted on, and when information is found wrong or a product unsafe, everyone who relied on it must be told inside the notice window for the urgency of the harm (NU-1 to NU-3) and reached where they are, and the problem must be contained and fixed inside the windows for that urgency (CU-1 to CU-4).*
+
+- **What it is**
+  - **In scope:** Reports of harm from a product or service must be taken in without suppression ([Article XIV-A](../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*)), looked at together with other reports, and acted on. Serious or repeated reports must trigger review under the thresholds in Systemic-pattern detection and escalation.
+
+    When information is found wrong or a product is found unsafe, the notice must reach everyone who relied on it inside the notice window of the matching band (NU-1 to NU-3 of [Incident and assurance notification urgency (NU)](cjs_03.110_oversight_operations.md#incident-and-assurance-notification-urgency-nu)), including those who do not respond, through more than one channel and with follow-up while it goes unacknowledged ([Chapter Two §3.1.5 Present Capability and Proactive Help](../core_02.000_values_principles.md#315-present-capability-and-proactive-help)). The notice must say what is wrong, what to do, and how to get a remedy ([Article XIV-B](../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*)), and the information must be corrected everywhere it appears, including labels, listings, apps, and reseller channels.
+
+    The unsafe product or wrong information must be contained inside the containment window and corrected inside the correction window of the matching category (CU-1 to CU-4 of [Correction Urgency (CU) discipline](#correction-urgency-cu-discipline)). [Article III-F](../core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../subcore_03.090_band_participation.md#commercial-compliance).
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in harm reports and corrective notices.
+<a id="harm-reports-and-corrective-notices-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** time from first report to review, time from finding to notice, share of relying sentients actually reached, and whether wrong information is still live in any channel
+
+    **Primary assessment:** Evaluation must verify time from first report to review, time from finding to notice, the share of relying sentients actually reached, and whether wrong information is still live in any channel.
+<a id="harm-reports-and-corrective-notices-c"></a>
+- **What must hold**
+  - **Primary failure:** Closing harm reports as isolated events, delaying a notice while review continues, notifying only those who respond, or leaving wrong information live in some channel.
+
 <a id="cjs-315-material-classification-record-honesty"></a>
 Material classification-record honesty (correction, precautionary default, and no quiet lowering)
 
@@ -1290,27 +1313,6 @@ Systemic-pattern detection and escalation
 <a id="systemic-pattern-detection-and-escalation-c"></a>
 - **What must hold**
   - **Primary failure:** Treating repeated patterns as isolated events to avoid review.
-
-<a id="harm-reports-and-corrective-notices"></a>
-Harm reports and corrective notices
-
-*In plain terms: when sentients report harm from a product or service, such as an allergic reaction, an injury, an illness, or a wrong label, the reports must be collected and acted on, and when information is found wrong or a product unsafe, everyone who relied on it must be told inside the notice window for the urgency of the harm (NU-1 to NU-3) and reached where they are, and the problem must be contained and fixed inside the windows for that urgency (CU-1 to CU-4).*
-
-- **What it is**
-  - **In scope:** Reports of harm from a product or service must be taken in without suppression ([Article XIV-A](../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*)), looked at together with other reports, and acted on. Serious or repeated reports must trigger review under the thresholds in Systemic-pattern detection and escalation.
-
-    When information is found wrong or a product is found unsafe, the notice must reach everyone who relied on it inside the notice window of the matching band (NU-1 to NU-3 of [Incident and assurance notification urgency (NU)](cjs_03.110_oversight_operations.md#incident-and-assurance-notification-urgency-nu)), including those who do not respond, through more than one channel and with follow-up while it goes unacknowledged ([Chapter Two §3.1.5 Present Capability and Proactive Help](../core_02.000_values_principles.md#315-present-capability-and-proactive-help)). The notice must say what is wrong, what to do, and how to get a remedy ([Article XIV-B](../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*)), and the information must be corrected everywhere it appears, including labels, listings, apps, and reseller channels.
-
-    The unsafe product or wrong information must be contained inside the containment window and corrected inside the correction window of the matching category (CU-1 to CU-4 of [Correction Urgency (CU) discipline](#correction-urgency-cu-discipline)). [Article III-F](../core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../subcore_03.090_band_participation.md#commercial-compliance).
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in harm reports and corrective notices.
-<a id="harm-reports-and-corrective-notices-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** time from first report to review, time from finding to notice, share of relying sentients actually reached, and whether wrong information is still live in any channel
-
-    **Primary assessment:** Evaluation must verify time from first report to review, time from finding to notice, the share of relying sentients actually reached, and whether wrong information is still live in any channel.
-<a id="harm-reports-and-corrective-notices-c"></a>
-- **What must hold**
-  - **Primary failure:** Closing harm reports as isolated events, delaying a notice while review continues, notifying only those who respond, or leaving wrong information live in some channel.
 
 ---
 

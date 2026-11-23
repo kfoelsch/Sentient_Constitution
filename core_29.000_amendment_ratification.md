@@ -417,9 +417,17 @@ Amendments take effect only on a stated effective date or event recorded in the 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-heightened-review-for-rights-affecting-changes) heightened review; [§13.1](#131-notice-and-contest) notice and contest; [Chapter Two §17.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests) (stewards' duty to those the system affects); [Chapter Twenty-Eight §4](core_28.000_non_regression.md#4-substantive-test-1--substantive-non-regression-validity) (28.000 §4) Substantive Test 1 and who decides it.
+- Upstream:
+  - [§3](#3-heightened-review-for-rights-affecting-changes) heightened review;
+  - [§13.1](#131-notice-and-contest) notice and contest;
+  - [Chapter Two §17.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests) (stewards' duty to those the system affects);
+  - [Chapter Twenty-Eight §4](core_28.000_non_regression.md#4-substantive-test-1--substantive-non-regression-validity) (28.000 §4) Substantive Test 1 and who decides it.
 - Downstream: [§10](#10-provisional-effect-rule) provisional effect; [§13.2](#132-recorded-effectiveness) recorded effectiveness.
-- Read with: [Chapter Twenty-Seven §6.1](core_27.000_governance.md#61-entitlement-and-eligibility) (27.000 §6.1) and [§6.2](core_27.000_governance.md#62-records-gates-and-method-neutrality) (27.000 §6.2) electorate and records; [Chapter Twenty-Three §5](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) Tier C outer bound; [CJS-0.105 §4 Time-Window Names](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-4-time-window-names); [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for protected petition and public comment on the Forum Case Record.
+- Read with:
+  - [Chapter Twenty-Seven §6.1](core_27.000_governance.md#61-entitlement-and-eligibility) (27.000 §6.1) and [§6.2](core_27.000_governance.md#62-records-gates-and-method-neutrality) (27.000 §6.2) electorate and records;
+  - [Chapter Twenty-Three §5](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) Tier C outer bound;
+  - [CJS-0.105 §4 Time-Window Names](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-4-time-window-names);
+  - [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for protected petition and public comment on the Forum Case Record.
 
 </details>
 

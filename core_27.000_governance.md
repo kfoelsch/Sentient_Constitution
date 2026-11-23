@@ -98,7 +98,11 @@ Every system of rules rests on someone's authority to make them. If that authori
   - [Article XII-A: Stakeholder System Participation and Representation](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation),
   - [Article XII-B: Weighted Participation and Anti-Token Constraints](core_04.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints),
   - [Article XX: Standing and Participation Status](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status), and the expression, assembly, and procedural-fairness articles keyed in the operative bullets below.
-- Read with: Designated **corpus** hooks named in this section (**[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)**; **[CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*); [CI-27.205](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*) and [CI-4.215](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*)).
+- Read with: designated **corpus** hooks named in this section:
+  - **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)**;
+  - **[CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*);
+  - [CI-27.205](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*); and
+  - [CI-4.215](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*).
 
 </details>
 
@@ -251,11 +255,11 @@ Money given or spent to influence a selection is limited by these rules:
 
 ##### 3.2.5 Forum Appointment Independence Requirement
 
-Some forums judge the very authorities that govern, so those authorities must not get to pick who sits on them:
+Forums judge the very authorities that govern, so those authorities must not get to pick who sits on them:
 
-- [**Integrity**](core_23.000_forum_families_escalation_timeliness_support.md#35-integrity-forums), [**Constitutional**](core_23.000_forum_families_escalation_timeliness_support.md#36-constitutional-forums), and [**Environment**](core_23.000_forum_families_escalation_timeliness_support.md#34-environment-forums) forums, and [**Technical Forum Domains**](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) when they hear sentience-status adjudication, must be staffed through **published**, **contested**, **rotatable** appointment or an equivalent independence check (sortition, federated designation, or comparable).
-- This requirement is **mechanism-neutral**: it does not mandate a single polity type or a single appointment method.
-- Failure to appoint or fund those benches to the [Chapter Nineteen §5.2 Remedy-System Durability](core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) remedy-system durability minimum is a legitimacy and remedy failure, not a gap that implementation may leave open.
+- Every forum family is an **Independent Body** under [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent): [**Sentient**](core_23.000_forum_families_escalation_timeliness_support.md#31-sentient-forums), [**Institutional**](core_23.000_forum_families_escalation_timeliness_support.md#33-institutional-forums), [**Environment**](core_23.000_forum_families_escalation_timeliness_support.md#34-environment-forums), [**Integrity**](core_23.000_forum_families_escalation_timeliness_support.md#35-integrity-forums), and [**Constitutional**](core_23.000_forum_families_escalation_timeliness_support.md#36-constitutional-forums) forums, and [**Technical Forum Domains**](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains). Their members are drawn by lot from the sentients who pass a published competency gate, under *Appointment by sortition* in that section. The Electoral Office runs the draw under [Subcore 7-A §7 Public Draws](subcore_07.010_electoral_office.md#7-public-draws), and the governing authority has no part in it.
+- Where a forum's qualified pool is too thin to draw from, as may happen in a specialized Technical Forum Domain, *Other methods* in that section allows **published**, **contested**, **rotatable** appointment for that seat, with the reason published, and every other requirement still applies.
+- Failure to appoint or fund forum benches to the [Chapter Nineteen §5.2 Remedy-System Durability](core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) remedy-system durability minimum is a legitimacy and remedy failure, not a gap that implementation may leave open.
 - Who qualifies for these seats, how members rotate, and how they can be removed is set out in [Subcore 27-E Role Holders and Interpretive Bodies](subcore_27.050_role_holders_interpretive_bodies.md#subcore-27-e-role-holders-and-interpretive-bodies). Staffing depth, periodic review, and each institution's role map are in [CI-27.205](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*). Neither may narrow this requirement.
 
 #### 3.3 Recall-Class Pathways and Mid-Cycle Transfer Guardrails
@@ -410,7 +414,11 @@ Proxy indicators (financial or otherwise) may inform decisions only where they r
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [§5.1](#51-stewardship-direction); [§5.2](#52-ecosystem-value-orientation); [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent).
+- Upstream:
+  - [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate);
+  - [§5.1](#51-stewardship-direction);
+  - [§5.2](#52-ecosystem-value-orientation);
+  - [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent).
 - Downstream: the Independent Bodies listed in [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) and their subcore files.
 - Read with: [*Review and Correction Duty*](subcore_03.075_band_continuity.md#review-and-correction-duty); [*Strategic Stewardship Obligation*](subcore_03.075_band_continuity.md#strategic-stewardship-obligation); [*Proxy Divergence*](subcore_03.085_band_oversight.md#proxy-divergence).
 

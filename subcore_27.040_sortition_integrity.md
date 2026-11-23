@@ -103,7 +103,7 @@ A mechanism that fills the seats of a wider body by lot from the elected members
 - **The pool:** Only sentients elected to the smaller bodies are in the pool, drawn while they hold that seat or at the end of the term they were elected to. Candidates who stood and were not elected are not in the pool.
 - **A draw fair to every place:** The draw is stratified by area so that each area's share of the wider body's seats matches its share of the population that body serves, within a published tolerance. The mechanism publishes any further strata it uses and its reasons.
 - **Size against chance:** Before each draw, the mechanism publishes the chance that a bloc holding less than half of the pool wins a majority of the wider body. It sets the body's size or strata so that this chance stays below a bound it publishes with its reasons.
-- **A draw anyone can check:** The draw uses a public source of randomness. The method and the inputs are published before the draw, so that anyone can reproduce the result.
+- **A draw anyone can check:** The Electoral Office runs the draw under [Subcore 7-A §7 Public Draws](subcore_07.010_electoral_office.md#7-public-draws), using a public source of randomness. The method and the inputs are published before the draw, so that anyone can reproduce the result.
 - **Answering for the term:** Drawn members do not face re-election to the wider body, so the mechanism provides all of these:
   - each member's vote on every [materially binding act](subcore_03.070_band_accountability.md#materially-binding-act) is recorded in its Act Record;
   - each member's conduct is reviewed at the end of the term, by a seat independent of the wider body, and the review is published; and

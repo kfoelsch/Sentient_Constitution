@@ -43,6 +43,7 @@
 | Threshold set so high it never binds; winner takes the only door | [Market structure](#market-structure) |
 | Heavy user extracting from shared foundations without putting resources back | [Cross-system support](#cross-system-support) |
 | Delay serving as denial; process or hop count eating the published clock | [Delay](#delay) |
+| Routine, rule-settled work done by hand, or automation deciding what needs judgment | [Automation](#automation) |
 | Proxy reward for concealment or for hollowing Safety, Truth, auditability, or contest pathways | [Incentive alignment](#incentive-alignment) |
 | Parallel “AI ethics overlay” or a human exemption from the costly cases | [Shared stewardship](#shared-stewardship) |
 | Challenge or redress exists only on paper, or no real capacity to deliver it | [Remedy](#remedy) |
@@ -342,6 +343,19 @@ Three-layer picture (floor / property / process): [Article XVII](../core_04.020_
 <a id="worked-delay-example"></a>
 
 **Worked delay example (synthetic; cannot narrow core).** Does not create a sixth tier. Designed backlog: Tier B cutoff; four companion files and a workshop before intake; harm past two weeks — hop count ate the window. Door and clock: apply the Tier B two-week outer bound, then take the [Remedy](#remedy) pointer. Next step on the backlog reading: `apply_tier_clock_then_existing_card`.
+
+---
+
+<a id="automation"></a>
+## Automation
+
+**When:** A routine step that verified inputs and published rules settle is still done by hand, or a manual sign-off is stacked on it, and stewards are told to be more diligent. Or the reverse: an automated step decides a disputed or discretionary question, leaves no Act Record, or sits in seats that must be separate.
+
+| Field | Pointer |
+|---|---|
+| **Owner text** | [Chapter Two §16.5 Automation](../core_02.040_stewardship_capacity_principles.md#165-automation) |
+| **Next step** | Automate the step that verified inputs and published rules settle. Send uncertain, disputed, novel, discretionary, or high-impact questions to an authorized reviewer. Keep the Act Record and keep the seats separate. |
+| **Next-step class** | `automate_determinate_steps_keep_judgment_with_sentients` |
 
 ---
 
