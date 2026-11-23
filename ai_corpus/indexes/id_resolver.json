@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-11-23T19:25:08+00:00",
+  "generated_at": "2026-11-23T20:03:16+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.105 §1 topics, Chapter Three terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -355,7 +355,7 @@
     "CJS-14.105": {"file":"corpus_joint_structure/cjs_14.105_application_vignettes.md","anchor":"#cjs-14105-application-vignettes","heading":"CJS-14.105: Application Vignettes","line":1,"kind":"family"},
     "CJS-14.105 §1": {"file":"corpus_joint_structure/cjs_14.105_application_vignettes.md","anchor":"#cjs-14105-1-child-neglect-care-duty-failure-tier-a","heading":"CJS-14.105 §1 Child Neglect / Care-Duty Failure (Tier A)","line":64,"kind":"section"},
     "CJS-14.105 §10": {"file":"corpus_joint_structure/cjs_14.105_application_vignettes.md","anchor":"#cjs-14105-10-question-3-routing-patterns","heading":"CJS-14.105 §10 Question 3 Routing Patterns","line":457,"kind":"section"},
-    "CJS-14.105 §11": {"file":"corpus_joint_structure/cjs_14.105_application_vignettes.md","anchor":"#cjs-14105-11-cross-vignette-discipline","heading":"CJS-14.105 §11 Cross-Vignette Discipline","line":606,"kind":"section"},
+    "CJS-14.105 §11": {"file":"corpus_joint_structure/cjs_14.105_application_vignettes.md","anchor":"#cjs-14105-11-cross-vignette-discipline","heading":"CJS-14.105 §11 Cross-Vignette Discipline","line":640,"kind":"section"},
     "CJS-14.105 §2": {"file":"corpus_joint_structure/cjs_14.105_application_vignettes.md","anchor":"#cjs-14105-2-employment-discrimination-participation-barrier-injury-tier-b","heading":"CJS-14.105 §2 Employment Discrimination / Participation-Barrier Injury (Tier B)","line":113,"kind":"section"},
     "CJS-14.105 §3": {"file":"corpus_joint_structure/cjs_14.105_application_vignettes.md","anchor":"#cjs-14105-3-misaligned-business-exit-lock-in-and-externalized-harm-tier-b","heading":"CJS-14.105 §3 Misaligned Business / Exit Lock-in and Externalized Harm (Tier B)","line":159,"kind":"section"},
     "CJS-14.105 §4": {"file":"corpus_joint_structure/cjs_14.105_application_vignettes.md","anchor":"#cjs-14105-4-stewardship-delay-and-deferred-repair","heading":"CJS-14.105 §4 Stewardship Delay and Deferred Repair","line":207,"kind":"section"},

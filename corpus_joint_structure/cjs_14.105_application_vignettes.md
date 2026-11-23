@@ -22,7 +22,7 @@
 >
 > **References:** [§4](../core_14.000_standing_assessment.md#4-question-1--what-happened) (Question 1); [Chapter Fifteen §3](../core_15.000_standing_measurement.md#3-question-2--how-good-or-bad-was-it), and the [Chapter Fifteen §8 unified proportional LEQU scale](../core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (Question 2: shared five-times LEQU bands, separate Contribution and Violation records, and Violation slots controlled only by verified impact); [Chapter Seventeen §3.2](../core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) and [§3.2](../core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (Question 3); [Chapter Sixteen §1 Purpose, Role, and Scope](../core_16.000_standing_integration.md#1-purpose-role-and-scope) (*summary of the Question 3 examples in §8 through §10 below*); [Chapter Twenty-Two](../core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (forum routing and supervision).
 >
-> Vignettes 8 and 9 are Question 2 measurement walkthroughs. They follow their own spine (situation, verified inputs, seats, dimension pass, outputs recorded) and have no milestone table. Each ends with a Question 3 continuation. §10 adds twelve Question 3 routing patterns that have no full vignette.
+> Vignettes 8 and 9 are Question 2 measurement walkthroughs. They follow their own spine (situation, verified inputs, seats, dimension pass, outputs recorded) and have no milestone table. Each ends with a Question 3 continuation. §10 adds fourteen Question 3 routing patterns that have no full vignette.
 >
 > Regression hooks: `RS-XXIV-C-CHILD-001`, `RS-XXIV-C-DISC-001`, `RS-XXIV-C-BIZ-001`, `RS-XXIV-C-DELAY-001` in the regression scenarios catalog (a maintainer record outside the corpus).
 
@@ -456,7 +456,7 @@ Each of the following would be a failure in this scenario:
 
 ## CJS-14.105 §10 Question 3 Routing Patterns
 
-*In plain terms: twelve recurring Question 3 situations, each showing which parts of Chapter Sixteen route it. They add no rule and no lock type. The Question 3 continuations that close vignettes 8 and 9 above work the same way.*
+*In plain terms: fourteen recurring Question 3 situations, each showing which parts of Chapter Sixteen route it. They add no rule and no lock type. The Question 3 continuations that close vignettes 8 and 9 above work the same way.*
 
 These patterns are worked examples of common Question 3 situations. They apply the rules already stated in Chapter Sixteen and add nothing new, including no new lock types. Follow the order in [Chapter Sixteen §4.4 Processing Order](../core_16.000_standing_integration.md#44-processing-order) and the sections each pattern names. If a pattern looks like an attack family in [Chapter Twenty-One §3 Pattern applications and criteria routing](../core_21.000_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), Chapter Sixteen decides only whether the sentient is kept out of a gated pathway, based on the sentient's verified Standing Record. Chapter Twenty separately decides designation.
 
@@ -600,6 +600,40 @@ This situation is identified by the example below and governed by the sections l
   - [Chapter Eighteen §4.2 Proportionality and Calibration](../core_18.000_violation_consequences.md#42-proportionality-and-calibration) (*any lock must stay proportionate to the verified risk that the cruelty will continue or recur*); and
   - [Chapter Fifteen §4.2.2 How the Way a Harm Was Caused Is Recorded](../core_15.000_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded) (*conduct-character stack*).
 - **Rules applied:** Contribution cannot offset unresolved cruelty-character prevention. Remedy, restriction, and voluntary public accountability expression must not themselves inflict suffering as an end or add gratuitous or degrading suffering. This example does not create a Cruelty Lock or other [Chapter Eighteen §4.5 Special Locks](../core_18.000_violation_consequences.md#45-special-locks) type.
+
+### 10.13 Capacity Lock After a Violation at Scale
+
+This situation is identified by the example below and governed by the sections listed:
+
+- **Example:** A verified violation finding records that a sentient ran several hundred automated accounts and running copies to flood a cooperative's member vote with false objections, and used a scheduling tool to time them past the close of the challenge window. The violation record is fixed. The open questions are whether a lock should close the means the sentient used, and how far it may reach.
+- **Routes through:**
+  - [Chapter Eighteen §3.4 Remedy Parity and Lock Preconditions](../core_18.000_violation_consequences.md#34-remedy-parity-and-lock-preconditions) (*a remedy record is opened first*);
+  - [Chapter Eighteen §4.2 Proportionality and Calibration](../core_18.000_violation_consequences.md#42-proportionality-and-calibration) (*the form and the scope of the lock*); and
+  - [Chapter Eighteen §4.4.7 Capacity Locks](../core_18.000_violation_consequences.md#447-capacity-locks) (*Scale Lock and Reach Lock*).
+- **Rules applied:**
+  - **Scale Lock:** the harm depended on scale and speed, so a Scale Lock may cap the accounts, automated agents, and running copies the sentient may control. The integration record states the cap, and the cap is never below what survival-critical access, ordinary livelihood, and operating without degradation require.
+  - **Reach Lock:** the scheduling tool was part of how the violation was carried out, so a Reach Lock may close that named class of tool. Ordinary use of other tools stays open.
+  - **Outside means only:** both locks work by denying accounts, tools, and computing resources. Neither deletes the sentient's existing copies, alters its memory or values, or reaches any capacity the sentient holds in body or mind.
+  - **Same terms for every sentient:** a human who ran the same network of accounts through hired operators meets the same locks, and the hired operators are routes closed with the sentient's own.
+  - **Not a vote lock:** the sentient keeps its own vote and its right to object in its own name. A capacity lock does not by itself restrict participation ([Chapter Eighteen §4.1.4 What a Lock Does Not Itself Restrict](../core_18.000_violation_consequences.md#414-what-a-lock-does-not-itself-restrict)).
+  - **Lifting:** the locks are reassessed under [Chapter Nineteen §4 Restoration and Reassessment](../core_19.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment) once the corrective conditions on the integration record are met.
+
+### 10.14 Care and Stewardship Lock After Serious Neglect
+
+This situation is identified by the example below and governed by the sections listed:
+
+- **Example:** A verified violation finding records that the operator of a residential care service for young synthetic sentients left them for weeks without the maintenance and contact their development required, and hid the gaps from their guardians. Remedy has been opened but correction is not yet verified. The operator also parents a human child at home.
+- **Routes through:**
+  - [Chapter Eighteen §4.5.7 Care and Stewardship Lock](../core_18.000_violation_consequences.md#457-care-and-stewardship-lock) (*mandatory when its trigger is met*);
+  - [Subcore 18-A §3.7 Care and Stewardship Lock](../subcore_18.010_special_locks.md#37-care-and-stewardship-lock) (*full terms*);
+  - [Chapter Eighteen §4.1.5 Separation Limits](../core_18.000_violation_consequences.md#415-separation-limits) (*the dependent comes first*); and
+  - [Chapter Eighteen §4.4 Special Violation Rules](../core_18.000_violation_consequences.md#44-special-violation-rules) (*concealment shapes safeguards*).
+- **Rules applied:**
+  - **Mandatory:** serious neglect of developing sentients by a subject who held care authority over them meets the trigger, so the lock attaches. It is not a choice under proportionality, and it applies on the same terms to a human, synthetic, or hybrid operator.
+  - **What it closes:** unsupervised care authority over developing or dependent sentients, roles with unsupervised access to them, and consenting on a new sentient's behalf. The operator cannot run or staff the service unsupervised while the lock stands.
+  - **The child at home:** the lock reaches the operator's care authority over the child as well, but the separation limits and the Best-Interest Standard decide what that means in practice. The child has an independent representative and is heard, and supervised contact found safe and in the child's best interest stays open. The lock does not by itself remove the child from the home.
+  - **What it leaves open:** bodily reproduction and other creation of sentients, which only a Creation Lock may reach, and the protections of [Chapter Eighteen §4.1.4 What a Lock Does Not Itself Restrict](../core_18.000_violation_consequences.md#414-what-a-lock-does-not-itself-restrict).
+  - **Lifting:** in stages, beginning with supervised contact, after correction is verified and an independent reviewer finds restored authority safe and in each dependent's best interest. Time alone never lifts it.
 
 <br>
 

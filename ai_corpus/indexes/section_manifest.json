@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-23T19:27:48+00:00",
+  "generated_at": "2026-11-23T20:03:14+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -2401,9 +2401,9 @@
       ]
     },
     "corpus_joint_structure/cjs_14.105_application_vignettes.md": {
-      "total_lines": 628,
+      "total_lines": 662,
       "sections": [
-        {"header":"CJS-14.105: Application Vignettes","level":1,"line_start":1,"line_end":628,"anchor":null},
+        {"header":"CJS-14.105: Application Vignettes","level":1,"line_start":1,"line_end":662,"anchor":null},
         {"header":"Purpose, Role, and Scope","level":2,"line_start":56,"line_end":63,"anchor":null},
         {"header":"CJS-14.105 §1 Child Neglect / Care-Duty Failure (Tier A)","level":2,"line_start":64,"line_end":112,"anchor":null},
         {"header":"Situation","level":3,"line_start":68,"line_end":71,"anchor":null},
@@ -2440,7 +2440,7 @@
         {"header":"Must Not Happen","level":3,"line_start":335,"line_end":347,"anchor":null},
         {"header":"CJS-14.105 §8 Riparian Cooperative Restoration (Contribution Measurement)","level":2,"line_start":348,"line_end":399,"anchor":null},
         {"header":"CJS-14.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)","level":2,"line_start":400,"line_end":456,"anchor":null},
-        {"header":"CJS-14.105 §10 Question 3 Routing Patterns","level":2,"line_start":457,"line_end":605,"anchor":null},
+        {"header":"CJS-14.105 §10 Question 3 Routing Patterns","level":2,"line_start":457,"line_end":639,"anchor":null},
         {"header":"10.1 Forum-Integrity Deception or Recusal Failure","level":3,"line_start":463,"line_end":470,"anchor":null},
         {"header":"10.2 Recurrence After Completed Restitution","level":3,"line_start":471,"line_end":483,"anchor":null},
         {"header":"10.3 Champion Repair While a Lock Remains Active","level":3,"line_start":484,"line_end":494,"anchor":null},
@@ -2452,8 +2452,10 @@
         {"header":"10.9 Infrastructure Denial or Dependency Cutoff","level":3,"line_start":553,"line_end":565,"anchor":null},
         {"header":"10.10 Stakeholder-Participation Corruption or False-Stake Abuse","level":3,"line_start":566,"line_end":576,"anchor":null},
         {"header":"10.11 Obstruction of Accountability","level":3,"line_start":577,"line_end":590,"anchor":null},
-        {"header":"10.12 Verified Cruelty Character","level":3,"line_start":591,"line_end":605,"anchor":null},
-        {"header":"CJS-14.105 §11 Cross-Vignette Discipline","level":2,"line_start":606,"line_end":628,"anchor":null}
+        {"header":"10.12 Verified Cruelty Character","level":3,"line_start":591,"line_end":603,"anchor":null},
+        {"header":"10.13 Capacity Lock After a Violation at Scale","level":3,"line_start":604,"line_end":620,"anchor":null},
+        {"header":"10.14 Care and Stewardship Lock After Serious Neglect","level":3,"line_start":621,"line_end":639,"anchor":null},
+        {"header":"CJS-14.105 §11 Cross-Vignette Discipline","level":2,"line_start":640,"line_end":662,"anchor":null}
       ]
     },
     "corpus_joint_structure/cjs_31.105_drafting_contracts.md": {
