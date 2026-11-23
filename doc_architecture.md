@@ -1490,4 +1490,10 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - Corpus IDs in the same drafts follow the renumbered files: CF-23.4xx to CF-22.4xx, CI-6.2xx to CI-4.2xx, CI-9.210 to CI-8.210, CI-26.210 to CI-25.210, CI-28.205 to CI-27.205, CS-6.305 and CS-6.335 to CS-4.305 and CS-4.335, and CS-6.310 (*Data classifications*) to Subcore 4-A (*Data Types*), where that material now lives. Links already resolved; only labels changed. The dated sweep record `public_monetary_office_best_practice_sweep_2026-11-20.md` and the reorganization plan keep their original wording as records.
 - The TODO item is checked.
 
+**Nine hundred and thirty-fourth move (five older office drafts removed; 2026-11-23; organization only, no rule changed; number provisional under MOVE-NUMBER-01).** Decision (custodian, in the project chat: "The old office drafts can just be removed."). What changed:
+
+- Removed from `project/plans/`: the Public Information, Public Finance, Public Monetary, Public Debt, and Bank Supervision Office drafts (2026-11-19 and 2026-11-20), and the Public Monetary Office best-practice sweep that supported the monetary draft. None was placed in the corpus; all remain in Git history. The 933rd move's label fixes to them are superseded.
+- The Public Policy and Public Stewardship Office drafts of 2026-11-21 lose their "Related drafts awaiting review" links to the removed files; their text still names those offices.
+- `TODO.md`: the *Core reorganization follow-ups* item (a) now lists only the two 2026-11-21 drafts, and the *Provisional defaults* item keeps only the Chapter Seven §3 defaults.
+
 **Next file:** [README.md](README.md)
