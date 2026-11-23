@@ -115,7 +115,7 @@ Plan for pinning these down: [evaluation_hesitations_identification_2026-11-15.m
 
 ### P1 — Regression and evidence
 
-- [ ] Complete first-pass validation of the 35 Humanity/Individual stress-pack rows (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`) and publish procedures, expected outcomes, and run evidence under the restored evidence tree.
+- [ ] Complete first-pass validation of the 35 Humanity/Individual stress-pack rows (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`) and publish procedures, expected outcomes, and run evidence under the restored evidence tree. **Update 2026-11-23 (964th move):** the fifteen `RS-IND-*` rows now have setups and expected outcomes and pass a first-pass, single-reader tabletop run ([evidence](evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md)). `RS-HUM-*` and `RS-XD-*` (20 rows) remain placeholders.
 
 ## TODO Maintenance and Archives
 

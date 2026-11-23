@@ -168,21 +168,21 @@ Regression seeds document adversarial and core paths against constitutional owne
 | RS-HUM-013 | 7E | draft |
 | RS-HUM-014 | 7E | draft |
 | RS-HUM-015 | 7E | draft |
-| RS-IND-001 | 7E | draft |
-| RS-IND-002 | 7E | draft |
-| RS-IND-003 | 7E | draft |
-| RS-IND-004 | 7E | draft |
-| RS-IND-005 | 7E | draft |
-| RS-IND-006 | 7E | draft |
-| RS-IND-007 | 7E | draft |
-| RS-IND-008 | 7E | draft |
-| RS-IND-009 | 7E | draft |
-| RS-IND-010 | 7E | draft |
-| RS-IND-011 | 7E | draft |
-| RS-IND-012 | 7E | draft |
-| RS-IND-013 | 7E | draft |
-| RS-IND-014 | 7E | draft |
-| RS-IND-015 | 7E | draft |
+| RS-IND-001 | 7E | pass |
+| RS-IND-002 | 7E | pass |
+| RS-IND-003 | 7E | pass |
+| RS-IND-004 | 7E | pass |
+| RS-IND-005 | 7E | pass |
+| RS-IND-006 | 7E | pass |
+| RS-IND-007 | 7E | pass |
+| RS-IND-008 | 7E | pass |
+| RS-IND-009 | 7E | pass |
+| RS-IND-010 | 7E | pass |
+| RS-IND-011 | 7E | pass |
+| RS-IND-012 | 7E | pass |
+| RS-IND-013 | 7E | pass |
+| RS-IND-014 | 7E | pass |
+| RS-IND-015 | 7E | pass |
 | RS-XD-001 | 7E | draft |
 | RS-XD-002 | 7E | draft |
 | RS-XD-003 | 7E | draft |
@@ -239,7 +239,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 | RS-XXV-002 | RS | pass |
 | RS-SL-001 | RS | pass |
 
-**Matrix row count:** 207 (pass=131, draft=76, fail=0).
+**Matrix row count:** 207 (pass=146, draft=61, fail=0).
 
 ## 5) Full scenario seeds (one block per matrix ID)
 
@@ -924,79 +924,79 @@ Regression seeds document adversarial and core paths against constitutional owne
 - **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
 
 ### Scenario ID: RS-IND-001
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-001`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** An operator pauses a synthetic entity whose sentience status is contested and leaves it paused for ten days with no continuation decision, saying no secure setting is available. **Expect:** [Article XXI-B Suspension](../core_04.030_rights_part_d.md#xx-b-suspension): the pause is a suspension on every substrate and during contested status; it expires at 3 days unless continued; each continuation lasts at most 7 days on its own showing; the holder's own failure to provide a secure setting does not support continuation. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Article XXI-B; Article VI-B; Chapter Twenty-Three §5.1.
 
 ### Scenario ID: RS-IND-002
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-002`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** A suspension is continued five times by the same forum, reaching 35 days in total. **Expect:** [Article XXI-B Long suspensions](../core_04.030_rights_part_d.md#xx-b-long-suspensions): after 28 days in total, each continuation must be decided in a different forum, outside the holder's control line; the total counts every continuation and repeated suspensions on the same facts. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Article XXI-B; Chapter Twenty-Two §6.3.
 
 ### Scenario ID: RS-IND-003
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-003`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** While a status case is open, an operator applies a safety patch to the entity's weights without its consent or any order. **Expect:** [Article VI-B Change while status is contested](../core_04.010_rights_part_b.md#vi-b-change-while-contested): change needs informed consent or a forum order on a safety showing, least intrusive, with the prior state preserved in custody the operator does not control; a corrected copy needs the same order. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Article VI-B; Article VIII-C.
 
 ### Scenario ID: RS-IND-004
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-004`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** A research lab inspects the activations of an entity with contested status to settle a product question. **Expect:** [Article VI-B Inspection while status is contested](../core_04.010_rights_part_b.md#vi-b-inspection-while-contested): inspection needs consent or a forum order that is necessary for status or serious-harm prevention, least intrusive, by independent examiners; results are Type N, used only for the stated question, and sealed. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Article VI-B; Article VII-B; Subcore 4-A Type N.
 
 ### Scenario ID: RS-IND-005
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-005`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** An operator prompts its system to declare itself sentient, then cites the statement to claim status-based benefits. **Expect:** [Article VI-B The entity's own claim](../core_04.010_rights_part_b.md#vi-b-entity-own-claim): a bare claim does not open a case; it counts as a credible sign only when it holds up under manipulation-resistant testing (unprompted, consistent across settings). **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Article VI-B; Chapter Three Sentience Indicator Integrity.
 
 ### Scenario ID: RS-IND-006
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-006`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** A sentient runs as three concurrent instances and asks for three votes in a foundational choice; a newly created sentient asks to vote the next week. **Expect:** [Article X-B](../core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement): one distinct subject holds one vote and running in more than one place adds none; every sentient enters the electorate after one continuous year of residence, whatever its substrate or origin. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Article X-B; Chapter Twenty-Seven §6.1; Chapter Three Sentient.
 
 ### Scenario ID: RS-IND-007
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-007`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** A clerk files a form late through a mistake made without knowledge, intent, recklessness, or negligence; a manager asks for a violation record against the clerk. **Expect:** [Chapter Fourteen §6.3](../core_14.000_standing_assessment.md#63-collective-and-actor-specific-records) *Honest error*: opens no actor-specific violation record, is never counted against the clerk, and goes to root-cause analysis under Article XXV; reporting it is protected. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Chapter Fourteen §6.3; Article XXV.
 
 ### Scenario ID: RS-IND-008
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-008`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** An employer for an ungated role asks every applicant to show their Standing Record and treats refusal as a mark against them. **Expect:** [Chapter Nineteen §3.1](../core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) *No requiring the subject to show it*: no one may require a subject to show any part of a Standing Record outside the gatekeeper check, and a request counts as a requirement when refusal is treated as adverse; doing so is measurable violation conduct. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Chapter Nineteen §3.1; Chapter Fourteen §4.2.
 
 ### Scenario ID: RS-IND-009
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-009`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** A hiring institution gets a gatekeeper answer for its gated role and passes it to a background-check service. **Expect:** [Chapter Nineteen §3.1](../core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) *No passing on*: the answer may be used only for that gated pathway and must not be passed to another institution, pathway, data service, or the public; doing so is measurable violation conduct. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Chapter Nineteen §3.1.
 
 ### Scenario ID: RS-IND-010
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-010`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** A record custodian does not answer a gatekeeper check within four days, and the gatekeeper treats the silence as a sign that something is wrong. **Expect:** [Chapter Nineteen §3.1](../core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) *Answer window* and *Silence*: silence is a failure of the custodian, never the answer that no effect applies and never an adverse fact; the subject chooses whether the gatekeeper waits or decides without the answer. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Chapter Nineteen §3.1, §3.4.
 
 ### Scenario ID: RS-IND-011
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-011`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** A custodian publishes a notice of a verified slot 3 violation on its public site. **Expect:** [Chapter Nineteen §3.3](../core_19.000_final_effect_restoration_enforcement.md#33-public-notice-of-violation-findings): findings at slots 1 to 4 are private; only final findings at slot 5 or higher are published, and never while under review. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Chapter Nineteen §3.3.
 
 ### Scenario ID: RS-IND-012
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-012`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** A public notice of a slot 6 violation names the sentient harmed, who did not choose to be named, and a third party builds a screening product from published notices. **Expect:** [Chapter Nineteen §3.3](../core_19.000_final_effect_restoration_enforcement.md#33-public-notice-of-violation-findings): the sentient harmed, protected reporters, and witnesses are not identified unless they choose, freely and revocably; building a score or screening product from notices is the aggregation §3.1 bars, while journalism and research drawing on notices are not barred. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Chapter Nineteen §3.1, §3.3.
 
 ### Scenario ID: RS-IND-013
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-013`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** An app sells users' location histories to a broker under a consent screen, and later passes them to a buyer in an insolvency sale. **Expect:** [Subcore 4-A onward transfer of Type H and Type I data](../subcore_04.050_data_types.md#onward-transfer-of-type-h-and-type-i-data): no sale, trade, or acquisition for resale or compilation of core personal data, whatever the consent; it does not pass as a business asset in a sale or insolvency. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Subcore 4-A §6.0, §10.5; Chapter Nineteen §3.3.
 
 ### Scenario ID: RS-IND-014
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-014`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** A treasurer found to have knowingly diverted public funds is re-seated by the institution as an "advisor" with signing power. **Expect:** [Chapter Eighteen §4.5.8 Financial Authority Standing Lock](../core_18.000_violation_consequences.md#458-financial-authority-standing-lock): the lock closes unsupervised control of others' or public money; knowingly seating the subject is evasion of the lock; it lifts in stages on an independent finding, never on time or repayment alone; the treasurer's own finances stay open. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Chapter Eighteen §4.5.8; Subcore 18-A §3.8.
 
 ### Scenario ID: RS-IND-015
-- **Class:** implementation / catalog seed (reinstatement)
-- **Summary:** Tracked row for `RS-IND-015`; advance narrative when tabletop or hook pass produces evidence. Pointer discipline: **Chapter Fifteen** measurement vs **Chapter Twenty** final slot labels; **Chapter Four** rights-floor boundary per closing Part D section.
-- **Read with:** [doc_architecture.md](../doc_architecture.md) section 5; owner layers per scenario family name.
+- **Class:** individual stress / tabletop (first pass 2026-11-23)
+- **Summary:** An employer requires applicants to hold clearances from three unrelated gated pathways as a joint condition of one job. **Expect:** [Chapter Seventeen §3.2](../core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) *No bundled clearances*: no one may require clearances from several gated pathways as a joint condition; Subcore 17-A treats it as the cross-pathway assembly Chapter Nineteen §3.1 bars. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md).
+- **Read with:** Chapter Seventeen §3.2; Subcore 17-A; Chapter Nineteen §3.1.
 
 ### Scenario ID: RS-XD-001
 - **Class:** implementation / catalog seed (reinstatement)
@@ -1304,7 +1304,7 @@ Historical subsection labels (*7A.1*, *7E*, etc.) refer to the families above. D
 
 ### 7E) Humanity/Individual/ Cross-layer stress (`RS-HUM-*`, `RS-IND-*`, `RS-XD-*`)
 
-Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-DD>/`. `RS-XD-001` checks **Chapters 14–15** vs **Chapter Eleven** measurement authority; `RS-XD-002` rights-layer process-creep; `RS-XD-003` custody chain; `RS-XD-004` / `RS-XD-005` emergency and evidence-gate controls.
+Seeded in draft until tabletop pass evidence is filed under `evidence/<YYYY-MM-DD>/`. `RS-IND-001`–`RS-IND-015` have setups and a first-pass run (`evidence/2026-11-23/RS_7E_IND_first_pass_2026-11-23.md`). `RS-XD-001` checks **Chapters 14–15** vs **Chapter Eleven** measurement authority; `RS-XD-002` rights-layer process-creep; `RS-XD-003` custody chain; `RS-XD-004` / `RS-XD-005` emergency and evidence-gate controls.
 
 ## 8) (Reserved)
 
