@@ -155,10 +155,10 @@ Authoritative normative state is in the binding corpus files named in [README.md
 
 ## Archives
 
-- **2026-11-14 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-14.md](archive/TODO_SNAPSHOT_2026-11-14.md), [archive/MEMLOG_SNAPSHOT_2026-11-14.md](archive/MEMLOG_SNAPSHOT_2026-11-14.md), [archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md](archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md) (moves 488–497; open items carried into the heading above)
-- **2026-11-12 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-12.md](archive/TODO_SNAPSHOT_2026-11-12.md), [archive/MEMLOG_SNAPSHOT_2026-11-12.md](archive/MEMLOG_SNAPSHOT_2026-11-12.md), [archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md](archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md)
-- **2026-11-11 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-11.md](archive/TODO_SNAPSHOT_2026-11-11.md), [archive/MEMLOG_SNAPSHOT_2026-11-11.md](archive/MEMLOG_SNAPSHOT_2026-11-11.md), [archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md](archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md)
-- **2026-11-08 resolved work and pre-cleanup snapshot:** [archive/TODO_RESOLVED_2026-11-08.md](archive/TODO_RESOLVED_2026-11-08.md), [archive/TODO_SNAPSHOT_2026-11-08.md](archive/TODO_SNAPSHOT_2026-11-08.md)
+- **2026-11-14 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-14b.md](archive/TODO_SNAPSHOT_2026-11-14b.md), [archive/MEMLOG_SNAPSHOT_2026-11-14b.md](archive/MEMLOG_SNAPSHOT_2026-11-14b.md), [archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md](archive/DOC_ARCHITECTURE_MOVES_488-497_ARCHIVED_2026-11-14.md) (moves 488–497; open items carried into the heading above)
+- **2026-11-12 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-12.md](archive/TODO_SNAPSHOT_2026-11-12.md), [archive/MEMLOG_SNAPSHOT_2026-11-14b.md](archive/MEMLOG_SNAPSHOT_2026-11-14b.md), [archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md](archive/DOC_ARCHITECTURE_MOVES_466-487_ARCHIVED_2026-11-12.md)
+- **2026-11-11 archive run (no TODO or MEMLOG item was complete):** [archive/TODO_SNAPSHOT_2026-11-12.md](archive/TODO_SNAPSHOT_2026-11-12.md), [archive/MEMLOG_SNAPSHOT_2026-11-14b.md](archive/MEMLOG_SNAPSHOT_2026-11-14b.md), [archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md](archive/DOC_ARCHITECTURE_MOVES_370-465_ARCHIVED_2026-11-11.md)
+- **2026-11-08 resolved work and pre-cleanup snapshot:** [archive/TODO_RESOLVED_2026-11-08.md](archive/TODO_RESOLVED_2026-11-08.md), [archive/TODO_SNAPSHOT_2026-11-12.md](archive/TODO_SNAPSHOT_2026-11-12.md)
 - **2026-11-03 resolved work:** [archive/TODO_RESOLVED_2026-11-03.md](archive/TODO_RESOLVED_2026-11-03.md)
 - **2026-11-02 resolved work:** [archive/TODO_RESOLVED_2026-11-02.md](archive/TODO_RESOLVED_2026-11-02.md)
 - **2026-11-02 pre-cleanup snapshot:** [archive/TODO_SNAPSHOT_2026-11-02.md](archive/TODO_SNAPSHOT_2026-11-02.md)
@@ -177,3 +177,12 @@ Authoritative normative state is in the binding corpus files named in [README.md
 - **2026-06-18 Chapter Five closeout:** [archive/TODO_SNAPSHOT_2026-06-18.md](archive/TODO_SNAPSHOT_2026-06-18.md), [archive/MEMLOG_SNAPSHOT_2026-06-18.md](archive/MEMLOG_SNAPSHOT_2026-06-18.md)
 - **2026-05-01 root retirement:** [archive/TODO_ROOT_RETIRED_2026-05-01.md](archive/TODO_ROOT_RETIRED_2026-05-01.md), [archive/MEMLOG_ROOT_RETIRED_2026-05-01.md](archive/MEMLOG_ROOT_RETIRED_2026-05-01.md)
 - Older snapshots removed 2026-06-17 can be retrieved from Git history.
+
+---
+
+## Merged earlier snapshots
+
+On 2026-11-23 (946th move) the following near-duplicate snapshots were merged into this file and removed. Each repeated this file except for the lines quoted under its name; Git history keeps the originals.
+
+- `TODO_SNAPSHOT_2026-11-14.md`: no line that is not also in this file.
+
