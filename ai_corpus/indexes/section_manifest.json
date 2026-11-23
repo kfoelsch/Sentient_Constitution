@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-23T17:26:26+00:00",
+  "generated_at": "2026-11-23T18:21:11+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -2301,7 +2301,7 @@
         {"header":"CJS-3.110 §2 Oversight: Reflexive Transparency and Accountability Terms","level":2,"line_start":52,"line_end":255,"anchor":null},
         {"header":"CJS-3.110 §3 Oversight: Auditability and Reconstructability Terms (Annex)","level":2,"line_start":256,"line_end":383,"anchor":"#transparency-audit-and-verification-integrity-duties-c"},
         {"header":"CJS-3.110 §4 Oversight: Transparency Levels and Audit-Access Terms","level":2,"line_start":384,"line_end":601,"anchor":"#operational-transparency-and-structured-logging-requirements-c"},
-        {"header":"CJS-3.110 §5 Oversight: Independent Verification and Claim-Integrity Terms","level":2,"line_start":602,"line_end":756,"anchor":"#access-level-structure-and-baseline-accessibility-c"},
+        {"header":"CJS-3.110 §5 Oversight: Independent Verification and Claim-Integrity Terms","level":2,"line_start":602,"line_end":756,"anchor":"#restriction-scope-and-justification-discipline-c"},
         {"header":"CJS-3.110 §6 Oversight: Integrity Assurance and Resilience Operations","level":2,"line_start":757,"line_end":1120,"anchor":"#structured-review-and-incentive-integrity-minimum-c"}
       ]
     },

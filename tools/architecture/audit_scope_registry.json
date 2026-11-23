@@ -391,7 +391,7 @@
   },
   "cjs3-cluster-term-order-audit": {
    "scope": "not-file-based",
-   "reason": "Checks file names, sizes, registries or JSON records rather than corpus prose."
+   "reason": "Checks the order of oDef cluster sub-terms, which exist only in the CJS-3 operational-terms files; no other corpus file has oDef clusters."
   },
   "conflict-marker-audit": {
    "scope": "corpus"

@@ -715,6 +715,23 @@ Classification and information-type alignment
 - **What must hold**
   - **Primary failure:** Continuing to use lower-type or lower-class handling after sensitivity has increased.
 
+<a id="handoff-continuity-and-authority-transfer-lifecycle-integrity"></a>
+Handoff continuity and authority-transfer lifecycle integrity
+
+*In plain terms: material redesign, consolidation, dissolution, migration, or authority transfer must preserve continuity for rights, services, records, active challenge pathways, and accountable governance while the handoff is underway.*
+
+- **What it is**
+  - **In scope:** Material redesign, consolidation, dissolution, migration, or authority transfer must preserve continuity for rights, services, records, active challenge pathways, and accountable governance while the handoff is underway.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in handoff continuity and authority-transfer lifecycle integrity.
+<a id="handoff-continuity-and-authority-transfer-lifecycle-integrity-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** authority custody, review authority, evidence custody, interim scope, sunset and reauthorization records, unresolved-risk explanations, rollback or recovery options, and whether the handoff prevents governance vacuum, unmanaged authority transfer, or anti-constitutional lock-in
+
+    **Primary assessment:** Reviewers must verify authority custody, review authority, evidence custody, interim scope, sunset and reauthorization records, unresolved-risk explanations, rollback or recovery options, and whether the handoff prevents governance vacuum, unmanaged authority transfer, or anti-constitutional lock-in.
+<a id="handoff-continuity-and-authority-transfer-lifecycle-integrity-c"></a>
+- **What must hold**
+  - **Primary failure:** A handoff lifecycle if interim authority becomes indefinite without recorded reauthorization, if evidence or challenge pathways are lost during transfer, if unresolved risks are concealed, or if redesign creates a governance gap that makes rights, services, records, or remedies unusable in practice.
+
 <a id="justification-and-bounded-retention-minimum"></a>
 Justification and bounded-retention minimum
 
@@ -799,23 +816,6 @@ Review, revalidation, and prohibited patterns
 <a id="review-revalidation-and-prohibited-patterns-c"></a>
 - **What must hold**
   - **Primary failure:** Stale, unreviewed, or evasive retention regimes.
-
-<a id="handoff-continuity-and-authority-transfer-lifecycle-integrity"></a>
-Handoff continuity and authority-transfer lifecycle integrity
-
-*In plain terms: material redesign, consolidation, dissolution, migration, or authority transfer must preserve continuity for rights, services, records, active challenge pathways, and accountable governance while the handoff is underway.*
-
-- **What it is**
-  - **In scope:** Material redesign, consolidation, dissolution, migration, or authority transfer must preserve continuity for rights, services, records, active challenge pathways, and accountable governance while the handoff is underway.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in handoff continuity and authority-transfer lifecycle integrity.
-<a id="handoff-continuity-and-authority-transfer-lifecycle-integrity-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** authority custody, review authority, evidence custody, interim scope, sunset and reauthorization records, unresolved-risk explanations, rollback or recovery options, and whether the handoff prevents governance vacuum, unmanaged authority transfer, or anti-constitutional lock-in
-
-    **Primary assessment:** Reviewers must verify authority custody, review authority, evidence custody, interim scope, sunset and reauthorization records, unresolved-risk explanations, rollback or recovery options, and whether the handoff prevents governance vacuum, unmanaged authority transfer, or anti-constitutional lock-in.
-<a id="handoff-continuity-and-authority-transfer-lifecycle-integrity-c"></a>
-- **What must hold**
-  - **Primary failure:** A handoff lifecycle if interim authority becomes indefinite without recorded reauthorization, if evidence or challenge pathways are lost during transfer, if unresolved risks are concealed, or if redesign creates a governance gap that makes rights, services, records, or remedies unusable in practice.
 
 <a id="transparency-disclosures-and-stakeholder-legibility"></a>
 Transparency disclosures and stakeholder legibility

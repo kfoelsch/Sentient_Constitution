@@ -456,6 +456,23 @@ Access-control integrity and anti-concealment
 - **What must hold**
   - **Primary failure:** Access design that hides systemic behavior or blocks meaningful challenge.
 
+<a id="access-level-structure-and-baseline-accessibility"></a>
+Access-level structure and baseline accessibility
+
+*In plain terms: baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.*
+
+- **What it is**
+  - **In scope:** Baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.
+  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in access-level structure and baseline accessibility.
+<a id="access-level-structure-and-baseline-accessibility-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** baseline access works for ordinary use, not only in theory
+
+    **Primary assessment:** Evaluation must verify that baseline access works for ordinary use, not only in theory.
+<a id="access-level-structure-and-baseline-accessibility-c"></a>
+- **What must hold**
+  - **Primary failure:** Access levels if the baseline is too thin for meaningful participation or risk review.
+
 <a id="audit-process-output-disclosure-preference"></a>
 Audit process output disclosure preference
 
@@ -579,23 +596,6 @@ Restriction scope and justification discipline
 <a id="restriction-scope-and-justification-discipline-c"></a>
 - **What must hold**
   - **Primary failure:** Access restrictions when they are broad, indefinite, shielded from qualified or applicable independent or secondary review, routed around the restricted-information authority, or maintained by convenience, institutional discomfort, ownership claims, or unresolved migration work.
-
-<a id="access-level-structure-and-baseline-accessibility"></a>
-Access-level structure and baseline accessibility
-
-*In plain terms: baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.*
-
-- **What it is**
-  - **In scope:** Baseline access must let materially affected stakeholders understand what the system does, what risks it creates, what dependencies it has, and how they can participate.
-  - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in access-level structure and baseline accessibility.
-<a id="access-level-structure-and-baseline-accessibility-a"></a>
-- **How to measure and assess**
-  - **Primary measure:** baseline access works for ordinary use, not only in theory
-
-    **Primary assessment:** Evaluation must verify that baseline access works for ordinary use, not only in theory.
-<a id="access-level-structure-and-baseline-accessibility-c"></a>
-- **What must hold**
-  - **Primary failure:** Access levels if the baseline is too thin for meaningful participation or risk review.
 
 ---
 
