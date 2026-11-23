@@ -35,7 +35,7 @@ Chapter Twenty-Four is the constitutional owner of **what an assembly of a polit
 <a id="1-purpose-role-and-scope"></a>
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: this chapter says what a polity's assemblies are for: making general rules, setting budgets, choosing and checking the executive, and handling emergencies, and what they may never do.*
+*In plain terms: this chapter says what a polity's assemblies are for: making general rules, setting tax policy and budgets, choosing and checking the executive, and handling emergencies, and what they may never do.*
 
 **Purpose:** Chapter Twenty-Four sets the role, powers, procedure, and limits of the assemblies through which a polity adopter exercises governing authority.
 
@@ -78,11 +78,12 @@ General rules and budgets bind everyone, so they must be made in the open by a b
 <a id="3-what-assemblies-decide"></a>
 ### 3. What Assemblies Decide
 
-*In plain terms: assemblies make the rules, pass the budget, choose and oversee the executive, and give the polity's consent to constitutional change. They do not judge cases or run the independent bodies.*
+*In plain terms: assemblies make the rules, set tax policy, pass the budget, choose and oversee the executive, and give the polity's consent to constitutional change. They do not judge cases or run the independent bodies.*
 
 Within the matters assigned to its tier under section 4, an assembly:
 
 - **Makes general rules:** enacts binding general rules that implement, and never narrow, this Constitution.
+- **Sets tax policy:** decides the tier's tax policy by general rule: what is taxed, at what rates, and with what exemptions and credits, read with [CI-4.210](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public Revenue, Fees, Recurring Charges, and Billing Integrity*). No tax is levied except by an assembly's general rule, and each tier taxes only within its matters under section 4.
 - **Adopts the budget:** adopts the tier's budget and its public revenue, read with [CI-4.210](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public Revenue, Fees, Recurring Charges, and Billing Integrity*). Each tier adopts its own budget.
 - **Chooses and oversees the executive:** chooses the tier's executive under section 6, questions it, holds inquiries, and may remove it.
 - **Gives the polity's assent:** gives the polity's assent to adoption or amendment where [Chapter Twenty-Nine §12 Ratification and Adoption](core_29.000_amendment_ratification.md#12-ratification-and-adoption) calls for it.

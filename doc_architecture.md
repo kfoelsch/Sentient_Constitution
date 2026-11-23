@@ -1477,4 +1477,9 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 - Drafts with open work stay in `project/plans/`: the six office drafts and the monetary best-practice sweep (Chapter Seven §4 still lists no Independent Body), the core reorganization plan, the cross-adopter lookup framework, the announcement plans, the evaluation-hesitations plan, the AI corpus and stewardship pillars plans, and the chapter-numbering migration files that tools still cite.
 - Moves 925–926 move to [archive/DOC_ARCHITECTURE_MOVES_925-926_ARCHIVED_2026-11-23.md](archive/DOC_ARCHITECTURE_MOVES_925-926_ARCHIVED_2026-11-23.md). No TODO item was checked and no MEMLOG entry was complete, so none moved.
 
+**Nine hundred and twenty-ninth move (Chapter Twenty-Four §3: assemblies set tax policy; 2026-11-23; number provisional under MOVE-NUMBER-01).** Decision (custodian, in the project thread: "please add taxation to the assemblies' responsibilities", "as in setting tax policies"). What changed:
+
+- [Chapter Twenty-Four §3 What Assemblies Decide](core_24.000_assemblies.md#3-what-assemblies-decide) gains **Sets tax policy**: each assembly decides its tier's tax policy by general rule (what is taxed, rates, exemptions and credits), read with CI-4.210. New **musts**: no tax is levied except by an assembly's general rule, and each tier taxes only within its matters under §4. The §1 and §3 plain-terms lines name tax policy.
+- The Chapter Twenty-Four summaries in [Chapter One §8](core_01.000_constitutional_map.md#8-governance-change-and-incorporation), the conceptual overview, and the README chapter table name tax policy. No audit rule changed.
+
 **Next file:** [README.md](README.md)

@@ -435,7 +435,7 @@ Each summary below states what the chapter owns and what it produces.
 
 **Chapter Twenty-Four — Assemblies** ([`core_24.000_assemblies.md`](core_24.000_assemblies.md#chapter-twenty-four-assemblies))
 
-- **What it owns:** What an assembly of a polity decides, how it decides, and what limits it: the division of work between local, regional, and national tiers, the majorities each kind of act needs, the executive each assembly chooses and may remove, community referendums, and typed emergencies.
+- **What it owns:** What an assembly of a polity decides, how it decides, and what limits it: tax policy and budgets, the division of work between local, regional, and national tiers, the majorities each kind of act needs, the executive each assembly chooses and may remove, community referendums, and typed emergencies.
 - **What it produces:** General rules and budgets made in public by an accountable body, executives that answer to it, and emergency powers that are typed, confirmed quickly, revocable at any time, and never touch the Rights Floor.
 
 **Chapter Twenty-Seven — Constitutional contract, legitimacy, and stewardship** ([`core_27.000_governance.md`](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship))

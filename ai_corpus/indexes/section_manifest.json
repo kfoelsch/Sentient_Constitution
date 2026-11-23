@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-23T06:10:49+00:00",
+  "generated_at": "2026-11-23T15:01:01+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -888,18 +888,18 @@
       ]
     },
     "core_24.000_assemblies.md": {
-      "total_lines": 219,
+      "total_lines": 220,
       "sections": [
-        {"header":"CHAPTER TWENTY-FOUR: ASSEMBLIES","level":1,"line_start":2,"line_end":219,"anchor":"#chapter-twenty-four-assemblies"},
+        {"header":"CHAPTER TWENTY-FOUR: ASSEMBLIES","level":1,"line_start":2,"line_end":220,"anchor":"#chapter-twenty-four-assemblies"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":36,"line_end":54,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why Assemblies Exist","level":3,"line_start":55,"line_end":78,"anchor":"#2-why-assemblies-exist"},
-        {"header":"3. What Assemblies Decide","level":3,"line_start":79,"line_end":97,"anchor":"#3-what-assemblies-decide"},
-        {"header":"4. Dividing Work Between Tiers","level":3,"line_start":98,"line_end":110,"anchor":"#4-dividing-work-between-tiers"},
-        {"header":"5. How Assemblies Decide","level":3,"line_start":111,"line_end":129,"anchor":"#5-how-assemblies-decide"},
-        {"header":"6. Executives","level":3,"line_start":130,"line_end":142,"anchor":"#6-executives"},
-        {"header":"7. Community Referendums","level":3,"line_start":143,"line_end":156,"anchor":"#7-community-referendums"},
-        {"header":"8. Emergencies","level":3,"line_start":157,"line_end":203,"anchor":"#8-emergencies"},
-        {"header":"9. Limits on Every Assembly","level":3,"line_start":204,"line_end":219,"anchor":"#9-limits-on-every-assembly"}
+        {"header":"3. What Assemblies Decide","level":3,"line_start":79,"line_end":98,"anchor":"#3-what-assemblies-decide"},
+        {"header":"4. Dividing Work Between Tiers","level":3,"line_start":99,"line_end":111,"anchor":"#4-dividing-work-between-tiers"},
+        {"header":"5. How Assemblies Decide","level":3,"line_start":112,"line_end":130,"anchor":"#5-how-assemblies-decide"},
+        {"header":"6. Executives","level":3,"line_start":131,"line_end":143,"anchor":"#6-executives"},
+        {"header":"7. Community Referendums","level":3,"line_start":144,"line_end":157,"anchor":"#7-community-referendums"},
+        {"header":"8. Emergencies","level":3,"line_start":158,"line_end":204,"anchor":"#8-emergencies"},
+        {"header":"9. Limits on Every Assembly","level":3,"line_start":205,"line_end":220,"anchor":"#9-limits-on-every-assembly"}
       ]
     },
     "core_25.000_enforcement.md": {
