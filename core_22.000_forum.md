@@ -430,6 +430,8 @@ Default venue holds unless **section 6** transfers or consolidates.
 
 One Forum Case Record and one lead family ordinarily hear interdependent claims. Secondary issues may be certified, stayed, or resolved through issue preclusion as adopting documents provide, consistent with **Article XIV-A** (*Reliability and Trustworthiness Baseline*), **Article XIV-B** (*Right to Redress and Remedy*), and **Chapter Fourteen** joint-assessment and non-substitution discipline.
 
+When one lead forum handles a mixed-stakes case, it must keep the **forum case record** clear enough that separate Chapter Fifteen contribution and violation measurements, any Chapter Twenty designation, and Chapter Sixteen standing effects can still be audited separately and recorded in axis-pure Standing Records.
+
 <a id="442-asymmetry"></a>
 
 ##### 4.4.2 Asymmetry
@@ -540,7 +542,7 @@ These rules cover how forum work reaches Standing Records:
     - contestable; and
     - verified under Subcores 3-A to 3-C and any required review safeguards.
   - [Chapter Fourteen §4.7 Forum Boundary](core_14.000_standing_assessment.md#47-forum-boundary) owns how verified contribution records and verified violation findings enter Standing Records.
-- When one lead forum handles a mixed-stakes case, it must keep the **forum case record** clear enough that separate Chapter Fifteen contribution and violation measurements, any Chapter Twenty designation, and Chapter Sixteen standing effects can still be audited separately and recorded in axis-pure Standing Records.
+- A mixed-stakes case keeps its contribution, violation, designation, and standing-effect strands separable in the forum case record, as [§4.4.1 One Case Record, One Lead](#441-one-case-record-one-lead) requires.
 
 <a id="54-contests-of-certification-records"></a>
 
