@@ -5798,7 +5798,7 @@ while it is in doubt whether a change is valid, this chapter can order extra rev
 
 #### 7. Work This Chapter Leaves to Other Chapters
 
-this chapter does not sort offenses, score standing, or set sanctions. Numeric standing measurement belongs to the Chapter Fifteen §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale, and Chapter Twenty only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.
+this chapter does not sort offenses, score standing, or set sanctions; those belong to other chapters.
 
 [Source](../../core_28.000_non_regression.md#7-work-this-chapter-leaves-to-other-chapters)
 
