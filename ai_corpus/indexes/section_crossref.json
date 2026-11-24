@@ -1,12 +1,12 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-11-24T20:39:42+00:00",
+  "generated_at": "2026-11-24T20:51:56+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
   "format": "interned-v1",
   "layout": {"sources": "[file_index, anchor, header]", "targets": "[file_index, anchor]", "edges": "[source_index, target_index, count]"},
-  "edge_count": 26548,
+  "edge_count": 26549,
   "files": [
     "core_00.000_preamble.md",
     "core_01.000_constitutional_map.md",
@@ -29898,6 +29898,7 @@
     [1889,398,1],
     [1889,1575,1],
     [1890,1551,1],
+    [1890,561,1],
     [1891,1551,1],
     [1891,1336,1],
     [1891,2061,1],
