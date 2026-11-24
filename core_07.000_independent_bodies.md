@@ -6,7 +6,7 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files and the subcore, read as one text. It contains **Chapter Seven**, *Independent Bodies*: its purpose (§1), why it exists (§2), what makes a body independent (§3), and the bodies this Constitution creates (§4). Until 2026-11-20, §3 was Chapter Six §11.
 >
 > **Upstream:** [core_06.000_functional_independence_separation_of_duties.md](core_06.000_functional_independence_separation_of_duties.md) (Chapter Six)
-> **Attached subcore files:** [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*), [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) (*Public Policy Office*), and [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*) hold the operating rules of the offices listed in §4.
+> **Attached subcore files:** [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*), [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) (*Public Policy Office*), [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*), and [Subcore 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) (*Public Information Office*) hold the operating rules of the offices listed in §4.
 > **Next:** [subcore_07.010_electoral_office.md](subcore_07.010_electoral_office.md) (Subcore 7-A)
 
 </details>
@@ -21,7 +21,7 @@
   - [§3](#3-what-makes-a-body-independent);
   - [§4](#4-the-bodies-this-constitution-creates).
 - Downstream: each chapter, subcore file, or designated implementation text that names a body as an Independent Body by citing §3.
-- Attached subcore: [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*); [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) (*Public Policy Office*); [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*).
+- Attached subcore: [Subcore 7-A](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) (*Electoral Office*); [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) (*Public Policy Office*); [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*); [Subcore 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) (*Public Information Office*).
 
 </details>
 
@@ -220,6 +220,12 @@ Each entry below names an Independent Body that this Constitution requires of ev
   - the office runs a Stewardship Fund, with its own protected budget, for incentives for technological, ecological, and social improvement, for public education and advocacy on the long term, and for basic research decided by peer review;
   - the governing authority must say in public how its strategy responds, and the office cannot write anyone's plan, command, or block; and
   - members serve terms longer than the political cycle and cannot be removed for the content of their advice.
+
+- **Public Information Office:** is the primary public measurer of constitutional results, mapping evidence to the Constitution’s principles and measurement categories, and produces independent official statistics for public and private decision-making, including a census through its Office of the Census. Its operating rules are in [Subcore 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) (*Public Information Office*). It guarantees every sentient that:
+  - constitutional measurements are mapped to the principles and outcomes they address, with gaps and limits made visible;
+  - statistics and census results are published with their methods, uncertainty, and corrections;
+  - the census seeks to include every sentient in its stated population without making a count a condition of rights or standing; and
+  - information collected for statistics is protected under §3 (*What Makes a Body Independent*) and is not used against the sentient who gave it.
 
 ---
 

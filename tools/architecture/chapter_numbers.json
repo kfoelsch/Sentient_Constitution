@@ -594,6 +594,20 @@
       "ordinal_name": "S7-C"
     },
     {
+      "old_id": "Subcore 7-D (new)",
+      "original_file": "subcore_07.040_public_information_office.md",
+      "machine_id": "SUB-07040",
+      "display_id": "S7-D",
+      "layer": "SUBCORE",
+      "core_home": "07",
+      "title": "S7-D",
+      "destination_file": "subcore_07.040_public_information_office.md",
+      "status": "active",
+      "machine_number": "07040",
+      "layer_digit": "0",
+      "ordinal_name": "S7-D"
+    },
+    {
       "old_id": "Chapter 9",
       "original_file": "core_09_a_system_alignment_certification_evaluation.md",
       "machine_id": "08000",

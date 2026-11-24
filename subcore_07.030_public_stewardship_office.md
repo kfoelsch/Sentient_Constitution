@@ -28,7 +28,7 @@
 
 - [Chapter Twenty-Seven §5 Strategy, Stewardship Direction, and Ecosystem Value](core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) puts the duty of stewardship on those who govern. This office informs that duty and holds public bodies to account for planning against it; it does not take it over.
 - The [Subcore 7-B Public Policy Office](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) evaluates one proposal at a time. This office looks across all policy and over a longer horizon. For a proposal with long-horizon or irreversible effects, the two publish one combined evaluation.
-- Official statistics and research come from whichever body the adopter charges with them, and this office relies on them.
+- Official statistics come from the [Subcore 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) (*Public Information Office*), and this office relies on them.
 - The governing authority's published accounts report the obligations that later generations will carry, and this office takes them into account.
 
 **Scope:** The office:
@@ -120,7 +120,7 @@ It looks beyond the fifth outlook horizon (100 years) where a risk requires it. 
 - **Obligations to the future:** public debt, unfunded commitments, maintenance left undone, and depleting resources that later generations will carry;
 - **Opportunities:** developments that could markedly improve life, and what it would take to reach them;
 - **Scenarios:** more than one plausible future, including severe ones, and what would tell them apart early; and
-- **Confidence:** how sure the office is of each part, on a published confidence scale, the same one the Public Policy Office uses.
+- **Confidence:** how sure the office is of each part, using the [Subcore 7-D §4.2 confidence ladder](subcore_07.040_public_information_office.md#42-the-confidence-ladder) and its [§4.3 application rules](subcore_07.040_public_information_office.md#43-applying-the-confidence-ladder). The office rates its own findings using the published criteria and independent checking those rules require.
 
 <a id="5-long-term-risk-register"></a>
 
@@ -460,4 +460,4 @@ The *Scaling* rule in [Chapter Seven §3 What Makes a Body Independent](core_07.
 
 **Previous file:** [subcore_07.020_public_policy_office.md](subcore_07.020_public_policy_office.md)
 
-**Next file:** [core_08.000_system_alignment_certification_evaluation.md](core_08.000_system_alignment_certification_evaluation.md)
+**Next file:** [subcore_07.040_public_information_office.md](subcore_07.040_public_information_office.md)

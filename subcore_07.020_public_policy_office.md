@@ -27,7 +27,7 @@
 **Role:** Subcore 7-B is the constitutional owner of **policy impact evaluation**: the evaluation of proposed binding policy before the final decision, and the review of adopted policy after it takes effect. Where it sits:
 
 - [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) keeps the power to decide. This office advises and publishes; it decides nothing.
-- Official statistics and research come from whichever body the adopter charges with them. This office relies on them but does not produce official statistics.
+- Official statistics come from the [Subcore 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) (*Public Information Office*). This office relies on them but does not produce official statistics.
 - The [Subcore 7-C Public Stewardship Office](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) looks decades ahead across all policy. This office looks at one proposal at a time. For a proposal with long-horizon or irreversible effects, the two publish one combined evaluation (§5.1 *Contents*).
 - The governing authority pays for the office under *Protected funding* in [Chapter Seven §3](core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (*What Makes a Body Independent*) and does not direct it.
 
@@ -221,7 +221,7 @@ Every evaluation follows the published template and states, at a minimum:
     - effects on rights under the Chapter Four Rights Floor and on access to survival-floor goods and services;
     - effects on [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity) and on [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden); and
     - the cost to public money, now and over time.
-- **Uncertainty:** how confident the office is in each estimate, on a published confidence scale, the same one for every evaluation, and what evidence would change it.
+- **Uncertainty:** how confident the office is in each estimate, using the [Subcore 7-D §4.2 confidence ladder](subcore_07.040_public_information_office.md#42-the-confidence-ladder) and its [§4.3 application rules](subcore_07.040_public_information_office.md#43-applying-the-confidence-ladder), and what evidence would change it. The office rates its own estimates using the published criteria and independent checking those rules require.
 - **Alternatives:** doing nothing, and any other options that would plausibly meet the same aim at lower cost or harm.
 - **Measurement and review:** the indicators that would show whether the policy works, and a proposed review date.
 - **Long horizon:** where effects reach beyond the published horizon or cannot be undone, a long-horizon section prepared with the Public Stewardship Office.
