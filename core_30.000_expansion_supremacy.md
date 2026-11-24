@@ -10,7 +10,7 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Thirty lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
-> - **Constitutional owner:** how this Constitution fits with other rules and outside law: additive expansion of protection, continuity of supremacy and challenge rights during amendment, supremacy relative to other binding norms, and the relation to applicable external law and external tribunals. The tests for valid change are in **Chapter Twenty-Eight** and **Chapter Twenty-Nine**; the incorporation bridge is in **Chapter Thirty-One**.
+> - **Constitutional owner:** how this Constitution fits with other rules and outside law: additive expansion of protection, supremacy relative to other binding norms, and the relation to applicable external law and external tribunals. The tests for valid change are in **Chapter Twenty-Eight** and **Chapter Twenty-Nine**; the incorporation bridge is in **Chapter Thirty-One**.
 > - **Non-regression:** substantive floors remain in **Chapter Twenty-Eight**. Ratification, custody documents, and procedural amendment validity remain in **Chapter Twenty-Nine**.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
@@ -42,7 +42,7 @@
 
 <br>
 
-Chapter Thirty is the constitutional owner of **how this Constitution fits with other rules and outside law**: it lets protections grow, keeps the Constitution in force during amendment, and works alongside outside law and external tribunals without displacing that law or giving up its own review routes.
+Chapter Thirty is the constitutional owner of **how this Constitution fits with other rules and outside law**: it lets protections grow, works alongside outside law and external tribunals without displacing that law or giving up its own review routes.
 
 ### 1. Purpose, Role, and Scope
 
@@ -51,7 +51,7 @@ Chapter Thirty is the constitutional owner of **how this Constitution fits with 
 **Purpose:** Chapter Thirty states what is permitted and what holds when this Constitution meets other rules:
 
 - additive expansion, which is permitted (**section 3**);
-- supremacy and challenge rights, which stay in force during amendment (**section 4**);
+- continuity of supremacy and challenge rights during amendment (now in [Chapter Twenty-Nine §10.1 *Continuity of Supremacy and Challenge Rights during Amendment*](core_29.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment));
 - supremacy relative to other binding norms, stricter external protections, and conflict disclosure (**section 5**);
 - disputes involving external legal orders (**section 6**); and
 - how this Constitution relates to applicable external law, including non-displacement and limited binding effect (**section 7**).
@@ -65,7 +65,7 @@ Chapter Thirty is the constitutional owner of **how this Constitution fits with 
 **Chapter scope:** The chapter covers:
 
 - additive expansion (**section 3**);
-- continuity of supremacy and challenge rights during amendment (**section 4**);
+- a pointer to continuity of supremacy and challenge rights during amendment (**section 4**);
 - supremacy relative to other binding norms (**section 5**);
 - disputes involving external legal orders (**section 6**); and
 - the relation to applicable external law (**section 7**).
@@ -105,7 +105,7 @@ New rights and stronger safeguards need an easy way in, so the text can improve 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Thirty](#chapter-thirty-expansion-supremacy-and-external-legal-orders) chapter frame; [Chapter Twenty-Eight](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) (28.000) non-regression (expansion must not violate Substantive Test 1).
-- Downstream: [§4](#4-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity during change; [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*including Chapters Two and Three consistency checks in operative text*).
+- Downstream: [Chapter Twenty-Nine §10.1](core_29.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity during change; [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*including Chapters Two and Three consistency checks in operative text*).
 - Read with: [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) when additions implicate new rights or classes.
 
 </details>
@@ -117,26 +117,14 @@ New rights and stronger safeguards need an easy way in, so the text can improve 
 Constitutional change may add new rights, safeguards, accountability mechanisms, representational guarantees, or protected classes and protected characteristics. Additions are permitted where they increase substantive protection, inclusion, or binding effect consistent with **Chapters Two and Three** and **Chapter Twenty-Eight**.
 
 ### 4. Continuity of Supremacy and Challenge Rights during Amendment
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-additive-expansion-permitted) permitted expansion boundary.
-- Downstream: [§5](#5-supremacy-relative-to-other-binding-norms) internal hierarchy and stricter-external rule; [Chapter Twenty-Nine §10](core_29.000_amendment_ratification.md#10-provisional-effect-rule) (29.000 §10) provisional effect on rights-affecting amendments.
-- Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) anti-evasion on "temporary" suspension of supremacy or audit.
-
-</details>
-
-<br>
-
-*In plain terms: while **adopters** are amending the rules, this **Constitution** still applies — you cannot turn off supremacy, audits, or challenges as a negotiating tactic; short interim steps have to be bounded, reversible where possible, and honest.*
-
-No amendment process may suspend constitutional supremacy, auditability, challenge rights, or the **Rights-Floor minimums** applied through **Article VI** (*Equal Basic Rights*) under the [Rights-Floor Minimums Principle](core_02.020_interaction_interpretation.md#rights-floor-minimums-principle). Temporary interim measures must be time-limited, reversible where feasible, and non-evasive under **Subcores 3-A to 3-C** anti-evasion requirements.
+*Non-operative navigation:* The rule on continuity during amendment is in [Chapter Twenty-Nine §10.1](core_29.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment).
 
 ### 5. Supremacy Relative to Other Binding Norms
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4](#4-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of supremacy during amendment; [Chapter Three *Authority Stack and Internal Hierarchy*](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (S3-L).
+- Upstream: [Chapter Twenty-Nine §10.1](core_29.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of supremacy during amendment; [Chapter Three *Authority Stack and Internal Hierarchy*](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (S3-L).
 - Subsections: [§5.1](#51-internal-hierarchy-for-adopters)–[§5.3](#53-conflict-disclosure-and-mitigation).
 - Downstream: [§6](#6-disputes-involving-external-legal-orders) external tribunals and preserved internal review pathways; [Chapter Twenty-Eight](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) (28.000) non-regression on internal-hierarchy maneuvers.
 - Read with: [Chapter Three *Authority Stack and Internal Hierarchy*](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (S3-L) as cross-linked from §4.1 operative text.
@@ -210,7 +198,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[CS-4.320](c
 - Upstream: [§5.3](#53-conflict-disclosure-and-mitigation) documented conflict handling.
 - Subsections: [§6.1](#61-good-faith-cooperation); [§6.2](#62-preserved-internal-review-pathways).
 - Downstream: [§7](#7-relation-to-applicable-external-law) non-displacement and alignment; [Article XXI-A](core_04.040_rights_part_e.md) (*Justice Objective and Scope*) constitutional interpretation and review where external process is insufficient.
-- Read with: [§4](#4-continuity-of-supremacy-and-challenge-rights-during-amendment) non-suspension of challenge rights during amendment.
+- Read with: [Chapter Twenty-Nine §10.1](core_29.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment) non-suspension of challenge rights during amendment.
 
 </details>
 

@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_30.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **600** of **1025** headings carry a gloss (59%).
+Coverage: **600** of **1026** headings carry a gloss (58%).
 
 ## Contents
 
@@ -48,8 +48,8 @@ Coverage: **600** of **1025** headings carry a gloss (59%).
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.040_rights_part_e.md` (13/14 glossed)
 - [CHAPTER TWENTY-SEVEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_27.000_governance.md` (15/32 glossed)
 - [CHAPTER TWENTY-EIGHT: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) — `core_28.000_non_regression.md` (7/8 glossed)
-- [CHAPTER TWENTY-NINE: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-nine-amendment-ratification-and-procedural-validity) — `core_29.000_amendment_ratification.md` (22/33 glossed)
-- [CHAPTER THIRTY: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-thirty-expansion-supremacy-and-external-legal-orders) — `core_30.000_expansion_supremacy.md` (14/15 glossed)
+- [CHAPTER TWENTY-NINE: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-nine-amendment-ratification-and-procedural-validity) — `core_29.000_amendment_ratification.md` (23/34 glossed)
+- [CHAPTER THIRTY: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-thirty-expansion-supremacy-and-external-legal-orders) — `core_30.000_expansion_supremacy.md` (13/15 glossed)
 - [CHAPTER THIRTY-ONE: INCORPORATION BRIDGE](#chapter-thirty-one-incorporation-bridge) — `core_31.000_incorporation.md` (5/6 glossed)
 
 ## PREAMBLE / FOUNDATIONAL REQUIREMENTS
@@ -5804,7 +5804,7 @@ this chapter does not sort offenses, score standing, or set sanctions; those bel
 
 ## CHAPTER TWENTY-NINE: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY
 
-Source file: [`core_29.000_amendment_ratification.md`](../../core_29.000_amendment_ratification.md) · 22/33 headings glossed
+Source file: [`core_29.000_amendment_ratification.md`](../../core_29.000_amendment_ratification.md) · 23/34 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -5926,6 +5926,12 @@ high-stakes amendments must not freeze into irreversible facts on the ground bef
 
 [Source](../../core_29.000_amendment_ratification.md#10-provisional-effect-rule)
 
+##### 10.1 Continuity of Supremacy and Challenge Rights during Amendment
+
+while **adopters** are amending the rules, this **Constitution** still applies — you cannot turn off supremacy, audits, or challenges as a negotiating tactic; short interim steps have to be bounded, reversible where possible, and honest.
+
+[Source](../../core_29.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment)
+
 #### 11. Invalid-Change Handling and Remediation Continuity
 
 when a change is declared invalid, treat it as void for constitutional purposes from that determination forward, spell out what must be rolled back and how **affected** **parties** get a fair remedy — and publish a time-bounded plan that restores protections and preserves evidence. Serious bad-faith conduct in making or adopting a change is referred to the bodies that own labels and sanctions, not relabeled here.
@@ -6000,7 +6006,7 @@ the adoption document records that an adopter adopted. Two more published docume
 
 ## CHAPTER THIRTY: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS
 
-Source file: [`core_30.000_expansion_supremacy.md`](../../core_30.000_expansion_supremacy.md) · 14/15 headings glossed
+Source file: [`core_30.000_expansion_supremacy.md`](../../core_30.000_expansion_supremacy.md) · 13/15 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -6022,7 +6028,7 @@ forward is fine — new rights, stronger safeguards, and broader inclusion are w
 
 #### 4. Continuity of Supremacy and Challenge Rights during Amendment
 
-while **adopters** are amending the rules, this **Constitution** still applies — you cannot turn off supremacy, audits, or challenges as a negotiating tactic; short interim steps have to be bounded, reversible where possible, and honest.
+*(no plain-terms gloss in source)*
 
 [Source](../../core_30.000_expansion_supremacy.md#4-continuity-of-supremacy-and-challenge-rights-during-amendment)
 

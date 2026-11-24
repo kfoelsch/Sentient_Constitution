@@ -1479,4 +1479,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and second move (archive merged moves 989–995; 2026-11-24; organization only; uncommitted).** Decision (custodian, asked in session to archive and merge): moves 989–995, already merged in pull request #279, move to [archive/DOC_ARCHITECTURE_MOVES_989-995_ARCHIVED_2026-11-24.md](archive/DOC_ARCHITECTURE_MOVES_989-995_ARCHIVED_2026-11-24.md), with a pointer in the historical-moves line. Moves 996–1001 remain in the live log until merged. No rule changed.
 
+**One thousand and third move (continuity during amendment moved to Chapter Twenty-Nine; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): move the continuity of supremacy and challenge rights during amendment from Chapter Thirty §4 to [Chapter Twenty-Nine §10.1](core_29.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment), alongside the provisional effect rule. Chapter Thirty §4 retains a non-operative pointer and its existing numbering; chapter scope statements, trace references, and the lexical guidance point to the new home. Effect on a rule: none; the operative paragraph and its plain-terms explanation are unchanged.
+
+
 **Next file:** [README.md](README.md)
