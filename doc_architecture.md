@@ -1482,4 +1482,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 **One thousand and third move (continuity during amendment moved to Chapter Twenty-Nine; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): move the continuity of supremacy and challenge rights during amendment from Chapter Thirty §4 to [Chapter Twenty-Nine §10.1](core_29.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment), alongside the provisional effect rule. Chapter Thirty §4 retains a non-operative pointer and its existing numbering; chapter scope statements, trace references, and the lexical guidance point to the new home. Effect on a rule: none; the operative paragraph and its plain-terms explanation are unchanged.
 
 
+**One thousand and fourth move (consolidate Chapter Thirty hierarchy and execution references; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): shorten [Chapter Thirty §5.1](core_30.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) to point to the canonical Authority Stack and Internal Hierarchy, retaining its adopted-implementation scope and non-regression reference; combine the repeated execution references in §5.3 and correct their stale section number from §10 to §9. Effect on a rule: none. The stricter-external-law rule and conflict duties remain; §7.2 retains its anti-evasion language because it also applies to uses outside adoption.
+
+
 **Next file:** [README.md](README.md)
