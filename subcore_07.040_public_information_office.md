@@ -15,18 +15,20 @@
 <a id="1-purpose-role-and-scope"></a>
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: everyone needs trustworthy public information to make decisions. An independent office produces official statistics, and a census office within it counts the population without turning that count into a test of anyone's rights.*
+*In plain terms: the Constitution asks whether its principles improve real lives. An independent office measures the results, shows how they connect to those principles, and produces official statistics. Its census counts the population without making the count a test of anyone's rights.*
 
-**Purpose:** The Public Information Office gives sentients and public bodies reliable, accessible official statistics for public and private decision-making, with their uncertainty and limitations visible.
+**Purpose:** The Public Information Office measures whether real-world outcomes reflect this Constitution’s principles and gives sentients and public bodies reliable, accessible evidence for public and private decision-making, with uncertainty, limitations, and gaps visible.
 
-**Role:** Subcore 7-D is the constitutional owner of **official statistics** and of the **Office of the Census**. Where it sits:
+**Role:** The Public Information Office is the Constitution’s **primary public measurer of constitutional results**. It maps evidence of real-world outcomes to the principles they serve and to the measurement categories in the [Preamble §2 Measurements Overview](core_00.000_preamble.md#2-measurements-overview). Subcore 7-D is the constitutional owner of this office’s **public constitutional measurement**, **official statistics**, and **Office of the Census**. Where it sits:
 
+- [Preamble §3.1 Using Measurements in Governance](core_00.000_preamble.md#31-using-measurements-in-governance) assigns shared technical standards to Technical Forum Domains and case decisions to the responsible forum. The office applies those standards where required; its public measurement does not decide a case or replace another body’s specific measurement duties.
 - [Chapter Seven §3](core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (*What Makes a Body Independent*) protects the office from direction and sets its funding, privacy, and review safeguards.
 - The [Subcore 7-B Public Policy Office](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) evaluates policies, and the [Subcore 7-C Public Stewardship Office](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) looks ahead. Both may use this office's published statistics; neither directs its findings.
 - The [Subcore 7-A Electoral Office](subcore_07.010_electoral_office.md#subcore-7-a-electoral-office) keeps the electorate roll. A census is a statistical count, not that roll.
 
 **Chapter scope:** The office:
 
+- measures constitutional results and maps them to the principles and measurement categories (§4.1 *Measuring Constitutional Results*);
 - keeps a public statistical program and produces official statistics (§4 *Public Statistics and Methods*);
 - publishes methods, limitations, uncertainty, releases, and corrections (§4 *Public Statistics and Methods*);
 - protects information collected for its work (§5 *Information Handling and Privacy*);
@@ -40,7 +42,7 @@
 
 *In plain terms: numbers used to make public decisions must not depend on what those in power wish the numbers to say.*
 
-Public decisions and private choices need shared evidence that can be checked. Statistics can conceal as well as reveal: an average may hide groups left out, a changing definition may look like progress, and a delayed release may serve a decision-maker. The office publishes its methods, limits, and corrections independently, so that anyone can see what its numbers do and do not say. The census gives a picture of the population without making its categories a test of anyone's rights.
+The Constitution must be judged by what happens in the world, not only by what its text promises. The office gives sentients a public, independent account of those results and how they relate to constitutional principles. Public decisions and private choices need shared evidence that can be checked. Statistics can conceal as well as reveal: an average may hide groups left out, a changing definition may look like progress, and a delayed release may serve a decision-maker. The office publishes its methods, limits, and corrections independently, so that anyone can see what its numbers do and do not say. The census gives a picture of the population without making its categories a test of anyone's rights.
 
 **Grounded in:**
 
@@ -76,6 +78,22 @@ The office produces and publishes its statistics under these rules:
 - **Equal release:** results are released to everyone at the same published time. The office records a change to the release schedule and its reason. A result's content is not a reason to suppress it or favor a recipient.
 - **Revisions and errors:** the office labels preliminary figures and revisions. It corrects errors openly, states their effect and reason, preserves the earlier version and correction history, and makes the correction accessible alongside the affected release.
 - **Checkability:** the office makes its methods and supporting data available for checking to the extent consistent with §5 (*Information Handling and Privacy*). Where protected data cannot be public, a qualified independent audit path remains available under Chapter Seven §3 (*Information handling and privacy*).
+
+<a id="41-measuring-constitutional-results"></a>
+#### 4.1 Measuring Constitutional Results
+
+*In plain terms: the office shows what is happening, which constitutional principles the evidence speaks to, and what the evidence cannot yet tell us.*
+
+The office maintains and publishes a constitutional measurement program. It measures actual conditions and outcomes, not merely whether a policy or institution claims to comply. It:
+
+- **Maps the Constitution to evidence:** for each measure, identifies the relevant [Preamble §2 Measurements Overview](core_00.000_preamble.md#2-measurements-overview) category and subcategory, its Chapter Three measurement-family home, and the Chapter Two principle or principles it informs. It explains the connection between the evidence and the outcome the principle seeks.
+- **Covers the full framework:** addresses Flourishing, Continuity, Participation, Oversight, Accountability, Timeliness, and Constitutional Performance. It states which outcomes are not yet measured or cannot reliably be measured, and why. Material stake guides the depth and priority of measurement.
+- **Traces the results:** publishes the indicator or other evidence, source, population and period covered, method, uncertainty, and limitations alongside each mapping. It distinguishes observed outcomes from projections and from a proxy, explains what a proxy misses, and checks whether it still tracks the outcome it is used to represent. A convenient proxy cannot substitute for constitutional performance.
+- **Makes differences visible:** shows changes over time and differences among affected groups where reliable and consistent with §5 (*Information Handling and Privacy*). It identifies missing groups, inaccessible evidence, and other gaps rather than treating absence of evidence as success.
+- **Keeps judgment open:** publishes the evidence and its interpretation so others can inspect and challenge them. A mapping does not itself decide whether a right was violated, confer or remove standing, or replace a forum decision. The office does not reduce the Rights Floor or trade a right away through an aggregate score.
+- **Uses shared standards:** applies the standards Technical Forum Domains develop and maintain where the Constitution requires concrete measurement rules, under [Preamble §3.1 Using Measurements in Governance](core_00.000_preamble.md#31-using-measurements-in-governance). Other bodies retain the measurement and decision duties their own governing text assigns them.
+
+The office includes the program's results, material gaps, and changes in its yearly report under §7 (*Records, Audit, and Challenge*), with links to the evidence and methods. It updates the mapping when evidence, methods, or constitutional text change, and preserves the history under §4 (*Public Statistics and Methods*).
 
 <a id="5-information-handling-and-privacy"></a>
 ### 5. Information Handling and Privacy

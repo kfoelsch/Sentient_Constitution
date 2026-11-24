@@ -221,7 +221,8 @@ Each entry below names an Independent Body that this Constitution requires of ev
   - the governing authority must say in public how its strategy responds, and the office cannot write anyone's plan, command, or block; and
   - members serve terms longer than the political cycle and cannot be removed for the content of their advice.
 
-- **Public Information Office:** produces independent official statistics for public and private decision-making, including a census through its Office of the Census. Its operating rules are in [Subcore 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) (*Public Information Office*). It guarantees every sentient that:
+- **Public Information Office:** is the primary public measurer of constitutional results, mapping evidence to the Constitution’s principles and measurement categories, and produces independent official statistics for public and private decision-making, including a census through its Office of the Census. Its operating rules are in [Subcore 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) (*Public Information Office*). It guarantees every sentient that:
+  - constitutional measurements are mapped to the principles and outcomes they address, with gaps and limits made visible;
   - statistics and census results are published with their methods, uncertainty, and corrections;
   - the census seeks to include every sentient in its stated population without making a count a condition of rights or standing; and
   - information collected for statistics is protected under §3 (*What Makes a Body Independent*) and is not used against the sentient who gave it.
