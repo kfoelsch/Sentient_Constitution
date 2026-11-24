@@ -797,6 +797,8 @@ flowchart TB
     style F fill:none,stroke:#ea580c,color:#ffffff
 ```
 
+For each constitutional process and the institution that runs it, with where it lives, what happens in one line, and the principles that bear on it most, see [Constitutional Processes and Institutions](PROCESSES_AND_INSTITUTIONS.md).
+
 <a id="standing-model"></a>
 ### Three Questions, Two Standing Tracks, and Named Effects
 
@@ -1270,6 +1272,7 @@ For your next step, choose the connection you need:
 
 - **Understand the purpose:** read the [Preamble’s model](../core_00.000_preamble.md#the-model), then [Chapter Two’s values](../core_02.000_values_principles.md).
 - **Understand a protection:** enter through the [Rights Floor](../core_04.000_rights_part_a.md) and follow the relevant article’s source links.
+- **Understand a process or institution:** find it in [Constitutional Processes and Institutions](PROCESSES_AND_INSTITUTIONS.md), then follow its links to the chapters that bind.
 - **Understand a real situation:** choose an [easy-entry brief](../implementation/adoption/easy_entry/README.md), then follow it to the operative provisions and required read-with material.
 - **Apply or verify a claim:** use the [lookup guide](../ai_corpus/AI_NAVIGATION_GUIDE.md) to locate and read authentic source spans, including required dependencies.
 - **Keep to a time budget:** return to the README's [reading paths](../README.md#reading-paths).

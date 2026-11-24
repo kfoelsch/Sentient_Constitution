@@ -76,6 +76,7 @@ You do not have to read everything. Pick the time you have; each path builds on 
 | Get help: a system has harmed me and I can't find where to turn | [*I can't find the door*](implementation/adoption/easy_entry/E15_cannot_find_the_door.md) |
 | Read the whole Constitution in brief, one short entry per chapter (about 15 minutes) | [The whole Constitution in brief](guides/CONCEPTUAL_OVERVIEW.md#the-whole-constitution-in-brief) |
 | Understand how the whole thing fits together (about 40 minutes, best after a first look) | [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md) |
+| Find which chapters govern a process or a body, and which principles shape it | [Processes and institutions](guides/PROCESSES_AND_INSTITUTIONS.md) |
 | Get quick answers ("Does this apply to me?", "Does it override the law?") | [Common questions](implementation/FAQ.md) |
 | See what it would mean for someone in my situation | [Guides for everyday situations](implementation/adoption/easy_entry/README.md) |
 | See all the rights on one page | [Rights at a glance](doc_architecture/generated/rights_floor_sheet.md) |
@@ -243,7 +244,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 ### Editor and Operator Resources
 
 - Editor map, ownership, stable IDs, and definition discipline: [doc_architecture.md](doc_architecture.md)
-- Reader-support pages and who each is for: this README (front door for everyone) · [START_HERE.md](START_HERE.md) (would-be adopters and operators) · [CONCEPTUAL_OVERVIEW.md](guides/CONCEPTUAL_OVERVIEW.md) (big-picture map, second step) · [RECORD_OVERVIEW.md](guides/RECORD_OVERVIEW.md) (record families, evidence, custody, challenge routes, and traceability)
+- Reader-support pages and who each is for: this README (front door for everyone) · [START_HERE.md](START_HERE.md) (would-be adopters and operators) · [CONCEPTUAL_OVERVIEW.md](guides/CONCEPTUAL_OVERVIEW.md) (big-picture map, second step) · [RECORD_OVERVIEW.md](guides/RECORD_OVERVIEW.md) (record families, evidence, custody, challenge routes, and traceability) · [PROCESSES_AND_INSTITUTIONS.md](guides/PROCESSES_AND_INSTITUTIONS.md) (each process and institution, its chapters, and the principles that bear on it)
 - Process map of certification, standing measurement, forums, and remedy: [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md)
 - Process guides (challenge, independent review, certification, help and harm, crisis clocks): [easy_entry process guides](implementation/adoption/easy_entry/README.md#process-guides)
 - Steward entry doors: [STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md)

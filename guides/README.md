@@ -6,3 +6,4 @@ Maps that help readers see how the Constitution fits together. They are help for
 |---|---|
 | [Big-picture overview](CONCEPTUAL_OVERVIEW.md) | How the aims, principles, rights, definitions, processes, forums, and governance connect (about 40 minutes; best after a first look) |
 | [Record overview](RECORD_OVERVIEW.md) | How constitutional records hold action accountable: record families, evidence, custody, and challenge routes |
+| [Processes and institutions](PROCESSES_AND_INSTITUTIONS.md) | Each constitutional process and each institution, where it lives, and the principles that bear on it most |
