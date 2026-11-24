@@ -1485,4 +1485,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **Nine hundred and ninety-eighth move (group the electorate roll rules; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): organize the list in [Subcore 7-A §4](subcore_07.010_electoral_office.md#4-the-electorate-roll) under eligibility and entries, access and corrections, and voting and safeguards. The existing rules and wording are unchanged.
 
+**Nine hundred and ninety-ninth move (group the voting and counting rules; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): organize the list in [Subcore 7-A §5](subcore_07.010_electoral_office.md#5-running-and-counting-votes) under access and equal treatment, and counting, results, and verification, with emergencies kept as a separate item. The existing rules and wording are unchanged.
+
 **Next file:** [README.md](README.md)

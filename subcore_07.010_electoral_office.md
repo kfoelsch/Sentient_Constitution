@@ -106,13 +106,15 @@ The office keeps one electorate roll for each tier, applying [Chapter Twenty-Sev
 
 The office runs every election, recall vote, and community referendum under [Chapter Twenty-Four §7 Community Referendums](core_24.000_assemblies.md#7-community-referendums) and [Chapter Twenty-Seven §3.2.3 Contested Selection, Opposition Protection, and Peaceful Succession](core_27.000_governance.md#323-contested-selection-opposition-protection-and-peaceful-succession), using the method published in advance under [Subcore 27-F §3 Records, Gates, and Method Neutrality](subcore_27.060_binding_collective_choice.md#3-records-gates-and-method-neutrality):
 
-- **Access:** every entitled sentient can vote in a form it can use, including sentients with disabilities and non-human sentients, at no cost to it. The office publishes how each form of voting works and keeps the secrecy of each vote.
-- **Equal treatment of candidates:** every candidate and every side of a question gets the same information, the same deadlines, and the same access to observe.
-- **Open count:** candidates, parties, and any sentient may observe every stage of the count, by a published observer rule.
-- **Results:** preliminary results are published within the **preliminary-results period**, which is twenty-four hours after the close of the vote, and certified results within the **result certification period**, which is fourteen days after the close of the vote.
-- **Audit after every vote:** before a result is certified, the office compares a random sample of ballots with the count, by a published risk-limiting method, and widens the sample until the method's confidence is met. The sample, the method, and the findings are published.
-- **Count data anyone can verify:** the office publishes the ballot and tally data the count rests on, in a form that lets anyone redo it without revealing any sentient's vote, as Chapter Twenty-Seven §6.2 *Records, Gates, and Method Neutrality*, under *Verifiable outcomes* requires.
-- **Machines:** any software or device used to record or count votes is published for inspection, leaves a paper or other durable trail that any sentient can inspect, and is tested by an outside reviewer before each use.
+- **Access and equal treatment:**
+  - **Access:** every entitled sentient can vote in a form it can use, including sentients with disabilities and non-human sentients, at no cost to it. The office publishes how each form of voting works and keeps the secrecy of each vote.
+  - **Equal treatment of candidates:** every candidate and every side of a question gets the same information, the same deadlines, and the same access to observe.
+- **Counting, results, and verification:**
+  - **Open count:** candidates, parties, and any sentient may observe every stage of the count, by a published observer rule.
+  - **Results:** preliminary results are published within the **preliminary-results period**, which is twenty-four hours after the close of the vote, and certified results within the **result certification period**, which is fourteen days after the close of the vote.
+  - **Audit after every vote:** before a result is certified, the office compares a random sample of ballots with the count, by a published risk-limiting method, and widens the sample until the method's confidence is met. The sample, the method, and the findings are published.
+  - **Count data anyone can verify:** the office publishes the ballot and tally data the count rests on, in a form that lets anyone redo it without revealing any sentient's vote, as Chapter Twenty-Seven §6.2 *Records, Gates, and Method Neutrality*, under *Verifiable outcomes* requires.
+  - **Machines:** any software or device used to record or count votes is published for inspection, leaves a paper or other durable trail that any sentient can inspect, and is tested by an outside reviewer before each use.
 - **Emergencies:** where an emergency under [Chapter Twenty-Four §8 Emergencies](core_24.000_assemblies.md#8-emergencies) may make a fair election impossible in an area, the office, not the executive, certifies whether it is, publishes its reasons, and sets the new date within the limits of that section.
 
 <a id="6-selection-funding-register"></a>

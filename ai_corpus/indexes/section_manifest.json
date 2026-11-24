@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-24T22:08:01+00:00",
+  "generated_at": "2026-11-24T22:21:55+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 181,
@@ -1849,18 +1849,18 @@
       ]
     },
     "subcore_07.010_electoral_office.md": {
-      "total_lines": 167,
+      "total_lines": 169,
       "sections": [
-        {"header":"SUBCORE 7-A: ELECTORAL OFFICE","level":1,"line_start":2,"line_end":167,"anchor":"#subcore-7-a-electoral-office"},
+        {"header":"SUBCORE 7-A: ELECTORAL OFFICE","level":1,"line_start":2,"line_end":169,"anchor":"#subcore-7-a-electoral-office"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":20,"line_end":43,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why the Electoral Office Exists","level":3,"line_start":44,"line_end":66,"anchor":"#2-why-the-electoral-office-exists"},
         {"header":"3. Independence and Placement","level":3,"line_start":67,"line_end":80,"anchor":"#3-independence-and-placement"},
         {"header":"4. The Electorate Roll","level":3,"line_start":81,"line_end":102,"anchor":"#4-the-electorate-roll"},
-        {"header":"5. Running and Counting Votes","level":3,"line_start":103,"line_end":119,"anchor":"#5-running-and-counting-votes"},
-        {"header":"6. Selection-Funding Register","level":3,"line_start":120,"line_end":131,"anchor":"#6-selection-funding-register"},
-        {"header":"7. Public Draws","level":3,"line_start":132,"line_end":144,"anchor":"#7-public-draws"},
-        {"header":"8. Records, Accuracy, and Challenge","level":3,"line_start":145,"line_end":156,"anchor":"#8-records-accuracy-and-challenge"},
-        {"header":"9. Proportional Scaling","level":3,"line_start":157,"line_end":167,"anchor":"#9-proportional-scaling"}
+        {"header":"5. Running and Counting Votes","level":3,"line_start":103,"line_end":121,"anchor":"#5-running-and-counting-votes"},
+        {"header":"6. Selection-Funding Register","level":3,"line_start":122,"line_end":133,"anchor":"#6-selection-funding-register"},
+        {"header":"7. Public Draws","level":3,"line_start":134,"line_end":146,"anchor":"#7-public-draws"},
+        {"header":"8. Records, Accuracy, and Challenge","level":3,"line_start":147,"line_end":158,"anchor":"#8-records-accuracy-and-challenge"},
+        {"header":"9. Proportional Scaling","level":3,"line_start":159,"line_end":169,"anchor":"#9-proportional-scaling"}
       ]
     },
     "subcore_07.020_public_policy_office.md": {
