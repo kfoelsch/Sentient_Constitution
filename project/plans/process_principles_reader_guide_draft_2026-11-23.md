@@ -213,9 +213,13 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 ## Part 3. All 36 Process principles
 
-Grouped as in the first version of this draft. The crosswalk's Chapter Six numbers predate the 2026-11-20 reorganization and are matched here by title, and many tags are still provisional pending independent review.
+Grouped by what each principle asks of a process. The crosswalk's Chapter Six numbers predate the 2026-11-20 reorganization and are matched here by title, and many tags are still provisional pending independent review.
 
-### Before acting: deciding how far to go
+**How these connect to the aims and the Tetrad.** The [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims) say what every process is for: [Flourishing](../../core_00.000_preamble.md#flourishing), so that sentients can live well now, and [Continuity](../../core_00.000_preamble.md#continuity), so that what they rely on lasts. The [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad) says how a process must run to serve them: with [Participation](../../subcore_03.060_apex_participation_leg.md#participation), [Oversight](../../subcore_03.055_apex_oversight_leg.md#oversight), [Accountability](../../subcore_03.040_apex_accountability_leg.md#accountability), and [Timeliness](../../subcore_03.065_apex_timeliness_leg.md#timeliness). Each group below opens with the part of that model it carries. The links are a reading aid; the Preamble and the linked sections are what bind.
+
+### Acting only as far as needed
+
+These principles keep a process from doing more harm than its purpose needs. They serve [Flourishing](../../core_00.000_preamble.md#flourishing) by keeping restrictions light and reviewable, and [Oversight](../../subcore_03.055_apex_oversight_leg.md#oversight) by making every step rest on evidence that can be checked later, so that no one escapes a duty by relabeling or splitting an act.
 
 - [Chapter Two §7.1 Limitation Discipline](../../core_02.000_values_principles.md#71-limitation-discipline): a restriction must be needed, proved, proportionate, and overseen.
 - [Chapter Two §13.1 Core Tradeoff Principles](../../core_02.020_interaction_interpretation.md#131-core-tradeoff-principles): take the lightest step that works.
@@ -225,7 +229,9 @@ Grouped as in the first version of this draft. The crosswalk's Chapter Six numbe
 - [Chapter Two §15.1 Constitutional No-Bypass Principle](../../core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle): relabeling or rerouting an act does not escape its duties.
 - [Chapter Two §15.1.1 Anti-Segmentation Principle](../../core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle): splitting an act into pieces does not escape them either.
 
-### Who does what
+### Keeping the seats apart
+
+No one checks their own work. Separating the four seats of every binding act is the working form of [Oversight](../../subcore_03.055_apex_oversight_leg.md#oversight) and [Accountability](../../subcore_03.040_apex_accountability_leg.md#accountability), and it serves [Continuity](../../core_00.000_preamble.md#continuity) by making capture hard.
 
 - [Chapter Two §18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties): the actor is never the independent check on its own act.
 - [Chapter Six §2.1 Why Four Seats](../../core_06.000_functional_independence_separation_of_duties.md#21-why-four-seats): why every binding act has four seats.
@@ -236,7 +242,9 @@ Grouped as in the first version of this draft. The crosswalk's Chapter Six numbe
 - [Chapter Six §7.5 Informal and Community Work](../../core_06.000_functional_independence_separation_of_duties.md#75-informal-and-community-work): informal and community work gets a light independent check.
 - [Chapter Six §10 Relationship to Later Processes](../../core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes): every later process says which seat does what.
 
-### Doing it fairly and usably
+### Treating every sentient fairly and plainly
+
+A process only protects sentients who can reach it, understand it, and get through it with their dignity intact. These principles carry [Participation](../../subcore_03.060_apex_participation_leg.md#participation) and serve [Flourishing](../../core_00.000_preamble.md#flourishing) directly.
 
 - [Chapter Two §3.1.1 Access and Opportunity](../../core_02.000_values_principles.md#311-access-and-opportunity): access paths must be usable in practice.
 - [Chapter Two §3.1.3 Fair Treatment](../../core_02.000_values_principles.md#313-fair-treatment): same rules, given reasons, and a review.
@@ -247,19 +255,25 @@ Grouped as in the first version of this draft. The crosswalk's Chapter Six numbe
 - [Chapter Two §16.5 Automation](../../core_02.040_stewardship_capacity_principles.md#165-automation): let systems do the determinate steps; judgment stays with sentients.
 - [Chapter Two §3.2.4 Preference-Aligned Recognition](../../core_02.000_values_principles.md#324-preference-aligned-recognition): the form and visibility of recognition follow the sentient's preference.
 
-### Keeping the record
+### Recording what was done, and by whom
+
+A record made when an act happens is what lets anyone check it and challenge it later. These principles carry [Accountability](../../subcore_03.040_apex_accountability_leg.md#accountability) and make [Oversight](../../subcore_03.055_apex_oversight_leg.md#oversight) possible.
 
 - [Chapter Two §16.4 Document at Action](../../core_02.040_stewardship_capacity_principles.md#164-document-at-action): record a binding act when it happens.
 - [Chapter Two §17.3 Logging the Role, Not the Steward](../../core_02.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward): log the role, not the steward.
 - [Chapter Six §9 Act Records and Attributable Handoffs](../../core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs): act records name who held each seat and where a challenge goes.
 - [Chapter Two §13.2 Epistemic Disclosure Constraints](../../core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints): restrict disclosure little, briefly, on the record, and release after.
 
-### Under pressure
+### Holding firm under pressure
+
+Emergencies and unlawful orders are when processes are most tempted to cut corners. These principles carry [Timeliness](../../subcore_03.065_apex_timeliness_leg.md#timeliness), by letting urgent action move fast without changing who answers for it, and protect [Continuity](../../core_00.000_preamble.md#continuity).
 
 - [Chapter Six §8 Emergency and Urgent Action](../../core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action): an emergency changes the order of steps, not who owns each seat.
 - [Chapter Two §17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist): refuse, document, and escalate an unconstitutional order.
 
-### Checking and correcting
+### Finding and fixing what went wrong
+
+Processes fail, and outcomes can be overstated or captured. These principles carry [Oversight](../../subcore_03.055_apex_oversight_leg.md#oversight) and [Timeliness](../../subcore_03.065_apex_timeliness_leg.md#timeliness), so that a failure is detected and repaired in time, and serve [Continuity](../../core_00.000_preamble.md#continuity) by correcting course before harm becomes lasting.
 
 - [Chapter Two §6.1 Correction and Remedy](../../core_02.000_values_principles.md#61-correction-and-remedy): acknowledge, correct, and repair in time.
 - [Chapter Two §19.3 Misalignment Detection](../../core_02.050_governance_incentive_application.md#193-misalignment-detection): independent ways to detect misalignment.
