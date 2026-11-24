@@ -189,13 +189,21 @@ A tax break meant to attract or keep investment, production, or jobs must also m
 
 Tax competition is the practice of each polity or tier lowering what it asks of business in order to draw activity from the others, so that all end with less revenue for the same activity and the burden moves to those who cannot move. The floor below applies to every tax on the profits of a business, whatever the general rate, base, or tax breaks the assembly chooses:
 
-- **The floor:** the taxes on profits that every tier of the polity levies, taken together, bring each business's **effective tax rate** in the polity for each tax period to at least the **profits-tax floor**. **Default:** the profits-tax floor is fifteen percent. It is a minimum, not a recommended rate; each assembly sets its rates under [§3 Tests Every Tax Must Pass](#3-tests-every-tax-must-pass) and [§4.1 Revenue Priorities](#41-revenue-priorities).
-- **How the rate is measured:** the effective tax rate is the tax on profits paid to every tier of the polity for the tax period, divided by the business's profit for the same period as shown in its financial accounts, counting together every entity of the same group in the polity. A business with no profit for the period owes nothing under the floor.
-- **Every route counts:** the floor holds whether a business falls below it through a low general rate, a narrow base, generous deductions, a tax break, or a tax incentive under [§4.6 Tax Incentives](#46-tax-incentives).
-- **Top-up:** where a business's effective tax rate falls below the profits-tax floor, the revenue office collects the difference as a top-up tax. Every polity that taxes profits enacts the top-up by general rule.
-- **Payable credits count as grants:** a credit that is paid out in cash within the **payable-credit period**, which is four years from when it is earned, whether or not tax is owed, is treated, when the floor is measured, as a grant and not as a cut in tax. It is reported as spending in the budget.
-- **Outside the floor:** the floor does not apply to a taxpayer using the simplified small-taxpayer method of [§4.2 Preferred Designs](#42-preferred-designs), or to a sentient taxed on business income under the one income tax.
-- **Shared minimum agreements:** a polity joins, and collects top-up tax under, any agreement among polities that sets a minimum tax on profits at or above the profits-tax floor, and never sets its own floor lower than such an agreement.
+- **The floor:**
+  - **A minimum rate:** the taxes on profits that every tier of the polity levies, taken together, bring each business's **effective tax rate** in the polity for each tax period to at least the **profits-tax floor**. **Default:** the profits-tax floor is fifteen percent.
+  - **Every route counts:** the floor holds whether a business falls below it through a low general rate, a narrow base, generous deductions, a tax break, or a tax incentive under [§4.6 Tax Incentives](#46-tax-incentives).
+  - **A minimum, not a target:** each assembly sets its rates under [§3 Tests Every Tax Must Pass](#3-tests-every-tax-must-pass) and [§4.1 Revenue Priorities](#41-revenue-priorities). The floor does not recommend a rate.
+- **Measuring the rate:**
+  - **Effective tax rate:** the tax on profits paid to every tier of the polity for the tax period, divided by the business's profit for the same period as shown in its financial accounts.
+  - **The whole group:** every entity of the same group in the polity is counted together.
+  - **No profit, nothing owed:** a business with no profit for the period owes nothing under the floor.
+  - **Payable credits count as grants:** a credit that is paid out in cash within the **payable-credit period**, which is four years from when it is earned, whether or not tax is owed, is treated as a grant and not as a cut in tax when the floor is measured. It is reported as spending in the budget.
+- **Holding the floor:**
+  - **Top-up:** where a business's effective tax rate falls below the profits-tax floor, the revenue office collects the difference as a top-up tax. Every polity that taxes profits enacts the top-up by general rule.
+  - **Shared minimum agreements:** a polity joins, and collects top-up tax under, any agreement among polities that sets a minimum tax on profits at or above the profits-tax floor, and never sets its own floor lower than such an agreement.
+- **Outside the floor:**
+  - **Small taxpayers:** a taxpayer using the simplified small-taxpayer method of [§4.2 Preferred Designs](#42-preferred-designs).
+  - **Sentients with business income:** a sentient taxed on business income under the one income tax of [§4.1 Revenue Priorities](#41-revenue-priorities).
 
 <a id="46-tax-incentives"></a>
 
@@ -203,31 +211,27 @@ Tax competition is the practice of each polity or tier lowering what it asks of 
 
 *In plain terms: tax incentives are allowed only to build strategic technologies and industries, never to bid for where a business sits, and none may take a business below the profits-tax floor.*
 
-A **tax incentive** is a tax break whose purpose is to attract, keep, or expand investment, production, research, or employment in the polity. Tax incentives are the main tool of tax competition. Every tax incentive is a tax break under [§4.4 Tax Breaks Under Review](#44-tax-breaks-under-review) and must also meet the rules below.
+A **tax incentive** is a tax break whose purpose is to attract, keep, or expand investment, production, research, or employment in the polity. Tax incentives are the main tool of tax competition. Every tax incentive is a tax break under [§4.4 Tax Breaks Under Review](#44-tax-breaks-under-review) and must also meet these rules:
 
-**Strategic purpose only:**
-
-- **A published list:** a tax incentive may support only a technology or industry on the assembly's **strategic-development list**, which the assembly enacts by general rule. Each entry states:
-  - the technology or industry, defined so that any taxpayer can tell whether its activity qualifies;
-  - why its development serves the [Flourishing](core_00.000_preamble.md#flourishing) or [Continuity](core_00.000_preamble.md#continuity) aim, such as clean energy, public-health capacity, supply of what the polity cannot safely do without, or research that markets underfund;
-  - why markets will not develop it enough without help, and why a tax incentive serves better than a grant, a loan, a public purchase, or a rule; and
-  - the measure of success and the date by which it should be met.
-- **Lapse:** each entry lapses with the tax incentives that rely on it at the end of the tax-break lapse period, unless renewed after the review in [§4.4 Tax Breaks Under Review](#44-tax-breaks-under-review).
-- **Not location alone:** drawing a business, its profits, or its headquarters to the polity, or keeping it from leaving, is never by itself a strategic purpose.
-
-**Within the floor:** no tax incentive, alone or combined with every other tax break, may bring a beneficiary below the profits-tax floor of [§4.5 The Profits Tax Floor](#45-the-profits-tax-floor), and the top-up there applies to it.
-
-**Designs that reward the work, not the location:**
-
-- **Tied to spending:** an incentive takes the form of a credit or a faster deduction for qualifying spending in the polity, such as research, equipment, or training for the strategic activity, and not a lower rate on profits.
-- **Income from research only in proportion:** a lower rate on income from patents or other intangible assets is allowed only on the share of that income that matches the qualifying research the taxpayer itself did in the polity.
-- **Open to all who qualify:** the incentive is available on the same terms to every taxpayer that does the qualifying activity, whether long established or new, and whatever its owners' residence. It is never negotiated with, or limited to, a single taxpayer.
-- **Kept if commitments are kept:** a taxpayer that does not keep the investment, research, or employment the incentive was granted for repays it, with interest, in proportion to the shortfall.
-- **Independent review first:** before the vote, an independent seat reviews and publishes an opinion on whether the incentive serves an entry on the strategic-development list at a reasonable cost, as for the designs in [§5.2 Allowed Only with Reasons and Review](#52-allowed-only-with-reasons-and-review). An incentive that meets this section meets [§5.2 Allowed Only with Reasons and Review](#52-allowed-only-with-reasons-and-review) for naming an industry.
-
-**Between tiers:**
-
-- **No bidding against each other:** no tier offers a tax incentive to draw an activity that already takes place in another tier of the same polity. Where an activity strategic to more than one tier needs support, the tiers agree one incentive under [Chapter Twenty-Four §4 Dividing Work Between Tiers](core_24.000_assemblies.md#4-dividing-work-between-tiers).
+- **Strategic purpose only:**
+  - **A published list:** a tax incentive may support only a technology or industry on the assembly's **strategic-development list**, which the assembly enacts by general rule. Each entry states:
+    - the technology or industry, defined so that any taxpayer can tell whether its activity qualifies;
+    - why its development serves the [Flourishing](core_00.000_preamble.md#flourishing) or [Continuity](core_00.000_preamble.md#continuity) aim, such as clean energy, public-health capacity, supply of what the polity cannot safely do without, or research that markets underfund;
+    - why markets will not develop it enough without help, and why a tax incentive serves better than a grant, a loan, a public purchase, or a rule; and
+    - the measure of success and the date by which it should be met.
+  - **Not location alone:** drawing a business, its profits, or its headquarters to the polity, or keeping it from leaving, is never by itself a strategic purpose.
+  - **Lapse:** each entry lapses with the tax incentives that rely on it at the end of the tax-break lapse period, unless renewed after the review in [§4.4 Tax Breaks Under Review](#44-tax-breaks-under-review).
+- **Form:**
+  - **Tied to spending:** an incentive takes the form of a credit or a faster deduction for qualifying spending in the polity, such as research, equipment, or training for the strategic activity, and not a lower rate on profits.
+  - **Income from research only in proportion:** a lower rate on income from patents or other intangible assets is allowed only on the share of that income that matches the qualifying research the taxpayer itself did in the polity.
+  - **Within the floor:** no tax incentive, alone or combined with every other tax break, may bring a beneficiary below the profits-tax floor of [§4.5 The Profits Tax Floor](#45-the-profits-tax-floor), and the top-up there applies to it.
+- **Fair terms:**
+  - **Open to all who qualify:** the incentive is available on the same terms to every taxpayer that does the qualifying activity, whether long established or new, and whatever its owners' residence.
+  - **No deals:** an incentive is never negotiated with, or limited to, a single taxpayer.
+  - **Kept if commitments are kept:** a taxpayer that does not keep the investment, research, or employment the incentive was granted for repays it, with interest, in proportion to the shortfall.
+- **Checks:**
+  - **Independent review first:** before the vote, an independent seat reviews and publishes an opinion on whether the incentive serves an entry on the strategic-development list at a reasonable cost. An incentive that passes this review meets [§5.2 Allowed Only with Reasons and Review](#52-allowed-only-with-reasons-and-review) for naming an industry.
+  - **No bidding between tiers:** no tier offers a tax incentive to draw an activity that already takes place in another tier of the same polity. Where an activity strategic to more than one tier needs support, the tiers agree one incentive under [Chapter Twenty-Four §4 Dividing Work Between Tiers](core_24.000_assemblies.md#4-dividing-work-between-tiers).
 
 <a id="5-barred-tax-policies"></a>
 
