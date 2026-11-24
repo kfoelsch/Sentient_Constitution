@@ -378,4 +378,4 @@ A process must leave room for new work to begin, for disagreement to be heard, a
 
 ## Where the tags come from
 
-Every item in Parts 3 and 4 comes from the [process, system, and institution crosswalk](../PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md). Part 3 lists the principles tagged mainly Process; Part 4 lists those tagged mainly something else but also Process. Principles with no Process aspect are left out.
+Every item in Parts 3 and 4 comes from the [process, system, and institution crosswalk](../PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md). Part 3 lists the principles tagged mainly Process; Part 4 lists those tagged mainly something else but also Process. The crosswalk tags 55 other principles as being only about a system (24), an institution (13), every object alike (11), or how to read the text (7), with no bearing on how a process runs. Those are not in this guide; the crosswalk lists them.
