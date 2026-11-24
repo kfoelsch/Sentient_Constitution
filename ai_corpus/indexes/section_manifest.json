@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-24T21:13:20+00:00",
+  "generated_at": "2026-11-24T22:36:48+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 181,
@@ -321,13 +321,13 @@
       ]
     },
     "core_07.000_independent_bodies.md": {
-      "total_lines": 234,
+      "total_lines": 235,
       "sections": [
-        {"header":"CHAPTER SEVEN: INDEPENDENT BODIES","level":1,"line_start":2,"line_end":234,"anchor":"#chapter-seven-independent-bodies"},
+        {"header":"CHAPTER SEVEN: INDEPENDENT BODIES","level":1,"line_start":2,"line_end":235,"anchor":"#chapter-seven-independent-bodies"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":33,"line_end":47,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why Independent Bodies Exist","level":3,"line_start":48,"line_end":75,"anchor":"#2-why-independent-bodies-exist"},
-        {"header":"3. What Makes a Body Independent","level":3,"line_start":76,"line_end":189,"anchor":"#3-what-makes-a-body-independent"},
-        {"header":"4. The Bodies This Constitution Creates","level":3,"line_start":190,"line_end":234,"anchor":"#4-the-bodies-this-constitution-creates"}
+        {"header":"3. What Makes a Body Independent","level":3,"line_start":76,"line_end":190,"anchor":"#3-what-makes-a-body-independent"},
+        {"header":"4. The Bodies This Constitution Creates","level":3,"line_start":191,"line_end":235,"anchor":"#4-the-bodies-this-constitution-creates"}
       ]
     },
     "core_08.000_system_alignment_certification_evaluation.md": {
@@ -1849,18 +1849,18 @@
       ]
     },
     "subcore_07.010_electoral_office.md": {
-      "total_lines": 164,
+      "total_lines": 169,
       "sections": [
-        {"header":"SUBCORE 7-A: ELECTORAL OFFICE","level":1,"line_start":2,"line_end":164,"anchor":"#subcore-7-a-electoral-office"},
+        {"header":"SUBCORE 7-A: ELECTORAL OFFICE","level":1,"line_start":2,"line_end":169,"anchor":"#subcore-7-a-electoral-office"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":20,"line_end":43,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why the Electoral Office Exists","level":3,"line_start":44,"line_end":66,"anchor":"#2-why-the-electoral-office-exists"},
         {"header":"3. Independence and Placement","level":3,"line_start":67,"line_end":80,"anchor":"#3-independence-and-placement"},
-        {"header":"4. The Electorate Roll","level":3,"line_start":81,"line_end":99,"anchor":"#4-the-electorate-roll"},
-        {"header":"5. Running and Counting Votes","level":3,"line_start":100,"line_end":116,"anchor":"#5-running-and-counting-votes"},
-        {"header":"6. Selection-Funding Register","level":3,"line_start":117,"line_end":128,"anchor":"#6-selection-funding-register"},
-        {"header":"7. Public Draws","level":3,"line_start":129,"line_end":141,"anchor":"#7-public-draws"},
-        {"header":"8. Records, Accuracy, and Challenge","level":3,"line_start":142,"line_end":153,"anchor":"#8-records-accuracy-and-challenge"},
-        {"header":"9. Proportional Scaling","level":3,"line_start":154,"line_end":164,"anchor":"#9-proportional-scaling"}
+        {"header":"4. The Electorate Roll","level":3,"line_start":81,"line_end":102,"anchor":"#4-the-electorate-roll"},
+        {"header":"5. Running and Counting Votes","level":3,"line_start":103,"line_end":121,"anchor":"#5-running-and-counting-votes"},
+        {"header":"6. Selection-Funding Register","level":3,"line_start":122,"line_end":133,"anchor":"#6-selection-funding-register"},
+        {"header":"7. Public Draws","level":3,"line_start":134,"line_end":146,"anchor":"#7-public-draws"},
+        {"header":"8. Records, Accuracy, and Challenge","level":3,"line_start":147,"line_end":158,"anchor":"#8-records-accuracy-and-challenge"},
+        {"header":"9. Proportional Scaling","level":3,"line_start":159,"line_end":169,"anchor":"#9-proportional-scaling"}
       ]
     },
     "subcore_07.020_public_policy_office.md": {
