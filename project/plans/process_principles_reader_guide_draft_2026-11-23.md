@@ -42,8 +42,8 @@ The twelve processes are grouped under six topics. Within each topic they keep c
   - [Chapter Two §5.1](../../core_02.000_values_principles.md#51-science-informed-inquiry-and-decision-support) (decisions rest on evidence and keep a record of it);
   - [Chapter Two §13.3](../../core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (remove steps that do no constitutional work);
   - [Chapter Two §16.5](../../core_02.040_stewardship_capacity_principles.md#165-automation) (let systems do the determinate steps; judgment stays with sentients);
-  - [Chapter Two §19.1.5](../../core_02.050_governance_incentive_application.md#1915-constitutional-outcome-claims-discipline) (claims of constitutional outcomes must be backed);
-  - [Chapter Two §19.5.3](../../core_02.050_governance_incentive_application.md#1953-market-signals-are-not-constitutional-proof) (market signals are not constitutional proof); and
+  - [Chapter Two §19.1.5](../../core_02.050_governance_incentive_application.md#1915-constitutional-outcome-claims-discipline) (a claim that an act achieved a constitutional outcome must be shown, not asserted);
+  - [Chapter Two §19.5.3](../../core_02.050_governance_incentive_application.md#1953-market-signals-are-not-constitutional-proof) (prices, odds, and pool sizes are not, by themselves, evidence of what is true or what this Constitution requires); and
   - [Chapter Six §9](../../core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (act records name who held each seat and where a challenge goes).
 
 #### 1.2.2 Certifying an institution
@@ -52,8 +52,8 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 - **What happens:** The same path for an institution, which also answers for the systems it runs and reopens them when its authority changes.
 - **Principles that bear most:**
   - [Chapter Two §5.1](../../core_02.000_values_principles.md#51-science-informed-inquiry-and-decision-support) (decisions rest on evidence and keep a record of it);
-  - [Chapter Two §19.3](../../core_02.050_governance_incentive_application.md#193-misalignment-detection) (independent ways to detect misalignment);
-  - [Chapter Two §19.3.1](../../core_02.050_governance_incentive_application.md#1931-capture-escalation-triggers) (what triggers a capture escalation);
+  - [Chapter Two §19.3](../../core_02.050_governance_incentive_application.md#193-misalignment-detection) (no one may be the only party able to spot, check, or challenge a failure; detection needs several independent routes and open data);
+  - [Chapter Two §19.3.1](../../core_02.050_governance_incentive_application.md#1931-capture-escalation-triggers) (signs of capture are escalated and proved, with the burden on whoever says there is none, not absorbed as business as usual);
   - [Chapter Two §13.2.4](../../core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (a proxy that has drifted from its purpose cannot justify a decision); and
   - [Chapter Six §9](../../core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (act records name who held each seat and where a challenge goes).
 
@@ -65,7 +65,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 - **What happens:** Three questions in order: what happened (a Standing Record), how good or bad it was (a slot on the LEQU scale), and what follows (recognition, remedy, locks, and restoration).
 - **Principles that bear most:**
   - [Chapter Two §16.4](../../core_02.040_stewardship_capacity_principles.md#164-document-at-action) (record a binding act when it happens);
-  - [Chapter Two §17.3](../../core_02.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward) (log the role, not the steward);
+  - [Chapter Two §17.3](../../core_02.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward) (audit follows the work a steward does in the role, which the steward is told about before taking it; outside the role, ordinary privacy holds);
   - [Chapter Two §3.1.3](../../core_02.000_values_principles.md#313-fair-treatment) (same rules, given reasons, and a review);
   - [Chapter Two §3.2.4](../../core_02.000_values_principles.md#324-preference-aligned-recognition) (the form and visibility of recognition follow the sentient's preference);
   - [Chapter Two §6.1](../../core_02.000_values_principles.md#61-correction-and-remedy) (acknowledge, correct, and repair in time); and
@@ -79,7 +79,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
   - [Chapter Two §3.1.3](../../core_02.000_values_principles.md#313-fair-treatment) (same rules, given reasons, and a review);
   - [Chapter Two §7.1](../../core_02.000_values_principles.md#71-limitation-discipline) (a restriction must be needed, proved, proportionate, and overseen);
   - [Chapter Two §15.1.1](../../core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle) (splitting an act into pieces does not escape them either); and
-  - [Chapter Two §19.3.1](../../core_02.050_governance_incentive_application.md#1931-capture-escalation-triggers) (what triggers a capture escalation).
+  - [Chapter Two §19.3.1](../../core_02.050_governance_incentive_application.md#1931-capture-escalation-triggers) (signs of capture are escalated and proved, with the burden on whoever says there is none, not absorbed as business as usual).
 
 ### 1.4 Forums and enforcement
 
@@ -101,7 +101,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 - **What happens:** An outcome is served, carried out by the least restrictive step that works, and reviewed. Special enforcement covers capture and resistance.
 - **Principles that bear most:**
   - [Chapter Two §7.1](../../core_02.000_values_principles.md#71-limitation-discipline) (a restriction must be needed, proved, proportionate, and overseen);
-  - [Chapter Two §13.1.5](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (constraints are least-restrictive, time-bounded, and reviewable);
+  - [Chapter Two §13.1.5](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (once a restriction is justified, give it a clock or review date, keep the route to challenge it, and say how it ends);
   - [Chapter Two §3.3](../../core_02.000_values_principles.md#33-anti-degrading-process) (no degrading treatment in governing, enforcing, judging, or remedying);
   - [Chapter Two §17.5](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (refuse, document, and escalate an unconstitutional order); and
   - [Chapter Six §8](../../core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) (an emergency changes the order of steps, not who owns each seat).
@@ -116,7 +116,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
   - [Chapter Two §3.1.1](../../core_02.000_values_principles.md#311-access-and-opportunity) (access paths must be usable in practice);
   - [Chapter Two §5.2](../../core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (rules, decisions, and notices in plain language);
   - [Chapter Two §13.1](../../core_02.020_interaction_interpretation.md#131-core-tradeoff-principles) (take the lightest step that works); and
-  - [Chapter Two §13.1.5](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (constraints are least-restrictive, time-bounded, and reviewable).
+  - [Chapter Two §13.1.5](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (once a restriction is justified, give it a clock or review date, keep the route to challenge it, and say how it ends).
 
 #### 1.5.2 Authorizing and steering a governing authority
 
@@ -126,8 +126,8 @@ The twelve processes are grouped under six topics. Within each topic they keep c
   - [Chapter Two §18.3](../../core_02.050_governance_incentive_application.md#183-separation-of-duties) (the actor is never the independent check on its own act);
   - [Chapter Two §13.2](../../core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) (restrict disclosure little, briefly, on the record, and release after);
   - [Chapter Two §13.2.4](../../core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (a proxy that has drifted from its purpose cannot justify a decision);
-  - [Chapter Two §19.3](../../core_02.050_governance_incentive_application.md#193-misalignment-detection) (independent ways to detect misalignment); and
-  - [Chapter Two §11.2.3](../../core_02.010_values_principles_continuity_aim.md#1123-remedies) (remedies for consolidation harms).
+  - [Chapter Two §19.3](../../core_02.050_governance_incentive_application.md#193-misalignment-detection) (no one may be the only party able to spot, check, or challenge a failure; detection needs several independent routes and open data); and
+  - [Chapter Two §11.2.3](../../core_02.010_values_principles_continuity_aim.md#1123-remedies) (where domination is shown, the response fits the harm and restores real choice, without punishing size for its own sake).
 
 ### 1.6 Changing and extending the Constitution
 
@@ -138,7 +138,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 - **Principles that bear most:**
   - [Chapter Two §15.1](../../core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (relabeling or rerouting an act does not escape its duties);
   - [Chapter Two §15.1.1](../../core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle) (splitting an act into pieces does not escape them either);
-  - [Chapter Two §13](../../core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (how to resolve a collision between constitutional duties); and
+  - [Chapter Two §13](../../core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (when two constitutional duties pull apart, the steps for deciding which gives way, and how far); and
   - [Chapter Two §5.2](../../core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (rules, decisions, and notices in plain language).
 
 #### 1.6.2 Expanding, ranking against other law, and incorporating
@@ -147,7 +147,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 - **What happens:** Protection may be added freely; these chapters set how this Constitution sits beside other legal orders and how an adopter incorporates it.
 - **Principles that bear most:**
   - [Chapter Two §15.1](../../core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (relabeling or rerouting an act does not escape its duties); and
-  - [Chapter Two §13](../../core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (how to resolve a collision between constitutional duties).
+  - [Chapter Two §13](../../core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (when two constitutional duties pull apart, the steps for deciding which gives way, and how far).
 
 **Under pressure, in every process:** [Chapter Six §8](../../core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) (an emergency changes the order of steps, not who owns each seat), and [Chapter Two §17.5](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (refuse, document, and escalate an unconstitutional order). Emergency measures keep the outer bounds of [Chapter Twenty-Three §5.1](../../core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden).
 
@@ -223,9 +223,9 @@ These principles keep a process from doing more harm than its purpose needs. The
 
 - [Chapter Two §7.1 Limitation Discipline](../../core_02.000_values_principles.md#71-limitation-discipline): a restriction must be needed, proved, proportionate, and overseen.
 - [Chapter Two §13.1 Core Tradeoff Principles](../../core_02.020_interaction_interpretation.md#131-core-tradeoff-principles): take the lightest step that works.
-- [Chapter Two §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle): constraints are least-restrictive, time-bounded, and reviewable.
+- [Chapter Two §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle): once a restriction is justified, give it a clock or review date, keep the route to challenge it, and say how it ends.
 - [Chapter Two §5.1 Science-Informed Inquiry and Decision Support](../../core_02.000_values_principles.md#51-science-informed-inquiry-and-decision-support): decisions rest on evidence and keep a record of it.
-- [Chapter Two §13 Constitutional Collision Resolution Process](../../core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process): how to resolve a collision between constitutional duties.
+- [Chapter Two §13 Constitutional Collision Resolution Process](../../core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process): when two constitutional duties pull apart, the steps for deciding which gives way, and how far.
 - [Chapter Two §15.1 Constitutional No-Bypass Principle](../../core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle): relabeling or rerouting an act does not escape its duties.
 - [Chapter Two §15.1.1 Anti-Segmentation Principle](../../core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle): splitting an act into pieces does not escape them either.
 
@@ -234,7 +234,7 @@ These principles keep a process from doing more harm than its purpose needs. The
 No one checks their own work. Separating the four seats of every binding act is the working form of [Oversight](../../subcore_03.055_apex_oversight_leg.md#oversight) and [Accountability](../../subcore_03.040_apex_accountability_leg.md#accountability), and it serves [Continuity](../../core_00.000_preamble.md#continuity) by making capture hard.
 
 - [Chapter Two §18.3 Separation of Duties](../../core_02.050_governance_incentive_application.md#183-separation-of-duties): the actor is never the independent check on its own act.
-- [Chapter Six §2.1 Why Four Seats](../../core_06.000_functional_independence_separation_of_duties.md#21-why-four-seats): why every binding act has four seats.
+- [Chapter Six §2.1 Why Four Seats](../../core_06.000_functional_independence_separation_of_duties.md#21-why-four-seats): two seats leave no one to keep the record or hear a complaint; four cover starting, checking, recording, and challenging an act.
 - [Chapter Six §3 Four-Seat Constitutional Requirement](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement): ask or act, check, keep the record, hear the challenge.
 - [Chapter Six §5 Wrong-Seat Routing](../../core_06.000_functional_independence_separation_of_duties.md#5-wrong-seat-routing): a request sent to the wrong seat is routed, not quietly taken.
 - [Chapter Six §6.4 Delegation](../../core_06.000_functional_independence_separation_of_duties.md#64-delegation): delegating keeps the seat boundaries.
@@ -260,7 +260,7 @@ A process only protects sentients who can reach it, understand it, and get throu
 A record made when an act happens is what lets anyone check it and challenge it later. These principles carry [Accountability](../../subcore_03.040_apex_accountability_leg.md#accountability) and make [Oversight](../../subcore_03.055_apex_oversight_leg.md#oversight) possible.
 
 - [Chapter Two §16.4 Document at Action](../../core_02.040_stewardship_capacity_principles.md#164-document-at-action): record a binding act when it happens.
-- [Chapter Two §17.3 Logging the Role, Not the Steward](../../core_02.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward): log the role, not the steward.
+- [Chapter Two §17.3 Logging the Role, Not the Steward](../../core_02.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward): audit follows the work a steward does in the role, which the steward is told about before taking it; outside the role, ordinary privacy holds.
 - [Chapter Six §9 Act Records and Attributable Handoffs](../../core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs): act records name who held each seat and where a challenge goes.
 - [Chapter Two §13.2 Epistemic Disclosure Constraints](../../core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints): restrict disclosure little, briefly, on the record, and release after.
 
@@ -276,12 +276,12 @@ Emergencies and unlawful orders are when processes are most tempted to cut corne
 Processes fail, and outcomes can be overstated or captured. These principles carry [Oversight](../../subcore_03.055_apex_oversight_leg.md#oversight) and [Timeliness](../../subcore_03.065_apex_timeliness_leg.md#timeliness), so that a failure is detected and repaired in time, and serve [Continuity](../../core_00.000_preamble.md#continuity) by correcting course before harm becomes lasting.
 
 - [Chapter Two §6.1 Correction and Remedy](../../core_02.000_values_principles.md#61-correction-and-remedy): acknowledge, correct, and repair in time.
-- [Chapter Two §19.3 Misalignment Detection](../../core_02.050_governance_incentive_application.md#193-misalignment-detection): independent ways to detect misalignment.
-- [Chapter Two §19.3.1 Capture Escalation Triggers](../../core_02.050_governance_incentive_application.md#1931-capture-escalation-triggers): what triggers a capture escalation.
+- [Chapter Two §19.3 Misalignment Detection](../../core_02.050_governance_incentive_application.md#193-misalignment-detection): no one may be the only party able to spot, check, or challenge a failure; detection needs several independent routes and open data.
+- [Chapter Two §19.3.1 Capture Escalation Triggers](../../core_02.050_governance_incentive_application.md#1931-capture-escalation-triggers): signs of capture are escalated and proved, with the burden on whoever says there is none, not absorbed as business as usual.
 - [Chapter Two §13.2.4 Proxy-Divergence Invalidation](../../core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation): a proxy that has drifted from its purpose cannot justify a decision.
-- [Chapter Two §19.1.5 Constitutional Outcome Claims Discipline](../../core_02.050_governance_incentive_application.md#1915-constitutional-outcome-claims-discipline): claims of constitutional outcomes must be backed.
-- [Chapter Two §19.5.3 Market Signals Are Not Constitutional Proof](../../core_02.050_governance_incentive_application.md#1953-market-signals-are-not-constitutional-proof): market signals are not constitutional proof.
-- [Chapter Two §11.2.3 Remedies](../../core_02.010_values_principles_continuity_aim.md#1123-remedies): remedies for consolidation harms.
+- [Chapter Two §19.1.5 Constitutional Outcome Claims Discipline](../../core_02.050_governance_incentive_application.md#1915-constitutional-outcome-claims-discipline): a claim that an act achieved a constitutional outcome must be shown, not asserted.
+- [Chapter Two §19.5.3 Market Signals Are Not Constitutional Proof](../../core_02.050_governance_incentive_application.md#1953-market-signals-are-not-constitutional-proof): prices, odds, and pool sizes are not, by themselves, evidence of what is true or what this Constitution requires.
+- [Chapter Two §11.2.3 Remedies](../../core_02.010_values_principles_continuity_aim.md#1123-remedies): where domination is shown, the response fits the harm and restores real choice, without punishing size for its own sake.
 
 ## Not included
 
