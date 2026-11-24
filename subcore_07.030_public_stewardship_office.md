@@ -7,7 +7,7 @@
 >
 > **Upstream:** [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) (*Public Stewardship Office*); [Chapter Twenty-Seven §5 Strategy, Stewardship Direction, and Ecosystem Value](core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate).
 > **Read with:** [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) (*Public Policy Office*); [Chapter Five §5.1 What a System Charter States](core_05.000_charters.md#51-what-a-system-charter-states) (item 11, *Stewardship planning and evaluation*).
-> **Downstream:** adopted implementation text that sets the outlook template, the risk-register fields, the plan and report templates, the fund's share of public spending, the incentive and grant rules, and the submission procedure.
+> **Downstream:** adopted implementation text that sets the outlook template, the risk-register fields, the plan and report templates, the form of the strategic-development list, the fund's share of public spending, the incentive and grant rules, and the submission procedure.
 
 </details>
 
@@ -24,7 +24,7 @@
 
 **Purpose:** Subcore 7-C makes sure that long-term risks, commitments, and opportunities are seen and weighed when decisions are made today, and that future generations have a voice when those decisions are made.
 
-**Role:** Subcore 7-C is the constitutional owner of the **Long-Term Outlook**, **stewardship guidance**, **stewardship plans and progress reports**, the **Stewardship Fund**, and **future-generations submissions**. Where it sits:
+**Role:** Subcore 7-C is the constitutional owner of the **Long-Term Outlook**, **stewardship guidance**, the **strategic-development list**, **stewardship plans and progress reports**, the **Stewardship Fund**, and **future-generations submissions**. Where it sits:
 
 - [Chapter Twenty-Seven §5 Strategy, Stewardship Direction, and Ecosystem Value](core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) puts the duty of stewardship on those who govern. This office informs that duty and holds public bodies to account for planning against it; it does not take it over.
 - The [Subcore 7-B Public Policy Office](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) evaluates one proposal at a time. This office looks across all policy and over a longer horizon. For a proposal with long-horizon or irreversible effects, the two publish one combined evaluation.
@@ -34,7 +34,7 @@
 **Scope:** The office:
 
 - publishes the Long-Term Outlook (§4 *Long-Term Outlook*) and keeps the Long-Term Risk Register (§5 *Long-Term Risk Register*);
-- issues stewardship guidance and assesses the governing authority's response (§6 *Stewardship Guidance and the Governing Authority's Response*);
+- issues stewardship guidance, including the strategic-development list, and assesses the governing authority's response (§6 *Stewardship Guidance and the Governing Authority's Response*);
 - requires stewardship plans and yearly progress reports from public bodies and from every system or institution of Class C or higher, public or private, and reviews and publishes them (§7 *Stewardship Plans and Progress Reports*);
 - runs the Stewardship Fund: incentives for technological, ecological, and social improvement, public education and advocacy on the long term, and grants for basic research (§8 *Stewardship Fund: Improvement Incentives, Public Education, and Basic Research*);
 - prepares the long-horizon section of Public Policy Office evaluations (§9 *Long-Horizon Review of Proposals*); and
@@ -143,6 +143,7 @@ The office tracks the risks that the outlook names:
 The office turns the outlook into guidance, and the governing authority answers it:
 
 - **Guidance:** with each Yearly Stewardship Report, the office publishes or updates its stewardship guidance: the long-term priorities it judges most important and the options for meeting them. Guidance binds no one.
+- **Strategic-development list:** with the guidance, the office publishes the strategic-development list: the technologies and industries whose development the outlook shows will serve the Flourishing or Continuity aim and that markets will not develop enough without help. It is the only list a tax incentive may support under [Subcore 24-A §4.6 Tax Incentives](subcore_24.010_taxation.md#46-tax-incentives), which sets what each entry states and how it is reviewed and withdrawn.
 - **Response:** the governing authority's published strategy under [Chapter Twenty-Seven §5 Strategy, Stewardship Direction, and Ecosystem Value](core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) states, for each item of guidance, whether it adopts it, adapts it, or declines it, with reasons. The response is published with the public bodies' plans on the second date of the planning cycle under §7.3 (*The Yearly Planning Cycle*).
 - **Progress assessment:** each Yearly Stewardship Report assesses how far the governing authority's strategy, and the plans and reports of the previous cycle, are meeting the long-term risks in the register.
 - **Contestability:** a failure to publish a response is a procedural failure that may be challenged under [Chapter Twenty-Seven §3.1.4 Contestation, Correction, and Pluralism](core_27.000_governance.md#314-contestation-correction-and-pluralism). The merits of a response are for the public and the authorizing community to judge, not the office.
@@ -427,7 +428,7 @@ The office coordinates with other bodies but directs none of them:
     - direct how any institution, system, or sentient carries out its work.
 - **Inside the office:** it plans and runs its own work, including the Stewardship Fund's programs.
 - An incentive is an offer, never a duty. No one is penalized for declining one, and no public body may make an incentive a condition of any right or service.
-- Its guidance is advice. No rule, contract, or funding decision may treat it as a command.
+- Its guidance is advice. No rule, contract, or funding decision may treat it as a command. The one exception is the strategic-development list, which limits what a tax incentive may support under [Subcore 24-A §4.6 Tax Incentives](subcore_24.010_taxation.md#46-tax-incentives). It requires no one to offer an incentive.
 - More than one long-term strategy can be legitimate. The office's guidance never limits the pluralism protected by [Chapter Twenty-Seven §3.1.4 Contestation, Correction, and Pluralism](core_27.000_governance.md#314-contestation-correction-and-pluralism).
 
 <a id="12-records-accuracy-and-challenge"></a>
