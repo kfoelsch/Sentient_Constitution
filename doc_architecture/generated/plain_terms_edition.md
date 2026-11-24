@@ -6052,7 +6052,7 @@ if the law of the land (or a treaty) is tougher than this **Constitution** on pr
 
 ##### 5.3 Conflict Disclosure and Mitigation
 
-when outside requirements and constitutional floors seem impossible to square, say so on the official record, tell **affected** **stakeholders** where it makes sense, try to sequence harm down — and never use the conflict as cover to comply only where it is easy or to dodge rights.
+when outside requirements and constitutional floors seem impossible to square, say so on the official record, tell **affected** **stakeholders** where it makes sense, try to sequence harm down — and never use the conflict as cover to comply only where it is easy or to dodge rights. If outside law targets an identity or conduct this Constitution protects, do not voluntarily help enforce it; challenge and narrow a conflicting binding demand through available lawful means.
 
 [Source](../../core_30.000_expansion_supremacy.md#53-conflict-disclosure-and-mitigation)
 

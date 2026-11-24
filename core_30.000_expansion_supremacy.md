@@ -181,13 +181,17 @@ Where valid external law, regulation, or treaty obligation applicable to the ado
 
 <br>
 
-*In plain terms: when outside requirements and constitutional floors seem impossible to square, say so on the official record, tell **affected** **stakeholders** where it makes sense, try to sequence harm down — and never use the conflict as cover to comply only where it is easy or to dodge rights.*
+*In plain terms: when outside requirements and constitutional floors seem impossible to square, say so on the official record, tell **affected** **stakeholders** where it makes sense, try to sequence harm down — and never use the conflict as cover to comply only where it is easy or to dodge rights. If outside law targets an identity or conduct this Constitution protects, do not voluntarily help enforce it; challenge and narrow a conflicting binding demand through available lawful means.*
 
 Where external requirements appear irreconcilable with constitutional Rights Floors or non-negotiable principle constraints, adopters must document the conflict. They must:
 
 - notify materially affected stakeholders where appropriate.
 - pursue feasible harmonization and least-harm sequencing.
 - **not** treat external norms as a pretext for selective compliance, forum shopping, reincorporation arbitrage, or evasion of Rights-Floor obligations.
+
+**External prohibitions on protected characteristics or conduct.** An external prohibition or penalty does not by itself make a [Protected Characteristic](subcore_03.090_band_participation.md#protected-characteristics) or conduct protected by this Constitution a constitutional violation. This includes, for example, sexual orientation and consensual same-sex relationships where protected by this Constitution.
+
+An adopter must not voluntarily discriminate against, punish, report, or assist external enforcement against a covered sentient on the ground of such a characteristic or protected conduct. Where a binding external demand requires action that conflicts with these protections, the adopter must document and review the demand under this section, exhaust available lawful challenges and means of narrowing it, protect sensitive information, and pursue the least harmful available course. Constitutional review and remedy pathways remain available under [§6.2 Preserved Internal Review Pathways](#62-preserved-internal-review-pathways). This rule does not itself displace applicable external law or guarantee protection from action by external authorities, as provided in [§7.1 Non-Displacement and Limited Binding Effect](#71-non-displacement-and-limited-binding-effect).
 
 Cross-jurisdiction coordination and anti-evasion execution follow **[CS-4.320](corpus_systems/cs_04.320_justice_safeguards_restitution_rehabilitation.md#cs-4320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*), including [§9 Cross-Jurisdiction Execution and Anti-Evasion Controls](corpus_systems/cs_04.320_justice_safeguards_restitution_rehabilitation.md#cs-4320-9-cross-jurisdiction-execution-and-anti-evasion-controls). Execution also follows [Chapter Nineteen §5 — *Enforcement realism*](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems), where applicable.
 
