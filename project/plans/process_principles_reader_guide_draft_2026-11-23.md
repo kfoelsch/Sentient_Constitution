@@ -2,7 +2,7 @@
 
 **Status:** draft for the custodian, **non-normative**. It is a reading aid, not constitutional text, and it changes, narrows, or ranks nothing. It answers the TODO item *Decide whether to gather scattered Process principles in a non-normative reader guide*. Publishing it, and where, is the custodian's decision.
 
-**How it is organized.** Revised the same day at the custodian's request ("broken down by constitutional process and institution"). Part 1 groups the constitutional processes under six topics and, for each process, says where it lives and what happens in one line, and names the Process principles that bear on it most. Part 2 takes each institution and lists the processes it runs or answers to. Part 3 keeps all 36 Process principles from the [process, system, and institution crosswalk](../PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) in one list. Which principles bear most on a process is a reading choice, not a ranking; every principle binds every process it reaches, and the linked sections are what bind.
+**How it is organized.** Revised the same day at the custodian's request ("broken down by constitutional process and institution"). Part 1 groups the constitutional processes under six topics and, for each process, says where it lives and what happens in one line, and names the Process principles that bear on it most. Part 2 takes each institution and lists the processes it runs or answers to. Part 3 keeps all 36 Process principles from the [process, system, and institution crosswalk](../PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) in one list, and Part 4 adds the 38 principles that are mainly about something else but also govern how a process runs. Which principles bear most on a process is a reading choice, not a ranking; every principle binds every process it reaches, and the linked sections are what bind.
 
 ## Part 1. By constitutional process
 
@@ -283,6 +283,66 @@ Processes fail, and outcomes can be overstated or captured. These principles car
 - [Chapter Two §19.5.3 Market Signals Are Not Constitutional Proof](../../core_02.050_governance_incentive_application.md#1953-market-signals-are-not-constitutional-proof): prices, odds, and pool sizes are not, by themselves, evidence of what is true or what this Constitution requires.
 - [Chapter Two §11.2.3 Remedies](../../core_02.010_values_principles_continuity_aim.md#1123-remedies): where domination is shown, the response fits the harm and restores real choice, without punishing size for its own sake.
 
-## Not included
+## Part 4. Principles mainly about something else, with a process side
 
-Items whose primary object is a system or an institution, or that bind every object equally (Fairness, Truth, Freedom), are left out even where the crosswalk gives them a Process aspect. A finished guide could add them as a second list.
+The crosswalk tags these principles as mainly about a system, an institution, or every object alike, but notes that each also governs how a process runs. They are listed here so the guide covers every principle with a Process aspect. Their tags are provisional, as the crosswalk says, and the Chapter Six numbers have been matched by title to the current text.
+
+### Values that bind every process
+
+These are floors, not steps. They carry both aims, [Flourishing](../../core_00.000_preamble.md#flourishing) and [Continuity](../../core_00.000_preamble.md#continuity), and every leg of the Tetrad, so no process may trade them away.
+
+- [Chapter Two §3.1 Fairness](../../core_02.000_values_principles.md#31-fairness): a process gives real access, uses reasons it can defend, and does not leave some sentients carrying costs others avoid.
+- [Chapter Two §5 Truth (Epistemic Integrity Constraint)](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint): no step may deceive or mislead, and high-impact decisions rest on honest evidence, stated methods, and admitted uncertainty.
+- [Chapter Two §7.5 Expression and the Harm Line](../../core_02.000_values_principles.md#75-expression-and-the-harm-line): words, policies, and designs are protected as expression, but a process that uses them to harm or harass is judged by what it does.
+- [Chapter Two §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](../../core_02.020_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process): some things a process may never take away permanently, and some ways of carrying it out are always off-limits.
+
+### How the systems a process runs on must behave
+
+These keep the systems behind a process honest, open, and correctable. They mainly serve [Continuity](../../core_00.000_preamble.md#continuity), and they make [Oversight](../../subcore_03.055_apex_oversight_leg.md#oversight) possible.
+
+- [Chapter Two §6 Trust and Trustworthiness (Coordination Integrity)](../../core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity): reliance on a process must be earned by how it actually behaves, not by spin, secrecy, or hidden transfers of risk.
+- [Chapter Two §16.3 Openness Aspiration](../../core_02.040_stewardship_capacity_principles.md#163-openness-aspiration): where safety and confidentiality allow, processes are open by default: inspectable, verifiable, and possible to leave.
+- [Chapter Two §19.1 Alignment Requirement](../../core_02.050_governance_incentive_application.md#191-alignment-requirement): the incentives acting on whoever runs a process must point the same way as this Constitution's values and constraints.
+- [Chapter Two §19.2 Convenient Proxies and Proxy Divergence](../../core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence): a process must not reward hitting a convenient target where the target predictably conflicts with the real outcome.
+- [Chapter Two §19.4 Misalignment Correction and Capture Response](../../core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response): once misalignment or capture is found, the process is actually fixed: bad incentives changed and concentrated control constrained.
+- [Chapter Two §9.2 Constitutional Efficiency](../../core_02.010_values_principles_continuity_aim.md#92-constitutional-efficiency): more real benefit for each hour of sentient time and effort, without cutting corners on rights, truth, safety, or ecology.
+- [Chapter Two §12 Systemic Evaluation Requirement](../../core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement): claims about a process are checked against what the whole system does over time, not a slogan or a snapshot.
+- [Chapter Two §18.6 Standardization](../../core_02.050_governance_incentive_application.md#186-standardization): if there is no good reason to do a step differently, use the common, published way; a difference needs a reason.
+- [Chapter Two §3.1.4 Unfair Treatment](../../core_02.000_values_principles.md#314-unfair-treatment): unfair treatment may not hide behind technical language, neutral labels, or automated decisions.
+- [Chapter Two §3.2.2 Celebration of Success](../../core_02.000_values_principles.md#322-celebration-of-success): recognition goes to traceable, non-misleading accomplishment, not to claims that cannot be checked.
+- [Chapter Two §5.2.4 Complexity-as-Defeat Discipline](../../core_02.000_values_principles.md#524-complexity-as-defeat-discipline): complicated language, confusing procedures, or deliberate obscurity may not be used to stop sentients from contesting a decision.
+- [Chapter Two §9.1.1 Preserve, Expand, and What Does Not Count](../../core_02.010_values_principles_continuity_aim.md#911-preserve-expand-and-what-does-not-count): keep the capacity to get things done, and grow it where that saves time, but not by hoarding, faking numbers, or shifting harm.
+- [Chapter Two §11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_02.010_values_principles_continuity_aim.md#1111-concentration-threshold-triggers-adopter-tunable): published thresholds mark when concentration needs heightened review, intervention, or a structural remedy.
+- [Chapter Two §13.2.2 Trust-Truth Alignment](../../core_02.020_interaction_interpretation.md#1322-trust-truth-alignment): where trust and truth pull apart, truth wins; disclosure is managed with care, never suppressed for stability.
+- [Chapter Two §15.1.2 Derived-Information Principle](../../core_02.030_constitutional_interpretation.md#1512-derived-information-principle): information is protected by what it reveals, so combining harmless-looking pieces does not escape a requirement.
+
+### Who may run a process, and how they are placed
+
+These set who holds each seat, how small groups may share seats, and what stewards owe the sentients a process touches. They carry [Accountability](../../subcore_03.040_apex_accountability_leg.md#accountability) and [Participation](../../subcore_03.060_apex_participation_leg.md#participation).
+
+- [Chapter Two §7.3 Dissent and Peaceful Protest](../../core_02.000_values_principles.md#73-dissent-and-peaceful-protest): a single-sentient or small business may place a seat with a cooperative, association, or other independent body.
+- [Chapter Two §17.2 Alignment under Pressure](../../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure): what counts is how stewards run a process when staying aligned costs them something.
+- [Chapter Two §18.4 Ongoing Justification](../../core_02.050_governance_incentive_application.md#184-ongoing-justification): key rules on who decides, who has a say, and how money is allocated are rechecked on a schedule, against standards others can see and challenge.
+- [Chapter Six §4 Independence, Conflict, and Control Lines](../../core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines): independence is judged by who can direct, remove, reward, or overrule a reviewer on the act, not by labels.
+- [Chapter Six §6 Published Placement, Vacancy, and Substitution](../../core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution): say who holds each seat before the hard case arrives, including who takes over when the holder is absent or conflicted.
+- [Chapter Six §7 Proportional Scaling and Merged Hosting](../../core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting): small groups need a real independent check, a usable record, and a challenge path; scale changes the staffing, not the separation.
+- [Chapter Two §17.7 Duty to Represent Stakeholder Interests](../../core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests): stewards run a process for the sentients it touches: weighing their real interests, hearing their concerns, and answering them.
+- [Chapter Six §6.1 What the Map Must Say](../../core_06.000_functional_independence_separation_of_duties.md#61-what-the-map-must-say): every adopter of Class L or higher publishes a Charter Role Map that places each seat, and keeps it auditable and contestable.
+- [Chapter Six §6.2 Where the Map Is Kept](../../core_06.000_functional_independence_separation_of_duties.md#62-where-the-map-is-kept): the map is kept with the System Charter or Institutional Charter.
+- [Chapter Six §6.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve](../../core_06.000_functional_independence_separation_of_duties.md#63-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve): an unplaced seat, or a holder who is absent, excluded, captured, or conflicted, is a defect to log and correct.
+- [Chapter Six §7.2 Merging Two Seats in One Office](../../core_06.000_functional_independence_separation_of_duties.md#72-merging-two-seats-in-one-office): a small adopter may place two seats in one office only where every listed safeguard holds.
+- [Chapter Six §7.3 Seats Held in Common](../../core_06.000_functional_independence_separation_of_duties.md#73-seats-held-in-common): a single-sentient or small business may place a seat with a cooperative, association, or other independent body.
+- [Chapter Six §7.4 Joint Professional Practice](../../core_06.000_functional_independence_separation_of_duties.md#74-joint-professional-practice): a small practice may place its seats with a host and adopt the host's documents.
+- [Chapter Six §7.6 Stake, Class, and What Does Not Justify a Merger](../../core_06.000_functional_independence_separation_of_duties.md#76-stake-class-and-what-does-not-justify-a-merger): the higher the stakes, the stronger the expectation of separate offices and a qualified backup for each job.
+- [Chapter Two §3.2.7 Implementation Layer](../../core_02.000_values_principles.md#327-implementation-layer): ceremonies, curricula, budgets, programs, and metrics are set in each adopter's implementation, not in this Constitution.
+- [Chapter Two §7.2.1 Aligned Self-Organization](../../core_02.000_values_principles.md#721-aligned-self-organization): credible work gets a real procedural path to start without a sponsor, but the path is not power over others.
+- [Chapter Two §19.1.4 Role-Depth and Material-Responsibility Pathways](../../core_02.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways): those who run a process need real roles with real skill and real say, not titles or committees that cannot change anything.
+- [Chapter Two §19.5.2 Who Decides Outcomes](../../core_02.050_governance_incentive_application.md#1952-who-decides-outcomes): whoever decides whether an outcome was reached must not be capturable.
+
+### Reading the text
+
+- [Chapter Two §5.2.3 Definitional Rigor Preserved](../../core_02.000_values_principles.md#523-definitional-rigor-preserved): plain language never softens a definition; the defined terms still control.
+
+## Where the tags come from
+
+Every item in Parts 3 and 4 comes from the [process, system, and institution crosswalk](../PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md). Part 3 lists the principles tagged mainly Process; Part 4 lists those tagged mainly something else but also Process. Principles with no Process aspect are left out.
