@@ -334,24 +334,43 @@ These keep a system able to do its work without waste, judge it by what the whol
 
 These set who holds each seat, how small groups may share seats, and what stewards owe the sentients a process touches. They carry [Accountability](../../subcore_03.040_apex_accountability_leg.md#accountability) and [Participation](../../subcore_03.060_apex_participation_leg.md#participation).
 
-- [Chapter Two §7.3 Dissent and Peaceful Protest](../../core_02.000_values_principles.md#73-dissent-and-peaceful-protest): a single-sentient or small business may place a seat with a cooperative, association, or other independent body.
-- [Chapter Two §17.2 Alignment under Pressure](../../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure): what counts is how stewards run a process when staying aligned costs them something.
-- [Chapter Two §18.4 Ongoing Justification](../../core_02.050_governance_incentive_application.md#184-ongoing-justification): key rules on who decides, who has a say, and how money is allocated are rechecked on a schedule, against standards others can see and challenge.
+#### Independence and the seat map
+
+A process is only as independent as the sentients who hold its seats. These say what independence means in practice and require the seats to be named in advance.
+
 - [Chapter Six §4 Independence, Conflict, and Control Lines](../../core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines): independence is judged by who can direct, remove, reward, or overrule a reviewer on the act, not by labels.
 - [Chapter Six §6 Published Placement, Vacancy, and Substitution](../../core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution): say who holds each seat before the hard case arrives, including who takes over when the holder is absent or conflicted.
-- [Chapter Six §7 Proportional Scaling and Merged Hosting](../../core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting): small groups need a real independent check, a usable record, and a challenge path; scale changes the staffing, not the separation.
-- [Chapter Two §17.7 Duty to Represent Stakeholder Interests](../../core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests): stewards run a process for the sentients it touches: weighing their real interests, hearing their concerns, and answering them.
 - [Chapter Six §6.1 What the Map Must Say](../../core_06.000_functional_independence_separation_of_duties.md#61-what-the-map-must-say): every adopter of Class L or higher publishes a Charter Role Map that places each seat, and keeps it auditable and contestable.
 - [Chapter Six §6.2 Where the Map Is Kept](../../core_06.000_functional_independence_separation_of_duties.md#62-where-the-map-is-kept): the map is kept with the System Charter or Institutional Charter.
 - [Chapter Six §6.3 A Seat the Map Leaves Unplaced, or a Holder Who Cannot Serve](../../core_06.000_functional_independence_separation_of_duties.md#63-a-seat-the-map-leaves-unplaced-or-a-holder-who-cannot-serve): an unplaced seat, or a holder who is absent, excluded, captured, or conflicted, is a defect to log and correct.
+- [Chapter Two §19.5.2 Who Decides Outcomes](../../core_02.050_governance_incentive_application.md#1952-who-decides-outcomes): whoever decides whether an outcome was reached must not be capturable.
+
+#### Small groups and shared seats
+
+Small and informal groups may share or merge seats, but only with safeguards that keep a real check, a record, and a challenge route.
+
+- [Chapter Six §7 Proportional Scaling and Merged Hosting](../../core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting): small groups need a real independent check, a usable record, and a challenge path; scale changes the staffing, not the separation.
 - [Chapter Six §7.2 Merging Two Seats in One Office](../../core_06.000_functional_independence_separation_of_duties.md#72-merging-two-seats-in-one-office): a small adopter may place two seats in one office only where every listed safeguard holds.
 - [Chapter Six §7.3 Seats Held in Common](../../core_06.000_functional_independence_separation_of_duties.md#73-seats-held-in-common): a single-sentient or small business may place a seat with a cooperative, association, or other independent body.
 - [Chapter Six §7.4 Joint Professional Practice](../../core_06.000_functional_independence_separation_of_duties.md#74-joint-professional-practice): a small practice may place its seats with a host and adopt the host's documents.
 - [Chapter Six §7.6 Stake, Class, and What Does Not Justify a Merger](../../core_06.000_functional_independence_separation_of_duties.md#76-stake-class-and-what-does-not-justify-a-merger): the higher the stakes, the stronger the expectation of separate offices and a qualified backup for each job.
-- [Chapter Two §3.2.7 Implementation Layer](../../core_02.000_values_principles.md#327-implementation-layer): ceremonies, curricula, budgets, programs, and metrics are set in each adopter's implementation, not in this Constitution.
-- [Chapter Two §7.2.1 Aligned Self-Organization](../../core_02.000_values_principles.md#721-aligned-self-organization): credible work gets a real procedural path to start without a sponsor, but the path is not power over others.
+
+#### Stewards and what they owe
+
+Stewards run processes for the sentients those processes touch. These set what they owe them and how the rules stewards work under are kept honest.
+
+- [Chapter Two §17.2 Alignment under Pressure](../../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure): what counts is how stewards run a process when staying aligned costs them something.
+- [Chapter Two §17.7 Duty to Represent Stakeholder Interests](../../core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests): stewards run a process for the sentients it touches: weighing their real interests, hearing their concerns, and answering them.
 - [Chapter Two §19.1.4 Role-Depth and Material-Responsibility Pathways](../../core_02.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways): those who run a process need real roles with real skill and real say, not titles or committees that cannot change anything.
-- [Chapter Two §19.5.2 Who Decides Outcomes](../../core_02.050_governance_incentive_application.md#1952-who-decides-outcomes): whoever decides whether an outcome was reached must not be capturable.
+- [Chapter Two §18.4 Ongoing Justification](../../core_02.050_governance_incentive_application.md#184-ongoing-justification): key rules on who decides, who has a say, and how money is allocated are rechecked on a schedule, against standards others can see and challenge.
+
+#### Room to start, dissent, and adapt
+
+A process must leave room for new work to begin, for disagreement to be heard, and for each adopter to fill in its own details.
+
+- [Chapter Two §7.2.1 Aligned Self-Organization](../../core_02.000_values_principles.md#721-aligned-self-organization): credible work gets a real procedural path to start without a sponsor, but the path is not power over others.
+- [Chapter Two §7.3 Dissent and Peaceful Protest](../../core_02.000_values_principles.md#73-dissent-and-peaceful-protest): a single-sentient or small business may place a seat with a cooperative, association, or other independent body.
+- [Chapter Two §3.2.7 Implementation Layer](../../core_02.000_values_principles.md#327-implementation-layer): ceremonies, curricula, budgets, programs, and metrics are set in each adopter's implementation, not in this Constitution.
 
 ### Reading the text
 
