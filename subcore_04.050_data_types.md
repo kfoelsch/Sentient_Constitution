@@ -173,12 +173,13 @@ Each type belongs to one **access-posture band**. Bands define shared default ac
 
 **Privacy discipline in the restricted and non-accessible bands.** [Chapter Two §13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination) applies most directly to the **restricted by default** and **non-accessible by default** bands. Its disciplines are [Necessity](subcore_03.070_band_accountability.md#necessity), [Proportionality](subcore_03.070_band_accountability.md#proportionality), minimization, and [Consent](subcore_03.090_band_participation.md#consent) or other adequate authority. Band rules carry out those disciplines. They do not replace the [privacy homes](#privacy-link) named on each type.
 
-**Protective storage and key custody.**
+**Protective storage, transmission, and key custody.**
 
-*In plain terms: restricted data stays encrypted wherever it is kept, is opened only inside the part of the system that needs it, and its keys go only to that part. The owner can still keep a plain copy of their own, and audit, export, and lawful-override routes keep working.*
+*In plain terms: restricted data stays encrypted wherever it is kept and while it travels between systems or components, is opened only inside the part of the system that needs it, and its keys go only to that part. The owner can still keep a plain copy of their own, and audit, export, and lawful-override routes keep working.*
 
 Systems holding data in the **restricted by default** or **non-accessible by default** band must:
 - keep it **encrypted in storage**, including backups, caches, logs, swap, and crash dumps
+- keep it **encrypted in transit** between systems or components
 - **decrypt it only** inside the process or component that needs it for the justified purpose, and hold plaintext in memory no longer than that purpose requires, with memory isolation or protection proportionate to system class under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*)
 - **limit encryption keys** to the processes that need direct access to the data, enforced by the platform layer (operating system, hypervisor, runtime, or hardware) and kept separate from the data they protect
 - keep **audit, export, and lawful-override** paths working through logged, authorized use of keys, not through bypass or undisclosed key escrow
