@@ -538,6 +538,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action) — materially relevant action traceable to identifiable responsible actors.
 - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity) — attribution chains resistant to obscuring, ambiguity, tampering, and repudiation.
 - [Record Integrity](subcore_03.070_band_accountability.md#record-integrity) — official records that stay attributable, versioned, preserved, reconstructable, reachable, and independent of the sentient or system whose act they record.
+- [Publication Integrity](subcore_03.070_band_accountability.md#publication-integrity) — a proposal for a binding act published complete, specific, on the official record path, and in time for those affected to answer before the decision.
 - [Negligence](subcore_03.070_band_accountability.md#negligence) — reasonably avoidable failures of care that produce material harm.
 - [Collective Accountability Failure](subcore_03.070_band_accountability.md#collective-accountability-failure) — care failures under diffused or collective responsibility.
 - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation) — acknowledgment and proportionate correction.
@@ -547,7 +548,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 - [Force Majeure](subcore_03.070_band_accountability.md#force-majeure) — exceptional external disruptions.
 - [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) — named form of System Capture addressing outcome-determination mechanisms.
 
-*Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Attributable Action](subcore_03.070_band_accountability.md#attributable-action), [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity), [Record Integrity](subcore_03.070_band_accountability.md#record-integrity), [Contestability](subcore_03.070_band_accountability.md#contestability), [Due Process](subcore_03.070_band_accountability.md#due-process), [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution), [Formation Check](subcore_03.070_band_accountability.md#formation-check), [Negligence](subcore_03.070_band_accountability.md#negligence), [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation), [Remediation Readiness](subcore_03.070_band_accountability.md#remediation-readiness), [Remedy System](subcore_03.070_band_accountability.md#remedy-system), [Restorative Justice](subcore_03.070_band_accountability.md#restorative-justice), and [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) below.
+*Measurements (family routing):* Measured under the Accountability measurement family and Timeliness measurement family. Find the concrete measures on [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), [Attributable Action](subcore_03.070_band_accountability.md#attributable-action), [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity), [Record Integrity](subcore_03.070_band_accountability.md#record-integrity), [Publication Integrity](subcore_03.070_band_accountability.md#publication-integrity), [Contestability](subcore_03.070_band_accountability.md#contestability), [Due Process](subcore_03.070_band_accountability.md#due-process), [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional), [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution), [Formation Check](subcore_03.070_band_accountability.md#formation-check), [Negligence](subcore_03.070_band_accountability.md#negligence), [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation), [Remediation Readiness](subcore_03.070_band_accountability.md#remediation-readiness), [Remedy System](subcore_03.070_band_accountability.md#remedy-system), [Restorative Justice](subcore_03.070_band_accountability.md#restorative-justice), and [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) below.
 
 ---
 
@@ -655,8 +656,9 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
   - [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (6.000 §9);
   - [Chapter Ten §3](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3);
-  - [Chapter Fourteen §6.4 Versioning](core_14.000_standing_assessment.md#64-versioning) (14.000 §6.4) and [§7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); and
-  - [Chapter Twenty-Two §5 Forum Cases: Intakes, Seats, Records, and Contests](core_22.000_forum.md#5-forum-cases-intakes-seats-records-and-contests) (22.000 §5).
+  - [Chapter Fourteen §6.4 Versioning](core_14.000_standing_assessment.md#64-versioning) (14.000 §6.4) and [§7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
+  - [Chapter Twenty-Two §5 Forum Cases: Intakes, Seats, Records, and Contests](core_22.000_forum.md#5-forum-cases-intakes-seats-records-and-contests) (22.000 §5); and
+  - [Chapter Twenty-Nine §7 Procedural Test 3](core_29.000_amendment_ratification.md#7-procedural-test-3--authority-chain-and-custody-validity) (29.000 §7) (*the records of a proposed amendment*).
 - Read with:
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action),
   - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity),
@@ -665,7 +667,8 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Record Custodian](subcore_03.070_band_accountability.md#record-custodian),
   - [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation),
   - [Auditability](subcore_03.085_band_oversight.md#auditability),
-  - [Transparency](subcore_03.085_band_oversight.md#transparency), and
+  - [Transparency](subcore_03.085_band_oversight.md#transparency),
+  - [Publication Integrity](subcore_03.070_band_accountability.md#publication-integrity) (*the proposal before the decision*), and
   - [Contestability](subcore_03.070_band_accountability.md#contestability).
 
 </details>
@@ -710,6 +713,55 @@ Most disputes about responsibility turn on a few words: was the action necessary
 
 ---
 
+<a id="publication-integrity-constitutional"></a>
+
+#### Publication Integrity
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Downstream:
+  - [Chapter Twenty-Nine §6 Procedural Test 2](core_29.000_amendment_ratification.md#6-procedural-test-2--procedural-validity-and-publication-integrity) (29.000 §6) (*a proposed amendment*) and [§3.2 Proposal, Hearing, and Comment Window](core_29.000_amendment_ratification.md#32-proposal-hearing-and-comment-window) (29.000 §3.2);
+  - [Subcore 7-B §6 Timing, Response, and No Veto](subcore_07.020_public_policy_office.md#6-timing-response-and-no-veto) (*an evaluation published before the decision*); and
+  - any other process that decides a proposed [materially binding act](subcore_03.070_band_accountability.md#materially-binding-act) after a public response.
+- Read with:
+  - [Record Integrity](subcore_03.070_band_accountability.md#record-integrity) (*the official record after the decision*),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Due Process](subcore_03.070_band_accountability.md#due-process),
+  - [Transparency](subcore_03.085_band_oversight.md#transparency),
+  - [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) (S3-C) traceability, and
+  - [CJS-0.105 §4 Time-Window Names](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-4-time-window-names).
+
+</details>
+
+<br>
+
+*In plain terms: before a binding decision that the public may respond to, the real proposal has to be out in the open: the exact text, what it changes and for whom, what it is expected to do, and how to object, early enough that those affected can actually answer. Shadow drafts and last-minute rewrites do not count. Record Integrity covers official records afterward; this covers the proposal beforehand.*
+
+- **What it is**
+  - **In scope:** The requirement that a proposal for a materially binding act, where the process that decides it is open to response from the public or from the sentients it affects, is published so that they can understand it and answer it before the decision. It has five parts:
+    - **Complete:** the publication states the exact text or terms proposed, the scope of the proposal, the provisions or rules it changes, who is likely to be affected and how, its expected effects, and the route to respond and to contest it. The owning process may add elements (for an amendment, the justification in [Chapter Twenty-Nine §5](core_29.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability)).
+    - **Specific:** it is detailed enough that an affected reader can tell what would change for them and can raise a concrete objection.
+    - **Timely:** it is published at least the named response window before the decision. The owning process names the window and scales it with materiality; the window may not be shorter than any floor the owning process or [CJS-0.105 §4 Time-Window Names](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-4-time-window-names) sets.
+    - **On the official record path:** it is published on the official record path the decision will rest on, and kept under [Record Integrity](subcore_03.070_band_accountability.md#record-integrity), so that what was proposed, when, and in what wording can be rebuilt later.
+    - **Current:** every later change to the proposal is published as a dated, recorded change. A material change restarts the response window from its date, unless the owning process sets a shorter window for the change that still allows a real answer.
+  - **Care scales** with the materiality of the act. A low-materiality matter may use a short notice and a short window. No scale removes the exact text, the recorded changes, or the route to respond for an act that is materially binding.
+  - **Out of scope:** Whether the proposal is right on the merits, who may decide it, and how responses are weighed. Those stay with the owning process. Emergency measures follow their own rules ([Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden)); this requirement applies in full to any decision to continue them or make them permanent. Material withheld under privacy, safety, or security rules is described but not shown, as [Record Integrity](subcore_03.070_band_accountability.md#record-integrity) provides for the view of an official record.
+<a id="publication-integrity-constitutional-a"></a>
+- **How to measure and assess**
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Participation measurement family](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — used together to test whether those affected could know and answer the proposal before it was decided.
+
+    **Primary assessment:** Compare what was decided with what was published, and when. Check that every element was published, that the text decided matches a published version, that each change was recorded with its date, and that the response window ran in full from the last material change. Ask whether an affected reader could have told from the publication alone what would change for them.
+  - **Secondary measure:** [Contestability](subcore_03.070_band_accountability.md#contestability), [Transparency](subcore_03.085_band_oversight.md#transparency), and [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) — co-measures that expose notice that exists on paper only.
+
+    **Secondary assessment:** Tell real notice from paper notice: a publication buried where those affected cannot find it, a summary that hides the operative text, a window that runs over a period when response is impractical, or a stream of small changes that together change the proposal without restarting the window.
+<a id="publication-integrity-constitutional-c"></a>
+- **What must hold**
+  - **Primary failure:** To decide a materially binding act on a proposal that was not published, on wording that differs materially from every published version, or before the response window has run; or to keep a shadow draft that is the real proposal.
+  - **Secondary failure:** A publication exists, but it is incomplete, too vague to answer, hard for those affected to reach, or changed without a recorded, dated version.
+
+---
+
 <a id="contestability"></a>
 
 #### Contestability
@@ -722,17 +774,22 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](subcore_03.040_apex_accountability_leg.md#accountability),
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
   - [Auditability](subcore_03.085_band_oversight.md#auditability),
-  - [Transparency](subcore_03.085_band_oversight.md#transparency), and
-  - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation).
+  - [Transparency](subcore_03.085_band_oversight.md#transparency),
+  - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation),
+  - [Publication Integrity](subcore_03.070_band_accountability.md#publication-integrity) (*being able to answer a proposal before it is decided*), and
+  - [Chapter Twenty-One §4.1 Rights-Floor Waivers and Unconstitutional Contract Terms](core_21.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms) (21.000 §4.1).
+- Downstream: [Chapter Twenty-Nine §8 Procedural Test 4](core_29.000_amendment_ratification.md#8-procedural-test-4--contestability-and-independent-review-validity) (29.000 §8) (*a proposed amendment*).
 
 </details>
 
 <br>
 
-*In plain terms: parties affected by a system or decision must have a real way to challenge it, get it reviewed, and seek correction and remedy.*
+*In plain terms: parties affected by a system or decision must have a real way to challenge it, get it reviewed, and seek correction and remedy. No one can be made to give up that right as the price of taking part, and where a rule calls for independent review, it has to actually happen.*
 
 - **What it is**
-  - **In scope:** The practical ability of affected parties to challenge system behavior or decisions, obtain review, seek correction, and use working remedy pathways to [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation).
+  - **In scope:** The practical ability of affected parties to challenge system behavior or decisions, obtain review, seek correction, and use working remedy pathways to [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation). It includes:
+    - **No waiver as the price of taking part:** access to a process, service, or participation is never conditioned on giving up a right to challenge, to audit, or to standing that this Constitution protects;
+    - **Independent review where required:** where a rule requires review by someone independent of the decision-maker, that review takes place and is not skipped, suppressed, or reduced to a formality.
   - **Out of scope:** mere complaint inbox not claimed as a review pathway, or ordinary feedback outside challenge, review, and correction.
 <a id="contestability-a"></a>
 - **How to measure and assess**
@@ -748,7 +805,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <a id="contestability-c"></a>
 - **What must hold**
   - **Primary failure:** The system lacks working ways to challenge, review, and correct decisions that are strong enough to support [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation). A challenge or review option that exists only as a label or paperwork and has no real effect in the situation being evaluated is also non-compliant.
-  - **Secondary failure:** Challenge pathways exist on paper, but [Dependency](subcore_03.075_band_continuity.md#dependency), capture, or access interference makes them unusable.
+  - **Secondary failure:** Challenge pathways exist on paper, but [Dependency](subcore_03.075_band_continuity.md#dependency), capture, or access interference makes them unusable; taking part is conditioned on waiving a protected right to challenge, audit, or standing; or independent review that a rule requires is skipped or suppressed.
   - **Tertiary failure:** The system treats a challenge process as sufficient merely because it exists on paper, even when it is reasonably clear that the process does not work in practice ([Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence)).
 
 ---

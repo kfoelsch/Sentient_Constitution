@@ -23,6 +23,7 @@ EXPECTED_TOPIC_GROUPS: dict[str, list[str]] = {
         "Attributable Action",
         "Attribution Integrity",
         "Record Integrity",
+        "Publication Integrity",
         "Contestability",
         "Adjudication and Dispute Resolution",
         "Due Process",

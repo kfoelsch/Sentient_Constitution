@@ -6,7 +6,7 @@
 > This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Seven](core_07.000_independent_bodies.md#chapter-seven-independent-bodies), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 7-B**. It was added on 2026-11-23.
 >
 > **Upstream:** [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) (*Public Policy Office*); [Chapter Twenty-Seven §5.3 Public Institutions Supporting Stewardship](core_27.000_governance.md#53-public-institutions-supporting-stewardship).
-> **Read with:** [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*), which prepares the long-horizon section of an evaluation.
+> **Read with:** [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*), which prepares the long-horizon section of an evaluation; [Chapter Twenty-Nine §5 Burden of Justification and Public Traceability](core_29.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability), which this office's evaluation of a proposed amendment serves (§4.7 *Proposed Amendments*).
 > **Downstream:** adopted implementation text that sets the evaluation template, the materiality threshold, the fee schedule for evaluation at cost, and the intake forms.
 
 </details>
@@ -36,6 +36,7 @@
 - evaluates proposals for binding policy that meet the materiality threshold in §4.1 (*The Materiality Threshold*), or are asked for under §4.2 (*Evaluation on Request*) and §4.3 (*Gap Questions*), and updates an evaluation when a proposal is materially amended (§6 *Timing, Response, and No Veto*);
 - evaluates, at cost, any proposal a sentient submits under §4.5 (*Evaluation at Cost*);
 - screens every proposal for constitutional alignment before a full evaluation, and declines a full evaluation of a proposal that plainly conflicts with this Constitution (§4.6 *Constitutional Alignment Screen*);
+- evaluates proposed amendments to this Constitution, so that the justification each proposer must give can be checked in public (§4.7 *Proposed Amendments*);
 - rates each sponsor's own impact statement (§5.2 *The Sponsor's Impact Statement*);
 - reviews adopted policy at its set review date;
 - publishes every evaluation and review with its data, methods, and confidence;
@@ -95,7 +96,7 @@ The office is an Independent Body and meets [Chapter Seven §3 What Makes a Body
 
 *In plain terms: every proposal that would make a real difference to many sentients, to rights, or to public money gets an evaluation before it is decided.*
 
-This section sets which proposals must be evaluated (§4.1 *The Materiality Threshold*), who may ask for an evaluation of any other proposal (§4.2 *Evaluation on Request*), how a question that uncovers a gap is handled (§4.3 *Gap Questions*), how emergency measures are evaluated (§4.4 *Emergency Measures*), how any sentient may have a proposal of their own evaluated at cost (§4.5 *Evaluation at Cost*), and the constitutional alignment screen that every proposal passes first (§4.6 *Constitutional Alignment Screen*).
+This section sets which proposals must be evaluated (§4.1 *The Materiality Threshold*), who may ask for an evaluation of any other proposal (§4.2 *Evaluation on Request*), how a question that uncovers a gap is handled (§4.3 *Gap Questions*), how emergency measures are evaluated (§4.4 *Emergency Measures*), how any sentient may have a proposal of their own evaluated at cost (§4.5 *Evaluation at Cost*), the constitutional alignment screen that every proposal passes first (§4.6 *Constitutional Alignment Screen*), and how proposed amendments to this Constitution are evaluated (§4.7 *Proposed Amendments*).
 
 <a id="41-the-materiality-threshold"></a>
 
@@ -188,6 +189,18 @@ Before any full evaluation, the office screens each proposal against this Consti
 - **Evaluation at cost:** for a proposal under §4.5 (*Evaluation at Cost*) found not aligned, the requester pays only the published cost of the screen.
 - **Kept honest:** every screen is published with its reasons, and the yearly accuracy report in §10 (*Records, Accuracy, and Challenge*) shows how Constitutional Forums decided the findings brought before them.
 
+<a id="47-proposed-amendments"></a>
+
+#### 4.7 Proposed Amendments
+
+A proposed amendment to this Constitution is a proposal for binding policy under this section. The office's evaluation is how the justification required by [Chapter Twenty-Nine §5 Burden of Justification and Public Traceability](core_29.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability) is tested in public:
+
+- **When:** an amendment is evaluated when it meets the threshold in §4.1 (*The Materiality Threshold*) or is asked for under §4.2 (*Evaluation on Request*). An amendment that restricts or conditions a right under the Chapter Four Rights Floor always meets the threshold.
+- **The proposer's justification:** the justification required by Chapter Twenty-Nine §5 (*Burden of Justification and Public Traceability*) serves as the sponsor's impact statement under §5.2 (*The Sponsor's Impact Statement*), and is rated in the same way.
+- **What it adds:** besides the contents in §5.1 (*Contents*), the evaluation states the office's view of the evidence for the proposer's claims of necessity and feasibility, and of the effects bearing on the non-regression constraints of [Chapter Twenty-Eight](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity).
+- **Screen:** the screen in §4.6 (*Constitutional Alignment Screen*) tests the amendment against the text it would leave in force, never against the text it proposes to change.
+- **Not a ruling on validity:** whether an amendment is valid under Chapter Twenty-Eight or Chapter Twenty-Nine is decided as those chapters set out. The evaluation is evidence for that decision, and §6 (*Timing, Response, and No Veto*) applies to it in full.
+
 <a id="5-what-an-evaluation-contains"></a>
 
 ### 5. What an Evaluation Contains
@@ -235,7 +248,7 @@ A proposal above the threshold comes with its sponsor's own account of what it w
 
 Each evaluation is timed to inform the decision, and the office advises without deciding:
 
-- **Before the decision:** the evaluation is published before the final decision, within the **evaluation period**, which is 60 days from the request, or 30 days for a short-form evaluation. The governing authority may not cut that time short by delaying the request.
+- **Before the decision:** the evaluation is published before the final decision, within the **evaluation period**, which is 60 days from the request, or 30 days for a short-form evaluation. The governing authority may not cut that time short by delaying the request. The evaluation is part of what is published about the proposal under [Publication Integrity](subcore_03.070_band_accountability.md#publication-integrity).
 - **Late evaluation:** if the office misses its time limit, the decision may go ahead. The record of the decision states that no evaluation was available, and the office publishes its evaluation as soon as it is done.
 - **Amended proposals:** when a proposal is amended after its evaluation in a way that would change a material finding, or that would itself meet the threshold in §4.1 (*The Materiality Threshold*), the sponsor notifies the office and the office publishes a short-form update, covering the amendment, within the **amendment update period**, which is 10 days. The final decision is not taken until the update is published or the amendment update period has passed. Amendments made together may be covered by one update.
 - **Response:** before or with the final decision, the governing authority publishes a reasoned response to each material finding: where it agrees, where it disagrees and why, and what it changed.

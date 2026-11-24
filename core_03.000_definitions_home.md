@@ -503,6 +503,7 @@ This directory lists **Definitions A-Z** and **Clusters A-Z** separately. Each v
 - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence)
 - [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm)
 - [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure)
+- [Publication Integrity](subcore_03.070_band_accountability.md#publication-integrity)
 - [Publication Truthfulness and Recklessness Floor](subcore_03.085_band_oversight.md#publication-truthfulness-and-recklessness-floor)
 - [Reasonably Foreseeable](subcore_03.085_band_oversight.md#reasonably-foreseeable)
 - [Recertification](subcore_03.075_band_continuity.md#recertification)

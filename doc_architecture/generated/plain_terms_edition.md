@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_30.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **599** of **1014** headings carry a gloss (59%).
+Coverage: **600** of **1025** headings carry a gloss (59%).
 
 ## Contents
 
@@ -48,7 +48,7 @@ Coverage: **599** of **1014** headings carry a gloss (59%).
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.040_rights_part_e.md` (13/14 glossed)
 - [CHAPTER TWENTY-SEVEN: CONSTITUTIONAL CONTRACT, LEGITIMACY, AUTHORIZATION, AND STEWARDSHIP](#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) — `core_27.000_governance.md` (15/32 glossed)
 - [CHAPTER TWENTY-EIGHT: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) — `core_28.000_non_regression.md` (7/8 glossed)
-- [CHAPTER TWENTY-NINE: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-nine-amendment-ratification-and-procedural-validity) — `core_29.000_amendment_ratification.md` (21/22 glossed)
+- [CHAPTER TWENTY-NINE: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-nine-amendment-ratification-and-procedural-validity) — `core_29.000_amendment_ratification.md` (22/33 glossed)
 - [CHAPTER THIRTY: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-thirty-expansion-supremacy-and-external-legal-orders) — `core_30.000_expansion_supremacy.md` (14/15 glossed)
 - [CHAPTER THIRTY-ONE: INCORPORATION BRIDGE](#chapter-thirty-one-incorporation-bridge) — `core_31.000_incorporation.md` (5/6 glossed)
 
@@ -5804,11 +5804,11 @@ this chapter does not sort offenses, score standing, or set sanctions; those bel
 
 ## CHAPTER TWENTY-NINE: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY
 
-Source file: [`core_29.000_amendment_ratification.md`](../../core_29.000_amendment_ratification.md) · 21/22 headings glossed
+Source file: [`core_29.000_amendment_ratification.md`](../../core_29.000_amendment_ratification.md) · 22/33 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
-a change can be substantively fine and still fail because of how it was made. This chapter is the procedural and paperwork spine for legitimate change, and it holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody that proves the text is the real one, and a contest path that works, so that independent reviewers and the public can challenge the change. A rights-affecting update must not snap irreversibly into place before those guardrails have actually run.
+a change can be substantively fine and still fail because of how it was made. This chapter is the procedural and paperwork spine for legitimate change, and it holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody that proves the text is the real one, and a contest path that works, so that independent reviewers and the public can challenge the change. A rights-affecting update must not snap irreversibly into place before those guardrails have actually run. Ticking procedural boxes cannot save a change that fails the substance check or the publication, custody, or contestability tests.
 
 [Source](../../core_29.000_amendment_ratification.md#1-purpose-role-and-scope)
 
@@ -5818,23 +5818,83 @@ a change can be right in substance and still fail if it was made in the dark. Th
 
 [Source](../../core_29.000_amendment_ratification.md#2-why-amendment-procedure-exists)
 
-#### 3. Heightened Review for Rights-Affecting Changes
+#### 3. Amendment Procedure Requirements
+
+amending has to follow a visible process — real notice, real chance to object, independence where the chapter demands it — and effect dates have to be honest records, not retroactive surprises hidden from affected stakeholders.
+
+[Source](../../core_29.000_amendment_ratification.md#3-amendment-procedure-requirements)
+
+##### 3.1 Scope of the Procedure
+
+one procedure amends the core files, the subcore, and the implementation text, and core text cannot be changed by slipping it into an implementation edit.
+
+[Source](../../core_29.000_amendment_ratification.md#31-scope-of-the-procedure)
+
+##### 3.2 Proposal, Hearing, and Comment Window
+
+anyone can put a change to this Constitution on the Forum Case Record. To get the Constitutional Forum to take it up, it needs backing: at least 1% of the sentients entitled to vote sign on, a majority of the members of any forum votes for it, a majority of the stewards of a Class A, B, or C system or institution does, or the body that governs the community that adopted the text formally proposes it by a recorded decision. Everyone then gets at least 30 days (the Tier C outer bound) after the last change to the wording to respond, and any edit to the wording restarts that window. Only then does the forum rule on whether the change weakens a protection, or is a correction of a real error in it.
+
+[Source](../../core_29.000_amendment_ratification.md#32-proposal-hearing-and-comment-window)
+
+###### 3.2.1 Proposal
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_29.000_amendment_ratification.md#321-proposal)
+
+###### 3.2.2 Hearing Gate
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_29.000_amendment_ratification.md#322-hearing-gate)
+
+###### 3.2.3 Counting Sign-Off
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_29.000_amendment_ratification.md#323-counting-sign-off)
+
+###### 3.2.4 Counting a Forum or Steward Majority
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_29.000_amendment_ratification.md#324-counting-a-forum-or-steward-majority)
+
+###### 3.2.5 Amendment Comment Window
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_29.000_amendment_ratification.md#325-amendment-comment-window)
+
+###### 3.2.6 Determination
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_29.000_amendment_ratification.md#326-determination)
+
+###### 3.2.7 Corrections
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_29.000_amendment_ratification.md#327-corrections)
+
+##### 3.3 Recorded Effectiveness
+
+effect follows what is honestly recorded on a stated date or event — secret patches or silent scope expansions do not count as valid constitutional amendments for supremacy purposes.
+
+[Source](../../core_29.000_amendment_ratification.md#33-recorded-effectiveness)
+
+#### 4. Heightened Review for Rights-Affecting Changes
 
 if you are changing something that touches rights, forums' paths, or integrity rules, expect a harder lane — independent eyes and a public, contestable official record before it counts as adopted.
 
-[Source](../../core_29.000_amendment_ratification.md#3-heightened-review-for-rights-affecting-changes)
+[Source](../../core_29.000_amendment_ratification.md#4-heightened-review-for-rights-affecting-changes)
 
-#### 4. Burden of Justification and Public Traceability
+#### 5. Burden of Justification and Public Traceability
 
-proposals have to show their work — who is affected, what might go wrong, and why the change still clears the non-regression bar — vague hand-waving about "necessity" is not enough.
+proposals have to show their work — who is affected, what might go wrong, and why the change still clears the non-regression bar — vague hand-waving about "necessity" is not enough. For any significant amendment, the independent Public Policy Office checks that work in public before the decision.
 
-[Source](../../core_29.000_amendment_ratification.md#4-burden-of-justification-and-public-traceability)
-
-#### 5. Validity-Floor Rule
-
-ticking procedural boxes cannot save a change that fails the substance check or the publication, custody, or contestability tests — "we voted" is not a magic spell.
-
-[Source](../../core_29.000_amendment_ratification.md#5-validity-floor-rule)
+[Source](../../core_29.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability)
 
 #### 6. Procedural Test 2 — Procedural Validity and Publication Integrity
 
@@ -5872,6 +5932,24 @@ when a change is declared invalid, treat it as void for constitutional purposes 
 
 [Source](../../core_29.000_amendment_ratification.md#11-invalid-change-handling-and-remediation-continuity)
 
+##### 11.1 Effect of an Invalidity Finding
+
+a change found invalid stops counting as constitutional law from the moment of that finding, and the decision says what it touched and what has to be put right.
+
+[Source](../../core_29.000_amendment_ratification.md#111-effect-of-an-invalidity-finding)
+
+##### 11.2 Remediation Plan
+
+after a finding of invalidity, the adopter publishes a plan with deadlines that brings back the protections the change removed, keeps the evidence, and gives those affected a fair way to a remedy.
+
+[Source](../../core_29.000_amendment_ratification.md#112-remediation-plan)
+
+##### 11.3 Serious-Misconduct Referral
+
+serious bad faith in making or adopting a change, such as deliberate deception or falsifying records, must be written up in a referral record and sent on.
+
+[Source](../../core_29.000_amendment_ratification.md#113-serious-misconduct-referral)
+
 #### 12. Ratification and Adoption
 
 claiming this constitution as a shield without a deliberate, documented adoption that matches impact and class — or letting new parties "join" in a way that strips **existing** **covered** **sentients** of floors — is exactly what these ratification rules forbid.
@@ -5902,35 +5980,23 @@ the adoption document records that an adopter adopted. Two more published docume
 
 [Source](../../core_29.000_amendment_ratification.md#124-adoption-transition-record-and-adoption-charter)
 
-#### 13. Amendment Procedure Requirements
+###### 12.4.1 Adoption Transition Record
 
-amending has to follow a visible process — real notice, real chance to object, independence where the chapter demands it — and effect dates have to be honest records, not retroactive surprises hidden from affected stakeholders.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_29.000_amendment_ratification.md#13-amendment-procedure-requirements)
+[Source](../../core_29.000_amendment_ratification.md#1241-adoption-transition-record)
 
-##### 13.1 Notice and Contest
+###### 12.4.2 Adoption Charter
 
-put amendments out early and clearly enough that **affected** **stakeholders** can actually respond, keep a durable record of participation and objections, and keep review independent where this chapter says so.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_29.000_amendment_ratification.md#131-notice-and-contest)
+[Source](../../core_29.000_amendment_ratification.md#1242-adoption-charter)
 
-##### 13.2 Recorded Effectiveness
+###### 12.4.3 Changes, Vacancies, and Review
 
-effect follows what is honestly recorded on a stated date or event — secret patches or silent scope expansions do not count as valid constitutional amendments for supremacy purposes.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_29.000_amendment_ratification.md#132-recorded-effectiveness)
-
-##### 13.3 Proposal, Hearing, and Comment Window
-
-anyone can put a change to this Constitution on the Forum Case Record. To get the Constitutional Forum to take it up, it needs backing: at least 1% of the sentients entitled to vote sign on, a majority of the members of any forum votes for it, a majority of the stewards of a Class A, B, or C system or institution does, or the governing authority puts it forward. Everyone then gets at least 30 days (the Tier C outer bound) after the last change to the wording to respond, and any edit to the wording restarts that window. Only then does the forum rule on whether the change weakens a protection, or is a correction of a real error in it.
-
-[Source](../../core_29.000_amendment_ratification.md#133-proposal-hearing-and-comment-window)
-
-#### 14. Owner Non-Relocation
-
-Chapter Twenty-Nine owns how amendments are published, chained, reviewed, and ratified — not numeric Contribution or Violation slots under the Chapter Fifteen §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale or Chapter Twenty anti-constitutional-misconduct designations; escalation wording here is routing, not a second accountability-disposition code.
-
-[Source](../../core_29.000_amendment_ratification.md#14-owner-non-relocation)
+[Source](../../core_29.000_amendment_ratification.md#1243-changes-vacancies-and-review)
 
 ## CHAPTER THIRTY: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS
 
@@ -6026,7 +6092,7 @@ Source file: [`core_31.000_incorporation.md`](../../core_31.000_incorporation.md
 
 #### 1. Purpose, Role, and Scope
 
-this section names the bridge: which implementation files can bind, how adoption makes them operative, and which exact edition and custody trail count. Later edits do not silently rewrite what was adopted; a newer draft changes obligations only through proper re-adoption under Chapter Twenty-Nine and this chapter. Pointing here, or to an incorporated file, invokes only the obligations inside the recorded adoption scope.
+this section names the bridge: which implementation files can bind, how adoption makes them operative, and which exact edition and custody trail count. Later edits do not silently rewrite what was adopted; a newer draft changes obligations only once it passes amendment under Chapter Twenty-Nine and takes effect in the adopter's adoption chain. Pointing here, or to an incorporated file, invokes only the obligations inside the recorded adoption scope.
 
 [Source](../../core_31.000_incorporation.md#1-purpose-role-and-scope)
 
@@ -6044,7 +6110,7 @@ treat designated **implementation text** files like versioned law libraries — 
 
 #### 4. Safeguards
 
-quietly swapping in a newer draft — or relabeling a real change as “just a clarification” — does not change what was adopted. Later revisions stay process-layer notes until a real re-adoption under Chapter Twenty-Nine and Chapter Thirty-One.
+quietly swapping in a newer draft — or relabeling a real change as “just a clarification” — does not change what was adopted. Later revisions stay process-layer notes until they pass amendment under Chapter Twenty-Nine and take effect in the adopter's adoption chain.
 
 [Source](../../core_31.000_incorporation.md#4-safeguards)
 

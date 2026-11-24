@@ -175,7 +175,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 
 *In plain terms: once certification and forums are really running, the cheapest way to cut repeat work is to assess a shared process once and let many systems rely on it. Make that the first reuse project of the first certification cycle. It is a goal, not a step on the ladder above, and it cannot start earlier.*
 
-**Status.** Outline only. Process support: not binding, not adopted, and it cannot narrow core text. Making it real changes what a certification can rest on, so it needs a core proposal ([Lane D](../../CONTRIBUTING.md#lane-d--core-text-proposals)) touching Chapter Eight and Chapter Twenty-Two, under [Chapter Twenty-Nine §3 heightened review](../../core_29.000_amendment_ratification.md#3-heightened-review-for-rights-affecting-changes). Until then, adopters use only the component findings in [CS-8.305 §7.10](../../corpus_systems/cs_08.305_system_classification_machinery.md#710-component-findings-within-the-system-classification-record).
+**Status.** Outline only. Process support: not binding, not adopted, and it cannot narrow core text. Making it real changes what a certification can rest on, so it needs a core proposal ([Lane D](../../CONTRIBUTING.md#lane-d--core-text-proposals)) touching Chapter Eight and Chapter Twenty-Two, under [Chapter Twenty-Nine §4 heightened review](../../core_29.000_amendment_ratification.md#4-heightened-review-for-rights-affecting-changes). Until then, adopters use only the component findings in [CS-8.305 §7.10](../../corpus_systems/cs_08.305_system_classification_machinery.md#710-component-findings-within-the-system-classification-record).
 
 **Why this goal first.**
 
