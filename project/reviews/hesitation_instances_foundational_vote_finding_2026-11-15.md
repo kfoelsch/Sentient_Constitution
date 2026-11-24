@@ -28,7 +28,7 @@ Read in full, not from the glosses:
 - [Article X-B](../../core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) and [Article VIII-C](../../core_04.010_rights_part_b.md#article-viii-c-derivation-instantiation-and-the-parent-system-relationship); the graduated-capability rule in Article VIII-D.
 - [Chapter Twenty-Eight §5.1](../../core_27.000_governance.md#51-entitlement-and-eligibility) and [§5.2](../../core_27.000_governance.md#52-records-gates-and-method-neutrality).
 - Chapter Five entries *Sentient*, *Contested-Sentient Life*, *Derived Sentient*, *Instantiation Consent*, and *Constitutional Community* in `core_05.055_band_participation.md`.
-- [Chapter Thirty §11](../../core_29.000_amendment_ratification.md#11-ratification-and-adoption).
+- [Chapter Thirty §11](../../core_29.000_amendment_ratification.md#12-ratification-and-adoption).
 
 Searched by keyword across every `core_*` file, the four `corpus_*` trees, and `implementation/`: instance, instantiation, copy, fork, merge, duplicate, individuation, distinct sentient, one vote, electorate, eligibility, dilution, manufactured support, demographic steering.
 

@@ -58,7 +58,7 @@ A change that strengthens a protection for one covered class while weakening it 
 - **Minimums first:** A change may never take any class below the minimum that a protection in [Chapter Twenty-Eight §3 Non-Regression Floor](core_28.000_non_regression.md#3-non-regression-floor) guarantees to every sentient. That is a material weakening for that class, whatever the change does for another class.
 - **Minority favored by default:** Above those minimums, the change fails if it weakens the protection of the minority class in order to strengthen it for another class. It does not fail under this rule if it weakens the protection of a class that is not the minority in order to strengthen it for the minority.
 - **Who the minority is:** [Minority](subcore_03.090_band_participation.md#minority) defines it: the class with less market or institutional power, presumed to include dependency-affected and high-risk groups and groups defined by a Protected Characteristic and exposed to disadvantage in the matter, and otherwise the smaller class, judged by real effects and not by labels.
-- **Overcoming the default:** The default may be set aside only where the published determination shows that the minority class keeps the core of the protection and is not materially worse off. The proposer must name the classes on each side in the justification required by [Chapter Twenty-Nine §4](core_29.000_amendment_ratification.md#4-burden-of-justification-and-public-traceability) (*Burden of Justification and Public Traceability*), and the **Constitutional Forum** decides under §4 (*Who Decides*).
+- **Overcoming the default:** The default may be set aside only where the published determination shows that the minority class keeps the core of the protection and is not materially worse off. The proposer must name the classes on each side in the justification required by [Chapter Twenty-Nine §5](core_29.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability) (*Burden of Justification and Public Traceability*), and the **Constitutional Forum** decides under §4 (*Who Decides*).
 
 <a id="4-who-decides"></a>
 
@@ -68,7 +68,7 @@ A change that strengthens a protection for one covered class while weakening it 
 
 Whether a change fails Substantive Test 1 is decided in public, by a forum, and not by the proposer:
 - **Decider:** Whether a proposed amendment fails Substantive Test 1 is decided by the **Constitutional Forum**, in a published determination with reasons under **Article XXVI-A** (*Bounded Interpretive Mandate and Public Reasons*);
-- **Timing:** The determination follows the amendment comment window in **Chapter Twenty-Nine §13.3** (*Proposal, Hearing, and Comment Window*);
+- **Timing:** The determination follows the amendment comment window in **Chapter Twenty-Nine §3.2** (*Proposal, Hearing, and Comment Window*);
 - **Review:** The determination is open to independent review under **Article XXVI-B** (*Challenge Rights and Independent Review*); and
 - **Proposer's statement:** A proposer's own statement that a change is not a weakening is an input to that determination, not the determination.
 

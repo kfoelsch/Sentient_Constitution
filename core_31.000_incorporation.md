@@ -86,7 +86,7 @@ Chapter Thirty-One is the constitutional owner of **the incorporation bridge**, 
 
 1. **Which** designated **implementation text** files can bind as incorporated implementation text.
 2. **How** adoption and custody make that text operative for an adopter.
-3. **What** happens when those files are edited later: an adopter's obligations stay as adopted until the change is validly amended under [Chapter Twenty-Nine §13 Amendment Procedure Requirements](core_29.000_amendment_ratification.md#13-amendment-procedure-requirements) and takes effect in that adopter's adoption chain.
+3. **What** happens when those files are edited later: an adopter's obligations stay as adopted until the change is validly amended under [Chapter Twenty-Nine §3 Amendment Procedure Requirements](core_29.000_amendment_ratification.md#3-amendment-procedure-requirements) and takes effect in that adopter's adoption chain.
 
 **Role:** This chapter is what makes the implementation files count. Where an adoption is valid:
 
@@ -149,7 +149,7 @@ Implementation text keeps improving, and adopters adopt it at different times. W
 
 This section sets out how incorporated text is pinned to editions, held in custody, and given operative effect:
 
-- **Edition pinning:** Incorporation by reference at constitutional scope is operative only for **adopted edition identifiers** and **effective dates** recorded explicitly in the adoption chain. For constitutional-scope purposes, the operative text of an incorporated implementation file is the text at the **adopted edition identifier**. That text is **not** the adopter’s current working copy, and it is **not** the latest revision published upstream simply because it is newest. A later edition becomes operative for an adopter only by amendment under **Chapter Twenty-Nine section 13**, on the effective date and edition identifier recorded in that adopter's adoption chain (**Chapter Twenty-Nine section 13.2**).
+- **Edition pinning:** Incorporation by reference at constitutional scope is operative only for **adopted edition identifiers** and **effective dates** recorded explicitly in the adoption chain. For constitutional-scope purposes, the operative text of an incorporated implementation file is the text at the **adopted edition identifier**. That text is **not** the adopter’s current working copy, and it is **not** the latest revision published upstream simply because it is newest. A later edition becomes operative for an adopter only by amendment under **Chapter Twenty-Nine section 3**, on the effective date and edition identifier recorded in that adopter's adoption chain (**Chapter Twenty-Nine section 3.3**).
 - **Custody chain:** Adopters must maintain an **auditable custody chain** for incorporated **implementation text** artifacts. Records must include:
   - edition identifier;
   - effective date;
@@ -197,13 +197,13 @@ This section sets out how incorporated text is pinned to editions, held in custo
 
 This section sets out the safeguards that protect incorporated text:
 
-- **No silent drift (anti-drift rule):** Post-adoption edits to implementation text files have **no constitutional effect** for an adopter unless validly amended under **Chapter Twenty-Nine section 13** and recorded in that adopter's adoption chain under this chapter. This rule applies to:
+- **No silent drift (anti-drift rule):** Post-adoption edits to implementation text files have **no constitutional effect** for an adopter unless validly amended under **Chapter Twenty-Nine section 3** and recorded in that adopter's adoption chain under this chapter. This rule applies to:
   - substantive revisions;
   - editorial compressions presented as non-substantive;
   - renumbering that changes binding cross-reference targets; and
   - silent edition-relabeling without adoption.
 
-    Later implementation-file revisions do **not** displace the adopted edition’s operative effect. They may be taken up by amendment under **Chapter Twenty-Nine section 13**; until that amendment takes effect for an adopter, they remain process-layer artifacts without constitutional effect for adopters bound to the earlier edition.
+    Later implementation-file revisions do **not** displace the adopted edition’s operative effect. They may be taken up by amendment under **Chapter Twenty-Nine section 3**; until that amendment takes effect for an adopter, they remain process-layer artifacts without constitutional effect for adopters bound to the earlier edition.
 
 - **Anti-evasion:** Calling a post-adoption edit any of the following does **not** make it count as non-substantive when the real constitutional effect is the same as a substantive change:
   - “clarification”;

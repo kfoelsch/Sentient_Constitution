@@ -297,7 +297,7 @@ An audit that can choose what to look at, or a system that can decide what is ma
   - [Article XI-B](core_04.010_rights_part_b.md#article-xi-b-expression) (*Expression*);
   - [Article XV-C](core_04.020_rights_part_c.md#article-xv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*);
   - [Chapter Twenty §6](core_20.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) (20.000 §6) (*Violation Axis Slot 7–9 Anti-Constitutional Designation*);
-  - [Chapter Twenty-Nine §3](core_29.000_amendment_ratification.md#3-heightened-review-for-rights-affecting-changes) (29.000 §3) (*Heightened Review for Rights-Affecting Changes*).
+  - [Chapter Twenty-Nine §4](core_29.000_amendment_ratification.md#4-heightened-review-for-rights-affecting-changes) (29.000 §4) (*Heightened Review for Rights-Affecting Changes*).
 
 </details>
 

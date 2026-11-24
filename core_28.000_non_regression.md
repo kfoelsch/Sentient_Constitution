@@ -148,7 +148,7 @@ Material weakening includes indirect narrowing through:
   - [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) non-negotiable principle constraints;
   - [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) legitimacy obligations;
   - [Article XXVI-A](core_04.030_rights_part_d.md#article-xxvi-a-bounded-interpretive-mandate-and-public-reasons) (*Bounded Interpretive Mandate and Public Reasons*) and [Article XXVI-B](core_04.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*) for the forum's determination and its review;
-  - [Chapter Twenty-Nine §13.3](core_29.000_amendment_ratification.md#133-proposal-hearing-and-comment-window) (29.000 §13.3) for how a proposal is brought to that forum.
+  - [Chapter Twenty-Nine §3.2](core_29.000_amendment_ratification.md#32-proposal-hearing-and-comment-window) (29.000 §3.2) for how a proposal is brought to that forum.
 
 </details>
 
@@ -228,7 +228,7 @@ While it is in doubt whether a change is valid, this chapter may impose immediat
   - [§5](#5-anti-evasion-clause) anti-evasion clause;
   - [Chapter Twenty-Nine §11](core_29.000_amendment_ratification.md#11-invalid-change-handling-and-remediation-continuity) referral-only discipline; and
   - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) and [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) canonical owners.
-- Downstream: [Chapter Twenty-Nine §14](core_29.000_amendment_ratification.md#14-owner-non-relocation) (29.000 §14) mirrored procedural-layer discipline; implementation text for review execution mechanics.
+- Downstream: implementation text for review execution mechanics.
 - Read with:
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation);
   - the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights);

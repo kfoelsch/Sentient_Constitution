@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** Term → one-sentence gloss → source. This is a locator, not a second dictionary. Where a gloss and the source differ, the source binds. Official meaning lives on the named Chapter Three home (and Preamble named terms where listed in the start list).
 
-Coverage: **0** of **319** registry terms carry a source gloss.
+Coverage: **0** of **320** registry terms carry a source gloss.
 
 ## Start here
 
@@ -263,6 +263,7 @@ Names someone would actually type. Each row points; it does not replace the defi
 | Proxy Divergence | *(no plain-terms gloss in source)* | [Source](../../subcore_03.085_band_oversight.md#proxy-divergence) |
 | Psychological Harm | *(no plain-terms gloss in source)* | [Source](../../subcore_03.070_band_accountability.md#psychological-harm) |
 | Public Oversight Baseline Disclosure | *(no plain-terms gloss in source)* | [Source](../../subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) |
+| Publication Integrity | *(no plain-terms gloss in source)* | [Source](../../subcore_03.070_band_accountability.md#publication-integrity) |
 | Publication Truthfulness and Recklessness Floor | *(no plain-terms gloss in source)* | [Source](../../subcore_03.085_band_oversight.md#publication-truthfulness-and-recklessness-floor) |
 | Reasonably Foreseeable | *(no plain-terms gloss in source)* | [Source](../../subcore_03.085_band_oversight.md#reasonably-foreseeable) |
 | Recertification | *(no plain-terms gloss in source)* | [Source](../../subcore_03.075_band_continuity.md#recertification) |

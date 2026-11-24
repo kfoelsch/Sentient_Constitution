@@ -1445,7 +1445,7 @@ This Article sets out the bounded mandate of Constitutional Forums and its limit
 - **Bounded mandate:** **Constitutional** forums may issue binding interpretive determinations only on a bounded set of topics:
   - **constitutional** scope;
   - Rights-Floor compatibility;
-  - whether a proposed change to the text of this Constitution fails Substantive Test 1 under **Chapter Twenty-Eight §4** (*Substantive Test 1 — Substantive Non-Regression Validity*), decided after the amendment comment window in **Chapter Twenty-Nine §13.3** (*Proposal, Hearing, and Comment Window*);
+  - whether a proposed change to the text of this Constitution fails Substantive Test 1 under **Chapter Twenty-Eight §4** (*Substantive Test 1 — Substantive Non-Regression Validity*), decided after the amendment comment window in **Chapter Twenty-Nine §3.2** (*Proposal, Hearing, and Comment Window*);
   - conflict resolution under **Chapters One through Fourteen**, including Foundational Rights in **Chapter Four**.
 - **Limits:** Constitutional Forums and their panels must not:
   - assume open-ended policy control;

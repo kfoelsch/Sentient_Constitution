@@ -116,7 +116,7 @@ Track B (constitutional-function machinery)
 | Oversight and assurance machinery | [CI-6.215](../../corpus_institutions/ci_06.215_oversight_assurance_controls_evidence.md) | Same Institutional Charter, lanes, and cliffs | Relabeling a working group as CI-6.215 oversight |
 | Contest-route administration (challenge, secondary review) | [CI-22.205](../../corpus_institutions/ci_22.205_procedure_integrity_contestability_secondary_review.md); keep [Article XIV-A](../../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) reachable | Same Institutional Charter, lanes, and cliffs | The work is a forum family → [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) |
 | Standing-Record administration | [Chapter Fourteen](../../core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) | Same Institutional Charter, lanes, and cliffs. A Standing Record is not the institution. A filed case is not standing by itself. | Using scores, badges, or this Institutional Charter to decide who counts ([Article XX-A](../../core_04.030_rights_part_d.md#article-xx-a-standing-distinction)) |
-| Amendment administration | [Chapter Twenty-Nine §13](../../core_29.000_amendment_ratification.md#13-amendment-procedure-requirements) | Same Institutional Charter, lanes, and cliffs. Non-regression stays in [Chapter Twenty-Eight](../../core_28.000_non_regression.md#3-non-regression-floor) | Treating a Chapter Three Institutional Charter amendment clause as a Chapter Twenty-Nine amendment of this Constitution |
+| Amendment administration | [Chapter Twenty-Nine §3](../../core_29.000_amendment_ratification.md#3-amendment-procedure-requirements) | Same Institutional Charter, lanes, and cliffs. Non-regression stays in [Chapter Twenty-Eight](../../core_28.000_non_regression.md#3-non-regression-floor) | Treating a Chapter Three Institutional Charter amendment clause as a Chapter Twenty-Nine amendment of this Constitution |
 | Certification steward | [Chapter Eight](../../core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) | Same Institutional Charter, lanes, and cliffs. Certification is not standing. | Treating a certificate as sentience status or as a Standing Record |
 | Other ordinary constitutional operations | Name the CI / CS / core owner. Pipeline map: [`PROCESS_PIPELINES_READER.md`](../PROCESS_PIPELINES_READER.md) | Same Institutional Charter, lanes, and cliffs | Inventing a new kit or a seventh forum family |
 
@@ -210,7 +210,7 @@ If Track B, function (pick one; same kit — §1.1):
   [ ] oversight / assurance (CI-6.215)
   [ ] contest-route administration (CI-22.205)
   [ ] Standing-Record administration (Chapter Fourteen)
-  [ ] amendment administration (Chapter Twenty-Nine §13)
+  [ ] amendment administration (Chapter Twenty-Nine §3)
   [ ] certification steward (Chapter Eight)
   [ ] other ordinary operation (name owner):
 
@@ -342,7 +342,7 @@ If the file is also not a Chapter Twenty-Nine adoption document, attach the firs
 | [CI-4.255](../../corpus_institutions/ci_04.255_commons_cooperatives_mutual_aid_non_market_governance.md) | Commons, cooperatives, mutual aid |
 | [Chapter Eight](../../core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) | Track B certification-steward owner. Same kit. Certification is not standing |
 | [Chapter Fourteen](../../core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) | Track B Standing-Record owner. Same kit. A filed case is not standing by itself |
-| [Chapter Twenty-Nine §13](../../core_29.000_amendment_ratification.md#13-amendment-procedure-requirements) | Track B amendment-administration owner. Same kit |
+| [Chapter Twenty-Nine §3](../../core_29.000_amendment_ratification.md#3-amendment-procedure-requirements) | Track B amendment-administration owner. Same kit |
 | [`PROCESS_PIPELINES_READER.md`](../PROCESS_PIPELINES_READER.md) | Certification → standing → forums → remedy chain. Not a founding kit |
 | [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation — leave this kit |
 | [`MINIMUM_VIABLE_ADOPTER.md`](MINIMUM_VIABLE_ADOPTER.md) | Size *N* × Class *X* body and cost profile. Not a founding kit |

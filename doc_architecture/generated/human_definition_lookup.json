@@ -117,7 +117,7 @@
       "href": "../../core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases"
     }
   ],
-  "term_count": 319,
+  "term_count": 320,
   "terms": [
     {
       "term": "Abstract Strictness",
@@ -1728,6 +1728,13 @@
       "anchor": "#public-oversight-baseline-disclosure",
       "plain_terms": null,
       "href": "../../subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure"
+    },
+    {
+      "term": "Publication Integrity",
+      "file": "subcore_03.070_band_accountability.md",
+      "anchor": "#publication-integrity-constitutional",
+      "plain_terms": null,
+      "href": "../../subcore_03.070_band_accountability.md#publication-integrity"
     },
     {
       "term": "Publication Truthfulness and Recklessness Floor",

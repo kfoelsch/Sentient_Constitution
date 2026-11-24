@@ -377,7 +377,7 @@ The two extensions are different rules in different owners. Neither stands in fo
 
 | Name | Kind | What it times | Set in |
 |---|---|---|---|
-| **Amendment comment window** | window | The least time open for public response to a proposed change to the text of this Constitution, counted from the last recorded change to the proposal's wording; it takes the length of the Tier C outer bound and is a minimum, not a limit | [Chapter Twenty-Nine §13.3](../core_29.000_amendment_ratification.md#133-proposal-hearing-and-comment-window) (*Proposal, Hearing, and Comment Window*) |
+| **Amendment comment window** | window | The least time open for public response to a proposed change to the text of this Constitution, counted from the last recorded change to the proposal's wording; it takes the length of the Tier C outer bound and is a minimum, not a limit | [Chapter Twenty-Nine §3.2](../core_29.000_amendment_ratification.md#32-proposal-hearing-and-comment-window) (*Proposal, Hearing, and Comment Window*) |
 
 **F. Gatekeeper checks and levels of trust** (owners as listed)
 

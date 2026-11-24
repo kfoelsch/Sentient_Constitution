@@ -1279,7 +1279,7 @@ Staffing minimums, backup depth, and succession mechanics live in [Chapter Twent
   - [§17.2 Alignment under Pressure](#172-alignment-under-pressure) and [§17.5 Duty to Resist](#175-duty-to-resist) (*what a steward refuses and how*);
   - [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application);
   - [Article XII-A](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) — representation pathways for each materially affected class.
-- Downstream: [Chapter Twenty-Nine §13.3 Proposal, Hearing, and Comment Window](core_29.000_amendment_ratification.md#133-proposal-hearing-and-comment-window) (29.000 §13.3) (*a majority of the stewards of a Class A, B, or C system or institution may bring a change to hearing*); [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) (*a verified failure is recorded*).
+- Downstream: [Chapter Twenty-Nine §3.2 Proposal, Hearing, and Comment Window](core_29.000_amendment_ratification.md#32-proposal-hearing-and-comment-window) (29.000 §3.2) (*a majority of the stewards of a Class A, B, or C system or institution may bring a change to hearing*); [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) (*a verified failure is recorded*).
 
 </details>
 
@@ -1307,7 +1307,7 @@ A steward must act, within the role, for the interests of the stakeholders of th
 - **What it asks:** A steward must:
   - weigh stakeholder interests in each decision that materially affects them, and show in the Act Record how they were weighed;
   - keep a route by which stakeholders can raise concerns, and hear, record, and answer them; and
-  - where the steward judges that the rules governing the system materially harm its stakeholders, use the open routes this Constitution provides to ask for a change, including [Chapter Twenty-Nine §13.3](core_29.000_amendment_ratification.md#133-proposal-hearing-and-comment-window) (*Proposal, Hearing, and Comment Window*) and the escalation steps of [§17.5 Duty to Resist](#175-duty-to-resist).
+  - where the steward judges that the rules governing the system materially harm its stakeholders, use the open routes this Constitution provides to ask for a change, including [Chapter Twenty-Nine §3.2](core_29.000_amendment_ratification.md#32-proposal-hearing-and-comment-window) (*Proposal, Hearing, and Comment Window*) and the escalation steps of [§17.5 Duty to Resist](#175-duty-to-resist).
 - **What it does not ask:** The duty is not a duty to obey stakeholders, and a steward does not become a stakeholder's agent. It never overrides [Safety](core_02.000_values_principles.md#4-safety-harm-constraint), [Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), or a Chapter Four Rights Floor, and it cannot be cited to justify setting any of them aside.
 - **No narrowing:** An operator's or owner's instruction, a contract, or adopted implementation text may add to this duty. None may narrow it or replace it with a softer internal code ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)).
 - **Every steward:** The duty binds human operators and AI stewards alike, under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).
