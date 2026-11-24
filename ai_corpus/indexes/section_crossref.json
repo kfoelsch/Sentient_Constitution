@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-11-24T03:16:39+00:00",
+  "generated_at": "2026-11-24T03:49:51+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -2186,7 +2186,7 @@
     [156,"#3-tests-every-tax-must-pass","3. Tests Every Tax Must Pass"],
     [156,"#41-revenue-priorities","4.1 Revenue Priorities"],
     [156,"#42-preferred-designs","4.2 Preferred Designs"],
-    [156,"#45-tax-incentives-and-the-incentive-floor","4.5 Tax Incentives and the Incentive Floor"],
+    [156,"#46-tax-incentives","4.6 Tax Incentives"],
     [156,"#51-never-allowed","5.1 Never Allowed"],
     [156,"#6-ease-of-use","6. Ease of Use"],
     [156,"#71-a-graduated-response","7.1 A Graduated Response"],
