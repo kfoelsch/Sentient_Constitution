@@ -5,7 +5,7 @@
 
 > This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-Four](core_24.000_assemblies.md#chapter-twenty-four-assemblies), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 24-A**. It was added on 2026-11-23.
 >
-> **Upstream:** [Chapter Twenty-Four §3 What Assemblies Decide](core_24.000_assemblies.md#3-what-assemblies-decide) (*Sets tax policy*).
+> **Upstream:** [Chapter Twenty-Four §3 What Assemblies Decide](core_24.000_assemblies.md#3-what-assemblies-decide) (*Sets tax policy*); Subcore 7-C (*Public Stewardship Office*) for the strategic-development list that bounds tax incentives.
 > **Downstream:** [CI-4.210](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public Revenue, Fees, Recurring Charges, and Billing Integrity*) for user fees and charges; adopted implementation text that names an adopter's taxes, rates, and revenue office.
 
 </details>
@@ -214,13 +214,14 @@ Tax competition is the practice of each polity or tier lowering what it asks of 
 A **tax incentive** is a tax break whose purpose is to attract, keep, or expand investment, production, research, or employment in the polity. Tax incentives are the main tool of tax competition. Every tax incentive is a tax break under [§4.4 Tax Breaks Under Review](#44-tax-breaks-under-review) and must also meet these rules:
 
 - **Strategic purpose only:**
-  - **A published list:** a tax incentive may support only a technology or industry on the assembly's **strategic-development list**, which the assembly enacts by general rule. Each entry states:
+  - **The stewardship list:** a tax incentive may support only a technology or industry on the **strategic-development list** that the [Subcore 7-C Public Stewardship Office](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) publishes with its stewardship guidance under [Subcore 7-C §6 Stewardship Guidance and the Governing Authority's Response](subcore_07.030_public_stewardship_office.md#6-stewardship-guidance-and-the-governing-authoritys-response), drawing on its Long-Term Outlook. The office is independent of the assemblies that grant incentives, so no assembly can add an entry for those it wishes to favor. Each entry states:
     - the technology or industry, defined so that any taxpayer can tell whether its activity qualifies;
     - why its development serves the [Flourishing](core_00.000_preamble.md#flourishing) or [Continuity](core_00.000_preamble.md#continuity) aim, such as clean energy, public-health capacity, supply of what the polity cannot safely do without, or research that markets underfund;
     - why markets will not develop it enough without help, and why a tax incentive serves better than a grant, a loan, a public purchase, or a rule; and
     - the measure of success and the date by which it should be met.
+  - **Asking for an entry:** an assembly, or any sentient, may ask the office to add or withdraw an entry. The office decides, publishes its reasons, and may be asked to correct an error of fact or method under [Subcore 7-C §12 Records, Accuracy, and Challenge](subcore_07.030_public_stewardship_office.md#12-records-accuracy-and-challenge).
   - **Not location alone:** drawing a business, its profits, or its headquarters to the polity, or keeping it from leaving, is never by itself a strategic purpose.
-  - **Lapse:** each entry lapses with the tax incentives that rely on it at the end of the tax-break lapse period, unless renewed after the review in [§4.4 Tax Breaks Under Review](#44-tax-breaks-under-review).
+  - **Review and withdrawal:** the office reviews each entry in each Yearly Stewardship Report against its measure of success. Once an entry is withdrawn, no new incentive may rely on it, and an incentive that already relies on it ends at its own lapse under [§4.4 Tax Breaks Under Review](#44-tax-breaks-under-review) without renewal.
 - **Form:**
   - **Tied to spending:** an incentive takes the form of a credit or a faster deduction for qualifying spending in the polity, such as research, equipment, or training for the strategic activity, and not a lower rate on profits.
   - **Income from research only in proportion:** a lower rate on income from patents or other intangible assets is allowed only on the share of that income that matches the qualifying research the taxpayer itself did in the polity.
