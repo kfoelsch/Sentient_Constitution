@@ -63,6 +63,7 @@ FIXED_SUPPORT = (
     "README.md",
     "guides/CONCEPTUAL_OVERVIEW.md",
     "guides/RECORD_OVERVIEW.md",
+    "guides/PROCESSES_AND_INSTITUTIONS.md",
     "LICENSE",
     "AGENTS.md",
     "llms.txt",

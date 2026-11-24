@@ -419,7 +419,7 @@ Proxy indicators (financial or otherwise) may inform decisions only where they r
   - [§5.1](#51-stewardship-direction);
   - [§5.2](#52-ecosystem-value-orientation);
   - [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent).
-- Downstream: the Independent Bodies listed in [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) and their subcore files.
+- Downstream: the Independent Bodies listed in [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) and their subcore files, including [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) (*Public Policy Office*) and [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*).
 - Read with: [*Review and Correction Duty*](subcore_03.075_band_continuity.md#review-and-correction-duty); [*Strategic Stewardship Obligation*](subcore_03.075_band_continuity.md#strategic-stewardship-obligation); [*Proxy Divergence*](subcore_03.085_band_oversight.md#proxy-divergence).
 
 </details>
@@ -430,8 +430,8 @@ Proxy indicators (financial or otherwise) may inform decisions only where they r
 
 Stewardship direction under this section draws on public institutions that the governing authority does not control. Where [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) lists an Independent Body for one of the following functions, the governing authority uses that body's work as stated:
 
-- **Long-horizon outlook and guidance:** the body that publishes the long-term outlook and stewardship guidance. The governing authority's published strategy under this section takes account of the outlook, and the authority publishes a reasoned response to the guidance.
-- **Policy impact evaluation:** the body that evaluates proposed binding policy before the final decision and reviews it after adoption. Its reviews are an input to the [*Review and Correction Duty*](subcore_03.075_band_continuity.md#review-and-correction-duty), and the authority answers each material finding as that body's subcore file requires.
+- **Long-horizon outlook and guidance:** the body that publishes the long-term outlook and stewardship guidance, the Public Stewardship Office of [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here). The governing authority's published strategy under this section takes account of the outlook, and the authority publishes a reasoned response to the guidance.
+- **Policy impact evaluation:** the body that evaluates proposed binding policy before the final decision and reviews it after adoption, the Public Policy Office of [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do). Its reviews are an input to the [*Review and Correction Duty*](subcore_03.075_band_continuity.md#review-and-correction-duty), and the authority answers each material finding as that body's subcore file requires.
 - **Official statistics and research:** the body that produces official statistics. The indicators that show direction is outcome-oriented under [§5.1 Stewardship Direction](#51-stewardship-direction), and the proxies used under [§5.2 Ecosystem Value Orientation](#52-ecosystem-value-orientation), come from that body's published figures or can be checked against them.
 - **Public finances and obligations to the future:** the bodies that report public spending, debt, and the obligations later generations will carry. The authority's strategy states how it takes those obligations into account.
 

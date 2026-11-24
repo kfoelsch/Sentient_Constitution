@@ -169,6 +169,62 @@
     {
       "name": "register entry period",
       "owner": "Subcore 7-A §6"
+    },
+    {
+      "name": "emergency full-evaluation period",
+      "owner": "Subcore 7-B §4.4"
+    },
+    {
+      "name": "screening period",
+      "owner": "Subcore 7-B §4.6"
+    },
+    {
+      "name": "evaluation period",
+      "owner": "Subcore 7-B §6"
+    },
+    {
+      "name": "amendment update period",
+      "owner": "Subcore 7-B §6"
+    },
+    {
+      "name": "default review interval",
+      "owner": "Subcore 7-B §7"
+    },
+    {
+      "name": "costing lead time",
+      "owner": "Subcore 7-B §8"
+    },
+    {
+      "name": "stewardship term",
+      "owner": "Subcore 7-C §3"
+    },
+    {
+      "name": "outlook horizon",
+      "owner": "Subcore 7-C §4"
+    },
+    {
+      "name": "outlook cycle",
+      "owner": "Subcore 7-C §4 and §8.1"
+    },
+    {
+      "name": "planning-step interval",
+      "owner": "Subcore 7-C §7.3"
+    },
+    {
+      "name": "first-plan lead time",
+      "owner": "Subcore 7-C §7.3"
+    },
+    {
+      "name": "incentive program term",
+      "owner": "Subcore 7-C §8.2"
+    },
+    {
+      "name": "withholding review interval",
+      "owner": "Subcore 7-C §8.4"
+    },
+    {
+      "name": "research look-back period",
+      "owner": "Subcore 7-C §8.4"
     }
   ],
   "scaled_windows": [

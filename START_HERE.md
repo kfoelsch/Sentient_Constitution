@@ -93,6 +93,7 @@ If any "cannot bind" row in the first-adopter kit's [scope honesty](implementati
 | See how certification, Standing Records, forums, and remedy connect | [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md) |
 | Understand how the whole design fits together before committing | [Big-picture overview](guides/CONCEPTUAL_OVERVIEW.md) (about 40 minutes) |
 | Trace which records hold an action accountable | [Record overview](guides/RECORD_OVERVIEW.md) |
+| Find the chapters and principles behind a process you run or a body you deal with | [Processes and institutions](guides/PROCESSES_AND_INSTITUTIONS.md) |
 | Everything else for general readers (FAQ, Rights Floor, word lookup, print pack, full text) | [README: Quick Find](README.md#quick-find) |
 
 <a id="reading-paths"></a>

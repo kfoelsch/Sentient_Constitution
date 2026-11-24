@@ -161,4 +161,4 @@ The office answers for its own accuracy, and its acts can be contested:
 
 **Previous file:** [core_07.000_independent_bodies.md](core_07.000_independent_bodies.md)
 
-**Next file:** [core_08.000_system_alignment_certification_evaluation.md](core_08.000_system_alignment_certification_evaluation.md)
+**Next file:** [subcore_07.020_public_policy_office.md](subcore_07.020_public_policy_office.md)

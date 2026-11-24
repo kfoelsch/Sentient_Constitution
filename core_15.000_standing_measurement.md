@@ -385,6 +385,7 @@ The dimensions are not a checklist requiring every form of scale. Explain which 
 - **Shared slot method:**
   - Estimate integrated verified benefit or loss in LEQU under Proportionality, then assign the one slot whose numeric band contains that magnitude.
   - The same thresholds apply on both axes.
+  - If independent estimates of one verified benefit or loss fall on both sides of a slot boundary, assign the lower slot unless the higher one is shown on the Standing Record by the applicable evidence standard. Record the spread of estimates and the reasons with the slot.
   - Contribution slots retain the applicable baseline and constitutional-alignment requirements; satisfying a numeric threshold cannot make externalized or constitutionally defeated output count as contribution.
 - **Character separation:** Keep applicable benefit-route, harm-route, conduct-quality, and conduct-character descriptors stacked in the Standing Record. Duty, negligence, deception, aggravation, coercion, violence, intent, or structural enablement may affect attribution, safeguards, or Question 3 consequences, but none raises or lowers the LEQU impact slot.
 - **Anti-Constitutional Misconduct Review boundary:** Verified Violation Axis loss may reach slot 7–9 by impact whether or not anti-constitutional misconduct is established. Chapter Twenty does not replace the impact assignment; it independently determines whether the corresponding ACMD attaches.

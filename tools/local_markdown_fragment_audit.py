@@ -38,6 +38,7 @@ READER_ENTRY_DOCS = (
     "project/VISION.md",
     "guides/CONCEPTUAL_OVERVIEW.md",
     "guides/RECORD_OVERVIEW.md",
+    "guides/PROCESSES_AND_INSTITUTIONS.md",
     "CONTRIBUTING.md",
     "AGENTS.md",
 )

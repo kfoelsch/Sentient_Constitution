@@ -566,6 +566,34 @@
       "ordinal_name": "S7-A"
     },
     {
+      "old_id": "Subcore 7-B (new)",
+      "original_file": "subcore_07.020_public_policy_office.md",
+      "machine_id": "SUB-07020",
+      "display_id": "S7-B",
+      "layer": "SUBCORE",
+      "core_home": "07",
+      "title": "S7-B",
+      "destination_file": "subcore_07.020_public_policy_office.md",
+      "status": "active",
+      "machine_number": "07020",
+      "layer_digit": "0",
+      "ordinal_name": "S7-B"
+    },
+    {
+      "old_id": "Subcore 7-C (new)",
+      "original_file": "subcore_07.030_public_stewardship_office.md",
+      "machine_id": "SUB-07030",
+      "display_id": "S7-C",
+      "layer": "SUBCORE",
+      "core_home": "07",
+      "title": "S7-C",
+      "destination_file": "subcore_07.030_public_stewardship_office.md",
+      "status": "active",
+      "machine_number": "07030",
+      "layer_digit": "0",
+      "ordinal_name": "S7-C"
+    },
+    {
       "old_id": "Chapter 9",
       "original_file": "core_09_a_system_alignment_certification_evaluation.md",
       "machine_id": "08000",
@@ -1214,6 +1242,20 @@
       "ordinal_name": "28",
       "pre_reorganization_2026_11_20": "28000",
       "pre_assemblies_2026_11_23": "27000"
+    },
+    {
+      "old_id": "Subcore 28-A (new)",
+      "original_file": "subcore_28.010_non_regression_determinations.md",
+      "machine_id": "SUB-28010",
+      "display_id": "S28-A",
+      "layer": "SUBCORE",
+      "core_home": "28",
+      "title": "S28-A",
+      "destination_file": "subcore_28.010_non_regression_determinations.md",
+      "status": "active",
+      "machine_number": "28010",
+      "layer_digit": "0",
+      "ordinal_name": "S28-A"
     },
     {
       "old_id": "Chapter 17",

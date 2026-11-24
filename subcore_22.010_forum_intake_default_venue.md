@@ -48,7 +48,7 @@ Where a case starts shapes how it ends: which experts are heard, which evidence 
 
 ### 3. Intake Triage Body (First-Touch Desk)
 
-*In plain terms: each forum family has a desk that sorts new cases by what they are really about. It routes cases; it never decides them.*
+*In plain terms: each forum family has a desk that sorts new cases by what they are really about. It routes cases; it never decides them. Filing costs the claimant nothing.*
 
 Each required forum family must maintain an **intake triage body**, or a functionally equivalent arrangement within that family, as the family's **first-touch desk** at filing. That body:
 
@@ -62,6 +62,8 @@ That body also stays within three limits. It:
 - is **not** a separate constitutional forum family;
 - **must not** substitute for a lawfully constituted merits panel on **substantive outcomes** or **collapse** **family** boundaries; and
 - **must not** employ funding, fee, administrative preference, or other incentive devices to defeat primary-stakes routing or enable opaque threshold sorting.
+
+**Filing is free to the claimant.** Filing, intake, and routing cost the claimant nothing. No fee, deposit, or cost-shifting order may fall on a claimant for a matter that is heard, in any family or tier. This does not stop a forum from answering a filing shown on the Standing Record to be abusive under its published rules, and it does not stop public or adopter funding of claimant support.
 
 <a id="4-routing-sequence-at-filing"></a>
 
