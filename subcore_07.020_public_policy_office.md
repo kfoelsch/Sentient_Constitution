@@ -27,7 +27,7 @@
 **Role:** Subcore 7-B is the constitutional owner of **policy impact evaluation**: the evaluation of proposed binding policy before the final decision, and the review of adopted policy after it takes effect. Where it sits:
 
 - [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) keeps the power to decide. This office advises and publishes; it decides nothing.
-- Official statistics and research come from whichever body the adopter charges with them. This office relies on them but does not produce official statistics.
+- Official statistics come from the [Subcore 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) (*Public Information Office*). This office relies on them but does not produce official statistics.
 - The [Subcore 7-C Public Stewardship Office](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) looks decades ahead across all policy. This office looks at one proposal at a time. For a proposal with long-horizon or irreversible effects, the two publish one combined evaluation (§5.1 *Contents*).
 - The governing authority pays for the office under *Protected funding* in [Chapter Seven §3](core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (*What Makes a Body Independent*) and does not direct it.
 

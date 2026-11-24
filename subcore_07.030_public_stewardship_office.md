@@ -28,7 +28,7 @@
 
 - [Chapter Twenty-Seven §5 Strategy, Stewardship Direction, and Ecosystem Value](core_27.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) puts the duty of stewardship on those who govern. This office informs that duty and holds public bodies to account for planning against it; it does not take it over.
 - The [Subcore 7-B Public Policy Office](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) evaluates one proposal at a time. This office looks across all policy and over a longer horizon. For a proposal with long-horizon or irreversible effects, the two publish one combined evaluation.
-- Official statistics and research come from whichever body the adopter charges with them, and this office relies on them.
+- Official statistics come from the [Subcore 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) (*Public Information Office*), and this office relies on them.
 - The governing authority's published accounts report the obligations that later generations will carry, and this office takes them into account.
 
 **Scope:** The office:
@@ -460,4 +460,4 @@ The *Scaling* rule in [Chapter Seven §3 What Makes a Body Independent](core_07.
 
 **Previous file:** [subcore_07.020_public_policy_office.md](subcore_07.020_public_policy_office.md)
 
-**Next file:** [core_08.000_system_alignment_certification_evaluation.md](core_08.000_system_alignment_certification_evaluation.md)
+**Next file:** [subcore_07.040_public_information_office.md](subcore_07.040_public_information_office.md)

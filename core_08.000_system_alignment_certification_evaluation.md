@@ -1603,6 +1603,6 @@ Documented false trust, perverse incentives, inaccessible challenge paths, and r
 
 *Worked examples for each evaluation area:* [CS-8.320 System alignment certification illustrations](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-system-alignment-certification-illustrations).
 
-**Previous file:** [subcore_07.030_public_stewardship_office.md](subcore_07.030_public_stewardship_office.md)
+**Previous file:** [subcore_07.040_public_information_office.md](subcore_07.040_public_information_office.md)
 
 **Next file:** [subcore_08.010_system_classification.md](subcore_08.010_system_classification.md)
