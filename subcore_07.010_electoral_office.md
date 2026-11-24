@@ -160,7 +160,7 @@ The office answers for its own accuracy, and its acts can be contested:
 
 *In plain terms: a small community can share an electoral office or borrow one, but every voter keeps the same protections.*
 
-*Scaling* in Chapter Seven §3 *What Makes a Body Independent* applies. A small adopter may share an electoral office with other adopters, or use another adopter's office, by published agreement. Even then, each roll is kept separately for each adopter's electorate, every sentient keeps its access to its own entry and its routes to contest, and the post-vote audit is never skipped.
+*Scaling* in [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent) applies. A small adopter may share an electoral office with other adopters, or use another adopter's office, by published agreement. Even then, each roll is kept separately for each adopter's electorate, every sentient keeps its access to its own entry and its routes to contest, and the post-vote audit is never skipped.
 
 ---
 

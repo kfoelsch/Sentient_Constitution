@@ -1489,4 +1489,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousandth move (general scaling for shared Independent Bodies; 2026-11-24; clarification; uncommitted).** Decision (custodian, asked in session): generalize the sharing and safeguards in [Subcore 7-A §9](subcore_07.010_electoral_office.md#9-proportional-scaling). [Chapter Seven §3](core_07.000_independent_bodies.md#3-what-makes-a-body-independent) expressly permits adopters to share an Independent Body by published agreement and states that applicable duties and protections remain in force for each adopter and its sentients, including access to records, challenge routes, and required audits. Effect on a rule: clarifies shared provision and continued application of existing duties; the Electoral Office's separate-roll and post-vote audit safeguards remain in place.
 
+**One thousand and first move (link Electoral Office scaling to the general rule; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): make the existing reference in [Subcore 7-A §9](subcore_07.010_electoral_office.md#9-proportional-scaling) a direct link to Chapter Seven §3 *What Makes a Body Independent*. Effect on a rule: none; the general scaling provision already applies.
+
 **Next file:** [README.md](README.md)
