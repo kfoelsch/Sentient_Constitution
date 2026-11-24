@@ -136,7 +136,11 @@
     },
     {
       "name": "tax-break lapse period",
-      "owner": "Subcore 24-A §4.3"
+      "owner": "Subcore 24-A §4.4"
+    },
+    {
+      "name": "payable-credit period",
+      "owner": "Subcore 24-A §4.5"
     },
     {
       "name": "amnesty interval",

@@ -20,7 +20,7 @@
 
 *In plain terms: Chapter Twenty-Four says that only an assembly may set a tax. This file says what a fair, simple tax must look like, which tax designs are good and which are barred, how taxes are collected and enforced, and what anyone who owes tax may rely on.*
 
-**Purpose:** Subcore 24-A is the constitutional owner of the **standard detail of taxation**: the tests every tax must pass, the preferred and barred tax designs, the ease-of-use duties, the enforcement rules, the rights of those who owe tax, how tax rules are made and changed, and the outcome-review measures.
+**Purpose:** Subcore 24-A is the constitutional owner of the **standard detail of taxation**: the tests every tax must pass, the preferred and barred tax designs, the limits on tax incentives and the incentive floor, the ease-of-use duties, the enforcement rules, the rights of those who owe tax, how tax rules are made and changed, and the outcome-review measures.
 
 **Role:** [Chapter Twenty-Four §3 What Assemblies Decide](core_24.000_assemblies.md#3-what-assemblies-decide) states the guarantees: no tax is levied except by an assembly's general rule, and each tier taxes only within its matters under [Chapter Twenty-Four §4 Dividing Work Between Tiers](core_24.000_assemblies.md#4-dividing-work-between-tiers). This file says how that power is used. It does not set any adopter's tax bases or rates. Each assembly chooses those, within the rules below.
 
@@ -32,7 +32,7 @@
 
 *In plain terms: taxes reach almost everyone, are backed by force, and are easy to bend toward whoever writes them. A shared floor keeps every tax fair, readable, and contestable, whatever rates an adopter picks.*
 
-A tax is the most common way a polity takes something from the sentients it serves without their individual consent. Experience across many tax systems shows the same failures again and again: codes too complex to follow without paid help, special breaks won by those with access, retroactive changes, collectors paid by what they collect, and enforcement that falls hardest on those least able to resist it. Each of these is a choice an assembly could make under pressure. Fixed tests, preferred designs, and barred designs keep the guarantee the same for every adopter, while leaving every assembly free to choose what to tax and how much.
+A tax is the most common way a polity takes something from the sentients it serves without their individual consent. Experience across many tax systems shows the same failures again and again: codes too complex to follow without paid help, special breaks won by those with access, polities and tiers bidding against each other with tax breaks until none collects enough, retroactive changes, collectors paid by what they collect, and enforcement that falls hardest on those least able to resist it. Each of these is a choice an assembly could make under pressure. Fixed tests, preferred designs, and barred designs keep the guarantee the same for every adopter, while leaving every assembly free to choose what to tax and how much.
 
 **Grounded in:**
 
@@ -71,7 +71,7 @@ Every tax, and every change to a tax, must pass these tests. The assembly states
   - **Convenient:** the tax is collected at a time and in a way that suits those who pay it, such as at the time of payment or receipt.
 - **Efficient:**
   - **Cheap to run:** the cost of collecting the tax and the cost to taxpayers of complying are small compared with what it raises. Both are estimated and published.
-  - **Neutral:** the tax does not steer choices about work, saving, investment, or how to organize a business, except where steering is the tax's stated purpose under [§4.3 Taxes on Harm](#43-taxes-on-harm).
+  - **Neutral:** the tax does not steer choices about work, saving, investment, or how to organize a business, except where steering is the stated purpose of a tax under [§4.3 Taxes on Harm](#43-taxes-on-harm) or of a strategic-development incentive under [§4.5 Tax Incentives and the Incentive Floor](#45-tax-incentives-and-the-incentive-floor).
 - **Dependable:**
   - **Adequate and stable:** the tax system as a whole raises what the budgets adopted under [Chapter Twenty-Four §3 What Assemblies Decide](core_24.000_assemblies.md#3-what-assemblies-decide) need, without frequent changes.
   - **Enforceable:** the tax can be enforced evenly with the information the revenue office can lawfully obtain, so honest taxpayers are not left to carry those who evade.
@@ -179,6 +179,47 @@ An exemption, deduction, credit, reduced rate, or deferral that favors some taxp
 - lapse at the end of its **tax-break lapse period** unless renewed. **Default:** the tax-break lapse period is five years; and
 - be renewed only after a published review shows it met its purpose at a reasonable cost.
 
+A tax break meant to attract or keep investment, production, or jobs must also meet [§4.5 Tax Incentives and the Incentive Floor](#45-tax-incentives-and-the-incentive-floor).
+
+<a id="45-tax-incentives-and-the-incentive-floor"></a>
+
+#### 4.5 Tax Incentives and the Incentive Floor
+
+*In plain terms: polities and tiers often compete for investment by cutting taxes for whoever will come, until none of them collects enough. Tax incentives are allowed only to build strategic technologies and industries, never to bid for where a business sits, and no incentive may take a business's tax below a shared floor.*
+
+A **tax incentive** is a tax break whose purpose is to attract, keep, or expand investment, production, research, or employment in the polity. Tax incentives are the main tool of tax competition between polities and between tiers, in which each lowers what it asks in order to draw activity from the others and all end with less revenue for the same activity. Every tax incentive is a tax break under [§4.4 Tax Breaks Under Review](#44-tax-breaks-under-review) and must also meet the rules below.
+
+**Strategic purpose only:**
+
+- **A published list:** a tax incentive may support only a technology or industry on the assembly's **strategic-development list**, which the assembly enacts by general rule. Each entry states:
+  - the technology or industry, defined so that any taxpayer can tell whether its activity qualifies;
+  - why its development serves the [Flourishing](core_00.000_preamble.md#flourishing) or [Continuity](core_00.000_preamble.md#continuity) aim, such as clean energy, public-health capacity, supply of what the polity cannot safely do without, or research that markets underfund;
+  - why markets will not develop it enough without help, and why a tax incentive serves better than a grant, a loan, a public purchase, or a rule; and
+  - the measure of success and the date by which it should be met.
+- **Lapse:** each entry lapses with the tax incentives that rely on it at the end of the tax-break lapse period, unless renewed after the review in [§4.4 Tax Breaks Under Review](#44-tax-breaks-under-review).
+- **Not location alone:** drawing a business, its profits, or its headquarters to the polity, or keeping it from leaving, is never by itself a strategic purpose.
+
+**The incentive floor:**
+
+- **The floor:** no tax incentive, alone or combined with every other tax break, may bring a beneficiary's **effective tax rate** in the polity for any tax period below the **incentive floor**. **Default:** the incentive floor is fifteen percent.
+- **How the rate is measured:** the effective tax rate is the tax on profits paid to every tier of the polity for the tax period, divided by the beneficiary's profit for the same period as shown in its financial accounts, counting together every entity of the same group in the polity.
+- **Top-up:** where a beneficiary's effective tax rate falls below the incentive floor, the revenue office collects the difference as a top-up tax, so that the floor holds whatever incentives were granted. The top-up is set out in the general rule that creates the incentive.
+- **Payable credits count as grants:** a credit that is paid out in cash within the **payable-credit period**, which is four years from when it is earned, whether or not tax is owed, is treated, when the floor is measured, as a grant and not as a cut in tax. It is reported as spending in the budget.
+- **Below the floor only for small taxpayers:** the floor does not apply to a taxpayer using the simplified small-taxpayer method of [§4.2 Preferred Designs](#42-preferred-designs).
+
+**Designs that reward the work, not the location:**
+
+- **Tied to spending:** an incentive takes the form of a credit or a faster deduction for qualifying spending in the polity, such as research, equipment, or training for the strategic activity, and not a lower rate on profits.
+- **Income from research only in proportion:** a lower rate on income from patents or other intangible assets is allowed only on the share of that income that matches the qualifying research the taxpayer itself did in the polity.
+- **Open to all who qualify:** the incentive is available on the same terms to every taxpayer that does the qualifying activity, whether long established or new, and whatever its owners' residence. It is never negotiated with, or limited to, a single taxpayer.
+- **Kept if commitments are kept:** a taxpayer that does not keep the investment, research, or employment the incentive was granted for repays it, with interest, in proportion to the shortfall.
+- **Independent review first:** before the vote, an independent seat reviews and publishes an opinion on whether the incentive serves an entry on the strategic-development list at a reasonable cost, as for the designs in [§5.2 Allowed Only with Reasons and Review](#52-allowed-only-with-reasons-and-review). An incentive that meets this section meets [§5.2 Allowed Only with Reasons and Review](#52-allowed-only-with-reasons-and-review) for naming an industry.
+
+**Between polities and tiers:**
+
+- **No bidding against each other:** no tier offers a tax incentive to draw an activity that already takes place in another tier of the same polity. Where an activity strategic to more than one tier needs support, the tiers agree one incentive under [Chapter Twenty-Four §4 Dividing Work Between Tiers](core_24.000_assemblies.md#4-dividing-work-between-tiers).
+- **Shared minimum agreements:** a polity joins, and collects top-up tax under, any agreement among polities that sets a minimum tax on profits at or above the incentive floor, and never sets its own floor lower than such an agreement.
+
 <a id="5-barred-tax-policies"></a>
 
 ### 5. Barred Tax Policies
@@ -204,6 +245,8 @@ No assembly, executive, or revenue office may:
 - **Hiding or bending the system:**
   - **Hide a tax:** raise general revenue through a fee, fine, charge, or price that is not enacted and reported as a tax.
   - **Make secret deals:** agree a tax treatment with one taxpayer that is not published. A ruling given to one taxpayer is published within a set time, with identifying details removed, and applies to every taxpayer in the same position.
+  - **Bid for location:** offer a tax break, or a deal on tax with one taxpayer, to draw a business, its profits, or its headquarters to the polity or tier, or to keep it from leaving, except a tax incentive that meets [§4.5 Tax Incentives and the Incentive Floor](#45-tax-incentives-and-the-incentive-floor).
+  - **Grant tax holidays:** exempt a taxpayer from tax on its profits for a period because it is new, has newly arrived, or has invested, rather than giving an incentive tied to qualifying spending under [§4.5 Tax Incentives and the Incentive Floor](#45-tax-incentives-and-the-incentive-floor).
   - **Pay collectors by results:** pay, promote, rate, or reward any official, contractor, or system by the amount of tax assessed, collected, or penalized, or set collection quotas. This includes private tax collection on a share of what is collected.
 
 <a id="52-allowed-only-with-reasons-and-review"></a>
@@ -363,6 +406,7 @@ Each year, the revenue office of each tier publishes:
 - **Appeals:** how many assessments were appealed, and how many were changed on appeal.
 - **Refunds:** the time taken to pay refunds.
 - **The tax-break report:** under [§4.4 Tax Breaks Under Review](#44-tax-breaks-under-review).
+- **Tax incentives:** for each tax incentive under [§4.5 Tax Incentives and the Incentive Floor](#45-tax-incentives-and-the-incentive-floor), its cost, the number of beneficiaries, the top-up tax collected under the incentive floor, the sums repaid for broken commitments, and progress on the measure of success of its entry on the strategic-development list.
 
 At each periodic revalidation under [Article XXVIII-A](core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*), the assembly reviews these figures. A rising tax gap, a rising cost of complying, a fall in the share filing without paid help, a lighter audit rate at the top, or a high rate of assessments changed on appeal is evidence that the rules need changing, and the assembly must say in its Act Record what it will change.
 
