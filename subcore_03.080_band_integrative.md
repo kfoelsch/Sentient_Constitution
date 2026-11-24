@@ -1138,10 +1138,10 @@ See **Anti-Segmentation Principle**.
     <a id="subcore"></a>
     - **Subcore:** binding constitutional text kept outside the `core_*` files, in `subcore_*` files, so the chapters stay readable. The subcore works as follows:
       - **Part of this Constitution:** Each subcore file belongs to one numbered chapter, which lists it. It has the same force as that chapter and binds every adopter without separate incorporation.
-      - **Amended the same way:** A subcore file changes only by amendment under [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity), including heightened review under its section 2 for a change that affects rights.
+      - **Amended the same way:** A subcore file changes only by amendment under [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity), including heightened review under its section 3 for a change that affects rights.
       - **Details, never narrows:** The chapter states each guarantee at least in one plain line; its subcore file gives the full rule and procedure. A subcore file may not narrow its chapter. Where a chapter and its subcore file seem to differ, the reading more protective of the affected sentient controls, and the difference is corrected by amendment.
 
-    Sources are versioned and custodied through valid adoption and edition controls under the [Corpus and Authority Stack cluster](subcore_03.080_band_integrative.md#defi1-corpus-and-authority-stack).
+    Sources are versioned and custodied through valid adoption and edition controls under the [Corpus and Authority Stack cluster](subcore_03.080_band_integrative.md#defi1-corpus-and-authority-stack). Every tier, implementation text included, changes only by amendment under [Chapter Twenty-Nine §13 Amendment Procedure Requirements](core_29.000_amendment_ratification.md#13-amendment-procedure-requirements); a change to implementation text takes effect for an adopter on the edition and date recorded in that adopter's adoption chain.
   - **Out of scope:**
     - explanatory notes, process artifacts, drafts, or navigational guides not validly incorporated as binding text; and
     - unofficial or unversioned copies presented as the operative edition.

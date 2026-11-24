@@ -35,7 +35,7 @@ Chapter Twenty-Nine is the constitutional owner of **procedural and custody vali
 
 *In plain terms: a change can be substantively fine and still fail because of how it was made. This chapter is the procedural and paperwork spine for legitimate change, and it holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody that proves the text is the real one, and a contest path that works, so that independent reviewers and the public can challenge the change. A rights-affecting update must not snap irreversibly into place before those guardrails have actually run.*
 
-**Purpose:** This Constitution, including its [subcore](subcore_03.080_band_integrative.md#subcore), may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions, subject to **Chapter Twenty-Eight** (non-regression), **Chapter Thirty** (supremacy and external-order interface), subject to the validity conditions in this chapter.
+**Purpose:** This Constitution, including its [subcore](subcore_03.080_band_integrative.md#subcore), and the implementation text in its [Corpus](subcore_03.080_band_integrative.md#corpus) may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions. All three are amended by the one procedure in **section 13**. Every amendment is subject to **Chapter Twenty-Eight** (non-regression), **Chapter Thirty** (supremacy and external-order interface), and the validity conditions in this chapter.
 
 **Role:** The chapter is the procedural half of change validity. It covers whether a change was made the right way, and what happens when it was not:
 
@@ -379,7 +379,7 @@ Besides the adoption document, an adopter keeps and publishes two documents:
 
 *In plain terms: amending has to follow a visible process — real notice, real chance to object, independence where the chapter demands it — and effect dates have to be honest records, not retroactive surprises hidden from affected stakeholders.*
 
-A change to a [subcore](subcore_03.080_band_integrative.md#subcore) file is an amendment of this Constitution. It follows this chapter in full, including heightened review under **section 3** where it affects rights, and it may not be made as an edit to implementation text.
+A change to a [subcore](subcore_03.080_band_integrative.md#subcore) file is an amendment of this Constitution. An implementation text file listed in the [Corpus](subcore_03.080_band_integrative.md#corpus) is amended by the same procedure. Either change follows this chapter in full, including heightened review under **section 3** where it affects rights. A change to core or subcore text may not be made as an edit to implementation text.
 
 #### 13.1 Notice and Contest
 <details>
@@ -411,7 +411,7 @@ Amendments must be proposed with sufficient specificity and advance publication 
 
 *In plain terms: effect follows what is honestly recorded on a stated date or event — secret patches or silent scope expansions do not count as valid constitutional amendments for supremacy purposes.*
 
-Amendments take effect only on a stated effective date or event recorded in the adoption chain. Amendments that are undisclosed to affected stakeholders in material scope, or that bypass recorded procedure, do not satisfy constitutional amendment requirements for supremacy purposes.
+Amendments take effect only on a stated effective date or event recorded in the adoption chain. For implementation text, the adoption chain also records the new edition identifier under [Chapter Thirty-One §3 Custody, Editions, and Operative Effect](core_31.000_incorporation.md#3-custody-editions-and-operative-effect); until both are recorded there, an adopter stays bound by the edition it holds. Amendments that are undisclosed to affected stakeholders in material scope, or that bypass recorded procedure, do not satisfy constitutional amendment requirements for supremacy purposes.
 
 #### 13.3 Proposal, Hearing, and Comment Window
 <details>
