@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-24T20:23:13+00:00",
+  "generated_at": "2026-11-24T20:32:25+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 179,
@@ -1922,13 +1922,16 @@
       ]
     },
     "subcore_07.040_public_information_office.md": {
-      "total_lines": 52,
+      "total_lines": 115,
       "sections": [
-        {"header":"SUBCORE 7-D: PUBLIC INFORMATION OFFICE","level":1,"line_start":2,"line_end":52,"anchor":"#subcore-7-d-public-information-office"},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":15,"line_end":20,"anchor":null},
-        {"header":"2. Why the Office Exists","level":3,"line_start":21,"line_end":31,"anchor":null},
-        {"header":"3. Independence and Methods","level":3,"line_start":32,"line_end":39,"anchor":null},
-        {"header":"4. Office of the Census","level":3,"line_start":40,"line_end":52,"anchor":null}
+        {"header":"SUBCORE 7-D: PUBLIC INFORMATION OFFICE","level":1,"line_start":2,"line_end":115,"anchor":"#subcore-7-d-public-information-office"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":16,"line_end":38,"anchor":"#1-purpose-role-and-scope"},
+        {"header":"2. Why the Public Information Office Exists","level":3,"line_start":39,"line_end":57,"anchor":"#2-why-the-public-information-office-exists"},
+        {"header":"3. Independence and Placement","level":3,"line_start":58,"line_end":66,"anchor":"#3-independence-and-placement"},
+        {"header":"4. Public Statistics and Methods","level":3,"line_start":67,"line_end":80,"anchor":"#4-public-statistics-and-methods"},
+        {"header":"5. Information Handling and Privacy","level":3,"line_start":81,"line_end":89,"anchor":"#5-information-handling-and-privacy"},
+        {"header":"6. Office of the Census","level":3,"line_start":90,"line_end":102,"anchor":"#6-office-of-the-census"},
+        {"header":"7. Records, Audit, and Challenge","level":3,"line_start":103,"line_end":115,"anchor":"#7-records-audit-and-challenge"}
       ]
     },
     "subcore_08.010_system_classification.md": {
