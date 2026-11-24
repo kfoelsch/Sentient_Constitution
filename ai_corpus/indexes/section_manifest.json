@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-24T21:01:22+00:00",
+  "generated_at": "2026-11-24T21:13:20+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 181,
@@ -1922,19 +1922,19 @@
       ]
     },
     "subcore_07.040_public_information_office.md": {
-      "total_lines": 176,
+      "total_lines": 179,
       "sections": [
-        {"header":"SUBCORE 7-D: PUBLIC INFORMATION OFFICE","level":1,"line_start":2,"line_end":176,"anchor":"#subcore-7-d-public-information-office"},
+        {"header":"SUBCORE 7-D: PUBLIC INFORMATION OFFICE","level":1,"line_start":2,"line_end":179,"anchor":"#subcore-7-d-public-information-office"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":16,"line_end":41,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why the Public Information Office Exists","level":3,"line_start":42,"line_end":60,"anchor":"#2-why-the-public-information-office-exists"},
         {"header":"3. Independence and Placement","level":3,"line_start":61,"line_end":69,"anchor":"#3-independence-and-placement"},
-        {"header":"4. Public Statistics and Methods","level":3,"line_start":70,"line_end":141,"anchor":"#4-public-statistics-and-methods"},
+        {"header":"4. Public Statistics and Methods","level":3,"line_start":70,"line_end":144,"anchor":"#4-public-statistics-and-methods"},
         {"header":"4.1 Measuring Constitutional Results","level":4,"line_start":84,"line_end":99,"anchor":"#41-measuring-constitutional-results"},
         {"header":"4.2 The Confidence Ladder","level":4,"line_start":100,"line_end":122,"anchor":"#42-the-confidence-ladder"},
-        {"header":"4.3 Applying the Confidence Ladder","level":4,"line_start":123,"line_end":141,"anchor":"#43-applying-the-confidence-ladder"},
-        {"header":"5. Information Handling and Privacy","level":3,"line_start":142,"line_end":150,"anchor":"#5-information-handling-and-privacy"},
-        {"header":"6. Office of the Census","level":3,"line_start":151,"line_end":163,"anchor":"#6-office-of-the-census"},
-        {"header":"7. Records, Audit, and Challenge","level":3,"line_start":164,"line_end":176,"anchor":"#7-records-audit-and-challenge"}
+        {"header":"4.3 Applying the Confidence Ladder","level":4,"line_start":123,"line_end":144,"anchor":"#43-applying-the-confidence-ladder"},
+        {"header":"5. Information Handling and Privacy","level":3,"line_start":145,"line_end":153,"anchor":"#5-information-handling-and-privacy"},
+        {"header":"6. Office of the Census","level":3,"line_start":154,"line_end":166,"anchor":"#6-office-of-the-census"},
+        {"header":"7. Records, Audit, and Challenge","level":3,"line_start":167,"line_end":179,"anchor":"#7-records-audit-and-challenge"}
       ]
     },
     "subcore_08.010_system_classification.md": {
