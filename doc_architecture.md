@@ -1487,4 +1487,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **Nine hundred and ninety-ninth move (group the voting and counting rules; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): organize the list in [Subcore 7-A §5](subcore_07.010_electoral_office.md#5-running-and-counting-votes) under access and equal treatment, and counting, results, and verification, with emergencies kept as a separate item. The existing rules and wording are unchanged.
 
+**One thousandth move (general scaling for shared Independent Bodies; 2026-11-24; clarification; uncommitted).** Decision (custodian, asked in session): generalize the sharing and safeguards in [Subcore 7-A §9](subcore_07.010_electoral_office.md#9-proportional-scaling). [Chapter Seven §3](core_07.000_independent_bodies.md#3-what-makes-a-body-independent) expressly permits adopters to share an Independent Body by published agreement and states that applicable duties and protections remain in force for each adopter and its sentients, including access to records, challenge routes, and required audits. Effect on a rule: clarifies shared provision and continued application of existing duties; the Electoral Office's separate-roll and post-vote audit safeguards remain in place.
+
 **Next file:** [README.md](README.md)

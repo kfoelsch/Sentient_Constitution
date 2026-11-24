@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-24T22:21:55+00:00",
+  "generated_at": "2026-11-24T22:36:48+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 181,
@@ -321,13 +321,13 @@
       ]
     },
     "core_07.000_independent_bodies.md": {
-      "total_lines": 234,
+      "total_lines": 235,
       "sections": [
-        {"header":"CHAPTER SEVEN: INDEPENDENT BODIES","level":1,"line_start":2,"line_end":234,"anchor":"#chapter-seven-independent-bodies"},
+        {"header":"CHAPTER SEVEN: INDEPENDENT BODIES","level":1,"line_start":2,"line_end":235,"anchor":"#chapter-seven-independent-bodies"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":33,"line_end":47,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why Independent Bodies Exist","level":3,"line_start":48,"line_end":75,"anchor":"#2-why-independent-bodies-exist"},
-        {"header":"3. What Makes a Body Independent","level":3,"line_start":76,"line_end":189,"anchor":"#3-what-makes-a-body-independent"},
-        {"header":"4. The Bodies This Constitution Creates","level":3,"line_start":190,"line_end":234,"anchor":"#4-the-bodies-this-constitution-creates"}
+        {"header":"3. What Makes a Body Independent","level":3,"line_start":76,"line_end":190,"anchor":"#3-what-makes-a-body-independent"},
+        {"header":"4. The Bodies This Constitution Creates","level":3,"line_start":191,"line_end":235,"anchor":"#4-the-bodies-this-constitution-creates"}
       ]
     },
     "core_08.000_system_alignment_certification_evaluation.md": {

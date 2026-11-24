@@ -177,8 +177,9 @@ Where an official's decision can be overturned by a phone call, the public gets 
 
 **Pattern evidence:** A removal, reassignment, pay change, or funding change that follows a decision, finding, or figure adverse to the party that made the change is evidence of interference. The party that made the change must show a lawful, published reason unrelated to that outcome.
 
-**Scaling:** [Chapter Six §7 Proportional Scaling and Merged Hosting](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting) applies. A small adopter may place an Independent Body's seats in fewer hands, share buildings, clerks, and systems with other bodies, or use another adopter's Independent Body, or its published work, by published agreement if that body meets this section. Even where hosting is merged or shared:
+**Scaling:** [Chapter Six §7 Proportional Scaling and Merged Hosting](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting) applies. A small adopter may place an Independent Body's seats in fewer hands, share buildings, clerks, and systems with other bodies, share an Independent Body with other adopters, or use another adopter's Independent Body, or its published work, by published agreement if that body meets this section. Even where hosting is merged or shared:
 
+- where adopters share an Independent Body or use another adopter's body, its applicable duties and protections remain in force for each adopter and its sentients, including access to records, challenge routes, and required audits;
 - the verify-or-authorize seat for the body's binding acts stays outside the body;
 - its decision-makers stay separate from the bodies it serves, funds, checks, or measures, and from any Independent Body that funds, checks, or measures it;
 - *Protected funding*, including the reserve, applies in full;
