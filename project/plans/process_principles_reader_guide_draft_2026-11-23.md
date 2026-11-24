@@ -300,21 +300,35 @@ These are floors, not steps. They carry both aims, [Flourishing](../../core_00.0
 
 These keep the systems behind a process honest, open, and correctable. They mainly serve [Continuity](../../core_00.000_preamble.md#continuity), and they make [Oversight](../../subcore_03.055_apex_oversight_leg.md#oversight) possible.
 
+#### Honest, open, and contestable
+
+A process can only be trusted, checked, and challenged if the systems behind it tell the truth and do not hide behind complexity or labels.
+
 - [Chapter Two §6 Trust and Trustworthiness (Coordination Integrity)](../../core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity): reliance on a process must be earned by how it actually behaves, not by spin, secrecy, or hidden transfers of risk.
+- [Chapter Two §13.2.2 Trust-Truth Alignment](../../core_02.020_interaction_interpretation.md#1322-trust-truth-alignment): where trust and truth pull apart, truth wins; disclosure is managed with care, never suppressed for stability.
 - [Chapter Two §16.3 Openness Aspiration](../../core_02.040_stewardship_capacity_principles.md#163-openness-aspiration): where safety and confidentiality allow, processes are open by default: inspectable, verifiable, and possible to leave.
+- [Chapter Two §5.2.4 Complexity-as-Defeat Discipline](../../core_02.000_values_principles.md#524-complexity-as-defeat-discipline): complicated language, confusing procedures, or deliberate obscurity may not be used to stop sentients from contesting a decision.
+- [Chapter Two §3.1.4 Unfair Treatment](../../core_02.000_values_principles.md#314-unfair-treatment): unfair treatment may not hide behind technical language, neutral labels, or automated decisions.
+- [Chapter Two §15.1.2 Derived-Information Principle](../../core_02.030_constitutional_interpretation.md#1512-derived-information-principle): information is protected by what it reveals, so combining harmless-looking pieces does not escape a requirement.
+
+#### Incentives and proxies
+
+What a system rewards shapes how its processes run. These keep rewards and measures pointed at real outcomes, and require a fix when they drift or are captured.
+
 - [Chapter Two §19.1 Alignment Requirement](../../core_02.050_governance_incentive_application.md#191-alignment-requirement): the incentives acting on whoever runs a process must point the same way as this Constitution's values and constraints.
 - [Chapter Two §19.2 Convenient Proxies and Proxy Divergence](../../core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence): a process must not reward hitting a convenient target where the target predictably conflicts with the real outcome.
 - [Chapter Two §19.4 Misalignment Correction and Capture Response](../../core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response): once misalignment or capture is found, the process is actually fixed: bad incentives changed and concentrated control constrained.
+- [Chapter Two §3.2.2 Celebration of Success](../../core_02.000_values_principles.md#322-celebration-of-success): recognition goes to traceable, non-misleading accomplishment, not to claims that cannot be checked.
+
+#### Capacity, efficiency, and concentration
+
+These keep a system able to do its work without waste, judge it by what the whole system does over time, and flag concentration before it becomes control.
+
+- [Chapter Two §9.1.1 Preserve, Expand, and What Does Not Count](../../core_02.010_values_principles_continuity_aim.md#911-preserve-expand-and-what-does-not-count): keep the capacity to get things done, and grow it where that saves time, but not by hoarding, faking numbers, or shifting harm.
 - [Chapter Two §9.2 Constitutional Efficiency](../../core_02.010_values_principles_continuity_aim.md#92-constitutional-efficiency): more real benefit for each hour of sentient time and effort, without cutting corners on rights, truth, safety, or ecology.
+- [Chapter Two §11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_02.010_values_principles_continuity_aim.md#1111-concentration-threshold-triggers-adopter-tunable): published thresholds mark when concentration needs heightened review, intervention, or a structural remedy.
 - [Chapter Two §12 Systemic Evaluation Requirement](../../core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement): claims about a process are checked against what the whole system does over time, not a slogan or a snapshot.
 - [Chapter Two §18.6 Standardization](../../core_02.050_governance_incentive_application.md#186-standardization): if there is no good reason to do a step differently, use the common, published way; a difference needs a reason.
-- [Chapter Two §3.1.4 Unfair Treatment](../../core_02.000_values_principles.md#314-unfair-treatment): unfair treatment may not hide behind technical language, neutral labels, or automated decisions.
-- [Chapter Two §3.2.2 Celebration of Success](../../core_02.000_values_principles.md#322-celebration-of-success): recognition goes to traceable, non-misleading accomplishment, not to claims that cannot be checked.
-- [Chapter Two §5.2.4 Complexity-as-Defeat Discipline](../../core_02.000_values_principles.md#524-complexity-as-defeat-discipline): complicated language, confusing procedures, or deliberate obscurity may not be used to stop sentients from contesting a decision.
-- [Chapter Two §9.1.1 Preserve, Expand, and What Does Not Count](../../core_02.010_values_principles_continuity_aim.md#911-preserve-expand-and-what-does-not-count): keep the capacity to get things done, and grow it where that saves time, but not by hoarding, faking numbers, or shifting harm.
-- [Chapter Two §11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_02.010_values_principles_continuity_aim.md#1111-concentration-threshold-triggers-adopter-tunable): published thresholds mark when concentration needs heightened review, intervention, or a structural remedy.
-- [Chapter Two §13.2.2 Trust-Truth Alignment](../../core_02.020_interaction_interpretation.md#1322-trust-truth-alignment): where trust and truth pull apart, truth wins; disclosure is managed with care, never suppressed for stability.
-- [Chapter Two §15.1.2 Derived-Information Principle](../../core_02.030_constitutional_interpretation.md#1512-derived-information-principle): information is protected by what it reveals, so combining harmless-looking pieces does not escape a requirement.
 
 ### Who may run a process, and how they are placed
 
