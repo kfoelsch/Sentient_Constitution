@@ -221,7 +221,7 @@ Every evaluation follows the published template and states, at a minimum:
     - effects on rights under the Chapter Four Rights Floor and on access to survival-floor goods and services;
     - effects on [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity) and on [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden); and
     - the cost to public money, now and over time.
-- **Uncertainty:** how confident the office is in each estimate, on a published confidence scale, the same one for every evaluation, and what evidence would change it.
+- **Uncertainty:** how confident the office is in each estimate, using the [Subcore 7-D §4.2 confidence ladder](subcore_07.040_public_information_office.md#42-the-confidence-ladder) and its [§4.3 application rules](subcore_07.040_public_information_office.md#43-applying-the-confidence-ladder), and what evidence would change it. The office rates its own estimates using the published criteria and independent checking those rules require.
 - **Alternatives:** doing nothing, and any other options that would plausibly meet the same aim at lower cost or harm.
 - **Measurement and review:** the indicators that would show whether the policy works, and a proposed review date.
 - **Long horizon:** where effects reach beyond the published horizon or cannot be undone, a long-horizon section prepared with the Public Stewardship Office.

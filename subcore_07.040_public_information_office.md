@@ -19,7 +19,7 @@
 
 **Purpose:** The Public Information Office measures whether real-world outcomes reflect this Constitution’s principles and gives sentients and public bodies reliable, accessible evidence for public and private decision-making, with uncertainty, limitations, and gaps visible.
 
-**Role:** The Public Information Office is the Constitution’s **primary public measurer of constitutional results**. It maps evidence of real-world outcomes to the principles they serve and to the measurement categories in the [Preamble §2 Measurements Overview](core_00.000_preamble.md#2-measurements-overview). Subcore 7-D is the constitutional owner of this office’s **public constitutional measurement**, **official statistics**, and **Office of the Census**. Where it sits:
+**Role:** The Public Information Office is the Constitution’s **primary public measurer of constitutional results**. It maps evidence of real-world outcomes to the principles they serve and to the measurement categories in the [Preamble §2 Measurements Overview](core_00.000_preamble.md#2-measurements-overview). Subcore 7-D is the constitutional owner of this office’s **public constitutional measurement**, **official statistics**, **confidence ladder**, and **Office of the Census**. Where it sits:
 
 - [Preamble §3.1 Using Measurements in Governance](core_00.000_preamble.md#31-using-measurements-in-governance) assigns shared technical standards to Technical Forum Domains and case decisions to the responsible forum. The office applies those standards where required; its public measurement does not decide a case or replace another body’s specific measurement duties.
 - [Chapter Seven §3](core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (*What Makes a Body Independent*) protects the office from direction and sets its funding, privacy, and review safeguards.
@@ -30,6 +30,7 @@
 
 - measures constitutional results and maps them to the principles and measurement categories (§4.1 *Measuring Constitutional Results*);
 - keeps a public statistical program and produces official statistics (§4 *Public Statistics and Methods*);
+- maintains and applies a nine-rung confidence ladder (§4.2 *The Confidence Ladder*);
 - publishes methods, limitations, uncertainty, releases, and corrections (§4 *Public Statistics and Methods*);
 - protects information collected for its work (§5 *Information Handling and Privacy*);
 - plans and conducts a recurring census through its Office of the Census (§6 *Office of the Census*); and
@@ -94,6 +95,48 @@ The office maintains and publishes a constitutional measurement program. It meas
 - **Uses shared standards:** applies the standards Technical Forum Domains develop and maintain where the Constitution requires concrete measurement rules, under [Preamble §3.1 Using Measurements in Governance](core_00.000_preamble.md#31-using-measurements-in-governance). Other bodies retain the measurement and decision duties their own governing text assigns them.
 
 The office includes the program's results, material gaps, and changes in its yearly report under §7 (*Records, Audit, and Challenge*), with links to the evidence and methods. It updates the mapping when evidence, methods, or constitutional text change, and preserves the history under §4 (*Public Statistics and Methods*).
+
+<a id="42-the-confidence-ladder"></a>
+#### 4.2 The Confidence Ladder
+
+*In plain terms: a finding comes with a nine-step description of how well the evidence supports it. More independent confirmation, better methods, and stronger statistical evidence raise confidence; a number on its own cannot prove a claim.*
+
+The office maintains and publishes a **confidence ladder**, numbered 1 (weakest) to 9 (strongest). It rates each substantive figure or finding it publishes against the specific claim, population, place, period, and conditions stated with it. The rating describes confidence in the evidence for that claim; it is not a probability that the claim is true, a measure of its importance, or a decision about a right. When a publication reports someone else's unrated claim, the office identifies the source and says that it is not rated; it does not present it as its own finding.
+
+The ladder considers three dimensions together: **confirmation**, meaning the amount and independence of evidence; **quality**, meaning the suitability, execution, coverage, and review of the methods; and **statistical strength**, meaning precision and other evidence suited to the claim. Higher rungs call for stronger evidence across all three, assessed by the rules for the type of finding. An impressive result on one dimension cannot erase a material weakness in another.
+
+| Rung | Name | What the evidence shows |
+|---:|---|---|
+| 1 | Anecdotal | An isolated account, judgment, or untested model; no systematic confirmation. |
+| 2 | Indicative | An exploratory source or analysis suggests a possibility, but its methods, coverage, or uncertainty leave major questions. |
+| 3 | Preliminary | One systematic source or study has a stated method and has been checked, but important limitations or uncertainty remain. |
+| 4 | Provisional | A suitable method and useful evidence support the claim; independent confirmation or other material checks are still limited. |
+| 5 | Moderate | At least two independent sources or studies support the claim, with material limitations identified and uncertainty appropriate to the conclusion. |
+| 6 | Substantial | At least three independent sources or studies support the claim, sound methods predominate, and material alternatives and uncertainty have been examined. |
+| 7 | Strong | Several independent sources or teams, including a meaningful replication or independent check, support the claim; a systematic assessment addresses contrary evidence and bias. |
+| 8 | Robust | Multiple independent sources and methods or populations converge, with strong methods and a systematic assessment finding no unresolved material weakness in the claim. |
+| 9 | Established | Several independent lines of evidence converge across methods and conditions, have held through repeated testing and review over time, and leave no unresolved material challenge to the stated claim. |
+
+The office publishes criteria before applying them, including how the three dimensions are assessed for each type of evidence and how the rungs are distinguished. It applies shared technical standards where required under [Preamble §3.1 Using Measurements in Governance](core_00.000_preamble.md#31-using-measurements-in-governance). Where no suitable published criteria exist, it labels the finding **not yet rated**, explains the gap, and reports its uncertainty; it does not invent a rung. It may publish an early estimate when useful, clearly labeled as early and with the rating it has earned or the reason it is not yet rated.
+
+<a id="43-applying-the-confidence-ladder"></a>
+#### 4.3 Applying the Confidence Ladder
+
+*In plain terms: the office checks whether sources really confirm one another, uses tests suited to the kind of evidence, and explains the rating so others can challenge it.*
+
+The office applies the ladder as follows:
+
+- **Independent confirmation:** a repeat analysis of the same data may check a method but is not an independent source. The office discloses shared data, funding, methods, and other dependencies; separate teams alone do not establish independence. Conflicts are disclosed and evaluated, rather than treated as proof that a result is wrong.
+- **Quality and conflicting evidence:** the assessment considers design, coverage, bias, missing evidence, reproducibility, and whether results apply to the stated claim. It identifies material contrary findings and explains their effect on the rating; it may not ignore them to reach a higher rung.
+- **Statistical strength:** report effect size and an uncertainty interval where applicable, with assumptions and relevant limits. Where significance tests are used, report their results and account for multiple tests and selective analysis. A threshold or a small p-value alone does not establish truth, importance, absence of bias, or a rung. A discovery made after looking through data is identified as exploratory until independently tested.
+- **No effect:** a failure to find a statistically significant effect does not establish that there is no effect. A claim that an effect is absent or too small to matter states the relevant threshold and uses evidence precise enough to assess it.
+- **Official statistics and census:** confirmation may come from an independent source or method; quality includes coverage, missingness, measurement error, and audit. Precision or an audited error estimate is assessed in the context of the figure. A full count is not automatically error-free, and repeated use of one source is not independent confirmation.
+- **Forecasts:** a forecast states its assumptions and range. Its assessment considers a published record of past forecasts against outcomes, coverage of stated ranges, and comparison with a suitable simple benchmark. Repeating the same forecast is not independent confirmation; a new method without a track record is identified as such.
+- **Nonexperimental evidence:** where experiments are impossible or unethical, suitable observational and other methods may support a high rung when their design, alternative explanations, uncertainty, and independent corroboration justify it. The office explains the basis rather than treating lack of an experiment as automatic disqualification.
+- **Combined findings:** the office identifies material inputs and their dependencies. A weak input limits the result where it materially drives the conclusion; the office explains any reason the overall assessment differs from an input's rating.
+- **Review and correction:** a qualified method reviewer in the independent check seat, outside the producing team, checks the rating and its reasons before release. The office publishes the evidence, reasons, material disagreements, and the criteria used, subject to §5 (*Information Handling and Privacy*). It records changes to a rating and their reasons. A rating can be challenged under §7 (*Records, Audit, and Challenge*), and no one may steer it because of the result.
+
+The rung accompanies the office's figure or finding when it is published, along with the uncertainty and limitations needed to interpret it. The ladder does not set a minimum rung for a decision; the governing rules for that decision control.
 
 <a id="5-information-handling-and-privacy"></a>
 ### 5. Information Handling and Privacy

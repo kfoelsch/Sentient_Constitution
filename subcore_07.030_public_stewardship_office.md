@@ -120,7 +120,7 @@ It looks beyond the fifth outlook horizon (100 years) where a risk requires it. 
 - **Obligations to the future:** public debt, unfunded commitments, maintenance left undone, and depleting resources that later generations will carry;
 - **Opportunities:** developments that could markedly improve life, and what it would take to reach them;
 - **Scenarios:** more than one plausible future, including severe ones, and what would tell them apart early; and
-- **Confidence:** how sure the office is of each part, on a published confidence scale, the same one the Public Policy Office uses.
+- **Confidence:** how sure the office is of each part, using the [Subcore 7-D §4.2 confidence ladder](subcore_07.040_public_information_office.md#42-the-confidence-ladder) and its [§4.3 application rules](subcore_07.040_public_information_office.md#43-applying-the-confidence-ladder). The office rates its own findings using the published criteria and independent checking those rules require.
 
 <a id="5-long-term-risk-register"></a>
 
