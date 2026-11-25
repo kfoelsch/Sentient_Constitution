@@ -76,6 +76,14 @@ The Constitution spreads its work across many chapters, a subcore, and four adop
   - [Article XXIV-A](core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*);
   - [Article XXIV-B](core_04.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*).
 
+**How the files fit together:**
+
+- **Core (`core_*`):** The numbered files contain the Constitution's chapters, written to be read together as one text. They state the guarantees and the constitutional structure.
+- **Subcore (`subcore_*`):** These files give the full rules and procedures behind the chapters. Each belongs to a chapter, has the same force as that chapter, and binds every adopter without separate incorporation. The subcore may not narrow its chapter.
+- **Implementation (`corpus_*`):** Four files provide operational detail for carrying out the Constitution. They bind within the scope of valid incorporation and implement the Constitution without narrowing it. [Section 9](#9-adopted-implementation-corpus) identifies the four files.
+
+The defined [Corpus](subcore_03.080_band_integrative.md#corpus) is the wider, versioned set of binding constitutional sources: it includes the core, the subcore, adopted implementation text, and any valid compatibility wrappers during transition. Drafts, notes, and navigational guides do not become binding merely by being part of the project.
+
 <a id="3-key-governance-processes"></a>
 ### 3. Key Governance Processes
 

@@ -1499,4 +1499,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and twenty-second move (subsections for measurements overview; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): organize [Chapter Zero §2](core_00.000_preamble.md#2-measurements-overview) into subsections for purpose and standards, public measurement, measurement categories, and their effect. Effect on a rule: none; the provisions are unchanged.
 
+**One thousand and twenty-third move (explain the constitutional file layers; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): add a short guide before [Chapter One §3](core_01.000_constitutional_map.md#3-key-governance-processes) explaining the core, subcore, and implementation files and distinguishing them from the defined Corpus. Effect on a rule: none; the guide summarizes the existing Corpus definition and Chapter One §9.
+
 **Next file:** [README.md](README.md)
+
