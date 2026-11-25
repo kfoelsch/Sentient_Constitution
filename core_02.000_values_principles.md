@@ -588,7 +588,7 @@ This section is where the Preamble's [Two Fundamental Questions](core_00.000_pre
 <a id="321-recognition-and-reinforcement"></a>
 ##### 3.2.1 Recognition and Reinforcement
 
-Sentient wellbeing improves when systems show that they value and give credit for lawful stewardship (responsible care of shared systems), truthful cooperation, repair, following through, and other contributions that align with the Constitution. Systems can also encourage these contributions with rewards that fit what was contributed, positive feedback, and public recognition. They should not rely only on restrictions, penalties, or silence.
+Sentient wellbeing advances when systems signal, credit, and proportionately reward lawful stewardship, truthful cooperation, repair, completion, and other constitutionally aligned contributions — including through positive reinforcement and public recognition — and not solely through restraint, sanction, or silence.
 
 That is a constitutional duty, not optional culture. Shared systems should make constitutionally aligned conduct visible and worth repeating.
 
@@ -614,13 +614,12 @@ Wanting something is not a free pass. Where consent, dignity, Safety, Truth, sub
 <a id="324-preference-aligned-recognition"></a>
 ##### 3.2.4 Preference-Aligned Recognition
 
-Where practicable, systems should **tailor** recognition, acclaim, and proportional reward to how sentients want to be honored — especially their stated preferences about **form and visibility**.
+Where practicable, systems should align recognition with sentients' preferences:
 
-That includes honoring **opt-out** from public or ceremonial recognition, or preference for **minimal or private** acknowledgment, when proportionate and lawful.
-
-**Unwelcome** or **coercive** recognition fails this requirement — including spotlighting sentients who **decline**.
-
-Recognition should feel **meaningful** to those honored and to the communities they work with, not like a performance staged mainly for outside observers.
+- **Form and visibility:** Tailor recognition, acclaim, and proportional reward to how sentients want to be honored, especially their stated preferences about form and visibility.
+- **Opt-out and privacy:** Honor a sentient's choice to decline public or ceremonial recognition, or to receive only minimal or private acknowledgment, when proportionate and lawful.
+- **Avoid unwanted recognition:** Do not use unwelcome or coercive recognition, including spotlighting sentients who decline.
+- **Meaning:** Recognition should feel meaningful to those honored and to the communities they work with, not like a performance staged mainly for outside observers.
 
 <a id="325-aligned-recognition-pathways"></a>
 ##### 3.2.5 Aligned Recognition Pathways
