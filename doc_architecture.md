@@ -1501,5 +1501,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and twenty-third move (explain the constitutional file layers; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): add a short guide before [Chapter One §3](core_01.000_constitutional_map.md#3-key-governance-processes) explaining the core, subcore, and implementation files and distinguishing them from the defined Corpus. Effect on a rule: none; the guide summarizes the existing Corpus definition and Chapter One §9.
 
+**One thousand and twenty-fourth move (bullet the key governance process introduction; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): present the introductory passage in [Chapter One §3](core_01.000_constitutional_map.md#3-key-governance-processes) as bullets and label the following list of paths. Effect on a rule: none; the passage is unchanged.
+
 **Next file:** [README.md](README.md)
 
