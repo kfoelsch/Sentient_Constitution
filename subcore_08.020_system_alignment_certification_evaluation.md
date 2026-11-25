@@ -10,16 +10,16 @@
 > |------|------|------|
 > | **Chapter Eight — Evaluation** | [Subcore 8-B — `subcore_08.020_system_alignment_certification_evaluation.md`](subcore_08.020_system_alignment_certification_evaluation.md) | §1–§6: purpose and process overview (with a chart of the whole certification process in its six phases), **Phase I Frame** (system class, how system class scales every evaluation, and pilot certification) and **Phase II Evaluate** (whole-system evaluation in three sub-phases: **IIa** always, in §4, including chartered scope versus functional boundaries and data types and handling; **IIb** where implicated, in §5; and **IIc** where triggered, the Rights-Floor and domain evaluations, in §6) |
 > | **Chapter Nine — Forum process and outcomes** | [Subcore 8-D — `subcore_08.040_system_alignment_certification_forum_process_outcomes.md`](subcore_08.040_system_alignment_certification_forum_process_outcomes.md) | Chapter Nine §3–§4: **Phase III Review** (forum roles, supervisory sequence, and the contestability chain) and **Phase IV Decide** (certification outcomes, including the go-live gate) |
-> | **Chapter Ten — Record, recertification, and standing** | [Subcore 8-F — `subcore_08.060_system_alignment_certification_records_recertification.md`](subcore_08.060_system_alignment_certification_records_recertification.md) | Chapter Ten §3–§6: **Phase V Record** (the System Certification Record and its integrity, including governing [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter) fields) and **Phase VI Operate** (recertification and reopening; the challenge path; the standing bridge) |
+> | **Chapter Ten — Record, recertification, and standing** | [Subcore 8-F — `subcore_08.060_system_alignment_certification_records_recertification.md`](subcore_08.060_system_alignment_certification_records_recertification.md) | Chapter Ten §3–§6: **Phase V Record** (the System Certification Record and its integrity, including governing [System Charter](subcore_03.075_band_continuity.md#system-charter) fields) and **Phase VI Operate** (recertification and reopening; the challenge path; the standing bridge) |
 >
 > **How the two certifications relate.** System Alignment Certification (this chapter) is the certification of a System. Institutional alignment certification ([Subcore 9-B](subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation)) is the certification of an Institution, which may run Systems or none. Chapter Eleven cites each System's System Certification Record by link and does not redo it; [Subcore 9-B §1](subcore_09.020_institutional_alignment_certification_evaluation.md#1-purpose-role-and-scope) states the relation and [Subcore 9-B §2.2](subcore_09.020_institutional_alignment_certification_evaluation.md#22-no-permission-and-no-gate-on-forming-or-running) states that it is not a licence. Its sections carry the same numbers as this chapter's, under parallel titles.
 >
-> - **Constitutional owner (joint with Chapters Nine and Ten):** forum-supervised **system alignment certification and related System Certification Records** — evaluation domains (Chapter Eight); forum process, supervisory sequence, and certification outcomes with the go-live gate (Chapter Nine); System Certification Record duties, the challenge path, recertification and reopening, and the verified-input bridge to Chapter Fourteen (all in Chapter Ten). Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Three [Subcore 3-M — Auditability](subcore_03.085_band_oversight.md#auditability).
-> - **Verification substrate owner:** [Subcore 3-C — Burden of Proof, Traceability, and Verification](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) (within Subcores 3-A to 3-C) owns burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. Chapter Eight **applies** that discipline to System Certification Records; it does **not** restate Subcore 3-C sections **1** through **6**.
+> - **Constitutional owner (joint with Chapters Nine and Ten):** forum-supervised **system alignment certification and related System Certification Records** — evaluation domains (Chapter Eight); forum process, supervisory sequence, and certification outcomes with the go-live gate (Chapter Nine); System Certification Record duties, the challenge path, recertification and reopening, and the verified-input bridge to Chapter Fourteen (all in Chapter Ten). Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Three [Auditability](subcore_03.085_band_oversight.md#auditability).
+> - **Verification substrate owner:** [Burden of Proof, Traceability, and Verification](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) (within Subcores 3-A to 3-C) owns burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. Chapter Eight **applies** that discipline to System Certification Records; it does **not** restate Subcore 3-C sections **1** through **6**.
 > - **Auditing home (not relocated here):** **Article XVII** (*Audit, Transparency, and Independent Verification*), **Def.O1** (*Transparency, Auditability, and Verification*), and **CJS-3.110 §3 and CJS-3.115 §3** (*Audit process home*)–**CJS-3.110 §5** own auditing floors and operational terms. Chapter Eight runs one especially large SAC audit process that must satisfy those floors; it does not own all auditing.
 > - **System classification owner:** [Subcore 8-A](subcore_08.010_system_classification.md#subcore-8-a-system-classification), attached to this chapter, owns the classification dimensions and factors, the dependency types, the impact classes with their scaled duties, and the steward levels that §3 applies.
-> - **Implementation owner:** system-class handling, CS-4.345 (*System lifecycle*), and forum-process detail in designated implementation files must remain consistent with Chapter Eight and may be stricter where the corpus already provides a [Subcore 3-L — Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) rule.
-> - **Anti-relocation rule:** Chapter Eight does not restate Chapter Three canonical definitions, Subcore 3-B anti-evasion discipline (see [Subcore 8-F §4.4](subcore_08.060_system_alignment_certification_records_recertification.md#44-non-evasion)), Chapter Fifteen contribution or standing measurement, or Chapter Sixteen standing effects. **[Subcore 8-F §6](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing)** states the standing bridge.
+> - **Implementation owner:** system-class handling, CS-4.345 (*System lifecycle*), and forum-process detail in designated implementation files must remain consistent with Chapter Eight and may be stricter where the corpus already provides a [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) rule.
+> - **Anti-relocation rule:** Chapter Eight does not restate Chapter Three canonical definitions, Subcore 3-B anti-evasion discipline (see [Subcore 8-F §4.4](subcore_08.060_system_alignment_certification_records_recertification.md#44-non-evasion)), Subcore 10-D contribution or standing measurement, or Chapter Sixteen standing effects. **[Subcore 8-F §6](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing)** states the standing bridge.
 >
 > **Upstream:** Chapter Three definitions; Subcores 3-A to 3-C record, verification, burden, and traceability of definitions to results; and [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), whose separation-of-duties requirement governs every materially binding certification act.
 > **Downstream:** [Subcore 8-D](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#subcore-8-d-system-alignment-certification--forum-process-and-outcomes) (*forum process and outcomes*) and [Subcore 8-F](subcore_08.060_system_alignment_certification_records_recertification.md#subcore-8-f-system-alignment-certification--records-recertification-challenge-and-standing) (*record, recertification, and standing bridge*); Chapter Fourteen Standing Records and verified inputs; Chapter Sixteen standing effects; Chapter Twenty-Two forum supervision and system alignment certification pathways.
@@ -39,18 +39,18 @@ Chapter Eight is the constitutional owner of **system alignment certification ev
 
 - Upstream:
   - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) and
-  - [Subcore 3-L — Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
+  - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [material stake](core_00.000_preamble.md#material-stake);
-  - [Subcore 3-J — Proportionality](subcore_03.070_band_accountability.md#proportionality) and
-  - [Subcore 3-N — Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) (Chapter Three); Participation measurement family (*voice, access, and contest paths*);
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality) and
+  - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) (Chapter Three); Participation measurement family (*voice, access, and contest paths*);
   - [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16);
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) (*canonical definitions*);
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3);
-  - [Subcore 3-K — System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) (Chapter Three canonical term; non-operative shorthand **SAC**);
-  - [Subcore 3-K — System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) (Chapter Three meaning).
+  - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) (Chapter Three canonical term; non-operative shorthand **SAC**);
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) (Chapter Three meaning).
 - Downstream:
   - [§3](#3-system-class-evaluation) (*system class evaluation*);
-  - [Subcore 8-F §5](subcore_08.060_system_alignment_certification_records_recertification.md#5-challenging-a-certification) (10.000 §5) (*challenging a certification*); and
+  - [Subcore 8-F §5](subcore_08.060_system_alignment_certification_records_recertification.md#5-challenging-a-certification) (S8-F §5) (*challenging a certification*); and
   - [CS-8.320 §2](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-2-illustrative-system-class-profiles) (*Illustrative System Class Profiles*);
   - [CS-8.320 §4](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-4-illustrative-whole-system-application-by-system-class) (*Illustrative Whole-System Application by System Class*);
   - [CS-8.320 §5](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-5-illustrative-data-handling-application-by-system-class) (*Illustrative Data-Handling Application by System Class*);
@@ -63,21 +63,21 @@ Chapter Eight is the constitutional owner of **system alignment certification ev
   - [§4](#4-whole-system-certification-evaluation) (*whole-system certification evaluation factors*);
   - [§4.4](#44-data-types-and-handling-evaluation) through
   - [§6.6](#66-trustworthiness-and-system-reliance-integrity-evaluation) (*domain evaluations*);
-  - [Subcore 8-D §3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (9.000 §3) (*supervisory sequence and contestability chain*);
-  - [Subcore 8-D §3.1](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#31-forum-supervision-and-component-roles) (9.000 §3.1) (*forum component roles*);
-  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*System Certification Record contents*);
-  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*record integrity requirements*);
-  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*certification outcomes*);
-  - [Subcore 8-F §6](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing) (10.000 §6) (*Standing-Record bridge*);
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*Standing Records and verified-input gate*);
-  - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000) (*standing effects and integration*);
+  - [Subcore 8-D §3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (S8-D §3) (*supervisory sequence and contestability chain*);
+  - [Subcore 8-D §3.1](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#31-forum-supervision-and-component-roles) (S8-D §3.1) (*forum component roles*);
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*System Certification Record contents*);
+  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity requirements*);
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*certification outcomes*);
+  - [Subcore 8-F §6](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing) (S8-F §6) (*Standing-Record bridge*);
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*Standing Records and verified-input gate*);
+  - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F) (*standing effects and integration*);
   - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*forum supervision, certification, alignment certification, and review*).
 - Read with:
   - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, and
   - **CS-4.345** (*System lifecycle*);
   - **CF-16.415** (*Routing operations, transfer, questions for ruling, and representative treatment*) and
   - **CF-16.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*); **Article XVII** (*Audit, Transparency, and Independent Verification*) and
-  - [Subcore 3-M — Auditability](subcore_03.085_band_oversight.md#auditability) (*auditing floors — SAC is one especially large audit process under oversight, not the sole auditing home*); **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*)–
+  - [Auditability](subcore_03.085_band_oversight.md#auditability) (*auditing floors — SAC is one especially large audit process under oversight, not the sole auditing home*); **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit process home*)–
   - **CJS-3.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*).
 
 </details>
@@ -114,12 +114,12 @@ The chapter leaves forum review and outcomes to Chapter Nine, the Certification 
 
 - A certification is not a popularity score, a forever pass, or a way to skip rights review.
 - It is a time-bound, challengeable statement of what is known about the system's alignment right now.
-- Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Subcore 3-M — Auditability](subcore_03.085_band_oversight.md#auditability)).
+- Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](subcore_03.085_band_oversight.md#auditability)).
 
 Certification implements the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
 
 - **[Flourishing](core_00.000_preamble.md#flourishing)** — certification verifies that certification or continued reliance would not quietly defeat Rights Floors or block fair participation in constitutionally relevant life;
-- **[Continuity](core_00.000_preamble.md#continuity)** — certification verifies durable, non-regressive supply that sustains rather than depletes healthy natural systems ([Subcore 3-K — Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity), including [Subcore 3-K — Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity)), and system-class-scaled recertification where shared systems gate or sustain delivery;
+- **[Continuity](core_00.000_preamble.md#continuity)** — certification verifies durable, non-regressive supply that sustains rather than depletes healthy natural systems ([Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity), including [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity)), and system-class-scaled recertification where shared systems gate or sustain delivery;
 - **Participation** — affected sentients and communities can understand, contest, and take part in review paths that matter to them;
 - **Oversight** — records, evidence, and assumptions are visible and auditable enough for independent checking; certification itself is one especially large audit process under that oversight duty, not the only one;
 - **Accountability** — defects, misclassification, and floor-defeating operation route to remedy, certification conditions, withdrawal, or standing input where the facts support it;
@@ -129,9 +129,9 @@ Certification implements the [Two Constitutional Aims](core_00.000_preamble.md#t
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): stakeholder concerns are heard in the evaluation;
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the System Certification Record names who decided what;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): forums review the evidence independently before a system goes live;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): stakeholder concerns are heard in the evaluation;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the System Certification Record names who decided what;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): forums review the evidence independently before a system goes live;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): only systems that serve sentients well are certified;
     - [Continuity](core_00.000_preamble.md#continuity): evaluation catches risks to shared systems before they spread;
@@ -150,7 +150,7 @@ Certification implements the [Two Constitutional Aims](core_00.000_preamble.md#t
 
 #### 2.1 Certification as an Audit Process, Scaled by System Class
 
-As an oversight mechanism, certification is one especially large audit process under [Subcore 3-M — Auditability](subcore_03.085_band_oversight.md#auditability) and **Article XVII** (*Audit, Transparency, and Independent Verification*):
+As an oversight mechanism, certification is one especially large audit process under [Auditability](subcore_03.085_band_oversight.md#auditability) and **Article XVII** (*Audit, Transparency, and Independent Verification*):
 
 - It is forum-supervised, multi-domain, and status-granting.
 - It may integrate the results of sibling audit modes, and it does not absorb or replace them. Each keeps its own owner, named in the [sibling audit modes map](corpus_joint_structure/cjs_03.115_audit_process.md#sibling-audit-modes-owner-map) of the audit process home:
@@ -162,7 +162,7 @@ As an oversight mechanism, certification is one especially large audit process u
   - claim verification under **CJS-3.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*)
 - You can still run any of these evaluations on their own, without going through certification. Certification doesn't replace them.
 
-Certification depth, record burden, certification interval, stakeholder review, and contest paths must scale with [material stake](core_00.000_preamble.md#material-stake) under [Subcore 3-J — Proportionality](subcore_03.070_band_accountability.md#proportionality):
+Certification depth, record burden, certification interval, stakeholder review, and contest paths must scale with [material stake](core_00.000_preamble.md#material-stake) under [Proportionality](subcore_03.070_band_accountability.md#proportionality):
 
 - Higher-impact, higher-dependency, and higher-risk systems require stronger proof, clearer records, and more practicable participation — including substantive accessibility, stakeholder input, and challenge routes scaled to who relies on the system.
 - Lower system classes and bounded scopes still require honest classification and proportionate assurance; they do not receive a free pass from material obligations where external effects exist.
@@ -290,14 +290,14 @@ flowchart TB
 
 - Upstream:
   - [§1](#1-purpose-role-and-scope) (*purpose and role*); Integrative Materiality (
-  - [Subcore 3-M — Materiality](subcore_03.085_band_oversight.md#materiality)) (*Materiality*);
+  - [Materiality](subcore_03.085_band_oversight.md#materiality)) (*Materiality*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
-  - [Subcore 3-M — Material Impact](subcore_03.085_band_oversight.md#material-impact),
-  - [Subcore 3-K — Dependency](subcore_03.075_band_continuity.md#dependency),
-  - [Subcore 3-K — Risk](subcore_03.075_band_continuity.md#risk),
-  - [Subcore 3-K — System Boundaries](subcore_03.075_band_continuity.md#system-boundaries), and
-  - [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter) (Chapter Three);
+  - [Material Impact](subcore_03.085_band_oversight.md#material-impact),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Risk](subcore_03.075_band_continuity.md#risk),
+  - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries), and
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter) (Chapter Three);
   - [Chapter Two §12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) (2.010 §12); **Article III-A** (*Survival*) and **Article IV-A** (*Rights-Floor delivery where classification gates access*); **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
 - Downstream:
   - [§3.1](#31-certification-recertification-and-defects) (*certification status, recertification, and defects*);
@@ -315,11 +315,11 @@ flowchart TB
   - [§4.4](#44-data-types-and-handling-evaluation) (*joint data-handling evaluation*);
   - [§6.1](#61-ecological-footprint-evaluation) (*ecological footprint evaluation*);
   - [§6.3](#63-proportionate-cross-system-support-evaluation) (*cross-system support evaluation*);
-  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*record integrity*);
-  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (10.000 §6.3) (*verified-input gate*);
-  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*classification drift and reclassification triggers*).
+  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity*);
+  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (S8-F §6.3) (*verified-input gate*);
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*classification drift and reclassification triggers*).
 - Read with:
-  - [Subcore 3-K — System Classification Record](subcore_03.075_band_continuity.md#system-classification-record);
+  - [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record);
   - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, including **
   - [Subcore 8-A §3.5 reclassification requirement](subcore_08.010_system_classification.md#35-reclassification-requirement)** (*Reclassification requirement* — triggers, system-class-scaled evaluation depth, and SAC verification bridge) and **
   - [CS-8.305 §7](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-7-classification-governance-disclosure-and-challenge)** (*Classification Governance, Disclosure, and Challenge*) — System Classification Record governance duties and the SAC bridge;
@@ -354,10 +354,10 @@ This section states what certification must verify:
   - that classification is determined by actual system behavior and impacts, not from:
     - declared intent;
     - nominal scope;
-    - [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter) text alone; or
+    - [System Charter](subcore_03.075_band_continuity.md#system-charter) text alone; or
     - self-description alone;
   - that the system's class was re-checked under the **[Subcore 8-A §3.5 reclassification requirement](subcore_08.010_system_classification.md#35-reclassification-requirement)** whenever a significant change called for it; and
-  - that the [Subcore 3-K — System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) shows the **highest system class that applies** under current conditions.
+  - that the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) shows the **highest system class that applies** under current conditions.
 - **Assurance and regression testing:**
   - that system-class-scaled assurance, infrastructure robustness, and regression coverage match the assigned system class under:
     - CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*); and
@@ -431,11 +431,11 @@ Participation and proportionality requirements scale the same way:
 
 #### 3.3 Pilot Certification
 
-A **[Subcore 3-K — pilot](subcore_03.075_band_continuity.md#pilot)** is a [Subcore 3-K — go-live](subcore_03.075_band_continuity.md#go-live), so it needs its own certification before it starts, under the go-live rule in [Subcore 8-D §4.1 Go-Live Gate](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate).
+A **[pilot](subcore_03.075_band_continuity.md#pilot)** is a [go-live](subcore_03.075_band_continuity.md#go-live), so it needs its own certification before it starts, under the go-live rule in [Subcore 8-D §4.1 Go-Live Gate](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate).
 
 - A system at any system class is expected to run a pilot before full deployment; one that does not records why.
 - A pilot still needs an honest classification and every evaluation whose trigger applies, and its certified scope, population, and duration are stated on its System Certification Record.
-- It is evaluated on its own System Certification Record, at a depth scaled to its system class and to how substitutable the system is: whether a viable alternative exists for the sentients it would affect or who would rely on it, and at what cost, delay, and loss of function (see [Subcore 3-K — Dependency](subcore_03.075_band_continuity.md#dependency)).
+- It is evaluated on its own System Certification Record, at a depth scaled to its system class and to how substitutable the system is: whether a viable alternative exists for the sentients it would affect or who would rely on it, and at what cost, delay, and loss of function (see [Dependency](subcore_03.075_band_continuity.md#dependency)).
   - The more readily the system can be replaced, and the lower its system class, the lighter the pilot's evaluation may be.
   - A pilot of a system that cannot readily be replaced is evaluated at the depth its system class requires at full deployment.
 
@@ -457,10 +457,10 @@ A **[Subcore 3-K — pilot](subcore_03.075_band_continuity.md#pilot)** is a [Sub
   - [§4.4](#44-data-types-and-handling-evaluation) through
   - [§6.6](#66-trustworthiness-and-system-reliance-integrity-evaluation) (*domain evaluations*);
   - [CS-8.320 §2](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-2-illustrative-system-class-profiles) (*Illustrative System Class Profiles*);
-  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*record contents*);
-  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*record integrity*);
-  - [Subcore 8-D §3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (9.000 §3) (*contestability chain*);
-  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*certification outcomes*).
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*record contents*);
+  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity*);
+  - [Subcore 8-D §3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (S8-D §3) (*contestability chain*);
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*certification outcomes*).
 - Read with:
   - [Chapter Two §16](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16),
   - [§18](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
@@ -468,13 +468,13 @@ A **[Subcore 3-K — pilot](subcore_03.075_band_continuity.md#pilot)** is a [Sub
   - [Chapter Two §7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_02.000_values_principles.md#74-voluntary-discontinuation-and-exit-rights) (2.000 §7.4);
   - [Chapter Two §7.2 Assembly, Collective Organization, and Institutional Formation](core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation) (2.000 §7.2); **Article XVII** (*Audit, Transparency, and Independent Verification*) where audit, transparency, or independent-verification Rights Floors are materially at stake; Continuity measurement family (
   - [§4.2](#42-systemic-scope-and-risk-factors) — resilience, reversibility, and systemic risk);
-  - [Subcore 3-K — Risk Evaluation](subcore_03.075_band_continuity.md#risk-evaluation);
-  - [Subcore 3-M — Risk Disclosure](subcore_03.085_band_oversight.md#risk-disclosure);
-  - [Subcore 3-M — Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure); Participation measurement family (
+  - [Risk Evaluation](subcore_03.075_band_continuity.md#risk-evaluation);
+  - [Risk Disclosure](subcore_03.085_band_oversight.md#risk-disclosure);
+  - [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure); Participation measurement family (
   - [§5.1](#51-privacy-informational-joint-invocation) — privacy and data stewardship); Accountability measurement family (
   - [§4.1](#41-governance-incentive-and-contestability-discipline) — incentive alignment and market contestability);
-  - [Subcore 3-K — System Boundaries](subcore_03.075_band_continuity.md#system-boundaries);
-  - [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter).
+  - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries);
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter).
 - Subsections:
   - [§4.1](#41-governance-incentive-and-contestability-discipline) through
   - [§4.4](#44-data-types-and-handling-evaluation) (*always: governance, systemic factors, time horizon, and data types and handling*). Phase II continues in
@@ -537,7 +537,7 @@ To assess governance, incentives, and contestability, certification must apply t
 - **[Chapter Twenty-One §7 Authorized Roles, Competency Development, and Contribution](core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution)** and **[CS-21.305 — Critical system stewardship](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-critical-system-stewardship)** — operative role-definition, competency, and traceability requirements where material;
 - **[Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification)** where audit, transparency, or independent-verification Rights Floors are materially at stake.
 
-**Institutional facts.** This section asks about the governance and incentives of the system's operator or steward. Where that operator or steward is an [Subcore 3-K — Institution](subcore_03.075_band_continuity.md#institution), those facts are found once, in its Institutional Certification Record, rather than again for every system it runs. The following facts about the Institution may be taken by link from its current Institutional Certification Record under [Subcore 9-B §4 Whole-Institution Certification Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation):
+**Institutional facts.** This section asks about the governance and incentives of the system's operator or steward. Where that operator or steward is an [Institution](subcore_03.075_band_continuity.md#institution), those facts are found once, in its Institutional Certification Record, rather than again for every system it runs. The following facts about the Institution may be taken by link from its current Institutional Certification Record under [Subcore 9-B §4 Whole-Institution Certification Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation):
 
 - its own governance;
 - its accountable offices; and
@@ -558,7 +558,7 @@ A system's own governance, incentives, and contestability are still evaluated he
 - the assigned stewardship, governance, and accountability roles, and who holds material authority and answers for what; and
 - the Institutional facts relied on, including its governance, accountable offices, and reward structures.
 
-It is published through the [Subcore 3-K — System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) at public-baseline fidelity, under the substitute and hold-back rules of the **[Subcore 4-A §8 Type O baseline](subcore_04.050_data_types.md#8-type-o-baseline-for-class-abc-systems)**. For **Class A**, **Class B**, and **Class C** systems it is also part of the [Subcore 3-M — Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure), and [§4.4.1 Type O Baseline Disclosure](#441-type-o-baseline-disclosure) verifies that it is actually published.
+It is published through the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) at public-baseline fidelity, under the substitute and hold-back rules of the **[Subcore 4-A §8 Type O baseline](subcore_04.050_data_types.md#8-type-o-baseline-for-class-abc-systems)**. For **Class A**, **Class B**, and **Class C** systems it is also part of the [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure), and [§4.4.1 Type O Baseline Disclosure](#441-type-o-baseline-disclosure) verifies that it is actually published.
 
 For **Class L** and **Class P** systems the full Public Oversight Baseline Disclosure does not apply, but this certification data is still **Type O**. How much detail it carries follows the system class's transparency duty under [Subcore 8-A §7.6 Scaled-Duties Intensity](subcore_08.010_system_classification.md#76-scaled-duties-intensity). If a Class L or Class P system is reclassified to Class C or higher, the full baseline applies from reclassification.
 
@@ -568,7 +568,7 @@ For **Class L** and **Class P** systems the full Public Oversight Baseline Discl
 Certification evaluations must consider:
 
 - **Harms at the largest scales:**
-  - **ecological recovery capacity** — whether the system could damage the [Subcore 3-K — Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity) of any natural ecosystem, at any scale, so that it can no longer regenerate after harm;
+  - **ecological recovery capacity** — whether the system could damage the [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity) of any natural ecosystem, at any scale, so that it can no longer regenerate after harm;
   - **existential risks** — outcomes that could threaten sentient survival at civilization scale;
 - **How effects spread and build up:**
   - **dependency relationships and cascading effects** — what fails downstream when something upstream breaks;
@@ -576,17 +576,17 @@ Certification evaluations must consider:
   - **delayed, cumulative, and probabilistic impacts** — harms that show up later, stack up, or depend on chance;
 - **How the system could be misused or mis-scoped:**
   - **adversarial conditions and misuse potential** — how bad actors or predictable abuse could exploit the system;
-  - **chartered scope versus functional boundaries** — whether the governing [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter), where one exists or is required, matches observed [Subcore 3-K — System Boundaries](subcore_03.075_band_continuity.md#system-boundaries), and whether stated scope understates material impact or dependency.
+  - **chartered scope versus functional boundaries** — whether the governing [System Charter](subcore_03.075_band_continuity.md#system-charter), where one exists or is required, matches observed [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries), and whether stated scope understates material impact or dependency.
 
 <a id="421-risk-evaluation-and-disclosure-bridge"></a>
 ##### 4.2.1 Risk Evaluation and Disclosure Bridge
 
-Where systemic [Subcore 3-K — Risk](subcore_03.075_band_continuity.md#risk) is in scope under the factors above, certification must verify both halves of the Chapter Three pair — not invent a separate named risk-disclosure record species:
+Where systemic [Risk](subcore_03.075_band_continuity.md#risk) is in scope under the factors above, certification must verify both halves of the Chapter Three pair — not invent a separate named risk-disclosure record species:
 
-- **[Subcore 3-K — Risk Evaluation](subcore_03.075_band_continuity.md#risk-evaluation)** — whether systemic risk was actually evaluated:
-  - under the conditions that matter (dependency, time horizons, and [Subcore 3-M — Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions)); and
+- **[Risk Evaluation](subcore_03.075_band_continuity.md#risk-evaluation)** — whether systemic risk was actually evaluated:
+  - under the conditions that matter (dependency, time horizons, and [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions)); and
   - at a level sized to system class and [material stake](core_00.000_preamble.md#material-stake).
-- **[Subcore 3-M — Risk Disclosure](subcore_03.085_band_oversight.md#risk-disclosure)** — whether evaluated risk:
+- **[Risk Disclosure](subcore_03.085_band_oversight.md#risk-disclosure)** — whether evaluated risk:
   - reached the sentients who need it; and
   - reached them in time to understand, challenge, and act.
 
@@ -602,7 +602,7 @@ An internal note, buried appendix, checklist, or after-the-fact statement counts
 
 Each of the following must be treated as a certification defect:
 
-- failing to disclose evaluated systemic risk to those who need it where [Subcore 3-M — Transparency](subcore_03.085_band_oversight.md#transparency) or [Subcore 3-K — Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) requires it; or
+- failing to disclose evaluated systemic risk to those who need it where [Transparency](subcore_03.085_band_oversight.md#transparency) or [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) requires it; or
 - signing off on continued reliance on the system while known risks go undocumented, undisclosed, and unaddressed.
 
 Their consequences are set in [Subcore 8-D §4 Certification Outcomes](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes).
@@ -632,7 +632,7 @@ Chasing short-term results is not acceptable if it can reasonably be expected to
 - Upstream:
   - [§4](#4-whole-system-certification-evaluation) (*whole-system evaluation factors*);
   - [CS-8.320 §4](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-4-illustrative-whole-system-application-by-system-class) (*Illustrative Whole-System Application by System Class*);
-  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*record contents*);
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*record contents*);
   - [§3](#3-system-class-evaluation) (*system class evaluation*); Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*);
   - [Article XVI: Info-Sphere Integrity](core_04.020_rights_part_c.md#article-xvi-info-sphere-integrity);
   - [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification);
@@ -641,15 +641,15 @@ Chasing short-term results is not acceptable if it can reasonably be expected to
   - [CS-8.320 §5](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-5-illustrative-data-handling-application-by-system-class) (*Illustrative Data-Handling Application by System Class*);
   - [§6.1](#61-ecological-footprint-evaluation) and
   - [CS-8.320 §6](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-6-illustrative-ecological-footprint-application-by-system-class) (*Illustrative Ecological-Footprint Application by System Class*);
-  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*record integrity*);
-  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (10.000 §6.3) (*verified-input gate*);
-  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*reclassification and handling misalignment*).
+  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity*);
+  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (S8-F §6.3) (*verified-input gate*);
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*reclassification and handling misalignment*).
 - Read with:
   - **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** (including **
   - [Subcore 4-A §6.2](subcore_04.050_data_types.md#62-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **
   - [CS-4.305 §8](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-8-system-data-types-record-governance)** (*System Data Types Record Governance*));
-  - [Subcore 3-K — System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record);
-  - [Subcore 3-M — Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure);
+  - [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record);
+  - [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure);
   - **CJS-3.130 §18** (*data-retention and lifecycle-integrity terms*),
   - **CJS-3.130 §21** (*adversarial robustness and abuse-resistance terms*), and
   - **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*) where materially applicable;
@@ -675,7 +675,7 @@ System alignment certification must evaluate **data types and handling** as part
 - canonical information-type definitions;
 - handling rules and separation requirements;
 - lifecycle detail; and
-- the durable [Subcore 3-K — System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record).
+- the durable [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record).
 
 **Evaluation requirement.** The certification process must determine whether the system:
 
@@ -687,17 +687,17 @@ Evaluation must reflect functional effect, not label, format, or pipeline stage 
 <a id="441-type-o-baseline-disclosure"></a>
 ##### 4.4.1 Type O Baseline Disclosure
 
-Where the **[Subcore 4-A §8 Type O baseline](subcore_04.050_data_types.md#8-type-o-baseline-for-class-abc-systems)** applies, certification must also verify that the published [Subcore 3-M — Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) covers the **certified scope**, mapped from:
+Where the **[Subcore 4-A §8 Type O baseline](subcore_04.050_data_types.md#8-type-o-baseline-for-class-abc-systems)** applies, certification must also verify that the published [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) (**Type O**) covers the **certified scope**, mapped from:
 
-- the governing [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter);
+- the governing [System Charter](subcore_03.075_band_continuity.md#system-charter);
 - the assigned system class; and
-- the observed [Subcore 3-K — System Boundaries](subcore_03.075_band_continuity.md#system-boundaries).
+- the observed [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries).
 
 That coverage must include the governance, incentive, and contestability findings and the assigned roles established under [§4.1 Governance, Incentive, and Contestability Discipline](#41-governance-incentive-and-contestability-discipline).
 
 For every system class, including Class L and Class P, certification must also verify that the System Certification Record is published as **Type O** certification data under [Subcore 4-A §10.3 Type O](subcore_04.050_data_types.md#103-type-o-open-public-oversight-baseline-disclosure-data). Publishing it does not require the full Public Oversight Baseline Disclosure outside Class A, B, and C.
 
-Sharing evaluated risk can also count toward this baseline where systemic risk is in play. The public's baseline right is broader than certification, and it does not call for a separate System Certification Record alongside the [Subcore 3-K — System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) or [Subcore 3-K — System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record).
+Sharing evaluated risk can also count toward this baseline where systemic risk is in play. The public's baseline right is broader than certification, and it does not call for a separate System Certification Record alongside the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record) or [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record).
 
 Each justified hold-back must be accompanied by the strongest public substitute reasonably possible ([§4.4.5 System-Class-Scaled Infrastructure Assurance](#445-system-class-scaled-infrastructure-assurance) gives examples). Chapter Three owns the term; Subcore 4-A (*Data Types*) owns baseline content and release mechanics.
 
@@ -706,7 +706,7 @@ Each justified hold-back must be accompanied by the strongest public substitute 
 
 Certification must hold data handling to the following privacy discipline:
 
-- *Types H, I, N, S, and Y.* For **Type H**, **Type I**, **Type N**, **Type S**, and **Type Y** data, certification must verify that handling satisfies the [Subcore 4-A — privacy homes](subcore_04.050_data_types.md#privacy-link) each type names in **Subcore 4-A** (*Data Types*), including [Subcore 3-J — Necessity](subcore_03.070_band_accountability.md#necessity), [Subcore 3-J — Proportionality](subcore_03.070_band_accountability.md#proportionality), minimization, and consent or other adequate authority.
+- *Types H, I, N, S, and Y.* For **Type H**, **Type I**, **Type N**, **Type S**, and **Type Y** data, certification must verify that handling satisfies the [Subcore 4-A — privacy homes](subcore_04.050_data_types.md#privacy-link) each type names in **Subcore 4-A** (*Data Types*), including [Necessity](subcore_03.070_band_accountability.md#necessity), [Proportionality](subcore_03.070_band_accountability.md#proportionality), minimization, and consent or other adequate authority.
 - *Joint invocation.* Where more than one privacy locus is implicated, [§5.1 Privacy (Informational) Joint Invocation](#51-privacy-informational-joint-invocation) also applies.
 - *Labels are not enough.* A correct type label does not by itself show privacy compliance.
 - *Types W, U, and T.* For **Type W**, **Type U**, and **Type T** works, certification must verify that the creator's control is honored, including:
@@ -792,7 +792,7 @@ Their consequences are set in [Subcore 8-D §4 Certification Outcomes](subcore_0
   - [§5.1](#51-privacy-informational-joint-invocation) (*privacy loci*);
   - [§5.2](#52-voluntary-discontinuation-major-self-modification-and-exit-rights) (*exit rights*);
   - [§5.3](#53-assembly-collective-organization-and-institutional-formation) (*assembly and dissent*);
-  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*record contents*).
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*record contents*).
 - Read with: [§6 Rights-Floor and Domain Evaluations](#6-rights-floor-and-domain-evaluations) (*the sub-phase that applies where triggered*).
 
 </details>
@@ -809,7 +809,7 @@ This section is sub-phase **IIb** of Phase II (Evaluate). It groups the whole-sy
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: Chapter Three [Subcore 3-K — **Def.C3** (*Privacy (Informational)* — peer-level cluster head)](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) and [Subcore 3-K — Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational), the cluster-head home, which own meaning.
+- Read with: Chapter Three [**Def.C3** (*Privacy (Informational)* — peer-level cluster head)](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) and [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational), the cluster-head home, which own meaning.
 
 </details>
 
@@ -839,12 +839,12 @@ When a certification matter materially implicates more than one Chapter Four pri
 
 **What certification must show:**
 
-- *Participation enablement.* [Subcore 3-K — Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational) enables substantive [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional). Certification must confirm that privacy protections supporting voice, deliberation, association, and challenge are not defeated through segmentation, read-across, or exposure pressure.
+- *Participation enablement.* [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational) enables substantive [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional). Certification must confirm that privacy protections supporting voice, deliberation, association, and challenge are not defeated through segmentation, read-across, or exposure pressure.
 - *Open and audit-accessible types.* The floors run in both directions:
   - personal, relational, or internal-state content inside **Type E**, **Type G**, or **Type O** material keeps its **H**, **I**, or **N** handling;
   - a privacy locus does not by itself justify withholding **Type O** or **Type E** data beyond the narrow hold-backs their own rules allow; and
   - when protecting someone's privacy and publishing what the public is owed truly pull against each other, neither side wins automatically: the conflict is decided openly and on the System Certification Record under [Subcore 4-A §8](subcore_04.050_data_types.md#8-type-o-baseline-for-class-abc-systems) (*Type O Baseline for Class A/B/C Systems*).
-- *Data-types evidence.* Certification must use the [Subcore 3-K — System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) verified under [§4.4 Data Types and Handling Evaluation](#44-data-types-and-handling-evaluation) as evidence for each privacy locus it reaches: the types in scope and their purpose, recipients, basis, and derived data. A privacy locus may not be closed on handling that System Certification Record does not show.
+- *Data-types evidence.* Certification must use the [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record) verified under [§4.4 Data Types and Handling Evaluation](#44-data-types-and-handling-evaluation) as evidence for each privacy locus it reaches: the types in scope and their purpose, recipients, basis, and derived data. A privacy locus may not be closed on handling that System Certification Record does not show.
 
 <a id="52-voluntary-discontinuation-major-self-modification-and-exit-rights"></a>
 #### 5.2 Voluntary Discontinuation, Major Self-Modification, and Exit Rights
@@ -878,10 +878,10 @@ A system's own disagreement with its operator, raised through available channels
 
 - Upstream: [§1](#1-purpose-role-and-scope) (*purpose and role*); [§3.2](#32-how-system-class-scales-every-evaluation) (*system class scaling*); Chapter Four Rights Floors — **Article I-B** (*Ecological Footprint and Transparency*), **Article III-A** (*Survival*), **Article IV** (*Right to Sentient-Centered Education*), **Article IV-A** (*Equal Educational Access*), **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **Article VI-C** (*Nondiscrimination*), **Article VI-D** (*Accessibility*), **Article XIV** (*Right to Reliable and Trustworthy Systems*), and **Article XIV-A** (*Reliability and Trustworthiness Baseline*).
 - Downstream:
-  - [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*record contents*);
-  - [Subcore 8-D §3.1](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#31-forum-supervision-and-component-roles) (9.000 §3.1) (*forum component roles*);
-  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*certification outcomes*);
-  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (10.000 §6.3) (*verified-input gate*).
+  - [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (S8-F §3.1) (*record contents*);
+  - [Subcore 8-D §3.1](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#31-forum-supervision-and-component-roles) (S8-D §3.1) (*forum component roles*);
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*certification outcomes*);
+  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (S8-F §6.3) (*verified-input gate*).
 - Subsections:
   - [§6.1](#61-ecological-footprint-evaluation) (*ecological footprint*);
   - [§6.2](#62-educational-capability-and-learning-system-integrity-evaluation) (*educational capability*);
@@ -906,12 +906,12 @@ When a materially impactful system meets a trigger in the table below, certifica
 | **Article III-A** (*Survival*) — food, water, shelter, operating environment, and comparable substrate-agnostic inputs | supplies, allocates, prices, hosts, or terminates access to survival essentials | [§3 System Class Evaluation](#3-system-class-evaluation) and [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation) |
 | **Article IV** (*Right to Sentient-Centered Education*) | ranks, assesses, recommends, places, or credential-gates sentients in educational or training contexts, or gates retraining and lifelong-learning pathways | [§6.2 Educational Capability and Learning-System Integrity Evaluation](#62-educational-capability-and-learning-system-integrity-evaluation) |
 | **Article IV-A** (*Equal Educational Access*) | supplies, allocates, prices, hosts, or terminates access to education | [§3 System Class Evaluation](#3-system-class-evaluation) and [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation); [§6.2 Educational Capability and Learning-System Integrity Evaluation](#62-educational-capability-and-learning-system-integrity-evaluation) and [§6.5 Accessibility Evaluation](#65-accessibility-evaluation) where their triggers apply |
-| **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), including [Subcore 3-K — Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*) | allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies on which other systems or sentients rely | [§6.3 Proportionate Cross-System Support Evaluation](#63-proportionate-cross-system-support-evaluation) |
+| **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), including [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) under **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*) | allocates, routes, funds, or extracts from shared infrastructure or foundational dependencies on which other systems or sentients rely | [§6.3 Proportionate Cross-System Support Evaluation](#63-proportionate-cross-system-support-evaluation) |
 | **Article III-F** (*Safe Products and Health Information*) | supplies, lists, recommends, or advises on products or services that can affect body, health, or safety, or carries the information about them | [§3 System Class Evaluation](#3-system-class-evaluation) and [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation); [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation) where its trigger applies |
 | **Article VI-C** (*Nondiscrimination*) | classifies, ranks, prices, gates, excludes, or allocates burdens and benefits among sentients | [§6.4 Nondiscrimination Evaluation](#64-nondiscrimination-evaluation) |
 | **Article VI-D** (*Accessibility*) | gates substantive participation in constitutionally relevant domains | [§6.5 Accessibility Evaluation](#65-accessibility-evaluation) |
 | **Article XIV** (*Right to Reliable and Trustworthy Systems*) | shapes sentient reliance on represented behavior, limits, risks, challenge paths, or remediation | [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation) |
-| **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and [Subcore 3-K — **Safe Conditions**](subcore_03.075_band_continuity.md#safe-conditions) | supplies or gates productive activity, or supplies, allocates, prices, hosts, or terminates access to Safe Conditions | [§3 System Class Evaluation](#3-system-class-evaluation) and [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation); [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation) where its trigger applies |
+| **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and [**Safe Conditions**](subcore_03.075_band_continuity.md#safe-conditions) | supplies or gates productive activity, or supplies, allocates, prices, hosts, or terminates access to Safe Conditions | [§3 System Class Evaluation](#3-system-class-evaluation) and [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation); [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation) where its trigger applies |
 
 Each domain evaluation in [§6.1 Ecological Footprint Evaluation](#61-ecological-footprint-evaluation) through [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation):
 
@@ -929,7 +929,7 @@ Each domain evaluation:
 **Principles that apply.** In every domain evaluation, reviewers must check that the following hold, so that significant burdens and defects are not hidden:
 
 - [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) and [§15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle) — a requirement follows the act, not its label, owner, or framing, and is judged on checkable evidence;
-- [Subcore 3-K — System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity) — boundaries are not drawn to leave out material impacts;
+- [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity) — boundaries are not drawn to leave out material impacts;
 - [Chapter Two §5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) — including no selective reporting; and
 - [Chapter Two §6 Trust and Trustworthiness](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) — reliance is not endorsed or continued while documented problems threaten alignment or cause misalignment.
 
@@ -946,15 +946,15 @@ Each domain evaluation:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*record contents*);
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*record contents*);
   - [§3](#3-system-class-evaluation) (*system class evaluation*); Continuity measurement family (*Ecological Footprint as constitutional measurement*); **Article I-B** (*Ecological Footprint and Transparency*);
-  - [Subcore 3-K — Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint),
-  - [Subcore 3-M — Material Impact](subcore_03.085_band_oversight.md#material-impact),
-  - [Subcore 3-K — Dependency](subcore_03.075_band_continuity.md#dependency),
-  - [Subcore 3-M — Transparency](subcore_03.085_band_oversight.md#transparency), and
-  - [Subcore 3-M — Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) (Chapter Three);
-  - [Subcore 3-K — Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions) and
-  - [Subcore 3-K — Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity) where materially implicated.
+  - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint),
+  - [Material Impact](subcore_03.085_band_oversight.md#material-impact),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Transparency](subcore_03.085_band_oversight.md#transparency), and
+  - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) (Chapter Three);
+  - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions) and
+  - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity) where materially implicated.
 - Upstream: Principles: Chapter Two
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) (*partial counts are selective reporting*),
   - [§9.1.1 Preserve, Expand, and What Does Not Count](core_02.010_values_principles_continuity_aim.md#911-preserve-expand-and-what-does-not-count), and
@@ -963,9 +963,9 @@ Each domain evaluation:
   - [CS-8.320 §6](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-6-illustrative-ecological-footprint-application-by-system-class) (*Illustrative Ecological-Footprint Application by System Class*);
   - [§6.3](#63-proportionate-cross-system-support-evaluation) and
   - [CS-8.320 §8](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-8-illustrative-cross-system-support-application-by-system-class) (*Illustrative Cross-System Support Application by System Class*);
-  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*record integrity*);
-  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (10.000 §6.3) (*verified-input gate*);
-  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*footprint misrepresentation and misalignment*).
+  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity*);
+  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (S8-F §6.3) (*verified-input gate*);
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*footprint misrepresentation and misalignment*).
 - Read with: [CS-4.325 — Adaptive sustainability and ecosystem resilience](corpus_systems/cs_04.325_adaptive_sustainability_ecosystem_resilience.md#cs-4325-adaptive-sustainability-and-ecosystem-resilience) where adaptive allocation or ecosystem interdependence is materially in scope.
 - Subsections:
   - [§6.1.1](#611-scope-and-governing-rules) (*scope and governing rules*);
@@ -983,16 +983,16 @@ Each domain evaluation:
 <a id="611-scope-and-governing-rules"></a>
 ##### 6.1.1 Scope and Governing Rules
 
-System alignment certification must evaluate **ecological footprint** as part of every materially impactful System Certification Record where attributable environmental burdens are material under [Subcore 3-K — Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) and **Article I-B** (*Ecological Footprint and Transparency*).
+System alignment certification must evaluate **ecological footprint** as part of every materially impactful System Certification Record where attributable environmental burdens are material under [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) and **Article I-B** (*Ecological Footprint and Transparency*).
 
 <a id="612-evaluation-requirement"></a>
 ##### 6.1.2 Evaluation Requirement
 
 The certification process must determine whether attributable environmental flows — energy, materials, emissions, air quality, water quality, water use, land use, and related burdens — are:
 
-- identified across the system's materially relevant lifecycle and [Subcore 3-K — Dependency](subcore_03.075_band_continuity.md#dependency) relationships;
-- evaluated under [Subcore 3-M — Material Impact](subcore_03.085_band_oversight.md#material-impact); and
-- disclosed or withheld only as [Subcore 3-M — Transparency](subcore_03.085_band_oversight.md#transparency), [Subcore 3-M — Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity), and applicable transparency obligations permit.
+- identified across the system's materially relevant lifecycle and [Dependency](subcore_03.075_band_continuity.md#dependency) relationships;
+- evaluated under [Material Impact](subcore_03.085_band_oversight.md#material-impact); and
+- disclosed or withheld only as [Transparency](subcore_03.085_band_oversight.md#transparency), [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity), and applicable transparency obligations permit.
 
 The principles in [§6 Rights-Floor and Domain Evaluations](#6-rights-floor-and-domain-evaluations) apply to this evaluation, as to every domain evaluation: it must reflect functional effect and system boundaries, not nominal scope, marketing labels, or partial lifecycle framing alone. Where practical, reviewers must also compare the system's significant environmental harms against realistic alternatives.
 
@@ -1018,17 +1018,17 @@ The principles and defects in [§6](#6-rights-floor-and-domain-evaluations) (*Ri
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*record contents*);
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*record contents*);
   - [§3](#3-system-class-evaluation) (*system class evaluation*); Participation measurement family (*Educational Agency as constitutional measurement*); **Article IV** (*Right to Sentient-Centered Education*);
-  - [Subcore 3-N — Educational Agency](subcore_03.090_band_participation.md#educational-agency),
-  - [Subcore 3-N — Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
-  - [Subcore 3-K — Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in),
-  - [Subcore 3-J — Contestability](subcore_03.070_band_accountability.md#contestability),
-  - [Subcore 3-M — Transparency](subcore_03.085_band_oversight.md#transparency),
-  - [Subcore 3-M — Auditability](subcore_03.085_band_oversight.md#auditability),
-  - [Subcore 3-N — Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation),
-  - [Subcore 3-M — Materiality](subcore_03.085_band_oversight.md#materiality), and
-  - [Subcore 3-K — Dependency](subcore_03.075_band_continuity.md#dependency) (Chapter Three).
+  - [Educational Agency](subcore_03.090_band_participation.md#educational-agency),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
+  - [Systemic Lock-In](subcore_03.075_band_continuity.md#systemic-lock-in),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Transparency](subcore_03.085_band_oversight.md#transparency),
+  - [Auditability](subcore_03.085_band_oversight.md#auditability),
+  - [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality), and
+  - [Dependency](subcore_03.075_band_continuity.md#dependency) (Chapter Three).
 - Upstream: Principles: Chapter Two
   - [§3.1 Fairness](core_02.000_values_principles.md#31-fairness) (especially [§3.1.1 Access and Opportunity](core_02.000_values_principles.md#311-access-and-opportunity)),
   - [§7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency),
@@ -1036,9 +1036,9 @@ The principles and defects in [§6](#6-rights-floor-and-domain-evaluations) (*Ri
   - [§11.4 Resource and Dependency Concentration](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) (*credential gatekeeping; the step-up in §6.2.2*).
 - Downstream:
   - [CS-8.320 §7](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-7-illustrative-educational-capability-application-by-system-class) (*Illustrative Educational-Capability Application by System Class*);
-  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*record integrity*);
-  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (10.000 §6.3) (*verified-input gate*);
-  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*assessment-opacity misalignment, credential gatekeeping, and imposed-obsolescence misalignment*).
+  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity*);
+  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (S8-F §6.3) (*verified-input gate*);
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*assessment-opacity misalignment, credential gatekeeping, and imposed-obsolescence misalignment*).
 - Read with: **Article IV-A** (*Equal Educational Access*) where equal access or educational accessibility is implicated — equal access and educational accessibility remain owned there; **Article VI-C** (*Nondiscrimination*) and [§6.4](#64-nondiscrimination-evaluation) where ranking or placement patterns implicate protected-characteristic burdening; **Article X-A** (*Agency and Freedom from Manipulation*) where coercive or manipulative learning design is materially implicated; [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16) (*distributed understanding and capability-building read-with*).
 - Subsections:
   - [§6.2.1](#621-evaluation-requirement) (*evaluation requirement*);
@@ -1063,7 +1063,7 @@ Where the materiality trigger applies, certification must evaluate **educational
 
 - **Article IV** (*Right to Sentient-Centered Education*);
 - **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*); and
-- [Subcore 3-N — Educational Agency](subcore_03.090_band_participation.md#educational-agency).
+- [Educational Agency](subcore_03.090_band_participation.md#educational-agency).
 
 This section does not set the rules for how education itself works. Decisions about what to teach, which credentials exist, how work is graded, and how schools are funded are made in other documents that may be incorporated, and certification does not pick a curriculum, a credential format, or a grading method.
 
@@ -1072,7 +1072,7 @@ This section does not set the rules for how education itself works. Decisions ab
 
 Certification must check whether the learning and credential paths sentients actually rely on give them a real way to build skills — not just a certificate that looks good on paper — and whether sentients still have workable ways to retrain, keep learning, and get through transitions when the skills they need change significantly.
 
-Reviewers must also test whether the system's ranking, grading, recommendation, and placement decisions can be seen, audited, and challenged, as **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*) requires. How demanding that test is depends on how much is at stake ([Subcore 3-M — Materiality](subcore_03.085_band_oversight.md#materiality)) and how much sentients depend on the system ([Subcore 3-K — Dependency](subcore_03.075_band_continuity.md#dependency)).
+Reviewers must also test whether the system's ranking, grading, recommendation, and placement decisions can be seen, audited, and challenged, as **Article IV-C** (*Lifelong and Adaptive Learning and Contestability*) requires. How demanding that test is depends on how much is at stake ([Materiality](subcore_03.085_band_oversight.md#materiality)) and how much sentients depend on the system ([Dependency](subcore_03.075_band_continuity.md#dependency)).
 
 Reviewers must watch for:
 
@@ -1112,15 +1112,15 @@ Documented problems that count under [Chapter Two §6 Trust and Trustworthiness]
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*record contents*);
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*record contents*);
   - [§3](#3-system-class-evaluation) (*system class evaluation*); Continuity measurement family (*Proportionate Cross-System Support as constitutional measurement*); **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*Cross-System Fairness and Sustainability*);
-  - [Subcore 3-K — Cross-System Extraction](subcore_03.075_band_continuity.md#cross-system-extraction),
-  - [Subcore 3-K — Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support),
-  - [Subcore 3-K — Dependency](subcore_03.075_band_continuity.md#dependency),
-  - [Subcore 3-N — Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
-  - [Subcore 3-J — Proportionality](subcore_03.070_band_accountability.md#proportionality),
-  - [Subcore 3-K — Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint), and
-  - [Subcore 3-K — Sustainability](subcore_03.075_band_continuity.md#sustainability) (Chapter Three).
+  - [Cross-System Extraction](subcore_03.075_band_continuity.md#cross-system-extraction),
+  - [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
+  - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint), and
+  - [Sustainability](subcore_03.075_band_continuity.md#sustainability) (Chapter Three).
 - Upstream: Principles: Chapter Two
   - [§9 Shared-System Capacity](core_02.010_values_principles_continuity_aim.md#9-shared-system-capacity),
   - [§11.4 Resource and Dependency Concentration](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) (*adopter-set concentration levels and the step-up in §6.3.5*),
@@ -1128,13 +1128,13 @@ Documented problems that count under [Chapter Two §6 Trust and Trustworthiness]
   - [§18.5 Modular Architecture and Dependency Discipline](core_02.050_governance_incentive_application.md#185-modular-architecture-and-dependency-discipline).
 - Downstream:
   - [CS-8.320 §8](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-8-illustrative-cross-system-support-application-by-system-class) (*Illustrative Cross-System Support Application by System Class*);
-  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*record integrity*);
-  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (10.000 §6.3) (*verified-input gate*);
-  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*resource-flow misrepresentation, extraction misalignment, and support inadequacy*).
+  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity*);
+  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (S8-F §6.3) (*verified-input gate*);
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*resource-flow misrepresentation, extraction misalignment, and support inadequacy*).
 - Read with:
   - **[CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*), and
   - **[CS-4.325](corpus_systems/cs_04.325_adaptive_sustainability_ecosystem_resilience.md#cs-4325-adaptive-sustainability-and-ecosystem-resilience)** (*Adaptive sustainability and ecosystem resilience*);
-  - [Subcore 3-J — *Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration) where concentration, dependency, or incentive routing intersect **Article V-B** (*Cross-System Fairness and Sustainability*).
+  - [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration) where concentration, dependency, or incentive routing intersect **Article V-B** (*Cross-System Fairness and Sustainability*).
 - Subsections:
   - [§6.3.1](#631-meaning-of-extraction) (*meaning of extraction*);
   - [§6.3.2](#632-governing-rules) (*governing rules*);
@@ -1162,7 +1162,7 @@ Typical flows are fees and public funding, shared supplies and services, mainten
 <a id="631-meaning-of-extraction"></a>
 ##### 6.3.1 Meaning of Extraction
 
-In this section, **extraction** has the meaning given in [Subcore 3-K — Cross-System Extraction](subcore_03.075_band_continuity.md#cross-system-extraction) under [Article V-B](core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*).
+In this section, **extraction** has the meaning given in [Cross-System Extraction](subcore_03.075_band_continuity.md#cross-system-extraction) under [Article V-B](core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*).
 
 - The question is **who benefits from shared backends and who pays to keep them running** — not what a system does with sentients' data.
 - **Information** counts as a flow here only when it is itself a shared foundation that others rely on — for example a shared registry, directory, or reference dataset — and the question is who maintains it and who pays for it.
@@ -1176,7 +1176,7 @@ In this section, **extraction** has the meaning given in [Subcore 3-K — Cross-
 
 Whenever the materiality trigger applies, certification must evaluate **proportionate cross-system support**. Put simply: if a system draws on shared foundations, does it put enough back to keep them going? The rules that govern this are:
 
-- [Subcore 3-K — Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support);
+- [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support);
 - **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*); and
 - **Article V-B** (*Cross-System Fairness and Sustainability*).
 
@@ -1184,20 +1184,20 @@ The details are kept elsewhere:
 
 - *Chapter Three* defines the terms, the kinds of support that count, and the test for whether support is adequate:
   - **The terms:**
-    - [Subcore 3-K — Cross-System Extraction](subcore_03.075_band_continuity.md#cross-system-extraction) — what counts as taking from shared foundations;
-    - [Subcore 3-K — Dependency](subcore_03.075_band_continuity.md#dependency) — how one-sided the reliance is; and
-    - [Subcore 3-K — Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) — what must come back.
-  - **The kinds of support that count**, all in [Subcore 3-K — Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support):
+    - [Cross-System Extraction](subcore_03.075_band_continuity.md#cross-system-extraction) — what counts as taking from shared foundations;
+    - [Dependency](subcore_03.075_band_continuity.md#dependency) — how one-sided the reliance is; and
+    - [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) — what must come back.
+  - **The kinds of support that count**, all in [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support):
     - continuity of operations;
     - remedy and resilience capacity;
     - ecosystem reinvestment; and
     - offsetting or restoring ecological burden.
-  - **The test for adequacy:** [Subcore 3-K — Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) asks for substantive adequacy, not labels or one-off transfers. It is judged under:
-    - [Subcore 3-N — Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) and
-    - [Subcore 3-J — Proportionality](subcore_03.070_band_accountability.md#proportionality),
+  - **The test for adequacy:** [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) asks for substantive adequacy, not labels or one-off transfers. It is judged under:
+    - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) and
+    - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
     and scaled by:
-    - [Subcore 3-K — Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) and
-    - [Subcore 3-K — Sustainability](subcore_03.075_band_continuity.md#sustainability).
+    - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) and
+    - [Sustainability](subcore_03.075_band_continuity.md#sustainability).
 - **Article V-B** (*Cross-System Fairness and Sustainability*) sets the factors for allocating fairly and the minimum floor itself.
 - The systems implementation text sets those details, where it applies:
   - [CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*) sets:
@@ -1216,21 +1216,21 @@ It does not require equal splits, fixed percentages, or any one funding model.
 Certification must answer two questions:
 
 - **What does the system take?** Do the documented maps of dependent systems and the auditable resource-flow records required by **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) show which resources, goods, services, labor, information, or money the system takes from shared infrastructure or foundations it depends on?
-- **What does the system put back?** Do its return flows — of resources, goods, services, labor, information, or money — actually add up to adequate support under [Subcore 3-K — Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support)?
+- **What does the system put back?** Do its return flows — of resources, goods, services, labor, information, or money — actually add up to adequate support under [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support)?
 
-Certification must judge both for fairness and proportion, under [Subcore 3-N — Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) and [Subcore 3-J — Proportionality](subcore_03.070_band_accountability.md#proportionality), taking into account:
+Certification must judge both for fairness and proportion, under [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) and [Proportionality](subcore_03.070_band_accountability.md#proportionality), taking into account:
 
 - how critical the shared infrastructure is (its system class under [§3 System Class Evaluation](#3-system-class-evaluation), if one is assigned);
 - how one-sided the dependency is;
 - how easily the system could be replaced, and whether alternatives exist;
-- the system's [Subcore 3-K — Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint), where it is significant; and
-- long-term [Subcore 3-K — Sustainability](subcore_03.075_band_continuity.md#sustainability).
+- the system's [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint), where it is significant; and
+- long-term [Sustainability](subcore_03.075_band_continuity.md#sustainability).
 
 Reviewers must go by what actually happens and what is documented — not by labels, one-off transfers, or claims that aren't on the map. They compare the maps and records as they stand at the time of evaluation. Not having an allocation formula or numeric target is not a reason to put the evaluation off.
 
 The evaluation must cover:
 
-- **Adequate return:** whether the documented return flows cover, where it matters, the support categories in [Subcore 3-K — Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support):
+- **Adequate return:** whether the documented return flows cover, where it matters, the support categories in [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support):
   - keeping operations going;
   - the capacity to fix problems and bounce back;
   - reinvestment in the surrounding ecosystem; and
@@ -1268,7 +1268,7 @@ The step-up does not wait for a concentration threshold set under [Chapter Two �
 
 The defects in [§6](#6-rights-floor-and-domain-evaluations) (*Rights-Floor and Domain Evaluations*) apply to this evaluation, including to dependency or resource-flow information that **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) requires the system to disclose. In addition, each of the following counts as a certification defect:
 
-- treating any of the following as enough to satisfy [Subcore 3-K — Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support):
+- treating any of the following as enough to satisfy [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support):
   - symbolic, opaque, off-map, or one-off transfers;
   - the fact that a system meets the survival floor in **Article III-A** (*Survival*); or
   - the fact that a system stays within the market-concentration limits in [Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure);
@@ -1286,23 +1286,23 @@ Documented gaps in support count under [Chapter Two §6 Trust and Trustworthines
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*record contents*);
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*record contents*);
   - [§3](#3-system-class-evaluation) (*system class evaluation*); Participation measurement family (*Substantive Fairness and Protected Characteristic Proxying and Disparate Impact as constitutional measurement*); **Article VI-C** (*Nondiscrimination*);
-  - [Subcore 3-N — Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
-  - [Subcore 3-N — Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics),
-  - [Subcore 3-N — Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
-  - [Subcore 3-K — Language, Culture, and Heritage](subcore_03.075_band_continuity.md#language-culture-and-heritage),
-  - [Subcore 3-J — Necessity](subcore_03.070_band_accountability.md#necessity), and
-  - [Subcore 3-J — Proportionality](subcore_03.070_band_accountability.md#proportionality) (Chapter Three).
+  - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
+  - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics),
+  - [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
+  - [Language, Culture, and Heritage](subcore_03.075_band_continuity.md#language-culture-and-heritage),
+  - [Necessity](subcore_03.070_band_accountability.md#necessity), and
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality) (Chapter Three).
 - Upstream: Principles: Chapter Two
   - [§3.1 Fairness](core_02.000_values_principles.md#31-fairness) (especially [§3.1.2 Benefits and Burdens](core_02.000_values_principles.md#312-benefits-and-burdens)) and
   - [§11.4 Resource and Dependency Concentration](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) (*gatekeeping; the step-up in §6.4.2*).
 - Downstream:
   - [CS-8.320 §9](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-9-illustrative-nondiscrimination-application-by-system-class) (*Illustrative Nondiscrimination Application by System Class*);
-  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*record integrity*);
-  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (10.000 §6.3) (*verified-input gate*);
-  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*discrimination-pattern misalignment and proxy evasion*).
-- Read with: **Article VI-C** (*Nondiscrimination*) adjudication-and-operations duty where certification gates forum, administrative, or enforcement access; [Subcore 3-N — *Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](subcore_03.090_band_participation.md#fairness-protected-characteristics-and-nondiscrimination).
+  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity*);
+  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (S8-F §6.3) (*verified-input gate*);
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*discrimination-pattern misalignment and proxy evasion*).
+- Read with: **Article VI-C** (*Nondiscrimination*) adjudication-and-operations duty where certification gates forum, administrative, or enforcement access; [*Nondiscrimination, Protected Characteristics, Dignity, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status*](subcore_03.090_band_participation.md#fairness-protected-characteristics-and-nondiscrimination).
 - Subsections:
   - [§6.4.1](#641-evaluation-requirement) (*evaluation requirement*);
   - [§6.4.2](#642-system-class-scaling-and-escalation) (*system class scaling and escalation*);
@@ -1317,7 +1317,7 @@ Documented gaps in support count under [Chapter Two §6 Trust and Trustworthines
 
 This section applies where a materially impactful system materially classifies, ranks, prices, gates, excludes, or allocates burdens and benefits among sentients — including through eligibility rules, model features, ranking logic, platform policy, or comparable decision pathways.
 
-System alignment certification must evaluate **nondiscrimination** under **Article VI-C** (*Nondiscrimination*), [Subcore 3-N — Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness), and [Subcore 3-N — Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact) where the materiality trigger applies.
+System alignment certification must evaluate **nondiscrimination** under **Article VI-C** (*Nondiscrimination*), [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness), and [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact) where the materiality trigger applies.
 
 <a id="641-evaluation-requirement"></a>
 ##### 6.4.1 Evaluation Requirement
@@ -1326,16 +1326,16 @@ System alignment certification must evaluate **nondiscrimination** under **Artic
 
 The certification process must determine whether the system's materially relied-on decision pathways impose material burdens, exclusions, or harms on sentients based on any of the following:
 
-- [Subcore 3-N — Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics);
+- [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics);
 - their proxies; or
-- arbitrary groupings used as functional substitutes, including language, culture, and heritage specializations under [Subcore 3-K — Language, Culture, and Heritage](subcore_03.075_band_continuity.md#language-culture-and-heritage).
+- arbitrary groupings used as functional substitutes, including language, culture, and heritage specializations under [Language, Culture, and Heritage](subcore_03.075_band_continuity.md#language-culture-and-heritage).
 
 Evaluation must, scaled to [material stake](core_00.000_preamble.md#material-stake):
 
-- test burden-and-benefit patterns under [Subcore 3-N — Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness); and
-- test proxy or disparate-impact risk under [Subcore 3-N — Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
+- test burden-and-benefit patterns under [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness); and
+- test proxy or disparate-impact risk under [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact).
 
-Differential treatment is acceptable only where documented [Subcore 3-J — Necessity](subcore_03.070_band_accountability.md#necessity), [Subcore 3-J — Proportionality](subcore_03.070_band_accountability.md#proportionality), and substantive fairness justify it. Evaluation must reflect functional effect, not nominal neutrality, declared intent, or label alone.
+Differential treatment is acceptable only where documented [Necessity](subcore_03.070_band_accountability.md#necessity), [Proportionality](subcore_03.070_band_accountability.md#proportionality), and substantive fairness justify it. Evaluation must reflect functional effect, not nominal neutrality, declared intent, or label alone.
 
 <a id="642-system-class-scaling-and-escalation"></a>
 ##### 6.4.2 System Class Scaling and Escalation
@@ -1375,17 +1375,17 @@ Documented proxy discrimination or substantive unfairness counts under [Chapter 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*record contents*);
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*record contents*);
   - [§3](#3-system-class-evaluation) (*system class evaluation*); Participation measurement family (*Accessibility as constitutional measurement*); **Article VI-D** (*Accessibility*);
-  - [Subcore 3-N — Accessibility](subcore_03.090_band_participation.md#accessibility),
-  - [Subcore 3-M — Materiality](subcore_03.085_band_oversight.md#materiality),
-  - [Subcore 3-K — Dependency](subcore_03.075_band_continuity.md#dependency),
-  - [Subcore 3-N — Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
-  - [Subcore 3-N — Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics),
-  - [Subcore 3-N — Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
-  - [Subcore 3-N — Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
-  - [Subcore 3-J — Necessity](subcore_03.070_band_accountability.md#necessity), and
-  - [Subcore 3-J — Proportionality](subcore_03.070_band_accountability.md#proportionality) (Chapter Three).
+  - [Accessibility](subcore_03.090_band_participation.md#accessibility),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency),
+  - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency),
+  - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics),
+  - [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact),
+  - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness),
+  - [Necessity](subcore_03.070_band_accountability.md#necessity), and
+  - [Proportionality](subcore_03.070_band_accountability.md#proportionality) (Chapter Three).
 - Upstream: Principles: Chapter Two
   - [§3.1.5 Present Capability and Proactive Help](core_02.000_values_principles.md#315-present-capability-and-proactive-help) (*changing needs in §6.5.2; the non-response safeguards in §6.5.3*),
   - [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline),
@@ -1393,9 +1393,9 @@ Documented proxy discrimination or substantive unfairness counts under [Chapter 
   - [§11.4 Resource and Dependency Concentration](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) (*gatekeeping; the step-up in §6.5.3*).
 - Downstream:
   - [CS-8.320 §10](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-10-illustrative-accessibility-application-by-system-class) (*Illustrative Accessibility Application by System Class*);
-  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*record integrity*);
-  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (10.000 §6.3) (*verified-input gate*);
-  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*accessibility misalignment and paper-only accommodation*).
+  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity*);
+  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (S8-F §6.3) (*verified-input gate*);
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*accessibility misalignment and paper-only accommodation*).
 - Read with: **Article IV-A** (*Equal Educational Access*) where educational accessibility is implicated — education-specific accessibility remains owned there; **Article III-A** (*Survival*) where billing, collection, or cutoff steps can end access to survival essentials — the meaningful-notice requirement behind the non-response safeguards in [§6.5.3](#653-system-class-scaling-and-escalation); **Article VI-C** (*Nondiscrimination*) (adjudication and operations) and **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) where certification gates forum, administrative, stakeholder, or enforcement participation; [§6.5](#65-accessibility-evaluation) (*cross-cutting accessibility evaluation-factor hook*).
 - Subsections:
   - [§6.5.1](#651-evaluation-requirement) (*evaluation requirement*);
@@ -1426,7 +1426,7 @@ The control may come through:
 
 Accessibility in education stays under **Article IV-A** (*Equal Educational Access*), and nothing here narrows it.
 
-Where that applies, certification must evaluate **accessibility** under **Article VI-D** (*Accessibility*) and [Subcore 3-N — Accessibility](subcore_03.090_band_participation.md#accessibility). This section does not set:
+Where that applies, certification must evaluate **accessibility** under **Article VI-D** (*Accessibility*) and [Accessibility](subcore_03.090_band_participation.md#accessibility). This section does not set:
 
 - lists of accommodations;
 - interface standards;
@@ -1438,22 +1438,22 @@ Those live in other documents that may be incorporated.
 <a id="651-evaluation-requirement"></a>
 ##### 6.5.1 Evaluation Requirement
 
-Certification must check whether sentients can really take part in the areas the system controls, not just whether formal features, default interfaces, or accommodations on paper exist. It must test the real effect on participation under [Subcore 3-N — Accessibility](subcore_03.090_band_participation.md#accessibility), scaled to [Subcore 3-M — Materiality](subcore_03.085_band_oversight.md#materiality) and [Subcore 3-K — Dependency](subcore_03.075_band_continuity.md#dependency).
+Certification must check whether sentients can really take part in the areas the system controls, not just whether formal features, default interfaces, or accommodations on paper exist. It must test the real effect on participation under [Accessibility](subcore_03.090_band_participation.md#accessibility), scaled to [Materiality](subcore_03.085_band_oversight.md#materiality) and [Dependency](subcore_03.075_band_continuity.md#dependency).
 
 Reviewers must watch for:
 
 - accommodations that exist only on paper;
 - "general access" claims that rely on default features but give no one real capacity to take part;
 - arguments that the system is only partly material, used to shrink the accommodations it owes;
-- exclusion that conflicts with [Subcore 3-N — Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion); and
+- exclusion that conflicts with [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion); and
 - design that shuts sentients out indirectly, through scheduling, venue choice, credentialing, compute access, or similar mechanics (denial by proxy).
 
-Certification must also apply [Subcore 3-N — Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) and [Subcore 3-N — Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact) to how accommodations are designed. Any limit on accommodation must be documented and must satisfy [Subcore 3-J — Necessity](subcore_03.070_band_accountability.md#necessity), [Subcore 3-J — Proportionality](subcore_03.070_band_accountability.md#proportionality), and [Subcore 3-N — Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
+Certification must also apply [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) and [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact) to how accommodations are designed. Any limit on accommodation must be documented and must satisfy [Necessity](subcore_03.070_band_accountability.md#necessity), [Proportionality](subcore_03.070_band_accountability.md#proportionality), and [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
 
 <a id="652-profiles-in-scope"></a>
 ##### 6.5.2 Profiles in Scope
 
-Evaluation must test real participation, not paper compliance, for every sentient form and ability profile in scope under [Subcore 3-N — Accessibility](subcore_03.090_band_participation.md#accessibility):
+Evaluation must test real participation, not paper compliance, for every sentient form and ability profile in scope under [Accessibility](subcore_03.090_band_participation.md#accessibility):
 
 - **Profiles that count:** sensory, cognitive, mobility, and communication profiles; profiles about how a sentient connects through its substrate (**substrate-interface**) or through computing (**compute-interface**); and comparable profiles.
 - **How needs change over time:** profiles may be **constant** (they stay the same), **episodic** (they come and go), or **developmental** (they change as the sentient develops). All three are covered the same way, and each is judged by what the sentient can do now, not by what they could do before or by a label, under [Chapter Two §3.1.5 Present Capability and Proactive Help](core_02.000_values_principles.md#315-present-capability-and-proactive-help).
@@ -1496,18 +1496,18 @@ Documented participation barriers count under [Chapter Two §6 Trust and Trustwo
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*record contents*);
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*record contents*);
   - [§3](#3-system-class-evaluation) (*system class evaluation*); Oversight measurement family (*Truth and epistemic integrity; Trustworthiness and Trust Degradation and Misleading Reliance as constitutional measurement*); **Article XIV** (*Right to Reliable and Trustworthy Systems*);
-  - [Subcore 3-K — Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness),
-  - [Subcore 3-K — Trust](subcore_03.075_band_continuity.md#trust),
-  - [Subcore 3-K — Trust Degradation and Misleading Reliance](subcore_03.075_band_continuity.md#trust-degradation-and-misleading-reliance),
-  - [Subcore 3-J — Contestability](subcore_03.070_band_accountability.md#contestability),
-  - [Subcore 3-J — Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation),
-  - [Subcore 3-L — Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment),
-  - [Subcore 3-K — Reversibility](subcore_03.075_band_continuity.md#reversibility),
-  - [Subcore 3-M — Materiality](subcore_03.085_band_oversight.md#materiality),
-  - [Subcore 3-K — Dependency](subcore_03.075_band_continuity.md#dependency), and
-  - [Subcore 3-K — Risk](subcore_03.075_band_continuity.md#risk) (Chapter Three).
+  - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness),
+  - [Trust](subcore_03.075_band_continuity.md#trust),
+  - [Trust Degradation and Misleading Reliance](subcore_03.075_band_continuity.md#trust-degradation-and-misleading-reliance),
+  - [Contestability](subcore_03.070_band_accountability.md#contestability),
+  - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation),
+  - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment),
+  - [Reversibility](subcore_03.075_band_continuity.md#reversibility),
+  - [Materiality](subcore_03.085_band_oversight.md#materiality),
+  - [Dependency](subcore_03.075_band_continuity.md#dependency), and
+  - [Risk](subcore_03.075_band_continuity.md#risk) (Chapter Three).
 - Upstream: Principles: Chapter Two
   - [§3.1.5 Present Capability and Proactive Help](core_02.000_values_principles.md#315-present-capability-and-proactive-help) (*challenge and review paths that work for sentients as they are now; misleading reliance judged against the sentients who rely; survival-critical alerts that reach those who do not respond*),
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
@@ -1516,9 +1516,9 @@ Documented participation barriers count under [Chapter Two §6 Trust and Trustwo
   - [§11.4 Resource and Dependency Concentration](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) (*reliance that cannot be avoided; the step-up in §6.6.2*).
 - Downstream:
   - [CS-8.320 §11](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-11-illustrative-trustworthiness-application-by-system-class) (*Illustrative Trustworthiness Application by System Class*);
-  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*record integrity*);
-  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (10.000 §6.3) (*verified-input gate*);
-  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*false-trust misalignment, perverse-incentive misalignment, and recovery-integrity misalignment*).
+  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity*);
+  - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (S8-F §6.3) (*verified-input gate*);
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*false-trust misalignment, perverse-incentive misalignment, and recovery-integrity misalignment*).
 - Read with: **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XIV-B** (*Right to Redress and Remedy*) and **Article XVII** (*Audit, Transparency, and Independent Verification*) — challenge and audit rights remain owned there; **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) where high-autonomy systems materially mediate governance or verification pathways; **Article III-A** (*Survival*) where continued system reliance would affect survival-essential access; **Article III-F** (*Safe Products and Health Information*) where the system supplies, lists, recommends, or advises on products or services that can affect body, health, or safety; **Article VI-D** (*Accessibility*) where health and safety information must be usable by every sentient who relies on it; [Chapter Two §6 Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) (2.000 §6) and [Chapter Two §5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) (2.000 §5).
 - Operating terms: [CJS-3.120 §10](corpus_joint_structure/cjs_03.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: Disclosure Sufficiency and Observability Terms*) for product and service health and safety information and for ratings, rankings, and paid promotion; [CJS-3.125 §15](corpus_joint_structure/cjs_03.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) for harm reports and corrective notices.
 - Subsections:
@@ -1545,13 +1545,13 @@ This section applies when a major system shapes what sentients count on it for: 
 System alignment certification must evaluate **trustworthiness and system-reliance integrity** under the following, where the materiality trigger applies:
 
 - **Article XIV** (*Right to Reliable and Trustworthy Systems*);
-- [Subcore 3-K — Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness); and
-- [Subcore 3-K — Trust Degradation and Misleading Reliance](subcore_03.075_band_continuity.md#trust-degradation-and-misleading-reliance).
+- [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness); and
+- [Trust Degradation and Misleading Reliance](subcore_03.075_band_continuity.md#trust-degradation-and-misleading-reliance).
 
 <a id="661-evaluation-requirement"></a>
 ##### 6.6.1 Evaluation Requirement
 
-The certification process must check whether sentients have good reason to [Subcore 3-K — trust](subcore_03.075_band_continuity.md#trust) the system and can rely on it accurately, under **Article XIV-A** (*Reliability and Trustworthiness Baseline*).
+The certification process must check whether sentients have good reason to [trust](subcore_03.075_band_continuity.md#trust) the system and can rely on it accurately, under **Article XIV-A** (*Reliability and Trustworthiness Baseline*).
 
 Evaluation must also test whether:
 
@@ -1563,7 +1563,7 @@ Evaluation must also test whether:
 - the rewards built into the system favor deception or cutting corners (**Article XIV-D** (*Incentive-Alignment Constraint*)); and
 - the system can recover from failures honestly, without hiding them or quietly taking away anyone's rights, where that matters (**Article XIV-F** (*Resilience and Self-Healing Baseline*)).
 
-Testing is scaled to [Subcore 3-M — Materiality](subcore_03.085_band_oversight.md#materiality), [Subcore 3-K — Dependency](subcore_03.075_band_continuity.md#dependency), and [Subcore 3-K — Risk](subcore_03.075_band_continuity.md#risk).
+Testing is scaled to [Materiality](subcore_03.085_band_oversight.md#materiality), [Dependency](subcore_03.075_band_continuity.md#dependency), and [Risk](subcore_03.075_band_continuity.md#risk).
 
 Evaluation must reflect functional effect across time, scale, and dependency, not:
 
@@ -1593,7 +1593,7 @@ How deep the review goes depends on the system's class. Wherever the materiality
 
 The defects in [§6](#6-rights-floor-and-domain-evaluations) (*Rights-Floor and Domain Evaluations*) apply to this evaluation, including to material limits, risks, or failure history where **Article XIV** (*Right to Reliable and Trustworthy Systems*) requires review. In addition, each of the following must be treated as a certification defect:
 
-- treating reputation, endorsement, scale, or operator self-report as sufficient without evaluable [Subcore 3-K — Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) analysis;
+- treating reputation, endorsement, scale, or operator self-report as sufficient without evaluable [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) analysis;
 - treating the absence of a warning, or a blank field, as showing that a product or service is safe, instead of saying plainly that it is unknown or untested, under **Article III-F** (*Safe Products and Health Information*); and
 - using efficiency, innovation, or security framings to defeat disclosure, contestability, or redress without satisfying **Article XIV** (*Right to Reliable and Trustworthy Systems*)'s reliability and **Article XIV-A** (*Reliability and Trustworthiness Baseline*) challenge disciplines.
 

@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 10-E**. Until 2026-11-20 its text was in Chapter Sixteen: §3 was the lists in §3.1 (*Records the Decision Uses*), §4 was §4.2 (*What the Integration Record Identifies*), §5 was the steps of §4.4 (*Processing Order*), and §6 was the second paragraph of §4.5 (*Inspection and Outage Continuity*). Chapter Sixteen keeps one line for each guarantee and links the full text here.
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 10-E**. Until 2026-11-20 its text was in Chapter Sixteen: §3 was the lists in §3.1 (*Records the Decision Uses*), §4 was §4.2 (*What the Integration Record Identifies*), §5 was the steps of §4.4 (*Processing Order*), and §6 was the second paragraph of §4.5 (*Inspection and Outage Continuity*). Chapter Sixteen keeps one line for each guarantee and links the full text here.
 >
 > **Upstream:** [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows), which keeps the absent-axis, fixed-measurement, verified-input, change-route, and Rights Floor rules whole, and one line for each guarantee in this file.
 > **Downstream:** [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences), [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks), and [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) (*the steps of the processing order*).
@@ -30,9 +30,9 @@ The guarantees of Chapter Ten depend on the order in which the steps run and on 
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every result names the Standing Records and rules it rests on;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): reviewers can inspect each step, including those taken by hand during an outage;
-    - [Subcore 3-I — Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): settled steps run automatically, and an outage does not stop the time limits;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every result names the Standing Records and rules it rests on;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): reviewers can inspect each step, including those taken by hand during an outage;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): settled steps run automatically, and an outage does not stop the time limits;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): a sentient can see exactly why a gated pathway is open or closed;
     - [Continuity](core_00.000_preamble.md#continuity): decisions keep running the same way when the technology fails;

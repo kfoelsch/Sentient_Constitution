@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 21-D**. Until 2026-11-21 its text was part of Chapter Twenty-Seven §3.1.2 (*Sortition Integrity and Anti-Capture Use*).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 21-D**. Until 2026-11-21 its text was part of Chapter Twenty-Seven §3.1.2 (*Sortition Integrity and Anti-Capture Use*).
 >
 > **Upstream:** [Chapter Twenty-One §3.1.2 Sortition Integrity and Anti-Capture Use](core_21.000_governance.md#312-sortition-integrity-and-anti-capture-use).
 > **Downstream:** **[CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*); [Chapter Seven §3 Independent Bodies](core_07.000_independent_bodies.md#3-what-makes-a-body-independent).
@@ -30,9 +30,9 @@ Sortition protects against capture only while the draw is verifiable and the mem
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): selection failure, manipulation, and capture can be contested;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the draw and its rules are auditable;
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): any eligible sentient may be drawn, with support to serve;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): selection failure, manipulation, and capture can be contested;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the draw and its rules are auditable;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): any eligible sentient may be drawn, with support to serve;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): bodies chosen by lot serve the community rather than patrons;
     - [Continuity](core_00.000_preamble.md#continuity): rotation and replacement rules keep bodies from entrenching;
@@ -105,11 +105,11 @@ A mechanism that fills the seats of a wider body by lot from the elected members
 - **Size against chance:** Before each draw, the mechanism publishes the chance that a bloc holding less than half of the pool wins a majority of the wider body. It sets the body's size or strata so that this chance stays below a bound it publishes with its reasons.
 - **A draw anyone can check:** The Electoral Office runs the draw under [Subcore 7-A §7 Public Draws](subcore_07.010_electoral_office.md#7-public-draws), using a public source of randomness. The method and the inputs are published before the draw, so that anyone can reproduce the result.
 - **Answering for the term:** Drawn members do not face re-election to the wider body, so the mechanism provides all of these:
-  - each member's vote on every [Subcore 3-J — materially binding act](subcore_03.070_band_accountability.md#materially-binding-act) is recorded in its Act Record;
+  - each member's vote on every [materially binding act](subcore_03.070_band_accountability.md#materially-binding-act) is recorded in its Act Record;
   - each member's conduct is reviewed at the end of the term, by a seat independent of the wider body, and the review is published; and
   - removal for cause is available under [Subcore 21-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_21.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
 - **Affected classes:** Where the draw leaves a materially affected class without the representation pathway that [Article XII-A](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) requires for a high-impact decision, the mechanism adds one, by a further stratum, reserved seats, or another published route.
-- **Contact in a standing assembly:** Where the wider body sits as a standing assembly, the private-contact bar of [§4 Published Integrity Rules](#4-published-integrity-rules) applies to contact by an [Subcore 3-J — **interested party**](subcore_03.070_band_accountability.md#interested-party). A member of the authorizing community may contact a drawn member in their own capacity, and the contact is logged in the open briefing record. Every other floor of [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) applies at its strictest.
+- **Contact in a standing assembly:** Where the wider body sits as a standing assembly, the private-contact bar of [§4 Published Integrity Rules](#4-published-integrity-rules) applies to contact by an [**interested party**](subcore_03.070_band_accountability.md#interested-party). A member of the authorizing community may contact a drawn member in their own capacity, and the contact is logged in the open briefing record. Every other floor of [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) applies at its strictest.
 
 ---
 

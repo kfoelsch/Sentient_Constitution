@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Subcore 10-F** — the standing-pipeline integration layer: purpose and role, the fixed Chapter Fourteen and Chapter Fifteen inputs, the integration record and decision order, and descriptor and attachment normalization (§§1–5). The consequences follow in three more files, read in order: [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences) — contribution consequences (Chapter Seventeen §3); [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) — violation consequences: remedy and correction, general standing locks, and lock design and enforcement (Chapter Eighteen §§3–4); and [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) — final standing effect, restoration and reassessment, and enforcement realism (Chapter Nineteen §§3–5). Each chapter numbers its own sections, and §§1–2 of each give its purpose and why it exists. [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) exclusively owns verified facts and Standing Records. [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) exclusively owns standing measurement and every Contribution Axis and Violation Axis slot. This chapter accepts those inputs as fixed and answers Question 3: what follows. [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) decides only whether a qualifying slot 7, 8, or 9 violation receives the matching anti-constitutional-misconduct designation (ACMD).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Subcore 10-F** — the standing-pipeline integration layer: purpose and role, the fixed Chapter Fourteen and Subcore 10-D inputs, the integration record and decision order, and descriptor and attachment normalization (§§1–5). The consequences follow in three more files, read in order: [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences) — contribution consequences (Chapter Seventeen §3); [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) — violation consequences: remedy and correction, general standing locks, and lock design and enforcement (Chapter Eighteen §§3–4); and [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) — final standing effect, restoration and reassessment, and enforcement realism (Chapter Nineteen §§3–5). Each chapter numbers its own sections, and §§1–2 of each give its purpose and why it exists. [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) exclusively owns verified facts and Standing Records. [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) exclusively owns standing measurement and every Contribution Axis and Violation Axis slot. This chapter accepts those inputs as fixed and answers Question 3: what follows. [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) decides only whether a qualifying slot 7, 8, or 9 violation receives the matching anti-constitutional-misconduct designation (ACMD).
 
 </details>
 
@@ -17,8 +17,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*Question 1; verified Standing Records*);
-  - [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (15.000) (*Question 2; standing measurement and every slot*).
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*Question 1; verified Standing Records*);
+  - [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (S10-D) (*Question 2; standing measurement and every slot*).
 - This file (Chapter Ten): Question 3 purpose and role, fixed inputs, the integration record and decision order, and descriptor and attachment normalization.
 - Continues in: [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences) (*contribution consequences*); [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) (*remedy, correction, and locks*); [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) (*final standing effect, restoration, and enforcement realism*).
 - Downstream: [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) (*designation only*); [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*forum supervision*); [CI-19.210](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md#ci-19210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
@@ -40,7 +40,7 @@ Chapter Ten (Chapters Ten – Thirteen) is the constitutional owner of **standin
 
 **Purpose:** Chapter Sixteen answers Question 3 of the standing pipeline: what follows from verified Standing Records. [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) establishes what happened (Question 1). [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2). This chapter takes both as fixed. It converts the verified Standing Records into consequences, applying the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 
-A **[Subcore 3-J — gated pathway](subcore_03.070_band_accountability.md#gated-pathway)** is a specific role, privilege, or kind of access that a standing effect can open, limit, or close, such as voting on governance, holding authority in an institution, or serving in a forum. [§3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) lists the types.
+A **[gated pathway](subcore_03.070_band_accountability.md#gated-pathway)** is a specific role, privilege, or kind of access that a standing effect can open, limit, or close, such as voting on governance, holding authority in an institution, or serving in a forum. [§3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) lists the types.
 
 **Role:** Where this chapter sits:
 
@@ -51,7 +51,7 @@ A **[Subcore 3-J — gated pathway](subcore_03.070_band_accountability.md#gated-
   - [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) holds the violation consequences; and
   - [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) holds the final standing effect, restoration, and enforcement.
 - A qualifying Violation Axis slot 7–9 Standing Record goes to [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation), which decides only the anti-constitutional-misconduct designation (ACMD).
-  - Where a case looks like an attack family in [Chapter Fifteen §3 Pattern applications and criteria routing](core_15.000_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), this chapter decides only whether the sentient is kept out of a gated pathway, based on the sentient's verified Standing Record. Chapter Twenty separately decides the ACMD.
+  - Where a case looks like an attack family in [Subcore 14-A §3 Pattern applications and criteria routing](subcore_14.010_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), this chapter decides only whether the sentient is kept out of a gated pathway, based on the sentient's verified Standing Record. Chapter Twenty separately decides the ACMD.
 - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) forums supervise these decisions. A forum that verifies a pipeline error or material new facts may set a Standing Record aside or require it to be updated, corrected, or superseded under Chapter Ten ([§3.5 Changes Come Only through Chapter Ten](#35-changes-come-only-through-chapter-ten)).
 
 **Chapter scope:** The chapter works in this order, and [§4.4 Processing Order](#44-processing-order) sets the full sequence:
@@ -83,8 +83,8 @@ Chapter Ten settle what happened and how much it mattered. Something still has t
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): what follows from a measure is fair, ordered, and traceable to it;
-    - [Subcore 3-I — Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): consequences follow in a set order, without open-ended delay;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): what follows from a measure is fair, ordered, and traceable to it;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): consequences follow in a set order, without open-ended delay;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): help and harm stay separate, so no one can hide harm behind credit;
     - [Continuity](core_00.000_preamble.md#continuity): a predictable order keeps standing from drifting over time;
@@ -219,7 +219,7 @@ A filed case is not standing by itself ([Subcore 10-B §4.7 Forum Boundary](subc
 
 *In plain terms: a Question 3 decision cannot rewrite a slot. Only a forum that verifies an error or material new facts can send a Standing Record back to be updated, corrected, or superseded under Chapter Ten.*
 
-A slot changes only on this route. If a forum verifies a pipeline error or material new facts—including later-discovered effects—it may set the Standing Record aside or require it to be updated, corrected, or superseded under Chapter Fourteen ([Subcore 10-B §4.7 Forum Boundary](subcore_10.020_standing_assessment.md#47-forum-boundary); [Subcore 10-B §6.4 Versioning](subcore_10.020_standing_assessment.md#64-versioning)). Any new slot must follow Chapter Fifteen’s measurement process, preserve the audit trail, and keep the two axes separate.
+A slot changes only on this route. If a forum verifies a pipeline error or material new facts—including later-discovered effects—it may set the Standing Record aside or require it to be updated, corrected, or superseded under Chapter Fourteen ([Subcore 10-B §4.7 Forum Boundary](subcore_10.020_standing_assessment.md#47-forum-boundary); [Subcore 10-B §6.4 Versioning](subcore_10.020_standing_assessment.md#64-versioning)). Any new slot must follow Subcore 10-D’s measurement process, preserve the audit trail, and keep the two axes separate.
 
 <a id="36-the-rights-floor-is-not-reduced"></a>
 #### 3.6 The Rights Floor Is Not Reduced
@@ -306,7 +306,7 @@ Descriptors and attachments work as follows:
 The integration record imports descriptors under these rules:
 
 - It must import each applicable descriptor from its source Standing Record without adding, removing, or substantively reclassifying it.
-- It may map a legacy label, local display name, or stable identifier to the Chapter Fifteen catalog, but the mapping must remain inspectable and must not change the underlying verified facts or measurement role.
+- It may map a legacy label, local display name, or stable identifier to the Subcore 10-D catalog, but the mapping must remain inspectable and must not change the underlying verified facts or measurement role.
 - A substantive descriptor error or omission must return through the Chapter Ten correction or supersession process.
 
 <a id="53-violation-attachments"></a>

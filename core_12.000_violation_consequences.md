@@ -14,19 +14,18 @@
 
 - Upstream:
   - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (*inputs and decision order*);
-  - [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences) (*contribution consequences; not an input here, and never an offset*);
+  - [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences) (11.000) (*contribution consequences; not an input here, and never an offset*);
   - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) and [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (*Questions 1 and 2*).
 - This file: Question 3 violation consequences: remedy and correction, general standing locks, voluntary public accountability expression, remedy parity, and lock design and enforcement.
 - Downstream:
-  - [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) (*final standing effect, restoration, and enforcement realism*);
-  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (*designation only*);
-  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (*forum supervision*);
+  - [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) (13.000) (*final standing effect, restoration, and enforcement realism*);
+  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (14.000) (*designation only*);
+  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (16.000) (*forum supervision*);
   - [CI-19.210](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md#ci-19210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Read with:
   - [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action) (*Inspectable, attributable action*) for the minimum inspectable-action set that the [§4.4.3 Duty to Resist](#443-duty-to-resist) refusal log uses;
   - steward pointer (process support; cannot narrow this chapter): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 - Worked examples (they add no rule): [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): [CJS-14.105 §9 Watershed steward negligence](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement) and [CJS-14.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-10-question-3-routing-patterns).
-
 </details>
 
 <br>
@@ -363,7 +362,7 @@ The tripwire does not relax:
 - locks attached to Violation Axis slot **7**, **8**, or **9** findings; or
 - coercive or liberty-restricting safeguards under [§4.4.5 Coercive or Liberty-Restricting Safeguards](#445-coercive-or-liberty-restricting-safeguards).
 
-Filings verified as contest-pathway flooding under [Chapter Fifteen §4.2 Flooding the Zone and Contest-Pathway Denial](core_15.000_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial) do not count toward the backlog that trips this rule.
+Filings verified as contest-pathway flooding under [Subcore 14-A §4.2 Flooding the Zone and Contest-Pathway Denial](subcore_14.010_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial) do not count toward the backlog that trips this rule.
 
 <a id="344-measuring-remedy-parity"></a>
 ##### 3.4.4 Measuring Remedy Parity
@@ -832,7 +831,7 @@ These eight are the only special locks. The following fact families do not creat
 - obstruction of accountability, apart from the forum-integrity and required-recusal trigger in [§4.5.1 Forum-Service Standing Lock](#451-forum-service-standing-lock); and
 - verified cruelty character, apart from the trigger in [§4.5.7 Care and Stewardship Lock](#457-care-and-stewardship-lock).
 
-For each of them, ordinary gated-pathway locks under [§3.2 Prevention — General Standing Locks](#32-prevention--general-standing-locks) proceed from the fixed violation record at any slot, whether or not an ACMD later attaches. Chapter Twenty separately decides the ACMD criteria for these, for example under [§4.1 Rights-Floor Waivers and Unconstitutional Contract Terms](core_15.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms), [§4.2 Flooding the Zone and Contest-Pathway Denial](core_15.000_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial), [§4.3 Info-Sphere Zone Flooding](core_15.000_misconduct_pattern_applications.md#43-info-sphere-zone-flooding), [§7.2 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct](core_15.000_misconduct_pattern_applications.md#72-infrastructure-denial-destruction-or-dependency-cutoff-conduct), and [§8 Obstruction of Accountability: Criteria Interaction](core_15.000_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction). Only a final ACMD triggers the [§4.5.5 Anti-Constitutional Trust Lock](#455-anti-constitutional-trust-lock). Verified obstruction *conduct* is different from [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) as a structural condition.
+For each of them, ordinary gated-pathway locks under [§3.2 Prevention — General Standing Locks](#32-prevention--general-standing-locks) proceed from the fixed violation record at any slot, whether or not an ACMD later attaches. Chapter Twenty separately decides the ACMD criteria for these, for example under [Subcore 14-A — §4.1 Rights-Floor Waivers and Unconstitutional Contract Terms](subcore_14.010_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms), [Subcore 14-A — §4.2 Flooding the Zone and Contest-Pathway Denial](subcore_14.010_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial), [Subcore 14-A — §4.3 Info-Sphere Zone Flooding](subcore_14.010_misconduct_pattern_applications.md#43-info-sphere-zone-flooding), [Subcore 14-A — §7.2 Infrastructure Denial, Destruction, or Dependency Cutoff Conduct](subcore_14.010_misconduct_pattern_applications.md#72-infrastructure-denial-destruction-or-dependency-cutoff-conduct), and [Subcore 14-A — §8 Obstruction of Accountability: Criteria Interaction](subcore_14.010_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction). Only a final ACMD triggers the [§4.5.5 Anti-Constitutional Trust Lock](#455-anti-constitutional-trust-lock). Verified obstruction *conduct* is different from [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) as a structural condition.
 
 This subsection has eight locks:
 

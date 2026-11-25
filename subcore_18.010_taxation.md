@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Eighteen](core_18.000_assemblies.md#chapter-eighteen-assemblies), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 18-A**. It was added on 2026-11-23.
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Eighteen](core_18.000_assemblies.md#chapter-eighteen-assemblies), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 18-A**. It was added on 2026-11-23.
 >
 > **Upstream:** [Chapter Eighteen §3 What Assemblies Decide](core_18.000_assemblies.md#3-what-assemblies-decide) (*Sets tax policy*); Subcore 7-C (*Public Stewardship Office*) for the strategic-development list that bounds tax incentives.
 > **Downstream:** [CI-4.210](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public Revenue, Fees, Recurring Charges, and Billing Integrity*) for user fees and charges; adopted implementation text that names an adopter's taxes, rates, and revenue office.
@@ -38,9 +38,9 @@ A tax is the most common way a polity takes something from the sentients it serv
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): taxes are set in the open by assemblies the community chooses, and every taxpayer can understand and contest what is asked of them;
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every tax and every tax break is enacted, recorded, costed, and answered for;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): collection is audited, enforcement is reviewable, and outcomes are measured and published;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): taxes are set in the open by assemblies the community chooses, and every taxpayer can understand and contest what is asked of them;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every tax and every tax break is enacted, recorded, costed, and answered for;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): collection is audited, enforcement is reviewable, and outcomes are measured and published;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): taxes never reach what sentients need to survive, and the cost of complying is kept low;
     - [Continuity](core_00.000_preamble.md#continuity): stable, adequate, broadly shared revenue keeps public institutions running;
@@ -57,7 +57,7 @@ A tax is the most common way a polity takes something from the sentients it serv
 
 *In plain terms: before an assembly enacts or keeps a tax, it must be able to say yes to each of these questions, in writing.*
 
-Every tax, and every change to a tax, must pass these tests. The assembly states in its [Subcore 3-J — Act Record](subcore_03.070_band_accountability.md#act-record) how the tax passes each one:
+Every tax, and every change to a tax, must pass these tests. The assembly states in its [Act Record](subcore_03.070_band_accountability.md#act-record) how the tax passes each one:
 
 - **Lawful and open:**
   - **Lawful:** the tax is enacted by the assembly's general rule, within the tier's matters, and states its base, its rates, who owes it, and when.
@@ -100,7 +100,7 @@ An assembly raises revenue from the sources below in the order given. Before it 
   - **Risk to shared systems:** activity that puts shared systems at risk, such as excess borrowing by large financial institutions.
   - **Harmful products:** the share of a product's harm that falls on sentients other than the buyer.
   - **Discouraged activities:** activities that adults may lawfully choose but that the assembly decides to discourage, taxed under the discouragement rule of [§4.3 Taxes on Harm](#43-taxes-on-harm):
-    - **Gambling:** [Subcore 3-J — games of chance](subcore_03.070_band_accountability.md#game-of-chance), betting, and [Subcore 3-J — event-contract markets](subcore_03.070_band_accountability.md#event-contract-market) under [Chapter Two §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets), taxed on what operators keep: the stakes they take minus the winnings they pay out.
+    - **Gambling:** [games of chance](subcore_03.070_band_accountability.md#game-of-chance), betting, and [event-contract markets](subcore_03.070_band_accountability.md#event-contract-market) under [Chapter Two §19.5 Contingent Claims, Games of Chance, and Event-Contract Markets](core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets), taxed on what operators keep: the stakes they take minus the winnings they pay out.
     - **Intoxicants:** alcohol, tobacco and nicotine, cannabis, and other intoxicating substances that are lawful to sell, taxed by the quantity of the active substance, such as the alcohol or nicotine content, rather than by price.
 - **Third: unearned gains from what is shared or scarce** ([Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure) and [§3.1 Fairness](core_02.000_values_principles.md#31-fairness)):
   - **Land value:** the value of location, under [§4.2 Preferred Designs](#42-preferred-designs).
@@ -254,7 +254,7 @@ No assembly, executive, or revenue office may:
 - **Harming what is protected:**
   - **Tax away survival:** levy or collect tax in a way that leaves a sentient below the [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*) floor.
   - **Tax a right:** tax voting, standing for office, petitioning, worship, speech, peaceful assembly, or bringing a case to a forum, or make any of them depend on having paid tax.
-  - **Tax by identity:** set a tax, rate, or tax break by a characteristic protected under [Article VI-C](core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*), including [Subcore 3-N — Substrate Class](subcore_03.090_band_participation.md#substrate-class), or by viewpoint or political affiliation.
+  - **Tax by identity:** set a tax, rate, or tax break by a characteristic protected under [Article VI-C](core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*Nondiscrimination*), including [Substrate Class](subcore_03.090_band_participation.md#substrate-class), or by viewpoint or political affiliation.
   - **Create a cliff past one hundred percent:** design taxes and benefit withdrawals so that earning one more unit leaves a sentient worse off than before.
 - **Hiding or bending the system:**
   - **Hide a tax:** raise general revenue through a fee, fine, charge, or price that is not enacted and reported as a tax.

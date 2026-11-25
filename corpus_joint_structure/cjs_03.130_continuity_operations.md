@@ -15,10 +15,9 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and
+  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Read with: [CJS-3.105 §1](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional Compass and Cluster Map*) constitutional compass.
-
 </details>
 
 <br>

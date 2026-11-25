@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 21-B**. Until 2026-11-21 its text was part of Chapter Twenty-Seven §3.2.4 (*Selection-Funding Boundaries*).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 21-B**. Until 2026-11-21 its text was part of Chapter Twenty-Seven §3.2.4 (*Selection-Funding Boundaries*).
 >
 > **Upstream:** [Chapter Twenty-One §3.2.4 Selection-Funding Boundaries](core_21.000_governance.md#324-selection-funding-boundaries).
 > **Downstream:** **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*) and **CJS-3.110 §6** (*integrity assurance and resilience operations*).
@@ -30,9 +30,9 @@ A funding rule protects a selection only if it is hard to get around. If adopter
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every gift is traceable to its real source;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): an independent seat decides protected-identity requests and reviews any higher cap;
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): the authorizing community, not outside money, decides who governs;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every gift is traceable to its real source;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): an independent seat decides protected-identity requests and reviews any higher cap;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): the authorizing community, not outside money, decides who governs;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): those who govern answer to the sentients they serve, not to their funders;
     - [Continuity](core_00.000_preamble.md#continuity): outcome review catches new channels of influence before they entrench;

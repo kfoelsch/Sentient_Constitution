@@ -13,16 +13,15 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Nineteen](core_19.000_enforcement.md#chapter-nineteen-enforcement) (*general enforcement, and §8 routing to this chapter*);
-  - [Chapter Thirteen §5 Enforcement Realism and Remedy Systems](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (*remediation capacity, funding, and look-through authority*);
-  - [Chapter Twelve §4](core_12.000_violation_consequences.md#4-lock-design-and-enforcement) (*lock design and enforcement*).
+  - [Chapter Nineteen](core_19.000_enforcement.md#chapter-nineteen-enforcement) (19.000) (*general enforcement, and §8 routing to this chapter*);
+  - [Chapter Thirteen §5 Enforcement Realism and Remedy Systems](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (13.000 §5) (*remediation capacity, funding, and look-through authority*);
+  - [Chapter Twelve §4](core_12.000_violation_consequences.md#4-lock-design-and-enforcement) (12.000 §4) (*lock design and enforcement*).
 - This file: purpose, role, and scope (§1); why special enforcement exists (§2); shared floors (§3); money, assets, and seizure (§4); potential violence and force (§5); root-cause evaluation (§6). The full procedure for §§4–6 is in [Subcore 20-A](subcore_20.010_special_enforcement_procedure.md#subcore-20-a-special-enforcement-procedure).
-- Downstream: [Chapter Twenty-Two §5](core_22.000_non_regression.md#5-anti-evasion-clause) (*the anti-evasion clause, which this chapter must not narrow*).
+- Downstream: [Chapter Twenty-Two §5](core_22.000_non_regression.md#5-anti-evasion-clause) (22.000 §5) (*the anti-evasion clause, which this chapter must not narrow*).
 - Read with:
   - [Article XXI: Justice After Verified Violation](core_04.030_rights_part_d.md#article-xxi-justice-after-verified-violation) (*including the restriction floors*);
-  - [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (*the separation between those who judge and those who carry out*);
+  - [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (6.000) (*the separation between those who judge and those who carry out*);
   - [CI-19.205](corpus_institutions/ci_19.205_institutional_accountability_sanctions.md#ci-19205-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*).
-
 </details>
 
 <br>

@@ -15,10 +15,9 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and
+  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Read with: [CJS-3.105 §1](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional Compass and Cluster Map*) constitutional compass.
-
 </details>
 
 <br>
@@ -51,7 +50,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **CJS-3.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and **CJS-3.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*); **CJS-3.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*).
-- Read with: [Chapter Twenty-One §6 Voting and Binding Collective Choice Protocols](../core_21.000_governance.md#6-voting-and-binding-collective-choice-protocols).
+- Read with: [Chapter Twenty-One §6 Voting and Binding Collective Choice Protocols](../core_21.000_governance.md#6-voting-and-binding-collective-choice-protocols) (21.000 §6).
 - Read with: [Article X-B Governance Participation and Voting Entitlement](../core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Read with: [Article XII Stakeholder System Participation, Representation, and Due Process](../core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
@@ -304,7 +303,7 @@ Weighted participation
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Chapter Two §5.2 Plain-Language Accessibility](../core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty), [Article VI-D Accessibility](../core_04.010_rights_part_b.md#article-vi-d-accessibility), and [Article XXIV Comprehensibility and Complexity Stewardship](../core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
+- Read with: [Chapter Two §5.2 Plain-Language Accessibility](../core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (2.000 §5.2), [Article VI-D Accessibility](../core_04.010_rights_part_b.md#article-vi-d-accessibility), and [Article XXIV Comprehensibility and Complexity Stewardship](../core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
 - Read with: [**CS-4.315**](../corpus_systems/cs_04.315_comprehensibility_complexity_stewardship.md#cs-4315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Chapter Two basis: §5.2, §13.2, §19.1, §15 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).

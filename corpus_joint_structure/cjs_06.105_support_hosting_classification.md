@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and
+  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Downstream: [CJS-6.105 §9](#cjs-6105-9-boundary-between-support-roles-and-merits-decisions) (*Boundary between Support Roles and Merits Decisions*); [CJS-6.105 §10](#cjs-6105-10-institution-hosted-or-forum-adjacent-operations) (*Institution-Hosted or Forum-Adjacent Operations*); [CJS-6.105 §11](#cjs-6105-11-classification-alignment-for-supervised-scope) (*Classification Alignment for Supervised Scope*).
 - Read with:
@@ -24,7 +24,6 @@
   - **CJS-6.105 §11** (*Classification Alignment for Supervised Scope*);
   - **CJS-3.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*);
   - **CJS-25.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
-
 </details>
 
 <details>
@@ -56,7 +55,6 @@ This file is the joint-structure implementation home for **CJS-6.105 §9** (*Bou
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **CJS-6.105 §9** (*Boundary between Support Roles and Merits Decisions*); **CJS-3.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*); [Merits Determination](../subcore_03.070_band_accountability.md#merits-determination).
-
 </details>
 
 <br>

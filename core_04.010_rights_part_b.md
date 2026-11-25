@@ -25,7 +25,6 @@
 - Upstream: [core_04.000_rights_part_a.md](core_04.000_rights_part_a.md) §1 (*Purpose, Role, and Scope*) — chapter-wide default constraint stack and interpretive hubs.
 - Upstream: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); [material stake](core_00.000_preamble.md#material-stake).
 - Read with: **Articles I–V** in Part A — planet-first material, survival, education, and resource-flow floors that Part B rights presume but do not replace.
-
 </details>
 
 <br>
@@ -109,7 +108,6 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§3.1 Fairness](core_02.000_values_principles.md#31-fairness), [§7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency), and [§3 Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim).
-
 </details>
 
 <br>
@@ -152,7 +150,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
   - [Sentient](subcore_03.090_band_participation.md#sentient) sub-entry);
   - [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) (
   - [substrate-agnostic](subcore_03.090_band_participation.md#substrate-class) scope).
-
 </details>
 
 <details>
@@ -187,9 +184,8 @@ This Article sets out the floor of inherent dignity and equal standing:
   - **Chapter Twenty-Two** forums and jurisdiction — default lead
   - [Forum Family, Technical](subcore_03.070_band_accountability.md#forum-family-technical) /
   - [Technical Forum Domains](core_17.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) under the
-  - [Chapter Seventeen §4 Sentience-status adjudication hook](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (23.000 §4).
+  - [Chapter Seventeen §4 Sentience-status adjudication hook](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (17.000 §4)
 - Read with: Chapter Three *Sentience Status Adjudication*, *Sentience Non-Exclusion*, *Sentience Evaluation*, *Reversibility*, *Contestability*.
-
 </details>
 
 <details>
@@ -248,14 +244,13 @@ This Article sets out the floor for deciding disputed sentience status. The proc
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
   - [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and
   - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
-- Downstream: Participation measurement family (*Substantive Fairness and Protected Characteristic Proxying and Disparate Impact*); [Subcore 8-B §6.4](subcore_08.020_system_alignment_certification_evaluation.md#64-nondiscrimination-evaluation) (8.000 §6.4) (*nondiscrimination evaluation where certification gates classification, ranking, pricing, gating, or burden allocation*); [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) forum, administrative, and enforcement processes (*adjudication and operations duty*).
+- Downstream: Participation measurement family (*Substantive Fairness and Protected Characteristic Proxying and Disparate Impact*); [Subcore 8-B §6.4](subcore_08.020_system_alignment_certification_evaluation.md#64-nondiscrimination-evaluation) (S8-B §6.4) (*nondiscrimination evaluation where certification gates classification, ranking, pricing, gating, or burden allocation*); [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (16.000)forum, administrative, and enforcement processes (*adjudication and operations duty*).
 - Read with: Chapter Three
   - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) and
   - [Language, Culture, and Heritage](subcore_03.075_band_continuity.md#language-culture-and-heritage); Chapter Three
   - [Indigenous Continuity](subcore_03.075_band_continuity.md#indigenous-continuity) (*community-anchored Rights Floor; owner floors **Article VI-C** (*Nondiscrimination*) (Nondiscrimination) and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) (Environmental Preconditions and Ecological Integrity)*) for Indigenous continuity and territorial-continuity questions, which route to
   - [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*ecosystem-integrity precondition*) and
-  - [Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) (*adopter-jurisdiction discipline*).
-
+  - [Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)(*adopter-jurisdiction discipline*).
 </details>
 
 <details>
@@ -312,11 +307,10 @@ This Article sets out the nondiscrimination floor, its protection of language, c
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
   - [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline),
   - [§5.2 Plain-Language Accessibility](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*) non-discrimination and full inclusion in adjudication and operations, **Article IV-A** (*Equal Educational Access*) equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article X-B** (*Governance Participation and Voting Entitlement*) governance participation, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XVII** (*Audit, Transparency, and Independent Verification*) independent verification; Participation measurement family (*Accessibility as constitutional measurement*); [Subcore 8-B §6.5](subcore_08.020_system_alignment_certification_evaluation.md#65-accessibility-evaluation) (8.000 §6.5) (*accessibility evaluation where certification gates substantive participation*).
-- Read with: Chapter Three *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting accessibility principle: [Chapter Two §5.2](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (2.000 §5.2) (*Plain-Language Accessibility*). Present-capability and outreach principle: [Chapter Two §3.1.5 Present Capability and Proactive Help](core_02.000_values_principles.md#315-present-capability-and-proactive-help).
-
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*) non-discrimination and full inclusion in adjudication and operations, **Article IV-A** (*Equal Educational Access*) equal educational access (non-duplicative — education-specific accessibility remains owned there; this article states the cross-cutting Rights-Floor), **Article X-B** (*Governance Participation and Voting Entitlement*) governance participation, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XVII** (*Audit, Transparency, and Independent Verification*) independent verification; Participation measurement family (*Accessibility as constitutional measurement*); [Subcore 8-B §6.5](subcore_08.020_system_alignment_certification_evaluation.md#65-accessibility-evaluation) (S8-B §6.5) (*accessibility evaluation where certification gates substantive participation*).
+- Read with: Chapter Three *Accessibility*, *Protected Characteristics*, *Substantive Fairness*, *Materiality*, *Dependency*, *Meaningful Agency*. Cross-cutting accessibility principle: [Chapter Two §5.2](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (2.000 §5.2) (*Plain-Language Accessibility*). Present-capability and outreach principle: [Chapter Two §3.1.5 Present Capability and Proactive Help](core_02.000_values_principles.md#315-present-capability-and-proactive-help) (2.000 §3.1.5).
 </details>
 
 <details>
@@ -384,7 +378,6 @@ This Article sets out the accessibility floor and the rules that keep it substan
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
   - [§7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency), and
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-
 </details>
 
 <br>
@@ -416,7 +409,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline), and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
 - Downstream: **Article VII-B** (*Self-Ownership of Mind*); **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*); **Article VIII-B** (*Reproductive and Lineage Autonomy*) where reproductive or lineage-creation choices are materially implicated; **Article III-B** (*Bodily-Maintenance and Healthcare Access*) affirmative access floor (does not license compelled treatment).
 - Read with: Chapter Three *Consent*, *Meaningful Agency*, *Self-Determination*, *Dignity and Equal Moral Standing*, *Privacy (Informational)*, and *Reproductive Autonomy* (VIII-B boundary).
-
 </details>
 
 <details>
@@ -460,7 +452,6 @@ This Article protects each sentient's ownership of their own body and their gene
 
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), and [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline).
 - Read with: **Article X-A** (*Agency and Freedom from Manipulation*) where freedom from manipulation or freedom of focus is materially at issue.
-
 </details>
 
 <details>
@@ -504,7 +495,6 @@ This Article protects each sentient's inner life — their thoughts, feelings, a
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality), [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline).
 - Downstream: **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary, **Article III-B** (*Bodily-Maintenance and Healthcare Access*) healthcare access, **Article XXI** (*Justice After Verified Violation*) / **Article XXI-B** (*Restriction Floors*) involuntary-deprivation framework, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) best-interest / graduated-capability where a developing sentient is affected.
 - Read with: Chapter Three *Bodily-Maintenance Access*, *Best-Interest Standard*, *Graduated Capability*, *Procedural Fairness*, *Reversibility*, *Redress and Remediation*.
-
 </details>
 
 <details>
@@ -567,7 +557,6 @@ This Article sets out the floor for anything done without a sentient's consent d
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality), [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline).
 - Downstream: **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary, **Article X-A** (*Agency and Freedom from Manipulation*) freedom-from-manipulation, **Article XXI-B** (*Restriction Floors*), and **Article XI-F** (*Non-Imposition and Consent in Association*) consent.
 - Read with: Chapter Three *Voluntary Discontinuation*, *[Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure)*, *Consent*, *Coercion and Manipulation*, *Procedural Fairness*; **Article III-A** (*Survival*), **Article III-B** (*Bodily-Maintenance and Healthcare Access*), **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*).
-
 </details>
 
 <details>
@@ -626,7 +615,6 @@ This Article sets out the voluntary-discontinuation floor and the safeguards tha
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
-
 </details>
 
 <details>
@@ -695,7 +683,6 @@ This Article sets out the decriminalization floor for adult consensual sexual se
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
   - [§7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency), and
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-
 </details>
 
 <br>
@@ -730,7 +717,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline), and [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VIII-B** (*Reproductive and Lineage Autonomy*) reproductive and lineage choice, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing-sentient floor, **Article VIII-E** (*Non-Separation*) non-separation, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary; institutional implementation interfaces under **Chapter Thirty-One** incorporation discipline.
 - Read with: [Family, Care, Reproductive Autonomy, and Instantiation](subcore_03.090_band_participation.md#family-care-reproductive-autonomy-and-instantiation) (topic-group home); **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) for derived sentients and parent-system limits; [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](subcore_03.090_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability) for developing-sentient treatment; Chapter Three *Family and Care Relationships*; **Article VIII-E** (*Non-Separation*) for separation from protected care relationships.
-
 </details>
 
 <details>
@@ -767,7 +753,6 @@ This Article sets out the floor for family and care relationships:
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7) and [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline).
 - Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*), **Article VII-A** (*Self-Ownership of Body*) bodily self-ownership, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) for synthetic, hybrid, and operator-controlled creation, and **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) for care after a new sentient exists.
 - Read with: [Family, Care, Reproductive Autonomy, and Instantiation](subcore_03.090_band_participation.md#family-care-reproductive-autonomy-and-instantiation) (topic-group home); Chapter Three *Reproductive Autonomy*, *Consent*, *Coercion and Manipulation*.
-
 </details>
 
 <details>
@@ -807,7 +792,6 @@ This Article sets out the floor for reproductive and lineage autonomy:
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline), and [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 - Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) and **Article VI-B** (*Sentience-Status Adjudication Floor*), **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*), **Article VIII-E** (*Non-Separation*), **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing-sentient floor, and **Article XIV-E / XIV-F** Rights-Floor continuity.
 - Read with: [*Derivation, Instantiation, and the Parent-System Relationship*](subcore_03.090_band_participation.md#derivation-instantiation-and-the-parent-system-relationship) (Chapter Three nested sub-block within [Family, Care, Reproductive Autonomy, and Instantiation](subcore_03.090_band_participation.md#family-care-reproductive-autonomy-and-instantiation)); Chapter Three *Derived Sentient*, *Instantiation Consent*, *Parent-System Relationship*.
-
 </details>
 
 <details>
@@ -874,9 +858,8 @@ This Article sets out how derived sentients are recognized and the limits on the
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality).
-- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary, **Article VIII-A** (*Family and Care Relationships*) family and care relationships, **Article VIII-E** (*Non-Separation*) non-separation, [**Chapter twenty-one §6.1**](core_21.000_governance.md#61-entitlement-and-eligibility) (27.000 §6.1) no-age-proxy-for-disqualification.
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary, **Article VIII-A** (*Family and Care Relationships*) family and care relationships, **Article VIII-E** (*Non-Separation*) non-separation, [**Chapter twenty-one §6.1**](core_21.000_governance.md#61-entitlement-and-eligibility) (21.000 §6.1)no-age-proxy-for-disqualification.
 - Read with: [*Def.P4 Developing Sentient, Best-Interest Standard, and Graduated Capability*](subcore_03.090_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability) (joint-invocation home for developing status, best-interest, and graduated capability); [*Derived and Developing Sentients, Instantiation, and Care Authority*](subcore_03.090_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability) where derivation or early-instantiation care is materially implicated; Chapter Three *Developing Sentient*, *Best-Interest Standard*, *Graduated Capability*; adjacent homes: **Article VI-B** (*Sentience-Status Adjudication Floor*) for sentience status at the threshold, **Article VIII-A** (*Family and Care Relationships*) for family and care relationships, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) for derivation, instantiation, and parent-system limits, **Article VIII-E** (*Non-Separation*) for separation from carers or family, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) for self-ownership, and **Article VII-B** (*Self-Ownership of Mind*) with **Subcore 4-A** (*Data Types*) for internal-state protection.
-
 </details>
 
 <details>
@@ -933,7 +916,6 @@ This Article sets out the floor for developing sentients, the best-interest stan
 - Upstream: Principles: [Chapter Two §7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline) (2.000 §7.1), [§13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty), and [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 - Downstream: **Article VIII-A** (*Family and Care Relationships*) protected relationships, **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) derivation cases, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing sentients and their carers, **Article XIV-E / XIV-F** Rights-Floor continuity, and **Chapter Twenty-Two** periodic review.
 - Read with: [Family, Care, Reproductive Autonomy, and Instantiation](subcore_03.090_band_participation.md#family-care-reproductive-autonomy-and-instantiation) (topic-group home); Chapter Three *Non-Separation*.
-
 </details>
 
 <details>
@@ -977,7 +959,6 @@ This Article sets out the non-separation floor. It protects the relationships re
   - [§7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency),
   - [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-
 </details>
 
 <br>
@@ -1006,7 +987,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), and [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints).
-
 </details>
 
 <details>
@@ -1049,7 +1029,6 @@ This Article sets out self-ownership of reputation and likeness and the limits o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
-
 </details>
 
 <details>
@@ -1099,9 +1078,8 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 - Upstream: Principles: Chapter Two
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-
 </details>
 
 <details>
@@ -1152,7 +1130,7 @@ This Article sets out the freedom to publish in good faith and its limits:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
   - [§9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good),
   - [Chapter Two §13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (2.020 §13.3),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18).
 - Downstream: **Article III-C** (*Labor and Economic Floor*) labor-and-economic floor; **Article IX-A** (*Self-Ownership of Likeness and Reputation*) likeness; **Article IX-B** (*Experiential and Derived Data Rights*) experiential and derived data; **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) publication; **Chapter Two §11** non-concentration and **§13.1** concentration-threshold mechanism.
@@ -1161,7 +1139,6 @@ This Article sets out the freedom to publish in good faith and its limits:
   - [**Def.C3** (*Privacy (Informational)*)](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) where materially implicated). For copyright-like terms over creative work, read with
   - [Article XIX-E](core_04.020_rights_part_c.md#article-xix-e-creative-and-expressive-works) (*Creative and Expressive Works*) and the shared reward rules in
   - [Article XIX-D](core_04.020_rights_part_c.md#article-xix-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*).
-
 </details>
 
 <details>
@@ -1237,7 +1214,6 @@ These are minimum protections. Adopters may also have copyright, trademark, pate
   - [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process),
   - [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture), and
   - [§11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure).
-
 </details>
 
 <details>
@@ -1279,7 +1255,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline), and [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-
 </details>
 
 <details>
@@ -1312,7 +1287,6 @@ This Article sets out freedom of agency, freedom from manipulation, and freedom 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), and [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
-
 </details>
 
 <details>
@@ -1349,9 +1323,8 @@ This Article covers two things: who gets to vote, and the rule that votes on the
 - Upstream: Principles:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
   - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-
 </details>
 
 <details>
@@ -1397,7 +1370,6 @@ This Article covers two things: who gets to vote, and the rule that votes on the
 
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), and [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
 - Read with: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** for **Class P** (personal, private-use, isolated, and experimental **mode**): operational retention, boundaries, and scaling.
-
 </details>
 
 <details>
@@ -1444,7 +1416,6 @@ This Article sets out the rights to challenge inclusion in and exclusion from pa
   - [§7.3 Dissent and Peaceful Protest](core_02.000_values_principles.md#73-dissent-and-peaceful-protest),
   - [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-
 </details>
 
 <details>
@@ -1489,7 +1460,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
   - [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles),
   - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), and
   - [Chapter Two §18.2 Institutional Secularism and Worldview Neutrality](core_02.050_governance_incentive_application.md#182-institutional-secularism-and-worldview-neutrality) (2.050 §18.2).
-
 </details>
 
 <details>
@@ -1538,7 +1508,6 @@ This Article sets out the freedom of conscience, religion, and comparable worldv
   - [§13.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
 - Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VI-C** (*Nondiscrimination*) non-discrimination, **Article XI-A** (*Freedom of conscience, religion, and comparable worldview*) conscience and worldview, **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) publication, **Article X-A** (*Agency and Freedom from Manipulation*) freedom from manipulation, **Article XVI** (*Info-Sphere Integrity*) info-sphere / epistemic integrity, and **Article XVII-A** (*Auditability and Observable Evidence*) auditability where observable evidence is implicated.
 - Read with: Chapter Three *Expression*, [Chapter Three §3.8 *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity*](subcore_03.090_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity) (S3-N §3.8) (where materially implicated), *Coercion and Manipulation*, *Protected Characteristics*.
-
 </details>
 
 <details>
@@ -1605,7 +1574,6 @@ This Article sets out the expression floor and the limitation, anti-chilling, an
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), and [§13.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
 - Downstream: **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) protected-activity shield, **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) publication and reporting, and **Article XVI** (*Info-Sphere Integrity*) info-sphere / epistemic integrity.
 - Read with: Chapter Three *Press and Journalistic Activity*, *Heightened Scrutiny*; **Article XI-B** (*Expression*).
-
 </details>
 
 <details>
@@ -1647,7 +1615,6 @@ This Article sets out heightened protection for journalistic activity and the cr
   - [§13.1.1 Necessity](core_02.020_interaction_interpretation.md#1311-necessity).
 - Downstream: **Article XI-F** (*Non-Imposition and Consent in Association*) consent in association, **Article III-C** (*Labor and Economic Floor*) strikes and collective work stoppage, **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) protected-activity shield, **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder participation, **Article XX** (*Standing and Participation Status*), and the dissent protections in **Chapters Eight, Ten, Thirteen, and Fifteen**.
 - Read with: Chapter Three *Assembly*, [Chapter Three *Assembly, Collective Organization, and Institutional Formation*](subcore_03.090_band_participation.md#assembly-collective-organization-and-institutional-formation) (S3-N) (where materially implicated); **Article XI-B** (*Expression*).
-
 </details>
 
 <details>
@@ -1732,13 +1699,12 @@ This Article sets out the assembly, dissent, and peaceful protest floors and the
   - [**Article III-C** (*Labor and Economic Floor*)](core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) for worker organizing;
   - [**Article XI-F** (*Non-Imposition and Consent in Association*)](#article-xi-f-non-imposition-and-consent-in-association);
   - [Chapter Five §7 Formation Check: Office-Holder Standing and Authenticity](core_05.000_charters.md#7-formation-check-office-holder-standing-and-authenticity) (5.000 §7);
-  - [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Institutional Authority Standing Lock*; *Dissolution Reformation Lock*);
+  - [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks) (12.000 §4.5)(*Institutional Authority Standing Lock*; *Dissolution Reformation Lock*);
   - **CI-12.210 §4** (*Dissolution*);
-  - [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) (23.000 §4);
-  - [Chapter Eleven §3.2 Competency Bars and Clearances](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) (17.000 §3.2);
-  - [Chapter Seventeen §3.2 Technical Forum Domains](core_17.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) (23.000 §3.2).
+  - [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) (17.000 §4)
+  - [Chapter Eleven §3.2 Competency Bars and Clearances](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) (11.000 §3.2)
+  - [Chapter Seventeen §3.2 Technical Forum Domains](core_17.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) (17.000 §3.2)
 - Downstream: [**Article X-C** (*Stakeholder Role and Participation Rights*)](#article-x-c-stakeholder-role-and-participation-rights) and [**Article XII** (*Stakeholder System Participation, Representation, and Due Process*)](#article-xii-stakeholder-system-participation-representation-and-due-process) once what a created institution or enterprise does is material to others under [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality).
-
 </details>
 
 <details>
@@ -1813,7 +1779,6 @@ This Article sets out the right to form institutions and enterprises, the authen
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline).
-
 </details>
 
 <details>
@@ -1854,7 +1819,7 @@ This Article sets out the floors for non-imposition and consent in association:
   - Participation must remain revocable without unjustified penalty where **Feasibility** permits under **Chapter Three**.
 - **No surrender of rights through general terms:** No system or institution may require a sentient to give up or waive a right as part of its general terms of service, user agreement, or similar standard terms, or as the price of using it.
   - Accepting those terms is not consent to the surrender. Licensing or sharing something of one's own needs its own separate, informed consent under **Chapter Three** (*Consent*), not bundled with access.
-  - A term that purports to waive a Rights-Floor protection is not binding under [Chapter Twenty-Four §6.2](core_24.000_expansion_supremacy.md#62-preserved-internal-review-pathways) (*Preserved Internal Review Pathways*) and may be anti-constitutional misconduct under [Chapter Fifteen §4.1](core_15.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms) (*Rights-Floor Waivers and Unconstitutional Contract Terms*).
+  - A term that purports to waive a Rights-Floor protection is not binding under [Chapter Twenty-Four §6.2](core_24.000_expansion_supremacy.md#62-preserved-internal-review-pathways) (*Preserved Internal Review Pathways*) and may be anti-constitutional misconduct under [Subcore 14-A §4.1](subcore_14.010_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms) (*Rights-Floor Waivers and Unconstitutional Contract Terms*).
 
 #### Article XI-G: Collective Harm Boundary and Enforcement Interface
 <details>
@@ -1865,7 +1830,6 @@ This Article sets out the floors for non-imposition and consent in association:
   - [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles),
   - [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline), and
   - [§7.5 Expression and the Harm Line](core_02.000_values_principles.md#75-expression-and-the-harm-line).
-
 </details>
 
 <details>
@@ -1913,7 +1877,6 @@ This Article sets out where collective harm begins and how strictly that boundar
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency), [§15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle), and [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-
 </details>
 
 <details>
@@ -1968,7 +1931,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
   - [Chapter Two §20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (2.050 §20), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg (Stakeholder System Participation layer);
@@ -1976,7 +1939,6 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
   - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) and
   - [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (6.000 §9).
 - Layer: **Stakeholder System Participation (SSP)**. Distinct from **Constitutional Contract Layer (CCL)** authorization.
-
 </details>
 
 <details>
@@ -2021,10 +1983,9 @@ This Article sets out the floors for deliberation records, for representation in
 
 - Upstream: Principles:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18).
-
 </details>
 
 <details>
@@ -2066,7 +2027,6 @@ This Article sets out the scope of participation weighting, the constraints on i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), and [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-
 </details>
 
 <details>
@@ -2117,9 +2077,8 @@ This Article sets out the floors for internal roles and due process:
   - [System Capture](subcore_03.075_band_continuity.md#system-capture);
   - [Anti-Capture](subcore_03.075_band_continuity.md#anti-capture);
   - [Chapter Six: Functional Independence and Separation of Duties](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (6.000);
-  - [Chapter Fifteen §5.1](core_15.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (21.000 §5.1) (*Bribery and Improper Benefit Exchange*);
+  - [Subcore 14-A §5.1](subcore_14.010_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (S14-A §5.1) (*Bribery and Improper Benefit Exchange*);
   - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*).
-
 </details>
 
 <br>
@@ -2163,19 +2122,18 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 
 - Upstream: Principles: Chapter Two
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
 - Read with:
   - [System Capture](subcore_03.075_band_continuity.md#system-capture);
   - [Anti-Capture](subcore_03.075_band_continuity.md#anti-capture);
-  - [Chapter Sixteen §4](core_16.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4) (*Default Venue and Primary Stakes*) and
+  - [Chapter Sixteen §4](core_16.000_forum.md#4-default-venue-and-primary-stakes) (16.000 §4)(*Default Venue and Primary Stakes*) and
   - [§6](core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*integrity-first routing and anti-self-judging*);
-  - [Chapter Fifteen §6.3](core_15.000_misconduct_pattern_applications.md#63-forum-recusal-failure-and-biased-panel-participation) (21.000 §6.3) (*named misconduct pattern*);
+  - [Subcore 14-A §6.3](subcore_14.010_misconduct_pattern_applications.md#63-forum-recusal-failure-and-biased-panel-participation) (S14-A §6.3) (*named misconduct pattern*);
   - [Article XXVI-C](core_04.030_rights_part_d.md#article-xxvi-c-constitutional-forum-independence-and-external-review) (*heightened application to **Constitutional** forums*);
   - [Chapter Six: Functional Independence and Separation of Duties](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (6.000);
   - [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
-
 </details>
 
 <details>
@@ -2283,12 +2241,11 @@ This sub-Article sets out the structural safeguards for the covered bodies named
   - [Article IX-A](core_04.010_rights_part_b.md#article-ix-a-self-ownership-of-likeness-and-reputation) (*Self-Ownership of Likeness and Reputation*);
   - [Article XIV-E](core_04.020_rights_part_c.md#article-xiv-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*High-Autonomy Systems and Tool-Mediated Process Integrity*);
   - [Article XVI](core_04.020_rights_part_c.md#article-xvi-info-sphere-integrity) (*Info-Sphere Integrity*);
-  - [Chapter Fifteen §4.2](core_15.000_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial) (21.000 §4.2) (*Flooding the Zone and Contest-Pathway Denial*),
-  - [§4.3](core_15.000_misconduct_pattern_applications.md#43-info-sphere-zone-flooding) (*Info-Sphere Zone Flooding*), and
-  - [§5.1](core_15.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*);
+  - [Subcore 14-A §4.2](subcore_14.010_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial) (S14-A §4.2) (*Flooding the Zone and Contest-Pathway Denial*),
+  - [Subcore 14-A — §4.3](subcore_14.010_misconduct_pattern_applications.md#43-info-sphere-zone-flooding) (*Info-Sphere Zone Flooding*), and
+  - [Subcore 14-A — §5.1](subcore_14.010_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*);
   - [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (6.000);
-  - [Chapter Twenty-One §3.2](core_21.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums) (27.000 §3.2) (*Eligibility, Contested Selection, and Democratic Minimums*).
-
+  - [Chapter Twenty-One §3.2](core_21.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums) (21.000 §3.2)(*Eligibility, Contested Selection, and Democratic Minimums*).
 </details>
 
 <details>
@@ -2354,8 +2311,7 @@ This sub-Article sets out the following floors:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§19.1.2 What Incentives Must Not Do](core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do); parent [Article XIII](#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*).
-- Read with: [Subcore 4-B §4 Gifts, Apparent Conflicts, and Funding Integrity](subcore_04.060_integrity_triggers_gifts_funding.md#4-gifts-apparent-conflicts-and-funding-integrity); [Chapter Fifteen §5.1](core_15.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (21.000 §5.1) (*Bribery and Improper Benefit Exchange*); [Article XIII-B](#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for offers made during influence contact and for post-service roles.
-
+- Read with: [Subcore 4-B §4 Gifts, Apparent Conflicts, and Funding Integrity](subcore_04.060_integrity_triggers_gifts_funding.md#4-gifts-apparent-conflicts-and-funding-integrity); [Subcore 14-A §5.1](subcore_14.010_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (S14-A §5.1) (*Bribery and Improper Benefit Exchange*); [Article XIII-B](#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for offers made during influence contact and for post-service roles.
 </details>
 
 <br>
@@ -2384,8 +2340,7 @@ This sub-Article applies to the covered bodies, **appointing authorities**, and 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); parent [Article XIII](#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*).
-- Read with: [Subcore 4-B §4 Gifts, Apparent Conflicts, and Funding Integrity](subcore_04.060_integrity_triggers_gifts_funding.md#4-gifts-apparent-conflicts-and-funding-integrity); [Chapter Thirteen §5.2](core_13.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) (19.000 §5.2) (*Remedy-System Durability*); [Chapter Sixteen §3.2.2](core_16.000_forum.md#322-incentives-and-non-substitution) (22.000 §3.2.2) (*Incentives and Non-Substitution*).
-
+- Read with: [Subcore 4-B §4 Gifts, Apparent Conflicts, and Funding Integrity](subcore_04.060_integrity_triggers_gifts_funding.md#4-gifts-apparent-conflicts-and-funding-integrity); [Chapter Thirteen §5.2](core_13.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) (13.000 §5.2)(*Remedy-System Durability*); [Chapter Sixteen §3.2.2](core_16.000_forum.md#322-incentives-and-non-substitution) (16.000 §3.2.2)(*Incentives and Non-Substitution*).
 </details>
 
 <br>
@@ -2414,8 +2369,7 @@ This sub-Article applies to whoever funds, budgets for, or pays a covered body n
   - [Article X-A](#article-x-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*);
   - [Article XIV-E](core_04.020_rights_part_c.md#article-xiv-e-high-autonomy-systems-and-tool-mediated-process-integrity) (*High-Autonomy Systems and Tool-Mediated Process Integrity*);
   - [Article XVI](core_04.020_rights_part_c.md#article-xvi-info-sphere-integrity) (*Info-Sphere Integrity*); and
-  - [Chapter Fifteen §4.2](core_15.000_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial) (21.000 §4.2) (*Flooding the Zone and Contest-Pathway Denial*) and [§4.3](core_15.000_misconduct_pattern_applications.md#43-info-sphere-zone-flooding) (*Info-Sphere Zone Flooding*).
-
+  - [Subcore 14-A §4.2](subcore_14.010_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial) (S14-A §4.2) (*Flooding the Zone and Contest-Pathway Denial*) and [Subcore 14-A — §4.3](subcore_14.010_misconduct_pattern_applications.md#43-info-sphere-zone-flooding) (*Info-Sphere Zone Flooding*).
 </details>
 
 <br>

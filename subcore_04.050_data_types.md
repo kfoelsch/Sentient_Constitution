@@ -845,8 +845,8 @@ It is published at public-baseline fidelity under the substitute and holding-bac
   - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record);
   - [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record);
   - [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record);
-  - [Subcore 8-B §4.4](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4) (*Data Types and Handling Evaluation*);
-  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*System Certification Record*);
+  - [Subcore 8-B §4.4](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (S8-B §4.4) (*Data Types and Handling Evaluation*);
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*System Certification Record*);
   - [Transparency](subcore_03.085_band_oversight.md#transparency); **Article XVII** (*Audit, Transparency, and Independent Verification*).
 
 </details>

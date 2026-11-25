@@ -67,9 +67,9 @@ Institutions merge, split, change owners, and change leaders. A certification th
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the Institutional Certification Record is held by someone the institution does not control;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): an institution keeps its certification only by showing, again and again, that it still meets the standard;
-    - [Subcore 3-I — Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): recertification comes on time as the institution changes;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the Institutional Certification Record is held by someone the institution does not control;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): an institution keeps its certification only by showing, again and again, that it still meets the standard;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): recertification comes on time as the institution changes;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients keep the protection the certification promised;
     - [Continuity](core_00.000_preamble.md#continuity): certification stays true through changes of leadership and structure;
@@ -90,14 +90,14 @@ Institutions merge, split, change owners, and change leaders. A certification th
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-F §3 System Certification Record](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3), including [Subcore 8-F §3.1 Minimum Record Contents](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) and [Subcore 8-F §3.2 Transparency and Auditability of the System Certification Record](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record);
+  - [Subcore 8-F §3 System Certification Record](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3), including [Subcore 8-F §3.1 Minimum Record Contents](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) and [Subcore 8-F §3.2 Transparency and Auditability of the System Certification Record](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record);
   - [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (6.000 §9);
-  - [Subcore 3-J — Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record);
+  - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record);
   - [Subcore 4-A §10.3 Type O](subcore_04.050_data_types.md#103-type-o-open-public-oversight-baseline-disclosure-data).
 - Downstream: [§4](#4-recertification-and-reopening); [§5](#5-challenging-a-certification); [§6](#6-relationship-to-standing).
 - Read with:
-  - [Subcore 3-K — Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record);
-  - [Subcore 3-K — Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map).
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record);
+  - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map).
 
 </details>
 
@@ -107,7 +107,7 @@ Institutions merge, split, change owners, and change leaders. A certification th
 
 This section is **Phase V, Record** for an Institution.
 
-An **Institutional Certification Record** is bounded and reviewable, and is about one Institution, one Institutional Charter version, one certified scope, one record span, and one decision context. It satisfies and extends the [Subcore 3-J — Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) and [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs). It is opened by the record seat holder at step 1 of the sequence and completed with the outcome. No second record is opened for the decision. The record-keeping rules of [Subcore 8-F §3 System Certification Record](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) apply to it (Record Versions, no change in place to a completed Institutional Certification Record, change requests logged, and a challenge that does not freeze the Institutional Certification Record), with the Institutional Charter version in place of the System Version.
+An **Institutional Certification Record** is bounded and reviewable, and is about one Institution, one Institutional Charter version, one certified scope, one record span, and one decision context. It satisfies and extends the [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) and [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs). It is opened by the record seat holder at step 1 of the sequence and completed with the outcome. No second record is opened for the decision. The record-keeping rules of [Subcore 8-F §3 System Certification Record](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) apply to it (Record Versions, no change in place to a completed Institutional Certification Record, change requests logged, and a challenge that does not freeze the Institutional Certification Record), with the Institutional Charter version in place of the System Version.
 
 <a id="31-minimum-record-contents"></a>
 
@@ -152,8 +152,8 @@ The integrity rules of [Subcore 8-F §3.2 Transparency and Auditability of the S
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (10.000 §4), including [Subcore 8-F §4.3 Provisional and Full Certification](subcore_08.060_system_alignment_certification_records_recertification.md#43-provisional-and-full-certification) and [Subcore 8-F §4.4 Non-Evasion](subcore_08.060_system_alignment_certification_records_recertification.md#44-non-evasion);
-  - [Subcore 8-D §3.2.3 Urgent Protection](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection) (9.000 §3.2.3) and [Subcore 8-B §4.1 Governance, Incentive, and Contestability Discipline](subcore_08.020_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline) (8.000 §4.1);
+  - [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (S8-F §4), including [Subcore 8-F §4.3 Provisional and Full Certification](subcore_08.060_system_alignment_certification_records_recertification.md#43-provisional-and-full-certification) and [Subcore 8-F §4.4 Non-Evasion](subcore_08.060_system_alignment_certification_records_recertification.md#44-non-evasion);
+  - [Subcore 8-D §3.2.3 Urgent Protection](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection) (S8-D §3.2.3) and [Subcore 8-B §4.1 Governance, Incentive, and Contestability Discipline](subcore_08.020_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline) (S8-B §4.1);
   - **CF-16.445 §5.1** (*Stage Targets and Outer Bounds*);
   - [Chapter Five §9 Amendment and Review](core_05.000_charters.md#9-amendment-review-and-scope-misalignment) (5.000 §9);
   - [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) (S3-B §3) and [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns);
@@ -161,9 +161,9 @@ The integrity rules of [Subcore 8-F §3.2 Transparency and Auditability of the S
   - [Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6).
 - Downstream: [§5](#5-challenging-a-certification); [§6](#6-relationship-to-standing); [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000).
 - Read with:
-  - [Subcore 3-K — Recertification](subcore_03.075_band_continuity.md#recertification);
-  - [Subcore 3-K — Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification);
-  - [Subcore 3-K — Full Certification](subcore_03.075_band_continuity.md#full-certification);
+  - [Recertification](subcore_03.075_band_continuity.md#recertification);
+  - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification);
+  - [Full Certification](subcore_03.075_band_continuity.md#full-certification);
   - **CF-16.435 §7** (*no self-investigation*).
 
 </details>
@@ -212,7 +212,7 @@ Each Institution's class sets its recertification interval under [Chapter Sevent
 - **Portfolio change:**
   - a System added, retired, merged, split, or transferred to or from the Institution; or
   - a change in who controls one;
-- **New material authority:** the Institution takes on authority over others that is material under [Subcore 3-M — Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) and that its Institutional Charter and current Institutional Certification Record do not cover (defined in [§4.2.1 What Counts as New Material Authority](#421-what-counts-as-new-material-authority); the recertification it requires is in [§4.2.2 Recertification for New Material Authority](#422-recertification-for-new-material-authority));
+- **New material authority:** the Institution takes on authority over others that is material under [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) and that its Institutional Charter and current Institutional Certification Record do not cover (defined in [§4.2.1 What Counts as New Material Authority](#421-what-counts-as-new-material-authority); the recertification it requires is in [§4.2.2 Recertification for New Material Authority](#422-recertification-for-new-material-authority));
 - **Change of ownership, control, or structure,** including any change that moves authority outside the line that was evaluated ([Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes));
 - **Reward and incentive change:** a material change to the Institution's pay, promotion, target, or reward structure;
 - **Role Map or custody defect:**
@@ -222,7 +222,7 @@ Each Institution's class sets its recertification interval under [Chapter Sevent
 - **Office-holder events:**
   - a change of holder in a covered office;
   - a change in who controls one;
-  - a verified standing lock or an [Subcore 3-J — Interim Hold](subcore_03.070_band_accountability.md#interim-hold) on a holder; or
+  - a verified standing lock or an [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) on a holder; or
   - a finding that the formation check statement was false or incomplete;
 - **Readiness events,** under [Subcore 8-D §4.3 Remediation Readiness: Willingness and Capacity to Correct](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#43-remediation-readiness-willingness-and-capacity-to-correct):
   - a missed proof step or certification condition deadline; or
@@ -237,7 +237,7 @@ A material and timely trigger requires timely forum review and does not wait for
 
 What counts as new material authority is set out in full in [Subcore 9-E §3.1 What Counts as New Material Authority](subcore_09.050_new_material_authority_system_reopening.md#31-what-counts-as-new-material-authority). Its guarantees are:
 
-- **Both tests:** authority is new material authority only when it is material to others under [Subcore 3-M — Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) and neither the Institutional Charter nor the current Institutional Certification Record covers it.
+- **Both tests:** authority is new material authority only when it is material to others under [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) and neither the Institutional Charter nor the current Institutional Certification Record covers it.
 - **Counted together, pilots included:** reach that is material only when counted with Operating Parties under common control, or with others on the same shared system, counts; and a pilot that is itself material waits like the full authority.
 - **No gate on forming or growing:** authority stated in the first Institutional Charter, growth within the scope its Institutional Certification Record already evaluated, and a new System going live on its own certification are not new material authority.
 - **No splitting:** splitting or staging an authority into parts does not avoid the wait, and where it is unclear the Institution gives notice and the lead forum decides.
@@ -389,14 +389,14 @@ When an Institution has a **governance violation**, review of each System in its
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-F §5 Challenging a Certification](subcore_08.060_system_alignment_certification_records_recertification.md#5-challenging-a-certification) (10.000 §5), including [Subcore 8-F §5.1 When the Path Opens](subcore_08.060_system_alignment_certification_records_recertification.md#51-when-the-path-opens) and [Subcore 8-F §5.2 Contestability Paths](subcore_08.060_system_alignment_certification_records_recertification.md#52-contestability-paths);
+  - [Subcore 8-F §5 Challenging a Certification](subcore_08.060_system_alignment_certification_records_recertification.md#5-challenging-a-certification) (S8-F §5), including [Subcore 8-F §5.1 When the Path Opens](subcore_08.060_system_alignment_certification_records_recertification.md#51-when-the-path-opens) and [Subcore 8-F §5.2 Contestability Paths](subcore_08.060_system_alignment_certification_records_recertification.md#52-contestability-paths);
   - [Subcore 8-D §3.3 Contestability Chain](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain) (*the order the challenge paths run in*);
   - [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*);
-  - [Subcore 3-M — Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality).
+  - [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality).
 - Downstream: [§6](#6-relationship-to-standing).
 - Read with:
-  - [Subcore 3-K — Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record);
-  - [Subcore 3-J — Contestability](subcore_03.070_band_accountability.md#contestability).
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record);
+  - [Contestability](subcore_03.070_band_accountability.md#contestability).
 
 </details>
 
@@ -409,7 +409,7 @@ This section is **Phase VI, Operate** for an Institution. It covers how affected
 In short, as Chapter Eight §5 Challenging a Certification states it:
 
 - **Real ways to challenge:** the Institutional Certification Record must state the contestability paths of [§5.2 Contestability Paths](#52-contestability-paths), enough to contest its content, scope, classification assumptions, evidence reliance, supervisory integrity, outcome, and continued reliance. The paths must work and be easy to use, and not be ceremonial.
-- **What a challenge can do:** it must be able to reopen review, [Subcore 3-J — stay](subcore_03.070_band_accountability.md#stay) or limit reliance where material error or integrity risk is credibly shown, and route to the forum family with lawful jurisdiction over the challenged point.
+- **What a challenge can do:** it must be able to reopen review, [stay](subcore_03.070_band_accountability.md#stay) or limit reliance where material error or integrity risk is credibly shown, and route to the forum family with lawful jurisdiction over the challenged point.
 - **Scale:** these duties scale with institution class and material impact, and they do not go away because of how the Institution or its activity is labeled, where material impact is present.
 
 <a id="51-when-the-path-opens"></a>
@@ -420,7 +420,7 @@ In short, as Chapter Eight §5 Challenging a Certification states it:
 
 [Subcore 8-F §5.1 When the Path Opens](subcore_08.060_system_alignment_certification_records_recertification.md#51-when-the-path-opens) applies, reading Institution for system. When the path opens, and how long it stays open:
 
-- **An Institution that already has stakeholders:** its path is already open, or it opens when its Institutional Certification Record opens. The rule reaches an Institution in an Adoption Transition window under [Article XXIX-A](core_04.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*), and one in a [Subcore 3-K — later certification pass](subcore_03.075_band_continuity.md#certification-pass).
+- **An Institution that already has stakeholders:** its path is already open, or it opens when its Institutional Certification Record opens. The rule reaches an Institution in an Adoption Transition window under [Article XXIX-A](core_04.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*), and one in a [later certification pass](subcore_03.075_band_continuity.md#certification-pass).
 - **An Institution with no stakeholders yet:** the published record challenge path opens when its first certification outcome is published, whatever the outcome. That lets a challenge be filed, and reliance stayed, from the start. Until then the Institutional Certification Record still names the path ([Subcore 9-D §3.2 Forum Roles and Sequence](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#32-forum-roles-and-sequence)), and the other paths in [§5.2 Contestability Paths](#52-contestability-paths) are available throughout review.
 
 These two bullets replace the bullets of Chapter Eight §5.1 When the path opens that depend on a System's go-live. The rest is as Chapter Eight §5.1 When the path opens states it. Stakeholders are the sentients the Institution materially affects or who materially rely on it, as found in evaluation and not as the Institution identifies them. The path stays open while the Institution has stakeholders, and an Institution that gains stakeholders after certification reopens review under [§4 Recertification and Reopening](#4-recertification-and-reopening). A claim that an Institution is aligned is unsupported while it has stakeholders but no open path for challenging the Institutional Certification Record.
@@ -443,7 +443,7 @@ Direct access to a forum path remains available when delay would materially enda
 Two points are specific to an Institution:
 
 - A challenge to a System's own certification goes to that System's record. It is not heard in the Institution's certification pass.
-- A challenge to the Institution's class goes by the Challenge route in [Subcore 3-M — Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality). Challenges on related points are heard together as one matter.
+- A challenge to the Institution's class goes by the Challenge route in [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality). Challenges on related points are heard together as one matter.
 
 <a id="6-relationship-to-standing"></a>
 
@@ -454,10 +454,10 @@ Two points are specific to an Institution:
 
 - Upstream:
   - [Subcore 9-D §3](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#3-forum-process) through [§4](#4-recertification-and-reopening);
-  - [Subcore 8-F §6 Relationship to Standing](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing) (10.000 §6);
+  - [Subcore 8-F §6 Relationship to Standing](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing) (S8-F §6);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
-  - [Subcore 3-J — Verified Inputs for Standing](subcore_03.070_band_accountability.md#verified-inputs-for-standing).
-- Downstream: [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*Standing Records and verified-input gate*); [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000) (*standing effects and integration*).
+  - [Verified Inputs for Standing](subcore_03.070_band_accountability.md#verified-inputs-for-standing).
+- Downstream: [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*Standing Records and verified-input gate*); [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F) (*standing effects and integration*).
 - Read with:
   - **Article III-A** (*Survival*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad).
@@ -481,7 +481,7 @@ For an Institution, verified standing input can come only from its [Institutiona
 
 This bridge covers only what the Institutional Certification Record can pass on. Any other verified input about an Institution, such as a standing finding made in a forum case, reaches standing by its own route under Chapter Ten. Chapter Ten decides which other inputs it accepts, and this bridge neither adds to them nor limits them.
 
-**What the bridge carries, and what it does not:** it carries facts from the Institutional Certification Record and nothing else. An operation that passes any other information on to the standing process, whether the Institution runs it directly or through a System, is not covered by this bridge or by the Institutional Certification Record. It is its own [Subcore 3-K — System](subcore_03.075_band_continuity.md#system), because a System is identified by what it actually does and not by the label or the certification next to it, and it is evaluated, classified, and certified as a System on its own, as [Subcore 8-F §6.1 What a System Certification Record Can Pass on to Standing](subcore_08.060_system_alignment_certification_records_recertification.md#61-what-a-system-certification-record-can-pass-on-to-standing) states. What it passes on still has to clear the verified-input gate in [§6.3 Verified-Input Gate](#63-verified-input-gate).
+**What the bridge carries, and what it does not:** it carries facts from the Institutional Certification Record and nothing else. An operation that passes any other information on to the standing process, whether the Institution runs it directly or through a System, is not covered by this bridge or by the Institutional Certification Record. It is its own [System](subcore_03.075_band_continuity.md#system), because a System is identified by what it actually does and not by the label or the certification next to it, and it is evaluated, classified, and certified as a System on its own, as [Subcore 8-F §6.1 What a System Certification Record Can Pass on to Standing](subcore_08.060_system_alignment_certification_records_recertification.md#61-what-a-system-certification-record-can-pass-on-to-standing) states. What it passes on still has to clear the verified-input gate in [§6.3 Verified-Input Gate](#63-verified-input-gate).
 
 <a id="62-every-certification-outcome"></a>
 

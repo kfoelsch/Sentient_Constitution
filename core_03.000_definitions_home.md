@@ -219,7 +219,6 @@ Each subcore file gives the full rule. None of them may narrow a line in this se
   - [§3.1 Invocation, Satisfaction, and Compliance](core_03.000_definitions_home.md#31-invocation-satisfaction-and-compliance),
   - [§4.1 Joint Invocation and Satisfaction](core_03.000_definitions_home.md#41-joint-invocation-and-satisfaction), and
   - [§4.2 Standalone Definitions Interaction and Full Context](core_03.000_definitions_home.md#42-standalone-definitions-interaction-and-full-context) meta rules before applying any dependent cluster.
-
 </details>
 
 <br>
@@ -722,7 +721,7 @@ A dependent cluster adds a head before its members. The head says when the clust
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Chapter Twenty-One §6.3](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (27.000 §6.3) (*Decision-Resolution Requirements for Binding Stakeholder Choice*).
+- Owner floor: [Chapter Twenty-One §6.3](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (21.000 §6.3) (*Decision-Resolution Requirements for Binding Stakeholder Choice*).
 - Read with:
   - [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers);
   - [System Charter](subcore_03.075_band_continuity.md#system-charter),

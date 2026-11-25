@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 22-A**. It was added on 2026-11-23 and holds detail that was in Chapter Twenty-Eight §3, §4, §6, and §7 until then.
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 22-A**. It was added on 2026-11-23 and holds detail that was in Chapter Twenty-Eight §3, §4, §6, and §7 until then.
 >
 > **Upstream:** [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity), which keeps the non-regression floor, Substantive Test 1, and the anti-evasion clause whole, and one line for each rule in this file.
 > **Downstream:** [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (*Procedural Tests 2 to 4, provisional effect, and invalid-change handling*).
@@ -38,8 +38,8 @@ Protections are lost as easily through who decides as through what is written. I
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): whether a change weakens a protection is decided outside the body that proposes it or would lose by it;
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): each determination is published with its reasons and open to review;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): whether a change weakens a protection is decided outside the body that proposes it or would lose by it;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): each determination is published with its reasons and open to review;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims:
     - [Flourishing](core_00.000_preamble.md#flourishing): protections sentients rely on are not traded away against the weaker class;
     - [Continuity](core_00.000_preamble.md#continuity): the floor holds across changes of power;
@@ -57,7 +57,7 @@ Protections are lost as easily through who decides as through what is written. I
 A change that strengthens a protection for one covered class while weakening it for another is judged class by class:
 - **Minimums first:** A change may never take any class below the minimum that a protection in [Chapter Twenty-Two §3 Non-Regression Floor](core_22.000_non_regression.md#3-non-regression-floor) guarantees to every sentient. That is a material weakening for that class, whatever the change does for another class.
 - **Minority favored by default:** Above those minimums, the change fails if it weakens the protection of the minority class in order to strengthen it for another class. It does not fail under this rule if it weakens the protection of a class that is not the minority in order to strengthen it for the minority.
-- **Who the minority is:** [Subcore 3-N — Minority](subcore_03.090_band_participation.md#minority) defines it: the class with less market or institutional power, presumed to include dependency-affected and high-risk groups and groups defined by a Protected Characteristic and exposed to disadvantage in the matter, and otherwise the smaller class, judged by real effects and not by labels.
+- **Who the minority is:** [Minority](subcore_03.090_band_participation.md#minority) defines it: the class with less market or institutional power, presumed to include dependency-affected and high-risk groups and groups defined by a Protected Characteristic and exposed to disadvantage in the matter, and otherwise the smaller class, judged by real effects and not by labels.
 - **Overcoming the default:** The default may be set aside only where the published determination shows that the minority class keeps the core of the protection and is not materially worse off. The proposer must name the classes on each side in the justification required by [Chapter Twenty-Three §5](core_23.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability) (*Burden of Justification and Public Traceability*), and the **Constitutional Forum** decides under §4 (*Who Decides*).
 
 <a id="4-who-decides"></a>
@@ -88,10 +88,10 @@ Replacing a mechanism, office, or body is not a weakening where the protection i
 
 A change that narrows a Chapter Four protection is not a weakening where the **Constitutional Forum** finds it to be a correction. The forum may make that finding only where its published determination finds all of the following:
 - **Error shown:** The protection as written defeats its own purpose, either by harming the class it protects or by conflicting with another Rights Floor in the same case. The error is shown by recorded effects and not by argument alone;
-- **Independent review:** The error was reviewed under [Subcore 3-M — Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny) by reviewers independent of the proposers;
+- **Independent review:** The error was reviewed under [Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny) by reviewers independent of the proposers;
 - **Narrowest change:** No narrower change would remove the error;
 - **Core kept:** The change keeps the core of the protection, takes no class below the minimum, and neither removes the protection nor reverses its direction; and
-- **Minority not worse off:** The change passes the trade-off rule in §3 (*Trade-Offs Between Classes*), so the [Subcore 3-N — Minority](subcore_03.090_band_participation.md#minority) is not made worse off.
+- **Minority not worse off:** The change passes the trade-off rule in §3 (*Trade-Offs Between Classes*), so the [Minority](subcore_03.090_band_participation.md#minority) is not made worse off.
 
 A change that is not found to be a correction is judged as any other change. A proposer's label of a change as a correction is an input to the determination, not the determination.
 
@@ -104,7 +104,7 @@ A change that is not found to be a correction is judged as any other change. A p
 While it is in doubt whether a change is valid, [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) may impose immediate validity-protection controls. Those controls include:
 - heightened review;
 - provisional suspension where materially necessary;
-- [Subcore 3-M — Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation); and
+- [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation); and
 - remediation publication.
 
 <a id="8-work-chapter-twenty-two-leaves-to-other-chapters"></a>
@@ -113,7 +113,7 @@ While it is in doubt whether a change is valid, [Chapter Twenty-Two](core_22.000
 
 *In plain terms: Chapter Twenty-Two does not sort offenses, score standing, or set sanctions. Numeric standing measurement belongs to the Chapter Ten §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale, and Chapter Fourteen only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.*
 
-Under [Subcore 3-L — Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation), Chapter Twenty-Eight and this file must not absorb, restate, or relocate obligations owned by another constitutional owner layer, including:
+Under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation), Chapter Twenty-Eight and this file must not absorb, restate, or relocate obligations owned by another constitutional owner layer, including:
 - **Final offense classification:**
   - Chapter Ten for the Violation Axis slot; and
   - Chapter Fourteen for the anti-constitutional-misconduct designation;
@@ -131,14 +131,14 @@ Cross-layer drift is **non-compliant** under this section:
   - reader-guidance prose elevated to operative effect; or
   - inference from review-trigger language.
 
-Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights), read with [Subcore 3-L — Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation).
+Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights), read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Twenty-Two layer routing index</span></strong></summary>
 
 > Canonical owner routing lives in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights). For editorial orientation, obligations outside the substantive change-validity owner layer include:
-> - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Fifteen** in [Subcore 10-D — subcore_10.040_standing_measurement.md](subcore_10.040_standing_measurement.md); **standing effects and integration** — **Chapter Sixteen** in [Subcore 10-F — subcore_10.060_standing_integration.md](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows);
-> - **numeric Contribution and Violation Axis slots** — the **Chapter Fifteen §8 unified scale**, with separate Standing Records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation (ACMD)** for a qualifying Violation Axis slot 7, 8, or 9 — **Chapter Twenty** in [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation);
+> - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Subcore 10-D** in [Subcore 10-D — subcore_10.040_standing_measurement.md](subcore_10.040_standing_measurement.md); **standing effects and integration** — **Chapter Sixteen** in [Subcore 10-F — subcore_10.060_standing_integration.md](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows);
+> - **numeric Contribution and Violation Axis slots** — the **Subcore 10-D §8 unified scale**, with separate Standing Records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation (ACMD)** for a qualifying Violation Axis slot 7, 8, or 9 — **Chapter Twenty** in [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation);
 > - **forum-operational workflow and adjudicative procedure** — **Chapter Sixteen** and [corpus_forum.md](corpus_forum.md);
 > - **procedural and custody validity** for amendment, ratification, and adoption — **Chapter Twenty-Nine** in [`core_23.000_amendment_ratification.md`](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity); and
 > - **detailed institutional procedure, staffing mechanics, and cross-implementation joint structural integration** for review execution — designated implementation text and owner chapters named in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights).

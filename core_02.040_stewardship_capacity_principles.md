@@ -45,14 +45,14 @@ Chapter Two, Part C, is the constitutional owner of **stewardship, governance, i
 - Downstream:
   - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (including
   - [§13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden));
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
   - [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application).
 - Downstream: [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_02.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways).
 - Downstream: [§7 Freedom (Bounded Agency)](core_02.000_values_principles.md#7-freedom-bounded-agency), which depends on consequential stewardship, distributed understanding, meaningful participation, and repair capacity remaining real under material dependency.
-- Downstream: [Subcore 8-B — Chapter Eight — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000) (*one especially large audit process under oversight — not the sole auditing home*); [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*standing effect — trust-, role-, and recognition-eligibility — implements this subsection as its principle-layer foundation*).
+- Downstream: [Subcore 8-B — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B) (*one especially large audit process under oversight — not the sole auditing home*); [Subcore 10-B — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*standing effect — trust-, role-, and recognition-eligibility — implements this subsection as its principle-layer foundation*).
 - Downstream:
-  - [Chapter Sixteen §1 — Purpose, Role, and Scope](core_16.000_forum.md#1-purpose-role-and-scope) (22.000 §1), [§4 — Default Venue and Primary Stakes](core_16.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4), and [Chapter Seventeen §3 — Forum family definitions](core_17.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) (*forum families carry the participation and oversight architecture for contestable challenge, remediation sequencing, root-cause learning, and proactive governance aligned with this section*);
+  - [Chapter Sixteen §1 — Purpose, Role, and Scope](core_16.000_forum.md#1-purpose-role-and-scope) (16.000 §1) [§4 — Default Venue and Primary Stakes](core_16.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4), and [Chapter Seventeen §3 — Forum family definitions](core_17.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) (17.000 §3) (*forum families carry the participation and oversight architecture for contestable challenge, remediation sequencing, root-cause learning, and proactive governance aligned with this section*);
   - [CF-16.405](corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*), [CF-16.415](corpus_forum/cf_16.415_routing_operations_transfer_certification_representative_treatment.md#cf-16415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing operations, transfer, questions for ruling, and representative treatment*), and [CF-16.420](corpus_forum/cf_16.420_appeal_secondary_review_exhaustion_pathways.md#cf-16420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*) for adopted forum operations.
 - Downstream: Shapes the rights surface for education, Stakeholder System Participation, transparency, comprehensibility, audit and verification, and role-depth pathways into material responsibility.
   - Especially
@@ -65,7 +65,7 @@ Chapter Two, Part C, is the constitutional owner of **stewardship, governance, i
     - [Article XXII: Interoperability, Portability, and Exit Integrity](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity),
     - [Article XXIV: Comprehensibility and Complexity Stewardship](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship), and
     - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards).
-  - Read with: [Chapter Twenty-One §7 — Authorized Roles, Competency Development, and Contribution](core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution) (27.000 §7) and **[CS-21.305 — Critical system stewardship](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-critical-system-stewardship)** for operative role pathways and stewardship-development pathways.
+  - Read with: [Chapter Twenty-One §7 — Authorized Roles, Competency Development, and Contribution](core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution) (21.000 §7)and **[CS-21.305 — Critical system stewardship](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-critical-system-stewardship)** for operative role pathways and stewardship-development pathways.
 - Subsections (reading order):
   - [§16.1 Distributed understanding](#161-distributed-understanding) (community facet of competence at scale) ·
   - [§16.2 Institutional development](#162-institutional-development) (organizational facet) ·
@@ -82,7 +82,6 @@ Chapter Two, Part C, is the constitutional owner of **stewardship, governance, i
   - [§17.5 Duty to Resist](#175-duty-to-resist), and
   - [§17.6 Portable Competence](#176-portable-competence), which keeps that competence from resting on any one steward, and
   - [§17.7 Duty to Represent Stakeholder Interests](#177-duty-to-represent-stakeholder-interests), which says whose interests the role is held for*).
-
 </details>
 
 <details>
@@ -218,7 +217,6 @@ Stewardship is the first line, not the only one. Three different questions have 
   - [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Steward door (non-operative): Next-step card: [Comprehensibility](implementation/STEWARD_ENTRY_DOORS.md#comprehensibility).
 - Downstream: [13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints); rights surface especially [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification), [Article XXIV: Comprehensibility and Complexity Stewardship](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
-
 </details>
 
 <details>
@@ -287,7 +285,6 @@ Distributed understanding does **not** require every sentient to master every su
 - Read with: [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) and [Auditability](subcore_03.085_band_oversight.md#auditability) where materially relevant.
 - Read with: [§16.1 Distributed Understanding](#161-distributed-understanding) (*community understanding and institutional learning are distinct facets of the same competence-at-scale requirement, not substitutes for each other*).
 - Downstream: [§16.3 Openness Aspiration](#163-openness-aspiration); [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) and [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (*institutional learning and incentive alignment*).
-
 </details>
 
 <details>
@@ -367,7 +364,6 @@ Institutional development is the organizational facet of **Pillar 3** under **[�
   - [Article XXII: Interoperability, Portability, and Exit Integrity](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (including
   - [Article XXII-D: Open Formats and Standards](core_04.030_rights_part_d.md#article-xxii-d-open-formats-and-standards));
   - [Article XXIV: Comprehensibility and Complexity Stewardship](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
-
 </details>
 
 <details>
@@ -435,7 +431,6 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action): answerability traced to the act), and **timeliness** leg (no avoidable delay);
   - [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Downstream: [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action) (*default logging contract*); [CF-16.445 §5.2 Publication Timeliness](corpus_forum/cf_16.445_performance_backlog_publication_accessibility.md#cf-16445-52-publication-timeliness) (*forum records and delayed-publication markers*); [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification).
-
 </details>
 
 <details>
@@ -516,8 +511,7 @@ This principle does not:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **timeliness** leg (no avoidable delay), **participation** leg (judgment and voice stay with sentients), **oversight** leg (automated steps stay inspectable);
   - [§18.6 Standardization](core_02.050_governance_incentive_application.md#186-standardization) (*a common, published way of doing a step is what makes it easy to automate and its results easy to compare*);
   - [material stake](core_00.000_preamble.md#material-stake) scaling.
-- Downstream: [Subcore 10-F §4.3 Automation and Human Review](subcore_10.060_standing_integration.md#43-automation-and-human-review) (*what automation may finish and what it must refer*); [Subcore 10-F §4.4 Processing Order](subcore_10.060_standing_integration.md#44-processing-order) (*the contribution and violation tracks are decided side by side*); [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (*automating a process does not merge its seats*).
-
+- Downstream: [Subcore 10-F §4.3 Automation and Human Review](subcore_10.060_standing_integration.md#43-automation-and-human-review) (*what automation may finish and what it must refer*); [Subcore 10-F §4.4 Processing Order](subcore_10.060_standing_integration.md#44-processing-order) (*the contribution and violation tracks are decided side by side*); [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) (*automating a process does not merge its seats*).
 </details>
 
 <details>
@@ -615,8 +609,7 @@ This principle does not:
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **timeliness** leg (no avoidable delay);
   - [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
-- Downstream: [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*the tier windows and the numbers*); [Subcore 10-B §8.5 Physical Backup and Certified Copies](subcore_10.020_standing_assessment.md#85-physical-backup-and-certified-copies) (*a copy request that states no window of its own*).
-
+- Downstream: [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (17.000 §5) (*the tier windows and the numbers*); [Subcore 10-B §8.5 Physical Backup and Certified Copies](subcore_10.020_standing_assessment.md#85-physical-backup-and-certified-copies) (*a copy request that states no window of its own*).
 </details>
 
 <details>
@@ -668,11 +661,10 @@ This principle does not:
   - [§17.7 Duty to Represent Stakeholder Interests](#177-duty-to-represent-stakeholder-interests) (*the role is held for the sentients the system affects*);
   - [§16.1 Distributed Understanding](#161-distributed-understanding) and
   - [§16.2 Institutional Development](#162-institutional-development) (*Pillar 3 — competence at scale*);
-  - [Subcore 8-B — Chapter Eight — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000) (*one especially large audit process under oversight — not the sole auditing home*);
+  - [Subcore 8-B — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B) (*one especially large audit process under oversight — not the sole auditing home*);
   - [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*auditing Rights Floor*);
-  - [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*standing effect implements distributed competence and consequential stewardship*);
+  - [Subcore 10-B — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*standing effect implements distributed competence and consequential stewardship*);
   - [Article XX: Standing and Participation Status](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status).
-
 </details>
 
 <details>
@@ -773,10 +765,9 @@ The rest of this section covers the role itself.
 - Downstream:
   - [§17.2 Alignment under Pressure](#172-alignment-under-pressure);
   - [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward);
-  - [Chapter Twenty-One §7 — Authorized Roles, Competency Development, and Contribution](core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution) (27.000 §7);
-  - [Chapter Twenty-Five](core_25.000_incorporation.md) (31.000) (*adopted implementation text implements; it does not replace*);
+  - [Chapter Twenty-One §7 — Authorized Roles, Competency Development, and Contribution](core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution) (21.000 §7)
+  - [Chapter Twenty-Five](core_25.000_incorporation.md) (25.000)(*adopted implementation text implements; it does not replace*);
   - [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application).
-
 </details>
 
 <details>
@@ -829,7 +820,7 @@ This subsection sets out the shared stewardship standard:
   - may add logging, attribution, and capability limits that satisfy, and do not narrow, those duties
   - may not replace [Subcore 10-B — standing measurement](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened), contest pathways, or Chapter Two duties with a softer internal code
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) and [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) forbid that narrowing
-- **Logging vs Standing Records:** Default mixed-crew inspectability and the log-is-not-a-record rule live in [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); standing measurement remains Chapter Fifteen.
+- **Logging vs Standing Records:** Default mixed-crew inspectability and the log-is-not-a-record rule live in [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward); standing measurement remains Subcore 10-D.
 
 <a id="172-alignment-under-pressure"></a>
 #### 17.2 Alignment under Pressure
@@ -844,8 +835,7 @@ This subsection sets out the shared stewardship standard:
   - [Contestability](subcore_03.070_band_accountability.md#contestability);
   - [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture);
   - [§17.5 Duty to Resist](#175-duty-to-resist).
-- Downstream: [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*verified failures record on the same axes*); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward).
-
+- Downstream: [Subcore 10-B — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*verified failures record on the same axes*); [§17.3 Logging the Role, Not the Steward](#173-logging-the-role-not-the-steward).
 </details>
 
 <details>
@@ -894,7 +884,7 @@ Those are failed tests for any steward.
 
 **How alignment under pressure is shown:**
 - **Hypotheticals do not count:** A steward's own written account of how they *would* act under pressure is not a [Subcore 10-B — standing measurement](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened).
-- **Verified failures count:** When a failure is verified, it is recorded under Chapter Fourteen and measured on the Contribution and Violation axes under Chapter Fifteen.
+- **Verified failures count:** When a failure is verified, it is recorded under Chapter Fourteen and measured on the Contribution and Violation axes under Subcore 10-D.
 - **Partial testing proves nothing:** An evaluation, competency check, or handoff screen that exempts some stewards does not show that this subsection is met. If any steward can still take the bonus, skip the Act Record to make the deadline, or follow the cover instruction, the loophole — what [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) calls a capture path — is still open.
 
 <a id="173-logging-the-role-not-the-steward"></a>
@@ -911,8 +901,7 @@ Those are failed tests for any steward.
   - [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary);
   - [§13.2.3 Privacy](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination);
   - [Article VII-B](core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind) (*Self-Ownership of Mind*).
-- Downstream: [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a Standing-Record substitute*); [Chapter Thirteen §3.1](core_13.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) (19.000 §3.1); [Chapter Thirteen §3.2](core_13.000_final_effect_restoration_enforcement.md#32-plain-statement-of-effect-and-burden) (19.000 §3.2).
-
+- Downstream: [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action) (*default logging contract for mixed human/AI action — not a Standing-Record substitute*); [Chapter Thirteen §3.1](core_13.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) (13.000 §3.1) [Chapter Thirteen §3.2](core_13.000_final_effect_restoration_enforcement.md#32-plain-statement-of-effect-and-burden) (13.000 §3.2)
 </details>
 
 <details>
@@ -987,13 +976,12 @@ The burden this duty places on a steward who carries consequential authority is 
   - [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation);
   - [Article XVII — Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification).
 - Authority boundary:
-  - [Subcore 3-C — Burden of Proof, Traceability, and Verification](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) (S3-C);
-  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
-  - [Chapter Sixteen §5 Forum Cases: Intakes, Seats, Records, and Contests](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests) (22.000 §5);
+  - [Burden of Proof, Traceability, and Verification](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) (S3-C);
+  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (S10-B §7);
+  - [Chapter Sixteen §5 Forum Cases: Intakes, Seats, Records, and Contests](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests) (16.000 §5)
   - [Governance](subcore_03.070_band_accountability.md#governance);
   - [Merits Determination](subcore_03.070_band_accountability.md#merits-determination);
   - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness).
-
 </details>
 
 <details>
@@ -1108,8 +1096,7 @@ The burden this duty places on a steward who carries consequential authority is 
   - [5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint).
 - Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy); [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing); [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) — contest pathways stay open while resisting.
 - Steward door (non-operative): Next-step card: [Unlawful instruction](implementation/STEWARD_ENTRY_DOORS.md#unlawful-instruction).
-- Downstream: [Chapter Twelve §4.4](core_12.000_violation_consequences.md#443-duty-to-resist) (18.000 §4.4) (*Duty to resist — violation rule and standing effects*); [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
-
+- Downstream: [Chapter Twelve §4.4](core_12.000_violation_consequences.md#443-duty-to-resist) (12.000 §4.4)(*Duty to resist — violation rule and standing effects*); [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of the refusal*).
 </details>
 
 <details>
@@ -1201,15 +1188,14 @@ flowchart TB
 - Limits:
   - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties) and
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) (*learning a seat is not holding it*);
-  - [Chapter Eleven §3.2 Competency Bars and Clearances](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) (17.000 §3.2);
+  - [Chapter Eleven §3.2 Competency Bars and Clearances](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) (11.000 §3.2)
   - [§17.5 Duty to Resist](#175-duty-to-resist);
   - [13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints).
 - Downstream:
-  - [Chapter Twenty-One §7 — Authorized Roles, Competency Development, and Contribution](core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution) (27.000 §7) (*no single point of sentient-level failure*);
+  - [Chapter Twenty-One §7 — Authorized Roles, Competency Development, and Contribution](core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution) (21.000 §7)(*no single point of sentient-level failure*);
   - [CJS-25.110 §4](corpus_joint_structure/cjs_25.110_specific_joint_interlocks.md#cjs-25110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-Scaled Lane Staffing and Competency Redundancy*);
   - [CI-21.205 §1](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-1-shared-staffing-and-competency-requirement) (*Shared Staffing and Competency Requirement*);
   - [CS-21.305 §10](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-10-competency-succession-inspectable-action-and-oversight-effectiveness) (*Competency, Succession, Inspectable Action, and Oversight Effectiveness*).
-
 </details>
 
 <details>
@@ -1279,8 +1265,7 @@ Staffing minimums, backup depth, and succession mechanics live in [Chapter Twent
   - [§17.2 Alignment under Pressure](#172-alignment-under-pressure) and [§17.5 Duty to Resist](#175-duty-to-resist) (*what a steward refuses and how*);
   - [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application);
   - [Article XII-A](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*) — representation pathways for each materially affected class.
-- Downstream: [Chapter Twenty-Three §3.2 Proposal, Hearing, and Comment Window](core_23.000_amendment_ratification.md#32-proposal-hearing-and-comment-window) (29.000 §3.2) (*a majority of the stewards of a Class A, B, or C system or institution may bring a change to hearing*); [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*a verified failure is recorded*).
-
+- Downstream: [Chapter Twenty-Three §3.2 Proposal, Hearing, and Comment Window](core_23.000_amendment_ratification.md#32-proposal-hearing-and-comment-window) (23.000 §3.2)(*a majority of the stewards of a Class A, B, or C system or institution may bring a change to hearing*); [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*a verified failure is recorded*).
 </details>
 
 <details>
@@ -1311,7 +1296,7 @@ A steward must act, within the role, for the interests of the stakeholders of th
 - **What it does not ask:** The duty is not a duty to obey stakeholders, and a steward does not become a stakeholder's agent. It never overrides [Safety](core_02.000_values_principles.md#4-safety-harm-constraint), [Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), or a Chapter Four Rights Floor, and it cannot be cited to justify setting any of them aside.
 - **No narrowing:** An operator's or owner's instruction, a contract, or adopted implementation text may add to this duty. None may narrow it or replace it with a softer internal code ([§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard)).
 - **Every steward:** The duty binds human operators and AI stewards alike, under [§17.1 Shared Stewardship Standard](#171-shared-stewardship-standard).
-- **How it is shown:** A steward's own statement of good intent is not a [Subcore 10-B — standing measurement](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened). A verified failure is recorded under Chapter Fourteen and measured on the Contribution and Violation axes under Chapter Fifteen.
+- **How it is shown:** A steward's own statement of good intent is not a [Subcore 10-B — standing measurement](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened). A verified failure is recorded under Chapter Fourteen and measured on the Contribution and Violation axes under Subcore 10-D.
 
 <br>
 

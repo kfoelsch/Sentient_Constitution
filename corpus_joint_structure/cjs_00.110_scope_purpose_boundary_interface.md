@@ -19,7 +19,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline; [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions; and [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router.
+- Upstream: [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline; [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions; and [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router.
 - Downstream:
   - **CJS-0.110 §0** (*Purpose, Role, and Scope*),
   - **CJS-0.110 §1** (*Section Identifiers and Article References*), and
@@ -41,7 +41,6 @@
   - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4);
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*);
   - **CJS-25.110** (*Specific joint interlocks and shared abstractions*); **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
-
 </details>
 
 <details>
@@ -94,7 +93,7 @@ This file is the joint-structure implementation home for **CJS-0.110** (*Scope, 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline; [Chapter Two §15.4](../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) incorporation-layer reading; [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
+- Upstream: [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline; [Chapter Two §15.4](../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) incorporation-layer reading; [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Downstream:
   - **CJS-0.110 §1** (*Section Identifiers and Article References*);
   - **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*);
@@ -107,7 +106,6 @@ This file is the joint-structure implementation home for **CJS-0.110** (*Scope, 
   - [Joint structure landing page](../corpus_joint_structure.md);
   - [Chapter Two §1 Purpose, Role, and Scope](../core_02.000_values_principles.md#1-purpose-role-and-scope) (2.000 §1) (constitutional purpose — not restated here);
   - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4) (default reading stack).
-
 </details>
 
 <br>
@@ -130,7 +128,7 @@ This file, **CJS-0.110** (*Scope, purpose, and boundary interface*), is the **bi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-0.110 §0](#cjs-0110-0-purpose-role-and-scope) (*Purpose, Role, and Scope*) purpose of this layer; [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline; [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4) combined satisfaction and default reading stack.
+- Upstream: [CJS-0.110 §0](#cjs-0110-0-purpose-role-and-scope) (*Purpose, Role, and Scope*) purpose of this layer; [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline; [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4) combined satisfaction and default reading stack.
 - Downstream: **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*); **CJS-3.140 §13** (*Operational Structure and Subsection-Local Terminology*); **CJS-3.140 §14** (*Operational Clusters*); **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
 - Read with:
   - **CJS-0.110 §1** (*Section Identifiers and Article References*);
@@ -142,7 +140,6 @@ This file, **CJS-0.110** (*Scope, purpose, and boundary interface*), is the **bi
   - **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*);
   - **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*);
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*).
-
 </details>
 
 <br>
@@ -182,7 +179,7 @@ How to read guidepost **oDef** entries (**What it is** / **How to measure and as
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and
+  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Read with:
   - **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*);
@@ -193,7 +190,6 @@ How to read guidepost **oDef** entries (**What it is** / **How to measure and as
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*);
   - **CJS-3.135 §23** (*Integrative: Intervention and Override Integrity Terms*);
   - **CJS-3.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*).
-
 </details>
 
 <br>

@@ -134,7 +134,7 @@ Leaf definitions under this aim inherit this aim's scope unless they expressly n
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Flourishing measurement family — link-only rollup; per-term layers live on leaf definitions linked in the table below.
-- Read with: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
+- Read with: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) where whole-system effects, survival-floor delivery, or **Safe Conditions** are materially in scope.
 
 </details>
 

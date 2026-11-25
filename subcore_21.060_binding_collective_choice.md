@@ -3,10 +3,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 21-F**. Until 2026-11-22 its text was part of Chapter Twenty-Seven §6.2 (*Records, Gates, and Method Neutrality*) and §6.3 (*Decision-Resolution Requirements for Binding Stakeholder Choice*).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 21-F**. Until 2026-11-22 its text was part of Chapter Twenty-Seven §6.2 (*Records, Gates, and Method Neutrality*) and §6.3 (*Decision-Resolution Requirements for Binding Stakeholder Choice*).
 >
 > **Upstream:** [Chapter Twenty-One §6.2 Records, Gates, and Method Neutrality](core_21.000_governance.md#62-records-gates-and-method-neutrality) and [Chapter Twenty-One §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
-> **Downstream:** the Chapter Three definitions under [Subcore 3-N — Def.P2 Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice); **CI-4.205** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) for institutional publication, and **CI-6.205** (*System and Institutional Charter Contents, Review, and Formation Template*) for the Charter Pointer field.
+> **Downstream:** the Chapter Three definitions under [Def.P2 Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice); **CI-4.205** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) for institutional publication, and **CI-6.205** (*System and Institutional Charter Contents, Review, and Formation Template*) for the Charter Pointer field.
 
 </details>
 
@@ -37,9 +37,9 @@ A binding vote is only as fair as its rules. If adopters could each decide what 
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every binding choice leaves an outcome record that can be checked;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): outcomes are open to independent verification;
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): those affected are heard before a binding choice;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every binding choice leaves an outcome record that can be checked;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): outcomes are open to independent verification;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): those affected are heard before a binding choice;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients have a fair say in the choices that bind them;
     - [Continuity](core_00.000_preamble.md#continuity): disputes are settled by a process all sides can trust;
@@ -88,13 +88,13 @@ This section sets out the official record, gate, and method-neutrality requireme
 
 Where material disagreement requires a **binding stakeholder choice** within an already-authorized system, institution, or bounded decision domain, the process must comply with the following Chapter Three definitions (operative specification and O/M/A/C decomposition reside there):
 
-- **Structured sequence, local deliberation first, plural evaluation, reopening:** [Subcore 3-N — Binding Stakeholder Choice — Decision-Resolution Requirements](subcore_03.090_band_participation.md#binding-collective-choice-decision-resolution-process).
-- **Stakeholder representation and weight limits:** [Subcore 3-N — Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) (also cross-referenced from [Chapter Twenty-One §6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility)).
-- **Stakeholder rights-collision discipline:** [Subcore 3-N — Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice) — read with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test).
-- **Emergency exception:** [Subcore 3-K — Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — read with:
-  - [Subcore 3-K — Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency);
-  - [Subcore 3-K — Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated;
-  - [Subcore 3-K — Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency); and
+- **Structured sequence, local deliberation first, plural evaluation, reopening:** [Binding Stakeholder Choice — Decision-Resolution Requirements](subcore_03.090_band_participation.md#binding-collective-choice-decision-resolution-process).
+- **Stakeholder representation and weight limits:** [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice) (also cross-referenced from [Chapter Twenty-One §6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility)).
+- **Stakeholder rights-collision discipline:** [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice) — read with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test).
+- **Emergency exception:** [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice) — read with:
+  - [Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency);
+  - [Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated;
+  - [Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency); and
   - **Chapter Seventeen §5.1** (*Emergency Measures and Continuation Burden*).
 
 <a id="5-charter-pointer-rule"></a>
@@ -105,11 +105,11 @@ Where material disagreement requires a **binding stakeholder choice** within an 
 
 A governing System Charter or Institutional Charter points to the rules of [§4 Decision-Resolution Requirements for Binding Stakeholder Choice](#4-decision-resolution-requirements-for-binding-stakeholder-choice) rather than repeating them:
 
-- **What it states:** a governing [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter) or [Subcore 3-K — Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) states operated scope.
+- **What it states:** a governing [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) states operated scope.
 - **What it points to:** where Def.P2 admission scope applies, it must **point to** the published process rules that satisfy [§4 Decision-Resolution Requirements for Binding Stakeholder Choice](#4-decision-resolution-requirements-for-binding-stakeholder-choice) ([Chapter Five §5 What System and Institutional Charters Must State](core_05.000_charters.md#5-what-system-and-institutional-charters-must-state), item 8).
 - **What stays here:** the System Charter or Institutional Charter does not carry the decision sequence, weighting model, or rights-collision record; they stay in this file and in the Chapter Three definitions it names.
 - **Where they are published:** institutional publication of those materials lives under **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) / **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*).
-- **The pointer field:** the [Subcore 3-K — Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) is required by **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10.
+- **The pointer field:** the [Charter Pointer](subcore_03.075_band_continuity.md#charter-pointer) is required by **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10.
 
 <a id="6-related-rules-elsewhere"></a>
 

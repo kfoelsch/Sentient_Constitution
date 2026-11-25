@@ -12,11 +12,10 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences) (*contribution outcomes*); [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) (*violation outcomes and locks*); [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (*decision order*).
+- Upstream: [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences) (11.000) (*contribution outcomes*); [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) (12.000) (*violation outcomes and locks*); [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (*decision order*).
 - This file: Question 3 final standing effect, restoration and reassessment, and enforcement realism and remedy systems.
-- Downstream: [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (*designation only*); [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (*forum supervision*); [CI-19.210](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md#ci-19210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+- Downstream: [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (14.000) (*designation only*); [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (16.000) (*forum supervision*); [CI-19.210](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md#ci-19210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Worked examples (they add no rule): [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): [CJS-14.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-10-question-3-routing-patterns).
-
 </details>
 
 <br>
@@ -342,7 +341,7 @@ Forums and implementation systems must be able to look through formal structure 
 <a id="55-timely-implementation"></a>
 #### 5.5 Timely Implementation
 
-Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Chapter Fifteen slot.
+Remedy commencement, correction milestones, lock review, and reassessment must satisfy [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional), [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline), and **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*). Delay that compounds harm, conceals non-performance, or defeats review is a new verified fact for Question 3 and may justify escalated safeguards without changing the original Subcore 10-D slot.
 
 Rights and standing consequences are real only when sentients can invoke them, verify them, fund practical repair, obtain timely review, and enforce obligations against the actors functionally responsible.
 

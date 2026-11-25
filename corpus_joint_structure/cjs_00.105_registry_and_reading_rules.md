@@ -29,7 +29,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract; [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
+- Upstream: [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract; [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Downstream:
   - [CJS-0.105 §1: Cross-File Routing](#cjs-0105-1-cross-file-routing);
   - [CJS-0.105 §2: Joint Structure Registry](#cjs-0105-2-joint-structure-registry);
@@ -44,7 +44,6 @@
     - **CJS-3.140** (*oDef Parse Mechanics*), and
     - **CJS-6.105** (*Support roles, hosting independence, and classification alignment*);
   - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4).
-
 </details>
 
 <br>
@@ -82,7 +81,7 @@ Scope, boundary, and the shared implementation-corpus contract live in **CJS-0.1
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4) combined satisfaction and default reading stack;
-  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and
+  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Downstream: [CJS-0.105 §1 topic-router stable IDs](#cjs-01-topic-router-stable-ids).
 - Read with:
@@ -92,7 +91,6 @@ Scope, boundary, and the shared implementation-corpus contract live in **CJS-0.1
   - [CJS-0.105 §2](#cjs-0105-2-joint-structure-registry) (*Joint Structure Registry*);
   - [CJS-0.105 §3](#cjs-0105-3-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable Identifiers, Edition Alignment, and Drafting Notes*);
   - [CJS-25.105 §8](cjs_25.105_drafting_contracts.md#cjs-25105-8-two-layer-definition-contract-binding-abstraction--owner-detail) (*Two-Layer Definition Contract (Binding Abstraction + Owner Detail)*).
-
 </details>
 
 <br>
@@ -182,7 +180,7 @@ Joint abstractions and constitutional non-redefinition discipline: [CJS-0.110 §
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and
+  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Read with:
   - **CJS-0.105** (*Registry and reading rules*);
@@ -194,7 +192,6 @@ Joint abstractions and constitutional non-redefinition discipline: [CJS-0.110 §
     - **CJS-6.105** (*Support roles, hosting independence, and classification alignment*);
   - **CJS-25.110** (*Specific joint interlocks and shared abstractions*);
   - **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
-
 </details>
 
 <details>
@@ -231,7 +228,7 @@ For sequential reading, follow the previous and next links from the [Joint Struc
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and
+  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Read with:
   - **CJS-0.105 §3** (*Stable Identifiers, Edition Alignment, and Drafting Notes*);
@@ -239,7 +236,6 @@ For sequential reading, follow the previous and next links from the [Joint Struc
   - **CJS-25.110 §1** (*Hybrid Delegated Authority (Delegated Binding Bodies)*);
   - [CJS-25.105 §8.1](cjs_25.105_drafting_contracts.md#cjs-25105-81-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*);
   - **CJS-25.110** (*Specific joint interlocks and shared abstractions*); **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
-
 </details>
 
 <details>
@@ -283,13 +279,12 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3.105 (*Operational cluster
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract; [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*) tier scale; [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
+- Upstream: [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract; [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](../core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (17.000 §5)(*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*) tier scale; [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Read with:
   - **CJS-0.105 §4** (*Time-Window Names*);
   - [CJS-0.105 §2](#cjs-0105-2-joint-structure-registry) (*Joint Structure Registry*);
   - [CJS-0.105 §3](#cjs-0105-3-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable Identifiers, Edition Alignment, and Drafting Notes*);
   - [CF-16.445 §5.1](../corpus_forum/cf_16.445_performance_backlog_publication_accessibility.md#cf-16445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*).
-
 </details>
 
 <details>

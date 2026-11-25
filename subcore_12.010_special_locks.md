@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 12-A**. Until 2026-11-21 its text was in Chapter Eighteen as §§4.5.1–4.5.8 (the eight special locks); here they are §§3.1–3.8. Chapter Eighteen keeps the §4.5 rules common to every special lock, the list that closes the set at eight, every heading and anchor, each lock's plain-terms summary, and one line for each guarantee.
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 12-A**. Until 2026-11-21 its text was in Chapter Eighteen as §§4.5.1–4.5.8 (the eight special locks); here they are §§3.1–3.8. Chapter Eighteen keeps the §4.5 rules common to every special lock, the list that closes the set at eight, every heading and anchor, each lock's plain-terms summary, and one line for each guarantee.
 >
 > **Upstream:** [Chapter Twelve §4.1 Definition and Attachment](core_12.000_violation_consequences.md#41-definition-and-attachment) and [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks).
 > **Downstream:** [Chapter Thirteen §4 Restoration and Reassessment](core_13.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment) and [Chapter Thirteen §5.4 Anti-Evasion and Look-through Authority](core_13.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority).
@@ -30,9 +30,9 @@ A special lock restricts a sentient's access to a gated pathway, so its terms mu
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): each lock attaches only to a verified violation finding and names what would lift it;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): every lock is reviewed outside the body whose integrity it protects;
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): no lock cuts off speaking, being heard, or the challenge and remedy pathways;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): each lock attaches only to a verified violation finding and names what would lift it;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): every lock is reviewed outside the body whose integrity it protects;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): no lock cuts off speaking, being heard, or the challenge and remedy pathways;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): dependents, stakeholders, and the public are protected from the same harm happening again;
     - [Continuity](core_00.000_preamble.md#continuity): forums, certification, and dissolution orders cannot be defeated by a change of name or a proxy;
@@ -96,9 +96,9 @@ The rules common to every special lock are in [Chapter Twelve §4.5 Special Lock
   - stake-weighted vote;
   - binding stakeholder choice participation;
   - stakeholder representation authority; and
-  - comparable Stakeholder System Participation pathways within the affected system, institution, or bounded decision domain under [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight) and [Subcore 3-N — Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice).
+  - comparable Stakeholder System Participation pathways within the affected system, institution, or bounded decision domain under [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight) and [Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice).
 - **Does not by itself restrict:**
-  - [Subcore 3-N — Stakeholder](subcore_03.090_band_participation.md#stakeholder) status or recognition that the sentient is materially affected;
+  - [Stakeholder](subcore_03.090_band_participation.md#stakeholder) status or recognition that the sentient is materially affected;
   - the **governance-voting** pathway, **Foundational Constitutional Choice**, or comparable legitimacy-mechanism binding collective choice under [Chapter Twenty-One §6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility);
   - Rights-Floor minimums, survival-critical access, or constitutionally required audit, challenge, and remedy pathways.
 - **Risk:** continued capture or distortion of stakeholder voice, false-stake dominance, coerced participation weight, and recurrence of stakeholder-pathway abuse in the same or related domains.
@@ -141,7 +141,7 @@ The rules common to every special lock are in [Chapter Twelve §4.5 Special Lock
     - holding or keeping authority in the institution or enterprise; or
     - passing the formation check or a certification;
 - retaliating, regardless of the means used, against a protected reporter or against a sentient who refused an unlawful or unconstitutional instruction, where the report or the refusal concerned that institution or enterprise;
-- suppressing, burying, or refusing to receive a [Subcore 3-J — Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) report made through the institution or enterprise, including an insider's report of a crossing over the line of [Subcore 3-M — Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality); or
+- suppressing, burying, or refusing to receive a [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) report made through the institution or enterprise, including an insider's report of a crossing over the line of [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality); or
 - knowingly keeping a misaligned reward received through the institution or enterprise after notice under [Chapter Twelve §4.4.2 Misaligned Rewards](core_12.000_violation_consequences.md#442-misaligned-rewards).
 
 - **Gated pathway:**
@@ -152,7 +152,7 @@ The rules common to every special lock are in [Chapter Twelve §4.5 Special Lock
   - The lock follows the authority, not the label. A change of name, form, or seat does not take the authority outside it ([Chapter Thirteen §5.4 Anti-Evasion and Look-through Authority](core_13.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority)).
 - **Does not by itself restrict:**
   - forming or leading an institution or enterprise outside the gated pathway;
-  - joining, working in, being served by, or being a [Subcore 3-N — Stakeholder](subcore_03.090_band_participation.md#stakeholder) of any institution or enterprise, including the one concerned, in a role that carries no governing, controlling, or owning authority;
+  - joining, working in, being served by, or being a [Stakeholder](subcore_03.090_band_participation.md#stakeholder) of any institution or enterprise, including the one concerned, in a role that carries no governing, controlling, or owning authority;
   - the existence or operation of the institution or enterprise itself, which another lawful holder may lead;
   - passive holdings that carry no control, no vote, and no say in appointments, although remedy owed from them stays collectable; or
   - wages for work outside the verified violation, the Rights-Floor minimums, survival-critical access, or constitutionally required audit, challenge, and remedy pathways.
@@ -310,7 +310,7 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
 - **Gated pathway:**
   - re-forming, reviving, re-registering, or running the dissolved Chartered Party, under any name or form;
   - its successors, controlled entities, and any nominee-, shell-, or proxy-held entity through which the same activity would go on under the same centre of power; and
-  - any Operating Party that is one operation with any of them under the common-control test in [Subcore 3-M — Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality).
+  - any Operating Party that is one operation with any of them under the common-control test in [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality).
   - The lock follows the activity and the control, not the label. A change of name, form, seat, or holder does not take an entity outside it ([Chapter Thirteen §5.4 Anti-Evasion and Look-through Authority](core_13.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority)).
 - **Does not by itself restrict:**
   - any sentient forming or leading a different Operating Party, including one that does similar work and including a sentient who ran the dissolved Chartered Party alone or with others, so long as it is not one of the entities above and no lock on that sentient bars it;
@@ -385,7 +385,7 @@ The lock is mandatory once its trigger is met, and it applies on the same terms 
 - a violation finding has been verified;
 - the violation finding is still open, or the harm has not been fixed in a way that matters;
 - the violation finding shows knowing or intentional conduct of one of the kinds listed next; and
-- the conduct was material, as [Subcore 3-M — Materiality](subcore_03.085_band_oversight.md#materiality) defines it.
+- the conduct was material, as [Materiality](subcore_03.085_band_oversight.md#materiality) defines it.
 
 **Kinds of conduct that count:**
 

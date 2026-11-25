@@ -81,7 +81,7 @@ CORE_CHAIN = (
     "core_13.000_final_effect_restoration_enforcement.md",
     "subcore_13.010_cross_adopter_checks_remedy_durability.md",
     "core_14.000_misconduct_designation.md",
-    "core_15.000_misconduct_pattern_applications.md",
+    "subcore_14.010_misconduct_pattern_applications.md",
     "core_16.000_forum.md",
     "subcore_16.010_forum_intake_default_venue.md",
     "subcore_16.020_forum_case_seats_contest_routing.md",

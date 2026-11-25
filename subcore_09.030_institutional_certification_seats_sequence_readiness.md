@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Subcore 9-D](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#subcore-9-d-institutional-alignment-certification--forum-process-and-outcomes), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 9-C**. Until 2026-11-21 its text was in Chapter Twelve: §3 was §3.1 (*Four Seats in an Institutional Certification*), §4 was §3.2 (*Forum Roles and Sequence*), §5 was §4.3 (*Remediation Readiness for an Institution*), and §6 was §4.4 (*Denial and Revocation for an Institution*). Chapter Twelve keeps one line for each guarantee and links the full text here.
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Subcore 9-D](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#subcore-9-d-institutional-alignment-certification--forum-process-and-outcomes), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 9-C**. Until 2026-11-21 its text was in Chapter Twelve: §3 was §3.1 (*Four Seats in an Institutional Certification*), §4 was §3.2 (*Forum Roles and Sequence*), §5 was §4.3 (*Remediation Readiness for an Institution*), and §6 was §4.4 (*Denial and Revocation for an Institution*). Chapter Twelve keeps one line for each guarantee and links the full text here.
 >
 > **Upstream:** [Subcore 9-D](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#subcore-9-d-institutional-alignment-certification--forum-process-and-outcomes), which keeps §3.3 (*Forums, Certifiers, and Record Offices as Institutions*), the outcomes in §4, go-live in §4.1, defects in §4.2, and the effects of denial and revocation in §4.5 whole, and one line for each guarantee in this file; [Subcore 8-D](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#subcore-8-d-system-alignment-certification--forum-process-and-outcomes), whose rules this file adapts.
 > **Downstream:** [Subcore 9-F](subcore_09.060_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record) (*Institutional Certification Record*).
@@ -30,9 +30,9 @@ An Institution is often more powerful than any one sentient it affects, and it h
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the Institution answers to seats it does not control;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): independent forums lead and verify each part of the review;
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): affected members, workers, users, and communities submit evidence, anonymously where they need to;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the Institution answers to seats it does not control;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): independent forums lead and verify each part of the review;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): affected members, workers, users, and communities submit evidence, anonymously where they need to;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients can rely on an Institution's certified status;
     - [Continuity](core_00.000_preamble.md#continuity): failings are found and corrected before they spread to the Institution's Systems;
@@ -47,20 +47,20 @@ An Institution is often more powerful than any one sentient it affects, and it h
 
 *In plain terms: who holds each of the four seats when an Institution is certified, and what happens if the Institution places a seat inside its own control.*
 
-This section is how Chapter Twelve applies the [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement), and it is the statement [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires of this process. An institutional certification is a [Subcore 3-J — Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act), so every certification pass has the four seats. Chapter Twelve adds no seat and relaxes no rule of Chapter Six. [Subcore 8-D §3.1.1 Four Seats in a Certification](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) applies with these substitutions:
+This section is how Chapter Twelve applies the [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement), and it is the statement [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires of this process. An institutional certification is a [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act), so every certification pass has the four seats. Chapter Twelve adds no seat and relaxes no rule of Chapter Six. [Subcore 8-D §3.1.1 Four Seats in a Certification](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) applies with these substitutions:
 
-- **[Subcore 3-J — Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat):** the Institution's governing authority.
+- **[Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat):** the Institution's governing authority.
   - **Role:** it requests certification or is the proponent who must supply the evidence.
   - **A certification pass opened on a trigger:** it is opened by the lead forum's order, and the governing authority remains the proponent.
-- **[Subcore 3-J — Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat):** the lead forum for the outcome, and each component authority for its own finding, assigned under [Subcore 9-D §3.2 Forum Roles and Sequence](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#32-forum-roles-and-sequence) and Chapter Twenty-Two.
-  - **Seat placement:** the [Subcore 3-K — Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) does not place this seat.
+- **[Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat):** the lead forum for the outcome, and each component authority for its own finding, assigned under [Subcore 9-D §3.2 Forum Roles and Sequence](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#32-forum-roles-and-sequence) and Chapter Twenty-Two.
+  - **Seat placement:** the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) does not place this seat.
   - **What the Institution cannot do:** choose, appoint, fund through a channel it controls, or remove its own verifying authority.
   - **Who may hold it:** no one who works for the Institution, is owned by it, or answers to it may hold this seat for its certification, and everyone who holds it must have no interest that the outcome decides.
   - **Systems:** the same rule applies to a system certification ([Subcore 8-D §3.1.1 Four Seats in a Certification](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification), *Outside the operator*).
-- **[Subcore 3-J — Record Seat](subcore_03.070_band_accountability.md#record-seat):** the office the Institutional Charter's Charter Role Map places.
+- **[Record Seat](subcore_03.070_band_accountability.md#record-seat):** the office the Institutional Charter's Charter Role Map places.
   - **Role:** it opens, amends, preserves, and publishes the Institutional Certification Record.
-  - **Position:** it sits outside the Institution's [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
-- **[Subcore 3-J — Contest Seat](subcore_03.070_band_accountability.md#contest-seat):** the published record challenge path with the competent review or backup forum.
+  - **Position:** it sits outside the Institution's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
+- **[Contest Seat](subcore_03.070_band_accountability.md#contest-seat):** the published record challenge path with the competent review or backup forum.
   - **Position:** it is placed the same way and outside the same line.
 
 **Self-placement.** The Institution publishes the map that places the record seat and the contest seat for its own certification.
@@ -93,7 +93,7 @@ The supervisory sequence in [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.
   - **Constitutional Forums:** keep the meaning, validity, and structural-remedy questions.
 - **Systems are referred, not decided:**
   - **Where it goes:** a component question that belongs to one System goes to that System's own certification pass, and not to the Institution's.
-  - **What the lead forum may do:** it may refer the question, send it for ruling, or [Subcore 3-J — stay](subcore_03.070_band_accountability.md#stay) it, as [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) provides.
+  - **What the lead forum may do:** it may refer the question, send it for ruling, or [stay](subcore_03.070_band_accountability.md#stay) it, as [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) provides.
     - **Refer:** hand the question to the forum family it belongs to.
     - **Send for ruling:** send it to another forum as a question for ruling and wait for the answer. The matter stays with the lead forum.
     - **Stay:** pause it.
@@ -121,7 +121,7 @@ The supervisory sequence in [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.
 - **Willingness:** In addition to the factors in [Subcore 8-D §4.3.1 Willingness](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#431-willingness), the forums look at whether the Institution is:
   - changing its own reward structure, where that structure caused the finding;
   - replacing or disclosing an office-holder found not authentic (for example, a holder who fronts for an undisclosed controller) under [Subcore 9-B §4 Whole-Institution Certification Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (item 7);
-  - restoring an independent seat placement on its [Subcore 3-K — Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map);
+  - restoring an independent seat placement on its [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map);
   - correcting its Institutional Charter or its portfolio of Systems; and
   - answering for any System whose cause finding traced back to the Institution ([Subcore 9-F §4.5 Cascade from System Certifications](subcore_09.060_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications)).
 - **Capacity:** In addition to the factors in [Subcore 8-D §4.3.2 Capacity](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#432-capacity), the forums look at whether:

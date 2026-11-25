@@ -86,7 +86,7 @@ Systems rarely say they are ignoring a rule. More often they keep the words and 
   - [Subcore 3-B, section 4 — Non-Compliance from Observable System Behavior](#4-non-compliance-from-observable-system-behavior);
   - [Subcore 3-C, section 4 — Definition Traceability Requirement](subcore_03.030_burden_traceability_verification.md#4-definition-traceability-requirement) (S3-C);
   - [Subcore 3-C, section 7 — Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard) (S3-C);
-  - [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000).
+  - [Subcore 10-B — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B).
 - Read with: [Chapter Two, section 3.2 — Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) (2.000) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
 </details>
@@ -143,8 +143,8 @@ This section does not define evaluation standards, evidence sufficiency, or burd
   - [5. Non-Compliance Finding Profiles](#5-non-compliance-finding-profiles);
   - [Subcore 3-C, section 7 — Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard) (S3-C);
   - [Subcore 3-C, section 5 — Observability of Traceability Requirement](subcore_03.030_burden_traceability_verification.md#5-observability-of-traceability-requirement) (S3-C);
-  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*system alignment certification reopening and anti-evasion pointer*);
-  - [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000).
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*system alignment certification reopening and anti-evasion pointer*);
+  - [Subcore 10-B — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B).
 - Read with:
   - [Subcore 3-A, §3 — Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#3-definition-components-and-joint-satisfaction) (S3-A §3) for the joint-satisfaction rule under full functional system conditions;
   - [Subcore 3-A, §4.4 Interpretation Rule under Ambiguity](subcore_03.010_definition_structure.md#44-interpretation-rule-under-ambiguity) (S3-A §4.4) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid;
@@ -269,9 +269,9 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 - Upstream: [Subcore 3-B, section 4 — Non-Compliance from Observable System Behavior](#4-non-compliance-from-observable-system-behavior); [Subcore 3-A, §4 Definition Integrity Requirement](subcore_03.010_definition_structure.md#4-definition-integrity-requirement) (S3-A §4).
 - Downstream:
   - [Subcore 3-C, section 4 — Definition Traceability Requirement](subcore_03.030_burden_traceability_verification.md#4-definition-traceability-requirement) (S3-C);
-  - [Subcore 8-B — Chapter Eight — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000);
-  - [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000);
-  - [Subcore 10-F — Chapter Sixteen — Standing Effects and Integration](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000);
+  - [Subcore 8-B — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B);
+  - [Subcore 10-B — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B);
+  - [Subcore 10-F — Standing Effects and Integration](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F);
   - [CJS-3.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - Read with: [Non-Compliance Finding Profile](subcore_03.070_band_accountability.md#non-compliance-finding-profile) — canonical O/M/A/C home for profile fields; [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 

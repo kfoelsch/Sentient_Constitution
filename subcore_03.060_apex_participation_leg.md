@@ -153,7 +153,7 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
   - [Educational Agency](subcore_03.090_band_participation.md#educational-agency),
   - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency), and the
   - [Privacy (Informational) cluster](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) in the Continuity band.
-- Read with: Chapter Four, [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000), or incorporated documents — binding nondiscrimination, accommodation, education, or privacy requirements arise when those documents expressly require them.
+- Read with: Chapter Four, [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B), or incorporated documents — binding nondiscrimination, accommodation, education, or privacy requirements arise when those documents expressly require them.
 
 </details>
 

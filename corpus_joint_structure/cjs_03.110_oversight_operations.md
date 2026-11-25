@@ -15,10 +15,9 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and
+  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Read with: [CJS-3.105 §1](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional Compass and Cluster Map*) constitutional compass.
-
 </details>
 
 <br>
@@ -266,7 +265,7 @@ Transparency, audit, and verification-integrity duties
 - Read with: **CJS-3.120 §10 — Participation: disclosure sufficiency and observability terms**
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Read with: **[Subcore 4-A — Data Types](../subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** (**Type O**, **Type G**, access-posture bands)
-- Read with: [Subcore 8-B](../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
+- Read with: [Subcore 8-B](../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Chapter Two basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-25.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
@@ -1015,7 +1014,7 @@ Integrity-trigger routing chain
     **Primary assessment:** Evaluation must verify that intake, triage, evidence custody, independence review, recusal or anti-self-judging controls, cross-institution escalation, forum or specialist support, remediation, disclosure, and referral duties are assigned to the correct owner sections and remain auditable across transfers.
 <a id="integrity-trigger-routing-chain-c"></a>
 - **What must hold**
-  - **Primary failure:** Resolve an integrity trigger by local institutional narration alone when system, forum, assurance, or classification owners are materially implicated, or to use a CJS routing label as a substitute for Chapter Fifteen measurement, Chapter Twenty designation proceedings, CI sanctions, or CF forum procedure.
+  - **Primary failure:** Resolve an integrity trigger by local institutional narration alone when system, forum, assurance, or classification owners are materially implicated, or to use a CJS routing label as a substitute for Subcore 10-D measurement, Chapter Twenty designation proceedings, CI sanctions, or CF forum procedure.
 
 <a id="property-custody-and-incentive-separation-control-chain"></a>
 Property-custody and incentive-separation control chain

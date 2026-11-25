@@ -104,7 +104,7 @@ CONSUMERS = [
     "core_12.000_violation_consequences.md",
     "core_13.000_final_effect_restoration_enforcement.md",
     "core_14.000_misconduct_designation.md",
-    "core_15.000_misconduct_pattern_applications.md",
+    "subcore_14.010_misconduct_pattern_applications.md",
     "core_04.000_rights_part_a.md",
     "core_04.010_rights_part_b.md",
     "core_04.020_rights_part_c.md",

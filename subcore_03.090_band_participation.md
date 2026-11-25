@@ -67,8 +67,8 @@ Independent Definitions meta rules live in [core_03.000_definitions_home.md](cor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article VI-D](core_04.010_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*). Cross-cutting evaluation-factor hook: [Subcore 8-B §6.5](subcore_08.020_system_alignment_certification_evaluation.md#65-accessibility-evaluation) (8.000 §6.5). Education-specific accessibility remains governed by [Article IV-A](core_04.000_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*) and is not narrowed by this entry.
-- Downstream: Participation measurement family (*Accessibility as constitutional measurement*); [Subcore 8-B §6.5](subcore_08.020_system_alignment_certification_evaluation.md#65-accessibility-evaluation) (8.000 §6.5) (*accessibility evaluation where certification gates substantive participation*).
+- Owner floor: [Article VI-D](core_04.010_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*). Cross-cutting evaluation-factor hook: [Subcore 8-B §6.5](subcore_08.020_system_alignment_certification_evaluation.md#65-accessibility-evaluation) (S8-B §6.5). Education-specific accessibility remains governed by [Article IV-A](core_04.000_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*) and is not narrowed by this entry.
+- Downstream: Participation measurement family (*Accessibility as constitutional measurement*); [Subcore 8-B §6.5](subcore_08.020_system_alignment_certification_evaluation.md#65-accessibility-evaluation) (S8-B §6.5) (*accessibility evaluation where certification gates substantive participation*).
 - Upstream: Principles: [Chapter Two §3.1 Fairness](core_02.000_values_principles.md#31-fairness) (2.000 §3.1) — especially [Chapter Two §3.1.1 Access and Opportunity](core_02.000_values_principles.md#311-access-and-opportunity) (2.000 §3.1.1) and [Chapter Two §3.1.5 Present Capability and Proactive Help](core_02.000_values_principles.md#315-present-capability-and-proactive-help) (2.000 §3.1.5) (*needs that change; reaching sentients who cannot respond*).
 - Read with:
   - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics),
@@ -321,25 +321,25 @@ Independent Definitions meta rules live in [core_03.000_definitions_home.md](cor
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [§3.1 LEQU Baseline](subcore_10.040_standing_measurement.md#31-lequ-baseline) (15.000 §3.1) (*full-life-equivalent benefit and loss, **LEQU** definition, substrate-agnostic scope*); read with the [Subcore 10-D §8 unified proportional LEQU scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) for the Contribution and Violation axes.
+- Canonical owner: [§3.1 LEQU Baseline](subcore_10.040_standing_measurement.md#31-lequ-baseline) (S10-D §3.1) (*full-life-equivalent benefit and loss, **LEQU** definition, substrate-agnostic scope*); read with the [Subcore 10-D §8 unified proportional LEQU scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (S10-D §8) for the Contribution and Violation axes.
 
 </details>
 
 <br>
 
-*In plain terms: a shared unit for expressing full-life-equivalent benefit or loss when Chapter Fifteen standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.*
+*In plain terms: a shared unit for expressing full-life-equivalent benefit or loss when Subcore 10-D standing measurement calibrates Contribution and Violation records on one scale — not ordinary calendar years or species-only averages.*
 
 - **What it is**
-  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Subcore 10-D §8 unified scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes). Chapter Three pointer; canonical mechanics live in Chapter Fifteen **§11 Unified proportional LEQU scale — Contribution and Violation Axes**.
-  - **Out of scope:** ordinary calendar time, informal "years of life" talk, or species-bound lifespan averages used outside the Chapter Fifteen unified scale.
+  - **In scope:** Shorthand for a **Lifespan Equivalent Unit** — the numeric or narrative unit adopted implementation uses to express **full-life-equivalent constitutional benefit** or comparable loss when calibrating the separate Contribution Axis and Violation Axis records against the shared five-times LEQU bands of the [Subcore 10-D §8 unified scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes). Chapter Three pointer; canonical mechanics live in Subcore 10-D **§11 Unified proportional LEQU scale — Contribution and Violation Axes**.
+  - **Out of scope:** ordinary calendar time, informal "years of life" talk, or species-bound lifespan averages used outside the Subcore 10-D unified scale.
 <a id="lifespan-equivalent-unit-lequ-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Participation measurement family](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether LEQU is applied only as Chapter Fifteen's unified scale requires — with contribution and violation kept separate and auditable.
+  - **Primary measure:** [Participation measurement family](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — *Can affected sentients take part fairly — voice, access, learning, and privacy?* Use it here to ask whether LEQU is applied only as Subcore 10-D's unified scale requires — with contribution and violation kept separate and auditable.
 
-    **Primary assessment:** Apply **only** as implemented consistently with the Chapter Fifteen **§11** (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale, preserving separate contribution and violation records. Read with [Materiality](subcore_03.085_band_oversight.md#materiality) where magnitude disputes are material.
+    **Primary assessment:** Apply **only** as implemented consistently with the Subcore 10-D **§11** (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale, preserving separate contribution and violation records. Read with [Materiality](subcore_03.085_band_oversight.md#materiality) where magnitude disputes are material.
 <a id="lifespan-equivalent-unit-lequ-c"></a>
 - **What must hold**
-  - **Primary failure:** undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, split, or substitute for the Chapter Fifteen **§11** (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified-scale calibration rules.
+  - **Primary failure:** undisclosed, un-auditable, or **species-bound** **LEQU** uses that displace, narrow, split, or substitute for the Subcore 10-D **§11** (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified-scale calibration rules.
 
 ---
 
@@ -613,7 +613,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / dependency scaling for collective voice).
+- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / dependency scaling for collective voice).
 - Owner floor: [Article III-C](core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*). Read with [Article X-C](core_04.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights) (*Stakeholder Role and Participation Rights*) and [Article XV-A](core_04.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*) covert-power limits.
 - Read with: the
   - [Assembly, Collective Organization, and Institutional Formation cluster](subcore_03.090_band_participation.md#assembly-collective-organization-and-institutional-formation),
@@ -680,7 +680,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
 - Downstream: Principles:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7);
   - [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16) (institutional development and distributed competence);
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / dependency scaling).
 - Owner floor:
   - [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). Where what a created institution does is material to others under
@@ -758,7 +758,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
 - Downstream: Principles:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7);
   - [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16) (institutional development and distributed competence);
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / dependency scaling).
 - Owner floor:
   - [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*). Where what a created enterprise does is material to others under
@@ -921,7 +921,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg;
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
   - [13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) where participation, dependency, and material impact determine the intensity of agency protection.
 - Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](subcore_03.090_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity)*, and [§2 *Agency, Consent, and Anti-Coercion](subcore_03.090_band_participation.md#agency-consent-and-anti-coercion) (S3-N §2)*.
 - Read with:
@@ -994,7 +994,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7) (meaningful agency / cooperative interaction); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (dependency / materiality in consent asymmetry).
+- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7) (meaningful agency / cooperative interaction); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (dependency / materiality in consent asymmetry).
 - Cluster component: [§2 *Agency, Consent, and Anti-Coercion](subcore_03.090_band_participation.md#agency-consent-and-anti-coercion) (S3-N §2)*.
 - Read with: the
   - [Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity cluster](subcore_03.090_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity),
@@ -1203,7 +1203,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Upstream: Principles: [Chapter Two §3.1 Fairness](core_02.000_values_principles.md#31-fairness) (2.000 §3.1) — especially [Chapter Two §3.1.2 Benefits and Burdens](core_02.000_values_principles.md#312-benefits-and-burdens) (2.000 §3.1.2).
-- Downstream: Participation measurement family (*Fairness, access, and agency as constitutional measurement*); Principles: [13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and Chapter Four nondiscrimination and Rights-Floor guarantees where outcome fairness is material.
+- Downstream: Participation measurement family (*Fairness, access, and agency as constitutional measurement*); Principles: [13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and Chapter Four nondiscrimination and Rights-Floor guarantees where outcome fairness is material.
 - Cluster component: [the dependent cluster *Substantive and Procedural Fairness*](subcore_03.090_band_participation.md#fairness-protected-characteristics-and-nondiscrimination).
 - Read with:
   - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics),
@@ -2013,7 +2013,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
 - Downstream: Principles:
   - [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers);
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7) (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder surface);
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / dependency scaling for participation);
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18) (participation / standing / anti-capture).
 - Read with:
@@ -2071,7 +2071,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
 - Downstream: Principles:
   - [Preamble — Stakeholder System Participation layer](core_00.000_preamble.md#preamble--foundational-requirements);
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7);
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*Scaling*: materiality and dependency raise the participation floor);
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18) (**Article X** (*Self-Determination, Agency, and Participation*), **Article XII** (*Stakeholder System Participation, Representation, and Due Process*), **Article XX** (*Standing and Participation Status*)).
 - Read with:
@@ -2303,7 +2303,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article XXIII-B](core_04.030_rights_part_d.md#article-xxiii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*).
-- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (movement, dependency, procedural fairness scaling).
+- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (movement, dependency, procedural fairness scaling).
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
 - Read with:
   - [Accountability, Contestability, and Redress Pathways](subcore_03.070_band_accountability.md#accountability-contestability-and-redress-pathways);
@@ -2654,7 +2654,7 @@ See **Anti-Segmentation Principle**.
 
     **Primary assessment:** Must not exclude based on [Substrate Class](subcore_03.090_band_participation.md#substrate-class), consistent with [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) and [Constitutional Community](subcore_03.090_band_participation.md#constitutional-community). Where status is materially disputed or contested, apply [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) and the **Article VI-B** (*Sentience-Status Adjudication Floor*) Rights-Floor adjudication right. Test that the rule is not narrowed through:
     - adopter-jurisdiction framing;
-    - Chapter Fifteen impact measurement;
+    - Subcore 10-D impact measurement;
     - Chapter Twenty designation; or
     - comparable mechanism.
 <a id="sentience-non-exclusion-c"></a>
@@ -3252,7 +3252,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Chapter Twenty-One §6.3](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (27.000 §6.3) (*Decision-Resolution Requirements for Binding Stakeholder Choice*).
+- Owner floor: [Chapter Twenty-One §6.3](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (21.000 §6.3) (*Decision-Resolution Requirements for Binding Stakeholder Choice*).
 - Read with:
   - [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers);
   - [System Charter](subcore_03.075_band_continuity.md#system-charter),

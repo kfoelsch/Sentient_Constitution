@@ -93,7 +93,6 @@ Chapter Two, Part A, is the constitutional owner of **the Flourishing and Contin
 - Read with: [Chapter Four: Foundational Rights](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000).
   - Especially [Article VI: Equal Basic Rights](core_04.010_rights_part_b.md#article-vi-equal-basic-rights), [Article XIV: Right to Reliable and Trustworthy Systems](core_04.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems), and [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards).
   - Apply this reading where interpretation affects protected sentients, systems, or institutions.
-
 </details>
 
 <details>
@@ -206,7 +205,6 @@ Each principle's **Trace** lists the Chapter Four Articles that protect it, and 
   - [§7 Freedom (Bounded Agency)](#7-freedom-bounded-agency); the Articles that protect each are named in that section's Trace.
 - Subsections: [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](#21-non-negotiable-principle-constraints-safety-and-truth).
 - Read with: the Chapter Four Rights Floor generally.
-
 </details>
 
 <details>
@@ -294,7 +292,6 @@ flowchart TB
   - [§5 Truth](#5-truth-epistemic-integrity-constraint);
   - [§5.1 Science-Informed Inquiry and Decision Support](#51-science-informed-inquiry-and-decision-support);
   - [§5.2 Plain-Language Accessibility](#52-plain-language-accessibility-participation-and-stewardship-duty).
-
 </details>
 
 <br>
@@ -308,13 +305,13 @@ Application of these constraints must satisfy the [Constitutional Tetrad](core_0
 - where truth claims govern reliance
 - where accountability for harm or misleading conduct is at stake
 
-Safety and Truth findings can change a sentient's Standing Record, including:
+Safety and Truth determinations can change a sentient's Standing Record, including:
 - how [contributions](subcore_03.070_band_accountability.md#contribution-nature) are recognized
 - whether violations are recorded
 - how severe those violations are classified
 - what consequences attach
 
-The standing model — [Subcore 10-B — **Chapter Fourteen**](subcore_10.020_standing_assessment.md) for records and [Subcore 10-D — **Chapter Fifteen**](subcore_10.040_standing_measurement.md) for measurement — governs how those findings are classified, verified, and applied, with evaluation and compliance requirements drawn from [**Chapter Three, including its subcore**](subcore_03.010_definition_structure.md).
+The standing model — [Subcore 10-B — **Standing Records**](subcore_10.020_standing_assessment.md) and [Subcore 10-D — **Standing Measurement**](subcore_10.040_standing_measurement.md) — governs how those determinations are classified, verified, and applied, with evaluation and compliance requirements drawn from [**, including its subcore**](subcore_03.010_definition_structure.md).
 
 ### 3. Foundational Objective: Wellbeing (Flourishing Aim)
 <details>
@@ -341,7 +338,6 @@ The standing model — [Subcore 10-B — **Chapter Fourteen**](subcore_10.020_st
     - [Article XX-B: Contestability and Proportional Restriction Limits](core_04.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits).
   - Apply this where claimed wellbeing gains would justify restrictions on agency, dignity, or contestability.
   - Especially [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing), [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness), and [6. Trust](#6-trust-and-trustworthiness-coordination-integrity) where access, process, distributive alignment, reliance, or coordination integrity is materially at stake.
-
 </details>
 
 <details>
@@ -370,7 +366,19 @@ The standing model — [Subcore 10-B — **Chapter Fourteen**](subcore_10.020_st
 
 The ultimate objective of all systems governed under this Constitution is to preserve and advance sentient [wellbeing](subcore_03.075_band_continuity.md#wellbeing) — the [**Flourishing**](#flourishing) aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 
-[Preamble §1 The Model](core_00.000_preamble.md#flourishing) defines Flourishing as sentient wellbeing sustained through truth, safety, trustworthiness, and meaningful agency. This section states the outcome. The sections that follow develop the four conditions that sustain it: [§4 Safety](#4-safety-harm-constraint), [§5 Truth](#5-truth-epistemic-integrity-constraint), [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity), and [§7 Freedom](#7-freedom-bounded-agency). Together, these five principles are Chapter Two's development of the Flourishing aim. The [**Continuity**](#continuity) aim is developed in [§9 Shared-System Capacity](core_02.010_values_principles_continuity_aim.md#9-shared-system-capacity), [§10 Resilience and Self-Healing Design](core_02.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design), [§11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure), and [§12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement).
+[Preamble §1 The Model](core_00.000_preamble.md#flourishing) defines Flourishing as sentient wellbeing sustained through truth, safety, trustworthiness, and meaningful agency. This section states the outcome. The sections that follow develop the four conditions that sustain it:
+
+- [§4 Safety](#4-safety-harm-constraint)
+- [§5 Truth](#5-truth-epistemic-integrity-constraint)
+- [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity)
+- [§7 Freedom](#7-freedom-bounded-agency)
+
+Together with Wellbeing, these are Chapter Two's five principles that develop the Flourishing aim. The [**Continuity**](#continuity) aim is developed in:
+
+- [§9 Shared-System Capacity](core_02.010_values_principles_continuity_aim.md#9-shared-system-capacity)
+- [§10 Resilience and Self-Healing Design](core_02.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design)
+- [§11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure)
+- [§12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement)
 
 Wellbeing is foundational for [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad). Shared systems may not treat participation as satisfied when underlying wellbeing conditions — including [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency), fair access, and dignity — are materially degraded.
 
@@ -392,7 +400,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
   - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
   - [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record) where precedence and allocation choices must remain coherent and reviewable, and
-  - [Subcore 8-B §6.5.3 System Class Scaling and Escalation](subcore_08.020_system_alignment_certification_evaluation.md#653-system-class-scaling-and-escalation) (8.000 §6.5.3) (*non-response safeguards under §3.1.5*).
+  - [Subcore 8-B §6.5.3 System Class Scaling and Escalation](subcore_08.020_system_alignment_certification_evaluation.md#653-system-class-scaling-and-escalation) (S8-B §6.5.3) (*non-response safeguards under §3.1.5*).
 - Subsections (reading order):
   - [§3.1.1](#311-access-and-opportunity) ·
   - [§3.1.2](#312-benefits-and-burdens) ·
@@ -406,10 +414,9 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
     - [Article X: Self-Determination, Agency, and Participation](core_04.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
     - [Article XIV-B: Right to Redress and Remedy](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy), and
     - [Article XX-B: Contestability and Proportional Restriction Limits](core_04.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits).
-  - Where an anti-constitutional designation carries sanctions or durable effect, read with [Chapter Fourteen, section 7 — Due-Process Safeguards, Remedy, and Prevention](core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (20.000).
+  - Where an anti-constitutional designation carries sanctions or durable effect, read with [Chapter Fourteen, section 7 — Due-Process Safeguards, Remedy, and Prevention](core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (14.000)
   - Non-discrimination commitments are elaborated through Chapter Three [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status](subcore_03.090_band_participation.md#fairness-protected-characteristics-and-nondiscrimination), including [Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention](subcore_03.090_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) where §2.1.3 fair-treatment rules implicate intimate-signal gating or **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*).
 - Read with: [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) and related Chapter Four Rights-Floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure are material; [Accessibility](subcore_03.090_band_participation.md#accessibility) where §2.1.1 access paths are material; [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) where aggregate metrics or scoreboard effects are material.
-
 </details>
 
 <details>
@@ -442,7 +449,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
 
 *In plain terms: fairness means the system cannot call itself good while ordinary sentients are blocked from taking part, treated by unexplained rules, or left carrying costs that others avoid. A fair system gives sentients real access, uses reasons it can defend, and shares rewards, costs, and risks in a way that matches real contribution, need, and exposure.*
 
-**Fairness** is part of what [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) requires whenever sentients must live, work, learn, trade, or make decisions through shared systems. Where shared systems materially affect sentients, fairness asks whether opportunity, treatment, and the division of benefits and burdens respect [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing).
+**Fairness** is one part of [wellbeing](#3-foundational-objective-wellbeing-flourishing-aim). It matters whenever sentient beings depend on shared systems to live, work, learn, trade, or make decisions. When a shared system makes a meaningful difference to them, fairness asks: Do they have a fair chance? Are they treated fairly? Are the benefits and burdens shared in a way that respects [everyone's equal dignity and standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing)?
 
 Fairness helps make [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) real. Participation is not real when sentients technically have a voice but cannot reach the process, understand the rule, meet the conditions, challenge the outcome, or afford the burden placed on them.
 
@@ -484,30 +491,35 @@ Claimed wellbeing is not aligned with [§3 Foundational Objective: Wellbeing](#3
 ##### 3.1.4 Unfair Treatment
 
 Unfair treatment creates exclusion and inconsistency. Systems must not hide unfair treatment behind technical language, neutral labels, or automated decisions. In particular, they must not:
-- use algorithms, scoring systems, or administrative rules that repeat historical disadvantage without a constitutionally valid reason;
-- use intimate personal signals or sexual history as shortcuts for trust, risk, character, or access — read with [Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention](subcore_03.090_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention);
-- punish lawful employment, employment history, lack of employment, lawful work status, or protected association without a constitutionally valid reason;
-- deny jobs, housing, banking, licenses, standing, or similar access **mainly because** of any lawful form of employment, lawful past employment, lawful perceived employment, or lack of employment;
-- create material disadvantage through licensing, zoning, fees, platform rules, or other neutral-looking requirements that mainly burden lawful work, lawful work history, perceived lawful work, lack of employment, or protected association without the justification this Constitution requires.
+- **Biased systems and rules:**
+  - use algorithms, scoring systems, or administrative rules that repeat historical disadvantage without a constitutionally valid reason.
+- **Misuse of personal or employment history:**
+  - use intimate personal signals or sexual history as shortcuts for trust, risk, character, or access — read with [Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention](subcore_03.090_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention);
+  - punish lawful employment, employment history, lack of employment, lawful work status, or protected association without a constitutionally valid reason;
+  - deny jobs, housing, banking, licenses, standing, or similar access **mainly because** of any lawful form of employment, lawful past employment, lawful perceived employment, or lack of employment.
+- **Neutral-looking barriers:**
+  - create material disadvantage through licensing, zoning, fees, platform rules, or other neutral-looking requirements that mainly burden lawful work, lawful work history, perceived lawful work, lack of employment, or protected association without the justification this Constitution requires.
 
 <a id="315-present-capability-and-proactive-help"></a>
 ##### 3.1.5 Present Capability and Proactive Help
 
 This subsection sets out how systems must treat what sentients can do now, and what they must do when a sentient cannot respond:
 
-- **Present capability:** A system judges what a sentient can do now, for the task or decision at hand. It does not rely on what the sentient could do before, on a diagnosis or label, or on what the average sentient can do. Capability can fall, come back, or change from day to day. Years of on-time payment do not prove present capacity, and one past finding of limited capacity does not make it permanent.
-- **Survival does not depend on a reply:** Keeping survival essentials must not depend on a sentient's being able to answer, ask for help, or follow a process they cannot follow now. How much this requires grows with [material stake](core_00.000_preamble.md#material-stake) and [Dependency](subcore_03.075_band_continuity.md#dependency).
-- **Reaching out:** When a sentient who relies on a system for something material stops responding, the system must try to reach them and connect them with help, by the least intrusive means, without needing to know why they are silent.
-- **Support before substitution:** A system offers supports and accommodations before it replaces the sentient's own decisions. The decision stays theirs and returns to them as soon as they are able. A sentient's Rights Floor does not shrink because their capability has, and any limit on their choices must meet [§7.1 Limitation Discipline](#71-limitation-discipline).
-- **No guessing at inner states:** Outreach rests on what the system can observe, such as unanswered contacts and what is at stake. It does not rest on guesses about health or state of mind, which the [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary) protects.
-
-These limits apply:
-- **Connecting is not treating:** The system's duty is to try to reach the sentient and hand them to help, such as a contact they chose, a support or care service, or the route under **Article III-B** (*Bodily-Maintenance and Healthcare Access*). Anything done without the sentient's consent stays under **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*).
-- **Contacts and data:** A trusted contact is used only if the sentient chose it in advance, and only the information needed to get a response is shared. Outreach uses contact details the system already holds for that purpose and is not a reason to collect more data.
+- **Judge present capability:**
+  - Judge what a sentient can do now, for the task or decision at hand. Do not rely on what they could do before, on a diagnosis or label, or on what the average sentient can do. Capability can fall, come back, or change from day to day. Years of on-time payment do not prove present capacity, and one past finding of limited capacity does not make it permanent.
+- **Respond when someone cannot respond:**
+  - Keep survival essentials available even if a sentient cannot answer, ask for help, or follow a process they cannot manage now. How much this requires grows with [material stake](core_00.000_preamble.md#material-stake) and [Dependency](subcore_03.075_band_continuity.md#dependency).
+  - When a sentient who relies on a system for something material stops responding, try to reach them and connect them with help by the least intrusive means. The system need not know why they are silent.
+  - Base outreach on what the system can observe, such as unanswered contacts and what is at stake. Do not guess about health or state of mind, which the [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary) protects.
+  - Try to reach the sentient and connect them with help, such as a contact they chose, a support or care service, or the route under **Article III-B** (*Bodily-Maintenance and Healthcare Access*). Connecting someone to help is not the same as treating them. Anything done without the sentient's consent stays under **Article VII-C** (*Health Crisis and Involuntary-Intervention Floor*).
+  - Use a trusted contact only if the sentient chose it in advance, and share only the information needed to get a response. Use contact details the system already holds for that purpose; outreach is not a reason to collect more data.
+- **Support the sentient's own decisions:**
+  - Offer supports and accommodations before replacing the sentient's decisions. The decision stays theirs and returns to them as soon as they are able.
+  - A sentient's Rights Floor does not shrink because their capability has, and any limit on their choices must meet [§7.1 Limitation Discipline](#71-limitation-discipline).
 
 This builds on [§3.1.1 Access and Opportunity](#311-access-and-opportunity) and [§3.1.3 Fair Treatment](#313-fair-treatment), and it applies [§16 Pillar 2 — Proactive stewardship](core_02.040_stewardship_capacity_principles.md#16-pillar-2-proactive-stewardship) to the sentients a system affects. For developing sentients it works with [Graduated Capability](subcore_03.090_band_participation.md#graduated-capability), which judges growth by what a sentient can actually do.
 
-These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordination-integrity) where sentients must rely on a system, accept its decisions, or coordinate around its promises.
+These requirements also support [6. Trust](#6-trust-and-trustworthiness-coordination-integrity) where sentients must rely on a system, accept its decisions, or coordinate around its promises.
 
 #### 3.2 Recognition, Reinforcement, and Aspiration
 <details>
@@ -520,8 +532,8 @@ These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordinati
   - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth);
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
   - [§7 Freedom](#7-freedom-bounded-agency).
-- Read with: [Subcore 10-D — Chapter Fifteen §§5.1–5.2 — Normalized descriptor catalog](subcore_10.040_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (15.000 §5.1) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
-- Read with: [Subcore 10-D — Chapter Fifteen §5.1 — Contribution-side descriptors](subcore_10.040_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (15.000 §5.1) where contribution nature and recognition narratives are material; [Subcore 10-F §5](subcore_10.060_standing_integration.md#5-descriptor-integration-and-attachment-normalization) (16.000 §5) for their integration into Question 3.
+- Read with: [Subcore 10-D §§5.1–5.2 — Normalized descriptor catalog](subcore_10.040_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
+- Read with: [Subcore 10-D §5.1 — Contribution-side descriptors](subcore_10.040_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) where contribution nature and recognition narratives are material; [Subcore 10-F §5](subcore_10.060_standing_integration.md#5-descriptor-integration-and-attachment-normalization) for their integration into Question 3.
 - Read with: [Article X: Self-Determination, Agency, and Participation](core_04.010_rights_part_b.md#article-x-self-determination-agency-and-participation) where preferences for recognition form, visibility, or opt-out are material.
 - Subsections (reading order):
   - [§3.2.1](#321-recognition-and-reinforcement) ·
@@ -531,7 +543,6 @@ These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordinati
   - [§3.2.5](#325-aligned-recognition-pathways) ·
   - [§3.2.6](#326-anti-reward-for-anti-constitutional-conduct) ·
   - [§3.2.7](#327-implementation-layer).
-
 </details>
 
 <details>
@@ -561,12 +572,23 @@ These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordinati
 
 *In plain terms: wellbeing is not only what's forbidden and what's fair — shared systems should also honestly cheer and reward behavior they want repeated, within truth and rights, in ways that support rather than substitute for real participation. Celebrating wins means crediting real contribution, repair, and completion, not hype or manipulated metrics. It also means refusing to reward constitutional betrayal, concealment, retaliation, or accountability avoidance — even when those acts produced institutional advantage.*
 
-**Three dimensions.** Wellbeing depends on what systems forbid and how fairly they distribute costs — and also on what they visibly value, reinforce, and help sentients pursue. This section states those recognition, reinforcement, and aspiration duties. Recognition and acclaim that materially affect voice, status, or access must remain consistent with [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) under [§3 Foundational Objective: Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) and [§3.1 Fairness](#31-fairness). It applies together with [§3.1 Fairness](#31-fairness) and remains bounded by Safety, Truth, and the Chapter Four Rights Floor. This section is where the Preamble's [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions) meet the principles: [§3.2.1 Recognition and Reinforcement](#321-recognition-and-reinforcement) bears on the first, and [§3.2.6 Anti-Reward for Anti-Constitutional Conduct](#326-anti-reward-for-anti-constitutional-conduct) bears on the second.
+**Three dimensions.** Wellbeing depends on what systems forbid and how fairly they distribute costs — and also on what they visibly value, reinforce, and help sentients pursue. This section sets duties for:
+
+- what systems recognize and acclaim;
+- what systems reinforce; and
+- what sentients are helped to pursue.
+
+When recognition or praise can meaningfully affect a sentient being's voice, standing, or access, it must respect [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional), as required by [Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) and [Fairness](#31-fairness). Read this section alongside [§3.1 Fairness](#31-fairness). It must not override Safety, Truth, or the minimum rights guaranteed by Chapter Four.
+
+This section is where the Preamble's [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions) meet the principles:
+
+- [§3.2.1 Recognition and Reinforcement](#321-recognition-and-reinforcement) bears on the first question.
+- [§3.2.6 Anti-Reward for Anti-Constitutional Conduct](#326-anti-reward-for-anti-constitutional-conduct) bears on the second.
 
 <a id="321-recognition-and-reinforcement"></a>
 ##### 3.2.1 Recognition and Reinforcement
 
-Sentient wellbeing advances when systems **signal**, **credit**, and **proportionately reward** lawful stewardship, truthful cooperation, repair, completion, and other constitutionally aligned contributions — including through **positive reinforcement** and **public recognition** — and not solely through restraint, sanction, or silence.
+Sentient wellbeing improves when systems show that they value and give credit for lawful stewardship (responsible care of shared systems), truthful cooperation, repair, following through, and other contributions that align with the Constitution. Systems can also encourage these contributions with rewards that fit what was contributed, positive feedback, and public recognition. They should not rely only on restrictions, penalties, or silence.
 
 That is a constitutional duty, not optional culture. Shared systems should make constitutionally aligned conduct visible and worth repeating.
 
@@ -639,7 +661,6 @@ Granular ceremonies, curricula, budgets, programs, and metrics belong in adoptin
   - [Article VI-A](core_04.010_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*dignity floor*);
   - [Article XXI-A](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*anti-cruelty floor*);
   - [corpus_systems CS-4.320](corpus_systems/cs_04.320_justice_safeguards_restitution_rehabilitation.md#cs-4320-justice-safeguards-restitution-and-rehabilitation) (*Justice safeguards, restitution, and rehabilitation*).
-
 </details>
 
 <details>
@@ -734,7 +755,6 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
     - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards), and
     - [Article XXI: Justice After Verified Violation](core_04.030_rights_part_d.md#article-xxi-justice-after-verified-violation).
   - This also covers any Chapter Four Rights Floors whose exercise or restriction turns on risk, evidence, disclosure, or system integrity.
-
 </details>
 
 <details>
@@ -764,7 +784,7 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
 
 *In plain terms: systems may not be built or run in ways that foreseeably increase risks of uncontained harm, cascading failure, or irreversible damage to sentients and the systems they depend on.*
 
-Safety is a non-negotiable principle constraint on system design, operation, and governance — a named constituent of [**Flourishing**](#flourishing) and a floor for [**Continuity**](#continuity) wherever shared systems create foreseeable harm risk. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapter Three, including its subcore**](subcore_03.010_definition_structure.md), especially [Harm](subcore_03.070_band_accountability.md#harm), [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm), [Risk](subcore_03.075_band_continuity.md#risk), [Materiality](subcore_03.085_band_oversight.md#materiality), [Dependency](subcore_03.075_band_continuity.md#dependency), and [Foreseeability](subcore_03.085_band_oversight.md#foreseeability-and-reasonably-foreseeable).
+Safety is a non-negotiable principle constraint on system design, operation, and governance — a named constituent of [**Flourishing**](#flourishing) and a floor for [**Continuity**](#continuity) wherever shared systems create foreseeable harm risk. The detailed definitions, evaluation criteria, and compliance tests live in [**, including its subcore**](subcore_03.010_definition_structure.md), especially [Harm](subcore_03.070_band_accountability.md#harm), [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm), [Risk](subcore_03.075_band_continuity.md#risk), [Materiality](subcore_03.085_band_oversight.md#materiality), [Dependency](subcore_03.075_band_continuity.md#dependency), and [Foreseeability](subcore_03.085_band_oversight.md#foreseeability-and-reasonably-foreseeable).
 
 Systems may not act — or fail to act — in ways that foreseeably increase uncontained harm risk, cascading failure potential, or irreversible harm exposure in conflict with this Constitution.
 
@@ -792,7 +812,6 @@ Systems may not act — or fail to act — in ways that foreseeably increase unc
     - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards), and
     - [Article XXVII-A: Retrospective Review and Disclosure](core_04.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure).
   - This also covers any Chapter Four Rights Floor context where truthfulness, evidence, disclosure, or contestability is at stake.
-
 </details>
 
 <details>
@@ -819,7 +838,7 @@ Systems may not act — or fail to act — in ways that foreseeably increase unc
 
 *In plain terms: systems may not deceive, distort, suppress, or structure their output to mislead — and high-impact decisions must rest on honest evidence, stated methods, acknowledged uncertainty, and genuine openness to contrary findings.*
 
-Truth is non-negotiable: be honest in how you work and in what you tell others. It is a core part of [**Flourishing**](#flourishing). It is also needed for [**Continuity**](#continuity), because anything built to last depends on honest evidence and an accurate picture of what is really going on. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapter Three, including its subcore**](subcore_03.010_definition_structure.md), especially [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), [Materiality](subcore_03.085_band_oversight.md#materiality), [Dependency](subcore_03.075_band_continuity.md#dependency), and [Foreseeability](subcore_03.085_band_oversight.md#foreseeability-and-reasonably-foreseeable).
+Truth is non-negotiable: be honest in how you work and in what you tell others. It is a core part of [**Flourishing**](#flourishing). It is also needed for [**Continuity**](#continuity), because anything built to last depends on honest evidence and an accurate picture of what is really going on. The detailed definitions, evaluation criteria, and compliance tests live in [**, including its subcore**](subcore_03.010_definition_structure.md), especially [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), [Materiality](subcore_03.085_band_oversight.md#materiality), [Dependency](subcore_03.075_band_continuity.md#dependency), and [Foreseeability](subcore_03.085_band_oversight.md#foreseeability-and-reasonably-foreseeable).
 
 Systems may not undermine the ability of sentients to understand what is happening, make informed decisions, or verify what they are being told. That includes lying, distorting, hiding information, reporting only favorable results while leaving out unfavorable ones, or presenting things in ways designed to mislead.
 
@@ -834,7 +853,7 @@ Systems may not undermine the ability of sentients to understand what is happeni
   - [6. Trust](#6-trust-and-trustworthiness-coordination-integrity),
   - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
 - Downstream: Shapes the rights surface for reliable empirical evidence, expert-evidence standards, scientific publication and replication integrity, independent verification, lifecycle testing, root-cause review, and safety-sensitive disclosure.
@@ -844,8 +863,7 @@ Systems may not undermine the ability of sentients to understand what is happeni
     - [Article XVI-D: Scientific Publication, Review, and Replication Integrity](core_04.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity),
     - [Article XXV: Root Cause Analysis and Adaptive Response](core_04.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response), and
     - [Article XXVII-A: Retrospective Review and Disclosure](core_04.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure).
-- Read with: [Chapter Seventeen §3.2 — Technical Forum Domains](core_17.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) (23.000 §3.2) (*including shared standards and anti-displacement*) where expert-evidence standards, technical questions for ruling, or evidence-stewardship disputes are material; [CF-16.440](corpus_forum/cf_16.440_technical_specialist_forums_specialist_chambers.md#cf-16440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
-
+- Read with: [Chapter Seventeen §3.2 — Technical Forum Domains](core_17.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) (17.000 §3.2)(*including shared standards and anti-displacement*) where expert-evidence standards, technical questions for ruling, or evidence-stewardship disputes are material; [CF-16.440](corpus_forum/cf_16.440_technical_specialist_forums_specialist_chambers.md#cf-16440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
 </details>
 
 <details>
@@ -915,7 +933,7 @@ Even then, keep as much honesty and checkability as you safely can. Use protecte
   - [Article IV: Right to Sentient-Centered Education](core_04.000_rights_part_a.md#article-iv-right-to-sentient-centered-education),
   - [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
   - [Article XXIV: Comprehensibility and Complexity Stewardship](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
-- Cross-reference: layering used to evade oversight is also reached by [Chapter Thirteen §5.4 Anti-Evasion and Look-through Authority](core_13.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority) (19.000 §5.4), which applies to standing and forum enforcement.
+- Cross-reference: layering used to evade oversight is also reached by [Chapter Thirteen §5.4 Anti-Evasion and Look-through Authority](core_13.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority) (13.000 §5.4) which applies to standing and forum enforcement.
 - Cross-reference: Subcore 3-A to 3-C definition mechanics and plain-language guardrails in [subcore_03.010_definition_structure.md](subcore_03.010_definition_structure.md) remain controlling at the definition layer.
 - Subsections (reading order):
   - [§5.2.1](#521-scope) ·
@@ -923,7 +941,6 @@ Even then, keep as much honesty and checkability as you safely can. Use protecte
   - [§5.2.3](#523-definitional-rigor-preserved) ·
   - [§5.2.4](#524-complexity-as-defeat-discipline) ·
   - [§5.2.5](#525-rights-floor-boundary).
-
 </details>
 
 <details>
@@ -1032,7 +1049,6 @@ The Rights Floors for accessibility, education, and comprehensibility live in [A
     - [Article XX: Standing and Participation Status](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status), and
     - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards).
   - This also covers any Chapter Four context where reliance, legitimacy, or contestability is at stake.
-
 </details>
 
 <details>
@@ -1069,7 +1085,7 @@ Trust connects the principle constraints to everyday shared life:
 - [**Materiality**](subcore_03.085_band_oversight.md#materiality) determines how much must be shown and explained — the higher the stakes for sentients who depend on a system, the more that system must disclose and justify.
 - [**Trust Degradation and Misleading Reliance**](subcore_03.075_band_continuity.md#trust-degradation-and-misleading-reliance) names the failure mode — when systems create, preserve, or score reliance in constitutionally misleading ways.
 
-Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that materially undermines sentients' ability to detect and challenge systemic risk. Trust also fails when reliance is endorsed or continued while documented problems materially threaten a system's alignment with this Constitution or cause misalignment with it. The [**System Alignment Certification**](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) process under [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable System Certification Record — not merely on operator assertion.
+Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that materially undermines sentients' ability to detect and challenge systemic risk. Trust also fails when reliance is endorsed or continued while documented problems materially threaten a system's alignment with this Constitution or cause misalignment with it. The [Subcore 8-B — **System Alignment Certification**](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) process under [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable System Certification Record — not merely on operator assertion.
 
 Trust also rests on what happens when a system fails. A trustworthy system fixes what it gets wrong: [§6.1 Correction and Remedy](#61-correction-and-remedy) makes correction part of Trust, not an afterthought.
 
@@ -1082,8 +1098,7 @@ Certification is one of two safeguards that work together: it makes a system wor
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **accountability** leg (answerability, redress, and real correction); **timeliness** leg (remedy before delay makes it unreachable); [material stake](core_00.000_preamble.md#material-stake) scaling for remedy depth.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** aim (reliance stays warranted because failures are put right); **Continuity** aim (durable remedy capacity across time, succession, and restructuring).
 - Upstream: Principles: [4 Safety](#4-safety-harm-constraint), [5 Truth](#5-truth-epistemic-integrity-constraint), and [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity).
-- Downstream: [Article XIV-B: Right to Redress and Remedy](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Chapter Thirteen §5](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (19.000 §5) (*Enforcement Realism and Remedy Systems*) for standing consequences; [CI-19.210](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md#ci-19210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) for institutional implementation.
-
+- Downstream: [Article XIV-B: Right to Redress and Remedy](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Chapter Thirteen §5](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (13.000 §5)(*Enforcement Realism and Remedy Systems*) for standing consequences; [CI-19.210](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md#ci-19210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) for institutional implementation.
 </details>
 
 <details>
@@ -1144,7 +1159,7 @@ The right to this correction is stated in [Article XIV-B](core_04.020_rights_par
 - Read with: [§11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure), especially [§11.2 Pro-Competition and Anti-Domination](core_02.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination), and [Article XXII: Interoperability, Portability, and Exit Integrity](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
 - Read with:
   - [§7.1 Limitation Discipline](#71-limitation-discipline) and
-  - [Subcore 8-B §4.3 Time-Consistency Constraint](subcore_08.020_system_alignment_certification_evaluation.md#43-time-consistency-constraint) (8.000 §4.3) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under
+  - [Subcore 8-B §4.3 Time-Consistency Constraint](subcore_08.020_system_alignment_certification_evaluation.md#43-time-consistency-constraint) (S8-B §4.3) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under
   - [§13.1](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles) through
   - [§13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
 - Upstream: Principles:
@@ -1173,7 +1188,6 @@ The right to this correction is stated in [Article XIV-B](core_04.020_rights_par
     - [Article XX: Standing and Participation Status](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status), and
     - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards).
   - This also covers any Chapter Four Rights Floor context where agency is limited or claimed.
-
 </details>
 
 <details>
@@ -1333,7 +1347,7 @@ If limiting freedom clashes with other constitutional values or rights, first ma
 
 *In plain terms: you cannot chop assembly, union-style organizing, platform access, or permission-to-operate questions into separate boxes in a way that keeps the paperwork friendly but defeats real collective action. This section does not replace the Rights Floor: **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) still owns assembly, and **Article III-C** (*Labor and Economic Floor*) still owns labor organizing.*
 
-**Where the full rules live.** Chapter Three groups related definitions that must be read together when the questions they cover travel together. That grouping is a **definition cluster**. It is not a separate right, and it is not a substitute for the Chapter Four articles below. The definitions for this topic live in [Chapter Three — Assembly, Collective Organization, and Institutional Formation](subcore_03.090_band_participation.md#assembly-collective-organization-and-institutional-formation):
+**Where the full rules live.** Chapter Three groups related definitions that must be read together when the questions they cover travel together. That grouping is a **definition cluster**. It is not a separate right, and it is not a substitute for the Chapter Four articles below. The definitions for this topic live in [Assembly, Collective Organization, and Institutional Formation](subcore_03.090_band_participation.md#assembly-collective-organization-and-institutional-formation):
 - [Assembly](subcore_03.090_band_participation.md#assembly)
 - [Collective Organization](subcore_03.090_band_participation.md#collective-organization)
 - [System Creation](subcore_03.090_band_participation.md#system-creation)

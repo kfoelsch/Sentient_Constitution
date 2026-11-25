@@ -15,14 +15,14 @@
 - Upstream:
   - [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) (*Plain-Language Accessibility* stewardship reflected in section-level gloss);
   - [Chapter Two §16 — Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*);
-  - [Subcore 3-A — Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*integrity, records, and verification*);
+  - [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*integrity, records, and verification*);
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) (*definitions and supremacy read with Subcores 3-A to 3-C*).
-- Upstream: [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000) (*system alignment certification*); [Subcore 8-F §6](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing) (10.000 §6) (*standing bridge — potential verified inputs only*).
+- Upstream: [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B) (*system alignment certification*); [Subcore 8-F §6](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing) (S8-F §6) (*standing bridge — potential verified inputs only*).
 - Standing pipeline:
   - [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together);
-  - [Subcore 10-B — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*three-question frame and Question 1 records*);
-  - [Subcore 10-D — Standing Measurement](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (15.000) (*Question 2 measurement*);
-  - [Subcore 10-F — Standing Effects and Integration](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000) (*Question 3 effects and integration*);
+  - [Subcore 10-B — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*three-question frame and Question 1 records*);
+  - [Subcore 10-D — Standing Measurement](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (S10-D) (*Question 2 measurement*);
+  - [Subcore 10-F — Standing Effects and Integration](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F) (*Question 3 effects and integration*);
   - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) (*designation only for qualifying Violation Axis slot 7–9*).
 - Subsections in this file:
   - [§3](#3-the-three-questions) (*three-question frame and scope*);
@@ -32,12 +32,12 @@
   - [§7](#7-record-custody-and-opening-authority) (*record custody and opening authority*);
   - [§8](#8-handling-a-standing-record) (*handling a Standing Record*);
 - Downstream:
-  - [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (15.000) (*Question 2 — LEQU baseline, measurement dimensions, route descriptors, slot grammar, constitutional inputs, the LEQU scale, standard contribution measures, illustrations, and the hand-off to Question 3*);
+  - [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (S10-D) (*Question 2 — LEQU baseline, measurement dimensions, route descriptors, slot grammar, constitutional inputs, the LEQU scale, standard contribution measures, illustrations, and the hand-off to Question 3*);
   - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) (*designation only — does not reopen Question 2 measurement*);
   - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*forum supervision and routing*);
   - [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*timely resolution*);
   - [Article XXI-A](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*justice constraints*).
-- Read with: [Subcore 3-J — *Standing State, Contribution, and Violation*](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation) (S3-J) (*canonical definition routing*).
+- Read with: [*Standing State, Contribution, and Violation*](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation) (S3-J) (*canonical definition routing*).
 - Read with: [README.md](README.md) (*reading order*); [doc_architecture.md](doc_architecture.md) (*non-binding editorial maps unless adopted*).
 - Worked examples (they add no rule): every full vignette in the [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes) opens at Question 1, for example:
   - [CJS-14.105 §1 Child Neglect / Care-Duty Failure (Tier A)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-1-child-neglect--care-duty-failure-tier-a);
@@ -90,8 +90,8 @@ A society that credits help and answers harm needs a fair way to establish what 
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): standing rests on settled facts, so credit and blame land on the right party;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the facts are verified and written down before anyone relies on them;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): standing rests on settled facts, so credit and blame land on the right party;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the facts are verified and written down before anyone relies on them;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): no sentient is judged by rumour or popularity;
     - [Continuity](core_00.000_preamble.md#continuity): reliable records keep the standing system trustworthy over time;
@@ -149,11 +149,11 @@ Chapter Ten measurement does **not**, by itself, authorize force, detention, or 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace · Definitions (O · M · A · C)</span></strong></summary>
 
-- Upstream: [Chapter Two §16 — Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth); [Subcore 3-A — Subcores 3-A to 3-C](subcore_03.010_definition_structure.md); [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions).
+- Upstream: [Chapter Two §16 — Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth); [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md); [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions).
 - Downstream: [§4](#4-question-1--what-happened) (*Question 1*); [§6](#6-verification-and-record-requirements) (*verification and record requirements*); [§7](#7-record-custody-and-opening-authority) (*record custody and opening authority*); [§8](#8-handling-a-standing-record) (*handling a Standing Record*); [Subcore 10-D §3](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) (*Question 2 measurement*); [Subcore 10-D §4](subcore_10.040_standing_measurement.md#4-magnitude-and-severity-input-dimensions) (*measurement input dimensions*); [Subcore 10-D §5](subcore_10.040_standing_measurement.md#5-route-descriptor-catalogs-and-measurement-roles) (*route descriptor catalogs*); [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*); [Subcore 10-D §7](subcore_10.040_standing_measurement.md#7-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*); [Subcore 10-D §8](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*); [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (*Question 3*).
-- [Materiality](subcore_03.085_band_oversight.md#materiality) · [Subcore 3-M — O](subcore_03.085_band_oversight.md#materiality) · [Subcore 3-M — M](subcore_03.085_band_oversight.md#materiality-determination-a) · [Subcore 3-M — A](subcore_03.085_band_oversight.md#materiality-determination-a) · [Subcore 3-M — C](subcore_03.085_band_oversight.md#materiality-determination-c)
-- [Harm](subcore_03.070_band_accountability.md#harm) · [Subcore 3-J — O](subcore_03.070_band_accountability.md#harm) · [Subcore 3-J — M](subcore_03.070_band_accountability.md#harm-a) · [Subcore 3-J — A](subcore_03.070_band_accountability.md#harm-a) · [Subcore 3-J — C](subcore_03.070_band_accountability.md#harm-c)
-- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [Subcore 3-J — O](subcore_03.070_band_accountability.md#proportionality) · [Subcore 3-J — M](subcore_03.070_band_accountability.md#proportionality-a) · [Subcore 3-J — A](subcore_03.070_band_accountability.md#proportionality-a) · [Subcore 3-J — C](subcore_03.070_band_accountability.md#proportionality-c)
+- [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
+- [Harm](subcore_03.070_band_accountability.md#harm) · [O](subcore_03.070_band_accountability.md#harm) · [M](subcore_03.070_band_accountability.md#harm-a) · [A](subcore_03.070_band_accountability.md#harm-a) · [C](subcore_03.070_band_accountability.md#harm-c)
+- [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 
 </details>
 
@@ -165,7 +165,7 @@ Chapter Ten measurement does **not**, by itself, authorize force, detention, or 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-the-three-questions) (*three-question frame*); [Subcore 3-A — Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*record, verification, and traceability of definitions to results*).
+- Upstream: [§3](#3-the-three-questions) (*three-question frame*); [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*record, verification, and traceability of definitions to results*).
 - Tetrad leg(s): **participation**; **oversight** (contestability and challenge paths). Primary aim(s): **Flourishing** and **Continuity** (traceable records that preserve separate contribution and violation findings for later measurement).
 - Downstream:
   - [§4.2](#42-silence-is-the-default) (*silence is the default*);
@@ -184,7 +184,7 @@ Chapter Ten measurement does **not**, by itself, authorize force, detention, or 
   - [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*);
   - [Subcore 10-D §7](subcore_10.040_standing_measurement.md#7-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
   - [Subcore 10-D §8](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
-  - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000) (*Question 3*).
+  - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F) (*Question 3*).
 
 </details>
 
@@ -282,13 +282,13 @@ Having no Standing Record is the ordinary state of a sentient, institution, or s
 - Outside the gatekeeper check in [Chapter Thirteen §3.1 Anti-Aggregation of Gated-Pathway Effects](core_13.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects), no one may require a subject to show, attest to, or consent to the release of an existing Standing Record or standing effect, as a condition of any role, access, or dealing.
   - The gatekeeper of a gated pathway may instead ask the record custodian whether an effect applies to that gated pathway. It gets an answer about that gated pathway alone and may not pass it on.
   - Hiring or appointing into a role that is not a gated pathway gives no right to an answer.
-- When a Standing Record about a subject is opened, the subject must be told, as **section 6** requires. Notice may be delayed only if a documented [Subcore 3-M — Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) or Safety need justifies it, and only for a limited, set period. Notice is what makes a Standing Record contestable: a subject who does not know a Standing Record exists cannot challenge or correct it.
+- When a Standing Record about a subject is opened, the subject must be told, as **section 6** requires. Notice may be delayed only if a documented [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) or Safety need justifies it, and only for a limited, set period. Notice is what makes a Standing Record contestable: a subject who does not know a Standing Record exists cannot challenge or correct it.
 
 <a id="43-protected-dissent-is-not-a-trigger"></a>
 
 #### 4.3 Protected Dissent Is Not a Trigger
 
-Dissent or peaceful protest — including [protected nonviolent civil disobedience](core_04.010_rights_part_b.md#xi-d-nonviolent-civil-disobedience) — under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) is not a verified trigger. Nor are press and journalistic activity under [**Article XI-C**](core_04.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Press and Journalistic Activity*) and [Subcore 3-J — protected reporting (whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing), as in [Chapter Fourteen §5.5 Dissent and Peaceful Protest Carve-Out](core_14.000_misconduct_designation.md#55-dissent-and-peaceful-protest-carve-out).
+Dissent or peaceful protest — including [protected nonviolent civil disobedience](core_04.010_rights_part_b.md#xi-d-nonviolent-civil-disobedience) — under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) is not a verified trigger. Nor are press and journalistic activity under [**Article XI-C**](core_04.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) (*Press and Journalistic Activity*) and [protected reporting (whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing), as in [Chapter Fourteen §5.5 Dissent and Peaceful Protest Carve-Out](core_14.000_misconduct_designation.md#55-dissent-and-peaceful-protest-carve-out).
 - It does not open, extend, or aggravate a violation Standing Record, it is not a severity input under **section 10.2**, and repeating it does not make it a pattern.
 - Separable conduct that independently violates a constitutional floor is recorded on its own terms, without aggravation for the viewpoint, cause, or target of the protest, reporting, or disclosure.
 
@@ -310,8 +310,8 @@ Dissent or peaceful protest — including [protected nonviolent civil disobedien
   - [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (*slot grammar and shared scaling*);
   - [Subcore 10-D §7](subcore_10.040_standing_measurement.md#7-constitutional-inputs-to-axis-assignment) (*constitutional-source routing*);
   - [Subcore 10-D §8](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale for both axes*);
-  - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000) (*Question 3*).
-- Read with: [Subcore 10-F — Standing integration](subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity) (16.000) (*non-waiver and linked-record integration*); [Chapter Eleven §3.2 — Competency Bars and Clearances](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) (17.000 §3.2); [Chapter Twelve §3.2 — Standing locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2).
+  - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F) (*Question 3*).
+- Read with: [Subcore 10-F — Standing integration](subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity) (S10-F) (*non-waiver and linked-record integration*); [Chapter Eleven §3.2 — Competency Bars and Clearances](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) (17.000 §3.2); [Chapter Twelve §3.2 — Standing locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2).
 
 </details>
 
@@ -365,7 +365,7 @@ The stages of a Standing Record stay separate:
 This section owns one question: how a forum's work reaches a Standing Record. The other steps in the chain belong to the owners named here, and the chain runs in this order:
 
 1. A dispute is filed and the forum keeps a **forum case record**, which is not a Standing Record. Owner: [Chapter Sixteen §5 Forum Cases: Intakes, Seats, Records, and Contests](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests); see also [§4.7.1 Forum Case Record](#471-forum-case-record).
-2. The forum verifies the facts under [Subcore 3-A — Subcores 3-A to 3-C](subcore_03.010_definition_structure.md).
+2. The forum verifies the facts under [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md).
 3. Verified findings pass the verified-input gate. Owner: [§4.5 Verified-Input Gate](#45-verified-input-gate).
 4. A named record-opening authority, which can be a forum, opens, updates, or corrects the Standing Record, or sets a bad record aside on challenge. Owners: [§6.1 Minimum Record Contents](#61-minimum-record-contents) for what the Standing Record holds and [§7 Record Custody and Opening Authority](#7-record-custody-and-opening-authority) for who may act.
 5. The Standing Record holds verified facts only, and Question 2 measures them afterward. Owners: [§4.6 Stage Boundary](#46-stage-boundary) and [Subcore 10-D §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it).
@@ -388,7 +388,7 @@ When those forum findings satisfy the verified-input gate under Subcores 3-A to 
 
 ##### 4.7.1 Forum Case Record
 
-The forum's own file on an open dispute is the [Subcore 3-J — **forum case record**](subcore_03.070_band_accountability.md#forum-case-record), defined in [Chapter Sixteen §5 Forum Cases: Intakes, Seats, Records, and Contests](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests). It is **not** a Standing Record.
+The forum's own file on an open dispute is the [**forum case record**](subcore_03.070_band_accountability.md#forum-case-record), defined in [Chapter Sixteen §5 Forum Cases: Intakes, Seats, Records, and Contests](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests). It is **not** a Standing Record.
 
 <a id="472-forum-findings-and-the-question-2-measurement"></a>
 
@@ -449,7 +449,7 @@ The table of common routes of verified loss, danger, or duty failure, with the T
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4](#4-question-1--what-happened) (*Question 1 records and event-type guide*); [Subcore 3-A — Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*record, verification, and traceability of definitions to results*).
+- Upstream: [§4](#4-question-1--what-happened) (*Question 1 records and event-type guide*); [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*record, verification, and traceability of definitions to results*).
 - Downstream:
   - [§6.1](#61-minimum-record-contents) (*minimum contents*);
   - [§6.2](#62-related-standing-record-cross-references) (*cross-references*);
@@ -627,12 +627,12 @@ Those tools must keep the fields required by **section 6.1** separately visible 
   - [§6.1](#61-minimum-record-contents) (*minimum contents*);
   - [§6.4](#64-versioning) (*versioning*);
   - [§4.7](#47-forum-boundary) (*forums may open, update, correct, or set aside*);
-  - [Subcore 3-A — Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*record, verification, and traceability*);
-  - [Subcore 3-M — Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) (*chain of custody for evidence*).
+  - [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*record, verification, and traceability*);
+  - [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) (*chain of custody for evidence*).
 - Tetrad leg(s): **accountability** (a named actor answers for every entry); **oversight** (no party verifies its own claim). Primary aim(s): **Flourishing** and **Continuity**.
 - Read with:
-  - [Subcore 3-K — *System Charter*](subcore_03.075_band_continuity.md#system-charter) (S3-K) and
-  - [Subcore 3-K — *Institutional Charter*](subcore_03.075_band_continuity.md#institutional-charter) (*published scope documents whose Charter Role Map names the record-opening authority and custodian for a chartered scope*);
+  - [*System Charter*](subcore_03.075_band_continuity.md#system-charter) (S3-K) and
+  - [*Institutional Charter*](subcore_03.075_band_continuity.md#institutional-charter) (*published scope documents whose Charter Role Map names the record-opening authority and custodian for a chartered scope*);
   - [Chapter Five §6 *The Charter Role Map and Standing-Record Custody*](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody) (5.000 §6);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) — the Standing-Record custody field;
   - [Subcore 6-A — **Subcore 6-A §1** *Constitutional Lanes and Functional Separation*](subcore_06.010_constitutional_lanes.md#1-constitutional-lanes-and-functional-separation) (*the five lanes the record duties are placed in; separation of duties*);
@@ -644,7 +644,7 @@ Those tools must keep the fields required by **section 6.1** separately visible 
   - [Subcore 16-A — §6 Lead-Default Limits](subcore_16.010_forum_intake_default_venue.md#6-lead-default-limits) (S16-A §6) (*anti-self-judging backup*);
   - [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action) (*who authorized; the log is not the Standing Record*);
   - [Chapter Two §17.5](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (2.040 §17.5) (*halt, refuse, document, escalate*).
-- Downstream: [§8](#8-handling-a-standing-record) (*what the holders do with a Standing Record once custody is settled*); [Subcore 10-D §3](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) (*Question 2 measures only Standing Records entered under this section and §8*); [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000) (*Question 3 effects trace to an attributed record*).
+- Downstream: [§8](#8-handling-a-standing-record) (*what the holders do with a Standing Record once custody is settled*); [Subcore 10-D §3](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) (*Question 2 measures only Standing Records entered under this section and §8*); [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F) (*Question 3 effects trace to an attributed record*).
 
 </details>
 
@@ -677,9 +677,9 @@ Merged hosting is limited as follows (see [Chapter Six §7 Proportional Scaling 
 
 #### 7.2 Named Record-Opening Authority
 
-Every opening, correction, expiry, or supersession of a Standing Record is authorized by a [Subcore 3-J — **record-opening authority**](subcore_03.070_band_accountability.md#record-opening-authority): a role, office, forum, or body whose authority to verify the factual basis under Subcores 3-A to 3-C and authorize the change is published before it acts.
+Every opening, correction, expiry, or supersession of a Standing Record is authorized by a [**record-opening authority**](subcore_03.070_band_accountability.md#record-opening-authority): a role, office, forum, or body whose authority to verify the factual basis under Subcores 3-A to 3-C and authorize the change is published before it acts.
 
-- **Named in the System Charter or Institutional Charter:** Where the Standing Record concerns a system, institution, or business that holds a [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter) or [Subcore 3-K — Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), that System Charter or Institutional Charter names the record-opening authority and record custodian for Standing Records concerning its chartered scope, or points to the published document that names them ([Chapter Five §6.6 Standing-Record Custody](core_05.000_charters.md#66-standing-record-custody); **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*)).
+- **Named in the System Charter or Institutional Charter:** Where the Standing Record concerns a system, institution, or business that holds a [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), that System Charter or Institutional Charter names the record-opening authority and record custodian for Standing Records concerning its chartered scope, or points to the published document that names them ([Chapter Five §6.6 Standing-Record Custody](core_05.000_charters.md#66-standing-record-custody); **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*)).
 - **Forums:** Forums act as record-opening authorities on the terms in **section 4.7**; a forum that verified a Standing Record does not hear the contest of that Standing Record, which goes to secondary review under [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) and **CF-16.420** (*Appeal, secondary review, and exhaustion pathways*).
 - **No authority named:** Where a System Charter or Institutional Charter reaches the Standing Record but leaves a required seat unnamed, [§7.7 When a System Charter or Institutional Charter Leaves a Seat Unnamed](#77-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed) applies. Where neither a System Charter, an Institutional Charter, nor a forum designation reaches the Standing Record, [§7.8 Fallback When No System Charter or Institutional Charter Reaches the Standing Record](#78-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record) applies, and the adopting document under [Chapter Twenty-Three](core_23.000_amendment_ratification.md) or the published rules of the body that operates the standing pipeline must then name one.
 - **Provisional entries:** An entry made without a named authority is marked **provisional**: it preserves evidence and notice under **section 4.2**, but it supplies no verified input under **section 6.1** and no Chapter Ten effect until a named authority confirms it, corrects it, or sets it aside.
@@ -688,9 +688,9 @@ Every opening, correction, expiry, or supersession of a Standing Record is autho
 
 #### 7.3 Record Custodian
 
-Every Standing Record has a named [Subcore 3-J — **record custodian**](subcore_03.070_band_accountability.md#record-custodian) that holds the Standing Record, controls versioning under **section 6.4**, publishes the challenge path under **section 6.1**, and answers for the Standing Record's continuity. It is a separate seat from the record-opening authority ([§7.1 Separation of Duties](#71-separation-of-duties)).
+Every Standing Record has a named [**record custodian**](subcore_03.070_band_accountability.md#record-custodian) that holds the Standing Record, controls versioning under **section 6.4**, publishes the challenge path under **section 6.1**, and answers for the Standing Record's continuity. It is a separate seat from the record-opening authority ([§7.1 Separation of Duties](#71-separation-of-duties)).
 
-- **Custody must not lapse:** When a custodian is dissolved, conflicted, or replaced, custody transfers with the full audit trail under [Subcore 3-M — Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) to the successor the System Charter, Institutional Charter, or backup designation names, or, where none is named, to the Backup Record Custodian (**CF-16.415 §11** (*Backup Record Custodian*)).
+- **Custody must not lapse:** When a custodian is dissolved, conflicted, or replaced, custody transfers with the full audit trail under [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) to the successor the System Charter, Institutional Charter, or backup designation names, or, where none is named, to the Backup Record Custodian (**CF-16.415 §11** (*Backup Record Custodian*)).
 - **If the Backup Record Custodian cannot act:** The supervising forum under **section 4.7** holds the Standing Record or designates a holder that passes the tests in **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) field 10. The subject, a claimant, or a challenger may take a Standing Record to that forum at once, and a forum that holds a Standing Record or designates its holder does not hear a contest of that Standing Record.
 - **One Standing Record or the whole store:** Where only one Standing Record is in conflict, only that Standing Record moves (see *Conflicted custodian on a single Standing Record* below); where the custodian itself ends or cannot continue, all the Standing Records it held move with their trail.
 
@@ -702,7 +702,7 @@ The following may not act as record-opening authority or record custodian for a 
 
 - the Standing Record's subject;
 - a party claiming the contribution or alleging the violation the Standing Record concerns; and
-- any office in the [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line) that materially controls, or is materially controlled by, those parties.
+- any office in the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) that materially controls, or is materially controlled by, those parties.
 
 Beyond that exclusion:
 
@@ -718,7 +718,7 @@ Beyond that exclusion:
 
 The conflicts of interest differ with the subject, so the custody rules differ. A Standing Record whose subject is a Chartered Party, its chartered scope, or a system it stewards is an **operator Standing Record**. A Standing Record whose subject is a sentient or institution that uses, relies on, or is affected by those systems is a **stakeholder Standing Record**. A Standing Record with neither subject follows *Separation of duties* and *No self-custody* above without further rule. Both kinds follow those two rules, and the narrower answer controls. Where a Standing Record's subject includes both a Chartered Party's side and a stakeholder, the operator Standing Record rules govern it.
 
-- **Operator Standing Record:** The conflict is standing, because the Chartered Party would be judging itself. Every office in its [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line) is therefore excluded from every such Standing Record, as a rule for the whole chartered scope and not record by record.
+- **Operator Standing Record:** The conflict is standing, because the Chartered Party would be judging itself. Every office in its [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) is therefore excluded from every such Standing Record, as a rule for the whole chartered scope and not record by record.
   - The Charter Role Map names the record-opening authority, the record custodian, the contest seat, and an independent route, and all of them sit outside that line ([Chapter Five §6 The Charter Role Map and Standing-Record Custody](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody)).
   - The Chartered Party cannot choose, appoint, fund through a channel it controls, or remove them, and it cannot change those entries on its own.
   - No office inside the line may hold any of these seats, whether alone or under a merged-hosting safeguard.
@@ -735,7 +735,7 @@ Sometimes the named custodian is excluded under *No self-custody* from one Stand
 
 - **Excluded custodian:** The excluded custodian:
   - **Logs:** the request and the conflict on the Standing Record under *Attributed entry* below.
-  - **Preserves:** the Standing Record and its evidence unchanged under [Subcore 3-M — Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation).
+  - **Preserves:** the Standing Record and its evidence unchanged under [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation).
   - **Keeps open:** the published challenge path.
   - **Does not enter:** any new version of the Standing Record while the conflict lasts.
 - **Where custody goes:** Custody of that Standing Record passes, with its full audit trail, to:
@@ -834,7 +834,7 @@ The full rules, with worked examples, are in [Subcore 10-A §6 Informal and Smal
 - **Any independent relying body may verify:** the verify seat is satisfied by any independent body with published authority to rely on the Standing Record, not by how formal it is; where no such body is available, the Standing Record goes to a forum under [§4.7 Forum Boundary](#47-forum-boundary).
 - **No group needed:** a sentient acting alone may seek a record of their own contribution, and a group without a System Charter or Institutional Charter, or one that is not an Institution, does not block its members.
 - **Own materials are inputs:** a claimant's own account, logs, and photos, and a member's statement about another member's share, are inputs and never verification.
-- **Seats stay separate:** no one both verifies and holds the same Standing Record, and neither seat may be a claimant or inside a claimant's [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line); the same holds for a violation Standing Record in an informal setting.
+- **Seats stay separate:** no one both verifies and holds the same Standing Record, and neither seat may be a claimant or inside a claimant's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); the same holds for a violation Standing Record in an informal setting.
 - **No formal-institution bar:** requiring verification by a formal institution an informal group cannot reach, where an independent relying body is available, is the arbitrary-gatekeeping pattern of [Chapter Eleven §3.2 Competency Bars and Clearances](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances).
 - **Silence is still the default:** none of this requires a Standing Record to exist. Under [§4.2 Silence Is the Default](#42-silence-is-the-default), informal work is not recorded because it could be, and separation of duties binds only once a Standing Record is sought.
 
@@ -851,19 +851,19 @@ The full rules, with worked examples, are in [Subcore 10-A §6 Informal and Smal
   - [§4.2](#42-silence-is-the-default) (*verified trigger; notice to the subject*);
   - [§6.1](#61-minimum-record-contents) (*minimum contents; review status*);
   - [§6.4](#64-versioning) (*versioning*);
-  - [Subcore 3-M — Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) (*chain of custody for evidence*).
+  - [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) (*chain of custody for evidence*).
 - Tetrad leg(s): **accountability** (a named actor answers for every entry); **oversight** (no party verifies its own claim). Primary aim(s): **Flourishing** and **Continuity**.
 - Read with:
   - [Subcore 3-C §7](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard) (S3-C §7) (*evidence standard the verify seat applies to recorder and party statements*);
-  - [Subcore 3-J — Good Faith](subcore_03.070_band_accountability.md#good-faith) (*candour presumption, not accuracy*);
-  - [Subcore 3-J — Contestability](subcore_03.070_band_accountability.md#contestability) and
+  - [Good Faith](subcore_03.070_band_accountability.md#good-faith) (*candour presumption, not accuracy*);
+  - [Contestability](subcore_03.070_band_accountability.md#contestability) and
   - [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*a challenge raised on the Standing Record is logged and routed before any filing*);
   - [Chapter Sixteen §5](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests) (22.000 §5) (*contests of Standing Records once they reach a forum*);
   - [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) (*tier windows that custody may not extend*) and
   - [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*);
   - [Article XXII](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) (*what a copy of a sentient's own Standing Records may leave out*); and
   - **CF-16.465 §7.1** (*Retention Classes and Physical Backup*) (*Essential Records and where their physical backups are held*).
-- Downstream: [Subcore 10-D §3](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) (*Question 2 measures only Standing Records entered under §7 and this section*); [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000) (*Question 3 effects trace to an attributed record*).
+- Downstream: [Subcore 10-D §3](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) (*Question 2 measures only Standing Records entered under §7 and this section*); [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F) (*Question 3 effects trace to an attributed record*).
 
 </details>
 
@@ -881,7 +881,7 @@ What a prior recorder says after the fact is weighed on these terms:
 - **Support, refutation, agreement:** A prior recorder's support does not by itself verify a contribution; their refutation does not by itself disprove one; their agreement with the subject or with a challenger settles nothing on its own.
 - **Availability:** A prior recorder's availability or unavailability neither freezes nor completes the Standing Record: where a prior recorder cannot be reached, the Standing Record says so and proceeds on the remaining verified materials.
 - **Who decides the weight:** How much a recorder statement weighs is a Subcores 3-A to 3-C question for the verify seat, not a custody question.
-- **Good faith and accuracy:** The verifying authority reads a recorder statement as offered in [Subcore 3-J — Good Faith](subcore_03.070_band_accountability.md#good-faith) absent contrary indication, but good faith goes to candour, not to accuracy; accuracy is established by corroboration under [Subcore 3-C §7 Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard).
+- **Good faith and accuracy:** The verifying authority reads a recorder statement as offered in [Good Faith](subcore_03.070_band_accountability.md#good-faith) absent contrary indication, but good faith goes to candour, not to accuracy; accuracy is established by corroboration under [Subcore 3-C §7 Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard).
 - **Corroborated statements:** A statement that agrees with contemporaneous logs, prior versions, audits, or independent validation carries the weight of those materials.
 - **Statements that stand alone:** A statement that stands alone is an attestation and does not by itself carry the burden. A statement from a claimant, subject, challenger, or an office in their control line is self-attestation for that purpose.
 - **Statements explaining an omission:** Where the statement explains *why* the Standing Record was left as it was — as when a prior recorder says an item was omitted because it had not been verified — it is evidence of the Standing Record's state at that time and of what was unverified then; it does not decide whether the omitted fact has since been verified, which the verify seat answers on the present materials.
@@ -908,8 +908,8 @@ Every change to a Standing Record leaves a trail on these terms:
 
 A challenge is handled on these terms from the moment it arrives:
 
-- **Status, not suspension:** [Subcore 3-J — *Under challenge*](subcore_03.070_band_accountability.md#under-challenge) is a status, not a suspension: the Standing Record stays inspectable, its prior versions stay in place, and reliance on the challenged version for a Chapter Sixteen effect pauses only where the contest seat or a forum so orders.
-- **Log, set status, notify, route:** [Subcore 3-J — Contestability](subcore_03.070_band_accountability.md#contestability) does not begin at a forum. When an affected party disputes a Standing Record, a version, or an effect claimed from it — to the custodian, to the record-opening authority, or to any office of the institution — the custodian, the moment it is received:
+- **Status, not suspension:** [*Under challenge*](subcore_03.070_band_accountability.md#under-challenge) is a status, not a suspension: the Standing Record stays inspectable, its prior versions stay in place, and reliance on the challenged version for a Chapter Sixteen effect pauses only where the contest seat or a forum so orders.
+- **Log, set status, notify, route:** [Contestability](subcore_03.070_band_accountability.md#contestability) does not begin at a forum. When an affected party disputes a Standing Record, a version, or an effect claimed from it — to the custodian, to the record-opening authority, or to any office of the institution — the custodian, the moment it is received:
   - **Log:** logs the challenge on the Standing Record under *Attributed entry* above;
   - **Set status:** sets the review status under **section 6.1** to *under challenge*;
   - **Notify:** notifies the subject and any claimant; and
@@ -948,9 +948,9 @@ Who holds a Standing Record, and any dispute over it, is handled on these terms:
 
 A Standing Record outlasts the system that first held it, and the sentient it is about has a stake in being able to hold it.
 
-- **High-slot Standing Records are Essential Records:** A Standing Record at slot 5 or above on the Contribution Axis or the Violation Axis ([Subcore 10-D §6.1 Table 1 — Slot Display Labels](subcore_10.040_standing_measurement.md#61-table-1--slot-display-labels)) is an [Subcore 3-J — Essential Record](subcore_03.070_band_accountability.md#essential-record).
+- **High-slot Standing Records are Essential Records:** A Standing Record at slot 5 or above on the Contribution Axis or the Violation Axis ([Subcore 10-D §6.1 Table 1 — Slot Display Labels](subcore_10.040_standing_measurement.md#61-table-1--slot-display-labels)) is an [Essential Record](subcore_03.070_band_accountability.md#essential-record).
   - **When:** Its record custodian arranges a physical backup of each version in which the Standing Record sits at slot 5 or above, starting with the version that first assigns the slot ([§6.4 Versioning](#64-versioning)). The system does this by rule and no one makes a separate request.
-  - **Where:** The physical backups are held as Essential Record backups under **CF-16.465 §7.1** (*Retention Classes and Physical Backup*): at least three separate places in different regions, with different custodians. The record custodian does not hold them, and neither does anyone in the subject's or the record custodian's [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line) ([§7.4 No Self-Custody](#74-no-self-custody)).
+  - **Where:** The physical backups are held as Essential Record backups under **CF-16.465 §7.1** (*Retention Classes and Physical Backup*): at least three separate places in different regions, with different custodians. The record custodian does not hold them, and neither does anyone in the subject's or the record custodian's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) ([§7.4 No Self-Custody](#74-no-self-custody)).
   - **What stays the same:** The record custodian still holds the working Standing Record under [§7.3 Record Custodian](#73-record-custodian). Only the backup is held elsewhere.
 - **Certified copy on request:** Any sentient may ask the record custodian for a certified physical copy of each Standing Record about them, at any slot.
   - **What it is:** A true copy of the current version on paper or other durable physical media, with its version, date, and hash, certified by the record custodian as a true copy.

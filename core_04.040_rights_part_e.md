@@ -66,7 +66,6 @@ flowchart TB
 
 - Upstream: Principles: Chapter Two [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint), [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [§15 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation).
 - Read with: Timeliness measurement family (*Timely Resolution as constitutional measurement*).
-
 </details>
 
 <details>
@@ -122,7 +121,6 @@ Adopted governance implementation provides:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
-
 </details>
 
 <details>
@@ -159,8 +157,7 @@ This Article sets out the floors for post-emergency review, records, and disclos
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test), [§14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override), and [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
-- Read with: [Chapter Twelve §3.3](core_12.000_violation_consequences.md#33-voluntary-public-accountability-expression) (18.000 §3.3) (*Voluntary Public Accountability Expression*); [Chapter Fourteen §7.3](core_14.000_misconduct_designation.md#73-voluntary-public-accountability-expression-anti-constitutional) (20.000 §7.3) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
-
+- Read with: [Chapter Twelve §3.3](core_12.000_violation_consequences.md#33-voluntary-public-accountability-expression) (12.000 §3.3)(*Voluntary Public Accountability Expression*); [Chapter Fourteen §7.3](core_14.000_misconduct_designation.md#73-voluntary-public-accountability-expression-anti-constitutional) (14.000 §7.3)(*Voluntary Public Accountability Expression (Anti-Constitutional)*).
 </details>
 
 <details>
@@ -196,11 +193,10 @@ This Article sets out the rights-collision procedure and the place of restorativ
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Timeliness measurement family (*Timely Resolution and anti-delay discipline as constitutional measurement*); [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (*standing, integration, and forum coordination pipeline*).
+- Upstream: Timeliness measurement family (*Timely Resolution and anti-delay discipline as constitutional measurement*); [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (1.000 §8.2) (*standing, integration, and forum coordination pipeline*).
 - Principles: Chapter Two [§9.2 Constitutional Efficiency](core_02.010_values_principles_continuity_aim.md#92-constitutional-efficiency), [Chapter Two §13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (2.020 §13.3), and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
-- Downstream: [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) (*materiality tiers, pipeline milestones, and anti-delay discipline*); [Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1) (*same outer bounds as default restore-challenge windows after emergency containment*).
+- Downstream: [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (17.000 §5)(*materiality tiers, pipeline milestones, and anti-delay discipline*); [Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (17.000 §5.1)(*same outer bounds as default restore-challenge windows after emergency containment*).
 - Steward door (non-operative): Next-step card: [Delay](implementation/STEWARD_ENTRY_DOORS.md#delay).
-
 </details>
 
 <details>
@@ -263,10 +259,9 @@ Governance rules, participation mechanisms, weighting models, and funding struct
 - Upstream: Principles:
   - [Chapter Two §18.4 Ongoing Justification](core_02.050_governance_incentive_application.md#184-ongoing-justification) (2.050 §18.4); Chapter Two
   - [§3 Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter Two §14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override) (2.020 §14).
-
 </details>
 
 <details>
@@ -302,10 +297,9 @@ This Article sets out periodic and accelerated review of governance:
 
 - Upstream: Principles: Chapter Two
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter Two §14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override) (2.020 §14).
-
 </details>
 
 <details>
@@ -374,11 +368,10 @@ Adoption Transition governance exists to secure continuity and non-regression. I
 - Upstream: Principles: Chapter Two
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
   - [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
-  - [Chapter Twelve §4.4.2](core_12.000_violation_consequences.md#442-misaligned-rewards) (18.000 §4.4.2) (*misaligned-reward forfeiture and reporting limited during the Adoption Transition by this Article*);
-  - [Subcore 8-B — Chapter Eight — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000).
-
+  - [Chapter Twelve §4.4.2](core_12.000_violation_consequences.md#442-misaligned-rewards) (12.000 §4.4.2)(*misaligned-reward forfeiture and reporting limited during the Adoption Transition by this Article*);
+  - [Subcore 8-B — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B).
 </details>
 
 <details>
@@ -460,7 +453,6 @@ This Article sets out phased adoption and how the Rights-Floor minimums become e
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and [§14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
-
 </details>
 
 <details>
@@ -502,8 +494,7 @@ This Article sets out the limits on Adoption Transition authority and its reauth
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint), [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
-- Read with: [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000) (*system alignment certification*); [Chapters Fourteen through Twenty-Two](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (*standing pipeline and forum supervision*).
-
+- Read with: [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B) (*system alignment certification*); [Chapters Fourteen through Twenty-Two](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (*standing pipeline and forum supervision*).
 </details>
 
 <details>
@@ -541,14 +532,13 @@ This Article sets out failure off-ramps, re-baselining, and traceability for sta
 - Upstream: Principles: Chapter Two
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
   - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Read with:
   - **Article III-A** (*Survival*), **Article XIV** (*Right to Reliable and Trustworthy Systems*), and **Article XI-G** (*Collective Harm Boundary and Enforcement Interface*).
   - **Chapter Fourteen**, and **Chapter Two**, including §6 rights-collision procedure.
   - The **default constraint stack** at the opening of Chapter Four (*possession and remediation interface*).
   - [[**CI-4.275 §1**](corpus_institutions/ci_04.275_adoption_transition_governance_institutional_evolution.md#ci-4275-1-interface--article-xxix-d-non-compliant-property-and-systems-voluntary-turnover-incentives-non-compliant-property-seizure-voluntary-incentives) (*non-compliant property, seizure, voluntary incentives*) through **CI-4.275 §3** (*operative Adoption Transition-scoped remediation requirements*)](corpus_institutions/ci_04.275_adoption_transition_governance_institutional_evolution.md#ci-141-interface-article-xxix-d-non-compliant-property-seizure-voluntary-incentives) (*Adoption Transition governance and institutional evolution*).
-
 </details>
 
 <details>

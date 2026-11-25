@@ -59,10 +59,10 @@ Chapter Nine sets what an institution is evaluated on. The institution has every
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): sentients affected by the institution can raise concerns and challenge its certification;
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): a forum the institution does not control decides, and its reasons are published in the Institutional Certification Record;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): an institution never chooses its own reviewer;
-    - [Subcore 3-I — Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): review is finished within set time bounds;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): sentients affected by the institution can raise concerns and challenge its certification;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): a forum the institution does not control decides, and its reasons are published in the Institutional Certification Record;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): an institution never chooses its own reviewer;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): review is finished within set time bounds;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients can trust a certified institution;
     - [Continuity](core_00.000_preamble.md#continuity): independent review keeps captured institutions from holding shared power;
@@ -84,18 +84,18 @@ Chapter Nine sets what an institution is evaluated on. The institution has every
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-D §3 Forum Process](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (9.000 §3);
+  - [Subcore 8-D §3 Forum Process](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (S8-D §3);
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3), [§6 Published Placement, Vacancy, and Substitution](core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution), [§7 Proportional Scaling and Merged Hosting](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting), and [§10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes);
   - [Chapter Seventeen §3.3 Institutional Forums](core_17.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (23.000 §3.3);
   - [Chapter Sixteen §6 Transfer, consolidation, and anti-self-judging](core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (22.000 §6) (*cross-forum anti-self-judging rule*);
-  - [Subcore 3-J — Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record).
+  - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record).
 - Downstream:
   - [§4](#4-certification-outcomes);
   - [Subcore 9-F §3](subcore_09.060_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record);
   - [Subcore 9-F §4](subcore_09.060_institutional_alignment_certification_records_recertification.md#4-recertification-and-reopening);
   - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000).
 - Read with:
-  - [Subcore 3-K — Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map);
+  - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map);
   - **CF-16.415** (*Routing operations, transfer, questions for ruling, and representative treatment*);
   - **CF-16.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*);
   - **CF-16.435 §7** (*no self-investigation*).
@@ -114,11 +114,11 @@ This section is **Phase III, Review** for an Institution.
 
 *In plain terms: the same four seats as in any certification, and the Institution never picks or controls the seats that judge, keep, or hear challenges to its own certification.*
 
-An institutional certification is a [Subcore 3-J — Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act), and this subsection is the statement [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires of this process. The seat placements in full are in [Subcore 9-C §3 Four Seats in an Institutional Certification](subcore_09.030_institutional_certification_seats_sequence_readiness.md#3-four-seats-in-an-institutional-certification). Its guarantees are:
+An institutional certification is a [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act), and this subsection is the statement [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires of this process. The seat placements in full are in [Subcore 9-C §3 Four Seats in an Institutional Certification](subcore_09.030_institutional_certification_seats_sequence_readiness.md#3-four-seats-in-an-institutional-certification). Its guarantees are:
 
 - **Four seats, no relaxation:** each certification pass carries all four seats that [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) requires, and Chapter Nine neither adds a seat nor loosens any Chapter Six rule.
 - **Independent verifying authority:** the Institution may not choose, appoint, fund through a channel it controls, or remove its own verifying authority, and no one who works for it, is owned by it, or answers to it may hold that seat.
-- **Record and contest seats outside its control:** the record seat and the contest seat sit outside the Institution's [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line). A seat placement inside it is invalid whatever the map says, the work routes to the independent route the Charter Role Map names, and the defective placement is itself a finding.
+- **Record and contest seats outside its control:** the record seat and the contest seat sit outside the Institution's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line). A seat placement inside it is invalid whatever the map says, the work routes to the independent route the Charter Role Map names, and the defective placement is itself a finding.
 - **Merged hosting unchanged:** [Chapter Six §7 Proportional Scaling and Merged Hosting](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting) applies unchanged.
 
 <a id="32-forum-roles-and-sequence"></a>
@@ -141,9 +141,9 @@ The supervisory sequence of [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.
 
 *In plain terms: the bodies that do the certifying are institutions too, so they cannot certify each other in a circle. A body that is itself Not Certified gives up its seats in other certifications.*
 
-A forum host, a certifying body, an Institutional Certification Record office, a verifying authority, or any other body that takes part in certifications is an [Subcore 3-K — Institution](subcore_03.075_band_continuity.md#institution) where it meets that definition, and this Chapter applies to it as to any other Institution of its class.
+A forum host, a certifying body, an Institutional Certification Record office, a verifying authority, or any other body that takes part in certifications is an [Institution](subcore_03.075_band_continuity.md#institution) where it meets that definition, and this Chapter applies to it as to any other Institution of its class.
 
-- **No self-judging:** Its own pass is led and reviewed by a forum outside it and outside its [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line). Where the question is the forum family's own bias, capture, conflict, or process abuse, the backup routing of the [Chapter Sixteen §6 Transfer, consolidation, and anti-self-judging](core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) cross-forum anti-self-judging rule and **CF-16.435 §7** (*no self-investigation*) applies.
+- **No self-judging:** Its own pass is led and reviewed by a forum outside it and outside its [Material Control Line](subcore_03.070_band_accountability.md#material-control-line). Where the question is the forum family's own bias, capture, conflict, or process abuse, the backup routing of the [Chapter Sixteen §6 Transfer, consolidation, and anti-self-judging](core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) cross-forum anti-self-judging rule and **CF-16.435 §7** (*no self-investigation*) applies.
 - **No circle:** A body does not hold a seat in the certification of a body that holds a seat in its own, directly or through a chain of bodies that returns to the first within one recertification cycle. A certification pass that would close a circle routes to a body outside it.
 - **Seats stay apart:** Taking part in another body's certification, including by holding a seat in it, gives a body no advantage of its own.
   - **No hold over the other body:** it gives no power over how that body responds to its certification, such as its answer to findings, certification conditions, or challenges.
@@ -158,7 +158,7 @@ A forum host, a certifying body, an Institutional Certification Record office, a
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-D §4 Certification Outcomes](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4), including [Subcore 8-D §4.2](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#42-certification-defects-and-correction), [Subcore 8-D §4.3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#43-remediation-readiness-willingness-and-capacity-to-correct), [Subcore 8-D §4.4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation), and [Subcore 8-D §4.5](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation);
+  - [Subcore 8-D §4 Certification Outcomes](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4), including [Subcore 8-D §4.2](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#42-certification-defects-and-correction), [Subcore 8-D §4.3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#43-remediation-readiness-willingness-and-capacity-to-correct), [Subcore 8-D §4.4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation), and [Subcore 8-D §4.5](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation);
   - [Subcore 8-F §4.3 Provisional and Full Certification](subcore_08.060_system_alignment_certification_records_recertification.md#43-provisional-and-full-certification);
   - [Subcore 8-B §4.1 Governance, Incentive, and Contestability Discipline](subcore_08.020_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline);
   - [Chapter Five §8 When a Holder Fails the Formation Check](core_05.000_charters.md#8-when-a-holder-fails-the-formation-check) (5.000 §8);

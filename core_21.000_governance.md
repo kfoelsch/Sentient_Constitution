@@ -28,9 +28,8 @@ Chapter Twenty-One is the constitutional owner of **constitutional-contract legi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) integrated constraint stack; [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) Foundational Rights Floor through [Chapter Four Part E](core_04.040_rights_part_e.md) (4.040).
-- Downstream: [§§ 3–7](#3-authorization-and-legitimacy-of-governing-authority) (stewardship and collective-choice requirements in this chapter); [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) general **contribution, violation, and standing** measurement (Contribution Axis and Violation Axis), including all numeric impact slots; [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) final anti-constitutional-misconduct designation for qualifying **Violation Axis slot 7, 8, or 9** findings.
+- Downstream: [§§ 3–7](#3-authorization-and-legitimacy-of-governing-authority) (stewardship and collective-choice requirements in this chapter); [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) general **contribution, violation, and standing** measurement (Contribution Axis and Violation Axis), including all numeric impact slots; [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (14.000)final anti-constitutional-misconduct designation for qualifying **Violation Axis slot 7, 8, or 9** findings.
 - Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (integrity, tracing, verification); [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) (canonical definitions); [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration) (joint-invocation cluster where authority placement, oversight design, dependency, decentralization, concentration, incentive routing, or exit-path analysis materially affect compliance).
-
 </details>
 
 <br>
@@ -94,7 +93,7 @@ Every system of rules rests on someone's authority to make them. If that authori
 - Subsections: [§3.1](#31-mechanism-families-auditability-and-pluralism) (*Mechanism Families, Auditability, and Pluralism*); [§3.2](#32-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, Contested Selection, and Democratic Minimums*); [§3.3](#33-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Recall-Class Pathways and Mid-Cycle Transfer Guardrails*).
 - Downstream: Integrity, strategy, voting, and role obligations under
   - [§§ 4–7](#4-ethical-culture-and-integrity-federated-scale); adoption and ratification under
-  - [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (29.000); legitimacy, participation, and contestability in Chapter Four — especially
+  - [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (23.000) legitimacy, participation, and contestability in Chapter Four — especially
   - [Article XII-A: Stakeholder System Participation and Representation](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation),
   - [Article XII-B: Weighted Participation and Anti-Token Constraints](core_04.010_rights_part_b.md#article-xii-b-weighted-participation-and-anti-token-constraints),
   - [Article XX: Standing and Participation Status](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status), and the expression, assembly, and procedural-fairness articles keyed in the operative bullets below.
@@ -103,7 +102,6 @@ Every system of rules rests on someone's authority to make them. If that authori
   - **[CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*);
   - [CI-21.205](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*); and
   - [CI-4.215](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*).
-
 </details>
 
 <br>
@@ -313,9 +311,8 @@ Forums judge the very authorities that govern, so those authorities must not get
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) definitional lenses for
   - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity),
   - [Materiality](subcore_03.085_band_oversight.md#materiality), and related clustered definitions in federated contexts.
-- Downstream: Legitimacy sufficiency ties to [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate); observable integrity feeds **Axis I / II** evaluation under [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) where applicable.
+- Downstream: Legitimacy sufficiency ties to [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate); observable integrity feeds **Axis I / II** evaluation under [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) where applicable.
 - Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) traceability of definitions to results, observability, and verification requirements referenced above.
-
 </details>
 
 <br>
@@ -352,7 +349,6 @@ Forums judge the very authorities that govern, so those authorities must not get
   - [*Productive Capacity*](subcore_03.075_band_continuity.md#productive-capacity),
   - [*Constitutional Efficiency*](subcore_03.075_band_continuity.md#constitutional-efficiency),
   - [*Avoidable Burden*](subcore_03.075_band_continuity.md#avoidable-burden), and stewardship-duty definitions named in text.
-
 </details>
 
 <br>
@@ -377,9 +373,8 @@ Stewardship requirements for this section are stated in **Chapter Three** under 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) stewardship framing and strategic obligations.
-- Downstream: Contestability and review hooks in [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000); violation and standing inputs under [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) where stewardship claims fail observability or verification tests under **Subcores 3-A to 3-C**.
+- Downstream: Contestability and review hooks in [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000); violation and standing inputs under [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) where stewardship claims fail observability or verification tests under **Subcores 3-A to 3-C**.
 - Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (definition traceability and verification).
-
 </details>
 
 <br>
@@ -395,7 +390,6 @@ Direction must remain outcome-oriented rather than institution-preserving for it
 - Upstream: [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate); [Chapter Two §9.1](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) (*Productive Capacity* as instrumental good).
 - Downstream: Outcome and proxy discipline continues through [§6](#6-voting-and-binding-collective-choice-protocols)–[§7](#7-authorized-roles-competency-development-and-contribution); Chapter Three (*Proxy Divergence*; *Constitutional Efficiency*; *Avoidable Burden*) as named in operative text.
 - Read with: [*Productive Capacity*](subcore_03.075_band_continuity.md#productive-capacity) and related bounding definitions in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000).
-
 </details>
 
 <br>
@@ -418,10 +412,9 @@ Proxy indicators (financial or otherwise) may inform decisions only where they r
   - [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate);
   - [§5.1](#51-stewardship-direction);
   - [§5.2](#52-ecosystem-value-orientation);
-  - [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent).
-- Downstream: the Independent Bodies listed in [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) and their subcore files, including [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) (*Public Policy Office*) and [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*).
+  - [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (7.000 §3).
+- Downstream: the Independent Bodies listed in [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) (7.000 §4) and their subcore files, including [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) (*Public Policy Office*) and [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*).
 - Read with: [*Review and Correction Duty*](subcore_03.075_band_continuity.md#review-and-correction-duty); [*Strategic Stewardship Obligation*](subcore_03.075_band_continuity.md#strategic-stewardship-obligation); [*Proxy Divergence*](subcore_03.085_band_oversight.md#proxy-divergence).
-
 </details>
 
 <br>
@@ -448,7 +441,6 @@ These institutions are bounded:
 - Upstream: [§3](#3-authorization-and-legitimacy-of-governing-authority) documented legitimacy mechanism; [§5](#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) stewardship alignment for collective decisions.
 - Downstream: Subsections [6.1](#61-entitlement-and-eligibility)–[6.3](#63-decision-resolution-requirements-for-binding-stakeholder-choice); adoption documents, supremacy, and non-regression in [Chapters Twenty-Eight through Thirty](core_22.000_non_regression.md) as summarized in the **Cross-reference (Chapter Twenty-Seven)** note at the end of this section.
 - Read with: [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000), especially [Article XII: Stakeholder System Participation, Representation, and Due Process](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) and related subarticles cited in §6.
-
 </details>
 
 <br>
@@ -472,8 +464,7 @@ Where an adopter's legitimacy mechanism includes collective voting or an analogo
   - [§6.2](#62-records-gates-and-method-neutrality)–
   - [§6.3](#63-decision-resolution-requirements-for-binding-stakeholder-choice);
   - [Article XII-A: Stakeholder System Participation and Representation](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) for high-impact legitimacy gates;
-  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) for final **ACMD** on qualifying **Violation Axis slot 7, 8, or 9** findings.
-
+  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (14.000)for final **ACMD** on qualifying **Violation Axis slot 7, 8, or 9** findings.
 </details>
 
 <br>
@@ -509,7 +500,6 @@ This subsection implements **Chapter Four**, **Article X-B** (*Governance Partic
 - Upstream: [§6.1](#61-entitlement-and-eligibility) eligibility, governance-voting standing locks, and political-equality floors for foundational constitutional choice.
 - Downstream: [§6.3](#63-decision-resolution-requirements-for-binding-stakeholder-choice) deliberation and rights-collision sequence; binding-effect and legitimacy gates keyed to [Article XII-A: Stakeholder System Participation and Representation](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) and related **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) subarticles in operative text.
 - Read with: [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) for dissent, record integrity, and review rights tied to collective choice.
-
 </details>
 
 <br>
@@ -537,7 +527,6 @@ This subsection sets the requirements for the outcome records, gates, and method
   - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#rights-collision-record-binding-stakeholder-choice); read also with
   - [Chapter Four: Foundational Rights](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) for materially rights-affecting process design and
   - [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice).
-
 </details>
 
 <br>
@@ -571,7 +560,6 @@ How these rules meet other chapters and implementation text is set out in [Subco
   - **CI-16.210** (*Cross-institution coordination and escalation*) in the implementation corpus, where this chapter's rules cite them;
   - [Chapter Two §17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (2.040 §17.1) (*the same duties bind every kind of steward; adopted implementation text may add logging, attribution, and capability limits, but never a softer internal code*);
   - [Chapter Two §17.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure) (2.040 §17.2).
-
 </details>
 
 <br>

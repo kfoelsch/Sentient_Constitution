@@ -11,9 +11,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Two, Part A](core_02.000_values_principles.md);
-- Downstream: [Chapter Two, Part C](core_02.020_interaction_interpretation.md).
-
+- Upstream: [Chapter Two, Part A](core_02.000_values_principles.md) (2.000);
+- Downstream: [Chapter Two, Part C](core_02.020_interaction_interpretation.md) (2.020).
 </details>
 
 <br>
@@ -35,7 +34,6 @@ Chapter Two, Part B is the constitutional owner of the **Continuity Aim** (share
   - [§11 Market Structure](#11-market-structure), and
   - [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement); the Articles that protect each are named in that section's Trace.
 - Read with: the Chapter Four Rights Floor generally.
-
 </details>
 
 <details>
@@ -139,7 +137,6 @@ flowchart TB
   - [Article XXIV: Comprehensibility and Complexity Stewardship](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship), and
   - [Article XXV: Root Cause Analysis and Adaptive Response](core_04.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response).
 - Subsections (reading order): [§9.1 Productive Capacity (Instrumental Good)](#91-productive-capacity-instrumental-good) · [§9.1.1 Preserve, Expand, and What Does Not Count](#911-preserve-expand-and-what-does-not-count) · [§9.2 Constitutional Efficiency](#92-constitutional-efficiency).
-
 </details>
 
 <details>
@@ -209,7 +206,6 @@ That capacity has several aspects working together:
 
 - Read with: [§9 Shared-System Capacity](#9-shared-system-capacity).
 - Subsections (reading order): [§9.1.1 Preserve, Expand, and What Does Not Count](#911-preserve-expand-and-what-does-not-count).
-
 </details>
 
 <details>
@@ -266,7 +262,6 @@ It is an **instrumental good** — a means, not a trump value. Its job is to rai
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
   - [6. Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
   - [§7 Freedom (Bounded Agency)](core_02.000_values_principles.md#7-freedom-bounded-agency).
-
 </details>
 
 <br>
@@ -384,7 +379,7 @@ Efficiency can drive broadly shared improvement, but only inside constitutional 
 - Downstream:
   - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [§13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations),
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
   - [14. Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
@@ -395,7 +390,6 @@ Efficiency can drive broadly shared improvement, but only inside constitutional 
     - [Article XVIII: System Lifecycle, Environments, and Reversibility](core_04.020_rights_part_c.md#article-xviii-system-lifecycle-environments-and-reversibility),
     - [Article XXIV: Comprehensibility and Complexity Stewardship](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship), and
     - [Article XXV: Root Cause Analysis and Adaptive Response](core_04.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response).
-
 </details>
 
 <details>
@@ -439,7 +433,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness where concentration or domination defeats voice, scrutiny, answerability, or timely correction; [material stake](core_00.000_preamble.md#material-stake) scaling (especially [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination)).
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions); **Flourishing** aim (fair access to livelihood, agency, and innovation pathways).
 - Upstream: Principles: [§9 Shared-System Capacity](#9-shared-system-capacity) — productive-capacity and efficiency claims fail where concentration or domination hollows them; [18. Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Fifteen §7.1](core_15.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (21.000 §7.1) (concentration-based subversion); [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([§13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
+- Downstream: [Subcore 14-A §7.1](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (S14-A §7.1) (concentration-based subversion); [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([§13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
 - Downstream: **CJS-3.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (
   - [§11.1](#111-market-concentration-threshold-mechanism-adopter-tunable) and
   - [§11.4](#114-resource-and-dependency-concentration-adopter-tunable) rules for applying it); **CJS-3.125 §11.2 — Anti-domination conduct and remediation catalog** (
@@ -452,7 +446,6 @@ Operative detail — recovery detection, containment, safe-failure preference, r
   - [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination) ·
   - [§11.3 Consolidation Ceiling](#113-consolidation-ceiling) ·
   - [§11.4 Resource and Dependency Concentration (Adopter-Tunable)](#114-resource-and-dependency-concentration-adopter-tunable).
-
 </details>
 
 <details>
@@ -512,11 +505,10 @@ Operative detail — recovery detection, containment, safe-failure preference, r
   - [§11.3 Consolidation Ceiling](#113-consolidation-ceiling);
   - [CJS-3.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_03.125_accountability_operations.md#cjs-3125-113-consolidation-ceiling-setting-discipline-adopter-tunable) (
   - [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) operative ceiling-setting rules);
-  - [Subcore 10-D — Chapter Fifteen §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) (15.000 §3);
-  - [Chapter Fifteen §7.1 Concentration-based subversion](core_15.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (21.000 §7.1).
+  - [Subcore 10-D §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) (S10-D §3);
+  - [Subcore 14-A §7.1 Concentration-based subversion](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (S14-A §7.1).
 - Steward door (non-operative): Next-step card: [Market structure](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
 - Subsections (reading order): [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).
-
 </details>
 
 <details>
@@ -547,14 +539,14 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 <br>
 
-*In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Twenty judges that — and only after Chapter Fifteen has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
+*In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Twenty judges that — and only after Subcore 10-D has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
 
 **What this subsection does:**
 
 - **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) requirements.
 - **Does not:** decide how serious the verified harm was, or issue a misconduct designation.
-- **When concentration is used to undermine this Constitution:** that misconduct is judged under [Chapter Fifteen §7.1 Concentration-based subversion](core_15.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction).
-- **Creating, maintaining, or exploiting concentration that violates the requirements:** this can go to Chapter Twenty for misconduct designation review, but only in two steps. First, [Subcore 10-D — Chapter Fifteen §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Twenty checks whether the concentration meets criterion 3 (*Material rollback effect*: a workaround that rolls back protections), criterion 4 (*Causally significant conduct*: damage to Rights Floor protections or blocked challenges), or criterion 6 (*Operative nullification*: constitutional process made unusable in practice).
+- **When concentration is used to undermine this Constitution:** that misconduct is judged under [Subcore 14-A §7.1 Concentration-based subversion](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction).
+- **Creating, maintaining, or exploiting concentration that violates the requirements:** this can go to Chapter Twenty for misconduct designation review, but only in two steps. First, [Subcore 10-D §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Twenty checks whether the concentration meets criterion 3 (*Material rollback effect*: a workaround that rolls back protections), criterion 4 (*Causally significant conduct*: damage to Rights Floor protections or blocked challenges), or criterion 6 (*Operative nullification*: constitutional process made unusable in practice).
 
 **Constitutional requirements:**
 
@@ -584,7 +576,6 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 - Read with: [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold); [Dependency](subcore_03.075_band_continuity.md#dependency).
 - Downstream: [CJS-3.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_03.125_accountability_operations.md#cjs-3125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (operative threshold-setting rules).
-
 </details>
 
 <br>
@@ -610,7 +601,7 @@ Operative threshold-setting discipline — requirement preservation, substance-o
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§11 Market Structure](#11-market-structure); [Market Structure](subcore_03.070_band_accountability.md#market-structure).
-- Downstream: **CJS-3.125 §11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns and remedies); [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [Chapter Fifteen §7.1](core_15.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (21.000 §7.1).
+- Downstream: **CJS-3.125 §11.2 — Anti-domination conduct and remediation catalog** (operative conduct patterns and remedies); [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [Subcore 14-A §7.1](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (S14-A §7.1).
 - Read with:
   - [Article III-C: Labor and Economic Floor](core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (labor mobility Rights Floor);
   - [Article XXII: Interoperability, Portability, and Exit Integrity](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity);
@@ -619,7 +610,6 @@ Operative threshold-setting discipline — requirement preservation, substance-o
   - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
   - [§13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
 - Subsections (reading order): [§11.2.1 Pro-Competition Duties (Dos)](#1121-pro-competition-duties-dos) · [§11.2.2 Anti-Domination Prohibitions (Don'ts)](#1122-anti-domination-prohibitions-donts) · [§11.2.3 Remedies](#1123-remedies).
-
 </details>
 
 <details>
@@ -777,7 +767,6 @@ Operative remedy selection follows **CJS-3.125 §11.2** (*Anti-domination conduc
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions against pre-lock-in consolidation); **Flourishing** aim (livelihood, agency, and innovation pathways while alternatives remain real).
 - Upstream: [§11 Market Structure](#11-market-structure); [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline); [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth).
 - Subsections (reading order): [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](#1131-consolidation-risk-pre-lock-in-impairment) · [§11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)](#1132-consolidation-ceiling-mechanism-adopter-tunable).
-
 </details>
 
 <details>
@@ -897,8 +886,7 @@ The following remain in scope where they preserve effective consolidation while 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§11.3 Consolidation Ceiling](#113-consolidation-ceiling); [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](#1131-consolidation-risk-pre-lock-in-impairment).
-- Downstream: **CJS-3.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting rules); [CJS-3.125 §11.2 — Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_03.125_accountability_operations.md#cjs-3125-112-anti-domination-conduct-and-remediation-catalog) (remedy routing on ceiling violation); [Chapter Fifteen §7.1](core_15.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (21.000 §7.1).
-
+- Downstream: **CJS-3.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)** (operative ceiling-setting rules); [CJS-3.125 §11.2 — Anti-domination conduct and remediation catalog](corpus_joint_structure/cjs_03.125_accountability_operations.md#cjs-3125-112-anti-domination-conduct-and-remediation-catalog) (remedy routing on ceiling violation); [Subcore 14-A §7.1](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (S14-A §7.1).
 </details>
 
 <br>
@@ -941,11 +929,10 @@ Operative ceiling-setting discipline — horizontal and vertical trigger design,
   - [Article V: Resource Allocation, Dependencies, and Ecosystem Funding](core_04.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (the Rights Floor this subsection leaves intact),
   - [Article V-A: Dependency Mapping and Resource-Flow Transparency](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency), and
   - [Article V-B: Cross-System Fairness and Sustainability](core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability);
-  - [Subcore 8-B §3.2 How system class scales every evaluation](subcore_08.020_system_alignment_certification_evaluation.md#32-how-system-class-scales-every-evaluation) (8.000 §3.2) and [Subcore 8-B §6.3.5 System Class Scaling and Escalation](subcore_08.020_system_alignment_certification_evaluation.md#635-system-class-scaling-and-escalation) (8.000 §6.3.5) (*the certification step-up when a system becomes a choke point*);
+  - [Subcore 8-B §3.2 How system class scales every evaluation](subcore_08.020_system_alignment_certification_evaluation.md#32-how-system-class-scales-every-evaluation) (S8-B §3.2) and [Subcore 8-B §6.3.5 System Class Scaling and Escalation](subcore_08.020_system_alignment_certification_evaluation.md#635-system-class-scaling-and-escalation) (S8-B §6.3.5) (*the certification step-up when a system becomes a choke point*);
   - [CJS-3.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_03.125_accountability_operations.md#cjs-3125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (operative threshold-setting rules);
   - [CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*) and
   - [CS-4.325](corpus_systems/cs_04.325_adaptive_sustainability_ecosystem_resilience.md#cs-4325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*).
-
 </details>
 
 <details>
@@ -1014,13 +1001,12 @@ Crossing a threshold calls for heightened review and mitigation under [§11.1.1 
   - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
   - [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture).
-- Read with: **[Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations)** — the factors used to evaluate a whole system for certification. Certification is one especially large audit under the **oversight** leg of the Tetrad, not the only place audits happen.
+- Read with: **[Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations)** — the factors used to evaluate a whole system for certification. Certification is one especially large audit under the **oversight** leg of the Tetrad, not the only place audits happen.
 - Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and [Auditability](subcore_03.085_band_oversight.md#auditability) — auditing floors that Chapter Eight must satisfy and that sibling audit modes also implement.
 - Read with: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** and [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) — class-scaled application, record form, reclassification triggers, and handling profiles.
 - Upstream: [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth); [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline); [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 - Downstream: [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) — verifies pursuit of the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) and [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) scaling under the system's incentive and control structure, not only its stated rationale.
 - Read together, **§§9–12** build the Continuity aim from shared-system capacity and resilience, through market structure, to whole-system validation; **§§13–15** supply the tradeoff procedure that governs how it is weighed against Flourishing; and **§§16–20** carry the stewardship, governance, and incentive discipline that keeps it legitimate.
-
 </details>
 
 <details>

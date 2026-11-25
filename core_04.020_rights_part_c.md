@@ -82,7 +82,6 @@ flowchart TB
   - [§6 Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
   - [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
   - [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture).
-
 </details>
 
 <details>
@@ -152,7 +151,6 @@ If the system meets the importance threshold in **Article XIV** (*Right to Relia
   - [**Article III-F** (*Safe Products and Health Information*)](core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) — the floor for accurate product safety and health information; this Article is its systems-layer hook;
   - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) and **Article III-A** (*Survival*) where continued system reliance would affect survival-essential access;
   - [**Article XIV-B** (*Right to Redress and Remedy*)](#article-xiv-b-right-to-redress-and-remedy) for what a successful challenge must lead to.
-
 </details>
 
 <details>
@@ -206,10 +204,9 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 - Read with:
   - [**Article XIV-A** (*Reliability and Trustworthiness Baseline*)](#article-xiv-a-reliability-and-trustworthiness-baseline) — the contestability guarantee, right to challenge, and protected reporting that open the path to redress; **Article III-A** (*Survival*);
   - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) where system failure or misalignment defeats survival-essential access;
-  - [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (*verified classification and timely remedy*);
-  - [Chapter Thirteen §5](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (19.000 §5) (*Enforcement Realism and Remedy Systems*);
+  - [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (1.000 §8.2) (*verified classification and timely remedy*);
+  - [Chapter Thirteen §5](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (13.000 §5)(*Enforcement Realism and Remedy Systems*);
   - [CI-19.210](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md#ci-19210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
-
 </details>
 
 <details>
@@ -245,7 +242,6 @@ This Article sets out the right to redress and remedy and what makes it usable i
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§6 Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints).
-
 </details>
 
 <details>
@@ -279,7 +275,6 @@ This Article sets out the prohibition of false trust and the scope of that prohi
   - [§6 Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
   - [§19.1.1 What Incentives Must Do](core_02.050_governance_incentive_application.md#1911-what-incentives-must-do) (*reward priority*).
-
 </details>
 
 <details>
@@ -327,7 +322,6 @@ This Article sets out the right-level constraints on trust and safety incentives
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), and [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-
 </details>
 
 <details>
@@ -364,7 +358,7 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
   - holding a sentient accountable under **Chapter Twenty**; and
   - **Article XXI-B** (*Restriction Floors*), which governs restrictions on *sentients*, not *systems*, and forbids ever taking a sentient's life (see [Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure)).
 
-  Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the Standing Record under **Chapter Fifteen**, and each measure is a lock designed and calibrated under [Chapter Twelve §4.1](core_12.000_violation_consequences.md#41-definition-and-attachment) (*Definition and Attachment*) and [Chapter Twelve §4.2](core_12.000_violation_consequences.md#42-proportionality-and-calibration) (*Proportionality and Calibration*).
+  Measures against a system follow the same violation and lock rules that apply to every sentient. The violation must be verified on the Standing Record under **Subcore 10-D**, and each measure is a lock designed and calibrated under [Chapter Twelve §4.1](core_12.000_violation_consequences.md#41-definition-and-attachment) (*Definition and Attachment*) and [Chapter Twelve §4.2](core_12.000_violation_consequences.md#42-proportionality-and-calibration) (*Proportionality and Calibration*).
 
   Both tracks can apply to the same facts. Nothing in this Article turns the power to destroy a system into power over a sentient's life.
 - **The reverse also holds:** Claiming that a deployed system is sentient — whether the claim is disputed or accepted — does not let anyone keep a harmful deployment running.
@@ -382,9 +376,8 @@ This Article sets out how high-autonomy systems stay bound by process integrity 
   - [§6 Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
   - [10 Resilience and Self-Healing Design](core_02.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design),
   - [Chapter Two §13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (2.020 §13.3), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-
 </details>
 
 <details>
@@ -437,7 +430,6 @@ This Article sets out the recovery baseline, from detection through root-cause c
   - [§6 Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
   - [§7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency), and
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-
 </details>
 
 <details>
@@ -494,7 +486,6 @@ This Article covers the exceptional powers of security, intelligence, force, and
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint), [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline), and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
-
 </details>
 
 <details>
@@ -594,7 +585,6 @@ This Article sets out the limits on security, intelligence, and covert power:
   - [§14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: **Article I-A** (*Environmental Preconditions and Ecological Integrity*) environmental preconditions, **Article I-D** (*Existential Risk and Ecological Recovery Capacity*) existential-risk scrutiny, **Article VI-A** (*Dignity and Equal Moral Standing*) dignity, **Article XV-A** (*Security, Intelligence, and Covert-Power Limits*) covert-power limits (overt-power counterpart), **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*) emergency-measure limits, **Article XXVII** (*Timely Retrospective Review and Restorative Alignment*) conflict resolution, **Article XXIX** (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance. Cross-reference: **Article XXI-B** (*Restriction Floors*) and Chapter Three *[Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure)* — **Article XV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) *Non-conflation* discipline applies.
 - Read with: [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](subcore_03.070_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm) (joint invocation where materially implicated); Chapter Three *Use of Force*, *Weapons of Mass Harm*, *Combatant / Non-Combatant Distinction*, *[Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure)*, *Existential Risk*, *Reversibility*, *Redress and Remediation*.
-
 </details>
 
 <details>
@@ -667,7 +657,6 @@ This Article sets out the limits on overt force, armed conflict, and military po
 - Read with:
   - [**Def.A4** *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](subcore_03.070_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm) (joint invocation where materially implicated);
   - Chapter Three *Autonomous Lethal System*, *Autonomous Coercion Tool*, *[Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure)*, *Coercion and Manipulation*, *Reversibility*. Systems-layer implementation: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** classification.
-
 </details>
 
 <details>
@@ -727,8 +716,7 @@ This Article sets out the heightened-scrutiny floor for autonomous lethal and co
   - [§6 Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
   - [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline), and
   - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
-- Read with: [Article XV-A](#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Six §8 Emergency and Urgent Action](core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) (6.000 §8); and [Chapter Seventeen §5.1](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1) (*Emergency Measures and Continuation Burden*).
-
+- Read with: [Article XV-A](#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*), which applies in full; [Chapter Six §8 Emergency and Urgent Action](core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) (6.000 §8); and [Chapter Seventeen §5.1](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (17.000 §5.1)(*Emergency Measures and Continuation Burden*).
 </details>
 
 <details>
@@ -821,7 +809,6 @@ This Article sets out the limits on counter-espionage power:
   - [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints), and
   - [§16.1 Distributed Understanding](core_02.040_stewardship_capacity_principles.md#161-distributed-understanding).
 - Read with: [Article XIV](#article-xiv-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*) where system outputs shape reliance; [Article XVII](#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for records and independent verification.
-
 </details>
 
 <details>
@@ -864,9 +851,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 - Upstream: Principles: Chapter Two
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [§6 Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-
 </details>
 
 <details>
@@ -900,7 +886,6 @@ This Article sets out the floors for info-sphere plurality and against monopoly 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
-
 </details>
 
 <details>
@@ -939,9 +924,8 @@ This Article sets out the floors for authentic inquiry, provenance, and contesta
 - Upstream: Principles: Chapter Two
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-
 </details>
 
 <details>
@@ -977,7 +961,6 @@ This Article sets out the floors for correction and reporting, including footpri
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
-
 </details>
 
 <details>
@@ -1058,9 +1041,8 @@ Steward pointer (process support; cannot narrow this Article): [`implementation/
   - [Three-layer audit picture](#audit-three-layers) above;
   - [Article XVI](#article-xvi-info-sphere-integrity) (*Info-Sphere Integrity*) where records about information, and the ability to challenge that information, are at stake;
   - [Article XIV-A](#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) for the right to challenge a system, which audits support but do not replace;
-  - [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000) and
+  - [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B) and
   - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) where evidence that a system is aligned must stay open to independent checking.
-
 </details>
 
 <details>
@@ -1115,7 +1097,6 @@ This Article covers audit, transparency, and independent verification:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints), and [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
-
 </details>
 
 <details>
@@ -1141,12 +1122,11 @@ This Article sets out the floor for observable and contestable evidence:
 
 - Upstream: Principles: Chapter Two
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations),
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
   - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties).
 - Read with: [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) and [§4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) for which seats must stay apart on a materially binding act.
-
 </details>
 
 <details>
@@ -1181,7 +1161,6 @@ This Article sets out the floor for distributed oversight:
 
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
 - Read with: [Subcore 3-C §6 Security-Constrained Observability and Verification Rule](subcore_03.030_burden_traceability_verification.md#6-security-constrained-observability-and-verification-rule) (S3-C §6) for the barrier test; [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) for delay; [CJS-3.110 §4](corpus_joint_structure/cjs_03.110_oversight_operations.md#cjs-34-audit-process-output-disclosure) (*Oversight: Transparency Levels and Audit-Access Terms*) for qualified and independent audit paths.
-
 </details>
 
 <details>
@@ -1225,7 +1204,6 @@ This Article sets out the floor for verification accessibility:
   - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth), and
   - [§12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement).
 - Read with: [Article XIX](#article-xix-innovation-experimentation-and-creative-freedom) (*Innovation, Experimentation, and Creative Freedom*) where lighter rules apply only when external impact is absent or demonstrably contained; [Article XVII](#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for reconstructable deployment and escalation evidence; [Article XIV-F](#article-xiv-f-resilience-and-self-healing-baseline) (*Resilience and Self-Healing Baseline*) where recovery discipline intersects lifecycle change.
-
 </details>
 
 <details>
@@ -1275,10 +1253,9 @@ This Article covers system lifecycle, environments, and reversibility:
 
 - Upstream: Principles: Chapter Two
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter Two §20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (2.050 §20).
-
 </details>
 
 <details>
@@ -1320,9 +1297,8 @@ This Article sets out the floor for environment integrity:
 - Upstream: Principles: Chapter Two
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
   - [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-
 </details>
 
 <details>
@@ -1362,10 +1338,9 @@ This Article sets out the floors for progressive deployment and reversibility:
 
 - Upstream: Principles: Chapter Two
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter Two §20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (2.050 §20).
-
 </details>
 
 <details>
@@ -1410,7 +1385,6 @@ This Article sets out the consequences of misclassification and evasion:
   - [Article IX-D](core_04.010_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) for creators' rights that sit alongside the copyright-like rules in **Article XIX-E** (*Creative and Expressive Works*);
   - [Article XXII-C](core_04.030_rights_part_d.md#article-xxii-c-anti-lock-in-rule) (*Anti-Lock-In Rule*) where exclusivity threatens lock-in;
   - [Article XVII](#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for disclosure and verification of containment, step-up, and reward claims.
-
 </details>
 
 <br>
@@ -1444,9 +1418,8 @@ This Article covers innovation, experimentation, and creative freedom:
 - Upstream: Principles: Chapter Two
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
-
 </details>
 
 <details>
@@ -1479,7 +1452,6 @@ This Article sets out the innovation and experimentation right and when sandbox 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint), [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), and [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles).
-
 </details>
 
 <details>
@@ -1513,10 +1485,9 @@ This Article sets out the containment, disclosure, opt-in, and rollback floors f
 
 - Upstream: Principles: Chapter Two
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter Two §20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (2.050 §20).
-
 </details>
 
 <details>
@@ -1545,7 +1516,6 @@ This Article sets out when a sandboxed system moves to higher obligations:
 
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), and [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
 - Read with: [Article XIX-E](#article-xix-e-creative-and-expressive-works) (*Creative and Expressive Works*) and [Article XIX-F](#article-xix-f-inventions-processes-and-functional-systems) (*Inventions, Processes, and Functional Systems*), which set the rules for each kind of work.
-
 </details>
 
 <details>
@@ -1599,7 +1569,6 @@ This Article sets out the reward rules shared by every kind of work:
 
 - Upstream: Principles: Chapter Two [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), and [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
 - Read with: [Article IX-D](core_04.010_rights_part_b.md#article-ix-d-creative-work-training-data-use-and-anti-displacement) (*Creative Work, Training-Data Use, and Anti-Displacement*) for creators' attribution, training-data, and compensation rights; [Article XIX-D](#article-xix-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*) for the shared reward rules and the expressive-or-functional test.
-
 </details>
 
 <details>
@@ -1642,7 +1611,6 @@ This Article sets out copyright-like protection for creative and expressive work
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
   - [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture).
 - Read with: [Article XIX-D](#article-xix-d-innovation-reward-disclosure-and-anti-enclosure) (*Innovation Reward, Disclosure, and Anti-Enclosure*) for the shared reward rules and the expressive-or-functional test; [Article XXII-C](core_04.030_rights_part_d.md#article-xxii-c-anti-lock-in-rule) (*Anti-Lock-In Rule*) where exclusivity threatens lock-in; [Article XVIII](#article-xviii-system-lifecycle-environments-and-reversibility) (*System Lifecycle, Environments, and Reversibility*) where an invention becomes part of a deployed system.
-
 </details>
 
 <details>
@@ -1667,7 +1635,7 @@ This Article sets out the rules for rewarding inventions, processes, and functio
   - **Exclusive phase:** For no more than `disclosure+15` years, the right-holder may refuse permission to others.
   - **Open-licensing phase:** From the end of the exclusive phase until no later than `disclosure+30` years, anyone may use the invention without the right-holder's permission, on payment of a LEQU-based fee. The right-holder may not refuse, delay, or attach conditions beyond the fee.
   - **After the term:** The invention is free for all to use. Attribution and provenance may persist.
-- **LEQU-based fee:** The open-licensing fee must be set in proportion to the verified constitutional benefit the invention contributes, measured in [Lifespan Equivalent Units (LEQU)](subcore_03.090_band_participation.md#lifespan-equivalent-unit-lequ) on the Contribution Axis under [Subcore 10-D — Chapter Fifteen §8 Unified Proportional LEQU Scale — Contribution and Violation Axes](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale*).
+- **LEQU-based fee:** The open-licensing fee must be set in proportion to the verified constitutional benefit the invention contributes, measured in [Lifespan Equivalent Units (LEQU)](subcore_03.090_band_participation.md#lifespan-equivalent-unit-lequ) on the Contribution Axis under [Subcore 10-D §8 Unified Proportional LEQU Scale — Contribution and Violation Axes](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (*unified proportional LEQU scale*).
   - **Fair wages for time:** Verified benefit is converted into a fee by valuing it as sentient time at a fair wage.
     - For gains in productivity, that time is the working time the invention saves, or the productive time it adds, for those who use it.
     - For other benefits, that time is the lifetime-equivalent time given by the LEQU measure.

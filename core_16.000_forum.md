@@ -4,7 +4,7 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Sixteen** (§§1–6): purpose, role, and scope; forum family supervision and standards; default venue, primary-stakes routing, and intake triage; forum cases (intakes, seats, records, and contests); and transfer, consolidation, and anti-self-judging. Its companion, [Chapter Seventeen](core_17.000_forum_families_escalation_timeliness_support.md#chapter-seventeen-forum-families-escalation-timely-resolution-and-support), holds forum family definitions, escalation and questions for ruling, timely resolution, and forum support, including forensic support. Forums **supervise** dispute handling under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation**, **oversight**, and **timeliness** legs, scaled to [material stake](core_00.000_preamble.md#material-stake). When the facts are verified, they may **open, update, or correct** Standing Records — or **set a bad record aside on challenge** — under [Subcore 10-B §6](subcore_10.020_standing_assessment.md#6-verification-and-record-requirements); a filed case is not standing by itself, and forum narrative must not substitute for Chapter Ten standing measurement ([Subcore 10-B §4.7](subcore_10.020_standing_assessment.md#47-forum-boundary)). Use [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) for pipeline navigation. Operational forum mechanics remain in designated implementation files. Chapter numbering and cross-references match the integrated text. Reading order, the binding/support split, and corpus edition metadata are maintained in [README.md](README.md).
 >
-> **Upstream:** [core_15.000_misconduct_pattern_applications.md](core_15.000_misconduct_pattern_applications.md) (Chapter Fifteen)
+> **Upstream:** [Subcore 14-A — subcore_14.010_misconduct_pattern_applications.md](subcore_14.010_misconduct_pattern_applications.md) (Subcore 10-D)
 > **Next:** [core_17.000_forum_families_escalation_timeliness_support.md](core_17.000_forum_families_escalation_timeliness_support.md#chapter-seventeen-forum-families-escalation-timely-resolution-and-support) (Chapter Seventeen)<br>
 > **Reading arc:** §1 purpose, role, and scope → §3 supervision and standards → §4 default venue and primary stakes → §5 forum cases → **§6 transfer, consolidation, and anti-self-judging** (end of chapter) → [Chapter Seventeen](core_17.000_forum_families_escalation_timeliness_support.md#chapter-seventeen-forum-families-escalation-timely-resolution-and-support) forum families, escalation, timely resolution, and support.
 
@@ -31,11 +31,11 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*Question 1 records and Question 2 measurement that supply disputes this chapter routes*);
-  - [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (15.000 §6) (*standing-slot grammar*);
-  - [Subcore 10-D §8 unified scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*shared five-times LEQU bands and separate axis records*);
-  - [Subcore 10-D §§5.1–5.2](subcore_10.040_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (15.000 §5.1) (*cross-axis normalized descriptor catalog, including Contribution Axis and Violation Axis descriptors that do not move slots*);
-  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) (*corresponding anti-constitutional-misconduct designation for qualifying Chapter Ten slots 7–9*);
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*Question 1 records and Question 2 measurement that supply disputes this chapter routes*);
+  - [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (S10-D §6) (*standing-slot grammar*);
+  - [Subcore 10-D §8 unified scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (S10-D §8) (*shared five-times LEQU bands and separate axis records*);
+  - [Subcore 10-D §§5.1–5.2](subcore_10.040_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (S10-D §5.1) (*cross-axis normalized descriptor catalog, including Contribution Axis and Violation Axis descriptors that do not move slots*);
+  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (14.000)(*corresponding anti-constitutional-misconduct designation for qualifying Chapter Ten slots 7–9*);
   - [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*record, verification, and tracing expectations*);
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) (*foundational definitions*);
   - [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) (*interpretive constraints*);
@@ -47,16 +47,15 @@
   - [§4](#4-default-venue-and-primary-stakes);
   - [§5](#5-forum-cases-intakes-seats-records-and-contests);
   - [§6](#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture).
-- Companion chapter: [Chapter Seventeen](core_17.000_forum_families_escalation_timeliness_support.md#chapter-seventeen-forum-families-escalation-timely-resolution-and-support) (23.000) (*forum family definitions, escalation, timely resolution, and forum support*).
-- Read with: [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together).
+- Companion chapter: [Chapter Seventeen](core_17.000_forum_families_escalation_timeliness_support.md#chapter-seventeen-forum-families-escalation-timely-resolution-and-support) (17.000)(*forum family definitions, escalation, timely resolution, and forum support*).
+- Read with: [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (1.000 §8.2).
 - Downstream:
   - [CF-16.405](corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum Formation, Forum-Structure Mapping, and Chamber Structure*), [CF-16.415](corpus_forum/cf_16.415_routing_operations_transfer_certification_representative_treatment.md#cf-16415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*), and [CF-16.420](corpus_forum/cf_16.420_appeal_secondary_review_exhaustion_pathways.md#cf-16420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, Secondary Review, and Exhaustion Pathways*) for operational forum doctrine;
-  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) where governance legitimacy interacts with adjudication role;
-  - [Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) (*incorporation discipline* for adopted procedure layers).
-- Read with: [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (15.000 §6) (*standing-slot grammar*); [Subcore 10-D §§5.1–5.2](subcore_10.040_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (15.000 §5.1) (*cross-axis normalized Contribution Axis and Violation Axis descriptors*).
-- Read also with: [Subcore 10-F §5 Descriptor Integration and Attachment Normalization](subcore_10.060_standing_integration.md#5-descriptor-integration-and-attachment-normalization) (16.000 §5), together with its section 3 routing by primary stakes; [README.md](README.md) (*reading order and how the corpus is organized*); [doc_architecture.md](doc_architecture.md) (*editorial maps that do not bind unless adopted*).
+  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (21.000)where governance legitimacy interacts with adjudication role;
+  - [Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)(*incorporation discipline* for adopted procedure layers).
+- Read with: [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (S10-D §6) (*standing-slot grammar*); [Subcore 10-D §§5.1–5.2](subcore_10.040_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (S10-D §5.1) (*cross-axis normalized Contribution Axis and Violation Axis descriptors*).
+- Read also with: [Subcore 10-F §5 Descriptor Integration and Attachment Normalization](subcore_10.060_standing_integration.md#5-descriptor-integration-and-attachment-normalization) (S10-F §5), together with its section 3 routing by primary stakes; [README.md](README.md) (*reading order and how the corpus is organized*); [doc_architecture.md](doc_architecture.md) (*editorial maps that do not bind unless adopted*).
 - Worked examples (they add no rule): [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): forum routing and tier windows run through every full vignette, for example [CJS-14.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-14.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a).
-
 </details>
 
 <br>
@@ -70,10 +69,10 @@ Chapter Sixteen is the constitutional owner of **forum supervision and standards
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-B — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000);
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000);
-  - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000);
-  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000);
+  - [Subcore 8-B — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B);
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B);
+  - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F);
+  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (14.000)
   - [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) (*principles and interpretive constraints*);
   - [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*tracing and verification expectations*);
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) (*definitions read together with Subcores 3-A to 3-C in the Corpus placement widget*);
@@ -83,14 +82,14 @@ Chapter Sixteen is the constitutional owner of **forum supervision and standards
   - [§4](#4-default-venue-and-primary-stakes) (*dispute sequencing, primary-stakes default venue, intake triage, mixed stakes, asymmetry; contestable threshold access; good-faith characterization and anti-gaming*);
   - [§5](#5-forum-cases-intakes-seats-records-and-contests) (*the intakes, seats in a forum case, forum case records, Certification Records, Standing Records, Adoption Transition Records, and contests*);
   - [§6](#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*transfer and anti-self-judging*);
-  - [Chapter Seventeen §3](core_17.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) (*forum family definitions, chambers, shared standards, and provisional operational law*);
-  - [Chapter Seventeen §3.3](core_17.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (*Internal process boundary as Institutional-family application of Dispute sequencing*);
-  - [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*escalation, certification, and interim protection*);
-  - [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers, pipeline milestones, and anti-delay discipline*);
-  - [Chapter Seventeen §6](core_17.000_forum_families_escalation_timeliness_support.md#6-forum-support-before-during-and-after-review--oversight-architecture) (*forum support before, during, and after review*).
+  - [Chapter Seventeen §3](core_17.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) (17.000 §3) (*forum family definitions, chambers, shared standards, and provisional operational law*);
+  - [Chapter Seventeen §3.3](core_17.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (17.000 §3.3) (*Internal process boundary as Institutional-family application of Dispute sequencing*);
+  - [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (17.000 §4) (*escalation, certification, and interim protection*);
+  - [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (17.000 §5) (*materiality tiers, pipeline milestones, and anti-delay discipline*);
+  - [Chapter Seventeen §6](core_17.000_forum_families_escalation_timeliness_support.md#6-forum-support-before-during-and-after-review--oversight-architecture) (17.000 §6) (*forum support before, during, and after review*).
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (standing findings may open, update, or correct Standing Records; **CF-16.445** (*Forum Performance, Backlog Requirements, Publication Timeliness, and Accessibility*) implements tier windows). Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00.000_preamble.md#material-stake) scaling applies to routing and access burden.
 - Read with:
-  - [Chapter One §5](core_01.000_constitutional_map.md#5-key-governance-processes) and
+  - [Chapter One §5](core_01.000_constitutional_map.md#5-key-governance-processes) (1.000 §5) and
   - [§3.2](core_00.000_preamble.md#32-governance-layers) (*process paths and governance-layer discipline*);
   - [Article XII: Stakeholder System Participation, Representation, and Due Process](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process);
   - **CF-16.420 §4.2** (*Emergency, Exhaustion, and Timing Rules*);
@@ -98,7 +97,6 @@ Chapter Sixteen is the constitutional owner of **forum supervision and standards
   - [Article XIV-A: Reliability and Trustworthiness Baseline](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and
   - [Article XIV-B: Right to Redress and Remedy](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy);
   - [Article XXI family](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*justice constraints referenced in the Corpus placement widget*).
-
 </details>
 
 <br>
@@ -115,7 +113,7 @@ What it produces is the set of forum families and the routing that sends each di
 
 **Role:** Where this chapter sits:
 
-- It supervises two tracks: system and institutional alignment certification ([Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) through [Subcore 9-F](subcore_09.060_institutional_alignment_certification_records_recertification.md#subcore-9-f-institutional-alignment-certification--records-recertification-challenge-and-standing)), and the standing pipeline ([Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) through [Chapter Fifteen](core_15.000_misconduct_pattern_applications.md#chapter-fifteen-anti-constitutional-misconduct--pattern-applications-and-criteria-routing)).
+- It supervises two tracks: system and institutional alignment certification ([Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) through [Subcore 9-F](subcore_09.060_institutional_alignment_certification_records_recertification.md#subcore-9-f-institutional-alignment-certification--records-recertification-challenge-and-standing)), and the standing pipeline ([Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) through [Subcore 14-A](subcore_14.010_misconduct_pattern_applications.md#subcore-14-a-anti-constitutional-misconduct--pattern-applications-and-criteria-routing)).
 - Ordinary disputes inside an already-authorized system use the published Stakeholder System Participation challenge path first. This chapter takes over when that path leaves the dispute contested, is missing, is captured, or cannot grant the relief needed.
 - Forum eligibility, contested selection, and democratic minimums are set in [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship), **section 3.2**.
 
@@ -169,17 +167,16 @@ A right that cannot be brought before someone independent is only a hope. Disput
   - [§4](#4-default-venue-and-primary-stakes) (*dispute sequencing, primary-stakes routing and intake, default venue table, and mixed stakes*);
   - [§5](#5-forum-cases-intakes-seats-records-and-contests) (*the intakes, seats in a forum case, forum case records, Certification Records, Standing Records, Adoption Transition Records, and contests*);
   - [§6](#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*transfer, consolidation, anti-self-judging*);
-  - [Chapter Seventeen §3](core_17.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) (*forum family definitions read with default table*);
-  - [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*escalation from default venue; Interim protection*);
-  - [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*);
-  - [Chapter Seventeen §6](core_17.000_forum_families_escalation_timeliness_support.md#6-forum-support-before-during-and-after-review--oversight-architecture) (*forum support before, during, and after review*).
+  - [Chapter Seventeen §3](core_17.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) (17.000 §3) (*forum family definitions read with default table*);
+  - [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (17.000 §4) (*escalation from default venue; Interim protection*);
+  - [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (17.000 §5) (*materiality tiers and anti-delay discipline*);
+  - [Chapter Seventeen §6](core_17.000_forum_families_escalation_timeliness_support.md#6-forum-support-before-during-and-after-review--oversight-architecture) (17.000 §6) (*forum support before, during, and after review*).
 - Within §3: [§3.1](#31-what-forum-families-supervise) (*what forum families supervise*); [§3.2](#32-standards-every-forum-family-meets) (*independence, contestability, and tracing; incentives and non-substitution; relation to implementation files*).
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, and **timeliness** legs;
   - **[CF-16.415](corpus_forum/cf_16.415_routing_operations_transfer_certification_representative_treatment.md#cf-16415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*) and
   - **CF-16.425 §4** (*Constitutional Alignment Certification and Review*);
   - [Article XXI-A](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*justice objective and scope*).
-
 </details>
 
 <details>
@@ -288,10 +285,10 @@ Two limits keep that work in its place:
 - Downstream:
   - [§5](#5-forum-cases-intakes-seats-records-and-contests) (*the intakes, seats in a forum case, forum case records, Certification Records, Standing Records, Adoption Transition Records, and contests*);
   - [§6](#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*transfer, consolidation, anti-self-judging*);
-  - [Chapter Seventeen §3](core_17.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) (*forum family definitions read with default table*);
-  - [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*escalation from default venue; Interim protection*);
-  - [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*materiality tiers and anti-delay discipline*);
-  - [Chapter Seventeen §6](core_17.000_forum_families_escalation_timeliness_support.md#6-forum-support-before-during-and-after-review--oversight-architecture) (*forum support before, during, and after review*).
+  - [Chapter Seventeen §3](core_17.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) (17.000 §3) (*forum family definitions read with default table*);
+  - [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (17.000 §4) (*escalation from default venue; Interim protection*);
+  - [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (17.000 §5) (*materiality tiers and anti-delay discipline*);
+  - [Chapter Seventeen §6](core_17.000_forum_families_escalation_timeliness_support.md#6-forum-support-before-during-and-after-review--oversight-architecture) (17.000 §6) (*forum support before, during, and after review*).
 - Within §4:
   - [§4.1](#41-dispute-sequencing) (*dispute sequencing*);
   - [§4.2](#42-primary-stakes-routing-and-intake) (*primary-stakes test, intake triage body, good-faith characterization, and initial access*);
@@ -300,16 +297,15 @@ Two limits keep that work in its place:
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, and **timeliness** legs;
   - [material stake](core_00.000_preamble.md#material-stake) scaling for primary-stakes routing;
-  - [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (15.000 §6) (*standing-slot grammar*);
-  - [Subcore 10-D §8 unified scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*shared five-times LEQU bands and separate axis records*);
-  - [Subcore 10-D §§5.1–5.2](subcore_10.040_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (15.000 §5.1) (*cross-axis normalized descriptors informing primary stake without moving the impact slot*);
+  - [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (S10-D §6) (*standing-slot grammar*);
+  - [Subcore 10-D §8 unified scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (S10-D §8) (*shared five-times LEQU bands and separate axis records*);
+  - [Subcore 10-D §§5.1–5.2](subcore_10.040_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (S10-D §5.1) (*cross-axis normalized descriptors informing primary stake without moving the impact slot*);
   - **[CF-16.415](corpus_forum/cf_16.415_routing_operations_transfer_certification_representative_treatment.md#cf-16415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing Operations, Transfer, Questions for Ruling, and Representative Treatment*) and
   - **CF-16.425 §4** (*Constitutional Alignment Certification and Review*);
   - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, **[CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle)** (*System lifecycle*), and **[CS-8.315](corpus_systems/cs_08.315_system_alignment_certification_run_sheet.md#cs-8315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) (*system classification, deployment, and recertification duties*);
-  - [Chapter Fourteen §6](core_14.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) (20.000 §6) (*anti-constitutional-misconduct designation for qualifying Chapter Ten slots 7–9*);
-  - [Chapter Fourteen §7](core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (20.000 §7) (*due process for the anti-constitutional-misconduct designation read with this chapter and **Article XXI** (*Justice After Verified Violation*)*);
+  - [Chapter Fourteen §6](core_14.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) (14.000 §6)(*anti-constitutional-misconduct designation for qualifying Chapter Ten slots 7–9*);
+  - [Chapter Fourteen §7](core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (14.000 §7)(*due process for the anti-constitutional-misconduct designation read with this chapter and **Article XXI** (*Justice After Verified Violation*)*);
   - [Article XXI-A](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*justice objective and scope*).
-
 </details>
 
 <details>
@@ -454,11 +450,11 @@ Three asymmetry rules keep routing available where the table assigns the stake:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4](#4-default-venue-and-primary-stakes) (*primary-stakes routing, default venue table, and mixed stakes*); [Subcore 10-B §4.7 Forum Boundary](subcore_10.020_standing_assessment.md#47-forum-boundary) (14.000 §4.7) (*how verified contribution records and verified violation findings enter Standing Records*).
+- Upstream: [§4](#4-default-venue-and-primary-stakes) (*primary-stakes routing, default venue table, and mixed stakes*); [Subcore 10-B §4.7 Forum Boundary](subcore_10.020_standing_assessment.md#47-forum-boundary) (S10-B §4.7) (*how verified contribution records and verified violation findings enter Standing Records*).
 - Downstream:
   - [§6](#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*transfer, consolidation, anti-self-judging*);
-  - [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*backup routing, questions for ruling, and escalation*);
-  - [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*tier windows that run from receipt of a challenge*).
+  - [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (17.000 §4) (*backup routing, questions for ruling, and escalation*);
+  - [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (17.000 §5) (*tier windows that run from receipt of a challenge*).
 - Within §5:
   - [§5.1](#51-intakes) (*the ways a case enters*);
   - [§5.2](#52-seats-in-a-forum-case) (*seats in a forum case*);
@@ -470,11 +466,10 @@ Three asymmetry rules keep routing available where the table assigns the stake:
 - Read with:
   - [Subcore 8-F §3 System Certification Record](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record), [Subcore 8-F §5 Challenging a Certification](subcore_08.060_system_alignment_certification_records_recertification.md#5-challenging-a-certification), and [Subcore 8-F §6 Relationship to Standing](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing);
   - [Subcore 9-F §3 Institutional Certification Record](subcore_09.060_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record), [Subcore 9-F §5 Challenging a Certification](subcore_09.060_institutional_alignment_certification_records_recertification.md#5-challenging-a-certification), and [Subcore 9-F §6 Relationship to Standing](subcore_09.060_institutional_alignment_certification_records_recertification.md#6-relationship-to-standing);
-  - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) and [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes);
+  - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) and [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) (6.000 §10);
   - [Subcore 8-D §3.1.1 Four Seats in a Certification](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) and [Subcore 10-B §7.1 Separation of Duties](subcore_10.020_standing_assessment.md#71-separation-of-duties);
   - [Subcore 8-D §3.3 Contestability Chain](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain);
   - [Subcore 10-B §6 Verification and Record Requirements](subcore_10.020_standing_assessment.md#6-verification-and-record-requirements) and [Subcore 10-B §8.3](subcore_10.020_standing_assessment.md#83-challenge-received-on-the-standing-record) (*Challenge Received on the Standing Record*).
-
 </details>
 
 <details>
@@ -611,8 +606,8 @@ Forum Case Records are kept where the sentients who need them can reach them and
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4](#4-default-venue-and-primary-stakes) (*default venue table, intake triage, mixed stakes, and asymmetry*); [Subcore 10-F §4 — Integration record and decision order](subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity) (16.000 §4) (*highest applicable non-compliance category — mixed-stakes coordination*).
-- Downstream: [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*constitutional questions for ruling, backup routing activation, and Interim protection while coordination proceeds*).
+- Upstream: [§4](#4-default-venue-and-primary-stakes) (*default venue table, intake triage, mixed stakes, and asymmetry*); [Subcore 10-F §4 — Integration record and decision order](subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity) (S10-F §4) (*highest applicable non-compliance category — mixed-stakes coordination*).
+- Downstream: [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (17.000 §4) (*constitutional questions for ruling, backup routing activation, and Interim protection while coordination proceeds*).
 - Within §6:
   - [§6.1](#61-scope-expansion-and-representative-treatment) (*widening a case to an affected class or group*);
   - [§6.2](#62-a-transfer-is-one-step-and-keeps-the-case) (*one-step transfer that keeps the case*);
@@ -623,7 +618,6 @@ Forum Case Records are kept where the sentients who need them can reach them and
   - [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
   - [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
   - **[CF-16.425](corpus_forum/cf_16.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-16425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity Safeguards, Anti-Capture Operations, and Anti-Self-Judging Support*), anti-self-judging and family-level capture.
-
 </details>
 
 <details>
@@ -706,6 +700,6 @@ A claim that a forum family, remedy system, or standing-integration function is 
 
 *Worked examples (they add no rule):* [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): forum routing and tier windows run through every full vignette, for example [CJS-14.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-14.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a).
 
-**Previous file:** [core_15.000_misconduct_pattern_applications.md](core_15.000_misconduct_pattern_applications.md)
+**Previous file:** [Subcore 14-A — subcore_14.010_misconduct_pattern_applications.md](subcore_14.010_misconduct_pattern_applications.md)
 
 **Next file:** [subcore_16.010_forum_intake_default_venue.md](subcore_16.010_forum_intake_default_venue.md)

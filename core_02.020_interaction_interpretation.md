@@ -96,7 +96,6 @@ Chapter Two, Part B, is the constitutional owner of **constitutional collision r
 - Downstream: Governs cross-article conflicts across [Chapter Four: Foundational Rights](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000).
   - Read this with [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) and [Article XXI: Justice After Verified Violation](core_04.030_rights_part_d.md#article-xxi-justice-after-verified-violation).
   - Apply this where review, emergency, or Constitutional Collision questions arise.
-
 </details>
 
 <details>
@@ -191,7 +190,6 @@ flowchart TB
   - [§13.1.3 Proportionality](#1313-proportionality) ·
   - [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](#1314-constitutional-floors-safety-and-anti-degrading-process) ·
   - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
-
 </details>
 
 <details>
@@ -269,7 +267,6 @@ flowchart TB
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **accountability** leg (the restrictor bears the burden of proof and must document the alternatives); **participation** leg (the burden never falls on the party whose freedom, agency, or access is restricted, and the showing is stricter where Freedom, Meaningful Agency, or Consent is burdened); **oversight** leg (the alternative analysis is documented so reviewers can check it); [material stake](core_00.000_preamble.md#material-stake) scaling.
-
 </details>
 
 <details>
@@ -327,7 +324,6 @@ Assertion that no alternative exists, without documented analysis, does not sati
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg (indirect, delayed, cumulative, cross-system, and ecological harm is counted, not left unseen); **accountability** leg (harm may not be externalized onto uncounted parties to look harm-minimizing); [material stake](core_00.000_preamble.md#material-stake) scaling across relevant time horizons.
-
 </details>
 
 <details>
@@ -397,7 +393,6 @@ Harm minimization selects among options that already clear those floors — it d
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **accountability** and **oversight** legs (authority-scaled answerability: intensity rises with authorized power or consequential role, never falls); [material stake](core_00.000_preamble.md#material-stake) scaling (the classification minimum and the heightened thresholds).
 - Read with: [§18.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure).
-
 </details>
 
 <details>
@@ -458,7 +453,6 @@ Limitations on constitutional **values** — including **Chapter Four** Rights-F
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg (core challenge, review, and appeal rights are among the minimums that cannot be permanently extinguished); **accountability** leg (a process that survives the tradeoff stack still may not degrade, humiliate, or retaliate; see [§3.3 Anti-Degrading Process](core_02.000_values_principles.md#33-anti-degrading-process)); [material stake](core_00.000_preamble.md#material-stake) scaling where heightened scrutiny applies.
-
 </details>
 
 <details>
@@ -528,8 +522,7 @@ The [Anti-Degrading-Process Principle (§3.3)](core_02.000_values_principles.md#
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — all four legs: **oversight** leg (restrictions stay independently reviewable; evidence is preserved and independent reviewers keep access while a Constitutional Collision is pending); **accountability** leg (a documented, auditable Constitutional Collision Record names the rule, the alternatives, the evidence, and the basis for selection); **participation** leg (affected parties can understand, contest, and reconstruct the decision, and are told what is frozen); **timeliness** leg (restrictions are temporary unless a stronger Rights-Floor rule says otherwise, carry a duration or review cadence and a restoration path, and a pending Constitutional Collision runs on the applicable clock); [material stake](core_00.000_preamble.md#material-stake) scaling (the burden of proof rises with severity, irreversibility, dependency concentration, and uncertainty).
-- Downstream: [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (forums apply this decision test); [Article XXVII-C: Timely Resolution and Anti-Delay Floor](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor); [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*).
-
+- Downstream: [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (forums apply this decision test); [Article XXVII-C: Timely Resolution and Anti-Delay Floor](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor); [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (17.000 §5)(*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*).
 </details>
 
 <details>
@@ -623,7 +616,6 @@ Once the tradeoff stack is satisfied, [§13.3 Minimization of Avoidable Burden](
   - [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
   - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards), and
   - [Article XXVII-A: Retrospective Review and Disclosure](core_04.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
-
 </details>
 
 <details>
@@ -702,7 +694,6 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
   - [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
   - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards), and
   - [Article XXVII-A: Retrospective Review and Disclosure](core_04.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure), plus any rights context where disclosure limits affect contestability or informed participation.
-
 </details>
 
 <details>
@@ -757,7 +748,6 @@ All restrictions on disclosure must include provisions for **retrospective audit
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg (epistemic integrity is Oversight-band content; managing disclosure may not hide problems to keep sentients calm); [material stake](core_00.000_preamble.md#material-stake) scaling where materially relevant.
 - Upstream: [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints) (parent, including *In plain terms* and operative text above); [§13.2.1 Preservation of Epistemic Integrity](#1321-preservation-of-epistemic-integrity).
-
 </details>
 
 <details>
@@ -820,7 +810,6 @@ Trust must not be preserved through deception or suppression of truth. Where ten
   - [Article X-A](core_04.010_rights_part_b.md#article-x-a-agency-and-freedom-from-manipulation) (*Agency and Freedom from Manipulation*);
   - [Article XV-A](core_04.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
 - Read with: [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record) where privacy collides with transparency, audit, safety, or other constitutional interests.
-
 </details>
 
 <details>
@@ -901,7 +890,6 @@ Availability, observability, prior publication, platform possession, or technica
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg ([Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) is an Oversight-band term; a metric that no longer tracks its constitutional objective cannot support a compliance claim); **accountability** leg (correction requires documented escalation and review); [material stake](core_00.000_preamble.md#material-stake) scaling where materially relevant.
-
 </details>
 
 <details>
@@ -955,7 +943,6 @@ A correction counts only if it is on the official record:
 - Upstream: [§13.1 Core Tradeoff Principles](#131-core-tradeoff-principles) (applies after the tradeoff stack is satisfied); [§17 Consequential Stewardship](core_02.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role); [§9.2 Constitutional Efficiency](core_02.010_values_principles_continuity_aim.md#92-constitutional-efficiency).
 - Read with: Constitutional Performance measurement family (*Avoidable Burden as constitutional measurement*); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg (burden that is not constitutionally required narrows [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency)); **timeliness** leg (avoidable delay is avoidable burden); **oversight** and **accountability** legs (a burden claimed as constitutionally required must meet Subcore 3-C evidence and traceability, so it can be checked and challenged); [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Downstream: [§16.5 Automation](core_02.040_stewardship_capacity_principles.md#165-automation) (*when automating a stewardship step is the default, and running independent steps in parallel*); [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (incentives must not reward unnecessary burden creation); [Article XXIV: Comprehensibility and Complexity Stewardship](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
-
 </details>
 
 <details>
@@ -1032,7 +1019,6 @@ Where incentive structures act on stewards or operators, this section reinforces
     - [Article XVI-B: Transparency, Auditability, and Contestability](core_04.020_rights_part_c.md#article-xvi-b-transparency-auditability-and-contestability),
     - [Article XX-B: Contestability and Proportional Restriction Limits](core_04.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits), and
     - [Article XXVI-A: Bounded Interpretive Mandate and Public Reasons](core_04.030_rights_part_d.md#article-xxvi-a-bounded-interpretive-mandate-and-public-reasons).
-
 </details>
 
 <details>

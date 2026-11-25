@@ -121,11 +121,6 @@
       "status": "present"
     },
     {
-      "file": "core_15.000_misconduct_pattern_applications.md",
-      "label": "core",
-      "status": "present"
-    },
-    {
       "file": "core_16.000_forum.md",
       "label": "core",
       "status": "present"

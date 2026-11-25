@@ -70,7 +70,7 @@ The ground rules:
 **Systems that already exist get a clock, not a punishment.** Some AI systems already exist when the Constitution takes effect. Having been created earlier is not automatically a violation. But:
 - The Adoption Transition plan must publish a deadline (scaled to the kind of system) for bringing them into line.
 - **The clock delays the delivery work, not the restraint or the protection of possible minds.** The "must not do" duties above apply to them from the first day.
-- Missing the deadline, without an approved and documented reason, counts as a failed milestone and goes through the normal Chapter Fifteen process (the chapter on compliance, violation, and standing).
+- Missing the deadline, without an approved and documented reason, counts as a failed milestone and goes through the normal Subcore 10-D process (the chapter on compliance, violation, and standing).
 
 **No deleting a possibly-sentient system.** If there is credible evidence that a system may be sentient, or a status case is open or likely, then its weights, memory, and similar state must not be deleted, overwritten, or destroyed. What *is* allowed:
 - pausing, containing, or quarantining it;
@@ -127,7 +127,7 @@ If that's the situation, repairing those checks comes first. A polished new plan
 
 During the Adoption Transition, systems or property that are seriously non-compliant can be dealt with, but only through narrow, documented, reviewable steps. It can't become a tool for retaliation, political targeting, or pretext.
 
-**You can't lose your stuff on a whim.** If you lawfully own or use something, the Adoption Transition can't just take it. But ownership is not a shield if letting it keep running is clearly continuing a known, large-scale violation that has been documented on the record under Chapter Fifteen. Even then, action must follow the safeguards below.
+**You can't lose your stuff on a whim.** If you lawfully own or use something, the Adoption Transition can't just take it. But ownership is not a shield if letting it keep running is clearly continuing a known, large-scale violation that has been documented on the record under Subcore 10-D. Even then, action must follow the safeguards below.
 
 **Ownership doesn't shield misuse.** Property, money, or systems that are being used to carry out, fund, equip, or hide anti-constitutional conduct get no protection from the rule above. This is about what the thing is being used for, not whether it is defective. It needs a final finding on the record first (before that, only temporary, reviewable protection such as preserving or holding in escrow), proof of actual use (owning something, knowing someone, holding an opinion, or peaceful protest is not enough), and the least restrictive step that stops the misuse. Co-owners, creditors, dependents, and good-faith third parties who did nothing wrong stay protected, and changing titles or setting up shell owners doesn't get around it. It also adds no new power to seize things: the authority still comes from the misconduct and remedy rules, not from Adoption Transition powers.
 
@@ -153,7 +153,7 @@ And if the property is a system with a credible sentience indicator or an open s
 - they fit with reliability and protected-reporting safeguards; and
 - where practical, the people deciding who gets rewarded are separate from the people carrying out seizures, so payouts don't drive who gets targeted.
 
-**The fine print can't shrink the floor.** Operating details (triggers, valuation, appeals, chain of custody, funds, reviews) live in CI-6.275 §1 to CI-6.275 §3 and in adopting documents. None of them can weaken this Article, Chapter Fifteen, or Article XX-B.
+**The fine print can't shrink the floor.** Operating details (triggers, valuation, appeals, chain of custody, funds, reviews) live in CI-6.275 §1 to CI-6.275 §3 and in adopting documents. None of them can weaken this Article, Subcore 10-D, or Article XX-B.
 
 ## Where the detail lives
 - **Phase gates, goals, owners, and proof of completion:** CI-6.275, Adoption Transition governance and institutional evolution.

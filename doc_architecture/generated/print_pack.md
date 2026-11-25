@@ -406,10 +406,10 @@ Think of a path from system check to remedy. **Forums supervise throughout.** Th
 
 ```mermaid
 flowchart TB
-  C[Certify the system<br/><br/>Chapter Eight] --> S[Measure help and harm<br/><br/>two tracks, never one net score<br/>Chapters Fourteen and Fifteen]
+  C[Certify systems and institutions<br/><br/>Chapters Eight and Nine] --> S[Measure help and harm<br/><br/>two tracks, never one net score<br/>Chapter Ten]
   A0((A)) --> C
-  S --> E[Effects and remedy<br/><br/>Chapter Sixteen]
-  E --> F[Forum families<br/><br/>Chapter Twenty-Two]
+  S --> E[Effects and remedy<br/><br/>Chapters Ten to Thirteen]
+  E --> F[Forum families<br/><br/>Chapters Sixteen and Seventeen]
   F --> A1((A))
   style C fill:none,stroke:#16a34a,color:#ffffff
   style S fill:none,stroke:#db2777,color:#ffffff
