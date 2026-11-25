@@ -130,7 +130,7 @@ The following points introduce the paths:
 
 ### 6. Principles, Definitions, and Rights
 
-Sections **6 through 11** are this Constitution's **constitutional owner register**. Each block names the substantive domain its chapter (or adopted corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening and at the top of each subcore file. Other layers may point to an owner, but they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy).
+Sections **6 through 11** make up the Constitution's **constitutional owner register**. This register says which chapter or adopted corpus is responsible for each subject and what it produces. Each numbered chapter and subcore file also opens with a binding sentence naming what it owns. Other parts of the Constitution may point readers to that owner, but they must not quietly rewrite what it owns or move its responsibility elsewhere. The rule is explained in [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy).
 
 Each summary below states what the chapter owns and what it produces.
 

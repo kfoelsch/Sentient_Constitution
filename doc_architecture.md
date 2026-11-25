@@ -1521,5 +1521,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and thirty-third move (clarify correction and remedy; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): clarify the [Chapter One §5](core_01.000_constitutional_map.md#5-key-governance-processes) summary of correction and remedy using Chapter Eighteen §3.1, distinguishing addressing the cause from redress and noting that neither replaces the other. Effect on a rule: none; Chapter Eighteen supplies the governing requirements.
 
+**One thousand and thirty-fourth move (plain-language owner register introduction; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): rewrite the owner register introduction in [Chapter One §6](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) in plainer language. Effect on a rule: none; the register, binding owner claims, and non-relocation discipline remain.
+
 **Next file:** [README.md](README.md)
 
