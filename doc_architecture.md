@@ -1509,5 +1509,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and twenty-seventh move (subsections for principles, definitions, and rights; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): organize [Chapter One §4](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) into subsections for Chapters Two, Three, and Four, with nested subsections for the three Chapter Three subcores. Effect on a rule: none; the ownership summaries are unchanged.
 
+**One thousand and twenty-eighth move (place foundational overview before governance processes; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): move the plain-terms passage and its list from Chapter One §4 into a new [§2.1](core_01.000_constitutional_map.md#21-foundations-for-the-chapters-that-follow), before the governance processes. Effect on a rule: none; the passage is unchanged and existing section numbers remain.
+
 **Next file:** [README.md](README.md)
 
