@@ -1,17 +1,21 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-25T01:45:11+00:00",
+  "generated_at": "2026-11-25T02:12:37+00:00",
   "files": {
     "core_00.000_preamble.md": {
-      "total_lines": 181,
+      "total_lines": 189,
       "sections": [
-        {"header":"PREAMBLE / FOUNDATIONAL REQUIREMENTS","level":1,"line_start":2,"line_end":181,"anchor":"#chapter-00-preamble--foundational-requirements"},
+        {"header":"PREAMBLE / FOUNDATIONAL REQUIREMENTS","level":1,"line_start":2,"line_end":189,"anchor":"#chapter-00-preamble--foundational-requirements"},
         {"header":"What Systems Reward","level":3,"line_start":30,"line_end":67,"anchor":"#what-systems-reward"},
         {"header":"1. The Model","level":3,"line_start":68,"line_end":113,"anchor":"#two-fundamental-questions"},
-        {"header":"2. Measurements Overview","level":3,"line_start":114,"line_end":143,"anchor":"#2-measurements-overview"},
-        {"header":"3. Governance and Stewardship","level":3,"line_start":144,"line_end":181,"anchor":null},
-        {"header":"3.1 Using Measurements in Governance","level":4,"line_start":153,"line_end":161,"anchor":"#31-using-measurements-in-governance"},
-        {"header":"3.2 Governance Layers","level":4,"line_start":162,"line_end":181,"anchor":"#32-governance-layers"}
+        {"header":"2. Measurements Overview","level":3,"line_start":114,"line_end":151,"anchor":"#2-measurements-overview"},
+        {"header":"2.1 Purpose and Standards","level":4,"line_start":118,"line_end":127,"anchor":null},
+        {"header":"2.2 Public Measurement","level":4,"line_start":128,"line_end":131,"anchor":null},
+        {"header":"2.3 Measurement Categories","level":4,"line_start":132,"line_end":147,"anchor":null},
+        {"header":"2.4 Effect of the Categories","level":4,"line_start":148,"line_end":151,"anchor":null},
+        {"header":"3. Governance and Stewardship","level":3,"line_start":152,"line_end":189,"anchor":null},
+        {"header":"3.1 Using Measurements in Governance","level":4,"line_start":161,"line_end":169,"anchor":"#31-using-measurements-in-governance"},
+        {"header":"3.2 Governance Layers","level":4,"line_start":170,"line_end":189,"anchor":"#32-governance-layers"}
       ]
     },
     "core_01.000_constitutional_map.md": {

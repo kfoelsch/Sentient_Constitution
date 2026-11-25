@@ -1497,4 +1497,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and twenty-first move (archive merged moves 996–1006; 2026-11-24; organization only; uncommitted).** Decision (custodian, asked in session to archive and merge): archive moves 996–1006, already merged in pull requests #280 and #281, in [archive/DOC_ARCHITECTURE_MOVES_996-1006_ARCHIVED_2026-11-24.md](archive/DOC_ARCHITECTURE_MOVES_996-1006_ARCHIVED_2026-11-24.md). Moves 1007–1020 remain in the live log until merged. Effect on a rule: none.
 
+**One thousand and twenty-second move (subsections for measurements overview; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): organize [Chapter Zero §2](core_00.000_preamble.md#2-measurements-overview) into subsections for purpose and standards, public measurement, measurement categories, and their effect. Effect on a rule: none; the provisions are unchanged.
+
 **Next file:** [README.md](README.md)

@@ -115,6 +115,8 @@ Those aims must be pursued together, always within the Constitution's non-negoti
 
 *In plain terms: shared systems cannot run on guesswork or vanity metrics. Measure whether sentients actually flourish and endure. Scale review with impact, dependence, and risk.*
 
+#### 2.1 Purpose and Standards
+
 Shared systems cannot work well without measurement. Food, shelter, care, infrastructure, and governance all operate in a complex, changing world — one too complex for guesswork or convenient numbers alone.
 
 Ongoing measurement must focus on what matters most for sentient survival and wellbeing. The question is whether the systems we depend on truly support [**Flourishing**](#flourishing) and [**Continuity**](#continuity) over time. That review scales to [**material stake**](#material-stake) — how much impact, dependence, and risk are involved.
@@ -123,7 +125,11 @@ Measurement under this Constitution puts the [**Two Fundamental Questions**](#tw
 
 Measurements must remain traceable to those aims and to the rights protections established in this Constitution. Raw throughput, utilization, headcount, revenue, latency, and other convenient proxies cannot substitute for constitutional performance. This prohibition applies wherever [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) is foreseeable.
 
+#### 2.2 Public Measurement
+
 The [Subcore 7-D Public Information Office](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) is the primary public measurer of constitutional results. It maps evidence of real outcomes to these measurement categories and to the principles they serve, as its operating rules require. Its measurement does not displace the shared standards or forum roles in [§3.1 Using Measurements in Governance](#31-using-measurements-in-governance).
+
+#### 2.3 Measurement Categories
 
 The overview below lists the measurement **categories**, mapping each to the [Two Constitutional Aims](#two-constitutional-aims) and the [Constitutional Tetrad](#constitutional-tetrad). Each category poses one plain-language question and names its **subcategories**, and links to its **Chapter Three measurement-family home**, where the family table, constitutional use, and definition routing live. Each subcategory links to its canonical Chapter Three definition.
 
@@ -138,6 +144,8 @@ The overview below lists the measurement **categories**, mapping each to the [Tw
 | **[Accountability](subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | Do reward structures, market power, and answerability keep duties real? | [Incentive alignment and proxy integrity](subcore_03.080_band_integrative.md#incentive-alignment) · [Market structure and contestability](subcore_03.070_band_accountability.md#market-structure) |
 | **[Timeliness](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | Are disputes, corrections, and repairs resolved while remedy still matters? | [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) · [Anti-delay and resolution-pathway discipline](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
 | **[Constitutional performance](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | Are constitutional outcomes delivered efficiently without pointless waste? | [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency) · [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) · [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity) |
+
+#### 2.4 Effect of the Categories
 
 These measurement categories show what matters. Standing alone, they do not set every number, funding formula, interface rule, accommodation list, technical metric, or assessment design. They become binding only when a specific chapter or adopted document explicitly requires them.
 
