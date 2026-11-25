@@ -1535,4 +1535,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and fortieth move (organize the pipeline overview by process; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): combine the chapter-led and process-led lists in [Chapter One §8](core_01.000_constitutional_map.md#8-key-practical-process-pipelines) into one list of processes with sub-bullets, retaining chapter ownership, separate standing tracks, review safeguards, and outputs. Effect on a rule: none; the overview reorganizes existing material.
 
+**One thousand and forty-first move (plan certification and standing consolidation; 2026-11-24; planning only; uncommitted).** Decision (custodian, asked in session): record the proposed consolidation of Chapters Eight–Sixteen into three reader-facing process chapters with detailed subcores, and add it to [TODO](TODO.md). The [migration plan](project/plans/certification_standing_consolidation_plan_2026-11-24.md) covers clause preservation, renumbering, navigation, and checks. Effect on a rule: none; implementation and any choice of meaning remain future work.
+
 **Next file:** [README.md](README.md)

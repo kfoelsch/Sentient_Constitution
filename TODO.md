@@ -40,6 +40,8 @@
 
 ## Open Backlog
 
+- [ ] Consolidate Chapters 8–16 into three accessible chapters for system certification, institutional certification, and standing assessment, with detailed rules in subcore; renumber later chapters and preserve all binding meaning. Follow the [migration plan](project/plans/certification_standing_consolidation_plan_2026-11-24.md).
+
 - [ ] Write the corpus-institutions files that the Public Policy Office (Subcore 7-B) and Public Stewardship Office (Subcore 7-C) point to for their templates, including the form of the strategic-development list (carried 2026-11-24 from the closed core-reorganization item, 974th move).
 - [ ] Custodian review of the capacity-lock and care-lock vignettes, CJS-14.105 §10.13 and §10.14 (953rd move; carried 2026-11-24 from the closed capacity-locks item).
 
