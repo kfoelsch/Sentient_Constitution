@@ -18,7 +18,7 @@
   - [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Downstream:
   - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) (*implements timeliness leg for resolution pathways*); **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*);
-  - [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together);
+  - [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together);
   - [Tetrad Leg Decomposition](#tetrad-leg-decomposition); Timeliness-implementing leaf definitions in
   - [subcore_03.070_band_accountability.md](subcore_03.070_band_accountability.md).
 - Downstream: Principles:

@@ -29,7 +29,7 @@
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*);
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*);
   - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4);
-  - [Chapter One — constitutional owner register](../core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+  - [Chapter One — constitutional owner register](../core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
 
 </details>
 
@@ -72,7 +72,7 @@ This file is the joint-structure implementation home for **CJS-31.110** (*Specif
 
 **Role:** This file states joint interlocks for delegated authority, trust integrity, class-scaled staffing, and shared procedural terms. The domain layers retain their local operative rules.
 
-**Layer:** This file is **CJS**, the joint-structure adopted implementation text named in [Chapter One §9 Adopted Implementation Corpus](../core_01.000_constitutional_map.md#9-adopted-implementation-corpus). Constitutional term meaning stays in [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions). Which chapter or adopted corpus owns a domain stays in the [Chapter One — constitutional owner register](../core_01.000_constitutional_map.md#4-principles-definitions-and-rights). [Authority Stack and Internal Hierarchy](../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) is unchanged. Adopted under [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge), this text implements the Constitution; it does not narrow it.
+**Layer:** This file is **CJS**, the joint-structure adopted implementation text named in [Chapter One §11 Adopted Implementation Corpus](../core_01.000_constitutional_map.md#11-adopted-implementation-corpus). Constitutional term meaning stays in [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions). Which chapter or adopted corpus owns a domain stays in the [Chapter One — constitutional owner register](../core_01.000_constitutional_map.md#6-principles-definitions-and-rights). [Authority Stack and Internal Hierarchy](../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) is unchanged. Adopted under [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge), this text implements the Constitution; it does not narrow it.
 
 When more than one adopted corpus applies to the same facts, use the default reading stack in [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*): **CJS → CS → CI → CF**. The [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule among jointly applicable incorporated obligations: [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer).
 

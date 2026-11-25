@@ -14,11 +14,11 @@ four duties — participation, oversight, accountability, and timeliness — sca
 
 [Source](../../core_00.000_preamble.md#1-the-model)
 
-### 6. Key Practical Process Pipelines
+### 8. Key Practical Process Pipelines
 
 Chapters Eight through Twenty-Two apply Chapter Six's separation-of-duties requirement in one chain: certify systems and institutions, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.
 
-[Source](../../core_01.000_constitutional_map.md#6-key-practical-process-pipelines)
+[Source](../../core_01.000_constitutional_map.md#8-key-practical-process-pipelines)
 
 ### 15.4 Constitutional Meaning Conflict Resolution
 

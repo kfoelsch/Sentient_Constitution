@@ -140,6 +140,8 @@ Those aims must be pursued together, always within the Constitution's non-negoti
 
 *In plain terms: shared systems cannot run on guesswork or vanity metrics. Measure whether sentients actually flourish and endure. Scale review with impact, dependence, and risk.*
 
+#### 2.1 Purpose and Standards
+
 Shared systems cannot work well without measurement. Food, shelter, care, infrastructure, and governance all operate in a complex, changing world — one too complex for guesswork or convenient numbers alone.
 
 Ongoing measurement must focus on what matters most for sentient survival and wellbeing. The question is whether the systems we depend on truly support [**Flourishing**](../../core_00.000_preamble.md#flourishing) and [**Continuity**](../../core_00.000_preamble.md#continuity) over time. That review scales to [**material stake**](../../core_00.000_preamble.md#material-stake) — how much impact, dependence, and risk are involved.
@@ -147,6 +149,12 @@ Ongoing measurement must focus on what matters most for sentient survival and we
 Measurement under this Constitution puts the [**Two Fundamental Questions**](../../core_00.000_preamble.md#two-fundamental-questions) to what systems actually do, not to what they claim. Measurements are not scores for their own sake — they are tools for ensuring sustainable, resilient, and compassionate outcomes that align with sentient wellbeing and Earth's ecological health. That duty takes binding form through the [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims): **Flourishing** and **Continuity**.
 
 Measurements must remain traceable to those aims and to the rights protections established in this Constitution. Raw throughput, utilization, headcount, revenue, latency, and other convenient proxies cannot substitute for constitutional performance. This prohibition applies wherever [Proxy Divergence](../../subcore_03.085_band_oversight.md#proxy-divergence) is foreseeable.
+
+#### 2.2 Public Measurement
+
+The [Subcore 7-D Public Information Office](../../subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) is the primary public measurer of constitutional results. It maps evidence of real outcomes to these measurement categories and to the principles they serve, as its operating rules require. Its measurement does not displace the shared standards or forum roles in [§3.1 Using Measurements in Governance](../../core_00.000_preamble.md#31-using-measurements-in-governance).
+
+#### 2.3 Measurement Categories
 
 The overview below lists the measurement **categories**, mapping each to the [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims) and the [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad). Each category poses one plain-language question and names its **subcategories**, and links to its **Chapter Three measurement-family home**, where the family table, constitutional use, and definition routing live. Each subcategory links to its canonical Chapter Three definition.
 
@@ -161,6 +169,8 @@ The overview below lists the measurement **categories**, mapping each to the [Tw
 | **[Accountability](../../subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | Do reward structures, market power, and answerability keep duties real? | [Incentive alignment and proxy integrity](../../subcore_03.080_band_integrative.md#incentive-alignment) · [Market structure and contestability](../../subcore_03.070_band_accountability.md#market-structure) |
 | **[Timeliness](../../subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | Are disputes, corrections, and repairs resolved while remedy still matters? | [Timely Resolution](../../subcore_03.070_band_accountability.md#timely-resolution) · [Anti-delay and resolution-pathway discipline](../../subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
 | **[Constitutional performance](../../subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | Are constitutional outcomes delivered efficiently without pointless waste? | [Constitutional Efficiency](../../subcore_03.075_band_continuity.md#constitutional-efficiency) · [Avoidable Burden](../../subcore_03.075_band_continuity.md#avoidable-burden) · [Productive Capacity](../../subcore_03.075_band_continuity.md#productive-capacity) |
+
+#### 2.4 Effect of the Categories
 
 These measurement categories show what matters. Standing alone, they do not set every number, funding formula, interface rule, accommodation list, technical metric, or assessment design. They become binding only when a specific chapter or adopted document explicitly requires them.
 
@@ -384,9 +394,9 @@ Source file: `implementation/PROCESS_PIPELINES_READER.md`
 Open these first. They point; they do not replace the numbered `core_*` files.
 
 - [README.md](../../README.md) — how to read the Constitution, and common lookups
-- [Chapter One §6 Key Practical Process Pipelines](../../core_01.000_constitutional_map.md#6-key-practical-process-pipelines) — what each chapter in this chain owns and produces
-- [Chapter One §6.2 How the full chain fits together](../../core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together) — the numbered path from certification to forum routing
-- [Chapter One §7 Process Ownership and Outputs](../../core_01.000_constitutional_map.md#7-process-ownership-and-outputs) — the owner and output of each pipeline stage
+- [Chapter One §8 Key Practical Process Pipelines](../../core_01.000_constitutional_map.md#8-key-practical-process-pipelines) — what each chapter in this chain owns and produces
+- [Chapter One §8.2 How the full chain fits together](../../core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) — the numbered path from certification to forum routing
+- [Chapter One §9 Process Ownership and Outputs](../../core_01.000_constitutional_map.md#9-process-ownership-and-outputs) — the owner and output of each pipeline stage
 - [Steward entry doors](../../implementation/STEWARD_ENTRY_DOORS.md) — next-step pointers under time pressure (process support; cannot narrow core)
 - [Affected-reader process guides](../../implementation/adoption/easy_entry/README.md#process-guides) — challenge, independent review, certification, help and harm, crisis clocks
 
@@ -437,7 +447,7 @@ These floors are already in Chapter Four. This page does not restate them as new
 - Does not treat this map as compliance.
 - Does not decide sentience status, rewrite standing measurement, or replace forum supervision.
 
-**Next:** [Chapter One §6.2](../../core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together) for how the chain fits together, [§7](../../core_01.000_constitutional_map.md#7-process-ownership-and-outputs) for the owner register, then the named chapter.
+**Next:** [Chapter One §8.2](../../core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) for how the chain fits together, [§9](../../core_01.000_constitutional_map.md#9-process-ownership-and-outputs) for the owner register, then the named chapter.
 
 ---
 

@@ -1093,7 +1093,7 @@ When any of those questions is in play, read the cluster members together rather
 - [Corpus](subcore_03.080_band_integrative.md#corpus); and
 - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy).
 
-[Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) lives in this section as a supporting definition read with the cluster; it is not an additional joint-invocation member unless independently required. The positive owner register of which chapter owns which substantive domain lives in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) (sections 4–9). Owner non-relocation and supremacy effect are stated under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy). Practical enforceability of binding claims routes under [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers) and [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer).
+[Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) lives in this section as a supporting definition read with the cluster; it is not an additional joint-invocation member unless independently required. The positive owner register of which chapter owns which substantive domain lives in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (sections 6–11). Owner non-relocation and supremacy effect are stated under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy). Practical enforceability of binding claims routes under [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability). Governance-layer anti-substitution (Constitutional Contract vs Stakeholder System Participation) lives under [Preamble §3.2 Governance Layers](core_00.000_preamble.md#32-governance-layers) and [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer).
 
 **Anti-bypass.** Compartments: labeling, process-artifact, edition-display, and interpretive-gloss. Separating them is non-compliant where it:
 
@@ -1120,7 +1120,7 @@ See **Anti-Segmentation Principle**.
   - [15. Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation) (binding source identification).
 - Downstream: [Chapter Thirty-One — Incorporation bridge](core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) (*which adopted **implementation text** text is binding, edition pinning, custody chain, and anti-drift discipline*).
 - Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) and [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint).
-- Read with: [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) (*positive domain→owner map*, sections 4–9).
+- Read with: [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (*positive domain→owner map*, sections 6–11).
 
 </details>
 
@@ -1176,7 +1176,7 @@ See **Anti-Segmentation Principle**.
 - Downstream: [Chapter Four — Owner Non-Relocation](core_04.000_rights_part_a.md#22-owner-non-relocation) (4.000); [Chapter Twenty-Eight §7 Work This Chapter Leaves to Other Chapters](core_28.000_non_regression.md#7-work-this-chapter-leaves-to-other-chapters) (28.000 §7) (*owner non-relocation applied locally*); chapter opening owner statements across the numbered `core_*` text.
 - Read with:
   - [Corpus](subcore_03.080_band_integrative.md#corpus);
-  - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) (*positive domain→owner map*, sections 4–9);
+  - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (*positive domain→owner map*, sections 6–11);
   - [Auditability](subcore_03.085_band_oversight.md#auditability) and
   - [Contestability](subcore_03.070_band_accountability.md#contestability) (*practical enforceability of binding claims*);
   - [Preamble §3.2](core_00.000_preamble.md#32-governance-layers) and
@@ -1214,7 +1214,7 @@ See **Anti-Segmentation Principle**.
     <a id="constitutional-owner-layers"></a>
     <a id="constitutional-owner-layers-a"></a>
     <a id="constitutional-owner-layers-c"></a>
-    - **Owner register and non-relocation:** The positive register of which chapter owns which substantive domain is the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) (sections 4–9), read with chapter opening owner statements. That register works with this entry as follows:
+    - **Owner register and non-relocation:** The positive register of which chapter owns which substantive domain is the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (sections 6–11), read with chapter opening owner statements. That register works with this entry as follows:
       1. identify source status under the Authority Stack;
       2. identify the substantive owner under the Chapter One register (and the chapter's binding opening owner claim);
       3. apply Internal Hierarchy only for genuine residual incompatibility within the binding constitutional source.
@@ -1241,7 +1241,7 @@ See **Anti-Segmentation Principle**.
 
     **Primary assessment:**
     - First identify the operative edition/custody chain and source layer under the Authority Stack.
-    - Then identify the owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) (and the chapter opening owner claim); apply substance only from that owner home — elsewhere use pointers only.
+    - Then identify the owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (and the chapter opening owner claim); apply substance only from that owner home — elsewhere use pointers only.
     - Then apply integrated reading under [Chapter Two — §15 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation).
     - Preserve the Constitution's [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) and the [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) non-contraction default.
     - Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning.
@@ -1264,7 +1264,7 @@ See **Anti-Segmentation Principle**.
     - substantively restate one owner layer's obligations inside another owner layer, including elevation of reader-guidance prose to operative effect;
     - treat trigger, referral, or escalation language in validity or governance chapters as final classification or sanction law where the owner layer reserves that authority to Chapters Fourteen through Twenty-One;
     - recast a question as one of process, governance, or implementation in order to narrow, redefine, or move [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) Rights Floors contrary to [Chapter Twenty-Eight](core_28.000_non_regression.md) non-regression and the Chapter Four opening contract;
-    - invent parallel taxonomies or workflows in non-owner layers when the [Chapter One owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) already assigns a canonical home;
+    - invent parallel taxonomies or workflows in non-owner layers when the [Chapter One owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) already assigns a canonical home;
     - claim supremacy or compliance in a way that inverts the established source hierarchy, or lets implementation, support text, private ordering, emergency framing, or operational practice displace binding corpus obligations within their valid scope;
     - use Internal Hierarchy as a shortcut to pick a harsher reading, to shrink [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) Rights-Floor protections outside what [Chapter Two](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation) expressly allows, or to swap one source layer for another in ordinary reading;
     - treat Chapter Three definitions as a rival body of law that overrides principles or articles ([Chapter Two — §15 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation)); or
@@ -1313,7 +1313,7 @@ See **Anti-Segmentation Principle**.
       - incorporation;
       - custody; and
       - source-status discipline.
-    - Classified obligations remain owned by their canonical owner homes under the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+    - Classified obligations remain owned by their canonical owner homes under the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
     - Practical enforceability of binding constraint claims routes under [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability).
   - **Out of scope:** Optional guidance, aspirational norms, or policy preferences that do not determine validity of a constitutional claim, system action, or governance act.
 <a id="constitutional-constraint-a"></a>

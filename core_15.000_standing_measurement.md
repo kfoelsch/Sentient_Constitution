@@ -12,7 +12,7 @@
 - Upstream:
   - [Chapter Fourteen §3](core_14.000_standing_assessment.md#3-the-three-questions) (*three-question frame*);
   - [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) through [Chapter Fourteen §8](core_14.000_standing_assessment.md#8-handling-a-standing-record) (*Question 1 — verified facts, Standing Records, custody, and handling*);
-  - [Chapter One §6 Key Practical Process Pipelines](core_01.000_constitutional_map.md#6-key-practical-process-pipelines) (*Chapters Eight through Twenty-Two chain*).
+  - [Chapter One §8 Key Practical Process Pipelines](core_01.000_constitutional_map.md#8-key-practical-process-pipelines) (*Chapters Eight through Twenty-Two chain*).
 - Subsections in this file:
   - [§3](#3-question-2--how-good-or-bad-was-it) (*Question 2 — LEQU baseline, status bridge, limits, and scope*);
   - [§4](#4-magnitude-and-severity-input-dimensions) (*measurement input dimensions for both axes*);
