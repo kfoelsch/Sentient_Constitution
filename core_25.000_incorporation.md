@@ -25,7 +25,7 @@
   - [**Corpus**](subcore_03.080_band_integrative.md#corpus) (*what the corpus is, which **implementation text** it lists, and who keeps it*);
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status — not restated here*);
   - [Chapters Twenty-Eight through Thirty](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (*ratification, adoption chain, supremacy, and procedural validity*);
-  - [Chapter Twenty-Four](core_24.000_expansion_supremacy.md#chapter-twenty-four-expansion-supremacy-and-external-legal-orders) (30.000) (*internal hierarchy for adopters where applicable*).
+  - [Chapter Twenty-Four](core_24.000_expansion_supremacy.md#chapter-twenty-four-expansion-supremacy-and-external-legal-orders) (24.000)(*internal hierarchy for adopters where applicable*).
 - Subsections:
   - [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope);
   - [§3 Custody, Editions, and Operative Effect](#3-custody-editions-and-operative-effect);
@@ -36,17 +36,16 @@
   - [corpus_institutions.md](corpus_institutions.md),
   - [corpus_forum.md](corpus_forum.md),
   - [corpus_joint_structure.md](corpus_joint_structure.md)); substantive chapters that route operational detail here (including
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000),
-  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000),
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B),
+  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (16.000)
   - [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000), and
-  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) where cross-references invoke incorporation discipline).
+  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (21.000)where cross-references invoke incorporation discipline).
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — incorporated text must not narrow principle-layer obligations;
   - [Chapter Two §15.4 — Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) (*conflict procedure*);
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status*).
 - Read with: [README.md](README.md) (*reading order and adoption-framing orientation*); [doc_architecture.md](doc_architecture.md) (*editor map; non-binding unless expressly adopted*).
-
 </details>
 
 <br>
@@ -73,9 +72,8 @@ Chapter Twenty-Five is the constitutional owner of **the incorporation bridge**,
   - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) in
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000);
   - [Chapter Two §15.4](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) (*conflict procedure — not restated here*);
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) and
-  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) (*classification homes referenced from other chapters through this bridge*).
-
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) and
+  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (14.000)(*classification homes referenced from other chapters through this bridge*).
 </details>
 
 <br>
@@ -135,12 +133,11 @@ Implementation text keeps improving, and adopters adopt it at different times. W
 
 - Upstream:
   - [§1](#1-purpose-role-and-scope) (*bridge role and invocation within adoption scope*);
-  - [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (29.000) (*recorded adoption chain*);
+  - [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (23.000)(*recorded adoption chain*);
   - [**Corpus**](subcore_03.080_band_integrative.md#corpus) (*implementation text enumeration and operative corpus identity*) in
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000).
 - Downstream: [§4 Safeguards](#4-safeguards) (*anti-drift and anti-evasion rules*); [§5 Adoption Framing and Scope of Authority](#5-adoption-framing-and-scope-of-authority) (*when adoption takes effect and how it is described*); designated **implementation text** files, as pinned editions; [evidence/](evidence) hooks named in §3.4.
 - Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*traceability and verification expectations that support custody discipline*); [doc_architecture.md](doc_architecture.md) (*non-binding mapping and edition metadata unless adopted*).
-
 </details>
 
 <br>
@@ -202,12 +199,11 @@ Accepted governance-control changes — including custody-chain hardening, editi
 
 - Upstream:
   - [§3](#3-custody-editions-and-operative-effect) (*edition pinning and custody chain*);
-  - [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (29.000) (*amendment path*);
-  - [Chapter Twenty-Two §5](core_22.000_non_regression.md#5-anti-evasion-clause) (28.000 §5) (*anti-evasion rule*);
+  - [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (23.000)(*amendment path*);
+  - [Chapter Twenty-Two §5](core_22.000_non_regression.md#5-anti-evasion-clause) (22.000 §5)(*anti-evasion rule*);
   - [Chapter Two §15.4.3](core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (2.030 §15.4.3) (*clearly adopted baseline*).
 - Downstream: [§5](#5-adoption-framing-and-scope-of-authority) (*operative effect contingent on valid adoption*).
 - Read with: [Chapters Twenty-Two and Twenty-Seven](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (*validity restoration when operational text has drifted*).
-
 </details>
 
 <br>
@@ -240,11 +236,10 @@ This section sets out the safeguards that protect incorporated text:
 - Upstream:
   - [§1](#1-purpose-role-and-scope)–
   - [§4](#4-safeguards) (*bridge role, custody, and safeguards*);
-  - [Chapter Twenty-Three §12](core_23.000_amendment_ratification.md#12-ratification-and-adoption) (29.000 §12) (*deliberate adoption, document, and joining*);
-  - [Chapter Twenty-One §3](core_21.000_governance.md#3-authorization-and-legitimacy-of-governing-authority) (27.000 §3) (*pluralism*).
+  - [Chapter Twenty-Three §12](core_23.000_amendment_ratification.md#12-ratification-and-adoption) (23.000 §12)(*deliberate adoption, document, and joining*);
+  - [Chapter Twenty-One §3](core_21.000_governance.md#3-authorization-and-legitimacy-of-governing-authority) (21.000 §3)(*pluralism*).
 - Downstream: [README.md](README.md) (*reader-facing adoption framing summary*); [doc_architecture.md](doc_architecture.md) (*editor map; non-binding unless adopted*).
-- Read with: [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (28.000) (*non-regression limits on partial adoption*); [Chapter Twenty-Four](core_24.000_expansion_supremacy.md#chapter-twenty-four-expansion-supremacy-and-external-legal-orders) (30.000) (*supremacy and external-order interaction where adopters expand protections*); [Chapter Twenty-Four §7](core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law) (30.000 §7) (*non-displacement of applicable external law; alignment when used inside an external legal framework*).
-
+- Read with: [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (22.000)(*non-regression limits on partial adoption*); [Chapter Twenty-Four](core_24.000_expansion_supremacy.md#chapter-twenty-four-expansion-supremacy-and-external-legal-orders) (24.000)(*supremacy and external-order interaction where adopters expand protections*); [Chapter Twenty-Four §7](core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law) (24.000 §7)(*non-displacement of applicable external law; alignment when used inside an external legal framework*).
 </details>
 
 <br>

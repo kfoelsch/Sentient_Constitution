@@ -10,7 +10,7 @@ from criterion_named_audit import NAMES, fix_text, numbers_in, scan_text
 
 def found(line: str, following: str = "") -> list[str]:
     text = line + "\n" + following
-    return [f.phrase for f in scan_text("core_15.000_misconduct_pattern_applications.md", text)]
+    return [f.phrase for f in scan_text("subcore_14.010_misconduct_pattern_applications.md", text)]
 
 
 class CriterionNamedTests(unittest.TestCase):
@@ -75,13 +75,13 @@ class CriterionNamedTests(unittest.TestCase):
 
     def test_fix_inserts_names(self) -> None:
         text = "It satisfies **criterion 4** where it blocks.\nCriteria 1 and 2 apply.\n"
-        new, n = fix_text("core_15.000_misconduct_pattern_applications.md", text)
+        new, n = fix_text("subcore_14.010_misconduct_pattern_applications.md", text)
         self.assertEqual(n, 2)
         self.assertIn("**criterion 4** (*Causally significant conduct*) where", new)
         self.assertIn(
             "Criteria 1 and 2 (*Willful deceptive intent* and *Knowing falsification or suppression*) apply.", new
         )
-        self.assertEqual(scan_text("core_15.000_misconduct_pattern_applications.md", new), [])
+        self.assertEqual(scan_text("subcore_14.010_misconduct_pattern_applications.md", new), [])
 
     def test_fix_uses_or_for_an_or_group_and_semicolons_for_a_range(self) -> None:
         new, _ = fix_text("core_14.000_misconduct_designation.md", "It never excuses **criteria 5** or **6** conduct.\n")
@@ -102,8 +102,8 @@ class CriterionNamedTests(unittest.TestCase):
         new, n = fix_text("core_02.000_values_principles.md", text)
         self.assertEqual((new, n), (text, 0))
         self.assertEqual(len(scan_text("core_02.000_values_principles.md", text)), 1)
-        once, _ = fix_text("core_15.000_misconduct_pattern_applications.md", "Criterion 6 applies.\n")
-        twice, n2 = fix_text("core_15.000_misconduct_pattern_applications.md", once)
+        once, _ = fix_text("subcore_14.010_misconduct_pattern_applications.md", "Criterion 6 applies.\n")
+        twice, n2 = fix_text("subcore_14.010_misconduct_pattern_applications.md", once)
         self.assertEqual((once, 0), (twice, n2))
 
     def test_names_cover_all_six_criteria(self) -> None:

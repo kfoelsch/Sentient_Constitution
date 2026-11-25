@@ -29,17 +29,16 @@
   - [§9](#9-amendment-review-and-scope-misalignment).
 - Downstream:
   - [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (6.000);
-  - [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000);
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000);
-  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000);
-  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000); designated implementation text named above.
+  - [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B);
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B);
+  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (16.000)
+  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (21.000) designated implementation text named above.
 - Read with:
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries);
   - [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity);
   - [System Creation](subcore_03.090_band_participation.md#system-creation);
   - [Business Creation](subcore_03.090_band_participation.md#business-creation).
-
 </details>
 
 <br>
@@ -129,7 +128,7 @@ Every later check (certification, standing, forum review) asks whether a system 
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
   - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional);
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability).
-- Downstream: [§5](#5-what-system-and-institutional-charters-must-state); [Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) (*class and certification depth*); [Subcore 9-B §3.1 Institution Class](subcore_09.020_institutional_alignment_certification_evaluation.md#31-institution-class) (11.000 §3.1) (*the class of an Institution*); **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*) for the class catalog.
+- Downstream: [§5](#5-what-system-and-institutional-charters-must-state); [Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (S8-B §3) (*class and certification depth*); [Subcore 9-B §3.1 Institution Class](subcore_09.020_institutional_alignment_certification_evaluation.md#31-institution-class) (S9-B §3.1) (*the class of an Institution*); **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*) for the class catalog.
 - Read with:
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*);
   - **CF-16.415 §7** (*Institutional and Local Registrars*);
@@ -137,7 +136,6 @@ Every later check (certification, standing, forum review) asks whether a system 
   - [Chapter Three System Charter](subcore_03.075_band_continuity.md#system-charter) (S3-K);
   - [Chapter Three Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) (S3-K);
   - [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
-
 </details>
 
 <details>
@@ -353,10 +351,9 @@ flowchart TB
 - Downstream: [§3 When System and Institutional Charters Are Required](#3-when-system-and-institutional-charters-are-required); [§7 Formation Check: Office-Holder Standing and Authenticity](#7-formation-check-office-holder-standing-and-authenticity).
 - Read with:
   - [Interim Hold](subcore_03.070_band_accountability.md#interim-hold);
-  - [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2);
-  - [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks) (18.000 §4.5);
-  - [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) (23.000 §4).
-
+  - [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (12.000 §3.2)
+  - [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks) (12.000 §4.5)
+  - [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) (17.000 §4)
 </details>
 
 <br>
@@ -452,14 +449,13 @@ The fifth limit works on one act of an Institution, exercising new material auth
 - Downstream:
   - [§6](#6-the-charter-role-map-and-standing-record-custody);
   - [§9](#9-amendment-review-and-scope-misalignment);
-  - [Subcore 8-F §3.1 Minimum Record Contents](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*the System Charter fields a System Certification Record relies on*);
+  - [Subcore 8-F §3.1 Minimum Record Contents](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (S8-F §3.1) (*the System Charter fields a System Certification Record relies on*);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) for the full field list.
 - Read with:
   - [§3.1.1 A Scope Document Kept Under Another Name](#311-a-scope-document-kept-under-another-name);
-  - [Chapter Twenty-One §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (27.000 §6.3);
+  - [Chapter Twenty-One §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (21.000 §6.3)
   - **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*);
   - **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*).
-
 </details>
 
 <details>
@@ -557,13 +553,12 @@ Some parts of a System Charter or Institutional Charter scale with class and som
 - Upstream: [§5](#5-what-system-and-institutional-charters-must-state); [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3).
 - Downstream:
   - [Chapter Six §6 Published Placement, Vacancy, and Substitution](core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) (6.000 §6);
-  - [Subcore 8-D §3.1.1 Four Seats in a Certification](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) (9.000 §3.1.1);
-  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
+  - [Subcore 8-D §3.1.1 Four Seats in a Certification](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) (S8-D §3.1.1);
+  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (S10-B §7);
   - **CI-6.205 §2** (*Functional Separation Lanes*);
   - **CI-21.205 §5** (*Authorized Roles and Accountability Chains*);
   - **CI-21.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Read with: [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); [Standing Record](subcore_03.070_band_accountability.md#standing-record).
-
 </details>
 
 <details>
@@ -747,13 +742,13 @@ The same clock applies to certification seats. If the map does not name who star
   - [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions);
   - [Chapter Two §19.1.4 Role-Depth and Material-Responsibility Pathways](core_02.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways) (2.050 §19.1.4);
   - [Chapter Two §19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response) (2.050 §19.4);
-  - [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2),
+  - [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (12.000 §3.2)
   - [§4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks), and
   - [§3.2 Competency Bars and Clearances](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances).
 - Downstream:
   - [§8 When a Holder Fails the Formation Check](#8-when-a-holder-fails-the-formation-check);
-  - [Subcore 9-B §4 Whole-Institution Certification Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (11.000 §4) (item 7, *the forums test the statement*);
-  - [Subcore 8-B §4.1 Governance, Incentive, and Contestability Discipline](subcore_08.020_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline) (8.000 §4.1);
+  - [Subcore 9-B §4 Whole-Institution Certification Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (S9-B §4) (item 7, *the forums test the statement*);
+  - [Subcore 8-B §4.1 Governance, Incentive, and Contestability Discipline](subcore_08.020_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline) (S8-B §4.1);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) for the statement template.
 - Read with:
   - [Material Control Line](subcore_03.070_band_accountability.md#material-control-line);
@@ -762,7 +757,6 @@ The same clock applies to certification seats. If the map does not name who star
   - [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (2.040 §17.5);
   - [Subcore 21-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_21.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways);
   - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*).
-
 </details>
 
 <br>
@@ -926,15 +920,14 @@ The formation check is kept in proportion to what it protects:
   - [§4](#4-the-right-to-form-and-five-narrow-limits);
   - [§3.6 If a System Charter or Institutional Charter Is Missing](#36-if-a-system-charter-or-institutional-charter-is-missing);
   - [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
-  - [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) (23.000 §4).
+  - [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) (17.000 §4)
 - Downstream:
-  - [Subcore 9-D §4.5 Effects of Denial and Revocation for an Institution](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation-for-an-institution) (12.000 §4.5);
+  - [Subcore 9-D §4.5 Effects of Denial and Revocation for an Institution](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation-for-an-institution) (S9-D §4.5);
   - [Chapter Six §4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
   - **CI-12.210** (*Institutional failure and dissolution*);
   - **CI-19.205** (*Institutional accountability and sanctions*);
   - **CJS-3.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*).
 - Read with: [Interim Hold](subcore_03.070_band_accountability.md#interim-hold); [Stay](subcore_03.070_band_accountability.md#stay); [Subcore 21-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_21.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
-
 </details>
 
 <br>
@@ -1058,9 +1051,8 @@ A holder who receives an adverse standing finding is protected as follows:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§5](#5-what-system-and-institutional-charters-must-state); [Chapter Two §18.4 Ongoing Justification](core_02.050_governance_incentive_application.md#184-ongoing-justification) (2.050 §18.4).
-- Downstream: [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (10.000 §4) (*System Charter amendment and mismatch as reopening triggers*); [Chapter Seventeen §3.3 Institutional Forums](core_17.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (23.000 §3.3).
+- Downstream: [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (S8-F §4) (*System Charter amendment and mismatch as reopening triggers*); [Chapter Seventeen §3.3 Institutional Forums](core_17.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (17.000 §3.3)
 - Read with: [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity); **CI-6.205 §1** (*Non-Delegable Governing Duties*); **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*).
-
 </details>
 
 <details>

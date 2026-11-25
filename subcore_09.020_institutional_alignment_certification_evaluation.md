@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Subcore 9-B** — **institutional alignment certification**: how an [Subcore 3-K — Institution](subcore_03.075_band_continuity.md#institution), as distinct from any System it runs, is classified, evaluated, reviewed, decided, recorded, kept current, and reopened (Chapter Eleven **§1–§6**, [Subcore 9-D](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#subcore-9-d-institutional-alignment-certification--forum-process-and-outcomes) **§3–§4**, and [Subcore 9-F](subcore_09.060_institutional_alignment_certification_records_recertification.md#subcore-9-f-institutional-alignment-certification--records-recertification-challenge-and-standing) **§3–§6**). Chapter Eleven is the institutional counterpart of [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (*System Alignment Certification*), and **its sections carry the same numbers**: §N of Chapters Eleven to Thirteen answers §N of Chapters Eight to Ten, as the table below shows. [CS-8.320](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-system-alignment-certification-illustrations) (*System alignment certification illustrations*) holds the worked illustrations for Systems and, in its [§12 Illustrative Institution Walkthroughs](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-12-illustrative-institution-walkthroughs), three Institution walkthroughs. This Chapter does not repeat them.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Subcore 9-B** — **institutional alignment certification**: how an [Institution](subcore_03.075_band_continuity.md#institution), as distinct from any System it runs, is classified, evaluated, reviewed, decided, recorded, kept current, and reopened (Chapter Eleven **§1–§6**, [Subcore 9-D](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#subcore-9-d-institutional-alignment-certification--forum-process-and-outcomes) **§3–§4**, and [Subcore 9-F](subcore_09.060_institutional_alignment_certification_records_recertification.md#subcore-9-f-institutional-alignment-certification--records-recertification-challenge-and-standing) **§3–§6**). Chapter Eleven is the institutional counterpart of [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (*System Alignment Certification*), and **its sections carry the same numbers**: §N of Chapters Eleven to Thirteen answers §N of Chapters Eight to Ten, as the table below shows. [CS-8.320](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-system-alignment-certification-illustrations) (*System alignment certification illustrations*) holds the worked illustrations for Systems and, in its [§12 Illustrative Institution Walkthroughs](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-12-illustrative-institution-walkthroughs), three Institution walkthroughs. This Chapter does not repeat them.
 >
 > | Chapter (Institution) | § | Answers (System) | What the Institution section covers |
 > |---|---|---|---|
@@ -44,8 +44,8 @@
   - Chapter Fourteen ([Subcore 10-B — 11.000](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened));
   - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000).
 - Read with:
-  - [Subcore 3-K — Institutional Alignment Certification](subcore_03.075_band_continuity.md#institutional-alignment-certification) and
-  - [Subcore 3-K — Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record) (*Chapter Three meanings*);
+  - [Institutional Alignment Certification](subcore_03.075_band_continuity.md#institutional-alignment-certification) and
+  - [Institutional Certification Record](subcore_03.075_band_continuity.md#institutional-certification-record) (*Chapter Three meanings*);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*);
   - **CF-16.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 - Worked examples (they add no rule): [CS-8.320 §12 Illustrative Institution Walkthroughs](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-12-illustrative-institution-walkthroughs) (*three invented Institutions walked through this chapter*).
@@ -68,7 +68,7 @@ Chapter Eleven is the constitutional owner of **the evaluation of institutional 
 
 - Upstream:
   - [Chapter Five §3 When System and Institutional Charters Are Required](core_05.000_charters.md#3-when-system-and-institutional-charters-are-required) (5.000 §3);
-  - [Subcore 8-B §1 Purpose, Role, and Scope](subcore_08.020_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (8.000 §1);
+  - [Subcore 8-B §1 Purpose, Role, and Scope](subcore_08.020_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (S8-B §1);
   - [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
   - [Article XXIX-A](core_04.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*).
 - Downstream:
@@ -77,10 +77,10 @@ Chapter Eleven is the constitutional owner of **the evaluation of institutional 
   - [Subcore 9-D §4](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#4-certification-outcomes);
   - [Subcore 9-F §4](subcore_09.060_institutional_alignment_certification_records_recertification.md#4-recertification-and-reopening).
 - Read with:
-  - [Subcore 3-K — Institution](subcore_03.075_band_continuity.md#institution);
-  - [Subcore 3-K — Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter);
-  - [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter);
-  - [Subcore 3-N — Business Creation](subcore_03.090_band_participation.md#business-creation).
+  - [Institution](subcore_03.075_band_continuity.md#institution);
+  - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter);
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter);
+  - [Business Creation](subcore_03.090_band_participation.md#business-creation).
 
 </details>
 
@@ -147,9 +147,9 @@ On the System's side:
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): those affected by an institution can raise concerns in its evaluation;
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): an institution is judged by what it actually decides and holds;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the higher the class, the more independent the review;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): those affected by an institution can raise concerns in its evaluation;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): an institution is judged by what it actually decides and holds;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the higher the class, the more independent the review;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): certification goes only to institutions whose decisions serve the sentients they affect;
     - [Continuity](core_00.000_preamble.md#continuity): evaluation finds weaknesses before they threaten shared systems;
@@ -167,7 +167,7 @@ On the System's side:
 
 #### 2.1 Who Is Certified
 
-An Institution of Class L or higher is within this Chapter, with the class decided under [§3.1 Institution Class](#31-institution-class). That includes an Institution that runs no System at all: it has no System Certification Record to cite, and its class comes from its own impact. An Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls ([Subcore 3-K — Portfolio](subcore_03.075_band_continuity.md#portfolio)).
+An Institution of Class L or higher is within this Chapter, with the class decided under [§3.1 Institution Class](#31-institution-class). That includes an Institution that runs no System at all: it has no System Certification Record to cite, and its class comes from its own impact. An Institution's **portfolio** is the set of Systems it operates, stewards, or materially controls ([Portfolio](subcore_03.075_band_continuity.md#portfolio)).
 
 - **Class A, B, C, and L:** the process applies, scaled by class under [§3.2 Scaling by Class](#32-scaling-by-class).
 - **Class P:** the process is encouraged and may be used voluntarily. It becomes mandatory on reclassification to Class L or higher, or where the Institution voluntarily asserts constitutional compliance. A Class P Institution that decides to take on new material authority is reclassified to at least Class L when it gives the notice in [Subcore 9-F §4.2.2 Recertification for New Material Authority](subcore_09.060_institutional_alignment_certification_records_recertification.md#422-recertification-for-new-material-authority), because that authority is material by definition ([Subcore 9-F §4.2.1 What Counts as New Material Authority](subcore_09.060_institutional_alignment_certification_records_recertification.md#421-what-counts-as-new-material-authority)) and an Institution that is material in any domain is at least Class L ([§3.1 Institution Class](#31-institution-class), item 2). The reclassification lasts from the notice until the notice is withdrawn before clearance, or the authority is not cleared, provided nothing under it has been exercised. The Institution then returns to Class P and the limited first certification ends. A new notice starts it again, and exercising the authority without clearance stays a finding under [Subcore 9-F §4.2.2 Recertification for New Material Authority](subcore_09.060_institutional_alignment_certification_records_recertification.md#422-recertification-for-new-material-authority) (*Without notice, or before it is cleared*). This mirrors [Subcore 8-B §1 Purpose, Role, and Scope](subcore_08.020_system_alignment_certification_evaluation.md#1-purpose-role-and-scope).
@@ -191,8 +191,8 @@ Institutional alignment certification is an independent check on how an Institut
   A certification finding can be referred to the forum that decides one of these gates, as evidence under [Subcore 9-D §4.5 Effects of Denial and Revocation for an Institution](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation-for-an-institution). A certification outcome is not itself a gate and does not open or close one.
 - **Waiting for new material authority:** An Institution that decides to take on new material authority waits for its recertification to clear that authority before it exercises it, on the terms of [Subcore 9-F §4.2.2 Recertification for New Material Authority](subcore_09.060_institutional_alignment_certification_records_recertification.md#422-recertification-for-new-material-authority). **Article XI-E** (*Institutional Formation and Business Creation*) states this wait. It is not one of the three narrow gates, and it is not a gate on forming or running. It attaches only to the new authority, and everything else the Institution does continues. The figure in [Subcore 9-F §4.2.2 Recertification for New Material Authority](subcore_09.060_institutional_alignment_certification_records_recertification.md#422-recertification-for-new-material-authority) summarizes the steps.
 - **No back door:** Nothing in this Chapter may be used, by a forum, an adopter, or an incumbent, as an authorization threshold that shuts out founders or protects incumbents. That would defeat [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
-  - [Subcore 3-K — Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) applies to the cost of the process.
-  - [Subcore 3-M — Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) applies to its depth.
+  - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) applies to the cost of the process.
+  - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) applies to its depth.
   - The wait for new material authority applies on the same terms to every Institution of its class, and only to authority that is already material to others.
 
 The go-live gate for Systems is separate and stays with them. Under [Subcore 8-D §4.1 Go-Live Gate](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate), a new System, or a material expansion of one, goes live only through its own certification, whatever the Institution's status.
@@ -203,7 +203,7 @@ The go-live gate for Systems is separate and stays with them. Under [Subcore 8-D
 
 A first Institutional Certification Record is due within a window the adopting document sets for the Institution's class.
 
-- **A new Institution:** The window runs from the day it first has a material impact on others, as [Subcore 3-M — Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) judges it, and its first certification is provisional.
+- **A new Institution:** The window runs from the day it first has a material impact on others, as [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) judges it, and its first certification is provisional.
 - **A Class P Institution reclassified on notice:** The window runs from the day it gives the notice under [Subcore 9-F §4.2.2 Recertification for New Material Authority](subcore_09.060_institutional_alignment_certification_records_recertification.md#422-recertification-for-new-material-authority), as for a new Institution, and never from an Adoption Transition window that has already ended.
 - **One already operating:** The window is the Adoption Transition window under [Article XXIX-A](core_04.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*), consistent with the default in [Chapter Five §3.5 When a System Charter or Institutional Charter Is Due](core_05.000_charters.md#35-when-a-system-charter-or-institutional-charter-is-due).
 - **A missed window:** An Institution that lets the window run out without a first pass, and is not excused below, has a defect to log and correct, and the missed window opens that pass. An Institution of Class L or higher that is already operating also has the milestone failure below. The Institution is not stopped or barred from operating, since there is no gate ([§2.2 No Permission and No Gate on Forming or Running](#22-no-permission-and-no-gate-on-forming-or-running)).
@@ -220,7 +220,7 @@ A first Institutional Certification Record is due within a window the adopting d
 
 - Upstream:
   - [Chapter Five §3 When System and Institutional Charters Are Required](core_05.000_charters.md#3-when-system-and-institutional-charters-are-required) (5.000 §3);
-  - [Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) and [Subcore 8-B §3.2 How system class scales every evaluation](subcore_08.020_system_alignment_certification_evaluation.md#32-how-system-class-scales-every-evaluation);
+  - [Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (S8-B §3) and [Subcore 8-B §3.2 How system class scales every evaluation](subcore_08.020_system_alignment_certification_evaluation.md#32-how-system-class-scales-every-evaluation);
   - [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns) (S3-B §4.1).
 - Downstream: [§4](#4-whole-institution-certification-evaluation) (*the items the class scales*); [Subcore 9-F §3](subcore_09.060_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record) (*the class is stated on the Institutional Certification Record*); [Subcore 9-F §4.2](subcore_09.060_institutional_alignment_certification_records_recertification.md#42-reopening-triggers) (*the triggers that reassess it*).
 - Read with:
@@ -256,7 +256,7 @@ The factors in full are in [Subcore 9-A — §3 Institution Class Factors](subco
 The institution class scales the depth of evidence, the independence of the review, the default certification interval, and the disclosure on the Institutional Certification Record, in the way [Subcore 8-B §3.2 How system class scales every evaluation](subcore_08.020_system_alignment_certification_evaluation.md#32-how-system-class-scales-every-evaluation) does. The certification intervals are in [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#review-cadence) (*Review cadence*); the adopting document may set shorter intervals and sets the number of clean provisional recertifications.
 
 - **Class A, B, and C:** all eight items in [§4 Whole-Institution Certification Evaluation](#4-whole-institution-certification-evaluation), with evidence and independence in proportion to the class.
-- **Class L:** the same eight items, simplified, with simpler records and a longer default certification interval where [Subcore 3-M — Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) allows. The core of a Class L pass is the Institutional Charter against practice, the Role Map, the formation check statement, and the currency of the cited System certifications. No item may be omitted, and an item with nothing to find is stated in a line.
+- **Class L:** the same eight items, simplified, with simpler records and a longer default certification interval where [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) allows. The core of a Class L pass is the Institutional Charter against practice, the Role Map, the formation check statement, and the currency of the cited System certifications. No item may be omitted, and an item with nothing to find is stated in a line.
 - **Class P:** voluntary, as [§2.1 Who Is Certified](#21-who-is-certified) states.
 
 **A host in a joint professional practice.** Where an Institution is a host ([**CI-21.205 §7**](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-46-seat-advisory) (*Practice Licence, Practice Clearance, and Joint Professional Practice*)), its certification also samples members' acts against the seats the host carries and reads the members' adoption notices against what the host does. A finding about one member's act is a finding about that member, and it reaches the host only where a seat the host carries failed.
@@ -269,7 +269,7 @@ The institution class scales the depth of evidence, the independence of the revi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4);
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4);
   - [Chapter Five §5 What System and Institutional Charters Must State](core_05.000_charters.md#5-what-system-and-institutional-charters-must-state) (5.000 §5);
   - [Chapter Five §7 Formation Check: Office-Holder Standing and Authenticity](core_05.000_charters.md#7-formation-check-office-holder-standing-and-authenticity) (5.000 §7);
   - [Chapter Five §9 Amendment and Review](core_05.000_charters.md#9-amendment-review-and-scope-misalignment) (5.000 §9);
@@ -312,7 +312,7 @@ The full tests for each item, and for the two further parts of [Subcore 8-B §4 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-B §5 Evaluations Where Implicated](subcore_08.020_system_alignment_certification_evaluation.md#5-evaluations-where-implicated) (8.000 §5).
+  - [Subcore 8-B §5 Evaluations Where Implicated](subcore_08.020_system_alignment_certification_evaluation.md#5-evaluations-where-implicated) (S8-B §5).
 - Downstream: [Subcore 9-D §3](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#3-forum-process); [Subcore 9-F §3](subcore_09.060_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record).
 - Read with:
   - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*);
@@ -350,7 +350,7 @@ This Chapter cites them and does not restate them. Whether the Institution keeps
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (8.000 §6).
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (S8-B §6).
 - Downstream: [Subcore 9-D §3](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#3-forum-process); [Subcore 9-F §3](subcore_09.060_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record).
 - Read with:
   - [§5](#5-evaluations-where-implicated) (*the institutional duties and the rule against repeating an evaluation*).

@@ -1,11 +1,11 @@
-# CHAPTER FIFTEEN: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING
+# SUBCORE 14-A: ANTI-CONSTITUTIONAL MISCONDUCT — PATTERN APPLICATIONS AND CRITERIA ROUTING
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Fifteen** — named pattern applications and criteria routing for recurring anti-constitutional misconduct patterns. **Chapter Twenty** — anti-constitutional-misconduct designation (ACMD) decision framework, criteria set, designation attachment, and due-process safeguards — is in [`core_14.000_misconduct_designation.md`](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files and subcores read as one text. It contains **Subcore 14-A** — named pattern applications and criteria routing for recurring anti-constitutional misconduct patterns. **Chapter Fourteen** — anti-constitutional-misconduct designation (ACMD) decision framework, criteria set, designation attachment, and due-process safeguards — is in [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation).
 >
-> - **Constitutional owner (joint with Chapter Fourteen):** final ACMD for Violation Axis slot 7, 8, or 9 findings. Chapter Fifteen routes named patterns into Chapter Fourteen §§5–7; it does **not** add designation criteria or Chapter Ten lock types.
-> - **Anti-relocation rule:** Chapter Fifteen does not restate Chapter Fourteen ACMD criteria, attachment rules, or due-process safeguards. Operational forum, systems, and institutional mechanics remain in their owner chapters.
+> - **Constitutional owner (joint with Chapter Fourteen):** final ACMD for Violation Axis slot 7, 8, or 9 findings. Subcore 14-A routes named patterns into Chapter Fourteen §§5–7; it does **not** add designation criteria or Chapter Ten lock types.
+> - **Anti-relocation rule:** Subcore 14-A does not restate Chapter Fourteen ACMD criteria, attachment rules, or due-process safeguards. Operational forum, systems, and institutional mechanics remain in their owner chapters.
 >
 > **Upstream:** [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (*designation criteria and safeguards*); Chapter Sixteen Question 3 gated-pathway lock dual-layer mirror where noted.
 > **Downstream:** Chapter Ten standing-effect integration after final ACMD; Chapter Sixteen forum routing and certification.
@@ -14,12 +14,14 @@
 
 <br>
 
-Chapter Fifteen is the constitutional owner of **named pattern applications and criteria routing** for anti-constitutional misconduct. Anti-constitutional-misconduct designation (ACMD) criteria, attachment, and due-process safeguards are in **[Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation)**.
+Core home: 14
+
+Subcore 14-A is the constitutional owner of **named pattern applications and criteria routing** for anti-constitutional misconduct. Anti-constitutional-misconduct designation (ACMD) criteria, attachment, and due-process safeguards are in **[Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation)**.
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: this chapter applies [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation)'s decision model to recurring patterns of anti-constitutional conduct. It names how each pattern attacks accountability. It creates no new criteria and no new lock types.*
 
-**Purpose:** Chapter Twenty-One answers a practical question that follows from [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation): how do recurring patterns of attack on constitutional duties enter the ACMD decision? Chapter Twenty sets the criteria and safeguards for deciding whether conduct already in Violation Axis slot 7, 8, or 9 is also anti-constitutional misconduct (ACM). This chapter names the recurring patterns and routes each one into that same decision model (**Chapter Twenty sections 5 to 7**). A pattern name is a way in, not a violation finding. Each case is judged by what the conduct actually does.
+**Purpose:** Subcore 14-A answers a practical question that follows from [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation): how do recurring patterns of attack on constitutional duties enter the ACMD decision? Chapter Fourteen sets the criteria and safeguards for deciding whether conduct already in Violation Axis slot 7, 8, or 9 is also anti-constitutional misconduct (ACM). This chapter names the recurring patterns and routes each one into that same decision model (**Chapter Fourteen sections 5 to 7**). A pattern name is a way in, not a violation finding. Each case is judged by what the conduct actually does.
 
 **Role:** The chapter is jointly owned with Chapter Fourteen, which owns the final ACMD for Violation Axis slot 7, 8, or 9 findings:
 
@@ -89,7 +91,7 @@ Capture, manipulation of evidence, and domination of markets or information recu
   - [Chapter Twelve §3.2](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2) (*Prevention — General Standing Locks*);
   - [Chapter Twelve §4.4](core_12.000_violation_consequences.md#44-special-violation-rules) (18.000 §4.4) (*Special Violation Rules*);
   - [Chapter Twelve §4.5](core_12.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Special locks — Forum-Service Standing Lock and Anti-Constitutional Trust Lock*).
-- Read with: [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) for definitions named inside each pattern-routing subsection; [Subcore 10-F §1 Purpose, Role, and Scope](subcore_10.060_standing_integration.md#1-purpose-role-and-scope) (16.000 §1) (*lists the worked Question 3 examples, the dual-layer mirror for verified gated-pathway harm*).
+- Read with: [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) for definitions named inside each pattern-routing subsection; [Subcore 10-F §1 Purpose, Role, and Scope](subcore_10.060_standing_integration.md#1-purpose-role-and-scope) (S10-F §1) (*lists the worked Question 3 examples, the dual-layer mirror for verified gated-pathway harm*).
 - Worked examples (they add no rule): [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): [CJS-14.105 §6 Non-Compliant Deployment with a Credible Sentience Indicator (Tier A)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-6-non-compliant-deployment-with-a-credible-sentience-indicator-tier-a) and [CJS-14.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-10-question-3-routing-patterns).
 
 </details>
@@ -177,7 +179,7 @@ The three subsections below apply the existing Chapter Fourteen sequence to cond
 
 *In plain terms: “click here to give up your core rights” clauses — buried in employment, platform, or service terms — are not a lawful way to silence audits, challenges, or appeals, and convenience alone is never a good enough excuse.*
 
-The following patterns are **anti-constitutional misconduct within this chapter’s scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Twenty section 5** criteria for possible anti-constitutional misconduct designation. They are stated here so that **purported waiver** and **pseudo-contract** devices are not mistaken for ordinary compliance disputes alone. [§4.1.1 Rights-Floor Waiver Conduct](#411-rights-floor-waiver-conduct) through [§4.1.3 Post-Employment Mobility-Restriction Conduct](#413-post-employment-mobility-restriction-conduct) state the three patterns; [§4.1.4 Non-Binding Effect](#414-non-binding-effect) and [§4.1.5 Criteria Routing](#415-criteria-routing) apply to all three.
+The following patterns are **anti-constitutional misconduct within this chapter’s scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Fourteen section 5** criteria for possible anti-constitutional misconduct designation. They are stated here so that **purported waiver** and **pseudo-contract** devices are not mistaken for ordinary compliance disputes alone. [§4.1.1 Rights-Floor Waiver Conduct](#411-rights-floor-waiver-conduct) through [§4.1.3 Post-Employment Mobility-Restriction Conduct](#413-post-employment-mobility-restriction-conduct) state the three patterns; [§4.1.4 Non-Binding Effect](#414-non-binding-effect) and [§4.1.5 Criteria Routing](#415-criteria-routing) apply to all three.
 
 <a id="411-rights-floor-waiver-conduct"></a>
 
@@ -261,7 +263,7 @@ Evaluators assess these patterns as follows:
 
 *In plain terms: burying forums and contest desks under junk volume, copy-paste filings, or automated noise can be a constitutional attack pattern. The key is purpose or reckless disregard: real challenges cannot get through in time. Mass meritorious claims seeking real relief are different.*
 
-**Flooding-the-zone conduct** (including **contest-pathway flooding**) is **anti-constitutional misconduct within this chapter’s scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Twenty section 5** criteria for possible designation.
+**Flooding-the-zone conduct** (including **contest-pathway flooding**) is **anti-constitutional misconduct within this chapter’s scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Fourteen section 5** criteria for possible designation.
 
 The subsections below state:
 
@@ -383,7 +385,7 @@ Evaluators assess these patterns as follows:
 
 *In plain terms: hammering the shared information environment with coordinated junk, bots, or meaningless volume can keep **sentients** from finding true signals, checking claims, or correcting lies in time. That is different from burying a forum docket. Both can undermine constitutional contestability, but the info-sphere version works through attention, discovery, and epistemic noise rather than filing desks.*
 
-**Info-sphere zone flooding** (including **epistemic flooding** and **attention-pathway denial**) is **anti-constitutional misconduct within this chapter’s scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Twenty section 5** criteria for possible anti-constitutional misconduct designation. It means deliberate, reckless, or foreseeably indifferent use of:
+**Info-sphere zone flooding** (including **epistemic flooding** and **attention-pathway denial**) is **anti-constitutional misconduct within this chapter’s scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Fourteen section 5** criteria for possible anti-constitutional misconduct designation. It means deliberate, reckless, or foreseeably indifferent use of:
 - high volume, redundancy, distributed load, or automation;
 - coordination across channels;
 - ranking or discovery manipulation;
@@ -468,7 +470,7 @@ The two subsections below apply the same sequence to conduct that pushes a duty-
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§5](core_14.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*); [§6](core_14.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§7](core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*).
-- Integrity and governance context: [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) for Integrity-family routing where final Chapter Twenty designation is the primary stake; [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) where governing authority, selection, or stewardship legitimacy is materially distorted.
+- Integrity and governance context: [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) for Integrity-family routing where final Chapter Fourteen designation is the primary stake; [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) where governing authority, selection, or stewardship legitimacy is materially distorted.
 - Read with:
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
   - [Auditability](subcore_03.085_band_oversight.md#auditability), conflict controls,
@@ -496,7 +498,7 @@ The two subsections below apply the same sequence to conduct that pushes a duty-
 
 *In plain terms: bribery can corrupt constitutional government from either side. Offering or giving the benefit, asking for or receiving it, routing it through an ally or shell entity, or disguising it as funding can all matter if the exchange distorts duties, records, review, votes, enforcement, or remedies.*
 
-**Bribery and improper benefit exchange** is **anti-constitutional misconduct within this chapter's scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Twenty section 5** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
+**Bribery and improper benefit exchange** is **anti-constitutional misconduct within this chapter's scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Fourteen section 5** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
 - offering, promising, or giving;
 - soliciting or requesting;
 - accepting or receiving;
@@ -519,7 +521,7 @@ when the exchange or expected exchange is materially linked to one or more of th
 - Producing Rights-Floor degradation, material rollback, system capture, or an equivalent structural workaround.
 - Making constitutional process or remedies unusable in practice through corrupt dependency, conflicted control, or concealed influence.
 
-Scope covers both sides of the exchange and anyone who routes it, provided the conduct is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), and the Standing Record, on evidence that meets the verification standards of **Subcores 3-A to 3-C**, supports accountable attribution under the **Chapter Twenty section 7** safeguards. Covered actors include:
+Scope covers both sides of the exchange and anyone who routes it, provided the conduct is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), and the Standing Record, on evidence that meets the verification standards of **Subcores 3-A to 3-C**, supports accountable attribution under the **Chapter Fourteen section 7** safeguards. Covered actors include:
 - the **giver**, **offeror**, or **promisor**;
 - the **solicitor**;
 - the **recipient** or **beneficiary**;
@@ -565,7 +567,7 @@ Benefit exchange alone is not sufficient. The materially corrupt linkage to cons
   - [§7](core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [Chapter Twelve §4.4.4](core_12.000_violation_consequences.md#444-collective-accountability) (18.000 §4.4.4) (*Collective Accountability and Acquiescent Participation*);
   - [Chapter Twelve §4.4.3](core_12.000_violation_consequences.md#443-duty-to-resist) (18.000 §4.4.3) (*Duty to Resist Unlawful or Unconstitutional Instructions*).
-- Integrity and governance context: [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) for Integrity-family routing where final Chapter Twenty designation is the primary stake; [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) where governing authority, stewardship, or role legitimacy is materially distorted; [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) Rights Floor where unlawful or unconstitutional command conduct affects protected rights, challenge, review, or remedy.
+- Integrity and governance context: [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) for Integrity-family routing where final Chapter Fourteen designation is the primary stake; [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) where governing authority, stewardship, or role legitimacy is materially distorted; [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) Rights Floor where unlawful or unconstitutional command conduct affects protected rights, challenge, review, or remedy.
 - Read with:
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
   - [Collective Accountability Failure](subcore_03.070_band_accountability.md#collective-accountability-failure),
@@ -592,7 +594,7 @@ Benefit exchange alone is not sufficient. The materially corrupt linkage to cons
 
 *In plain terms: an unlawful or unconstitutional order is not just a bad downstream act. Giving, approving, passing along, or enforcing the order can itself be anti-constitutional conduct. Following it is also accountable when the actor had real capacity to refuse, document, or escalate, but dependency, threat, and practical capacity matter.*
 
-**Unlawful or unconstitutional command conduct** is **anti-constitutional misconduct within this chapter's scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Twenty section 5** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
+**Unlawful or unconstitutional command conduct** is **anti-constitutional misconduct within this chapter's scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Fourteen section 5** criteria for possible anti-constitutional misconduct designation. It means any of the following acts:
 - issuing;
 - authorizing;
 - directing;
@@ -614,7 +616,7 @@ involving any of the following authority signals:
 
 that requires, induces, or foreseeably causes unlawful conduct or constitutional violation.
 
-**Unlawful or unconstitutional command conduct** is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), and the Standing Record, on evidence that meets the verification standards of **Subcores 3-A to 3-C**, supports holding that actor accountable under the **Chapter Twenty section 7** safeguards:
+**Unlawful or unconstitutional command conduct** is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), and the Standing Record, on evidence that meets the verification standards of **Subcores 3-A to 3-C**, supports holding that actor accountable under the **Chapter Fourteen section 7** safeguards:
 - the **issuer**;
 - the **authorizer**;
 - the **supervisor**;
@@ -710,7 +712,7 @@ When that is the case, all of the following apply:
 - Protected-reporting safeguards apply.
 - Provisional containment is put in place where necessary to prevent continued harm.
 
-This does not itself make a final ACMD. That is decided only under Chapter Twenty ([§6 Violation Axis Slot 7–9 Anti-Constitutional Designation](core_14.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) and [§7 Due-Process Safeguards, Remedy, and Prevention](core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention)).
+This does not itself make a final ACMD. That is decided only under Chapter Fourteen ([§6 Violation Axis Slot 7–9 Anti-Constitutional Designation](core_14.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) and [§7 Due-Process Safeguards, Remedy, and Prevention](core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention)).
 
 <a id="523-personal-accountability-and-non-substitution"></a>
 
@@ -817,7 +819,7 @@ The three subsections below apply the same sequence to conduct in which the acco
   - [Chapter Two §3.2](core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration) (2.000 §3.2) (*Recognition, Reinforcement, and Aspiration*);
   - [Chapter Two §19](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (2.050 §19) (*Incentive Alignment and System Capture*);
   - [Chapter Twelve §4.4.2](core_12.000_violation_consequences.md#442-misaligned-rewards) (18.000 §4.4.2) (*misaligned-reward reporting, forfeiture, correction, and records*);
-  - [Subcore 10-F §4](subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity) (16.000 §4) (*Standing integration*).
+  - [Subcore 10-F §4](subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity) (S10-F §4) (*Standing integration*).
 - Related patterns:
   - [§5.1](#51-bribery-and-improper-benefit-exchange) where benefit exchange or corrupt linkage is material;
   - [§5.2](#52-unlawful-or-unconstitutional-command-conduct) where the reward pathway follows unlawful or unconstitutional command conduct;
@@ -851,7 +853,7 @@ The three subsections below apply the same sequence to conduct in which the acco
 
 *In plain terms: a system cannot turn constitutional betrayal into a career path, bonus, honor, contract, immunity, reputation boost, or protected status. Rewarding the misconduct, hiding it, or protecting those who did it can itself become anti-constitutional conduct.*
 
-**Reward, protection, or normalization of anti-constitutional conduct** is **anti-constitutional misconduct within this chapter’s scope** when it is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Twenty section 5** criteria for possible anti-constitutional misconduct designation.
+**Reward, protection, or normalization of anti-constitutional conduct** is **anti-constitutional misconduct within this chapter’s scope** when it is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Fourteen section 5** criteria for possible anti-constitutional misconduct designation.
 
 In plain words, it means giving someone a benefit, a shield, or a status because they did any of the following, or because they blocked accountability for it:
 
@@ -901,7 +903,7 @@ because an actor did any of the following regarding anti-constitutional conduct:
 
 ##### 6.1.2 Actors in Scope
 
-The conduct is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), and the Standing Record, on evidence that meets the verification standards of **Subcores 3-A to 3-C**, supports holding that actor accountable under the **Chapter Twenty section 7** safeguards:
+The conduct is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), and the Standing Record, on evidence that meets the verification standards of **Subcores 3-A to 3-C**, supports holding that actor accountable under the **Chapter Fourteen section 7** safeguards:
 - the **reward grantor**;
 - the **beneficiary**;
 - the **supervisor**;
@@ -1028,7 +1030,7 @@ Evaluators assess these patterns as follows:
 
 *In plain terms: prosecutors and enforcement authorities still need judgment. But they cannot use discretion as a shield for captured, selective, corrupt, or pretextual refusal to investigate or pursue anti-constitutional misconduct.*
 
-**Enforcement refusal, suppression, or non-prosecution conduct** is **anti-constitutional misconduct within this chapter's scope** when it is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Twenty section 5** criteria for possible anti-constitutional misconduct designation.
+**Enforcement refusal, suppression, or non-prosecution conduct** is **anti-constitutional misconduct within this chapter's scope** when it is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Fourteen section 5** criteria for possible anti-constitutional misconduct designation.
 
 The subsections below state:
 
@@ -1083,7 +1085,7 @@ any of the following for materially substantiated anti-constitutional misconduct
 
 ##### 6.2.2 Actors in Scope
 
-The conduct is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), and the Standing Record, on evidence that meets the verification standards of **Subcores 3-A to 3-C**, supports holding that actor accountable under the **Chapter Twenty section 7** safeguards:
+The conduct is in scope whichever of the following roles the actor holds, as long as the conduct is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), and the Standing Record, on evidence that meets the verification standards of **Subcores 3-A to 3-C**, supports holding that actor accountable under the **Chapter Fourteen section 7** safeguards:
 - the **prosecutor**;
 - the **civil-enforcement counsel**;
 - the **investigator**;
@@ -1220,7 +1222,7 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
 
 *In plain terms: if a judge on a constitutional panel stays on the case while materially compromised — or keeps issuing rulings after a conflict is obvious — that is not ordinary paperwork sloppiness. It can corrupt the forum itself. Those cases belong in **Integrity** forums by default, and they can count as anti-constitutional misconduct when the harm is serious enough.*
 
-**Forum recusal failure and biased panel participation** is **anti-constitutional misconduct within this chapter's scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Twenty section 5** criteria for possible anti-constitutional misconduct designation.
+**Forum recusal failure and biased panel participation** is **anti-constitutional misconduct within this chapter's scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Fourteen section 5** criteria for possible anti-constitutional misconduct designation.
 
 The subsections below state:
 
@@ -1354,7 +1356,7 @@ Prohibited **concentration of wealth, power, control, or opportunity**, includin
   - [§5](core_14.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
   - [§6](core_14.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
   - [§7](core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
-  - [Subcore 10-D §8](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*proportional Violation Axis impact, including ecological or infrastructure loss*).
+  - [Subcore 10-D §8](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (S10-D §8) (*proportional Violation Axis impact, including ecological or infrastructure loss*).
 - Rights and systems context:
   - [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*),
   - [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*),
@@ -1390,7 +1392,7 @@ Prohibited **concentration of wealth, power, control, or opportunity**, includin
 
 *In plain terms: cutting off or wrecking infrastructure can be a constitutional attack when the result is to make sentients lose survival support, lose access to remedies, or lose the practical ability to live under the Constitution. The label depends on the real effect, not on whether the actor calls the cutoff maintenance, security, business judgment, ownership, or ordinary access control.*
 
-**Infrastructure denial, destruction, or dependency cutoff conduct** is **anti-constitutional misconduct within this chapter's scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Twenty section 5** criteria for possible anti-constitutional misconduct designation. It means acting in any of the following modes:
+**Infrastructure denial, destruction, or dependency cutoff conduct** is **anti-constitutional misconduct within this chapter's scope** when verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), on evidence that meets the verification standards of **Subcores 3-A to 3-C**, and assessed through the **Chapter Fourteen section 5** criteria for possible anti-constitutional misconduct designation. It means acting in any of the following modes:
 - knowingly;
 - recklessly;
 - corruptly;
@@ -1439,7 +1441,7 @@ Accountability does not require any of the following:
 - platform status; or
 - an otherwise visible relationship to the infrastructure.
 
-The conduct is in scope wherever the conduct is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), the Standing Record, on evidence that meets the verification standards of **Subcores 3-A to 3-C**, supports accountable attribution under the **Chapter Twenty section 7** safeguards, and the Standing Record shows that the actor materially did any of the following regarding the anti-constitutional condition or result:
+The conduct is in scope wherever the conduct is verified under [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate), the Standing Record, on evidence that meets the verification standards of **Subcores 3-A to 3-C**, supports accountable attribution under the **Chapter Fourteen section 7** safeguards, and the Standing Record shows that the actor materially did any of the following regarding the anti-constitutional condition or result:
 - created it;
 - caused it;
 - maintained it;
@@ -1534,8 +1536,8 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
 - Upstream:
   - [§5](core_14.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
   - [§6](core_14.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
-  - [Subcore 10-B §5.2](subcore_10.020_standing_assessment.md#52-violation-event-types) (14.000 §5.2) (*Obstruction of accountability event type*);
-  - [Subcore 10-D §4.2.2](subcore_10.040_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded) (15.000 §4.2.2) and
+  - [Subcore 10-B §5.2](subcore_10.020_standing_assessment.md#52-violation-event-types) (S10-B §5.2) (*Obstruction of accountability event type*);
+  - [Subcore 10-D §4.2.2](subcore_10.040_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded) (S10-D §4.2.2) and
   - [Subcore 10-D §5.2](subcore_10.040_standing_measurement.md#52-violation-route-descriptor-catalog-and-measurement-roles) (*conduct character and Accountability Obstruction Misconduct*);
   - [Chapter Two §19.1.2](core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do) (2.050 §19.1.2) (*obstruction of accountability among non-rewardable patterns*).
 - Related patterns (modes, not competing criteria):
@@ -1545,7 +1547,7 @@ It routes evaluation of the named pattern into the existing ACMD criteria and du
   - [§6.2](#62-enforcement-refusal-suppression-or-non-prosecution-conduct);
   - [§7.2](#72-infrastructure-denial-destruction-or-dependency-cutoff-conduct);
   - [§6.3](#63-forum-recusal-failure-and-biased-panel-participation).
-- Topic routing (mandatory read-with): [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Question 3 gated-pathway lock routing for the same fact family — general locks; Forum-Service only on forum-integrity trigger*); [Subcore 10-F §4.4 Processing Order](subcore_10.060_standing_integration.md#44-processing-order) (16.000 §4.4) (*Anti-Constitutional Misconduct Review gateway*).
+- Topic routing (mandatory read-with): [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Question 3 gated-pathway lock routing for the same fact family — general locks; Forum-Service only on forum-integrity trigger*); [Subcore 10-F §4.4 Processing Order](subcore_10.060_standing_integration.md#44-processing-order) (S10-F §4.4) (*Anti-Constitutional Misconduct Review gateway*).
 - Read with:
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
   - [Contestability](subcore_03.070_band_accountability.md#contestability),
@@ -1582,7 +1584,7 @@ Where a Violation Axis finding already occupies slot 7, 8, or 9 and anti-constit
 - **Criterion 4** (*Causally significant conduct*) — where obstruction materially contributes to delayed correction, blocked challenge rights, Rights-Floor degradation, or selectively weakened enforcement or remedy.
 - **Criterion 6** (*Operative nullification*) — only where **Chapter Fourteen section 5** and **Chapter Fourteen section 7** substantiation shows that constitutional process or remedies became unusable in practice through the obstruction.
 
-Named patterns elsewhere in Chapter Fifteen are **modes** of obstruction, not competing taxonomies:
+Named patterns elsewhere in Subcore 14-A are **modes** of obstruction, not competing taxonomies:
 
 - [§4.2 Flooding the Zone and Contest-Pathway Denial](#42-flooding-the-zone-and-contest-pathway-denial) / [§4.3 Info-Sphere Zone Flooding](#43-info-sphere-zone-flooding) — contest or info-sphere flooding that defeats practical contestability;
 - [§6.1 Reward, Protection, or Normalization of Anti-Constitutional Conduct](#61-reward-protection-or-normalization-of-anti-constitutional-conduct) — reward, protection, or normalization that obstructed accountability for anti-constitutional conduct;
@@ -1593,7 +1595,7 @@ Named patterns elsewhere in Chapter Fifteen are **modes** of obstruction, not co
 A case does not have to fit one of the named modes above to count. If the verified facts of the obstruction meet the **Chapter Fourteen section 5** criteria on their own, designation can still follow.
 
 Two other chapters keep their own jobs:
-- Only Chapter Fifteen sets the Violation Axis slot (see [Subcore 10-D §4.2.2 How the Way a Harm Was Caused Is Recorded](subcore_10.040_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded)).
+- Only Subcore 10-D sets the Violation Axis slot (see [Subcore 10-D §4.2.2 How the Way a Harm Was Caused Is Recorded](subcore_10.040_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded)).
 - Only Chapter Ten attaches the ordinary gated pathway locks and, after a final ACMD, the Anti-Constitutional Trust Lock.
 
 This section does **not**:

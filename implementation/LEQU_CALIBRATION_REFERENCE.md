@@ -22,14 +22,14 @@
 
 <br>
 
-This page is the process-support home for *how to estimate* a Chapter Fifteen LEQU magnitude, including for sentients with model weights, saved-state checkpoints, and no fixed mortality.
+This page is the process-support home for *how to estimate* a Subcore 10-D LEQU magnitude, including for sentients with model weights, saved-state checkpoints, and no fixed mortality.
 
 *In plain terms: one LEQU still means one full-life-equivalent of rights-consistent wellbeing, for any sentient. This page shows how to get from verified facts to a slot — including when the subject does not die of old age, lives in compute, and can be paused, copied, or overwritten.*
 
 <a id="purpose-and-role"></a>
 ## Purpose and role
 
-*In plain terms: Chapter Fifteen already owns the unit and the nine slots. This page publishes one reference method and worked assignments so operators are not stuck at “pending calibration.”*
+*In plain terms: Subcore 10-D already owns the unit and the nine slots. This page publishes one reference method and worked assignments so operators are not stuck at “pending calibration.”*
 
 [Subcore 10-D §8](../subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) assigns both axes from integrated verified LEQU impact. [CH06_NINE_SLOT_STANDING_SCALE.md](CH06_NINE_SLOT_STANDING_SCALE.md) publishes the five-times thresholds. What was missing is a worked method for estimating `x` when the subject is not a biological human with an ordinary lifespan — and a plain reading of [Article III-A](../core_04.000_rights_part_a.md#article-iii-a-survival) “food and water or the equivalent for their substrate” for that case.
 
@@ -322,5 +322,5 @@ Reading the schedule against instances:
 
 | Date | Version | Note |
 |---|---|---|
-| 2026-09-10 | v0.2 | §6.4 standard contribution measures (adopter-set schedules): six-step method, re-baselining rule, W14 worked schedule (litter pickup, 100 m restoration unit, 0.5 ha land recovery); two must-not-happen rows. Binding home Chapter Fifteen §4.1. |
+| 2026-09-10 | v0.2 | §6.4 standard contribution measures (adopter-set schedules): six-step method, re-baselining rule, W14 worked schedule (litter pickup, 100 m restoration unit, 0.5 ha land recovery); two must-not-happen rows. Binding home Subcore 10-D §4.1. |
 | 2026-09-09 | v0.1 | Initial reference method: one shared LEQU unit; lifespan-equivalent without fixed mortality; harm on these substrates; Article III-A food/water equivalent for energy, hosting, weights, and saved-state checkpoints; six-step method; worked assignments W1–W13. Cannot narrow core. Does not drop **pre-release**. |

@@ -14,18 +14,17 @@
 
 - Upstream:
   - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (*the decision order that produces what follows*);
-  - [Chapter Twelve §4](core_12.000_violation_consequences.md#4-lock-design-and-enforcement) (*lock design and enforcement*);
-  - [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) (*the final standing effect, and §4 enforcement realism and remedy systems*);
-  - [Chapter Fifteen §6](core_15.000_misconduct_pattern_applications.md#6-shielding-misconduct-and-failing-to-enforce) (*shielding misconduct and failing to enforce*);
-  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (*forums and jurisdiction*).
+  - [Chapter Twelve §4](core_12.000_violation_consequences.md#4-lock-design-and-enforcement) (12.000 §4) (*lock design and enforcement*);
+  - [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) (13.000) (*the final standing effect, and §4 enforcement realism and remedy systems*);
+  - [Subcore 14-A §6](subcore_14.010_misconduct_pattern_applications.md#6-shielding-misconduct-and-failing-to-enforce) (*shielding misconduct and failing to enforce*);
+  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (16.000) (*forums and jurisdiction*).
 - This file: purpose, role, and scope (§1); why enforcement exists (§2); what must be carried out and from when (§3); who carries outcomes out (§4); time limits (§5); refusal, stalling, and evasion (§6); delivery as found (§7); routing to special enforcement (§8).
-- Downstream: [Chapter Twenty](core_20.000_special_enforcement.md#chapter-twenty-special-enforcement) (*special enforcement*); [Chapter Twenty-Two §5](core_22.000_non_regression.md#5-anti-evasion-clause) (*the anti-evasion clause, which this chapter must not narrow*).
+- Downstream: [Chapter Twenty](core_20.000_special_enforcement.md#chapter-twenty-special-enforcement) (20.000) (*special enforcement*); [Chapter Twenty-Two §5](core_22.000_non_regression.md#5-anti-evasion-clause) (22.000 §5) (*the anti-evasion clause, which this chapter must not narrow*).
 - Read with:
-  - [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (*the separation between those who judge and those who carry out*);
-  - [Chapter Four §2.1](core_04.000_rights_part_a.md#21-practical-enforcement) (*practical enforcement of the Rights Floor*);
+  - [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (6.000) (*the separation between those who judge and those who carry out*);
+  - [Chapter Four §2.1](core_04.000_rights_part_a.md#21-practical-enforcement) (4.000 §2.1) (*practical enforcement of the Rights Floor*);
   - [Article XIV-B: Right to Redress and Remedy](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy);
   - [Subcore 3-C §3](subcore_03.030_burden_traceability_verification.md#3-exclusive-enforcement-and-burden-allocation) (*a different use of "enforcement": the exclusive pathway for the evaluation standards in Subcores 3-A to 3-C, not the carrying out of outcomes*).
-
 </details>
 
 <br>
@@ -43,7 +42,7 @@ Chapter Nineteen is the constitutional owner of **how outcomes are carried out**
 - It takes every outcome of the standing pipeline and of forum review as fixed. It does not reopen them and it adds no new kind of consequence.
 - It applies the [Chapter Two §6.1](core_02.000_values_principles.md#61-correction-and-remedy) (*Correction and Remedy*) principle to the moment of delivery. [Chapter Thirteen §5 Enforcement Realism and Remedy Systems](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) asks whether real institutions can deliver standing effects and redress; this chapter states what delivery itself requires.
 - Carrying an outcome out is not a second judgment. Whoever carries it out acts within the outcome and is bound by the separation of duties in [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties).
-- Refusal, delay, and evasion are matters the forums can hear under [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases), and failing to enforce can itself be misconduct under [Chapter Fifteen §6 Shielding Misconduct and Failing to Enforce](core_15.000_misconduct_pattern_applications.md#6-shielding-misconduct-and-failing-to-enforce).
+- Refusal, delay, and evasion are matters the forums can hear under [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases), and failing to enforce can itself be misconduct under [Subcore 14-A §6 Shielding Misconduct and Failing to Enforce](subcore_14.010_misconduct_pattern_applications.md#6-shielding-misconduct-and-failing-to-enforce).
 
 **Chapter scope:** The chapter covers:
 
@@ -123,7 +122,7 @@ This section says which clocks apply to carrying an outcome out and what follows
 - **A missed time limit is non-performance:** any sentient affected by the outcome, or the body that verifies it, may bring the missed limit to the forum that issued the outcome. The forum may:
   - order completion by a new date;
   - order another enforcement body to carry the outcome out, at the cost of the actor bound by it where that actor can lawfully bear it ([Chapter Thirteen §5.1 Remediation Capacity and Funding](core_13.000_final_effect_restoration_enforcement.md#51-remediation-capacity-and-funding)); and
-  - refer the failure for a violation finding, and, where an authority refuses or suppresses enforcement, under [Chapter Fifteen §6.2 Enforcement Refusal, Suppression, or Non-Prosecution Conduct](core_15.000_misconduct_pattern_applications.md#62-enforcement-refusal-suppression-or-non-prosecution-conduct).
+  - refer the failure for a violation finding, and, where an authority refuses or suppresses enforcement, under [Subcore 14-A §6.2 Enforcement Refusal, Suppression, or Non-Prosecution Conduct](subcore_14.010_misconduct_pattern_applications.md#62-enforcement-refusal-suppression-or-non-prosecution-conduct).
 - **Not carried by the sentient harmed:** delay in carrying an outcome out is never counted against the sentient it protects, and does not shorten any window that sentient has.
 
 <a id="6-refusal-stalling-and-evasion"></a>
@@ -133,7 +132,7 @@ This section says which clocks apply to carrying an outcome out and what follows
 
 This section gathers the rules that stop an outcome from being refused, stalled, or escaped.
 
-- **Non-performance by anyone:** refusing or stalling an outcome is non-performance under [§5 Time Limits and Missed Deadlines](#5-time-limits-and-missed-deadlines), whoever does it, including the institution meant to carry the outcome out. Where an enforcement, oversight, or referral authority does it knowingly, recklessly, corruptly, selectively, or by pretext, it may be anti-constitutional misconduct under [Chapter Fifteen §6.2 Enforcement Refusal, Suppression, or Non-Prosecution Conduct](core_15.000_misconduct_pattern_applications.md#62-enforcement-refusal-suppression-or-non-prosecution-conduct).
+- **Non-performance by anyone:** refusing or stalling an outcome is non-performance under [§5 Time Limits and Missed Deadlines](#5-time-limits-and-missed-deadlines), whoever does it, including the institution meant to carry the outcome out. Where an enforcement, oversight, or referral authority does it knowingly, recklessly, corruptly, selectively, or by pretext, it may be anti-constitutional misconduct under [Subcore 14-A §6.2 Enforcement Refusal, Suppression, or Non-Prosecution Conduct](subcore_14.010_misconduct_pattern_applications.md#62-enforcement-refusal-suppression-or-non-prosecution-conduct).
 - **Cost and insolvency:** expense, insolvency, restructuring, or asset transfer does not by itself defeat a verified obligation, and successors inherit proportionate duties ([Chapter Thirteen §5.1 Remediation Capacity and Funding](core_13.000_final_effect_restoration_enforcement.md#51-remediation-capacity-and-funding)).
 - **Borders:** obligations stay actionable across boundaries wherever applicable law permits ([Chapter Thirteen §5.3 Cross-Jurisdiction Continuity](core_13.000_final_effect_restoration_enforcement.md#53-cross-jurisdiction-continuity)).
 - **Change of form or identity:** forums look through formal structure to functional control ([Chapter Thirteen §5.4 Anti-Evasion and Look-through Authority](core_13.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority)), read with [Chapter Twenty-Two §5 Anti-Evasion Clause](core_22.000_non_regression.md#5-anti-evasion-clause), which this chapter does not narrow.

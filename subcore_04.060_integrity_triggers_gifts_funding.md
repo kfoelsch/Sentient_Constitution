@@ -46,7 +46,7 @@ Capture rarely announces itself. It arrives as a gift, a funding cut after an un
 
 ### 3. Integrity Trigger Categories
 
-*In plain terms: institutions use a common set of trigger labels — corruption, fraud, self-dealing, procurement capture, and the rest — so training, control maps, and routing stay consistent. Shared cross-layer routing lives in **CJS-3.110 §6** (*integrity assurance and resilience operations*); Standing Records and measurement remain in **Chapter Fourteen** and **Chapter Fifteen**; **Chapter Twenty** owns the separate misconduct designation.*
+*In plain terms: institutions use a common set of trigger labels — corruption, fraud, self-dealing, procurement capture, and the rest — so training, control maps, and routing stay consistent. Shared cross-layer routing lives in **CJS-3.110 §6** (*integrity assurance and resilience operations*); Standing Records and measurement remain in **Chapter Fourteen** and **Subcore 10-D**; **Chapter Twenty** owns the separate misconduct designation.*
 
 These are the integrity trigger categories every institution uses in its control maps and training under [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*). Apply **CJS-3.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) **Integrity-trigger routing chain** for shared cross-layer traceability.
 
@@ -106,7 +106,7 @@ Entries are made within the 30-day **gift-register entry window**, counted from 
 
 **Funding-change log:** Each funder, budget authority, or paying body of a covered body keeps a public funding-change log of every change to that body's funding, with the date, the amount, and the published reason. The log must let a reader see whether a change followed a decision adverse to the funder.
 
-**Routing:** A violation of these rules is an integrity trigger under [§3 Integrity Trigger Categories](#3-integrity-trigger-categories). Offering, accepting, or routing a benefit tied to a matter may also be alleged as bribery or improper benefit exchange under [Chapter Fifteen §5.1](core_15.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*).
+**Routing:** A violation of these rules is an integrity trigger under [§3 Integrity Trigger Categories](#3-integrity-trigger-categories). Offering, accepting, or routing a benefit tied to a matter may also be alleged as bribery or improper benefit exchange under [Subcore 14-A §5.1](subcore_14.010_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*).
 
 ---
 

@@ -1,4 +1,4 @@
-# Chapter Fifteen — nine-slot standing score scale (adopted implementation)
+# Subcore 10-D — nine-slot standing score scale (adopted implementation)
 
 **Status:** Adopted implementation (non-core). **Authoritative** meaning remains in [Subcore 10-B](../subcore_10.020_standing_assessment.md) and [Subcore 10-F](../subcore_10.060_standing_integration.md). Separate contribution and violation Standing Records use the same [Subcore 10-D §8 unified proportional LEQU scale](../subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes): nine impact slots, a **5x** progression, and **s = 7 = 1 LEQU**. The axes remain separate and may not offset.
 
@@ -9,8 +9,8 @@
 **Constitutional guardrails (summary)**
 
 - **Verified inputs only** (demonstrable Contribution Axis; [Violation Nature](../subcore_03.070_band_accountability.md#violation-nature) for the Violation Axis) per [Verified inputs for standing](../subcore_10.020_standing_assessment.md#45-verified-input-gate).
-- **Constitutional-outcome baseline controls.** Both axes use the unified Chapter Fifteen thresholds. Numeric estimates must not count raw efficiency, output, prestige, wealth, utilization, burden shifting, allegations, or disfavored status as impact.
-- **Recency and currentness** apply only at **Question 3** as gate/readiness inputs under [Chapter Eleven §3.1](../core_11.000_contribution_consequences.md#31-recency-and-currentness). They must not alter a Chapter Fourteen contribution Standing Record, or a Chapter Fifteen Contribution Axis slot, LEQU measurement, descriptor, or historical recognition. Any stored recency-weighted `C*` value is legacy interoperability data only and must not derive a slot.
+- **Constitutional-outcome baseline controls.** Both axes use the unified Subcore 10-D thresholds. Numeric estimates must not count raw efficiency, output, prestige, wealth, utilization, burden shifting, allegations, or disfavored status as impact.
+- **Recency and currentness** apply only at **Question 3** as gate/readiness inputs under [Chapter Eleven §3.1](../core_11.000_contribution_consequences.md#31-recency-and-currentness). They must not alter a Chapter Fourteen contribution Standing Record, or a Subcore 10-D Contribution Axis slot, LEQU measurement, descriptor, or historical recognition. Any stored recency-weighted `C*` value is legacy interoperability data only and must not derive a slot.
 - **Unresolved** violation findings are **not** time-discounted for standing integration.
 - **Do not** net contribution against violation; **do not** **average** or **substitute** axes. Decide violation remedy, correction, and locks from the violation record alone, and contribution currentness and competency bars and clearances from the contribution record, per [Subcore 10-F §4](../subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity). An applicable lock controls.
 
@@ -70,9 +70,9 @@ Chapter Twenty may attach a corresponding anti-constitutional-misconduct designa
 
 ## 3. Contribution measurement and baseline requirements
 
-Let **`C_measure`** be the Chapter Fifteen integrated verified contribution benefit in **LEQU**, without Chapter Sixteen recency or currentness adjustment. Let **`C\_unit` > 0** be a display scalar, with default **`C_unit = 1 LEQU`**. Existing fields or records named **`C*`** remain readable for interoperability, but if they contain recency weighting they are legacy analytics only and must not derive, raise, or lower a Chapter Fifteen slot.
+Let **`C_measure`** be the Subcore 10-D integrated verified contribution benefit in **LEQU**, without Chapter Sixteen recency or currentness adjustment. Let **`C\_unit` > 0** be a display scalar, with default **`C_unit = 1 LEQU`**. Existing fields or records named **`C*`** remain readable for interoperability, but if they contain recency weighting they are legacy analytics only and must not derive, raise, or lower a Subcore 10-D slot.
 
-`C_measure` units must be calibrated to constitutional-outcome benefit under core **Chapter Fifteen §§6 and 3.2**. **1 LEQU** means one substrate-agnostic full-life-equivalent constitutional benefit. An implementation may use a current ordinary human lifespan as a biological-human calibration example, but the operative benchmark is the substrate-agnostic **full-life-equivalent constitutional benefit** stated in the core. Claims based on efficiency, burden reduction, productive capacity, or innovation must be discounted or rejected when they depend on Rights-Floor narrowing, Safety or Truth degradation, discriminatory burden shifting, ecological depletion, opacity, capture, or loss of contestability.
+`C_measure` units must be calibrated to constitutional-outcome benefit under core **Subcore 10-D §§6 and 3.2**. **1 LEQU** means one substrate-agnostic full-life-equivalent constitutional benefit. An implementation may use a current ordinary human lifespan as a biological-human calibration example, but the operative benchmark is the substrate-agnostic **full-life-equivalent constitutional benefit** stated in the core. Claims based on efficiency, burden reduction, productive capacity, or innovation must be discounted or rejected when they depend on Rights-Floor narrowing, Safety or Truth degradation, discriminatory burden shifting, ecological depletion, opacity, capture, or loss of contestability.
 
 **Minimum** **`C_measure`** to qualify for at least slot `s` follows the shared `T(s)` formula above:
 
@@ -98,9 +98,9 @@ This anchors **s = 7** at **1 LEQU** and applies a **5x** multiplier per slot on
 | 8 | 5 | 400 years |
 | 9 | 25 | 2,000 years |
 
-**Contribution requirements.** `C_measure` supplies the numeric candidate impact band, while contribution recognition also requires the applicable baseline-state, traceability, non-externalization, and constitutional-alignment findings in core **Chapter Fifteen §8**. No numeric threshold turns constitutionally defeated output into contribution. Chapter Sixteen currentness affects only a named gate or readiness decision, and is not an input to violation consequences.
+**Contribution requirements.** `C_measure` supplies the numeric candidate impact band, while contribution recognition also requires the applicable baseline-state, traceability, non-externalization, and constitutional-alignment findings in core **Subcore 10-D §8**. No numeric threshold turns constitutionally defeated output into contribution. Chapter Sixteen currentness affects only a named gate or readiness decision, and is not an input to violation consequences.
 
-**Default nest** **of** **Chapter Fifteen** **Contribution Axis** **primary** **bands** (four bands) **into** **slot** **ranges**:
+**Default nest** **of** **Subcore 10-D** **Contribution Axis** **primary** **bands** (four bands) **into** **slot** **ranges**:
 
 | Primary band | Slot range (inclusive) |
 | --- | ---: |
@@ -109,7 +109,7 @@ This anchors **s = 7** at **1 LEQU** and applies a **5x** multiplier per slot on
 | **C-SP** | 5–6 |
 | **C-CH** | 7–9 |
 
-A **record** that **only** has **primary** **band** **typing** may set **`nine_slot.contribution_slot`** to the **top** of the **band**’s **range** **only** **if** neither a `C_measure` candidate threshold nor finer core-criteria assignment is available. Where unweighted `C_measure` is available, it constrains the numeric candidate but does not replace core **Chapter Fifteen §8** criteria. A legacy recency-weighted `C*` value cannot constrain or derive the slot.
+A **record** that **only** has **primary** **band** **typing** may set **`nine_slot.contribution_slot`** to the **top** of the **band**’s **range** **only** **if** neither a `C_measure` candidate threshold nor finer core-criteria assignment is available. Where unweighted `C_measure` is available, it constrains the numeric candidate but does not replace core **Subcore 10-D §8** criteria. A legacy recency-weighted `C*` value cannot constrain or derive the slot.
 
 ---
 

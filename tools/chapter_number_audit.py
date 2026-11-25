@@ -19,6 +19,16 @@ LINK_RE = re.compile(r"\[([^\]]+)\]\(([^)]+)\)")
 CORE_FILE_RE = re.compile(r"core_\d{2}\.\d{3}_[^/]+\.md$")
 CHAPTER_OR_PART_RE = re.compile(r"\b(?:Chapter\s+(?:One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten|Eleven|Twelve|Thirteen|Fourteen|Fifteen|Sixteen|Seventeen|Eighteen|Nineteen|Twenty-One|Twenty-Two|Twenty-Three|Twenty-Four|Twenty-Five|Twenty-Six|Twenty-Seven|Twenty-Nine|Twenty-Eight|Twenty|\d+)|Part\s+[A-E])\b", re.I)
 D14_REFERENCE_RE = re.compile(r"\[[^\]]+\]\([^)]+\)|\*\*(?:Chapter\s+[A-Za-z0-9]+|(?:CF|CI|CJS|CS)-\d+(?:\.\d+)?(?:\s+§\s*\d+(?:\.\d+)*)?)\*\*", re.I)
+CHAPTER_WORDS = (
+    "Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight",
+    "Nine", "Ten", "Eleven", "Twelve", "Thirteen", "Fourteen", "Fifteen",
+    "Sixteen", "Seventeen", "Eighteen", "Nineteen", "Twenty-One", "Twenty-Two",
+    "Twenty-Three", "Twenty-Four", "Twenty-Five", "Twenty-Six", "Twenty-Seven",
+    "Twenty-Eight", "Twenty-Nine", "Thirty", "Thirty-One",
+)
+CHAPTER_WORD_NUMBERS = {word.casefold(): n for n, word in enumerate(CHAPTER_WORDS)}
+CHAPTER_LABEL_RE = re.compile(r"\bChapter\s+(" + "|".join(re.escape(w) for w in sorted(CHAPTER_WORDS, key=len, reverse=True)) + r"|\d+)\b", re.I)
+LEGACY_SUBCORE_ID_RE = re.compile(r"^\s*\((\d{1,2}\.\d{3})(?:\s+§[^)]*)?\)")
 
 
 def display(number: str) -> str:
@@ -26,6 +36,7 @@ def display(number: str) -> str:
 
 
 def run(root: Path, fail: bool) -> int:
+    root = root.resolve()
     data = json.loads((root / REGISTRY).read_text())
     rows = data.get("chapters", [])
     problems: list[str] = []
@@ -37,6 +48,11 @@ def run(root: Path, fail: bool) -> int:
         row.get("destination_file", ""): row.get("display_id", "")
         for row in rows
         if row.get("layer") == "CORE"
+    }
+    subcore_rows = {
+        row.get("destination_file", ""): row
+        for row in rows
+        if row.get("layer") == "SUBCORE"
     }
     for row in rows:
         layer = row.get("layer")
@@ -100,6 +116,51 @@ def run(root: Path, fail: bool) -> int:
                 headings = [section.get("header", "") for section in manifest.get(destination, {}).get("sections", [])]
                 if row.get("legacy_section_ids") and not any(header.startswith(row["display_id"]) for header in headings):
                     problems.append(f"{destination}: no manifest heading carries {row['display_id']}")
+    # Linked subcore citations must use their current Chapter home. A historical
+    # chapter number in the link label or its adjacent dotted citation survived
+    # the 2026 consolidation in ordinary prose, outside the original Trace-only
+    # check, so inspect all local Markdown links in the binding corpus.
+    candidates = list(root.glob("core_*.md")) + list(root.glob("subcore_*.md"))
+    for folder in PREFIX_DIR.values():
+        candidates.extend((root / folder).glob("*.md"))
+    for path in candidates:
+        source_rel = path.relative_to(root).as_posix()
+        text = path.read_text(encoding="utf-8", errors="replace")
+        for link in LINK_RE.finditer(text):
+            label, target = link.groups()
+            target_path = target.split("#", 1)[0]
+            if not target_path:
+                continue
+            resolved = (path.parent / target_path).resolve()
+            try:
+                rel_target = resolved.relative_to(root).as_posix()
+            except ValueError:
+                continue
+            row = subcore_rows.get(rel_target)
+            if not row:
+                continue
+            current_home = int(row["core_home"])
+            for chapter_match in CHAPTER_LABEL_RE.finditer(label):
+                token = chapter_match.group(1)
+                number = int(token) if token.isdigit() else CHAPTER_WORD_NUMBERS[token.casefold()]
+                if number != current_home:
+                    line_no = text.count("\n", 0, link.start()) + 1
+                    problems.append(
+                        f"{source_rel}:{line_no}: subcore link to {rel_target} labels it Chapter {token}; current home is Chapter {CHAPTER_WORDS[current_home]}"
+                    )
+            # Dotted chapter IDs were temporary navigation labels, not stable
+            # subcore identities. Flag one only when it immediately follows the
+            # link and exactly matches this row's recorded pre-consolidation ID.
+            tail = text[link.end():]
+            legacy_match = LEGACY_SUBCORE_ID_RE.match(tail)
+            legacy_id = row.get("pre_consolidation_display_id")
+            if (legacy_match and legacy_id and legacy_match.group(1) == legacy_id
+                    and int(legacy_match.group(1).split(".", 1)[0]) != current_home):
+                line_no = text.count("\n", 0, link.end()) + 1
+                problems.append(
+                    f"{source_rel}:{line_no}: subcore link to {rel_target} retains historical chapter ID ({legacy_id})"
+                )
+
     # D13: named core chapter/part links in Trace widgets carry the source
     # file's registry number and, where present, the linked section suffix.
     candidates = list(root.glob("core_*.md"))
@@ -137,8 +198,9 @@ def run(root: Path, fail: bool) -> int:
                     problems.append(f"{source_rel}: Trace link to {rel_target} must carry {expected}")
     counts = {layer: sum(1 for row in rows if row.get("layer") == layer) for layer in ("CORE", "SUBCORE")}
     corpus = len(rows) - counts["CORE"] - counts["SUBCORE"]
-    if (counts["CORE"], counts["SUBCORE"], corpus) != (35, 54, 75):
-        problems.append(f"registry has {counts['CORE']} core, {counts['SUBCORE']} subcore and {corpus} corpus rows; expected 35, 54 and 75")
+    expected = (data.get("expected_core_count"), data.get("expected_subcore_count"), 75)
+    if (counts["CORE"], counts["SUBCORE"], corpus) != expected:
+        problems.append(f"registry has {counts['CORE']} core, {counts['SUBCORE']} subcore and {corpus} corpus rows; expected {expected[0]}, {expected[1]} and {expected[2]}")
     print(f"CHAPTER-NUMBER-01: {len(rows)} registry rows; {len(problems)} findings")
     for problem in problems:
         print(f"  {problem}")

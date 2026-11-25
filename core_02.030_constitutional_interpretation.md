@@ -11,9 +11,8 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Two, Part C](core_02.020_interaction_interpretation.md);
-- Downstream: [Chapter Two, Part E](core_02.040_stewardship_capacity_principles.md).
-
+- Upstream: [Chapter Two, Part C](core_02.020_interaction_interpretation.md) (2.020);
+- Downstream: [Chapter Two, Part E](core_02.040_stewardship_capacity_principles.md) (2.040).
 </details>
 
 <br>
@@ -44,13 +43,12 @@ Chapter Two, Part D is the constitutional owner of **constitutional interpretati
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00.000_preamble.md#material-stake) scaling where materially relevant.
 - Read with:
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status*);
-  - [Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) (*custody, editions, adoption framing* — not a second conflict-order home);
-  - [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (28.000) and
-  - [Chapter Twenty-Four](core_24.000_expansion_supremacy.md#chapter-twenty-four-expansion-supremacy-and-external-legal-orders) (30.000) (*non-regression and adopter hierarchy gates under
+  - [Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)(*custody, editions, adoption framing* — not a second conflict-order home);
+  - [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (22.000)and
+  - [Chapter Twenty-Four](core_24.000_expansion_supremacy.md#chapter-twenty-four-expansion-supremacy-and-external-legal-orders) (24.000)(*non-regression and adopter hierarchy gates under
   - [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution)*).
 - Read with: [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) for institutional interpretation safeguards (not a substitute for this section).
 - Read with: [Chapter Six: Functional Independence and Separation of Duties](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (6.000) — the seat-architecture floor that the anti-bypass list in [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle) protects (not restated here).
-
 </details>
 
 <details>
@@ -80,7 +78,6 @@ Each principle in this chapter applies together with the [Constitutional Tetrad]
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — the bypass list tracks the four legs: **oversight** leg (ordinary scrutiny and auditability); **participation** leg (contestability, practical access, and public-reason duties); **timeliness** leg (timely resolution, and restoration and rollback paths); **accountability** leg (accountability itself, and functional independence and separation of duties under [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (6.000)); [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Downstream: [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle); [§15.1.2 Derived-Information Principle](#1512-derived-information-principle).
-
 </details>
 
 <details>
@@ -176,7 +173,6 @@ Whole-system evaluations must test anti-segmentation under [Subcore 8-B §4 Whol
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg (privacy underpins agency and expression, which reconstruction from combined data would defeat); **accountability** leg (the party relying on a de-identified or aggregate label shows that it holds); [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Upstream: [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle); [§15.1.1 Anti-Segmentation Principle](#1511-anti-segmentation-principle).
 - Downstream: [§13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination); [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling).
-
 </details>
 
 <details>
@@ -410,7 +406,6 @@ The rules below choose among incorporated texts by [Fullest Protective Effect](s
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg (emergency narrowing of incorporated duties must be published); **timeliness** leg (it must be clearly bounded and time-limited, and quiet or open-ended "temporary" narrowing does not count); **accountability** leg (it must be tied to this Constitution and the applicable emergency rules); [material stake](core_00.000_preamble.md#material-stake) scaling.
-
 </details>
 
 <br>

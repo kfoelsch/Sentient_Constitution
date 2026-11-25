@@ -12,7 +12,7 @@ This page is **process support**, not constitutional text. It cannot change or n
 
 ## 2. Sources read
 
-Chapter Twenty §3 (frame, §3.1 no re-measurement, §3.2 exclusive authority), §4 (decision sequence), §5.1–§5.5 (unified incident, catastrophic incident and sustained pattern, six criteria, good-faith drafting carve-out, dissent and protest carve-out), §6 (slot 7–9 designation), §7 (safeguards); [Chapter Fifteen](../../core_15.000_misconduct_pattern_applications.md) §4.2, §4.3 (exclusions), §6.2 (good-faith enforcement decisions), §7.2 (good-faith infrastructure measures); [Article XI-C](../../core_04.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) and [Article XI-D](../../core_04.010_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest); Chapter Fifteen §8 (slot table).
+Chapter Twenty §3 (frame, §3.1 no re-measurement, §3.2 exclusive authority), §4 (decision sequence), §5.1–§5.5 (unified incident, catastrophic incident and sustained pattern, six criteria, good-faith drafting carve-out, dissent and protest carve-out), §6 (slot 7–9 designation), §7 (safeguards); [Subcore 14-A](../../subcore_14.010_misconduct_pattern_applications.md) §4.2, §4.3 (exclusions), §6.2 (good-faith enforcement decisions), §7.2 (good-faith infrastructure measures); [Article XI-C](../../core_04.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) and [Article XI-D](../../core_04.010_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest); Chapter Fifteen §8 (slot table).
 
 ## 3. How a case moves through Chapter Twenty
 

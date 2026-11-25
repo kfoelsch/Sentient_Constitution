@@ -14,9 +14,8 @@
 
 - Upstream: [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (*inputs and decision order*); [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) contribution Standing Records (*Question 1*); [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) measurement (*Question 2*).
 - This file: Question 3 contribution consequences: recency and currentness, and competency bars and clearances.
-- Downstream: [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) (*violation consequences; a lock controls the gated pathway it attaches to*); [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) (*final standing effect*).
+- Downstream: [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) (12.000) (*violation consequences; a lock controls the gated pathway it attaches to*); [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) (13.000) (*final standing effect*).
 - Worked examples (they add no rule): [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): the Question 3 continuation of [CJS-14.105 §8 Riparian cooperative restoration](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-8-riparian-cooperative-restoration-contribution-measurement).
-
 </details>
 
 <br>

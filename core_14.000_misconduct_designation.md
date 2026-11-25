@@ -2,16 +2,16 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Fourteen** — anti-constitutional-misconduct designation (ACMD) decision framework, criteria set, Violation Axis slot 7–9 designation attachment, due-process safeguards, remedy, prevention locks, and voluntary public accountability expression. **Chapter Twenty-One** — named pattern applications and criteria routing — is in [`core_15.000_misconduct_pattern_applications.md`](core_15.000_misconduct_pattern_applications.md#chapter-fifteen-anti-constitutional-misconduct--pattern-applications-and-criteria-routing).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Fourteen** — anti-constitutional-misconduct designation (ACMD) decision framework, criteria set, Violation Axis slot 7–9 designation attachment, due-process safeguards, remedy, prevention locks, and voluntary public accountability expression. **Subcore 14-A** — named pattern applications and criteria routing — is attached to this chapter in [Subcore 14-A](subcore_14.010_misconduct_pattern_applications.md#subcore-14-a-anti-constitutional-misconduct--pattern-applications-and-criteria-routing).
 >
-> - **Constitutional owner (joint with Chapter Fifteen):** final ACMD for Violation Axis slot 7, 8, or 9 findings. Chapter Fourteen owns the ACMD decision model; Chapter Fifteen routes named patterns into that model without adding criteria.
+> - **Constitutional owner (joint with Subcore 14-A):** final ACMD for Violation Axis slot 7, 8, or 9 findings. Chapter Fourteen owns the ACMD decision model; Subcore 14-A routes named patterns into that model without adding criteria.
 > - **Measurement boundary:** Chapter Ten alone assigns the numeric impact slot under its unified proportional LEQU scale. This chapter does **not** replace or alter that measurement.
-> - **Anti-relocation rule:** Chapter Fourteen does not restate Chapter Fifteen pattern catalogs, Chapter Ten standing locks, or Chapters Twenty-Two through Twenty-Four change-path validity rules.
+> - **Anti-relocation rule:** Chapter Fourteen does not restate Subcore 14-A pattern catalogs, Chapter Ten standing locks, or Chapters Twenty-Two through Twenty-Four change-path validity rules.
 >
 > Anti-constitutional misconduct (ACM) at **slot 7, 8, or 9** is **tetrad capture** at scale — read with the [Continuity aim](core_00.000_preamble.md#continuity) under [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Change-path validity interactions continue in [Chapters Twenty-Eight through Thirty](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity); justice constraints remain in [Chapter Four Part D](core_04.030_rights_part_d.md).
 >
 > **Upstream:** Chapter Ten standing measurement; Chapter Ten designation pointer.
-> **Downstream:** [Chapter Fifteen](core_15.000_misconduct_pattern_applications.md#chapter-fifteen-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) (*pattern applications*); Chapter Sixteen Trust Lock and standing-effect integration after final ACMD; Chapter Twenty-Two forum routing; Chapter Twenty-Seven governance legitimacy consequences.
+> **Downstream:** [Subcore 14-A](subcore_14.010_misconduct_pattern_applications.md#subcore-14-a-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) (*pattern applications*); Chapter Sixteen Trust Lock and standing-effect integration after final ACMD; Chapter Twenty-Two forum routing; Chapter Twenty-Seven governance legitimacy consequences.
 
 </details>
 
@@ -35,7 +35,7 @@
 >
 > **Reading order**
 >
-> Read **section 1** for what this chapter is for, then **sections 3 to 6** in order. **Section 4** (Decision Sequence) gives the order of work, including the **section 7** safeguards that come before any ACMD is final and the **sections 7.1 to 7.3** additions that follow it. Use **Chapter Fifteen section 3** only to route named patterns into the same framework; named patterns are applications of that sequence, not separate shortcuts.
+> Read **section 1** for what this chapter is for, then **sections 3 to 6** in order. **Section 4** (Decision Sequence) gives the order of work, including the **section 7** safeguards that come before any ACMD is final and the **sections 7.1 to 7.3** additions that follow it. Use **Subcore 14-A section 3** only to route named patterns into the same framework; named patterns are applications of that sequence, not separate shortcuts.
 >
 > **After final ACMD:** apply **sections 7.1 to 7.3**, then hand the ACMD to Chapter Ten for standing-lock and final-standing-effect rules, including the **Anti-Constitutional Trust Lock** only on a **final** ACMD.
 >
@@ -46,14 +46,13 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*Question 1; verified Standing Records*).
-- Upstream: [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (15.000) (*Question 2; standing measurement and the Violation Axis slot*).
-- Upstream pointer: [Subcore 10-F §4](subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity) (16.000 §4) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
-- This file: purpose and role; final ACMD for Violation Axis slot 7–9; decision sequence; ACMD criteria; due-process safeguards; Chapters Twenty-Eight through Thirty boundary. Named-pattern routing continues in [Chapter Fifteen](core_15.000_misconduct_pattern_applications.md#chapter-fifteen-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) (21.000).
-- Downstream: [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000) (*Trust Lock and standing-effect integration after final anti-constitutional-misconduct designation*); [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*forum routing and certification*); [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) (*governance legitimacy consequences*).
-- Read with: [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together); [Chapters Twenty-Eight through Thirty](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
+- Upstream: [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*Question 1; verified Standing Records*).
+- Upstream: [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (S10-D) (*Question 2; standing measurement and the Violation Axis slot*).
+- Upstream pointer: [Subcore 10-F §4](subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity) (S10-F §4) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
+- This file: purpose and role; final ACMD for Violation Axis slot 7–9; decision sequence; ACMD criteria; due-process safeguards; Chapters Twenty-Eight through Thirty boundary. Named-pattern routing continues in [Subcore 14-A](subcore_14.010_misconduct_pattern_applications.md#subcore-14-a-anti-constitutional-misconduct--pattern-applications-and-criteria-routing).
+- Downstream: [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F) (*Trust Lock and standing-effect integration after final anti-constitutional-misconduct designation*); [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (16.000) (*forum routing and certification*); [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (21.000) (*governance legitimacy consequences*).
+- Read with: [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (1.000 §8.2); [Chapters Twenty-Eight through Thirty](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
 - Worked examples (they add no rule): [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): [CJS-14.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-14.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-10-question-3-routing-patterns).
-
 </details>
 
 <br>
@@ -67,18 +66,17 @@ Chapter Fourteen is the constitutional owner of **final anti-constitutional-misc
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*Question 1; verified Standing Records*);
-  - [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (15.000) (*Question 2; the Violation Axis slot*);
-  - [Subcore 10-F §4](subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity) (16.000 §4) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*Question 1; verified Standing Records*);
+  - [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (S10-D) (*Question 2; the Violation Axis slot*);
+  - [Subcore 10-F §4](subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity) (S10-F §4) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
 - Downstream:
   - [§3](#3-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (*How designation decisions work*);
   - [§5](#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
   - [§6](#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
   - [§7](#7-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
-  - [Chapter Fifteen §3](core_15.000_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*Pattern applications and criteria routing*).
-- Read with: [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together); [Chapters Twenty-Eight through Thirty](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
+  - [Subcore 14-A §3](subcore_14.010_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*Pattern applications and criteria routing*).
+- Read with: [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (1.000 §8.2); [Chapters Twenty-Eight through Thirty](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (tetrad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**.
-
 </details>
 
 <br>
@@ -87,7 +85,7 @@ Chapter Fourteen is the constitutional owner of **final anti-constitutional-misc
 
 **Heightened risk, add-on steps:** Anti-constitutional misconduct (ACM) poses a heightened level of risk to sentients. A final ACMD therefore brings extra steps, stated in **section 7**. These steps are special add-ons to the violation standing process and do not change it. The verified Standing Record, the Chapter Ten slot, and the ordinary remedy, correction, and lock rules for the violation stay as they are (**section 3.1**).
 
-**Purpose:** Chapter Twenty answers the one question the standing pipeline leaves open for the most serious violations. [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) establishes what happened (Question 1), [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2), and [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) decides what follows (Question 3). This chapter decides only whether conduct already in slot 7, 8, or 9 is also anti-constitutional misconduct (ACM).
+**Purpose:** Chapter Fourteen answers the one question the standing pipeline leaves open for the most serious violations. [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) establishes what happened (Question 1), [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) measures how good or bad it was (Question 2), and [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) decides what follows (Question 3). This chapter decides only whether conduct already in slot 7, 8, or 9 is also anti-constitutional misconduct (ACM).
 
 There are only two possible results (**section 6**):
 
@@ -105,7 +103,7 @@ Only this chapter may decide between them (**section 3.2**).
 **Chapter scope:** This chapter is used only when a verified violation already occupies Violation Axis slot 7, 8, or 9 and ACM is materially alleged. It covers the decision framework and its sequence (**section 3**, with the full order in **section 4**), the criteria (**section 5**), attachment of the ACMD to the slot (**section 6**), and the due-process safeguards and ACM specializations that follow (**section 7**). It leaves:
 
 - the numeric impact slot and its measurement to Chapter Ten;
-- named patterns to [Chapter Fifteen](core_15.000_misconduct_pattern_applications.md#chapter-fifteen-anti-constitutional-misconduct--pattern-applications-and-criteria-routing), which routes each one into this same sequence and adds no criteria; and
+- named patterns to [Subcore 14-A](subcore_14.010_misconduct_pattern_applications.md#subcore-14-a-anti-constitutional-misconduct--pattern-applications-and-criteria-routing), which routes each one into this same sequence and adds no criteria; and
 - whether a constitutional change, or the process that made it, is valid to [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (**section 3.2**).
 
 <a id="2-why-anti-constitutional-misconduct-designation-exists"></a>
@@ -138,21 +136,20 @@ A violation can be serious in its own right and also attack the system of protec
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*Question 1; verified Standing Records*).
-- Upstream: [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (15.000) (*Question 2; the Contribution and Violation axes, the unified proportional LEQU scale, and the numeric impact slot*).
-- Upstream map: [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (15.000 §6) (*standing-slot grammar*).
-- Upstream pointer: [Subcore 10-F §4](subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity) (16.000 §4) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
+- Upstream: [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*Question 1; verified Standing Records*).
+- Upstream: [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (S10-D) (*Question 2; the Contribution and Violation axes, the unified proportional LEQU scale, and the numeric impact slot*).
+- Upstream map: [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (S10-D §6) (*standing-slot grammar*).
+- Upstream pointer: [Subcore 10-F §4](subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity) (S10-F §4) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
 - Downstream: [§4](#4-decision-sequence) (*Decision Sequence*); [§5](#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Designation criteria set*); [§6](#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*).
 - Safeguards and discipline:
   - [§7](#7-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [§7.1](#71-remedy-and-correction-anti-constitutional) (*Remedy and Correction (Anti-Constitutional)*);
   - [§7.2](#72-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*);
   - [§7.3](#73-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
-- Pattern applications: [§3](core_15.000_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*named patterns route into the same anti-constitutional-misconduct designation criteria*).
+- Pattern applications: [Subcore 14-A — §3](subcore_14.010_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*named patterns route into the same anti-constitutional-misconduct designation criteria*).
 - Change-path boundary: [§3.2](#32-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
 - Read with: [Chapters Twenty-Eight through Thirty](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) where **regressive deception** and change-path conduct may implicate **criteria 1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*).
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (tetrad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**. [material stake](core_00.000_preamble.md#material-stake) scaling applies to safeguards and gravity.
-
 </details>
 
 <br>
@@ -166,7 +163,7 @@ A violation can be serious in its own right and also attack the system of protec
 This chapter does not re-measure how serious the violation is. Chapter Ten already answered that when it assigned Violation Axis slot 7, 8, or 9.
 
 - The verified facts from [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) and the [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) slot stay fixed. A very large verified violation is not, by itself, proof of intent, capture, or ACM. The table in [§6](#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*) shows which ACMD matches slot 7, 8, or 9.
-- Ordinary remedies, safeguards, and locks under [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) continue while ACMD is under review. ACMD review runs alongside that work, does not wait for Question 3 to finish, and does not reopen Chapter Fifteen measurement.
+- Ordinary remedies, safeguards, and locks under [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) continue while ACMD is under review. ACMD review runs alongside that work, does not wait for Question 3 to finish, and does not reopen Subcore 10-D measurement.
 
 #### 3.2 Exclusive Authority to Issue a Final ACMD
 
@@ -187,9 +184,8 @@ Only **this chapter** may issue a final **anti-constitutional misconduct** desig
   - [§5](#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
   - [§6](#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
   - [§7](#7-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
-  - [Chapter Fifteen §3](core_15.000_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*Pattern applications and criteria routing*).
+  - [Subcore 14-A §3](subcore_14.010_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*Pattern applications and criteria routing*).
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (tetrad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**.
-
 </details>
 
 <br>
@@ -211,7 +207,7 @@ Make a final ACMD in this order:
    - Hand the final ACMD to Chapter Ten for the Trust Lock and standing-effect integration.
 4. **Add restorative expression and named patterns**
    - Apply **section 7.3** where restorative pathways use voluntary public accountability expression.
-   - Use the named patterns in **Chapter Fifteen sections 3 through 6** only as applications of this same sequence.
+   - Use the named patterns in **Subcore 14-A sections 3 through 6** only as applications of this same sequence.
 
 Steps 3 and 4 list the **section 7** parts in the order they are presented. Once the safeguards are satisfied and the ACMD is final, **section 7.1**, **section 7.2**, and **section 7.3** run in parallel.
 
@@ -220,29 +216,28 @@ Steps 3 and 4 list the **section 7** parts in the order they are presented. Once
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3](#3-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (*How designation decisions work*).
-- Emergency authority: [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) emergency and necessity discipline; [Chapter Seventeen §5.1: Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1) where **criteria 5** and **6** (*Insurrection or material forcible subversion* and *Operative nullification*) are read against bounded emergency authority.
+- Emergency authority: [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) emergency and necessity discipline; [Chapter Seventeen §5.1: Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (17.000 §5.1)where **criteria 5** and **6** (*Insurrection or material forcible subversion* and *Operative nullification*) are read against bounded emergency authority.
 - Downstream designation decision: [§6](#6-violation-axis-slot-79-anti-constitutional-designation).
 - Downstream safeguards and discipline: [§7](#7-due-process-safeguards-remedy-and-prevention).
 - This section: ACMD criteria set; unified-incident rule; **good-faith drafting carve-out** for corrected criteria 1–4 (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*) change or record errors.
 - Downstream pattern applications and criteria routing:
-  - [§3](core_15.000_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), including
-  - [§4](core_15.000_misconduct_pattern_applications.md#4-blocking-contest-review-and-verification), including
-  - [§4.1](core_15.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms);
-  - [§4.2](core_15.000_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial);
-  - [§4.3](core_15.000_misconduct_pattern_applications.md#43-info-sphere-zone-flooding);
-  - [§5](core_15.000_misconduct_pattern_applications.md#5-corrupting-and-commanding-duty-holders), including
-  - [§5.1](core_15.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange);
-  - [§5.2](core_15.000_misconduct_pattern_applications.md#52-unlawful-or-unconstitutional-command-conduct);
-  - [§6](core_15.000_misconduct_pattern_applications.md#6-shielding-misconduct-and-failing-to-enforce), including
-  - [§6.1](core_15.000_misconduct_pattern_applications.md#61-reward-protection-or-normalization-of-anti-constitutional-conduct);
-  - [§6.2](core_15.000_misconduct_pattern_applications.md#62-enforcement-refusal-suppression-or-non-prosecution-conduct);
-  - [§6.3](core_15.000_misconduct_pattern_applications.md#63-forum-recusal-failure-and-biased-panel-participation);
-  - [§7](core_15.000_misconduct_pattern_applications.md#7-structural-control-concentration-and-dependency), including
-  - [§7.1](core_15.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction);
-  - [§7.2](core_15.000_misconduct_pattern_applications.md#72-infrastructure-denial-destruction-or-dependency-cutoff-conduct);
-  - [§8](core_15.000_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction).
+  - [Subcore 14-A — §3](subcore_14.010_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), including
+  - [Subcore 14-A — §4](subcore_14.010_misconduct_pattern_applications.md#4-blocking-contest-review-and-verification), including
+  - [Subcore 14-A — §4.1](subcore_14.010_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms);
+  - [Subcore 14-A — §4.2](subcore_14.010_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial);
+  - [Subcore 14-A — §4.3](subcore_14.010_misconduct_pattern_applications.md#43-info-sphere-zone-flooding);
+  - [Subcore 14-A — §5](subcore_14.010_misconduct_pattern_applications.md#5-corrupting-and-commanding-duty-holders), including
+  - [Subcore 14-A — §5.1](subcore_14.010_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange);
+  - [Subcore 14-A — §5.2](subcore_14.010_misconduct_pattern_applications.md#52-unlawful-or-unconstitutional-command-conduct);
+  - [Subcore 14-A — §6](subcore_14.010_misconduct_pattern_applications.md#6-shielding-misconduct-and-failing-to-enforce), including
+  - [Subcore 14-A — §6.1](subcore_14.010_misconduct_pattern_applications.md#61-reward-protection-or-normalization-of-anti-constitutional-conduct);
+  - [Subcore 14-A — §6.2](subcore_14.010_misconduct_pattern_applications.md#62-enforcement-refusal-suppression-or-non-prosecution-conduct);
+  - [Subcore 14-A — §6.3](subcore_14.010_misconduct_pattern_applications.md#63-forum-recusal-failure-and-biased-panel-participation);
+  - [Subcore 14-A — §7](subcore_14.010_misconduct_pattern_applications.md#7-structural-control-concentration-and-dependency), including
+  - [Subcore 14-A — §7.1](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction);
+  - [Subcore 14-A — §7.2](subcore_14.010_misconduct_pattern_applications.md#72-infrastructure-denial-destruction-or-dependency-cutoff-conduct);
+  - [Subcore 14-A — §8](subcore_14.010_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction).
 - Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) for record, custody, and verification expectations tied to **criteria 1–4** (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*); [§3.2](#32-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
-
 </details>
 
 <strong><span style="color: #2563eb;">Definition:</span></strong> [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
@@ -262,7 +257,7 @@ Evaluators must treat as **one incident** conduct that shares one or more of the
 Evaluators must also apply the following:
 
 - Artificial fragmentation of one pattern to manipulate anti-constitutional misconduct outcomes is prohibited.
-- Where **Chapter Fifteen section 4.2** (*Flooding the zone*) and **Chapter Fifteen section 4.3** (*Info-Sphere Zone Flooding*) overlap, assess on a **unified incident record** under the unified-incident rule in **section 5.1**.
+- Where **Subcore 14-A section 4.2** (*Flooding the zone*) and **Subcore 14-A section 4.3** (*Info-Sphere Zone Flooding*) overlap, assess on a **unified incident record** under the unified-incident rule in **section 5.1**.
 
 #### 5.2 Single Catastrophic Incident and Sustained High-Gravity Pattern
 
@@ -332,25 +327,24 @@ Dissent, advocacy for amendment or replacement of authority by lawful means, pea
 
 - Upstream: [§5](#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*).
 - Criteria interactions:
-  - [§4.1](core_15.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms);
-  - [§4.2](core_15.000_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial);
-  - [§4.3](core_15.000_misconduct_pattern_applications.md#43-info-sphere-zone-flooding);
-  - [§5.1](core_15.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange);
-  - [§5.2](core_15.000_misconduct_pattern_applications.md#52-unlawful-or-unconstitutional-command-conduct);
-  - [§6.1](core_15.000_misconduct_pattern_applications.md#61-reward-protection-or-normalization-of-anti-constitutional-conduct);
-  - [§6.2](core_15.000_misconduct_pattern_applications.md#62-enforcement-refusal-suppression-or-non-prosecution-conduct);
-  - [§6.3](core_15.000_misconduct_pattern_applications.md#63-forum-recusal-failure-and-biased-panel-participation);
-  - [§7.1](core_15.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction);
-  - [§7.2](core_15.000_misconduct_pattern_applications.md#72-infrastructure-denial-destruction-or-dependency-cutoff-conduct);
-  - [§8](core_15.000_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction).
+  - [Subcore 14-A — §4.1](subcore_14.010_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms);
+  - [Subcore 14-A — §4.2](subcore_14.010_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial);
+  - [Subcore 14-A — §4.3](subcore_14.010_misconduct_pattern_applications.md#43-info-sphere-zone-flooding);
+  - [Subcore 14-A — §5.1](subcore_14.010_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange);
+  - [Subcore 14-A — §5.2](subcore_14.010_misconduct_pattern_applications.md#52-unlawful-or-unconstitutional-command-conduct);
+  - [Subcore 14-A — §6.1](subcore_14.010_misconduct_pattern_applications.md#61-reward-protection-or-normalization-of-anti-constitutional-conduct);
+  - [Subcore 14-A — §6.2](subcore_14.010_misconduct_pattern_applications.md#62-enforcement-refusal-suppression-or-non-prosecution-conduct);
+  - [Subcore 14-A — §6.3](subcore_14.010_misconduct_pattern_applications.md#63-forum-recusal-failure-and-biased-panel-participation);
+  - [Subcore 14-A — §7.1](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction);
+  - [Subcore 14-A — §7.2](subcore_14.010_misconduct_pattern_applications.md#72-infrastructure-denial-destruction-or-dependency-cutoff-conduct);
+  - [Subcore 14-A — §8](subcore_14.010_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction).
 - Downstream:
   - [§7](#7-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*),
   - [§7.1](#71-remedy-and-correction-anti-constitutional) (*Remedy and Correction (Anti-Constitutional)*),
   - [§7.2](#72-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*), and
   - [§7.3](#73-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
-- Downstream forums: [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) [§4](core_16.000_forum.md#4-default-venue-and-primary-stakes) gives the Integrity default lead where final Chapter Twenty designation is the primary stake. [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (23.000 §4) covers forum certification and independent review for final ACMD.
-- Read with: [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (15.000) — its unified proportional LEQU scale supplies the fixed impact slot, while this section supplies designation only; [§3.2](#32-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
-
+- Downstream forums: [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (16.000) [§4](core_16.000_forum.md#4-default-venue-and-primary-stakes) gives the Integrity default lead where final Chapter Fourteen designation is the primary stake. [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (17.000 §4) covers forum certification and independent review for final ACMD.
+- Read with: [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (S10-D) — its unified proportional LEQU scale supplies the fixed impact slot, while this section supplies designation only; [§3.2](#32-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
 </details>
 
 <br>
@@ -400,19 +394,18 @@ because the underlying impact is already slot 9, not because character somehow r
 
 - Upstream: [§6](#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§5](#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*), including the **good-faith drafting carve-out**.
 - Pattern applications:
-  - [§4.2](core_15.000_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone*);
-  - [§4.3](core_15.000_misconduct_pattern_applications.md#43-info-sphere-zone-flooding) (*Info-Sphere Zone Flooding*);
-  - [§5.1](core_15.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*);
-  - [§5.2](core_15.000_misconduct_pattern_applications.md#52-unlawful-or-unconstitutional-command-conduct) (*Unlawful or Unconstitutional Command Conduct*);
-  - [§6.1](core_15.000_misconduct_pattern_applications.md#61-reward-protection-or-normalization-of-anti-constitutional-conduct) (*Reward, Protection, or Normalization of Anti-Constitutional Conduct*);
-  - [§6.2](core_15.000_misconduct_pattern_applications.md#62-enforcement-refusal-suppression-or-non-prosecution-conduct) (*Enforcement Refusal, Suppression, or Non-Prosecution Conduct*);
-  - [§6.3](core_15.000_misconduct_pattern_applications.md#63-forum-recusal-failure-and-biased-panel-participation) (*Forum Recusal Failure and Biased Panel Participation*);
-  - [§7.2](core_15.000_misconduct_pattern_applications.md#72-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*Infrastructure Denial, Destruction, or Dependency Cutoff Conduct*);
-  - [§8](core_15.000_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction) (*Obstruction of Accountability*).
+  - [Subcore 14-A — §4.2](subcore_14.010_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone*);
+  - [Subcore 14-A — §4.3](subcore_14.010_misconduct_pattern_applications.md#43-info-sphere-zone-flooding) (*Info-Sphere Zone Flooding*);
+  - [Subcore 14-A — §5.1](subcore_14.010_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*);
+  - [Subcore 14-A — §5.2](subcore_14.010_misconduct_pattern_applications.md#52-unlawful-or-unconstitutional-command-conduct) (*Unlawful or Unconstitutional Command Conduct*);
+  - [Subcore 14-A — §6.1](subcore_14.010_misconduct_pattern_applications.md#61-reward-protection-or-normalization-of-anti-constitutional-conduct) (*Reward, Protection, or Normalization of Anti-Constitutional Conduct*);
+  - [Subcore 14-A — §6.2](subcore_14.010_misconduct_pattern_applications.md#62-enforcement-refusal-suppression-or-non-prosecution-conduct) (*Enforcement Refusal, Suppression, or Non-Prosecution Conduct*);
+  - [Subcore 14-A — §6.3](subcore_14.010_misconduct_pattern_applications.md#63-forum-recusal-failure-and-biased-panel-participation) (*Forum Recusal Failure and Biased Panel Participation*);
+  - [Subcore 14-A — §7.2](subcore_14.010_misconduct_pattern_applications.md#72-infrastructure-denial-destruction-or-dependency-cutoff-conduct) (*Infrastructure Denial, Destruction, or Dependency Cutoff Conduct*);
+  - [Subcore 14-A — §8](subcore_14.010_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction) (*Obstruction of Accountability*).
 - Downstream: [§7.1](#71-remedy-and-correction-anti-constitutional) (*Remedy and Correction (Anti-Constitutional)*); [§7.2](#72-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*); [§7.3](#73-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*).
-- Forum discipline: [Chapter Sixteen §4](core_16.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4) and [Chapter Seventeen §4 Escalation and Questions for Ruling](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) cover default Integrity lead, forum-family application of due process, transfer, and certification. Read **section 7** with **Article XXI** (*Justice After Verified Violation*) in **Chapter Four**.
-- Read with: [Article XXI-A: Justice Objective and Scope](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) for review and publication safeguards; [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) tracing standards for publication; [Chapter Twelve §3](core_12.000_violation_consequences.md#3-violation-correction-and-prevention) (18.000 §3) (*Violation, Correction, and Prevention*) for the general remedy → locks → expression grammar this section specializes.
-
+- Forum discipline: [Chapter Sixteen §4](core_16.000_forum.md#4-default-venue-and-primary-stakes) (16.000 §4)and [Chapter Seventeen §4 Escalation and Questions for Ruling](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (17.000 §4) cover default Integrity lead, forum-family application of due process, transfer, and certification. Read **section 7** with **Article XXI** (*Justice After Verified Violation*) in **Chapter Four**.
+- Read with: [Article XXI-A: Justice Objective and Scope](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) for review and publication safeguards; [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) tracing standards for publication; [Chapter Twelve §3](core_12.000_violation_consequences.md#3-violation-correction-and-prevention) (12.000 §3)(*Violation, Correction, and Prevention*) for the general remedy → locks → expression grammar this section specializes.
 </details>
 
 <br>
@@ -468,14 +461,13 @@ Chapter Ten remains the owner of general remedy, lock design and enforcement, an
 - Downstream:
   - [§7.2](#72-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*);
   - [§7.3](#73-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*);
-  - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000) standing-effect and standing-lock integration;
-  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) forum routing and certification.
+  - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F) standing-effect and standing-lock integration;
+  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (16.000)forum routing and certification.
 - Read with:
-  - [Chapter Twelve §3.1](core_12.000_violation_consequences.md#31-remedy-and-correction) (18.000 §3.1) (*Remedy and Correction*);
+  - [Chapter Twelve §3.1](core_12.000_violation_consequences.md#31-remedy-and-correction) (12.000 §3.1)(*Remedy and Correction*);
   - [Article XXI-A](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*);
   - [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*restitution, remediation, rehabilitation, accountable attribution, duration, review, and restoration*);
   - [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*timely resolution and remedy commencement*).
-
 </details>
 
 <details>
@@ -499,7 +491,7 @@ After final designation under **section 6** with **section 7** safeguards met, [
   - Whether a constitutional change itself stands is decided under [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) and [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity), not here.
   - Structural correction of this kind is also a restoration condition of the **Anti-Constitutional Trust Lock** ([Chapter Twelve §4.5.5 Anti-Constitutional Trust Lock](core_12.000_violation_consequences.md#455-anti-constitutional-trust-lock)).
 - **Consequence-integration duty:** Put every consequence that applies — imprisonment, standing effects, sanctions, dissolving an institution, striking an unlawful constitutional change, structural fixes, and what is owed to those harmed — in one reviewable package. Do not scatter them across separate Standing Records that no one can check together.
-- **Boundary:** This section does not move forum operations, institutional dissolution, remedy-organ design, or implementation templates into Chapter Twenty. Those stay in [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) and the incorporated forum, systems, institutions, and joint-structure text, subject to the Chapter Four Rights Floor.
+- **Boundary:** This section does not move forum operations, institutional dissolution, remedy-organ design, or implementation templates into Chapter Fourteen. Those stay in [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) and the incorporated forum, systems, institutions, and joint-structure text, subject to the Chapter Four Rights Floor.
 
 #### 7.2 Prevention — Anti-Constitutional Locks
 
@@ -507,14 +499,13 @@ After final designation under **section 6** with **section 7** safeguards met, [
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§6](#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§7](#7-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*); [§7.1](#71-remedy-and-correction-anti-constitutional) (*Remedy and Correction (Anti-Constitutional)*).
-- Downstream: [§7.3](#73-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*); [Chapter Twelve §4.5](core_12.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Anti-Constitutional Trust Lock*).
+- Downstream: [§7.3](#73-voluntary-public-accountability-expression-anti-constitutional) (*Voluntary Public Accountability Expression (Anti-Constitutional)*); [Chapter Twelve §4.5](core_12.000_violation_consequences.md#45-special-locks) (12.000 §4.5)(*Anti-Constitutional Trust Lock*).
 - Read with:
-  - [Chapter Twelve §3.2](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2) (*Prevention — General Standing Locks*);
-  - [Chapter Twelve §4.1](core_12.000_violation_consequences.md#41-definition-and-attachment) (18.000 §4.1) (*Definition and Attachment*);
-  - [Chapter Twelve §4.4.5](core_12.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (18.000 §4.4.5) (*Coercive or Liberty-Restricting Safeguards*);
+  - [Chapter Twelve §3.2](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (12.000 §3.2)(*Prevention — General Standing Locks*);
+  - [Chapter Twelve §4.1](core_12.000_violation_consequences.md#41-definition-and-attachment) (12.000 §4.1)(*Definition and Attachment*);
+  - [Chapter Twelve §4.4.5](core_12.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (12.000 §4.4.5)(*Coercive or Liberty-Restricting Safeguards*);
   - [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*joint requirements, **Imprisonment for violence**, and duration, review, restoration, and re-evaluation discipline*);
-  - [Chapter Twelve §4.4.5](core_12.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (18.000 §4.4.5) (*Required imprisonment for verified violence*).
-
+  - [Chapter Twelve §4.4.5](core_12.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (12.000 §4.4.5)(*Required imprisonment for verified violence*).
 </details>
 
 <br>
@@ -541,9 +532,8 @@ After final designation under **section 6** with **section 7** safeguards met:
   - [§7](#7-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [§7.1](#71-remedy-and-correction-anti-constitutional) (*Remedy and Correction (Anti-Constitutional)*);
   - [§7.2](#72-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*).
-- Downstream: [§3](core_15.000_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*Pattern applications and criteria routing*).
-- Read with: [Chapter Twelve §3.3](core_12.000_violation_consequences.md#33-voluntary-public-accountability-expression) (18.000 §3.3) (*Voluntary Public Accountability Expression*); [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*joint requirements*); [Article XXVII-B](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (*rights-collision procedure and restorative alignment*).
-
+- Downstream: [Subcore 14-A — §3](subcore_14.010_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*Pattern applications and criteria routing*).
+- Read with: [Chapter Twelve §3.3](core_12.000_violation_consequences.md#33-voluntary-public-accountability-expression) (12.000 §3.3)(*Voluntary Public Accountability Expression*); [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*joint requirements*); [Article XXVII-B](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (*rights-collision procedure and restorative alignment*).
 </details>
 
 <br>
@@ -558,6 +548,6 @@ After final designation under **section 6** with **section 7** safeguards met:
 
 *Worked examples (they add no rule):* [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): [CJS-14.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-14.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-10-question-3-routing-patterns).
 
-**Previous file:** [subcore_13.010_cross_adopter_checks_remedy_durability.md](subcore_13.010_cross_adopter_checks_remedy_durability.md)
+**Previous file:** [Subcore 13-A — subcore_13.010_cross_adopter_checks_remedy_durability.md](subcore_13.010_cross_adopter_checks_remedy_durability.md)
 
-**Next file:** [core_15.000_misconduct_pattern_applications.md](core_15.000_misconduct_pattern_applications.md)
+**Next file:** [Subcore 14-A](subcore_14.010_misconduct_pattern_applications.md)

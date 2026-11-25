@@ -15,7 +15,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (*how governing authority is authorized and how assembly members are selected*); [CI-21.205 §8 Reference Design: Tiered Assemblies](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-8-reference-design-tiered-assemblies) (*the tiered local, regional, and national design*).
+- Upstream: [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (21.000) (*how governing authority is authorized and how assembly members are selected*); [CI-21.205 §8 Reference Design: Tiered Assemblies](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-8-reference-design-tiered-assemblies) (*the tiered local, regional, and national design*).
 - Subsections:
   - [§1](#1-purpose-role-and-scope);
   - [§2](#2-why-assemblies-exist);
@@ -27,8 +27,7 @@
   - [§8](#8-emergencies);
   - [§9](#9-limits-on-every-assembly).
 - Attached subcore: [Subcore 18-A](subcore_18.010_taxation.md#subcore-18-a-taxation) (*Taxation*).
-- Downstream: [Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (*forum review of emergency measures*); adopted implementation text that names an adopter's assemblies, tiers, and published tier matters.
-
+- Downstream: [Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (17.000 §5.1) (*forum review of emergency measures*); adopted implementation text that names an adopter's assemblies, tiers, and published tier matters.
 </details>
 
 <br>

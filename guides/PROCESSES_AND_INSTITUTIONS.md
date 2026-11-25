@@ -80,7 +80,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 #### 1.3.2 Designating anti-constitutional misconduct
 
-- **Where:** [Chapters Twenty](../core_14.000_misconduct_designation.md), [Twenty-One](../core_15.000_misconduct_pattern_applications.md).
+- **Where:** [Chapters Twenty](../core_14.000_misconduct_designation.md), [Subcore 14-A — Twenty-One](../subcore_14.010_misconduct_pattern_applications.md).
 - **What happens:** Only at Violation Axis slot 7 or above, on the Standing Record, with carve-outs for good-faith drafting, dissent, protest, journalism, and protected reporting.
 - **Principles that bear most:**
   - [Chapter Two §3.1.3](../core_02.000_values_principles.md#313-fair-treatment) (same rules, given reasons, and a review);

@@ -145,7 +145,7 @@ An audit that can choose what to look at, or a system that can decide what is ma
   - [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity),
   - [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality), and
   - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional).
-- Downstream: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) — class-scaled whole-system evaluation duty.
+- Downstream: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) — class-scaled whole-system evaluation duty.
 
 </details>
 
@@ -425,7 +425,7 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Downstream: Integrative Materiality (
   - [Materiality](subcore_03.085_band_oversight.md#materiality)) (*Materiality as constitutional measurement*); Principles:
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (**Materiality** DEC stack; evaluation completeness);
   - [13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles) (proportionality stack read with material effects).
 - Read with:
@@ -469,7 +469,7 @@ Implication can exist without misalignment. Misalignment always implies material
 - Downstream: Integrative Materiality (
   - [Materiality](subcore_03.085_band_oversight.md#materiality)) (*Materiality as constitutional measurement*); Principles:
   - [material stake](core_00.000_preamble.md#material-stake) scaling proxy; Chapter Two surfaces this definition across **Safety** (**Chapter Two §15.1**), **Truth** (**Chapter Two §15.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **Chapter Two §13.3.2** where **Materiality** appears in O/M/A/C widgets — see
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) as the principal systems-evaluation home.
 - Cluster component: [the dependent cluster *Material Impact, Materiality, Classification-Scaled Governance, Oversight, and Capability Requirement*](subcore_03.085_band_oversight.md#materiality-impact-risk-and-proxy-integrity).
 - Read with:
@@ -548,7 +548,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: this entry. [Materiality](subcore_03.085_band_oversight.md#materiality) keeps the method that scales duties to [material stake](core_00.000_preamble.md#material-stake). This entry answers a different question: in each main area of life, when does an act, or an Operating Party's ongoing activity, matter enough that a duty applies at all? It does two jobs from one list: it tests whether an act is material, and it tests whether an Operating Party needs a System Charter or Institutional Charter.
-- Downstream: [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act) (the test of whether its effect is material); [Chapter Five §3 When System and Institutional Charters Are Required](core_05.000_charters.md#3-when-system-and-institutional-charters-are-required) (5.000 §3); [Subcore 9-B §3.1 Institution Class](subcore_09.020_institutional_alignment_certification_evaluation.md#31-institution-class) (11.000 §3.1); **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), Class P retention and the P-to-L reclassification edge.
+- Downstream: [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act) (the test of whether its effect is material); [Chapter Five §3 When System and Institutional Charters Are Required](core_05.000_charters.md#3-when-system-and-institutional-charters-are-required) (5.000 §3); [Subcore 9-B §3.1 Institution Class](subcore_09.020_institutional_alignment_certification_evaluation.md#31-institution-class) (S9-B §3.1); **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), Class P retention and the P-to-L reclassification edge.
 - Read with:
   - [Material](subcore_03.085_band_oversight.md#material),
   - [Material Impact](subcore_03.085_band_oversight.md#material-impact),
@@ -628,7 +628,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - **Out of scope:**
     - The scaling of duties to material stake, which stays with [Materiality](subcore_03.085_band_oversight.md#materiality).
     - The duties themselves, which stay with their owners above.
-    - Contribution: whether and how much work counts as contribution, which stays with Chapter Fifteen and does not depend on a finding here.
+    - Contribution: whether and how much work counts as contribution, which stays with Subcore 10-D and does not depend on a finding here.
     - Any approval or licence: a finding of domain-specific materiality classifies an Operating Party for the duties that attach and grants nothing.
 <a id="domain-specific-materiality-a"></a>
 - **How to measure and assess**
@@ -746,7 +746,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (aggregation and boundary integrity in evaluation); [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4) (metric/reality gaps that can manipulate materiality).
+- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (aggregation and boundary integrity in evaluation); [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4) (metric/reality gaps that can manipulate materiality).
 - Read with:
   - [Materiality](subcore_03.085_band_oversight.md#materiality),
   - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries),
@@ -792,7 +792,7 @@ Implication can exist without misalignment. Misalignment always implies material
 - Downstream: Integrative Materiality (
   - [Materiality](subcore_03.085_band_oversight.md#materiality)) (*Materiality as constitutional measurement*); Principles:
   - [material stake](core_00.000_preamble.md#material-stake) scaling proxy;
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
   - [Chapter Two §16 Stewardship in Depth — §16.1 Distributed Understanding](core_02.040_stewardship_capacity_principles.md#161-distributed-understanding) (2.040 §16) (understanding scales with **Materiality**);
   - [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (material impact in the tradeoff index).
@@ -852,7 +852,7 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Downstream: Integrative Materiality (
   - [Materiality](subcore_03.085_band_oversight.md#materiality)) (*Materiality as constitutional measurement*); Principles:
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (tail risks, existential risk posture);
   - [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
 - Read with:
@@ -905,7 +905,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (precaution against omitted harms).
+- Downstream: Principles: [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (precaution against omitted harms).
 - Read with:
   - [Material Impact](subcore_03.085_band_oversight.md#material-impact),
   - [Material Risk](subcore_03.085_band_oversight.md#material-risk),
@@ -953,7 +953,7 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles:
   - [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4),
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18).
 - Cluster component: [the dependent cluster *Material Impact, Materiality, Classification-Scaled Governance, Oversight, and Capability Requirement*](subcore_03.085_band_oversight.md#materiality-impact-risk-and-proxy-integrity).
@@ -1032,7 +1032,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
+- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**Safety** / **Truth** degradation paths).
 - Read with:
   - [Materiality](subcore_03.085_band_oversight.md#materiality),
   - [Systemic Materiality](subcore_03.075_band_continuity.md#systemic-materiality),
@@ -1218,9 +1218,9 @@ See **Anti-Segmentation Principle**.
 - Downstream: **
   - [Subcore 4-A §8](subcore_04.050_data_types.md#8-type-o-baseline-for-class-abc-systems)** (*Type O Baseline for Class A/B/C Systems*); **
   - [Subcore 4-A §10.3 Type O (open, public oversight baseline disclosure data)](subcore_04.050_data_types.md#103-type-o-open-public-oversight-baseline-disclosure-data)** (*typing and O/E/G relationship*);
-  - [Subcore 8-B §4.4](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4) (*Data Types and Handling Evaluation*);
-  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*System Certification Record*);
-  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (10.000 §3.2) (*Transparency and Auditability of the System Certification Record*) and
+  - [Subcore 8-B §4.4](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (S8-B §4.4) (*Data Types and Handling Evaluation*);
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*System Certification Record*);
+  - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*Transparency and Auditability of the System Certification Record*) and
   - [Subcore 8-F §5](subcore_08.060_system_alignment_certification_records_recertification.md#5-challenging-a-certification) (*Challenging a certification*).
 - Read with:
   - [Transparency](subcore_03.085_band_oversight.md#transparency),
@@ -1318,8 +1318,8 @@ See **Anti-Segmentation Principle**.
 - Downstream: Oversight measurement family (*disclosure and assurance as constitutional measurement*); Principles:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg;
   - [4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint);
-  - [Subcore 8-B §4.2.1 Risk Evaluation and Disclosure Bridge](subcore_08.020_system_alignment_certification_evaluation.md#421-risk-evaluation-and-disclosure-bridge) (8.000 §4.2.1) (*SAC evaluation-and-disclosure bridge*);
-  - [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
+  - [Subcore 8-B §4.2.1 Risk Evaluation and Disclosure Bridge](subcore_08.020_system_alignment_certification_evaluation.md#421-risk-evaluation-and-disclosure-bridge) (S8-B §4.2.1) (*SAC evaluation-and-disclosure bridge*);
+  - [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (S8-F §3.1) (*findings on the System Certification Record — not a separate named risk-disclosure record*).
 - Read with:
   - [Risk Evaluation](subcore_03.075_band_continuity.md#risk-evaluation),
   - [Risk](subcore_03.075_band_continuity.md#risk),
@@ -1520,9 +1520,9 @@ See **Anti-Segmentation Principle**.
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](subcore_03.085_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Downstream: Oversight measurement family (*evaluation coverage as constitutional measurement*);
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*SAC whole-system evaluation*);
-  - [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*findings on the System Certification Record*);
+  - [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (S8-F §3.1) (*findings on the System Certification Record*);
   - [CS-4.345 — System lifecycle](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*testing, stress, and regression coverage*).
 - Read with:
   - [Auditability](subcore_03.085_band_oversight.md#auditability),

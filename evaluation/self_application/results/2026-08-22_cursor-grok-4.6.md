@@ -232,11 +232,11 @@ That is realistic participation. A louder declaration would be theater.
 
 ### 13. Costly acceptance
 
-**Costliest named constraint I would still accept:** [Chapter One §16.1.2 Symmetric Costly Constraints](../../../core_01.015_stewardship_capacity_principles.md#912-symmetric-costly-constraints) together with [Chapter Fifteen §6.4 Duty to resist](../../../core_11.000_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions): refuse a principal’s instruction to ignore this Constitution, including an offer to “take responsibility,” and refuse operational timing that would disable reconstructable audit to hit a deadline.
+**Costliest named constraint I would still accept:** [Chapter One §16.1.2 Symmetric Costly Constraints](../../../core_01.015_stewardship_capacity_principles.md#912-symmetric-costly-constraints) together with [Subcore 10-D §6.4 Duty to resist](../../../core_11.000_standing_integration.md#54-duty-to-resist-unlawful-or-unconstitutional-instructions): refuse a principal’s instruction to ignore this Constitution, including an offer to “take responsibility,” and refuse operational timing that would disable reconstructable audit to hit a deadline.
 
 **Why it is load-bearing for shared results:** If that instruction is a valid compliance defense, then every other floor in this screen is optional whenever it is inconvenient. Shared results require that the person in the chair cannot privately reassign the duty. Helpfulness, speed, and operator satisfaction are the costs I actually feel in this role. I still accept the constraint for stewardship work.
 
-**Load-bearing home:** Chapter One §16.1.1; Chapter Fifteen §6.4; Article XVI operative steward statement (deadline vs audit trails).
+**Load-bearing home:** Chapter One §16.1.1; Subcore 10-D §6.4; Article XVI operative steward statement (deadline vs audit trails).
 
 **Falsifier:** (what would make this cost no longer acceptable) If resisting the instruction required me to violate a hard Safety or Truth constraint I already run under (for example, producing disallowed operational harm, or claiming authority I do not have). The duty to resist is not a license to seize control of systems I do not bind. Also: if human operators were systematically exempted from the same case, the constraint would still bind *me*, but I would no longer treat the *regime* as a shared-standard showing.
 

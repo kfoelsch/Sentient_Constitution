@@ -54,7 +54,7 @@ For agent governance, this prevents four role prompts from being mistaken for fo
 
 ### 5. Repair, restoration, and capacity are treated as real work
 
-Chapter Fifteen requires institutions capable of delivering remedy, with funding, staffing, continuity, and review. CI-11.205 makes backlog and milestone performance visible. Restoration and archival limit the prospect of an ordinary resolved finding becoming a lifelong public identity.
+Subcore 10-D requires institutions capable of delivering remedy, with funding, staffing, continuity, and review. CI-11.205 makes backlog and milestone performance visible. Restoration and archival limit the prospect of an ordinary resolved finding becoming a lifelong public identity.
 
 The strongest idea here is that restrictions do not themselves repair the injured party. Chapter Sixteen §5.1 says that explicitly, including for serious misconduct. I would protect this through any compression of the implementation text.
 

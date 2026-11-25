@@ -400,7 +400,7 @@ DEFAULT_THEMATIC_BREAK_TARGETS: tuple[str, ...] = (
     "core_12.000_violation_consequences.md",
     "core_13.000_final_effect_restoration_enforcement.md",
     "core_14.000_misconduct_designation.md",
-    "core_15.000_misconduct_pattern_applications.md",
+    "subcore_14.010_misconduct_pattern_applications.md",
     "core_16.000_forum.md",
     "core_17.000_forum_families_escalation_timeliness_support.md",
     "core_18.000_assemblies.md",

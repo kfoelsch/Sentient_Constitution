@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Subcore 9-B](subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 9-A**. Until 2026-11-21 its text was in Chapter Eleven: §3 was the numbered factors of §3.1 (*Institution Class*), §4 was the eight items and the two further parts of §4 (*Whole-Institution Certification Evaluation*), and §5 was the trigger list of §6 (*Rights-Floor and Domain Evaluations*). Chapter Eleven keeps one line for each guarantee and links the full text here.
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Subcore 9-B](subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 9-A**. Until 2026-11-21 its text was in Chapter Eleven: §3 was the numbered factors of §3.1 (*Institution Class*), §4 was the eight items and the two further parts of §4 (*Whole-Institution Certification Evaluation*), and §5 was the trigger list of §6 (*Rights-Floor and Domain Evaluations*). Chapter Eleven keeps one line for each guarantee and links the full text here.
 >
 > **Upstream:** [Subcore 9-B](subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation), which keeps who is certified, the rule that certification is no gate on forming or running, the first-certification window, scaling by class, and the evaluations where implicated whole, and one line for each guarantee in this file; [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), whose evaluations this file applies to an Institution.
 > **Downstream:** [Subcore 9-D §3 Forum Process](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#3-forum-process) (*the findings the forums review*); [Subcore 9-F §3 Institutional Certification Record](subcore_09.060_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record).
@@ -30,9 +30,9 @@ An Institution decides a great deal for those who depend on it, and it has every
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every authority traces to an answerable office;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): each item is tested against observed operation, not attestation;
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): the Institution's challenge and participation routes must work in fact;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every authority traces to an answerable office;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): each item is tested against observed operation, not attestation;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): the Institution's challenge and participation routes must work in fact;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients who depend on an Institution can trust its certified status;
     - [Continuity](core_00.000_preamble.md#continuity): what an Institution rewards is tested for long-horizon harm as well as short-term results;
@@ -55,14 +55,14 @@ Institution class is decided by the greatest material impact the Institution has
      - what it decides about other sentients' access to survival essentials, education, safety, livelihood, rights, or standing; and
      - what it holds, such as funds, records, memberships, custody of Standing Records, or the function of a forum, certifier, or record office.
    - **Whether it is material:**
-     - whether its own activity is material in any domain of [Subcore 3-M — Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality), including taking [Subcore 3-J — Materially Binding Acts](subcore_03.070_band_accountability.md#materially-binding-act) that others must follow or may rely on as settled;
+     - whether its own activity is material in any domain of [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality), including taking [Materially Binding Acts](subcore_03.070_band_accountability.md#materially-binding-act) that others must follow or may rely on as settled;
      - an Institution that is material in any one domain is at least Class L under **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*); and
      - giving aid, goods, labor, or services that others are free to take or leave, and that do not control anyone's access to what they need, binds no one. It is conduct and not a Materially Binding Act, and it counts only through the other factors.
    - **How much depends on it:**
      - how many sentients depend on it, and how substitutable it is;
      - how concentrated its authority is, within the meaning of the Material Control Line; and
      - how reversible its decisions are.
-3. **Common control:** Operating Parties that are one operation under the aggregation rule of [Subcore 3-M — Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) (common practical control within a [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line); funding alone does not count) are classified together where they act as one Institution in practice. Dividing an Operating Party, its portfolio, or its authority so that no part reaches Class L is a scope-and-boundary evasion under [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns).
+3. **Common control:** Operating Parties that are one operation under the aggregation rule of [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality) (common practical control within a [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); funding alone does not count) are classified together where they act as one Institution in practice. Dividing an Operating Party, its portfolio, or its authority so that no part reaches Class L is a scope-and-boundary evasion under [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns).
 4. **Reclassification:** The class is reassessed on the triggers in [Subcore 9-F §4.2 Reopening Triggers](subcore_09.060_institutional_alignment_certification_records_recertification.md#42-reopening-triggers). The classification is stated on the Institutional Certification Record with its reasons.
 
 <a id="4-the-eight-evaluation-items"></a>
@@ -91,7 +91,7 @@ Every certification pass evaluates these eight items, under [Subcore 9-B §4 Who
    - The [Subcore 8-B §4.3 Time-Consistency Constraint](subcore_08.020_system_alignment_certification_evaluation.md#43-time-consistency-constraint) applies. Near-term metrics, local compliance, and short-horizon efficiency are not enough where foreseeable medium- or long-horizon damage to Safety, Truth, or wellbeing remains unaddressed, and a reward structure that pays for short-horizon results at that cost is a finding.
    - The institutional duties on incentive integrity stay with **CI-4.215** (*Resource stewardship and incentive integrity*) and are cited, not restated.
 5. **Role Map and custody:**
-   - The [Subcore 3-K — Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) names offices that exist, are filled or substituted as it says, and are [Subcore 3-J — independent](subcore_03.070_band_accountability.md#independence) of the Institution for any Institutional Certification Record in which the Institution is the subject.
+   - The [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) names offices that exist, are filled or substituted as it says, and are [independent](subcore_03.070_band_accountability.md#independence) of the Institution for any Institutional Certification Record in which the Institution is the subject.
    - The independent route can be used in fact.
    - A seat left unplaced, a dead office, or a record custodian inside the Institution's own line is a finding.
 6. **Currency of each cited System certification:**
@@ -103,7 +103,7 @@ Every certification pass evaluates these eight items, under [Subcore 9-B §4 Who
      - who actually directs the holder;
      - what the holder is paid and promoted for;
      - what the holder has verifiably done in the function; and
-     - whether anyone, the holder included, who made a [Subcore 3-J — protected report](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) or refused an unlawful or unconstitutional instruction ([Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)) was penalized for it.
+     - whether anyone, the holder included, who made a [protected report](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) or refused an unlawful or unconstitutional instruction ([Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)) was penalized for it.
    - Staff who hold no covered office are not checked one by one. The staff safeguards check ([Chapter Five §7.6 Staff Safeguards Check](core_05.000_charters.md#76-staff-safeguards-check)) covers them, and the forums test it against observed operation in the same way. It asks whether:
      - the Institution's appointment, pay, promotion, and removal rules do not reward working against its stated purpose;
      - a protected reporting route exists, and no staff member who used it, or who refused an unlawful or unconstitutional instruction, has been penalized; and

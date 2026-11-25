@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 11-A**. Until 2026-11-20 its text was in Chapter Seventeen: §3 was the second half of §3.1 (*Recency and Currentness*), and §§4.1–4.4 were §§3.2.1 to 3.2.4. Chapter Seventeen keeps one line for each guarantee and links the full text here.
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 11-A**. Until 2026-11-20 its text was in Chapter Seventeen: §3 was the second half of §3.1 (*Recency and Currentness*), and §§4.1–4.4 were §§3.2.1 to 3.2.4. Chapter Seventeen keeps one line for each guarantee and links the full text here.
 >
 > **Upstream:** [Chapter Eleven §3 Contribution Consequences](core_11.000_contribution_consequences.md#3-contribution-consequences), which keeps the decision order, independence from remedy, lock precedence, the definitions of competency bar and competency clearance, and one line for each guarantee in this file.
 > **Downstream:** [CI-21.205](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-1-shared-staffing-and-competency-requirement) (*appointment, competency, rotation, and removal*); [Technical Forum Domains](core_17.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) (*retesting standards*).
@@ -30,9 +30,9 @@ How fast contribution fades and how a bar is set decide who can reach a role. An
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): informal and unpaid work meets bars on the same standard as formal credentials;
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every weight and clearance result shows what it rests on and who may contest it;
-    - [Subcore 3-I — Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): weights are calculated automatically, with no wait for manual approval;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): informal and unpaid work meets bars on the same standard as formal credentials;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every weight and clearance result shows what it rests on and who may contest it;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): weights are calculated automatically, with no wait for manual approval;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients reach roles they are ready for without needless barriers;
     - [Continuity](core_00.000_preamble.md#continuity): roles that others rely on are held by sentients who are ready for them;

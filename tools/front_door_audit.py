@@ -257,18 +257,26 @@ def check_status(root: Path) -> list[str]:
     return errors
 
 
-def core_chapter_count(root: Path) -> int:
-    numbers = [
+def core_chapter_numbers(root: Path) -> set[int]:
+    return {
         int(m.group(1))
         for path in root.glob("core_*.md")
         if (m := re.match(r"core_(\d{2})\.\d{3}_", path.name))
-    ]
-    return max(numbers) if numbers else 0
+    }
+
+
+def core_chapter_count(root: Path) -> int:
+    return len({n for n in core_chapter_numbers(root) if n > 0})
+
+
+def core_chapter_max(root: Path) -> int:
+    return max(core_chapter_numbers(root), default=0)
 
 
 def check_chapters(root: Path) -> list[str]:
     count = core_chapter_count(root)
-    if not count:
+    highest = core_chapter_max(root)
+    if not highest:
         return ["no numbered core chapter files found (FRONT-DOOR-CHAPTERS-01)"]
     errors: list[str] = []
     words = "|".join(sorted(NUMBER_WORDS, key=len, reverse=True))
@@ -283,10 +291,10 @@ def check_chapters(root: Path) -> list[str]:
         text = re.sub(r"[ \t]*\n[ \t]*", " ", text)
         for match in range_re.finditer(text):
             upper = to_number(match.group(1))
-            if upper != count:
+            if upper != highest:
                 errors.append(
-                    f"{rel}: '{match.group(0)}' but the core has {count} chapters "
-                    f"(highest core chapter {count}) (FRONT-DOOR-CHAPTERS-01)"
+                    f"{rel}: '{match.group(0)}' but the highest core chapter is {highest} "
+                    f"(FRONT-DOOR-CHAPTERS-01)"
                 )
         for match in count_re.finditer(text):
             if to_number(match.group(1)) != count:

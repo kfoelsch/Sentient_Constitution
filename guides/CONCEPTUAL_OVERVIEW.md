@@ -72,18 +72,18 @@ Start with the Preamble itself: [What Systems Reward](../core_00.000_preamble.md
 
 - **[Chapter Five, charters](../core_05.000_charters.md).** Limits have to be written down before anyone can judge whether they were kept. Systems and institutions above a set size publish a System Charter or an Institutional Charter saying what they may do and who holds each role. Nobody needs permission to form.
 - **[Chapter Six, separation of duties](../core_06.000_functional_independence_separation_of_duties.md).** No single sentient, office, or system may start, approve, keep the records of, and judge the same action. These are the four seats.
-- **Chapters Eight to Ten, system certification** ([Nine](../subcore_08.020_system_alignment_certification_evaluation.md) · [Ten](../subcore_08.040_system_alignment_certification_forum_process_outcomes.md) · [Eleven](../subcore_08.060_system_alignment_certification_records_recertification.md)). Before sentients rely on a system at scale, it is checked against the Constitution. The check is as demanding as the system's real impact, and affected sentients can see it and challenge it. Independent forums review the result in a set order and publish an outcome, including the gate before go-live. The outcome is kept where it can be checked, is re-checked on a schedule, and can be challenged. Certification may feed standing, but it is not standing.
-- **Chapters Eleven to Thirteen, institutional certification** ([Twelve](../subcore_09.020_institutional_alignment_certification_evaluation.md) · [Thirteen](../subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md) · [Fourteen](../subcore_09.060_institutional_alignment_certification_records_recertification.md)). The same questions are asked of the institution that runs systems or holds authority. The institution never chooses its own reviewer, its record is held by an office it does not control, and an outcome never decides whether the institution may exist or operate.
+- **Chapters Eight to Ten, system certification** ([Subcore 8-B — Nine](../subcore_08.020_system_alignment_certification_evaluation.md) · [Subcore 8-D — Ten](../subcore_08.040_system_alignment_certification_forum_process_outcomes.md) · [Subcore 8-F — Eleven](../subcore_08.060_system_alignment_certification_records_recertification.md)). Before sentients rely on a system at scale, it is checked against the Constitution. The check is as demanding as the system's real impact, and affected sentients can see it and challenge it. Independent forums review the result in a set order and publish an outcome, including the gate before go-live. The outcome is kept where it can be checked, is re-checked on a schedule, and can be challenged. Certification may feed standing, but it is not standing.
+- **Chapters Eleven to Thirteen, institutional certification** ([Subcore 9-B — Twelve](../subcore_09.020_institutional_alignment_certification_evaluation.md) · [Subcore 9-D — Thirteen](../subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md) · [Subcore 9-F — Fourteen](../subcore_09.060_institutional_alignment_certification_records_recertification.md)). The same questions are asked of the institution that runs systems or holds authority. The institution never chooses its own reviewer, its record is held by an office it does not control, and an outcome never decides whether the institution may exist or operate.
 
 **Standing Records and what follows from them**
 
-- **[Chapter Fourteen, what happened](../subcore_10.020_standing_assessment.md).** Standing is worked out by answering three questions in order. The first is what happened. Only verified facts answer it; allegations, popularity, and filing a case do not.
-- **[Chapter Fifteen, how good or how bad](../subcore_10.040_standing_measurement.md).** Verified contribution and verified violation are measured on two separate scales. They are never netted into one score.
-- **[Chapter Sixteen, what follows](../subcore_10.060_standing_integration.md).** Once help and harm are verified, this chapter says what follows (remedy, locks, and real effects) without rewriting the facts or merging the two tracks.
+- **[Subcore 10-B — , what happened](../subcore_10.020_standing_assessment.md).** Standing is worked out by answering three questions in order. The first is what happened. Only verified facts answer it; allegations, popularity, and filing a case do not.
+- **[Subcore 10-D — , how good or how bad](../subcore_10.040_standing_measurement.md).** Verified contribution and verified violation are measured on two separate scales. They are never netted into one score.
+- **[Subcore 10-F — , what follows](../subcore_10.060_standing_integration.md).** Once help and harm are verified, this chapter says what follows (remedy, locks, and real effects) without rewriting the facts or merging the two tracks.
 - **[Chapter Eleven, contribution](../core_11.000_contribution_consequences.md).** Verified contribution may support recognition and readiness for gated pathways that are open. It never offsets a verified harm, cancels a lock, or opens a blocked pathway.
 - **[Chapter Twelve, violation](../core_12.000_violation_consequences.md).** Remedy and correction come first, then prevention locks, then voluntary public accountability where a restorative pathway uses it. The cheap half of a fix may not outrun the expensive half.
 - **[Chapter Thirteen, the final effect](../core_13.000_final_effect_restoration_enforcement.md).** The result is stated one gated pathway at a time (open, limited, or blocked), not as a rank of anyone's worth. A lock that is not permanent must have a real way back, and a gatekeeper may ask only about its own gate.
-- **Chapters Twenty and Twenty-One, anti-constitutional misconduct** ([Twenty-One](../core_14.000_misconduct_designation.md) · [Twenty-Two](../core_15.000_misconduct_pattern_applications.md)). The last and narrowest gate. It opens only for the most serious violations and asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? Chapter Twenty-One applies that test to recurring patterns and adds no new criteria.
+- **Chapters Twenty and Twenty-One, anti-constitutional misconduct** ([Twenty-One](../core_14.000_misconduct_designation.md) · [Subcore 14-A — Twenty-Two](../subcore_14.010_misconduct_pattern_applications.md)). The last and narrowest gate. It opens only for the most serious violations and asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? Chapter Twenty-One applies that test to recurring patterns and adds no new criteria.
 
 **Review, enforcement, and authority**
 
@@ -758,22 +758,24 @@ flowchart TB
     K["Chapter Five<br/><br/>System and Institutional<br/>Charters"]
     D["Chapter Six<br/><br/>Functional independence<br/>and separation of duties"]
     S["Chapter Eight<br/><br/>System alignment certification"]
-    subgraph Q["Chapters Fourteen and Fifteen · Standing Records and measurement"]
+    I["Chapter Nine<br/><br/>Institutional alignment certification"]
+    subgraph Q["Chapter Ten · Standing Records and measurement"]
         direction LR
         E["Evidence about conduct or outcomes<br/><br/>Verified under Subcores 3-A to 3-C"]
         C["Contribution record<br/><br/>and measurement"]
         V["Violation record<br/><br/>and measurement"]
     end
-    subgraph N["Chapter Sixteen · effects"]
+    subgraph N["Chapters Ten to Thirteen · standing effects"]
         direction LR
         U["Recognition, rewards,<br/><br/>competency clearances"]
         R["Standing locks,<br/><br/>correction and remedy"]
     end
-    M["Chapter Twenty<br/><br/>Anti-constitutional misconduct review"]
-    L["Chapter Sixteen<br/><br/>Anti-Constitutional Trust Lock"]
-    F["Chapters Twenty-Two and Twenty-Three forums<br/><br/>Supervision, challenge and timely review"]
+    M["Chapter Fourteen<br/><br/>Anti-constitutional misconduct review"]
+    L["Chapter Twelve<br/><br/>Anti-Constitutional Trust Lock"]
+    F["Chapters Sixteen and Seventeen forums<br/><br/>Supervision, challenge and timely review"]
     K -.->|names who holds each seat| D
     D -.->|separates authority at every stage| S
+    D -.->|separates authority at every stage| I
     D -.->|separates authority at every stage| E
     D -.->|separates authority at every stage| F
     C --> U
@@ -781,12 +783,14 @@ flowchart TB
     M -->|final designation only| L
     V -->|qualifying finding<br/>and allegation| M
     S -->|material certification evidence| E
+    I -->|material certification evidence| E
     E -->|verified contribution| C
     E -->|verified violation| V
     F -.->|supervises all stages| E
     style K fill:none,stroke:#2563eb,color:#ffffff
     style D fill:none,stroke:#2563eb,color:#ffffff
     style S fill:none,stroke:#16a34a,color:#ffffff
+    style I fill:none,stroke:#16a34a,color:#ffffff
     style E fill:none,stroke:#64748b,color:#ffffff
     style C fill:none,stroke:#db2777,color:#ffffff
     style V fill:none,stroke:#db2777,color:#ffffff
@@ -813,7 +817,7 @@ flowchart TB
         C["Contribution Axis<br/><br/>• Help toward Flourishing<br/>• Can support recognition and competency clearance"]
         V["Violation Axis<br/><br/>• Harm and accountability failure<br/>• Can support locks, correction, and remedy"]
     end
-    Q3["Question 3 · What follows?<br/><br/>Chapter Sixteen integration and effects<br/><br/>• Apply gated pathway effects<br/>• No merged score or dignity rank<br/>• Keep challenge and restoration open"]
+    Q3["Question 3 · What follows?<br/><br/>Chapter Ten integration and effects<br/><br/>• Apply gated pathway effects<br/>• No merged score or dignity rank<br/>• Keep challenge and restoration open"]
     Q1 --> Q2
     Q2 --> C
     Q2 --> V
@@ -841,7 +845,7 @@ flowchart TB
         C["Contribution Axis<br/><br/>Verified constitutional benefit"]
         V["Violation Axis<br/><br/>Verified constitutional loss, harm,<br/>waste, foreclosure, or danger"]
     end
-    Effects["What happens because of it?<br/><br/>Chapter Sixteen effects, correction,<br/>remedy, safeguards, or standing locks"]
+    Effects["What happens because of it?<br/><br/>Chapters Ten to Thirteen: integration,<br/>effects, correction, remedy, or locks"]
     Facts -->|verified inputs| Measure
     Measure --> LEQU
     LEQU -->|same proportional scale; no offset| C
@@ -910,7 +914,7 @@ flowchart TB
 
 Each box pairs the Contribution Axis display label with the corresponding Violation Axis display label at the same magnitude band. The axes remain separate: the shared scale compares verified outcome magnitude, not moral worth, and never permits contribution to offset violation. The time ranges marked with `*` are the corpus’s illustrative 80-year human calibration; the binding unit is sentient-generic and substrate-agnostic.
 
-The standing model is deliberately not a single reputation score. Chapter Fourteen asks what happened, Chapter Fifteen measures how the verified contribution or violation should be classified, and Chapter Sixteen applies the gated pathway effects without reopening the facts or letting contribution offset a violation; Chapter Twenty adds a separate designation review only when its higher threshold is met.
+The standing model is deliberately not a single reputation score. Chapter Fourteen asks what happened, Subcore 10-D measures how the verified contribution or violation should be classified, and Chapter Sixteen applies the gated pathway effects without reopening the facts or letting contribution offset a violation; Chapter Twenty adds a separate designation review only when its higher threshold is met.
 
 The two standing tracks remain separate. The Chapter Twenty branch applies only when its conditions are met; ordinary Chapter Sixteen effects continue in parallel. The dotted supervision link represents forum review across the processes, rather than an additional final step.
 
@@ -961,7 +965,7 @@ That protection belongs to the entity. It does not shield an operator’s proper
 flowchart TB
     D["Ordinary dispute inside an authorized system"]
     P[["Published stakeholder challenge path<br/><br/>Outside this chapter"]]
-    R["Chapter Twenty-Two: route by primary stake<br/><br/>Family intake sorts; merits panels decide"]
+    R["Chapter Sixteen: route by primary stake<br/><br/>Family intake sorts; merits panels decide"]
     subgraph F["Forum families"]
         direction TB
         subgraph Frow1[" "]
@@ -1071,14 +1075,14 @@ These are the [Chapter Seventeen §5](../core_17.000_forum_families_escalation_t
 
 ```mermaid
 flowchart TB
-    A["Chapter Twenty-Seven<br/><br/>Documented legitimacy mechanism"]
+    A["Chapter Twenty-One<br/><br/>Documented legitimacy mechanism"]
     G["Authorized governing roles<br/><br/>Stated scope, limits and competent stewards"]
     P["Participation inside authorized systems<br/><br/>Voice and challenge paths for affected sentients"]
     R["Contestation, correction<br/><br/>and reauthorization where applicable"]
-    N["Chapter Twenty-Eight<br/><br/>Non-regression"]
-    U["Chapter Twenty-Nine<br/><br/>Amendment, ratification and adoption procedures"]
-    H["Chapter Thirty<br/><br/>Supremacy within scope and external-law relations"]
-    B["Chapter Thirty-One<br/><br/>Incorporation, edition and custody"]
+    N["Chapter Twenty-Two<br/><br/>Non-regression"]
+    U["Chapter Twenty-Three<br/><br/>Amendment, ratification and adoption procedures"]
+    H["Chapter Twenty-Four<br/><br/>Supremacy within scope and external-law relations"]
+    B["Chapter Twenty-Five<br/><br/>Incorporation, edition and custody"]
     I["Adopted implementation obligations<br/><br/>Systems · Institutions · Forums · Joint structure"]
     A -->|authorizes within documented terms| G
     G -->|must ensure| P
@@ -1226,7 +1230,7 @@ See [Chapter Twenty-One §7](../core_21.000_governance.md#7-authorized-roles-com
 ```mermaid
 flowchart TB
     Core["Numbered core_* files<br/><br/>Preamble + Chapters One–Thirty-One<br/>Binding constitutional source"]
-    Bridge["Chapter Thirty-One<br/><br/>Incorporation bridge<br/>Scope · edition · custody"]
+    Bridge["Chapter Twenty-Five<br/><br/>Incorporation bridge<br/>Scope · edition · custody"]
     Adopt["Valid adoption<br/><br/>Chapters Twenty-Nine and Thirty-One"]
     subgraph Comp["Adopted implementation corpus · implements, not narrows"]
         direction LR

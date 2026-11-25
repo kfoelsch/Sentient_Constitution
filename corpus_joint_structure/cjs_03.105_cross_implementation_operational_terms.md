@@ -15,9 +15,8 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and
+  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
-
 </details>
 
 <details>
@@ -347,7 +346,6 @@ Stewardship role
   - [material stake](../core_00.000_preamble.md#material-stake).
 - Downstream: constitutional orientation for all **oDef.2–oDef.23** / **CJS-3.110 §2** (*Oversight: Reflexive Transparency and Accountability Terms*)–**CJS-3.135 §23** (*Integrative: Intervention and Override Integrity Terms*) operational clusters.
 - Read with: [CJS-3.105 §0](cjs_03.105_cross_implementation_operational_terms.md#cjs-3105-0-cross-band-role-definition-preface-and-standing-competency-bar-and-clearance-interface) (*Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface*) role preface when role authority is in play; **CJS-0.105 §1** (*Cross-File Routing*) topic router when a cross-layer topic is triggered; [CJS-0.110 §1](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references) (*Section Identifiers and Article References*) for **oDef** / **Def** identifier rules.
-
 </details>
 
 <br>

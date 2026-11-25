@@ -125,7 +125,7 @@ CH13_PARTS: tuple[str, ...] = (
 
 CH14_PARTS: tuple[str, ...] = (
     "core_14.000_misconduct_designation.md",
-    "core_15.000_misconduct_pattern_applications.md",
+    "subcore_14.010_misconduct_pattern_applications.md",
 )
 
 CH15_PARTS: tuple[str, ...] = (

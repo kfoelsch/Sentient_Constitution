@@ -91,9 +91,9 @@ You do not have to read everything. Pick the time you have; each path builds on 
 
 <a id="the-full-text"></a><a id="how-to-read"></a><a id="core-files-by-topic"></a><a id="standing-pipeline-and-forums"></a>
 <details>
-<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–25</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and 24 numbered chapters</span></strong></summary>
 
-The Constitution is one document split into a Preamble and twenty-five chapters, with a subcore of detailed rules attached to some chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
+The Constitution is one document split into a Preamble and twenty-four chapters, numbered 1 through 25, with subcores attached to some chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
 
 | Part | What it covers |
 |---|---|
@@ -112,8 +112,7 @@ The Constitution is one document split into a Preamble and twenty-five chapters,
 | **Chapter 11**: [Contribution consequences](core_11.000_contribution_consequences.md) · [Subcore 11-A recency competency clearance](subcore_11.010_recency_competency_clearance.md) | Contribution consequences and related standing effects |
 | **Chapter 12**: [Violation consequences](core_12.000_violation_consequences.md) · [Subcore 12-A special locks](subcore_12.010_special_locks.md) | Violation findings, remedies, and applicable locks |
 | **Chapter 13**: [Final effect, restoration, and enforcement](core_13.000_final_effect_restoration_enforcement.md) · [Subcore 13-A cross adopter checks remedy durability](subcore_13.010_cross_adopter_checks_remedy_durability.md) | Final effects, restoration, and enforcement limits |
-| **Chapter 14**: [Misconduct designation](core_14.000_misconduct_designation.md) | Designation of anti-constitutional misconduct |
-| **Chapter 15**: [Misconduct pattern applications](core_15.000_misconduct_pattern_applications.md) | Patterns and criteria for misconduct applications |
+| **Chapter 14**: [ACMD framework](core_14.000_misconduct_designation.md) · [Subcore 14-A misconduct pattern applications](subcore_14.010_misconduct_pattern_applications.md) | ACMD criteria and named-pattern routing |
 | [Worked examples for Chapters 14–21](corpus_joint_structure/cjs_14.105_application_vignettes.md) | Illustrations of assessment and its consequences (these add no new rules) |
 | **Chapter 16**: [Forum](core_16.000_forum.md) · [Subcore 16-A forum intake default venue](subcore_16.010_forum_intake_default_venue.md) · [Subcore 16-B forum case seats contest routing](subcore_16.020_forum_case_seats_contest_routing.md) | Forum creation, intake, routing, and case review |
 | **Chapter 17**: [Forum families, escalation, and timely support](core_17.000_forum_families_escalation_timeliness_support.md) | Forum families, escalation, deadlines, and participation support |

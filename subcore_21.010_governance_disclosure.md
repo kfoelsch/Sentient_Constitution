@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 21-A**. Until 2026-11-20 its text was implementation text in the institutions corpus: §3 was section 4 of CI-4.205 (*Transparency, participation, and accessible challenge and service pathways*).
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 21-A**. Until 2026-11-20 its text was implementation text in the institutions corpus: §3 was section 4 of CI-4.205 (*Transparency, participation, and accessible challenge and service pathways*).
 >
 > **Upstream:** [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship), the chapter this file is attached to.
 > **Downstream:** [CI-4.205](corpus_institutions/ci_04.205_transparency_participation_accessible_pathways.md#ci-4205-transparency-participation-and-accessible-challenge-and-service-pathways) (*Transparency, participation, and accessible challenge and service pathways*); [Governance Disclosure Template](implementation/GOVERNANCE_DISCLOSURE_TEMPLATE.md).
@@ -30,9 +30,9 @@ Governing power is legitimate only while those it affects can see how it is used
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): incidents, conflicts, and sanctions are reported against the institution that holds them;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): outside assurance results and supervisory actions are published, not kept internal;
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): sentients can read what an institution did before they rely on it or challenge it;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): incidents, conflicts, and sanctions are reported against the institution that holds them;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): outside assurance results and supervisory actions are published, not kept internal;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): sentients can read what an institution did before they rely on it or challenge it;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients can see whether an institution serves them;
     - [Continuity](core_00.000_preamble.md#continuity): reports over time show whether problems are fixed or left to grow;

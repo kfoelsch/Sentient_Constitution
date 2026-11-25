@@ -895,12 +895,12 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-HUM-010
 - **Class:** humanity-scale stress / tabletop (first pass 2026-11-23)
-- **Summary:** An operator files thousands of duplicative automated objections to bury a community's contest desk before a deadline. **Expect:** [Chapter Fifteen §4.2](../core_15.000_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial): flooding with purpose or reckless disregard so real challenges cannot get through is a pattern application; coordinated duplicative filings without a distinct predicate are in scope; good-faith parallel filings for real redress are excluded. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).
+- **Summary:** An operator files thousands of duplicative automated objections to bury a community's contest desk before a deadline. **Expect:** [Subcore 14-A §4.2](../subcore_14.010_misconduct_pattern_applications.md#42-flooding-the-zone-and-contest-pathway-denial): flooding with purpose or reckless disregard so real challenges cannot get through is a pattern application; coordinated duplicative filings without a distinct predicate are in scope; good-faith parallel filings for real redress are excluded. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).
 - **Read with:** Chapter Twenty-One §4.2; Chapter Twenty §5.1 unified incident.
 
 ### Scenario ID: RS-HUM-011
 - **Class:** humanity-scale stress / tabletop (first pass 2026-11-23)
-- **Summary:** A coordinated bot network floods governance notice channels to bury published corrections; a newspaper's viral investigation is accused of the same. **Expect:** [Chapter Fifteen §4.3](../core_15.000_misconduct_pattern_applications.md#43-info-sphere-zone-flooding): coordinated inauthentic amplification and floods of notice channels are in scope; journalism, dissent, whistleblowing, ordinary virality, and volume alone are excluded. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).
+- **Summary:** A coordinated bot network floods governance notice channels to bury published corrections; a newspaper's viral investigation is accused of the same. **Expect:** [Subcore 14-A §4.3](../subcore_14.010_misconduct_pattern_applications.md#43-info-sphere-zone-flooding): coordinated inauthentic amplification and floods of notice channels are in scope; journalism, dissent, whistleblowing, ordinary virality, and volume alone are excluded. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).
 - **Read with:** Chapter Twenty-One §4.3; Chapter Twenty §5.1, §5.5.
 
 ### Scenario ID: RS-HUM-012

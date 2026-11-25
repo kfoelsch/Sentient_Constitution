@@ -21,7 +21,7 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (28.000) non-regression and Substantive Test 1;
+  - [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (22.000)non-regression and Substantive Test 1;
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy),
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy), and related
   - [Corpus](subcore_03.080_band_integrative.md#corpus) boundary concepts.
@@ -31,13 +31,12 @@
   - [§5](#5-supremacy-relative-to-other-binding-norms)–
   - [§6](#6-disputes-involving-external-legal-orders);
   - [§7](#7-relation-to-applicable-external-law).
-- Downstream: [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (29.000) adoption and supremacy continuity during amendment; [Article XXI-A](core_04.040_rights_part_e.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Chapter Fifteen, section 4.1 — *Rights-Floor waivers and unconstitutional contract terms*](core_15.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms) (21.000) where external-order interfaces implicate waiver or pseudo-contract devices.
+- Downstream: [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (23.000)adoption and supremacy continuity during amendment; [Article XXI-A](core_04.040_rights_part_e.md) (*Justice Objective and Scope*) review pathways preserved against external process gaps; [Subcore 14-A, section 4.1 — *Rights-Floor waivers and unconstitutional contract terms*](subcore_14.010_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms) (S14-A) where external-order interfaces implicate waiver or pseudo-contract devices.
 - Read with:
   - **[CS-4.320](corpus_systems/cs_04.320_justice_safeguards_restitution_rehabilitation.md#cs-4320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*) where this chapter's rules cite them for carrying out decisions across jurisdictions;
-  - [Chapter Thirteen §5 — *Enforcement realism*](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (19.000 §5) where cited in Chapter Sixteen §4.3;
+  - [Chapter Thirteen §5 — *Enforcement realism*](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (13.000 §5)where cited in Chapter Sixteen §4.3;
   - [Corpus and Authority Stack](subcore_03.080_band_integrative.md#defi1-corpus-and-authority-stack) (**Def.I1** cluster — read with
   - [Corpus](subcore_03.080_band_integrative.md#corpus) for custody and adoption).
-
 </details>
 
 <br>
@@ -104,10 +103,9 @@ New rights and stronger safeguards need an easy way in, so the text can improve 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Four](#chapter-twenty-four-expansion-supremacy-and-external-legal-orders) chapter frame; [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (28.000) non-regression (expansion must not violate Substantive Test 1).
-- Downstream: [Chapter Twenty-Three §10.1 Continuity of Supremacy and Challenge Rights during Amendment](core_23.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity during change; [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*including Chapters Two and Three consistency checks in operative text*).
+- Upstream: [Chapter Twenty-Four](#chapter-twenty-four-expansion-supremacy-and-external-legal-orders) chapter frame; [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (22.000)non-regression (expansion must not violate Substantive Test 1).
+- Downstream: [Chapter Twenty-Three §10.1 Continuity of Supremacy and Challenge Rights during Amendment](core_23.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment) (23.000 §10.1) continuity during change; [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*including Chapters Two and Three consistency checks in operative text*).
 - Read with: [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) when additions implicate new rights or classes.
-
 </details>
 
 <br>
@@ -124,11 +122,10 @@ Constitutional change may add new rights, safeguards, accountability mechanisms,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Three §10.1 Continuity of Supremacy and Challenge Rights during Amendment](core_23.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of supremacy during amendment; [Chapter Three *Authority Stack and Internal Hierarchy*](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (S3-L).
+- Upstream: [Chapter Twenty-Three §10.1 Continuity of Supremacy and Challenge Rights during Amendment](core_23.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment) (23.000 §10.1) continuity of supremacy during amendment; [Chapter Three *Authority Stack and Internal Hierarchy*](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (S3-L).
 - Subsections: [§5.1](#51-internal-hierarchy-for-adopters)–[§5.3](#53-conflict-disclosure-and-mitigation).
-- Downstream: [§6](#6-disputes-involving-external-legal-orders) external tribunals and preserved internal review pathways; [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (28.000) non-regression on internal-hierarchy maneuvers.
+- Downstream: [§6](#6-disputes-involving-external-legal-orders) external tribunals and preserved internal review pathways; [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (22.000)non-regression on internal-hierarchy maneuvers.
 - Read with: [Chapter Three *Authority Stack and Internal Hierarchy*](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (S3-L) as cross-linked from §4.1 operative text.
-
 </details>
 
 <br>
@@ -143,7 +140,6 @@ Constitutional change may add new rights, safeguards, accountability mechanisms,
 - Upstream: [§5](#5-supremacy-relative-to-other-binding-norms) supremacy framing.
 - Downstream: [§5.2](#52-stricter-external-protections) stricter-external overlay; [§5.3](#53-conflict-disclosure-and-mitigation) irreconcilable-conflict duties.
 - Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) for the boundary between source-layer authority and [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) last-resort hierarchy.
-
 </details>
 
 <br>
@@ -160,7 +156,6 @@ For adopting entities, [Authority Stack and Internal Hierarchy](subcore_03.080_b
 - Upstream: [§5.1](#51-internal-hierarchy-for-adopters) internal hierarchy baseline.
 - Downstream: [§5.3](#53-conflict-disclosure-and-mitigation) when stricter external and constitutional requirements appear to collide.
 - Read with: [Chapter Two §2.1](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (2.000 §2.1) Safety and Truth as non-negotiable ceilings on how far "stricter" external law can be pushed in interpretation.
-
 </details>
 
 <br>
@@ -174,9 +169,8 @@ Where valid external law, regulation, or treaty obligation applicable to the ado
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§5.1](#51-internal-hierarchy-for-adopters)–[§5.2](#52-stricter-external-protections) hierarchy and stricter-external rule.
-- Downstream: [§6](#6-disputes-involving-external-legal-orders) cooperation and preserved internal review pathways; **CS-4.320** (*Justice safeguards, restitution, and rehabilitation*) and [Chapter Thirteen §5 — *Enforcement realism*](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (19.000 §5) as cited in operative bullets.
+- Downstream: [§6](#6-disputes-involving-external-legal-orders) cooperation and preserved internal review pathways; **CS-4.320** (*Justice safeguards, restitution, and rehabilitation*) and [Chapter Thirteen §5 — *Enforcement realism*](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (13.000 §5)as cited in operative bullets.
 - Read with: **[CS-4.320](corpus_systems/cs_04.320_justice_safeguards_restitution_rehabilitation.md#cs-4320-justice-safeguards-restitution-and-rehabilitation)** (*Justice safeguards, restitution, and rehabilitation*) cross-jurisdiction and anti-evasion controls referenced in operative text.
-
 </details>
 
 <br>
@@ -204,8 +198,7 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[CS-4.320](c
 - Upstream: [§5.3](#53-conflict-disclosure-and-mitigation) documented conflict handling.
 - Subsections: [§6.1](#61-good-faith-cooperation); [§6.2](#62-preserved-internal-review-pathways).
 - Downstream: [§7](#7-relation-to-applicable-external-law) non-displacement and alignment; [Article XXI-A](core_04.040_rights_part_e.md) (*Justice Objective and Scope*) constitutional interpretation and review where external process is insufficient.
-- Read with: [Chapter Twenty-Three §10.1 Continuity of Supremacy and Challenge Rights during Amendment](core_23.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment) non-suspension of challenge rights during amendment.
-
+- Read with: [Chapter Twenty-Three §10.1 Continuity of Supremacy and Challenge Rights during Amendment](core_23.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment) (23.000 §10.1) non-suspension of challenge rights during amendment.
 </details>
 
 <br>
@@ -219,7 +212,6 @@ Cross-jurisdiction coordination and anti-evasion execution follow **[CS-4.320](c
 - Upstream: [§6](#6-disputes-involving-external-legal-orders) external-dispute frame.
 - Downstream: [§6.2](#62-preserved-internal-review-pathways) when external process is slow or inadequate.
 - Read with: Truth and auditability obligations in [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md), [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation), and [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) as applicable to record preservation.
-
 </details>
 
 <br>
@@ -234,16 +226,15 @@ Adopters must cooperate in good faith with competent external tribunals and regu
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§6.1](#61-good-faith-cooperation) cooperation duty.
-- Downstream: [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (29.000) procedural validity for waivers tied to adoption documents.
-- Read with: [Article XXI-A](core_04.040_rights_part_e.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Chapter Fifteen, section 4.1 — *Rights-Floor waivers and unconstitutional contract terms*](core_15.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms) (21.000).
-
+- Downstream: [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (23.000)procedural validity for waivers tied to adoption documents.
+- Read with: [Article XXI-A](core_04.040_rights_part_e.md) (*Justice Objective and Scope*) review and appeal safeguards referenced in operative text; [Subcore 14-A, section 4.1 — *Rights-Floor waivers and unconstitutional contract terms*](subcore_14.010_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms) (S14-A).
 </details>
 
 <br>
 
 *In plain terms: if an outside process cannot deliver timely, real protection, the constitution's own review and appeal routes stay open — boilerplate waivers demanded just to use a product or service do not erase those rights where the chapter applies.*
 
-Constitutional interpretation, appeal, and review pathways under **Article XXI-A** (*Justice Objective and Scope*) remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Chapter Fifteen, section 4.1 — *Rights-Floor waivers and unconstitutional contract terms*](core_15.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
+Constitutional interpretation, appeal, and review pathways under **Article XXI-A** (*Justice Objective and Scope*) remain available where external processes do not provide substitute protection within reasonable time and scope. Waivers of challenge rights, standing, or audit rights demanded as a condition of ordinary commercial convenience alone are **anti-constitutional misconduct** within the scope of [Subcore 14-A, section 4.1 — *Rights-Floor waivers and unconstitutional contract terms*](subcore_14.010_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms), and are **never binding** where applicable. The same **non-binding** discipline applies to agreement terms that purport to waive Rights-Floor protections or to override binding constitutional obligations, as stated in that section.
 
 ### 7. Relation to Applicable External Law
 <details>
@@ -252,12 +243,11 @@ Constitutional interpretation, appeal, and review pathways under **Article XXI-A
 - Upstream:
   - [§5](#5-supremacy-relative-to-other-binding-norms) internal hierarchy, stricter-external protections, and conflict disclosure;
   - [§6](#6-disputes-involving-external-legal-orders) cooperation with competent external orders;
-  - [Chapter Twenty-Three §12](core_23.000_amendment_ratification.md#12-ratification-and-adoption) (29.000 §12) (*deliberate adoption, document, and joining*);
-  - [Chapter Twenty-Five §5](core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (31.000 §5) (*model constitution; who may adopt; what non-adoption means for enforcement*).
+  - [Chapter Twenty-Three §12](core_23.000_amendment_ratification.md#12-ratification-and-adoption) (23.000 §12)(*deliberate adoption, document, and joining*);
+  - [Chapter Twenty-Five §5](core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (25.000 §5)(*model constitution; who may adopt; what non-adoption means for enforcement*).
 - Subsections: [§7.1](#71-non-displacement-and-limited-binding-effect); [§7.2](#72-alignment-when-used-within-external-legal-frameworks).
-- Downstream: [§5.1](#51-internal-hierarchy-for-adopters)–[§5.2](#52-stricter-external-protections) apply only within the limited binding effect stated here; [Chapter Twenty-Three §12](core_23.000_amendment_ratification.md#12-ratification-and-adoption) (29.000 §12) remains the sole adoption procedure.
-- Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*supremacy within valid source, adoption, and governance-layer scope*); [Chapter Twenty-Five §5](core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (31.000 §5) (*partial adoption must not shrink land, consultation, or FPIC duties the entity already bears*).
-
+- Downstream: [§5.1](#51-internal-hierarchy-for-adopters)–[§5.2](#52-stricter-external-protections) apply only within the limited binding effect stated here; [Chapter Twenty-Three §12](core_23.000_amendment_ratification.md#12-ratification-and-adoption) (23.000 §12)remains the sole adoption procedure.
+- Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*supremacy within valid source, adoption, and governance-layer scope*); [Chapter Twenty-Five §5](core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (25.000 §5)(*partial adoption must not shrink land, consultation, or FPIC duties the entity already bears*).
 </details>
 
 <br>
@@ -268,10 +258,9 @@ Constitutional interpretation, appeal, and review pathways under **Article XXI-A
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§7](#7-relation-to-applicable-external-law) relation-to-external-law frame; [Chapter Twenty-Five §5](core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (31.000 §5) (*enforceable only after valid adoption*).
+- Upstream: [§7](#7-relation-to-applicable-external-law) relation-to-external-law frame; [Chapter Twenty-Five §5](core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (25.000 §5)(*enforceable only after valid adoption*).
 - Downstream: [§7.2](#72-alignment-when-used-within-external-legal-frameworks) alignment when used inside an external framework; [§5.1](#51-internal-hierarchy-for-adopters) internal hierarchy for adopters within that limited effect.
-- Read with: [Chapter Twenty-Three §12.1](core_23.000_amendment_ratification.md#121-deliberate-adoption) (29.000 §12.1)–[§12.2](core_23.000_amendment_ratification.md#122-adoption-document) (*deliberate, documented, auditable document stating entity, scope, and effective date*).
-
+- Read with: [Chapter Twenty-Three §12.1](core_23.000_amendment_ratification.md#121-deliberate-adoption) (23.000 §12.1)[§12.2](core_23.000_amendment_ratification.md#122-adoption-document) (*deliberate, documented, auditable document stating entity, scope, and effective date*).
 </details>
 
 <br>
@@ -301,8 +290,7 @@ Within that limited binding effect, [§5.1](#51-internal-hierarchy-for-adopters)
 
 - Upstream: [§7.1](#71-non-displacement-and-limited-binding-effect) non-displacement and limited binding effect; [§6](#6-disputes-involving-external-legal-orders) cooperation and preserved internal review pathways.
 - Downstream: [§5.3](#53-conflict-disclosure-and-mitigation) when applicable external requirements and constitutional floors appear irreconcilable; [§6.1](#61-good-faith-cooperation) good-faith cooperation where jurisdiction is lawfully asserted.
-- Read with: [Chapter Twenty-Five §5](core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (31.000 §5) (*operations-guide use is not adoption; partial adoption must not shrink already-borne external duties*).
-
+- Read with: [Chapter Twenty-Five §5](core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (25.000 §5)(*operations-guide use is not adoption; partial adoption must not shrink already-borne external duties*).
 </details>
 
 <br>

@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Subcore 8-F](subcore_08.060_system_alignment_certification_records_recertification.md#subcore-8-f-system-alignment-certification--records-recertification-challenge-and-standing), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 8-E**. Until 2026-11-21 its text was in Chapter Ten as §§3.1.1–3.1.9 (*Minimum Record Contents*); here they are §§3.1–3.9. Chapter Ten keeps the overview of the contents, the record-integrity rules, and §3.1.10 *Completeness*.
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Subcore 8-F](subcore_08.060_system_alignment_certification_records_recertification.md#subcore-8-f-system-alignment-certification--records-recertification-challenge-and-standing), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 8-E**. Until 2026-11-21 its text was in Chapter Ten as §§3.1.1–3.1.9 (*Minimum Record Contents*); here they are §§3.1–3.9. Chapter Ten keeps the overview of the contents, the record-integrity rules, and §3.1.10 *Completeness*.
 >
 > **Upstream:** [Subcore 8-F §3 System Certification Record](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record), which states what the System Certification Record is, who keeps it, and when it is incomplete.
 > **Downstream:** [Subcore 9-F §3 Institutional Certification Record](subcore_09.060_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record), which follows these contents for an Institution; [CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*System lifecycle*).
@@ -30,10 +30,10 @@ A certification is only as trustworthy as the System Certification Record behind
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every finding, seat holder, and concern is written into the System Certification Record;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): reviewers can audit what was tested and who checked it;
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): the challenge paths and the review submissions log are published;
-    - [Subcore 3-I — Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): the operating plan states every deadline, interval, and response window;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every finding, seat holder, and concern is written into the System Certification Record;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): reviewers can audit what was tested and who checked it;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): the challenge paths and the review submissions log are published;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): the operating plan states every deadline, interval, and response window;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients can see what a certified system may and may not be relied on for;
     - [Continuity](core_00.000_preamble.md#continuity): each recertification builds on a complete record of the last;
@@ -57,10 +57,10 @@ The System Certification Record must identify, at minimum:
 
 - **System identity, scope, and status:**
   - the system, its System Version, its operator or steward, and its certified scope;
-  - the governing [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter) (or the reasoned absence of one, where that is immaterial);
+  - the governing [System Charter](subcore_03.075_band_continuity.md#system-charter) (or the reasoned absence of one, where that is immaterial);
   - affected communities and dependencies;
   - review status, including whether the certified scope matches the System Charter's stated scope where a System Charter exists; and
-  - where the operator or steward is an [Subcore 3-K — Institution](subcore_03.075_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Subcore 9-B §1 Purpose, Role, and Scope](subcore_09.020_institutional_alignment_certification_evaluation.md#1-purpose-role-and-scope));
+  - where the operator or steward is an [Institution](subcore_03.075_band_continuity.md#institution) that holds an Institutional Certification Record, a link to it by version, so that the institutional facts relied on are traceable ([Subcore 9-B §1 Purpose, Role, and Scope](subcore_09.020_institutional_alignment_certification_evaluation.md#1-purpose-role-and-scope));
 - **Prior System Certification Record:** for a later certification pass, a link to the completed System Certification Record it follows, kept under the Act Record rules in [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs), and what has changed since.
 
 <a id="32-classification-and-whole-system-findings"></a>
@@ -69,7 +69,7 @@ The System Certification Record must identify, at minimum:
 
 The System Certification Record must identify, at minimum:
 
-- **System Classification Record:** the [Subcore 3-K — System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), or its required contents under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*), reflecting the evaluation under [Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation), stating:
+- **System Classification Record:** the [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record), or its required contents under CS-8.305 (*System classification machinery*) and Subcore 8-A (*System Classification*), reflecting the evaluation under [Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation), stating:
   - the assigned system class;
   - the classification rationale;
   - key assumptions, including material-impact assumptions;
@@ -79,8 +79,8 @@ The System Certification Record must identify, at minimum:
   - the certification interval scaled to system class, stated for each certification status; and
   - where classification is uncertain or contested, the precautionary system class relied on and any certification conditions pending resolution;
 - **Whole-system evaluation findings:** the material findings under [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) and [Subcore 8-B §5 Evaluations Where Implicated](subcore_08.020_system_alignment_certification_evaluation.md#5-evaluations-where-implicated), including findings on systemic scope, privacy joint-invocation, exit, assembly and dissent, time-consistency, governance, incentive, and contestability where implicated. Where systemic risk is in scope under [Subcore 8-B §4.2 Systemic Scope and Risk Factors](subcore_08.020_system_alignment_certification_evaluation.md#42-systemic-scope-and-risk-factors), these findings must include:
-  - [Subcore 3-K — Risk Evaluation](subcore_03.075_band_continuity.md#risk-evaluation) findings and the assumptions relied on;
-  - [Subcore 3-M — Risk Disclosure](subcore_03.085_band_oversight.md#risk-disclosure) posture: who the disclosure is meant for or how it is routed, its timing relative to material decisions, and any justified hold-backs paired with usable substitutes; and
+  - [Risk Evaluation](subcore_03.075_band_continuity.md#risk-evaluation) findings and the assumptions relied on;
+  - [Risk Disclosure](subcore_03.085_band_oversight.md#risk-disclosure) posture: who the disclosure is meant for or how it is routed, its timing relative to material decisions, and any justified hold-backs paired with usable substitutes; and
   - defects or certification conditions where evaluation or disclosure remains incomplete.
 
   These risk findings live on this System Certification Record. They are not a separate named risk-disclosure record or a fifth mandatory named component record.
@@ -89,18 +89,18 @@ The System Certification Record must identify, at minimum:
 
 #### 3.3 System Data Types Record
 
-The System Certification Record must identify, at minimum, the [Subcore 3-K — System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record), or its required contents under Subcore 4-A (*Data Types*), produced or verified under [Subcore 8-B §4.4 Data Types and Handling Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation), stating:
+The System Certification Record must identify, at minimum, the [System Data Types Record](subcore_03.075_band_continuity.md#system-data-types-record), or its required contents under Subcore 4-A (*Data Types*), produced or verified under [Subcore 8-B §4.4 Data Types and Handling Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation), stating:
 - the data types materially in scope;
 - the classification rationale for ambiguous or multi-type data;
 - the separation and cross-domain-linkage controls relied on;
 - the handling, retention, lifecycle, and infrastructure-assurance posture;
-- enough attribution capability to support [Subcore 3-J — Attributable Action](subcore_03.070_band_accountability.md#attributable-action) and [Subcore 3-J — Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity);
+- enough attribution capability to support [Attributable Action](subcore_03.070_band_accountability.md#attributable-action) and [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity);
 - the most recent scheduled data-type re-evaluation, under **[Subcore 4-A §6.2](subcore_04.050_data_types.md#62-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[CS-4.305 §8 System Data Types Record Governance](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-8-system-data-types-record-governance)**:
   - its date or cycle identifier;
   - its cadence (scaled to system class and impact); and
   - any material retypes;
 - any justified restrictions on disclosure or audit access, with their public substitutes where Subcore 4-A (*Data Types*) requires them; and
-- where the Type O baseline applies, how [Subcore 3-M — Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) covers the certified scope: the System Charter fields relied on, boundary findings, and any coverage gaps or certification conditions.
+- where the Type O baseline applies, how [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) covers the certified scope: the System Charter fields relied on, boundary findings, and any coverage gaps or certification conditions.
 
 <a id="34-rights-floor-and-domain-findings"></a>
 
@@ -116,7 +116,7 @@ For each protection in the [Subcore 8-B §6 Rights-Floor and Domain Evaluations]
     - the scope of the dependent-systems map and resource flows;
     - findings on the integrity of the map and record (completeness, currency, and audit availability);
     - findings on extraction and return flows;
-    - support-adequacy findings under [Subcore 3-K — Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support); and
+    - support-adequacy findings under [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support); and
     - allocation-fairness findings;
   - **nondiscrimination** ([Subcore 8-B §6.4 Nondiscrimination Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#64-nondiscrimination-evaluation)) — burden-and-benefit pattern findings; protected-characteristic and proxy-discrimination findings; and substantive-fairness findings;
   - **accessibility** ([Subcore 8-B §6.5 Accessibility Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#65-accessibility-evaluation)) — substantive-participation, accommodation, and anti-denial-by-proxy findings;
@@ -145,7 +145,7 @@ The System Certification Record must identify, at minimum:
     - where recertification applies, material changes since the prior System Certification Record;
 - **Stakeholder, environmental, and integrity review:**
   - stakeholder, Rights-Floor, accessibility, dependency, and participation considerations;
-  - ecological exposure, [Subcore 3-K — Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) attribution, environmental-precondition dependency, lifecycle burden, restoration duty, and environmental-alignment component review where material; and
+  - ecological exposure, [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) attribution, environmental-precondition dependency, lifecycle burden, restoration duty, and environmental-alignment component review where material; and
   - risks of capture, self-review, misaligned incentives, evidence control, and obstructed challenge.
 
 <a id="36-supervision-independence-and-challenge-paths"></a>
@@ -156,7 +156,7 @@ The System Certification Record must identify, at minimum:
 
 - **Forum supervision:** the forum family or authority that issued, adopted, referred, sent for ruling, stayed, or reviewed each component, and the supervisory sequence (who oversees what, and in what order) under [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence);
 - **Functional-independence record:**
-  - the four seats required by [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (initiating, verify-or-authorize, record, and contest), including each holder and authority, and the [Subcore 3-K — Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) version in force when each seat was held;
+  - the four seats required by [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (initiating, verify-or-authorize, record, and contest), including each holder and authority, and the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) version in force when each seat was held;
   - every recusal, delegation, substitute, permitted merger, or emergency departure; and
   - enough control-line information to show that the operator or proponent did not verify its own certification claim or control the challenge to it;
 - **Challenge paths:** the named [Subcore 8-F — contestability paths](subcore_08.060_system_alignment_certification_records_recertification.md#52-contestability-paths) under [Subcore 8-F §5 Challenging a Certification](subcore_08.060_system_alignment_certification_records_recertification.md#5-challenging-a-certification) and the contestability chain under [Subcore 8-D §3.3 Contestability Chain](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain), showing how affected parties can challenge at each step.

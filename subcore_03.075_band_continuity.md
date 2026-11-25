@@ -62,7 +62,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 - Downstream:
   - [Chapter Thirteen §3.1 Anti-Aggregation of Gated-Pathway Effects](core_13.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) (19.000 §3.1) (*a gatekeeper check asks the record custodian; the Adoption Charter is where an adopter names that custodian and the office to ask*);
-  - [Subcore 10-B §7](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7) (*record custody and opening authority*); and
+  - [Subcore 10-B §7](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (S10-B §7) (*record custody and opening authority*); and
   - [Chapter Twenty-Three §12.2](core_23.000_amendment_ratification.md#122-adoption-document) (29.000 §12.2) (*the adoption document records the act of adoption and is a different document*).
 - Cluster component: none. This entry stands alone in the Continuity band.
 - Read with:
@@ -243,7 +243,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-F §4.3.3 Cause of Misalignment](subcore_08.060_system_alignment_certification_records_recertification.md#433-cause-of-misalignment) (10.000 §4.3.3) (*cause of misalignment*); read with [Subcore 9-F §4.5 Cascade from System Certifications](subcore_09.060_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications) (13.000 §4.5) (*cascade from System certifications*).
+- Canonical owner: [Subcore 8-F §4.3.3 Cause of Misalignment](subcore_08.060_system_alignment_certification_records_recertification.md#433-cause-of-misalignment) (S8-F §4.3.3) (*cause of misalignment*); read with [Subcore 9-F §4.5 Cascade from System Certifications](subcore_09.060_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications) (S9-F §4.5) (*cascade from System certifications*).
 - Cluster component: none.
 - Read with:
   - [Certification Pass](subcore_03.075_band_continuity.md#certification-pass),
@@ -288,7 +288,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-D §4.1 Go-Live Gate](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (9.000 §4.1) (*go-live gate, certification conditions, and bounded authorization*); read with [Subcore 8-D §4.4 Denial and Revocation](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) (9.000 §4.4) (*denial and revocation*).
+- Canonical owner: [Subcore 8-D §4.1 Go-Live Gate](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (S8-D §4.1) (*go-live gate, certification conditions, and bounded authorization*); read with [Subcore 8-D §4.4 Denial and Revocation](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) (S8-D §4.4) (*denial and revocation*).
 - Cluster component: none.
 - Read with:
   - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
@@ -332,7 +332,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-D §4.4 Denial and Revocation](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) (9.000 §4.4) (*refusing or taking back certification*).
+- Canonical owner: [Subcore 8-D §4.4 Denial and Revocation](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) (S8-D §4.4) (*refusing or taking back certification*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
   - [Certification Revocation](subcore_03.075_band_continuity.md#certification-revocation),
@@ -383,7 +383,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) (9.000 §3.2) (*supervisory sequence*); read with [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (10.000 §4) (*recertification and reopening*).
+- Canonical owner: [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) (S8-D §3.2) (*supervisory sequence*); read with [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (S8-F §4) (*recertification and reopening*).
 - Cluster component: none.
 - Read with:
   - [Lead Forum](subcore_03.075_band_continuity.md#lead-forum),
@@ -427,7 +427,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-D §4.4 Denial and Revocation](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) (9.000 §4.4) (*refusing or taking back certification*).
+- Canonical owner: [Subcore 8-D §4.4 Denial and Revocation](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) (S8-D §4.4) (*refusing or taking back certification*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
   - [Certification Denial](subcore_03.075_band_continuity.md#certification-denial),
@@ -478,7 +478,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-F §5.1 When the Path Opens](subcore_08.060_system_alignment_certification_records_recertification.md#51-when-the-path-opens) (10.000 §5.1) (*when the challenge path opens*); read with [Subcore 8-D §3.2.1 Challenge Path First](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#321-challenge-path-first) (9.000 §3.2.1) (*the System Certification Record names the path before sign-off*) and [Subcore 8-F §5.2 Contestability Paths](subcore_08.060_system_alignment_certification_records_recertification.md#52-contestability-paths) (10.000 §5.2) (*contestability paths*).
+- Canonical owner: [Subcore 8-F §5.1 When the Path Opens](subcore_08.060_system_alignment_certification_records_recertification.md#51-when-the-path-opens) (S8-F §5.1) (*when the challenge path opens*); read with [Subcore 8-D §3.2.1 Challenge Path First](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#321-challenge-path-first) (S8-D §3.2.1) (*the System Certification Record names the path before sign-off*) and [Subcore 8-F §5.2 Contestability Paths](subcore_08.060_system_alignment_certification_records_recertification.md#52-contestability-paths) (S8-F §5.2) (*contestability paths*).
 - Cluster component: none.
 - Read with:
   - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record), and
@@ -521,7 +521,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 9-F §3.1 Minimum Record Contents](subcore_09.060_institutional_alignment_certification_records_recertification.md#31-minimum-record-contents) (13.000 §3.1) (*minimum record contents*); read with [Subcore 9-F §4.5 Cascade from System Certifications](subcore_09.060_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications) (13.000 §4.5) (*cascade from System certifications*).
+- Canonical owner: [Subcore 9-F §3.1 Minimum Record Contents](subcore_09.060_institutional_alignment_certification_records_recertification.md#31-minimum-record-contents) (S9-F §3.1) (*minimum record contents*); read with [Subcore 9-F §4.5 Cascade from System Certifications](subcore_09.060_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications) (S9-F §4.5) (*cascade from System certifications*).
 - Cluster component: none.
 - Read with:
   - [Portfolio](subcore_03.075_band_continuity.md#portfolio),
@@ -565,7 +565,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-F §4.3.1 The Two Statuses](subcore_08.060_system_alignment_certification_records_recertification.md#431-the-two-statuses) (10.000 §4.3.1) (*the two statuses and clean recertifications*).
+- Canonical owner: [Subcore 8-F §4.3.1 The Two Statuses](subcore_08.060_system_alignment_certification_records_recertification.md#431-the-two-statuses) (S8-F §4.3.1) (*the two statuses and clean recertifications*).
 - Cluster component: none.
 - Read with:
   - [Recertification](subcore_03.075_band_continuity.md#recertification),
@@ -657,7 +657,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-D §4.2 Certification Defects and Correction](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#42-certification-defects-and-correction) (9.000 §4.2) (*certification defects and the forum's responses*); read with [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (10.000 §4) (*recertification and reopening*).
+- Canonical owner: [Subcore 8-D §4.2 Certification Defects and Correction](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#42-certification-defects-and-correction) (S8-D §4.2) (*certification defects and the forum's responses*); read with [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (S8-F §4) (*recertification and reopening*).
 - Cluster component: none.
 - Read with:
   - [Certification Pass](subcore_03.075_band_continuity.md#certification-pass),
@@ -700,7 +700,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-F §4.3 Provisional and Full Certification](subcore_08.060_system_alignment_certification_records_recertification.md#43-provisional-and-full-certification) (10.000 §4.3) (*earning, keeping, and losing certification status*).
+- Canonical owner: [Subcore 8-F §4.3 Provisional and Full Certification](subcore_08.060_system_alignment_certification_records_recertification.md#43-provisional-and-full-certification) (S8-F §4.3) (*earning, keeping, and losing certification status*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
   - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
@@ -749,9 +749,9 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-D §4.1 Go-Live Gate](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (9.000 §4.1) (*the go-live gate: what must hold before a system goes live*).
+- Canonical owner: [Subcore 8-D §4.1 Go-Live Gate](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (S8-D §4.1) (*the go-live gate: what must hold before a system goes live*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
-- Downstream: [Subcore 8-B §3.3 Pilot Certification](subcore_08.020_system_alignment_certification_evaluation.md#33-pilot-certification) (8.000 §3.3) (*a pilot is a go-live*).
+- Downstream: [Subcore 8-B §3.3 Pilot Certification](subcore_08.020_system_alignment_certification_evaluation.md#33-pilot-certification) (S8-B §3.3) (*a pilot is a go-live*).
 - Read with:
   - [Pilot](subcore_03.075_band_continuity.md#pilot),
   - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
@@ -803,7 +803,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 9-F §4.6 Reopening the Institution's Systems](subcore_09.060_institutional_alignment_certification_records_recertification.md#46-reopening-the-institutions-systems) (13.000 §4.6) (*reopening the Institution's Systems*); read with [Subcore 8-F §4.2 Reopening Triggers](subcore_08.060_system_alignment_certification_records_recertification.md#42-reopening-triggers) (10.000 §4.2) (*reopening triggers*).
+- Canonical owner: [Subcore 9-F §4.6 Reopening the Institution's Systems](subcore_09.060_institutional_alignment_certification_records_recertification.md#46-reopening-the-institutions-systems) (S9-F §4.6) (*reopening the Institution's Systems*); read with [Subcore 8-F §4.2 Reopening Triggers](subcore_08.060_system_alignment_certification_records_recertification.md#42-reopening-triggers) (S8-F §4.2) (*reopening triggers*).
 - Cluster component: none.
 - Read with:
   - [Reopened Review](subcore_03.075_band_continuity.md#reopened-review),
@@ -847,7 +847,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 9-B §3.1 Institution Class](subcore_09.020_institutional_alignment_certification_evaluation.md#31-institution-class) (11.000 §3.1) (*how an Institution's class is determined*); read with [CS-8.305 (*System classification machinery*)](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) and [Subcore 8-A (*System Classification*)](subcore_08.010_system_classification.md#subcore-8-a-system-classification).
+- Canonical owner: [Subcore 9-B §3.1 Institution Class](subcore_09.020_institutional_alignment_certification_evaluation.md#31-institution-class) (S9-B §3.1) (*how an Institution's class is determined*); read with [CS-8.305 (*System classification machinery*)](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) and [Subcore 8-A (*System Classification*)](subcore_08.010_system_classification.md#subcore-8-a-system-classification).
 - Cluster component: none.
 - Read with:
   - [Institution](subcore_03.075_band_continuity.md#institution),
@@ -884,7 +884,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 9-B — Chapter Eleven — Institutional Alignment Certification](subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation) (11.000) (*institution class, institutional evaluation, forum roles, record, cascade from system certifications, and reopening*).
+- Canonical owner: [Subcore 9-B — Institutional Alignment Certification](subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation) (S9-B) (*institution class, institutional evaluation, forum roles, record, cascade from system certifications, and reopening*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [Chapter Five §3 When System and Institutional Charters Are Required](core_05.000_charters.md#3-when-system-and-institutional-charters-are-required) (5.000 §3) (*an Institution's certification point*); [Chapter Seventeen §3.3 Institutional Forums](core_17.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (23.000 §3.3) (*institutional mandate and duty-compliance components*).
 - Read with:
@@ -951,7 +951,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 9-F §3 Institutional Certification Record](subcore_09.060_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record) (13.000 §3) (*minimum contents and integrity*).
+- Canonical owner: [Subcore 9-F §3 Institutional Certification Record](subcore_09.060_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record) (S9-F §3) (*minimum contents and integrity*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
   - [Institutional Alignment Certification](subcore_03.075_band_continuity.md#institutional-alignment-certification),
@@ -1002,7 +1002,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 9-B §4 Whole-Institution Certification Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (11.000 §4), item 8 (*data types and handling*), and [Subcore 9-F §3.1 Minimum Record Contents](subcore_09.060_institutional_alignment_certification_records_recertification.md#31-minimum-record-contents); read with [Subcore 8-B §4.4 Data Types and Handling Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4).
+- Canonical owner: [Subcore 9-B §4 Whole-Institution Certification Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (S9-B §4), item 8 (*data types and handling*), and [Subcore 9-F §3.1 Minimum Record Contents](subcore_09.060_institutional_alignment_certification_records_recertification.md#31-minimum-record-contents); read with [Subcore 8-B §4.4 Data Types and Handling Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (S8-B §4.4).
 - Cluster component: none.
 - Read with:
   - [Institutional Alignment Certification](subcore_03.075_band_continuity.md#institutional-alignment-certification),
@@ -1080,7 +1080,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Seventeen Interim Protection](core_17.000_forum_families_escalation_timeliness_support.md#interim-protection) (22.000) (*interim protection while a matter is pending*); read with [Subcore 8-D §3.2.3 Urgent Protection](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection) (9.000 §3.2.3) (*urgent protection in a certification pass*).
+- Canonical owner: [Chapter Seventeen Interim Protection](core_17.000_forum_families_escalation_timeliness_support.md#interim-protection) (22.000) (*interim protection while a matter is pending*); read with [Subcore 8-D §3.2.3 Urgent Protection](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection) (S8-D §3.2.3) (*urgent protection in a certification pass*).
 - Cluster component: none.
 - Read with:
   - [Stay](subcore_03.070_band_accountability.md#stay), and
@@ -1122,7 +1122,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) (9.000 §3.2) (*supervisory sequence and lead coordination*); read with [Subcore 8-D §3.1.1 Four Seats in a Certification](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) (9.000 §3.1.1) (*four seats in a certification*).
+- Canonical owner: [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) (S8-D §3.2) (*supervisory sequence and lead coordination*); read with [Subcore 8-D §3.1.1 Four Seats in a Certification](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) (S8-D §3.1.1) (*four seats in a certification*).
 - Cluster component: none.
 - Read with:
   - [Certification Pass](subcore_03.075_band_continuity.md#certification-pass),
@@ -1208,7 +1208,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 9-F §4.2.1 What Counts as New Material Authority](subcore_09.060_institutional_alignment_certification_records_recertification.md#421-what-counts-as-new-material-authority) (13.000 §4.2.1) (*what counts as new material authority*); read with [Subcore 9-F §4.2.2 Recertification for New Material Authority](subcore_09.060_institutional_alignment_certification_records_recertification.md#422-recertification-for-new-material-authority) (13.000 §4.2.2) (*recertification for new material authority*).
+- Canonical owner: [Subcore 9-F §4.2.1 What Counts as New Material Authority](subcore_09.060_institutional_alignment_certification_records_recertification.md#421-what-counts-as-new-material-authority) (S9-F §4.2.1) (*what counts as new material authority*); read with [Subcore 9-F §4.2.2 Recertification for New Material Authority](subcore_09.060_institutional_alignment_certification_records_recertification.md#422-recertification-for-new-material-authority) (S9-F §4.2.2) (*recertification for new material authority*).
 - Cluster component: none.
 - Read with:
   - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter),
@@ -1252,7 +1252,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 9-B §2.1 Who Is Certified](subcore_09.020_institutional_alignment_certification_evaluation.md#21-who-is-certified) (11.000 §2.1) (*who is certified, and the one-System case*); read with [Subcore 9-D §4.4 Denial and Revocation for an Institution](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution) (12.000 §4.4) (*denial and revocation for an Institution*).
+- Canonical owner: [Subcore 9-B §2.1 Who Is Certified](subcore_09.020_institutional_alignment_certification_evaluation.md#21-who-is-certified) (S9-B §2.1) (*who is certified, and the one-System case*); read with [Subcore 9-D §4.4 Denial and Revocation for an Institution](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution) (S9-D §4.4) (*denial and revocation for an Institution*).
 - Cluster component: none.
 - Read with:
   - [Certification Pass](subcore_03.075_band_continuity.md#certification-pass),
@@ -1296,7 +1296,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (10.000 §4) (*operating, recertifying, and reopening a certified System*); read with [Subcore 9-D §4.4 Denial and Revocation for an Institution](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution) (12.000 §4.4) (*reading governing authority for operator*).
+- Canonical owner: [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (S8-F §4) (*operating, recertifying, and reopening a certified System*); read with [Subcore 9-D §4.4 Denial and Revocation for an Institution](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution) (S9-D §4.4) (*reading governing authority for operator*).
 - Cluster component: none.
 - Read with:
   - [System](subcore_03.075_band_continuity.md#system), and
@@ -1338,7 +1338,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-B §3.3 Pilot Certification](subcore_08.020_system_alignment_certification_evaluation.md#33-pilot-certification) (8.000 §3.3) (*how a pilot is certified, scaled by class and by how readily the system can be replaced*); read with [Subcore 8-D §4.1 Go-Live Gate](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (9.000 §4.1) (*the go-live gate*).
+- Canonical owner: [Subcore 8-B §3.3 Pilot Certification](subcore_08.020_system_alignment_certification_evaluation.md#33-pilot-certification) (S8-B §3.3) (*how a pilot is certified, scaled by class and by how readily the system can be replaced*); read with [Subcore 8-D §4.1 Go-Live Gate](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (S8-D §4.1) (*the go-live gate*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [CS-4.345 — System lifecycle](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*progressive deployment*).
 - Read with:
@@ -1390,7 +1390,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 9-B §4 Whole-Institution Certification Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (11.000 §4) (*whole-Institution certification evaluation and the portfolio test*); read with [Subcore 9-F §3.1 Minimum Record Contents](subcore_09.060_institutional_alignment_certification_records_recertification.md#31-minimum-record-contents) (13.000 §3.1) (*minimum record contents*).
+- Canonical owner: [Subcore 9-B §4 Whole-Institution Certification Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (S9-B §4) (*whole-Institution certification evaluation and the portfolio test*); read with [Subcore 9-F §3.1 Minimum Record Contents](subcore_09.060_institutional_alignment_certification_records_recertification.md#31-minimum-record-contents) (S9-F §3.1) (*minimum record contents*).
 - Cluster component: none.
 - Read with:
   - [Institution](subcore_03.075_band_continuity.md#institution), and
@@ -1432,7 +1432,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-F §4.3 Provisional and Full Certification](subcore_08.060_system_alignment_certification_records_recertification.md#43-provisional-and-full-certification) (10.000 §4.3) (*earning, keeping, and losing certification status*).
+- Canonical owner: [Subcore 8-F §4.3 Provisional and Full Certification](subcore_08.060_system_alignment_certification_records_recertification.md#43-provisional-and-full-certification) (S8-F §4.3) (*earning, keeping, and losing certification status*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Read with:
   - [Full Certification](subcore_03.075_band_continuity.md#full-certification),
@@ -1480,7 +1480,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-D §4 Certification Outcomes](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*outcomes, certification interval, and reopening*); read with [Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) (*class-scaled assurance and recertification*) and [CS-4.345 §10](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-10-recertification-regression-testing-and-certification-defects) (*recertification, regression testing, and certification defects*).
+- Canonical owner: [Subcore 8-D §4 Certification Outcomes](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*outcomes, certification interval, and reopening*); read with [Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (S8-B §3) (*class-scaled assurance and recertification*) and [CS-4.345 §10](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-10-recertification-regression-testing-and-certification-defects) (*recertification, regression testing, and certification defects*).
 - Cluster component: none. This entry stands beside the [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) topic group and does not join it.
 - Downstream: [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*forum supervision of certification and recertification records*).
 - Read with:
@@ -1534,7 +1534,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-E §3.8 Outcome and Reliance Limits](subcore_08.050_system_certification_record_contents.md#38-outcome-and-reliance-limits) (S8-E §3.8) (*outcome and reliance limits*); read with [Subcore 8-D §4.1 Go-Live Gate](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (9.000 §4.1) (*go-live gate*) and [Subcore 8-D §3.3 Contestability Chain](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain) (9.000 §3.3) (*reliance limits during a contest*).
+- Canonical owner: [Subcore 8-E §3.8 Outcome and Reliance Limits](subcore_08.050_system_certification_record_contents.md#38-outcome-and-reliance-limits) (S8-E §3.8) (*outcome and reliance limits*); read with [Subcore 8-D §4.1 Go-Live Gate](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) (S8-D §4.1) (*go-live gate*) and [Subcore 8-D §3.3 Contestability Chain](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain) (S8-D §3.3) (*reliance limits during a contest*).
 - Cluster component: none.
 - Read with:
   - [Provisional Certification](subcore_03.075_band_continuity.md#provisional-certification),
@@ -1577,7 +1577,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-F §4.2 Reopening Triggers](subcore_08.060_system_alignment_certification_records_recertification.md#42-reopening-triggers) (10.000 §4.2) (*reopening triggers*); read with [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (10.000 §4) (*recertification and reopening*).
+- Canonical owner: [Subcore 8-F §4.2 Reopening Triggers](subcore_08.060_system_alignment_certification_records_recertification.md#42-reopening-triggers) (S8-F §4.2) (*reopening triggers*); read with [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (S8-F §4) (*recertification and reopening*).
 - Cluster component: none.
 - Read with:
   - [Certification Pass](subcore_03.075_band_continuity.md#certification-pass),
@@ -1620,7 +1620,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-F §4.2 Reopening Triggers](subcore_08.060_system_alignment_certification_records_recertification.md#42-reopening-triggers) (10.000 §4.2) (*reopening triggers*); read with [Subcore 9-F §4.2 Reopening Triggers](subcore_09.060_institutional_alignment_certification_records_recertification.md#42-reopening-triggers) (13.000 §4.2) (*reopening triggers for an Institution*).
+- Canonical owner: [Subcore 8-F §4.2 Reopening Triggers](subcore_08.060_system_alignment_certification_records_recertification.md#42-reopening-triggers) (S8-F §4.2) (*reopening triggers*); read with [Subcore 9-F §4.2 Reopening Triggers](subcore_09.060_institutional_alignment_certification_records_recertification.md#42-reopening-triggers) (S9-F §4.2) (*reopening triggers for an Institution*).
 - Cluster component: none.
 - Read with:
   - [Reopened Review](subcore_03.075_band_continuity.md#reopened-review), and
@@ -1682,7 +1682,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) (*timely resolution, materiality tiers, and anti-delay discipline*); read with [Subcore 8-F §4.3.4 Tier Windows](subcore_08.060_system_alignment_certification_records_recertification.md#434-tier-windows) (10.000 §4.3.4) (*tier windows in a certification pass*).
+- Canonical owner: [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) (*timely resolution, materiality tiers, and anti-delay discipline*); read with [Subcore 8-F §4.3.4 Tier Windows](subcore_08.060_system_alignment_certification_records_recertification.md#434-tier-windows) (S8-F §4.3.4) (*tier windows in a certification pass*).
 - Cluster component: none.
 - Read with:
   - [Certification Pass](subcore_03.075_band_continuity.md#certification-pass),
@@ -1727,7 +1727,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Subcore 8-D §3.2.3 Urgent Protection](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection) (9.000 §3.2.3) (*urgent protection*); read with [Chapter Seventeen Interim Protection](core_17.000_forum_families_escalation_timeliness_support.md#interim-protection) (22.000) (*interim protection while a matter is pending*).
+- Canonical owner: [Subcore 8-D §3.2.3 Urgent Protection](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection) (S8-D §3.2.3) (*urgent protection*); read with [Chapter Seventeen Interim Protection](core_17.000_forum_families_escalation_timeliness_support.md#interim-protection) (22.000) (*interim protection while a matter is pending*).
 - Cluster component: none.
 - Read with:
   - [Stay](subcore_03.070_band_accountability.md#stay), and
@@ -1848,10 +1848,10 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, **participation**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** (primary) and **Continuity**; scales with [material stake](core_00.000_preamble.md#material-stake).
-- Canonical owner: [Subcore 8-B — Chapter Eight — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000) (*process, record contents, supervisory sequence, and Standing-Record bridge*); read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
+- Canonical owner: [Subcore 8-B — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B) (*process, record contents, supervisory sequence, and Standing-Record bridge*); read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](subcore_03.075_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
-  - [Subcore 10-B — Chapter Fourteen — Standing Records and verified-input gate](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (14.000);
+  - [Subcore 10-B — Standing Records and verified-input gate](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (S10-B);
   - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*forum supervision*);
   - [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*survival-essential access floor where certification gates delivery or continued operation*);
   - [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) and
@@ -1968,13 +1968,13 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner:
-  - [Subcore 8-F — Chapter Ten §3 — System Certification Record](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) (*minimum contents and record integrity*); read with
-  - [Subcore 8-B §6](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (8.000 §6) (*Rights-Floor non-substitution*),
-  - [Subcore 8-D §3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (9.000 §3) (*forum process, supervisory sequence, and contestability chain*),
+  - [Subcore 8-F — §3 — System Certification Record](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*minimum contents and record integrity*); read with
+  - [Subcore 8-B §6](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (S8-B §6) (*Rights-Floor non-substitution*),
+  - [Subcore 8-D §3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (S8-D §3) (*forum process, supervisory sequence, and contestability chain*),
   - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (*outcomes, reopening, and non-evasion*), and
   - [Subcore 8-F §6](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing) (*Standing-Record bridge*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](subcore_03.075_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
-- Downstream: [Subcore 10-B — Chapter Fourteen — Standing Records and verified-input gate](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (14.000); [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*forum supervision and reopening*).
+- Downstream: [Subcore 10-B — Standing Records and verified-input gate](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (S10-B); [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*forum supervision and reopening*).
 - Read with:
   - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification),
   - [System Classification Record](subcore_03.075_band_continuity.md#system-classification-record),
@@ -2066,7 +2066,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical content owner: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** (*dual-axis contents, disclosure, challenge, and reclassification*); read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
-- Canonical incorporation owner: [Subcore 8-B — Chapter Eight §3 — System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) and [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*when System Alignment Certification runs*).
+- Canonical incorporation owner: [Subcore 8-B — §3 — System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (S8-B §3) and [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (S8-F §3.1) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](subcore_03.075_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
   - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record);
@@ -2141,7 +2141,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical content owner: **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** (*type inventory, handling posture, disclosure, challenge, and retyping*); read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
-- Canonical incorporation owner: [Subcore 8-B — Chapter Eight §4.4 — Data Types and Handling Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4) and [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*when System Alignment Certification runs*).
+- Canonical incorporation owner: [Subcore 8-B — §4.4 — Data Types and Handling Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (S8-B §4.4) and [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (S8-F §3.1) (*when System Alignment Certification runs*).
 - Cluster component: [System Alignment Certification, System Certification Record, System Classification Record, and System Data Types Record](subcore_03.075_band_continuity.md#system-alignment-certification-system-certification-record-system-classification-record-and-system-data-types-record).
 - Downstream:
   - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record);
@@ -2321,7 +2321,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint) and [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
+- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint) and [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
 - Read with:
   - [Harm](subcore_03.070_band_accountability.md#harm),
@@ -2379,7 +2379,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint); [Subcore 8-B §4.2.1 Risk Evaluation and Disclosure Bridge](subcore_08.020_system_alignment_certification_evaluation.md#421-risk-evaluation-and-disclosure-bridge) (8.000 §4.2.1) (*SAC risk-evaluation half of the evaluation-and-disclosure bridge*); [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*findings on the System Certification Record*).
+- Downstream: Flourishing measurement family (*Safety, harm, and risk as constitutional measurement*); Principles: [4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint); [Subcore 8-B §4.2.1 Risk Evaluation and Disclosure Bridge](subcore_08.020_system_alignment_certification_evaluation.md#421-risk-evaluation-and-disclosure-bridge) (S8-B §4.2.1) (*SAC risk-evaluation half of the evaluation-and-disclosure bridge*); [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (S8-F §3.1) (*findings on the System Certification Record*).
 - Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
 - Read with:
   - [Risk](subcore_03.075_band_continuity.md#risk),
@@ -2515,7 +2515,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (cumulative / long-horizon ecological effects).
+- Downstream: Principles: [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) (ecological bounds and **Environmental Preconditions** / **Ecological Integrity** in the productive-capacity discipline); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (cumulative / long-horizon ecological effects).
 - Owner floor: [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*) for environmental preconditions and ecological integrity.
 - Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](subcore_03.075_band_continuity.md#ecological-footprint-semi-independent).
@@ -2575,7 +2575,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
+- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
 - Read with:
   - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
@@ -2770,7 +2770,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
+- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Cluster component: [Chapter Three *Resilience, Safety, Reversibility, Self-Healing, Cascading Failure, Existential Risk, Environmental Preconditions, and Wellbeing*](subcore_03.075_band_continuity.md#resilience-safety-reversibility-self-healing-cascading-failure-existential-risk-environmental-preconditions-and-wellbeing) (S3-K)
 - Read with:
   - [Risk](subcore_03.075_band_continuity.md#risk),
@@ -3251,7 +3251,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) and [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), where ecological bounds, cumulative effects, and long-horizon materiality shape evaluation.
+- Downstream: Principles: [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) and [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), where ecological bounds, cumulative effects, and long-horizon materiality shape evaluation.
 - Owner floor: [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](subcore_03.075_band_continuity.md#ecological-footprint-semi-independent).
 - Read with:
@@ -3336,7 +3336,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 - Downstream: Principles:
   - [4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
   - [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Owner floor: [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*).
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](subcore_03.075_band_continuity.md#ecological-footprint-semi-independent).
@@ -3429,9 +3429,9 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 
 - Downstream: Continuity measurement family (*Ecological Footprint as constitutional measurement*); Principles:
   - [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) (ecological bounds);
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / dependency / cumulative effects);
-  - [Subcore 8-B §6.1](subcore_08.020_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) (8.000 §6.1) (*system alignment certification footprint evaluation*).
+  - [Subcore 8-B §6.1](subcore_08.020_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) (S8-B §6.1) (*system alignment certification footprint evaluation*).
 - Owner floors: [Article I-B](core_04.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) (*Ecological Footprint and Transparency*) and [Article XVII-C](core_04.020_rights_part_c.md#article-xvii-c-verification-accessibility) (*Verification Accessibility*).
 - Read with: the
   - [Ecological Integrity, Footprint, and Sustainability cluster](subcore_03.075_band_continuity.md#ecological-footprint-semi-independent),
@@ -3502,7 +3502,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1), [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) / I-B ecological disciplines.
+- Downstream: Principles: [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1), [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) / I-B ecological disciplines.
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](subcore_03.075_band_continuity.md#ecological-footprint-semi-independent).
 - Read with:
   - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity),
@@ -3578,7 +3578,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) ecological-preconditions discipline where decisions allocate foreseeable burdens across time.
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim), [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and **Article I-A** (*Environmental Preconditions and Ecological Integrity*) ecological-preconditions discipline where decisions allocate foreseeable burdens across time.
 - Cluster component: [Ecological Integrity, Footprint, and Sustainability](subcore_03.075_band_continuity.md#ecological-footprint-semi-independent).
 - Read with:
   - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity),
@@ -3941,7 +3941,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
   - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process),
   - [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Cluster component: [Dependency and Cross-System Support](subcore_03.075_band_continuity.md#dependency-and-cross-system-support).
 - Cluster component: [*Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity*](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration)
@@ -4018,7 +4018,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Article V-B](core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Certification: [Subcore 8-B §6.3 Proportionate Cross-System Support Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) (8.000 §6.3) where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies.
+- Owner floor: [Article V-B](core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Certification: [Subcore 8-B §6.3 Proportionate Cross-System Support Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) (S8-B §6.3) where the **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) materiality trigger applies.
 - Downstream: [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) (*the support owed where extraction is material*); [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records that show extraction*); Continuity measurement family (*Dependency and resource flows*; *Cross-system support*).
 - Cluster component: [Dependency and Cross-System Support](subcore_03.075_band_continuity.md#dependency-and-cross-system-support).
 - Read with:
@@ -4089,7 +4089,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 - Owner floor:
   - [Article V-B](core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*). Implementation routing:
   - **[CS-4.335](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship)** (*Resource allocation and funding stewardship*);
-  - [Subcore 8-B — Chapter Eight — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000)
+  - [Subcore 8-B — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B)
   - [Subcore 8-B §6.3](subcore_08.020_system_alignment_certification_evaluation.md#63-proportionate-cross-system-support-evaluation) where shared-infrastructure reliance is materially at issue.
 - Downstream: [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*dependent-systems maps and resource-flow records used to evaluate adequacy*); [Preamble §2 *Measurements Overview*](core_00.000_preamble.md#2-measurements-overview) (*constitutional measurement orientation*); Continuity measurement family (*dependency and resource-flow measurement*).
 - Cluster component: [Dependency and Cross-System Support](subcore_03.075_band_continuity.md#dependency-and-cross-system-support).
@@ -4262,7 +4262,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 - Downstream: Principles:
   - [material stake](core_00.000_preamble.md#material-stake) scaling;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations)).
 - Cluster component: [Systemic Effects and Capture](subcore_03.075_band_continuity.md#systemic-effects-and-capture).
 - Read with:
@@ -4715,8 +4715,8 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); scales with [material stake](core_00.000_preamble.md#material-stake).
 - Downstream:
   - [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters) (5.000) (*when a System Charter is required, what it states, and how it changes*);
-  - [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000) (*System and Institutional Certification Record scope and reopening*);
-  - [Subcore 10-B §7](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7) (*the System Charter names or points to the record-opening authority and record custodian for Standing Records concerning its chartered scope*);
+  - [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B) (*System and Institutional Certification Record scope and reopening*);
+  - [Subcore 10-B §7](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (S10-B §7) (*the System Charter names or points to the record-opening authority and record custodian for Standing Records concerning its chartered scope*);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*); institutional publication of binding-governance and weighting rules under
   - **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) /
   - **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*).
@@ -4791,7 +4791,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 - Constitutional frame: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness**; [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); scales with [material stake](core_00.000_preamble.md#material-stake).
 - Downstream:
   - [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters) (5.000) (*when an Institutional Charter is required, what it states, and how it changes*);
-  - [Subcore 10-B §7](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7) (*the Institutional Charter names or points to the record-opening authority and record custodian for Standing Records concerning its chartered scope*);
+  - [Subcore 10-B §7](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (S10-B §7) (*the Institutional Charter names or points to the record-opening authority and record custodian for Standing Records concerning its chartered scope*);
   - [Chapter Seventeen §3.3](core_17.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (23.000 §3.3) (*institutional mandate and supervised-scope disputes*);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*); institutional publication of binding-governance and weighting rules under
   - **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) /
@@ -4903,9 +4903,9 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 - Downstream:
   - [Chapter Five §6 The Charter Role Map and Standing-Record Custody](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody) (5.000 §6) (*what the System Charter or Institutional Charter owes the map*);
   - [Chapter Six §6 Published Placement, Vacancy, and Substitution](core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) (6.000 §6) (*the published map of seats*);
-  - [Subcore 8-D §3.1.1 Four Seats in a Certification](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) (9.000 §3.1.1) and
+  - [Subcore 8-D §3.1.1 Four Seats in a Certification](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification) (S8-D §3.1.1) and
   - [Subcore 8-F §3.1 Minimum Record Contents](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (*certification seats and the record of them*);
-  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
+  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (S10-B §7);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*),
   - **CI-21.205 §5** (*Authorized Roles and Accountability Chains*), and
   - **CI-21.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
@@ -5225,7 +5225,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 - Downstream: Principles:
   - [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) (survival / shelter continuity);
   - [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5) (**Article XXII** (*Interoperability, Portability, and Exit Integrity*) read-together noted in **O** line);
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (**Dependency** scaling).
 - Owner floor: [Article III-A](core_04.000_rights_part_a.md#article-iii-a-survival) (*Survival*) *Stable shelter and operating environment* bullet, *Protection against arbitrary eviction* protection. Cross-references: [Article XXII](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) interoperability / portability / exit-integrity (distinct but read-together), [Article XXIX-D](core_04.040_rights_part_e.md#article-xxix-d-non-compliant-property-and-systems-voluntary-turnover-incentives) (*Non-Compliant Property and Systems; Voluntary Turnover Incentives*) Adoption Transition stewardship.
 - Cluster component: [Bodily-Maintenance Access, Occupancy Continuity, Environmental Preconditions, Cultural Continuity, and Anti-Displacement Floor](subcore_03.075_band_continuity.md#survival-floor-continuity-bodily-maintenance-occupancy-and-environment) (now consolidated with Safe Conditions and Rest/Leisure and Rest in the Section 3.5 Labor and Economic Floor cluster).
@@ -5310,7 +5310,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (community continuity / cumulative effects).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (community continuity / cumulative effects).
 - Owner floors:
   - [Article VI-C](core_04.010_rights_part_b.md#article-vi-c-nondiscrimination) (*nondiscrimination and language / culture / heritage protection*) and
   - [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*territorial / ecosystem-integrity precondition*). Interaction pointers:
@@ -5616,7 +5616,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Subcore 8-B §6.5 Accessibility Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#65-accessibility-evaluation) (8.000 §6.5) (substantive participation and materiality under **accessibility** evaluation); [2.1. Non-Negotiable Constraints: Safety](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
+- Downstream: Principles: [Subcore 8-B §6.5 Accessibility Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#65-accessibility-evaluation) (S8-B §6.5) (substantive participation and materiality under **accessibility** evaluation); [2.1. Non-Negotiable Constraints: Safety](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (**Safety** stack read with labor-floor role of this entry).
 - Owner floor: [Article III-D](core_04.000_rights_part_a.md#article-iii-d-safe-working-conditions) (*Safe Working Conditions*); safety of products and services offered to others routes to [Article III-F](core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information) (*Safe Products and Health Information*). Systems-layer implementation: [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*). Operational profile: [CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*System lifecycle*) safety profiles where applicable.
 - Cluster component: [Def.C1 *Labor and Economic Floor*](subcore_03.075_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
 - Read with:
@@ -5693,7 +5693,7 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 - Downstream: Principles:
   - [Chapter Two §13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (2.020 §13.3) (participation-capacity preservation vs false efficiency);
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7) (**Meaningful Agency** in tradeoff stack);
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (**Materiality** / **Dependency** scaling).
 - Owner floor: [Article III-E](core_04.000_rights_part_a.md#article-iii-e-rest-and-recuperation) (*Rest and Recuperation*).
 - Cluster component: [Def.C1 *Labor and Economic Floor*](subcore_03.075_band_continuity.md#defc1-labor-and-economic-floor-compensation-organization-safe-conditions-leisure-and-creative-work).
@@ -6443,7 +6443,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (2.050 §19.1.3), [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and Chapter Four strategy / stewardship requirements.
+- Downstream: Principles: [Chapter Two §19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (2.050 §19.1.3), [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and Chapter Four strategy / stewardship requirements.
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
   - [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect),
@@ -6564,7 +6564,7 @@ See **Anti-Segmentation Principle**.
 - Downstream: Principles:
   - [Chapter Two §19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (2.050 §19.1.3),
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
@@ -6633,7 +6633,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (2.050 §19.1.3); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (periodic revalidation / misalignment detection).
+- Downstream: Principles: [Chapter Two §19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (2.050 §19.1.3); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (periodic revalidation / misalignment detection).
 - Owner floor: [Chapter Twenty-One §5](core_21.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate) (27.000 §5).
 - Cluster component: [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
@@ -6664,7 +6664,7 @@ See **Anti-Segmentation Principle**.
     **Primary assessment:** Apply [Materiality](subcore_03.085_band_oversight.md#materiality) and evidence-of-misalignment tests consistent with:
     - [Contestability](subcore_03.070_band_accountability.md#contestability);
     - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional); and
-    - Chapter Fifteen **contribution** **inputs** where stewardship claims are material to classification or standing.
+    - Subcore 10-D **contribution** **inputs** where stewardship claims are material to classification or standing.
 <a id="review-and-correction-duty-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** maintaining published strategy or stewardship claims without periodic revalidation where observability is practicable.

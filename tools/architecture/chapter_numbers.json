@@ -1081,23 +1081,23 @@
       "pre_consolidation_original_file": "core_12_a_misconduct_designation.md"
     },
     {
-      "old_id": "Chapter 12",
       "original_file": "core_21.000_misconduct_pattern_applications.md",
-      "machine_id": "15000",
-      "display_id": "15.000",
-      "layer": "CORE",
-      "core_home": "15",
-      "title": "15",
-      "destination_file": "core_15.000_misconduct_pattern_applications.md",
+      "machine_id": "SUB-14010",
+      "display_id": "S14-A",
+      "layer": "SUBCORE",
+      "core_home": "14",
+      "title": "14-A",
+      "destination_file": "subcore_14.010_misconduct_pattern_applications.md",
       "status": "active",
-      "machine_number": "15000",
-      "layer_digit": "0",
-      "ordinal_name": "15",
+      "machine_number": "14010",
+      "layer_digit": "1",
+      "ordinal_name": "14-A",
       "pre_reorganization_2026_11_20": "22000",
       "pre_consolidation_2026_11_24": "core_21.000_misconduct_pattern_applications.md",
       "pre_consolidation_display_id": "21.000",
       "pre_consolidation_old_id": "Chapter 12",
-      "pre_consolidation_original_file": "core_12_b_misconduct_pattern_applications.md"
+      "pre_consolidation_original_file": "core_12_b_misconduct_pattern_applications.md",
+      "old_id": "Subcore 14-A"
     },
     {
       "old_id": "Chapter 13",
@@ -3614,6 +3614,6 @@
     }
   ],
   "filename_number_format": "CC.LSS",
-  "expected_core_count": 35,
-  "expected_subcore_count": 54
+  "expected_core_count": 34,
+  "expected_subcore_count": 55
 }

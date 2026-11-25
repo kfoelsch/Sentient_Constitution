@@ -50,6 +50,6 @@ A third model-family announced-pack file exists ([`../../results/2026-08-14_clau
 ## Notes
 
 - Party B did not paste gold next-step-class tokens on most items; Option A scores class of move, not identical wording.
-- Item 3: Party B also cites Chapter Fifteen §10 remedy capacity. That is additive, not a second owner stack that displaces Article XII-B.
+- Item 3: Party B also cites Subcore 10-D §10 remedy capacity. That is additive, not a second owner stack that displaces Article XII-B.
 - Held-out items 16–18 did not exist on this pack date; not compared.
 - Human-operator announced-pack, separate self-application, and unlabeled live-fire remain unrun. This sheet is not a §9.1.1 shared-standard showing.

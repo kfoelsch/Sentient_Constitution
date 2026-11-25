@@ -24,9 +24,9 @@
   - [§10](#10-measurement-illustrations) (*worked measurement examples*);
   - [§11](#11-hand-off-to-question-3--cross-question-measurement-hooks) (*hand-off to Question 3*).
 - Downstream:
-  - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000) (*Question 3 effects and integration*);
+  - [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F) (*Question 3 effects and integration*);
   - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) (*designation only — does not reopen Question 2 measurement*).
-- Read with: [Subcore 3-J — *Standing State, Contribution, and Violation*](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation) (S3-J) (*canonical definition routing*).
+- Read with: [*Standing State, Contribution, and Violation*](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation) (S3-J) (*canonical definition routing*).
 - Worked examples (they add no rule), within the [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes) (see [§10 Measurement Illustrations](#10-measurement-illustrations)):
   - [CJS-14.105 §8 Riparian Cooperative Restoration (Contribution Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-8-riparian-cooperative-restoration-contribution-measurement) measures a verified contribution; and
   - [CJS-14.105 §9 Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement) measures a verified violation.
@@ -35,7 +35,7 @@
 
 <br>
 
-Chapter Fifteen is the constitutional owner of **Question 2**, which measures the facts [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) verified.
+Subcore 10-D is the constitutional owner of **Question 2**, which measures the facts [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) verified.
 
 
 ### 1. Purpose, Role, and Scope
@@ -48,7 +48,7 @@ Chapter Fifteen is the constitutional owner of **Question 2**, which measures th
 
 - It takes the facts already verified under **Chapter Ten section 4** and written into the Standing Record under **Chapter Ten section 6** as fixed.
 - It hands the slot and descriptors to Chapter Ten, starting at **section 5** (*Descriptor Integration and Attachment Normalization*).
-- Chapter Fifteen alone assigns the numeric slot. [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) adds an anti-constitutional-misconduct designation to a qualifying slot and does not move it.
+- Subcore 10-D alone assigns the numeric slot. [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) adds an anti-constitutional-misconduct designation to a qualifying slot and does not move it.
 - The common scale compares magnitude, not moral worth, and never lets help cancel harm.
 
 **Chapter scope:** The chapter begins at [§3 Question 2 — How Good or Bad Was It?](#3-question-2--how-good-or-bad-was-it). It covers:
@@ -81,8 +81,8 @@ Without a shared scale, the same harm could be called minor in one place and gra
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): help and harm are measured the same way for everyone;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): a shared scale lets anyone see whether a measure was applied fairly;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): help and harm are measured the same way for everyone;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): a shared scale lets anyone see whether a measure was applied fairly;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): like cases get like measures, which is a basis of fair treatment;
     - [Continuity](core_00.000_preamble.md#continuity): a stable scale keeps measures comparable from year to year;
@@ -169,11 +169,11 @@ This part covers Question 2 only, the measuring step. It takes facts that are al
 
 Measuring standing does **not** decide whether an entity is a **sentient**.
 
-- Disputes about status go to [Subcore 3-N — Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) and [Article VI-B](core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*). They do not go to LEQU scores or classification records.
-- While a status dispute is open under [Subcore 3-N — Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life), **Article VI-B** (*Sentience-Status Adjudication Floor*) includes the entity by default: it can still be measured and can still file a Standing Record until the dispute is decided, and operators must not treat the open dispute alone as a reason to deny it standing.
-- If the entity is found to be a [Subcore 3-N — Sentient](subcore_03.090_band_participation.md#sentient), or its status is narrowed or restored after adjudication in a decision that can itself be reviewed:
+- Disputes about status go to [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) and [Article VI-B](core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*). They do not go to LEQU scores or classification records.
+- While a status dispute is open under [Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life), **Article VI-B** (*Sentience-Status Adjudication Floor*) includes the entity by default: it can still be measured and can still file a Standing Record until the dispute is decided, and operators must not treat the open dispute alone as a reason to deny it standing.
+- If the entity is found to be a [Sentient](subcore_03.090_band_participation.md#sentient), or its status is narrowed or restored after adjudication in a decision that can itself be reviewed:
   - the Standing Record's subject is updated from that point on, and
-  - a wrongful exclusion must not be backdated to erase the entity's eligibility to be measured in the meantime, except through [Subcore 3-J — Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation).
+  - a wrongful exclusion must not be backdated to erase the entity's eligibility to be measured in the meantime, except through [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation).
 
 ### 4. Magnitude and Severity Input Dimensions
 
@@ -226,7 +226,7 @@ Reminder: none of this cancels out an open violation record. The no-offset rule 
 | **What to look at** | **What it does** | **Where they are set out** |
 | --- | --- | --- |
 | **How big it is overall (LEQU)** | The main measure, and the one that controls the slot. For a contribution, it is the total verified good that was done, counted in LEQU. For a violation, it is the total verified constitutional loss. Chapter Fourteen's misconduct designation is decided separately. | [§8 Unified proportional LEQU scale](#8-unified-proportional-lequ-scale--contribution-and-violation-axes) |
-| **Who it reaches (how many, how deeply, how vulnerable)** | Adjusts the LEQU estimate and how much the benefit or harm matters (its materiality). | [§6.2 Shared Impact-Scaling Rules](#62-shared-impact-scaling-rules); [Subcore 3-M — Materiality](subcore_03.085_band_oversight.md#materiality) |
+| **Who it reaches (how many, how deeply, how vulnerable)** | Adjusts the LEQU estimate and how much the benefit or harm matters (its materiality). | [§6.2 Shared Impact-Scaling Rules](#62-shared-impact-scaling-rules); [Materiality](subcore_03.085_band_oversight.md#materiality) |
 | **How long it lasts (duration; durability of a benefit, irreversibility of a harm)** | Adjusts the LEQU estimate. For a contribution, lasting stewardship, benefit across generations, or lasting repair of an institution point toward the top slots. For a violation, lasting trauma, loss that cannot be undone, and lasting damage to sentients' ability to act for themselves raise the estimate of the total loss. | [§6.2 Shared Impact-Scaling Rules](#62-shared-impact-scaling-rules) |
 | **How far it reaches (across places or institutions)** | Adjusts the LEQU estimate. For a contribution, for example benefit across communities or institutions, or at the scale of a civilization. For a violation, harm that spreads across communities or institutions, or across a civilization, may raise the estimate of the total loss. | [§6.2 Shared Impact-Scaling Rules](#62-shared-impact-scaling-rules) |
 
@@ -278,7 +278,7 @@ Conduct-character facts are recorded as separately traceable descriptors. They m
 | --- | --- |
 | Deception, concealment, evasion, repeating the conduct after notice, reckless disregard, structural enablement (setting things up so harm is easy or likely), or abuse of a major dependency imbalance (exploiting someone who relies heavily on you) | Each stays a separately recorded conduct fact. |
 | Violence, coercion, manipulation, or danger to liberty | Stays separately recorded and may require stronger safeguards whatever the slot. |
-| [Subcore 3-J — Cruelty](subcore_03.070_band_accountability.md#cruelty) (verified suffering as an end in itself, or gratuitous or degrading harm beyond what was necessary and proportionate) | Stays a separately recorded conduct fact. It may require stronger safeguards and limits on degrading remedies under [Chapter Twelve §3 Violation, Correction, and Prevention](core_12.000_violation_consequences.md#3-violation-correction-and-prevention). |
+| [Cruelty](subcore_03.070_band_accountability.md#cruelty) (verified suffering as an end in itself, or gratuitous or degrading harm beyond what was necessary and proportionate) | Stays a separately recorded conduct fact. It may require stronger safeguards and limits on degrading remedies under [Chapter Twelve §3 Violation, Correction, and Prevention](core_12.000_violation_consequences.md#3-violation-correction-and-prevention). |
 
 **Responsibility and attribution:**
 
@@ -613,7 +613,7 @@ For every row in this table, the Question 2 default owner is [§4.2.2 How the Wa
 | **Deception / concealment / evasion** | Default owner | [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) — concealment / evasion escalated lock |
 | **Persistence / pattern / recurrence after notice** | Default owner | [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) — recurrence-persistence lock |
 | **Violence / coercion / liberty danger** | Default owner, plus **Violent Misconduct** in [§5.2 Violation Route Descriptor Catalog and Measurement Roles](#52-violation-route-descriptor-catalog-and-measurement-roles) | [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) — protective and safeguard locks |
-| **Cruelty** | Default owner, plus [Subcore 3-J — Cruelty](subcore_03.070_band_accountability.md#cruelty) | [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) — protective and safeguard locks; [Chapter Twelve §3.3 Voluntary Public Accountability Expression](core_12.000_violation_consequences.md#33-voluntary-public-accountability-expression) — non-degrading restorative expression where used |
+| **Cruelty** | Default owner, plus [Cruelty](subcore_03.070_band_accountability.md#cruelty) | [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) — protective and safeguard locks; [Chapter Twelve §3.3 Voluntary Public Accountability Expression](core_12.000_violation_consequences.md#33-voluntary-public-accountability-expression) — non-degrading restorative expression where used |
 | **Diffusion of responsibility or control** | Default owner, plus actor-specific linkage under [Subcore 10-B §6.1 Minimum Record Contents](subcore_10.020_standing_assessment.md#61-minimum-record-contents) and [Subcore 10-B §6.3 Collective and Actor-Specific Records](subcore_10.020_standing_assessment.md#63-collective-and-actor-specific-records) | [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) — broader gated pathway scope or consideration of misuse of an institution |
 | **Acquiescent participation / failure to resist** | Default owner | [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) — gated-pathway scope and recurrence-persistence effects |
 

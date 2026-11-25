@@ -70,7 +70,7 @@ A constitution with many parts can be played off against itself: one rule cited 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Subcore 3-A §3 — Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#3-definition-components-and-joint-satisfaction) (S3-A §3); [Subcore 3-A §4 Definition Integrity Requirement](subcore_03.010_definition_structure.md#4-definition-integrity-requirement) (S3-A §4); [Subcore 3-B §4 — Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) (S3-B §4).
-- Downstream: [Subcore 3-C §§3 and 5 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#3-exclusive-enforcement-and-burden-allocation) (S3-C §3); [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000); [Non-Compliance Finding Profile](subcore_03.070_band_accountability.md#non-compliance-finding-profile).
+- Downstream: [Subcore 3-C §§3 and 5 — Exclusive Enforcement and Burden Allocation; Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#3-exclusive-enforcement-and-burden-allocation) (S3-C §3); [Subcore 10-B — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B); [Non-Compliance Finding Profile](subcore_03.070_band_accountability.md#non-compliance-finding-profile).
 - Read with:
   - [Chapter Two §19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection) (2.050 §19.3) and
   - [§19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response) — **constitutional misalignment** is stewardship and incentive divergence; it is not a substitute label for **non-compliance**;
@@ -94,7 +94,7 @@ A constitution with many parts can be played off against itself: one rule cited 
     - **constitutional misalignment** at the stewardship and incentive layer (Chapter Two §19 (*Incentive Alignment and System Capture*));
     - [Residual Risk / Misalignment](subcore_03.075_band_continuity.md#residual-risk--misalignment) as a bounded risk state after mitigation;
     - system alignment certification status under Chapter Eight; and
-    - Chapter Fifteen violation-axis slot labels (those classify verified violation findings and do not redefine whether a definition is met).
+    - Subcore 10-D violation-axis slot labels (those classify verified violation findings and do not redefine whether a definition is met).
 <a id="non-compliance-a"></a>
 - **How to measure and assess**
   - **Primary measure:** Integrative Materiality — [Materiality](subcore_03.085_band_oversight.md#materiality) scales duty intensity under [material stake](core_00.000_preamble.md#material-stake); not a separate measurement category.
@@ -306,7 +306,7 @@ A constitution with many parts can be played off against itself: one rule cited 
   - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) — constitutional warrant for legitimate reward tracking under
   - [Chapter Two §19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) (2.050 §19.1.3); where a claimant justifies exclusivity by capacity or efficiency gains, those claims must remain outcome-traceable under
   - [Chapter Two §19.1.5 Constitutional Outcome Claims Discipline](core_02.050_governance_incentive_application.md#1915-constitutional-outcome-claims-discipline) (2.050 §19.1.5).
-- For innovations with direct constitutional impact, public benefit may be assessed using [Lifespan Equivalent Unit (LEQU)](subcore_03.090_band_participation.md#lifespan-equivalent-unit-lequ) as one measure of contribution magnitude under Chapter Fifteen.
+- For innovations with direct constitutional impact, public benefit may be assessed using [Lifespan Equivalent Unit (LEQU)](subcore_03.090_band_participation.md#lifespan-equivalent-unit-lequ) as one measure of contribution magnitude under Subcore 10-D.
 
 </details>
 
@@ -734,7 +734,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (tetrad capture discipline under
   - [Chapter Two §18](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
   - [material stake](core_00.000_preamble.md#material-stake) scaling);
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) and
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18).
 - Principle-layer rule:
@@ -1032,7 +1032,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
       - proportionate clawback;
       - knowing-acceptance reporting; and
       - correction.
-  - **Out of scope:** rating how good or bad the verified contribution or violation was. That rating is [Chapter Fifteen §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it), using [Subcore 10-D §4.2 Contribution Magnitude-Input and Violation Severity-Input Dimensions](subcore_10.040_standing_measurement.md#42-contribution-magnitude-input-and-violation-severity-input-dimensions).
+  - **Out of scope:** rating how good or bad the verified contribution or violation was. That rating is [Subcore 10-D §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it), using [Subcore 10-D §4.2 Contribution Magnitude-Input and Violation Severity-Input Dimensions](subcore_10.040_standing_measurement.md#42-contribution-magnitude-input-and-violation-severity-input-dimensions).
 <a id="misaligned-reward-correction-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether verified misalignment actually costs the rewards it produced.

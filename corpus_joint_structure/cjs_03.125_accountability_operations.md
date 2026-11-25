@@ -15,10 +15,9 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and
+  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Read with: [CJS-3.105 §1](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional Compass and Cluster Map*) constitutional compass.
-
 </details>
 
 <br>
@@ -120,7 +119,7 @@ The sub-rules below apply that cluster minimum to specific anti-concentration, d
 
 - Upstream: [Chapter Two §11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](../core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable) (2.010 §11.1); [Market Concentration Threshold](../subcore_03.070_band_accountability.md#market-concentration-threshold).
 - Downstream:
-  - [Chapter Fifteen §7.1](../core_15.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (21.000 §7.1) where concentration-based subversion is at issue;
+  - [Subcore 14-A §7.1](../subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (S14-A §7.1) where concentration-based subversion is at issue;
   - [CJS-3.125 §11.2](cjs_03.125_accountability_operations.md#cjs-3125-112-anti-domination-conduct-and-remediation-catalog) (*Anti-domination conduct and remediation catalog*) (banned domination conduct and remedies);
   - [CJS-3.125 §11.3](cjs_03.125_accountability_operations.md#cjs-3125-113-consolidation-ceiling-setting-discipline-adopter-tunable) (*Consolidation ceiling-setting discipline (adopter-tunable)*) (how to set the consolidation ceiling);
   - [Chapter Two §11.2 Pro-Competition and Anti-Domination](../core_02.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination) (2.010 §11.2);
@@ -178,7 +177,7 @@ Market-concentration threshold activation
   - [§11.2.2 Anti-Domination Prohibitions (Don'ts)](../core_02.010_values_principles_continuity_aim.md#1122-anti-domination-prohibitions-donts) principle-layer prohibitions;
   - [Chapter Two §11.2.3 Remedies](../core_02.010_values_principles_continuity_aim.md#1123-remedies) (2.010 §11.2.3) principle-layer remedy direction);
   - [Market Structure](../subcore_03.070_band_accountability.md#market-structure).
-- Downstream: [Chapter Fifteen §7.1](../core_15.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (21.000 §7.1) where concentration-based subversion is at issue; [Chapter Fifteen §4.1](../core_15.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms) (21.000 §4.1) where mobility-restriction or waiver conduct is at issue; [Chapter Two §11.3 Consolidation Ceiling](../core_02.010_values_principles_continuity_aim.md#113-consolidation-ceiling) (2.010 §11.3).
+- Downstream: [Subcore 14-A §7.1](../subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (S14-A §7.1) where concentration-based subversion is at issue; [Subcore 14-A §4.1](../subcore_14.010_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms) (S14-A §4.1) where mobility-restriction or waiver conduct is at issue; [Chapter Two §11.3 Consolidation Ceiling](../core_02.010_values_principles_continuity_aim.md#113-consolidation-ceiling) (2.010 §11.3).
 - Read with:
   - [CJS-3.125 §11.1](#cjs-3125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Market concentration threshold-setting discipline (adopter-tunable)*);
   - **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*);
@@ -196,7 +195,7 @@ When market-structuring arrangements violate the [Chapter Two §11 Market Struct
 - exclusionary dealing, predatory foreclosure, discriminatory access, or retaliatory dependency cutoff;
 - tying, bundling, ranking, reputation, identity, credentialing, or payment practices that defeat meaningful choice or market entry without **Necessity** and **Proportionality**;
 - coercive lock-in, interoperability suppression, data-portability suppression, interface capture, or switching-cost design that materially defeats exit (read with **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*) and **Article XXII** (*Interoperability, Portability, and Exit Integrity*));
-- labor-market or supplier monopsony, wage-fixing, excessive non-solicitation, or functionally equivalent mobility-restricting terms that suppress fair bargaining or productive mobility (labor-mobility categorical prohibitions: [Article III-C](../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*); misconduct routing: [Chapter Fifteen §4.1 Rights-Floor Waivers and Unconstitutional Contract Terms](../core_15.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms));
+- labor-market or supplier monopsony, wage-fixing, excessive non-solicitation, or functionally equivalent mobility-restricting terms that suppress fair bargaining or productive mobility (labor-mobility categorical prohibitions: [Article III-C](../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*); misconduct routing: [Subcore 14-A §4.1 Rights-Floor Waivers and Unconstitutional Contract Terms](../subcore_14.010_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms));
 - killer acquisitions, serial acquisitions, federation, ownership, licensing, patent, capital-access, or contracting structures that materially reduce potential competition or preserve dominance by removing contestable entrants (read with [Chapter Two §11.3 Consolidation Ceiling](../core_02.010_values_principles_continuity_aim.md#113-consolidation-ceiling));
 - collusive coordination, information exchange, common control, interlocking governance, or settlement arrangements that suppress rivalry, bargaining alternatives, or independent accountability;
 - self-preferencing by gatekeepers where it forecloses rivals, dependent participants, public-interest alternatives, or constitutionally required review pathways;
@@ -231,7 +230,7 @@ Remedies must be proportionate to the concentration, dependency, conduct, and co
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Chapter Two §11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)](../core_02.010_values_principles_continuity_aim.md#1132-consolidation-ceiling-mechanism-adopter-tunable) (2.010 §11.3.2); [Chapter Two §11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](../core_02.010_values_principles_continuity_aim.md#1131-consolidation-risk-pre-lock-in-impairment) (2.010 §11.3.1); [Market Structure](../subcore_03.070_band_accountability.md#market-structure).
-- Downstream: [Chapter Fifteen §7.1](../core_15.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (21.000 §7.1) where concentration-based subversion is at issue; [CJS-3.125 §11.2](cjs_03.125_accountability_operations.md#cjs-3125-112-anti-domination-conduct-and-remediation-catalog) (*Anti-domination conduct and remediation catalog*) (remedy catalog on ceiling violation).
+- Downstream: [Subcore 14-A §7.1](../subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (S14-A §7.1) where concentration-based subversion is at issue; [CJS-3.125 §11.2](cjs_03.125_accountability_operations.md#cjs-3125-112-anti-domination-conduct-and-remediation-catalog) (*Anti-domination conduct and remediation catalog*) (remedy catalog on ceiling violation).
 - Read with: [CJS-3.125 §11.1](cjs_03.125_accountability_operations.md#cjs-3125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Market concentration threshold-setting discipline (adopter-tunable)*); [Chapter Two §13.2.4 Proxy-Divergence Invalidation](../core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4); [Article III-C](../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*).
 </details>
 

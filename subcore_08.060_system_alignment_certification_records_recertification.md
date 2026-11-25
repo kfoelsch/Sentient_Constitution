@@ -4,7 +4,7 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Subcore 8-F** — the certification **record** and its integrity, **recertification and reopening**, the **challenge path**, and the **standing bridge** (**§1–§6**). **Chapter Eight** — purpose, framing (system class), and evaluation requirements — is in [Subcore 8-B — `subcore_08.020_system_alignment_certification_evaluation.md`](subcore_08.020_system_alignment_certification_evaluation.md). **Chapter Nine** — the **forum process** and the certification **outcomes** with the go-live gate — is in [Subcore 8-D — `subcore_08.040_system_alignment_certification_forum_process_outcomes.md`](subcore_08.040_system_alignment_certification_forum_process_outcomes.md).
 >
-> - **Constitutional owner (joint with Chapters Eight and Nine):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Three [Subcore 3-M — Auditability](subcore_03.085_band_oversight.md#auditability).
+> - **Constitutional owner (joint with Chapters Eight and Nine):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Three [Auditability](subcore_03.085_band_oversight.md#auditability).
 > - **Inputs:** [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) through [Subcore 8-B §6](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) supply evaluation outputs reflected on the System Certification Record, and [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) supplies the outcome that completes it.
 > - **Anti-relocation rule:** Chapter Eight does not restate Chapter Eight evaluation mechanics, Chapter Eight forum-process or outcome rules, Chapter Three canonical definitions, Chapter Ten standing measurement, or Chapter Ten standing effects. **§6** states the standing bridge. Chapter Eight also does not relocate auditing ownership from **Article XVII** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-3.110 §3 and CJS-3.115 §3** (*Audit process home*)–**CJS-3.110 §5**.
 >
@@ -17,16 +17,16 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-B §1](subcore_08.020_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (8.000 §1) (*certification purpose and process overview*);
-  - [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) through
+  - [Subcore 8-B §1](subcore_08.020_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (S8-B §1) (*certification purpose and process overview*);
+  - [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (S8-B §3) through
   - [Subcore 8-B §6](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*evaluation outputs for the System Certification Record*);
-  - [Subcore 8-D §3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (9.000 §3) and
+  - [Subcore 8-D §3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (S8-D §3) and
   - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (*forum review and the outcome that the System Certification Record completes with*);
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3).
 - Downstream:
   - [§3](#3-system-certification-record) through
   - [§6](#6-relationship-to-standing);
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000);
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B);
   - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000).
 - Read with: **[CF-16.415](corpus_forum/cf_16.415_routing_operations_transfer_certification_representative_treatment.md#cf-16415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing operations, transfer, questions for ruling, and representative treatment*) and **[CF-16.425](corpus_forum/cf_16.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-16425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
@@ -87,9 +87,9 @@ Systems change after they are certified: new versions ship, owners change, and r
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the System Certification Record shows who decided what, and when;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): recertification checks that the system still meets the standard;
-    - [Subcore 3-I — Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): recertification comes on schedule, not only after harm;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the System Certification Record shows who decided what, and when;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): recertification checks that the system still meets the standard;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): recertification comes on schedule, not only after harm;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients keep the protection the certification promised;
     - [Continuity](core_00.000_preamble.md#continuity): certification stays true as the system changes over time;
@@ -111,19 +111,19 @@ Systems change after they are certified: new versions ship, owners change, and r
 - Upstream:
   - [Subcore 8-D §3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (*forum component findings integrated into the System Certification Record*);
   - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (*the outcome and the concerns raised in reaching it*);
-  - [Subcore 8-B §1](subcore_08.020_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (8.000 §1) (*certification purpose*);
-  - [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) through
+  - [Subcore 8-B §1](subcore_08.020_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (S8-B §1) (*certification purpose*);
+  - [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (S8-B §3) through
   - [Subcore 8-B §6](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*evaluation outputs reflected on the System Certification Record*);
-  - [Subcore 3-C — Subcores 3-A to 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) (*definition, burden, traceability, and verification substrate*);
-  - [Subcore 3-K — System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) (*Chapter Three meaning*);
-  - [Subcore 3-J — Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record);
-  - [Subcore 3-J — Record Integrity](subcore_03.070_band_accountability.md#record-integrity) (*the reliability rule this section applies to the System Certification Record*);
+  - [Subcores 3-A to 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) (*definition, burden, traceability, and verification substrate*);
+  - [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) (*Chapter Three meaning*);
+  - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record);
+  - [Record Integrity](subcore_03.070_band_accountability.md#record-integrity) (*the reliability rule this section applies to the System Certification Record*);
   - [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (6.000 §9); Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*);
-  - [Subcore 3-M — **Def.O1** *Transparency, Auditability, and Verification*](subcore_03.085_band_oversight.md#defo1-transparency-auditability-and-verification).
+  - [**Def.O1** *Transparency, Auditability, and Verification*](subcore_03.085_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Downstream: [§4](#4-recertification-and-reopening) (*recertification and reopening*); [§6.3](#63-verified-input-gate) (*verified-input gate*); [Chapter Sixteen §5](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests) (22.000 §5) (*forum case records, Standing-Record contests*).
 - Read with:
   - [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification);
-  - [Subcore 3-M — Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation);
+  - [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation);
   - **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, and
   - **CS-4.345** (*System lifecycle*);
   - **CJS-3.110 §4** (*transparency levels and audit-access terms*).
@@ -149,15 +149,15 @@ Systems change after they are certified: new versions ship, owners change, and r
 
 This section is **Phase V, Record**, after [Subcore 8-D §4 Certification Outcomes](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (**Phase IV, Decide**). The System Certification Record is opened for forum review in Phase III and completed here with the outcome.
 
-A **System Certification Record** is bounded, reviewable, scope-bound, time-bound, and contestable, as the Chapter Three meaning in [Subcore 3-K — System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) says. In overview, it is about one particular (the full minimum contents are in [§3.1 Minimum Record Contents](#31-minimum-record-contents)):
+A **System Certification Record** is bounded, reviewable, scope-bound, time-bound, and contestable, as the Chapter Three meaning in [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) says. In overview, it is about one particular (the full minimum contents are in [§3.1 Minimum Record Contents](#31-minimum-record-contents)):
 
 - **system, and the decision about it:**
   - **The decision (the "decision context"):** whether, and on what terms, this system, in this System Version and scope, is certified, judged on how it was classified and what the evidence showed when the review was run.
-  - **A new pass is a new decision:** a [Subcore 3-K — later certification pass](subcore_03.075_band_continuity.md#certification-pass) is a new decision context and opens a new System Certification Record ([§4 Recertification and Reopening](#4-recertification-and-reopening)).
+  - **A new pass is a new decision:** a [later certification pass](subcore_03.075_band_continuity.md#certification-pass) is a new decision context and opens a new System Certification Record ([§4 Recertification and Reopening](#4-recertification-and-reopening)).
 - **material-impact profile:** how much the system can affect sentients.
 - **System Version:** which version of the system is being certified.
   - **Dependencies go with the System Version:** the System Version covers the parts the system relies on, such as an upstream system or a vendor's component, and the reliance that sentients place on it (its dependency types, recorded under [Subcore 8-E §3.2 Classification and Whole-System Findings](subcore_08.050_system_certification_record_contents.md#32-classification-and-whole-system-findings)). A material change in either can reopen review ([§4 Recertification and Reopening](#4-recertification-and-reopening)).
-  - **Two kinds of versions:** the System Version is the one listed above. The System Certification Record has its own **Record Versions**. Correcting a finished System Certification Record adds a new Record Version of the same System Certification Record. It does not change the System Version, and it does not open a new System Certification Record, because the decision the System Certification Record supports is the same. The Record Version that was relied on stays on file, marked as corrected ([Subcore 3-J — Record Integrity](subcore_03.070_band_accountability.md#record-integrity)).
+  - **Two kinds of versions:** the System Version is the one listed above. The System Certification Record has its own **Record Versions**. Correcting a finished System Certification Record adds a new Record Version of the same System Certification Record. It does not change the System Version, and it does not open a new System Certification Record, because the decision the System Certification Record supports is the same. The Record Version that was relied on stays on file, marked as corrected ([Record Integrity](subcore_03.070_band_accountability.md#record-integrity)).
 - **operator or steward:** who runs or looks after the system.
 - **scope:** what the certification covers.
 - **data types:** the kinds of data the system handles, and how they are classified and handled.
@@ -174,9 +174,9 @@ It also records:
 - **outcome and reliance limits:** the certification outcome, the reliance limits, and the reopening triggers ([Subcore 8-E §3.8 Outcome and Reliance Limits](subcore_08.050_system_certification_record_contents.md#38-outcome-and-reliance-limits)).
 - **operating plan:** the concise plan for operating and monitoring the system ([Subcore 8-E §3.9 Operating Plan](subcore_08.050_system_certification_record_contents.md#39-operating-plan)).
 
-The System Certification Record must also meet [Subcore 3-J — Record Integrity](subcore_03.070_band_accountability.md#record-integrity). For this System Certification Record:
+The System Certification Record must also meet [Record Integrity](subcore_03.070_band_accountability.md#record-integrity). For this System Certification Record:
 
-- **Who keeps it:** the [Subcore 3-J — Record Seat](subcore_03.070_band_accountability.md#record-seat) opens, enters, amends, preserves, and publishes it ([Subcore 8-D §3.1.1 Four Seats in a Certification](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification)).
+- **Who keeps it:** the [Record Seat](subcore_03.070_band_accountability.md#record-seat) opens, enters, amends, preserves, and publishes it ([Subcore 8-D §3.1.1 Four Seats in a Certification](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#311-four-seats-in-a-certification)).
   - **Others may ask, not change:** the operator, steward, or proponent may submit evidence and ask for a change, but may not enter or change the System Certification Record.
   - **Requests are logged:** each request is logged, whether or not it is acted on.
 - **Open and completed:** the System Certification Record is open from step 1 of [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) until the Record Seat enters the outcome under [Subcore 8-E §3.8 Outcome and Reliance Limits](subcore_08.050_system_certification_record_contents.md#38-outcome-and-reliance-limits) and the operating plan under [Subcore 8-E §3.9 Operating Plan](subcore_08.050_system_certification_record_contents.md#39-operating-plan) and publishes it. While it is open, each amendment is a new Record Version that shows what changed.
@@ -195,7 +195,7 @@ The System Certification Record must also meet [Subcore 3-J — Record Integrity
 
 #### 3.1 Minimum Record Contents
 
-Certifying a system is a materially binding act. So the System Certification Record has to meet the rules for a [Subcore 3-J — Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) and for [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs), and then add to them. It can hold those items itself, or link to them under those rules: each link must show who made it, and its version history must stay intact. It does not need a second, parallel record.
+Certifying a system is a materially binding act. So the System Certification Record has to meet the rules for a [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) and for [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs), and then add to them. It can hold those items itself, or link to them under those rules: each link must show who made it, and its version history must stay intact. It does not need a second, parallel record.
 
 What the System Certification Record must contain is set out in full in [Subcore 8-E §3 Minimum Contents of the System Certification Record](subcore_08.050_system_certification_record_contents.md#3-minimum-contents-of-the-system-certification-record): system identity and scope, classification and whole-system findings, the System Data Types Record, Rights-Floor and domain findings, technical evidence and review findings, supervision, independence, and challenge paths, concerns, cause, and remediation readiness, outcome and reliance limits, and the operating plan. The opening of [§3 System Certification Record](#3-system-certification-record) gives each in overview, and [§3.1.10 Completeness](#3110-completeness) says when a System Certification Record counts as incomplete.
 
@@ -218,8 +218,8 @@ Those findings must reflect what the evaluation actually found, not section titl
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Transparency](subcore_03.085_band_oversight.md#transparency) · [Subcore 3-M — O](subcore_03.085_band_oversight.md#transparency) · [Subcore 3-M — M](subcore_03.085_band_oversight.md#transparency-a) · [Subcore 3-M — A](subcore_03.085_band_oversight.md#transparency-a) · [Subcore 3-M — C](subcore_03.085_band_oversight.md#transparency-c)
-- [Auditability](subcore_03.085_band_oversight.md#auditability) · [Subcore 3-M — O](subcore_03.085_band_oversight.md#auditability) · [Subcore 3-M — M](subcore_03.085_band_oversight.md#auditability-a) · [Subcore 3-M — A](subcore_03.085_band_oversight.md#auditability-a) · [Subcore 3-M — C](subcore_03.085_band_oversight.md#auditability-c)
+- [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
+- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
 
 </details>
 
@@ -227,7 +227,7 @@ Those findings must reflect what the evaluation actually found, not section titl
 
 *In plain terms: a System Certification Record only works if sentients can read it and check it. This section puts transparency and auditability on the System Certification Record itself, as concrete requirements rather than abstract ideals. Under the **oversight** Tetrad leg, oversight requires auditing. System alignment certification is one especially large audit process, and it must meet those floors here. It does not own or replace [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) or the other audit modes. The third requirement, that sentients can push back, is in [§5 Challenging a Certification](#5-challenging-a-certification).*
 
-This section applies [Subcore 3-M — Transparency](subcore_03.085_band_oversight.md#transparency) and [Subcore 3-M — Auditability](subcore_03.085_band_oversight.md#auditability) to System Certification Records. They are the "reachable" and "reconstructable" parts of [Subcore 3-J — Record Integrity](subcore_03.070_band_accountability.md#record-integrity), which covers the whole System Certification Record ([§3 System Certification Record](#3-system-certification-record)). Canonical term homes and owner boundaries are in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) and [Subcore 3-L — Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
+This section applies [Transparency](subcore_03.085_band_oversight.md#transparency) and [Auditability](subcore_03.085_band_oversight.md#auditability) to System Certification Records. They are the "reachable" and "reconstructable" parts of [Record Integrity](subcore_03.070_band_accountability.md#record-integrity), which covers the whole System Certification Record ([§3 System Certification Record](#3-system-certification-record)). Canonical term homes and owner boundaries are in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation). Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
 
 - **Transparency** and **auditability** put **oversight** into practice; and
 - Record clarity under [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) puts **timeliness** into practice, scaled to system class and [material stake](core_00.000_preamble.md#material-stake).
@@ -243,15 +243,15 @@ This section applies [Subcore 3-M — Transparency](subcore_03.085_band_oversigh
   - outcomes; and
   - reliance limits;
 - A System Certification Record is **Type O** certification data for every system class. It is published at public-baseline fidelity, with lawful substitutes, under [Subcore 4-A §10.3 Type O](subcore_04.050_data_types.md#103-type-o-open-public-oversight-baseline-disclosure-data);
-- Limits on disclosure justified by safety or security are permitted only where they are consistent with [Subcore 3-M — Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) and Chapter Two disclosure constraints;
+- Limits on disclosure justified by safety or security are permitted only where they are consistent with [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) and Chapter Two disclosure constraints;
 - Volume, formatting, or technical obscurity must not stand in for decision-relevant clarity; and
-- The online-publication baseline, the paywall prohibition for [Subcore 3-M — Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure), and the maximum-feasible public-substitute discipline are governed by [Subcore 3-M — Transparency](subcore_03.085_band_oversight.md#transparency) and Public Oversight Baseline Disclosure, and implemented as **Type O** data under **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, read with **CJS-3.110 §4** (*transparency levels and audit-access terms*).
+- The online-publication baseline, the paywall prohibition for [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure), and the maximum-feasible public-substitute discipline are governed by [Transparency](subcore_03.085_band_oversight.md#transparency) and Public Oversight Baseline Disclosure, and implemented as **Type O** data under **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, read with **CJS-3.110 §4** (*transparency levels and audit-access terms*).
 
 **Auditability** — sentients must be able to reconstruct and check the System Certification Record:
 
-- A System Certification Record must be attributable, reconstructable, and independently reviewable under Subcores 3-A to 3-C, [Subcore 3-M — Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation), and [Subcore 3-J — Record Integrity](subcore_03.070_band_accountability.md#record-integrity);
+- A System Certification Record must be attributable, reconstructable, and independently reviewable under Subcores 3-A to 3-C, [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation), and [Record Integrity](subcore_03.070_band_accountability.md#record-integrity);
 - It must identify:
-  - who issued, adopted, referred, sent for ruling, [Subcore 3-J — stayed](subcore_03.070_band_accountability.md#stay), or reviewed each material component;
+  - who issued, adopted, referred, sent for ruling, [stayed](subcore_03.070_band_accountability.md#stay), or reviewed each material component;
   - what evidence was materially relied on; and
   - what changed between Record Versions, who made each change, under what authority, and at whose request, and, for a new System Certification Record, what has changed since the completed System Certification Record it follows;
 - Audit scope must be enough to test whether the recorded outcome follows from the recorded evidence and assumptions; and
@@ -270,17 +270,17 @@ This section applies [Subcore 3-M — Transparency](subcore_03.085_band_oversigh
 - Upstream:
   - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (*the outcome in force*);
   - [§3](#3-system-certification-record) (*the completed System Certification Record that each recertification or reopened review follows*);
-  - [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) through
+  - [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (S8-B §3) through
   - [Subcore 8-B §6](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*misclassification, misalignment, and defects found in evaluation*);
   - [§5](#5-challenging-a-certification) (*credible challenge*);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [Subcore 3-B §3](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) (S3-B §3) and
   - [Subcore 3-B §4](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*);
-  - [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
 - Downstream:
   - [§6.3](#63-verified-input-gate) and [§6.5](#65-violation-standing-record) (*verified-input gate where facts support adverse findings*);
   - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*reopened forum supervision*);
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000).
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B).
 - Read with: **[Subcore 4-A §6.2](subcore_04.050_data_types.md#62-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) and **[Subcore 8-A §3.5](subcore_08.010_system_classification.md#35-reclassification-requirement)** (*Reclassification requirement*).
 - Subsections:
   - [§4.1](#41-recertification-schedule-and-the-new-system-certification-record) (*recertification schedule and the new System Certification Record*);
@@ -347,7 +347,7 @@ Review reopens under Chapter Sixteen and incorporated system implementation duti
 - **Change in the system or its context:**
   - a material change in the system, its use, or its operating context;
   - dependency growth, including growing reliance on the system and growing extraction from shared foundations, and including concentration past a threshold an adopter has set under [Chapter Two §11.4 Resource and Dependency Concentration](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) (the step-up does not wait for a threshold: [Subcore 8-B §3.2 How System Class Scales Every Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#32-how-system-class-scales-every-evaluation));
-  - a significant fall in the system's return flows (what it puts back into those foundations), under [Subcore 3-K — Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support).
+  - a significant fall in the system's return flows (what it puts back into those foundations), under [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support).
 - **Something observed or reported:**
   - concealed behavior;
   - new risk;
@@ -360,8 +360,8 @@ Review reopens under Chapter Sixteen and incorporated system implementation duti
   - data-type or handling misalignment, or an overdue or skipped scheduled data-type re-evaluation, under **[Subcore 4-A §6 Cross-Domain Governance Principles](subcore_04.050_data_types.md#6-cross-domain-governance-principles)**, specifically its [Subcore 4-A §6.2 reclassification and lifecycle governance](subcore_04.050_data_types.md#62-reclassification-and-lifecycle-governance);
   - classification misalignment.
 - **System Charter and operator governance:**
-  - a [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter) amendment, a mismatch between the System Charter and behavior, operation materially outside chartered scope, or an overdue scheduled System Charter review;
-  - a governance violation of an Institution whose [Subcore 3-K — portfolio](subcore_03.075_band_continuity.md#portfolio) includes the System (a determination that its governance failed, a denial or revocation of the Institution on a governance-related denial or revocation ground, or a cause finding that places another System's misalignment in the Institution), as [Subcore 9-F §4.6 Reopening the Institution's Systems](subcore_09.060_institutional_alignment_certification_records_recertification.md#46-reopening-the-institutions-systems) defines it. Only a material one reopens.
+  - a [System Charter](subcore_03.075_band_continuity.md#system-charter) amendment, a mismatch between the System Charter and behavior, operation materially outside chartered scope, or an overdue scheduled System Charter review;
+  - a governance violation of an Institution whose [portfolio](subcore_03.075_band_continuity.md#portfolio) includes the System (a determination that its governance failed, a denial or revocation of the Institution on a governance-related denial or revocation ground, or a cause finding that places another System's misalignment in the Institution), as [Subcore 9-F §4.6 Reopening the Institution's Systems](subcore_09.060_institutional_alignment_certification_records_recertification.md#46-reopening-the-institutions-systems) defines it. Only a material one reopens.
 - **Evaluation misalignment:** misalignment or a defect reflected on the System Certification Record under any Chapter Eight evaluation that applied, from [Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations). That includes risk-evaluation or risk-disclosure defects under [Subcore 8-B §4.2 Systemic Scope and Risk Factors](subcore_08.020_system_alignment_certification_evaluation.md#42-systemic-scope-and-risk-factors).
 
 **Why reopening matters.** Reopening on misalignment, dependency growth, or credible challenge protects the **Continuity** aim under [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). This matters where shared systems gate the durable supply of survival essentials, educational access, capability-building pathways, trustworthy reliance, or safety. An out-of-date certification must not substitute for current Rights-Floor compliance.
@@ -378,12 +378,12 @@ Review reopens under Chapter Sixteen and incorporated system implementation duti
 
 Certification is held in one of two statuses. Each has its own certification interval, stated on the System Certification Record under [§3.1 Minimum Record Contents](#31-minimum-record-contents):
 
-- **[Subcore 3-K — Provisional certification](subcore_03.075_band_continuity.md#provisional-certification)** is the status of:
+- **[Provisional certification](subcore_03.075_band_continuity.md#provisional-certification)** is the status of:
   - a system's first certification, including a newly deployed system; and
   - a system certified after a failed recertification, or after a reopened review or fresh review that found misalignment.
 
   Provisional certification runs on a provisional interval, shorter than the full certification interval for the same system class. Reliance limits are stated on the System Certification Record.
-- **[Subcore 3-K — Full certification](subcore_03.075_band_continuity.md#full-certification)** is earned only at a recertification of a system holding provisional certification, and only where all three of these hold:
+- **[Full certification](subcore_03.075_band_continuity.md#full-certification)** is earned only at a recertification of a system holding provisional certification, and only where all three of these hold:
   1. the system has completed the required number of consecutive clean provisional recertifications: at least one, and more for higher system classes, as the adopted document sets;
   2. no misalignment is current: the System Certification Record shows no open misalignment, unremedied defect, overdue check, or failed regression testing; and
   3. no monitoring indicator points to impending misalignment: the monitoring triggers and trend metrics stated on the System Certification Record show no threshold crossed and no trend toward one.
@@ -437,7 +437,7 @@ The cause finding works within these limits:
 Where the misalignment is design-caused:
 
 - the count of clean recertifications stays at zero until the redesign is in place and has been verified;
-- the forum that found the cause, or the next forum assigned under [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence), verifies the redesign inside the [Subcore 3-K — matching intake target](subcore_03.075_band_continuity.md#tier-window), and may do so at the first provisional recertification;
+- the forum that found the cause, or the next forum assigned under [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence), verifies the redesign inside the [matching intake target](subcore_03.075_band_continuity.md#tier-window), and may do so at the first provisional recertification;
 - a **component evaluation** (one component's part of a certification pass, as [Subcore 8-D §3.1 Forum Supervision and Component Roles](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#31-forum-supervision-and-component-roles) defines it) made before the redesign is verified does not count toward the clean total, however clean it is; and
 - a change to how the system is run does not meet this step.
 
@@ -509,7 +509,7 @@ Evasion of this chapter's obligations is governed by Subcore 3-B — this chapte
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Contestability](subcore_03.070_band_accountability.md#contestability) · [Subcore 3-J — O](subcore_03.070_band_accountability.md#contestability) · [Subcore 3-J — M](subcore_03.070_band_accountability.md#contestability-a) · [Subcore 3-J — A](subcore_03.070_band_accountability.md#contestability-a) · [Subcore 3-J — C](subcore_03.070_band_accountability.md#contestability-c)
+- [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 
 </details>
 
@@ -519,7 +519,7 @@ Evasion of this chapter's obligations is governed by Subcore 3-B — this chapte
 
 This section is part of sub-phase **VIa** of Phase VI (Operate), with [§4 Recertification and Reopening](#4-recertification-and-reopening). It covers how affected parties challenge a System Certification Record. The published record challenge path opens when the outcome is published, as [§5.1 When the Path Opens](#51-when-the-path-opens) says.
 
-Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), [Subcore 3-J — Contestability](subcore_03.070_band_accountability.md#contestability) puts **accountability** into practice and keeps **participation** open in challenge paths. Contest windows under [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) put **timeliness** into practice.
+Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), [Contestability](subcore_03.070_band_accountability.md#contestability) puts **accountability** into practice and keeps **participation** open in challenge paths. Contest windows under [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) put **timeliness** into practice.
 
 Affected parties must have real ways to challenge the System Certification Record:
 
@@ -534,7 +534,7 @@ Affected parties must have real ways to challenge the System Certification Recor
 - Contest mechanisms must be functional and accessible, not ceremonial;
 - A challenge must be able to:
   - reopen review;
-  - [Subcore 3-J — stay](subcore_03.070_band_accountability.md#stay) or limit reliance where material error or integrity risk is credibly shown; and
+  - [stay](subcore_03.070_band_accountability.md#stay) or limit reliance where material error or integrity risk is credibly shown; and
   - route to the forum family with lawful jurisdiction over the challenged point;
 - Contestability obligations scale with system class and material impact; and
 - They do not disappear because a system is labeled experimental, internal, personal, isolated, or technical-only, where material impact is present.
@@ -586,8 +586,8 @@ Direct access to a forum path remains available when delay would materially enda
   - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (*forum process, System Certification Record, and outcomes*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
-  - [Subcore 3-J — Verified Inputs for Standing](subcore_03.070_band_accountability.md#verified-inputs-for-standing).
-- Downstream: [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*Standing Records and verified-input gate*); [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000) (*standing effects and integration*).
+  - [Verified Inputs for Standing](subcore_03.070_band_accountability.md#verified-inputs-for-standing).
+- Downstream: [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) (*Standing Records and verified-input gate*); [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (S10-F) (*standing effects and integration*).
 - Read with: **Article III-A** (*survival-essential access where certification gates delivery*).
 - Subsections:
   - [§6.1](#61-what-a-system-certification-record-can-pass-on-to-standing) (*what a System Certification Record can pass on to standing*);
@@ -608,7 +608,7 @@ This section is sub-phase **VIb** of Phase VI (Operate), after [§4 Recertificat
 
 #### 6.1 What a System Certification Record Can Pass on to Standing
 
-Only the [Subcore 3-K — System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) can pass facts on to standing, and which side they land on follows the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Nothing counts until it clears Chapter Fourteen's verified-input gate, set out in [§6.3 Verified-Input Gate](#63-verified-input-gate) below:
+Only the [System Certification Record](subcore_03.075_band_continuity.md#system-certification-record) can pass facts on to standing, and which side they land on follows the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). Nothing counts until it clears Chapter Fourteen's verified-input gate, set out in [§6.3 Verified-Input Gate](#63-verified-input-gate) below:
 
 - A System Certification Record showing that a system really lines up with the Rights Floor can supply verified **Flourishing**-side input.
 - A System Certification Record documenting that a system was misclassified, hid defects, or ran in ways that defeat the Rights Floor can supply verified **Accountability**-side input.
@@ -617,7 +617,7 @@ Only the [Subcore 3-K — System Certification Record](subcore_03.075_band_conti
 
 - The bridge carries facts from the System Certification Record and nothing else.
 - An operation that passes any other information on to the standing process is not covered by this bridge or by the certified system's record.
-- Such an operation is its own [Subcore 3-K — System](subcore_03.075_band_continuity.md#system), because a System is identified by what it actually does and not by the label or the certification next to it.
+- Such an operation is its own [System](subcore_03.075_band_continuity.md#system), because a System is identified by what it actually does and not by the label or the certification next to it.
 - It is evaluated, classified, and certified as a System on its own.
 - What it passes on still has to clear the verified-input gate in [§6.3 Verified-Input Gate](#63-verified-input-gate).
 

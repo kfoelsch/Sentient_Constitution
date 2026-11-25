@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution**: a [Subcore 3-L — subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 10-A**. Until 2026-11-21 its text was in Chapter Fourteen: the event-type tables of §§5.1–5.2, the field lists of §§6.1.1, 6.1.4, and 6.1.5, the Standing Record rules of §7.7 (*When a System Charter or Institutional Charter Leaves a Seat Unnamed*), and the rules and examples of §7.9 (*Informal and Small-Scope Records*); here they are §§3–6. Chapter Fourteen keeps every heading and anchor, the two qualification rules, the custody chart, and one line for each guarantee.
+> This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 10-A**. Until 2026-11-21 its text was in Chapter Fourteen: the event-type tables of §§5.1–5.2, the field lists of §§6.1.1, 6.1.4, and 6.1.5, the Standing Record rules of §7.7 (*When a System Charter or Institutional Charter Leaves a Seat Unnamed*), and the rules and examples of §7.9 (*Informal and Small-Scope Records*); here they are §§3–6. Chapter Fourteen keeps every heading and anchor, the two qualification rules, the custody chart, and one line for each guarantee.
 >
 > **Upstream:** [Subcore 10-B §4 Question 1 — What Happened?](subcore_10.020_standing_assessment.md#4-question-1--what-happened) and [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority); [Chapter Five §6.7 Gaps in the Map for Operator Standing Records](core_05.000_charters.md#67-gaps-in-the-map-for-operator-standing-records).
 > **Downstream:** [Subcore 10-D §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it), which measures what these Standing Records hold; [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows), which draws effects on standing from them.
@@ -30,9 +30,9 @@ Standing Records move between adopters, forums, and systems, and effects on stan
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this file carries:
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every Standing Record names who verified it and who holds it, and no one holds their own;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): every Standing Record lists the materials that make it reviewable and how to challenge it;
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): unpaid and informal work can be recognized without a group, a System Charter or Institutional Charter, or a formal institution;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every Standing Record names who verified it and who holds it, and no one holds their own;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): every Standing Record lists the materials that make it reviewable and how to challenge it;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): unpaid and informal work can be recognized without a group, a System Charter or Institutional Charter, or a formal institution;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): care, teaching, repair, and mutual aid are recognized on equal standards;
     - [Continuity](core_00.000_preamble.md#continuity): ecological and infrastructure help and harm are named among the event types;
@@ -222,7 +222,7 @@ Separation of duties scales with material stake, not with formality, as [Subcore
 
 On such a Standing Record:
 
-- a sentient acting alone needs no group, institution, [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter), or [Subcore 3-K — Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) to seek a record of their own contribution. In that case:
+- a sentient acting alone needs no group, institution, [System Charter](subcore_03.075_band_continuity.md#system-charter), or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) to seek a record of their own contribution. In that case:
   - **Who asks:** They hold the initiating seat on their own request, as subject and claimant.
   - **Their own materials:** Their own account, logs, and photos are inputs and never verification.
   - **Verify seat:** Any independent body with published authority to rely on the Standing Record (the verifying authority).
@@ -241,11 +241,11 @@ On such a Standing Record:
   - **Non-participants:** Beneficiaries, neighbors, and other non-participants supply attestations as verification materials under [Subcore 10-B §6.1 Minimum Record Contents](subcore_10.020_standing_assessment.md#61-minimum-record-contents).
   - **The group's own log:** The sentient who kept it is the recorder and a witness under [Subcore 10-B §8.1 Recorder Statements Are Inputs](subcore_10.020_standing_assessment.md#81-recorder-statements-are-inputs).
 - the relying body's record custodian enters and holds what a separate verifying authority has verified:
-  - **Who may not hold either seat:** Neither the record custodian nor the verifying authority may be a claimant or in a claimant's [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
+  - **Who may not hold either seat:** Neither the record custodian nor the verifying authority may be a claimant or in a claimant's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
   - **One body, two seats:** The same relying body may host both seats under a published lane map with auditable, contestable independence safeguards.
   - **Never the same one:** No authority, custodian, or sentient may perform both duties on the same Standing Record.
 - a group's own status does not condition a member's claim:
-  - **Informal groups:** A group with no [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter) or [Subcore 3-K — Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), or one that is not an Institution at all, does not block its members.
+  - **Informal groups:** A group with no [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), or one that is not an Institution at all, does not block its members.
   - **Each participant:** May seek recognition as an individual claimant for work done in the group or outside it.
   - **What the Standing Record covers:** It concerns the participant's contribution and not the group's standing.
   - **Example, a quilting circle:** A quilting circle that gives quilts to newly arrived refugees is the pattern: each quilter may seek a Standing Record, verified by an independent relying body such as the agency that receives the quilts, and the circle needs no System Charter or Institutional Charter for that.
@@ -254,7 +254,7 @@ On such a Standing Record:
     - **No injury needed:** A verified credible threat of violence can support a violation Standing Record even when no one is hurt ([§3.2 Violation Event Types](#32-violation-event-types), coercive agency loss).
     - **The video is an input:** The sentient who filmed is a witness. The footage is an input and never verification by itself, and its existence opens nothing on its own ([Subcore 10-B §4.2 Silence Is the Default](subcore_10.020_standing_assessment.md#42-silence-is-the-default)).
     - **The sentient on the video:** They are the subject. They are told when a Standing Record opens, and they may not fill any seat ([Subcore 10-B §7.4 No Self-Custody](subcore_10.020_standing_assessment.md#74-no-self-custody)).
-    - **Verify seat:** An independent body with published authority to rely on the Standing Record, such as a local licensing or safety body, or a forum under [Subcore 10-B §4.7 Forum Boundary](subcore_10.020_standing_assessment.md#47-forum-boundary). The sentient who filmed and the bar's owner are excluded from it if either is a claimant or in a claimant's [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
+    - **Verify seat:** An independent body with published authority to rely on the Standing Record, such as a local licensing or safety body, or a forum under [Subcore 10-B §4.7 Forum Boundary](subcore_10.020_standing_assessment.md#47-forum-boundary). The sentient who filmed and the bar's owner are excluded from it if either is a claimant or in a claimant's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line).
     - **Entry, custody, and contest:** A separate record custodian enters and holds the Standing Record, and a contest goes to the challenge lane or a forum under [Subcore 10-B §4.7 Forum Boundary](subcore_10.020_standing_assessment.md#47-forum-boundary), not back to the verifying body.
 - a bar or process that requires verification by a formal institution an informal group cannot reach, where an independent relying body is available, is the [Chapter Eleven §3.2 Competency Bars and Clearances](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) arbitrary-gatekeeping pattern, not separation of duties.
 

@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Six**: the cross-process requirement for functional independence and separation of duties. It follows [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters), which states the System Charter or Institutional Charter that carries the published seat map, and precedes the constitutional process chapters beginning with [Subcore 8-B — Chapter Eight system alignment certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Six**: the cross-process requirement for functional independence and separation of duties. It follows [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters), which states the System Charter or Institutional Charter that carries the published seat map, and precedes the constitutional process chapters beginning with [Subcore 8-B — system alignment certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation).
 >
 > - **Constitutional owner:** the separation-of-duties requirement for materially binding acts, met through distinct seats; the universal minimum contents of each [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; the minimum independence conditions that every later constitutional process must apply. The standard requirements for a body named as an Independent Body moved to Chapter Seven on 2026-11-20.
 > - **Principle-layer source:** [Chapter Two §18.3](core_02.050_governance_incentive_application.md#183-separation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
@@ -35,10 +35,10 @@
   - [§9](#9-act-records-and-attributable-handoffs);
   - [§10](#10-relationship-to-later-processes).
 - Downstream:
-  - [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000);
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000);
-  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000);
-  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000); designated implementation text named above.
+  - [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B);
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B);
+  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (16.000)
+  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (21.000) designated implementation text named above.
 - Read with:
   - [Chapter Two §19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection) (2.050 §19.3) (*plural detection and review*);
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action);
@@ -46,7 +46,6 @@
   - [Auditability](subcore_03.085_band_oversight.md#auditability);
   - [Contestability](subcore_03.070_band_accountability.md#contestability);
   - [Proportionality](subcore_03.070_band_accountability.md#proportionality).
-
 </details>
 
 <br>
@@ -67,7 +66,6 @@ Chapter Six is the constitutional owner of the **functional-independence and sep
   - [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and
   - [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) for challenge and redress;
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) for independent-verification Rights Floors.
-
 </details>
 
 <br>
@@ -167,7 +165,6 @@ This subsection explains the reasons for the number four. It is non-operative: t
 - Upstream: [§1](#1-purpose-role-and-scope); [Chapter Two §18.3](core_02.050_governance_incentive_application.md#183-separation-of-duties) (2.050 §18.3); [Chapter Two §17.1](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (2.040 §17.1).
 - Downstream: [§4](#4-independence-conflict-and-control-lines) through [§10](#10-relationship-to-later-processes); [CI-21.205 §6](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Read with: [§7](#7-proportional-scaling-and-merged-hosting) for the only permitted merged-hosting path.
-
 </details>
 
 <br>
@@ -265,7 +262,6 @@ Where scope is mixed or classification is uncertain, apply the highest applicabl
 - Upstream: [§3](#3-four-seat-constitutional-requirement); [Authority-scaled answerability](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure); [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
 - Downstream: [§5](#5-wrong-seat-routing); [§6](#6-published-placement-vacancy-and-substitution); [§9](#9-act-records-and-attributable-handoffs); Chapter Eight certification component roles; Chapter Fourteen record custody; Chapter Twenty-Two forum anti-self-judging.
 - Read with: [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CF-16.425](corpus_forum/cf_16.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-16425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for operational conflict and anti-self-judging safeguards.
-
 </details>
 
 <br>
@@ -292,7 +288,6 @@ Independence is not satisfied by a second signature, a nominal committee, an int
 - Upstream: [§3](#3-four-seat-constitutional-requirement); [§4](#4-independence-conflict-and-control-lines).
 - Downstream: [§6](#6-published-placement-vacancy-and-substitution); [§9](#9-act-records-and-attributable-handoffs); [CI-21.205 §6 shared seat rules](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
 - Read with: [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (2.040 §17.5).
-
 </details>
 
 <br>
@@ -342,8 +337,7 @@ That response is performance of duty, not abandonment of the act. The act procee
   - [System Charter](subcore_03.075_band_continuity.md#system-charter),
   - [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter);
   - [Chapter Five §6 The Charter Role Map and Standing-Record Custody](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody) (5.000 §6); and
-  - [Chapter Twenty-One §7](core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution) (27.000 §7).
-
+  - [Chapter Twenty-One §7](core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution) (21.000 §7)
 </details>
 
 <br>
@@ -413,9 +407,8 @@ A holder may use staff or tools to help with the seat's work, such as gathering 
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Necessity](subcore_03.070_band_accountability.md#necessity);
   - [Proportionality](subcore_03.070_band_accountability.md#proportionality).
-- Downstream: [Subcore 10-B §7.9](subcore_10.020_standing_assessment.md#79-informal-and-small-scope-records) (14.000 §7.9); [CJS-25.110 §4](corpus_joint_structure/cjs_25.110_specific_joint_interlocks.md#cjs-25110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-Scaled Lane Staffing and Competency Redundancy*); [CI-6.205 §2](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*Functional Separation Lanes*).
+- Downstream: [Subcore 10-B §7.9](subcore_10.020_standing_assessment.md#79-informal-and-small-scope-records) (S10-B §7.9); [CJS-25.110 §4](corpus_joint_structure/cjs_25.110_specific_joint_interlocks.md#cjs-25110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class-Scaled Lane Staffing and Competency Redundancy*); [CI-6.205 §2](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*Functional Separation Lanes*).
 - Read with: [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) and Chapter Two [§3.3 Anti-Degrading Process](core_02.000_values_principles.md#33-anti-degrading-process).
-
 </details>
 
 <br>
@@ -514,11 +507,10 @@ The more harm that could follow and the more others depend on the work, the hard
 - Upstream:
   - [§3](#3-four-seat-constitutional-requirement);
   - [§7](#7-proportional-scaling-and-merged-hosting);
-  - [Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1);
+  - [Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (17.000 §5.1)
   - [default interim posture](core_02.020_interaction_interpretation.md#default-interim-posture).
 - Downstream: incident, containment, release, continuation, and post-event review processes in designated implementation text.
 - Read with: [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional), [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation), and [CI-21.205 §6 Seat Catalog — Process-Role Archetypes and Operational Boundaries](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-46-seat-containment).
-
 </details>
 
 <br>
@@ -563,7 +555,6 @@ None of the following is by itself an emergency:
   - [Record Integrity](subcore_03.070_band_accountability.md#record-integrity).
 - Downstream: [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action); [CI-21.205 §6 shared seat rules](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules); every process record governed by §9; [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
 - Read with: [§5 Wrong-Seat Routing](#5-wrong-seat-routing) and [Subcore 3-C §7](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard) (S3-C §7).
-
 </details>
 
 <br>
@@ -600,12 +591,11 @@ Logs show who did what, but they do not by themselves prove that the action was 
 
 - Upstream: [§1](#1-purpose-role-and-scope) through [§9](#9-act-records-and-attributable-handoffs).
 - Downstream:
-  - [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000);
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000);
-  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000);
-  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000).
-- Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
-
+  - [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B);
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B);
+  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (16.000)
+  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (21.000)
+- Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (1.000).
 </details>
 
 <br>

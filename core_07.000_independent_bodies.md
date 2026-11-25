@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (*the four seats, independence and conflicts, published placement, and proportional scaling that every Independent Body also meets*).
+- Upstream: [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (6.000) (*the four seats, independence and conflicts, published placement, and proportional scaling that every Independent Body also meets*).
 - Subsections:
   - [§1](#1-purpose-role-and-scope);
   - [§2](#2-why-independent-bodies-exist);
@@ -26,7 +26,6 @@
   - [Subcore 7-B](subcore_07.020_public_policy_office.md#subcore-7-b-public-policy-office--knowing-what-a-policy-will-do) (*Public Policy Office*).
   - [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*).
   - [Subcore 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) (*Public Information Office*).
-
 </details>
 
 <br>
@@ -83,13 +82,12 @@ Where an official's decision can be overturned by a phone call, the public gets 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Six §3](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) through [Chapter Six §7](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting);
-  - [Chapter Twenty-One §3.2 Eligibility, Contested Selection, and Democratic Minimums](core_21.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums) (27.000 §3.2);
-  - [Chapter Thirteen §5.2 Remedy-System Durability](core_13.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) (19.000 §5.2);
+  - [Chapter Six §3](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) through [Chapter Six §7](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting) (6.000 §7);
+  - [Chapter Twenty-One §3.2 Eligibility, Contested Selection, and Democratic Minimums](core_21.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums) (21.000 §3.2)
+  - [Chapter Thirteen §5.2 Remedy-System Durability](core_13.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) (13.000 §5.2)
   - [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
-- Downstream: each chapter or designated implementation text that names a body as an Independent Body by citing this section, including the forum families of [Chapter Seventeen §3 Forum Family Definitions](core_17.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) and [Chapter Twenty-One §3.2.5 Forum Appointment Independence Requirement](core_21.000_governance.md#325-forum-appointment-independence-requirement).
+- Downstream: each chapter or designated implementation text that names a body as an Independent Body by citing this section, including the forum families of [Chapter Seventeen §3 Forum Family Definitions](core_17.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) (17.000 §3) and [Chapter Twenty-One §3.2.5 Forum Appointment Independence Requirement](core_21.000_governance.md#325-forum-appointment-independence-requirement) (21.000 §3.2.5).
 - Read with: [Subcore 21-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_21.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways); [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*).
-
 </details>
 
 <br>

@@ -14,7 +14,7 @@
 > Where this lives (navigation):
 > - **Constitutional owner:** substantive non-regression floor; Substantive Test 1 (substantive non-regression invalidity); anti-evasion. Procedural validity, ratification, amendment procedure requirements, and the referral of serious bad-faith conduct are in **Chapter Twenty-Three**. Supremacy relative to other norms and external legal orders are in **Chapter Twenty-Four**.
 > - **Implementation owner:** designated implementation text governs execution mechanics for review operations, publication workflows, designated institutional procedure, forum operations where designated, and cross-implementation joint structure where designated.
-> - **Anti-relocation rule:** this chapter does not assign final offense labels, numeric slots, or sanction taxonomy. Numeric Contribution and Violation slots remain measured on the [Subcore 10-D §8 unified proportional LEQU scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes), with separate axis records and Violation slots controlled only by verified impact. **Chapter Twenty** of [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) may add the corresponding anti-constitutional-misconduct designation to a Chapter Fifteen Violation Axis slot 7, 8, or 9 record but does not assign the numeric slot.
+> - **Anti-relocation rule:** this chapter does not assign final offense labels, numeric slots, or sanction taxonomy. Numeric Contribution and Violation slots remain measured on the [Subcore 10-D §8 unified proportional LEQU scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes), with separate axis records and Violation slots controlled only by verified impact. **Chapter Twenty** of [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) may add the corresponding anti-constitutional-misconduct designation to a Subcore 10-D Violation Axis slot 7, 8, or 9 record but does not assign the numeric slot.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
 
@@ -27,7 +27,7 @@
   - [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040);
   - [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) integrity and verification;
   - [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) Rights Floor;
-  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) legitimacy and stewardship requirements.
+  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (21.000)legitimacy and stewardship requirements.
 - Subsections:
   - [§3](#3-non-regression-floor);
   - [§4](#4-substantive-test-1--substantive-non-regression-validity);
@@ -35,11 +35,10 @@
   - [§6](#6-protective-steps-while-a-change-is-in-doubt);
   - [§7](#7-work-this-chapter-leaves-to-other-chapters).
 - Downstream:
-  - [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (29.000) procedural validity, ratification, amendment requirements, and referral of serious bad-faith conduct.
-  - [Chapter Twenty-Four](core_24.000_expansion_supremacy.md#chapter-twenty-four-expansion-supremacy-and-external-legal-orders) (30.000) expansion and supremacy;
+  - [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (23.000)procedural validity, ratification, amendment requirements, and referral of serious bad-faith conduct.
+  - [Chapter Twenty-Four](core_24.000_expansion_supremacy.md#chapter-twenty-four-expansion-supremacy-and-external-legal-orders) (24.000)expansion and supremacy;
 - Read with: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) non-operative walkthrough for **Chapters Sixteen through Twenty-Two** on constitutional change and incorporation.
 - Attached subcore: [Subcore 22-A](subcore_22.010_non_regression_determinations.md#subcore-22-a-non-regression-determinations) (*Non-Regression Determinations*).
-
 </details>
 
 <br>
@@ -104,7 +103,7 @@ Protections are most often lost not by repeal but by small steps: a narrower def
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - Floor sources: [Chapter Two](core_02.000_values_principles.md#chapter-02-part-a-purpose-and-the-flourishing-aim) constraints, [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements), [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights), and [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship); integrated definitions —
+  - Floor sources: [Chapter Two](core_02.000_values_principles.md#chapter-02-part-a-purpose-and-the-flourishing-aim) (2.000) constraints, [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements), [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000), and [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (21.000); integrated definitions —
   - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
   - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),
   - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) (canonical O/M/A/C under
@@ -114,7 +113,6 @@ Protections are most often lost not by repeal but by small steps: a narrower def
   - [Chapter Three definitions](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000)).
 - Downstream: [§4](#4-substantive-test-1--substantive-non-regression-validity) Substantive Test 1 inventory; [§5](#5-anti-evasion-clause) anti-evasion.
 - Read with: [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) for Rights-Floor specifics; [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) for verification, standing gates, and observability as potential indirect narrowing vectors.
-
 </details>
 
 <br>
@@ -143,13 +141,12 @@ Material weakening includes indirect narrowing through:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3](#3-non-regression-floor) non-regression floor definition.
-- Downstream: [§5](#5-anti-evasion-clause) evasion; [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (29.000) Procedural Tests 2–4 and procedural requirements (invalid if Substantive Test 1 fails regardless of procedure).
+- Downstream: [§5](#5-anti-evasion-clause) evasion; [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (23.000)Procedural Tests 2–4 and procedural requirements (invalid if Substantive Test 1 fails regardless of procedure).
 - Read with:
   - [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) non-negotiable principle constraints;
-  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) legitimacy obligations;
+  - [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (21.000)legitimacy obligations;
   - [Article XXVI-A](core_04.030_rights_part_d.md#article-xxvi-a-bounded-interpretive-mandate-and-public-reasons) (*Bounded Interpretive Mandate and Public Reasons*) and [Article XXVI-B](core_04.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*) for the forum's determination and its review;
-  - [Chapter Twenty-Three §3.2](core_23.000_amendment_ratification.md#32-proposal-hearing-and-comment-window) (29.000 §3.2) for how a proposal is brought to that forum.
-
+  - [Chapter Twenty-Three §3.2](core_23.000_amendment_ratification.md#32-proposal-hearing-and-comment-window) (23.000 §3.2)for how a proposal is brought to that forum.
 </details>
 
 <br>
@@ -180,9 +177,8 @@ Invalidity includes indirect narrowing through:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§3](#3-non-regression-floor)–[§4](#4-substantive-test-1--substantive-non-regression-validity) substantive invalidity standards.
-- Downstream: serious bad-faith conduct in amendment or adoption is referred under [Chapter Twenty-Three §11](core_23.000_amendment_ratification.md#11-invalid-change-handling-and-remediation-continuity) (29.000 §11); this chapter does not classify.
+- Downstream: serious bad-faith conduct in amendment or adoption is referred under [Chapter Twenty-Three §11](core_23.000_amendment_ratification.md#11-invalid-change-handling-and-remediation-continuity) (23.000 §11) this chapter does not classify.
 - Read with: [§7](#7-work-this-chapter-leaves-to-other-chapters) (*Work This Chapter Leaves to Other Chapters*) (triggers are not canonical slot-classification or sanction law).
-
 </details>
 
 <br>
@@ -207,9 +203,8 @@ Serious bad-faith conduct in amendment or adoption is referred under [Chapter Tw
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§4](#4-substantive-test-1--substantive-non-regression-validity) Substantive Test 1; [§5](#5-anti-evasion-clause) anti-evasion clause.
-- Downstream: [Chapter Twenty-Three §10](core_23.000_amendment_ratification.md#10-provisional-effect-rule) (29.000 §10) provisional effect; [Chapter Twenty-Three §11](core_23.000_amendment_ratification.md#11-invalid-change-handling-and-remediation-continuity) (29.000 §11) invalid-change handling.
+- Downstream: [Chapter Twenty-Three §10](core_23.000_amendment_ratification.md#10-provisional-effect-rule) (23.000 §10)provisional effect; [Chapter Twenty-Three §11](core_23.000_amendment_ratification.md#11-invalid-change-handling-and-remediation-continuity) (23.000 §11)invalid-change handling.
 - Read with: [§7](#7-work-this-chapter-leaves-to-other-chapters) (*Work This Chapter Leaves to Other Chapters*).
-
 </details>
 
 <br>
@@ -226,15 +221,14 @@ While it is in doubt whether a change is valid, this chapter may impose immediat
 
 - Upstream:
   - [§5](#5-anti-evasion-clause) anti-evasion clause;
-  - [Chapter Twenty-Three §11](core_23.000_amendment_ratification.md#11-invalid-change-handling-and-remediation-continuity) referral-only discipline; and
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) and [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) canonical owners.
+  - [Chapter Twenty-Three §11](core_23.000_amendment_ratification.md#11-invalid-change-handling-and-remediation-continuity) (23.000 §11) referral-only discipline; and
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) and [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (14.000)canonical owners.
 - Downstream: implementation text for review execution mechanics.
 - Read with:
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation);
-  - the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights);
+  - the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (1.000);
   - [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) on change-path and incorporation;
-  - [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (29.000) for procedural tests that do not duplicate slot-classification taxonomy.
-
+  - [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (23.000)for procedural tests that do not duplicate slot-classification taxonomy.
 </details>
 
 <br>

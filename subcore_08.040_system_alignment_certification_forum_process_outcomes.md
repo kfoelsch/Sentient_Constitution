@@ -4,9 +4,9 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Subcore 8-D** — the **forum process** (component roles, supervisory sequence, and the contestability chain) and the certification **outcomes** with the go-live gate (**§3–§4**). **Chapter Eight** — purpose, framing (system class), and evaluation requirements — is in [Subcore 8-B — `subcore_08.020_system_alignment_certification_evaluation.md`](subcore_08.020_system_alignment_certification_evaluation.md). **Chapter Ten** — the certification **record** and its integrity, **recertification and reopening**, the **challenge path**, and the **standing bridge** (**Chapter Ten §§3–6**) — is in [Subcore 8-F — `subcore_08.060_system_alignment_certification_records_recertification.md`](subcore_08.060_system_alignment_certification_records_recertification.md).
 >
-> - **Constitutional owner (joint with Chapters Eight and Ten):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Three [Subcore 3-M — Auditability](subcore_03.085_band_oversight.md#auditability).
+> - **Constitutional owner (joint with Chapters Eight and Ten):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Three [Auditability](subcore_03.085_band_oversight.md#auditability).
 > - **Evaluation inputs:** [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) through [Subcore 8-B §6](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) supply evaluation outputs that the forums review and that the outcome rests on.
-> - **Anti-relocation rule:** Chapter Nine does not restate Chapter Eight evaluation mechanics, Chapter Three canonical definitions, Chapter Fifteen standing measurement, or Chapter Sixteen standing effects. The standing bridge is in [Subcore 8-F §6](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing). Chapter Nine also does not relocate auditing ownership from **Article XVII** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-3.110 §3 and CJS-3.115 §3** (*Audit process home*)–**CJS-3.110 §5**.
+> - **Anti-relocation rule:** Chapter Nine does not restate Chapter Eight evaluation mechanics, Chapter Three canonical definitions, Subcore 10-D standing measurement, or Chapter Sixteen standing effects. The standing bridge is in [Subcore 8-F §6](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing). Chapter Nine also does not relocate auditing ownership from **Article XVII** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-3.110 §3 and CJS-3.115 §3** (*Audit process home*)–**CJS-3.110 §5**.
 >
 > **Upstream:** [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation); [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) functional independence and separation of duties; Chapter Twenty-Two forum supervision; Subcores 3-A to 3-C verification discipline.
 > **Downstream:** [Subcore 8-F](subcore_08.060_system_alignment_certification_records_recertification.md#subcore-8-f-system-alignment-certification--records-recertification-challenge-and-standing); Chapter Fourteen Standing Records and verified inputs; Chapter Sixteen standing effects.
@@ -17,8 +17,8 @@
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-B §1](subcore_08.020_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (8.000 §1) (*certification purpose and process overview*);
-  - [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) through
+  - [Subcore 8-B §1](subcore_08.020_system_alignment_certification_evaluation.md#1-purpose-role-and-scope) (S8-B §1) (*certification purpose and process overview*);
+  - [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (S8-B §3) through
   - [Subcore 8-B §6](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*evaluation outputs for the System Certification Record*);
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3).
 - Downstream:
@@ -26,7 +26,7 @@
   - [§4](#4-certification-outcomes);
   - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) through
   - [Subcore 8-F §6](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing) (*record, recertification, and standing bridge*);
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000);
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B);
   - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000).
 - Read with: **[CF-16.415](corpus_forum/cf_16.415_routing_operations_transfer_certification_representative_treatment.md#cf-16415-routing-operations-transfer-questions-for-ruling-and-representative-treatment)** (*Routing operations, transfer, questions for ruling, and representative treatment*) and **[CF-16.425](corpus_forum/cf_16.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-16425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support)** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 
@@ -51,7 +51,7 @@ Chapter Eight is the constitutional owner of these parts of system alignment cer
 **Role:** The chapter is jointly owned with Chapters [Subcore 8-B — Eight](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) and [Subcore 8-F — Ten](subcore_08.060_system_alignment_certification_records_recertification.md#subcore-8-f-system-alignment-certification--records-recertification-challenge-and-standing), which together own forum-supervised SAC and the related System Certification Records:
 
 - It takes the evaluation outputs of **Chapter Eight section 3** through **section 6** as the inputs the forums review and the outcome rests on.
-- It rests on [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (functional independence), [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (forum supervision), and [Subcore 3-A — Subcores 3-A to 3-C](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements) (verification discipline).
+- It rests on [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (functional independence), [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (forum supervision), and [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements) (verification discipline).
 - It hands the System Certification Record, recertification, challenge, and the standing bridge to Chapter Eight.
 - Under the oversight leg of the Tetrad, SAC is one especially large, high-stakes audit process among others. The auditing floors stay at **Article XVII** (*Audit, Transparency, and Independent Verification*) and [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) *Auditability*.
 
@@ -80,10 +80,10 @@ Chapter Eight sets how a system is evaluated. An evaluation run or chosen by the
 
 - Preamble:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad): the legs this chapter carries:
-    - [Subcore 3-H — Participation](subcore_03.060_apex_participation_leg.md#participation): affected sentients can raise concerns and challenge the outcome;
-    - [Subcore 3-D — Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the forum that decides answers for its decision in the published System Certification Record;
-    - [Subcore 3-G — Oversight](subcore_03.055_apex_oversight_leg.md#oversight): no system certifies itself;
-    - [Subcore 3-I — Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): review is finished within set time bounds;
+    - [Participation](subcore_03.060_apex_participation_leg.md#participation): affected sentients can raise concerns and challenge the outcome;
+    - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): the forum that decides answers for its decision in the published System Certification Record;
+    - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): no system certifies itself;
+    - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness): review is finished within set time bounds;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this chapter serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients can trust a certified system;
     - [Continuity](core_00.000_preamble.md#continuity): independent review keeps flawed systems from becoming part of shared infrastructure;
@@ -103,17 +103,17 @@ Chapter Eight sets how a system is evaluated. An evaluation run or chosen by the
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4),
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4),
   - [Subcore 8-B §5 Evaluations Where Implicated](subcore_08.020_system_alignment_certification_evaluation.md#5-evaluations-where-implicated), and
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*evaluation findings the forums review*);
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) and
   - [§10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) (*the four seats, and the duty to say how certification uses them; applied in
   - [§3.1.1](#311-four-seats-in-a-certification)*);
-  - [Subcore 3-K — Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) (*where the seats for a certification are placed*);
+  - [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) (*where the seats for a certification are placed*);
   - [Chapter Seventeen §3](core_17.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication) (23.000 §3) (*forum families, Integrity-led alignment certification, component referral, and validation*);
   - [Chapter Sixteen §6](core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (22.000 §6) (*transfer, consolidation, and anti-self-judging*); Timeliness measurement family (*Timely Resolution and anti-delay discipline*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness**;
-  - [Subcore 3-J — Contestability](subcore_03.070_band_accountability.md#contestability).
+  - [Contestability](subcore_03.070_band_accountability.md#contestability).
 - Downstream:
   - [§4](#4-certification-outcomes) (*outcomes and the go-live gate*);
   - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (*record contents and integrity*);
@@ -167,7 +167,7 @@ Under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad)
 - the supervisory sequence puts **oversight** and **accountability** into practice across forum families; and
 - the contestability chain puts **participation** and **timeliness** into practice, so affected sentients can challenge a certification before their reliance becomes irreversible on systems that gate survival essentials, education, or safety.
 
-Detailed forum process stays with the **Forums and jurisdiction** owner layer ([Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases)). Operational detail is routed under **[CS-8.315](corpus_systems/cs_08.315_system_alignment_certification_run_sheet.md#cs-8315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) and the systems rules it points to, per the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) and [Subcore 3-L — Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation).
+Detailed forum process stays with the **Forums and jurisdiction** owner layer ([Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases)). Operational detail is routed under **[CS-8.315](corpus_systems/cs_08.315_system_alignment_certification_run_sheet.md#cs-8315-system-alignment-certification-run-sheet)** (*System alignment certification run sheet*) and the systems rules it points to, per the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) and [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation).
 
 <a id="31-forum-supervision-and-component-roles"></a>
 
@@ -185,7 +185,7 @@ Who holds each of the four seats in a system certification is set out in full in
 
 - **Four seats, as Chapter Six names them:** every certification pass has the initiating, verify-or-authorize, record, and contest seats of [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement); this adds no seat and relaxes no rule of Chapter Six.
 - **The operator does not pick its checker:** the Charter Role Map does not place the verify-or-authorize seat; the lead forum and the component authorities are assigned under [§3.2 Supervisory Sequence](#32-supervisory-sequence) and Chapter Sixteen.
-- **Outside the operator:** everyone who holds a verify-or-authorize seat is outside the [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of the operator and the proponent and has no interest the outcome decides, and the record seat and the contest seat it names sit outside that line too; a seat placement that fails this is not valid, whatever any Charter Role Map says.
+- **Outside the operator:** everyone who holds a verify-or-authorize seat is outside the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of the operator and the proponent and has no interest the outcome decides, and the record seat and the contest seat it names sit outside that line too; a seat placement that fails this is not valid, whatever any Charter Role Map says.
 - **No merging by family label:** a forum family may hold different seats on different acts, but may not use its family label to merge seats that Chapter Six keeps apart on the same act.
 - **The lead does not keep the System Certification Record:** the lead forum directs the sequence but does not hold the record seat; the record holder enters what the deciding forums determined and decides nothing itself.
 
@@ -193,7 +193,7 @@ Who holds each of the four seats in a system certification is set out in full in
 
 ##### 3.1.2 Technical Forums
 
-Technical Forums supply the technical component findings for the System Certification Record, within their lawful scope, and answer the technical questions the lead forum sends them for ruling. Their role in full, including health and safety information under **Article III-F** (*Safe Products and Health Information*) and the [Subcore 3-N — Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) component role, is in [Subcore 8-C §4.1 Technical Forums](subcore_08.030_certification_seats_forum_roles_sequence.md#41-technical-forums).
+Technical Forums supply the technical component findings for the System Certification Record, within their lawful scope, and answer the technical questions the lead forum sends them for ruling. Their role in full, including health and safety information under **Article III-F** (*Safe Products and Health Information*) and the [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) component role, is in [Subcore 8-C §4.1 Technical Forums](subcore_08.030_certification_seats_forum_roles_sequence.md#41-technical-forums).
 
 <a id="313-integrity-forums"></a>
 
@@ -203,7 +203,7 @@ Technical Forums supply the technical component findings for the System Certific
 
 - Lead official constitutional alignment certification and ongoing alignment validation, unless Chapter Sixteen assigns a different primary stake;
 - Use technical-forum standards where they materially apply; and
-- Refer, send for ruling, or [Subcore 3-J — stay](subcore_03.070_band_accountability.md#stay) (pause) component questions that belong to other forum families, as [§3.2 Supervisory Sequence](#32-supervisory-sequence) requires.
+- Refer, send for ruling, or [stay](subcore_03.070_band_accountability.md#stay) (pause) component questions that belong to other forum families, as [§3.2 Supervisory Sequence](#32-supervisory-sequence) requires.
 
 <a id="314-environment-forums"></a>
 
@@ -212,7 +212,7 @@ Technical Forums supply the technical component findings for the System Certific
 **Environmental alignment when ecology matters:**
 
 - Hold the environmental-alignment component role where there is material ecological exposure, dependency on environmental preconditions, lifecycle burden, restoration duty, or reasonably foreseeable ecological risk; and
-- Include [Subcore 3-K — Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) attribution, disclosure, and comparison under [Subcore 8-B §6.1 Ecological Footprint Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) where attributable environmental burdens are material.
+- Include [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint) attribution, disclosure, and comparison under [Subcore 8-B §6.1 Ecological Footprint Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) where attributable environmental burdens are material.
 
 <a id="315-sentient-forums"></a>
 
@@ -282,10 +282,10 @@ The assigned forums must give affected sentients practicable, accessible ways to
 
 Every submission made during review goes into one **review submissions log**, kept by the record seat holder as part of the System Certification Record. The log works this way:
 
-- **Where to send a submission:** to the record seat holder or to any assigned forum. A forum that receives one passes it to the record seat holder inside the [Subcore 3-K — matching intake target](subcore_03.075_band_continuity.md#tier-window) ([CF-16.445 §5.1](corpus_forum/cf_16.445_performance_backlog_publication_accessibility.md#cf-16445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)).
+- **Where to send a submission:** to the record seat holder or to any assigned forum. A forum that receives one passes it to the record seat holder inside the [matching intake target](subcore_03.075_band_continuity.md#tier-window) ([CF-16.445 §5.1](corpus_forum/cf_16.445_performance_backlog_publication_accessibility.md#cf-16445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)).
 - **What the record seat holder does:** it logs the submission with its date, its source, and the forum it bears on. It tells the submitter it was received, sends it to that forum, and later enters what the forum did with it.
 - **No gatekeeping:** the record seat holder does not judge a submission's relevance or weight, and may not refuse, drop, or delay it.
-- **Anonymous and confidential submissions:** a submitter may ask to stay anonymous or confidential. Until the lead forum decides, the submitter's identity, and anything in the submission that would reveal it, is withheld from everyone, the operator included. If the lead forum finds confidentiality warranted, in the way [Subcore 3-J — Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) protects a reporter, the identity stays withheld and the submission is still logged and sent on. If it finds confidentiality not warranted, it tells the submitter before anything is disclosed, and the submitter may withdraw the submission. Retaliation against a submitter, or interference with submitting, is [Subcore 3-J — Protected Reporting Retaliation and Access Interference](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference).
+- **Anonymous and confidential submissions:** a submitter may ask to stay anonymous or confidential. Until the lead forum decides, the submitter's identity, and anything in the submission that would reveal it, is withheld from everyone, the operator included. If the lead forum finds confidentiality warranted, in the way [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) protects a reporter, the identity stays withheld and the submission is still logged and sent on. If it finds confidentiality not warranted, it tells the submitter before anything is disclosed, and the submitter may withdraw the submission. Retaliation against a submitter, or interference with submitting, is [Protected Reporting Retaliation and Access Interference](subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference).
 - **Who can see the log:** anyone. The log is published with the System Certification Record, and the disclosure rules in [Subcore 8-F §3.2 Transparency and Auditability of the System Certification Record](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) apply, so only a limit justified by safety or security may keep an entry from view.
 
 <a id="33-contestability-chain"></a>
@@ -302,7 +302,7 @@ The **contestability chain** is how affected parties can challenge a System Cert
 There are four paths, which [Subcore 8-F §5.2 Contestability Paths](subcore_08.060_system_alignment_certification_records_recertification.md#52-contestability-paths) names for the System Certification Record. The paths are:
 
 1. **Published record challenge path:** Affected parties may challenge a System Certification Record's content, scope, classification assumptions, evidence reliance, outcome, reliance limits, or supervisory integrity. See [Subcore 8-F §5 Challenging a Certification](subcore_08.060_system_alignment_certification_records_recertification.md#5-challenging-a-certification). For a system not yet operating, this step opens with the outcome (see [Subcore 8-F §5.1 When the Path Opens](subcore_08.060_system_alignment_certification_records_recertification.md#51-when-the-path-opens)).
-2. **Component forum path:** A challenge confined to one component finding goes to the forum family with jurisdiction over that component. The lead forum may [Subcore 3-J — stay](subcore_03.070_band_accountability.md#stay) reliance on the challenged component while timely review is pending.
+2. **Component forum path:** A challenge confined to one component finding goes to the forum family with jurisdiction over that component. The lead forum may [stay](subcore_03.070_band_accountability.md#stay) reliance on the challenged component while timely review is pending.
 3. **Lead-integrity path:** A challenge about how the lead forum ran the process goes under the integrity and anti-self-judging rules of [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases). That includes:
    - capture;
    - hidden information;
@@ -352,20 +352,20 @@ When a forum-supervised challenge is required, internal operator review, vendor 
 
 - Upstream:
   - [§3](#3-forum-process) (*forum process and credible challenge*);
-  - [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (8.000 §3) through
+  - [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (S8-B §3) through
   - [Subcore 8-B §6](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*misclassification, misalignment, and defects found in evaluation*);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [Subcore 3-B §3](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) (S3-B §3) and
   - [Subcore 3-B §4](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) (*definition integrity and evasion*);
   - [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns) (S3-B §4.1) (*scope-and-boundary evasion*);
-  - [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
+  - [System Charter](subcore_03.075_band_continuity.md#system-charter) (*System Charter–behavior mismatch and overdue review*).
 - Downstream:
   - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (*the outcome is stated on the System Certification Record*);
   - [Subcore 8-F §5](subcore_08.060_system_alignment_certification_records_recertification.md#5-challenging-a-certification) (*the challenge path opens with the outcome*);
   - [Subcore 8-F §4](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (*recertification and reopening*);
   - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) and [Subcore 8-F §6.5](subcore_08.060_system_alignment_certification_records_recertification.md#65-violation-standing-record) (*verified-input gate where facts support adverse findings*);
   - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*forum supervision*);
-  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000).
+  - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B).
 - Read with: **[Subcore 4-A §6.2](subcore_04.050_data_types.md#62-reclassification-and-lifecycle-governance)** (*Reclassification and lifecycle governance*) for scheduled data-type re-evaluation, and **[Subcore 8-A §3.5](subcore_08.010_system_classification.md#35-reclassification-requirement)** (*Reclassification requirement*) for system-class reassess triggers and SAC verification.
 - Subsections:
   - [§4.1](#41-go-live-gate) (*go-live gate*, with
@@ -490,7 +490,7 @@ flowchart TB
 
 *In plain terms: going live is a permission, not a separate stage of work. It is granted when the system is certified, the notice interval has run, and the certification conditions required before go-live have been independently verified. Certification conditions say what must be done before operation, what must hold during operation, and what corrective work may follow within a bounded scope.*
 
-**No [Subcore 3-K — go-live](subcore_03.075_band_continuity.md#go-live) before certification.** A system that would materially affect sentients, or that sentients would materially rely on, does not go live until all of these are true:
+**No [go-live](subcore_03.075_band_continuity.md#go-live) before certification.** A system that would materially affect sentients, or that sentients would materially rely on, does not go live until all of these are true:
 
 - **Certified:** its System Certification Record carries provisional or full certification, with or without certification conditions;
 - **Published, with the challenge path open:** the completed outcome has been accessibly published, and the published record challenge path under [Subcore 8-F §5 Challenging a Certification](subcore_08.060_system_alignment_certification_records_recertification.md#5-challenging-a-certification) is open. Go-live follows the outcome. So the path opens when the outcome is published, in time for a challenge to be filed, and reliance stayed, before the system goes live;
@@ -551,7 +551,7 @@ If a system was already running when an organization adopted this constitution, 
 
 ##### 4.1.2 Pilots
 
-The go-live rule applies to a [Subcore 3-K — pilot](subcore_03.075_band_continuity.md#pilot) as it does to full deployment. A pilot is certified on its own System Certification Record, scaled under [Subcore 8-B §3.3 Pilot Certification](subcore_08.020_system_alignment_certification_evaluation.md#33-pilot-certification). Its certification covers only the certified scope, population, and duration stated on that System Certification Record. Full deployment needs its own certification, which may draw on the pilot's record.
+The go-live rule applies to a [pilot](subcore_03.075_band_continuity.md#pilot) as it does to full deployment. A pilot is certified on its own System Certification Record, scaled under [Subcore 8-B §3.3 Pilot Certification](subcore_08.020_system_alignment_certification_evaluation.md#33-pilot-certification). Its certification covers only the certified scope, population, and duration stated on that System Certification Record. Full deployment needs its own certification, which may draw on the pilot's record.
 
 <a id="42-certification-defects-and-correction"></a>
 
@@ -602,7 +602,7 @@ A system that is Not Certified cannot begin new operation. If an operating syste
 
 *In plain terms: when a review finds that something is misaligned, the next question is whether the operator will and can put it right. A promise is not an answer. The forums look at what the operator has actually done since it was told, whether it is changing what caused the problem, and whether it has the authority, skill, money, and time to do the work. If the honest answer is no, the outcome is denial or revocation. It is not a longer list of certification conditions.*
 
-This is the **remediation readiness check**. It happens in Phase IV, Decide, once the Phase III component findings are in. It runs whenever an evaluation or a [Subcore 3-K — later certification pass](subcore_03.075_band_continuity.md#certification-pass) finds misalignment or a certification defect, and only after the cause has been found, or marked "not yet determined," under [Subcore 8-F §4.3.3 Cause of Misalignment](subcore_08.060_system_alignment_certification_records_recertification.md#433-cause-of-misalignment). It asks one question: **is the operator or steward both willing and able to correct this inside the tier window?** It answers from conduct and evidence, and never from professed intent.
+This is the **remediation readiness check**. It happens in Phase IV, Decide, once the Phase III component findings are in. It runs whenever an evaluation or a [later certification pass](subcore_03.075_band_continuity.md#certification-pass) finds misalignment or a certification defect, and only after the cause has been found, or marked "not yet determined," under [Subcore 8-F §4.3.3 Cause of Misalignment](subcore_08.060_system_alignment_certification_records_recertification.md#433-cause-of-misalignment). It asks one question: **is the operator or steward both willing and able to correct this inside the tier window?** It answers from conduct and evidence, and never from professed intent.
 
 Who does what:
 
@@ -619,7 +619,7 @@ Who does what:
 The forum finds from the System Certification Record:
 
 - **Conduct since notice:** whether the operator stopped or contained the harm, put interim protection in place, preserved the evidence, and told affected sentients, inside the windows in [Subcore 8-F §4.3.4 Tier Windows](subcore_08.060_system_alignment_certification_records_recertification.md#434-tier-windows), or instead delayed, minimized, or concealed.
-- **Fit between the fix and the cause:** whether the proposed correction addresses the cause finding, or only a symptom, a metric, or the appearance of a fix ([Subcore 3-M — Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence)).
+- **Fit between the fix and the cause:** whether the proposed correction addresses the cause finding, or only a symptom, a metric, or the appearance of a fix ([Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence)).
 - **Incentives:** whether the reward structure that produced the misalignment is being changed or still pays for it. A fix that costs the operator something its own structure rewards, and that leaves the structure alone, is not credible ([Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions)).
 - **History:** whether earlier findings on this system, or on others under common control, were corrected and verified or came back.
 - **Cooperation:** whether the operator accepts independent verification, produces records when asked, and keeps the challenge path open, and whether anyone who reported the problem has been penalized.
@@ -682,7 +682,7 @@ The readiness check measures the correction needed. It does not measure the size
 
 ##### 4.4.1 What Denial and Revocation Are
 
-**Denial** ([Subcore 3-K — Certification Denial](subcore_03.075_band_continuity.md#certification-denial)) is the outcome non-certification ([§4 Certification Outcomes](#4-certification-outcomes)), reached by refusing certification. **Revocation** ([Subcore 3-K — Certification Revocation](subcore_03.075_band_continuity.md#certification-revocation)) is the outcome withdrawal, reached by taking back a certification already held. These are plain names for outcomes already listed in [§4 Certification Outcomes](#4-certification-outcomes).
+**Denial** ([Certification Denial](subcore_03.075_band_continuity.md#certification-denial)) is the outcome non-certification ([§4 Certification Outcomes](#4-certification-outcomes)), reached by refusing certification. **Revocation** ([Certification Revocation](subcore_03.075_band_continuity.md#certification-revocation)) is the outcome withdrawal, reached by taking back a certification already held. These are plain names for outcomes already listed in [§4 Certification Outcomes](#4-certification-outcomes).
 
 <a id="442-when-denial-or-revocation-is-required"></a>
 
@@ -751,7 +751,7 @@ These are the effects of a denial or revocation under [§4.4 Denial and Revocati
 - **Institution:** a revocation of a certification that an Institution cites is a withdrawn certification for the cascade in [Subcore 9-F §4.5 Cascade from System Certifications](subcore_09.060_institutional_alignment_certification_records_recertification.md#45-cascade-from-system-certifications).
 - **Referral:** the lead forum refers the matter to the forum that has jurisdiction over the type of certification problem identified. This Chapter decides none of what that forum decides.
   - **To the forum over a named sentient:** where the certification finding rests on a sentient's use of the system to carry out a violation, the lead forum refers the facts to the forum with jurisdiction over that sentient.
-  - **To a lock or an Interim Hold:** for a verified finding of violation, the matter goes to the standing lock that [Chapter Twelve §4 Lock Design and Enforcement](core_12.000_violation_consequences.md#4-lock-design-and-enforcement) provides for it. Where only the grounds for an [Subcore 3-J — Interim Hold](subcore_03.070_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway).
+  - **To a lock or an Interim Hold:** for a verified finding of violation, the matter goes to the standing lock that [Chapter Twelve §4 Lock Design and Enforcement](core_12.000_violation_consequences.md#4-lock-design-and-enforcement) provides for it. Where only the grounds for an [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) are met, it goes to an Interim Hold under [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway).
 - **Standing:** a denial or revocation does not itself change anyone's standing. [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) and [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) alone decide that. The facts behind it can feed a violation Standing Record, but only through [Subcore 8-F §6 Relationship to Standing](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing) and its [Subcore 8-F §6.3 Verified-Input Gate](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate):
   - Denial or revocation for concealment or fraudulent evidence may supply that input. So may revocation for a material violation of a certification condition or for operation outside certified scope.
   - A finding of willing and not able supplies none.
