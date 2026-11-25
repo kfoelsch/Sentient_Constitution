@@ -3828,7 +3828,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Two §5.7 Keeping Forum Case Records](core_22.000_forum.md#57-keeping-forum-case-records) (22.000 §5.7); read with [CF-22.465 §7.1 Retention Classes and Physical Backup](corpus_forum/cf_22.465_standard_records_forms_evidence_artifacts.md#cf-22465-71-retention-classes-and-physical-backup).
+- Owner: [Chapter Twenty-Two §5.7 Keeping Forum Case Records](core_22.000_forum.md#57-keeping-forum-case-records) (22.000 §5.7) and [Chapter Thirty-One §3.2 Custody Chain](core_31.000_incorporation.md#32-custody-chain); read with [CF-22.465 §7.1 Retention Classes and Physical Backup](corpus_forum/cf_22.465_standard_records_forms_evidence_artifacts.md#cf-22465-71-retention-classes-and-physical-backup).
 - Read with:
   - [Constitutional Library](subcore_03.070_band_accountability.md#constitutional-library),
   - [Constitutional Archive](subcore_03.070_band_accountability.md#constitutional-archive),
@@ -3839,10 +3839,10 @@ See **Anti-Segmentation Principle**.
 
 <br>
 
-*In plain terms: an Essential Record is a non-routine entry the constitutional order could not be rebuilt without. Its physical backup is kept in more than one region, so no single disaster, seizure, or capture can erase it.*
+*In plain terms: an Essential Record preserves information the constitutional order could not be rebuilt without, including adoption and custody records. Its physical backup is kept in more than one region, so no single disaster, seizure, or capture can erase it.*
 
 - **What it is**
-  - **In scope:** A non-routine [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record) entry, or a register or index of the [Constitutional Library](subcore_03.070_band_accountability.md#constitutional-library) or [Constitutional Archive](subcore_03.070_band_accountability.md#constitutional-archive), whose loss the constitutional order could not repair, as **CF-22.465 §7.1** (*Retention Classes and Physical Backup*) lists. A [Standing Record](subcore_03.070_band_accountability.md#standing-record) at slot 5 or above on either axis is also an Essential Record ([Chapter Fourteen §8.5 Physical Backup and Certified Copies](core_14.000_standing_assessment.md#85-physical-backup-and-certified-copies)). Its physical backup is held in at least three separate places in different regions, so that no one disaster, seizure, legal order, or capture reaches every copy.
+  - **In scope:** A non-routine [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record) entry, or a register or index of the [Constitutional Library](subcore_03.070_band_accountability.md#constitutional-library) or [Constitutional Archive](subcore_03.070_band_accountability.md#constitutional-archive), whose loss the constitutional order could not repair, as **CF-22.465 §7.1** (*Retention Classes and Physical Backup*) lists. Adoption records in the adoption chain and the custody records required by [Chapter Thirty-One §3.2](core_31.000_incorporation.md#32-custody-chain) are also Essential Records. A [Standing Record](subcore_03.070_band_accountability.md#standing-record) at slot 5 or above on either axis is also an Essential Record ([Chapter Fourteen §8.5 Physical Backup and Certified Copies](core_14.000_standing_assessment.md#85-physical-backup-and-certified-copies)). Its physical backup is held in at least three separate places in different regions, so that no one disaster, seizure, legal order, or capture reaches every copy.
   - **Out of scope:** routine entries; ordinary non-routine entries, which keep one physical backup; and the working custody of a [Standing Record](subcore_03.070_band_accountability.md#standing-record), which stays with its record custodian under [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority).
 <a id="essential-record-a"></a>
 - **How to measure and assess**

@@ -91,7 +91,7 @@ Chapter Thirty-One is the constitutional owner of **the incorporation bridge**, 
 **Role:** This chapter is what makes the implementation files count. Where an adoption is valid:
 
 - The designated **implementation text** files listed in the [**Corpus**](subcore_03.080_band_integrative.md#corpus) entry in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) bind as **authoritative implementation text** for the obligations they cover.
-- Those files carry out this Constitution under **Chapter Two**. They do not replace it.
+- Those files provide detail for carrying out this Constitution. They are read under **Chapter Two** and do not replace the Constitution.
 - Combining the files into one document for packaging does **not** change their status, as long as they stay on that list.
 - A reference to **Chapter Thirty-One** or to an incorporated file, anywhere in these volumes, brings in the matching **adopted** obligations, but only **where they apply** and **only within the stated adoption scope**.
 - The [subcore](subcore_03.080_band_integrative.md#subcore) is **not** implementation text. It is part of this Constitution, binds every adopter without separate incorporation, and is pinned by the same edition as the chapters it belongs to.
@@ -138,7 +138,7 @@ Implementation text keeps improving, and adopters adopt it at different times. W
   - [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) (29.000) (*recorded adoption chain*);
   - [**Corpus**](subcore_03.080_band_integrative.md#corpus) (*implementation text enumeration and operative corpus identity*) in
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000).
-- Downstream: [§4 Safeguards](#4-safeguards) (*anti-drift and anti-evasion rules*); [§5 Adoption Framing and Scope of Authority](#5-adoption-framing-and-scope-of-authority) (*when adoption takes effect and how it is described*); designated **implementation text** files, as pinned editions; [evidence/](evidence/) hooks named in the process-layer bullet.
+- Downstream: [§4 Safeguards](#4-safeguards) (*anti-drift and anti-evasion rules*); [§5 Adoption Framing and Scope of Authority](#5-adoption-framing-and-scope-of-authority) (*when adoption takes effect and how it is described*); designated **implementation text** files, as pinned editions; [evidence/](evidence/) hooks named in §3.4.
 - Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) (*traceability and verification expectations that support custody discipline*); [doc_architecture.md](doc_architecture.md) (*non-binding mapping and edition metadata unless adopted*).
 
 </details>
@@ -149,33 +149,52 @@ Implementation text keeps improving, and adopters adopt it at different times. W
 
 This section sets out how incorporated text is pinned to editions, held in custody, and given operative effect:
 
-- **Edition pinning:** Incorporation by reference at constitutional scope is operative only for **adopted edition identifiers** and **effective dates** recorded explicitly in the adoption chain. For constitutional-scope purposes, the operative text of an incorporated implementation file is the text at the **adopted edition identifier**. That text is **not** the adopter’s current working copy, and it is **not** the latest revision published upstream simply because it is newest. A later edition becomes operative for an adopter only by amendment under **Chapter Twenty-Nine section 3**, on the effective date and edition identifier recorded in that adopter's adoption chain (**Chapter Twenty-Nine section 3.3**).
-- **Custody chain:** Adopters must maintain an **auditable custody chain** for incorporated **implementation text** artifacts. Records must include:
-  - edition identifier;
-  - effective date;
-  - custodian identity; and
-  - linkage to the adoption document, in a form sufficient for provenance and applicable scope.
+#### 3.1 Edition Pinning
 
-  Custody records must be proportionate to assigned system classification under **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**, and to [**Material Impact**](subcore_03.085_band_oversight.md#material-impact), [**Dependency**](subcore_03.075_band_continuity.md#dependency), affected [**Stakeholder**](subcore_03.090_band_participation.md#stakeholder) position, and applicable [**Materiality**](subcore_03.085_band_oversight.md#materiality) requirements in [**Chapter Three**](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (consistent with [**Classification-Scaled Governance**](subcore_03.085_band_oversight.md#classification-scaled-governance)).
-- **Implementation-file scope (enumerated):** Without limitation, this section covers:
-  - [corpus_systems.md](corpus_systems.md) (*systems implementation file*)
-  - [corpus_institutions.md](corpus_institutions.md) (*Constitutional Institutions*)
-  - [corpus_forum.md](corpus_forum.md) (*Constitutional Judicial Systems*)
-  - [corpus_joint_structure.md](corpus_joint_structure.md) (*Constitutional Joint Structure*)
-  - any further **implementation text** files listed in the [**Corpus**](subcore_03.080_band_integrative.md#corpus) entry in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions)
+When an implementation file is incorporated by reference at constitutional scope:
 
-  Each incorporated implementation file is binding **only as adopted** through a recorded adoption chain under **Chapter Twenty-Nine** and this chapter.
+- It takes effect only if the adoption chain explicitly records the **adopted edition identifier** and **effective date**.
+- The text that applies at constitutional scope is the text of that adopted edition.
+- The adopter’s current working copy does not take its place, and a newer version published by the source does not apply just because it is newer.
+- A later edition takes effect for an adopter only through amendment under **Chapter Twenty-Nine section 3**, using the edition identifier and effective date recorded in that adopter’s adoption chain (**Chapter Twenty-Nine section 3.3**).
 
-  - **Sentience-Status Adjudication Record:** This edition lists [`corpus_forum/cf_22.475_sentience_status_record.md`](corpus_forum/cf_22.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated [Sentience-Status Adjudication Record](subcore_03.090_band_participation.md#sentience-status-adjudication-record) format. They implement, and do **not** narrow, [Article VI-B](core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and the [Chapter Twenty-Three §4 Escalation and Questions for Ruling](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook). The schema is machine-checkable form, **not** who-counts.
-- **Process-layer alignment (evidence hook):** The following **support** verification of custody and adoption framing:
-  - architecture maps;
-  - TODO records;
-  - regression catalogs; and
-  - evidence logs.
+#### 3.2 Custody Chain
 
-  These supporting records **do not**, by themselves, alter constitutional effect absent valid adoption.
+Adopters must maintain an **auditable custody chain** for incorporated **implementation text** artifacts. Records must include:
 
-    Accepted governance-control changes — including custody-chain hardening, edition lineage updates, and incorporation-discipline clarifications — must be recorded in a dated artifact under [evidence/](evidence/) (`evidence/<YYYY-MM-DD>/`). That artifact must link the edition identifier, the adoption chain, and the regression coverage (**`RS-XD-003`** and adjacent `RS-XD-*` seeds) that exercises the custody and anti-drift safeguards. The artifact is a **verification aid**; it does not itself constitute adoption.
+- edition identifier;
+- effective date;
+- custodian identity; and
+- linkage to the adoption document, in a form sufficient for provenance and applicable scope.
+
+The adoption records in the adoption chain and the custody records required above are [Essential Records](subcore_03.070_band_accountability.md#essential-record). Each must have an offline physical backup in at least three separate places in different regions, held by different custodians.
+
+#### 3.3 Implementation-File Scope
+
+Without limitation, this section covers:
+
+- [corpus_systems.md](corpus_systems.md) (*systems implementation file*)
+- [corpus_institutions.md](corpus_institutions.md) (*Constitutional Institutions*)
+- [corpus_forum.md](corpus_forum.md) (*Constitutional Judicial Systems*)
+- [corpus_joint_structure.md](corpus_joint_structure.md) (*Constitutional Joint Structure*)
+- any further **implementation text** files listed in the [**Corpus**](subcore_03.080_band_integrative.md#corpus) entry in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions)
+
+Each incorporated implementation file is binding **only as adopted** through a recorded adoption chain under **Chapter Twenty-Nine** and this chapter.
+
+#### 3.4 Process-Layer Alignment
+
+**Sentience-Status Adjudication Record:** This edition lists [`corpus_forum/cf_22.475_sentience_status_record.md`](corpus_forum/cf_22.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json) as the dedicated [Sentience-Status Adjudication Record](subcore_03.090_band_participation.md#sentience-status-adjudication-record) format. They implement, and do **not** narrow, [Article VI-B](core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) and the [Chapter Twenty-Three §4 Escalation and Questions for Ruling](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*Sentience-status adjudication* hook). The schema is machine-checkable form, **not** who-counts.
+
+The following **support** verification of custody and adoption framing:
+
+- architecture maps;
+- TODO records;
+- regression catalogs; and
+- evidence logs.
+
+These supporting records **do not**, by themselves, alter constitutional effect absent valid adoption.
+
+Accepted governance-control changes — including custody-chain hardening, edition lineage updates, and incorporation-discipline clarifications — must be recorded in a dated artifact under [evidence/](evidence/) (`evidence/<YYYY-MM-DD>/`). That artifact must link the edition identifier, the adoption chain, and the regression coverage (**`RS-XD-003`** and adjacent `RS-XD-*` seeds) that exercises the custody and anti-drift safeguards. The artifact is a **verification aid**; it does not itself constitute adoption.
 
 ### 4. Safeguards
 <details>
@@ -230,21 +249,30 @@ This section sets out the safeguards that protect incorporated text:
 
 <br>
 
-*In plain terms: this is a model constitution about systems that affect sentients. A body can make it enforceable for itself only by adopting on purpose through the published rules — and “we never adopted” answers enforcement, not what the text says. Publishing it does not override other law.*
+*In plain terms: this is a model constitution about systems that affect sentients. A body can make it enforceable for itself only by deliberately adopting it through the published rules. If a body has not adopted it, the Constitution cannot be enforced against that body on the basis of adoption. That does not change what the Constitution says or mean its protections can be read more narrowly. Making this Constitution public does not, by itself, change or cancel any applicable law.*
 
-**What it is.** This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under **Chapter Twenty-Nine** (*Ratification and Adoption*) and this chapter. Until then, it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
+#### 5.1 What It Is
 
-**Who may adopt.** Valid adopters may include — without limitation — constitutional federations, polities, sovereign or cooperative entities, organizations, system operators, system-developer consortia, or any other body that can bind itself and the systems under its authority to these obligations. Adoption may cover the whole Constitution or only specified chapters, articles, or obligations, consistent with **Chapter Twenty-Nine** and **Chapter Twenty-Eight** non-regression rules. Partial adoption may not wipe out the non-regression floor. Incorporation and partial adoption must not be used to shrink land, consultation, or free, prior, and informed consent (FPIC) duties the adopter already bears under its own law or binding documents.
+This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under **Chapter Twenty-Nine** (*Ratification and Adoption*) and this chapter. Until then, it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
 
-Nothing here requires one world government, one federation design, or one adoption method. Different adopters may use different internal procedures consistent with **Chapter Twenty-Nine**. That matches the pluralism commitment in **Chapter Twenty-Seven §3** (*Authorization and Legitimacy of Governing Authority*).
+#### 5.2 Who May Adopt
 
-**How / when adoption counts.** Adoption counts only when it is deliberate, documented, and auditable under **[Chapter Twenty-Nine §12](core_29.000_amendment_ratification.md#12-ratification-and-adoption)** (*Ratification and Adoption*), with incorporation and custody under this chapter. Informal, silent, or “we kind of follow it” practice is not enough to claim constitutional protection while dodging the matching obligations. The notice, contest, document, and custody details live in Chapter Twenty-Nine — this section does not restate them.
+The following rules address who may adopt and the scope of adoption:
 
-**A scope document kept under another name.** A body that already keeps a published scope document under another name meets the System Charter or Institutional Charter duty in [Chapter Five §3.1 Who Must Publish](core_05.000_charters.md#31-who-must-publish) with it only if it states the minimum in [Chapter Five §5 What System and Institutional Charters Must State](core_05.000_charters.md#5-what-system-and-institutional-charters-must-state) and is identified as the Chartered Party's System Charter or Institutional Charter, with the reasons recorded. Marketing copy, a mission slogan, or a terms-of-service page that is not offered as the scope document does not.
+- Valid adopters may include — without limitation — constitutional federations, polities, sovereign or cooperative entities, organizations, system operators, system-developer consortia, or any other body that can bind itself and the systems under its authority to these obligations.
+- Adoption may cover the whole Constitution or only specified chapters, articles, or obligations, consistent with **Chapter Twenty-Nine** and **Chapter Twenty-Eight** non-regression rules.
+- Partial adoption may not wipe out the non-regression floor.
+- Incorporation and partial adoption must not be used to shrink land, consultation, or free, prior, and informed consent (FPIC) duties the adopter already bears under its own law or binding documents.
+- Nothing here requires one world government, one federation design, or one adoption method. Different adopters may use different internal procedures consistent with **Chapter Twenty-Nine**. That matches the pluralism commitment in **Chapter Twenty-Seven §3** (*Authorization and Legitimacy of Governing Authority*).
 
-**What non-adoption means.** The substance of this Constitution — including principles in **Chapter Two**, definitions in **Chapter Three**, the Rights Floor in **Chapter Four**, and the other substantive chapters — **does not wait on adoption** to be what this Constitution states. “This Constitution lacks jurisdiction” is correct only about **enforcement** against a non-adopter. It is not a reason to shrink the substance in any analysis that uses this framework. Accepting the framework while denying its substance on jurisdictional grounds is non-compliant with this section.
+#### 5.3 Adoption and Applicable Law
 
-**Relation to applicable external law.** Non-displacement of applicable local, national, or international law, the limited binding effect of valid adoption, and alignment when this Constitution is used inside an external legal framework are governed by [Chapter Thirty §7 Relation to Applicable External Law](core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law). This section does not restate or narrow those rules.
+[Chapter Twenty-Nine §12 Ratification and Adoption](core_29.000_amendment_ratification.md#12-ratification-and-adoption) governs deliberate adoption and its documentation. [Chapter Thirty §7 Relation to Applicable External Law](core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law) governs limited binding effect, non-displacement of applicable law, and use within an external legal framework.
+
+#### 5.4 What Non-Adoption Means
+
+The substance of this Constitution — including principles in **Chapter Two**, definitions in **Chapter Three**, the Rights Floor in **Chapter Four**, and the other substantive chapters — **does not wait on adoption** to be what this Constitution states. “This Constitution lacks jurisdiction” is correct only about **enforcement** against a non-adopter. It is not a reason to shrink the substance in any analysis that uses this framework. Accepting the framework while denying its substance on jurisdictional grounds is non-compliant with this section.
+
 
 ---
 

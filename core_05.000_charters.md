@@ -182,6 +182,15 @@ A System of Class L or higher must publish and maintain a [System Charter](subco
   - **Adoption notice:** The one-page notice that **CI-27.205 §7** (*Practice Licence, Practice Clearance, and Joint Professional Practice*) describes.
   - **Class:** The practice stays the class its own acts give it.
 
+##### 3.1.1 A Scope Document Kept Under Another Name
+
+A body may already have a published document that describes the scope of its operations but has a different name. It can use that document to meet its duty to publish a System Charter or Institutional Charter under [§3.1 Who Must Publish](#31-who-must-publish) only if:
+
+- the document includes at least the information required by [§5 What System and Institutional Charters Must State](#5-what-system-and-institutional-charters-must-state); and
+- the document is identified as the Chartered Party's System Charter or Institutional Charter, and the reasons are recorded.
+
+Marketing copy, a mission slogan, or a terms-of-service page does not meet this duty if it is not offered as the scope document.
+
 <a id="32-which-classes-are-covered"></a>
 #### 3.2 Which Classes Are Covered
 
@@ -446,7 +455,7 @@ The fifth limit works on one act of an Institution, exercising new material auth
   - [Chapter Ten §3.1 Minimum Record Contents](core_10.000_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (10.000 §3.1) (*the System Charter fields a System Certification Record relies on*);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) for the full field list.
 - Read with:
-  - [Chapter Thirty-One §5 Adoption Framing and Scope of Authority](core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (31.000 §5) (*a scope document kept under another name*);
+  - [§3.1.1 A Scope Document Kept Under Another Name](#311-a-scope-document-kept-under-another-name);
   - [Chapter Twenty-Seven §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (27.000 §6.3);
   - **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*);
   - **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*).
