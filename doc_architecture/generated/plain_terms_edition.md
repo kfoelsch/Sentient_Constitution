@@ -6,13 +6,13 @@ Corpus edition: `SC-Corpus-2026.11.25` · effective **2026-11-25**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_24.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **473** of **740** headings carry a gloss (64%).
+Coverage: **473** of **739** headings carry a gloss (64%).
 
 ## Contents
 
 - [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00.000_preamble.md` (7/11 glossed)
 - [CHAPTER ONE: CONSTITUTIONAL MAP](#chapter-one-constitutional-map) — `core_01.000_constitutional_map.md` (10/21 glossed)
-- [CHAPTER 02, PART A: PURPOSE AND THE FLOURISHING AIM](#chapter-02-part-a-purpose-and-the-flourishing-aim) — `core_02.000_values_principles.md` (21/39 glossed)
+- [CHAPTER 02, PART A: PURPOSE AND THE FLOURISHING AIM](#chapter-02-part-a-purpose-and-the-flourishing-aim) — `core_02.000_values_principles.md` (21/38 glossed)
 - [CHAPTER 02, PART B: THE CONTINUITY AIM](#chapter-02-part-b-the-continuity-aim) — `core_02.010_values_principles_continuity_aim.md` (18/19 glossed)
 - [CHAPTER 02, PART C: COLLISION RESOLUTION AND THE OVERRIDE LIMIT](#chapter-02-part-c-collision-resolution-and-the-override-limit) — `core_02.020_interaction_interpretation.md` (14/18 glossed)
 - [CHAPTER 02, PART D: CONSTITUTIONAL INTERPRETATION](#chapter-02-part-d-constitutional-interpretation) — `core_02.030_constitutional_interpretation.md` (5/12 glossed)
@@ -235,7 +235,7 @@ four adopted corpora (joint structure, systems, institutions, and forum operatio
 
 ## CHAPTER 02, PART A: PURPOSE AND THE FLOURISHING AIM
 
-Source file: [`core_02.000_values_principles.md`](../../core_02.000_values_principles.md) · 21/39 headings glossed
+Source file: [`core_02.000_values_principles.md`](../../core_02.000_values_principles.md) · 21/38 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -344,12 +344,6 @@ wellbeing is not only what's forbidden and what's fair — shared systems should
 no one may be rewarded for committing, hiding, or retaliating over anti-constitutional conduct, whether openly or through back doors like favors, quiet promotions, or looking the other way. Helping the sentients who were harmed, and protecting those who report honestly, is different. That is the right response, and it should be encouraged.
 
 [Source](../../core_02.000_values_principles.md#327-anti-reward-for-anti-constitutional-conduct)
-
-###### 3.2.8 Implementation Layer
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_02.000_values_principles.md#328-implementation-layer)
 
 ##### 3.3 Anti-Degrading Process
 

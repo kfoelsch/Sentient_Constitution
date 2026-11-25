@@ -377,7 +377,7 @@ A process must leave room for new work to begin, for disagreement to be heard, a
 
 - [Chapter Two §7.2.1 Aligned Self-Organization](../core_02.000_values_principles.md#721-aligned-self-organization): credible work gets a real procedural path to start without a sponsor, but the path is not power over others.
 - [Chapter Two §7.3 Dissent and Peaceful Protest](../core_02.000_values_principles.md#73-dissent-and-peaceful-protest): a single-sentient or small business may place a seat with a cooperative, association, or other independent body.
-- [Chapter Two §3.2.8 Implementation Layer](../core_02.000_values_principles.md#328-implementation-layer): ceremonies, curricula, budgets, programs, and metrics are set in each adopter's implementation, not in this Constitution.
+- [Chapter Two §3.2 Recognition, Reinforcement, and Aspiration](../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration): ceremonies, curricula, budgets, programs, and metrics are set in each adopter's implementation, not in this Constitution.
 
 ### Reading the text
 
