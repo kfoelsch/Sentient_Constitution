@@ -50,14 +50,14 @@ ROOT = Path(__file__).resolve().parents[1]
 RULE = "CH10-DUPLICATION-01"
 BASELINE_NAME = "ch10_duplication"
 TARGETS = (
-    "core_11.000_institutional_alignment_certification_evaluation.md",
-    "core_12.000_institutional_alignment_certification_forum_process_outcomes.md",
-    "core_13.000_institutional_alignment_certification_records_recertification.md",
+    "subcore_09.020_institutional_alignment_certification_evaluation.md",
+    "subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md",
+    "subcore_09.060_institutional_alignment_certification_records_recertification.md",
 )
 SOURCES = {
-    "A": "core_08.000_system_alignment_certification_evaluation.md",
-    "B": "core_09.000_system_alignment_certification_forum_process_outcomes.md",
-    "C": "core_10.000_system_alignment_certification_records_recertification.md",
+    "A": "subcore_08.020_system_alignment_certification_evaluation.md",
+    "B": "subcore_08.040_system_alignment_certification_forum_process_outcomes.md",
+    "C": "subcore_08.060_system_alignment_certification_records_recertification.md",
 }
 MIN_WORDS = 8
 THRESHOLD = 0.85

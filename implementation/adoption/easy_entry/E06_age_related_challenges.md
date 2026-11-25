@@ -4,12 +4,12 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-11`
-> **Corpus edition pin:** `SC-Corpus-2026.10.21`
+> **Corpus edition pin:** `SC-Corpus-2026.11.25`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_23.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Four §7](../../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
-> If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
+> If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations), do **not** treat this page as an answer key.
 
 </details>
 
@@ -67,11 +67,11 @@ See: [CI-4.220](../../../corpus_institutions/ci_04.220_neurodiversity_disability
 
 ## What you might reasonably object to
 
-- **“They’ll take the house / the accounts / the children.”** Family convenience is not a finding about your interests, and a concern report is not an official record of verified help or harm ([Chapter Fourteen §4.2](../../../core_14.000_standing_assessment.md#42-silence-is-the-default)). Verified harm, if it exists, still has to be verified in the right role. This text will not freeze what you used to be able to do either: if you cannot currently do a thing, the text will not pretend you can.
+- **“They’ll take the house / the accounts / the children.”** Family convenience is not a finding about your interests, and a concern report is not an official record of verified help or harm ([Subcore 10-B §4.2](../../../subcore_10.020_standing_assessment.md#42-silence-is-the-default)). Verified harm, if it exists, still has to be verified in the right role. This text will not freeze what you used to be able to do either: if you cannot currently do a thing, the text will not pretend you can.
 
 - **“I already wrote down what I want. Why isn’t that enough?”** Advance wishes are supposed to have a named holder under CI-4.230. They are not a magic override of a later verified safety showing, and they are not supposed to be discarded because they slow someone else down.
 
-- **“This isn’t law in this clinic.”** Correct until a qualifying body adopts it. It does not override applicable health, guardianship, or family law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
+- **“This isn’t law in this clinic.”** Correct until a qualifying body adopts it. It does not override applicable health, guardianship, or family law ([Chapter Twenty-Four §7](../../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
 - **“If I refuse help, they’ll say that proves I lack capacity.”** Refusal of a conditioned offer is not, by itself, a verified incapacity finding. That is the same pattern [E01](E01_pregnant_reproducing.md) names in a different scene.
 

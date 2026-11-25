@@ -17,7 +17,7 @@ TARGET = {7: 'core_07.000_charters.md', 10: 'core_10.000_system_alignment_certif
  22: 'core_22.000_misconduct_pattern_applications.md', 23: 'core_23.000_forum.md',
  24: 'core_25.000_forum_families_escalation_timeliness_support.md', 27: 'core_28.000_governance.md',
  28: 'core_29.000_non_regression.md', 29: 'core_30.000_amendment_ratification.md', 30: 'core_31.000_expansion_supremacy.md',
- 31: 'core_31.000_incorporation.md'}
+ 31: 'core_25.000_incorporation.md'}
 FILE2CH = {v: k for k, v in TARGET.items()}
 UNITS = ['', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
 TEENS = ['ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen']

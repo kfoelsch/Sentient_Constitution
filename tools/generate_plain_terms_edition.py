@@ -205,7 +205,7 @@ def render_markdown(reports: list[FileReport], edition: str, effective: str, pre
         "",
         f"Corpus edition: `{edition}` · effective **{effective}**",
         "",
-        "> **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](" + prefix + "core_30.000_expansion_supremacy.md); [README — Binding vs support](" + prefix + "README.md#binding-vs-support)). A heading without a gloss is listed with its link only.",
+        "> **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](" + prefix + "core_24.000_expansion_supremacy.md); [README — Binding vs support](" + prefix + "README.md#binding-vs-support)). A heading without a gloss is listed with its link only.",
         "",
         f"Coverage: **{glossed}** of **{total}** headings carry a gloss ({pct:.0f}%).",
         "",
@@ -227,7 +227,8 @@ def render_markdown(reports: list[FileReport], edition: str, effective: str, pre
             depth = min(section.level + 1, 6)
             hashes = "#" * depth
             link = f"{prefix}{section.file}#{link_fragment(section.file, section.anchor)}"
-            out.append(f"{hashes} {section.title}")
+            title = rewrite_links(section.title, section.file, prefix)
+            out.append(f"{hashes} {title}")
             out.append("")
             if section.gloss:
                 out.append(rewrite_links(section.gloss, section.file, prefix))

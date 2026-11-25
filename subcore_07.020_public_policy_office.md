@@ -5,8 +5,8 @@
 
 > This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Seven](core_07.000_independent_bodies.md#chapter-seven-independent-bodies), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 7-B**. It was added on 2026-11-23.
 >
-> **Upstream:** [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) (*Public Policy Office*); [Chapter Twenty-Seven §5.3 Public Institutions Supporting Stewardship](core_27.000_governance.md#53-public-institutions-supporting-stewardship).
-> **Read with:** [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*), which prepares the long-horizon section of an evaluation; [Chapter Twenty-Nine §5 Burden of Justification and Public Traceability](core_29.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability), which this office's evaluation of a proposed amendment serves (§4.7 *Proposed Amendments*).
+> **Upstream:** [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) (*Public Policy Office*); [Chapter Twenty-One §5.3 Public Institutions Supporting Stewardship](core_21.000_governance.md#53-public-institutions-supporting-stewardship).
+> **Read with:** [Subcore 7-C](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) (*Public Stewardship Office*), which prepares the long-horizon section of an evaluation; [Chapter Twenty-Three §5 Burden of Justification and Public Traceability](core_23.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability), which this office's evaluation of a proposed amendment serves (§4.7 *Proposed Amendments*).
 > **Downstream:** adopted implementation text that sets the evaluation template, the materiality threshold, the fee schedule for evaluation at cost, and the intake forms.
 
 </details>
@@ -26,7 +26,7 @@
 
 **Role:** Subcore 7-B is the constitutional owner of **policy impact evaluation**: the evaluation of proposed binding policy before the final decision, and the review of adopted policy after it takes effect. Where it sits:
 
-- [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) keeps the power to decide. This office advises and publishes; it decides nothing.
+- [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) keeps the power to decide. This office advises and publishes; it decides nothing.
 - Official statistics come from the [Subcore 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) (*Public Information Office*). This office relies on them but does not produce official statistics.
 - The [Subcore 7-C Public Stewardship Office](subcore_07.030_public_stewardship_office.md#subcore-7-c-public-stewardship-office--looking-ahead-for-those-not-yet-here) looks decades ahead across all policy. This office looks at one proposal at a time. For a proposal with long-horizon or irreversible effects, the two publish one combined evaluation (§5.1 *Contents*).
 - The governing authority pays for the office under *Protected funding* in [Chapter Seven §3](core_07.000_independent_bodies.md#3-what-makes-a-body-independent) (*What Makes a Body Independent*) and does not direct it.
@@ -64,9 +64,9 @@ Policies are often adopted on predictions that no one checks: who will benefit, 
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims:
     - [Flourishing](core_00.000_preamble.md#flourishing): policies are judged by what they do for wellbeing, not by what they claim;
     - [Continuity](core_00.000_preamble.md#continuity): policies that fail are found and corrected;
-- Chapter Twenty-Seven:
-  - [§5.1 Stewardship Direction](core_27.000_governance.md#51-stewardship-direction), which requires direction to be outcome-oriented and contestable;
-  - [§5.2 Ecosystem Value Orientation](core_27.000_governance.md#52-ecosystem-value-orientation), which lets proxy indicators inform decisions only while they stay traceable to real outcomes;
+- Chapter Twenty-One:
+  - [§5.1 Stewardship Direction](core_21.000_governance.md#51-stewardship-direction), which requires direction to be outcome-oriented and contestable;
+  - [§5.2 Ecosystem Value Orientation](core_21.000_governance.md#52-ecosystem-value-orientation), which lets proxy indicators inform decisions only while they stay traceable to real outcomes;
 - Chapter Four Articles:
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
   - [Article XXVIII-A](core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).
@@ -79,10 +79,10 @@ Policies are often adopted on predictions that no one checks: who will benefit, 
 
 The office is an Independent Body and meets [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent) in full:
 
-- **Decision seats:** drawn by lot from the candidates who pass the office's published competency gate, under the role rules of [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
+- **Decision seats:** drawn by lot from the candidates who pass the office's published competency gate, under the role rules of [Subcore 21-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_21.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
 - **Competencies:** the gate covers evaluation methods, statistics, economics, and the social and ecological sciences, and at least one seat is held by a sentient with lived experience of the effects of public policy on those with least power.
 - **Funding:** under *Protected funding* in Chapter Seven §3 (*What Makes a Body Independent*), through a published floor that may not be cut in response to an evaluation.
-- **Post-service limits:** members and staff are bound by the cooling-off rules of Subcore 27-E §3 (*Independence and Placement*) for any sponsor of a proposal they evaluated.
+- **Post-service limits:** members and staff are bound by the cooling-off rules of Subcore 21-E §3 (*Independence and Placement*) for any sponsor of a proposal they evaluated.
 - **Access to information:** the office has the right of access in *Access to information* in Chapter Seven §3 (*What Makes a Body Independent*), and for this office:
     - **From whom:** any public body, and the sponsor of any proposal the office is evaluating, whether or not the sponsor is a public body;
     - **What:** the data, models, analysis, and explanations behind the proposal and its expected effects, including any analysis the sponsor relied on but did not publish;
@@ -136,10 +136,10 @@ A question that may uncover a gap may be asked about any proposal, including one
 
 #### 4.4 Emergency Measures
 
-The emergency rules of [Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) and [Chapter Six §8 Emergency and Urgent Action](core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) govern every emergency measure. This office adds evidence to them; it does not replace their review or their clocks:
+The emergency rules of [Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) and [Chapter Six §8 Emergency and Urgent Action](core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) govern every emergency measure. This office adds evidence to them; it does not replace their review or their clocks:
 
-- **Before evaluation:** a measure taken under those rules may take effect before the office evaluates it. Its default expiry, independent review, and restore-challenge window run as Chapter Twenty-Three §5.1 (*Emergency Measures and Continuation Burden*) sets them.
-- **Evaluation before any continuation:** a measure that would continue past its default expiry must carry the continuation burden of Chapter Twenty-Three §5.1 (*Emergency Measures and Continuation Burden*). The office publishes an evaluation before the decision to continue is made:
+- **Before evaluation:** a measure taken under those rules may take effect before the office evaluates it. Its default expiry, independent review, and restore-challenge window run as Chapter Seventeen §5.1 (*Emergency Measures and Continuation Burden*) sets them.
+- **Evaluation before any continuation:** a measure that would continue past its default expiry must carry the continuation burden of Chapter Seventeen §5.1 (*Emergency Measures and Continuation Burden*). The office publishes an evaluation before the decision to continue is made:
     - **What it addresses:** the three parts of that burden:
         - continuing necessity;
         - proportionality; and
@@ -180,7 +180,7 @@ Before any full evaluation, the office screens each proposal against this Consti
     - **In doubt:** a conflict is arguable. The evaluation goes ahead and includes an alignment section that names each provision at issue and the question it raises; and
     - **Not aligned:** the proposal plainly conflicts with binding text on any reasonable reading. The office declines a full evaluation and publishes a screening finding that names each provision and explains the conflict.
 - **Part of a proposal:** where only part of a proposal is not aligned, the office says which part, and may evaluate the rest.
-- **Not a ruling:** a screening finding is the office's published view, not an interpretation of the Constitution. Final interpretation belongs to the Constitutional Forums under [Chapter Twenty-Three §3.6 Constitutional Forums](core_23.000_forum_families_escalation_timeliness_support.md#36-constitutional-forums) and [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+- **Not a ruling:** a screening finding is the office's published view, not an interpretation of the Constitution. Final interpretation belongs to the Constitutional Forums under [Chapter Seventeen §3.6 Constitutional Forums](core_17.000_forum_families_escalation_timeliness_support.md#36-constitutional-forums) and [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
 - **After a finding of not aligned:**
     - **Revise:** the sponsor may revise the proposal and submit it again for a fresh screen;
     - **Contest:** the sponsor, or any sentient with a [material stake](core_00.000_preamble.md#material-stake) in the proposal, may bring the finding before a Constitutional Forum. If the forum finds the proposal aligned or in doubt, the office evaluates it, and its time limit under §6 (*Timing, Response, and No Veto*) starts from the forum's decision; and
@@ -193,13 +193,13 @@ Before any full evaluation, the office screens each proposal against this Consti
 
 #### 4.7 Proposed Amendments
 
-A proposed amendment to this Constitution is a proposal for binding policy under this section. The office's evaluation is how the justification required by [Chapter Twenty-Nine §5 Burden of Justification and Public Traceability](core_29.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability) is tested in public:
+A proposed amendment to this Constitution is a proposal for binding policy under this section. The office's evaluation is how the justification required by [Chapter Twenty-Three §5 Burden of Justification and Public Traceability](core_23.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability) is tested in public:
 
 - **When:** an amendment is evaluated when it meets the threshold in §4.1 (*The Materiality Threshold*) or is asked for under §4.2 (*Evaluation on Request*). An amendment that restricts or conditions a right under the Chapter Four Rights Floor always meets the threshold.
-- **The proposer's justification:** the justification required by Chapter Twenty-Nine §5 (*Burden of Justification and Public Traceability*) serves as the sponsor's impact statement under §5.2 (*The Sponsor's Impact Statement*), and is rated in the same way.
-- **What it adds:** besides the contents in §5.1 (*Contents*), the evaluation states the office's view of the evidence for the proposer's claims of necessity and feasibility, and of the effects bearing on the non-regression constraints of [Chapter Twenty-Eight](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity).
+- **The proposer's justification:** the justification required by Chapter Twenty-Three §5 (*Burden of Justification and Public Traceability*) serves as the sponsor's impact statement under §5.2 (*The Sponsor's Impact Statement*), and is rated in the same way.
+- **What it adds:** besides the contents in §5.1 (*Contents*), the evaluation states the office's view of the evidence for the proposer's claims of necessity and feasibility, and of the effects bearing on the non-regression constraints of [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity).
 - **Screen:** the screen in §4.6 (*Constitutional Alignment Screen*) tests the amendment against the text it would leave in force, never against the text it proposes to change.
-- **Not a ruling on validity:** whether an amendment is valid under Chapter Twenty-Eight or Chapter Twenty-Nine is decided as those chapters set out. The evaluation is evidence for that decision, and §6 (*Timing, Response, and No Veto*) applies to it in full.
+- **Not a ruling on validity:** whether an amendment is valid under Chapters Twenty-Two or Twenty-Three is decided as those chapters set out. The evaluation is evidence for that decision, and §6 (*Timing, Response, and No Veto*) applies to it in full.
 
 <a id="5-what-an-evaluation-contains"></a>
 
@@ -255,7 +255,7 @@ Each evaluation is timed to inform the decision, and the office advises without 
 - **No veto:** what the office finds never decides the outcome, but the steps of this section must still be followed:
     - **Findings do not bind:** no evaluation, update, or screening finding blocks a decision or makes it invalid because of what it says. The governing authority may decide against every finding, so long as it answers each one under *Response* above.
     - **The steps do bind:** the governing authority must wait for each required evaluation or update until it is published or its time limit has passed, and must publish its response. These waits are fixed in advance and short. If the office is late, the decision goes ahead under *Late evaluation* above.
-    - **Skipping a step:** a decision taken without a required step, such as deciding before the time limit has passed, or without a response, may be challenged as a procedural failure under [Chapter Twenty-Seven §3.1.4 Contestation, Correction, and Pluralism](core_27.000_governance.md#314-contestation-correction-and-pluralism). The challenge is about the missing step, never about whether the office's findings were right, and the usual remedy is to have the step carried out.
+    - **Skipping a step:** a decision taken without a required step, such as deciding before the time limit has passed, or without a response, may be challenged as a procedural failure under [Chapter Twenty-One §3.1.4 Contestation, Correction, and Pluralism](core_21.000_governance.md#314-contestation-correction-and-pluralism). The challenge is about the missing step, never about whether the office's findings were right, and the usual remedy is to have the step carried out.
 
 <a id="7-review-after-adoption"></a>
 
@@ -268,7 +268,7 @@ Every evaluated policy is checked again after it takes effect:
 - **Review date:** every policy evaluated under §4 (*What Must Be Evaluated*) carries a review date, set at adoption. If none is set, it falls at the end of the **default review interval**, which is five years after adoption.
 - **The review:** compares what happened with what the evaluation and the sponsor predicted, using the indicators named in §5 (*What an Evaluation Contains*), and states whether the evidence supports keeping, changing, or ending the policy.
 - **Response:** the governing authority publishes a reasoned response to the review, as in §6 (*Timing, Response, and No Veto*).
-- **Link to stewardship:** reviews are an input to the [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty) under [Chapter Twenty-Seven §5.3 Public Institutions Supporting Stewardship](core_27.000_governance.md#53-public-institutions-supporting-stewardship).
+- **Link to stewardship:** reviews are an input to the [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty) under [Chapter Twenty-One §5.3 Public Institutions Supporting Stewardship](core_21.000_governance.md#53-public-institutions-supporting-stewardship).
 
 <a id="8-even-handedness-and-no-steering"></a>
 
@@ -282,7 +282,7 @@ The office treats every sponsor and every aim alike:
 - **No ranking of aims:** the office tests whether a proposal is likely to meet its own stated aim, and at what cost. It does not judge whether the aim is worth pursuing.
 - **No advocacy:** the office and its members do not campaign for or against a proposal, a sponsor, or a party.
 - **No pressure:** any attempt to direct a conclusion, delay a publication, or tie funding to a result is a violation, reported to the Integrity Forum.
-- **Platform costing before contested selections:** before a contested selection under [Chapter Twenty-Seven §3.2 Eligibility, Contested Selection, and Democratic Minimums](core_27.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums), the office offers to evaluate the main proposals of every candidate or slate:
+- **Platform costing before contested selections:** before a contested selection under [Chapter Twenty-One §3.2 Eligibility, Contested Selection, and Democratic Minimums](core_21.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums), the office offers to evaluate the main proposals of every candidate or slate:
     - **Voluntary:** no candidate is required to take part, and the office does not comment on anyone who does not;
     - **Equal terms:** every submission is evaluated by the same methods, on the same timetable, with a submission deadline published in advance;
     - **Published together:** all results are published on the same day, no later than the start of the **costing lead time**, which is 14 days before the selection, and none is published earlier; and

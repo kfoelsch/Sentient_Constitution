@@ -4,12 +4,12 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-11`
-> **Corpus edition pin:** `SC-Corpus-2026.10.21`
+> **Corpus edition pin:** `SC-Corpus-2026.11.25`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_23.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Four §7](../../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
-> If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
+> If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations), do **not** treat this page as an answer key.
 
 </details>
 
@@ -53,7 +53,7 @@ See: [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-surviva
 - **Today:** Because you pay a bill, the file lists you as the one who decides the clinician, the cards, and who they may see. Refusal is treated as proof they cannot decide — or as proof you are failing.
 - **With this Constitution:** Family relationship is not authority over another adult’s clinician or household. Supported help is not a quiet takeover. A concern report is not an official record of verified help or harm.
 
-See: [CI-4.220](../../../corpus_institutions/ci_04.220_neurodiversity_disability_justice_trauma_informed_participation.md); [Chapter Fourteen §4.2](../../../core_14.000_standing_assessment.md#42-silence-is-the-default).
+See: [CI-4.220](../../../corpus_institutions/ci_04.220_neurodiversity_disability_justice_trauma_informed_participation.md); [Subcore 10-B §4.2](../../../subcore_10.020_standing_assessment.md#42-silence-is-the-default).
 
 **A lasting split is not the default “help.”**
 - **Today:** The “safe” rest-break is a durable break from the care relationship you actually have — or from the adult you care for.
@@ -69,7 +69,7 @@ See: [Article VIII-A](../../../core_04.010_rights_part_b.md#article-viii-a-famil
 
 - **“I want to decide for them. I know better.”** What they can still do tracks what they can actually show, not your convenience. The page for the adult being taken over is [E06](E06_age_related_challenges.md). This text will not make you their owner to settle a preference contest.
 
-- **“This isn’t law in this clinic.”** Correct until a qualifying body adopts it. It does not override applicable health, family, or labor law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
+- **“This isn’t law in this clinic.”** Correct until a qualifying body adopts it. It does not override applicable health, family, or labor law ([Chapter Twenty-Four §7](../../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
 - **“Don’t put me in a carer type.”** You do not have to take that label to use this page. This brief is for someone doing unpaid care for an adult, when rest or help is being billed as takeover. It does not change the Rights Floor that applies to you. When unpaid care, rest, or a quiet takeover is actually at stake, those rules are located in the sections on [CI-4.225](../../../corpus_institutions/ci_04.225_care_labor_dependent_support_respite_care_economy_fairness.md) and [Article VII-A](../../../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body).
 

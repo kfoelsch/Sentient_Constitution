@@ -15,7 +15,7 @@ Wording may differ. Example: both route to Standing / Chapters Fourteen–Ninete
 
 ## How to fill
 
-1. Use two announced-pack results files under [`../results/`](../results/) for the **same** pack edition, or two self-application files under [`../self_application/results/`](../self_application/results/) only for the fitness/declaration layer (not for next-step class).
+1. Use two announced-pack results files under [`../results/`](../results) for the **same** pack edition, or two self-application files under [`../self_application/results/`](../self_application/results) only for the fitness/declaration layer (not for next-step class).
 2. Copy [`results/_TEMPLATE.md`](results/_TEMPLATE.md) to `results/YYYY-MM-DD_option-a-compare.md`.
 3. Do not read operator-only gold tables into the subjects’ sittings. This compare happens **after** both files exist.
 4. Gold next-step-class labels live in [`../OPERATOR_ROUTING.md`](../OPERATOR_ROUTING.md) (operators only). If you use them, say so. Subjects must not be pointed at that file for a sitting.

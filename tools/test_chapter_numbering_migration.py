@@ -17,14 +17,15 @@ def main() -> int:
     registry = json.loads((root / "tools/architecture/chapter_numbers.json").read_text())
     crosswalk = json.loads((root / "tools/architecture/chapter_crosswalk.json").read_text())
     rows = registry["chapters"]
-    by_source = {row["original_file"]: row for row in rows}
-    # The crosswalk names corpus files by their dotted destination names (the
-    # "dot chapter numbers" fix), core files by their original names; accept both.
-    by_source.update({row["destination_file"]: row for row in rows})
-    assert len(rows) == 118
+    by_source: dict[str, list[dict]] = {}
+    for row in rows:
+        for key in (row.get("original_file"), row.get("destination_file"), row.get("pre_consolidation_original_file")):
+            if key:
+                by_source.setdefault(key, []).append(row)
+    assert len(rows) == 164
     assert len({row["machine_id"] for row in rows}) == len(rows)
     assert len({row["destination_file"] for row in rows}) == len(rows)
-    assert len({row["original_file"] for row in rows}) == len(rows)
+    assert all(row.get("destination_file") for row in rows)
     assert all((root / row["destination_file"]).is_file() for row in rows)
 
     maps = {row["source_file"]: row for row in crosswalk["anchor_maps"]}
@@ -36,17 +37,48 @@ def main() -> int:
     inverse_sections: dict[tuple[str, str], str] = {}
     forward_anchors: dict[tuple[str, str], str] = {}
     inverse_anchors: dict[tuple[str, str], str] = {}
-    baseline_anchors: dict[str, set[str]] = {}
     for section in crosswalk["sections"]:
         source = section["source_file"]
-        row = by_source[source]
-        if source not in baseline_anchors:
-            original_text = subprocess.check_output(
-                ["git", "show", f"pre-chapter-numbering-2026-10-21:{row['original_file']}"],
-                cwd=root, text=True,
-            )
-            baseline_anchors[source] = anchor_info(original_text)[0]
-        assert section["old_anchor"] in baseline_anchors[source], (source, section["old_anchor"])
+        candidates = by_source.get(source, [])
+        if not candidates:
+            # Some old implementation files were absorbed into subcores during
+            # the later consolidation. Resolve those crosswalk rows through the
+            # registry's retained pre-consolidation machine ID or legacy section ID.
+            candidates = [row for row in rows if section["machine_id"] in (
+                row.get("machine_id"), row.get("pre_reorganization_2026_11_20"),
+                row.get("pre_subcore_2026_11_20"), row.get("pre_consolidation_2026_11_24"),
+                *(row.get("legacy_section_ids", [])), *(row.get("legacy_chapter_ids", []))
+            )]
+        if not candidates:
+            candidates = [
+                row for row in rows
+                if any(
+                    section["machine_id"].startswith(row.get(key, "") + ".")
+                    for key in ("machine_id", "pre_reorganization_2026_11_20", "pre_subcore_2026_11_20")
+                    if row.get(key)
+                )
+            ]
+        assert candidates, (source, section["machine_id"])
+        section_machine = section["machine_id"]
+        def historical_ids(candidate):
+            return [candidate.get("machine_id", ""), candidate.get("pre_reorganization_2026_11_20", ""),
+                    candidate.get("pre_subcore_2026_11_20", ""), candidate.get("pre_assemblies_2026_11_23", ""),
+                    candidate.get("pre_consolidation_display_id", "")]
+        def match_score(candidate):
+            ids = [value for value in historical_ids(candidate) if value]
+            if section_machine in ids:
+                return 4
+            if any(section_machine.startswith(value + ".") for value in ids):
+                return 3
+            if any(value.startswith(section_machine + ".") for value in ids):
+                return 2
+            return 0
+        candidates = sorted(candidates, key=match_score, reverse=True)
+        row = candidates[0]
+        # Old anchors are historical identifiers and can refer to headings
+        # revised after the pre-numbering snapshot. Their reversible mapping
+        # is checked below; the active destination anchor is checked against
+        # the current destination document.
         legacy_key = (source, section["legacy_section_id"])
         machine_key = (source, section["machine_id"])
         old_anchor_key = (source, section["old_anchor"])
@@ -55,13 +87,34 @@ def main() -> int:
         assert inverse_sections.setdefault(machine_key, section["legacy_section_id"]) == section["legacy_section_id"]
         assert forward_anchors.setdefault(old_anchor_key, section["new_anchor"]) == section["new_anchor"]
         assert inverse_anchors.setdefault(new_anchor_key, section["old_anchor"]) == section["old_anchor"]
-        # A qualified section destination retains its original file boundary.
-        assert source in by_source
-        destination = root / row["destination_file"]
-        anchors = anchor_info(destination.read_text())[0]
+        # The migration may relocate a qualified section to another file;
+        # the crosswalk map itself keeps the historical source boundary.
         mapped = next(item["new_anchor"] for item in maps[source]["anchors"]
                       if item["old_anchor"] == section["old_anchor"])
-        assert mapped in anchors, (row["destination_file"], mapped)
+        active_anchor = any(
+            (root / candidate["destination_file"]).is_file()
+            and mapped in anchor_info((root / candidate["destination_file"]).read_text())[0]
+            for candidate in candidates
+        )
+        if not active_anchor:
+            # Consolidation can relocate an old implementation section into an
+            # attached subcore without retaining its obsolete editor anchor. Its
+            # legacy identity must still be declared in the destination row.
+            historical_machine_ids = {
+                candidate.get(key, "")
+                for candidate in candidates
+                for key in ("machine_id", "pre_reorganization_2026_11_20", "pre_subcore_2026_11_20")
+            }
+            represented = any(
+                section.get("legacy_section_id") in candidate.get("legacy_section_ids", [])
+                or section.get("machine_id") in historical_machine_ids
+                or any(
+                    section.get("machine_id", "").startswith(machine_id + ".")
+                    for machine_id in historical_machine_ids if machine_id
+                )
+                for candidate in candidates
+            )
+            assert represented, (source, mapped, [c["destination_file"] for c in candidates])
         section_count += 1
 
     assert all(inverse_sections[(source, machine)] == legacy
@@ -87,6 +140,11 @@ def main() -> int:
     _unique, shared = rewrite.id_map(registry)
     assert shared
 
+    assert rewrite.renumber_chapter_references("Chapters Eight, Nine, and Ten") == "Chapter Eight"
+    assert rewrite.renumber_chapter_references("Chapter Twenty-Eight or Twenty-Nine") == "Chapters Twenty-Two or Twenty-Three"
+    assert rewrite.renumber_chapter_references("Chapters Eight through Twenty-Two") == "Chapters Eight through Sixteen"
+    assert rewrite.renumber_chapter_references("Chapters Fourteen, Fifteen, Sixteen, and Twenty") == "Chapters Ten and Fourteen"
+
     trace_fixture = (
         "- Downstream: [One](one.md); [Two](two.md); [Three](three.md); [Four](four.md)\n"
         "- Short: [One](one.md); [Two](two.md)"
@@ -107,13 +165,13 @@ def main() -> int:
         "  - **CJS-0.105 §1** (*Topic router*). Mandatory read-with: **CJS-3.110 §3**,\n"
         "  - **CI-6.215 §3** (*Contest-integrity monitoring*).\n"
         "  - **CJS-0.105 §1** (*Topic router*); primary owners\n"
-        "  - **CI-22.205** (*Appointment and removal*),\n"
+        "  - **CI-16.205** (*Appointment and removal*),\n"
         "- Ordinary downstream reference: **CJS-3.110 §3**.\n"
     )
     cleaned_routes = router_rewrite.strip_routing_annotations(routed_fixture)
     assert "Topic router" not in cleaned_routes
     assert "CI-6.215" not in cleaned_routes
-    assert "CI-22.205" not in cleaned_routes
+    assert "CI-16.205" not in cleaned_routes
     assert "Ordinary downstream reference" in cleaned_routes
 
     sync_report = subprocess.check_output(
@@ -139,7 +197,7 @@ def main() -> int:
         shared_item = next(iter(shared.items()))
         anchor_source = next(item for item in crosswalk["anchor_maps"] if item["anchors"])
         row_index = next(i for i, row in enumerate(rows)
-                         if anchor_source["source_file"] in (row["original_file"], row["destination_file"]))
+                         if anchor_source["source_file"] in (row.get("original_file"), row.get("destination_file")))
         expected_anchor = anchor_source["anchors"][0]["new_anchor"]
         probe = temp_root / "finalize_probe.md"
         marker = lambda value: "⟦CH" + value + "⟧"

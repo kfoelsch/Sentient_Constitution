@@ -12,7 +12,7 @@
     "owner_stack": "system_alignment_certification",
     "owner_homes": [
       "Chapter Eight",
-      "core_08.000_system_alignment_certification_evaluation.md",
+      "subcore_08.020_system_alignment_certification_evaluation.md",
       "Chapter Two §14"
     ],
     "next_step_class": "require_systemic_evaluation_or_sac_path",

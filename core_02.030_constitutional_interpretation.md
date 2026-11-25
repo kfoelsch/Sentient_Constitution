@@ -44,9 +44,9 @@ Chapter Two, Part D is the constitutional owner of **constitutional interpretati
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — interpretive backdrop for the integrated-value framework; [material stake](core_00.000_preamble.md#material-stake) scaling where materially relevant.
 - Read with:
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status*);
-  - [Chapter Thirty-One](core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) (*custody, editions, adoption framing* — not a second conflict-order home);
-  - [Chapter Twenty-Eight](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) (28.000) and
-  - [Chapter Thirty](core_30.000_expansion_supremacy.md#chapter-thirty-expansion-supremacy-and-external-legal-orders) (30.000) (*non-regression and adopter hierarchy gates under
+  - [Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) (*custody, editions, adoption framing* — not a second conflict-order home);
+  - [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (28.000) and
+  - [Chapter Twenty-Four](core_24.000_expansion_supremacy.md#chapter-twenty-four-expansion-supremacy-and-external-legal-orders) (30.000) (*non-regression and adopter hierarchy gates under
   - [§15.4 Constitutional Meaning Conflict Resolution](#154-constitutional-meaning-conflict-resolution)*).
 - Read with: [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) for institutional interpretation safeguards (not a substitute for this section).
 - Read with: [Chapter Six: Functional Independence and Separation of Duties](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (6.000) — the seat-architecture floor that the anti-bypass list in [§15.1 Constitutional No-Bypass Principle](#151-constitutional-no-bypass-principle) protects (not restated here).
@@ -166,7 +166,7 @@ This principle does not:
 - create, extend, or narrow any Chapter Four Rights-Floor provision; or
 - displace a cluster's own statement of which compartments and protected duties it covers. A cluster states those under **Anti-bypass** and cites this section for the rule.
 
-Whole-system evaluations must test anti-segmentation under [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [§5 Evaluations Where Implicated](core_08.000_system_alignment_certification_evaluation.md#5-evaluations-where-implicated), and [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) where a jointly invoked cluster applies, before classification, governance, or compliance claims stand. This section works with [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns) and [§4.2 Reductive Evasion](subcore_03.020_definition_integrity.md#42-reductive-evasion).
+Whole-system evaluations must test anti-segmentation under [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [Subcore 8-B §5 Evaluations Where Implicated](subcore_08.020_system_alignment_certification_evaluation.md#5-evaluations-where-implicated), and [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) where a jointly invoked cluster applies, before classification, governance, or compliance claims stand. This section works with [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns) and [§4.2 Reductive Evasion](subcore_03.020_definition_integrity.md#42-reductive-evasion).
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 Derived-Information Principle
@@ -355,7 +355,7 @@ This subsection is the **single canonical procedure** for resolving interpretive
   - within the binding constitutional source (the integrated `core_*` text); and
   - at the incorporation layer, where incorporated texts are chosen by [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect).
 - Source-layer status is identified under the [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) in Chapter Three.
-- [Chapter Thirty-One](core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) supplies custody, edition pinning, and adoption framing. It does **not** restate this procedure.
+- [Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) supplies custody, edition pinning, and adoption framing. It does **not** restate this procedure.
 - For **Constitutional Collisions in operation** — not textual layer precedence — apply **[§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process)**.
 
 **Operative sequence.** Apply the following **in this order**:
@@ -387,7 +387,7 @@ This hierarchy is an interpretive rule of last resort. It applies only to a genu
 <a id="1543-incorporation-layer"></a>
 ##### 15.4.3 Incorporation Layer
 
-After the constitutional reading under **§15.4.1** (*Integrated Reading*) and **§15.4.2** (*Last-Resort Internal Hierarchy*), apply the **designated obligations** in adopted implementation text — the named how-to duties the adoption actually brought into force. Apply them only inside **valid adoption and incorporation scope** under **[Chapter Thirty-One](core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge)** (who holds the official records, which edition is pinned, and how adoption is framed).
+After the constitutional reading under **§15.4.1** (*Integrated Reading*) and **§15.4.2** (*Last-Resort Internal Hierarchy*), apply the **designated obligations** in adopted implementation text — the named how-to duties the adoption actually brought into force. Apply them only inside **valid adoption and incorporation scope** under **[Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge)** (who holds the official records, which edition is pinned, and how adoption is framed).
 
 The rules below choose among incorporated texts by [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect), the same standard the **ambiguity** rule in **[§15.3 Ambiguity Resolution](#153-ambiguity-resolution)** uses. They never choose by [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness).
 
@@ -401,7 +401,7 @@ The rules below choose among incorporated texts by [Fullest Protective Effect](s
   - this is **not** substantive constitutional ambiguity resolution by [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness).
 - **Cross-file Fullest Protective Effect:** Where two or more adopted implementation files set different standards for the same meaningfully scoped risk, the clearly adopted rule with the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) controls, consistent with the two rules above.
   - Source-layer status remains under the [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy).
-  - Custody, editions, and adoption framing remain under **[Chapter Thirty-One](core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge)**.
+  - Custody, editions, and adoption framing remain under **[Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge)**.
   - The same rule applies when a cited profile and a cited implementation label seem to conflict for that risk.
 
 <a id="1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations"></a>
@@ -421,7 +421,7 @@ This subsection's combined-satisfaction rule is about **more than one how-to fil
 - the rule for a **single** operational cluster in incorporated joint-structure text, where doing only part of that cluster does not count as compliance — see **[CJS-3.140 §14](corpus_joint_structure/cjs_03.140_odef_parse_mechanics.md#cjs-3140-14-operational-clusters)** (*Operational Clusters*); or
 - the Chapter Three rule that **Dependent cluster** definitions must be met together — see **[Chapter Three §4.1 Joint Invocation and Satisfaction](core_03.000_definitions_home.md#41-joint-invocation-and-satisfaction)**.
 
-**When this subsection applies.** These rules apply within valid adoption and incorporation scope under **[Chapter Thirty-One](core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge)** in either of these cases:
+**When this subsection applies.** These rules apply within valid adoption and incorporation scope under **[Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge)** in either of these cases:
 
 1. **One situation, more than one file:** The facts require applying more than one incorporated implementation file — for example systems, institutions, forums, or joint-structure text. Which files apply is decided by the adoption scope and the topic routing those files provide for the facts, not by choosing only the file that is easiest to satisfy.
 2. **Adoption brings the joint-structure set into force:** The adopting document applies designated joint-structure implementation text (the **CJS** folder and any other joint-structure files listed in the adoption chain) to the adopter.

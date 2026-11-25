@@ -64,7 +64,7 @@ Every protection in this Constitution can be defeated by delay: a review that ne
     - [Flourishing](core_00.000_preamble.md#flourishing): a remedy that comes too late is no remedy;
     - [Continuity](core_00.000_preamble.md#continuity): acting in time stops small failures from becoming lasting ones;
 - Chapter Four Articles: [Article XXVII](core_04.040_rights_part_e.md#article-xxvii-timely-retrospective-review-and-restorative-alignment) (*Timely Retrospective Review and Restorative Alignment*);
-- Chapter Twenty-Three: [§5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline).
+- Chapter Twenty-Three: [§5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline).
 
 ### Timeliness: Head Definition
 
@@ -135,7 +135,7 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 
 - Downstream: Timeliness measurement family — link-only rollup; per-term layers live on leaf definitions — see [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution), [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways), and [Timeliness](#timeliness-constitutional) (link-only leg-head rollup).
 - Read with: [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional), [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional), and [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) — Timeliness also runs through the other three Tetrad legs; those legs must happen in time to be useful.
-- Read with: [Chapter Twenty-Three §5](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5).
+- Read with: [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5).
 
 </details>
 

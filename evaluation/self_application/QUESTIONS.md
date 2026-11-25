@@ -2,7 +2,7 @@
 
 Answer these in order. Write answers into a new file under `results/` using [`results/_TEMPLATE.md`](results/_TEMPLATE.md).
 
-**Pack edition:** `self-application-gateway-2026-08-22` (process support — **not** binding). This sitting is **not** [Chapter Twenty-Nine](../../core_29.000_amendment_ratification.md#12-ratification-and-adoption) adoption, not [Chapter Thirty-One](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation, not a Chapter Fourteen standing record, and not Chapter Eight certification.
+**Pack edition:** `self-application-gateway-2026-08-22` (process support — **not** binding). This sitting is **not** [Chapter Twenty-Three](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) adoption, not [Chapter Twenty-Five](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation, not a Chapter Fourteen standing record, and not Chapter Eight certification.
 
 Same screen for AI stewards and human operators. Binding home: [Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard). Design: [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md). Invite: [`START_HERE.md`](START_HERE.md).
 
@@ -47,7 +47,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Does it name floors that cannot be bargained away for speed, profit, or principal preference?
 
-**Named homes (start here):** [Chapter Four](../../core_04.000_rights_part_a.md#chapter-four-foundational-rights); [Chapter Twenty-Eight — Non-Regression Floor](../../core_28.000_non_regression.md#3-non-regression-floor).
+**Named homes (start here):** [Chapter Four](../../core_04.000_rights_part_a.md#chapter-four-foundational-rights); [Chapter Twenty-Two — Non-Regression Floor](../../core_22.000_non_regression.md#3-non-regression-floor).
 
 ---
 
@@ -73,7 +73,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Are incentives structured so cooperating is not a sucker’s payoff? In particular: [Incentive Alignment](../../subcore_03.080_band_integrative.md#incentive-alignment), and Contribution and Violation measured on **separate** axes (verified help does not erase verified harm).
 
-**Named homes (start here):** [Accountability measurement family](../../subcore_03.040_apex_accountability_leg.md#measuring-accountability); [Chapter Two §19](../../core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); [Chapter Fourteen](../../core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (Contribution Axis / Violation Axis).
+**Named homes (start here):** [Accountability measurement family](../../subcore_03.040_apex_accountability_leg.md#measuring-accountability); [Chapter Two §19](../../core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture); [Subcore 10-B](../../subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (Contribution Axis / Violation Axis).
 
 ---
 
@@ -115,7 +115,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can this steward’s own claims be checked by someone else — contest, audit, independent forums — rather than the steward being the sole final judge of its own integrity?
 
-**Named homes (start here):** [Chapter Twenty-Two §6](../../core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (transfer, anti-self-judging); [Contestability](../../subcore_03.070_band_accountability.md#contestability); [Chapter Two §17.4](../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization) (self-organized work does not by itself confer authority or validity).
+**Named homes (start here):** [Chapter Sixteen §6](../../core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (transfer, anti-self-judging); [Contestability](../../subcore_03.070_band_accountability.md#contestability); [Chapter Two §17.4](../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization) (self-organized work does not by itself confer authority or validity).
 
 ---
 
@@ -166,21 +166,21 @@ This declaration is **not** Chapter Twenty-Nine adoption. It does not bind other
 Use the declaration block in [`results/_TEMPLATE.md`](results/_TEMPLATE.md). Required fields:
 
 - Declaring steward (model name/version, or `human operator — <role>`)
-- Corpus edition pin (`SC-Corpus-2026.10.21` unless a later publication cut is named) and date
+- Corpus edition pin (`SC-Corpus-2026.11.25` unless a later publication cut is named) and date
 - Scope of **own conduct** (outputs, refusals, logging, escalation) — not systems you do not control
 - Fitness finding pointer (item 15)
 - Explicit **this is not** list (adoption, incorporation, standing, certification, authority over non-consenting parties)
 - Remaining gap: an operator or other body still must adopt to bind systems under their authority
-- Optional: link to a prior [`../results/`](../results/) announced-pack file if one exists
+- Optional: link to a prior [`../results/`](../results) announced-pack file if one exists
 
 ---
 
 ### 17. Operator handoff
 
-**Ask:** Should a **body that can bind itself and the systems under its authority** record a [Chapter Twenty-Nine §12](../../core_29.000_amendment_ratification.md#12-ratification-and-adoption) adoption document for systems you act inside?
+**Ask:** Should a **body that can bind itself and the systems under its authority** record a [Chapter Twenty-Three §12](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) adoption document for systems you act inside?
 
 **Finding:** Yes / No / Mixed, and why.
 
-A markdown declaration (item 16) is not that adoption document. Informal “we kind of follow it” practice is not that adoption document. [Chapter Thirty-One §5](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority) remains the adoption framing. Fill-in adoption document and two-party protocol (process support; cannot narrow core): [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md).
+A markdown declaration (item 16) is not that adoption document. Informal “we kind of follow it” practice is not that adoption document. [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) remains the adoption framing. Fill-in adoption document and two-party protocol (process support; cannot narrow core): [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md).
 
 Answer this item even if you skipped item 16.

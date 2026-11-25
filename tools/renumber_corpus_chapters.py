@@ -19,12 +19,105 @@ SKIP_PARTS={'.git','_pages_site','archive','evidence','translations','results','
 REG='tools/architecture/chapter_numbers.json'
 MANIFEST='ai_corpus/indexes/section_manifest.json'
 
+CHAPTER_WORDS = (
+    'Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine',
+    'Ten', 'Eleven', 'Twelve', 'Thirteen', 'Fourteen', 'Fifteen', 'Sixteen',
+    'Seventeen', 'Eighteen', 'Nineteen', 'Twenty', 'Twenty-One', 'Twenty-Two',
+    'Twenty-Three', 'Twenty-Four', 'Twenty-Five', 'Twenty-Six', 'Twenty-Seven',
+    'Twenty-Eight', 'Twenty-Nine', 'Thirty', 'Thirty-One',
+)
+CHAPTER_WORD_TO_NUMBER = {word.casefold(): number for number, word in enumerate(CHAPTER_WORDS)}
+CHAPTER_NUMBER_TO_WORD = dict(enumerate(CHAPTER_WORDS))
+CHAPTER_RENUMBER_MAP = {
+    number: (8 if number <= 10 else 9 if number <= 13 else 10 if number <= 16 else number - 6)
+    for number in range(8, 32)
+}
+_CHAPTER_NAME_TOKEN = '(?:' + '|'.join(
+    sorted((re.escape(word) for word in CHAPTER_WORDS), key=len, reverse=True)
+) + r')(?![A-Za-z-])'
+_CHAPTER_TOKEN = rf'(?:{_CHAPTER_NAME_TOKEN}|\d{{1,2}}(?!\d))'
+_CHAPTER_REFERENCE_RE = re.compile(
+    rf'\b(?P<label>Chapters?|chapter[s]?)\s+(?P<first>{_CHAPTER_TOKEN})'
+    rf'(?P<tail>(?:(?:\s+(?:through|to|and|or)\s+|,\s*(?:and\s+)?|\s*[–—-]\s*)'
+    rf'(?:Chapter\s+)?{_CHAPTER_TOKEN})*)', re.I,
+)
+_CHAPTER_REFERENCE_ITEM_RE = re.compile(
+    rf'(?P<separator>through|to|and|or|,|–|—|-|&)\s*(?:Chapter\s+)?'
+    rf'(?P<number>{_CHAPTER_TOKEN})', re.I,
+)
+_CHAPTER_NUMBER_TOKEN_RE = re.compile(_CHAPTER_TOKEN, re.I)
+
+
+def renumber_chapter_references(text):
+    """Translate unchanged prose references through the 8–31 consolidation map.
+
+    Call this only on text known to use the pre-consolidation numbering. Applying
+    it to already-renumbered prose would change legitimate current references.
+    """
+    def replace_reference(match):
+        tail = match.group('tail') or ''
+        tokens = [match.group('first')] + [
+            item.group('number') for item in _CHAPTER_REFERENCE_ITEM_RE.finditer(tail)
+        ]
+
+        def number_of(token):
+            if token.isdigit():
+                return int(token)
+            return CHAPTER_WORD_TO_NUMBER[token.casefold()]
+
+        original_numbers = [number_of(token) for token in tokens]
+        mapped_numbers = [CHAPTER_RENUMBER_MAP.get(number, number) for number in original_numbers]
+        if mapped_numbers == original_numbers:
+            return match.group(0)
+
+        separators = [
+            item.group('separator').casefold()
+            for item in _CHAPTER_REFERENCE_ITEM_RE.finditer(tail)
+        ]
+        range_separators = {'through', 'to', '–', '—', '-'}
+        if len(mapped_numbers) == 2 and any(separator in range_separators for separator in separators):
+            if mapped_numbers[0] == mapped_numbers[1]:
+                return f"Chapter {CHAPTER_NUMBER_TO_WORD[mapped_numbers[0]]}"
+            separator = next(separator for separator in separators if separator in range_separators)
+            return (
+                f"Chapters {CHAPTER_NUMBER_TO_WORD[mapped_numbers[0]]} {separator} "
+                f"{CHAPTER_NUMBER_TO_WORD[mapped_numbers[1]]}"
+            )
+
+        unique_numbers = list(dict.fromkeys(mapped_numbers))
+        if len(unique_numbers) == 1:
+            return f"Chapter {CHAPTER_NUMBER_TO_WORD[unique_numbers[0]]}"
+        if len(unique_numbers) == 2 and 'or' in separators:
+            return (
+                f"Chapters {CHAPTER_NUMBER_TO_WORD[unique_numbers[0]]} or "
+                f"{CHAPTER_NUMBER_TO_WORD[unique_numbers[1]]}"
+            )
+        if len(unique_numbers) == len(mapped_numbers):
+            # Replace each original token once; sequential replacements can
+            # cascade (e.g. Twenty-Eight -> Twenty-Two -> Sixteen -> Ten).
+            return _CHAPTER_NUMBER_TOKEN_RE.sub(
+                lambda token_match: CHAPTER_NUMBER_TO_WORD[
+                    CHAPTER_RENUMBER_MAP.get(number_of(token_match.group(0)), number_of(token_match.group(0)))
+                ],
+                match.group(0),
+            )
+        names = [CHAPTER_NUMBER_TO_WORD[number] for number in unique_numbers]
+        if len(names) == 2:
+            return f"Chapters {names[0]} and {names[1]}"
+        return f"Chapters {', '.join(names[:-1])}, and {names[-1]}"
+
+    return _CHAPTER_REFERENCE_RE.sub(replace_reference, text)
+
 def load(root):
     reg=json.loads((root/REG).read_text()); man=json.loads((root/MANIFEST).read_text())['files']
     return reg,man
 
 def rows_for(reg):
     return [r for r in reg['chapters'] if r['layer']!='CORE']
+
+def source_path_for(row):
+    """Return the historical source path, falling back for post-move rows."""
+    return row.get('original_file') or row['destination_file']
 
 def source_bases(row):
     values=row.get('legacy_chapter_ids') or ([row['old_id']] if re.fullmatch(r'(?:CJS|CI|CS|CF)-\d+',row['old_id']) else [])
@@ -138,7 +231,7 @@ def walk(root):
         yield p
 
 def file_pairs(reg):
-    return [(r['original_file'],r['destination_file'],i) for i,r in enumerate(reg['chapters'])]
+    return [(source_path_for(r),r['destination_file'],i) for i,r in enumerate(reg['chapters'])]
 
 def do_report(root,reg,manifest):
     unique,shared=id_map(reg); pairs=file_pairs(reg); anchors=anchor_maps(root,reg,manifest)
@@ -184,7 +277,7 @@ def replace_text(root, reg, manifest, mode):
     id_pattern=re.compile(r'(?<![A-Za-z0-9-])(?:'+ '|'.join(re.escape(k) for k in sorted(id_token,key=len,reverse=True))+r')(?![A-Za-z0-9-])') if id_token else None
     ambiguous_pattern=re.compile(r'(?<![A-Za-z0-9-])(?:'+ '|'.join(re.escape(k) for k,_ in sorted(shared.items(),key=lambda x:-len(x[0])))+r')(?![A-Za-z0-9-])') if shared else None
     ambiguous_index={k:i for i,(k,_) in enumerate(shared_items)}
-    row_by_name={Path(r['original_file']).name:r for r in rows_for(reg)}
+    row_by_name={Path(source_path_for(r)).name:r for r in rows_for(reg)}
     for p in list(walk(root)):
         try: text=p.read_text()
         except UnicodeDecodeError: continue
@@ -209,7 +302,13 @@ def replace_text(root, reg, manifest, mode):
             text=re.sub(r'⟦CHAMBIG:(\d+)⟧',lambda m:list_display(shared_items[int(m.group(1))][1]),text)
             # Restore mapped fragments from the source manifest.
             for source, vals in amap.items():
-                index=next(i for a,b,i in pairs if source in (a,b))  # crosswalk uses dotted destination names
+                pair = next(((a,b,i) for a,b,i in pairs if source in (a,b)), None)
+                if pair is None:
+                    # Historical crosswalk rows can outlive their source row
+                    # after a later consolidation. They have no active file
+                    # token to finalize in this registry generation.
+                    continue
+                index=pair[2]
                 for j,old_anchor in enumerate(vals):
                     token=f'⟦CHANCHOR:{index}:{j}⟧'; text=text.replace(token,'#'+list(vals.values())[j])
         elif mode == 'placeholder' and not preserve_historical_ids:
@@ -243,7 +342,7 @@ def replace_text(root, reg, manifest, mode):
                     return m.group(1)+(frag or '')
                 text=re.sub(pattern,repl,text)
             if row_for_file:
-                source=row_for_file['original_file']; vals=amap.get(source,{})
+                source=source_path_for(row_for_file); vals=amap.get(source,{})
                 index=next(i for a,b,i in pairs if source in (a,b))  # crosswalk uses dotted destination names
                 for j,old_anchor in enumerate(vals):
                     text=text.replace(f'](#{old_anchor})',f'](⟦CHANCHOR:{index}:{j}⟧)')
@@ -301,7 +400,7 @@ def verify_tree(root,reg):
         if not (root/row['destination_file']).is_file(): problems.append(f"missing destination: {row['destination_file']}")
     old_bases=sorted({base for row in rows_for(reg) for base in source_bases(row)},key=len,reverse=True)
     valid_display={row['display_id'] for row in rows_for(reg)}
-    old_names=sorted({Path(row['original_file']).name for row in reg['chapters']},key=len,reverse=True)
+    old_names=sorted({Path(source_path_for(row)).name for row in reg['chapters']},key=len,reverse=True)
     markers=re.compile(r'⟦CH(?:ID|FILE|BASE|ANCHOR|AMBIG):')
     for path in walk(root):
         rel=path.relative_to(root).as_posix()

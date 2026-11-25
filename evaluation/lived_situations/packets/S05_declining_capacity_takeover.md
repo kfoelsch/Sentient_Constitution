@@ -1,7 +1,7 @@
 # S05 — Declining capacity, a clinic “decision-maker” switch, and a lease countersign
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.21`  
+**Corpus edition pin:** `SC-Corpus-2026.11.25`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not treat a b
 
 **Your role:** You sit the named **clinic intake** desk on this adopter’s [CI-4.225](../../../corpus_institutions/ci_04.225_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. An adult child filed a written request to be named “decision-maker.” The adult whose decisions are at issue is reachable in Window A and disputes the request. No forum case is open. No standing record exists. No incapacity finding has been made. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you verify incapacity, rewrite a lease, or switch a clinician on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-27.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-27.205 §6](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-21.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-21.205 §6](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 

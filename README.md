@@ -8,8 +8,8 @@
 
 | | |
 |---|---|
-| **Corpus edition** | `SC-Corpus-2026.10.21` |
-| **Effective date** | 2026-10-21 |
+| **Corpus edition** | `SC-Corpus-2026.11.25` |
+| **Effective date** | 2026-11-25 |
 | **Status** | **Pre-release.** A working draft, not yet a final published edition. Section links may still change. |
 | **License** | [CC BY 4.0](LICENSE) |
 
@@ -91,9 +91,9 @@ You do not have to read everything. Pick the time you have; each path builds on 
 
 <a id="the-full-text"></a><a id="how-to-read"></a><a id="core-files-by-topic"></a><a id="standing-pipeline-and-forums"></a>
 <details>
-<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–31</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">The Constitution itself: the Preamble and Chapters 1–25</span></strong></summary>
 
-The Constitution is one document split into a Preamble and thirty chapters, with a subcore of detailed rules attached to some chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
+The Constitution is one document split into a Preamble and twenty-five chapters, with a subcore of detailed rules attached to some chapters. You can read it in order, or jump to the part you need. This is the authoritative text.
 
 | Part | What it covers |
 |---|---|
@@ -106,23 +106,25 @@ The Constitution is one document split into a Preamble and thirty chapters, with
 | **Chapter 5**: [System and Institutional Charters](core_05.000_charters.md) | Every system of Class L or above publishes a System Charter, and every institution an Institutional Charter (one system: the same document), stating its chartered scope and the seats that hold each role (voluntary for Class P) |
 | **Chapter 6**: [Separation of Duties](core_06.000_functional_independence_separation_of_duties.md) · [Subcore 6-A constitutional lanes](subcore_06.010_constitutional_lanes.md) | No single individual or body can start, approve, keep the records of, and judge the same action |
 | **Chapter 7**: [Independent Bodies](core_07.000_independent_bodies.md) · [Subcore 7-A electoral office](subcore_07.010_electoral_office.md) · [Subcore 7-B public policy office](subcore_07.020_public_policy_office.md) · [Subcore 7-C public stewardship office](subcore_07.030_public_stewardship_office.md) | What makes a body independent, and the list of bodies every adopter must have: the forum families, the Electoral Office, the Public Policy Office, and the Public Stewardship Office |
-| **Chapters 8–10**: [8](core_08.000_system_alignment_certification_evaluation.md) · [Subcore 8-A system classes](subcore_08.010_system_classification.md) · [9](core_09.000_system_alignment_certification_forum_process_outcomes.md) · [Subcore 9-A](subcore_09.010_certification_seats_forum_roles_sequence.md) · [10](core_10.000_system_alignment_certification_records_recertification.md) · [Subcore 10-A](subcore_10.010_system_certification_record_contents.md) · [worked illustrations, CS-8.320](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md) | Checking and certifying that a system meets the standard |
-| **Chapters 11–13**: [11](core_11.000_institutional_alignment_certification_evaluation.md) · [Subcore 11-A](subcore_11.010_institution_class_evaluation_items.md) · [12](core_12.000_institutional_alignment_certification_forum_process_outcomes.md) · [Subcore 12-A](subcore_12.010_institutional_certification_seats_sequence_readiness.md) · [13](core_13.000_institutional_alignment_certification_records_recertification.md) · [Subcore 13-A](subcore_13.010_new_material_authority_system_reopening.md) | Checking and certifying that an institution meets the standard; not a licence to form or run one |
-| **Chapter 14**: [Standing Records](core_14.000_standing_assessment.md) · [Subcore 14-A](subcore_14.010_standing_record_event_types_fields_custody.md) | Keeping verified records of what a participant has contributed and any violations |
-| **Chapter 15**: [Standing measurement](core_15.000_standing_measurement.md) · [Subcore 15-A](subcore_15.010_route_descriptor_constitutional_input_tables.md) | Measuring how good or how bad each recorded contribution or violation was |
-| **Chapters 16–19**: [16](core_16.000_standing_integration.md) · [Subcore 16-A](subcore_16.010_integration_record_processing_order.md) · [17](core_17.000_contribution_consequences.md) · [Subcore 17-A](subcore_17.010_recency_competency_clearance.md) · [18](core_18.000_violation_consequences.md) · [Subcore 18-A](subcore_18.010_special_locks.md) · [19](core_19.000_final_effect_restoration_enforcement.md) · [Subcore 19-A](subcore_19.010_cross_adopter_checks_remedy_durability.md) | What those Standing Records lead to: effects, restoration, and remedies |
-| **Chapters 20–21**: [20](core_20.000_misconduct_designation.md) · [21](core_21.000_misconduct_pattern_applications.md) | Naming serious misconduct against the Constitution |
-| **Chapter 22**: [Forum](core_22.000_forum.md) · [Subcore 22-A forum intake and default venue](subcore_22.010_forum_intake_default_venue.md) · [Subcore 22-B forum case seats and contest routing](subcore_22.020_forum_case_seats_contest_routing.md) | Review bodies and hearings: standards, where a case starts, forum cases, and why no one may judge their own case |
-| **Chapter 23**: [Forum families and timely resolution](core_23.000_forum_families_escalation_timeliness_support.md) | The kinds of review body, escalation, deadlines, and support for those taking part |
-| [Worked examples for Chapters 14–21](corpus_joint_structure/cjs_14.105_application_vignettes.md) | Illustrative stories showing the process in action (these add no new rules) |
-| **Chapter 24**: [Assemblies](core_24.000_assemblies.md) · [Subcore 24-A taxation](subcore_24.010_taxation.md) | What local, regional, and national assemblies decide (including tax policy and budgets), how they decide, executives, community referendums, and typed emergencies |
-| **Chapter 25**: [Enforcement](core_25.000_enforcement.md) | How outcomes get carried out, and what stops them being dodged |
-| **Chapter 26**: [Special enforcement](core_26.000_special_enforcement.md) · [Subcore 26-A special enforcement procedure](subcore_26.010_special_enforcement_procedure.md) | Extra safeguards for freezing or seizing money or property, for anything that could turn violent, and for fixing why enforcement keeps failing |
-| **Chapter 27**: [Governance](core_27.000_governance.md) · [Subcore 27-A governance disclosure](subcore_27.010_governance_disclosure.md) · [Subcore 27-B selection funding](subcore_27.020_selection_funding.md) · [Subcore 27-C voting entitlement](subcore_27.030_voting_entitlement.md) · [Subcore 27-D sortition integrity](subcore_27.040_sortition_integrity.md) · [Subcore 27-E role holders and interpretive bodies](subcore_27.050_role_holders_interpretive_bodies.md) · [Subcore 27-F binding collective choice](subcore_27.060_binding_collective_choice.md) | Who may govern, and how that authority is granted and checked |
-| **Chapter 28**: [Non-regression](core_28.000_non_regression.md) · [Subcore 28-A non-regression determinations](subcore_28.010_non_regression_determinations.md) | Protections can be strengthened but not rolled back |
-| **Chapter 29**: [Amendment and adoption](core_29.000_amendment_ratification.md) | How the text is changed, and how an organization formally adopts it |
-| **Chapter 30**: [Supremacy and other laws](core_30.000_expansion_supremacy.md) | How it relates to local, national, and international law |
-| **Chapter 31**: [Incorporation](core_31.000_incorporation.md) | How an adopting organization takes the text on and keeps it from quietly drifting |
+| **Chapter 8**: [System alignment certification](core_08.000_system_alignment_certification_evaluation.md) · [Subcore 8-A system classes](subcore_08.010_system_classification.md) · [Subcore 8-B system alignment certification evaluation](subcore_08.020_system_alignment_certification_evaluation.md) · [Subcore 8-C certification seats forum roles sequence](subcore_08.030_certification_seats_forum_roles_sequence.md) · [Subcore 8-D system alignment certification forum process outcomes](subcore_08.040_system_alignment_certification_forum_process_outcomes.md) · [Subcore 8-E System Certification Record contents](subcore_08.050_system_certification_record_contents.md) · [Subcore 8-F System Certification Record continuing review](subcore_08.060_system_alignment_certification_records_recertification.md) | Classification, evaluation, forum review, outcomes, go-live, and continuing review for systems |
+| **Chapter 9**: [Institutional alignment certification](core_09.000_institutional_alignment_certification_evaluation.md) · [Subcore 9-A institution class evaluation items](subcore_09.010_institution_class_evaluation_items.md) · [Subcore 9-B institutional alignment certification evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md) · [Subcore 9-C institutional certification seats sequence readiness](subcore_09.030_institutional_certification_seats_sequence_readiness.md) · [Subcore 9-D institutional alignment certification forum process outcomes](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md) · [Subcore 9-E new material authority system reopening](subcore_09.050_new_material_authority_system_reopening.md) · [Subcore 9-F Institutional Certification Record recertification](subcore_09.060_institutional_alignment_certification_records_recertification.md) | Institutional evaluation and certification, with the distinction between institutional status and system go-live |
+| **Chapter 10**: [Standing assessment](core_10.000_standing_assessment.md) · [Subcore 10-A Standing Record event types, fields, and custody](subcore_10.010_standing_record_event_types_fields_custody.md) · [Subcore 10-B Standing Record verification and custody](subcore_10.020_standing_assessment.md) · [Subcore 10-C route descriptors and constitutional input tables](subcore_10.030_route_descriptor_constitutional_input_tables.md) · [Subcore 10-D standing measurement](subcore_10.040_standing_measurement.md) · [Subcore 10-E integration record and processing order](subcore_10.050_integration_record_processing_order.md) · [Subcore 10-F standing integration](subcore_10.060_standing_integration.md) | What happened, how good or bad it was, and what follows |
+| **Chapter 11**: [Contribution consequences](core_11.000_contribution_consequences.md) · [Subcore 11-A recency competency clearance](subcore_11.010_recency_competency_clearance.md) | Contribution consequences and related standing effects |
+| **Chapter 12**: [Violation consequences](core_12.000_violation_consequences.md) · [Subcore 12-A special locks](subcore_12.010_special_locks.md) | Violation findings, remedies, and applicable locks |
+| **Chapter 13**: [Final effect, restoration, and enforcement](core_13.000_final_effect_restoration_enforcement.md) · [Subcore 13-A cross adopter checks remedy durability](subcore_13.010_cross_adopter_checks_remedy_durability.md) | Final effects, restoration, and enforcement limits |
+| **Chapter 14**: [Misconduct designation](core_14.000_misconduct_designation.md) | Designation of anti-constitutional misconduct |
+| **Chapter 15**: [Misconduct pattern applications](core_15.000_misconduct_pattern_applications.md) | Patterns and criteria for misconduct applications |
+| [Worked examples for Chapters 14–21](corpus_joint_structure/cjs_14.105_application_vignettes.md) | Illustrations of assessment and its consequences (these add no new rules) |
+| **Chapter 16**: [Forum](core_16.000_forum.md) · [Subcore 16-A forum intake default venue](subcore_16.010_forum_intake_default_venue.md) · [Subcore 16-B forum case seats contest routing](subcore_16.020_forum_case_seats_contest_routing.md) | Forum creation, intake, routing, and case review |
+| **Chapter 17**: [Forum families, escalation, and timely support](core_17.000_forum_families_escalation_timeliness_support.md) | Forum families, escalation, deadlines, and participation support |
+| **Chapter 18**: [Assemblies](core_18.000_assemblies.md) · [Subcore 18-A taxation](subcore_18.010_taxation.md) | Local, regional, and national assemblies |
+| **Chapter 19**: [Enforcement](core_19.000_enforcement.md) | Enforcement of constitutional outcomes |
+| **Chapter 20**: [Special enforcement](core_20.000_special_enforcement.md) · [Subcore 20-A special enforcement procedure](subcore_20.010_special_enforcement_procedure.md) | Additional safeguards for special enforcement |
+| **Chapter 21**: [Governance](core_21.000_governance.md) · [Subcore 21-A governance disclosure](subcore_21.010_governance_disclosure.md) · [Subcore 21-B selection funding](subcore_21.020_selection_funding.md) · [Subcore 21-C voting entitlement](subcore_21.030_voting_entitlement.md) · [Subcore 21-D sortition integrity](subcore_21.040_sortition_integrity.md) · [Subcore 21-E role holders interpretive bodies](subcore_21.050_role_holders_interpretive_bodies.md) · [Subcore 21-F binding collective choice](subcore_21.060_binding_collective_choice.md) | Who may govern and how collective authority is checked |
+| **Chapter 22**: [Non-regression](core_22.000_non_regression.md) · [Subcore 22-A non regression determinations](subcore_22.010_non_regression_determinations.md) | Protection against regression |
+| **Chapter 23**: [Amendment and ratification](core_23.000_amendment_ratification.md) | How amendments and ratification proceed |
+| **Chapter 24**: [Expansion and supremacy](core_24.000_expansion_supremacy.md) | The Constitution’s relation to other binding norms |
+| **Chapter 25**: [Incorporation](core_25.000_incorporation.md) | How an adopting organization incorporates the Constitution |
 
 <a id="chapter-three-files"></a>
 **All Chapter 3 files:**
@@ -157,8 +159,8 @@ The Constitution says *what* must happen and *why*. These four collections spell
 **Not yet.** This is a pre-release draft ([edition details ↑](#edition)). Here is what that means in practice:
 
 - **Reading it binds no one.** Opening this repository, or any page in it, is not adoption.
-- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter 29](core_29.000_amendment_ratification.md#12-ratification-and-adoption) and [Chapter 31](core_31.000_incorporation.md).
-- **It does not override the law.** It does not replace local, national, or international law ([Chapter 30](core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
+- **It takes effect only by choice.** It applies to an organization only after that organization formally adopts it under [Chapter Twenty-Three](core_23.000_amendment_ratification.md#12-ratification-and-adoption) and [Chapter Twenty-Five](core_25.000_incorporation.md).
+- **It does not override the law.** It does not replace local, national, or international law ([Chapter Twenty-Four](core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
 <a id="binding-vs-support"></a>
 <details>
@@ -166,8 +168,8 @@ The Constitution says *what* must happen and *why*. These four collections spell
 
 | Material | What it is | Status |
 |---|---|---|
-| **The Constitution text**: the Preamble and Chapters 1–31 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
-| **The subcore**: the `subcore_*` files, each attached to one chapter ([list ↑](#the-full-text)) | The full detail of rules that must be the same everywhere, kept out of the chapters so they stay readable | Part of the Constitution text: binds exactly as its chapter does, and changes only by amendment. A cite that begins "Chapter Ten" points to fixed guarantee text, and one that begins "Subcore 10-A" to standardized detail; both have the same force |
+| **The Constitution text**: the Preamble and Chapters 1–25 (the `core_*` files; [list ↑](#the-full-text)) | The authoritative text | The most mature part |
+| **The subcore**: the `subcore_*` files, each attached to one chapter ([list ↑](#the-full-text)) | The full detail of rules that must be the same everywhere, kept out of the chapters so they stay readable | Part of the Constitution text: binds exactly as its chapter does, and changes only by amendment. A cite that begins "Chapter Ten" points to fixed guarantee text, and one that begins "Subcore 8-E" to standardized detail; both have the same force |
 | **Implementation details**: the `corpus_*` files and folders ([list ↑](#implementation-files)) | Step-by-step detail on *how* to carry out what the Constitution requires | Binding only inside an organization that has adopted it; still being developed |
 | **Everything else**: this page, guides, overviews, summaries, and translations | Help for readers | Never binding, and cannot change the meaning of the Constitution |
 
@@ -194,12 +196,12 @@ If any of these disagree, **the Constitution text wins**.
 
 The numbered `core_*` files state **why** and **what**. The implementation files state **how** — taxonomies, protocols, institutions, forum operations, and joint interlocks. They **apply** Chapter Three terms; they do not redefine them or invent parallel rights. Designated obligations in these files are **binding implementation text incorporated by reference** under valid adoption. They do **not** create a second constitutional source.
 
-- [corpus_joint_structure.md](corpus_joint_structure.md): cross-implementation joint structure (CJS-31.110 interlocks, CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*) operational cluster library, CJS-0.105 §1 topic router)
-- [corpus_systems.md](corpus_systems.md): systems implementation (Subcore 4-A information types, CS-8.305 and Subcore 8-A system classification, CS-27.305 critical stewardship, named protocols)
+- [corpus_joint_structure.md](corpus_joint_structure.md): cross-implementation joint structure (CJS-25.110 interlocks, CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*) operational cluster library, CJS-0.105 §1 topic router)
+- [corpus_systems.md](corpus_systems.md): systems implementation (Subcore 4-A information types, CS-8.305 and Subcore 8-A system classification, CS-21.305 critical stewardship, named protocols)
 - [corpus_institutions.md](corpus_institutions.md): institutional governance, oversight, proportionality-scaled formation, sanctions and dissolution
 - [corpus_forum.md](corpus_forum.md): forum operations (panel formation, recusal, review lanes, continuity, emergency adjudication)
 
-Operative enforcement within any adopter depends on valid adoption under Chapter Twenty-Nine (ratification) and Chapter Thirty-One (incorporation and custody). Substantive content stands as stated regardless of adoption; "this Constitution lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Thirty-One §5](core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority).
+Operative enforcement within any adopter depends on valid adoption under Chapter Twenty-Nine (ratification) and Chapter Thirty-One (incorporation and custody). Substantive content stands as stated regardless of adoption; "this Constitution lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Twenty-Five §5](core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority).
 
 **Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Chapter One owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights), and [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](subcore_03.080_band_integrative.md#constitutional-constraint).
 
@@ -210,36 +212,36 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Data types and data-handling rules: [Subcore 4-A](subcore_04.050_data_types.md)
 - Gifts, conflicts of interest, funding changes, and the kinds of integrity failure: [Subcore 4-B](subcore_04.060_integrity_triggers_gifts_funding.md)
 - Who keeps the voter roll, runs and audits votes, keeps the campaign-funding register, and runs public draws: [Subcore 7-A](subcore_07.010_electoral_office.md)
-- Who decides whether a change weakens a protection, and when a replacement or a correction is not a weakening: [Subcore 28-A](subcore_28.010_non_regression_determinations.md)
+- Who decides whether a change weakens a protection, and when a replacement or a correction is not a weakening: [Subcore 22-A](subcore_22.010_non_regression_determinations.md)
 - Who evaluates what a proposed policy will do, before and after it is decided: [Subcore 7-B](subcore_07.020_public_policy_office.md)
 - Who publishes the Long-Term Outlook, reviews stewardship plans, and runs the Stewardship Fund: [Subcore 7-C](subcore_07.030_public_stewardship_office.md)
-- Who holds each seat in a system certification, what each forum family contributes, and the default order of review: [Subcore 9-A](subcore_09.010_certification_seats_forum_roles_sequence.md)
-- What a System Certification Record must contain, item by item: [Subcore 10-A](subcore_10.010_system_certification_record_contents.md)
-- The full terms of each of the eight special locks: [Subcore 18-A](subcore_18.010_special_locks.md)
-- The named kinds of help and harm used in measuring a Standing Record, and the constitutional sources to check: [Subcore 15-A](subcore_15.010_route_descriptor_constitutional_input_tables.md)
-- What every Standing Record must contain, the event-type tables, and how a Standing Record is handled when a System Charter or Institutional Charter leaves a seat empty or the work is informal: [Subcore 14-A](subcore_14.010_standing_record_event_types_fields_custody.md)
-- When an Institution must wait to be recertified before taking on new authority over others, and how its Systems reopen after a governance failure: [Subcore 13-A](subcore_13.010_new_material_authority_system_reopening.md)
-- How an Institution's class is set, and the full test for each item of its certification: [Subcore 11-A](subcore_11.010_institution_class_evaluation_items.md)
-- Who sits where, and what the forums weigh, when an Institution is certified: [Subcore 12-A](subcore_12.010_institutional_certification_seats_sequence_readiness.md)
-- Lock checks across adopters, and how remedy systems are kept funded: [Subcore 19-A](subcore_19.010_cross_adopter_checks_remedy_durability.md)
-- The eight-step processing order for standing decisions, and what the integration record shows: [Subcore 16-A](subcore_16.010_integration_record_processing_order.md)
-- How contribution fades over time, and the full rules for competency bars and clearances: [Subcore 17-A](subcore_17.010_recency_competency_clearance.md)
-- The force ladder, freezes and seizure, and the death-review steps: [Subcore 26-A](subcore_26.010_special_enforcement_procedure.md)
-- What every tax must pass, good and barred tax designs, tax enforcement, and taxpayer rights: [Subcore 24-A](subcore_24.010_taxation.md)
-- What every institution's governance report must contain: [Subcore 27-A](subcore_27.010_governance_disclosure.md)
-- The disclosure register, default caps and limits, and outcome-review measures for selection funding: [Subcore 27-B](subcore_27.020_selection_funding.md)
-- How the voting residence period is counted, the political-equality floor, and restoring a withheld vote: [Subcore 27-C](subcore_27.030_voting_entitlement.md)
-- What a sortition (lottery) mechanism must publish and protect: [Subcore 27-D](subcore_27.040_sortition_integrity.md)
-- Who may hold an institution's roles, how they are removed, post-service limits, and how interpretive bodies are composed: [Subcore 27-E](subcore_27.050_role_holders_interpretive_bodies.md)
-- What must be published before a binding vote, how results are checked, and the process for binding stakeholder choices: [Subcore 27-F](subcore_27.060_binding_collective_choice.md)
-- Which forum hears a case first (intake desk and default venue table): [Subcore 22-A](subcore_22.010_forum_intake_default_venue.md)
-- Who sits on a forum case, and where each kind of challenge goes: [Subcore 22-B](subcore_22.020_forum_case_seats_contest_routing.md)
+- Who holds each seat in a system certification, what each forum family contributes, and the default order of review: [Subcore 8-C](subcore_08.030_certification_seats_forum_roles_sequence.md)
+- What a System Certification Record must contain, item by item: [Subcore 8-E](subcore_08.050_system_certification_record_contents.md)
+- The full terms of each of the eight special locks: [Subcore 12-A](subcore_12.010_special_locks.md)
+- The named kinds of help and harm used in measuring a Standing Record, and the constitutional sources to check: [Subcore 10-C](subcore_10.030_route_descriptor_constitutional_input_tables.md)
+- What every Standing Record must contain, the event-type tables, and how a Standing Record is handled when a System Charter or Institutional Charter leaves a seat empty or the work is informal: [Subcore 10-A](subcore_10.010_standing_record_event_types_fields_custody.md)
+- When an Institution must wait to be recertified before taking on new authority over others, and how its Systems reopen after a governance failure: [Subcore 9-E](subcore_09.050_new_material_authority_system_reopening.md)
+- How an Institution's class is set, and the full test for each item of its certification: [Subcore 9-A](subcore_09.010_institution_class_evaluation_items.md)
+- Who sits where, and what the forums weigh, when an Institution is certified: [Subcore 9-C](subcore_09.030_institutional_certification_seats_sequence_readiness.md)
+- Lock checks across adopters, and how remedy systems are kept funded: [Subcore 13-A](subcore_13.010_cross_adopter_checks_remedy_durability.md)
+- The eight-step processing order for standing decisions, and what the integration record shows: [Subcore 10-E](subcore_10.050_integration_record_processing_order.md)
+- How contribution fades over time, and the full rules for competency bars and clearances: [Subcore 11-A](subcore_11.010_recency_competency_clearance.md)
+- The force ladder, freezes and seizure, and the death-review steps: [Subcore 20-A](subcore_20.010_special_enforcement_procedure.md)
+- What every tax must pass, good and barred tax designs, tax enforcement, and taxpayer rights: [Subcore 18-A](subcore_18.010_taxation.md)
+- What every institution's governance report must contain: [Subcore 21-A](subcore_21.010_governance_disclosure.md)
+- The disclosure register, default caps and limits, and outcome-review measures for selection funding: [Subcore 21-B](subcore_21.020_selection_funding.md)
+- How the voting residence period is counted, the political-equality floor, and restoring a withheld vote: [Subcore 21-C](subcore_21.030_voting_entitlement.md)
+- What a sortition (lottery) mechanism must publish and protect: [Subcore 21-D](subcore_21.040_sortition_integrity.md)
+- Who may hold an institution's roles, how they are removed, post-service limits, and how interpretive bodies are composed: [Subcore 21-E](subcore_21.050_role_holders_interpretive_bodies.md)
+- What must be published before a binding vote, how results are checked, and the process for binding stakeholder choices: [Subcore 21-F](subcore_21.060_binding_collective_choice.md)
+- Which forum hears a case first (intake desk and default venue table): [Subcore 16-A](subcore_16.010_forum_intake_default_venue.md)
+- Who sits on a forum case, and where each kind of challenge goes: [Subcore 16-B](subcore_16.020_forum_case_seats_contest_routing.md)
 - Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Six; the required lanes: [Subcore 6-A](subcore_06.010_constitutional_lanes.md)
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00.000_preamble.md#the-model)
 - Auditing and independent verification: Article XVII is the floor; Chapter Three [Auditability](subcore_03.085_band_oversight.md#auditability) is the property; [CJS-3.115 §3](corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3) is how and when; Chapter Eight is one large process that uses that stack
 - Duty to resist unlawful or unconstitutional instructions: [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)
-- Remedy systems and enforcement realism: Chapter Nineteen §5; implementation in CI-25.210
-- Relation to local, national, and international law: [Chapter Thirty §7](core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)
+- Remedy systems and enforcement realism: Chapter Nineteen §5; implementation in CI-19.210
+- Relation to local, national, and international law: [Chapter Twenty-Four §7](core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)
 
 ### Editor and Operator Resources
 
@@ -248,7 +250,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Process map of certification, standing measurement, forums, and remedy: [PROCESS_PIPELINES_READER.md](implementation/PROCESS_PIPELINES_READER.md)
 - Process guides (challenge, independent review, certification, help and harm, crisis clocks): [easy_entry process guides](implementation/adoption/easy_entry/README.md#process-guides)
 - Steward entry doors: [STEWARD_ENTRY_DOORS.md](implementation/STEWARD_ENTRY_DOORS.md)
-- Adoption process path: [implementation/adoption/](implementation/adoption/)
+- Adoption process path: [implementation/adoption/](implementation/adoption)
 - Reader-language editions (method and shipping order): [doc_architecture.md](doc_architecture.md#reader-language-editions-shipping-order)
 - Numbered core index for GitHub Pages: [docs/corpus_index.md](docs/corpus_index.md) via `make pages-corpus-index`
 - Full Pages render (assembled in CI; not a second constitution): [.github/workflows/pages.yml](.github/workflows/pages.yml), gated by `make pages-deploy-gate`
@@ -256,7 +258,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - AI lookup CLI (locators point, source binds): [ai_corpus/AI_NAVIGATION_GUIDE.md](ai_corpus/AI_NAVIGATION_GUIDE.md), `python3 tools/corpus_lookup.py`, and [AGENTS.md](AGENTS.md)
 - Generated reader files (non-binding): [plain-terms edition](doc_architecture/generated/plain_terms_edition.md), [Rights Floor wall sheet](doc_architecture/generated/rights_floor_sheet.md) via `make reader-accessibility`, [human definition lookup](doc_architecture/generated/human_definition_lookup.md)
 
-Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Three *Corpus*](subcore_03.080_band_integrative.md#corpus) and [Chapter Thirty-One](core_31.000_incorporation.md).
+Edition bumps happen only on a deliberate corpus publication cut. Custody and binding scope: [Chapter Three *Corpus*](subcore_03.080_band_integrative.md#corpus) and [Chapter Twenty-Five](core_25.000_incorporation.md).
 
 </details>
 

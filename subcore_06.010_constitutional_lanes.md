@@ -6,7 +6,7 @@
 > This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 6-A**. Until 2026-11-20 its text was the term *Constitutional lane and functional separation* in CJS-3.125 §11 (*Accountability: Distributed and Proportional Authority Terms*).
 >
 > **Upstream:** [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), the chapter this file is attached to.
-> **Downstream:** [CI-6.205 §2](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*Functional Separation Lanes*: each institution's published lane map); [CI-27.205 §6](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*).
+> **Downstream:** [CI-6.205 §2](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*Functional Separation Lanes*: each institution's published lane map); [CI-21.205 §6](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*).
 
 </details>
 
@@ -36,11 +36,11 @@ One institution may host more than one lane only when independence safeguards ar
 
 **Separation of duties** is the transaction-level form of the same rule, stated in [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement), which this file cannot narrow: for any single [materially binding act](subcore_03.070_band_accountability.md#materially-binding-act) or record, the request, the verification, the entry and custody, and the contest are held by different seats, and no seat both verifies and enters, or both verifies and hears the contest.
 
-The [Chapter Fourteen §7.1 Separation of Duties](core_14.000_standing_assessment.md#71-separation-of-duties) Standing-Record lifecycle (request → verify → enter and hold → contest) is one duty set every lane map must place; it is the reference instance of this rule, and the lane map is the fallback when a [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) is silent on record custody.
+The [Subcore 10-B §7.1 Separation of Duties](subcore_10.020_standing_assessment.md#71-separation-of-duties) Standing-Record lifecycle (request → verify → enter and hold → contest) is one duty set every lane map must place; it is the reference instance of this rule, and the lane map is the fallback when a [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) is silent on record custody.
 
 #### 1.3 Seats a Lane Hosts
 
-The seat types a lane hosts — the four core seats plus the containment, participation-terms, release-control, and direction seats — and what each may and may not do are fixed in [CI-27.205 §6](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*); a lane map places seats, it does not redefine them.
+The seat types a lane hosts — the four core seats plus the containment, participation-terms, release-control, and direction seats — and what each may and may not do are fixed in [CI-21.205 §6](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat catalog*); a lane map places seats, it does not redefine them.
 
 #### 1.4 Assessing a Lane Map
 

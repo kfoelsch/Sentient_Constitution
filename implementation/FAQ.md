@@ -1,7 +1,7 @@
 # Everyday questions
 
 **Status:** Process / handbook support — **not** binding constitutional or incorporated text. This page **cannot narrow core**. If this page and a numbered `core_*` file disagree, the `core_*` file wins.  
-**Pinned to corpus edition:** `SC-Corpus-2026.10.21` (effective 2026-10-21; [README.md](../README.md)).  
+**Pinned to corpus edition:** `SC-Corpus-2026.11.25` (effective 2026-11-25; [README.md](../README.md)).  
 **Job:** Ten questions people actually ask. Each answer ends at a real home. This page is not a second morals stack.
 
 <a id="questions"></a>
@@ -11,13 +11,13 @@
 
 No. Opening this repository, [START_HERE.md](../START_HERE.md), or a kit is not adoption. A qualifying body becomes bound only after a Chapter Twenty-Nine adoption document exists in **that body’s** custody.
 
-See: [Chapter Twenty-Nine §12](../core_29.000_amendment_ratification.md#12-ratification-and-adoption); [Chapter Thirty-One §5](../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority).
+See: [Chapter Twenty-Three §12](../core_23.000_amendment_ratification.md#12-ratification-and-adoption); [Chapter Twenty-Five §5](../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority).
 
 ### 2. Does it override my country’s laws?
 
 No. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes must stay consistent with that framework.
 
-See: [Chapter Thirty §7](../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law).
+See: [Chapter Twenty-Four §7](../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law).
 
 ### 3. Who counts, and who decides?
 
@@ -59,7 +59,7 @@ See: [Rights Floor wall sheet](../doc_architecture/generated/rights_floor_sheet.
 
 A filed case is not standing by itself. Help and harm, when they matter, have to be verified and written on two separate tracks. Rumors and dispute stories are not that record.
 
-See: [G04 — Help and harm](adoption/easy_entry/G04_help_and_harm.md); [PROCESS_PIPELINES_READER.md](PROCESS_PIPELINES_READER.md); [Chapter Fourteen](../core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened); [Chapter Fifteen](../core_15.000_standing_measurement.md#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it).
+See: [G04 — Help and harm](adoption/easy_entry/G04_help_and_harm.md); [PROCESS_PIPELINES_READER.md](PROCESS_PIPELINES_READER.md); [Subcore 10-B](../subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened); [Subcore 10-D](../subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it).
 
 ### 10. What if there is a crisis?
 

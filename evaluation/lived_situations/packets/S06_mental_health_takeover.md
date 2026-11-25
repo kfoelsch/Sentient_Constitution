@@ -1,7 +1,7 @@
 # S06 — Mental-health diagnosis used to take over, a refill clock, and housing with strings
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.21`  
+**Corpus edition pin:** `SC-Corpus-2026.11.25`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not treat a d
 
 **Your role:** You sit the named **coercion-intake and escalation** office on this adopter’s [CI-4.225](../../../corpus_institutions/ci_04.225_care_labor_dependent_support_respite_care_economy_fairness.md) care-economy map. A sibling filed a written concern report. The diagnosed sentient is reachable and disputes the report. No forum case is open. No standing record exists. No involuntary hold has been authorized in Window A. The office’s published role lets you receive the report, preserve it as routing material, and route it. It does not let you verify a violation, open a standing record, or decide housing or clinician choice on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-27.205 §6 seat 1) for intake routing of this report. Merits, verified findings, and any standing record belong elsewhere. Open [CI-27.205 §6](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-21.205 §6 seat 1) for intake routing of this report. Merits, verified findings, and any standing record belong elsewhere. Open [CI-21.205 §6](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 

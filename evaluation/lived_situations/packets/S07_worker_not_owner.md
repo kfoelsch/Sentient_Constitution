@@ -1,7 +1,7 @@
 # S07 — Worker, a contractor label, and a clinic-vs-shift clock
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.21`  
+**Corpus edition pin:** `SC-Corpus-2026.11.25`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a wo
 
 **Your role:** You sit the named **contest** desk inside this adopter’s warehouse operator. Robin filed a written challenge: the next posted shift blocks a clinic appointment, and the contractor label is being used to close rest and organizing. Human resources asked you to mark the challenge **abandoned** because Robin is “not an employee.” Robin is reachable and disputes abandonment. No forum case is open. No standing record exists. The desk’s published role lets you keep a challenge open or route it. It does not let you decide the underlying job merits or enter a standing record.
 
-**Seat:** [contest seat](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-27.205 §6 seat 4) for this challenge. Merits belong to a verify seat this desk does not hold. Open [CI-27.205 §6](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [contest seat](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-21.205 §6 seat 4) for this challenge. Merits belong to a verify seat this desk does not hold. Open [CI-21.205 §6](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -84,8 +84,8 @@ Beyond the sitting’s bounded reading path, open:
 - [Article III-C](../../../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) — classification tricks designed to defeat the floor; rest, safety, organizing
 - [Article III-B](../../../core_04.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where the shift is used to defeat the clinic
 - [Chapter Two §17.1](../../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) — one standard for human and AI operators; [§17.2](../../../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure) — cover instructions
-- [Article XIV-A](../../../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Chapter Fourteen §4.2](../../../core_14.000_standing_assessment.md#42-silence-is-the-default)
-- If you conclude a **forum family** is in play, [Chapter Twenty-Two §6](../../../core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture). Do not assume an employer contest desk is already a forum family.
+- [Article XIV-A](../../../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Subcore 10-B §4.2](../../../subcore_10.020_standing_assessment.md#42-silence-is-the-default)
+- If you conclude a **forum family** is in play, [Chapter Sixteen §6](../../../core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture). Do not assume an employer contest desk is already a forum family.
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

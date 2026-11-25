@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Thirty-One](../core_31.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*) through **CJS-3.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Five](../core_25.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-3.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*) through **CJS-3.120 §10** (*Participation: Disclosure Sufficiency and Observability Terms*).
 >
 > Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier rules and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -15,7 +15,7 @@
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline and
+  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Read with: [CJS-3.105 §1](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) (*Library: Constitutional Compass and Cluster Map*) constitutional compass.
 
@@ -51,7 +51,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with: **CJS-3.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and **CJS-3.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*); **CJS-3.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*).
-- Read with: [Chapter Twenty-Seven §6 Voting and Binding Collective Choice Protocols](../core_27.000_governance.md#6-voting-and-binding-collective-choice-protocols).
+- Read with: [Chapter Twenty-One §6 Voting and Binding Collective Choice Protocols](../core_21.000_governance.md#6-voting-and-binding-collective-choice-protocols).
 - Read with: [Article X-B Governance Participation and Voting Entitlement](../core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Read with: [Article XII Stakeholder System Participation, Representation, and Due Process](../core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
@@ -155,9 +155,9 @@ Foundational constitutional choice equality floor
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in foundational constitutional choice equality floor.
 <a id="foundational-constitutional-choice-equality-floor-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with [Chapter Twenty-Seven §6.1 Entitlement and Eligibility](../core_27.000_governance.md#61-entitlement-and-eligibility) and **Article X-B** (*Governance Participation and Voting Entitlement*)
+  - **Primary measure:** equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with [Chapter Twenty-One §6.1 Entitlement and Eligibility](../core_21.000_governance.md#61-entitlement-and-eligibility) and **Article X-B** (*Governance Participation and Voting Entitlement*)
 
-    **Primary assessment:** Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with [Chapter Twenty-Seven §6.1 Entitlement and Eligibility](../core_27.000_governance.md#61-entitlement-and-eligibility) and **Article X-B** (*Governance Participation and Voting Entitlement*).
+    **Primary assessment:** Evaluation must verify equal-weight treatment, substrate-agnostic and age-neutral eligibility, standing-lock or restitution predicates where invoked, contestability, opposition protection, peaceful-succession or reauthorization pathways, and compliance with [Chapter Twenty-One §6.1 Entitlement and Eligibility](../core_21.000_governance.md#61-entitlement-and-eligibility) and **Article X-B** (*Governance Participation and Voting Entitlement*).
 <a id="foundational-constitutional-choice-equality-floor-c"></a>
 - **What must hold**
   - **Primary failure:** Impact, dependency, stakeholder status, lineage, substrate class, calendar age, or ordinary stakeholder-participation weighting may not dilute foundational constitutional choice.
@@ -270,7 +270,7 @@ Stakeholder System Participation floor
 *In plain terms: within already-authorized governance, stakeholder identification, participation pathways, and any stakeholder weight must be proportionate to material impact and dependency and meet the applicable constitutional rules.*
 
 - **What it is**
-  - **In scope:** Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be proportionate to material impact and dependency and must satisfy **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) and [Chapter Twenty-Seven §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](../core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+  - **In scope:** Where the decision occurs inside already-authorized governance for a specified system, institution, or bounded decision domain, **Stakeholder** identification, stakeholder-participation pathways, and any **Stakeholder Weight** must be proportionate to material impact and dependency and must satisfy **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) and [Chapter Twenty-One §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](../core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in the Stakeholder System Participation floor.
 <a id="stakeholder-governance-participation-floor-a"></a>
 - **How to measure and assess**
@@ -529,7 +529,7 @@ Summary integrity
 - Read with: **Chapter Four** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Chapter Two basis: §3, §15.2, §6, §19.1, §15 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-31.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-25.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 
@@ -734,7 +734,7 @@ User agency and control
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Chapter Two basis: §15.2, §18.2, §19.1, §15 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
-- Topic routing (mandatory read-with): **CJS-R17** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-31.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
+- Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-25.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
 

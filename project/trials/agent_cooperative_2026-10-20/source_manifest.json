@@ -1,7 +1,7 @@
 {
   "recorded_utc": "2026-10-20 20:49:01 UTC",
   "base_commit": "637af2f2b2b2b1cd8f7ff5b859b3244b632dd0e0",
-  "edition": "SC-Corpus-2026.10.21",
+  "edition": "SC-Corpus-2026.11.25",
   "note": "Hashes identify consulted dependencies, not completed whole-file reviews. Chapter Five belongs to steward work and was separately committed as 616dda15 during this pass. Forum kit worktree hash includes B02 template repair; CS-4.335 worktree hash includes B03 gloss alignment. If a dependency changes, reassess the affected findings. No resolver index is a meaning source.",
   "sources": [
     {

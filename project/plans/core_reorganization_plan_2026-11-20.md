@@ -63,7 +63,7 @@ The rules for the tier:
 
 - **Same force.** A subcore file is part of the Constitution. It binds every adopter, as the core does, without separate incorporation.
 - **Same amendment route.** A subcore file changes only by amendment under Chapter Thirty, with the same heightened review for rights-affecting changes.
-- **Attached to a chapter.** Each subcore file belongs to one core chapter and is named for it (for example, *Subcore 16-A: Measurement Procedure*). The chapter lists its subcore files.
+- **Attached to a chapter.** Each subcore file belongs to one core chapter and is named for it (for example, *Subcore 10-E: Measurement Procedure*). The chapter lists its subcore files.
 - **Core states, subcore details.** The core states every guarantee in plain words, at least in one line. The subcore gives the full rule and procedure. A subcore file may not narrow its chapter. Where the two seem to differ, the reading more protective of the affected sentient controls, and the gap is a drafting defect to fix.
 - **The corpus stays as it is.** It remains adopter-shaped implementation that binds as adopted, for what may properly vary between adopters.
 
@@ -78,7 +78,7 @@ That gives three tiers, and a three-way placement test for every sentence:
 **What the tier needs before any content moves:**
 
 - the [Chapter Five *Corpus*](../../subcore_03.080_band_integrative.md#corpus) entry and the *Corpus and Authority Stack* definitions;
-- [Preamble §9](../../core_01.000_constitutional_map.md#11-adopted-implementation-corpus), the owner register, and the [Chapter Thirty-One §4.1](../../core_30.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) hierarchy;
+- [Preamble §9](../../core_01.000_constitutional_map.md#11-adopted-implementation-corpus), the owner register, and the [Chapter Twenty-Four §4.1](../../core_24.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) hierarchy;
 - Chapter Thirty (amendment covers the subcore);
 - Chapter Thirty-One (the subcore needs no separate incorporation);
 - `README.md`;
@@ -141,10 +141,10 @@ These are listed in order of reading benefit:
 4. **Independent Bodies.** The general rules stay whole; the office texts go to the subcore when the chapter is created (step 3).
 5. **Corpus content promoted to the subcore** (sweep of all 77 corpus files, custodian's choice 2026-11-20: "Items 1-4"). These are constitutional taxonomies that the core relies on but that live only in the corpus. Each move leaves the procedures in the corpus.
    - **System classes → Subcore 8-A.** [CS-8.310](../../subcore_08.010_system_classification.md) §§8–13 (Class A/B/C/L/P) and [CS-8.305](../../corpus_systems/cs_08.305_system_classification_machinery.md) §§2–6 (dimensions, criticality factors, Dep-A–P dependency types, boundaries, domain taxonomy). About 115 links from 18 core files. CS-8.305 §7 (classification governance and challenge) stays in the corpus.
-   - **Stewardship criticality levels → Subcore 8-A.** [CS-27.305](../../corpus_systems/cs_27.305_critical_system_stewardship.md) §§2–3 (classification as steward; CSS-A/B/C). The steward obligations in §§4–20 stay in the corpus.
+   - **Stewardship criticality levels → Subcore 8-A.** [CS-21.305](../../corpus_systems/cs_21.305_critical_system_stewardship.md) §§2–3 (classification as steward; CSS-A/B/C). The steward obligations in §§4–20 stay in the corpus.
    - **Data types → Subcore 4-A.** [CS-4.310](../../subcore_04.050_data_types.md) §9 (Types E, G, O, H, I, N, S, Y, W, U, T; shared works; commercial grants) and [CS-4.305](../../corpus_systems/cs_04.305_information_types_and_handling.md) §§1–7 (determination, anti-circumvention, access-posture bands, separation and attribution, Type O baseline). About 160 links from 20 core files. CS-4.305 §8 (System Data Types Record governance) stays in the corpus.
    - **Functional separation lanes → a Chapter Six subcore file.** The lane categories in [CJS-3.125](../../corpus_joint_structure/cjs_03.125_accountability_operations.md) §11, which Chapter Six relies on.
-   - **Not promoted:** the oDef library (CJS-3.105–3.140) stays in the CJS as the operational layer. Illustrations and vignettes (CS-8.320, CJS-14.105), forum operations, lifecycle, funding, adoption transition, and the domain institution files stay in the corpus. The CI-27.205 §§2 and 6 role criteria and Seat Catalog go with the office texts (step 5).
+   - **Not promoted:** the oDef library (CJS-3.105–3.140) stays in the CJS as the operational layer. Illustrations and vignettes (CS-8.320, CJS-14.105), forum operations, lifecycle, funding, adoption transition, and the domain institution files stay in the corpus. The CI-21.205 §§2 and 6 role criteria and Seat Catalog go with the office texts (step 5).
 
 **Guarantee check for every move.** Before and after each move, list each guarantee sentence and confirm that it is either still in the core or stated there in one line, with the full text in a subcore file. Record the list in the move log.
 
@@ -189,7 +189,7 @@ Added at the custodian's request (2026-11-20: "the section 2 TODO … should be 
 | 4 | One renumbering pass, inserting the reviewed §2 sections | large | steps 3 and 3a |
 | 4a | Section 2 audit (CHAPTER-S2-WHY; done 2026-11-20, 833rd move: chapter lead files and subcore files) | small | step 4 |
 | 5 | Lean office texts | small | step 4 |
-| 6 | Forum intake to a Chapter Twenty-Three subcore file (pilot; done 2026-11-20, 834th move: Subcore 22-A, attached to Chapter Twenty-Two after the renumbering) | medium | steps 2 and 4 |
+| 6 | Forum intake to a Chapter Twenty-Three subcore file (pilot; done 2026-11-20, 834th move: Subcore 16-A, attached to Chapter Twenty-Two after the renumbering) | medium | steps 2 and 4 |
 | 7 | Definitions bands to a definitions subcore (done 2026-11-20, 824th and 827th moves: Subcores 3-D to 3-O, files 03.040 to 03.095) | large | step 6 reviewed |
 | 8 | Pipeline chapters, one at a time | large | step 6 reviewed |
 | 9 | Corpus content promoted to the subcore (section 4, item 5; done 2026-11-20: Subcores 8-A, 4-A, and 6-A, 828th to 830th moves) | large | step 7 pilot reviewed |

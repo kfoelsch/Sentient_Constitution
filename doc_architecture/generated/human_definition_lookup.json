@@ -1,6 +1,6 @@
 {
-  "edition": "SC-Corpus-2026.10.21",
-  "effective_date": "2026-10-21",
+  "edition": "SC-Corpus-2026.11.25",
+  "effective_date": "2026-11-25",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "featured": [
@@ -110,11 +110,11 @@
     },
     {
       "query": "independent review",
-      "file": "core_22.000_forum.md",
-      "anchor": "#chapter-twenty-two-standards-routing-and-forum-cases",
-      "title": "CHAPTER TWENTY-TWO: STANDARDS, ROUTING, AND FORUM CASES",
+      "file": "core_16.000_forum.md",
+      "anchor": "#chapter-sixteen-standards-routing-and-forum-cases",
+      "title": "CHAPTER SIXTEEN: STANDARDS, ROUTING, AND FORUM CASES",
       "plain_terms": null,
-      "href": "../../core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases"
+      "href": "../../core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases"
     }
   ],
   "term_count": 320,

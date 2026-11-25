@@ -73,7 +73,7 @@ These cross-cutting measures ask whether systems deliver constitutional outcomes
 - Operative measurement layers live on Chapter Three definition homes — see [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency), [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden), [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity), and [Burden-Reduction Duty](subcore_03.075_band_continuity.md#burden-reduction-duty).
 - Performance targets, rewards, and resource measures are valid only to the extent they remain traceable to constitutional outcomes.
 - They cannot substitute for Constitutional Efficiency, [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity), or Rights-Floor compliance.
-- Read with [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) where whole-system performance is materially in scope.
+- Read with [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) where whole-system performance is materially in scope.
 
 ---
 

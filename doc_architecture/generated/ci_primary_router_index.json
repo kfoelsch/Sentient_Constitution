@@ -27,28 +27,28 @@
     {
       "id": "CJS-R16",
       "topic": "Cross-institution coordination, deadlock, and escalation",
-      "primary_owner": "[**CI-22.210**](../corpus_institutions/ci_22.210_cross_institution_coordination_escalation.md)",
+      "primary_owner": "[**CI-16.210**](../corpus_institutions/ci_16.210_cross_institution_coordination_escalation.md)",
       "primary_attach": [
-        "CI-22.210"
+        "CI-16.210"
       ]
     },
     {
       "id": "CJS-R18",
       "topic": "Class-scaled lane staffing and competency redundancy for materially binding stewardship",
-      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md), **CI-27.205**, **CI-4.215**, **CI-22.210**",
+      "primary_owner": "[**CI-6.205**](../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md), **CI-21.205**, **CI-4.215**, **CI-16.210**",
       "primary_attach": [
         "CI-6.205",
-        "CI-27.205",
+        "CI-21.205",
         "CI-4.215",
-        "CI-22.210"
+        "CI-16.210"
       ]
     },
     {
       "id": "CJS-R20",
       "topic": "Remedy parity and lock-to-remedy capacity",
-      "primary_owner": "[**CI-25.210**](../corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md)",
+      "primary_owner": "[**CI-19.210**](../corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md)",
       "primary_attach": [
-        "CI-25.210"
+        "CI-19.210"
       ]
     },
     {
@@ -62,9 +62,9 @@
     {
       "id": "CJS-R23",
       "topic": "Seat types, local role maps, and wrong-seat routing",
-      "primary_owner": "[**CI-27.205**](../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md) (*CI-27.205 \u00a76 seat catalog \u2014 the nine seat types, their operational boundaries, and the wrong-seat rule; CI-27.205 \u00a75 role maps instantiate them*)",
+      "primary_owner": "[**CI-21.205**](../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md) (*CI-21.205 \u00a76 seat catalog \u2014 the nine seat types, their operational boundaries, and the wrong-seat rule; CI-21.205 \u00a75 role maps instantiate them*)",
       "primary_attach": [
-        "CI-27.205"
+        "CI-21.205"
       ]
     }
   ]

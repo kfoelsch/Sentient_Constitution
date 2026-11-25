@@ -28,7 +28,7 @@ Order follows the Makefile `regression` list.
 | `support-doc-pointer-audit` | **L** | `tools/support_doc_pointer_audit.py` | SUPPORT-DOC-POINTER-01 | Binding corpus must not cite `doc_architecture` for meaning/routing (non-binding classifications and reading-chain footers allowed) |
 | `steward-door-lockstep-audit` (+ `-test`) | **L** | `tools/steward_door_lockstep_audit.py` | — | `STEWARD_ENTRY_DOORS.md` cards and `steward_owner_clock_index.json` stay in lockstep with the boxed operative steward statements in core; a stale door misroutes a steward under pressure |
 | `materially-binding-act-record-validate` (+ `-test`) | **L** | `tools/materially_binding_act_record_validate.py` | — | Base-schema and fixture checks for the Chapter Three / Chapter Six Materially Binding Act Record |
-| `cs4-inspectable-action-log-validate` (+ `-test`) | **L** | `tools/cs4_inspectable_action_log_validate.py` | — | Schema self-check for the CS-27.305 §10 log contract (`implementation/schemas/`) |
+| `cs4-inspectable-action-log-validate` (+ `-test`) | **L** | `tools/cs4_inspectable_action_log_validate.py` | — | Schema self-check for the CS-21.305 §10 log contract (`implementation/schemas/`) |
 | `sentience-status-adjudication-record-validate` (+ `-test`) | **L** | `tools/sentience_status_adjudication_record_validate.py` | — | Schema self-check for the Sentience-Status Adjudication Record |
 | `section-label-anchor-audit` (+ `-test`) | **L** | `tools/section_label_anchor_audit.py` | SECTION-CITE-MATCH-01, SECTION-LABEL-ANCHOR-01, NAV-HEADING-SEQUENCE-01 | `§` / dotted-number link text must match the target heading and fragment; related cites need a current-numbering id; `core_*` numbered sibling headings must not duplicate or skip |
 | `section-cite-name-audit` (+ `-test`) | S | `tools/section_cite_name_audit.py` | SECTION-CITE-NAME-01 | Body-prose and table-row `§` / `§§` cites must carry a human-readable title (`tools/section_cite_name_table_baseline.json` can grandfather older table cites; it is currently empty); `--changed-only` in regression |
@@ -117,7 +117,7 @@ Load-bearing count: 17 targets (plus their tests). If only those pass, citations
 | `CORE-PLACEMENT` | Chapter Three | Correct band / §1–§3 home and structural invariants |
 | `CORE-GRAVITY` | Chapter Three | Institutional or procedural machinery absorbed into definitions |
 | `CORE-TRACE` | Chapter Two ↔ Five | Principle anchors and complete O/M/A/C traceability |
-| `CJS-PLACEMENT` | CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 | Operational clusters only in CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 (not CJS-0.110, CJS-31.105, CJS-3.140, and CJS-6.105) |
+| `CJS-PLACEMENT` | CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 | Operational clusters only in CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 (not CJS-0.110, CJS-25.105, CJS-3.140, and CJS-6.105) |
 | `CJS-TRACE` | Chapter Two ↔ CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 | Cluster trace metadata and guidepost triad completeness |
 | `CJS-CONSTITUTIONAL-CREEP` | CJS-3.105, CJS-3.110, CJS-3.115, CJS-3.120, CJS-3.125, CJS-3.130, and CJS-3.135 | OP rules matching Ch3 labels without Chapter Three pointers |
 | `IMPL-COMPETING-GLOSS` | CS / CI / CF | O/M/A/C-shaped gloss outside Chapter Three |

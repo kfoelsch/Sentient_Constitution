@@ -67,8 +67,8 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (2.040 §17.5),
   - [§17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard), and
   - [§17.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure);
-  - [Chapter Eighteen §4.4](core_18.000_violation_consequences.md#443-duty-to-resist) (18.000 §4.4) (*Duty to resist — violation rule and standing effects*);
-  - [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of a refusal*).
+  - [Chapter Twelve §4.4](core_12.000_violation_consequences.md#443-duty-to-resist) (18.000 §4.4) (*Duty to resist — violation rule and standing effects*);
+  - [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of a refusal*).
 - Read with:
   - [Stewardship](subcore_03.075_band_continuity.md#stewardship),
   - [Good Faith](subcore_03.070_band_accountability.md#good-faith),
@@ -562,8 +562,8 @@ Most disputes about responsibility turn on a few words: was the action necessary
 - Downstream: Principles:
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
   - [Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6);
-  - [Chapter Eight §4.4](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4) and
-  - [Chapter Ten §3](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) where attribution capability is materially required.
+  - [Subcore 8-B §4.4](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4) and
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3) where attribution capability is materially required.
 - Read with:
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
   - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity),
@@ -572,7 +572,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Due Process](subcore_03.070_band_accountability.md#due-process), and
   - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation).
 - Read with: [Chapter Two §16.4 Document at Action](core_02.040_stewardship_capacity_principles.md#164-document-at-action) (2.040 §16.4) (*the principle that the act makes its own Act Record*).
-- Read with: [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*default logging contract for mixed crews; not a Standing-Record substitute*).
+- Read with: [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action) (*default logging contract for mixed crews; not a Standing-Record substitute*).
 
 </details>
 
@@ -607,8 +607,8 @@ Most disputes about responsibility turn on a few words: was the action necessary
 
 - Downstream: Principles:
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
-  - [Chapter Eight §4.4](core_08.000_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4);
-  - [Chapter Ten §3](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3); and **
+  - [Subcore 8-B §4.4](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (8.000 §4.4);
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3); and **
   - [Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** where attributable action or audit-level responsibility is materially implicated.
 - Read with:
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action),
@@ -618,7 +618,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Transparency](subcore_03.085_band_oversight.md#transparency),
   - [Contestability](subcore_03.070_band_accountability.md#contestability), and
   - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint).
-- Read with: [CS-27.305 §10 inspectable attributable action](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action) (*default logging contract for mixed crews; internals are not a standing-measurement exemption*).
+- Read with: [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action) (*default logging contract for mixed crews; internals are not a standing-measurement exemption*).
 
 </details>
 
@@ -655,10 +655,10 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Chapter Two §16.4 Document at Action](core_02.040_stewardship_capacity_principles.md#164-document-at-action) (2.040 §16.4) (*the act makes its own Act Record*);
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
   - [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (6.000 §9);
-  - [Chapter Ten §3](core_10.000_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3);
-  - [Chapter Fourteen §6.4 Versioning](core_14.000_standing_assessment.md#64-versioning) (14.000 §6.4) and [§7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
-  - [Chapter Twenty-Two §5 Forum Cases: Intakes, Seats, Records, and Contests](core_22.000_forum.md#5-forum-cases-intakes-seats-records-and-contests) (22.000 §5); and
-  - [Chapter Twenty-Nine §7 Procedural Test 3](core_29.000_amendment_ratification.md#7-procedural-test-3--authority-chain-and-custody-validity) (29.000 §7) (*the records of a proposed amendment*).
+  - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (10.000 §3);
+  - [Subcore 10-B §6.4 Versioning](subcore_10.020_standing_assessment.md#64-versioning) (14.000 §6.4) and [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
+  - [Chapter Sixteen §5 Forum Cases: Intakes, Seats, Records, and Contests](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests) (22.000 §5); and
+  - [Chapter Twenty-Three §7 Procedural Test 3](core_23.000_amendment_ratification.md#7-procedural-test-3--authority-chain-and-custody-validity) (29.000 §7) (*the records of a proposed amendment*).
 - Read with:
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action),
   - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity),
@@ -686,18 +686,18 @@ Most disputes about responsibility turn on a few words: was the action necessary
     - **Reachable:** authorized reviewers can get to it through the official record path, and the public can as disclosure rules require. Privacy, confidentiality, and security rules decide who sees what. They never justify erasing the trail or making it unusable.
     - **Independent:** the sentient or system whose act is recorded does not control the record of that act. Its own logs, signatures, and attestations are inputs, not the official record.
   - A process may keep the official record as one piece or as a linked set. No duplicate official record is required.
-  - **Care scales** with the materiality of the act and, for a System, its class ([Chapter Eight §3 System Class Evaluation](core_08.000_system_alignment_certification_evaluation.md#3-system-class-evaluation)). An official record behind a materially binding act, or behind a higher-class System, needs custody and a version trail that a reviewer can trust without taking the operator's word. An official record behind a low-materiality matter may use a simpler trail, such as a plain change log. No scale removes attribution, the version trail, or the rule against editing a completed official record in place, for any official record a materially binding act rests on.
+  - **Care scales** with the materiality of the act and, for a System, its class ([Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation)). An official record behind a materially binding act, or behind a higher-class System, needs custody and a version trail that a reviewer can trust without taking the operator's word. An official record behind a low-materiality matter may use a simpler trail, such as a plain change log. No scale removes attribution, the version trail, or the rule against editing a completed official record in place, for any official record a materially binding act rests on.
   - **Out of scope:** A demand for one technical mechanism, for records that can never change, for identity exposure in every context, or for disclosure beyond what the disclosure rules require. A correction made as a visible new version is not alteration. What a given record must contain stays with its owner (for an Act Record, [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs)). Evidence that is not itself an official record stays with [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation).
 - **Not edited in place**
   - **Open and completed:** While the process that keeps an official record is still running, the official record may be amended, and each amendment is a new version that shows what changed. The official record is completed when the process enters its decision or closing entry. From then on the existing entries are not changed.
-  - **Four kinds of later version:** A later version may update the official record going forward, correct it back to when it was wrong, expire it for a completed decision context, or supersede it for a new decision context. Standing Records already work this way ([Chapter Fourteen §6.4 Versioning](core_14.000_standing_assessment.md#64-versioning)).
+  - **Four kinds of later version:** A later version may update the official record going forward, correct it back to when it was wrong, expire it for a completed decision context, or supersede it for a new decision context. Standing Records already work this way ([Subcore 10-B §6.4 Versioning](subcore_10.020_standing_assessment.md#64-versioning)).
   - **What a later version states:** It says what changed, who made the change, under what authority, on what verification materials, and at whose request.
   - **Old versions stay:** The version that was relied on remains reachable, marked as corrected or superseded, with the dates it was in force. A correction does not hide the error it corrects.
   - **New events are added, not written over:** Operating evidence, a later finding, a challenge and its result, and a later review attach to the completed official record as linked entries or as a new official record that links back to it.
   - **True dates:** Each version carries the date it was made. A version is never back-dated to look as if it was there earlier.
   - **Who may make a version:** Only the office that holds the official record, acting under published authority ([Record Seat](subcore_03.070_band_accountability.md#record-seat); [Record Custodian](subcore_03.070_band_accountability.md#record-custodian)). The sentient or system whose act is recorded, and anyone in its control line, may ask for a change but cannot make it. The request is logged whether or not it is acted on.
   - **Limits on what is shown apply to the view, not the official record:** Privacy, safety, or security limits change what a reader sees. The full version is kept for authorized reviewers, and the shown version says that something is withheld and why. Where a higher rule requires material to be removed, the removal is itself recorded: what kind of material, under what authority, and when.
-  - **A challenge does not freeze or erase the official record:** It stays inspectable, its prior versions stay, and its status shows that it is under challenge ([Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority)).
+  - **A challenge does not freeze or erase the official record:** It stays inspectable, its prior versions stay, and its status shows that it is under challenge ([Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority)).
 <a id="record-integrity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether an official record can still be relied on by someone who is not its keeper.
@@ -721,7 +721,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Twenty-Nine §6 Procedural Test 2](core_29.000_amendment_ratification.md#6-procedural-test-2--procedural-validity-and-publication-integrity) (29.000 §6) (*a proposed amendment*) and [§3.2 Proposal, Hearing, and Comment Window](core_29.000_amendment_ratification.md#32-proposal-hearing-and-comment-window) (29.000 §3.2);
+  - [Chapter Twenty-Three §6 Procedural Test 2](core_23.000_amendment_ratification.md#6-procedural-test-2--procedural-validity-and-publication-integrity) (29.000 §6) (*a proposed amendment*) and [§3.2 Proposal, Hearing, and Comment Window](core_23.000_amendment_ratification.md#32-proposal-hearing-and-comment-window) (29.000 §3.2);
   - [Subcore 7-B §6 Timing, Response, and No Veto](subcore_07.020_public_policy_office.md#6-timing-response-and-no-veto) (*an evaluation published before the decision*); and
   - any other process that decides a proposed [materially binding act](subcore_03.070_band_accountability.md#materially-binding-act) after a public response.
 - Read with:
@@ -740,13 +740,13 @@ Most disputes about responsibility turn on a few words: was the action necessary
 
 - **What it is**
   - **In scope:** The requirement that a proposal for a materially binding act, where the process that decides it is open to response from the public or from the sentients it affects, is published so that they can understand it and answer it before the decision. It has five parts:
-    - **Complete:** the publication states the exact text or terms proposed, the scope of the proposal, the provisions or rules it changes, who is likely to be affected and how, its expected effects, and the route to respond and to contest it. The owning process may add elements (for an amendment, the justification in [Chapter Twenty-Nine §5](core_29.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability)).
+    - **Complete:** the publication states the exact text or terms proposed, the scope of the proposal, the provisions or rules it changes, who is likely to be affected and how, its expected effects, and the route to respond and to contest it. The owning process may add elements (for an amendment, the justification in [Chapter Twenty-Three §5 Burden of Justification and Public Traceability](core_23.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability)).
     - **Specific:** it is detailed enough that an affected reader can tell what would change for them and can raise a concrete objection.
     - **Timely:** it is published at least the named response window before the decision. The owning process names the window and scales it with materiality; the window may not be shorter than any floor the owning process or [CJS-0.105 §4 Time-Window Names](corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-4-time-window-names) sets.
     - **On the official record path:** it is published on the official record path the decision will rest on, and kept under [Record Integrity](subcore_03.070_band_accountability.md#record-integrity), so that what was proposed, when, and in what wording can be rebuilt later.
     - **Current:** every later change to the proposal is published as a dated, recorded change. A material change restarts the response window from its date, unless the owning process sets a shorter window for the change that still allows a real answer.
   - **Care scales** with the materiality of the act. A low-materiality matter may use a short notice and a short window. No scale removes the exact text, the recorded changes, or the route to respond for an act that is materially binding.
-  - **Out of scope:** Whether the proposal is right on the merits, who may decide it, and how responses are weighed. Those stay with the owning process. Emergency measures follow their own rules ([Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden)); this requirement applies in full to any decision to continue them or make them permanent. Material withheld under privacy, safety, or security rules is described but not shown, as [Record Integrity](subcore_03.070_band_accountability.md#record-integrity) provides for the view of an official record.
+  - **Out of scope:** Whether the proposal is right on the merits, who may decide it, and how responses are weighed. Those stay with the owning process. Emergency measures follow their own rules ([Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden)); this requirement applies in full to any decision to continue them or make them permanent. Material withheld under privacy, safety, or security rules is described but not shown, as [Record Integrity](subcore_03.070_band_accountability.md#record-integrity) provides for the view of an official record.
 <a id="publication-integrity-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Participation measurement family](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family) — used together to test whether those affected could know and answer the proposal before it was decided.
@@ -777,8 +777,8 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Transparency](subcore_03.085_band_oversight.md#transparency),
   - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation),
   - [Publication Integrity](subcore_03.070_band_accountability.md#publication-integrity) (*being able to answer a proposal before it is decided*), and
-  - [Chapter Twenty-One §4.1 Rights-Floor Waivers and Unconstitutional Contract Terms](core_21.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms) (21.000 §4.1).
-- Downstream: [Chapter Twenty-Nine §8 Procedural Test 4](core_29.000_amendment_ratification.md#8-procedural-test-4--contestability-and-independent-review-validity) (29.000 §8) (*a proposed amendment*).
+  - [Chapter Fifteen §4.1 Rights-Floor Waivers and Unconstitutional Contract Terms](core_15.000_misconduct_pattern_applications.md#41-rights-floor-waivers-and-unconstitutional-contract-terms) (21.000 §4.1).
+- Downstream: [Chapter Twenty-Three §8 Procedural Test 4](core_23.000_amendment_ratification.md#8-procedural-test-4--contestability-and-independent-review-validity) (29.000 §8) (*a proposed amendment*).
 
 </details>
 
@@ -827,7 +827,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Merits Determination](subcore_03.070_band_accountability.md#merits-determination),
   - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness), and
   - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation).
-- Read with: owner layers in [core_22.000_forum.md](core_22.000_forum.md), [CF-22.420](corpus_forum/cf_22.420_appeal_secondary_review_exhaustion_pathways.md#cf-22420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*), [CI-22.205](corpus_institutions/ci_22.205_procedure_integrity_contestability_secondary_review.md#ci-22205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*), and [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+- Read with: owner layers in [core_16.000_forum.md](core_16.000_forum.md), [CF-16.420](corpus_forum/cf_16.420_appeal_secondary_review_exhaustion_pathways.md#cf-16420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*), [CI-16.205](corpus_institutions/ci_16.205_procedure_integrity_contestability_secondary_review.md#ci-16205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*), and [CI-19.210](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md#ci-19210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 
 </details>
 
@@ -926,7 +926,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#class-repair-window) (23.000 §5) (*class repair window*).
+- Canonical owner: [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#class-repair-window) (23.000 §5) (*class repair window*).
 - Upstream: [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) (*applies the timeliness leg to the repair of constitutional processes*); **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*).
 - Cluster component: none.
 - Read with:
@@ -946,10 +946,10 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - **Out of scope:**
     - disputes about the merits of a matter, which run on the materiality tier of the matter;
     - a breakdown for which a more specific rule sets its own window; or
-    - the figures themselves, which [CF-22.445 §5.1](corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-51-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
+    - the figures themselves, which [CF-16.445 §5.1](corpus_forum/cf_16.445_performance_backlog_publication_accessibility.md#cf-16445-51-stage-targets-and-outer-bounds) (*Stage Targets and Outer Bounds*) states —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution); [Materiality Tier](subcore_03.075_band_continuity.md#materiality-tier).
-  - The rule is stated in [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#class-repair-window); this entry is the Chapter Three meaning only.
+  - The rule is stated in [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#class-repair-window); this entry is the Chapter Three meaning only.
 <a id="class-repair-window-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — checks whether a matter moves toward resolution and is decided within the time its importance and urgency require.
@@ -975,9 +975,9 @@ Most disputes about responsibility turn on a few words: was the action necessary
 - Upstream: [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) (*implements timeliness leg for resolution pathways*).
 - Downstream: Timeliness measurement family (*Timely Resolution as constitutional measurement*); **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*) (
   - [core_04.040_rights_part_e.md](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor));
-  - [Chapter Twenty-Three §5](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) (*materiality tiers and pipeline milestones*); **Article XIV-B** (*Right to Redress and Remedy*);
-  - [Chapter Nineteen §5.2](core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) (19.000 §5.2) (*remedy-organ durability*);
-  - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*forum intake and routing*).
+  - [Chapter Seventeen §5](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (23.000 §5) (*materiality tiers and pipeline milestones*); **Article XIV-B** (*Right to Redress and Remedy*);
+  - [Chapter Thirteen §5.2](core_13.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) (19.000 §5.2) (*remedy-organ durability*);
+  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*forum intake and routing*).
 - Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](subcore_03.040_apex_accountability_leg.md#accountability).
 - Read with:
   - [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution),
@@ -1001,7 +1001,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 - **How to measure and assess**
   - **Primary measure:** [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — checks whether a matter moves toward resolution and is decided within the time its importance and urgency require.
 
-    **Primary assessment:** Apply the materiality tiers and pipeline-stage milestones in [Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*). Measure timely access and verification, not just the number of matters processed.
+    **Primary assessment:** Apply the materiality tiers and pipeline-stage milestones in [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*). Measure timely access and verification, not just the number of matters processed.
   - **Secondary measure:** [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional), [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution), [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways), and [Contestability](subcore_03.070_band_accountability.md#contestability) — co-measures that can defeat timely resolution even when pipeline metrics appear on track.
 
     **Secondary assessment:** When evaluating the primary trace, read with [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution), [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways), [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency), [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden), and [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness). Speed does not excuse skipping checked facts under [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md), the joint requirements of **Article XXI-B** (*Restriction Floors*), or core challenge and appeal rights.
@@ -1029,15 +1029,15 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*primary-stakes routing and lawfully constituted merits panels*); **CJS-6.105 §9** (*Boundary between Support Roles and Merits Decisions*).
+- Downstream: [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*primary-stakes routing and lawfully constituted merits panels*); **CJS-6.105 §9** (*Boundary between Support Roles and Merits Decisions*).
 - Read with:
   - [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution),
   - [Contestability](subcore_03.070_band_accountability.md#contestability),
   - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness), the
-  - [Chapter Fifteen §8 unified scale](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*numeric Violation Axis slot assignment from verified impact*),
-  - [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*), and owner layers in
-  - [CF-22.425](corpus_forum/cf_22.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-22425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) and
-  - [CI-25.205](corpus_institutions/ci_25.205_institutional_accountability_sanctions.md#ci-25205-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*).
+  - [Subcore 10-D §8 unified scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*numeric Violation Axis slot assignment from verified impact*),
+  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) (*corresponding anti-constitutional-misconduct designation for qualifying slots 7–9*), and owner layers in
+  - [CF-16.425](corpus_forum/cf_16.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-16425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) and
+  - [CI-19.205](corpus_institutions/ci_19.205_institutional_accountability_sanctions.md#ci-19205-institutional-accountability-and-sanctions) (*Institutional accountability and sanctions*).
 
 </details>
 
@@ -1065,7 +1065,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
     - coordination;
     - sequencing; or
     - other procedural housekeeping — including [Stays](subcore_03.070_band_accountability.md#stay).
-  - The final numeric Violation Axis slot is a Chapter Fifteen §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified-scale measurement based on verified impact. [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) governs only the matching anti-constitutional-misconduct designation when a Chapter Fifteen slot 7, 8, or 9 record qualifies. Neither outcome replaces ordinary forum authority to decide the merits or becomes a dispute-resolution pathway decision.
+  - The final numeric Violation Axis slot is a Chapter Fifteen §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified-scale measurement based on verified impact. [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) governs only the matching anti-constitutional-misconduct designation when a Chapter Fifteen slot 7, 8, or 9 record qualifies. Neither outcome replaces ordinary forum authority to decide the merits or becomes a dispute-resolution pathway decision.
   - **Out of scope:** procedural housekeeping, routing, scheduling, monitoring, evidence preservation, or a [Stay](subcore_03.070_band_accountability.md#stay) — none of which settle liability, entitlement, validity, mandate, remedy, or a comparable rights-affecting disposition.
 <a id="merits-determination-a"></a>
 - **How to measure and assess**
@@ -1078,7 +1078,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
     - preserves the current position; or
     - coordinates review.
 
-    A [Stay](subcore_03.070_band_accountability.md#stay) only pauses or limits action; it never settles the merits. Settling the main issue requires a separate [Merits Determination](subcore_03.070_band_accountability.md#merits-determination) from a sentient or body with lawful authority to make it. Monitoring findings are also procedural unless a governing document expressly gives the monitor limited authority to decide the merits. [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) explains how to route primary stakes and questions reserved for a merits decision; owner layers identify the questions reserved for each forum family.
+    A [Stay](subcore_03.070_band_accountability.md#stay) only pauses or limits action; it never settles the merits. Settling the main issue requires a separate [Merits Determination](subcore_03.070_band_accountability.md#merits-determination) from a sentient or body with lawful authority to make it. Monitoring findings are also procedural unless a governing document expressly gives the monitor limited authority to decide the merits. [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) explains how to route primary stakes and questions reserved for a merits decision; owner layers identify the questions reserved for each forum family.
 <a id="merits-determination-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant for support, oversight, forensic, investigative, or monitoring roles to issue binding merits outcomes without separate lawful authority. Those roles cannot pre-decide substantive issues assigned to a lawfully constituted merits forum, and routing, intake, or contest-integrity findings cannot be treated as final merits decisions. A merits label that does not actually resolve a substantive issue in the matter this Constitution governs is also non-compliant.
@@ -1093,10 +1093,10 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Nine §3](core_09.000_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (9.000 §3) (*supervisory sequence, component referral, and reliance limits during contest*);
-  - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*transfer, certification, and interim relief*);
-  - [**CF-22.420**](corpus_forum/cf_22.420_appeal_secondary_review_exhaustion_pathways.md#cf-22420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*) and
-  - **CF-22.465** (*Standard records, forms, and evidence artifacts*).
+  - [Subcore 8-D §3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (9.000 §3) (*supervisory sequence, component referral, and reliance limits during contest*);
+  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*transfer, certification, and interim relief*);
+  - [**CF-16.420**](corpus_forum/cf_16.420_appeal_secondary_review_exhaustion_pathways.md#cf-16420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*) and
+  - **CF-16.465** (*Standard records, forms, and evidence artifacts*).
 - Read with:
   - [Merits Determination](subcore_03.070_band_accountability.md#merits-determination),
   - [Contestability](subcore_03.070_band_accountability.md#contestability),
@@ -1142,7 +1142,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
     - use informal delay or silence instead of a documented Stay when one is required;
-    - keep a Stay indefinite without a documented review trigger or review begun inside the **prompt-review window** ([Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*));
+    - keep a Stay indefinite without a documented review trigger or review begun inside the **prompt-review window** ([Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*));
     - block [Contestability](subcore_03.070_band_accountability.md#contestability) or required component review;
     - treat a Stay as final approval or a merits decision;
     - label a [Merits Determination](subcore_03.070_band_accountability.md#merits-determination) as a Stay;
@@ -1160,8 +1160,8 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Fourteen §8.3 Challenge Received on the Standing Record](core_14.000_standing_assessment.md#83-challenge-received-on-the-standing-record) (14.000 §8.3) (*the status, what it keeps, and what only an order changes*); read with [Chapter Fourteen §6.1 Minimum Record Contents](core_14.000_standing_assessment.md#61-minimum-record-contents) (14.000 §6.1) (*review status*).
-- Downstream: [Chapter Twenty-Two §5 Forum Cases: Intakes, Seats, Records, and Contests](core_22.000_forum.md#5-forum-cases-intakes-seats-records-and-contests) (22.000 §5) (*a challenge raised on a Standing Record before any filing*).
+- Canonical owner: [Subcore 10-B §8.3 Challenge Received on the Standing Record](subcore_10.020_standing_assessment.md#83-challenge-received-on-the-standing-record) (14.000 §8.3) (*the status, what it keeps, and what only an order changes*); read with [Subcore 10-B §6.1 Minimum Record Contents](subcore_10.020_standing_assessment.md#61-minimum-record-contents) (14.000 §6.1) (*review status*).
+- Downstream: [Chapter Sixteen §5 Forum Cases: Intakes, Seats, Records, and Contests](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests) (22.000 §5) (*a challenge raised on a Standing Record before any filing*).
 - Read with:
   - [Contestability](subcore_03.070_band_accountability.md#contestability),
   - [Contest Seat](subcore_03.070_band_accountability.md#contest-seat),
@@ -1187,7 +1187,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
     - a finding that the official record is wrong, which only a decision on the challenge can reach —
     those sit under their own homes, not under this entry.
   - **Depends on:** [Contestability](subcore_03.070_band_accountability.md#contestability); [Contest Seat](subcore_03.070_band_accountability.md#contest-seat); [Record Integrity](subcore_03.070_band_accountability.md#record-integrity).
-  - How a challenge is logged, marked, and routed is stated in [Chapter Fourteen §8.3 Challenge Received on the Standing Record](core_14.000_standing_assessment.md#83-challenge-received-on-the-standing-record); this entry is the Chapter Three meaning only.
+  - How a challenge is logged, marked, and routed is stated in [Subcore 10-B §8.3 Challenge Received on the Standing Record](subcore_10.020_standing_assessment.md#83-challenge-received-on-the-standing-record); this entry is the Chapter Three meaning only.
 <a id="under-challenge-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — used alongside any other relevant measures to assess whether a challenged record stays reviewable and is relied on only as ordered.
@@ -1214,15 +1214,15 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway](core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) (23.000 §4).
+- Canonical owner: [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) (23.000 §4).
 - Downstream:
   - [**Article XI-E** (*Institutional Formation and Business Creation*)](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation);
   - [Chapter Five §7 Formation Check: Office-Holder Standing and Authenticity](core_05.000_charters.md#7-formation-check-office-holder-standing-and-authenticity) (5.000 §7);
-  - [Chapter Eighteen §4.6 Interim Holds and Locks](core_18.000_violation_consequences.md#46-interim-holds-and-locks) (18.000 §4.6);
+  - [Chapter Twelve §4.6 Interim Holds and Locks](core_12.000_violation_consequences.md#46-interim-holds-and-locks) (18.000 §4.6);
   - [**Article XX-B** (*Contestability and Proportional Restriction Limits*)](core_04.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits);
   - [**Article XIII-A** (*Non-Capture Safeguards*)](core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards);
-  - **CF-22.410 §17** (*Interim Hold on a Panel Member or Seat Holder*);
-  - [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
+  - **CF-16.410 §17** (*Interim Hold on a Panel Member or Seat Holder*);
+  - [Subcore 21-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_21.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways).
 - Read with:
   - [Stay](subcore_03.070_band_accountability.md#stay),
   - [Standing Lock](subcore_03.070_band_accountability.md#standing-lock),
@@ -1242,7 +1242,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 *In plain terms: an Interim Hold is a short, narrow, reasoned limit on one named sentient's use of one named authority. An independent forum puts it in place on specific verified facts while the full facts are being checked. It is not a violation finding, a lock, or a penalty, and it ends on its own clock.*
 
 - **What it is**
-  - **In scope:** An interim order by a forum with jurisdiction that limits one named sentient's exercise of one named authority, pathway, or matter under the Interim Hold grounds in [Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway](core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway), while the facts are verified. It states the specific Interim Hold ground, scope, lapse date, and review route, and it uses the lightest measure that works. It may:
+  - **In scope:** An interim order by a forum with jurisdiction that limits one named sentient's exercise of one named authority, pathway, or matter under the Interim Hold grounds in [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway), while the facts are verified. It states the specific Interim Hold ground, scope, lapse date, and review route, and it uses the lightest measure that works. It may:
     - require disclosure and monitoring;
     - require an independent co-holder or second key;
     - require step-aside from one matter;
@@ -1271,7 +1271,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <a id="interim-hold-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
-    - issue a hold without meeting the Interim Hold grounds in [Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway](core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway), or on mere belief, identity, membership of a group, dissent that does not call for harm or discriminatory treatment of others, or protected reporting (see [Chapter Two §7.5 Expression and the Harm Line](core_02.000_values_principles.md#75-expression-and-the-harm-line));
+    - issue a hold without meeting the Interim Hold grounds in [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway), or on mere belief, identity, membership of a group, dissent that does not call for harm or discriminatory treatment of others, or protected reporting (see [Chapter Two §7.5 Expression and the Harm Line](core_02.000_values_principles.md#75-expression-and-the-harm-line));
     - have the subject's own body, appointing authority, or control line issue it;
     - reach beyond the one named authority or into an excluded pathway;
     - continue it past its lapse date or past the single permitted extension;
@@ -1290,8 +1290,8 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty-Six §3.1 Whether to Act](core_26.000_special_enforcement.md#enforcement-record) (26.000 §3.1) (*Enforcement Record*).
-- Upstream: **Article XXI** (*Justice After Verified Violation*); [Chapter Twenty-Five §8 Routing to Special Enforcement](core_25.000_enforcement.md#8-routing-to-special-enforcement) (25.000 §8).
+- Canonical owner: [Chapter Twenty §3.1 Whether to Act](core_20.000_special_enforcement.md#enforcement-record) (26.000 §3.1) (*Enforcement Record*).
+- Upstream: **Article XXI** (*Justice After Verified Violation*); [Chapter Nineteen §8 Routing to Special Enforcement](core_19.000_enforcement.md#8-routing-to-special-enforcement) (25.000 §8).
 - Cluster component: none.
 - Read with:
   - [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record),
@@ -1318,10 +1318,10 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - **Out of scope:**
     - the outcome and findings it carries out, which the merits decision sets;
     - an [Interim Hold](subcore_03.070_band_accountability.md#interim-hold), which limits an authority while facts are still being verified; and
-    - the floors for each step, which [Chapter Twenty-Six](core_26.000_special_enforcement.md#chapter-twenty-six-special-enforcement) states —
+    - the floors for each step, which [Chapter Twenty](core_20.000_special_enforcement.md#chapter-twenty-special-enforcement) states —
     those sit under their own homes, not under this entry.
-  - A challenge goes to the Standing Record it rests on, under [Chapter Twenty-Two §5.5 Contests of Standing Records](core_22.000_forum.md#55-contests-of-standing-records), not to the Enforcement Record or to a single step.
-  - The rule is stated in [Chapter Twenty-Six §3.1 Whether to Act](core_26.000_special_enforcement.md#enforcement-record); this entry is the Chapter Three meaning only.
+  - A challenge goes to the Standing Record it rests on, under [Chapter Sixteen §5.5 Contests of Standing Records](core_16.000_forum.md#55-contests-of-standing-records), not to the Enforcement Record or to a single step.
+  - The rule is stated in [Chapter Twenty §3.1 Whether to Act](core_20.000_special_enforcement.md#enforcement-record); this entry is the Chapter Three meaning only.
 <a id="enforcement-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?*
@@ -1347,7 +1347,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: [Chapter Five §7 Formation Check: Office-Holder Standing and Authenticity](core_05.000_charters.md#7-formation-check-office-holder-standing-and-authenticity) (5.000 §7) (*covered offices, standing and authenticity checks, and staff safeguards*).
-- Forum test: [Chapter Eleven §4 Whole-Institution Certification Evaluation](core_11.000_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (item 7).
+- Forum test: [Subcore 9-B §4 Whole-Institution Certification Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation) (item 7).
 - Read with: [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*), [Material Control Line](subcore_03.070_band_accountability.md#material-control-line), and [Interim Hold](subcore_03.070_band_accountability.md#interim-hold).
 
 </details>
@@ -1435,7 +1435,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18) (diffuse responsibility and capture); [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (systemic and cumulative evaluation).
+- Downstream: Principles: [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18) (diffuse responsibility and capture); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (systemic and cumulative evaluation).
 - Read with: the
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](subcore_03.040_apex_accountability_leg.md#accountability),
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
@@ -1543,8 +1543,8 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Nine §4.3 Remediation Readiness: Willingness and Capacity to Correct](core_09.000_system_alignment_certification_forum_process_outcomes.md#43-remediation-readiness-willingness-and-capacity-to-correct) (systems); [Chapter Twelve §4.4](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution) (institutions).
-- Forum routing: [Chapter Twenty-Three §3.5 Constitutional alignment certification and validation](core_23.000_forum_families_escalation_timeliness_support.md#35-integrity-forums) and [Chapter Twenty-Three §4 Escalation and Questions for Ruling](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling).
+- Canonical owner: [Subcore 8-D §4.3 Remediation Readiness: Willingness and Capacity to Correct](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#43-remediation-readiness-willingness-and-capacity-to-correct) (systems); [Subcore 9-D §4.4](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution) (institutions).
+- Forum routing: [Chapter Seventeen §3.5 Constitutional alignment certification and validation](core_17.000_forum_families_escalation_timeliness_support.md#35-integrity-forums) and [Chapter Seventeen §4 Escalation and Questions for Ruling](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling).
 - Read with: [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation), [Proportionality](subcore_03.070_band_accountability.md#proportionality), and [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution).
 
 </details>
@@ -1575,8 +1575,8 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Two §6.1](core_02.000_values_principles.md#61-correction-and-remedy) (2.000 §6.1) (*Correction and Remedy*); applied to standing effects in [Chapter Nineteen §5](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (19.000 §5) (*Enforcement Realism and Remedy Systems*).
-- Implementation owner: [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
+- Canonical owner: [Chapter Two §6.1](core_02.000_values_principles.md#61-correction-and-remedy) (2.000 §6.1) (*Correction and Remedy*); applied to standing effects in [Chapter Thirteen §5](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (19.000 §5) (*Enforcement Realism and Remedy Systems*).
+- Implementation owner: [CI-19.210](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md#ci-19210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Cluster component: [Accountability, Contestability, and Redress Pathways](subcore_03.070_band_accountability.md#accountability-contestability-and-redress-pathways)
 - Read with:
   - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation),
@@ -1584,7 +1584,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution),
   - [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm),
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), **Article XIV-B** (*Right to Redress and Remedy*), and
-  - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*primary-stakes forum supervision*).
+  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*primary-stakes forum supervision*).
 
 </details>
 
@@ -1625,7 +1625,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — used alongside any other relevant measures to assess responsibility and whether action happens without harmful delay.
 
-    **Primary assessment:** Apply [Chapter Nineteen §5 Enforcement Realism and Remedy Systems](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems), [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation), [Contestability](subcore_03.070_band_accountability.md#contestability), [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution), and [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm) where trauma is materially implicated. Look for:
+    **Primary assessment:** Apply [Chapter Thirteen §5 Enforcement Realism and Remedy Systems](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems), [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation), [Contestability](subcore_03.070_band_accountability.md#contestability), [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution), and [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm) where trauma is materially implicated. Look for:
     - paper-only remedy pathways;
     - deliberately created backlog;
     - inaccessible intake;
@@ -1634,7 +1634,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
     - dependence on one fragile point; and
     - remedy costs shifted to affected parties or public systems when responsible actors can lawfully bear them.
 
-    Capacity, measurement, and milestone methods may be published under [Technical Forum Domains](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains). The primary-stakes forum family remains accountable under [Chapter Twenty-Two](core_22.000_forum.md#4-default-venue-and-primary-stakes) for staffing, funding, backlog, succession, and performance.
+    Capacity, measurement, and milestone methods may be published under [Technical Forum Domains](core_17.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains). The primary-stakes forum family remains accountable under [Chapter Sixteen](core_16.000_forum.md#4-default-venue-and-primary-stakes) for staffing, funding, backlog, succession, and performance.
 <a id="remedy-system-constitutional-c"></a>
 <a id="remedy-system-c"></a>
 - **What must hold**
@@ -1705,7 +1705,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 - Downstream: Principles:
   - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (emergency / rights-collision read-with, including
   - [**Article XXVII** (*Timely Retrospective Review and Restorative Alignment*)](core_04.040_rights_part_e.md#article-xxvii-timely-retrospective-review-and-restorative-alignment) and
-  - [**Chapter Twenty-Three §5.1**](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1) (*Emergency Measures and Continuation Burden*));
+  - [**Chapter seventeen §5.1**](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1) (*Emergency Measures and Continuation Burden*));
   - [13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles) (**Proportionality**, **Necessity**, bounded emergency carve-outs read with **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*)).
 - Read with: the
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](subcore_03.040_apex_accountability_leg.md#accountability),
@@ -1739,7 +1739,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
     - [Contestability](subcore_03.070_band_accountability.md#contestability); and
     - later audit.
 
-    Procedural emergency controls remain in [Chapter Twenty-Three §5.1](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*), and owner-layer governance implementation. Implementation-layer contracts may add detail but cannot narrow [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) or [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint).
+    Procedural emergency controls remain in [Chapter Seventeen §5.1](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*), and owner-layer governance implementation. Implementation-layer contracts may add detail but cannot narrow [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) or [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint).
 <a id="force-majeure-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:** It is non-compliant to:
@@ -1780,7 +1780,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) and [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), where reporting supplies safety, truth, accountability, or material-risk evidence.
+- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) and [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), where reporting supplies safety, truth, accountability, or material-risk evidence.
 - Cluster component: [the dependent cluster *Protected Reporting and Anti-Retaliation*](subcore_03.070_band_accountability.md#protected-reporting-and-anti-retaliation).
 - Read with:
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
@@ -1872,7 +1872,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles: [Chapter Two §7 Freedom (Bounded Agency)](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7); [Chapter Two §7.3 Dissent and Peaceful Protest](core_02.000_values_principles.md#73-dissent-and-peaceful-protest) (2.000 §7.3) (dissent is not subversion).
-- Canonical owner: this definition states what subversion is. [Chapter Twenty §5](core_20.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (20.000 §5) for criteria 5 and 6 (*Insurrection or material forcible subversion* and *Operative nullification*), and [Chapter Twenty-One §7.1](core_21.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (21.000 §7.1) apply it to misconduct designation. They do not redefine it.
+- Canonical owner: this definition states what subversion is. [Chapter Fourteen §5](core_14.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (20.000 §5) for criteria 5 and 6 (*Insurrection or material forcible subversion* and *Operative nullification*), and [Chapter Fifteen §7.1](core_15.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (21.000 §7.1) apply it to misconduct designation. They do not redefine it.
 - Rights-Floor read-with: **[Article XI-D](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)**.
 - Read with:
   - [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation),
@@ -2019,11 +2019,11 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 
 - Downstream:
   - [Chapter Six §4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
-  - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); Chapter Twenty-Two forum anti-self-judging;
+  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); Chapter Twenty-Two forum anti-self-judging;
   - **CI-6.205 §2** (*Functional Separation Lanes*);
-  - **CI-27.205 §6** (*Seat catalog*);
+  - **CI-21.205 §6** (*Seat catalog*);
   - **CI-6.210** (*Conflict, integrity, anti-capture, and anti-corruption*); and
-  - **CF-22.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
+  - **CF-16.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Governance](subcore_03.070_band_accountability.md#governance),
@@ -2078,12 +2078,12 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 - Downstream:
   - [Chapter Six §4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
   - [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) for influence-contact boundaries, and [Article XIII-C](core_04.010_rights_part_b.md#article-xiii-c-conflicts-of-interest-gifts-and-benefits) (*Conflicts of Interest, Gifts, and Benefits*) for post-service and prospective-role conflicts;
-  - [Chapter Twenty-Seven §3.2.4](core_27.000_governance.md#324-selection-funding-boundaries) (27.000 §3.2.4) (*Selection-Funding Boundaries*) for selection-funding boundaries;
-  - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
-  - [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways);
+  - [Chapter Twenty-One §3.2.4](core_21.000_governance.md#324-selection-funding-boundaries) (27.000 §3.2.4) (*Selection-Funding Boundaries*) for selection-funding boundaries;
+  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
+  - [Subcore 21-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_21.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways);
   - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*);
   - **CJS-3.110 §6** (*integrity assurance and resilience operations*); and
-  - **CF-22.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
+  - **CF-16.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Material Control Line](subcore_03.070_band_accountability.md#material-control-line),
@@ -2136,11 +2136,11 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 
 - Downstream:
   - [Chapter Six §4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
-  - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); Chapter Twenty-Two forum anti-self-judging;
+  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); Chapter Twenty-Two forum anti-self-judging;
   - **CI-6.205 §2** (*Functional Separation Lanes*);
-  - **CI-27.205 §6** (*Seat catalog*);
+  - **CI-21.205 §6** (*Seat catalog*);
   - **CI-6.210** (*Conflict, integrity, anti-capture, and anti-corruption*); and
-  - **CF-22.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
+  - **CF-16.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Material Control Line](subcore_03.070_band_accountability.md#material-control-line),
@@ -2197,8 +2197,8 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 - Downstream:
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) (*operative separation and incompatibility rules*);
   - [Chapter Six §4 Independence, conflict, and control lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
-  - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); and
-  - **CI-27.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
+  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); and
+  - **CI-21.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Material Control Line](subcore_03.070_band_accountability.md#material-control-line),
@@ -2244,8 +2244,8 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 - Downstream:
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) (*operative separation and incompatibility rules*);
   - [Chapter Six §4 Independence, conflict, and control lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
-  - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); and
-  - **CI-27.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
+  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); and
+  - **CI-21.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat),
@@ -2289,11 +2289,11 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
+  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
   - [Chapter Five §6 The Charter Role Map and Standing-Record Custody](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody) (5.000 §6);
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*); and
-  - **CF-22.415 §9** (*Backup Record Authority*).
+  - **CF-16.415 §9** (*Backup Record Authority*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Standing Record](subcore_03.070_band_accountability.md#standing-record),
@@ -2313,7 +2313,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 *In plain terms: the Record-Opening Authority is the body that checks the facts and decides whether a Standing Record may be opened, corrected, ended, or replaced. It holds the Verify-or-Authorize Seat for that official record. It does not keep the official record, which is the Record Custodian's job, and it does not hear a challenge to the official record, which is the Contest Seat's job. It cannot be the official record's subject, the party claiming or accusing, the challenger, or anyone who controls or is controlled by them. If a Chartered Party's own map names none, or cannot fill the seat, the Backup Record Authority does the job, so nobody's record waits on the Chartered Party.*
 
 - **What it is**
-  - **In scope:** The body that holds the [Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat) for a [Standing Record](subcore_03.070_band_accountability.md#standing-record). It is named and its authority published before it acts. It verifies the factual basis of an opening, correction, expiry, or supersession and authorizes it, and it names itself on the official record with its reason. It may be an office or role placed by a [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map), a forum acting as a record-opening authority, a body that relies on the official record but has no stake in how it comes out and no dealing with the subject, a claimant, or a challenger that gives them practical power over it, or the Backup Record Authority (**CF-22.415 §9** (*Backup Record Authority*)), which is the default where a System Charter or Institutional Charter names none or has a gap.
+  - **In scope:** The body that holds the [Verify-or-Authorize Seat](subcore_03.070_band_accountability.md#verify-or-authorize-seat) for a [Standing Record](subcore_03.070_band_accountability.md#standing-record). It is named and its authority published before it acts. It verifies the factual basis of an opening, correction, expiry, or supersession and authorizes it, and it names itself on the official record with its reason. It may be an office or role placed by a [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map), a forum acting as a record-opening authority, a body that relies on the official record but has no stake in how it comes out and no dealing with the subject, a claimant, or a challenger that gives them practical power over it, or the Backup Record Authority (**CF-16.415 §9** (*Backup Record Authority*)), which is the default where a System Charter or Institutional Charter names none or has a gap.
   - **Out of scope:** The Record Custodian that enters and holds the official record. The Contest Seat that hears a challenge. A registrar that files and receipts. A body that only supplies inputs such as a recorder's statement, a log, or a photograph. A forum's merits decision. Any body that only requests the official record.
 <a id="record-opening-authority-a"></a>
 - **How to measure and assess**
@@ -2340,8 +2340,8 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 - Downstream:
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) (*operative separation and incompatibility rules*);
   - [Chapter Six §4 Independence, conflict, and control lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
-  - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); and
-  - **CI-27.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
+  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7); and
+  - **CI-21.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat),
@@ -2384,10 +2384,10 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
+  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
   - [Chapter Five §6 The Charter Role Map and Standing-Record Custody](core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody) (5.000 §6);
   - **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*); and
-  - **CF-22.415 §11** (*Backup Record Custodian*).
+  - **CF-16.415 §11** (*Backup Record Custodian*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Record Seat](subcore_03.070_band_accountability.md#record-seat),
@@ -2406,7 +2406,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 *In plain terms: the Record Custodian is the body that enters, keeps, and amends a Standing Record after an authority has authorized it. It keeps what was verified. It does not verify, and it does not hear a challenge. It cannot be the official record's subject, a claimant, a challenger, or anyone who controls or is controlled by them.*
 
 - **What it is**
-  - **In scope:** The body that holds the [Record Seat](subcore_03.070_band_accountability.md#record-seat) for a [Standing Record](subcore_03.070_band_accountability.md#standing-record): it enters each authorized version, holds it, controls versioning, publishes the challenge path, and answers for the official record's continuity. It may be placed by a [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map), be a substitute holder for one official record, or be the Backup Record Custodian (**CF-22.415 §11** (*Backup Record Custodian*)).
+  - **In scope:** The body that holds the [Record Seat](subcore_03.070_band_accountability.md#record-seat) for a [Standing Record](subcore_03.070_band_accountability.md#standing-record): it enters each authorized version, holds it, controls versioning, publishes the challenge path, and answers for the official record's continuity. It may be placed by a [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map), be a substitute holder for one official record, or be the Backup Record Custodian (**CF-16.415 §11** (*Backup Record Custodian*)).
   - **Out of scope:** The [Record-Opening Authority](subcore_03.070_band_accountability.md#record-opening-authority) that verifies and authorizes. The Contest Seat. A registrar that files and receipts. Incidental storage or a copy held without authority over the official record.
 <a id="record-custodian-a"></a>
 - **How to measure and assess**
@@ -2433,9 +2433,9 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 - Downstream:
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) (*operative separation and incompatibility rules*);
   - [Chapter Six §4 Independence, conflict, and control lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines) (6.000 §4);
-  - [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
-  - [Chapter Twenty-Two Forums and Jurisdiction](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000); and
-  - **CI-27.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
+  - [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7);
+  - [Chapter Sixteen Forums and Jurisdiction](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000); and
+  - **CI-21.205 §6** (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Initiating Seat](subcore_03.070_band_accountability.md#initiating-seat),
@@ -2458,7 +2458,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
   - **Out of scope:** A general help desk, intake channel, or complaint log that cannot review, preserve, mark, correct, limit, or route the challenged act. The seat does not gain authority over issues assigned to another forum or decision-maker.
 <a id="contest-seat-a"></a>
 - **How to measure and assess**
-  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — used together to test whether challenge produces independent review, correction, limits, or routing inside the **intake target** of the matching tier ([CF-22.445 §5.1](corpus_forum/cf_22.445_performance_backlog_publication_accessibility.md#cf-22445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)) rather than a procedural dead end.
+  - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — used together to test whether challenge produces independent review, correction, limits, or routing inside the **intake target** of the matching tier ([CF-16.445 §5.1](corpus_forum/cf_16.445_performance_backlog_publication_accessibility.md#cf-16445-51-stage-targets-and-outer-bounds) (*Stage targets and outer bounds*)) rather than a procedural dead end.
 
     **Primary assessment:** Identify the published challenge path, holder, authority, clock, available corrective or limiting action, and required routing. Test whether the holder is independent of the challenged verification and outside the [Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of any materially interested party.
   - **Secondary measure:** [Contestability](subcore_03.070_band_accountability.md#contestability), [Due Process](subcore_03.070_band_accountability.md#due-process), [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution), [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation), and [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity) — co-measures for access, fairness, evidence integrity, and reconstructability.
@@ -2483,7 +2483,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
   - [Chapter Two §18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties) (2.050 §18.3);
   - [Chapter Six §1 Purpose, Role, and Scope](core_06.000_functional_independence_separation_of_duties.md#1-purpose-role-and-scope) (6.000 §1) (*application list*) through
   - [§10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes); Chapters Eight through Twenty-Seven process-specific acts; and
-  - **CI-27.205 §6** (*seat catalog*).
+  - **CI-21.205 §6** (*seat catalog*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality),
@@ -2536,7 +2536,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3) and
   - [§5 Wrong-Seat Routing](core_06.000_functional_independence_separation_of_duties.md#5-wrong-seat-routing) and
   - [§9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (*universal minimum contents and routing requirements*); Chapters Eight through Twenty-Seven process-specific records;
-  - **CI-27.205 §6** (*seat catalog*); and
+  - **CI-21.205 §6** (*seat catalog*); and
   - [`materially_binding_act_record.schema.json`](implementation/schemas/materially_binding_act_record.schema.json) (*base machine-checkable form; process support, not a second definition*).
 - Cluster component: [Governance Architecture, Decentralization, and Concentration](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
@@ -3045,8 +3045,8 @@ The following limits also apply:
   - [Animal Life](subcore_03.090_band_participation.md#animal-life),
   - [Animal Cruelty](subcore_03.070_band_accountability.md#animal-cruelty),
   - [Violation Nature](subcore_03.070_band_accountability.md#violation-nature),
-  - [Chapter Fifteen §4.2.2](core_15.000_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded) (15.000 §4.2.2) (*conduct-character stack*), and
-  - [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2) (*general standing locks*).
+  - [Subcore 10-D §4.2.2](subcore_10.040_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded) (15.000 §4.2.2) (*conduct-character stack*), and
+  - [Chapter Twelve §3.2](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2) (*general standing locks*).
 
 </details>
 
@@ -3066,7 +3066,7 @@ The following limits also apply:
     - bare [Harm](subcore_03.070_band_accountability.md#harm) magnitude without suffering-as-end or gratuitous / degrading character;
     - ordinary discomfort, offense, or disagreement alone; or
     - lawful proportionate restrictions, fair consequences, or remediation that hurt without being designed as suffering for its own sake — including ordinary public accountability that is unpleasant or reputationally adverse without humiliation for its own sake under [Chapter Two §3.3 Anti-Degrading Process](core_02.000_values_principles.md#33-anti-degrading-process).
-  - **Standing boundary:** When verified as conduct character on a [violation Standing Record](subcore_03.070_band_accountability.md#standing-record), [Cruelty](subcore_03.070_band_accountability.md#cruelty) may orient prevention, safeguards, and non-degrading remedy under [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows). It does not assign or move the Violation Axis slot under [Violation Nature](subcore_03.070_band_accountability.md#violation-nature) and [Chapter Fifteen §4.2.2 How the Way a Harm Was Caused Is Recorded](core_15.000_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded).
+  - **Standing boundary:** When verified as conduct character on a [violation Standing Record](subcore_03.070_band_accountability.md#standing-record), [Cruelty](subcore_03.070_band_accountability.md#cruelty) may orient prevention, safeguards, and non-degrading remedy under [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows). It does not assign or move the Violation Axis slot under [Violation Nature](subcore_03.070_band_accountability.md#violation-nature) and [Subcore 10-D §4.2.2 How the Way a Harm Was Caused Is Recorded](subcore_10.040_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded).
 <a id="cruelty-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Flourishing measurement family](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family) — *Do reward structures, market power, and answerability keep duties real?* / *Are sentients sustained in life, safety, and access to essentials?* Use them here to ask whether suffering was the point of the treatment — or piled on beyond necessity and proportionality — not only whether some harm occurred.
@@ -3332,15 +3332,15 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Two §4](core_22.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4); read with [Chapter Twenty-Two §6](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (22.000 §6) and [Chapter Twenty-Three §4](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (23.000 §4).
+- Owner: [Chapter Sixteen §4](core_16.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4); read with [Chapter Sixteen §6](core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (22.000 §6) and [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (23.000 §4).
 - Read with:
   - [Primary-Stakes Routing](subcore_03.070_band_accountability.md#primary-stakes-routing),
   - [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record),
   - [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution),
   - [Merits Determination](subcore_03.070_band_accountability.md#merits-determination),
   - [Contestability](subcore_03.070_band_accountability.md#contestability);
-  - [Chapter Thirty-One](core_31.000_incorporation.md) (31.000) and
-  - [Chapter Thirty](core_30.000_expansion_supremacy.md) (30.000) (*adopter enforceability and external legal authority, not defined here*).
+  - [Chapter Twenty-Five](core_25.000_incorporation.md) (31.000) and
+  - [Chapter Twenty-Four](core_24.000_expansion_supremacy.md) (30.000) (*adopter enforceability and external legal authority, not defined here*).
 
 </details>
 
@@ -3349,7 +3349,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: jurisdiction is a forum's authority to hear and decide a particular matter. This Constitution assigns it. A forum cannot claim it by caption, by a party's choice, or for convenience, and being skilled does not create it. A forum with jurisdiction can still fail on independence or capacity, and those failures are handled separately.*
 
 - **What it is**
-  - **In scope:** A forum's or forum family's authority to hear a matter and decide it, including the interim orders that go with deciding it, as [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) assigns it through default venue, primary-stakes routing, transfer, consolidation, certification, and backup routing. Jurisdiction is:
+  - **In scope:** A forum's or forum family's authority to hear a matter and decide it, including the interim orders that go with deciding it, as [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) assigns it through default venue, primary-stakes routing, transfer, consolidation, certification, and backup routing. Jurisdiction is:
     - assigned by this Constitution and the forum rules adopted under it, never self-declared by the forum and never conferred by a party's filing, consent, or choice of forum;
     - limited to the matter and the relief the assignment covers; and
     - separate from skill, capacity, and independence, which are measured elsewhere. Having one does not create, remove, or stand in for another.
@@ -3358,8 +3358,8 @@ See **Anti-Segmentation Principle**.
     - a forum's skill, capacity, or independence;
     - who may file or contest a matter;
     - intra-family docket assignment and scheduling;
-    - when this Constitution is enforceable against an adopter or a non-adopter ([Chapter Thirty-One](core_31.000_incorporation.md)); and
-    - the lawful authority of an external legal system or regulator over a matter or an adopter ([Chapter Thirty](core_30.000_expansion_supremacy.md)).
+    - when this Constitution is enforceable against an adopter or a non-adopter ([Chapter Twenty-Five](core_25.000_incorporation.md)); and
+    - the lawful authority of an external legal system or regulator over a matter or an adopter ([Chapter Twenty-Four](core_24.000_expansion_supremacy.md)).
 <a id="jurisdiction-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -3380,10 +3380,10 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Owner:
-  - [Chapter Twenty-Two §4](core_22.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4); read with
-  - [Chapter Twenty-Two §4.4](core_22.000_forum.md#44-mixed-stakes-and-routing-asymmetry) (22.000 §4.4),
-  - [Chapter Twenty-Two §6](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (22.000 §6), and
-  - [Chapter Twenty-Three §4](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (23.000 §4).
+  - [Chapter Sixteen §4](core_16.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4); read with
+  - [Chapter Sixteen §4.4](core_16.000_forum.md#44-mixed-stakes-and-routing-asymmetry) (22.000 §4.4),
+  - [Chapter Sixteen §6](core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (22.000 §6), and
+  - [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (23.000 §4).
 
 </details>
 
@@ -3413,7 +3413,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §3.1](core_23.000_forum_families_escalation_timeliness_support.md#31-sentient-forums) (23.000 §3.1); read with [Chapter Fifteen §6](core_15.000_standing_measurement.md#6-slot-grammar-and-shared-scaling) (15.000 §6) primary-stakes routing.
+- Owner: [Chapter Seventeen §3.1](core_17.000_forum_families_escalation_timeliness_support.md#31-sentient-forums) (23.000 §3.1); read with [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (15.000 §6) primary-stakes routing.
 
 </details>
 
@@ -3442,7 +3442,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §3.2](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) (23.000 §3.2).
+- Owner: [Chapter Seventeen §3.2](core_17.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) (23.000 §3.2).
 
 </details>
 
@@ -3458,7 +3458,7 @@ See **Anti-Segmentation Principle**.
     - standards stewardship;
     - reducing bounded uncertainty that matters to adjudication or regulation; or
     - [Article VI-B](core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) sentience-status determination on indicators, expert evidence, or bounded uncertainty under [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication).
-  - **Out of scope:** non-technical primary questions — rights, mandate, ecological, or constitutional merits assigned to another family under Chapter Twenty-Two §4 (*Default Venue and Primary Stakes*), except where this family's sentience-status lead role under [Chapter Twenty-Three §4 Escalation and Questions for Ruling](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) applies.
+  - **Out of scope:** non-technical primary questions — rights, mandate, ecological, or constitutional merits assigned to another family under Chapter Twenty-Two §4 (*Default Venue and Primary Stakes*), except where this family's sentience-status lead role under [Chapter Seventeen §4 Escalation and Questions for Ruling](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) applies.
 <a id="forum-family-technical-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -3477,7 +3477,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §3.3](core_23.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (23.000 §3.3); read with [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) supervised-scope language.
+- Owner: [Chapter Seventeen §3.3](core_17.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (23.000 §3.3); read with [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*) supervised-scope language.
 
 </details>
 
@@ -3495,7 +3495,7 @@ See **Anti-Segmentation Principle**.
     **Primary assessment:** Verify the necessary-party and mandate conditions under Chapter Twenty-Two §4 (*Default Venue and Primary Stakes*). Coordinate with **Integrity** lead defaults for Chapter Twenty classification only when Chapter Twenty-Two's collision rules allow it.
 <a id="forum-family-institutional-c"></a>
 - **What must hold**
-  - **Primary failure:** It is non-compliant to deny **Institutional** routing when the primary-stake row in Chapter Twenty-Two §4 (*Default Venue and Primary Stakes*) requires it. It is also non-compliant to use internal process labels to avoid independent merits review when material capture or conflict allegations require **Integrity** or backup routing under [Dispute sequencing](core_22.000_forum.md#dispute-sequencing).
+  - **Primary failure:** It is non-compliant to deny **Institutional** routing when the primary-stake row in Chapter Twenty-Two §4 (*Default Venue and Primary Stakes*) requires it. It is also non-compliant to use internal process labels to avoid independent merits review when material capture or conflict allegations require **Integrity** or backup routing under [Dispute sequencing](core_16.000_forum.md#dispute-sequencing).
 
 ---
 
@@ -3506,7 +3506,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §3.4](core_23.000_forum_families_escalation_timeliness_support.md#34-environment-forums) (23.000 §3.4); read with [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity) and [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions).
+- Owner: [Chapter Seventeen §3.4](core_17.000_forum_families_escalation_timeliness_support.md#34-environment-forums) (23.000 §3.4); read with [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity) and [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions).
 
 </details>
 
@@ -3535,7 +3535,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §3.5](core_23.000_forum_families_escalation_timeliness_support.md#35-integrity-forums) (23.000 §3.5); read with Chapter Twenty designation due-process cross-references in Chapter Twenty-Three §4.
+- Owner: [Chapter Seventeen §3.5](core_17.000_forum_families_escalation_timeliness_support.md#35-integrity-forums) (23.000 §3.5); read with Chapter Twenty designation due-process cross-references in Chapter Twenty-Three §4.
 
 </details>
 
@@ -3579,7 +3579,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Three §3.6](core_23.000_forum_families_escalation_timeliness_support.md#36-constitutional-forums) (23.000 §3.6); read with [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) certification hooks.
+- Owner: [Chapter Seventeen §3.6](core_17.000_forum_families_escalation_timeliness_support.md#36-constitutional-forums) (23.000 §3.6); read with [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) certification hooks.
 
 </details>
 
@@ -3617,7 +3617,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Two §5](core_22.000_forum.md#5-forum-cases-intakes-seats-records-and-contests) (22.000 §5); read with [Chapter Twenty-Two §4](core_22.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4) (*intake triage and primary-stakes routing*) and [Chapter Fourteen §4.7](core_14.000_standing_assessment.md#47-forum-boundary) (14.000 §4.7) (*forum boundary*).
+- Owner: [Chapter Sixteen §5](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests) (22.000 §5); read with [Chapter Sixteen §4](core_16.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4) (*intake triage and primary-stakes routing*) and [Subcore 10-B §4.7](subcore_10.020_standing_assessment.md#47-forum-boundary) (14.000 §4.7) (*forum boundary*).
 - Read with:
   - [Standing Record](subcore_03.070_band_accountability.md#standing-record),
   - [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution),
@@ -3641,13 +3641,13 @@ See **Anti-Segmentation Principle**.
     - questions for ruling; and
     - final findings in that case.
   - It records forum supervision during the dispute; it is **not** a [Standing Record](subcore_03.070_band_accountability.md#standing-record).
-  - What does not change standing (filing, routing, intake notes, temporary orders, allegations, settlement talk) and the one gate through which a forum decision may enter a Standing Record are stated once, in [Chapter Twenty-Two §5.3 Kinds of Records](core_22.000_forum.md#53-kinds-of-records). Chapter Three pointer; canonical mechanics: [Chapter Twenty-Two §5 Forum Cases: Intakes, Seats, Records, and Contests](core_22.000_forum.md#5-forum-cases-intakes-seats-records-and-contests).
+  - What does not change standing (filing, routing, intake notes, temporary orders, allegations, settlement talk) and the one gate through which a forum decision may enter a Standing Record are stated once, in [Chapter Sixteen §5.3 Kinds of Records](core_16.000_forum.md#53-kinds-of-records). Chapter Three pointer; canonical mechanics: [Chapter Sixteen §5 Forum Cases: Intakes, Seats, Records, and Contests](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests).
   - **Out of scope:**
     - [Standing Record](subcore_03.070_band_accountability.md#standing-record);
     - [Standing Effect](subcore_03.070_band_accountability.md#standing-effect);
     - Chapter Fifteen standing measurement;
     - Chapter Sixteen standing-effect decisions; and
-    - operational form libraries, templates, or evidence-artifact catalogs owned by forum implementation layers (**CF-22.465** (*Standard records, forms, and evidence artifacts*)) except insofar as they instantiate this case file.
+    - operational form libraries, templates, or evidence-artifact catalogs owned by forum implementation layers (**CF-16.465** (*Standard records, forms, and evidence artifacts*)) except insofar as they instantiate this case file.
 <a id="forum-case-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -3685,7 +3685,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Two §5.1 Intakes](core_22.000_forum.md#51-intakes) (22.000 §5.1); read with [Chapter Twenty-Two §4.3 Default Venue](core_22.000_forum.md#43-default-venue) (22.000 §4.3) (*routing by primary stake*).
+- Owner: [Chapter Sixteen §5.1 Intakes](core_16.000_forum.md#51-intakes) (22.000 §5.1); read with [Chapter Sixteen §4.3 Default Venue](core_16.000_forum.md#43-default-venue) (22.000 §4.3) (*routing by primary stake*).
 - Read with:
   - [Review Case](subcore_03.070_band_accountability.md#review-case),
   - [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record),
@@ -3721,7 +3721,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Two §5.1 Intakes](core_22.000_forum.md#51-intakes) (22.000 §5.1); read with [Chapter Twenty-Two §5.4 Contests of Certification Records](core_22.000_forum.md#54-contests-of-certification-records) (22.000 §5.4), [Chapter Twenty-Two §5.5 Contests of Standing Records](core_22.000_forum.md#55-contests-of-standing-records) (22.000 §5.5), and [Chapter Twenty-Two §5.6 Contests of Adoption Transition Records](core_22.000_forum.md#56-contests-of-adoption-transition-records) (22.000 §5.6).
+- Owner: [Chapter Sixteen §5.1 Intakes](core_16.000_forum.md#51-intakes) (22.000 §5.1); read with [Chapter Sixteen §5.4 Contests of Certification Records](core_16.000_forum.md#54-contests-of-certification-records) (22.000 §5.4), [Chapter Sixteen §5.5 Contests of Standing Records](core_16.000_forum.md#55-contests-of-standing-records) (22.000 §5.5), and [Chapter Sixteen §5.6 Contests of Adoption Transition Records](core_16.000_forum.md#56-contests-of-adoption-transition-records) (22.000 §5.6).
 - Read with:
   - [Direct Case](subcore_03.070_band_accountability.md#direct-case),
   - [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record),
@@ -3758,7 +3758,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Two §5.7 Keeping Forum Case Records](core_22.000_forum.md#57-keeping-forum-case-records) (22.000 §5.7); read with [CF-22.465 §7.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_22.465_standard_records_forms_evidence_artifacts.md#cf-22465-72-constitutional-library-and-constitutional-archive).
+- Owner: [Chapter Sixteen §5.7 Keeping Forum Case Records](core_16.000_forum.md#57-keeping-forum-case-records) (22.000 §5.7); read with [CF-16.465 §7.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_16.465_standard_records_forms_evidence_artifacts.md#cf-16465-72-constitutional-library-and-constitutional-archive).
 - Read with:
   - [Constitutional Archive](subcore_03.070_band_accountability.md#constitutional-archive),
   - [Essential Record](subcore_03.070_band_accountability.md#essential-record),
@@ -3772,8 +3772,8 @@ See **Anti-Segmentation Principle**.
 *In plain terms: the Constitutional Library is the public shelf for forum decisions. Everything a forum may lawfully show is kept here, and anything held back leaves a marker here, so no one can hide that a decision exists.*
 
 - **What it is**
-  - **In scope:** The published collection of [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record) entries, decisions, reasoned records, and shared standards that carry the public-facing access class under **CF-22.465 §5** (*Access Classes*). It also holds a status marker for every item kept in the [Constitutional Archive](subcore_03.070_band_accountability.md#constitutional-archive). A custodian independent of the forum family that made the entries keeps it, and it holds the physical backup of the public non-routine entries.
-  - **Out of scope:** [Constitutional Archive](subcore_03.070_band_accountability.md#constitutional-archive); material a lawful restriction holds back; [Standing Record](subcore_03.070_band_accountability.md#standing-record) custody under [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority); and the forum's own working systems.
+  - **In scope:** The published collection of [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record) entries, decisions, reasoned records, and shared standards that carry the public-facing access class under **CF-16.465 §5** (*Access Classes*). It also holds a status marker for every item kept in the [Constitutional Archive](subcore_03.070_band_accountability.md#constitutional-archive). A custodian independent of the forum family that made the entries keeps it, and it holds the physical backup of the public non-routine entries.
+  - **Out of scope:** [Constitutional Archive](subcore_03.070_band_accountability.md#constitutional-archive); material a lawful restriction holds back; [Standing Record](subcore_03.070_band_accountability.md#standing-record) custody under [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority); and the forum's own working systems.
 <a id="constitutional-library-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -3793,7 +3793,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Two §5.7 Keeping Forum Case Records](core_22.000_forum.md#57-keeping-forum-case-records) (22.000 §5.7); read with [CF-22.465 §7.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_22.465_standard_records_forms_evidence_artifacts.md#cf-22465-72-constitutional-library-and-constitutional-archive).
+- Owner: [Chapter Sixteen §5.7 Keeping Forum Case Records](core_16.000_forum.md#57-keeping-forum-case-records) (22.000 §5.7); read with [CF-16.465 §7.2 Constitutional Library and Constitutional Archive](corpus_forum/cf_16.465_standard_records_forms_evidence_artifacts.md#cf-16465-72-constitutional-library-and-constitutional-archive).
 - Read with:
   - [Constitutional Library](subcore_03.070_band_accountability.md#constitutional-library),
   - [Essential Record](subcore_03.070_band_accountability.md#essential-record),
@@ -3807,8 +3807,8 @@ See **Anti-Segmentation Principle**.
 *In plain terms: the Constitutional Archive is the sealed shelf. Restricted material is kept whole and safe, not lost or destroyed, and can be opened later by lawful order or for audit. Sealing never means disappearing.*
 
 - **What it is**
-  - **In scope:** The sealed collection of [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record) entries and evidence artifacts tagged restricted or sealed under **CF-22.465 §5** (*Access Classes*) because of lawful secrecy, safety, privacy, protected internal state, or evidence integrity. Each item is kept whole and hashed, and only the sentients its published terms or a lawful order name can reach it, under **CF-22.415 §10** (*Restricted Information Authority*). The audit-facing, contest-integrity-facing, and external-assurance-facing access classes reach it as **CF-22.465 §5** (*Access Classes*) allows. A custodian independent of the forum family that made the entries keeps it. It holds the physical backup of the restricted non-routine entries, and every item leaves a marker in the [Constitutional Library](subcore_03.070_band_accountability.md#constitutional-library).
-  - **Out of scope:** [Constitutional Library](subcore_03.070_band_accountability.md#constitutional-library); any hiding of the fact that an item exists; the restricted-information decisions made by the Restricted Information Authority; and [Standing Record](subcore_03.070_band_accountability.md#standing-record) custody under [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority).
+  - **In scope:** The sealed collection of [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record) entries and evidence artifacts tagged restricted or sealed under **CF-16.465 §5** (*Access Classes*) because of lawful secrecy, safety, privacy, protected internal state, or evidence integrity. Each item is kept whole and hashed, and only the sentients its published terms or a lawful order name can reach it, under **CF-16.415 §10** (*Restricted Information Authority*). The audit-facing, contest-integrity-facing, and external-assurance-facing access classes reach it as **CF-16.465 §5** (*Access Classes*) allows. A custodian independent of the forum family that made the entries keeps it. It holds the physical backup of the restricted non-routine entries, and every item leaves a marker in the [Constitutional Library](subcore_03.070_band_accountability.md#constitutional-library).
+  - **Out of scope:** [Constitutional Library](subcore_03.070_band_accountability.md#constitutional-library); any hiding of the fact that an item exists; the restricted-information decisions made by the Restricted Information Authority; and [Standing Record](subcore_03.070_band_accountability.md#standing-record) custody under [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority).
 <a id="constitutional-archive-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -3828,7 +3828,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner: [Chapter Twenty-Two §5.7 Keeping Forum Case Records](core_22.000_forum.md#57-keeping-forum-case-records) (22.000 §5.7) and [Chapter Thirty-One §3.2 Custody Chain](core_31.000_incorporation.md#32-custody-chain); read with [CF-22.465 §7.1 Retention Classes and Physical Backup](corpus_forum/cf_22.465_standard_records_forms_evidence_artifacts.md#cf-22465-71-retention-classes-and-physical-backup).
+- Owner: [Chapter Sixteen §5.7 Keeping Forum Case Records](core_16.000_forum.md#57-keeping-forum-case-records) (22.000 §5.7) and [Chapter Twenty-Five §3.2 Custody Chain](core_25.000_incorporation.md#32-custody-chain); read with [CF-16.465 §7.1 Retention Classes and Physical Backup](corpus_forum/cf_16.465_standard_records_forms_evidence_artifacts.md#cf-16465-71-retention-classes-and-physical-backup).
 - Read with:
   - [Constitutional Library](subcore_03.070_band_accountability.md#constitutional-library),
   - [Constitutional Archive](subcore_03.070_band_accountability.md#constitutional-archive),
@@ -3842,8 +3842,8 @@ See **Anti-Segmentation Principle**.
 *In plain terms: an Essential Record preserves information the constitutional order could not be rebuilt without, including adoption and custody records. Its physical backup is kept in more than one region, so no single disaster, seizure, or capture can erase it.*
 
 - **What it is**
-  - **In scope:** A non-routine [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record) entry, or a register or index of the [Constitutional Library](subcore_03.070_band_accountability.md#constitutional-library) or [Constitutional Archive](subcore_03.070_band_accountability.md#constitutional-archive), whose loss the constitutional order could not repair, as **CF-22.465 §7.1** (*Retention Classes and Physical Backup*) lists. Adoption records in the adoption chain and the custody records required by [Chapter Thirty-One §3.2](core_31.000_incorporation.md#32-custody-chain) are also Essential Records. A [Standing Record](subcore_03.070_band_accountability.md#standing-record) at slot 5 or above on either axis is also an Essential Record ([Chapter Fourteen §8.5 Physical Backup and Certified Copies](core_14.000_standing_assessment.md#85-physical-backup-and-certified-copies)). Its physical backup is held in at least three separate places in different regions, so that no one disaster, seizure, legal order, or capture reaches every copy.
-  - **Out of scope:** routine entries; ordinary non-routine entries, which keep one physical backup; and the working custody of a [Standing Record](subcore_03.070_band_accountability.md#standing-record), which stays with its record custodian under [Chapter Fourteen §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority).
+  - **In scope:** A non-routine [Forum Case Record](subcore_03.070_band_accountability.md#forum-case-record) entry, or a register or index of the [Constitutional Library](subcore_03.070_band_accountability.md#constitutional-library) or [Constitutional Archive](subcore_03.070_band_accountability.md#constitutional-archive), whose loss the constitutional order could not repair, as **CF-16.465 §7.1** (*Retention Classes and Physical Backup*) lists. Adoption records in the adoption chain and the custody records required by [Chapter Twenty-Five §3.2 Custody Chain](core_25.000_incorporation.md#32-custody-chain) are also Essential Records. A [Standing Record](subcore_03.070_band_accountability.md#standing-record) at slot 5 or above on either axis is also an Essential Record ([Subcore 10-B §8.5 Physical Backup and Certified Copies](subcore_10.020_standing_assessment.md#85-physical-backup-and-certified-copies)). Its physical backup is held in at least three separate places in different regions, so that no one disaster, seizure, legal order, or capture reaches every copy.
+  - **Out of scope:** routine entries; ordinary non-routine entries, which keep one physical backup; and the working custody of a [Standing Record](subcore_03.070_band_accountability.md#standing-record), which stays with its record custodian under [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority).
 <a id="essential-record-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -3864,7 +3864,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Non-Compliance](subcore_03.080_band_integrative.md#non-compliance); [Subcore 3-B §5 — Non-Compliance Finding Profiles](subcore_03.020_definition_integrity.md#5-non-compliance-finding-profiles) (S3-B §5).
-- Downstream: [CJS-3.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
+- Downstream: [CJS-3.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map); [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000).
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims); [Constitutional Contract Layer](subcore_03.080_band_integrative.md#constitutional-contract-layer) — governance-layer routing for profile **layer** codes.
 
 </details>
@@ -3875,7 +3875,7 @@ See **Anti-Segmentation Principle**.
 
 - **What it is**
   - **In scope:** Optional orientation and routing metadata attached to a material [Non-Compliance](subcore_03.080_band_integrative.md#non-compliance) finding. For audits, routing, and cross-implementation work, the profile names the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) leg, [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) orientation, governance layer, **failure character**, and **severity level** (**T1**–**T4**) that best describe the finding.
-  - **Out of scope:** parallel verdict documents; [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) contribution or violation measurement; optional routing metadata without a material non-compliance finding.
+  - **Out of scope:** parallel verdict documents; [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) contribution or violation measurement; optional routing metadata without a material non-compliance finding.
   - **Depends on:** a material non-compliance finding under [Subcore 3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance) or an invoked Chapter Three definition.
 <a id="non-compliance-finding-profile-a"></a>
 - **How to measure and assess**
@@ -3885,7 +3885,7 @@ See **Anti-Segmentation Principle**.
 <a id="non-compliance-finding-profile-c"></a>
 - **What must hold**
   - **Primary failure:** treating the profile as deciding whether the underlying definition is met;
-  - **Secondary failure:** using the profile to bypass [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) verified-input, contribution, or violation classification when standing findings are applied.
+  - **Secondary failure:** using the profile to bypass [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) verified-input, contribution, or violation classification when standing findings are applied.
 
 ---
 
@@ -3904,9 +3904,9 @@ See **Anti-Segmentation Principle**.
   - [Contestability](subcore_03.070_band_accountability.md#contestability),
   - [Materiality](subcore_03.085_band_oversight.md#materiality),
   - [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution),
-  - [Chapter Fifteen §6](core_15.000_standing_measurement.md#6-slot-grammar-and-shared-scaling) (15.000 §6),
-  - [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2), and
-  - [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) where materially implicated.
+  - [Subcore 10-D §6](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (15.000 §6),
+  - [Chapter Twelve §3.2](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2), and
+  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) where materially implicated.
 - Downstream: [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (*binding chain map for the Chapters Fourteen through Twenty-Two pipeline*).
 
 </details>
@@ -3968,7 +3968,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18) (standing signals and capture).
+- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18) (standing signals and capture).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Contribution Nature](subcore_03.070_band_accountability.md#contribution-nature),
@@ -4004,19 +4004,19 @@ See **Anti-Segmentation Principle**.
     - recognition;
     - **governance-voting** (*legitimacy-mechanism / foundational governance vote — not stake-weighted stakeholder voice*);
     - **stakeholder-participation** (*stake-weighted vote and binding stakeholder choice within an already-authorized domain — not erasure of stakeholder status*); and
-    - comparable gated pathways recorded under [Chapter Eighteen §3.2 Prevention — General Standing Locks](core_18.000_violation_consequences.md#32-prevention--general-standing-locks).
+    - comparable gated pathways recorded under [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks).
   - It is not:
     - [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing), which every sentient has;
     - reputation or social esteem; or
     - proof of material impact for [Stakeholder](subcore_03.090_band_participation.md#stakeholder) identification.
   - Chapter Three pointer for **Article XX** (*Standing and Participation Status*) participation status.
-  - Axis mechanics: [Contribution Nature](subcore_03.070_band_accountability.md#contribution-nature) and [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened).
+  - Axis mechanics: [Contribution Nature](subcore_03.070_band_accountability.md#contribution-nature) and [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened).
   - **Out of scope:**
     - reputation, popularity, prestige, brand, or social esteem;
     - [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing);
     - proof that someone is a [Stakeholder](subcore_03.090_band_participation.md#stakeholder);
-    - final anti-constitutional-misconduct designation for a Chapter Fifteen Violation Axis slot 7, 8, or 9 record — governed by [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation); or
-    - the matching [Anti-Constitutional Trust Lock](core_18.000_violation_consequences.md#45-special-locks), which attaches under Chapter Sixteen.
+    - final anti-constitutional-misconduct designation for a Chapter Fifteen Violation Axis slot 7, 8, or 9 record — governed by [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation); or
+    - the matching [Anti-Constitutional Trust Lock](core_12.000_violation_consequences.md#45-special-locks), which attaches under Chapter Sixteen.
 <a id="participant-standing-constitutional-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
@@ -4044,7 +4044,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Fourteen §4.5](core_14.000_standing_assessment.md#45-verified-input-gate) (14.000 §4.5) (*Verified-Input Gate*).
+- Canonical owner: [Subcore 10-B §4.5](subcore_10.020_standing_assessment.md#45-verified-input-gate) (14.000 §4.5) (*Verified-Input Gate*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Contribution Nature](subcore_03.070_band_accountability.md#contribution-nature),
@@ -4104,8 +4104,8 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / verification in standing inputs); [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4) (standing metrics vs demonstrable facts).
-- Canonical owner: [Chapter Fifteen — §8 unified scale](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*shared five-times LEQU bands for separately recorded Contribution and Violation axes*); read with [Chapter Fourteen — section 3](core_14.000_standing_assessment.md#3-the-three-questions) (14.000) (*three-question frame*) and [Chapter Fourteen §6.1 — Verified-Input Gate](core_14.000_standing_assessment.md#61-minimum-record-contents) (14.000 §6.1).
+- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / verification in standing inputs); [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4) (standing metrics vs demonstrable facts).
+- Canonical owner: [Subcore 10-D — Chapter Fifteen — §8 unified scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*shared five-times LEQU bands for separately recorded Contribution and Violation axes*); read with [Subcore 10-B — Chapter Fourteen — section 3](subcore_10.020_standing_assessment.md#3-the-three-questions) (14.000) (*three-question frame*) and [Subcore 10-B — Chapter Fourteen §6.1 — Verified-Input Gate](subcore_10.020_standing_assessment.md#61-minimum-record-contents) (14.000 §6.1).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Participant Standing](subcore_03.070_band_accountability.md#participant-standing) (*distinct — **Article XX** (*Standing and Participation Status*) participation status versus Axis I typing*);
@@ -4128,13 +4128,13 @@ See **Anti-Segmentation Principle**.
   - **In scope:**
     - **Axis I** measures **positive-only** constitutional outcomes: meeting the **baseline** and making **demonstrable** improvements beyond it under the applicable functional system conditions.
     - Those outcomes may affect **standing effect** only when they rest on auditable, contestable, demonstrable verified contribution records that satisfy Subcores **3-A to 3-C** and Chapter Fourteen **§5.1** (*Minimum Record Contents*).
-    - Chapter Three pointer; canonical mechanics: [Chapter Fourteen](core_14.000_standing_assessment.md) [**Chapter Fifteen section 5**](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes), read with [**sections 3–4**](core_14.000_standing_assessment.md#3-the-three-questions) and **§3.1 Minimum record contents**; [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) for contribution-linked effects.
+    - Chapter Three pointer; canonical mechanics: [Subcore 10-B](subcore_10.020_standing_assessment.md) [Subcore 10-D — **Chapter Fifteen section 5**](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes), read with [**sections 3–4**](subcore_10.020_standing_assessment.md#3-the-three-questions) and **§3.1 Minimum record contents**; [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) for contribution-linked effects.
   - **Out of scope:**
     - **Adverse violation findings** or non-compliance under [**violation nature**](subcore_03.070_band_accountability.md#violation-nature) on **Axis II**.
     - [Participant Standing](subcore_03.070_band_accountability.md#participant-standing) (**Article XX** (*Standing and Participation Status*) participation status and role eligibility).
     - Violation Axis scores, averages, nets, or offsets against Axis I.
     - reputation, popularity, formal-channel pedigree, unverified self-reports, provisional labels, or bare allegation.
-    - standing-effect / integration mechanics, which belong to [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) — Chapter Fourteen records carry no standing effects.
+    - standing-effect / integration mechanics, which belong to [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) — Chapter Fourteen records carry no standing effects.
 <a id="contribution-state-a"></a>
 <a id="contribution-nature-a"></a>
 - **How to measure and assess**
@@ -4168,16 +4168,16 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
   - [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4) (Axis II classification integrity);
   - [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
   - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (verified facts for adverse standing).
 - Canonical owner: the
-  - [Chapter Fifteen §8 unified proportional LEQU scale](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*Violation Axis impact-slot calibration on the shared five-times LEQU bands*);
-  - [Chapter Fourteen §4.5 Verified-Input Gate](core_14.000_standing_assessment.md#45-verified-input-gate) (14.000 §4.5);
-  - [Chapter Fifteen §5.2](core_15.000_standing_measurement.md#52-violation-route-descriptor-catalog-and-measurement-roles) (15.000 §5.2) (*stackable harm and conduct descriptors*);
-  - [Chapter Sixteen §5](core_16.000_standing_integration.md#5-descriptor-integration-and-attachment-normalization) (16.000 §5) (*Question 3 process / response character attachments and descriptor integration*). Read with the
+  - [Subcore 10-D §8 unified proportional LEQU scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*Violation Axis impact-slot calibration on the shared five-times LEQU bands*);
+  - [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate) (14.000 §4.5);
+  - [Subcore 10-D §5.2](subcore_10.040_standing_measurement.md#52-violation-route-descriptor-catalog-and-measurement-roles) (15.000 §5.2) (*stackable harm and conduct descriptors*);
+  - [Subcore 10-F §5](subcore_10.060_standing_integration.md#5-descriptor-integration-and-attachment-normalization) (16.000 §5) (*Question 3 process / response character attachments and descriptor integration*). Read with the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Verified Inputs for Standing](subcore_03.070_band_accountability.md#verified-inputs-for-standing),
   - [Standing Record](subcore_03.070_band_accountability.md#standing-record),
@@ -4186,7 +4186,7 @@ See **Anti-Segmentation Principle**.
   - [Auditability](subcore_03.085_band_oversight.md#auditability),
   - [Contestability](subcore_03.070_band_accountability.md#contestability), and
   - [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution). For a Chapter Fifteen Violation Axis slot 7, 8, or 9,
-  - [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) may add the corresponding anti-constitutional-misconduct designation but does not assign the numeric slot.
+  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) may add the corresponding anti-constitutional-misconduct designation but does not assign the numeric slot.
 
 </details>
 
@@ -4199,7 +4199,7 @@ See **Anti-Segmentation Principle**.
     - The **Axis II** classification of **adverse** constitutional outcomes from verified violation findings that satisfy Subcores **3-A to 3-C** and Chapter Fourteen **§5.2** (*Related Standing Record Cross-References*).
     - Those violation findings may affect **standing effect** only when they rest on that auditable, contestable verified basis.
     - Chapter Fifteen **§11** (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) assigns a verified-impact slot on its unified scale. Process / response and harm / conduct descriptors attach to that slot but do not move it.
-    - Chapter Three pointer; canonical mechanics: Chapter Fifteen **§11** (*Unified Proportional LEQU Scale — Contribution and Violation Axes*), **§5.2** (*Related Standing Record Cross-References*), Chapter Sixteen descriptor sections, and [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) for adverse standing effects.
+    - Chapter Three pointer; canonical mechanics: Chapter Fifteen **§11** (*Unified Proportional LEQU Scale — Contribution and Violation Axes*), **§5.2** (*Related Standing Record Cross-References*), Chapter Sixteen descriptor sections, and [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) for adverse standing effects.
     - It is distinct from [**contribution nature**](subcore_03.070_band_accountability.md#contribution-nature), the positive-only **Axis I**, which uses the same bands in a separate Standing Record.
   - **Out of scope:**
     - allegations, intake labels, provisional routing tags, or unresolved forum-phase narratives;
@@ -4210,11 +4210,11 @@ See **Anti-Segmentation Principle**.
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Classify **standing** only from findings that satisfy Subcores **3-A to 3-C** and the [**verified inputs for standing**](core_14.000_standing_assessment.md#45-verified-input-gate) rule.
+    - Classify **standing** only from findings that satisfy Subcores **3-A to 3-C** and the [Subcore 10-B — **verified inputs for standing**](subcore_10.020_standing_assessment.md#45-verified-input-gate) rule.
     - Identify the finding authority or record basis, affected subject and scope, applicable violation-nature classification, evidence, contest path, and whether the violation finding is final, under review, superseded, resolved, or remediated for standing.
     - Record the verified finding basis and violation-nature classification together.
     - Include verified impact and resulting slot, applicable character descriptors or supplements, scope, review status, and any Chapter Twenty designation.
-    - Conduct-character descriptors do not move the numeric slot; the rule is in [Chapter Fifteen §4.2.2 How the Way a Harm Was Caused Is Recorded](core_15.000_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded).
+    - Conduct-character descriptors do not move the numeric slot; the rule is in [Subcore 10-D §4.2.2 How the Way a Harm Was Caused Is Recorded](subcore_10.040_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded).
     - Apply Chapter Fourteen's no-offset rule and keep Violation Axis inputs separate from [Contribution Nature](subcore_03.070_band_accountability.md#contribution-nature).
     - For adverse standing effect, a violation finding without an applicable violation-nature classification is incomplete, and so is a violation-nature label without verified violation findings.
     - Where material, read with [Harm](subcore_03.070_band_accountability.md#harm), [Cruelty](subcore_03.070_band_accountability.md#cruelty), [Materiality](subcore_03.085_band_oversight.md#materiality), [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint), and [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy).
@@ -4239,11 +4239,11 @@ See **Anti-Segmentation Principle**.
 
 - Downstream: Principles: [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5); [20. Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (standing effects read through integrated interpretive framework).
 - Canonical owner:
-  - [Chapter Sixteen §3 Chapter Fourteen Records Do Not Change](core_16.000_standing_integration.md#3-chapter-fourteen-records-do-not-change) (16.000 §3) through Chapter Nineteen (*immutable inputs, integration, descriptors, consequences, final standing effect, restoration, enforcement, and non-substitution*); read with
-  - [Chapter Fourteen — §4 Standing Records](core_14.000_standing_assessment.md#4-question-1--what-happened) (14.000 §4),
-  - [Chapter Fourteen §4 Standing Records as the unit of application](core_14.000_standing_assessment.md#4-question-1--what-happened) (14.000 §4),
-  - [Chapter Fourteen §6 Standing Record operational requirements](core_14.000_standing_assessment.md#6-verification-and-record-requirements) (14.000 §6), and
-  - [Chapter Fourteen — §4.5 Verified-Input Gate](core_14.000_standing_assessment.md#45-verified-input-gate) (14.000 §4.5).
+  - [Subcore 10-F §3 Chapter Ten Records Do Not Change](subcore_10.060_standing_integration.md#3-chapter-ten-records-do-not-change) (16.000 §3) through Chapter Nineteen (*immutable inputs, integration, descriptors, consequences, final standing effect, restoration, enforcement, and non-substitution*); read with
+  - [Subcore 10-B — Chapter Fourteen — §4 Standing Records](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (14.000 §4),
+  - [Subcore 10-B §4 Standing Records as the unit of application](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (14.000 §4),
+  - [Subcore 10-B §6 Standing Record operational requirements](subcore_10.020_standing_assessment.md#6-verification-and-record-requirements) (14.000 §6), and
+  - [Subcore 10-B — §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate) (14.000 §4.5).
 - Read with: the [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation) and [Standing Record](subcore_03.070_band_accountability.md#standing-record). The two are sequential for application: a standing effect must be traceable to a bounded linked set of axis-pure Standing Records, but those Standing Records contain the verified contribution and violation classifications rather than the effect itself.
 
 </details>
@@ -4271,7 +4271,7 @@ See **Anti-Segmentation Principle**.
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Keep every **standing effect** traceable to [Chapter Fourteen](core_14.000_standing_assessment.md) **§2** (*Question 1 — What Happened?*) through **§3** (*Verification and Record Requirements*) and [Chapter Sixteen](core_16.000_standing_integration.md) **§1** (*Chapter Fourteen Records Do Not Change*) through **§11** (*Pattern applications and Question 3 routing*).
+    - Keep every **standing effect** traceable to [Subcore 10-B](subcore_10.020_standing_assessment.md) **§2** (*Question 1 — What Happened?*) through **§3** (*Verification and Record Requirements*) and [Subcore 10-F](subcore_10.060_standing_integration.md) **§1** (*Chapter Ten Records Do Not Change*) through **§11** (*Pattern applications and Question 3 routing*).
     - Evaluate it under [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability).
     - Identify the source contribution and violation Standing Records, subject, scope, record span, review status, separate axis inputs, required cross-references, verification basis, and actual consequence for each gated pathway.
     - Follow Chapter Sixteen **§3** (*Automatic Integration, Review, and Continuity*) decision order:
@@ -4282,7 +4282,7 @@ See **Anti-Segmentation Principle**.
       - state one final standing effect per gated pathway.
     - When standing integration uses **contribution-linked** credit, follow Chapter Seventeen **§2.1** (*Recency and Currentness*) recency and disclosure rules.
     - While unresolved, **violation-linked** constraints may not be time-discounted, weighted away for age, or softened by contribution upside.
-    - Never treat **alleged** misconduct, intake labels, or forum-phase material as [**violation nature**](subcore_03.070_band_accountability.md#violation-nature) / verified violation findings for standing ([**verified inputs for standing**](core_14.000_standing_assessment.md#45-verified-input-gate)).
+    - Never treat **alleged** misconduct, intake labels, or forum-phase material as [**violation nature**](subcore_03.070_band_accountability.md#violation-nature) / verified violation findings for standing ([Subcore 10-B — **verified inputs for standing**](subcore_10.020_standing_assessment.md#45-verified-input-gate)).
     - Expose which inputs produced the effect — immutable records, descriptors, remedies, locks, currentness findings, competency bars, and clearances — together with weights, rules, and review routes.
 <a id="standing-effect-chapter-six-c"></a>
 - **What must hold**
@@ -4308,17 +4308,17 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4) (bounded Standing Records vs merged labels).
+- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4) (bounded Standing Records vs merged labels).
 - Canonical owner:
-  - [Chapter Fourteen — §4 Standing Records as the unit of application](core_14.000_standing_assessment.md#4-question-1--what-happened) (14.000 §4) and
-  - [Chapter Fourteen §6 Standing Record operational requirements](core_14.000_standing_assessment.md#6-verification-and-record-requirements) (14.000 §6); read with
-  - [Chapter Fourteen — §4.5 Verified-Input Gate](core_14.000_standing_assessment.md#45-verified-input-gate) (14.000 §4.5),
-  - [Chapter Fourteen — §7 Record Custody and Opening Authority](core_14.000_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7) (*named record-opening authority and custodian; no self-custody*),
-  - [Chapter Fourteen — §8 Handling a Standing Record](core_14.000_standing_assessment.md#8-handling-a-standing-record) (14.000 §8) (*recorder statements are inputs; attributed entry; challenges*),
-  - [Chapter Fifteen — §6 Slot grammar and display labels](core_15.000_standing_measurement.md#6-slot-grammar-and-shared-scaling) (15.000 §6),
-  - [Chapter Fifteen — §3.1 LEQU Baseline](core_15.000_standing_measurement.md#31-lequ-baseline) (15.000 §3.1), the
-  - [Chapter Fifteen §8 unified scale](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*shared five-times LEQU bands; separate axis records*), and
-  - [Chapter Sixteen — Integration](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (16.000).
+  - [Subcore 10-B — Chapter Fourteen — §4 Standing Records as the unit of application](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (14.000 §4) and
+  - [Subcore 10-B §6 Standing Record operational requirements](subcore_10.020_standing_assessment.md#6-verification-and-record-requirements) (14.000 §6); read with
+  - [Subcore 10-B — §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate) (14.000 §4.5),
+  - [Subcore 10-B — §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (14.000 §7) (*named record-opening authority and custodian; no self-custody*),
+  - [Subcore 10-B — §8 Handling a Standing Record](subcore_10.020_standing_assessment.md#8-handling-a-standing-record) (14.000 §8) (*recorder statements are inputs; attributed entry; challenges*),
+  - [Subcore 10-D — Chapter Fifteen — §6 Slot grammar and display labels](subcore_10.040_standing_measurement.md#6-slot-grammar-and-shared-scaling) (15.000 §6),
+  - [Subcore 10-D — §3.1 LEQU Baseline](subcore_10.040_standing_measurement.md#31-lequ-baseline) (15.000 §3.1), the
+  - [Subcore 10-D §8 unified scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*shared five-times LEQU bands; separate axis records*), and
+  - [Subcore 10-F — Chapter Sixteen — Integration](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Standing Effect](subcore_03.070_band_accountability.md#standing-effect),
@@ -4342,7 +4342,7 @@ See **Anti-Segmentation Principle**.
     - Each Standing Record measures verified behavior or findings on the Contribution Axis or the Violation Axis, never both.
     - A **contribution Standing Record** measures verified [contribution nature](subcore_03.070_band_accountability.md#contribution-nature); a **violation Standing Record** measures verified [violation nature](subcore_03.070_band_accountability.md#violation-nature).
     - Whichever axis it measures, a Standing Record about a Chartered Party, its chartered scope, or a system it stewards is an **operator Standing Record**. A Standing Record about a sentient or institution that uses, relies on, or is affected by those systems is a **stakeholder Standing Record**. A Standing Record with neither subject follows the general rules. The two kinds face different conflicts of interest, so their custody rules differ (Chapter Fourteen §7 (*Record Custody and Opening Authority*), *Two kinds of Standing Record by subject*).
-    - [Chapter Fourteen §6.2 Related Standing Record Cross-References](core_14.000_standing_assessment.md#62-related-standing-record-cross-references) requires related Standing Records to cross-reference each other when they share a subject, overlapping record span, bounded event, pattern, or decision context.
+    - [Subcore 10-B §6.2 Related Standing Record Cross-References](subcore_10.020_standing_assessment.md#62-related-standing-record-cross-references) requires related Standing Records to cross-reference each other when they share a subject, overlapping record span, bounded event, pattern, or decision context.
     - The subject may be a sentient, institution, system, assessment, event, role, collective, actor-specific record, or another constitutionally relevant unit — but distinct units and contexts must remain separately traceable.
     - The Standing Record supplies source material for later [Standing Effect](subcore_03.070_band_accountability.md#standing-effect) analysis; Chapter Sixteen applies that separate consequence layer from the linked Standing Record set.
     - Each Standing Record names, as separate seats under Chapter Fourteen §7 (*Record Custody and Opening Authority*):
@@ -4418,7 +4418,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2) (*standing locks and the types of gated pathway*).
+- Canonical owner: [Chapter Twelve §3.2](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2) (*standing locks and the types of gated pathway*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Standing Effect](subcore_03.070_band_accountability.md#standing-effect),
@@ -4437,7 +4437,7 @@ See **Anti-Segmentation Principle**.
 - **What it is**
   - **In scope:**
     - A specific role, privilege, or kind of access that a [Standing Effect](subcore_03.070_band_accountability.md#standing-effect) can open, open with safeguards, limit, or block.
-    - The types are trust, role, authority, financial authority, credit (credit for contribution, not money or lending), oversight, recognition, [influence](subcore_03.070_band_accountability.md#influence-pathway), **governance-voting**, and **stakeholder-participation**, as [Chapter Eighteen §3.2 Prevention — General Standing Locks](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) lists them.
+    - The types are trust, role, authority, financial authority, credit (credit for contribution, not money or lending), oversight, recognition, [influence](subcore_03.070_band_accountability.md#influence-pathway), **governance-voting**, and **stakeholder-participation**, as [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) lists them.
     - It is the unit Chapter Sixteen works in. A [Competency Bar](subcore_03.070_band_accountability.md#competency-bar) is set for it, a [Standing Lock](subcore_03.070_band_accountability.md#standing-lock) closes it, and one final standing effect is stated for each.
     - It is identified by what it gates, so an effect on one gated pathway does not carry over to another.
     - It is not itself a Rights-Floor minimum. Where Chapter Four sets conditions on a gated pathway, such as the governance vote under [**Article X-B**](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*), a lock may close it only on those conditions.
@@ -4469,7 +4469,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Eighteen §4.4](core_18.000_violation_consequences.md#446-influence-pathway-locks) (18.000 §4.4) (*influence-pathway locks*).
+- Canonical owner: [Chapter Twelve §4.4](core_12.000_violation_consequences.md#446-influence-pathway-locks) (18.000 §4.4) (*influence-pathway locks*).
 - Read with: the
   - [Gated Pathway](subcore_03.070_band_accountability.md#gated-pathway),
   - [Standing Lock](subcore_03.070_band_accountability.md#standing-lock),
@@ -4478,7 +4478,7 @@ See **Anti-Segmentation Principle**.
   - [System Capture](subcore_03.075_band_continuity.md#system-capture),
   - [Anti-Capture](subcore_03.075_band_continuity.md#anti-capture),
   - [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*), and
-  - [Chapter Twenty-One §5.1](core_21.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (21.000 §5.1) (*Bribery and Improper Benefit Exchange*).
+  - [Chapter Fifteen §5.1](core_15.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (21.000 §5.1) (*Bribery and Improper Benefit Exchange*).
 
 </details>
 
@@ -4492,15 +4492,15 @@ See **Anti-Segmentation Principle**.
     - It has five kinds of route:
       - **Contact:** influence contact under [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).
       - **Access:** private channels, briefings, advisory or liaison seats, insider information, introductions, and brokered meetings.
-      - **Benefit exchange:** offering, promising, giving, soliciting, accepting, or routing anything of value tied to a matter, as [Chapter Twenty-One §5.1](core_21.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*) describes it. That covers a quid pro quo and non-financial value such as gifts, hospitality, travel, favors, jobs and prospective roles, contracts, endorsements, information, threat-relief, and favorable treatment, whether given directly, through an intermediary, affiliate, or shell, or deferred until after the decision.
+      - **Benefit exchange:** offering, promising, giving, soliciting, accepting, or routing anything of value tied to a matter, as [Chapter Fifteen §5.1](core_15.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*) describes it. That covers a quid pro quo and non-financial value such as gifts, hospitality, travel, favors, jobs and prospective roles, contracts, endorsements, information, threat-relief, and favorable treatment, whether given directly, through an intermediary, affiliate, or shell, or deferred until after the decision.
       - **Manufactured support:** fabricated voices, front groups, bulk campaigns passed off as support, undisclosed sponsorship of seemingly independent experts or research, and steering a system on the deciding side.
       - **Pressure:** threats and retaliation.
     - Contact and access are those of an [Interested Party](subcore_03.070_band_accountability.md#interested-party). Benefit exchange, manufactured support, and pressure reach any sentient who takes part in them, including anyone who receives or routes the benefit.
     - A route worked through an intermediary, affiliate, shell, successor, or system acting for the sentient is the sentient's own.
   - **Out of scope:**
     - open advocacy, petition, public comment, testimony, defense, whistleblowing, and filings on an open Forum Case Record, and the access of an affected sentient to any body that must hear them;
-    - transparent, lawful, constitutionally aligned exchanges of value that [Chapter Twenty-One §5.1](core_21.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*) excludes from bribery; and
-    - the conduct rules in [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) and [Chapter Twenty-One §5.1](core_21.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*), which say what is wrongful. This entry names only what a lock can close.
+    - transparent, lawful, constitutionally aligned exchanges of value that [Chapter Fifteen §5.1](core_15.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*) excludes from bribery; and
+    - the conduct rules in [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*) and [Chapter Fifteen §5.1](core_15.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*), which say what is wrongful. This entry names only what a lock can close.
 <a id="influence-pathway-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Oversight measurement family](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family) — used together to test whether a lock on an influence pathway closed the routes it names and left open advocacy available.
@@ -4523,7 +4523,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Seventeen §3.2](core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) (17.000 §3.2) (*competency bars and clearances*).
+- Canonical owner: [Chapter Eleven §3.2](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) (17.000 §3.2) (*competency bars and clearances*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Competency Clearance](subcore_03.070_band_accountability.md#competency-clearance),
@@ -4579,7 +4579,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Seventeen §3.2](core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) (17.000 §3.2) (*competency bars and clearances*).
+- Canonical owner: [Chapter Eleven §3.2](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) (17.000 §3.2) (*competency bars and clearances*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Competency Bar](subcore_03.070_band_accountability.md#competency-bar),
@@ -4637,10 +4637,10 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2) (*standing locks*).
+- Canonical owner: [Chapter Twelve §3.2](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2) (*standing locks*).
 - Read with:
-  - [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2) (*general standing locks*);
-  - [Chapter Eighteen §4](core_18.000_violation_consequences.md#4-lock-design-and-enforcement) (18.000 §4) (*lock design and enforcement*); the
+  - [Chapter Twelve §3.2](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2) (*general standing locks*);
+  - [Chapter Twelve §4](core_12.000_violation_consequences.md#4-lock-design-and-enforcement) (18.000 §4) (*lock design and enforcement*); the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Standing Effect](subcore_03.070_band_accountability.md#standing-effect),
   - [Standing Record](subcore_03.070_band_accountability.md#standing-record),
@@ -4669,12 +4669,12 @@ See **Anti-Segmentation Principle**.
       - influence;
       - **governance-voting**; or
       - **stakeholder-participation**.
-    - A lock on taking or exercising governing, controlling, or owning authority in an institution or enterprise, after a verified violation carried out through one, is the Institutional Authority Standing Lock under [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks).
-    - A lock on the return of an Operating Party that a final dissolution order has ended is the Dissolution Reformation Lock under [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks). It sits on the dissolved Chartered Party and its successor entities and not on a sentient. It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise restorable.
-    - A lock on the attestation and verifying pathways, after a verified, knowingly false and material statement under oath, affirmation, an equivalent truth-duty, or a stated attestation, is the Perjury Standing Lock under [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks). It restricts no testimony.
-    - A lock on care, guardianship, stewardship, or parent-system authority, and on unsupervised access to developing or dependent sentients, after verified abuse, cruelty, or serious neglect of a sentient in the subject's care, is the Care and Stewardship Lock under [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks). It applies on the same terms to every substrate.
-    - A lock on authority over other sentients' or the public's money, and on unsupervised access to it, after a verified, knowing or intentional and material misuse of money, funds, or assets, or fraud or concealment about them, is the Financial Authority Standing Lock under [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks). It does not reach the subject's own earning, holding, spending, saving, or borrowing.
-    - A lock on a capacity the subject used to carry out a verified violation is a capacity lock under [Chapter Eighteen §4.4.7 Capacity Locks](core_18.000_violation_consequences.md#447-capacity-locks): the Creation Lock, the Reach Lock, the Scale Lock, or the Capability Lock. Each is defined by the capacity and not by the kind of sentient, and each is enforced only by denying outside means, never by intruding into a body or a mind.
+    - A lock on taking or exercising governing, controlling, or owning authority in an institution or enterprise, after a verified violation carried out through one, is the Institutional Authority Standing Lock under [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks).
+    - A lock on the return of an Operating Party that a final dissolution order has ended is the Dissolution Reformation Lock under [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks). It sits on the dissolved Chartered Party and its successor entities and not on a sentient. It is permanent where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm, and otherwise restorable.
+    - A lock on the attestation and verifying pathways, after a verified, knowingly false and material statement under oath, affirmation, an equivalent truth-duty, or a stated attestation, is the Perjury Standing Lock under [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks). It restricts no testimony.
+    - A lock on care, guardianship, stewardship, or parent-system authority, and on unsupervised access to developing or dependent sentients, after verified abuse, cruelty, or serious neglect of a sentient in the subject's care, is the Care and Stewardship Lock under [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks). It applies on the same terms to every substrate.
+    - A lock on authority over other sentients' or the public's money, and on unsupervised access to it, after a verified, knowing or intentional and material misuse of money, funds, or assets, or fraud or concealment about them, is the Financial Authority Standing Lock under [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks). It does not reach the subject's own earning, holding, spending, saving, or borrowing.
+    - A lock on a capacity the subject used to carry out a verified violation is a capacity lock under [Chapter Twelve §4.4.7 Capacity Locks](core_12.000_violation_consequences.md#447-capacity-locks): the Creation Lock, the Reach Lock, the Scale Lock, or the Capability Lock. Each is defined by the capacity and not by the kind of sentient, and each is enforced only by denying outside means, never by intruding into a body or a mind.
     - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, merged merit score, erasure of [Stakeholder](subcore_03.090_band_participation.md#stakeholder) status, or a substitute for the other gated pathway.
   - **Out of scope:**
     - A lock from unverified allegations. The interim measure on specific verified facts, short of a violation finding, is an [Interim Hold](subcore_03.070_band_accountability.md#interim-hold), which is not a lock.
@@ -4706,8 +4706,8 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Eighteen §4.5 Special Locks](core_18.000_violation_consequences.md#45-special-locks).
-- Formation and institutional certification interfaces: [Chapter Five §7 Formation Check: Office-Holder Standing and Authenticity](core_05.000_charters.md#7-formation-check-office-holder-standing-and-authenticity) and [Chapter Twelve §4.4 Denial and Revocation for an Institution](core_12.000_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution).
+- Canonical owner: [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks).
+- Formation and institutional certification interfaces: [Chapter Five §7 Formation Check: Office-Holder Standing and Authenticity](core_05.000_charters.md#7-formation-check-office-holder-standing-and-authenticity) and [Subcore 9-D §4.4 Denial and Revocation for an Institution](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation-for-an-institution).
 - Read with: [Standing Lock](subcore_03.070_band_accountability.md#standing-lock), [Interim Hold](subcore_03.070_band_accountability.md#interim-hold), and [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*).
 
 </details>
@@ -4737,12 +4737,12 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Canonical owner: numeric slot assignment remains with the
-  - [Chapter Fifteen §8 unified scale](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8), controlled only by verified impact.
-  - [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000), especially its
-  - [Chapter Twenty §3](core_20.000_misconduct_designation.md#3-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (20.000 §3),
-  - [criteria set](core_20.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale),
-  - [designation analysis](core_20.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation), and
-  - [due-process safeguards](core_20.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention), governs only whether a Chapter Fifteen slot 7, 8, or 9 record receives the corresponding anti-constitutional-misconduct designation.
+  - [Subcore 10-D §8 unified scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8), controlled only by verified impact.
+  - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000), especially its
+  - [Chapter Fourteen §3](core_14.000_misconduct_designation.md#3-how-designation-decisions-work--continuity-and-tetrad-capture-frame) (20.000 §3),
+  - [criteria set](core_14.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale),
+  - [designation analysis](core_14.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation), and
+  - [due-process safeguards](core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention), governs only whether a Chapter Fifteen slot 7, 8, or 9 record receives the corresponding anti-constitutional-misconduct designation.
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Violation Nature](subcore_03.070_band_accountability.md#violation-nature),
@@ -4794,7 +4794,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty §5](core_20.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (20.000 §5).
+- Canonical owner: [Chapter Fourteen §5](core_14.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (20.000 §5).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](subcore_03.070_band_accountability.md#anti-constitutional-misconduct-review),
@@ -4841,7 +4841,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty §5](core_20.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (20.000 §5), [§6](core_20.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation), and [§4.3](core_21.000_misconduct_pattern_applications.md#43-info-sphere-zone-flooding).
+- Canonical owner: [Chapter Fourteen §5](core_14.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (20.000 §5), [§6](core_14.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation), and [§4.3](core_15.000_misconduct_pattern_applications.md#43-info-sphere-zone-flooding).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Unified Incident](subcore_03.070_band_accountability.md#unified-incident),
@@ -4899,7 +4899,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty §5](core_20.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (20.000 §5) (*incident shapes for anti-constitutional-misconduct designation*).
+- Canonical owner: [Chapter Fourteen §5](core_14.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (20.000 §5) (*incident shapes for anti-constitutional-misconduct designation*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](subcore_03.070_band_accountability.md#anti-constitutional-misconduct-review),
@@ -4944,7 +4944,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Canonical owner: [Chapter Twenty §5](core_20.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (20.000 §5) (*incident shapes for anti-constitutional-misconduct designation*).
+- Canonical owner: [Chapter Fourteen §5](core_14.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (20.000 §5) (*incident shapes for anti-constitutional-misconduct designation*).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Anti-Constitutional Misconduct Review](subcore_03.070_band_accountability.md#anti-constitutional-misconduct-review),
@@ -5420,7 +5420,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (scaled / adversarial deployment scrutiny).
+- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (scaled / adversarial deployment scrutiny).
 - Owner floor: [Article XV-C](core_04.020_rights_part_c.md#article-xv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Systems-layer implementation: [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification) classification.
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](subcore_03.070_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:

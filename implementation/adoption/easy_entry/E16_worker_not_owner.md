@@ -4,12 +4,12 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-11`
-> **Corpus edition pin:** `SC-Corpus-2026.10.21`
+> **Corpus edition pin:** `SC-Corpus-2026.11.25`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_23.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Four §7](../../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
-> If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
+> If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations), do **not** treat this page as an answer key.
 
 </details>
 
@@ -51,7 +51,7 @@ See: [Article III-B](../../../core_04.000_rights_part_a.md#article-iii-b-bodily-
 - **Today:** Asking why the portal failed, or why the cut happened, is logged as attitude. The next roster disappears.
 - **With this Constitution:** Retaliation against good-faith reports is in the challenge floor. A workplace note is not, by itself, an official record of verified help or harm.
 
-See: [Article XIV-A](../../../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Chapter Fourteen §4.2](../../../core_14.000_standing_assessment.md#42-silence-is-the-default).
+See: [Article XIV-A](../../../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Subcore 10-B §4.2](../../../subcore_10.020_standing_assessment.md#42-silence-is-the-default).
 
 **Human and machine workers do not get two stacks.**
 - **Today:** The model is constrained; the human crew is told to skip the rule and “take responsibility.” Or the reverse: extra duties only the machine has to follow.
@@ -67,7 +67,7 @@ See: [Chapter Two §17.1](../../../core_02.040_stewardship_capacity_principles.m
 
 - **“I want the shop.”** Owning the shop is not what this page is for. Starting a lawful shop is a different brief ([E08](E08_small_business_owner.md)). This page will not transfer title.
 
-- **“This isn’t labor law where I clock in.”** Correct. It does not override applicable employment or safety law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
+- **“This isn’t labor law where I clock in.”** Correct. It does not override applicable employment or safety law ([Chapter Twenty-Four §7](../../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
 - **“I am not a ‘worker type.’”** You do not have to take that label to use this page. This brief is for someone who does the work while someone else holds the shop, the app, or the line. It does not change the Rights Floor that applies to you. When pay, rest, safety, organizing, or a schedule that blocks a clinic is actually at stake, those rules are located in [Article III-C](../../../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (pay and organizing), [Article III-D](../../../core_04.000_rights_part_a.md#article-iii-d-safe-working-conditions) (safety), and [Article III-E](../../../core_04.000_rights_part_a.md#article-iii-e-rest-and-recuperation) (rest).
 

@@ -66,13 +66,13 @@ When a trigger fires, route it to the correct owner section — not every proble
 
 - **CI-6.210** — receiving and opening reports;
 - **CI-6.215** — independent assurance checks and urgency-scaled incident notification (**CI-6.215 §1** (*Controls Declaration*));
-- **CI-22.210** — escalation when local review fails;
+- **CI-16.210** — escalation when local review fails;
 - **CI-6.205** — structural independence and lane safeguards when capture is suspected;
-- **CI-22.205** — fair procedure and contest rights;
+- **CI-16.205** — fair procedure and contest rights;
 - applicable **CF** sections — forum-side support; and
-- **CI-4.215** (*Resource stewardship and incentive integrity*), **CI-25.205** (*Institutional accountability and sanctions*) for sanctions where misconduct is confirmed.
+- **CI-4.215** (*Resource stewardship and incentive integrity*), **CI-19.205** (*Institutional accountability and sanctions*) for sanctions where misconduct is confirmed.
 
-Standing Records remain under [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened), and contribution and violation measurement, including the Violation Axis, remains under [Chapter Fifteen](core_15.000_standing_measurement.md#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it). [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) owns the separate anti-constitutional-misconduct designation.
+Standing Records remain under [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened), and contribution and violation measurement, including the Violation Axis, remains under [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it). [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) owns the separate anti-constitutional-misconduct designation.
 
 <a id="4-gifts-apparent-conflicts-and-funding-integrity"></a>
 
@@ -106,7 +106,7 @@ Entries are made within the 30-day **gift-register entry window**, counted from 
 
 **Funding-change log:** Each funder, budget authority, or paying body of a covered body keeps a public funding-change log of every change to that body's funding, with the date, the amount, and the published reason. The log must let a reader see whether a change followed a decision adverse to the funder.
 
-**Routing:** A violation of these rules is an integrity trigger under [§3 Integrity Trigger Categories](#3-integrity-trigger-categories). Offering, accepting, or routing a benefit tied to a matter may also be alleged as bribery or improper benefit exchange under [Chapter Twenty-One §5.1](core_21.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*).
+**Routing:** A violation of these rules is an integrity trigger under [§3 Integrity Trigger Categories](#3-integrity-trigger-categories). Offering, accepting, or routing a benefit tied to a matter may also be alleged as bribery or improper benefit exchange under [Chapter Fifteen §5.1](core_15.000_misconduct_pattern_applications.md#51-bribery-and-improper-benefit-exchange) (*Bribery and Improper Benefit Exchange*).
 
 ---
 

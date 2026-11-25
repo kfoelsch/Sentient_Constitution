@@ -40,19 +40,19 @@
   "fixed_periods": [
     {
       "name": "watch period",
-      "owner": "CI-18.210 §3"
+      "owner": "CI-12.210 §3"
     },
     {
       "name": "order term",
-      "owner": "CI-25.205 §2"
+      "owner": "CI-19.205 §2"
     },
     {
       "name": "host replacement window",
-      "owner": "CI-27.205 §7"
+      "owner": "CI-21.205 §7"
     },
     {
       "name": "cooling-off period",
-      "owner": "Article XIII-C and CI-27.205 §2"
+      "owner": "Article XIII-C and CI-21.205 §2"
     },
     {
       "name": "half-life",
@@ -88,7 +88,7 @@
     },
     {
       "name": "root-cause review period",
-      "owner": "Subcore 26-A §5"
+      "owner": "Subcore 20-A §5"
     },
     {
       "name": "Adoption Charter review interval",
@@ -132,27 +132,27 @@
     },
     {
       "name": "assembly term",
-      "owner": "CI-27.205 §8"
+      "owner": "CI-21.205 §8"
     },
     {
       "name": "tax-break lapse period",
-      "owner": "Subcore 24-A §4.4"
+      "owner": "Subcore 18-A §4.4"
     },
     {
       "name": "payable-credit period",
-      "owner": "Subcore 24-A §4.5"
+      "owner": "Subcore 18-A §4.5"
     },
     {
       "name": "amnesty interval",
-      "owner": "Subcore 24-A §5.2"
+      "owner": "Subcore 18-A §5.2"
     },
     {
       "name": "reassessment period",
-      "owner": "Subcore 24-A §7.4"
+      "owner": "Subcore 18-A §7.4"
     },
     {
       "name": "tax notice period",
-      "owner": "Subcore 24-A §8"
+      "owner": "Subcore 18-A §8"
     },
     {
       "name": "roll correction period",
@@ -234,12 +234,12 @@
   "scaled_windows": [
     {
       "name": "response window",
-      "owner": "Chapter Five §3.6 and §8; CI-18.210 §3",
+      "owner": "Chapter Five §3.6 and §8; CI-12.210 §3",
       "takes": "the intake target of the Tier that matches the Chartered Party's class"
     },
     {
       "name": "resolution window",
-      "owner": "Chapter Five §3.6 and §8; CI-18.210 §3",
+      "owner": "Chapter Five §3.6 and §8; CI-12.210 §3",
       "takes": "the outer bound of the Tier that matches the Chartered Party's class"
     }
   ],
@@ -264,12 +264,12 @@
       "reason": "Article V plain-language aim; it states a principle and sets no deadline. Promptly is not a length (TIME-NAME-01)."
     },
     {
-      "file": "core_20.000_misconduct_designation.md",
+      "file": "core_14.000_misconduct_designation.md",
       "contains": "A genuine drafting mistake that is fixed promptly",
       "reason": "Good-faith drafting carve-out; the bound is already 'before constitutional effect', and a number would widen or narrow a defence to misconduct."
     },
     {
-      "file": "core_20.000_misconduct_designation.md",
+      "file": "core_14.000_misconduct_designation.md",
       "contains": "drafting mistake is not anti-constitutional misconduct if it is disclosed promptly",
       "reason": "Good-faith drafting carve-out; the bound is already 'before constitutional effect', and a number would widen or narrow a defence to misconduct."
     }

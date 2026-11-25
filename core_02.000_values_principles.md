@@ -314,7 +314,7 @@ Safety and Truth findings can change a sentient's Standing Record, including:
 - how severe those violations are classified
 - what consequences attach
 
-The standing model — [**Chapter Fourteen**](core_14.000_standing_assessment.md) for records and [**Chapter Fifteen**](core_15.000_standing_measurement.md) for measurement — governs how those findings are classified, verified, and applied, with evaluation and compliance requirements drawn from [**Chapter Three, including its subcore**](subcore_03.010_definition_structure.md).
+The standing model — [Subcore 10-B — **Chapter Fourteen**](subcore_10.020_standing_assessment.md) for records and [Subcore 10-D — **Chapter Fifteen**](subcore_10.040_standing_measurement.md) for measurement — governs how those findings are classified, verified, and applied, with evaluation and compliance requirements drawn from [**Chapter Three, including its subcore**](subcore_03.010_definition_structure.md).
 
 ### 3. Foundational Objective: Wellbeing (Flourishing Aim)
 <details>
@@ -392,7 +392,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
   - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and
   - [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record) where precedence and allocation choices must remain coherent and reviewable, and
-  - [Chapter Eight §6.5.3 System Class Scaling and Escalation](core_08.000_system_alignment_certification_evaluation.md#653-system-class-scaling-and-escalation) (8.000 §6.5.3) (*non-response safeguards under §3.1.5*).
+  - [Subcore 8-B §6.5.3 System Class Scaling and Escalation](subcore_08.020_system_alignment_certification_evaluation.md#653-system-class-scaling-and-escalation) (8.000 §6.5.3) (*non-response safeguards under §3.1.5*).
 - Subsections (reading order):
   - [§3.1.1](#311-access-and-opportunity) ·
   - [§3.1.2](#312-benefits-and-burdens) ·
@@ -406,7 +406,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
     - [Article X: Self-Determination, Agency, and Participation](core_04.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
     - [Article XIV-B: Right to Redress and Remedy](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy), and
     - [Article XX-B: Contestability and Proportional Restriction Limits](core_04.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits).
-  - Where an anti-constitutional designation carries sanctions or durable effect, read with [Chapter Twenty, section 7 — Due-Process Safeguards, Remedy, and Prevention](core_20.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (20.000).
+  - Where an anti-constitutional designation carries sanctions or durable effect, read with [Chapter Fourteen, section 7 — Due-Process Safeguards, Remedy, and Prevention](core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (20.000).
   - Non-discrimination commitments are elaborated through Chapter Three [§2 — Protected Characteristics, Proxying, Intimate-Signal Gating, and **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) Status](subcore_03.090_band_participation.md#fairness-protected-characteristics-and-nondiscrimination), including [Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention](subcore_03.090_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) where §2.1.3 fair-treatment rules implicate intimate-signal gating or **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*).
 - Read with: [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) and related Chapter Four Rights-Floor obligations where benefits, burdens, rewards, costs, duties, risks, contribution, need, or exposure are material; [Accessibility](subcore_03.090_band_participation.md#accessibility) where §2.1.1 access paths are material; [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) where aggregate metrics or scoreboard effects are material.
 
@@ -520,8 +520,8 @@ These five parts also support [6. Trust](#6-trust-and-trustworthiness-coordinati
   - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth);
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
   - [§7 Freedom](#7-freedom-bounded-agency).
-- Read with: [Chapter Fifteen §§5.1–5.2 — Normalized descriptor catalog](core_15.000_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (15.000 §5.1) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
-- Read with: [Chapter Fifteen §5.1 — Contribution-side descriptors](core_15.000_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (15.000 §5.1) where contribution nature and recognition narratives are material; [Chapter Sixteen §5](core_16.000_standing_integration.md#5-descriptor-integration-and-attachment-normalization) (16.000 §5) for their integration into Question 3.
+- Read with: [Subcore 10-D — Chapter Fifteen §§5.1–5.2 — Normalized descriptor catalog](subcore_10.040_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (15.000 §5.1) where **domain-aligned** recognition or comparative **Contribution Axis / Violation Axis** descriptor narratives are material.
+- Read with: [Subcore 10-D — Chapter Fifteen §5.1 — Contribution-side descriptors](subcore_10.040_standing_measurement.md#51-contribution-route-descriptor-catalog-and-measurement-roles) (15.000 §5.1) where contribution nature and recognition narratives are material; [Subcore 10-F §5](subcore_10.060_standing_integration.md#5-descriptor-integration-and-attachment-normalization) (16.000 §5) for their integration into Question 3.
 - Read with: [Article X: Self-Determination, Agency, and Participation](core_04.010_rights_part_b.md#article-x-self-determination-agency-and-participation) where preferences for recognition form, visibility, or opt-out are material.
 - Subsections (reading order):
   - [§3.2.1](#321-recognition-and-reinforcement) ·
@@ -834,8 +834,8 @@ Systems may not undermine the ability of sentients to understand what is happeni
   - [6. Trust](#6-trust-and-trustworthiness-coordination-integrity),
   - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints),
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
 - Downstream: Shapes the rights surface for reliable empirical evidence, expert-evidence standards, scientific publication and replication integrity, independent verification, lifecycle testing, root-cause review, and safety-sensitive disclosure.
   - Especially
@@ -844,7 +844,7 @@ Systems may not undermine the ability of sentients to understand what is happeni
     - [Article XVI-D: Scientific Publication, Review, and Replication Integrity](core_04.020_rights_part_c.md#article-xvi-d-scientific-publication-review-and-replication-integrity),
     - [Article XXV: Root Cause Analysis and Adaptive Response](core_04.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response), and
     - [Article XXVII-A: Retrospective Review and Disclosure](core_04.040_rights_part_e.md#article-xxvii-a-retrospective-review-and-disclosure).
-- Read with: [Chapter Twenty-Three §3.2 — Technical Forum Domains](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) (23.000 §3.2) (*including shared standards and anti-displacement*) where expert-evidence standards, technical questions for ruling, or evidence-stewardship disputes are material; [CF-22.440](corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md#cf-22440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
+- Read with: [Chapter Seventeen §3.2 — Technical Forum Domains](core_17.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains) (23.000 §3.2) (*including shared standards and anti-displacement*) where expert-evidence standards, technical questions for ruling, or evidence-stewardship disputes are material; [CF-16.440](corpus_forum/cf_16.440_technical_specialist_forums_specialist_chambers.md#cf-16440-technical-specialist-forums-and-specialist-chambers) (*Technical specialist forums and specialist chambers*) for adopted specialist routes.
 
 </details>
 
@@ -887,7 +887,7 @@ Where governance choices — including predictions, causal claims, classificatio
 
 The scientific method, systematic inquiry, and peer review set the standard — but they are not the only acceptable procedures. How much formality is required depends on the stakes: higher-impact decisions need stricter evidence practices, governed by [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance).
 
-If a dispute is about what counts as good expert evidence, which methods are sound, or who looks after the evidence, it goes to the forum that handles those questions. See **Technical Forum Domains** in [Chapter Twenty-Three §3.2 Technical Forum Domains](core_23.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains). Technical Forums keep standards consistent across families, and can answer technical questions for ruling. They don't take over a case that belongs in another forum because of what is at stake.
+If a dispute is about what counts as good expert evidence, which methods are sound, or who looks after the evidence, it goes to the forum that handles those questions. See **Technical Forum Domains** in [Chapter Seventeen §3.2 Technical Forum Domains](core_17.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains). Technical Forums keep standards consistent across families, and can answer technical questions for ruling. They don't take over a case that belongs in another forum because of what is at stake.
 
 Sometimes safety is a good reason to limit what gets published or shared: data access, how a method works, or the materials someone would need to repeat a study. Such limits are allowed only under:
 
@@ -915,7 +915,7 @@ Even then, keep as much honesty and checkability as you safely can. Use protecte
   - [Article IV: Right to Sentient-Centered Education](core_04.000_rights_part_a.md#article-iv-right-to-sentient-centered-education),
   - [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification),
   - [Article XXIV: Comprehensibility and Complexity Stewardship](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
-- Cross-reference: layering used to evade oversight is also reached by [Chapter Nineteen §5.4 Anti-Evasion and Look-through Authority](core_19.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority) (19.000 §5.4), which applies to standing and forum enforcement.
+- Cross-reference: layering used to evade oversight is also reached by [Chapter Thirteen §5.4 Anti-Evasion and Look-through Authority](core_13.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority) (19.000 §5.4), which applies to standing and forum enforcement.
 - Cross-reference: Subcore 3-A to 3-C definition mechanics and plain-language guardrails in [subcore_03.010_definition_structure.md](subcore_03.010_definition_structure.md) remain controlling at the definition layer.
 - Subsections (reading order):
   - [§5.2.1](#521-scope) ·
@@ -1069,7 +1069,7 @@ Trust connects the principle constraints to everyday shared life:
 - [**Materiality**](subcore_03.085_band_oversight.md#materiality) determines how much must be shown and explained — the higher the stakes for sentients who depend on a system, the more that system must disclose and justify.
 - [**Trust Degradation and Misleading Reliance**](subcore_03.075_band_continuity.md#trust-degradation-and-misleading-reliance) names the failure mode — when systems create, preserve, or score reliance in constitutionally misleading ways.
 
-Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that materially undermines sentients' ability to detect and challenge systemic risk. Trust also fails when reliance is endorsed or continued while documented problems materially threaten a system's alignment with this Constitution or cause misalignment with it. The [**System Alignment Certification**](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) process under [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable System Certification Record — not merely on operator assertion.
+Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that materially undermines sentients' ability to detect and challenge systemic risk. Trust also fails when reliance is endorsed or continued while documented problems materially threaten a system's alignment with this Constitution or cause misalignment with it. The [**System Alignment Certification**](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) process under [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable System Certification Record — not merely on operator assertion.
 
 Trust also rests on what happens when a system fails. A trustworthy system fixes what it gets wrong: [§6.1 Correction and Remedy](#61-correction-and-remedy) makes correction part of Trust, not an afterthought.
 
@@ -1082,7 +1082,7 @@ Certification is one of two safeguards that work together: it makes a system wor
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **accountability** leg (answerability, redress, and real correction); **timeliness** leg (remedy before delay makes it unreachable); [material stake](core_00.000_preamble.md#material-stake) scaling for remedy depth.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** aim (reliance stays warranted because failures are put right); **Continuity** aim (durable remedy capacity across time, succession, and restructuring).
 - Upstream: Principles: [4 Safety](#4-safety-harm-constraint), [5 Truth](#5-truth-epistemic-integrity-constraint), and [§6 Trust](#6-trust-and-trustworthiness-coordination-integrity).
-- Downstream: [Article XIV-B: Right to Redress and Remedy](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Chapter Nineteen §5](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (19.000 §5) (*Enforcement Realism and Remedy Systems*) for standing consequences; [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) for institutional implementation.
+- Downstream: [Article XIV-B: Right to Redress and Remedy](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Chapter Thirteen §5](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (19.000 §5) (*Enforcement Realism and Remedy Systems*) for standing consequences; [CI-19.210](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md#ci-19210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) for institutional implementation.
 
 </details>
 
@@ -1130,7 +1130,7 @@ That correction must be real:
 - **In time:** Remedy that arrives only after harm has become irreversible, or after the sentient has been worn down into giving up, is not remedy (see [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution)).
 - **Borne by those responsible:** The cost of correction is not shifted onto those harmed, their communities, or public remedy systems where the responsible actors can bear it. Expense, restructuring, or succession does not by itself end the duty.
 
-The right to this correction is stated in [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) in Chapter Four. [Chapter Nineteen §5](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (*Enforcement Realism and Remedy Systems*) applies this principle to standing consequences, and [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) sets institutional implementation.
+The right to this correction is stated in [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*) in Chapter Four. [Chapter Thirteen §5](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (*Enforcement Realism and Remedy Systems*) applies this principle to standing consequences, and [CI-19.210](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md#ci-19210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*) sets institutional implementation.
 
 ### 7. Freedom (Bounded Agency)
 <a id="7-freedom-bounded-agency"></a>
@@ -1144,7 +1144,7 @@ The right to this correction is stated in [Article XIV-B](core_04.020_rights_par
 - Read with: [§11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure), especially [§11.2 Pro-Competition and Anti-Domination](core_02.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination), and [Article XXII: Interoperability, Portability, and Exit Integrity](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) where concentration, domination, or lock-in materially limits agency — contestable markets, exit paths, and anti-domination discipline keep agency real at scale.
 - Read with:
   - [§7.1 Limitation Discipline](#71-limitation-discipline) and
-  - [Chapter Eight §4.3 Time-Consistency Constraint](core_08.000_system_alignment_certification_evaluation.md#43-time-consistency-constraint) (8.000 §4.3) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under
+  - [Subcore 8-B §4.3 Time-Consistency Constraint](subcore_08.020_system_alignment_certification_evaluation.md#43-time-consistency-constraint) (8.000 §4.3) — operative freedom-limitation and time-consistency evaluation discipline; when freedom limits collide with other values or rights, resolve under
   - [§13.1](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles) through
   - [§13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) after **Safety** and **Truth** are satisfied.
 - Upstream: Principles:
@@ -1359,7 +1359,7 @@ The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Org
 
 - **What it does not change:** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only.
 - **Compartments:** Civic-association, labor-organization, platform-access, and authorization framings. Separating them is non-compliant where it preserves formal access while defeating assembly or collective-organization protection.
-- **Whole-system evaluations:** Must test anti-segmentation under [Chapter Eight §5.3 Assembly, Collective Organization, and Institutional Formation](core_08.000_system_alignment_certification_evaluation.md#53-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
+- **Whole-system evaluations:** Must test anti-segmentation under [Subcore 8-B §5.3 Assembly, Collective Organization, and Institutional Formation](subcore_08.020_system_alignment_certification_evaluation.md#53-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
 
 ##### 7.2.1 Aligned Self-Organization
 <a id="721-aligned-self-organization"></a>
@@ -1434,7 +1434,7 @@ Being received, routed, or answered is not approval of the authors' conclusions.
 
 **Exercising freedom must not cost standing or voice.** A sentient's exercise of this freedom must not become a reason to lower its standing, narrow its role eligibility, reduce its governance voice, or count against a system's alignment certification. Operative rules, including the civil-disobedience rule and the burden on adverse actions that follow dissent, live in **[Article XI-D](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)**.
 
-When a whole system is being evaluated, the evaluation must check how it treats dissent and peaceful protest, using [Chapter Eight §5.3.1 Dissent and Peaceful Protest](core_08.000_system_alignment_certification_evaluation.md#531-dissent-and-peaceful-protest). Until that evaluation is done, no one can claim the system is properly classified, well governed, or compliant where this section applies.
+When a whole system is being evaluated, the evaluation must check how it treats dissent and peaceful protest, using [Subcore 8-B §5.3.1 Dissent and Peaceful Protest](subcore_08.020_system_alignment_certification_evaluation.md#531-dissent-and-peaceful-protest). Until that evaluation is done, no one can claim the system is properly classified, well governed, or compliant where this section applies.
 
 **Scope.** This subsection does not protect separable conduct that independently violates Safety or another sentient's Rights-Floor minimums.
 
@@ -1500,7 +1500,7 @@ This subsection does **not** import voluntary-discontinuation discipline into th
 - sexual-consent
 - commercial-service
 
-Whole-system evaluations must test these conditions under [Chapter Eight §5.2 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_08.000_system_alignment_certification_evaluation.md#52-voluntary-discontinuation-major-self-modification-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
+Whole-system evaluations must test these conditions under [Subcore 8-B §5.2 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](subcore_08.020_system_alignment_certification_evaluation.md#52-voluntary-discontinuation-major-self-modification-and-exit-rights) before classification, governance, limitation, or compliance claims stand where admission scope applies.
 
 #### 7.5 Expression and the Harm Line
 

@@ -7,38 +7,34 @@
 - **Preamble:** [core_00.000_preamble.md](core_00.000_preamble.md)
 - **Ch 1:** [core_01.000_constitutional_map.md](core_01.000_constitutional_map.md)
 - **Ch 2:** [core_02.000_values_principles.md](core_02.000_values_principles.md), [core_02.010_values_principles_continuity_aim.md](core_02.010_values_principles_continuity_aim.md), [core_02.020_interaction_interpretation.md](core_02.020_interaction_interpretation.md), [core_02.030_constitutional_interpretation.md](core_02.030_constitutional_interpretation.md), [core_02.040_stewardship_capacity_principles.md](core_02.040_stewardship_capacity_principles.md), [core_02.050_governance_incentive_application.md](core_02.050_governance_incentive_application.md)
-- **Ch 3:** [core_03.000_definitions_home.md](core_03.000_definitions_home.md), [subcore_03.040_apex_accountability_leg.md](subcore_03.040_apex_accountability_leg.md), [subcore_03.045_apex_continuity_aim.md](subcore_03.045_apex_continuity_aim.md), [subcore_03.050_apex_flourishing_aim.md](subcore_03.050_apex_flourishing_aim.md), [subcore_03.055_apex_oversight_leg.md](subcore_03.055_apex_oversight_leg.md), [subcore_03.060_apex_participation_leg.md](subcore_03.060_apex_participation_leg.md), [subcore_03.065_apex_timeliness_leg.md](subcore_03.065_apex_timeliness_leg.md), [subcore_03.070_band_accountability.md](subcore_03.070_band_accountability.md), [subcore_03.075_band_continuity.md](subcore_03.075_band_continuity.md), [subcore_03.080_band_integrative.md](subcore_03.080_band_integrative.md), [subcore_03.085_band_oversight.md](subcore_03.085_band_oversight.md), [subcore_03.090_band_participation.md](subcore_03.090_band_participation.md), [subcore_03.095_band_performance.md](subcore_03.095_band_performance.md)
-- **Ch 3 subcore:** [subcore_03.010_definition_structure.md](subcore_03.010_definition_structure.md), [subcore_03.020_definition_integrity.md](subcore_03.020_definition_integrity.md), [subcore_03.030_burden_traceability_verification.md](subcore_03.030_burden_traceability_verification.md)
+- **Ch 3:** [core_03.000_definitions_home.md](core_03.000_definitions_home.md)
 - **Ch 4:** [core_04.000_rights_part_a.md](core_04.000_rights_part_a.md), [core_04.010_rights_part_b.md](core_04.010_rights_part_b.md), [core_04.020_rights_part_c.md](core_04.020_rights_part_c.md), [core_04.030_rights_part_d.md](core_04.030_rights_part_d.md), [core_04.040_rights_part_e.md](core_04.040_rights_part_e.md)
 - **Ch 5:** [core_05.000_charters.md](core_05.000_charters.md)
 - **Ch 6:** [core_06.000_functional_independence_separation_of_duties.md](core_06.000_functional_independence_separation_of_duties.md)
 - **Ch 7:** [core_07.000_independent_bodies.md](core_07.000_independent_bodies.md)
 - **Ch 8:** [core_08.000_system_alignment_certification_evaluation.md](core_08.000_system_alignment_certification_evaluation.md)
-- **Ch 9:** [core_09.000_system_alignment_certification_forum_process_outcomes.md](core_09.000_system_alignment_certification_forum_process_outcomes.md)
-- **Ch 10:** [core_10.000_system_alignment_certification_records_recertification.md](core_10.000_system_alignment_certification_records_recertification.md)
-- **Ch 11:** [core_11.000_institutional_alignment_certification_evaluation.md](core_11.000_institutional_alignment_certification_evaluation.md)
-- **Ch 12:** [core_12.000_institutional_alignment_certification_forum_process_outcomes.md](core_12.000_institutional_alignment_certification_forum_process_outcomes.md)
-- **Ch 13:** [core_13.000_institutional_alignment_certification_records_recertification.md](core_13.000_institutional_alignment_certification_records_recertification.md)
-- **Ch 14:** [core_14.000_standing_assessment.md](core_14.000_standing_assessment.md)
-- **Ch 15:** [core_15.000_standing_measurement.md](core_15.000_standing_measurement.md)
-- **Ch 16:** [core_16.000_standing_integration.md](core_16.000_standing_integration.md)
-- **Ch 17:** [core_17.000_contribution_consequences.md](core_17.000_contribution_consequences.md)
-- **Ch 18:** [core_18.000_violation_consequences.md](core_18.000_violation_consequences.md)
-- **Ch 19:** [core_19.000_final_effect_restoration_enforcement.md](core_19.000_final_effect_restoration_enforcement.md)
-- **Ch 20:** [core_20.000_misconduct_designation.md](core_20.000_misconduct_designation.md)
-- **Ch 21:** [core_21.000_misconduct_pattern_applications.md](core_21.000_misconduct_pattern_applications.md)
-- **Ch 22:** [core_22.000_forum.md](core_22.000_forum.md)
-- **Ch 23:** [core_23.000_forum_families_escalation_timeliness_support.md](core_23.000_forum_families_escalation_timeliness_support.md)
-- **Ch 24:** [core_24.000_assemblies.md](core_24.000_assemblies.md)
-- **Ch 25:** [core_25.000_enforcement.md](core_25.000_enforcement.md)
-- **Ch 26:** [core_26.000_special_enforcement.md](core_26.000_special_enforcement.md)
-- **Ch 27:** [core_27.000_governance.md](core_27.000_governance.md)
-- **Ch 28:** [core_28.000_non_regression.md](core_28.000_non_regression.md)
-- **Ch 29:** [core_29.000_amendment_ratification.md](core_29.000_amendment_ratification.md)
-- **Ch 30:** [core_30.000_expansion_supremacy.md](core_30.000_expansion_supremacy.md)
-- **Ch 31:** [core_31.000_incorporation.md](core_31.000_incorporation.md)
+- **Ch 9:** [core_09.000_institutional_alignment_certification_evaluation.md](core_09.000_institutional_alignment_certification_evaluation.md)
+- **Ch 10:** [core_10.000_standing_assessment.md](core_10.000_standing_assessment.md)
+- **Ch 11:** [core_11.000_contribution_consequences.md](core_11.000_contribution_consequences.md)
+- **Ch 12:** [core_12.000_violation_consequences.md](core_12.000_violation_consequences.md)
+- **Ch 13:** [core_13.000_final_effect_restoration_enforcement.md](core_13.000_final_effect_restoration_enforcement.md)
+- **Ch 14:** [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md)
+- **Ch 15:** [core_15.000_misconduct_pattern_applications.md](core_15.000_misconduct_pattern_applications.md)
+- **Ch 16:** [core_16.000_forum.md](core_16.000_forum.md)
+- **Ch 17:** [core_17.000_forum_families_escalation_timeliness_support.md](core_17.000_forum_families_escalation_timeliness_support.md)
+- **Ch 18:** [core_18.000_assemblies.md](core_18.000_assemblies.md)
+- **Ch 19:** [core_19.000_enforcement.md](core_19.000_enforcement.md)
+- **Ch 20:** [core_20.000_special_enforcement.md](core_20.000_special_enforcement.md)
+- **Ch 21:** [core_21.000_governance.md](core_21.000_governance.md)
+- **Ch 22:** [core_22.000_non_regression.md](core_22.000_non_regression.md)
+- **Ch 23:** [core_23.000_amendment_ratification.md](core_23.000_amendment_ratification.md)
+- **Ch 24:** [core_24.000_expansion_supremacy.md](core_24.000_expansion_supremacy.md)
+- **Ch 25:** [core_25.000_incorporation.md](core_25.000_incorporation.md)
 
 ## Open Backlog
+
+- [x] Consolidate Chapters 8–16 into three accessible chapters for system certification, institutional certification, and standing assessment, with detailed rules in subcore; renumber later chapters and preserve all binding meaning. Follow the [migration plan](project/plans/certification_standing_consolidation_plan_2026-11-24.md).
+- [ ] Restore `project/translation_drafts/2026-11-11/ch12-standing-measurement/` from the custodian's backup; translations remain paused and this recovery is separate from English edits.
 
 - [ ] Write the corpus-institutions files that the Public Policy Office (Subcore 7-B) and Public Stewardship Office (Subcore 7-C) point to for their templates, including the form of the strategic-development list (carried 2026-11-24 from the closed core-reorganization item, 974th move).
 - [ ] Custodian review of the capacity-lock and care-lock vignettes, CJS-14.105 §10.13 and §10.14 (953rd move; carried 2026-11-24 from the closed capacity-locks item).
@@ -49,7 +45,7 @@ These remain optional planning questions, not decisions. The prior notes are in 
 
 The crosswalk is complete within its stated frame: all 88 second-level Chapter Two/Chapter Six headings and all 50 third-level Chapter Two subsections are tagged. The remaining corpus is outside this principles-and-duties comparison; a broader inventory would be separate work. The 70 added tags remain provisional for independent human review. See the [crosswalk](project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md).
 
-The custodian's process-ownership design directions for the supporting proposal are recorded in [the resolved-work archive](archive/TODO_RESOLVED_2026-11-02.md). Exact core placement, wording and scope, human editing, and whether CI-22.205 needs a companion change-record template remain open.
+The custodian's process-ownership design directions for the supporting proposal are recorded in [the resolved-work archive](archive/TODO_RESOLVED_2026-11-02.md). Exact core placement, wording and scope, human editing, and whether CI-16.205 needs a companion change-record template remain open.
 
 ### Project cleanup — open decisions (carried from the archived move log, 2026-11-15)
 

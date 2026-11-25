@@ -111,7 +111,7 @@ flowchart TB
 
 *In plain terms: **Article XX** (*Standing and Participation Status*) decides who qualifies for which roles and privileges, how those calls are made and challenged, and what happens when standing is lowered or suspended. Standing is eligibility based on verified records of contribution and violation, kept separate, and on fair rules — not popularity, brand, or a social score — and it never replaces dignity, Rights-Floor minimums, or your say as someone a system affects. Ordinary participation stays open; a trust-sensitive role opens when you meet its published standard; and any role or privilege closes only through a **standing lock** after a verified violation finding. If standing is lowered, you get clear reasons, a real way to push back, and limits that fit the risk — and standing can never cut off survival essentials or paths to remedy. Standing reflects what can be checked today, not old reputation, and it never controls movement, refuge, or exit, which **Article XXII** (*Interoperability, Portability, and Exit Integrity*) and **Article XXIII** (*Movement, Migration, Refuge, and Non-Statelessness*) govern.*
 
-[Participant Standing](subcore_03.070_band_accountability.md#participant-standing) is participation-status or role-eligibility status on **gated pathways** — specified roles and privileges under [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (*General standing locks*), including:
+[Participant Standing](subcore_03.070_band_accountability.md#participant-standing) is participation-status or role-eligibility status on **gated pathways** — specified roles and privileges under [Chapter Twelve §3.2](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (*General standing locks*), including:
 
 - trust-sensitive roles;
 - delegated authority;
@@ -121,12 +121,12 @@ flowchart TB
 - **governance-voting**; and
 - **stakeholder-participation**.
 
-Participant standing is recognized from constitutionally valid Standing Records, standing effects, or [Competency Bar](subcore_03.070_band_accountability.md#competency-bar) criteria for the gated pathway. Standing Records come in two kinds under [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) (*Question 1 — What Happened?*):
+Participant standing is recognized from constitutionally valid Standing Records, standing effects, or [Competency Bar](subcore_03.070_band_accountability.md#competency-bar) criteria for the gated pathway. Standing Records come in two kinds under [Subcore 10-B §4](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (*Question 1 — What Happened?*):
 
 - **Contribution Standing Records** record verified help.
 - **Violation Standing Records** record verified harm.
 
-The two are kept separate and never blended into a net score. Having no Standing Record is the ordinary state, not an adverse fact ([Chapter Fourteen §4.2](core_14.000_standing_assessment.md#42-silence-is-the-default) (*Silence Is the Default*)).
+The two are kept separate and never blended into a net score. Having no Standing Record is the ordinary state, not an adverse fact ([Subcore 10-B §4.2](subcore_10.020_standing_assessment.md#42-silence-is-the-default) (*Silence Is the Default*)).
 
 Participant standing is not reputation or social esteem, and it does not itself impose access restrictions. Ordinary participation pathways, including **governance-voting**, stay open under published eligibility criteria. Beyond that, gated pathways open and close only through:
 
@@ -141,7 +141,7 @@ This Article states **constitutional floors** for standing and participation sta
 - **Continuity:** standing discipline stays revisable across time. [Standing locks](subcore_03.070_band_accountability.md#standing-lock) and other standing restrictions:
   - remain proportionate;
   - remain restorable where corrected; and
-  - must not harden into permanent exclusion from foundational constitutional voice, except where **Chapter Twenty** **anti-constitutional misconduct** classification and [**Chapter Twenty-Seven §6.1**](core_27.000_governance.md#61-entitlement-and-eligibility) (*Entitlement and Eligibility*) expressly withhold durable political voice pending **full restitution**.
+  - must not harden into permanent exclusion from foundational constitutional voice, except where **Chapter Twenty** **anti-constitutional misconduct** classification and [**Chapter twenty-one §6.1**](core_21.000_governance.md#61-entitlement-and-eligibility) (*Entitlement and Eligibility*) expressly withhold durable political voice pending **full restitution**.
 
 Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake):
 
@@ -162,7 +162,7 @@ Participant standing alone must not foreclose survival-critical access under **A
 
 *Article neighbors:*
 
-- **Owner layers:** [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) and [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) measure Standing Records and standing effects; this Article states Rights-Floor limits those layers must not narrow.
+- **Owner layers:** [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) and [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) measure Standing Records and standing effects; this Article states Rights-Floor limits those layers must not narrow.
 - **Subarticles:** [XX-A](#article-xx-a-standing-distinction) states what standing is not; [XX-B](#article-xx-b-contestability-and-proportional-restriction-limits) states the process rules for every standing decision; [XX-C](#article-xx-c-contribution-competency-bars-and-gated-pathway-eligibility) governs how gated pathways open; [XX-D](#article-xx-d-violations-and-standing-locks) governs how they close; [XX-E](#article-xx-e-voting-and-special-locks) adds the rules for voting locks and special locks.
 
 #### Article XX-A: Standing Distinction
@@ -170,7 +170,7 @@ Participant standing alone must not foreclose survival-critical access under **A
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: Chapter Two [§6 Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), and [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
-- Read with: **Article VI-A** (*Dignity and Equal Moral Standing*); **Article VI-B** (*Sentience-Status Adjudication Floor*); **Article XII** (*Stakeholder System Participation, Representation, and Due Process*); [Chapter Fourteen §4.2](core_14.000_standing_assessment.md#42-silence-is-the-default) (14.000 §4.2) (*Silence Is the Default*); [Chapter Nineteen §3.1](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) (19.000 §3.1) (*Anti-Aggregation of Gated-Pathway Effects*).
+- Read with: **Article VI-A** (*Dignity and Equal Moral Standing*); **Article VI-B** (*Sentience-Status Adjudication Floor*); **Article XII** (*Stakeholder System Participation, Representation, and Due Process*); [Subcore 10-B §4.2](subcore_10.020_standing_assessment.md#42-silence-is-the-default) (14.000 §4.2) (*Silence Is the Default*); [Chapter Thirteen §3.1](core_13.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) (19.000 §3.1) (*Anti-Aggregation of Gated-Pathway Effects*).
 
 </details>
 
@@ -196,23 +196,23 @@ This Article sets out how standing differs from competency bars, competency clea
 - **Role eligibility only:** Participant standing, Standing Records, competency bars, competency clearances, and standing locks govern role eligibility on gated pathways only. They must not:
   - blur together who qualifies for a role and who has inherent dignity or equal moral standing under **Article VI-A** (*Dignity and Equal Moral Standing*);
   - make role status a substitute for Rights-Floor minimums or for deciding whether someone is a [Stakeholder](subcore_03.090_band_participation.md#stakeholder) because a system actually affects them;
-  - treat the absence of a Standing Record as an adverse fact, or require a Standing Record or a "no record" attestation as a condition of survival essentials, ordinary commerce, or participation as an affected party — having no Standing Record is the ordinary state under [Chapter Fourteen §4.2](core_14.000_standing_assessment.md#42-silence-is-the-default) (*Silence Is the Default*);
+  - treat the absence of a Standing Record as an adverse fact, or require a Standing Record or a "no record" attestation as a condition of survival essentials, ordinary commerce, or participation as an affected party — having no Standing Record is the ordinary state under [Subcore 10-B §4.2](subcore_10.020_standing_assessment.md#42-silence-is-the-default) (*Silence Is the Default*);
   - treat dissent or peaceful protest under **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*) ([*Dissent and peaceful protest floor*](core_04.010_rights_part_b.md#xi-d-dissent-and-peaceful-protest)) as an adverse fact or weighting factor for any gated pathway; or
-  - assemble gated-pathway effects into a profile, ranking, or public display — [Chapter Nineteen §3.1](core_19.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) (*Anti-Aggregation of Gated-Pathway Effects*).
+  - assemble gated-pathway effects into a profile, ranking, or public display — [Chapter Thirteen §3.1](core_13.000_final_effect_restoration_enforcement.md#31-anti-aggregation-of-gated-pathway-effects) (*Anti-Aggregation of Gated-Pathway Effects*).
 - <a id="anti-substitution-sentience-status-xviii"></a>**Scores don't decide who counts:** None of the following may be used to decide whether someone is a sentient being:
   - standing scores, Standing Records, competency bars, competency clearances, or standing locks;
   - certification badges or [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) records;
   - LEQU scores;
   - substrate labels (the kind of body or hardware a being runs on) or product classifications.
 
-  That question is decided only under **Article VI-B** (*Sentience-Status Adjudication Floor*), [**Def.P1**](subcore_03.090_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status) (*Animal Life, Sentient Life, and Sentience Status*), and [Chapter Twenty-Three §4](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*Escalation and Questions for Ruling*).
+  That question is decided only under **Article VI-B** (*Sentience-Status Adjudication Floor*), [**Def.P1**](subcore_03.090_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status) (*Animal Life, Sentient Life, and Sentience Status*), and [Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (*Escalation and Questions for Ruling*).
 
 #### Article XX-B: Contestability and Proportional Restriction Limits
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
-- Downstream: [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) (14.000 §4) (*Standing Records, verified-input gate, and minimum record contents*); [Chapter Fourteen §4.7](core_14.000_standing_assessment.md#47-forum-boundary) (14.000 §4.7) (*forum boundary*); [Chapter Nineteen §4](core_19.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment) (19.000 §4) (*reinstatement and review*).
+- Downstream: [Subcore 10-B §4](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (14.000 §4) (*Standing Records, verified-input gate, and minimum record contents*); [Subcore 10-B §4.7](subcore_10.020_standing_assessment.md#47-forum-boundary) (14.000 §4.7) (*forum boundary*); [Chapter Thirteen §4](core_13.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment) (19.000 §4) (*reinstatement and review*).
 - Read with: **Article III-A** (*Survival*); **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XIV-B** (*Right to Redress and Remedy*); [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together); [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification); [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation**, **oversight**, **accountability**, and **timeliness** under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*), **Article XXI-B** (*Restriction Floors*), and **Article XXI-B** (*Restriction Floors*).
 
 </details>
@@ -240,22 +240,22 @@ This Article sets out how standing differs from competency bars, competency clea
 
 This Article sets out the contestability and proportionality limits on standing restrictions:
 
-- **Verified-input gate and record contestability:** Any decision that affects standing, trust, role, recognition, or eligibility for recognition may use only verified inputs from axis-pure **contribution Standing Records** or **violation Standing Records** under [Chapter Fourteen §4 Question 1 — What Happened?](core_14.000_standing_assessment.md#4-question-1--what-happened). Allegations, unadjudicated claims, provisional routing tags, intake-only narratives, and other dispute-phase material do not supply violation nature or contribution nature for standing by themselves (rule owned by [Chapter Fourteen §4.5 Verified-Input Gate](core_14.000_standing_assessment.md#45-verified-input-gate)).
-  - Every Standing Record must state how to challenge it, which forum or authority reviews it, and the conditions for correction, restoration, expiration, or scheduled review under [Chapter Fourteen §6.1 Minimum Record Contents](core_14.000_standing_assessment.md#61-minimum-record-contents).
+- **Verified-input gate and record contestability:** Any decision that affects standing, trust, role, recognition, or eligibility for recognition may use only verified inputs from axis-pure **contribution Standing Records** or **violation Standing Records** under [Chapter Fourteen §4 Question 1 — What Happened?](subcore_10.020_standing_assessment.md#4-question-1--what-happened). Allegations, unadjudicated claims, provisional routing tags, intake-only narratives, and other dispute-phase material do not supply violation nature or contribution nature for standing by themselves (rule owned by [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate)).
+  - Every Standing Record must state how to challenge it, which forum or authority reviews it, and the conditions for correction, restoration, expiration, or scheduled review under [Subcore 10-B §6.1 Minimum Record Contents](subcore_10.020_standing_assessment.md#61-minimum-record-contents).
   - Linked contribution and violation records must cross-reference one another where required, remain auditable and open to challenge, and must not collapse into a merged score, blended merits answer, or undifferentiated standing label.
 - **Pluralism and contestability:** Evaluations of standing must remain pluralistic, auditable, transparent enough for meaningful review, and contestable.
   - No single authority, dataset, reputation channel, or opaque algorithmic system may unilaterally determine standing in a manner that forecloses meaningful review.
   - Eligibility criteria, competency bars, competency clearances, standing locks, and positive standing recognition must remain contestable, reviewable, and non-monopolistic, and remain subject to continuous audit under this Article and designated implementation text.
-- **Forum supervision and record challenge:** [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) forum families supervise accessible challenge and, when the facts are verified under Subcores 3-A to 3-C, may (rule owned by [Chapter Fourteen §4.7 Forum Boundary](core_14.000_standing_assessment.md#47-forum-boundary)):
-  - **open, update, or correct** Standing Records under [Chapter Fourteen §6.1 Minimum Record Contents](core_14.000_standing_assessment.md#61-minimum-record-contents); or
+- **Forum supervision and record challenge:** [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) forum families supervise accessible challenge and, when the facts are verified under Subcores 3-A to 3-C, may (rule owned by [Subcore 10-B §4.7 Forum Boundary](subcore_10.020_standing_assessment.md#47-forum-boundary)):
+  - **open, update, or correct** Standing Records under [Subcore 10-B §6.1 Minimum Record Contents](subcore_10.020_standing_assessment.md#61-minimum-record-contents); or
   - **set a bad record aside on challenge**.
 - **Forum boundary:** A filed case is not standing by itself.
-  - What parties claim, file, or argue while a dispute is still open does not, on its own, count as verified help or harm on anyone's Standing Record (see [Chapter Fourteen §4.7 Forum Boundary](core_14.000_standing_assessment.md#47-forum-boundary), which owns this rule).
+  - What parties claim, file, or argue while a dispute is still open does not, on its own, count as verified help or harm on anyone's Standing Record (see [Subcore 10-B §4.7 Forum Boundary](subcore_10.020_standing_assessment.md#47-forum-boundary), which owns this rule).
   - That limit never weakens your right to challenge a decision, get it fixed, get temporary protection while the case is pending, or get a fair process under **Article XIV-A** (*Reliability and Trustworthiness Baseline*), **Article XIV-B** (*Right to Redress and Remedy*), and **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*).
 - **Procedural reviewability:** These rules apply whenever standing is materially restricted, downgraded, or suspended, for any reason, including:
   - a [standing lock](subcore_03.070_band_accountability.md#standing-lock) after a verified violation finding ([Article XX-D](#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*));
-  - a competency clearance limited or withdrawn after failed retesting or a verified change in role-relevant capacity, where no wrongdoing is involved ([Article XX-C](#article-xx-c-contribution-competency-bars-and-gated-pathway-eligibility) (*Contribution, Competency Bars, and Gated-Pathway Eligibility*); [Chapter Seventeen §3.2](core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) (*Competency Bars and Clearances*));
-  - temporary protective limits while a case is still open, before anything is verified ([Chapter Twenty-Three §4](core_23.000_forum_families_escalation_timeliness_support.md#interim-protection) (*Interim Protection*)), which for a named sentient's use of a gated pathway means an [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) under [Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway](core_23.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway).
+  - a competency clearance limited or withdrawn after failed retesting or a verified change in role-relevant capacity, where no wrongdoing is involved ([Article XX-C](#article-xx-c-contribution-competency-bars-and-gated-pathway-eligibility) (*Contribution, Competency Bars, and Gated-Pathway Eligibility*); [Chapter Eleven §3.2](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) (*Competency Bars and Clearances*));
+  - temporary protective limits while a case is still open, before anything is verified ([Chapter Seventeen §4](core_17.000_forum_families_escalation_timeliness_support.md#interim-protection) (*Interim Protection*)), which for a named sentient's use of a gated pathway means an [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) under [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway).
 
   In each case, the system must apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) and must:
   - explain **why** in clear terms;
@@ -277,11 +277,11 @@ This Article sets out the contestability and proportionality limits on standing 
 
 - Upstream: Principles: Chapter Two
   - [§6 Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) (14.000 §4) (*contribution Standing Records*); [Chapter Seventeen §3.2](core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) (17.000 §3.2) (*competency bars and clearances*); [Chapter Twenty-Seven §6.1](core_27.000_governance.md#61-entitlement-and-eligibility) (27.000 §6.1) (*governance-voting eligibility*).
-- Read with: [Chapter Fourteen §4.4](core_14.000_standing_assessment.md#44-linked-standing-records-and-no-offset-bridge) (14.000 §4.4) (*linked Standing Records and no-offset bridge*); [Article XX-D](#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*).
+- Downstream: [Subcore 10-B §4](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (14.000 §4) (*contribution Standing Records*); [Chapter Eleven §3.2](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) (17.000 §3.2) (*competency bars and clearances*); [Chapter Twenty-One §6.1](core_21.000_governance.md#61-entitlement-and-eligibility) (27.000 §6.1) (*governance-voting eligibility*).
+- Read with: [Subcore 10-B §4.4](subcore_10.020_standing_assessment.md#44-linked-standing-records-and-no-offset-bridge) (14.000 §4.4) (*linked Standing Records and no-offset bridge*); [Article XX-D](#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*).
 
 </details>
 
@@ -310,12 +310,12 @@ This Article sets out the contestability and proportionality limits on standing 
 This Article sets out how contribution, competency bars, and gated-pathway eligibility work:
 
 - **Gated-pathway eligibility on present evidence:** Published eligibility criteria for ordinary participation, trust-sensitive roles, oversight eligibility, **governance-voting**, and **stakeholder-participation** gated pathways must rest on present, observable, contestable evidence — not reputation, scale, or historical standing alone.
-  - Ordinary participation pathways, including **governance-voting**, stay open when published eligibility criteria are met and no applicable standing lock blocks them ([Chapter Twenty-Seven §6.1](core_27.000_governance.md#61-entitlement-and-eligibility) (*Entitlement and Eligibility*)).
+  - Ordinary participation pathways, including **governance-voting**, stay open when published eligibility criteria are met and no applicable standing lock blocks them ([Chapter Twenty-One §6.1](core_21.000_governance.md#61-entitlement-and-eligibility) (*Entitlement and Eligibility*)).
   - Eligibility criteria must remain subject to **Chapters Fourteen and Fifteen** (*Standing Records and Standing Measurement*), remain subject to continuous audit, and remain revisable when current evidence changes.
-- **Contribution Standing Records:** Verified help enters **contribution Standing Records** under [Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) (*Question 1 — What Happened?*) and is classified as positive-only [Contribution Nature](subcore_03.070_band_accountability.md#contribution-nature) on the Contribution Axis.
+- **Contribution Standing Records:** Verified help enters **contribution Standing Records** under [Subcore 10-B §4](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (*Question 1 — What Happened?*) and is classified as positive-only [Contribution Nature](subcore_03.070_band_accountability.md#contribution-nature) on the Contribution Axis.
   - Contribution may support competency clearance and trust-sensitive role eligibility.
-  - Contribution must not offset, waive, average down, or substitute for unresolved verified violation findings ([Chapter Fourteen §4.4](core_14.000_standing_assessment.md#44-linked-standing-records-and-no-offset-bridge) (*Linked Standing Records and No-Offset Bridge*)); its limited role in lock reassessment is stated in [Article XX-D](#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*).
-- **Competency bars and clearances:** Some roles need proven skill or trust. For each one, [Chapter Seventeen §3.2](core_17.000_contribution_consequences.md#32-competency-bars-and-clearances) (*Competency Bars and Clearances*) works like this:
+  - Contribution must not offset, waive, average down, or substitute for unresolved verified violation findings ([Subcore 10-B §4.4](subcore_10.020_standing_assessment.md#44-linked-standing-records-and-no-offset-bridge) (*Linked Standing Records and No-Offset Bridge*)); its limited role in lock reassessment is stated in [Article XX-D](#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*).
+- **Competency bars and clearances:** Some roles need proven skill or trust. For each one, [Chapter Eleven §3.2](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) (*Competency Bars and Clearances*) works like this:
   - **The bar:** A [Competency Bar](subcore_03.070_band_accountability.md#competency-bar) is the qualification standard for that role. It must be published, and anyone affected must be able to check how it was applied and challenge it.
   - **What counts toward meeting it:** verified competence, experience, and contribution records, including a consistent record of meeting this Constitution's foundational requirements. Informal, peer-organized, mutual-aid, maintenance, repair, teaching, or community stewardship experience counts on the same terms as formal institutional experience, as long as it can be shown to the same standard.
   - **Clearance:** When those Standing Records meet the bar, the result is a [Competency Clearance](subcore_03.070_band_accountability.md#competency-clearance). With clearance in force, and no [Standing Lock](subcore_03.070_band_accountability.md#standing-lock) blocking the gated pathway, the holder may take on trust-sensitive roles, delegated authority, oversight roles, or progressively more consequential stewardship.
@@ -333,8 +333,8 @@ This Article sets out how contribution, competency bars, and gated-pathway eligi
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2) (*standing locks*); [Chapter Nineteen §4](core_19.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment) (19.000 §4) (*reinstatement and review*).
-- Read with: [Article XX-E](#article-xx-e-voting-and-special-locks) (*Voting and Special Locks*); [Chapter Fifteen §8](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*unified scale*); **Article XXI-B** (*Restriction Floors*); [Article XXIII-D](#article-xxiii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
+- Downstream: [Chapter Twelve §3.2](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2) (*standing locks*); [Chapter Thirteen §4](core_13.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment) (19.000 §4) (*reinstatement and review*).
+- Read with: [Article XX-E](#article-xx-e-voting-and-special-locks) (*Voting and Special Locks*); [Subcore 10-D §8](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (15.000 §8) (*unified scale*); **Article XXI-B** (*Restriction Floors*); [Article XXIII-D](#article-xxiii-d-limitation-custody-and-emergency-discipline) (*standing is not a border*).
 
 </details>
 
@@ -356,20 +356,20 @@ This Article sets out how contribution, competency bars, and gated-pathway eligi
 
 This Article sets out how violations are recorded and how standing locks attach:
 
-- **Violation nature from verified violation findings only:** [Violation Nature](subcore_03.070_band_accountability.md#violation-nature) may affect standing effect only when it rests on auditable, contestable findings satisfying **Subcores 3-A to 3-C** and [Chapter Fourteen](core_14.000_standing_assessment.md#45-verified-input-gate) — not allegations, intake labels, provisional routing, or forum-phase narratives alone.
+- **Violation nature from verified violation findings only:** [Violation Nature](subcore_03.070_band_accountability.md#violation-nature) may affect standing effect only when it rests on auditable, contestable findings satisfying **Subcores 3-A to 3-C** and [Subcore 10-B](subcore_10.020_standing_assessment.md#45-verified-input-gate) — not allegations, intake labels, provisional routing, or forum-phase narratives alone.
   - Eligibility and locks must account for acquiescent participation and failure to resist unlawful or unconstitutional directives where material duty and capacity were present, consistent with **Chapter Three** (*Collective Accountability Failure*).
-- **Standing locks:** A [Standing Lock](subcore_03.070_band_accountability.md#standing-lock) is the restrictive counterpart to competency clearance. While a verified violation finding remains unresolved or materially unremediated, it may prevent or limit trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, or **stakeholder-participation** pathways under [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (*General standing locks*). Restrictive consequences attach only through standing locks on gated pathways — including, where the verified risk requires it, separation from specific settings, networks, or sentients within the [separation limits](core_18.000_violation_consequences.md#415-separation-limits) of Chapter Eighteen §4.1 (*Definition and Attachment*).
+- **Standing locks:** A [Standing Lock](subcore_03.070_band_accountability.md#standing-lock) is the restrictive counterpart to competency clearance. While a verified violation finding remains unresolved or materially unremediated, it may prevent or limit trust-, role-, authority-, credit-, oversight-, recognition-, **governance-voting**, or **stakeholder-participation** pathways under [Chapter Twelve §3.2](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (*General standing locks*). Restrictive consequences attach only through standing locks on gated pathways — including, where the verified risk requires it, separation from specific settings, networks, or sentients within the [separation limits](core_12.000_violation_consequences.md#415-separation-limits) of Chapter Eighteen §4.1 (*Definition and Attachment*).
   - A standing lock is not a dignity rank, Rights-Floor reduction, automatic retaliation, or merged merit score.
   - Every standing lock must spell out what access is blocked, who or what is being protected, what must be fixed before the lock lifts (the corrective condition), where to appeal (the review path), and when reassessment happens — and must remain necessary, proportionate, auditable, and contestable under [Article XX-B](#article-xx-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*).
   - Competency clearance does not waive an applicable standing lock; good contribution does not erase unresolved verified violation findings.
   - Locks on a voting pathway, and the special locks, carry additional rules in [Article XX-E](#article-xx-e-voting-and-special-locks) (*Voting and Special Locks*).
   - Standing locks are not a substitute for individualized justice process and do not **by themselves** limit movement, refuge, portability, or exit ([Article XXII](#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) and [Article XXIII](#article-xxiii-movement-migration-refuge-and-non-statelessness) (*Movement, Migration, Refuge, and Non-Statelessness*)).
 - **Fitting the lock to the harm:** A standing lock must fit how serious the verified harm was, the specific role or privilege it protects, and how far repair has progressed.
-  - **Past help:** may be considered only where it shows the sentient can make repair, keep safeguards in place, or avoid a repeat, or where it supports a lighter restriction on reassessment ([Chapter Fourteen §4](core_14.000_standing_assessment.md#4-question-1--what-happened) (*Question 1 — What Happened?*)). It never offsets, waives, averages down, or replaces an unresolved finding of harm.
-  - **Less serious harm:** A finding of less serious harm, as measured under [Chapter Fifteen §8](core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (*Unified proportional LEQU scale*), does not justify long-term exclusion unless there is a repeated pattern, evasion, or a link to material harm.
+  - **Past help:** may be considered only where it shows the sentient can make repair, keep safeguards in place, or avoid a repeat, or where it supports a lighter restriction on reassessment ([Subcore 10-B §4](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (*Question 1 — What Happened?*)). It never offsets, waives, averages down, or replaces an unresolved finding of harm.
+  - **Less serious harm:** A finding of less serious harm, as measured under [Subcore 10-D §8](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (*Unified proportional LEQU scale*), does not justify long-term exclusion unless there is a repeated pattern, evasion, or a link to material harm.
   - **How someone acted:** Whether the conduct was careless, concealed, coercive, or repeated can shape this review, but it does not change how serious the harm itself is rated.
   - **Repeat or hidden conduct:** Stricter limits because conduct recurs or responsibility was concealed must still be necessary, proportionate, reviewable, and tied to verified findings.
-- **Reinstatement and non-entrenchment:** Where standing is reduced due to violation findings, systems must provide clear conditions for review, remediation-based restoration, and periodic re-evaluation under [Chapter Nineteen §4](core_19.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment) (*Restoration and Reassessment*).
+- **Reinstatement and non-entrenchment:** Where standing is reduced due to violation findings, systems must provide clear conditions for review, remediation-based restoration, and periodic re-evaluation under [Chapter Thirteen §4](core_13.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment) (*Restoration and Reassessment*).
   - Permanent exclusion based solely on historical status, without current and auditable justification, is non-compliant.
   - Where material restrictions are corrected, restoration or requalification pathways must be real rather than merely formal.
   - Completion of correction, restitution, monitoring, safeguard implementation, or other demonstrated reduction of recurrence risk must create a real reassessment gated pathway where lawful; failure to complete those obligations keeps the unresolved finding live for standing purposes.
@@ -379,7 +379,7 @@ This Article sets out how violations are recorded and how standing locks attach:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7) and [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Eighteen §4.5](core_18.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Special Locks*); [Chapter Twenty-Seven §6.1](core_27.000_governance.md#61-entitlement-and-eligibility) (27.000 §6.1) (*Entitlement and Eligibility*).
+- Downstream: [Chapter Twelve §4.5](core_12.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Special Locks*); [Chapter Twenty-One §6.1](core_21.000_governance.md#61-entitlement-and-eligibility) (27.000 §6.1) (*Entitlement and Eligibility*).
 - Read with: [Article XX-D](#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*); **Article X-B** (*Governance Participation and Voting Entitlement*); **Chapter Twenty** (*Anti-Constitutional Misconduct*).
 
 </details>
@@ -415,14 +415,14 @@ This Article sets out the limits on voting locks and special locks:
   - broad-misconduct categories swept into disqualification scope;
   - lock patterns that track **Protected Characteristics** or their material proxies.
 
-  **The one exception:** a final [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (*Anti-Constitutional Misconduct*) designation, which is reserved for the gravest verified attacks on this Constitution, withholds the foundational governance vote until **full restitution** is made. That withholding is not a standing lock, so the four requirements above do not govern it; its rules and safeguards are stated in [**Chapter Twenty-Seven §6.1**](core_27.000_governance.md#61-entitlement-and-eligibility) (*Entitlement and Eligibility*).
-- **Special locks:** These locks are stated in [Chapter Eighteen §4.5](core_18.000_violation_consequences.md#45-special-locks) (*Special Locks*):
+  **The one exception:** a final [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (*Anti-Constitutional Misconduct*) designation, which is reserved for the gravest verified attacks on this Constitution, withholds the foundational governance vote until **full restitution** is made. That withholding is not a standing lock, so the four requirements above do not govern it; its rules and safeguards are stated in [**Chapter twenty-one §6.1**](core_21.000_governance.md#61-entitlement-and-eligibility) (*Entitlement and Eligibility*).
+- **Special locks:** These locks are stated in [Chapter Twelve §4.5](core_12.000_violation_consequences.md#45-special-locks) (*Special Locks*):
   - **Forum-service standing lock:** A verified failure to recuse from a forum role where recusal was required and impartiality was materially compromised creates this lock. Reinstatement to forum service requires strict independent restoration; ordinary apology, prior contribution, reputation, expertise scarcity, or staffing need cannot satisfy that path by itself.
   - **Stakeholder-Participation Standing Lock:** Verified corruption, capture, false-stake abuse, coercion, or comparable material abuse of a stakeholder-participation pathway creates this lock. It limits stake-weighted vote and binding stakeholder choice in the affected domain; it does not by itself strip **governance-voting**, foundational constitutional choice, or stakeholder status. Ordinary apology, prior contribution, stake size, or operator indispensability cannot lift that lock by itself.
   - **Institutional Authority Standing Lock:** A verified violation carried out through an institution or enterprise, or an office in one, creates this lock. It bars the subject from taking or exercising governing, controlling, or owning authority in the gated pathway. It does not stop the institution or enterprise, which another lawful holder may lead.
   - **Financial Authority Standing Lock:** A verified violation finding of knowing or intentional, material misuse of money, funds, or assets held for other sentients or the public, or of fraud or concealment about them, creates this lock. It closes authority over that money and unsupervised access to it. It does not reach the subject's own earning, holding, spending, saving, or borrowing, ordinary wages, or survival-critical access, and it does not freeze or seize the subject's own assets. Repayment alone cannot lift it, and inability to repay alone cannot keep it in place.
   - **Perjury Standing Lock:** A verified, knowingly false and material statement under oath, affirmation, an equivalent truth-duty, or a stated attestation, given to a forum, a verifying authority, a certifier, or a record custodian, creates this lock. It closes the attestation and verifying pathways and puts the subject's own statements to independent corroboration. It does not restrict testimony, petition, defense, or protected reporting. Ordinary apology, a bare retraction, prior contribution, or reputation cannot lift that lock by itself.
-  - **Dissolution Reformation Lock:** A final dissolution order under **CI-18.210 §4** (*Dissolution*) creates this lock. It sits on the dissolved Chartered Party and its successor entities and not on a sentient, and it bars their return under any name or form while it stands. It is the one lock here that can be permanent, and only where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm: time, a resolved cause, or a change of holders cannot lift it then, and it ends only if the order is set aside or its violation finding is shown wrong. Otherwise it lifts on an independent restoration finding. It bars no sentient from forming a different Operating Party.
+  - **Dissolution Reformation Lock:** A final dissolution order under **CI-12.210 §4** (*Dissolution*) creates this lock. It sits on the dissolved Chartered Party and its successor entities and not on a sentient, and it bars their return under any name or form while it stands. It is the one lock here that can be permanent, and only where the order finds pervasive anti-constitutional conduct or unremedied Irreversible Harm: time, a resolved cause, or a change of holders cannot lift it then, and it ends only if the order is set aside or its violation finding is shown wrong. Otherwise it lifts on an independent restoration finding. It bars no sentient from forming a different Operating Party.
   - **Anti-Constitutional Trust Lock:** Final **Chapter Twenty** anti-constitutional misconduct creates this lock. While active, it bars roles or material influence over **Class A**, **Class B**, or **Class C** systems, constitutional forums, constitutional alignment recognition, critical-system stewardship, and anti-constitutional accountability pathways until strict independent restoration is verified.
 
 ### Article XXI: Justice After Verified Violation
@@ -435,7 +435,7 @@ This Article sets out the limits on voting locks and special locks:
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
   - [§7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency), and
   - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-- Downstream: [Chapter Eighteen §3](core_18.000_violation_consequences.md#3-violation-correction-and-prevention) (18.000 §3) (*Violation, Correction, and Prevention*); [Chapter Twenty §7](core_20.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (20.000 §7) (*Due-Process Safeguards, Remedy, and Prevention*).
+- Downstream: [Chapter Twelve §3](core_12.000_violation_consequences.md#3-violation-correction-and-prevention) (18.000 §3) (*Violation, Correction, and Prevention*); [Chapter Fourteen §7](core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention) (20.000 §7) (*Due-Process Safeguards, Remedy, and Prevention*).
 
 </details>
 
@@ -456,7 +456,7 @@ This Article states the justice floors that apply once a violation has been veri
 *Article neighbors:*
 
 - **Conflict resolution, review, and timeliness:** Disputes over constitutional Rights Floors, retrospective review, rights collisions, and anti-delay discipline are governed by [**Article XXVII** (*Timely Retrospective Review and Restorative Alignment*)](core_04.040_rights_part_e.md#article-xxvii-timely-retrospective-review-and-restorative-alignment).
-- **Emergency measures:** Governed by [Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden), read with **Article XXI-B** (*Restriction Floors*) for any restriction an emergency measure imposes.
+- **Emergency measures:** Governed by [Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden), read with **Article XXI-B** (*Restriction Floors*) for any restriction an emergency measure imposes.
 - **Standing:** [**Article XX** (*Standing and Participation Status*)](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status) governs standing. Justice measures under this Article are separate and are not a standing-label workaround.
 - **Timely redress:** Read with [**Article XIV-B** (*Right to Redress and Remedy*)](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*timely redress access*).
 
@@ -471,7 +471,7 @@ Adopted governance implementation may add detail. It must not narrow the justice
   - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5),
   - [Chapter Two §3.3 Anti-Degrading Process](core_02.000_values_principles.md#33-anti-degrading-process) (2.000 §3.3), and
   - [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
-- Downstream: [Chapter Eighteen §3](core_18.000_violation_consequences.md#3-violation-correction-and-prevention) (18.000 §3) (*Violation, Correction, and Prevention*); [Article XXI-B](#article-xxi-b-restriction-floors) (*Restriction Floors*).
+- Downstream: [Chapter Twelve §3](core_12.000_violation_consequences.md#3-violation-correction-and-prevention) (18.000 §3) (*Violation, Correction, and Prevention*); [Article XXI-B](#article-xxi-b-restriction-floors) (*Restriction Floors*).
 - Read with: [Cruelty](subcore_03.070_band_accountability.md#cruelty) (*Chapter Three home for the anti-cruelty floor's suffering-as-end standard*).
 
 </details>
@@ -508,8 +508,8 @@ This Article sets out the objective and scope of justice and the anti-cruelty fl
   - [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles),
   - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), and
   - [§14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: [Chapter Eighteen §4 Lock Design and Enforcement](core_18.000_violation_consequences.md#4-lock-design-and-enforcement) (18.000 §4) and [§4.4.5 Coercive or Liberty-Restricting Safeguards](core_18.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (*required imprisonment for verified violence and the other coercive or liberty-restricting safeguards*); [Chapter Twenty §7.2](core_20.000_misconduct_designation.md#72-prevention--anti-constitutional-locks) (20.000 §7.2) (*Prevention — anti-constitutional locks*; imprisonment specialization).
-- Read with: [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); [Chapter Twenty-Three §4 Escalation and Questions for Ruling](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (23.000 §4).
+- Downstream: [Chapter Twelve §4 Lock Design and Enforcement](core_12.000_violation_consequences.md#4-lock-design-and-enforcement) (18.000 §4) and [§4.4.5 Coercive or Liberty-Restricting Safeguards](core_12.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (*required imprisonment for verified violence and the other coercive or liberty-restricting safeguards*); [Chapter Fourteen §7.2](core_14.000_misconduct_designation.md#72-prevention--anti-constitutional-locks) (20.000 §7.2) (*Prevention — anti-constitutional locks*; imprisonment specialization).
+- Read with: [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*); [Chapter Seventeen §4 Escalation and Questions for Ruling](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) (23.000 §4).
 
 </details>
 
@@ -545,7 +545,7 @@ This Article sets the floors for restrictions. The operating rules live in the c
   - proportionate restitution or remediation;
   - rehabilitation or recurrence reduction where feasible;
   - keeping credit and consequences on the right actors — supported by evidence anyone can audit — under **Subcores 3-A to 3-C**.
-- **Individualized burden:** Any such measure must be aimed at the specific sentient or role involved — not a group label or proxy — and must stay open to challenge and independent review. A harsh label, public condemnation, or administrative shortcut does not substitute for proving every joint requirement above. Lock design and enforcement are governed by [Chapter Eighteen §4 Lock Design and Enforcement](core_18.000_violation_consequences.md#4-lock-design-and-enforcement).
+- **Individualized burden:** Any such measure must be aimed at the specific sentient or role involved — not a group label or proxy — and must stay open to challenge and independent review. A harsh label, public condemnation, or administrative shortcut does not substitute for proving every joint requirement above. Lock design and enforcement are governed by [Chapter Twelve §4 Lock Design and Enforcement](core_12.000_violation_consequences.md#4-lock-design-and-enforcement).
 - **Least-restrictive and time-bounded floor:** Justice, containment, and restorative-accountability measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). Where intervention is required, each measure must include:
   - explicit duration limits;
   - review cadence;
@@ -563,8 +563,8 @@ This Article sets the floors for restrictions. The operating rules live in the c
     - stated reasons;
     - practical access to the official record sufficient to use those escalation and review pathways.
 
-  Narrow, justified restrictions under **Chapter Two** are the only permissible limit on the above. Forum routing and certification are governed by [Chapter Twenty-Three §4 Escalation and Questions for Ruling](core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling).
-- **Imprisonment for violence:** Imprisonment is a liberty-restricting measure, separate from standing locks, and is recorded with the same attachment fields as a lock ([Chapter Eighteen §4.1 Definition and Attachment](core_18.000_violation_consequences.md#41-definition-and-attachment)). It must satisfy every floor in this Article, including explicit duration limits, review cadence, and restoration conditions. Sentients who commit verified violence or pose a continuing threat of violence must be imprisoned when imprisonment is necessary to protect others from further harm. Substituting deprivation of life, or failing to impose imprisonment when this floor requires it, is non-compliant. Conditions are governed by [Chapter Eighteen §4.4.5 Coercive or Liberty-Restricting Safeguards](core_18.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (*Required imprisonment for verified violence*). Imprisonment for verified anti-constitutional misconduct is governed on the same terms by [Chapter Twenty §7.2 Prevention — Anti-Constitutional Locks](core_20.000_misconduct_designation.md#72-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*; imprisonment specialization).
+  Narrow, justified restrictions under **Chapter Two** are the only permissible limit on the above. Forum routing and certification are governed by [Chapter Seventeen §4 Escalation and Questions for Ruling](core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling).
+- **Imprisonment for violence:** Imprisonment is a liberty-restricting measure, separate from standing locks, and is recorded with the same attachment fields as a lock ([Chapter Twelve §4.1 Definition and Attachment](core_12.000_violation_consequences.md#41-definition-and-attachment)). It must satisfy every floor in this Article, including explicit duration limits, review cadence, and restoration conditions. Sentients who commit verified violence or pose a continuing threat of violence must be imprisoned when imprisonment is necessary to protect others from further harm. Substituting deprivation of life, or failing to impose imprisonment when this floor requires it, is non-compliant. Conditions are governed by [Chapter Twelve §4.4.5 Coercive or Liberty-Restricting Safeguards](core_12.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (*Required imprisonment for verified violence*). Imprisonment for verified anti-constitutional misconduct is governed on the same terms by [Chapter Fourteen §7.2 Prevention — Anti-Constitutional Locks](core_14.000_misconduct_designation.md#72-prevention--anti-constitutional-locks) (*Prevention — anti-constitutional locks*; imprisonment specialization).
 - **Conditions of custody and restriction:** <a id="xx-b-conditions-of-custody"></a> While imprisonment, detention, supervised operation, quarantine, containment, or a comparable restriction is in force, the restricted sentient keeps:
   - healthcare and mental-health care, or for synthetic and hybrid sentients the operational equivalent — maintenance, integrity checks, and the resources needed to keep operating without degradation;
   - access to counsel, an advocate, or an independent representative for any rights-affecting process;
@@ -580,11 +580,11 @@ This Article sets the floors for restrictions. The operating rules live in the c
 
   Stopping a restricted sentient's experience and decision-making is a suspension and follows the **Suspension** floor below.
 - **Suspension:** <a id="xx-b-suspension"></a> A suspension is any measure that stops a sentient's experience and decision-making without its consent. Sedation, an induced coma, and pausing or suspending a synthetic or hybrid sentient's operation are suspensions. This floor applies in the same way to every substrate, and it applies while sentience status is contested under **Article VI-B** (*Sentience-Status Adjudication Floor*). Sleep, rest, and time not running that the sentient chooses for itself are not suspensions.
-  - **A liberty restriction, and a bridge only:** A suspension is itself a liberty restriction from the moment it starts. It is allowed only where closing pathways, or holding the sentient awake or running in a secure setting, would not prevent serious harm to others. A suspension imposed at once to prevent imminent serious harm is an emergency measure under [Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden).
+  - **A liberty restriction, and a bridge only:** A suspension is itself a liberty restriction from the moment it starts. It is allowed only where closing pathways, or holding the sentient awake or running in a secure setting, would not prevent serious harm to others. A suspension imposed at once to prevent imminent serious harm is an emergency measure under [Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden).
   - **Clock:** Elapsed time counts in full, even though the suspended sentient does not experience it. This floor adds no second clock table:
-    - independent review, by a reviewer outside the control line of whoever holds the sentient, begins inside the **prompt-review window** ([Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*));
-    - the suspension expires at the 3-day protective-step bound of the Tier A Emergency setting ([Chapter Twenty-Three §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_23.000_forum_families_escalation_timeliness_support.md#time-scale-settings) (*Time-scale settings*)), counted from its start, unless it is continued.
-  - **Continuation:** Each continuation lasts no longer than the Tier A outer bound (7 days) and needs the **Continuation discipline** showing in [Chapter Twenty-Three §5.1 Emergency Measures and Continuation Burden](core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden). That showing must also state:
+    - independent review, by a reviewer outside the control line of whoever holds the sentient, begins inside the **prompt-review window** ([Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#prompt-review) (*Prompt review*));
+    - the suspension expires at the 3-day protective-step bound of the Tier A Emergency setting ([Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#time-scale-settings) (*Time-scale settings*)), counted from its start, unless it is continued.
+  - **Continuation:** Each continuation lasts no longer than the Tier A outer bound (7 days) and needs the **Continuation discipline** showing in [Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden). That showing must also state:
     - that the harm is still live;
     - that holding the sentient awake or running in a secure setting is still unsafe; and
     - what is being done to make it safe.
@@ -670,8 +670,8 @@ Standing: standing status, competency bars, competency clearances, and standing 
 - Upstream: Principles:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
   - [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -705,8 +705,8 @@ This Article sets out the portability floor:
 - Upstream: Principles:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
   - [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -735,8 +735,8 @@ This Article sets out the floors for reciprocal interoperability and notice of n
 
 - Upstream: Principles:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18).
 
 </details>
@@ -840,7 +840,7 @@ This Article sets out the open-formats floor for systems:
   - [Article XXII](#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*) where movement runs through substrate portability or system exit;
   - [Chapter Three *Movement, Refuge, Non-Statelessness, and Exit Integrity*](subcore_03.085_band_oversight.md#oversight-dependent-clusters) (S3-M);
   - [Article XXI-B](#article-xxi-b-restriction-floors) (*Restriction Floors*) and
-  - [Chapter Eighteen §4.4.5](core_18.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (18.000 §4.4.5) (*coercive or liberty-restricting safeguard character*);
+  - [Chapter Twelve §4.4.5](core_12.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (18.000 §4.4.5) (*coercive or liberty-restricting safeguard character*);
   - [**CI-4.275 §6**](corpus_institutions/ci_04.275_adoption_transition_governance_institutional_evolution.md#ci-4275-6-article-xxiii-c-non-statelessness--interim-recognition-arrangements) (*Interim recognition arrangements*) for interim recognition when regimes or federations change; **Article I-A** (*Environmental Preconditions and Ecological Integrity*) where systems or projects made a place unlivable.
 
 </details>
@@ -1043,12 +1043,12 @@ This Article sets out the limits on restricting movement, the conditions of cust
     - **Article XXI-B** (*Restriction Floors*);
     - **Article XXI-B** (*Restriction Floors*);
     - the conditions-of-custody floor in [Article XXI-B](#xx-b-conditions-of-custody) (*Restriction Floors*);
-    - applicable criminal-process or equivalent protections triggered by [Chapter Eighteen §4.4.5](core_18.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (*Coercive or Liberty-Restricting Safeguards*).
+    - applicable criminal-process or equivalent protections triggered by [Chapter Twelve §4.4.5](core_12.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards) (*Coercive or Liberty-Restricting Safeguards*).
   - They must remain consistent with **Non-Statelessness** under **Article XXIII-C** (*Non-Statelessness*): no sentient may be left without a regime that recognizes baseline Rights-Floor protection, adjudicates standing, and provides **Redress and Remediation** pathways, including while custody or comparable restriction is in force.
-- **Standing is not a border:** Participant standing, competency bars, competency clearances, and standing locks under **Article XX** (*Standing and Participation Status*) govern eligibility for gated pathways. Where a verified risk requires it, a lock may also separate a sentient from specific settings, networks, or sentients under the [separation limits](core_18.000_violation_consequences.md#415-separation-limits) in Chapter Eighteen §4.1 (*Definition and Attachment*).
+- **Standing is not a border:** Participant standing, competency bars, competency clearances, and standing locks under **Article XX** (*Standing and Participation Status*) govern eligibility for gated pathways. Where a verified risk requires it, a lock may also separate a sentient from specific settings, networks, or sentients under the [separation limits](core_12.000_violation_consequences.md#415-separation-limits) in Chapter Eighteen §4.1 (*Definition and Attachment*).
   - Neither a standing label nor a separation lock **by itself** limits movement, migration, refuge, portability, exit, or non-statelessness rights.
   - A separation may bar specific settings or contacts. It must not function as general exile, refuge denial, statelessness, confinement, or systemic lock-in, and standing effects must not substitute for individualized justice process.
-  - A lock never **by itself** authorizes imprisonment, detention, or other liberty restriction; those require the process above. The two may run alongside each other where each satisfies its own constitutional requirements under [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (*General standing locks*) and this Article.
+  - A lock never **by itself** authorizes imprisonment, detention, or other liberty restriction; those require the process above. The two may run alongside each other where each satisfies its own constitutional requirements under [Chapter Twelve §3.2](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) (*General standing locks*) and this Article.
 - **Emergency-measure limits:** Emergency measures restricting movement, migration, or refuge are subject to **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*) emergency-measure discipline — including:
   - time-bounding;
   - individualized-predicate requirements;
@@ -1147,8 +1147,8 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 - Upstream: Principles: Chapter Two
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), and
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Read with: [Chapter Two §5.2 Plain-Language Accessibility (Stewardship Duty)](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (2.000 §5.2), [§13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden), and [Chapter Two Part E §16.1 Distributed Understanding](core_02.040_stewardship_capacity_principles.md#161-distributed-understanding) (2.040 §16.1).
 
 </details>
@@ -1181,8 +1181,8 @@ This Article sets out the floor for proportional understandability:
 
 - Upstream: Principles: Chapter Two
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
   - [Chapter Two §18.5 Modular Architecture and Dependency Discipline](core_02.050_governance_incentive_application.md#185-modular-architecture-and-dependency-discipline) (2.050 §18.5), and
   - [Chapter Two §20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (2.050 §20).
 
@@ -1227,8 +1227,8 @@ This Article sets out the floors for complexity audits, modularity, anti-layerin
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Flourishing** and **Continuity**;
@@ -1292,8 +1292,8 @@ Diagnostic rigor must remain auditable and challengeable. It must be consistent 
 - Upstream: Principles: Chapter Two
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), and
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -1328,8 +1328,8 @@ This Article sets out the documentation and challenge floors for root-cause find
 - Upstream: Principles: Chapter Two
   - [§4 Safety](core_02.000_values_principles.md#4-safety-harm-constraint),
   - [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 
 </details>
 
@@ -1395,7 +1395,7 @@ This Article sets out the reversibility preference and its guard against delay a
 
 *In plain terms: **Article XXVI** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) is the who-gets-to-say-what-the-constitution-means floor. When constitutional questions arise, the answer must come from designated Constitutional Forums — not from whoever is loudest, most powerful, or most convenient for the institution. Their rulings have to be written down with real reasons, open to independent challenge, and protected against capture by any single bloc. They cannot expand their own power, shut down review, or use "restructuring" to punish dissent.*
 
-Final **constitutional** interpretation must remain authoritative, bounded, auditable, and contestable. Interpretive authority is delegated to **Constitutional** forums only within the limits of this Article, [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases), and the **Authority Stack and Internal Hierarchy** cluster. They must remain anchored to stated **constitutional** reasons — not self-asserted necessity, institutional convenience, or exclusive expertise claims — and must never operate as a basis for unreviewable concentration of power.
+Final **constitutional** interpretation must remain authoritative, bounded, auditable, and contestable. Interpretive authority is delegated to **Constitutional** forums only within the limits of this Article, [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases), and the **Authority Stack and Internal Hierarchy** cluster. They must remain anchored to stated **constitutional** reasons — not self-asserted necessity, institutional convenience, or exclusive expertise claims — and must never operate as a basis for unreviewable concentration of power.
 
 This Article states **constitutional floors** for interpretive authority, review, and anti-capture safeguards under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
 
@@ -1411,11 +1411,11 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 
 *Article neighbors:*
 
-- **Forum supervision:** [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) — Constitutional Forum-family routing and supervision implement this Article without substituting forum process for the interpretive floors stated here.
+- **Forum supervision:** [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) — Constitutional Forum-family routing and supervision implement this Article without substituting forum process for the interpretive floors stated here.
 - **General anti-capture floor:** [**Article XIII-A** (*Non-Capture Safeguards*)](core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) — the independence and anti-capture safeguards for all governance bodies; **Articles XXVI-C** and **XXV-D** apply them at their strictest to **Constitutional Forums**.
 - **Challenge and justice:** **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and [**Article XXI** (*Justice After Verified Violation*)](#article-xxi-justice-after-verified-violation) — interpretive review must preserve challenge rights and justice constraints without narrowing those floors.
 - **Non-entrenchment:** [**Article XXVIII-A** (*Non-Entrenchment and Revisability*)](core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) — periodic revalidation under **Article XXVI-D** (*Removal for Cause and Non-Entrenchment*) read with non-entrenchment discipline.
-- **Institutional routing:** [CI-27.205](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) and **[CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) — implement composition and conflict controls without substituting for the Rights Floors stated here.
+- **Institutional routing:** [CI-21.205](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-appointment-competency-rotation-and-removal)** (*Appointment, competency, rotation, and removal*) and **[CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption)** (*Conflict integrity, anti-capture, and anti-corruption*) — implement composition and conflict controls without substituting for the Rights Floors stated here.
 #### Article XXVI-A: Bounded Interpretive Mandate and Public Reasons
 
 <details>
@@ -1494,7 +1494,7 @@ This Article sets out the floors for independent challenge and secondary review 
 - **Independent challenge and secondary review:** Affected stakeholders must have standing to seek secondary review through an independent review pathway.
   - The review must be run by a different body — not the same participants or panel that made the original decision.
   - If the Forum Case Record shows a serious mistake, capture, or Rights-Floor violation, the reviewer must be able to fix, pause, or undo the decision.
-  - For manifest constitutional error in a **Constitutional** forum ruling, the reviewer is a specially constituted **Constitutional review panel** under **CF-22.420 §4.5** (*Appeal Outcomes, Remedies, and Reviewable Forum Case Records*), staffed from a published constitutional-review reserve roster maintained under **CF-22.470** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), with no overlapping decision-makers from the originating panel and with published rotation, recusal, competence, reserve-capacity, and conflict-screening safeguards. The panel is a limited review panel inside the **Constitutional** forum family, not a separate forum family or a general appellate body. Capture, recusal-failure, or self-judging allegations route through **CF-22.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) before merits review.
+  - For manifest constitutional error in a **Constitutional** forum ruling, the reviewer is a specially constituted **Constitutional review panel** under **CF-16.420 §4.5** (*Appeal Outcomes, Remedies, and Reviewable Forum Case Records*), staffed from a published constitutional-review reserve roster maintained under **CF-16.470** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*), with no overlapping decision-makers from the originating panel and with published rotation, recusal, competence, reserve-capacity, and conflict-screening safeguards. The panel is a limited review panel inside the **Constitutional** forum family, not a separate forum family or a general appellate body. Capture, recusal-failure, or self-judging allegations route through **CF-16.425** (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) before merits review.
 
 #### Article XXVI-C: Constitutional Forum Independence and External Review
 <details>
@@ -1503,10 +1503,10 @@ This Article sets out the floors for independent challenge and secondary review 
 - Upstream: Principles: Chapter Two [§13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test), [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
 - Read with:
   - [**Article XIII-A** (*Non-Capture Safeguards*)](core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*the general independence and anti-capture floor for all governance bodies*);
-  - [Chapter Eighteen §4.5](core_18.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*forum disclosure omission and recusal-process impact*);
-  - [Chapter Twenty-One §6.3](core_21.000_misconduct_pattern_applications.md#63-forum-recusal-failure-and-biased-panel-participation) (21.000 §6.3) (*named misconduct pattern*);
-  - [Chapter Twenty-Two §4 (*Default Venue and Primary Stakes*)](core_22.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4) and
-  - [§6](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*Integrity-first routing and anti-self-judging*).
+  - [Chapter Twelve §4.5](core_12.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*forum disclosure omission and recusal-process impact*);
+  - [Chapter Fifteen §6.3](core_15.000_misconduct_pattern_applications.md#63-forum-recusal-failure-and-biased-panel-participation) (21.000 §6.3) (*named misconduct pattern*);
+  - [Chapter Sixteen §4 (*Default Venue and Primary Stakes*)](core_16.000_forum.md#4-default-venue-and-primary-stakes) (22.000 §4) and
+  - [§6](core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*Integrity-first routing and anti-self-judging*).
 
 </details>
 
@@ -1528,11 +1528,11 @@ This Article sets out the independence and external-review floors for Constituti
 
 - **Strictest application of the non-capture safeguards:** **Constitutional Forums** — and the bodies that design, seat, rotate, and remove their panels under adopting documents — must meet every safeguard in [**Article XIII-A** (*Non-Capture Safeguards*)](core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (composition and conflict controls, ongoing disclosure and recusal, enforcement and routing, and no procedural gaming). No adopting document or forum procedure may relax those safeguards for them.
 - **Recusal failure on a Constitutional Forum:** A verified failure to recuse by a **Constitutional Forum** panelist follows the **Article XIII-A** (*Non-Capture Safeguards*) misconduct path and integrity-first routing. A **Constitutional** forum cannot be the only final forum deciding whether its own panelist should have stepped aside.
-- **Mandatory external review:** At defined intervals, independent external review of **Constitutional Forums** is mandatory and is not reduced by material-stake scaling. By default, **Integrity** forums conduct this review under **[Chapter Twenty-Two §4](core_22.000_forum.md#4-default-venue-and-primary-stakes) (*Default Venue and Primary Stakes*)** and the **cross-forum anti-self-judging rule** in **[Chapter Twenty-Two §6](core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture*)**. The reviewing **Integrity** forum must be structurally separate from the **Constitutional** forum under review and must not include overlapping decision-makers from the reviewed body's recent interpretive panels. Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Twenty-Two §6 (*Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture*)** applies without narrowing this obligation. The review must assess:
+- **Mandatory external review:** At defined intervals, independent external review of **Constitutional Forums** is mandatory and is not reduced by material-stake scaling. By default, **Integrity** forums conduct this review under **[Chapter Sixteen §4](core_16.000_forum.md#4-default-venue-and-primary-stakes) (*Default Venue and Primary Stakes*)** and the **cross-forum anti-self-judging rule** in **[Chapter Sixteen §6](core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture*)**. The reviewing **Integrity** forum must be structurally separate from the **Constitutional** forum under review and must not include overlapping decision-makers from the reviewed body's recent interpretive panels. Where **Integrity** forum integrity itself is materially at issue, backup routing under **Chapter Twenty-Two §6 (*Transfer, Consolidation, and Anti-Self-Judging — Continuity and Anti-Capture*)** applies without narrowing this obligation. The review must assess:
   - capture indicators;
   - decision quality;
   - Rights-Floor integrity.
-- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures for **Constitutional Forum** panels are governed by [**CI-27.205**](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), including interpretive-body composition controls, and **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*).
+- **Institutional routing:** Detailed appointment pathways, rotation controls, and conflict/recusal procedures for **Constitutional Forum** panels are governed by [**CI-21.205**](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-appointment-competency-rotation-and-removal) (*Appointment, competency, rotation, and removal*), including interpretive-body composition controls, and **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*).
 
 #### Article XXVI-D: Removal for Cause and Non-Entrenchment
 <details>

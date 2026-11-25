@@ -54,18 +54,18 @@ class WrapperCiteTests(unittest.TestCase):
             "**Previous file:** [corpus_systems.md](../corpus_systems.md)",
             "- [Systems and data landing page](../corpus_systems.md);",
             "## Section naming corpus_systems.md",
-            "- [**CS**](../corpus_systems.md) — [System](../subcore_03.075_band_continuity.md#system) classification and stewardship",
+            "- [**CS**](../corpus_systems.md) — [Subcore 3-K — System](../subcore_03.075_band_continuity.md#system) classification and stewardship",
         ):
             self.assertEqual(self._kinds(line), [], line)
 
     def test_inventory_entry_allowed_only_in_incorporating_files(self) -> None:
         line = "  - [corpus_systems.md](corpus_systems.md) (*systems implementation file*)"
-        self.assertEqual(self._kinds(line, rel="core_31.000_incorporation.md"), [])
+        self.assertEqual(self._kinds(line, rel="core_25.000_incorporation.md"), [])
         self.assertEqual(self._kinds(line, rel="subcore_03.075_band_continuity.md"), ["link"])
 
     def test_citation_inside_incorporating_file_still_flagged(self) -> None:
         line = "Custody records follow *[corpus_systems.md](corpus_systems.md)*, CS-8.305."
-        self.assertEqual(self._kinds(line, rel="core_31.000_incorporation.md"), ["link"])
+        self.assertEqual(self._kinds(line, rel="core_25.000_incorporation.md"), ["link"])
 
     def test_fenced_code_is_skipped(self) -> None:
         text = "```\n[corpus_systems.md](corpus_systems.md)\n```\n"

@@ -1,7 +1,7 @@
 # Key Practical Process Pipelines — public map
 
 **Status:** Process / map support — **not** binding constitutional or incorporated text. This page **cannot narrow core**. It does not add, remove, or relocate duties. If this page and core diverge, core wins. This page is not a compliance path.
-**Pinned to corpus edition:** `SC-Corpus-2026.10.21` (effective 2026-10-21; [README.md](../README.md)).
+**Pinned to corpus edition:** `SC-Corpus-2026.11.25` (effective 2026-11-25; [README.md](../README.md)).
 **Job:** One page so a public reader can see the chain — certification → standing measurement → forums → remedy — without opening companion procedure.
 
 ## Doors
@@ -36,16 +36,16 @@ flowchart TB
 
 *Caption: forums supervise the chain; a filed case is not standing by itself.*
 
-1. **Certify the system** — [Chapter Eight](../core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation)
+1. **Certify the system** — [Subcore 8-B](../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation)
    Before a high-impact system is trusted at scale, forums review evidence and write a time-bound, challengeable **System Certification Record**: is it constitutionally safe to rely on *right now*? Certification is not standing. Certification is not a sentience-status decision (that floor lives in [Article VI-B](../core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor)). A Certification Record may later supply verified facts to Chapter Fourteen; it does not assign standing effects.
 
-2. **Record and measure standing** — [Chapter Fourteen](../core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (Question 1) and [Chapter Fifteen](../core_15.000_standing_measurement.md#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) (Question 2)
+2. **Record and measure standing** — [Subcore 10-B](../subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (Question 1) and [Subcore 10-D](../subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (Question 2)
    When conduct or harm matters constitutionally, verified facts enter **Standing Records**. Question 1 asks what happened. Question 2 measures how good or how harmful it was. **Contribution** (help toward flourishing) and **violation** (accountability failures and harm) stay on **separate axes** — they never fold into one net score. Rumors, reputations, and dispute stories are not standing.
 
-3. **Apply effects and remedy** — [Chapter Sixteen](../core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (Question 3)
-   Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../core_18.000_violation_consequences.md#31-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) from Chapter Two §17.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
+3. **Apply effects and remedy** — [Subcore 10-F](../subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (Question 3)
+   Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../core_12.000_violation_consequences.md#31-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) from Chapter Two §17.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
 
-4. **Forum families supervise** — [Chapter Twenty-Two](../core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases)
+4. **Forum families supervise** — [Chapter Sixteen](../core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases)
    Forum families decide which track handles a dispute, where a case ordinarily starts, how matters transfer, and how clocks keep remedy from dying in delay. They may open, update, or correct Standing Records when facts are verified — or set a bad record aside on challenge. They must not be the sole final home for a claim that the same family is biased, captured, or in conflict (**anti-self-judging**). Filing a case alone has no immediate impact on standing.
 
 ## Rights floors that travel with the chain

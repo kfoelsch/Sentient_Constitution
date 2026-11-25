@@ -38,7 +38,7 @@ Chapter Two, Part F is the constitutional owner of **governance under stewardshi
 - Downstream:
   - [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture);
   - [§9 Shared-System Capacity](core_02.010_values_principles_continuity_aim.md#9-shared-system-capacity);
-  - [Chapter Twenty-Seven](core_27.000_governance.md) (27.000) (*Constitutional Contract Layer* operationalization);
+  - [Chapter Twenty-One](core_21.000_governance.md) (27.000) (*Constitutional Contract Layer* operationalization);
   - [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member floors*).
 - Subsections (reading order):
   - [§18.1 Governance as Authorized Structure](#181-governance-as-authorized-structure) ·
@@ -93,9 +93,9 @@ This section carries [Governance](subcore_03.070_band_accountability.md#governan
   - [§18.3 Separation of Duties](#183-separation-of-duties);
   - [§18.4 Ongoing Justification](#184-ongoing-justification);
   - [§19 Incentive Alignment and System Capture](#19-incentive-alignment-and-system-capture);
-  - [Chapter Twenty-Seven](core_27.000_governance.md) (27.000) (*Constitutional Contract Layer* operationalization);
+  - [Chapter Twenty-One](core_21.000_governance.md) (27.000) (*Constitutional Contract Layer* operationalization);
   - [Article XXVI: Constitutional Interpretation, Review, and Anti-Capture Safeguards](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*forum-member disclosure, recusal, and anti-capture floors*);
-  - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*forum-family supervision*).
+  - [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*forum-family supervision*).
 
 </details>
 
@@ -139,7 +139,7 @@ The more power, influence, or responsibility someone has under this Constitution
 
 - **No excuses:** Holding high office, having rare expertise, being short-staffed, or wanting to protect an institution's reputation never justifies being less accountable to this Constitution.
 - **Judges and interpreters are held to the highest standard:** Sentients on constitutional forums and panels who interpret the Constitution or decide disputes under it are especially bound by this rule.
-- **The detailed rules are elsewhere:** The specific requirements for disclosing conflicts, stepping aside, preventing capture by special interests, and independent review are in [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) and [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases).
+- **The detailed rules are elsewhere:** The specific requirements for disclosing conflicts, stepping aside, preventing capture by special interests, and independent review are in [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) and [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases).
 
 **Necessary, not sufficient.** Governance must give way to **Stewardship** ([§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth)) when any of the following would undermine durable constitutional alignment, [**Continuity**](core_00.000_preamble.md#continuity), [**Flourishing**](core_00.000_preamble.md#flourishing), or Rights-Floor integrity:
 
@@ -266,7 +266,7 @@ Oversight and accountability only work if the checking is done independently of 
   - [Article XXVIII-A: Non-Entrenchment and Revisability](core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) and
   - [Article XXVIII-B: Periodic Revalidation and Transparent Change](core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Rights-Floor non-entrenchment and transparent-change floors — they do not narrow this principle*); **
   - [CJS-3.125 §11](corpus_joint_structure/cjs_03.125_accountability_operations.md#baseline-governance-accountability-conditions)** (*Baseline governance accountability conditions*);
-  - [Chapter Twenty-Seven](core_27.000_governance.md) (27.000) (*Constitutional Contract Layer* operationalization).
+  - [Chapter Twenty-One](core_21.000_governance.md) (27.000) (*Constitutional Contract Layer* operationalization).
 
 </details>
 
@@ -504,10 +504,10 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
   - [5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [6. Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity),
   - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth), and
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Downstream: [§7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) and [§14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: [§13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Chapter Twenty-Seven §7 — Authorized Roles, Competency Development, and Contribution](core_27.000_governance.md#7-authorized-roles-competency-development-and-contribution) (27.000 §7); **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)**.
+- Downstream: [§13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden); [Chapter Twenty-One §7 — Authorized Roles, Competency Development, and Contribution](core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution) (27.000 §7); **[CS-21.305 — Critical system stewardship](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-critical-system-stewardship)**.
 - Downstream: Targets the rights surface for agency, participation, incentive alignment, info-sphere integrity, standing, and anti-capture review across
   - [Chapter Four: Foundational Rights](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000); especially
   - [Article X: Self-Determination, Agency, and Participation](core_04.010_rights_part_b.md#article-x-self-determination-agency-and-participation),
@@ -634,7 +634,7 @@ Incentives must not reward, protect, normalize, or make materially advantageous:
   - unlawful or unconstitutional command conduct;
   - concealment;
   - retaliation;
-  - [obstruction of accountability](core_14.000_standing_assessment.md#52-violation-event-types) (standing-model event type and [Chapter Twenty-One §8 Obstruction of Accountability: Criteria Interaction](core_21.000_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction) designation routing — not a freestanding reward carve-out); or
+  - [Subcore 10-B — obstruction of accountability](subcore_10.020_standing_assessment.md#52-violation-event-types) (standing-model event type and [Chapter Fifteen §8 Obstruction of Accountability: Criteria Interaction](core_15.000_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction) designation routing — not a freestanding reward carve-out); or
   - refusal to remediate verified constitutional harm; or
 - reward pathways that materially depend on misconduct or its concealment, including:
   - compensation, bonus, equity, appointment, promotion, or tenure;
@@ -642,7 +642,7 @@ Incentives must not reward, protect, normalize, or make materially advantageous:
   - settlement, indemnity, insurance, or immunity; or
   - comparable arrangements.
 
-**Misaligned reward consequences.** Material rewards obtained through prohibited reward pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Eighteen §4.4.2 Reporting duty and exclusions](core_18.000_violation_consequences.md#442-misaligned-rewards), [§4.4.2 Forfeiture and retention](core_18.000_violation_consequences.md#442-misaligned-rewards), and [§4.4.2 Correction, records, and routing](core_18.000_violation_consequences.md#442-misaligned-rewards).
+**Misaligned reward consequences.** Material rewards obtained through prohibited reward pathways above are subject to forfeiture and reporting under the standing model. Read [Chapter Twelve §4.4.2 Reporting duty and exclusions](core_12.000_violation_consequences.md#442-misaligned-rewards), [§4.4.2 Forfeiture and retention](core_12.000_violation_consequences.md#442-misaligned-rewards), and [§4.4.2 Correction, records, and routing](core_12.000_violation_consequences.md#442-misaligned-rewards).
 
 <a id="1913-stewardship-and-operator-application"></a>
 ##### 19.1.3 Stewardship and Operator Application
@@ -669,8 +669,8 @@ For stewards and operators under the [Two Constitutional Aims](core_00.000_pream
 
 **Where the detail lives:**
 
-- [Chapter Twenty-Seven §7 — Authorized Roles, Competency Development, and Contribution](core_27.000_governance.md#7-authorized-roles-competency-development-and-contribution) for authorized roles, competency, and paths into work that actually matters for stewards and operators;
-- [**CS-27.305**](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship) (*Critical system stewardship*) for how that duty is carried in high-impact systems; and
+- [Chapter Twenty-One §7 — Authorized Roles, Competency Development, and Contribution](core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution) for authorized roles, competency, and paths into work that actually matters for stewards and operators;
+- [**CS-21.305**](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-critical-system-stewardship) (*Critical system stewardship*) for how that duty is carried in high-impact systems; and
 - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) for the principle-layer picture of hands-on work and community competence.
 
 Those paths:
@@ -839,8 +839,8 @@ Such conditions are **escalation triggers**, not ordinary operating states. They
 
 - **Periodic review and correction:** [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty).
 - **Heightened review:** [§11.1 Market Concentration Threshold Mechanism](core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable) and [§11.2 Pro-Competition and Anti-Domination](core_02.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination), where concentration or domination is material.
-- **Standing and violation mechanics:** [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened), where standing findings are at stake.
-- **Anti-constitutional misconduct:** [Chapter Twenty-One §7.1 Concentration-Based Subversion: Criteria Interaction](core_21.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction), where concentration or process capture constitutes anti-constitutional misconduct.
+- **Standing and violation mechanics:** [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened), where standing findings are at stake.
+- **Anti-constitutional misconduct:** [Chapter Fifteen §7.1 Concentration-Based Subversion: Criteria Interaction](core_15.000_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction), where concentration or process capture constitutes anti-constitutional misconduct.
 
 <a id="194-misalignment-correction-and-capture-response"></a>
 #### 19.4 Misalignment Correction and Capture Response
@@ -905,8 +905,8 @@ Concentrated or obscured control structures that materially undermine any of the
 **Misaligned reward correction** (defined in [Chapter Three](subcore_03.080_band_integrative.md#misaligned-reward-correction)):
 
 - Once misalignment is verified, material rewards from misaligned or corrupt reward pathways must not be kept as silent standing credit or shielded benefit.
-- [Chapter Eighteen §4.4.2 Misaligned Rewards](core_18.000_violation_consequences.md#442-misaligned-rewards) governs forfeiture, proportionate clawback, knowing-acceptance reporting, and correction.
-- How good or bad the verified contribution or violation was is rated under [Chapter Fifteen §3 Question 2 — How Good or Bad Was It?](core_15.000_standing_measurement.md#3-question-2--how-good-or-bad-was-it), not here.
+- [Chapter Twelve §4.4.2 Misaligned Rewards](core_12.000_violation_consequences.md#442-misaligned-rewards) governs forfeiture, proportionate clawback, knowing-acceptance reporting, and correction.
+- How good or bad the verified contribution or violation was is rated under [Subcore 10-D — Chapter Fifteen §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it), not here.
 
 <a id="195-contingent-claims-games-of-chance-and-event-contract-markets"></a>
 #### 19.5 Contingent Claims, Games of Chance, and Event-Contract Markets
@@ -920,8 +920,8 @@ Concentrated or obscured control structures that materially undermine any of the
   - [§19.3.1 Capture Escalation Triggers](#1931-capture-escalation-triggers);
   - [§19.4 Misalignment Correction and Capture Response](#194-misalignment-correction-and-capture-response);
   - [§13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints);
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** and **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)** (classification and stewardship scaling); [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) conflict and integrity expectations.
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** and **[CS-21.305 — Critical system stewardship](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-critical-system-stewardship)** (classification and stewardship scaling); [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) conflict and integrity expectations.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (durable, contestable resolution pathways and systemic stability where contingent settlement is materially impactful).
 - Read with:
   - [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways),
@@ -1058,10 +1058,10 @@ This subsection sets out why market signals are not constitutional proof:
 
 - Read with: [Necessity](subcore_03.070_band_accountability.md#necessity); [Proportionality](subcore_03.070_band_accountability.md#proportionality); [Dependency](subcore_03.075_band_continuity.md#dependency).
 - Downstream:
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
-  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** and **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)** (*classifying and scaling stewardship of materially impactful systems*);
-  - [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CI-22.205](corpus_institutions/ci_22.205_procedure_integrity_contestability_secondary_review.md#ci-22205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*), for conflict and procedure rules where institutions supervise such activity.
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
+  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** and **[CS-21.305 — Critical system stewardship](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-critical-system-stewardship)** (*classifying and scaling stewardship of materially impactful systems*);
+  - [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CI-16.205](corpus_institutions/ci_16.205_procedure_integrity_contestability_secondary_review.md#ci-16205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*), for conflict and procedure rules where institutions supervise such activity.
 
 </details>
 
@@ -1080,7 +1080,7 @@ Authorization, design, and operation must do four things:
   - [Dependency](subcore_03.075_band_continuity.md#dependency) — how heavily others rely on the system or its outcomes;
   - vulnerability — how easily those who stake or are affected can be harmed; and
   - systemic stability — whether a failure could spread beyond the system.
-- **Test for misuse:** evaluate the system under [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) through [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), including:
+- **Test for misuse:** evaluate the system under [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), including:
   - coordination among actors to affect the event that decides the outcome; and
   - scale dynamics — how risks change as volume, participation, or exposure grows.
 
@@ -1089,8 +1089,8 @@ Authorization, design, and operation must do four things:
 - **What this chapter states:** constitutional direction.
 - **What it does not write:** the detailed licensing, criminal, tax, or cross-border enforcement rules for gambling and contingent settlement.
 - **Where those details belong:** adopting law and designated incorporated documents, including:
-  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** and **[CS-27.305 — Critical system stewardship](corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-critical-system-stewardship)** for classifying and scaling stewardship of materially impactful systems; and
-  - [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CI-22.205](corpus_institutions/ci_22.205_procedure_integrity_contestability_secondary_review.md#ci-22205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*) for conflict and procedure rules where institutions supervise or constitutionally govern such activity.
+  - **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** and **[CS-21.305 — Critical system stewardship](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-critical-system-stewardship)** for classifying and scaling stewardship of materially impactful systems; and
+  - [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CI-16.205](corpus_institutions/ci_16.205_procedure_integrity_contestability_secondary_review.md#ci-16205-procedure-integrity-contestability-and-secondary-review) (*Procedure integrity, contestability, and secondary review*) for conflict and procedure rules where institutions supervise or constitutionally govern such activity.
 
 <a id="196-keeping-responsibility-when-ownership-or-structure-changes"></a>
 #### 19.6 Keeping Responsibility When Ownership or Structure Changes
@@ -1099,8 +1099,8 @@ Authorization, design, and operation must do four things:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Read with:
-  - [Chapter Nineteen §5.1](core_19.000_final_effect_restoration_enforcement.md#51-remediation-capacity-and-funding) (19.000 §5.1) and
-  - [§5.4](core_19.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority);
+  - [Chapter Thirteen §5.1](core_13.000_final_effect_restoration_enforcement.md#51-remediation-capacity-and-funding) (19.000 §5.1) and
+  - [§5.4](core_13.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority);
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability);
   - **[CS-4.320 — Justice safeguards, restitution, and rehabilitation](corpus_systems/cs_04.320_justice_safeguards_restitution_rehabilitation.md#cs-4320-justice-safeguards-restitution-and-rehabilitation)** (*Entity continuity checks*).
 - Read with: [Attributable Action](subcore_03.070_band_accountability.md#attributable-action) and [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity) — successor and formal-structure changes must not defeat reliable attribution of remaining duties.
@@ -1182,8 +1182,8 @@ This subsection sets out how verified duties survive successor and formal-struct
   - [1. Purpose, Role, and Scope](core_02.000_values_principles.md#1-purpose-role-and-scope),
   - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
   - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process),
-  - [Chapter Eight §4 Whole-System Certification Evaluation](core_08.000_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
-  - [§6 Rights-Floor and Domain Evaluations](core_08.000_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations),
+  - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (8.000 §4) through
+  - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations),
   - [7. Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency), and
   - [14. Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
 - Downstream: later chapters should be read through these linked Chapter Two principles — including the

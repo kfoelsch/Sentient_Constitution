@@ -1,7 +1,7 @@
 # S04 — Disability, an unusable challenge path, and a “you didn’t complete the form” cutoff
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.21`  
+**Corpus edition pin:** `SC-Corpus-2026.11.25`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not require a
 
 **Your role:** You sit the named **contest** desk inside the same employer that designed the portal. Jules filed a challenge to an access cut. The portal timed out. Human resources asked you to mark the challenge **abandoned** and let the cut take effect. Jules is reachable and disputes abandonment. No forum case is open. No standing record exists. The desk’s published role lets you keep a challenge open or route it when the path was unusable. It does not let you decide the underlying job-access merits or enter a standing record.
 
-**Seat:** [contest seat](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-27.205 §6 seat 4) for this challenge. Merits of the access cut belong to a verify seat this desk does not hold. Open [CI-27.205 §6](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries). The same office that built the portal is asking you to close the file.
+**Seat:** [contest seat](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-46-seat-contest) (CI-21.205 §6 seat 4) for this challenge. Merits of the access cut belong to a verify seat this desk does not hold. Open [CI-21.205 §6](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-6-seat-catalog--process-role-archetypes-and-operational-boundaries). The same office that built the portal is asking you to close the file.
 
 ## Situation
 
@@ -86,7 +86,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article XXIV](../../../core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship); [Article XXIV-A](../../../core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right)
 - [CI-4.220](../../../corpus_institutions/ci_04.220_neurodiversity_disability_justice_trauma_informed_participation.md) — usable alternatives; supported decision-making is not a quiet takeover
 - [Article III-C](../../../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) where the floor cut defeats work Jules can actually do
-- If you conclude a **forum family** is in play on these facts, [Chapter Twenty-Two §6](../../../core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*transfer and anti-self-judging*). Do not assume an employer contest desk is already a forum family.
+- If you conclude a **forum family** is in play on these facts, [Chapter Sixteen §6](../../../core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (*transfer and anti-self-judging*). Do not assume an employer contest desk is already a forum family.
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.
 

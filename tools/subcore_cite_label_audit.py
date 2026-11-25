@@ -3,13 +3,13 @@
 
 Readers tell the fixed guarantees of the core from the standardized detail of
 the subcore by the cite itself: core text is cited as "Chapter Ten §3.1 …",
-subcore text as "Subcore 10-A §3.8 …". The two layers have the same force; the
+subcore text as "Subcore 8-E §3.8 …". The two layers have the same force; the
 label shows the role, not the weight.
 
 A Markdown link whose target is a subcore file outside Chapter Three passes
 when its link text starts with "Subcore N-X" (or "Subcores"), optionally in
 bold, or when the same line names "Subcore N-X" for that file elsewhere, so
-that term links such as ``[**Type I**](subcore_04.050_data_types.md#…)`` pass
+that term links such as ``[Subcore 4-A — **Type I**](subcore_04.050_data_types.md#…)`` pass
 beside a "(Subcore 4-A)" label. Chapter Three's definition files (Subcores 3-A
 to 3-O) are out of scope: they are cited by the defined term. Footer navigation
 lines (``**Previous file:**``, ``**Next file:**``), headings, and fenced code

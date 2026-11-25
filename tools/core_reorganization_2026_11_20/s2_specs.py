@@ -88,7 +88,7 @@ SPECS = [
  "this Constitution must be able to grow, and it must sit alongside other law without hiding behind it or overriding it in secret. This chapter exists to say how.",
  "New rights and stronger safeguards should be easy to add, so the text can improve as understanding grows. The Constitution also has to work beside other law: where outside law protects more, it should be respected; where outside law is used as an excuse to destroy records or dodge rights, it should not succeed. This chapter sets both rules.",
  ["2.1","14","15.4"],["VI","XXVIII-A"]),
-("Thirty-One","core_31.000_incorporation.md","Why Incorporation Exists",
+("Thirty-One","core_25.000_incorporation.md","Why Incorporation Exists",
  "an adopter is bound by the exact text it adopted, no more and no less. This chapter exists so everyone can tell which text that is.",
  "Implementation text keeps improving, and adopters adopt it at different times. Without clear rules, an adopter could be held to a draft it never accepted, or escape a duty by pointing to a newer version. This chapter makes implementation text bind only as adopted, pinned to a recorded edition, with a custody chain that shows who held the authoritative text and when it took effect.",
  ["15.4","15.4.3","16.4"],["XVII","XXVIII-B"]),

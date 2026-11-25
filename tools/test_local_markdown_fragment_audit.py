@@ -19,7 +19,7 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
     def test_default_scope_includes_implementation_and_generated_docs(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            target = root / "core_16.000_standing_integration.md"
+            target = root / "subcore_10.060_standing_integration.md"
             target.write_text(
                 '<a id="present"></a>\n# Chapter Ten\n',
                 encoding="utf-8",
@@ -28,14 +28,14 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
             implementation = root / "implementation" / "guide.md"
             implementation.parent.mkdir()
             implementation.write_text(
-                "[broken](../core_16.000_standing_integration.md#missing-implementation)\n",
+                "[Subcore 10-F — broken](../subcore_10.060_standing_integration.md#missing-implementation)\n",
                 encoding="utf-8",
             )
 
             generated = root / "doc_architecture" / "generated" / "index.md"
             generated.parent.mkdir(parents=True)
             generated.write_text(
-                "[broken](../../core_16.000_standing_integration.md#missing-generated)\n",
+                "[Subcore 10-F — broken](../../subcore_10.060_standing_integration.md#missing-generated)\n",
                 encoding="utf-8",
             )
 
@@ -137,9 +137,9 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
             )
             source = root / "START_HERE.md"
             source.write_text(
-                "[flagged](subcore_03.075_band_continuity.md#safety-constraint)\n"
-                "[heading](subcore_03.075_band_continuity.md#safety-constitutional-constraint)\n"
-                "[sub-anchor](subcore_03.075_band_continuity.md#safety-constraint-a)\n",
+                "[Subcore 3-K — flagged](subcore_03.075_band_continuity.md#safety-constraint)\n"
+                "[Subcore 3-K — heading](subcore_03.075_band_continuity.md#safety-constitutional-constraint)\n"
+                "[Subcore 3-K — sub-anchor](subcore_03.075_band_continuity.md#safety-constraint-a)\n",
                 encoding="utf-8",
             )
             findings = audit(root, [source], None)
@@ -157,8 +157,8 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
             )
             source = root / "START_HERE.md"
             source.write_text(
-                "[a](subcore_03.075_band_continuity.md#first)\n"
-                "[b](subcore_03.075_band_continuity.md#second)\n",
+                "[Subcore 3-K — a](subcore_03.075_band_continuity.md#first)\n"
+                "[Subcore 3-K — b](subcore_03.075_band_continuity.md#second)\n",
                 encoding="utf-8",
             )
             self.assertEqual(audit(root, [source], None), [])
@@ -173,15 +173,15 @@ class LocalMarkdownFragmentAuditTests(unittest.TestCase):
             )
             source = root / "START_HERE.md"
             source.write_text(
-                "[t](subcore_03.075_band_continuity.md#x) [a](subcore_03.075_band_continuity.md#x-a)\n",
+                "[Subcore 3-K — t](subcore_03.075_band_continuity.md#x) [Subcore 3-K — a](subcore_03.075_band_continuity.md#x-a)\n",
                 encoding="utf-8",
             )
             findings = audit(root, [source], None)
             self.assertEqual(fix_html_anchor_links(root, findings), 1)
             self.assertEqual(
                 source.read_text(encoding="utf-8"),
-                "[t](subcore_03.075_band_continuity.md#long-heading) "
-                "[a](subcore_03.075_band_continuity.md#x-a)\n",
+                "[Subcore 3-K — t](subcore_03.075_band_continuity.md#long-heading) "
+                "[Subcore 3-K — a](subcore_03.075_band_continuity.md#x-a)\n",
             )
             self.assertEqual(audit(root, [source], None), [])
 

@@ -12,14 +12,14 @@ import part_cite_chapter_audit as audit
 
 ROOT = Path(__file__).resolve().parents[1]
 
-CH9_B = "core_09.000_system_alignment_certification_forum_process_outcomes.md"
-CH9_C = "core_10.000_system_alignment_certification_records_recertification.md"
-CH10 = "core_11.000_institutional_alignment_certification_evaluation.md"
+CH9_B = "subcore_08.040_system_alignment_certification_forum_process_outcomes.md"
+CH9_C = "subcore_08.060_system_alignment_certification_records_recertification.md"
+CH10 = "subcore_09.020_institutional_alignment_certification_evaluation.md"
 CH1_A = "core_02.000_values_principles.md"
 CS_A = "corpus_systems/cs_04.305_information_types_and_handling.md"
 CS_B = "corpus_systems/cs_04.310_data_classifications.md"
 CJS = "corpus_joint_structure/cjs_03.110_oversight_operations.md"
-CH9_A = "core_08.000_system_alignment_certification_evaluation.md"
+CH9_A = "subcore_08.020_system_alignment_certification_evaluation.md"
 CH5 = "core_03.000_definitions_home.md"
 CS9_A = "corpus_systems/cs_08.305_system_classification_machinery.md"
 CS9_B = "corpus_systems/cs_08.310_system_impact_classifications.md"

@@ -36,7 +36,7 @@ Totals: 69 files; trace 25, body only 14, ID only 5, none in home chapter 28 (12
 
 - Core home 06: CI-6.225, CI-6.230, CI-6.235, CI-6.245, CI-6.250, CI-6.260, CI-6.265, CS-6.355
 - Core home 15: CF-23.450, CF-23.455, CF-23.460
-- Core home 20: CJS-31.105
+- Core home 20: CJS-25.105
 
 ## Not named in the home chapter, but named in other core chapters (12)
 
@@ -45,7 +45,7 @@ Totals: 69 files; trace 25, body only 14, ID only 5, none in home chapter 28 (12
 - Core home 08: CI-8.215 (also in 3 other core files), CJS-8.105 (also in 1 other core file)
 - Core home 09: CI-9.210 (also in 6 other core files)
 - Core home 15: CF-23.440 (also in 3 other core files), CF-23.470 (also in 2 other core files)
-- Core home 20: CJS-31.110 (also in 5 other core files)
+- Core home 20: CJS-25.110 (also in 5 other core files)
 
 ## Linked, but not in a Trace widget (14)
 

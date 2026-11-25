@@ -10,8 +10,8 @@ context; a match does not establish that a reference is required.
 Examples:
 
     python3 tools/principle_check.py --chapter-range 2-9
-    python3 tools/principle_check.py --chapter-range 2-9 --through-file core_09.000_system_alignment_certification_forum_process_outcomes.md
-    python3 tools/principle_check.py --file core_06.000_functional_independence_separation_of_duties.md --file core_08.000_system_alignment_certification_evaluation.md
+    python3 tools/principle_check.py --chapter-range 2-9 --through-file subcore_08.040_system_alignment_certification_forum_process_outcomes.md
+    python3 tools/principle_check.py --file core_06.000_functional_independence_separation_of_duties.md --file subcore_08.020_system_alignment_certification_evaluation.md
     python3 tools/principle_check.py --list-principles
 """
 

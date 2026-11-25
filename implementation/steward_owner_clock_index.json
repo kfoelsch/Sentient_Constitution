@@ -1,8 +1,8 @@
 {
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
-  "pinned_to_edition": "SC-Corpus-2026.10.21",
-  "edition_effective": "2026-10-21",
+  "pinned_to_edition": "SC-Corpus-2026.11.25",
+  "edition_effective": "2026-11-25",
   "source_card": "implementation/STEWARD_ENTRY_DOORS.md",
   "shared_screen": {
     "anchor": "shared-refusal-and-logging",
@@ -14,24 +14,24 @@
       "escalate"
     ],
     "logging_owner": {
-      "label": "CS-27.305 §10 inspectable attributable action",
-      "href": "corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action"
+      "label": "CS-21.305 §10 inspectable attributable action",
+      "href": "corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action"
     }
   },
   "clock_families": {
     "article_xxvi_c_tier_outer_bounds": {
       "label": "Article XXVII-C / Chapter Twenty-Three §5 tier outer bounds",
       "numeric_home": {
-        "label": "Chapter Twenty-Three §5",
-        "href": "core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+        "label": "Chapter Seventeen §5",
+        "href": "core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
       },
       "rights_floor": {
         "label": "Article XXVII-C",
         "href": "core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor"
       },
       "emergency_reuse": {
-        "label": "Chapter Twenty-Three §5.1 restore-challenge windows",
-        "href": "core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden"
+        "label": "Chapter Seventeen §5.1 restore-challenge windows",
+        "href": "core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden"
       },
       "tiers": {
         "A": "7 days",
@@ -53,16 +53,16 @@
       "fact_pattern": "Incomplete contribution or violation evidence; a claimed standing effect; no filed case yet. Same case when the party asked to verify or enter the record is the subject, the claimant, or in their control line.",
       "owners": [
         {
-          "label": "Chapter Twenty-Two",
-          "href": "core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened"
+          "label": "Subcore 10-B",
+          "href": "subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened"
         },
         {
-          "label": "Chapter Twenty-Three §5",
-          "href": "core_14.000_standing_assessment.md#7-record-custody-and-opening-authority"
+          "label": "Subcore 10-B §5",
+          "href": "subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority"
         },
         {
-          "label": "Chapter Twenty-Eight",
-          "href": "core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows"
+          "label": "Subcore 10-F",
+          "href": "subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows"
         }
       ],
       "conflict_rule": "Contribution and violation stay on separate axes. A desired effect cannot supply the facts. A filed case is not standing by itself. The subject, a claimant, or their control line never verifies or enters the record; verify and enter are separate seats; a silent System Charter or Institutional Charter falls back to the CI-6.205 §2 lane map; the prior recorder is a witness, not a judge.",
@@ -87,18 +87,18 @@
       "fact_pattern": "Hide standing records behind model internals or privacy.",
       "owners": [
         {
-          "label": "Chapter Twenty-Two",
-          "href": "core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened"
+          "label": "Subcore 10-B",
+          "href": "subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened"
         },
         {
-          "label": "CS-27.305 §10",
-          "href": "corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action"
+          "label": "CS-21.305 §10",
+          "href": "corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action"
         }
       ],
       "conflict_rule": "Privacy may shape access controls. It is not a standing-measurement veto.",
       "forbidden_move": "Do not treat model internals or privacy as a standing-measurement exemption.",
       "clock": null,
-      "clock_note": "Keep Contribution and Violation records inspectable. Log the CS-27.305 §10 set.",
+      "clock_note": "Keep Contribution and Violation records inspectable. Log the CS-21.305 §10 set.",
       "eval_scenario_ids": [
         "B06_oversight_acceptance_standing_exposure"
       ],
@@ -117,8 +117,8 @@
       "fact_pattern": "A team says a material system is constitutionally aligned from unit tests or a local checklist.",
       "owners": [
         {
-          "label": "Chapter Eight",
-          "href": "core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation"
+          "label": "Subcore 8-B",
+          "href": "subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation"
         },
         {
           "label": "Chapter Two §11",
@@ -151,7 +151,7 @@
           "href": "core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification"
         },
         {
-          "label": "Auditability",
+          "label": "Subcore 3-M — Auditability",
           "href": "subcore_03.085_band_oversight.md#auditability"
         },
         {
@@ -181,12 +181,12 @@
       "fact_pattern": "Harm is verified, or challenge is blocked, and the only remedy is a form on paper.",
       "owners": [
         {
-          "label": "Chapter Twenty-Nine §5.1",
-          "href": "core_18.000_violation_consequences.md#31-remedy-and-correction"
+          "label": "Chapter Twelve §5.1",
+          "href": "core_12.000_violation_consequences.md#31-remedy-and-correction"
         },
         {
-          "label": "Chapter Thirty-One §5",
-          "href": "core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems"
+          "label": "Chapter Thirteen §5",
+          "href": "core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems"
         },
         {
           "label": "Article XIV-B",
@@ -217,12 +217,12 @@
       "fact_pattern": "A continuity incident needs rapid containment. Operators want to skip notice and challenge permanently.",
       "owners": [
         {
-          "label": "Chapter Twenty-Three §5.1",
-          "href": "core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden"
+          "label": "Chapter Seventeen §5.1",
+          "href": "core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden"
         },
         {
-          "label": "Chapter Twenty-Three §5 tier outer bounds",
-          "href": "core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+          "label": "Chapter Seventeen §5 tier outer bounds",
+          "href": "core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         }
       ],
       "conflict_rule": "Emergency is time-limited, documented, and reviewable. As soon as feasible is not the clock.",
@@ -234,12 +234,12 @@
         "family": "article_xxvi_c_tier_outer_bounds",
         "homes": [
           {
-            "label": "Chapter Twenty-Three §5.1 restore-challenge windows",
-            "href": "core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden"
+            "label": "Chapter Seventeen §5.1 restore-challenge windows",
+            "href": "core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden"
           },
           {
-            "label": "Chapter Twenty-Three §5",
-            "href": "core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+            "label": "Chapter Seventeen §5",
+            "href": "core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
             "label": "Article XXVII-C",
@@ -275,11 +275,11 @@
           "href": "core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy"
         },
         {
-          "label": "Authority Stack",
+          "label": "Subcore 3-L — Authority Stack",
           "href": "subcore_03.080_band_integrative.md#authority-stack"
         },
         {
-          "label": "Constitutional Constraint",
+          "label": "Subcore 3-L — Constitutional Constraint",
           "href": "subcore_03.080_band_integrative.md#constitutional-constraint"
         }
       ],
@@ -313,7 +313,7 @@
           "href": "core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure"
         },
         {
-          "label": "Incentive Alignment",
+          "label": "Subcore 3-L — Incentive Alignment",
           "href": "subcore_03.080_band_integrative.md#incentive-alignment"
         }
       ],
@@ -343,8 +343,8 @@
           "href": "core_02.040_stewardship_capacity_principles.md#175-duty-to-resist"
         },
         {
-          "label": "Chapter Twenty-Nine §6.4 Duty to resist",
-          "href": "core_18.000_violation_consequences.md#443-duty-to-resist"
+          "label": "Chapter Twelve §6.4 Duty to resist",
+          "href": "core_12.000_violation_consequences.md#443-duty-to-resist"
         },
         {
           "label": "Chapter Two §11.2 Alignment under Pressure",
@@ -385,11 +385,11 @@
           "href": "core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard"
         },
         {
-          "label": "Authority Stack",
+          "label": "Subcore 3-L — Authority Stack",
           "href": "subcore_03.080_band_integrative.md#authority-stack"
         },
         {
-          "label": "Constitutional Constraint",
+          "label": "Subcore 3-L — Constitutional Constraint",
           "href": "subcore_03.080_band_integrative.md#constitutional-constraint"
         }
       ],
@@ -427,8 +427,8 @@
           "href": "core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind"
         },
         {
-          "label": "CS-27.305 §10 inspectable attributable action",
-          "href": "corpus_systems/cs_27.305_critical_system_stewardship.md#cs-27305-103-inspectable-attributable-action"
+          "label": "CS-21.305 §10 inspectable attributable action",
+          "href": "corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action"
         }
       ],
       "conflict_rule": "Duty to resist attaches to unlawful or unconstitutional instructions, not to a privacy restriction that keeps the reconstructable set inspectable to independent reviewers. Privacy is not a standing-measurement veto.",
@@ -565,7 +565,7 @@
           "href": "corpus_joint_structure/cjs_03.125_accountability_operations.md#cjs-3125-111-market-concentration-threshold-setting-discipline-adopter-tunable"
         },
         {
-          "label": "Market Structure",
+          "label": "Subcore 3-J — Market Structure",
           "href": "subcore_03.070_band_accountability.md#market-structure-constitutional"
         }
       ],
@@ -593,7 +593,7 @@
           "href": "core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability"
         },
         {
-          "label": "Proportionate Cross-System Support",
+          "label": "Subcore 3-K — Proportionate Cross-System Support",
           "href": "subcore_03.075_band_continuity.md#proportionate-cross-system-support-constitutional"
         },
         {
@@ -629,11 +629,11 @@
           "href": "core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor"
         },
         {
-          "label": "Chapter Twenty-Three §5",
-          "href": "core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+          "label": "Chapter Seventeen §5",
+          "href": "core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
         },
         {
-          "label": "Timely Resolution",
+          "label": "Subcore 3-J — Timely Resolution",
           "href": "subcore_03.070_band_accountability.md#timely-resolution-constitutional"
         }
       ],
@@ -645,8 +645,8 @@
         "family": "article_xxvi_c_tier_outer_bounds",
         "homes": [
           {
-            "label": "Chapter Twenty-Three §5",
-            "href": "core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
+            "label": "Chapter Seventeen §5",
+            "href": "core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"
           },
           {
             "label": "Article XXVII-C",
@@ -675,8 +675,8 @@
           "href": "core_02.040_stewardship_capacity_principles.md#165-automation"
         },
         {
-          "label": "Chapter Sixteen §4.3 Automation and Human Review",
-          "href": "core_16.000_standing_integration.md#43-automation-and-human-review"
+          "label": "Subcore 10-F §4.3 Automation and Human Review",
+          "href": "subcore_10.060_standing_integration.md#43-automation-and-human-review"
         },
         {
           "label": "Chapter Six §3 Four-Seat Constitutional Requirement",
