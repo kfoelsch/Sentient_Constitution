@@ -541,8 +541,9 @@ These requirements also support [6. Trust](#6-trust-and-trustworthiness-coordina
   - [§3.2.3](#323-aspiration) ·
   - [§3.2.4](#324-preference-aligned-recognition) ·
   - [§3.2.5](#325-aligned-recognition-pathways) ·
-  - [§3.2.6](#326-anti-reward-for-anti-constitutional-conduct) ·
-  - [§3.2.7](#327-implementation-layer).
+  - [§3.2.6](#326-no-reward-for-violations) ·
+  - [§3.2.7](#327-anti-reward-for-anti-constitutional-conduct) ·
+  - [§3.2.8](#328-implementation-layer).
 </details>
 
 <details>
@@ -583,7 +584,7 @@ When recognition or praise can meaningfully affect a sentient being's voice, sta
 This section is where the Preamble's [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions) meet the principles:
 
 - [§3.2.1 Recognition and Reinforcement](#321-recognition-and-reinforcement) bears on the first question.
-- [§3.2.6 Anti-Reward for Anti-Constitutional Conduct](#326-anti-reward-for-anti-constitutional-conduct) bears on the second.
+- [§3.2.7 Anti-Reward for Anti-Constitutional Conduct](#327-anti-reward-for-anti-constitutional-conduct) bears on the second.
 
 <a id="321-recognition-and-reinforcement"></a>
 ##### 3.2.1 Recognition and Reinforcement
@@ -628,19 +629,36 @@ Recognition pathways, acclaim, prizes, certification, standing, reputation effec
 
 They **must not** systematically reward harm, deception, avoidance of scrutiny, extraction, or erosion of meaningful agency.
 
-<a id="326-anti-reward-for-anti-constitutional-conduct"></a>
-##### 3.2.6 Anti-Reward for Anti-Constitutional Conduct
+Any sentient, role, institution, or system component that repairs harm, protects sentients from retaliation, or makes things right for those who were hurt or who reported in good faith is doing what this Constitution encourages. Neither that work nor the help that hurt sentients and good-faith reporters receive counts as a reward under this rule.
+
+<a id="326-no-reward-for-violations"></a>
+##### 3.2.6 No Reward for Violations
+
+A verified violation is not a contribution and must not itself earn recognition, reward, or advancement. It does not erase a separate, verified contribution. Verified repair and truthful cooperation may be recognized as separate contributions.
+
+<a id="327-anti-reward-for-anti-constitutional-conduct"></a>
+##### 3.2.7 Anti-Reward for Anti-Constitutional Conduct
 
 *In plain terms: no one may be rewarded for committing, hiding, or retaliating over anti-constitutional conduct, whether openly or through back doors like favors, quiet promotions, or looking the other way. Helping the sentients who were harmed, and protecting those who report honestly, is different. That is the right response, and it should be encouraged.*
 
-No recognition, reward, protection, advancement, immunity, favorable assignment, contract, access, status, reputation benefit, standing benefit, or comparable advantage may be granted because a sentient, role, institution, or system component committed, enabled, concealed, normalized, refused to correct, or retaliated for reporting anti-constitutional conduct.
+No advantage may be granted to a sentient, role, institution, or system component because they:
+
+- committed or enabled anti-constitutional conduct;
+- concealed, normalized, or refused to correct that conduct; or
+- retaliated against someone for reporting it.
+
+Covered advantages include:
+
+- recognition or reward;
+- protection, advancement, or immunity;
+- favorable assignment, contract, or access;
+- status, reputation benefit, or standing benefit; and
+- any comparable advantage.
 
 This rule covers direct rewards and indirect reward pathways, including patronage, reputation laundering, post-hoc promotion, selective non-enforcement, favorable settlement, metric credit, or institutional protection.
 
-Any sentient, role, institution, or system component that repairs harm, protects sentients from retaliation, or makes things right for those who were hurt or who reported in good faith is doing what this Constitution encourages. Neither that work nor the help that hurt sentients and good-faith reporters receive counts as a reward under this rule.
-
-<a id="327-implementation-layer"></a>
-##### 3.2.7 Implementation Layer
+<a id="328-implementation-layer"></a>
+##### 3.2.8 Implementation Layer
 
 Granular ceremonies, curricula, budgets, programs, and metrics belong in adopting implementation layers.
 

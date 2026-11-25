@@ -66,7 +66,7 @@ A system that never recognizes contribution teaches that effort does not matter.
 - Chapter Two principles:
   - [§3.1.5 Present Capability and Proactive Help](core_02.000_values_principles.md#315-present-capability-and-proactive-help);
   - [§3.2 Recognition, Reinforcement, and Aspiration](core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
-  - [§3.2.6 Anti-Reward for Anti-Constitutional Conduct](core_02.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct);
+  - [§3.2.7 Anti-Reward for Anti-Constitutional Conduct](core_02.000_values_principles.md#327-anti-reward-for-anti-constitutional-conduct);
 - Chapter Four Articles:
   - [Article XX-C](core_04.030_rights_part_d.md#article-xx-c-contribution-competency-bars-and-gated-pathway-eligibility) (*Contribution, Competency Bars, and Gated-Pathway Eligibility*);
   - [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*).

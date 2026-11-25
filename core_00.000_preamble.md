@@ -57,7 +57,7 @@ The penalty can be sidelining, retaliation ([Protected Reporting Retaliation and
 - waste
 - unfair cost-shifting
 
-The reward can be recognition, advancement, protection, metric credit, or looking the other way ([Chapter Two §3.2.6 Anti-Reward for Anti-Constitutional Conduct](core_02.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+The reward can be recognition, advancement, protection, metric credit, or looking the other way ([Chapter Two §3.2.7 Anti-Reward for Anti-Constitutional Conduct](core_02.000_values_principles.md#327-anti-reward-for-anti-constitutional-conduct)).
 
 Neither question is a demand to be agreeable. Honest dissent, good-faith reporting, and refusing to take part in wrongdoing are not anti-social. A system that treats them so has it backwards. Nor is either a popularity test. What counts as helping, harming, fair, or justified is judged by this Constitution's own standards. Those are [**Flourishing**](#flourishing) and [**Continuity**](#continuity), within Safety, Truth, Trust, and the Rights Floor. They are not whatever a majority, an operator, or a moment approves.
 
