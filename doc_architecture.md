@@ -1505,5 +1505,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and twenty-fifth move (reorder the owner register introduction; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): reverse the two introductory paragraphs in [Chapter One §4](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), placing the account of Chapters Two through Four before the explanation of the owner register. Effect on a rule: none; the paragraphs are unchanged.
 
+**One thousand and twenty-sixth move (bullet the later chapters and processes; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): present the examples in the opening paragraph of [Chapter One §4](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) as bullets by section. Effect on a rule: none; the same examples and relationship remain.
+
 **Next file:** [README.md](README.md)
 
