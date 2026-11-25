@@ -333,17 +333,17 @@ wellbeing is not only what's forbidden and what's fair — shared systems should
 
 [Source](../../core_02.000_values_principles.md#325-aligned-recognition-pathways)
 
-###### 3.2.6 Anti-Reward for Anti-Constitutional Conduct
-
-no one may be rewarded for committing, hiding, or retaliating over anti-constitutional conduct, whether openly or through back doors like favors, quiet promotions, or looking the other way. Helping the sentients who were harmed, and protecting those who report honestly, is different. That is the right response, and it should be encouraged.
-
-[Source](../../core_02.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)
-
-###### 3.2.7 Implementation Layer
+###### 3.2.6 No Reward for Violations
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_02.000_values_principles.md#327-implementation-layer)
+[Source](../../core_02.000_values_principles.md#326-no-reward-for-violations)
+
+###### 3.2.7 Anti-Reward for Anti-Constitutional Conduct
+
+no one may be rewarded for committing, hiding, or retaliating over anti-constitutional conduct, whether openly or through back doors like favors, quiet promotions, or looking the other way. Helping the sentients who were harmed, and protecting those who report honestly, is different. That is the right response, and it should be encouraged.
+
+[Source](../../core_02.000_values_principles.md#327-anti-reward-for-anti-constitutional-conduct)
 
 ##### 3.3 Anti-Degrading Process
 

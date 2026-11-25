@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-11-25T19:47:40+00:00",
+  "generated_at": "2026-11-25T20:50:32+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -2321,7 +2321,7 @@
     [120,"#oversight-constitutional"],
     [121,"#participation-constitutional"],
     [122,"#timeliness-constitutional"],
-    [2,"#326-anti-reward-for-anti-constitutional-conduct"],
+    [2,"#327-anti-reward-for-anti-constitutional-conduct"],
     [6,"#175-duty-to-resist"],
     [6,"#171-shared-stewardship-standard"],
     [7,"#1911-what-incentives-must-do"],

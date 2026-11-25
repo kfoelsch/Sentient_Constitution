@@ -191,8 +191,9 @@ Confidence: 42 high, 22 medium, 3 low.
 | 1A §3.2.3 | Aspiration | All objects | System | M | Protects lawful ends across objects, while shared systems carry the duty to recognize and support them. |
 | 1A §3.2.4 | Preference-Aligned Recognition | Process | System | M | Sets consent-sensitive steps for the form and visibility of recognition; recognition systems provide the means. |
 | 1A §3.2.5 | Aligned Recognition Pathways | System | Institution | M | Applies to status, resource, and access pathways across systems; institutional control is a clear secondary aspect. |
-| 1A §3.2.6 | Anti-Reward for Anti-Constitutional Conduct | System | Institution | M | Bars direct and indirect reward pathways across roles, institutions, and system components; institutions are named actors. |
-| 1A §3.2.7 | Implementation Layer | Institution | Process | M | Places ceremonies, curricula, budgets, programs, and metrics in adopting implementation; their delivery is procedural. |
+| 1A §3.2.6 | No Reward for Violations | Sentient | System | M | Keeps a verified violation from being treated as a contribution or erasing a separate verified contribution; repair and truthful cooperation may count separately. |
+| 1A §3.2.7 | Anti-Reward for Anti-Constitutional Conduct | System | Institution | M | Bars direct and indirect reward pathways across roles, institutions, and system components; institutions are named actors. |
+| 1A §3.2 | Implementation detail boundary | Institution | Process | M | Places granular ceremonies, curricula, budgets, programs, and metrics in adopting implementation; their delivery is procedural. |
 | 1A §5.2.1 | Scope | Process | System | M | Defines which rules, notices, and tools carry the accessibility duty; systems deliver them to affected readers. |
 | 1A §5.2.2 | The Duty | Process | Institution | M | Lists communication and organization steps required of operators and governance bodies. |
 | 1A §5.2.3 | Definitional Rigor Preserved | Meta (reading the text) | Process | M | Controls the relationship between plain-language summaries and the formal definition layer. |

@@ -541,8 +541,8 @@ These requirements also support [6. Trust](#6-trust-and-trustworthiness-coordina
   - [§3.2.3](#323-aspiration) ·
   - [§3.2.4](#324-preference-aligned-recognition) ·
   - [§3.2.5](#325-aligned-recognition-pathways) ·
-  - [§3.2.6](#326-anti-reward-for-anti-constitutional-conduct) ·
-  - [§3.2.7](#327-implementation-layer).
+  - [§3.2.6](#326-no-reward-for-violations) ·
+  - [§3.2.7](#327-anti-reward-for-anti-constitutional-conduct).
 </details>
 
 <details>
@@ -578,12 +578,14 @@ These requirements also support [6. Trust](#6-trust-and-trustworthiness-coordina
 - what systems reinforce; and
 - what sentients are helped to pursue.
 
+Granular ceremonies, curricula, budgets, programs, and metrics belong in adopting implementation layers.
+
 When recognition or praise can meaningfully affect a sentient being's voice, standing, or access, it must respect [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional), as required by [Wellbeing](#3-foundational-objective-wellbeing-flourishing-aim) and [Fairness](#31-fairness). Read this section alongside [§3.1 Fairness](#31-fairness). It must not override Safety, Truth, or the minimum rights guaranteed by Chapter Four.
 
 This section is where the Preamble's [Two Fundamental Questions](core_00.000_preamble.md#two-fundamental-questions) meet the principles:
 
 - [§3.2.1 Recognition and Reinforcement](#321-recognition-and-reinforcement) bears on the first question.
-- [§3.2.6 Anti-Reward for Anti-Constitutional Conduct](#326-anti-reward-for-anti-constitutional-conduct) bears on the second.
+- [§3.2.7 Anti-Reward for Anti-Constitutional Conduct](#327-anti-reward-for-anti-constitutional-conduct) bears on the second.
 
 <a id="321-recognition-and-reinforcement"></a>
 ##### 3.2.1 Recognition and Reinforcement
@@ -628,21 +630,33 @@ Recognition pathways, acclaim, prizes, certification, standing, reputation effec
 
 They **must not** systematically reward harm, deception, avoidance of scrutiny, extraction, or erosion of meaningful agency.
 
-<a id="326-anti-reward-for-anti-constitutional-conduct"></a>
-##### 3.2.6 Anti-Reward for Anti-Constitutional Conduct
+Any sentient, role, institution, or system component that repairs harm, protects sentients from retaliation, or makes things right for those who were hurt or who reported in good faith is doing what this Constitution encourages. Neither that work nor the help that hurt sentients and good-faith reporters receive counts as a reward under this rule.
+
+<a id="326-no-reward-for-violations"></a>
+##### 3.2.6 No Reward for Violations
+
+A verified violation is not a contribution and must not itself earn recognition, reward, or advancement. It does not erase a separate, verified contribution. Verified repair and truthful cooperation may be recognized as separate contributions.
+
+<a id="327-anti-reward-for-anti-constitutional-conduct"></a>
+##### 3.2.7 Anti-Reward for Anti-Constitutional Conduct
 
 *In plain terms: no one may be rewarded for committing, hiding, or retaliating over anti-constitutional conduct, whether openly or through back doors like favors, quiet promotions, or looking the other way. Helping the sentients who were harmed, and protecting those who report honestly, is different. That is the right response, and it should be encouraged.*
 
-No recognition, reward, protection, advancement, immunity, favorable assignment, contract, access, status, reputation benefit, standing benefit, or comparable advantage may be granted because a sentient, role, institution, or system component committed, enabled, concealed, normalized, refused to correct, or retaliated for reporting anti-constitutional conduct.
+No advantage may be granted to a sentient, role, institution, or system component because they:
+
+- committed or enabled anti-constitutional conduct;
+- concealed, normalized, or refused to correct that conduct; or
+- retaliated against someone for reporting it.
+
+Covered advantages include:
+
+- recognition or reward;
+- protection, advancement, or immunity;
+- favorable assignment, contract, or access;
+- status, reputation benefit, or standing benefit; and
+- any comparable advantage.
 
 This rule covers direct rewards and indirect reward pathways, including patronage, reputation laundering, post-hoc promotion, selective non-enforcement, favorable settlement, metric credit, or institutional protection.
-
-Any sentient, role, institution, or system component that repairs harm, protects sentients from retaliation, or makes things right for those who were hurt or who reported in good faith is doing what this Constitution encourages. Neither that work nor the help that hurt sentients and good-faith reporters receive counts as a reward under this rule.
-
-<a id="327-implementation-layer"></a>
-##### 3.2.7 Implementation Layer
-
-Granular ceremonies, curricula, budgets, programs, and metrics belong in adopting implementation layers.
 
 <a id="33-anti-degrading-process"></a>
 #### 3.3 Anti-Degrading Process
@@ -711,7 +725,31 @@ Where the prohibited character is suffering as an end in itself, or gratuitous o
 
 **Not prohibited merely for being hard.** Ordinary public accountability, reasoned publication, verified restriction, or proportionate remedy remains lawful even when it is unpleasant or reputationally adverse.
 
-**Fear as a tool of power.** Legitimate constitutional power must not wield fear as a tool of intimidation: creating, threatening, or exploiting dread to deter, silence, coerce, or control sentients beyond what a lawful purpose requires. Fear that arises from a process bounded by necessity and proportionality is not prohibited. A verified restriction, a firm consequence, or an honest warning about real risk may frighten someone and still be lawful, provided it goes no further than its protective, corrective, or preventive purpose requires, is plainly stated, and can be contested. The test is the process, not the feeling. Ask whether the fear is a side effect of a measure that is itself necessary and proportionate, or whether the fear is the point. Fear manufactured to chill participation, dissent, reporting, or challenge — through vague or unpublished threats, arbitrary or selective enforcement, or exaggerated stakes — is intimidation, however lawful the outcome it supports.
+**Fear as a tool of power.** Legitimate constitutional power must not use fear to intimidate. Intimidation means creating, threatening, or exploiting dread beyond what a lawful purpose requires in order to:
+
+- deter sentients;
+- silence them;
+- coerce them; or
+- control them beyond what a lawful purpose requires.
+
+Fear caused by a process bounded by necessity and proportionality is not prohibited. A measure may frighten someone and still be lawful, including:
+
+- a verified restriction;
+- a firm consequence; or
+- an honest warning about real risk.
+
+For such a measure to be lawful, it must go no further than its protective, corrective, or preventive purpose requires, be plainly stated, and be open to challenge.
+
+The test is the process, not the feeling. Ask:
+
+- Is the fear a side effect of a measure that is itself necessary and proportionate?
+- Or is creating fear the point?
+
+Fear manufactured to chill participation, dissent, reporting, or challenge is intimidation, even if the outcome it supports is lawful. It may be manufactured through:
+
+- vague or unpublished threats;
+- arbitrary or selective enforcement; or
+- exaggerated stakes.
 
 **Design and conduct.** Processes must not be designed, framed, carried out, or allowed to operate as degradation, humiliation, spectacle, retaliation, discriminatory burdening, or convenience-driven rights erosion.
 
