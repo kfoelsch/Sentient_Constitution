@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-25T03:10:26+00:00",
+  "generated_at": "2026-11-25T03:13:26+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -19,21 +19,27 @@
       ]
     },
     "core_01.000_constitutional_map.md": {
-      "total_lines": 508,
+      "total_lines": 520,
       "sections": [
-        {"header":"CHAPTER ONE: CONSTITUTIONAL MAP","level":1,"line_start":2,"line_end":508,"anchor":"#chapter-one-constitutional-map"},
+        {"header":"CHAPTER ONE: CONSTITUTIONAL MAP","level":1,"line_start":2,"line_end":520,"anchor":"#chapter-one-constitutional-map"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":38,"line_end":53,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why the Map Exists","level":3,"line_start":54,"line_end":87,"anchor":"#2-why-the-map-exists"},
         {"header":"3. Key Governance Processes","level":3,"line_start":88,"line_end":110,"anchor":"#3-key-governance-processes"},
-        {"header":"4. Principles, Definitions, and Rights","level":3,"line_start":111,"line_end":181,"anchor":"#4-principles-definitions-and-rights"},
-        {"header":"5. System and Institutional Charters, Functional Independence, and Separation of Duties","level":3,"line_start":182,"line_end":253,"anchor":"#5-system-and-institutional-charters-functional-independence-and-separation-of-duties"},
-        {"header":"5.1 Four-Seat Separation Map","level":4,"line_start":219,"line_end":253,"anchor":null},
-        {"header":"6. Key Practical Process Pipelines","level":3,"line_start":254,"line_end":360,"anchor":"#6-key-practical-process-pipelines"},
-        {"header":"6.1 Process Map","level":4,"line_start":275,"line_end":341,"anchor":null},
-        {"header":"6.2 How the Full Chain Fits Together","level":4,"line_start":342,"line_end":360,"anchor":"#62-how-the-full-chain-fits-together"},
-        {"header":"7. Process Ownership and Outputs","level":3,"line_start":361,"line_end":446,"anchor":"#7-process-ownership-and-outputs"},
-        {"header":"8. Governance, Change, and Incorporation","level":3,"line_start":447,"line_end":486,"anchor":"#8-governance-change-and-incorporation"},
-        {"header":"9. Adopted Implementation Corpus","level":3,"line_start":487,"line_end":508,"anchor":null}
+        {"header":"4. Principles, Definitions, and Rights","level":3,"line_start":111,"line_end":193,"anchor":"#4-principles-definitions-and-rights"},
+        {"header":"4.1 Chapter Two — Values, Principles, and Stewardship","level":4,"line_start":127,"line_end":137,"anchor":null},
+        {"header":"4.2 Chapter Three — Foundational Definitions","level":4,"line_start":138,"line_end":177,"anchor":null},
+        {"header":"4.2.1 Subcore 3-A — Definition Structure","level":5,"line_start":149,"line_end":158,"anchor":null},
+        {"header":"4.2.2 Subcore 3-B — Definition Integrity","level":5,"line_start":159,"line_end":168,"anchor":null},
+        {"header":"4.2.3 Subcore 3-C — Burden, Traceability, and Verification","level":5,"line_start":169,"line_end":177,"anchor":null},
+        {"header":"4.3 Chapter Four — Foundational Rights","level":4,"line_start":178,"line_end":193,"anchor":null},
+        {"header":"5. System and Institutional Charters, Functional Independence, and Separation of Duties","level":3,"line_start":194,"line_end":265,"anchor":"#5-system-and-institutional-charters-functional-independence-and-separation-of-duties"},
+        {"header":"5.1 Four-Seat Separation Map","level":4,"line_start":231,"line_end":265,"anchor":null},
+        {"header":"6. Key Practical Process Pipelines","level":3,"line_start":266,"line_end":372,"anchor":"#6-key-practical-process-pipelines"},
+        {"header":"6.1 Process Map","level":4,"line_start":287,"line_end":353,"anchor":null},
+        {"header":"6.2 How the Full Chain Fits Together","level":4,"line_start":354,"line_end":372,"anchor":"#62-how-the-full-chain-fits-together"},
+        {"header":"7. Process Ownership and Outputs","level":3,"line_start":373,"line_end":458,"anchor":"#7-process-ownership-and-outputs"},
+        {"header":"8. Governance, Change, and Incorporation","level":3,"line_start":459,"line_end":498,"anchor":"#8-governance-change-and-incorporation"},
+        {"header":"9. Adopted Implementation Corpus","level":3,"line_start":499,"line_end":520,"anchor":null}
       ]
     },
     "core_02.000_values_principles.md": {

@@ -124,7 +124,9 @@ Sections **4 through 9** are this Constitution's **constitutional owner register
 
 Each summary below states what the chapter owns and what it produces.
 
-**Chapter Two — Values, principles, and stewardship**
+#### 4.1 Chapter Two — Values, Principles, and Stewardship
+
+Chapter Two owns and produces the following:
 
 - **What it owns:** States the Constitution's guiding values and constraints, including:
   - wellbeing, fairness, Safety, Truth, Trust, and bounded freedom;
@@ -133,7 +135,9 @@ Each summary below states what the chapter owns and what it produces.
   - stewardship duties, including distributed understanding, systemic evaluation, and governance discipline.
 - **What it produces:** The interpretive foundation for every later chapter. These are the rules that turn high-level aims into operative requirements when systems, rights, definitions, or process pipelines must be read and applied.
 
-**Chapter Three — Foundational definitions**
+#### 4.2 Chapter Three — Foundational Definitions
+
+Chapter Three owns and produces the following:
 
 - **What it owns:** Supplies:
   - the canonical definition stack: Oversight, Participation, Accountability, Continuity, and Integrative bands;
@@ -142,7 +146,9 @@ Each summary below states what the chapter owns and what it produces.
   - related boundary rules.
 - **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor — binding Rights Floors live in Chapter Four. Owner-domain routing for the Constitution as a whole lives in this register (sections 4–9). Chapter Three's subcore holds the rules behind the dictionary: Subcore 3-A, 3-B, and 3-C below.
 
-**Subcore 3-A (Chapter Three) — Definition structure**
+##### 4.2.1 Subcore 3-A — Definition Structure
+
+Subcore 3-A owns and produces the following:
 
 - **What it owns:** Defines how constitutional terms are built through:
   - the Ontological/Measurement/Assessment/Compliance (O/M/A/C) component structure;
@@ -150,7 +156,9 @@ Each summary below states what the chapter owns and what it produces.
   - component rules that keep definitions precise and usable across the corpus.
 - **What it produces:** A shared grammar for definitions so later chapters do not fall into vague labels, hidden assumptions, or incompatible term shapes.
 
-**Subcore 3-B (Chapter Three) — Definition integrity**
+##### 4.2.2 Subcore 3-B — Definition Integrity
+
+Subcore 3-B owns and produces the following:
 
 - **What it owns:** Guards against:
   - evasion and scope-shifting;
@@ -158,14 +166,18 @@ Each summary below states what the chapter owns and what it produces.
   - non-compliance tricks that would hollow definitions on paper while defeating them in practice.
 - **What it produces:** Anti-evasion discipline and non-compliance orientation metadata — including routing hooks toward standing and misconduct review where evasion is substantiated.
 
-**Subcore 3-C (Chapter Three) — Burden, traceability, and verification**
+##### 4.2.3 Subcore 3-C — Burden, Traceability, and Verification
+
+Subcore 3-C owns and produces the following:
 
 - **What it owns:**
   - puts the proof burden on whoever claims compliance; and
   - requires traceable evidence, observability, and verification that scale to [**material stake**](core_00.000_preamble.md#material-stake) and remain practically challengeable.
 - **What it produces:** The verification pipeline that feeds **verified inputs** in [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) and system-alignment evidence in [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation). It does not replace standing measurement itself.
 
-**Chapter Four — Foundational Rights**
+#### 4.3 Chapter Four — Foundational Rights
+
+Chapter Four owns and produces the following:
 
 - **What it owns:** States the Rights Floor in Articles **I–XXIX**, covering:
   - survival essentials;

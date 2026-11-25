@@ -1507,5 +1507,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and twenty-sixth move (bullet the later chapters and processes; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): present the examples in the opening paragraph of [Chapter One §4](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) as bullets by section. Effect on a rule: none; the same examples and relationship remain.
 
+**One thousand and twenty-seventh move (subsections for principles, definitions, and rights; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): organize [Chapter One §4](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) into subsections for Chapters Two, Three, and Four, with nested subsections for the three Chapter Three subcores. Effect on a rule: none; the ownership summaries are unchanged.
+
 **Next file:** [README.md](README.md)
 
