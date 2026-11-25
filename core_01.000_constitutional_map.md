@@ -149,7 +149,7 @@ Chapter Two owns and produces the following:
 
 Chapter Three owns and produces the following:
 
-- **What it owns:** Supplies:
+- **What it owns:**
   - the canonical definition stack: Oversight, Participation, Accountability, Continuity, and Integrative bands;
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [Corpus](subcore_03.080_band_integrative.md#corpus); and

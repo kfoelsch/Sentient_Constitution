@@ -1525,5 +1525,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and thirty-fifth move (remove repeated owner-register pointer; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): remove the owner-domain routing sentence from [Chapter One §6.2](core_01.000_constitutional_map.md#62-chapter-three--foundational-definitions), since the introduction to §6 already explains the register. Effect on a rule: none; the owner register remains in sections 6–11.
 
+**One thousand and thirty-sixth move (simplify Chapter Three ownership list; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): remove the awkward “Supplies” lead-in from the ownership list in [Chapter One §6.2](core_01.000_constitutional_map.md#62-chapter-three--foundational-definitions). Effect on a rule: none; the listed subjects are unchanged.
+
 **Next file:** [README.md](README.md)
 
