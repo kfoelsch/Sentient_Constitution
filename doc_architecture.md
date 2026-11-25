@@ -1527,5 +1527,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and thirty-sixth move (simplify Chapter Three ownership list; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): remove the awkward “Supplies” lead-in from the ownership list in [Chapter One §6.2](core_01.000_constitutional_map.md#62-chapter-three--foundational-definitions). Effect on a rule: none; the listed subjects are unchanged.
 
+**One thousand and thirty-seventh move (remove redundant Chapter Five file pointer; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): remove the file-location sentence from the Chapter Five summary in [Chapter One §7](core_01.000_constitutional_map.md#7-system-and-institutional-charters-functional-independence-and-separation-of-duties) and link its title to the chapter. Effect on a rule: none.
+
 **Next file:** [README.md](README.md)
 

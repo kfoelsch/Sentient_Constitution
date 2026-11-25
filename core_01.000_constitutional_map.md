@@ -206,14 +206,14 @@ Chapter Four owns and produces the following:
 
 This section summarizes the two floors that every later process relies on, and the chapter on bodies that must stand apart from those they check, and what each produces.
 
-**Chapter Five — System and Institutional Charters**
+**[Chapter Five — System and Institutional Charters](core_05.000_charters.md#chapter-five-system-and-institutional-charters)**
 
 - **What it owns:** The floor for the published scope document of a system or institution:
   - which systems and institutions of Class L or higher must publish a [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) (Class P may publish one voluntarily);
   - the minimum a System Charter or Institutional Charter must state, including the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) and [Charter Pointers](subcore_03.075_band_continuity.md#charter-pointer) to the published binding stakeholder-choice rules;
   - how a System Charter or Institutional Charter is amended and reviewed so that its chartered scope does not change silently; and
   - what a System Charter or Institutional Charter cannot do: set class, define the boundary, replace certification, carry decision rules, or grant authority.
-- **What it produces:** A published, versioned statement of scope and seat placement that [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), certification, Standing Records, and forums can test behavior against. Chapter Five is at [`core_05.000_charters.md`](core_05.000_charters.md#chapter-five-system-and-institutional-charters).
+- **What it produces:** A published, versioned statement of scope and seat placement that [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), certification, Standing Records, and forums can test behavior against.
 
 **Chapter Six — Functional independence and separation of duties**
 
