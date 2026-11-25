@@ -110,7 +110,7 @@ The following points introduce the paths:
 - When [Chapter Four — Foundational Rights](core_04.000_rights_part_a.md#chapter-four-foundational-rights), [Chapter Eight — System Alignment Certification — Evaluation](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation), an incorporated document, or another constitutional provision expressly requires it, take the material constitutional issue into one or more of the paths below.
 - The [Key Practical Process Pipelines](#8-key-practical-process-pipelines) turn measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy.
 - Through these pipelines, authorized governance is tested, contested, and repaired in practice — but the pipelines do not authorize governance by themselves; they make it reviewable, contestable, correctable, and timely.
-- [Section 8.2](#82-how-the-full-chain-fits-together) states the full pipeline.
+- [Section 8.2](#82-how-the-full-chain-fits-together) shows how the stages fit together: separating decision-making seats, certification, Standing Records and measurement, standing effects, designation review when applicable, forum supervision, and carrying out outcomes.
 
 **The paths:**
 

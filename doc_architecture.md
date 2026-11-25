@@ -1515,5 +1515,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and thirtieth move (name the chapters in the governance-process introduction; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): name and link Chapters Four and Eight in the first bullet of [Chapter One §5](core_01.000_constitutional_map.md#5-key-governance-processes). Effect on a rule: none; the requirement is unchanged.
 
+**One thousand and thirty-first move (clarify the full-chain pointer; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): clarify the pointer to [Chapter One §8.2](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) in §5 by naming the stages it brings together. Effect on a rule: none; the applicable stages and their requirements remain in their owner provisions.
+
 **Next file:** [README.md](README.md)
 
