@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/id_resolver.schema.json",
-  "generated_at": "2026-11-24T20:10:18+00:00",
+  "generated_at": "2026-11-24T23:10:19+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Derived locator: family/section IDs, CJS-0.105 §1 topics, Chapter Three terms. Indexes point; source text binds. Pre-release: current heading anchors only; no fossil or legacy fragment aliases.",
@@ -1010,7 +1010,7 @@
       {"avoid":"transition (bare, in the named adoption phrases: transition window, period, plan, governance, authority, phase, milestone, target, exception, carve-out, scoped, rules, status; transitional governance or authority; lowercase 'adoption transition')","prefer":"Adoption Transition, the defined Chapter Three term for the period in which an adopter moves from legacy to constitutional operation, written with both words capitalized (Adoption Transition window, Adoption Transition plan, Adoption Transition authority); other senses of transition (class change, labor displacement, mode or state transitions, vendor or format migration, authority transfer) stay as ordinary words; enforced by avoid-bare-adoption-transition"},
       {"avoid":"transition to higher / transition to full / transition toward / transition triggers / sandbox transition (a system moving to a higher-obligation track)","prefer":"step-up (Article XIX-C Step-Up to Higher-Obligation Regimes, CS-4.345 §5 Step-up to higher-impact systems, step-up floors, step-up triggers, the sandbox step-up); enforced by avoid-transition-senses"},
       {"avoid":"transitional recognition / transitional arrangements / transitional regimes (a stopgap recognizing arrangement for a sentient)","prefer":"interim recognition, interim recognition arrangements, interim recognition regimes (Article XXIII-C Non-Statelessness); enforced by avoid-transition-senses"},
-      {"avoid":"transitional steps / transitional measures (a stopgap during amendment)","prefer":"interim steps, interim measures (Chapter Thirty §4); enforced by avoid-transition-senses"},
+      {"avoid":"transitional steps / transitional measures (a stopgap during amendment)","prefer":"interim steps, interim measures (Chapter Twenty-Nine §10.1); enforced by avoid-transition-senses"},
       {"avoid":"transition continuity / continuity-preserving transition / safe transition paths / transition lifecycle (control or operation passing to another party: exit, migration, consolidation, dissolution, authority transfer)","prefer":"handoff (CJS-3.130 §18 Handoff continuity and authority-transfer lifecycle integrity, continuity-preserving handoff safeguards, safe handoff paths); mode or state transitions stay; enforced by avoid-transition-senses"}
     ]
   }

@@ -56,7 +56,7 @@ Chapter Twenty-Nine is the constitutional owner of **procedural and custody vali
 - amendment procedure requirements (**section 3**);
 - heightened review and the burden of justification (**section 4** and **section 5**), and the validity floor (*Validity floor* above);
 - Procedural Tests 2 to 4 (**section 6** to **section 8**);
-- review triggers, the provisional effect rule, invalid-change handling, and the referral of serious bad-faith conduct (**section 9** to **section 11**);
+- review triggers, the provisional effect rule, continuity of supremacy and challenge rights during amendment, invalid-change handling, and the referral of serious bad-faith conduct (**section 9** to **section 11**);
 - ratification and adoption (**section 12**), where a body binds itself to this Constitution only by adopting through this chapter (**Chapter Thirty section 7**).
 
 The chapter leaves:
@@ -351,7 +351,7 @@ Heightened review is automatically triggered for amendments that materially affe
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§9](#9-review-triggers) heightened review triggers.
-- Downstream: [§11](#11-invalid-change-handling-and-remediation-continuity) invalidity handling; [Chapter Thirty §4](core_30.000_expansion_supremacy.md#4-continuity-of-supremacy-and-challenge-rights-during-amendment) (30.000 §4) continuity of challenge rights.
+- Downstream: [§11](#11-invalid-change-handling-and-remediation-continuity) invalidity handling; [§10.1](#101-continuity-of-supremacy-and-challenge-rights-during-amendment) continuity of challenge rights.
 - Read with: [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) (4.000) rights materiality for what counts as "rights-affecting."
 
 </details>
@@ -361,6 +361,22 @@ Heightened review is automatically triggered for amendments that materially affe
 *In plain terms: high-stakes amendments must not freeze into irreversible facts on the ground before review windows and real contest routes have run — narrow, short emergency carve-outs are allowed only to stop imminent harm and should unwind when the danger passes.*
 
 Rights-affecting amendments and authority-structure amendments do not take irreversible effect until minimum review windows and contest pathways are satisfied. An exception applies where immediate narrow interim measures are necessary to prevent imminent material harm. Such interim measures must remain reversible where feasible.
+
+#### 10.1 Continuity of Supremacy and Challenge Rights during Amendment
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream: [§10](#10-provisional-effect-rule) provisional effect.
+- Downstream: [Chapter Thirty §5](core_30.000_expansion_supremacy.md#5-supremacy-relative-to-other-binding-norms) supremacy relative to other binding norms.
+- Read with: [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) anti-evasion on temporary suspension of supremacy or audit.
+
+</details>
+
+<br>
+
+*In plain terms: while **adopters** are amending the rules, this **Constitution** still applies — you cannot turn off supremacy, audits, or challenges as a negotiating tactic; short interim steps have to be bounded, reversible where possible, and honest.*
+
+No amendment process may suspend constitutional supremacy, auditability, challenge rights, or the **Rights-Floor minimums** applied through **Article VI** (*Equal Basic Rights*) under the [Rights-Floor Minimums Principle](core_02.020_interaction_interpretation.md#rights-floor-minimums-principle). Temporary interim measures must be time-limited, reversible where feasible, and non-evasive under **Subcores 3-A to 3-C** anti-evasion requirements.
 
 ### 11. Invalid-Change Handling and Remediation Continuity
 <details>

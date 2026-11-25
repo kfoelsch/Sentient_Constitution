@@ -71,7 +71,7 @@ The chapter leaves:
   - **Procedural Test 2:** procedural validity and publication integrity;
   - **Procedural Test 3:** authority-chain and custody validity; and
   - **Procedural Test 4:** contestability and independent review validity; and
-- additive expansion of protection and the sequencing of supremacy to [Chapter Thirty](core_30.000_expansion_supremacy.md#chapter-thirty-expansion-supremacy-and-external-legal-orders).
+- additive expansion of protection and supremacy relative to other norms to [Chapter Thirty](core_30.000_expansion_supremacy.md#chapter-thirty-expansion-supremacy-and-external-legal-orders).
 
 
 <a id="2-why-non-regression-exists"></a>
