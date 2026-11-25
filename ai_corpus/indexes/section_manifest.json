@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-25T03:45:20+00:00",
+  "generated_at": "2026-11-25T04:26:02+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -28,12 +28,12 @@
         {"header":"4. Foundations for the Chapters That Follow","level":3,"line_start":92,"line_end":103,"anchor":null},
         {"header":"5. Key Governance Processes","level":3,"line_start":104,"line_end":130,"anchor":null},
         {"header":"6. Principles, Definitions, and Rights","level":3,"line_start":131,"line_end":202,"anchor":null},
-        {"header":"6.1 Chapter Two — Values, Principles, and Stewardship","level":4,"line_start":137,"line_end":147,"anchor":null},
-        {"header":"6.2 Chapter Three — Foundational Definitions","level":4,"line_start":148,"line_end":187,"anchor":null},
-        {"header":"6.2.1 Subcore 3-A — Definition Structure","level":5,"line_start":159,"line_end":168,"anchor":null},
-        {"header":"6.2.2 Subcore 3-B — Definition Integrity","level":5,"line_start":169,"line_end":178,"anchor":null},
-        {"header":"6.2.3 Subcore 3-C — Burden, Traceability, and Verification","level":5,"line_start":179,"line_end":187,"anchor":null},
-        {"header":"6.3 Chapter Four — Foundational Rights","level":4,"line_start":188,"line_end":202,"anchor":null},
+        {"header":"6.1 [Chapter Two — Values, Principles, and Stewardship](core_02.000_values_principles.md)","level":4,"line_start":137,"line_end":147,"anchor":null},
+        {"header":"6.2 [Chapter Three — Foundational Definitions](core_03.000_definitions_home.md)","level":4,"line_start":148,"line_end":187,"anchor":null},
+        {"header":"6.2.1 [Subcore 3-A — Definition Structure](subcore_03.010_definition_structure.md)","level":5,"line_start":159,"line_end":168,"anchor":null},
+        {"header":"6.2.2 [Subcore 3-B — Definition Integrity](subcore_03.020_definition_integrity.md)","level":5,"line_start":169,"line_end":178,"anchor":null},
+        {"header":"6.2.3 [Subcore 3-C — Burden, Traceability, and Verification](subcore_03.030_burden_traceability_verification.md)","level":5,"line_start":179,"line_end":187,"anchor":null},
+        {"header":"6.3 [Chapter Four — Foundational Rights](core_04.000_rights_part_a.md)","level":4,"line_start":188,"line_end":202,"anchor":null},
         {"header":"7. System and Institutional Charters, Functional Independence, and Separation of Duties","level":3,"line_start":203,"line_end":273,"anchor":null},
         {"header":"7.1 Four-Seat Separation Map","level":4,"line_start":240,"line_end":273,"anchor":null},
         {"header":"8. Key Practical Process Pipelines","level":3,"line_start":274,"line_end":378,"anchor":null},
