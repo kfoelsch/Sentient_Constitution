@@ -154,7 +154,7 @@ Chapter Three owns and produces the following:
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [Corpus](subcore_03.080_band_integrative.md#corpus); and
   - related boundary rules.
-- **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor — binding Rights Floors live in Chapter Four. Owner-domain routing for the Constitution as a whole lives in this register (sections 6–11). Chapter Three's subcore holds the rules behind the dictionary: Subcore 3-A, 3-B, and 3-C below.
+- **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor — binding Rights Floors live in Chapter Four. Chapter Three's subcore holds the rules behind the dictionary: Subcore 3-A, 3-B, and 3-C below.
 
 ##### 6.2.1 Subcore 3-A — Definition Structure
 

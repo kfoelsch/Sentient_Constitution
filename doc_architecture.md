@@ -1523,5 +1523,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and thirty-fourth move (plain-language owner register introduction; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): rewrite the owner register introduction in [Chapter One §6](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) in plainer language. Effect on a rule: none; the register, binding owner claims, and non-relocation discipline remain.
 
+**One thousand and thirty-fifth move (remove repeated owner-register pointer; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): remove the owner-domain routing sentence from [Chapter One §6.2](core_01.000_constitutional_map.md#62-chapter-three--foundational-definitions), since the introduction to §6 already explains the register. Effect on a rule: none; the owner register remains in sections 6–11.
+
 **Next file:** [README.md](README.md)
 
