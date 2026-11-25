@@ -18,7 +18,7 @@
 
 Subcore 10-C is the constitutional owner of the **tables** Question 2 works from: the catalog of benefit-route descriptors and the catalog of harm-route descriptors, each in five domains, with what each descriptor measures; and the tables that route a measurement to the definitions, principles, and Chapter Four Articles that bear on it. [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) states the rules for using them: descriptors stack and rank below the slot, the catalogs are a base and not the full set, every applicable source must be identified, and none of this reopens Question 1 or merges the axes. Where a line there and the text here seem to differ, the reading more protective of the affected sentient controls.
 
-*In plain terms: Chapter Fifteen says how to measure how good or bad something was. This file holds the reference tables used along the way: the named kinds of help and harm, and the constitutional sources to check.*
+*In plain terms: Chapter Ten says how to measure how good or bad something was. This file holds the reference tables used along the way: the named kinds of help and harm, and the constitutional sources to check.*
 
 ### 2. Why the Tables Are the Same for Every Adopter
 

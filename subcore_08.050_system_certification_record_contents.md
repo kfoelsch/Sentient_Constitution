@@ -18,7 +18,7 @@
 
 Subcore 8-E is the constitutional owner of the **minimum contents of a System Certification Record**: each item the Record Seat must enter, from the system's identity and class through the findings, the four seats, every concern raised, and the outcome, to the operating plan. [Subcore 8-F](subcore_08.060_system_alignment_certification_records_recertification.md#subcore-8-f-system-alignment-certification--records-recertification-challenge-and-standing) states what the System Certification Record is, who keeps it, how it is versioned and challenged, and when it is incomplete; where a line there and the text here seem to differ, the reading more protective of the affected sentient controls.
 
-*In plain terms: Chapter Ten says every certified system has a public, auditable case file. This file is the checklist of what that case file must contain.*
+*In plain terms: Chapter Eight says every certified system has a public, auditable case file. This file is the checklist of what that case file must contain.*
 
 ### 2. Why the Contents Are the Same for Every Adopter
 

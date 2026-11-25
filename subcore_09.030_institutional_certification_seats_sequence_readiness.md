@@ -18,7 +18,7 @@
 
 Subcore 9-C is the constitutional owner of the **detailed adaptations of Chapter Nine to an Institution's certification**: who holds each of the four seats, which forum family leads and which holds each component, how participation, urgent protection, and contest apply, which added factors decide an Institution's remediation readiness, and how denial and revocation grounds are applied, including the one-System rule. [Subcore 9-D](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#subcore-9-d-institutional-alignment-certification--forum-process-and-outcomes) states each guarantee in one line; where a line there and the text here seem to differ, the reading more protective of the affected sentient controls.
 
-*In plain terms: Chapter Twelve says what an Institution's certification review must guarantee. This file sets out who sits where, in what order the forums act, what they weigh, and how a one-System Institution is kept from being treated worse, so that every adopter runs the review the same way.*
+*In plain terms: Chapter Nine says what an Institution's certification review must guarantee. This file sets out who sits where, in what order the forums act, what they weigh, and how a one-System Institution is kept from being treated worse, so that every adopter runs the review the same way.*
 
 ### 2. Why the Detail Is the Same for Every Adopter
 
@@ -69,7 +69,7 @@ This section is how Chapter Twelve applies the [Chapter Six §3 Four-Seat Consti
 - **Routing:** the certification pass then routes as [Chapter Six §6 Published Placement, Vacancy, and Substitution](core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution) provides. The seat's work goes to the independent route the Charter Role Map names, and the seat does not pass to the Institution or to anyone in its control line.
 - **Finding:** the defective placement of the seat is itself a finding under [Subcore 9-B §4 Whole-Institution Certification Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation).
 
-**Merged hosting.** [Chapter Six §7 Proportional Scaling and Merged Hosting](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting) applies unchanged. Chapter Twelve adds no merged hosting and removes none.
+**Merged hosting.** [Chapter Six §7 Proportional Scaling and Merged Hosting](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting) applies unchanged. Chapter Nine adds no merged hosting and removes none.
 
 <a id="4-forum-roles-and-sequence"></a>
 ### 4. Forum Roles and Sequence
@@ -79,7 +79,7 @@ This section is how Chapter Twelve applies the [Chapter Six §3 Four-Seat Consti
 The supervisory sequence in [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) applies, from the challenge path first through the hand-off to Phases IV and V, with these changes. [Subcore 8-D §3.1 Forum Supervision and Component Roles](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#31-forum-supervision-and-component-roles) applies as well, except where this section changes it:
 
 - **Lead:** An **Integrity** forum leads each certification pass.
-  - **Exception:** Chapter Twenty-Two may assign a different lawful lead for the primary stake.
+  - **Exception:** Chapter Sixteen may assign a different lawful lead for the primary stake.
   - **Record seat:** the lead forum directs the record seat holder and does not hold the record seat on the same act.
 - **Institutional Forums hold the core components:**
   - **Necessary party:** an Institution is always a necessary party to its own certification.
@@ -98,9 +98,9 @@ The supervisory sequence in [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.
     - **Send for ruling:** send it to another forum as a question for ruling and wait for the answer. The matter stays with the lead forum.
     - **Stay:** pause it.
   - **What it may not do:** decide a System's component question in the Institution's certification pass. That question is decided in the System's own certification pass.
-- **Participation, urgent protection, and contest:** Chapter Nine applies in full to an Institution's certification pass, with the System Certification Record read as the Institutional Certification Record.
+- **Participation, urgent protection, and contest:** Chapter Eight applies in full to an Institution's certification pass, with the System Certification Record read as the Institutional Certification Record.
   - **Participation during review** ([Subcore 8-D §3.2.4 Participation during Review](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#324-participation-during-review)): the assigned forums give affected sentients practicable, accessible ways to submit evidence and concerns during evaluation and forum review. Every submission goes into the review submissions log kept by the record seat holder.
-  - **Who can submit:** the Institution's affected members, workers, users, and communities, current and reasonably foreseeable, are among the affected sentients who must have an accessible way to submit evidence. Chapter Nine identifies them by actual and reasonably foreseeable effects and dependency, including before deployment.
+  - **Who can submit:** the Institution's affected members, workers, users, and communities, current and reasonably foreseeable, are among the affected sentients who must have an accessible way to submit evidence. Chapter Eight identifies them by actual and reasonably foreseeable effects and dependency, including before deployment.
   - **Staff and confidentiality:** Staff are the likeliest to know of a problem in an Institution. A submitter, staff included, may ask to stay anonymous or confidential. Until the lead forum decides, the submitter's identity is withheld from everyone, the Institution included, as [Subcore 8-D §3.2.4 Participation during Review](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#324-participation-during-review) provides.
   - **Urgent protection** ([Subcore 8-D §3.2.3 Urgent Protection](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection)): a stay, interim protection, or reliance limit may be ordered before the sequence finishes. The sequence still runs, and the measure is entered on the Institutional Certification Record.
   - **Contest** ([Subcore 8-D §3.3 Contestability Chain](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain)): affected parties can challenge the Institutional Certification Record, and a challenge goes to the level where the dispute actually lives.
@@ -137,7 +137,7 @@ The supervisory sequence in [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.
 
 [Subcore 8-D §4.4 Denial and Revocation](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) applies to an Institution with these changes:
 
-- **Grounds and process:** Chapter Nine §4.4 Denial and Revocation supplies these, unchanged:
+- **Grounds and process:** Chapter Eight §4.4 Denial and Revocation supplies these, unchanged:
   - **Grounds** ([Subcore 8-D §4.4.2 When Denial or Revocation Is Required](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#442-when-denial-or-revocation-is-required)):
     - **Denial,** where no certification is held: the readiness check finds the Institution unwilling, or neither willing nor able; or willing but not able, with no narrower certified scope, support, or handover that closes the gap in time; or the one deferral has run and readiness is still not shown.
     - **Revocation,** where certification is held: the same readiness findings, after notice and a chance to answer. Also a certification condition missed twice or materially violated, evidence shown to be false, fabricated, or concealed, or a required proof step not done in its window.
@@ -151,7 +151,7 @@ The supervisory sequence in [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.
     - **Urgent protection** ([Subcore 8-D §3.2.3 Urgent Protection](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#323-urgent-protection)): a stay, interim protection, or reliance limit may be ordered at once, without waiting for the notice, the answer, or the decision. The process still runs afterwards, and the measure is entered on the Institutional Certification Record.
   - **Not a permanent bar:** a denied or revoked operator may apply again.
 - **Who stands in:**
-  - **Operator:** read the Institution's governing authority wherever Chapter Nine §4.4 Denial and Revocation says "operator".
+  - **Operator:** read the Institution's governing authority wherever Chapter Eight §4.4 Denial and Revocation says "operator".
   - **System findings:** read the institutional findings wherever it says "system findings".
 - **Effects:** the effects are in [Subcore 9-D §4.5 Effects of Denial and Revocation for an Institution](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation-for-an-institution), not those in [Subcore 8-D §4.5 Effects of Denial and Revocation](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#45-effects-of-denial-and-revocation).
 - **One System:** An Institution that runs exactly one System has a one-System evaluation ([Subcore 9-B §2.1 Who Is Certified](subcore_09.020_institutional_alignment_certification_evaluation.md#21-who-is-certified)). Each outcome follows its own denial or revocation ground, so that an Institution with one System is not treated worse than one with several:

@@ -34,7 +34,7 @@ Chapter Twenty is the constitutional owner of **special enforcement**: the added
 
 *In plain terms: taking someone's money or property, or using force, can do lasting harm even when the outcome behind it is right. This chapter holds the extra rules for those steps, and for finding out why enforcement keeps failing so that the cause can be fixed. The aim is that enforcement leaves as little trauma behind as the outcome allows.*
 
-**Purpose:** Chapter Twenty-Six states the added rules for the steps of enforcement that carry the greatest risk of lasting harm, so that outcomes are delivered in a way that supports a sustainable, healthy society rather than wearing it down.
+**Purpose:** Chapter Twenty states the added rules for the steps of enforcement that carry the greatest risk of lasting harm, so that outcomes are delivered in a way that supports a sustainable, healthy society rather than wearing it down.
 
 **Role:** Where this chapter sits:
 

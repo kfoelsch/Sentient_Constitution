@@ -6,10 +6,10 @@
 >
 > - **Constitutional owner (joint with Chapters Eight and Nine):** forum-supervised **system alignment certification and related System Certification Records**. Under the **oversight** Tetrad leg, SAC is one especially large, high-stakes audit process among others; auditing floors remain at **Article XVII** (*Audit, Transparency, and Independent Verification*) and Chapter Three [Subcore 3-M — Auditability](subcore_03.085_band_oversight.md#auditability).
 > - **Inputs:** [Subcore 8-B §3](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) through [Subcore 8-B §6](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) supply evaluation outputs reflected on the System Certification Record, and [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) supplies the outcome that completes it.
-> - **Anti-relocation rule:** Chapter Ten does not restate Chapter Eight evaluation mechanics, Chapter Nine forum-process or outcome rules, Chapter Three canonical definitions, Chapter Fifteen standing measurement, or Chapter Sixteen standing effects. **§6** states the standing bridge. Chapter Ten also does not relocate auditing ownership from **Article XVII** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-3.110 §3 and CJS-3.115 §3** (*Audit process home*)–**CJS-3.110 §5**.
+> - **Anti-relocation rule:** Chapter Eight does not restate Chapter Eight evaluation mechanics, Chapter Eight forum-process or outcome rules, Chapter Three canonical definitions, Chapter Ten standing measurement, or Chapter Ten standing effects. **§6** states the standing bridge. Chapter Eight also does not relocate auditing ownership from **Article XVII** (*Audit, Transparency, and Independent Verification*) / **Def.O1** / **CJS-3.110 §3 and CJS-3.115 §3** (*Audit process home*)–**CJS-3.110 §5**.
 >
 > **Upstream:** [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation); [Subcore 8-D](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#subcore-8-d-system-alignment-certification--forum-process-and-outcomes); [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) functional independence and separation of duties; Chapter Twenty-Two forum supervision; Subcores 3-A to 3-C verification discipline.
-> **Downstream:** Chapter Fourteen Standing Records and verified inputs; Chapter Sixteen standing effects.
+> **Downstream:** Chapter Ten Standing Records and verified inputs; Chapter Ten standing effects.
 
 </details>
 
@@ -34,7 +34,7 @@
 
 <br>
 
-Chapter Ten is the constitutional owner of these parts of system alignment certification:
+Chapter Eight is the constitutional owner of these parts of system alignment certification:
 
 - **Phase V, Record:** the **System Certification Record** ([§3 System Certification Record](#3-system-certification-record)), the single home for what goes on the System Certification Record. The findings from the Chapter Eight evaluations are recorded there. That section completes the one System Certification Record opened for forum review, so no separate System Certification Record is made for the decision;
 - **Phase VIa, Operate and recertify:** **recertification and reopening** ([§4 Recertification and Reopening](#4-recertification-and-reopening)) and the **challenge path** ([§5 Challenging a Certification](#5-challenging-a-certification)); and
@@ -42,9 +42,9 @@ Chapter Ten is the constitutional owner of these parts of system alignment certi
 
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: Chapter Nine explains how forums review a system and reach an outcome. This chapter covers what comes after the decision. A certification only works if it is kept where it can be checked, re-checked on a schedule, and challenged by sentients (the beings the Constitution covers) when it is wrong. Certification can feed standing, but it is not standing, and it never replaces standing measurement or standing effects.*
+*In plain terms: Chapter Eight explains how forums review a system and reach an outcome. This chapter covers what comes after the decision. A certification only works if it is kept where it can be checked, re-checked on a schedule, and challenged by sentients (the beings the Constitution covers) when it is wrong. Certification can feed standing, but it is not standing, and it never replaces standing measurement or standing effects.*
 
-**Purpose:** Chapter Ten states what happens after the outcome:
+**Purpose:** Chapter Eight states what happens after the outcome:
 
 - the minimum contents, transparency, and auditability of the System Certification Record (**section 3**);
 - recertification on a schedule set by system class, reopening triggers, provisional and full certification, and non-evasion (**section 4**);
@@ -59,7 +59,7 @@ Chapter Ten is the constitutional owner of these parts of system alignment certi
 - The process chart:
   - [Subcore 8-B §2.2 Certification at a Glance](subcore_08.020_system_alignment_certification_evaluation.md#22-certification-at-a-glance) charts the whole process; and
   - the chart of Phases III to VI is in [Subcore 8-D §4 Certification Outcomes](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes).
-- It hands verified facts to Chapter Fourteen only through the verified-input gate (**section 6.3**).
+- It hands verified facts to Chapter Ten only through the verified-input gate (**section 6.3**).
 - Standing Records and their effects are decided in Chapters [Subcore 10-B — Fourteen](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) and [Nineteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement), not here.
 
 **Chapter scope:** The chapter covers:
@@ -71,7 +71,7 @@ Chapter Ten is the constitutional owner of these parts of system alignment certi
 
 The chapter leaves:
 
-- the forum process and outcomes to Chapter Nine;
+- the forum process and outcomes to Chapter Eight;
 - evaluation to Chapter Eight; and
 - standing measurement and standing effects to Chapters [Subcore 10-D — Fifteen](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) and [Subcore 10-F — Sixteen](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows).
 
@@ -342,7 +342,7 @@ The completed System Certification Record stays as it stood ([§3 System Certifi
 
 *In plain terms: a certification can reopen early, before its next scheduled date, when something material changes or goes wrong, such as concealed behavior, growing dependency, new risk, or a credible challenge.*
 
-Review reopens under Chapter Twenty-Two and incorporated system implementation duties when any of the following is material:
+Review reopens under Chapter Sixteen and incorporated system implementation duties when any of the following is material:
 
 - **Change in the system or its context:**
   - a material change in the system, its use, or its operating context;
@@ -402,7 +402,7 @@ A recertification is **clean** when it meets requirements 2 and 3.
 > | **Who holds it** | A first certification, including a newly deployed system; a system certified after a failed recertification or a reopened or fresh review that found misalignment | A system that earned it at a recertification while holding provisional certification |
 > | **How it is earned** | Granted with a certification outcome | Required number of consecutive clean provisional recertifications (at least one), no current misalignment, and no indicator of impending misalignment |
 > | **Certification interval** | Provisional interval, shorter than the full certification interval for the same system class | The system-class-scaled interval; still time-bound |
-> | **If a recertification fails** | Consequences under Chapter Nine §4 apply; next certification is provisional and the clean count restarts at zero | Consequences under Chapter Nine §4 apply; next certification is provisional and the clean count restarts at zero |
+> | **If a recertification fails** | Consequences under Chapter Eight §4 apply; next certification is provisional and the clean count restarts at zero | Consequences under Chapter Eight §4 apply; next certification is provisional and the clean count restarts at zero |
 > | **If an indicator of impending misalignment shows** | Stays provisional; the count does not advance | Steps down to provisional |
 
 </details>
@@ -568,9 +568,9 @@ A System Certification Record must name the four challenge paths below, so anyon
   - that windows under [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt.
 
   Internal operator review, vendor attestation, or technical sign-off is not this path.
-- **Component forum path** — for a challenge to one finding in the System Certification Record. It goes to the Chapter Twenty-Two forum family that has authority over that finding.
+- **Component forum path** — for a challenge to one finding in the System Certification Record. It goes to the Chapter Sixteen forum family that has authority over that finding.
 - **Lead-integrity path** — for a challenge to how the lead forum ran the process, such as capture, hidden information, reviewing its own work, or calling certification finished too soon. It goes through Integrity routing, with a backup forum so the lead forum does not judge itself.
-- **Escalation path** — for a dispute that needs to move to a different forum or a higher one under Chapter Twenty-Two. That means transfer, sending a question to another forum for ruling, backup routing, or escalation from one forum family to another. It applies when the main stakes belong elsewhere, constitutional validity is in question, a structural fix is needed, two forum families are deadlocked, or a forum would otherwise be judging itself.
+- **Escalation path** — for a dispute that needs to move to a different forum or a higher one under Chapter Sixteen. That means transfer, sending a question to another forum for ruling, backup routing, or escalation from one forum family to another. It applies when the main stakes belong elsewhere, constitutional validity is in question, a structural fix is needed, two forum families are deadlocked, or a forum would otherwise be judging itself.
 
 Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration. Unfinished use of the published record challenge path must not stall those forum paths or use up [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) windows.
 
@@ -600,7 +600,7 @@ Direct access to a forum path remains available when delay would materially enda
 
 <br>
 
-*In plain terms: certification can feed standing, but it is not standing. Any System Certification Record, good or bad and whatever the outcome, may supply verified facts to Chapter Fourteen, but only through a strict gate. Chapters Fourteen and Nineteen alone decide Standing Records and their effects.*
+*In plain terms: certification can inform standing, but it does not decide standing. A System Certification Record may provide verified facts to Chapter Ten only through its input gate. Chapter Ten governs Standing Records and measurement; Chapters Eleven through Thirteen govern consequences and final effects.*
 
 This section is sub-phase **VIb** of Phase VI (Operate), after [§4 Recertification and Reopening](#4-recertification-and-reopening) and [§5 Challenging a Certification](#5-challenging-a-certification) (**VIa**). It is the standing bridge.
 
@@ -633,12 +633,12 @@ A certification finding that a system is not yet aligned is not a violation by i
 
 #### 6.3 Verified-Input Gate
 
-A System Certification Record may feed Chapter Fourteen standing only when it is bounded, traceable, contestable, and verified under all of these:
+A System Certification Record may feed Chapter Ten standing only when it is bounded, traceable, contestable, and verified under all of these:
 
 - the system class evaluation ([Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation)), which settles what system class the system is in, the whole-system evaluation ([Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation)), and the data types and handling evaluation ([Subcore 8-B §4.4 Data Types and Handling Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation)), which settles what data it handles and how;
 - every evaluation in [Subcore 8-B §5 Evaluations Where Implicated](subcore_08.020_system_alignment_certification_evaluation.md#5-evaluations-where-implicated) and [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) that applies to this system, meaning each one whose trigger is met;
 - the System Certification Record's own transparency and auditability rules ([§3.2 Transparency and Auditability of the System Certification Record](#32-transparency-and-auditability-of-the-system-certification-record)) and the forum review rules ([Subcore 8-D §3 Forum Process](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process)); and
-- Subcores 3-A to 3-C, and whichever Chapter Twenty-Two process applies.
+- Subcores 3-A to 3-C, and whichever Chapter Sixteen process applies.
 
 <a id="64-contribution-standing-record"></a>
 

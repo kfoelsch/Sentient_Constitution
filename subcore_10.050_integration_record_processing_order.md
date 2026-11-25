@@ -18,13 +18,13 @@
 
 Subcore 10-E is the constitutional owner of the **mechanics of standing integration**: the fields each Standing Record brings to a Question 3 decision, the full contents of the integration record, the eight steps of the processing order, and the manual continuity process during an outage. [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) states each guarantee in one line; where a line there and the text here seem to differ, the reading more protective of the affected sentient controls.
 
-*In plain terms: Chapter Sixteen says what a Question 3 decision may and may not do. This file lists exactly what goes into the decision, what the integration record must show, and the order of the steps, so that every adopter runs the decision the same way.*
+*In plain terms: Chapter Ten says what a Question 3 decision may and may not do. This file lists exactly what goes into the decision, what the integration record must show, and the order of the steps, so that every adopter runs the decision the same way.*
 
 ### 2. Why the Mechanics Are the Same for Every Adopter
 
 *In plain terms: if adopters could change the order of the steps or leave fields off the integration record, a lock could be skipped or a contribution used to buy down a harm, and no one could tell.*
 
-The guarantees of Chapter Sixteen depend on the order in which the steps run and on what the integration record shows. Deciding contribution after locks, or letting a missing field hide which Standing Record a result came from, would let an adopter reach a preferred result while keeping the chapter's words. One order and one list of fields, the same for every adopter and for software and manual processing alike, mean any affected sentient can trace a result back to its source and see whether a step was skipped.
+The guarantees of Chapter Ten depend on the order in which the steps run and on what the integration record shows. Deciding contribution after locks, or letting a missing field hide which Standing Record a result came from, would let an adopter reach a preferred result while keeping the chapter's words. One order and one list of fields, the same for every adopter and for software and manual processing alike, mean any affected sentient can trace a result back to its source and see whether a step was skipped.
 
 **Grounded in:**
 
@@ -88,7 +88,7 @@ Each integration record must identify the following, in four groups:
    - implementation milestones;
    - the review route;
    - reassessment triggers; and
-   - any Chapter Twenty gateway status.
+   - any Chapter Fourteen gateway status.
 
 <a id="5-processing-order"></a>
 ### 5. Processing Order
@@ -99,7 +99,7 @@ The following processing order applies to both automated and manual decisions. I
 
 **Prepare the inputs:**
 
-1. validate the Chapter Fourteen records and their current review status; and
+1. validate the Chapter Ten records and their current review status; and
 2. normalize shared descriptors and attachments without changing either slot.
 
 **Decide the consequences on each track:**

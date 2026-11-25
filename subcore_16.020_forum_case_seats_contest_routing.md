@@ -18,7 +18,7 @@
 
 Subcore 16-B is the constitutional owner of the **detail of forum cases**: the intake table, who holds each of the four seats for each kind of case and party, the four certification contest paths and who takes each, and the full rules for contesting a Standing Record or an Adoption Transition Record. [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) states each guarantee in one line; where a line there and the text here seem to differ, the reading more protective of the affected sentient controls.
 
-*In plain terms: Chapter Twenty-Two says how a sentient can bring or contest a case and what the forum may and may not do. This file sets out who sits where and which forum hears which contest, so that every adopter runs forum cases the same way.*
+*In plain terms: Chapter Sixteen says how a sentient can bring or contest a case and what the forum may and may not do. This file sets out who sits where and which forum hears which contest, so that every adopter runs forum cases the same way.*
 
 ### 2. Why the Detail Is the Same for Every Adopter
 
@@ -61,7 +61,7 @@ A case reaches a forum in one of four ways. The intake triage body records the i
 
 *In plain terms: who holds each seat for each kind of case, and how the seats change with who is being heard.*
 
-A forum case is a materially binding act, so it has the four seats in [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement), under Chapter Six's names. This section is how Chapter Twenty-Two applies that requirement, as [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires of every later process. It adds no seat and relaxes no rule of Chapter Six. Forensic and technical support under **Chapter Twenty-Three section 6** feeds the verify-or-authorize seat. It is not a fifth seat.
+A forum case is a materially binding act, so it has the four seats in [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement), under Chapter Six's names. This section is how Chapter Sixteen applies that requirement, as [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires of every later process. It adds no seat and relaxes no rule of Chapter Six. Forensic and technical support under **Chapter Seventeen section 6** feeds the verify-or-authorize seat. It is not a fifth seat.
 
 Who holds each seat depends on the intake:
 
@@ -90,7 +90,7 @@ Who holds the seats also depends on who is being heard:
 - **A system or institution that has a [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter) or [Subcore 3-K — Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter):** every seat holder sits outside its Material Control Line. The party cannot choose, appoint, fund through a channel it controls, or remove the forum or panel that hears the case. A seat that its Charter Role Map should place and leaves unplaced is a defect in the System Charter or Institutional Charter, handled under [Chapter Six §6 Published Placement, Vacancy, and Substitution](core_06.000_functional_independence_separation_of_duties.md#6-published-placement-vacancy-and-substitution).
 - **A sentient:** holds the Initiating Seat on its own filing and needs no institution to do so. The forum's published placement under [CF-16.405](corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum Formation, Forum-Structure Mapping, and Chamber Structure*) names the other seats, and a holder with an interest in the outcome steps aside under [CF-16.410](corpus_forum/cf_16.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-16410-panel-formation-disclosure-recusal-and-lawful-bench-constitution) (*Panel Formation, Disclosure, Recusal, and Lawful Bench Constitution*).
 - **A community or natural system:** the published representative holds the Initiating Seat ([Chapter Seventeen §3.4 Environment Forums](core_17.000_forum_families_escalation_timeliness_support.md#34-environment-forums)). The representative holds no seat in the decision.
-- **A forum family as the party (alleged bias, capture, or conflict):** the cross-forum anti-self-judging rule in **Chapter Twenty-Two section 6** assigns the independent lead and the backup. That family holds no seat in the case.
+- **A forum family as the party (alleged bias, capture, or conflict):** the cross-forum anti-self-judging rule in **Chapter Sixteen section 6** assigns the independent lead and the backup. That family holds no seat in the case.
 
 <a id="5-certification-contest-paths"></a>
 ### 5. Certification Contest Paths
@@ -99,7 +99,7 @@ Who holds the seats also depends on who is being heard:
 
 A certification contest is a [Subcore 3-J — Review Case](subcore_03.070_band_accountability.md#review-case). A System or Institutional Certification Record names four challenge paths ([Subcore 8-F §5.2 Contestability Paths](subcore_08.060_system_alignment_certification_records_recertification.md#52-contestability-paths); [Subcore 9-F §5.2 Contestability Paths](subcore_09.060_institutional_alignment_certification_records_recertification.md#52-contestability-paths)). The paths apply [Dispute sequencing](core_16.000_forum.md#dispute-sequencing) under **Chapter Twenty-Two section 4**. They are routes into the forums, not a new forum, and Chapter Twenty-Two decides which forum takes each:
 
-- The **published record challenge path** is the ordinary first step for an ordinary dispute about the Certification Record. A challenge raised there is logged on the Certification Record, and the tier windows under **Chapter Twenty-Three §5** (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*) run from its receipt. Internal operator review, vendor attestation, or technical sign-off is not this path.
+- The **published record challenge path** is the ordinary first step for an ordinary dispute about the Certification Record. A challenge raised there is logged on the Certification Record, and the tier windows under **Chapter Seventeen §5** (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*) run from its receipt. Internal operator review, vendor attestation, or technical sign-off is not this path.
 - The **component forum path** takes a challenge to one certification finding to the forum family that has jurisdiction over it under the default venue table in [Subcore 16-A — §5 Default Venue Table](subcore_16.010_forum_intake_default_venue.md#5-default-venue-table).
   - Examples:
     - **Technical Forum Domains** for specifications, methods, and evidence standards;
@@ -113,8 +113,8 @@ A certification contest is a [Subcore 3-J — Review Case](subcore_03.070_band_a
     - reviewing its own work; or
     - calling certification finished too soon.
   - It goes through **Integrity** routing, with a backup forum so the lead forum does not judge itself, under:
-    - the cross-forum anti-self-judging rule in **Chapter Twenty-Two section 6**; and
-    - backup routing in **Chapter Twenty-Three section 4**.
+    - the cross-forum anti-self-judging rule in **Chapter Sixteen section 6**; and
+    - backup routing in **Chapter Seventeen section 4**.
 - The **escalation path** moves a dispute to a different or higher forum, where the main stakes belong elsewhere or constitutional validity is in question. It uses one of the moves between forums in **Chapter Twenty-Three section 4** ([Ways a Matter Moves Between Forums](core_17.000_forum_families_escalation_timeliness_support.md#ways-a-matter-moves-between-forums)):
   - transfer;
   - question for ruling;
@@ -123,8 +123,8 @@ A certification contest is a [Subcore 3-J — Review Case](subcore_03.070_band_a
 
 While a challenge is pending:
 
-- The **Integrity** forum stays the lead for the System or Institutional Certification Record unless primary-stakes routing, anti-self-judging protection, or a component assignment places a question elsewhere (**Chapter Twenty-Three section 3.5**).
-- A timely **Environment** forum objection, remediation requirement, or question for ruling that remains unresolved blocks final certification, validation, recertification, or material release from environmental conditions (**Chapter Twenty-Three section 3.5**).
+- The **Integrity** forum stays the lead for the System or Institutional Certification Record unless primary-stakes routing, anti-self-judging protection, or a component assignment places a question elsewhere (**Chapter Seventeen section 3.5**).
+- A timely **Environment** forum objection, remediation requirement, or question for ruling that remains unresolved blocks final certification, validation, recertification, or material release from environmental conditions (**Chapter Seventeen section 3.5**).
 - Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration ([Dispute sequencing](core_16.000_forum.md#dispute-sequencing)).
 - A credible challenge can reopen review under [Subcore 8-F §4.2 Reopening Triggers](subcore_08.060_system_alignment_certification_records_recertification.md#42-reopening-triggers) and [Subcore 9-F §4.2 Reopening Triggers](subcore_09.060_institutional_alignment_certification_records_recertification.md#42-reopening-triggers).
 
@@ -159,7 +159,7 @@ A Standing-Record contest is a [Subcore 3-J — Review Case](subcore_03.070_band
   - institutional-use disputes go to **Institutional** forums where the main fight is about what an institution may do or whether it followed the rules that govern it;
   - capture, concealment, retaliation, or process-integrity claims go to **Integrity** forums where integrity is primary;
   - environmental merits go to **Environment** forums where ecological stakes are primary;
-  - constitutional validity or meaning goes to **Constitutional** forums through certification or direct routing where Chapter Twenty-Two allows it.
+  - constitutional validity or meaning goes to **Constitutional** forums through certification or direct routing where Chapter Sixteen allows it.
 
 <a id="7-adoption-transition-record-contests"></a>
 ### 7. Adoption Transition Record Contests
@@ -185,7 +185,7 @@ Routing follows the real issue in the contest:
 - what the adopter may do, is charged to do, or whether it followed its own published plan goes to **Institutional** forums;
 - capture, concealment, falsified or withheld ledger data, or retaliation goes to **Integrity** forums where integrity is primary;
 - ledger measurement methods and evidence standards go to **Technical Forum Domains**;
-- a plan or re-baselining that lowers the fixed Rights-Floor target, or an action beyond lawful authority, goes to **Constitutional** forums through certification or direct routing where Chapter Twenty-Two allows it.
+- a plan or re-baselining that lowers the fixed Rights-Floor target, or an action beyond lawful authority, goes to **Constitutional** forums through certification or direct routing where Chapter Sixteen allows it.
 
 The forum's job is to review the contested decision or entry and the way it is being relied on. It may:
 
@@ -196,7 +196,7 @@ The forum's job is to review the contested decision or entry and the way it is b
 - send an underlying issue to the right forum; or
 - send a constitutional question for ruling.
 
-The forum must **not** set the plan, its gate criteria, or its target, lower the fixed Rights-Floor target, or rerun the Adoption Transition. A pending contest does not suspend the restraint duties that bind from the effective date, and the tier windows under **Chapter Twenty-Three §5** (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*) run from receipt of the contest.
+The forum must **not** set the plan, its gate criteria, or its target, lower the fixed Rights-Floor target, or rerun the Adoption Transition. A pending contest does not suspend the restraint duties that bind from the effective date, and the tier windows under **Chapter Seventeen §5** (*Timely Resolution, Materiality Tiers, and Anti-Delay Discipline*) run from receipt of the contest.
 
 **Adoption Charter entries:** A contest of an entry in an adopter's [Subcore 3-K — Adoption Charter](subcore_03.075_band_continuity.md#adoption-charter), such as its record custodian, its gatekeeper-check contact, or its forum authority assignment, follows this section in the same way, including who hears it and what the forum may and may not do. A contest of a level of trust the adopter extends is not heard under this section; [Chapter Thirteen §3.4 Gatekeeper Checks Across Adopters and Levels of Trust](core_13.000_final_effect_restoration_enforcement.md#34-gatekeeper-checks-across-adopters-and-levels-of-trust) governs it.
 

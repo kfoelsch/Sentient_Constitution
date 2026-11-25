@@ -18,13 +18,13 @@
 
 Subcore 20-A is the constitutional owner of the **full procedure of special enforcement**: how money and assets are frozen, seized, and returned; how force is approached, limited, climbed, paced, and ended; what happens when someone dies; and how root-cause evaluation opens and runs. [Chapter Twenty](core_20.000_special_enforcement.md#chapter-twenty-special-enforcement) states the shared floors, issues the Enforcement Record, and states each guarantee in one line; this file gives the detail every adopter applies the same way. Where a line in Chapter Twenty-Six and the text here seem to differ, the reading more protective of the affected sentient controls.
 
-*In plain terms: Chapter Twenty-Six says what a sentient is owed when money is taken or force is used. This file sets out, step by step, how that is done, so that it is done the same way everywhere.*
+*In plain terms: Chapter Twenty says what a sentient is owed when money is taken or force is used. This file sets out, step by step, how that is done, so that it is done the same way everywhere.*
 
 ### 2. Why the Procedure Is the Same for Every Adopter
 
 *In plain terms: when money is taken or force is used, the details decide whether someone is hurt. Those details cannot be left for each adopter to loosen.*
 
-The guarantees in Chapter Twenty-Six hold only if the steps that carry them out hold too. An adopter free to reorder the force ladder, shorten a freeze's end date, or let the body that used force review itself could empty each guarantee while keeping its words. Fixing the sequence, the limits, and the reviews in the Constitution means a sentient facing a freeze or force is protected the same way wherever they are, and anyone can tell when a step went beyond what was allowed.
+The guarantees in Chapter Twenty hold only if the steps that carry them out hold too. An adopter free to reorder the force ladder, shorten a freeze's end date, or let the body that used force review itself could empty each guarantee while keeping its words. Fixing the sequence, the limits, and the reviews in the Constitution means a sentient facing a freeze or force is protected the same way wherever they are, and anyone can tell when a step went beyond what was allowed.
 
 **Grounded in:**
 
@@ -103,10 +103,10 @@ This section governs any use or threat of physical force, and any carrying out o
 <a id="41-who-may-use-force"></a>
 #### 4.1 Who May Use Force
 
-Only enforcement bodies authorized and trained for it may use force, and Chapter Twenty-Six's floors bind every one of them. Where the authority comes from depends on the adopter:
+Only enforcement bodies authorized and trained for it may use force, and Chapter Twenty's floors bind every one of them. Where the authority comes from depends on the adopter:
 
-- **An adopter under another sovereign's law:** where the adopting body is subject to the law of a nation, state, or other external jurisdiction, force is used only by enforcement bodies that already hold that authority under that law. The issuing forum asks them to act, and the adopter arranges in advance how such requests will be made and met. Nothing in Chapter Twenty-Six gives the adopter or its bodies a power to use force that the external law does not give.
-- **A sovereign adopter:** where the adopting body is not subject to an external jurisdiction, it may name and train its own enforcement body under Chapter Twenty-Six, with the separation of duties in [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), published rules on its use of force, and independent oversight of every use.
+- **An adopter under another sovereign's law:** where the adopting body is subject to the law of a nation, state, or other external jurisdiction, force is used only by enforcement bodies that already hold that authority under that law. The issuing forum asks them to act, and the adopter arranges in advance how such requests will be made and met. Nothing in Chapter Twenty gives the adopter or its bodies a power to use force that the external law does not give.
+- **A sovereign adopter:** where the adopting body is not subject to an external jurisdiction, it may name and train its own enforcement body under Chapter Twenty, with the separation of duties in [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), published rules on its use of force, and independent oversight of every use.
 
 How this Constitution relates to external law is set out in [Chapter Twenty-Four §7 Relation to Applicable External Law](core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law).
 

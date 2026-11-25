@@ -7,11 +7,11 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Thirty lives and what stays here</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Four lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
-> - **Constitutional owner:** how this Constitution fits with other rules and outside law: additive expansion of protection, supremacy relative to other binding norms, and the relation to applicable external law and external tribunals. The tests for valid change are in **Chapter Twenty-Eight** and **Chapter Twenty-Nine**; the incorporation bridge is in **Chapter Thirty-One**.
-> - **Non-regression:** substantive floors remain in **Chapter Twenty-Eight**. Ratification, custody documents, and procedural amendment validity remain in **Chapter Twenty-Nine**.
+> - **Constitutional owner:** how this Constitution fits with other rules and outside law: additive expansion of protection, supremacy relative to other binding norms, and the relation to applicable external law and external tribunals. The tests for valid change are in **Chapter Twenty-Two** and **Chapter Twenty-Three**; the incorporation bridge is in **Chapter Twenty-Five**.
+> - **Non-regression:** substantive floors remain in **Chapter Twenty-Two**. Ratification, custody documents, and procedural amendment validity remain in **Chapter Twenty-Three**.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
 
@@ -48,7 +48,7 @@ Chapter Twenty-Four is the constitutional owner of **how this Constitution fits 
 
 *In plain terms: forward is fine, and new rights, stronger safeguards, and broader inclusion are welcome when they increase protection. This chapter also says how this Constitution relates to other binding norms and to outside law: it is not a secret override, and it cannot be turned off during amendment, so audits and challenges stay available throughout. Stricter outside law is respected when it fits, and outside forums cannot be used as an excuse to destroy records or dodge rights.*
 
-**Purpose:** Chapter Thirty states what is permitted and what holds when this Constitution meets other rules:
+**Purpose:** Chapter Twenty-Four states what is permitted and what holds when this Constitution meets other rules:
 
 - additive expansion, which is permitted (**section 3**);
 - continuity of supremacy and challenge rights during amendment (now in [Chapter Twenty-Three §10.1 *Continuity of Supremacy and Challenge Rights during Amendment*](core_23.000_amendment_ratification.md#101-continuity-of-supremacy-and-challenge-rights-during-amendment));
@@ -58,9 +58,9 @@ Chapter Twenty-Four is the constitutional owner of **how this Constitution fits 
 
 **Role:** The chapter works with its two neighbors on change and adoption:
 
-- The guardrail on expansion is Chapter Twenty-Eight.
-- A body can bind itself only by adopting through Chapter Twenty-Nine, and only as far as it already has lawful authority to bind itself.
-- **Chapter Thirty-One section 5** applies where partial adoption could shrink duties an entity already bears.
+- The guardrail on expansion is Chapter Twenty-Two.
+- A body can bind itself only by adopting through Chapter Twenty-Three, and only as far as it already has lawful authority to bind itself.
+- **Chapter Twenty-Five section 5** applies where partial adoption could shrink duties an entity already bears.
 
 **Chapter scope:** The chapter covers:
 
@@ -112,9 +112,9 @@ New rights and stronger safeguards need an easy way in, so the text can improve 
 
 <br>
 
-*In plain terms: forward is fine — new rights, stronger safeguards, and broader inclusion are welcome when they genuinely increase protection and stay consistent with the rest of this **Constitution**; the guardrail is Chapter Twenty-Eight, not a ban on improvement.*
+*In plain terms: forward is fine — new rights, stronger safeguards, and broader inclusion are welcome when they genuinely increase protection and stay consistent with the rest of this **Constitution**; the guardrail is Chapter Twenty-Two, not a ban on improvement.*
 
-Constitutional change may add new rights, safeguards, accountability mechanisms, representational guarantees, or protected classes and protected characteristics. Additions are permitted where they increase substantive protection, inclusion, or binding effect consistent with **Chapters Two and Three** and **Chapter Twenty-Eight**.
+Constitutional change may add new rights, safeguards, accountability mechanisms, representational guarantees, or protected classes and protected characteristics. Additions are permitted where they increase substantive protection, inclusion, or binding effect consistent with **Chapters Two and Three** and **Chapter Twenty-Two**.
 
 ### 4. Continuity of Supremacy and Challenge Rights during Amendment
 
@@ -148,9 +148,9 @@ Constitutional change may add new rights, safeguards, accountability mechanisms,
 
 <br>
 
-*In plain terms: the binding corpus and its definitions control how compliance is read for adopters, alongside adopted implementation in its lane — but nothing in that stack can be used to walk back Chapter Twenty-Eight floors or Chapter Three supremacy rules.*
+*In plain terms: the binding corpus and its definitions control how compliance is read for adopters, alongside adopted implementation in its lane — but nothing in that stack can be used to walk back Chapter Twenty-Two floors or Chapter Three supremacy rules.*
 
-For adopting entities, [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) in Chapter Three governs the relationship between this Constitution, its integrated definitions, and adopted implementation text, subject to **Chapter Twenty-Eight** non-regression requirements. Adopted implementation text governs for systems, stewardship, designated institutional relationships, forum operations, and cross-implementation joint structure within the stated scope of adoption.
+For adopting entities, [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) in Chapter Three governs the relationship between this Constitution, its integrated definitions, and adopted implementation text, subject to **Chapter Twenty-Two** non-regression requirements. Adopted implementation text governs for systems, stewardship, designated institutional relationships, forum operations, and cross-implementation joint structure within the stated scope of adoption.
 
 <a id="52-stricter-external-protections"></a>
 #### 5.2 Stricter External Protections
@@ -262,7 +262,7 @@ Constitutional interpretation, appeal, and review pathways under **Article XXI-A
 
 <br>
 
-*In plain terms: this Constitution is not a secret override of city, national, or international law. Publishing it, reading it, or using it as a guide does not make it supreme. A body can bind itself only by adopting through Chapter Twenty-Nine, and only as far as that body already has lawful authority to bind itself. If you use it inside someone else’s legal order, the processes here have to be runnable without violating that order — and you may not use “the other law is weaker” or “the other law forbids this” as a way to hollow out floors this Constitution still requires.*
+*In plain terms: this Constitution is not a secret override of city, national, or international law. Publishing it, reading it, or using it as a guide does not make it supreme. A body can bind itself only by adopting through Chapter Twenty-Three, and only as far as that body already has lawful authority to bind itself. If you use it inside someone else’s legal order, the processes here have to be runnable without violating that order — and you may not use “the other law is weaker” or “the other law forbids this” as a way to hollow out floors this Constitution still requires.*
 
 #### 7.1 Non-Displacement and Limited Binding Effect
 <details>
@@ -282,7 +282,7 @@ This Constitution does not, of its own force, repeal, displace, override, or ren
 
 Publication, distribution, citation, forking, operations-guide use, or any statement that a body “follows” this Constitution is not adoption and does not create supremacy over applicable external law.
 
-This Constitution becomes binding for a particular entity only upon valid adoption under **Chapter Twenty-Nine §12** (*Ratification and Adoption*) and **Chapter Thirty-One §5** (*Adoption Framing and Scope of Authority*). Binding effect is limited to:
+This Constitution becomes binding for a particular entity only upon valid adoption under **Chapter Twenty-Three §12** (*Ratification and Adoption*) and **Chapter Twenty-Five §5** (*Adoption Framing and Scope of Authority*). Binding effect is limited to:
 
 - the adopting entity;
 - the systems under that entity's authority; and
@@ -314,7 +314,7 @@ Where this Constitution is used, invoked, or applied inside an external legal fr
 Alignment with an external legal framework:
 
 - does not convert operations-guide use, citation, or “we follow it” practice into adoption;
-- does not authorize shrinking **Chapter Twenty-Eight** non-regression floors, **Chapter Four** Rights Floors, or **Chapter Two** Safety and Truth constraints by pointing at weaker external norms, as already forbidden by [§5.2 Stricter External Protections](#52-stricter-external-protections) and [§5.3 Conflict Disclosure and Mitigation](#53-conflict-disclosure-and-mitigation);
+- does not authorize shrinking **Chapter Twenty-Two** non-regression floors, **Chapter Four** Rights Floors, or **Chapter Two** Safety and Truth constraints by pointing at weaker external norms, as already forbidden by [§5.2 Stricter External Protections](#52-stricter-external-protections) and [§5.3 Conflict Disclosure and Mitigation](#53-conflict-disclosure-and-mitigation);
 - does not excuse [§6.1 Good-Faith Cooperation](#61-good-faith-cooperation) duties where competent external jurisdiction is lawfully asserted; and
 - does not permit using an asserted conflict as a pretext for selective compliance, forum shopping, or evasion of Rights-Floor obligations.
 

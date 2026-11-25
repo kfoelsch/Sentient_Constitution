@@ -90,7 +90,7 @@ When CJS text seems to conflict with a **primary owner** section, apply **CJS-25
 
 When that boundary does not resolve the conflict, use this order:
 
-1. The Sentient Constitution and core definitions, including **Chapter Thirty-One**.
+1. The Sentient Constitution and core definitions, including **Chapter Twenty-Five**.
 2. The canonical owner meaning in **CJS**, **CS**, **CI**, or **CF**, as routed by **CJS-0.105 §1** (*Cross-File Routing*) and the [Chapter One — constitutional owner register](../core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
 3. The **Layer 1** CJS abstraction stated in this section.
 4. Local shorthand, examples, summaries, or other drafting convenience text, as described in **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*).

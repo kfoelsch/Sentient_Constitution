@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-25T17:18:26+00:00",
+  "generated_at": "2026-11-25T17:51:04+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -791,7 +791,7 @@
         {"header":"Backup Routing under the Anti-Self-Judging Rule","level":4,"line_start":587,"line_end":606,"anchor":null},
         {"header":"Sentience-Status Adjudication (**Article VI-B** (*Sentience-Status Adjudication Floor*) Implementation Hook)","level":4,"line_start":607,"line_end":663,"anchor":null},
         {"header":"Referral Distinguished from Expansion","level":4,"line_start":664,"line_end":671,"anchor":null},
-        {"header":"Chapter Twenty Designation and Independent Review","level":4,"line_start":672,"line_end":680,"anchor":null},
+        {"header":"Chapter Ten Designation and Independent Review","level":4,"line_start":672,"line_end":680,"anchor":null},
         {"header":"5. Timely Resolution, Materiality Tiers, and Anti-Delay Discipline","level":3,"line_start":681,"line_end":870,"anchor":"#5-timely-resolution-materiality-tiers-and-anti-delay-discipline"},
         {"header":"5.1 Emergency Measures and Continuation Burden","level":4,"line_start":828,"line_end":870,"anchor":"#51-emergency-measures-and-continuation-burden"},
         {"header":"6. Forum Support Before, during, and After Review — Oversight Architecture","level":3,"line_start":871,"line_end":923,"anchor":"#6-forum-support-before-during-and-after-review--oversight-architecture"}
@@ -2150,12 +2150,12 @@
         {"header":"SUBCORE 10-F: STANDING INTEGRATION — QUESTION 3, WHAT FOLLOWS?","level":1,"line_start":1,"line_end":357,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":37,"line_end":75,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why Standing Integration Exists","level":3,"line_start":76,"line_end":101,"anchor":"#2-why-standing-integration-exists"},
-        {"header":"3. Chapter Fourteen Records Do Not Change","level":3,"line_start":102,"line_end":231,"anchor":"#3-chapter-fourteen-records-do-not-change"},
+        {"header":"3. Chapter Ten Records Do Not Change","level":3,"line_start":102,"line_end":231,"anchor":"#3-chapter-ten-records-do-not-change"},
         {"header":"3.1 Records the Decision Uses","level":4,"line_start":159,"line_end":165,"anchor":"#31-records-the-decision-uses"},
         {"header":"3.2 Absent Axes","level":4,"line_start":166,"line_end":178,"anchor":"#32-absent-axes"},
         {"header":"3.3 Facts and Measurements Stay Fixed","level":4,"line_start":179,"line_end":201,"anchor":"#33-facts-and-measurements-stay-fixed"},
         {"header":"3.4 What Does Not Count as Standing","level":4,"line_start":202,"line_end":217,"anchor":"#34-what-does-not-count-as-standing"},
-        {"header":"3.5 Changes Come Only through Chapter Fourteen","level":4,"line_start":218,"line_end":224,"anchor":"#35-changes-come-only-through-chapter-fourteen"},
+        {"header":"3.5 Changes Come Only through Chapter Ten","level":4,"line_start":218,"line_end":224,"anchor":"#35-changes-come-only-through-chapter-ten"},
         {"header":"3.6 The Rights Floor Is Not Reduced","level":4,"line_start":225,"line_end":231,"anchor":"#36-the-rights-floor-is-not-reduced"},
         {"header":"4. Automatic Integration, Review, and Continuity","level":3,"line_start":232,"line_end":282,"anchor":"#4-automatic-integration-review-and-continuity"},
         {"header":"4.1 Creating the Integration Record","level":4,"line_start":239,"line_end":245,"anchor":"#41-creating-the-integration-record"},
@@ -2373,7 +2373,7 @@
         {"header":"5. Replacing a Mechanism","level":3,"line_start":77,"line_end":84,"anchor":"#5-replacing-a-mechanism"},
         {"header":"6. Corrections","level":3,"line_start":85,"line_end":99,"anchor":"#6-corrections"},
         {"header":"7. Protective Steps While a Change Is in Doubt","level":3,"line_start":100,"line_end":111,"anchor":"#7-protective-steps-while-a-change-is-in-doubt"},
-        {"header":"8. Work Chapter Twenty-Eight Leaves to Other Chapters","level":3,"line_start":112,"line_end":154,"anchor":"#8-work-chapter-twenty-eight-leaves-to-other-chapters"}
+        {"header":"8. Work Chapter Twenty-Two Leaves to Other Chapters","level":3,"line_start":112,"line_end":154,"anchor":"#8-work-chapter-twenty-two-leaves-to-other-chapters"}
       ]
     },
     "corpus_systems.md": {

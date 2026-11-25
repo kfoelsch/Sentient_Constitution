@@ -40,7 +40,7 @@ Chapter Eighteen is the constitutional owner of **what an assembly of a polity d
 
 *In plain terms: this chapter says what a polity's assemblies are for: making general rules, setting tax policy and budgets, choosing and checking the executive, and handling emergencies, and what they may never do.*
 
-**Purpose:** Chapter Twenty-Four sets the role, powers, procedure, and limits of the assemblies through which a polity adopter exercises governing authority.
+**Purpose:** Chapter Eighteen sets the role, powers, procedure, and limits of the assemblies through which a polity adopter exercises governing authority.
 
 **Role:** [Chapter Twenty-One](core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship) (*Constitutional Contract, Legitimacy, Authorization, and Stewardship*) says how governing authority is authorized and how members are selected. This chapter says what an assembly does with that authority once it sits.
 

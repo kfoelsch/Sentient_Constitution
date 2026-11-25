@@ -18,7 +18,7 @@
 
 Subcore 11-A is the constitutional owner of the **detail of contribution consequences**: the currentness formula and what the integration record shows for each weight, and the full rules for competency bars and clearances: what a bar may require, how gatekeeping is prevented, how clearance continues or is reassessed, and what the clearance record must say. [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences) states each guarantee in one line; where a line there and the text here seem to differ, the reading more protective of the affected sentient controls.
 
-*In plain terms: Chapter Seventeen says what good work can and cannot do for a sentient. This file has the arithmetic and the step-by-step rules, so every adopter weighs contribution and sets bars the same way.*
+*In plain terms: Chapter Eleven says what good work can and cannot do for a sentient. This file has the arithmetic and the step-by-step rules, so every adopter weighs contribution and sets bars the same way.*
 
 ### 2. Why the Detail Is the Same for Every Adopter
 

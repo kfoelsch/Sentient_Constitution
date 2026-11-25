@@ -18,7 +18,7 @@
 
 Subcore 9-A is the constitutional owner of the **detailed tests of an Institution's evaluation**: the factors that set its class, the full test for each of the eight whole-institution items and for the two further parts of [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), and the trigger and governing evaluation for each Rights-Floor and domain protection. [Subcore 9-B](subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation) states each guarantee in one line; where a line there and the text here seem to differ, the reading more protective of the affected sentient controls.
 
-*In plain terms: Chapter Eleven says what an Institution's certification looks at. This file says exactly how each thing is tested, so that every adopter evaluates Institutions the same way.*
+*In plain terms: Chapter Nine says what an Institution's certification looks at. This file says exactly how each thing is tested, so that every adopter evaluates Institutions the same way.*
 
 ### 2. Why the Tests Are the Same for Every Adopter
 

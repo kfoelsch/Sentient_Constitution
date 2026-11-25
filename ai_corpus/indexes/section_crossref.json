@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_crossref.schema.json",
-  "generated_at": "2026-11-25T17:18:27+00:00",
+  "generated_at": "2026-11-25T17:51:06+00:00",
   "status": "process_support_not_binding",
   "cannot_narrow_core": true,
   "description": "Source-derived section-to-section Markdown reference graph.",
@@ -2183,7 +2183,7 @@
     [154,"#31-records-the-decision-uses","3.1 Records the Decision Uses"],
     [154,"#33-facts-and-measurements-stay-fixed","3.3 Facts and Measurements Stay Fixed"],
     [154,"#34-what-does-not-count-as-standing","3.4 What Does Not Count as Standing"],
-    [154,"#35-changes-come-only-through-chapter-fourteen","3.5 Changes Come Only through Chapter Fourteen"],
+    [154,"#35-changes-come-only-through-chapter-ten","3.5 Changes Come Only through Chapter Ten"],
     [154,"#36-the-rights-floor-is-not-reduced","3.6 The Rights Floor Is Not Reduced"],
     [154,"#42-what-the-integration-record-identifies","4.2 What the Integration Record Identifies"],
     [154,"#43-automation-and-human-review","4.3 Automation and Human Review"],
@@ -2302,7 +2302,7 @@
     [168,"#3-trade-offs-between-classes","3. Trade-Offs Between Classes"],
     [168,"#6-corrections","6. Corrections"],
     [168,"#7-protective-steps-while-a-change-is-in-doubt","7. Protective Steps While a Change Is in Doubt"],
-    [168,"#8-work-chapter-twenty-eight-leaves-to-other-chapters","8. Work Chapter Twenty-Eight Leaves to Other Chapters"],
+    [168,"#8-work-chapter-twenty-two-leaves-to-other-chapters","8. Work Chapter Twenty-Two Leaves to Other Chapters"],
     [168,"#subcore-22-a-non-regression-determinations","SUBCORE 22-A: NON-REGRESSION DETERMINATIONS"]
   ],
   "targets": [
@@ -3805,7 +3805,7 @@
     [32,"#11-invalid-change-handling-and-remediation-continuity"],
     [168,"#7-protective-steps-while-a-change-is-in-doubt"],
     [167,null],
-    [168,"#8-work-chapter-twenty-eight-leaves-to-other-chapters"],
+    [168,"#8-work-chapter-twenty-two-leaves-to-other-chapters"],
     [168,null],
     [168,"#subcore-22-a-non-regression-determinations"],
     [168,"#3-trade-offs-between-classes"],
@@ -4194,7 +4194,7 @@
     [32,"#7-procedural-test-3--authority-chain-and-custody-validity"],
     [25,"#54-contests-of-certification-records"],
     [25,"#56-contests-of-adoption-transition-records"],
-    [154,"#3-chapter-fourteen-records-do-not-change"],
+    [154,"#3-chapter-ten-records-do-not-change"],
     [150,"#8-handling-a-standing-record"],
     [152,"#31-lequ-baseline"],
     [118,"#accountability-tetrad-leg-decomposition"],

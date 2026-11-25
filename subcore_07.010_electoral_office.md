@@ -37,7 +37,7 @@
 - runs the public draws that fill seats by lot (§7 Public Draws); and
 - reports each year on turnout, access, errors found, and how each was corrected (§8 Records, Accuracy, and Challenge).
 
-**Out of scope:** The office does not decide who governs, set electoral boundaries or methods (those are set in advance under Chapter Twenty-Seven §6.2 *Records, Gates, and Method Neutrality*), decide a sentience status, a subject count, or a standing lock, endorse or oppose any candidate or question, or decide any matter that belongs to a forum.
+**Out of scope:** The office does not decide who governs, set electoral boundaries or methods (those are set in advance under Chapter Twenty-One §6.2 *Records, Gates, and Method Neutrality*), decide a sentience status, a subject count, or a standing lock, endorse or oppose any candidate or question, or decide any matter that belongs to a forum.
 
 <a id="2-why-the-electoral-office-exists"></a>
 
@@ -54,7 +54,7 @@ The Constitution gives every sentient an equal and lasting vote, but a right to 
     - [Participation](subcore_03.060_apex_participation_leg.md#participation): every entitled sentient is on the roll and can vote;
     - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the roll, the count, and the draws are run outside those who compete;
     - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every result and every correction is published and can be checked;
-- Chapter Twenty-Seven:
+- Chapter Twenty-One:
   - [§6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility), whose entitlement, residence, and one-subject rules the roll applies;
   - [§6.2 Records, Gates, and Method Neutrality](core_21.000_governance.md#62-records-gates-and-method-neutrality), which requires rules in advance and verifiable outcomes;
 - Chapter Four Articles:
@@ -113,7 +113,7 @@ The office runs every election, recall vote, and community referendum under [Cha
   - **Open count:** candidates, parties, and any sentient may observe every stage of the count, by a published observer rule.
   - **Results:** preliminary results are published within the **preliminary-results period**, which is twenty-four hours after the close of the vote, and certified results within the **result certification period**, which is fourteen days after the close of the vote.
   - **Audit after every vote:** before a result is certified, the office compares a random sample of ballots with the count, by a published risk-limiting method, and widens the sample until the method's confidence is met. The sample, the method, and the findings are published.
-  - **Count data anyone can verify:** the office publishes the ballot and tally data the count rests on, in a form that lets anyone redo it without revealing any sentient's vote, as Chapter Twenty-Seven §6.2 *Records, Gates, and Method Neutrality*, under *Verifiable outcomes* requires.
+  - **Count data anyone can verify:** the office publishes the ballot and tally data the count rests on, in a form that lets anyone redo it without revealing any sentient's vote, as Chapter Twenty-One §6.2 *Records, Gates, and Method Neutrality*, under *Verifiable outcomes* requires.
   - **Machines:** any software or device used to record or count votes is published for inspection, leaves a paper or other durable trail that any sentient can inspect, and is tested by an outside reviewer before each use.
 - **Emergencies:** where an emergency under [Chapter Eighteen §8 Emergencies](core_18.000_assemblies.md#8-emergencies) may make a fair election impossible in an area, the office, not the executive, certifies whether it is, publishes its reasons, and sets the new date within the limits of that section.
 

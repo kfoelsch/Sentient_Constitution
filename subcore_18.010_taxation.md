@@ -18,7 +18,7 @@
 
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: Chapter Twenty-Four says that only an assembly may set a tax. This file says what a fair, simple tax must look like, which tax designs are good and which are barred, how taxes are collected and enforced, and what anyone who owes tax may rely on.*
+*In plain terms: Chapter Eighteen says that only an assembly may set a tax. This file says what a fair, simple tax must look like, which tax designs are good and which are barred, how taxes are collected and enforced, and what anyone who owes tax may rely on.*
 
 **Purpose:** Subcore 18-A is the constitutional owner of the **standard detail of taxation**: the tests every tax must pass, the preferred and barred tax designs, the profits-tax floor and the limits on tax incentives, the ease-of-use duties, the enforcement rules, the rights of those who owe tax, how tax rules are made and changed, and the outcome-review measures.
 

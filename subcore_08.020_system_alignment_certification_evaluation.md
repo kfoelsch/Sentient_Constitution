@@ -4,7 +4,7 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Subcore 8-B** — certification purpose, the process overview, and the first two phases of the process — **Frame** (system class) and **Evaluate** (whole-system evaluation in three sub-phases: the always-applicable evaluations, including data types and handling, in **§4**; the evaluations that apply where implicated in **§5**; and the Rights-Floor and domain evaluations that apply where triggered in **§6**) — **§1–§6**. The worked **Class A / B / C illustrations** (the system class profiles and the walkthroughs for §4.4, §6.1, §6.2, §6.3, §6.4, §6.5, and §6.6), including each one's **Reading across system classes** paragraph, are in [CS-8.320](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-system-alignment-certification-illustrations) (*System alignment certification illustrations*) in the systems family, not in this chapter; each names the Chapter Eight section it illustrates. The binding system-class-scaling and escalation rules those paragraphs illustrate stay in this file: system class scaling, including participation and proportionality, in §3.2; data-handling scaling in §4.4; and the **System class scaling and escalation** paragraph in each of §6.1–§6.6. The three chapters of system alignment certification are listed in the table below.
 >
-> **System alignment certification across three chapters.** System alignment certification is stated in Chapters Eight, Nine, and Ten, each with its own §1 Purpose, Role, and Scope. Chapter Eight, this file, opens the sequence; there is no separate index file. The worked illustrations are not part of these chapters; they are in [CS-8.320](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-system-alignment-certification-illustrations) (*System alignment certification illustrations*).
+> **System alignment certification across three chapters.** System alignment certification is stated in Chapter Eight, each with its own §1 Purpose, Role, and Scope. Chapter Eight, this file, opens the sequence; there is no separate index file. The worked illustrations are not part of these chapters; they are in [CS-8.320](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-system-alignment-certification-illustrations) (*System alignment certification illustrations*).
 >
 > | Chapter | File | Owns |
 > |------|------|------|
@@ -196,23 +196,23 @@ flowchart TB
         Tr["§6 IIc — When triggered<br/><br/>Applicable Rights-Floor checks<br/>and six domain evaluations"]
         Al ~~~ Im ~~~ Tr
     end
-    F["Chapter Nine §3 Phase III, Review<br/>Independent review of evidence<br/>and stakeholder concerns<br/><br/>Assigned forums issue findings;<br/>challenge paths stay open"]
-    Rec["Chapter Ten §3 Phase V, Record<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, certification conditions, and operating plan"]
-    S[["Chapter Fourteen — Standing<br/>records<br/><br/>Outside this chapter"]]
-    O{"Chapter Nine §4 Phase IV, Decide<br/><br/>What outcome and status<br/>does the evidence support?"}
-    Fc["Chapter Nine §4, Chapter Ten §4.3 Full Certification<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Full certification interval; certification conditions may apply"]
-    Pc["Chapter Nine §4, Chapter Ten §4.3 Provisional Certification<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Provisional interval, shorter; certification conditions may apply"]
-    Nc["Chapter Nine §4 Not Certified<br/><br/>Deferred, refused, withdrawn, or expired<br/>No go-live; state reasons and required corrective work"]
-    Pub["Chapter Nine §4, Chapter Ten §5 Publish the completed System Certification Record<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
-    G{"Chapter Nine §4 Go-live gate<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}
-    Hold["Chapter Nine §4 Meet go-live prerequisites<br/><br/>Complete notice and independently verify<br/>certification conditions required before go-live"]
-    Rm["Chapter Nine §4, Chapter Ten §4.3 Protect and correct<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
-    Ch["Chapter Ten §4–Chapter Ten §5 Phase VIa, Operate and recertify<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and certification conditions;<br/>monitor outcomes and respond to incidents and challenges"]
-    S2[["Chapter Fourteen — Standing<br/>records<br/><br/>Outside this chapter"]]
+    F["Chapter Eight §3 Phase III, Review<br/>Independent review of evidence<br/>and stakeholder concerns<br/><br/>Assigned forums issue findings;<br/>challenge paths stay open"]
+    Rec["Chapter Eight §3 Phase V, Record<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, certification conditions, and operating plan"]
+    S[["Chapter Ten — Standing<br/>records<br/><br/>Outside this chapter"]]
+    O{"Chapter Eight §4 Phase IV, Decide<br/><br/>What outcome and status<br/>does the evidence support?"}
+    Fc["Chapter Eight §4, Chapter Eight §4.3 Full Certification<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Full certification interval; certification conditions may apply"]
+    Pc["Chapter Eight §4, Chapter Eight §4.3 Provisional Certification<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Provisional interval, shorter; certification conditions may apply"]
+    Nc["Chapter Eight §4 Not Certified<br/><br/>Deferred, refused, withdrawn, or expired<br/>No go-live; state reasons and required corrective work"]
+    Pub["Chapter Eight §4, Chapter Eight §5 Publish the completed System Certification Record<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
+    G{"Chapter Eight §4 Go-live gate<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}
+    Hold["Chapter Eight §4 Meet go-live prerequisites<br/><br/>Complete notice and independently verify<br/>certification conditions required before go-live"]
+    Rm["Chapter Eight §4, Chapter Eight §4.3 Protect and correct<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
+    Ch["Chapter Eight §4–Chapter Eight §5 Phase VIa, Operate and recertify<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and certification conditions;<br/>monitor outcomes and respond to incidents and challenges"]
+    S2[["Chapter Ten — Standing<br/>records<br/><br/>Outside this chapter"]]
     Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
     SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
     SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
-    Re["Chapter Ten §4 Next review pass<br/><br/>Recertification, reopening, or fresh review;<br/>each pass opens a new System Certification Record linked to the last"]
+    Re["Chapter Eight §4 Next review pass<br/><br/>Recertification, reopening, or fresh review;<br/>each pass opens a new System Certification Record linked to the last"]
     T --> C
     A1((A)) --> C
     C --> W
@@ -224,7 +224,7 @@ flowchart TB
     Fc --> Rec
     Pc --> Rec
     Nc --> Rec
-    Rec -.->|VIb, Chapter Ten §6 —<br/>verified inputs only;<br/>current certification or facts<br/>arising during certification| S
+    Rec -.->|VIb, Chapter Eight §6 —<br/>verified inputs only;<br/>current certification or facts<br/>arising during certification| S
     Rec --> Pub
     Rec ~~~ Sp
     Pub --> G
@@ -235,7 +235,7 @@ flowchart TB
     Hold --> G
     Ch -->|Material defect:<br/>protect and correct| Rm
     Ch -->|On schedule, or<br/>material change or<br/>credible challenge<br/>requires review| Re
-    Ch -.->|VIb, Chapter Ten §6 —<br/>verified inputs only;<br/>operation may supply facts<br/>for Contribution and<br/>Violation records| S2
+    Ch -.->|VIb, Chapter Eight §6 —<br/>verified inputs only;<br/>operation may supply facts<br/>for Contribution and<br/>Violation records| S2
     Rm -->|Correction evidence<br/>is checked in the<br/>next review pass| Re
     S2 ~~~~ SpA
     SpA ~~~ Re
@@ -273,7 +273,7 @@ flowchart TB
 >
 > A step-by-step run sheet for the six phases, with a link from each step to the section that holds the rule, is in [CS-8.315 §2 Run Sheet](corpus_systems/cs_08.315_system_alignment_certification_run_sheet.md#cs-8315-2-run-sheet) (*System alignment certification run sheet*). Where the run sheet and a section differ, the section controls.
 >
-> Three invented Institutions, walked through Chapter Eleven's process, are in [CS-8.320 §12 Illustrative Institution Walkthroughs](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-12-illustrative-institution-walkthroughs).
+> Three invented Institutions, walked through Chapter Nine's process, are in [CS-8.320 §12 Illustrative Institution Walkthroughs](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-12-illustrative-institution-walkthroughs).
 >
 > For an Institution, the same six phases run through [Subcore 9-B](subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation), whose sections carry the same numbers as this chapter's: Phases I and II in [Subcore 9-B §3 Institution Class Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#3-institution-class-evaluation) to [Subcore 9-B §6 Rights-Floor and Domain Evaluations](subcore_09.020_institutional_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), Phases III to V in [Subcore 9-D §3 Forum Process](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#3-forum-process) to [Subcore 9-F §3 Institutional Certification Record](subcore_09.060_institutional_alignment_certification_records_recertification.md#3-institutional-certification-record), and Phase VI in [Subcore 9-F §4 Recertification and Reopening](subcore_09.060_institutional_alignment_certification_records_recertification.md#4-recertification-and-reopening) to [Subcore 9-F §6 Relationship to Standing](subcore_09.060_institutional_alignment_certification_records_recertification.md#6-relationship-to-standing).
 
@@ -543,7 +543,7 @@ To assess governance, incentives, and contestability, certification must apply t
 - its accountable offices; and
 - its reward structures.
 
-Chapter Eleven does not take these facts on the Institution's word. It tests them against evidence and observed operation, and each finding states what it rests on. Where there is no current Institutional Certification Record, these facts are evaluated directly under this section.
+Chapter Nine does not take these facts on the Institution's word. It tests them against evidence and observed operation, and each finding states what it rests on. Where there is no current Institutional Certification Record, these facts are evaluated directly under this section.
 
 For these facts, the forums for this system:
 

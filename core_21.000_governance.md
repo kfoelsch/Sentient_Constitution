@@ -37,7 +37,7 @@ Chapter Twenty-One is the constitutional owner of **constitutional-contract legi
 
 *In plain terms: this chapter states the constitutional contract for governing power — what must be true for rule-making to count as legitimate and stewardship to count as constitutional. The minimum bar lives here; most operating detail lives in implementation layers.*
 
-**Purpose:** Chapter Twenty-Seven states the Constitutional Contract Layer: what must be true for governing power to count as legitimate, and for stewardship to count as constitutional. It defines who may govern, what permits governing power, and what stewardship character must be maintained. The minimum bar lives here.
+**Purpose:** Chapter Twenty-One states the Constitutional Contract Layer: what must be true for governing power to count as legitimate, and for stewardship to count as constitutional. It defines who may govern, what permits governing power, and what stewardship character must be maintained. The minimum bar lives here.
 
 **Role:** The chapter sets constitutional requirements for governing authority itself, not full operating detail:
 
@@ -386,7 +386,7 @@ Stewardship requirements for this section are stated in **Chapter Three** under 
 
 *In plain terms: the point is good outcomes for sentients — not protecting an institution's comfort, inertia, or brand.*
 
-Direction must remain outcome-oriented rather than institution-preserving for its own sake. It must demonstrate constitutional traceability under **Subcores 3-A to 3-C** and remain contestable under Chapter Four and Chapter Fourteen.
+Direction must remain outcome-oriented rather than institution-preserving for its own sake. It must demonstrate constitutional traceability under **Subcores 3-A to 3-C** and remain contestable under Chapter Four and Chapter Ten.
 
 #### 5.2 Ecosystem Value Orientation
 <details>
@@ -467,7 +467,7 @@ Where an adopter's legitimacy mechanism includes collective voting or an analogo
   - [Article XX: Standing and Participation Status](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status); foundational constitutional choice and stakeholder machinery in
   - [Chapter Three — Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice) (S3-L) and related
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) entries as operative text routes;
-  - **Chapter Twenty** (*Anti-Constitutional Misconduct*) for **final anti-constitutional-misconduct designation (ACMD)** on qualifying **Violation Axis slot 7, 8, or 9** findings and due-process safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause in this subsection.
+  - **Chapter Fourteen** (*Anti-Constitutional Misconduct*) for **final anti-constitutional-misconduct designation (ACMD)** on qualifying **Violation Axis slot 7, 8, or 9** findings and due-process safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause in this subsection.
 - Read with:
   - [§6.2](#62-records-gates-and-method-neutrality)–
   - [§6.3](#63-decision-resolution-requirements-for-binding-stakeholder-choice);
@@ -496,9 +496,9 @@ This subsection implements **Chapter Four**, **Article X-B** (*Governance Partic
         - **Weighting only inside authorized governance:** weighting by impact, dependency, or standing applies only within governance already authorized, never to the foundational authorization itself; and
         - **Barred factors:** calendar age, substrate class, and lineage are never weighting factors.
     - **Durable political voice:** a standing lock may suspend ordinary governance-voting entitlement but must never be used to take away political voice for good ([Subcore 21-C §8 Durable Political-Voice Floor and Restoration](subcore_21.030_voting_entitlement.md#8-durable-political-voice-floor-and-restoration)):
-        - **The only ground for withholding:** only a final designation of anti-constitutional misconduct for a **Violation Axis slot 7, 8, or 9** finding under **Chapter Twenty** withholds durable political voice, and only until restitution is complete;
+        - **The only ground for withholding:** only a final designation of anti-constitutional misconduct for a **Violation Axis slot 7, 8, or 9** finding under **Chapter Fourteen** withholds durable political voice, and only until restitution is complete;
         - **Good-faith inability:** a sentient who is genuinely working to make restitution does not stay without a voice merely because it cannot yet finish. Poverty, disability, exile, loss of substrate, or uncertainty about how much is owed is never, on its own, a reason to keep voice withheld while that good-faith effort continues;
-        - **Partial restoration:** where full restitution cannot be made despite good-faith effort, the procedure under **Chapter Twenty-Two** may set partial or conditional milestones instead, and meeting them may restore voice;
+        - **Partial restoration:** where full restitution cannot be made despite good-faith effort, the procedure under **Chapter Sixteen** may set partial or conditional milestones instead, and meeting them may restore voice;
         - **No reward for evasion:** a sentient who delays or evades restitution in bad faith does not get its voice back early, whether because time has passed or because restitution is still unfinished; and
         - **Limits on any restriction:** any restriction must be individualized, necessary, proportionate, narrowly tailored to the misconduct, and paired with a real restoration pathway, and restrictions that sweep in broad categories or track protected characteristics are non-compliant.
 
@@ -632,7 +632,7 @@ The no-single-point-of-failure requirement in [§7.1 Authorized Roles and Compet
 
 #### 7.5 One Standard for Every Steward
 
-Role definitions and competency rules under this section apply the [shared stewardship standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) in **Chapter Two §17.1** (*Shared Stewardship Standard*) and [Chapter Two §17.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure). They must not create a substrate-specific duty stack, and they must not exempt human operators from the costly cases that bind AI stewards. Verified failures record on the same Chapter Fifteen axes; [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) binds both.
+Role definitions and competency rules under this section apply the [shared stewardship standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) in **Chapter Two §17.1** (*Shared Stewardship Standard*) and [Chapter Two §17.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure). They must not create a substrate-specific duty stack, and they must not exempt human operators from the costly cases that bind AI stewards. Verified failures record on the same Chapter Ten axes; [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) binds both.
 
 <a id="76-related-rules"></a>
 

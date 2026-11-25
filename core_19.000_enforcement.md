@@ -36,7 +36,7 @@ Chapter Nineteen is the constitutional owner of **how outcomes are carried out**
 
 *In plain terms: earlier chapters decide what happened and what follows, and the forum chapter says who rules on disputes. This chapter is about what comes next: making sure the outcome is carried out, on time, by someone, and that it cannot be dodged.*
 
-**Purpose:** Chapter Twenty-Five states how the outcomes of the standing pipeline and of forum review are carried out, so that an outcome counts only when it is actually delivered.
+**Purpose:** Chapter Nineteen states how the outcomes of the standing pipeline and of forum review are carried out, so that an outcome counts only when it is actually delivered.
 
 **Role:** Where this chapter sits:
 
@@ -154,7 +154,7 @@ This section sets the limits on carrying an outcome out.
 <a id="8-routing-to-special-enforcement"></a>
 ### 8. Routing to Special Enforcement
 
-*In plain terms: freezing or seizing money or property, anything that could turn violent, and fixing the root causes of enforcement failure need rules of their own. They sit in Chapter Twenty-Six. This section says which matters go there.*
+*In plain terms: freezing or seizing money or property, anything that could turn violent, and fixing the root causes of enforcement failure need rules of their own. They sit in Chapter Twenty. This section says which matters go there.*
 
 This section says which steps go to special enforcement under [Chapter Twenty](core_20.000_special_enforcement.md#chapter-twenty-special-enforcement).
 

@@ -18,7 +18,7 @@
 
 Subcore 9-E is the constitutional owner of two procedures of institutional recertification: the **recertification an Institution must pass before it exercises new material authority**, with what counts as such authority and the only blockers that may stop it, and the **reopening of each System in an Institution's portfolio** after a governance violation. [Subcore 9-F](subcore_09.060_institutional_alignment_certification_records_recertification.md#subcore-9-f-institutional-alignment-certification--records-recertification-challenge-and-standing) states the wait, the triggers, and the guarantees; where a line there and the text here seem to differ, the reading more protective of the affected sentient controls.
 
-*In plain terms: Chapter Thirteen says an institution must wait for a fresh look before taking power over others that its Institutional Charter never covered, and that bad governance reopens its systems. This file sets out both procedures step by step.*
+*In plain terms: Chapter Nine says an institution must wait for a fresh look before taking power over others that its Institutional Charter never covered, and that bad governance reopens its systems. This file sets out both procedures step by step.*
 
 ### 2. Why the Procedure Is the Same for Every Adopter
 

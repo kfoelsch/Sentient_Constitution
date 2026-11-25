@@ -16,20 +16,20 @@
 
 <br>
 
-Chapter Twelve is the constitutional owner of **forum process and outcomes of institutional alignment certification**.
+Chapter Nine is the constitutional owner of **forum process and outcomes of institutional alignment certification**.
 
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: the same independent forums, in the same order, review the institution, and the institution never chooses its own reviewer. A published outcome never decides whether the institution may exist or operate.*
 
-**Purpose:** Chapter Twelve states how forums supervise institutional alignment certification, and what the outcomes are:
+**Purpose:** Chapter Nine states how forums supervise institutional alignment certification, and what the outcomes are:
 
 - the four seats in an institutional certification, forum roles and sequence, and forums, certifiers, and record offices treated as institutions (**section 3**); and
 - the outcomes: go-live for an Institution, defects and correction, remediation readiness, denial and revocation, and their effects (**section 4**).
 
 An outcome decides what the Institution may say about itself, who is warned, and how much the outcome counts when the Institution's Systems are reviewed. The forums can also limit the specific practice or authority the review found at issue.
 
-**Role:** Institutional certification and System Alignment Certification are two certifications joined by a link, not one inside the other (**Chapter Eleven section 1**):
+**Role:** Institutional certification and System Alignment Certification are two certifications joined by a link, not one inside the other (**Chapter Nine section 1**):
 
 - It takes the evaluation from [Subcore 9-B](subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation) as fixed.
 - It runs the same forum process as [Subcore 8-D](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#subcore-8-d-system-alignment-certification--forum-process-and-outcomes), applied to an Institution.
@@ -43,8 +43,8 @@ An outcome decides what the Institution may say about itself, who is warned, and
 
 The chapter leaves:
 
-- evaluation to Chapter Eleven;
-- the Institutional Certification Record, recertification, challenge, and standing bridge to Chapter Thirteen; and
+- evaluation to Chapter Nine;
+- the Institutional Certification Record, recertification, challenge, and standing bridge to Chapter Nine; and
 - every System-level decision to [Subcore 8-B — Chapters Eight through Ten](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation).
 
 
@@ -53,7 +53,7 @@ The chapter leaves:
 
 *In plain terms: an institution must never choose its own reviewer. This chapter exists so institutional certification is decided by forums the institution does not control.*
 
-Chapter Eleven sets what an institution is evaluated on. The institution has every reason to want a favourable result, and often the power to shape who reviews it. This chapter sends the evaluation to the same independent forums, in the same order, as system certification, and publishes the outcome. It also states that no outcome decides whether the institution may exist or operate, so certification can never be used to shut down lawful association.
+Chapter Nine sets what an institution is evaluated on. The institution has every reason to want a favourable result, and often the power to shape who reviews it. This chapter sends the evaluation to the same independent forums, in the same order, as system certification, and publishes the outcome. It also states that no outcome decides whether the institution may exist or operate, so certification can never be used to shut down lawful association.
 
 **Grounded in:**
 
@@ -116,7 +116,7 @@ This section is **Phase III, Review** for an Institution.
 
 An institutional certification is a [Subcore 3-J — Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act), and this subsection is the statement [Chapter Six §10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes) requires of this process. The seat placements in full are in [Subcore 9-C §3 Four Seats in an Institutional Certification](subcore_09.030_institutional_certification_seats_sequence_readiness.md#3-four-seats-in-an-institutional-certification). Its guarantees are:
 
-- **Four seats, no relaxation:** each certification pass carries all four seats that [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) requires, and Chapter Twelve neither adds a seat nor loosens any Chapter Six rule.
+- **Four seats, no relaxation:** each certification pass carries all four seats that [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) requires, and Chapter Nine neither adds a seat nor loosens any Chapter Six rule.
 - **Independent verifying authority:** the Institution may not choose, appoint, fund through a channel it controls, or remove its own verifying authority, and no one who works for it, is owned by it, or answers to it may hold that seat.
 - **Record and contest seats outside its control:** the record seat and the contest seat sit outside the Institution's [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line). A seat placement inside it is invalid whatever the map says, the work routes to the independent route the Charter Role Map names, and the defective placement is itself a finding.
 - **Merged hosting unchanged:** [Chapter Six §7 Proportional Scaling and Merged Hosting](core_06.000_functional_independence_separation_of_duties.md#7-proportional-scaling-and-merged-hosting) applies unchanged.
@@ -129,11 +129,11 @@ An institutional certification is a [Subcore 3-J — Materially Binding Act](sub
 
 The supervisory sequence of [Subcore 8-D §3.2 Supervisory Sequence](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#32-supervisory-sequence) and [Subcore 8-D §3.1 Forum Supervision and Component Roles](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#31-forum-supervision-and-component-roles) apply, with the changes set out in full in [Subcore 9-C §4 Forum Roles and Sequence](subcore_09.030_institutional_certification_seats_sequence_readiness.md#4-forum-roles-and-sequence). Its guarantees are:
 
-- **Integrity leads:** an Integrity Forum leads each certification pass, unless Chapter Twenty-Two assigns a different lawful lead for the primary stake, and the lead forum never holds the record seat on the same act.
+- **Integrity leads:** an Integrity Forum leads each certification pass, unless Chapter Sixteen assigns a different lawful lead for the primary stake, and the lead forum never holds the record seat on the same act.
 - **The Institution is always a party:** it is a necessary party to its own certification, and Institutional Forums hold component authority over its mandate, scope, class, duties, and its Rights Floor conduct.
 - **Systems are referred, not decided:** a component question that belongs to one System is decided in that System's own certification pass, never in the Institution's.
 - **Affected sentients are heard:** the Institution's affected members, workers, users, and communities have an accessible way to submit evidence, and a submitter, staff included, may stay anonymous until the lead forum decides.
-- **Protection, contest, and anti-bypass apply in full:** urgent protection, the contestability chain, and the anti-bypass rule of Chapter Nine apply to an Institution's certification pass.
+- **Protection, contest, and anti-bypass apply in full:** urgent protection, the contestability chain, and the anti-bypass rule of Chapter Eight apply to an Institution's certification pass.
 
 <a id="33-forums-certifiers-and-record-offices-as-institutions"></a>
 
@@ -222,7 +222,7 @@ A conditional certification of an Institution is written as [Subcore 8-D §4.1 G
   - What happens if it is missed.
 - **No reaching past the problem:** It cannot require the Institution to stop forming Systems, to ask leave to keep operating, or to change anything the findings do not touch.
 - **Certification conditions before new authority:** The certification conditions that [Subcore 8-D §4.1 Go-Live Gate](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#41-go-live-gate) requires before go-live apply to an Institution only for new material authority. They must be independently verified before the Institution exercises that authority. They never make its existing operation wait.
-- **How it ends:** A certification condition ends by fulfillment or by release, as Chapter Nine §4.1 Go-Live Gate (*How a certification condition ends*) sets out, and only after independent verification.
+- **How it ends:** A certification condition ends by fulfillment or by release, as Chapter Eight §4.1 Go-Live Gate (*How a certification condition ends*) sets out, and only after independent verification.
 
 <a id="412-other-effects-of-an-outcome"></a>
 
@@ -265,7 +265,7 @@ Two points are specific to an Institution:
 [Subcore 8-D §4.3 Remediation Readiness: Willingness and Capacity to Correct](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#43-remediation-readiness-willingness-and-capacity-to-correct) applies to an Institution, with the roles and added factors set out in full in [Subcore 9-C §5 Remediation Readiness Factors](subcore_09.030_institutional_certification_seats_sequence_readiness.md#5-remediation-readiness-factors). Its guarantees are:
 
 - **No judging its own readiness:** the Institution's governing authority carries the case and supplies the evidence; the lead Integrity Forum decides the finding.
-- **Institution-specific factors:** willingness and capacity are judged on Chapter Nine's factors and on what only an Institution can do, such as changing its own reward structure, replacing an office-holder found not authentic, restoring independent seat placements, and having the authority, funds, staff, and succession plan for the work.
+- **Institution-specific factors:** willingness and capacity are judged on Chapter Eight's factors and on what only an Institution can do, such as changing its own reward structure, replacing an office-holder found not authentic, restoring independent seat placements, and having the authority, funds, staff, and succession plan for the work.
 - **Verifiable correction only:** a correction that no independent verifying authority can test, with the access and time it is actually given, is not capacity.
 - **One System, one readiness check:** an Institution that runs exactly one System gets one readiness check, which states its denial grounds separately for the System and the Institution.
 
@@ -277,7 +277,7 @@ Two points are specific to an Institution:
 
 [Subcore 8-D §4.4 Denial and Revocation](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#44-denial-and-revocation) applies to an Institution, with the changes and the one-System rule set out in full in [Subcore 9-C §6 Denial and Revocation Grounds and the One-System Rule](subcore_09.030_institutional_certification_seats_sequence_readiness.md#6-denial-and-revocation-grounds-and-the-one-system-rule). Its guarantees are:
 
-- **Grounds bind:** Chapter Nine's grounds apply unchanged, and when one is met the forum must deny or revoke. It may not grant or continue certification with certification conditions in place of that outcome.
+- **Grounds bind:** Chapter Eight's grounds apply unchanged, and when one is met the forum must deny or revoke. It may not grant or continue certification with certification conditions in place of that outcome.
 - **Protection first, status only:** the forum states interim protection and reliance limits before either takes effect, and denial or revocation acts on certification status, not on the Institution's existence.
 - **Fair process:** the Institution gets notice of the finding and the evidence, a window to answer, the contestability chain, and reasons on the Institutional Certification Record; urgent protection may be ordered at once and the process runs afterward.
 - **Not a permanent bar:** after a denial or revocation, the Institution may seek certification again.

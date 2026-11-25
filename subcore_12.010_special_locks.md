@@ -18,7 +18,7 @@
 
 Subcore 12-A is the constitutional owner of the **full terms of the eight special locks**: for each, its trigger, the gated pathway it closes, what it does not restrict, the risk and protected interests, the corrective conditions, and the review route and reassessment point. [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) states that the special locks are mandatory once their trigger is met, that there are only eight, the rules common to all of them, and each lock's guarantees; where a line there and the text here seem to differ, the reading more protective of the affected sentient controls.
 
-*In plain terms: Chapter Eighteen says which serious violations always close a particular door, and what each lock may never take away. This file sets out each lock in full: exactly when it applies, exactly what it closes and leaves open, and exactly what it takes to lift it.*
+*In plain terms: Chapter Twelve says which serious violations always close a particular door, and what each lock may never take away. This file sets out each lock in full: exactly when it applies, exactly what it closes and leaves open, and exactly what it takes to lift it.*
 
 ### 2. Why the Locks Are the Same for Every Adopter
 
@@ -45,7 +45,7 @@ A special lock restricts a sentient's access to a gated pathway, so its terms mu
 <a id="3-the-eight-special-locks"></a>
 ### 3. The Eight Special Locks
 
-*In plain terms: each lock in full, in the order Chapter Eighteen lists them.*
+*In plain terms: each lock in full, in the order Chapter Twelve lists them.*
 
 The rules common to every special lock are in [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks): each is mandatory once its verified trigger is met, is recorded with the attachment fields, attaches only to a verified violation finding, and substitutes for no other lock, designation, or remedy.
 
@@ -55,7 +55,7 @@ The rules common to every special lock are in [Chapter Twelve §4.5 Special Lock
 
 *In plain terms: a forum member who failed to step aside when recusal was required, and whose bias materially affected the matter, is kept out of forum service roles until independent review finds the risk has been reduced.*
 
-**Trigger:** a verified failure to recuse where recusal was required and impartiality was materially compromised. The lock applies whether or not the violation finding also reaches a Chapter Twenty designation track.
+**Trigger:** a verified failure to recuse where recusal was required and impartiality was materially compromised. The lock applies whether or not the violation finding also reaches a Chapter Fourteen designation track.
 
 - **Gated pathway:**
   - merits;
@@ -245,7 +245,7 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
 
 *In plain terms: after a final anti-constitutional misconduct designation, the sentient is closed out of influence over the systems and gated pathways that keep the constitutional order honest. Restoration is exceptional.*
 
-**Trigger:** a final Chapter Twenty designation for the responsible sentient, group, institution, successor entity, controlled entity, or materially coordinated proxy.
+**Trigger:** a final Chapter Fourteen designation for the responsible sentient, group, institution, successor entity, controlled entity, or materially coordinated proxy.
 
 - **Gated pathway:**
   - Direct or indirect influence over Class A/B/C systems.
@@ -300,7 +300,7 @@ The lock applies on the same terms as the Forum-Service Standing Lock, whether o
 - not an Operating Party that is a single sentient, or a group of sentients acting together. For such a party:
   - it is never dissolved under **CI-12.210 §4** (*Dissolution*);
   - it is never the subject of this lock, and no lock under this entry reaches a sentient through it; and
-  - the individual locks and **Chapter Twenty** apply to the sentients involved instead.
+  - the individual locks and **Chapter Fourteen** apply to the sentients involved instead.
 
 **How the lock is set:**
 

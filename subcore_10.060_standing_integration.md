@@ -9,7 +9,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): chapter sequence</span></strong></summary>
 
-> Read the four chapters in order. **Chapter Sixteen** (this file): purpose and role; immutable Chapter Fourteen and Fifteen inputs; integration record and decision order; descriptor integration and attachment normalization. **Chapter Seventeen**: contribution consequences (recency and currentness, then competency bars and clearances). **Chapter Eighteen**: violation consequences (remedy and correction; general standing locks, then voluntary public accountability expression where used and remedy parity; then lock design and enforcement: definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, special locks, and interim holds). **Chapter Nineteen**: final standing effect; restoration and reassessment; enforcement realism and remedy systems.
+> Read the four chapters in order. **Chapter Ten** (this file): purpose and role; immutable Chapter Ten inputs; integration record and decision order; descriptor integration and attachment normalization. **Chapter Eleven**: contribution consequences (recency and currentness, then competency bars and clearances). **Chapter Twelve**: violation consequences (remedy and correction; general standing locks, then voluntary public accountability expression where used and remedy parity; then lock design and enforcement: definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, special locks, and interim holds). **Chapter Thirteen**: final standing effect; restoration and reassessment; enforcement realism and remedy systems.
 
 </details>
 
@@ -19,7 +19,7 @@
 - Upstream:
   - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000) (*Question 1; verified Standing Records*);
   - [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) (15.000) (*Question 2; standing measurement and every slot*).
-- This file (Chapter Sixteen): Question 3 purpose and role, fixed inputs, the integration record and decision order, and descriptor and attachment normalization.
+- This file (Chapter Ten): Question 3 purpose and role, fixed inputs, the integration record and decision order, and descriptor and attachment normalization.
 - Continues in: [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences) (*contribution consequences*); [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) (*remedy, correction, and locks*); [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) (*final standing effect, restoration, and enforcement realism*).
 - Downstream: [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (20.000) (*designation only*); [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (22.000) (*forum supervision*); [CI-19.210](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md#ci-19210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 - Worked examples (they add no rule), within the [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes):
@@ -30,7 +30,7 @@
 
 <br>
 
-Chapter Sixteen (Chapters Sixteen–Nineteen) is the constitutional owner of **standing integration and standing effects**, including attachments, the consequence-facing use of Chapter Fifteen descriptors, standing locks, remedy assignment, voluntary public accountability expression, and enforcement anchors.
+Chapter Ten (Chapters Ten – Thirteen) is the constitutional owner of **standing integration and standing effects**, including attachments, the consequence-facing use of Chapter Ten descriptors, standing locks, remedy assignment, voluntary public accountability expression, and enforcement anchors.
 
 <a id="1-purpose-role-and-scope"></a>
 
@@ -45,18 +45,18 @@ A **[Subcore 3-J — gated pathway](subcore_03.070_band_accountability.md#gated-
 **Role:** Where this chapter sits:
 
 - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) and [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) come first. This chapter takes their Standing Records and slots as fixed.
-- Chapters Sixteen through Nineteen together own standing integration and standing effects:
-  - this chapter opens the group. It fixes the Standing Records the group starts from ([§3 Chapter Fourteen Records Do Not Change](#3-chapter-fourteen-records-do-not-change)) and sets the eight-step order every decision follows ([§4.4 Processing Order](#44-processing-order));
+- Chapters Ten through Thirteen together own standing integration and standing effects:
+  - this chapter opens the group. It fixes the Standing Records the group starts from ([§3 Chapter Ten Records Do Not Change](#3-chapter-ten-records-do-not-change)) and sets the eight-step order every decision follows ([§4.4 Processing Order](#44-processing-order));
   - [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences) holds the contribution consequences;
   - [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) holds the violation consequences; and
   - [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) holds the final standing effect, restoration, and enforcement.
 - A qualifying Violation Axis slot 7–9 Standing Record goes to [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation), which decides only the anti-constitutional-misconduct designation (ACMD).
   - Where a case looks like an attack family in [Chapter Fifteen §3 Pattern applications and criteria routing](core_15.000_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity), this chapter decides only whether the sentient is kept out of a gated pathway, based on the sentient's verified Standing Record. Chapter Twenty separately decides the ACMD.
-- [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) forums supervise these decisions. A forum that verifies a pipeline error or material new facts may set a Standing Record aside or require it to be updated, corrected, or superseded under Chapter Fourteen ([§3.5 Changes Come Only through Chapter Fourteen](#35-changes-come-only-through-chapter-fourteen)).
+- [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) forums supervise these decisions. A forum that verifies a pipeline error or material new facts may set a Standing Record aside or require it to be updated, corrected, or superseded under Chapter Ten ([§3.5 Changes Come Only through Chapter Ten](#35-changes-come-only-through-chapter-ten)).
 
 **Chapter scope:** The chapter works in this order, and [§4.4 Processing Order](#44-processing-order) sets the full sequence:
 
-- it starts from the verified Standing Records, unchanged ([§3 Chapter Sixteen Records Do Not Change](#3-chapter-fourteen-records-do-not-change));
+- it starts from the verified Standing Records, unchanged ([§3 Chapter Ten Records Do Not Change](#3-chapter-ten-records-do-not-change));
 - it normalizes shared descriptors and attachments without changing either slot ([§5 Descriptor Integration and Attachment Normalization](#5-descriptor-integration-and-attachment-normalization));
 - it decides contribution consequences from the contribution Standing Record: currentness, then competency bars and clearances ([§3 Contribution Consequences](core_11.000_contribution_consequences.md#3-contribution-consequences));
 - it decides violation consequences from the violation Standing Record alone: remedy and correction, then locks ([§3 Violation, Correction, and Prevention](core_12.000_violation_consequences.md#3-violation-correction-and-prevention) and [§4 Lock Design and Enforcement](core_12.000_violation_consequences.md#4-lock-design-and-enforcement)). The two tracks do not wait for each other, and a lock controls: no contribution result opens a blocked gated pathway ([§4.4 Processing Order](#44-processing-order));
@@ -77,7 +77,7 @@ Worked examples of Question 3 are kept with the other application vignettes in [
 
 *In plain terms: measuring help and harm only matters if something follows from it. This chapter exists so that what follows is fair, ordered, and never a merged score.*
 
-Chapters Fourteen and Fifteen settle what happened and how much it mattered. Something still has to decide what follows, and in what order, or the results slide into informal reputation that no one can contest. This chapter takes those violation findings and contribution findings as fixed and sends them on in a set order: violation, correction, and prevention first, then contribution. Help and harm stay on separate tracks, and nothing here rewrites the facts.
+Chapter Ten settle what happened and how much it mattered. Something still has to decide what follows, and in what order, or the results slide into informal reputation that no one can contest. This chapter takes those violation findings and contribution findings as fixed and sends them on in a set order: violation, correction, and prevention first, then contribution. Help and harm stay on separate tracks, and nothing here rewrites the facts.
 
 **Grounded in:**
 
@@ -97,36 +97,36 @@ Chapters Fourteen and Fifteen settle what happened and how much it mattered. Som
   - [Article XX-D](core_04.030_rights_part_d.md#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*);
   - [Article XXI-A](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*).
 
-<a id="3-chapter-fourteen-records-do-not-change"></a>
+<a id="3-chapter-ten-records-do-not-change"></a>
 
-### 3. Chapter Fourteen Records Do Not Change
+### 3. Chapter Ten Records Do Not Change
 
-*In plain terms: this is the first step of the decision order. Consequences are worked out from the verified Standing Records Chapter Fourteen already made, so Question 3 never changes the facts or the measurement. This chapter may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.*
+*In plain terms: this is the first step of the decision order. Consequences are worked out from the verified Standing Records Chapter Ten already made, so Question 3 never changes the facts or the measurement. This chapter may not reopen the facts, guess a missing track, or pick a rating to get a preferred result.*
 
-The chart shows the same path as [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope), with the two tracks side by side. They stay separate and are never merged into a net score. Neither track waits for the other. They meet only at the final standing effect, where a lock controls: a gated pathway a lock blocks stays closed, whatever the contribution track found. The two dashed lines at the bottom lead out of the chapter: a qualifying Violation Axis slot 7–9 Standing Record goes to Chapter Twenty, and Chapter Twenty-Two forums supervise these decisions and can send a Standing Record back to Chapter Fourteen.
+The chart shows the same path as [§1 Purpose, Role, and Scope](#1-purpose-role-and-scope), with the two tracks side by side. They stay separate and are never merged into a net score. Neither track waits for the other. They meet only at the final standing effect, where a lock controls: a gated pathway a lock blocks stays closed, whatever the contribution track found. The two dashed lines at the bottom lead out of the chapter: a qualifying Violation Axis slot 7–9 Standing Record goes to Chapter Fourteen, and Chapter Sixteen forums supervise these decisions and can send a Standing Record back to Chapter Ten.
 
 ```mermaid
 flowchart TB
-    I[["Chapters Fourteen and Fifteen<br/><br/>Outside this chapter<br/><br/>Verified Standing Records and slots<br/>(Questions 1 and 2)"]]
-    S2["§3 Chapter Fourteen records do not change<br/><br/>Use only the Standing Records that apply<br/>Contribution and violation stay separate"]
+    I[["Chapter Ten<br/><br/>Outside this chapter<br/><br/>Verified Standing Records and slots<br/>(Questions 1 and 2)"]]
+    S2["§3 Chapter Ten records do not change<br/><br/>Use only the Standing Records that apply<br/>Contribution and violation stay separate"]
     S3["§4 Automatic integration, review, and continuity<br/><br/>An integration record follows automatically<br/>The decision order is fixed"]
     S4["§5 Descriptor integration and attachment normalization<br/><br/>Shared descriptors and attachments are normalized<br/>Neither slot changes"]
     subgraph C["Contribution track"]
         direction TB
-        S51["Chapter Seventeen §3.1 Recency and currentness<br/><br/>How current the verified<br/>contribution still is"]
-        S52["Chapter Seventeen §3.2 Competency bars and clearances<br/><br/>A lock controls:<br/>never opens a blocked<br/>gated pathway<br/>Never offsets a verified<br/>harm or cancels a lock"]
+        S51["Chapter Eleven §3.1 Recency and currentness<br/><br/>How current the verified<br/>contribution still is"]
+        S52["Chapter Eleven §3.2 Competency bars and clearances<br/><br/>A lock controls:<br/>never opens a blocked<br/>gated pathway<br/>Never offsets a verified<br/>harm or cancels a lock"]
         S51 --> S52
     end
     subgraph V["Violation track"]
         direction TB
-        S6["Chapter Eighteen §3 Violation, correction, and prevention<br/><br/>Remedy and correction,<br/>then general standing locks"]
-        S7["Chapter Eighteen §4 Lock design and enforcement<br/><br/>Definition, proportionality,<br/>special violation rules,<br/>special locks, and<br/>interim holds"]
+        S6["Chapter Twelve §3 Violation, correction, and prevention<br/><br/>Remedy and correction,<br/>then general standing locks"]
+        S7["Chapter Twelve §4 Lock design and enforcement<br/><br/>Definition, proportionality,<br/>special violation rules,<br/>special locks, and<br/>interim holds"]
         S6 --> S7
     end
-    S8["Chapter Nineteen §3 Final standing effect<br/><br/>One effect for each applicable gated pathway:<br/>open, open with safeguards, limited,<br/>blocked, restoration-only, or no effect"]
-    S9["Chapter Nineteen §4–Chapter Nineteen §5 After the effect is stated<br/><br/>Chapter Nineteen §4 Restoration and reassessment<br/>Chapter Nineteen §5 Enforcement realism and remedy systems"]
-    X14[["Chapter Twenty<br/><br/>Outside this chapter<br/><br/>Decides only the anti-constitutional-misconduct<br/>designation (ACMD)"]]
-    X15[["Chapter Twenty-Two<br/><br/>Outside this chapter<br/><br/>Forum supervision<br/>Set aside, update,<br/>correct, or supersede<br/>a Standing Record"]]
+    S8["Chapter Thirteen §3 Final standing effect<br/><br/>One effect for each applicable gated pathway:<br/>open, open with safeguards, limited,<br/>blocked, restoration-only, or no effect"]
+    S9["Chapter Thirteen §4–Chapter Thirteen §5 After the effect is stated<br/><br/>Chapter Thirteen §4 Restoration and reassessment<br/>Chapter Thirteen §5 Enforcement realism and remedy systems"]
+    X14[["Chapter Fourteen<br/><br/>Outside this chapter<br/><br/>Decides only the anti-constitutional-misconduct<br/>designation (ACMD)"]]
+    X15[["Chapter Sixteen<br/><br/>Outside this chapter<br/><br/>Forum supervision<br/>Set aside, update,<br/>correct, or supersede<br/>a Standing Record"]]
     I --> S2
     S2 --> S3
     S3 --> S4
@@ -153,7 +153,7 @@ flowchart TB
     style C fill:none,stroke:#64748b,color:#ffffff,stroke-dasharray: 5 5
 ```
 
-Chapter Sixteen starts with the verified Standing Records produced under Chapter Fourteen. That is the first step of the  processing order, and its purpose is to keep consequences separate from the facts and measurements they rest on. It uses only records that apply to the decision, and it keeps contribution and violation records separate. This section sets out which records it uses, what happens when one axis has no Standing Record, what stays fixed, what does not count as standing, how a Standing Record can change, and the Rights Floor.
+Chapter Ten starts with the verified Standing Records produced under Chapter Ten. That is the first step of the  processing order, and its purpose is to keep consequences separate from the facts and measurements they rest on. It uses only records that apply to the decision, and it keeps contribution and violation records separate. This section sets out which records it uses, what happens when one axis has no Standing Record, what stays fixed, what does not count as standing, how a Standing Record can change, and the Rights Floor.
 
 <a id="31-records-the-decision-uses"></a>
 #### 3.1 Records the Decision Uses
@@ -167,7 +167,7 @@ The decision uses the verified Standing Record for each axis that applies: the *
 
 *In plain terms: if one track has no verified Standing Record, the decision runs on the other track. A missing track is unassessed, so nobody may guess or fill it in.*
 
-A Question 3 decision may address contribution only, violation only, or both. Each axis is read only from its own verified Chapter Fourteen Standing Record. An axis applies only when a verified Standing Record of that kind exists and bears on the decision. If none exists, that axis is **absent**: the decision leaves it out and proceeds on the other axis alone. If neither axis has a verified Standing Record, the decision has no standing basis and adds no standing effect.
+A Question 3 decision may address contribution only, violation only, or both. Each axis is read only from its own verified Chapter Ten Standing Record. An axis applies only when a verified Standing Record of that kind exists and bears on the decision. If none exists, that axis is **absent**: the decision leaves it out and proceeds on the other axis alone. If neither axis has a verified Standing Record, the decision has no standing basis and adds no standing effect.
 
 An absent axis is unassessed. It says nothing about whether the subject has contribution or violation, and the decision rests only on the axis that has a verified Standing Record. The decision-maker must not fill the gap by:
 
@@ -178,16 +178,16 @@ An absent axis is unassessed. It says nothing about whether the subject has cont
 <a id="33-facts-and-measurements-stay-fixed"></a>
 #### 3.3 Facts and Measurements Stay Fixed
 
-*In plain terms: this chapter takes the facts and the ratings exactly as Chapters Fourteen and Fifteen left them. Nothing in this chapter changes a slot, the 1–9 rating. It cannot reopen the facts, pick a rating to get a result, or add the two tracks into one score.*
+*In plain terms: this chapter takes the facts and the ratings exactly as Chapter Ten left them. Nothing in this chapter changes a slot, the 1–9 rating. It cannot reopen the facts, pick a rating to get a result, or add the two tracks into one score.*
 
-Chapter Sixteen must use the facts and measurements exactly as Chapters Fourteen and Fifteen established them. It must not:
+Chapter Ten must use the facts and measurements exactly as Chapter Ten established them. It must not:
 
 - reopen the facts;
 - choose a slot to produce a desired consequence;
 - recalculate LEQU impact; or
 - combine the two axes into a net score.
 
-A slot is the Chapter Fifteen number (1 to 9) that says how big the benefit or harm was.
+A slot is the Chapter Ten number (1 to 9) that says how big the benefit or harm was.
 
 **Nothing in this chapter changes a slot, on either axis. None of the following does:**
 
@@ -196,7 +196,7 @@ A slot is the Chapter Fifteen number (1 to 9) that says how big the benefit or h
 - a lock, remedy, or safeguard ([§3 Violation, Correction, and Prevention](core_12.000_violation_consequences.md#3-violation-correction-and-prevention) and [§4 Lock Design and Enforcement](core_12.000_violation_consequences.md#4-lock-design-and-enforcement)); or
 - recency, a competency bar or clearance, or contribution ([§3 Contribution Consequences](core_11.000_contribution_consequences.md#3-contribution-consequences)).
 
-A slot changes only through the route in [§3.5 Changes Come Only through Chapter Sixteen](#35-changes-come-only-through-chapter-fourteen).
+A slot changes only through the route in [§3.5 Changes Come Only through Chapter Ten](#35-changes-come-only-through-chapter-ten).
 
 <a id="34-what-does-not-count-as-standing"></a>
 #### 3.4 What Does Not Count as Standing
@@ -214,10 +214,10 @@ The following do not count as standing (owner: [Subcore 10-B §4.5 Verified-Inpu
 
 A filed case is not standing by itself ([Subcore 10-B §4.7 Forum Boundary](subcore_10.020_standing_assessment.md#47-forum-boundary)).
 
-<a id="35-changes-come-only-through-chapter-fourteen"></a>
-#### 3.5 Changes Come Only through Chapter Fourteen
+<a id="35-changes-come-only-through-chapter-ten"></a>
+#### 3.5 Changes Come Only through Chapter Ten
 
-*In plain terms: a Question 3 decision cannot rewrite a slot. Only a forum that verifies an error or material new facts can send a Standing Record back to be updated, corrected, or superseded under Chapter Fourteen.*
+*In plain terms: a Question 3 decision cannot rewrite a slot. Only a forum that verifies an error or material new facts can send a Standing Record back to be updated, corrected, or superseded under Chapter Ten.*
 
 A slot changes only on this route. If a forum verifies a pipeline error or material new facts—including later-discovered effects—it may set the Standing Record aside or require it to be updated, corrected, or superseded under Chapter Fourteen ([Subcore 10-B §4.7 Forum Boundary](subcore_10.020_standing_assessment.md#47-forum-boundary); [Subcore 10-B §6.4 Versioning](subcore_10.020_standing_assessment.md#64-versioning)). Any new slot must follow Chapter Fifteen’s measurement process, preserve the audit trail, and keep the two axes separate.
 
@@ -240,7 +240,7 @@ This section covers how the integration record is created, what it holds, how au
 
 *In plain terms: whenever a verified Standing Record is opened, updated, corrected, or superseded, the system builds or refreshes an integration record that gathers what applies in one place, side by side. It never adds the two tracks into a score.*
 
-The standing system must automatically create or update an **integration record** whenever an applicable verified Chapter Fourteen Standing Record is opened, updated, corrected, or superseded. The integration record gathers in one place the verified violations, contributions, competency clearances, and locks that apply to a sentient, system, or institution. It lists them side by side and points back to the source Standing Records without changing them. Contribution and violation stay separate: the system never adds them into a running balance or lifetime score.
+The standing system must automatically create or update an **integration record** whenever an applicable verified Chapter Ten Standing Record is opened, updated, corrected, or superseded. The integration record gathers in one place the verified violations, contributions, competency clearances, and locks that apply to a sentient, system, or institution. It lists them side by side and points back to the source Standing Records without changing them. Contribution and violation stay separate: the system never adds them into a running balance or lifetime score.
 
 <a id="42-what-the-integration-record-identifies"></a>
 #### 4.2 What the Integration Record Identifies
@@ -301,13 +301,13 @@ Descriptors and attachments work as follows:
 <a id="52-importing-descriptors"></a>
 #### 5.2 Importing Descriptors
 
-*In plain terms: this chapter copies descriptors from the source Standing Record as they were recorded. A label may be changed only to match the catalog, and real errors go back to Chapter Fourteen.*
+*In plain terms: this chapter copies descriptors from the source Standing Record as they were recorded. A label may be changed only to match the catalog, and real errors go back to Chapter Ten.*
 
 The integration record imports descriptors under these rules:
 
 - It must import each applicable descriptor from its source Standing Record without adding, removing, or substantively reclassifying it.
 - It may map a legacy label, local display name, or stable identifier to the Chapter Fifteen catalog, but the mapping must remain inspectable and must not change the underlying verified facts or measurement role.
-- A substantive descriptor error or omission must return through the Chapter Fourteen correction or supersession process.
+- A substantive descriptor error or omission must return through the Chapter Ten correction or supersession process.
 
 <a id="53-violation-attachments"></a>
 #### 5.3 Violation Attachments
@@ -338,7 +338,7 @@ Violation attachments follow these rules:
 <a id="54-what-descriptors-and-attachments-may-do"></a>
 #### 5.4 What Descriptors and Attachments May Do
 
-*In plain terms: descriptors and attachments point to the matching bars, remedies, safeguards, and locks. They are not a second score, and they do not make a Chapter Twenty designation.*
+*In plain terms: descriptors and attachments point to the matching bars, remedies, safeguards, and locks. They are not a second score, and they do not make a Chapter Fourteen designation.*
 
 <a id="73-stackable-harm-and-conduct-descriptors-violation-nature-supplement"></a>
 Descriptors and attachments are limited in these ways:
@@ -346,7 +346,7 @@ Descriptors and attachments are limited in these ways:
 - Contribution descriptors may orient matched competency bars and clearances.
 - Violation descriptors and attachments may orient matched remedy, safeguard, and lock scope.
 - Neither descriptors nor attachments form a second measurement ladder.
-- Neither descriptors nor attachments supply a Chapter Twenty designation.
+- Neither descriptors nor attachments supply a Chapter Fourteen designation.
 
 ---
 

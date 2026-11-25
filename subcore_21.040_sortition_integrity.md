@@ -18,7 +18,7 @@
 
 Subcore 21-D is the constitutional owner of the **standard detail of sortition integrity**: the bodies sortition may serve and the capture routes it guards against, the full list of integrity rules a sortition mechanism must publish, the operational safeguards that implementation text must cover, and the added rules for lot drawn from an elected pool. [Chapter Twenty-One §3.1.2 Sortition Integrity and Anti-Capture Use](core_21.000_governance.md#312-sortition-integrity-and-anti-capture-use) states the guarantees: sortition may be used against capture, Independent Bodies must use it, a mechanism must publish its integrity rules, private contact with selected members is barred, and a lottery may not be used as legitimacy theater.
 
-*In plain terms: Chapter Twenty-Seven says when sortition may be used and that it must be fair and open. This file lists exactly what a fair, open lottery must publish and protect.*
+*In plain terms: Chapter Twenty-One says when sortition may be used and that it must be fair and open. This file lists exactly what a fair, open lottery must publish and protect.*
 
 ### 2. Why Sortition Rules Are the Same for Every Adopter
 

@@ -7,7 +7,7 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Thirty-One lives and what stays here</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Five lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
 > - **Constitutional owner:** the incorporation bridge: which **implementation text** files bind when adopted, **edition pinning** and **custody chain**, **safeguards** against silent drift and evasion, **invocation** of adopted obligations within the stated adoption scope, and **adoption framing**. Source-layer status lives under the **[Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy)** in **Chapter Three**; textual and incorporation-layer conflict procedure lives in **[Chapter Two — §15.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution)** — neither is restated here.
@@ -80,7 +80,7 @@ Chapter Twenty-Five is the constitutional owner of **the incorporation bridge**,
 
 <br>
 
-*In plain terms: this section names the bridge: which implementation files can bind, how adoption makes them operative, and which exact edition and custody trail count. Later edits do not silently rewrite what was adopted; a newer draft changes obligations only once it passes amendment under Chapter Twenty-Nine and takes effect in the adopter's adoption chain. Pointing here, or to an incorporated file, invokes only the obligations inside the recorded adoption scope.*
+*In plain terms: this section names the bridge: which implementation files can bind, how adoption makes them operative, and which exact edition and custody trail count. Later edits do not silently rewrite what was adopted; a newer draft changes obligations only once it passes amendment under Chapter Twenty-Three and takes effect in the adopter's adoption chain. Pointing here, or to an incorporated file, invokes only the obligations inside the recorded adoption scope.*
 
 **Purpose:** This chapter is the **constitutional incorporation bridge**. It answers three questions:
 
@@ -93,7 +93,7 @@ Chapter Twenty-Five is the constitutional owner of **the incorporation bridge**,
 - The designated **implementation text** files listed in the [**Corpus**](subcore_03.080_band_integrative.md#corpus) entry in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) bind as **authoritative implementation text** for the obligations they cover.
 - Those files provide detail for carrying out this Constitution. They are read under **Chapter Two** and do not replace the Constitution.
 - Combining the files into one document for packaging does **not** change their status, as long as they stay on that list.
-- A reference to **Chapter Thirty-One** or to an incorporated file, anywhere in these volumes, brings in the matching **adopted** obligations, but only **where they apply** and **only within the stated adoption scope**.
+- A reference to **Chapter Twenty-Five** or to an incorporated file, anywhere in these volumes, brings in the matching **adopted** obligations, but only **where they apply** and **only within the stated adoption scope**.
 - The [subcore](subcore_03.080_band_integrative.md#subcore) is **not** implementation text. It is part of this Constitution, binds every adopter without separate incorporation, and is pinned by the same edition as the chapters it belongs to.
 
 **Chapter scope:** The chapter covers:
@@ -156,7 +156,7 @@ When an implementation file is incorporated by reference at constitutional scope
 - It takes effect only if the adoption chain explicitly records the **adopted edition identifier** and **effective date**.
 - The text that applies at constitutional scope is the text of that adopted edition.
 - The adopter’s current working copy does not take its place, and a newer version published by the source does not apply just because it is newer.
-- A later edition takes effect for an adopter only through amendment under **Chapter Twenty-Nine section 3**, using the edition identifier and effective date recorded in that adopter’s adoption chain (**Chapter Twenty-Nine section 3.3**).
+- A later edition takes effect for an adopter only through amendment under **Chapter Twenty-Three section 3**, using the edition identifier and effective date recorded in that adopter’s adoption chain (**Chapter Twenty-Three section 3.3**).
 
 #### 3.2 Custody Chain
 
@@ -179,7 +179,7 @@ Without limitation, this section covers:
 - [corpus_joint_structure.md](corpus_joint_structure.md) (*Constitutional Joint Structure*)
 - any further **implementation text** files listed in the [**Corpus**](subcore_03.080_band_integrative.md#corpus) entry in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions)
 
-Each incorporated implementation file is binding **only as adopted** through a recorded adoption chain under **Chapter Twenty-Nine** and this chapter.
+Each incorporated implementation file is binding **only as adopted** through a recorded adoption chain under **Chapter Twenty-Three** and this chapter.
 
 #### 3.4 Process-Layer Alignment
 
@@ -212,17 +212,17 @@ Accepted governance-control changes — including custody-chain hardening, editi
 
 <br>
 
-*In plain terms: quietly swapping in a newer draft — or relabeling a real change as “just a clarification” — does not change what was adopted. Later revisions stay process-layer notes until they pass amendment under Chapter Twenty-Nine and take effect in the adopter's adoption chain.*
+*In plain terms: quietly swapping in a newer draft — or relabeling a real change as “just a clarification” — does not change what was adopted. Later revisions stay process-layer notes until they pass amendment under Chapter Twenty-Three and take effect in the adopter's adoption chain.*
 
 This section sets out the safeguards that protect incorporated text:
 
-- **No silent drift (anti-drift rule):** Post-adoption edits to implementation text files have **no constitutional effect** for an adopter unless validly amended under **Chapter Twenty-Nine section 3** and recorded in that adopter's adoption chain under this chapter. This rule applies to:
+- **No silent drift (anti-drift rule):** Post-adoption edits to implementation text files have **no constitutional effect** for an adopter unless validly amended under **Chapter Twenty-Three section 3** and recorded in that adopter's adoption chain under this chapter. This rule applies to:
   - substantive revisions;
   - editorial compressions presented as non-substantive;
   - renumbering that changes binding cross-reference targets; and
   - silent edition-relabeling without adoption.
 
-    Later implementation-file revisions do **not** displace the adopted edition’s operative effect. They may be taken up by amendment under **Chapter Twenty-Nine section 3**; until that amendment takes effect for an adopter, they remain process-layer artifacts without constitutional effect for adopters bound to the earlier edition.
+    Later implementation-file revisions do **not** displace the adopted edition’s operative effect. They may be taken up by amendment under **Chapter Twenty-Three section 3**; until that amendment takes effect for an adopter, they remain process-layer artifacts without constitutional effect for adopters bound to the earlier edition.
 
 - **Anti-evasion:** Calling a post-adoption edit any of the following does **not** make it count as non-substantive when the real constitutional effect is the same as a substantive change:
   - “clarification”;
@@ -253,17 +253,17 @@ This section sets out the safeguards that protect incorporated text:
 
 #### 5.1 What It Is
 
-This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under **Chapter Twenty-Nine** (*Ratification and Adoption*) and this chapter. Until then, it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
+This Sentient Constitution is a **model constitution**. In its own terms, it speaks to systems that materially affect sentients. It becomes **enforceable** for a particular adopter — a jurisdiction, federation, polity, organization, system, or other body — **only after valid adoption** under **Chapter Twenty-Three** (*Ratification and Adoption*) and this chapter. Until then, it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.
 
 #### 5.2 Who May Adopt
 
 The following rules address who may adopt and the scope of adoption:
 
 - Valid adopters may include — without limitation — constitutional federations, polities, sovereign or cooperative entities, organizations, system operators, system-developer consortia, or any other body that can bind itself and the systems under its authority to these obligations.
-- Adoption may cover the whole Constitution or only specified chapters, articles, or obligations, consistent with **Chapter Twenty-Nine** and **Chapter Twenty-Eight** non-regression rules.
+- Adoption may cover the whole Constitution or only specified chapters, articles, or obligations, consistent with **Chapter Twenty-Three** and **Chapter Twenty-Two** non-regression rules.
 - Partial adoption may not wipe out the non-regression floor.
 - Incorporation and partial adoption must not be used to shrink land, consultation, or free, prior, and informed consent (FPIC) duties the adopter already bears under its own law or binding documents.
-- Nothing here requires one world government, one federation design, or one adoption method. Different adopters may use different internal procedures consistent with **Chapter Twenty-Nine**. That matches the pluralism commitment in **Chapter Twenty-Seven §3** (*Authorization and Legitimacy of Governing Authority*).
+- Nothing here requires one world government, one federation design, or one adoption method. Different adopters may use different internal procedures consistent with **Chapter Twenty-Three**. That matches the pluralism commitment in **Chapter Twenty-One §3** (*Authorization and Legitimacy of Governing Authority*).
 
 #### 5.3 Adoption and Applicable Law
 

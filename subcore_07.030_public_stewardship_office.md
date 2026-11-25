@@ -60,7 +60,7 @@ Those who govern answer to the sentients alive and able to vote now, over terms 
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims:
     - [Flourishing](core_00.000_preamble.md#flourishing): wellbeing is pursued for those who come later as well as those here now;
     - [Continuity](core_00.000_preamble.md#continuity): risks to survival, ecology, and productive capacity are seen early enough to act on;
-- Chapter Twenty-Seven:
+- Chapter Twenty-One:
   - [§5 Strategy, Stewardship Direction, and Ecosystem Value](core_21.000_governance.md#5-strategy-stewardship-direction-and-ecosystem-value-non-corporate), including the [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation);
 - Chapter Two:
   - [§17.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests): representing those a system or institution affects includes planning for their future;

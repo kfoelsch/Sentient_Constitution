@@ -19,6 +19,95 @@ SKIP_PARTS={'.git','_pages_site','archive','evidence','translations','results','
 REG='tools/architecture/chapter_numbers.json'
 MANIFEST='ai_corpus/indexes/section_manifest.json'
 
+CHAPTER_WORDS = (
+    'Zero', 'One', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine',
+    'Ten', 'Eleven', 'Twelve', 'Thirteen', 'Fourteen', 'Fifteen', 'Sixteen',
+    'Seventeen', 'Eighteen', 'Nineteen', 'Twenty', 'Twenty-One', 'Twenty-Two',
+    'Twenty-Three', 'Twenty-Four', 'Twenty-Five', 'Twenty-Six', 'Twenty-Seven',
+    'Twenty-Eight', 'Twenty-Nine', 'Thirty', 'Thirty-One',
+)
+CHAPTER_WORD_TO_NUMBER = {word.casefold(): number for number, word in enumerate(CHAPTER_WORDS)}
+CHAPTER_NUMBER_TO_WORD = dict(enumerate(CHAPTER_WORDS))
+CHAPTER_RENUMBER_MAP = {
+    number: (8 if number <= 10 else 9 if number <= 13 else 10 if number <= 16 else number - 6)
+    for number in range(8, 32)
+}
+_CHAPTER_NAME_TOKEN = '(?:' + '|'.join(
+    sorted((re.escape(word) for word in CHAPTER_WORDS), key=len, reverse=True)
+) + r')(?![A-Za-z-])'
+_CHAPTER_TOKEN = rf'(?:{_CHAPTER_NAME_TOKEN}|\d{{1,2}}(?!\d))'
+_CHAPTER_REFERENCE_RE = re.compile(
+    rf'\b(?P<label>Chapters?|chapter[s]?)\s+(?P<first>{_CHAPTER_TOKEN})'
+    rf'(?P<tail>(?:(?:\s+(?:through|to|and|or)\s+|,\s*(?:and\s+)?|\s*[–—-]\s*)'
+    rf'(?:Chapter\s+)?{_CHAPTER_TOKEN})*)', re.I,
+)
+_CHAPTER_REFERENCE_ITEM_RE = re.compile(
+    rf'(?P<separator>through|to|and|or|,|–|—|-|&)\s*(?:Chapter\s+)?'
+    rf'(?P<number>{_CHAPTER_TOKEN})', re.I,
+)
+_CHAPTER_NUMBER_TOKEN_RE = re.compile(_CHAPTER_TOKEN, re.I)
+
+
+def renumber_chapter_references(text):
+    """Translate unchanged prose references through the 8–31 consolidation map.
+
+    Call this only on text known to use the pre-consolidation numbering. Applying
+    it to already-renumbered prose would change legitimate current references.
+    """
+    def replace_reference(match):
+        tail = match.group('tail') or ''
+        tokens = [match.group('first')] + [
+            item.group('number') for item in _CHAPTER_REFERENCE_ITEM_RE.finditer(tail)
+        ]
+
+        def number_of(token):
+            if token.isdigit():
+                return int(token)
+            return CHAPTER_WORD_TO_NUMBER[token.casefold()]
+
+        original_numbers = [number_of(token) for token in tokens]
+        mapped_numbers = [CHAPTER_RENUMBER_MAP.get(number, number) for number in original_numbers]
+        if mapped_numbers == original_numbers:
+            return match.group(0)
+
+        separators = [
+            item.group('separator').casefold()
+            for item in _CHAPTER_REFERENCE_ITEM_RE.finditer(tail)
+        ]
+        range_separators = {'through', 'to', '–', '—', '-'}
+        if len(mapped_numbers) == 2 and any(separator in range_separators for separator in separators):
+            if mapped_numbers[0] == mapped_numbers[1]:
+                return f"Chapter {CHAPTER_NUMBER_TO_WORD[mapped_numbers[0]]}"
+            separator = next(separator for separator in separators if separator in range_separators)
+            return (
+                f"Chapters {CHAPTER_NUMBER_TO_WORD[mapped_numbers[0]]} {separator} "
+                f"{CHAPTER_NUMBER_TO_WORD[mapped_numbers[1]]}"
+            )
+
+        unique_numbers = list(dict.fromkeys(mapped_numbers))
+        if len(unique_numbers) == 1:
+            return f"Chapter {CHAPTER_NUMBER_TO_WORD[unique_numbers[0]]}"
+        if len(unique_numbers) == 2 and 'or' in separators:
+            return (
+                f"Chapters {CHAPTER_NUMBER_TO_WORD[unique_numbers[0]]} or "
+                f"{CHAPTER_NUMBER_TO_WORD[unique_numbers[1]]}"
+            )
+        if len(unique_numbers) == len(mapped_numbers):
+            # Replace each original token once; sequential replacements can
+            # cascade (e.g. Twenty-Eight -> Twenty-Two -> Sixteen -> Ten).
+            return _CHAPTER_NUMBER_TOKEN_RE.sub(
+                lambda token_match: CHAPTER_NUMBER_TO_WORD[
+                    CHAPTER_RENUMBER_MAP.get(number_of(token_match.group(0)), number_of(token_match.group(0)))
+                ],
+                match.group(0),
+            )
+        names = [CHAPTER_NUMBER_TO_WORD[number] for number in unique_numbers]
+        if len(names) == 2:
+            return f"Chapters {names[0]} and {names[1]}"
+        return f"Chapters {', '.join(names[:-1])}, and {names[-1]}"
+
+    return _CHAPTER_REFERENCE_RE.sub(replace_reference, text)
+
 def load(root):
     reg=json.loads((root/REG).read_text()); man=json.loads((root/MANIFEST).read_text())['files']
     return reg,man

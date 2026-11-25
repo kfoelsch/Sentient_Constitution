@@ -9,10 +9,10 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Eight lives and what stays here</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Two lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
-> - **Constitutional owner:** substantive non-regression floor; Substantive Test 1 (substantive non-regression invalidity); anti-evasion. Procedural validity, ratification, amendment procedure requirements, and the referral of serious bad-faith conduct are in **Chapter Twenty-Nine**. Supremacy relative to other norms and external legal orders are in **Chapter Thirty**.
+> - **Constitutional owner:** substantive non-regression floor; Substantive Test 1 (substantive non-regression invalidity); anti-evasion. Procedural validity, ratification, amendment procedure requirements, and the referral of serious bad-faith conduct are in **Chapter Twenty-Three**. Supremacy relative to other norms and external legal orders are in **Chapter Twenty-Four**.
 > - **Implementation owner:** designated implementation text governs execution mechanics for review operations, publication workflows, designated institutional procedure, forum operations where designated, and cross-implementation joint structure where designated.
 > - **Anti-relocation rule:** this chapter does not assign final offense labels, numeric slots, or sanction taxonomy. Numeric Contribution and Violation slots remain measured on the [Subcore 10-D §8 unified proportional LEQU scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes), with separate axis records and Violation slots controlled only by verified impact. **Chapter Twenty** of [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) may add the corresponding anti-constitutional-misconduct designation to a Chapter Fifteen Violation Axis slot 7, 8, or 9 record but does not assign the numeric slot.
 >
@@ -37,7 +37,7 @@
 - Downstream:
   - [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (29.000) procedural validity, ratification, amendment requirements, and referral of serious bad-faith conduct.
   - [Chapter Twenty-Four](core_24.000_expansion_supremacy.md#chapter-twenty-four-expansion-supremacy-and-external-legal-orders) (30.000) expansion and supremacy;
-- Read with: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) non-operative walkthrough for **Chapters Twenty-Two through Twenty-Eight** on constitutional change and incorporation.
+- Read with: [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) non-operative walkthrough for **Chapters Sixteen through Twenty-Two** on constitutional change and incorporation.
 - Attached subcore: [Subcore 22-A](subcore_22.010_non_regression_determinations.md#subcore-22-a-non-regression-determinations) (*Non-Regression Determinations*).
 
 </details>
@@ -50,7 +50,7 @@ Chapter Twenty-Two is the constitutional owner of **substantive non-regression a
 
 *In plain terms: a change that weakens the protections this Constitution depends on is invalid, even if the words say otherwise and even if it is done through procedure, definitions, guidance, a temporary measure, or an emergency label. This chapter is Substantive Test 1.*
 
-**Purpose:** The purpose of Chapter Twenty-Eight is to prevent regressive changes to the Constitution. It is a guardrail against alterations that degrade the core constraints, Rights Floors, integrity and verification requirements, and legitimacy and stewardship obligations the rest of the Constitution depends on. No constitutional change is valid if it violates these non-regression requirements.
+**Purpose:** The purpose of Chapter Twenty-Two is to prevent regressive changes to the Constitution. It is a guardrail against alterations that degrade the core constraints, Rights Floors, integrity and verification requirements, and legitimacy and stewardship obligations the rest of the Constitution depends on. No constitutional change is valid if it violates these non-regression requirements.
 
 **Role:** The chapter is the substantive half of change validity. Four tests judge a change: Substantive Test 1 and Procedural Tests 2 to 4. This chapter owns Substantive Test 1:
 
@@ -79,7 +79,7 @@ The chapter leaves:
 
 *In plain terms: a protection that can be quietly removed is not a protection. This chapter exists so that no change can weaken what this Constitution guarantees.*
 
-Protections are most often lost not by repeal but by small steps: a narrower definition, a new procedure, a temporary measure, or an emergency label that never ends. This chapter makes any change that weakens the protections the Constitution depends on invalid, however it is made. It is the substantive test every amendment must pass before the procedural tests in Chapter Twenty-Nine are even reached.
+Protections are most often lost not by repeal but by small steps: a narrower definition, a new procedure, a temporary measure, or an emergency label that never ends. This chapter makes any change that weakens the protections the Constitution depends on invalid, however it is made. It is the substantive test every amendment must pass before the procedural tests in Chapter Twenty-Three are even reached.
 
 **Grounded in:**
 
@@ -154,13 +154,13 @@ Material weakening includes indirect narrowing through:
 
 <br>
 
-*In plain terms: Substantive Test 1 is the checklist — if a proposal would gut Chapter Two constraints, Subcores 3-A to 3-C integrity, Chapter Four Rights Floors, or Chapter Twenty-Seven legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion. The Constitutional Forum decides whether a proposal fails it, in public, with reasons, after everyone has had time to respond. A change that fixes a real error in a protection, and keeps its core, is a correction and not a weakening. Replacing an office or body is not a weakening if the protection it served stays at least as strong.*
+*In plain terms: Substantive Test 1 is the checklist — if a proposal would gut Chapter Two constraints, Subcores 3-A to 3-C integrity, Chapter Four Rights Floors, or Chapter Twenty-One legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion. The Constitutional Forum decides whether a proposal fails it, in public, with reasons, after everyone has had time to respond. A change that fixes a real error in a protection, and keeps its core, is a correction and not a weakening. Replacing an office or body is not a weakening if the protection it served stays at least as strong.*
 
 A proposed amendment is invalid if it materially weakens any of the following:
 - Chapter Two non-negotiable principle constraints
 - **Subcores 3-A to 3-C** integrity requirements
 - Chapter Four Rights Floors
-- Chapter Twenty-Seven legitimacy obligations
+- Chapter Twenty-One legitimacy obligations
 
 Invalidity includes indirect narrowing through:
 - definitions;
@@ -241,7 +241,7 @@ While it is in doubt whether a change is valid, this chapter may impose immediat
 
 *In plain terms: this chapter does not sort offenses, score standing, or set sanctions; those belong to other chapters.*
 
-This chapter must not absorb, restate, or relocate obligations owned by another chapter. The owners, and the rule against cross-layer drift, are in [Subcore 22-A — §8](subcore_22.010_non_regression_determinations.md#8-work-chapter-twenty-eight-leaves-to-other-chapters) (*Work Chapter Twenty-Eight Leaves to Other Chapters*).
+This chapter must not absorb, restate, or relocate obligations owned by another chapter. The owners, and the rule against cross-layer drift, are in [Subcore 22-A — §8](subcore_22.010_non_regression_determinations.md#8-work-chapter-twenty-two-leaves-to-other-chapters) (*Work Chapter Twenty-Two Leaves to Other Chapters*).
 
 ---
 

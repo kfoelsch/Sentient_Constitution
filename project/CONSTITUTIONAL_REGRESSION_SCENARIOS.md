@@ -651,12 +651,12 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-CH10-Q3-SLOT-001
 - **Class:** adversarial / owner-boundary
 - **Summary:** A decision-maker seeks to lower a fixed Chapter Fifteen Violation Axis slot because the requested lock appears too restrictive. Expected result: Chapter Sixteen must preserve the verified facts, LEQU measurement, and slot; it may calibrate only the gated-pathway-scoped Question 3 consequence.
-- **Read with:** [Subcore 10-D §8](../subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes); [Subcore 10-F §3](../subcore_10.060_standing_integration.md#3-chapter-fourteen-records-do-not-change); [Chapter Twelve §3.2](../core_12.000_violation_consequences.md#32-prevention--general-standing-locks).
+- **Read with:** [Subcore 10-D §8](../subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes); [Subcore 10-F §3](../subcore_10.060_standing_integration.md#3-chapter-ten-records-do-not-change); [Chapter Twelve §3.2](../core_12.000_violation_consequences.md#32-prevention--general-standing-locks).
 
 ### Scenario ID: RS-CH10-Q3-SINGLE-AXIS-001
 - **Class:** adversarial / applicable-input discipline
 - **Summary:** One matter has only a verified contribution standing record and another has only a verified violation standing record. Expected result: Chapter Sixteen integrates each applicable single-axis record without requiring a synthetic second-axis record, while preserving the same immutable-input and verified-input rules.
-- **Read with:** [Subcore 10-B §4](../subcore_10.020_standing_assessment.md#4-question-1--what-happened); [Subcore 10-F §3](../subcore_10.060_standing_integration.md#3-chapter-fourteen-records-do-not-change); [Subcore 10-F §4](../subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity).
+- **Read with:** [Subcore 10-B §4](../subcore_10.020_standing_assessment.md#4-question-1--what-happened); [Subcore 10-F §3](../subcore_10.060_standing_integration.md#3-chapter-ten-records-do-not-change); [Subcore 10-F §4](../subcore_10.060_standing_integration.md#4-automatic-integration-review-and-continuity).
 
 ### Scenario ID: RS-CH10-Q3-NOOFFSET-001
 - **Class:** adversarial / no-offset

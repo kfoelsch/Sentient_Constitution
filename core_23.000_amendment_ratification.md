@@ -7,11 +7,11 @@
 </details>
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Nine lives and what stays here</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Three lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
 > - **Constitutional owner:** amendment and adoption procedure; Procedural Tests 2–4; review triggers; provisional effect; invalid-change handling; referral of serious bad-faith conduct; ratification documents; amendment procedure requirements.
-> - **Substantive non-regression:** **Chapter Twenty-Eight**. **Supremacy** and **external legal orders:** **Chapter Thirty**.
+> - **Substantive non-regression:** **Chapter Twenty-Two**. **Supremacy** and **external legal orders:** **Chapter Twenty-Four**.
 >
 > **Architecture — *In plain terms* placement:** Each *In plain terms* line appears immediately after the Trace navigational block (and the line break that follows it), and **before** the operative paragraphs and bullet lists for that section or subsection. Reader-facing gloss only.
 
@@ -41,12 +41,12 @@ Chapter Twenty-Three is the constitutional owner of **procedural and custody val
 
 *In plain terms: a change can be substantively fine and still fail because of how it was made. This chapter is the procedural and paperwork spine for legitimate change, and it holds amendments to a procedure that is real: a published proposal, a clear chain of authority and custody that proves the text is the real one, and a contest path that works, so that independent reviewers and the public can challenge the change. A rights-affecting update must not snap irreversibly into place before those guardrails have actually run. Ticking procedural boxes cannot save a change that fails the substance check or the publication, custody, or contestability tests.*
 
-**Purpose:** This Constitution, including its [subcore](subcore_03.080_band_integrative.md#subcore), and the implementation text in its [Corpus](subcore_03.080_band_integrative.md#corpus) may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions. All three are amended by the one procedure in **section 3**. Every amendment is subject to **Chapter Twenty-Eight** (non-regression), **Chapter Thirty** (supremacy and external-order interface), and the validity conditions in this chapter.
+**Purpose:** This Constitution, including its [subcore](subcore_03.080_band_integrative.md#subcore), and the implementation text in its [Corpus](subcore_03.080_band_integrative.md#corpus) may be amended to improve protection, clarity, binding effect, or institutional fitness under changing conditions. All three are amended by the one procedure in **section 3**. Every amendment is subject to **Chapter Twenty-Two** (non-regression), **Chapter Twenty-Four** (supremacy and external-order interface), and the validity conditions in this chapter.
 
 **Role:** The chapter is the procedural half of change validity. It covers whether a change was made the right way, and what happens when it was not:
 
 - **How a change is made:** the one procedure by which a change is proposed, heard, answered, decided, and recorded (**section 3**).
-- **How closely a change is examined:** changes that affect rights get a harder review (**section 4**), whoever proposes a change must justify it in public (**section 5**), and a change that fails **Chapter Twenty-Eight** or any procedural test is invalid even if every step was followed (*Validity floor* below).
+- **How closely a change is examined:** changes that affect rights get a harder review (**section 4**), whoever proposes a change must justify it in public (**section 5**), and a change that fails **Chapter Twenty-Two** or any procedural test is invalid even if every step was followed (*Validity floor* below).
 - **The three procedural tests:** each asks a different question about how the change was made.
   - **Procedural Test 2:** was the proposal properly published, with enough detail and time for **affected** **parties** to respond? (**section 6**)
   - **Procedural Test 3:** can anyone tell which text is authoritative, who approved it, and when it took effect? (**section 7**)
@@ -55,7 +55,7 @@ Chapter Twenty-Three is the constitutional owner of **procedural and custody val
 - **How a body adopts:** how a body adopts this Constitution (**section 12**).
 
 <a id="validity-floor"></a>
-**Validity floor:** This chapter states minimum constitutional **procedural and custody** validity conditions for amendment and adoption actions, together with **Chapter Twenty-Eight** substantive conditions. Any amendment that fails **Chapter Twenty-Eight** or any procedural test in **sections 6 through 8** of this chapter is invalid regardless of procedural completion, and is handled under **section 11**.
+**Validity floor:** This chapter states minimum constitutional **procedural and custody** validity conditions for amendment and adoption actions, together with **Chapter Twenty-Two** substantive conditions. Any amendment that fails **Chapter Twenty-Two** or any procedural test in **sections 6 through 8** of this chapter is invalid regardless of procedural completion, and is handled under **section 11**.
 
 **Chapter scope:** The chapter covers:
 
@@ -63,7 +63,7 @@ Chapter Twenty-Three is the constitutional owner of **procedural and custody val
 - heightened review and the burden of justification (**section 4** and **section 5**), and the validity floor (*Validity floor* above);
 - Procedural Tests 2 to 4 (**section 6** to **section 8**);
 - review triggers, the provisional effect rule, continuity of supremacy and challenge rights during amendment, invalid-change handling, and the referral of serious bad-faith conduct (**section 9** to **section 11**);
-- ratification and adoption (**section 12**), where a body binds itself to this Constitution only by adopting through this chapter (**Chapter Thirty section 7**).
+- ratification and adoption (**section 12**), where a body binds itself to this Constitution only by adopting through this chapter (**Chapter Twenty-Four section 7**).
 
 The chapter leaves:
 
@@ -186,14 +186,14 @@ The **Constitutional Forum** takes up a proposal for determination when it has a
 ##### 3.2.3 Counting Sign-Off
 
 Sign-off is counted from the electorate record published under [Chapter Twenty-One §6.2 Records, Gates, and Method Neutrality](core_21.000_governance.md#62-records-gates-and-method-neutrality), by a party independent of the proposers.
-- Each distinct subject signs once, as with one subject, one vote under **Chapter Twenty-Seven §6.1** (*Entitlement and Eligibility*).
+- Each distinct subject signs once, as with one subject, one vote under **Chapter Twenty-One §6.1** (*Entitlement and Eligibility*).
 - Creating sentients, or inducing branches to elect to be distinct, in order to reach the share is non-compliant conduct by the creator.
 - Signing and responding are open petition and public comment on the Forum Case Record, and are protected as such under **Article XIII-B** (*Influence-Contact and Lobbying Boundaries*).
 
 ##### 3.2.4 Counting a Forum or Steward Majority
 
 The vote or decision is recorded on the Forum Case Record, with dissent recorded.
-- Each distinct subject counts once toward a majority, as with one subject, one vote under **Chapter Twenty-Seven §6.1** (*Entitlement and Eligibility*).
+- Each distinct subject counts once toward a majority, as with one subject, one vote under **Chapter Twenty-One §6.1** (*Entitlement and Eligibility*).
 - Creating, appointing, or seating members or stewards in order to form a majority is non-compliant conduct by whoever does it.
 - A **Constitutional Forum** panel that voted to bring a proposal to hearing does not decide it. The determination is made by a panel with no overlapping decision-makers, drawn from the constitutional-review reserve roster maintained under **CF-16.470** (*Forum staffing, reserve capacity, shared administration, structural review, and structural records*).
 
@@ -260,13 +260,13 @@ Any proposed amendment that materially affects Chapter Four Rights Floors, adjud
 
 *In plain terms: proposals have to show their work — who is affected, what might go wrong, and why the change still clears the non-regression bar — vague hand-waving about "necessity" is not enough. For any significant amendment, the independent Public Policy Office checks that work in public before the decision.*
 
-Proposed amendments must provide publicly auditable justification, including expected effects, affected populations, foreseeable risks, and compatibility with **Chapter Twenty-Eight** non-regression constraints. Unsupported claims of necessity or feasibility are insufficient.
+Proposed amendments must provide publicly auditable justification, including expected effects, affected populations, foreseeable risks, and compatibility with **Chapter Twenty-Two** non-regression constraints. Unsupported claims of necessity or feasibility are insufficient.
 
 The proposer's claims are tested independently, not taken on trust:
 
 - **Independent evaluation:** a proposed amendment that meets the materiality threshold of [Subcore 7-B §4.1](subcore_07.020_public_policy_office.md#41-the-materiality-threshold) (*The Materiality Threshold*), or whose evaluation is asked for under Subcore 7-B §4.2 (*Evaluation on Request*), is evaluated by the **Public Policy Office** under [Subcore 7-B §4.7](subcore_07.020_public_policy_office.md#47-proposed-amendments) (*Proposed Amendments*) before the adoption decision. The proposer's justification serves as the sponsor's impact statement under Subcore 7-B §5.2 (*The Sponsor's Impact Statement*).
 - **Part of the publication record:** the evaluation, the office's rating of the proposer's justification, and the adopting body's reasoned response to each material finding are published with the justification and form part of the publication record under [§6 Procedural Test 2](#6-procedural-test-2--procedural-validity-and-publication-integrity).
-- **Evidence, not a ruling:** the evaluation informs the justification and any review of it. It does not decide whether the amendment is valid under **Chapter Twenty-Eight** or this chapter.
+- **Evidence, not a ruling:** the evaluation informs the justification and any review of it. It does not decide whether the amendment is valid under **Chapter Twenty-Two** or this chapter.
 
 
 <a id="6-procedural-test-2--procedural-validity-and-publication-integrity"></a>
@@ -464,7 +464,7 @@ Where amendment or adoption conduct indicates serious misconduct, a mandatory re
 - material rollback effect; and
 - causally significant obstruction or degradation.
 
-**Forcible** or **nullification** misconduct routes through **criteria 5** and **6** (*Insurrection or material forcible subversion* and *Operative nullification*) of the same **Chapter Twenty** section where material. Those traits remain character descriptors and anti-constitutional-misconduct designation (ACMD) predicates; they do not move the numeric Violation Axis slot.
+**Forcible** or **nullification** misconduct routes through **criteria 5** and **6** (*Insurrection or material forcible subversion* and *Operative nullification*) of the same **Chapter Fourteen** section where material. Those traits remain character descriptors and anti-constitutional-misconduct designation (ACMD) predicates; they do not move the numeric Violation Axis slot.
 
 The referral record goes to the chapters that measure, integrate, and designate the conduct, as listed in **section 1**. This chapter does not classify it.
 

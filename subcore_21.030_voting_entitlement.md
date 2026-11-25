@@ -27,7 +27,7 @@ Subcore 21-C is the constitutional owner of the **full rules of governance-votin
 
 [Chapter Twenty-One §6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility) states each guarantee in one line; this file holds the full text.
 
-*In plain terms: Chapter Twenty-Seven says who gets a vote and that no one can be silenced for good. This file gives the exact counting rules and the exact steps for getting a vote back.*
+*In plain terms: Chapter Twenty-One says who gets a vote and that no one can be silenced for good. This file gives the exact counting rules and the exact steps for getting a vote back.*
 
 ### 2. Why Voting Entitlement Is the Same for Every Adopter
 
@@ -143,16 +143,16 @@ This floor guards against disenfranchisement. A standing lock on the **governanc
   - bad-faith delay by the governing side;
   - structured impossibility used as pretext; or
   - refusal to agree a **contestable** valuation method.
-  **Chapter Twenty-Two** and applicable incorporated procedure must provide a **reviewable official record** when **full discharge** is delayed for reasons outside the sentenced party’s sole control.
+  **Chapter Sixteen** and applicable incorporated procedure must provide a **reviewable official record** when **full discharge** is delayed for reasons outside the sentenced party’s sole control.
 - **Partial and conditional restoration:** Where **full** discharge is **impossible** after **good-faith effort** (for example, certain harms are not reversibly compensable, or no party can locate necessary counterparties), **Chapter Twenty-Two** and applicable incorporated procedure may adopt **partial** or **conditional** restoration milestones that **materially satisfy** [Subcore 3-J — **Redress and Remediation**](subcore_03.070_band_accountability.md#redress-and-remediation) for what can feasibly be done; upon satisfaction of those milestones, **durable political voice** must be **restored** unless **Chapter Twenty** safeguards and **Article XXI-A** (*Justice Objective and Scope*) still require further specific duties that remain **feasible** and **not pretextual**. These routes remain **fully contestable**; they do **not** authorize token gestures in place of genuine restoration where restoration remains practicable.
-- **Preservation of the grave-misconduct rule:** The **final** **Violation Axis slot 7, 8, or 9** withholding rule above remains **fully operative**: **bad-faith delay or evasion by the sentenced party** does **not** compel early restoration, and **grave** misconduct may **withhold** foundational voice until **real** restoration duties aligned with **Chapter Twenty** and **Article XXI-A** (*Justice Objective and Scope*) are satisfied where satisfaction remains **feasible**.
+- **Preservation of the grave-misconduct rule:** The **final** **Violation Axis slot 7, 8, or 9** withholding rule above remains **fully operative**: **bad-faith delay or evasion by the sentenced party** does **not** compel early restoration, and **grave** misconduct may **withhold** foundational voice until **real** restoration duties aligned with **Chapter Fourteen** and **Article XXI-A** (*Justice Objective and Scope*) are satisfied where satisfaction remains **feasible**.
 - Where a standing lock or restitution withholding is invoked to restrict participation in foundational constitutional choice (authorization of governing authority, or reauthorization pathways), the restriction must satisfy:
   - (a) an individualized predicate under [Subcore 3-N — **Procedural Fairness**](subcore_03.090_band_participation.md#procedural-fairness);
   - (b) [Subcore 3-J — **Necessity**](subcore_03.070_band_accountability.md#necessity) and [Subcore 3-J — **Proportionality**](subcore_03.070_band_accountability.md#proportionality) under Chapter Two;
   - (c) narrow tailoring to the specific misconduct category; and
   - (d) restoration pathways that are real rather than merely formal, consistent with **Article XX-D** (*Violations and Standing Locks*) restoration-or-requalification discipline.
 - Broad-misconduct categories swept into disqualification scope, or lock patterns that track [Subcore 3-N — **Protected Characteristics**](subcore_03.090_band_participation.md#protected-characteristics) or their material proxies, are non-compliant.
-- Cross-reference: **Chapter Four, **Article XX** (*Standing and Participation Status*)**; **Chapter Twenty** (*Anti-Constitutional Misconduct*) for **final ACMD** on qualifying **Violation Axis slot 7, 8, or 9** findings and safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause.
+- Cross-reference: **Chapter Four, **Article XX** (*Standing and Participation Status*)**; **Chapter Fourteen** (*Anti-Constitutional Misconduct*) for **final ACMD** on qualifying **Violation Axis slot 7, 8, or 9** findings and safeguards tied to the **anti-constitutional misconduct — restitution precondition** clause.
 
 ---
 

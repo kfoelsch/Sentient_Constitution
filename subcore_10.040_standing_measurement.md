@@ -12,7 +12,7 @@
 - Upstream:
   - [Subcore 10-B §3](subcore_10.020_standing_assessment.md#3-the-three-questions) (*three-question frame*);
   - [Subcore 10-B §4](subcore_10.020_standing_assessment.md#4-question-1--what-happened) through [Subcore 10-B §8](subcore_10.020_standing_assessment.md#8-handling-a-standing-record) (*Question 1 — verified facts, Standing Records, custody, and handling*);
-  - [Chapter One §8 Key Practical Process Pipelines](core_01.000_constitutional_map.md#8-key-practical-process-pipelines) (*Chapters Eight through Twenty-Two chain*).
+  - [Chapter One §8 Key Practical Process Pipelines](core_01.000_constitutional_map.md#8-key-practical-process-pipelines) (*Chapters Eight through Sixteen chain*).
 - Subsections in this file:
   - [§3](#3-question-2--how-good-or-bad-was-it) (*Question 2 — LEQU baseline, status bridge, limits, and scope*);
   - [§4](#4-magnitude-and-severity-input-dimensions) (*measurement input dimensions for both axes*);
@@ -40,14 +40,14 @@ Chapter Fifteen is the constitutional owner of **Question 2**, which measures th
 
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: Chapter Fourteen settles what happened and who holds the Standing Record. Question 2 measures those verified facts. It asks how good the contribution was or how bad the violation was. The Contribution Axis and the Violation Axis stay separate; they are not two sides of a net score. What follows from the measurement is Chapter Sixteen.*
+*In plain terms: Chapter Ten settles what happened and who holds the Standing Record. Question 2 measures those verified facts. It asks how good the contribution was or how bad the violation was. The Contribution Axis and the Violation Axis stay separate; they are not two sides of a net score. What follows from the measurement is Chapter Ten.*
 
-**Purpose:** Chapter Fifteen answers Question 2: how good a verified contribution was, or how bad a verified violation was. It measures each on its own axis, on one common scale, the LEQU scale. For each applicable axis it writes a slot from 1 to 9, the route descriptors that apply, the inputs handed to Question 3, and one LEQU total (**section 4.1**).
+**Purpose:** Chapter Ten answers Question 2: how good a verified contribution was, or how bad a verified violation was. It measures each on its own axis, on one common scale, the LEQU scale. For each applicable axis it writes a slot from 1 to 9, the route descriptors that apply, the inputs handed to Question 3, and one LEQU total (**section 4.1**).
 
 **Role:** The chapter sits in the middle of the standing pipeline:
 
-- It takes the facts already verified under **Chapter Fourteen section 4** and written into the Standing Record under **Chapter Fourteen section 6** as fixed.
-- It hands the slot and descriptors to Chapter Sixteen, starting at **section 5** (*Descriptor Integration and Attachment Normalization*).
+- It takes the facts already verified under **Chapter Ten section 4** and written into the Standing Record under **Chapter Ten section 6** as fixed.
+- It hands the slot and descriptors to Chapter Ten, starting at **section 5** (*Descriptor Integration and Attachment Normalization*).
 - Chapter Fifteen alone assigns the numeric slot. [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) adds an anti-constitutional-misconduct designation to a qualifying slot and does not move it.
 - The common scale compares magnitude, not moral worth, and never lets help cancel harm.
 
@@ -67,7 +67,7 @@ The chapter leaves:
 
 - what happened, the three-question frame, and the Standing Record to [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened);
 - what follows from a measurement to [Subcore 10-F — Chapters Sixteen through Nineteen](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows); and
-- the anti-constitutional-misconduct designation to Chapter Twenty.
+- the anti-constitutional-misconduct designation to Chapter Fourteen.
 
 
 <a id="2-why-standing-measurement-exists"></a>
@@ -142,7 +142,7 @@ The following limits apply whenever LEQU is used.
 
 - **Not a net-score rule:** You cannot "cancel out" violations with contributions or vice versa. Each axis stands alone.
 - **Not a mandatory human-life metric:** The LEQU is sentient-generic; it applies to any conscious being, not just humans.
-- **Not an accusation metric:** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Contribution Axis benefit or Violation Axis severity without verified inputs under **Chapter Fourteen section 4.5** and calibration under **section 8**.
+- **Not an accusation metric:** Allegations, intake tags, routing decisions, reputation, disfavored status, or moral dislike do not supply Contribution Axis benefit or Violation Axis severity without verified inputs under **Chapter Ten section 4.5** and calibration under **section 8**.
 - **Not a license to trade rights:** Claims framed as efficiency, productive capacity, innovation, burden reduction, security, retaliation, emergency response, or institutional necessity must be discounted or rejected where they depend on:
   - coercion;
   - discriminatory burden shifting;
@@ -159,7 +159,7 @@ The following limits apply whenever LEQU is used.
 
 This part covers Question 2 only, the measuring step. It takes facts that are already verified (Question 1) and asks how good a contribution was or how bad a violation was.
 
-- Start from the facts already verified under **Chapter Fourteen section 4** and written into the Standing Record under **Chapter Fourteen section 6**, and measure them using the dimensions in **section 4**.
+- Start from the facts already verified under **Chapter Ten section 4** and written into the Standing Record under **Chapter Ten section 6**, and measure them using the dimensions in **section 4**.
 - Then give each kind of help or harm its standard name from the catalogs: the **benefit-route** catalog for help (**section 5.1**) and the **harm-route** catalog for harm (**section 5.2**).
 - Each name also tells you how much that kind of help or harm counts toward *how good* or *how bad*.
 - The rules for what follows from a benefit are on the [benefit side](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances), and the rules for what follows from a harm are on the [harm side](core_12.000_violation_consequences.md#32-prevention--general-standing-locks).
@@ -225,7 +225,7 @@ Reminder: none of this cancels out an open violation record. The no-offset rule 
 
 | **What to look at** | **What it does** | **Where they are set out** |
 | --- | --- | --- |
-| **How big it is overall (LEQU)** | The main measure, and the one that controls the slot. For a contribution, it is the total verified good that was done, counted in LEQU. For a violation, it is the total verified constitutional loss. Chapter Twenty's misconduct designation is decided separately. | [§8 Unified proportional LEQU scale](#8-unified-proportional-lequ-scale--contribution-and-violation-axes) |
+| **How big it is overall (LEQU)** | The main measure, and the one that controls the slot. For a contribution, it is the total verified good that was done, counted in LEQU. For a violation, it is the total verified constitutional loss. Chapter Fourteen's misconduct designation is decided separately. | [§8 Unified proportional LEQU scale](#8-unified-proportional-lequ-scale--contribution-and-violation-axes) |
 | **Who it reaches (how many, how deeply, how vulnerable)** | Adjusts the LEQU estimate and how much the benefit or harm matters (its materiality). | [§6.2 Shared Impact-Scaling Rules](#62-shared-impact-scaling-rules); [Subcore 3-M — Materiality](subcore_03.085_band_oversight.md#materiality) |
 | **How long it lasts (duration; durability of a benefit, irreversibility of a harm)** | Adjusts the LEQU estimate. For a contribution, lasting stewardship, benefit across generations, or lasting repair of an institution point toward the top slots. For a violation, lasting trauma, loss that cannot be undone, and lasting damage to sentients' ability to act for themselves raise the estimate of the total loss. | [§6.2 Shared Impact-Scaling Rules](#62-shared-impact-scaling-rules) |
 | **How far it reaches (across places or institutions)** | Adjusts the LEQU estimate. For a contribution, for example benefit across communities or institutions, or at the scale of a civilization. For a violation, harm that spreads across communities or institutions, or across a civilization, may raise the estimate of the total loss. | [§6.2 Shared Impact-Scaling Rules](#62-shared-impact-scaling-rules) |
@@ -248,7 +248,7 @@ Check this before you pick a Contribution Axis slot:
 
 The size of a harm (its LEQU total, from part 2 above) sets the slot. How the harm was caused does not, so each kind of conduct below is recorded on its own.
 
-This subsection is where Chapter Fifteen states the rule once. **Do not raise or lower the slot merely because an event or course of conduct is characterized by any of the following:**
+This subsection is where Chapter Ten states the rule once. **Do not raise or lower the slot merely because an event or course of conduct is characterized by any of the following:**
 
 - duty;
 - negligence;
@@ -262,7 +262,7 @@ This subsection is where Chapter Fifteen states the rule once. **Do not raise or
 - correctability; or
 - a preferred consequence.
 
-Conduct-character facts are recorded as separately traceable descriptors. They may control attribution, review intensity, safeguards, remedy, or a Chapter Twenty designation. They reach the slot only through verified consequences: when the conduct adds loss, that loss is counted once in the LEQU total, and the slot follows the total.
+Conduct-character facts are recorded as separately traceable descriptors. They may control attribution, review intensity, safeguards, remedy, or a Chapter Fourteen designation. They reach the slot only through verified consequences: when the conduct adds loss, that loss is counted once in the LEQU total, and the slot follows the total.
 
 **Conduct that adds loss, counted once in the size:**
 
@@ -285,7 +285,7 @@ Conduct-character facts are recorded as separately traceable descriptors. They m
 | **What you find** | **How to record it** |
 | --- | --- |
 | Diffusion (how responsibility is spread out: who played which causal role, held which authority or control, could foresee the harm, benefited, concealed it, or could have prevented it) | It is not part of **sentient scope**, and it does not permit blaming anyone for belonging to a group. |
-| Going along with a harm or failing to resist it | May support a finding of duty-based, aggravated, or collective-accountability character only when the link to that specific actor required by **Chapter Fourteen sections 6.1 and 6.3** is verified. |
+| Going along with a harm or failing to resist it | May support a finding of duty-based, aggravated, or collective-accountability character only when the link to that specific actor required by **Chapter Ten sections 6.1 and 6.3** is verified. |
 | A mistake made without knowledge, intent, recklessness, or negligence (an honest error) | Opens no actor-specific violation record. The harm is still recorded as an event and remedy is still owed. The root cause is analyzed under **Article XXV** (*Root Cause Analysis and Adaptive Response*), and where the conditions an institution or system gave made the error likely, the violation record opens on that institution or system as structural enablement. See **Chapter Fourteen section 6.3** and [Chapter Twelve §4.4.1 Negligence and Neglect](core_12.000_violation_consequences.md#441-negligence-and-neglect). |
 
 **Misaligned rewards:**
@@ -317,7 +317,7 @@ Conduct-character facts are recorded as separately traceable descriptors. They m
 
 These are the benefit-route descriptors and what each one measures in Question 2 (how good was it?). They are sorted into five domains, and the Violation catalog in [§5.2 Violation Route Descriptor Catalog and Measurement Roles](#52-violation-route-descriptor-catalog-and-measurement-roles) uses the same five domains in the same order. Their Question 3 role, safe delegation, is in [Chapter Eleven §3.2 Competency Bars and Clearances](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances).
 
-**Catalog completeness.** If an implementation shows several descriptors in one row or under one label, that row or label must map back to every descriptor that applies. This catalog sets only the descriptor names and what each one measures in Question 2. The Question 3 rules (attachment, remedies, locks, clearances, and other standing effects) are found only in Chapter Sixteen.
+**Catalog completeness.** If an implementation shows several descriptors in one row or under one label, that row or label must map back to every descriptor that applies. This catalog sets only the descriptor names and what each one measures in Question 2. The Question 3 rules (attachment, remedies, locks, clearances, and other standing effects) are found only in Chapter Ten.
 
 The descriptors, one table for each of the five domains (*Bodily Safety, Relationships, Care, and Agency*, *Repair, Property, and Resources*, *Knowledge, Education, Records, and Discovery*, *Systems and Constitutional Operation*, and *Ecology and Diligence*), are in [Subcore 10-C §3 Contribution Route Descriptors](subcore_10.030_route_descriptor_constitutional_input_tables.md#3-contribution-route-descriptors).
 
@@ -325,7 +325,7 @@ The descriptors, one table for each of the five domains (*Bodily Safety, Relatio
 
 These are the harm-route descriptors and what each one measures in Question 2 (how bad was it?). They are sorted into the same five domains in the same order as [§5.1 Contribution Route Descriptor Catalog and Measurement Roles](#51-contribution-route-descriptor-catalog-and-measurement-roles). For Question 3, the integration and attachment rules are in [Subcore 10-F §5 Descriptor Integration and Attachment Normalization](subcore_10.060_standing_integration.md#5-descriptor-integration-and-attachment-normalization), and prevention and lock design are in [Chapter Twelve §3.2 Prevention — General Standing Locks](core_12.000_violation_consequences.md#32-prevention--general-standing-locks) and [Chapter Twelve §4 Lock Design and Enforcement](core_12.000_violation_consequences.md#4-lock-design-and-enforcement).
 
-**Catalog completeness.** If an implementation shows several descriptors in one row or under one label, that row or label must map back to every descriptor that applies. This catalog sets only the descriptor names and what each one measures in Question 2. The Question 3 rules (attachment, remedies, locks, clearances, and other standing effects) are found only in Chapter Sixteen.
+**Catalog completeness.** If an implementation shows several descriptors in one row or under one label, that row or label must map back to every descriptor that applies. This catalog sets only the descriptor names and what each one measures in Question 2. The Question 3 rules (attachment, remedies, locks, clearances, and other standing effects) are found only in Chapter Ten.
 
 The descriptors, one table for each of the same five domains, are in [Subcore 10-C §4 Violation Route Descriptors](subcore_10.030_route_descriptor_constitutional_input_tables.md#4-violation-route-descriptors).
 
@@ -388,7 +388,7 @@ The dimensions are not a checklist requiring every form of scale. Explain which 
   - If independent estimates of one verified benefit or loss fall on both sides of a slot boundary, assign the lower slot unless the higher one is shown on the Standing Record by the applicable evidence standard. Record the spread of estimates and the reasons with the slot.
   - Contribution slots retain the applicable baseline and constitutional-alignment requirements; satisfying a numeric threshold cannot make externalized or constitutionally defeated output count as contribution.
 - **Character separation:** Keep applicable benefit-route, harm-route, conduct-quality, and conduct-character descriptors stacked in the Standing Record. Duty, negligence, deception, aggravation, coercion, violence, intent, or structural enablement may affect attribution, safeguards, or Question 3 consequences, but none raises or lowers the LEQU impact slot.
-- **Anti-Constitutional Misconduct Review boundary:** Verified Violation Axis loss may reach slot 7–9 by impact whether or not anti-constitutional misconduct is established. Chapter Twenty does not replace the impact assignment; it independently determines whether the corresponding ACMD attaches.
+- **Anti-Constitutional Misconduct Review boundary:** Verified Violation Axis loss may reach slot 7–9 by impact whether or not anti-constitutional misconduct is established. Chapter Fourteen does not replace the impact assignment; it independently determines whether the corresponding ACMD attaches.
 
 If a danger has not actually happened yet, record each of these separately:
 
@@ -436,7 +436,7 @@ The Chapter Four Rights Floor applies in full, with every Article the verified f
   - make every listed source apply to every Standing Record.
 - Contribution and violation are still measured separately.
 - **Article XXI** (*Justice After Verified Violation*) consequences stay outside Question 2.
-- Chapter Twenty designation review stays separate from the impact slot assigned here.
+- Chapter Fourteen designation review stays separate from the impact slot assigned here.
 
 ### 8. Unified Proportional LEQU Scale — Contribution and Violation Axes
 
@@ -545,7 +545,7 @@ Machine-readable fields for slot display (`sub_tier`, `sub_tier_display`, and re
 
 A reference method and worked slot assignments, including for sentients with weights, saved-state checkpoints, and no fixed mortality, live in [LEQU_CALIBRATION_REFERENCE.md](implementation/LEQU_CALIBRATION_REFERENCE.md). Those workings cannot replace the shared thresholds and proportional assignment rule in **section 8**, cannot assign a live record, and cannot decide who counts.
 
-Adopted implementation may publish LEQU estimates and keyed display labels. Those helpers must not replace the shared thresholds and proportional assignment rule in **section 8** or the Chapter Twenty designation safeguards, except through a **conforming document** change.
+Adopted implementation may publish LEQU estimates and keyed display labels. Those helpers must not replace the shared thresholds and proportional assignment rule in **section 8** or the Chapter Fourteen designation safeguards, except through a **conforming document** change.
 
 </details>
 
@@ -553,21 +553,21 @@ Adopted implementation may publish LEQU estimates and keyed display labels. Thos
 
 *In plain terms: for tasks sentients do again and again, such as a litter pickup or a creek-restoration work unit, an adopter may publish a default Question 2 measurement so each verified instance does not need its own estimate. The default is a floor, not a cap: work that verifiably does more is measured on what it did, and work that falls short is measured on what was verified. Defaults are updated on a published schedule, can be contested, and never create a duty to do the task.*
 
-Adopted implementation may publish **standard contribution measures**: a default Question 2 estimate — LEQU, scope, and benefit-route descriptors — for verified performance of a defined recurring task at a defined scope, such as a litter pickup along a stated segment, a waterway-restoration work unit, a land-recovery plot, or a maintenance rotation. Standards make routine stewardship legible and worth repeating under [Chapter Two §3.2](core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration) (*Recognition, Reinforcement, and Aspiration*) without a bespoke estimate for every instance. A standard is a measurement helper under **Chapter Fourteen section 6.5**, and:
+Adopted implementation may publish **standard contribution measures**: a default Question 2 estimate — LEQU, scope, and benefit-route descriptors — for verified performance of a defined recurring task at a defined scope, such as a litter pickup along a stated segment, a waterway-restoration work unit, a land-recovery plot, or a maintenance rotation. Standards make routine stewardship legible and worth repeating under [Chapter Two §3.2](core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration) (*Recognition, Reinforcement, and Aspiration*) without a bespoke estimate for every instance. A standard is a measurement helper under **Chapter Ten section 6.5**, and:
 
 - **How a standard applies**
-  - It applies only to work verified under Question 1 through **Chapter Fourteen section 7**; a standard never substitutes for verification that the task was done, to the stated scope, by the named subject.
+  - It applies only to work verified under Question 1 through **Chapter Ten section 7**; a standard never substitutes for verification that the task was done, to the stated scope, by the named subject.
   - It is a **floor for standard performance, not a cap**:
     - Work whose verified impact exceeds the standard's assumed impact — a better method, a more durable result, less externalized burden, a wider or deeper benefit — is measured on its actual verified impact under **section 6.2**, so the incentive to do the task better than the standard stays alive.
     - Work that verifiably falls short of the standard's assumed scope or durability is measured on what was verified, not on the label.
 - **How a standard is revised**
   - It is **revisited on a published cadence and re-baselined as efficiency improves**, so the standard tracks what the task now costs and produces rather than freezing yesterday's effort as today's credit.
-  - A revision applies going forward, and records already opened keep their measurement basis under **Chapter Fourteen section 6.4** unless that basis was wrong when recorded.
+  - A revision applies going forward, and records already opened keep their measurement basis under **Chapter Ten section 6.4** unless that basis was wrong when recorded.
   - A revision must be evidence-based, published, and contestable.
   - A revision may not be used to suppress recognition of a class of work, a community, or a group, or to ratchet a standard down faster than the verified efficiency gain it rests on ([Chapter Two §19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture)).
 - **Safeguards against misuse and over-reach**
   - A standard creates no quota, no duty to perform, and no competency bar under [Chapter Eleven §3.2 Competency Bars and Clearances](core_11.000_contribution_consequences.md#32-competency-bars-and-clearances); **Chapter Fourteen section 4.2** *Silence is the default* controls, and a sentient who never performs a standard task has no record for that reason.
-  - The office that sets or revises a standard holds the direction-and-policy seat under **Chapter Fourteen section 7.1** *Separation of duties*; it is not the office that verifies performance against the standard, and neither is a party whose recognition the standard measures.
+  - The office that sets or revises a standard holds the direction-and-policy seat under **Chapter Ten section 7.1** *Separation of duties*; it is not the office that verifies performance against the standard, and neither is a party whose recognition the standard measures.
 
 Standards may not override **section 8**, **Chapter Two**, or the **Chapter Four** Rights Floor. A reference method and a worked schedule live in [LEQU_CALIBRATION_REFERENCE.md](implementation/LEQU_CALIBRATION_REFERENCE.md) (*process support; cannot assign a live record*).
 
@@ -575,7 +575,7 @@ Standards may not override **section 8**, **Chapter Two**, or the **Chapter Four
 
 *In plain terms: two worked examples, **vignettes 8 and 9**, measure a verified contribution and a verified violation. They live with the other worked examples and add no rule.*
 
-The worked examples are in the [Chapters Fourteen–Twenty-Two application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes), which illustrate this chapter and own no rule:
+The worked examples are in the [Chapters Ten – Sixteen application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes), which illustrate this chapter and own no rule:
 
 - [Vignette 8: Riparian Cooperative Restoration (Contribution Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-8-riparian-cooperative-restoration-contribution-measurement): a verified contribution measured from Question 1's facts to the Question 2 outputs.
 - [Vignette 9: Watershed Steward Negligence with Concealed Test Results (Violation Measurement)](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-9-watershed-steward-negligence-with-concealed-test-results-violation-measurement): a verified violation measured the same way, with a linked contribution that does not offset it.

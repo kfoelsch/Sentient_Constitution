@@ -12,20 +12,20 @@
 > | Twelve | 4 | Chapter Eight §4 Whole-System Certification Evaluation | the eight institutional items, always |
 > | Twelve | 5 | Chapter Eight §5 Evaluations Where Implicated | pointer to Chapter Eight §5 |
 > | Twelve | 6 | Chapter Eight §6 Rights-Floor and Domain Evaluations | pointer to Chapter Eight §6 |
-> | Thirteen | 1 | Chapter Nine §1 Purpose, Role, and Scope | how forums supervise institutional certification, and the outcomes |
-> | Thirteen | 2 | Chapter Nine §3 Forum Process | four seats; forum roles and sequence; forums, certifiers, and record offices as institutions |
-> | Thirteen | 3 | Chapter Nine §4 Certification Outcomes | go-live for an Institution and for its Systems, certification conditions, and the other effects of an outcome; pointer for defects; remediation readiness; denial and revocation |
-> | Fourteen | 1 | Chapter Ten §1 Purpose, Role, and Scope | what happens after the outcome, for an Institution |
-> | Fourteen | 2 | Chapter Ten §3 System Certification Record | the Institutional Certification Record |
-> | Fourteen | 3 | Chapter Ten §4 Recertification and Reopening | monitoring; reopening triggers; provisional and full certification; non-evasion; the cascade from System certifications (§3.5); reopening its Systems on a governance violation (§3.6) |
-> | Fourteen | 4 | Chapter Ten §5 Challenging a Certification | the challenge path |
-> | Fourteen | 5 | Chapter Ten §6 Relationship to Standing | the standing bridge |
+> | Thirteen | 1 | Chapter Eight §1 Purpose, Role, and Scope | how forums supervise institutional certification, and the outcomes |
+> | Thirteen | 2 | Chapter Eight §3 Forum Process | four seats; forum roles and sequence; forums, certifiers, and record offices as institutions |
+> | Thirteen | 3 | Chapter Eight §4 Certification Outcomes | go-live for an Institution and for its Systems, certification conditions, and the other effects of an outcome; pointer for defects; remediation readiness; denial and revocation |
+> | Fourteen | 1 | Chapter Eight §1 Purpose, Role, and Scope | what happens after the outcome, for an Institution |
+> | Fourteen | 2 | Chapter Eight §3 System Certification Record | the Institutional Certification Record |
+> | Fourteen | 3 | Chapter Eight §4 Recertification and Reopening | monitoring; reopening triggers; provisional and full certification; non-evasion; the cascade from System certifications (§3.5); reopening its Systems on a governance violation (§3.6) |
+> | Fourteen | 4 | Chapter Eight §5 Challenging a Certification | the challenge path |
+> | Fourteen | 5 | Chapter Eight §6 Relationship to Standing | the standing bridge |
 >
-> - **Constitutional owner (joint with Chapters Eight to Ten, Twelve, and Thirteen):** forum-supervised alignment certification and related System Certification Records and Institutional Certification Records. Chapter Eleven adds the institutional subject. It adds no new forum family, no new seat, and no new outcome word.
-> - **Anti-relocation rule:** Chapter Eleven does not restate Chapter Eight evaluation mechanics for a System, the Chapter Five System Charter and Institutional Charter fields, the Chapter Six Four-Seat Requirement, the institutional duties in [corpus_institutions](corpus_institutions.md), Chapter Fifteen standing measurement, or Chapter Sixteen standing effects.
+> - **Constitutional owner (joint with Chapters Eight and Nine):** forum-supervised alignment certification and related System Certification Records and Institutional Certification Records. Chapter Nine adds the institutional subject. It adds no new forum family, no new seat, and no new outcome word.
+> - **Anti-relocation rule:** Chapter Nine does not restate Chapter Eight evaluation mechanics for a System, the Chapter Five System Charter and Institutional Charter fields, the Chapter Six Four-Seat Requirement, the institutional duties in [corpus_institutions](corpus_institutions.md), Chapter Ten standing measurement, or Chapter Ten standing effects.
 >
 > **Upstream:** [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters) Charters; [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) functional independence; [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) ([Subcore 8-D](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#subcore-8-d-system-alignment-certification--forum-process-and-outcomes) and [Subcore 8-F](subcore_08.060_system_alignment_certification_records_recertification.md#subcore-8-f-system-alignment-certification--records-recertification-challenge-and-standing) continue it); Chapter Twenty-Two forum supervision.
-> **Downstream:** Chapter Fourteen Standing Records and verified inputs; Chapter Sixteen standing effects.
+> **Downstream:** Chapter Ten Standing Records and verified inputs; Chapter Ten standing effects.
 
 </details>
 
@@ -86,9 +86,9 @@ Chapter Eleven is the constitutional owner of **the evaluation of institutional 
 
 <br>
 
-*In plain terms: Chapter Eight asks whether a system is aligned. Chapter Eleven asks the same of the institution that runs systems, or that holds authority without running one. An institution can be aligned while one of its systems is not, and the reverse, so a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.*
+*In plain terms: Chapter Eight asks whether a system is aligned. Chapter Nine asks the same of the institution that runs systems, or that holds authority without running one. An institution can be aligned while one of its systems is not, and the reverse, so a system's certification belongs to the system. An institution's certification cites those certifications and adds what only the institution can answer for. One system can appear under several institutions, or under none. Nothing here lets a certification stand in the way of starting an institution.*
 
-**Purpose:** Chapter Eleven sets the evaluation that decides whether an Institution can be certified as aligned. The Institution may run systems or may hold authority without running one. It is asked what only the Institution can answer for: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the independent checks on it can actually be used.
+**Purpose:** Chapter Nine sets the evaluation that decides whether an Institution can be certified as aligned. The Institution may run systems or may hold authority without running one. It is asked what only the Institution can answer for: whether it does what its Institutional Charter says, who answers for its authority, what it rewards in its own members, and whether the independent checks on it can actually be used.
 
 **Role:** Chapter Eleven extends [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) from a System to an Institution. Where it sits:
 
@@ -105,7 +105,7 @@ Chapter Eleven is the constitutional owner of **the evaluation of institutional 
 - the whole-institution evaluation (**section 4**); and
 - the evaluations that apply where implicated, and the Rights-Floor and domain evaluations (**section 5** and **section 6**).
 
-The chapter leaves System evaluations to Chapter Eight, forum process and outcomes to Chapter Twelve, and records and recertification to Chapter Thirteen.
+The chapter leaves System evaluations to Chapter Eight, forum process and outcomes to Chapter Nine, and records and recertification to Chapter Nine.
 
 <a id="2-why-institutional-alignment-certification-exists"></a>
 
@@ -118,8 +118,8 @@ Institutional alignment certification and System Alignment Certification are two
 flowchart TB
     S1["Chapter Eight (outside this chapter)<br/>System Certification Record<br/>System 1<br/><br/>Owned by the System; cited by<br/>link, never copied"]
     S2["Chapter Eight (outside this chapter)<br/>System Certification Record<br/>System 2<br/><br/>Owned by the System; cited by<br/>link, never copied"]
-    I1["Chapter Thirteen §3<br/>&nbsp;&nbsp;Institutional Certification Record&nbsp;&nbsp;<br/>Institution A<br/><br/>Cites Systems 1 and 2 by link<br/>and version; adds only what<br/>the Institution answers for"]
-    I2["Chapter Thirteen §3<br/>&nbsp;&nbsp;Institutional Certification Record&nbsp;&nbsp;<br/>Institution B<br/><br/>Cites System 2 by the same<br/>link; never copies or<br/>re-decides it"]
+    I1["Chapter Nine §3<br/>&nbsp;&nbsp;Institutional Certification Record&nbsp;&nbsp;<br/>Institution A<br/><br/>Cites Systems 1 and 2 by link<br/>and version; adds only what<br/>the Institution answers for"]
+    I2["Chapter Nine §3<br/>&nbsp;&nbsp;Institutional Certification Record&nbsp;&nbsp;<br/>Institution B<br/><br/>Cites System 2 by the same<br/>link; never copies or<br/>re-decides it"]
     S1 -.-> I1
     S2 -.-> I1
     S2 -.-> I2

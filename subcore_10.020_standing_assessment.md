@@ -11,7 +11,7 @@
 
 - Upstream:
   - [material stake](core_00.000_preamble.md#material-stake);
-  - [Chapter One §8 Key Practical Process Pipelines](core_01.000_constitutional_map.md#8-key-practical-process-pipelines) (*Chapters Eight through Twenty-Two chain*).
+  - [Chapter One §8 Key Practical Process Pipelines](core_01.000_constitutional_map.md#8-key-practical-process-pipelines) (*Chapters Eight through Sixteen chain*).
 - Upstream:
   - [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) (*Plain-Language Accessibility* stewardship reflected in section-level gloss);
   - [Chapter Two §16 — Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*);
@@ -49,18 +49,18 @@
 <br>
 
 <a id="chapter-ten-orientation"></a>
-Chapter Fourteen is the constitutional owner of **the verified factual record (Question 1)**.
+Chapter Ten is the constitutional owner of **the verified factual record (Question 1)**.
 
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: standing is worked out by answering three questions in order. This chapter sets out the three questions and answers the first: what happened? It writes down what happened and holds the Standing Record. Allegations, popularity, and dispute narratives are not answers to that question, and filing a case is not standing by itself. How good or how harmful it was is measured in Chapter Fifteen, on two separate tracks, never one net score. Do not infer facts from a desired rating, and do not choose a rating to justify a desired consequence.*
+*In plain terms: standing is worked out by answering three questions in order. This chapter sets out the three questions and answers the first: what happened? It writes down what happened and holds the Standing Record. Allegations, popularity, and dispute narratives are not answers to that question, and filing a case is not standing by itself. How good or how harmful it was is measured in Chapter Ten, on two separate tracks, never one net score. Do not infer facts from a desired rating, and do not choose a rating to justify a desired consequence.*
 
-**Purpose:** Chapter Fourteen opens the standing pipeline. It states the three questions (**section 3**) and answers Question 1: it establishes a bounded, contestable account of what happened, identifying the subject, the event or pattern, the time period, the verified facts, and the Standing Record's status before any rating or consequence is considered (**section 4**). Verified help and verified violations use separate Standing Records, so one cannot erase the other.
+**Purpose:** Chapter Ten opens the standing pipeline. It states the three questions (**section 3**) and answers Question 1: it establishes a bounded, contestable account of what happened, identifying the subject, the event or pattern, the time period, the verified facts, and the Standing Record's status before any rating or consequence is considered (**section 4**). Verified help and verified violations use separate Standing Records, so one cannot erase the other.
 
 **Role:** The chapter produces the verified Standing Record that the rest of the pipeline takes as fixed:
 
 - [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) measures it (Question 2), and Chapter Sixteen decides what follows (Question 3), with review limited to the anti-constitutional-misconduct designation in [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) for qualifying Violation Axis slot 7 to 9 findings.
-- Certification outcomes reach it only as verified inputs, through the gate in **Chapter Ten section 6** and **Chapter Thirteen section 6**.
+- Certification outcomes reach it only as verified inputs, through the gate in **Chapter Eight section 6** and **Chapter Nine section 6**.
 - [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties)'s four-seat rule is applied to Standing Records in **section 7**.
 
 **Chapter scope:** The chapter runs from [§3 The Three Questions](#3-the-three-questions) through [§8 Handling a Standing Record](#8-handling-a-standing-record). It covers:
@@ -144,7 +144,7 @@ These belong in adopted implementation text:
 - restorative-accountability measures; and
 - incentive design.
 
-Chapter Fifteen measurement does **not**, by itself, authorize force, detention, or another liberty restriction. Any such consequence must independently satisfy Chapter Four, **Article XXI** (*Justice After Verified Violation*), including its proportionality, least-restrictive, time-bounded, restitution, and restorative-accountability requirements.
+Chapter Ten measurement does **not**, by itself, authorize force, detention, or another liberty restriction. Any such consequence must independently satisfy Chapter Four, **Article XXI** (*Justice After Verified Violation*), including its proportionality, least-restrictive, time-bounded, restitution, and restorative-accountability requirements.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace · Definitions (O · M · A · C)</span></strong></summary>
@@ -212,12 +212,12 @@ flowchart TB
     O["§7 Open the record<br/><br/>A named record-opening authority approves.<br/>A separate record custodian makes the entry.<br/>§4.2 The subject is notified"]
     C["§4 What every record states<br/><br/>Subject, scope, and time span<br/>One bounded event or one defined pattern<br/>Verified and disputed facts<br/>Evidence, attribution, and challenge path<br/>Review, correction, and supersession status"]
     subgraph K["§4.1 Two kinds of record, never merged into a net score"]
-        Con["§4.1 Contribution Standing Record<br/><br/>Verified help<br/>Chapter Fifteen §4.2 Measured on the Contribution Axis"]
-        Vio["§4.1 Violation Standing Record<br/><br/>Verified harm, including accountability failures<br/>Chapter Fifteen §4.2 Measured on the Violation Axis"]
+        Con["§4.1 Contribution Standing Record<br/><br/>Verified help<br/>Chapter Ten §4.2 Measured on the Contribution Axis"]
+        Vio["§4.1 Violation Standing Record<br/><br/>Verified harm, including accountability failures<br/>Chapter Ten §4.2 Measured on the Violation Axis"]
         Con ~~~ Vio
     end
     L["§4.4 Linked records<br/><br/>One subject may hold several records over time.<br/>Related records cross-reference but never offset"]
-    X[["Chapter Sixteen — Question 3<br/><br/>Outside this chapter<br/><br/>Consequences are drawn from the records<br/>and never rewrite them"]]
+    X[["Chapter Ten — Question 3<br/><br/>Outside this chapter<br/><br/>Consequences are drawn from the records<br/>and never rewrite them"]]
     N["§4.3 Not triggers<br/><br/>An allegation, popularity,<br/>or protected dissent"]
     S(["§4.2 Silence is the default<br/><br/>No record. Having none is the ordinary state<br/>and says nothing about anyone"])
     E --> D
@@ -260,7 +260,7 @@ Question 1 uses a **contribution Standing Record** for verified help and a **vio
 - A Standing Record is not a freestanding reputation score, dignity rank, permanent status, general worth label, or merged scorecard.
   - Operational requirements appear in **section 6**.
 
-Any later standing effect belongs to Chapter Sixteen and must be traceable back to the relevant Standing Record or records without becoming part of the Standing Record itself.
+Any later standing effect belongs to Chapter Ten and must be traceable back to the relevant Standing Record or records without becoming part of the Standing Record itself.
 
 <a id="42-silence-is-the-default"></a>
 
@@ -321,7 +321,7 @@ Dissent or peaceful protest — including [protected nonviolent civil disobedien
 **The core rule:** verified **contribution Standing Records** and verified **violation Standing Records** are kept separately under **section 4.1**. Each contribution or violation finding must rest on its own supported facts in its own Standing Record. Analysis and supporting materials must keep the two record paths separately traceable. No single entry or linked set is a net score, blended score, or tradeoff.
 
 - **Violation Standing Records and standing locks:**
-  - Under Chapter Sixteen, applicable **standing locks** drawn from violation Standing Records may limit standing, restrict role eligibility, or affect remedy access while a verified violation remains unresolved.
+  - Under Chapter Ten, applicable **standing locks** drawn from violation Standing Records may limit standing, restrict role eligibility, or affect remedy access while a verified violation remains unresolved.
   - Standing locks must not wipe away verified positive contribution recorded in contribution Standing Records.
   - Unresolved verified violations are not time-discounted by mere passage of time.
   - Verified violations must not rewrite unrelated contribution Standing Records into a false negative reputation file.
@@ -682,7 +682,7 @@ Every opening, correction, expiry, or supersession of a Standing Record is autho
 - **Named in the System Charter or Institutional Charter:** Where the Standing Record concerns a system, institution, or business that holds a [Subcore 3-K — System Charter](subcore_03.075_band_continuity.md#system-charter) or [Subcore 3-K — Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter), that System Charter or Institutional Charter names the record-opening authority and record custodian for Standing Records concerning its chartered scope, or points to the published document that names them ([Chapter Five §6.6 Standing-Record Custody](core_05.000_charters.md#66-standing-record-custody); **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*)).
 - **Forums:** Forums act as record-opening authorities on the terms in **section 4.7**; a forum that verified a Standing Record does not hear the contest of that Standing Record, which goes to secondary review under [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) and **CF-16.420** (*Appeal, secondary review, and exhaustion pathways*).
 - **No authority named:** Where a System Charter or Institutional Charter reaches the Standing Record but leaves a required seat unnamed, [§7.7 When a System Charter or Institutional Charter Leaves a Seat Unnamed](#77-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed) applies. Where neither a System Charter, an Institutional Charter, nor a forum designation reaches the Standing Record, [§7.8 Fallback When No System Charter or Institutional Charter Reaches the Standing Record](#78-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record) applies, and the adopting document under [Chapter Twenty-Three](core_23.000_amendment_ratification.md) or the published rules of the body that operates the standing pipeline must then name one.
-- **Provisional entries:** An entry made without a named authority is marked **provisional**: it preserves evidence and notice under **section 4.2**, but it supplies no verified input under **section 6.1** and no Chapter Sixteen effect until a named authority confirms it, corrects it, or sets it aside.
+- **Provisional entries:** An entry made without a named authority is marked **provisional**: it preserves evidence and notice under **section 4.2**, but it supplies no verified input under **section 6.1** and no Chapter Ten effect until a named authority confirms it, corrects it, or sets it aside.
 
 <a id="73-record-custodian"></a>
 
@@ -776,7 +776,7 @@ flowchart TB
     I["§7.8 No lane map either<br/><br/>Independent verification under §7.4,<br/>or the relying body under §7.9<br/>for informal and small-scope records"]
     X[["Chapter Five §6.7<br/><br/>Outside this chapter<br/><br/>Gap log, response windows,<br/>and return of custody"]]
     E["§8 Standing Record entered and held<br/><br/>One office verified it; another enters and holds it.<br/>Every entry is attributed:<br/>it names who made it and<br/>under what authority.<br/>§8 governs what the holders do next:<br/>entries, challenges, and corrections"]
-    T[["Chapter Sixteen — Question 3<br/><br/>Outside this chapter<br/><br/>Effects on standing are drawn from the<br/>Standing Record and never rewrite it"]]
+    T[["Chapter Ten — Question 3<br/><br/>Outside this chapter<br/><br/>Effects on standing are drawn from the<br/>Standing Record and never rewrite it"]]
     S --> Q1
     Q1 -->|"Yes"| Q2
     Q1 -->|"No"| Q3
@@ -935,7 +935,7 @@ Who holds a Standing Record, and any dispute over it, is handled on these terms:
   - **An unnamed seat:** the record-opening authority, record custodian, or contest seat for the Standing Record has not been named, either because a System Charter or Institutional Charter leaves it unnamed ([§7.7 When a System Charter or Institutional Charter Leaves a Seat Unnamed](#77-when-a-system-charter-or-institutional-charter-leaves-a-seat-unnamed)) or because none reaches the Standing Record ([§7.8 Fallback When No System Charter or Institutional Charter Reaches the Standing Record](#78-fallback-when-no-system-charter-or-institutional-charter-reaches-the-standing-record)).
 - **Holding is not owning:** Holding a Standing Record gives no power over:
   - how Question 2 measurement is calibrated;
-  - the Chapter Sixteen effects on standing; or
+  - the Chapter Ten effects on standing; or
   - the subject of the Standing Record.
 - **Misuse is its own violation:** A custodian that does any of the following becomes the subject of a separate violation Standing Record under **section 5.2** (*Obstruction of Accountability*):
   - applies an effect;

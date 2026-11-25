@@ -18,13 +18,13 @@
 
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: this file holds the working rules behind Chapter Twenty-Eight: how a forum decides whether a change weakens a protection, and what does and does not count.*
+*In plain terms: this file holds the working rules behind Chapter Twenty-Two: how a forum decides whether a change weakens a protection, and what does and does not count.*
 
 **Purpose:** Subcore 22-A makes sure that the question whether a change weakens a protection is answered in public, by a forum, on stated rules, and never by the label a proposer or an affected body puts on the change.
 
 **Role:** Subcore 22-A is the constitutional owner of **how a non-regression determination is made**: how a change that helps one class and costs another is judged, who decides whether a change fails Substantive Test 1, when replacing a mechanism or correcting a protection is not a weakening, the protective steps available while a change is in doubt, and the work Chapter Twenty-Eight leaves to other chapters. [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) keeps the floor, the test, and the anti-evasion clause, and states each rule here in one line.
 
-**Out of scope:** This file does not add to what counts as a protection, which stays with Chapter Twenty-Eight §3 (*Non-Regression Floor*) and §4 (*Substantive Test 1 — Substantive Non-Regression Validity*), and it does not set the procedure for proposing or ratifying a change, which stays with Chapter Twenty-Nine.
+**Out of scope:** This file does not add to what counts as a protection, which stays with Chapter Twenty-Two §3 (*Non-Regression Floor*) and §4 (*Substantive Test 1 — Substantive Non-Regression Validity*), and it does not set the procedure for proposing or ratifying a change, which stays with Chapter Twenty-Three.
 
 <a id="2-why-non-regression-is-decided-in-public"></a>
 
@@ -32,7 +32,7 @@
 
 *In plain terms: a protection is only as safe as the rule for deciding whether it was weakened, so that question goes to an independent forum and never to the side that gains.*
 
-Protections are lost as easily through who decides as through what is written. If the body whose power is at issue, or the proposer of a change, could settle by its own say-so whether the change weakens a protection, the floor in Chapter Twenty-Eight would hold only as long as they wished. This file puts that question before an independent forum, on published rules, with the minority favored where classes are traded against each other, so that a label can never stand in for the effect.
+Protections are lost as easily through who decides as through what is written. If the body whose power is at issue, or the proposer of a change, could settle by its own say-so whether the change weakens a protection, the floor in Chapter Twenty-Two would hold only as long as they wished. This file puts that question before an independent forum, on published rules, with the minority favored where classes are traded against each other, so that a label can never stand in for the effect.
 
 **Grounded in:**
 
@@ -68,7 +68,7 @@ A change that strengthens a protection for one covered class while weakening it 
 
 Whether a change fails Substantive Test 1 is decided in public, by a forum, and not by the proposer:
 - **Decider:** Whether a proposed amendment fails Substantive Test 1 is decided by the **Constitutional Forum**, in a published determination with reasons under **Article XXVI-A** (*Bounded Interpretive Mandate and Public Reasons*);
-- **Timing:** The determination follows the amendment comment window in **Chapter Twenty-Nine §3.2** (*Proposal, Hearing, and Comment Window*);
+- **Timing:** The determination follows the amendment comment window in **Chapter Twenty-Three §3.2** (*Proposal, Hearing, and Comment Window*);
 - **Review:** The determination is open to independent review under **Article XXVI-B** (*Challenge Rights and Independent Review*); and
 - **Proposer's statement:** A proposer's own statement that a change is not a weakening is an input to that determination, not the determination.
 
@@ -107,25 +107,25 @@ While it is in doubt whether a change is valid, [Chapter Twenty-Two](core_22.000
 - [Subcore 3-M — Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation); and
 - remediation publication.
 
-<a id="8-work-chapter-twenty-eight-leaves-to-other-chapters"></a>
+<a id="8-work-chapter-twenty-two-leaves-to-other-chapters"></a>
 
-### 8. Work Chapter Twenty-Eight Leaves to Other Chapters
+### 8. Work Chapter Twenty-Two Leaves to Other Chapters
 
-*In plain terms: Chapter Twenty-Eight does not sort offenses, score standing, or set sanctions. Numeric standing measurement belongs to the Chapter Fifteen §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale, and Chapter Twenty only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.*
+*In plain terms: Chapter Twenty-Two does not sort offenses, score standing, or set sanctions. Numeric standing measurement belongs to the Chapter Ten §8 (*Unified Proportional LEQU Scale — Contribution and Violation Axes*) unified scale, and Chapter Fourteen only adds the corresponding anti-constitutional-misconduct designation to qualifying Violation Axis slots 7–9.*
 
 Under [Subcore 3-L — Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation), Chapter Twenty-Eight and this file must not absorb, restate, or relocate obligations owned by another constitutional owner layer, including:
 - **Final offense classification:**
-  - Chapter Fifteen for the Violation Axis slot; and
-  - Chapter Twenty for the anti-constitutional-misconduct designation;
-- **Sanction taxonomy:** Chapters Sixteen to Nineteen;
-- **Standing measurement:** Chapter Fifteen;
-- **Adjudicative workflow:** Chapter Twenty-Two; and
-- **Procedural amendment validity:** Chapter Twenty-Nine.
+  - Chapter Ten for the Violation Axis slot; and
+  - Chapter Fourteen for the anti-constitutional-misconduct designation;
+- **Sanction taxonomy:** Chapters Ten to Thirteen;
+- **Standing measurement:** Chapter Ten;
+- **Adjudicative workflow:** Chapter Sixteen; and
+- **Procedural amendment validity:** Chapter Twenty-Three.
 
-Slot-flavored or classification-flavored language in Chapter Twenty-Eight, in this file, or in **Chapter Twenty-Nine** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
+Slot-flavored or classification-flavored language in Chapter Twenty-Two, in this file, or in **Chapter Twenty-Three** operates only as a **trigger or referral heuristic** for routing to canonical owners and is **non-canonical** for final offense classification.
 
 Cross-layer drift is **non-compliant** under this section:
-- **What cross-layer drift is:** importing adjudicative workflow, sanction mechanics, or classification substance from another owner layer into **Chapter Twenty-Eight**, this file, or **Chapter Twenty-Nine**;
+- **What cross-layer drift is:** importing adjudicative workflow, sanction mechanics, or classification substance from another owner layer into **Chapter Twenty-Two**, this file, or **Chapter Twenty-Three**;
 - **Forms it takes:**
   - direct text;
   - reader-guidance prose elevated to operative effect; or
@@ -134,16 +134,16 @@ Cross-layer drift is **non-compliant** under this section:
 Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights), read with [Subcore 3-L — Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation).
 
 <details>
-<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Twenty-Eight layer routing index</span></strong></summary>
+<summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Twenty-Two layer routing index</span></strong></summary>
 
 > Canonical owner routing lives in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights). For editorial orientation, obligations outside the substantive change-validity owner layer include:
 > - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Fifteen** in [Subcore 10-D — subcore_10.040_standing_measurement.md](subcore_10.040_standing_measurement.md); **standing effects and integration** — **Chapter Sixteen** in [Subcore 10-F — subcore_10.060_standing_integration.md](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows);
 > - **numeric Contribution and Violation Axis slots** — the **Chapter Fifteen §8 unified scale**, with separate Standing Records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation (ACMD)** for a qualifying Violation Axis slot 7, 8, or 9 — **Chapter Twenty** in [core_14.000_misconduct_designation.md](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation);
-> - **forum-operational workflow and adjudicative procedure** — **Chapter Twenty-Two** and [corpus_forum.md](corpus_forum.md);
+> - **forum-operational workflow and adjudicative procedure** — **Chapter Sixteen** and [corpus_forum.md](corpus_forum.md);
 > - **procedural and custody validity** for amendment, ratification, and adoption — **Chapter Twenty-Nine** in [`core_23.000_amendment_ratification.md`](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity); and
 > - **detailed institutional procedure, staffing mechanics, and cross-implementation joint structural integration** for review execution — designated implementation text and owner chapters named in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
 >
-> Owner layers must not be read as relocating constitutional validity standards out of **Chapters Twenty-Eight and Twenty-Nine**, Contribution Axis / Violation Axis measurement authority out of the **Chapter Fifteen §8 unified scale**, or ACMD authority out of **Chapter Twenty**. Chapter Twenty does not assign the numeric slot. For a non-operative architecture walkthrough, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
+> Owner layers must not be read as relocating constitutional validity standards out of **Chapters Twenty-Two and Twenty-Three**, Contribution Axis / Violation Axis measurement authority out of the **Chapter Ten §8 unified scale**, or ACMD authority out of **Chapter Fourteen**. Chapter Fourteen does not assign the numeric slot. For a non-operative architecture walkthrough, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
 
 </details>
 

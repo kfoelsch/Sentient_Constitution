@@ -4239,7 +4239,7 @@ See **Anti-Segmentation Principle**.
 
 - Downstream: Principles: [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5); [20. Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (standing effects read through integrated interpretive framework).
 - Canonical owner:
-  - [Subcore 10-F §3 Chapter Fourteen Records Do Not Change](subcore_10.060_standing_integration.md#3-chapter-fourteen-records-do-not-change) (16.000 §3) through Chapter Nineteen (*immutable inputs, integration, descriptors, consequences, final standing effect, restoration, enforcement, and non-substitution*); read with
+  - [Subcore 10-F §3 Chapter Ten Records Do Not Change](subcore_10.060_standing_integration.md#3-chapter-ten-records-do-not-change) (16.000 §3) through Chapter Nineteen (*immutable inputs, integration, descriptors, consequences, final standing effect, restoration, enforcement, and non-substitution*); read with
   - [Subcore 10-B — Chapter Fourteen — §4 Standing Records](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (14.000 §4),
   - [Subcore 10-B §4 Standing Records as the unit of application](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (14.000 §4),
   - [Subcore 10-B §6 Standing Record operational requirements](subcore_10.020_standing_assessment.md#6-verification-and-record-requirements) (14.000 §6), and
@@ -4271,7 +4271,7 @@ See **Anti-Segmentation Principle**.
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) and [Timeliness measurement family](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness) — *Do reward structures, market power, and answerability keep duties real?* / *Are disputes, corrections, and repairs resolved while remedy still matters?*
 
     **Primary assessment:**
-    - Keep every **standing effect** traceable to [Subcore 10-B](subcore_10.020_standing_assessment.md) **§2** (*Question 1 — What Happened?*) through **§3** (*Verification and Record Requirements*) and [Subcore 10-F](subcore_10.060_standing_integration.md) **§1** (*Chapter Fourteen Records Do Not Change*) through **§11** (*Pattern applications and Question 3 routing*).
+    - Keep every **standing effect** traceable to [Subcore 10-B](subcore_10.020_standing_assessment.md) **§2** (*Question 1 — What Happened?*) through **§3** (*Verification and Record Requirements*) and [Subcore 10-F](subcore_10.060_standing_integration.md) **§1** (*Chapter Ten Records Do Not Change*) through **§11** (*Pattern applications and Question 3 routing*).
     - Evaluate it under [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability).
     - Identify the source contribution and violation Standing Records, subject, scope, record span, review status, separate axis inputs, required cross-references, verification basis, and actual consequence for each gated pathway.
     - Follow Chapter Sixteen **§3** (*Automatic Integration, Review, and Continuity*) decision order:

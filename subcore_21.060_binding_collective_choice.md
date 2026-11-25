@@ -25,7 +25,7 @@ Subcore 21-F is the constitutional owner of the **full rules for binding collect
 
 [Chapter Twenty-One §6.2 Records, Gates, and Method Neutrality](core_21.000_governance.md#62-records-gates-and-method-neutrality) and [Chapter Twenty-One §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) state each guarantee in one line; this file holds the full text.
 
-*In plain terms: Chapter Twenty-Seven says a binding vote must have clear rules, checkable results, and a fair process. This file gives the exact lists and steps.*
+*In plain terms: Chapter Twenty-One says a binding vote must have clear rules, checkable results, and a fair process. This file gives the exact lists and steps.*
 
 ### 2. Why Binding Collective Choice Is the Same for Every Adopter
 
@@ -95,7 +95,7 @@ Where material disagreement requires a **binding stakeholder choice** within an 
   - [Subcore 3-K — Stakeholder Emergency and Contingency](subcore_03.075_band_continuity.md#stakeholder-emergency-and-contingency);
   - [Subcore 3-K — Constitutional Emergency and Contingency](subcore_03.075_band_continuity.md#constitutional-emergency-and-contingency) where authorization of governing authority is implicated;
   - [Subcore 3-K — Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency); and
-  - **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*).
+  - **Chapter Seventeen §5.1** (*Emergency Measures and Continuation Burden*).
 
 <a id="5-charter-pointer-rule"></a>
 
@@ -119,16 +119,16 @@ A governing System Charter or Institutional Charter points to the rules of [§4 
 
 Binding collective choice is read with rules held elsewhere:
 
-**Within Chapter Twenty-Seven §6 Voting and Binding Collective Choice Protocols:** voting rules are read with these sources:
+**Within Chapter Twenty-One §6 Voting and Binding Collective Choice Protocols:** voting rules are read with these sources:
 
 - **Voting requirements:** [Chapter Twenty-One §6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility) and [Chapter Twenty-One §6.2 Records, Gates, and Method Neutrality](core_21.000_governance.md#62-records-gates-and-method-neutrality) state voting requirements together with **Chapter Four**, **Article X-B** (*Governance Participation and Voting Entitlement*).
 - **Technical implementation:** adopted governance, systems, and institutional implementation text provides applicable rules where **technical** implementation of voting touches classified systems, data handling, steward obligations, or designated institutional procedure.
 
 **Other chapters:** related matters are settled elsewhere:
 
-- **Adoption and amendment:** documents of **constitutional adoption** and amendment validity appear in **Chapter Twenty-Nine**.
-- **External law:** **supremacy relative to external law**, **stricter external protections**, and disputes involving external tribunals appear in **Chapter Thirty**.
-- **Non-regression:** **non-regression** substantive limits appear in **Chapter Twenty-Eight**.
+- **Adoption and amendment:** documents of **constitutional adoption** and amendment validity appear in **Chapter Twenty-Three**.
+- **External law:** **supremacy relative to external law**, **stricter external protections**, and disputes involving external tribunals appear in **Chapter Twenty-Four**.
+- **Non-regression:** **non-regression** substantive limits appear in **Chapter Twenty-Two**.
 
 ---
 

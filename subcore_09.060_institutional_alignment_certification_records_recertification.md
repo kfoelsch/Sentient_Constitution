@@ -16,13 +16,13 @@
 
 <br>
 
-Chapter Thirteen is the constitutional owner of **Institutional Certification Records, recertification, challenge, and standing consequences of institutional alignment certification**.
+Chapter Nine is the constitutional owner of **Institutional Certification Records, recertification, challenge, and standing consequences of institutional alignment certification**.
 
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: the outcome is kept on an Institutional Certification Record held by an office the institution does not control. The certification is re-checked on a schedule and when something material changes, and it can be challenged. It may feed standing, but it is a separate thing from standing.*
 
-**Purpose:** Chapter Thirteen states what happens after an institutional outcome:
+**Purpose:** Chapter Nine states what happens after an institutional outcome:
 
 - what the Institutional Certification Record must contain, how open it is, and how it is audited (**section 3**);
 - monitoring and recertification with reopening triggers, provisional and full certification, non-evasion, the cascade from System certifications, and the reopening of the Institution's Systems (**section 4**);
@@ -52,7 +52,7 @@ If one of an Institution's Systems loses its certification, the Institution answ
 The chapter leaves:
 
 - evaluation to [Subcore 9-B](subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation) and forum process and outcomes to Chapter Twelve;
-- System Certification Records and recertification to Chapter Ten; and
+- System Certification Records and recertification to Chapter Eight; and
 - standing measurement to [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it), and the later standing steps to [Subcore 10-F — Chapters Sixteen through Nineteen](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows).
 
 
@@ -406,7 +406,7 @@ When an Institution has a **governance violation**, review of each System in its
 
 This section is **Phase VI, Operate** for an Institution. It covers how affected parties challenge an Institutional Certification Record. [Subcore 8-F §5 Challenging a Certification](subcore_08.060_system_alignment_certification_records_recertification.md#5-challenging-a-certification), with its [Subcore 8-F §5.1 When the Path Opens](subcore_08.060_system_alignment_certification_records_recertification.md#51-when-the-path-opens) and [Subcore 8-F §5.2 Contestability Paths](subcore_08.060_system_alignment_certification_records_recertification.md#52-contestability-paths), applies to the Institutional Certification Record, reading Institution for system and the Institution's governing authority for operator. This section keeps what is specific to an Institution and summarizes the rest.
 
-In short, as Chapter Ten §5 Challenging a Certification states it:
+In short, as Chapter Eight §5 Challenging a Certification states it:
 
 - **Real ways to challenge:** the Institutional Certification Record must state the contestability paths of [§5.2 Contestability Paths](#52-contestability-paths), enough to contest its content, scope, classification assumptions, evidence reliance, supervisory integrity, outcome, and continued reliance. The paths must work and be easy to use, and not be ceremonial.
 - **What a challenge can do:** it must be able to reopen review, [Subcore 3-J — stay](subcore_03.070_band_accountability.md#stay) or limit reliance where material error or integrity risk is credibly shown, and route to the forum family with lawful jurisdiction over the challenged point.
@@ -423,7 +423,7 @@ In short, as Chapter Ten §5 Challenging a Certification states it:
 - **An Institution that already has stakeholders:** its path is already open, or it opens when its Institutional Certification Record opens. The rule reaches an Institution in an Adoption Transition window under [Article XXIX-A](core_04.040_rights_part_e.md#xxviii-a-existing-instantiations-adoption-transition-window) (*Phased Adoption and Rights-Floor Continuity*), and one in a [Subcore 3-K — later certification pass](subcore_03.075_band_continuity.md#certification-pass).
 - **An Institution with no stakeholders yet:** the published record challenge path opens when its first certification outcome is published, whatever the outcome. That lets a challenge be filed, and reliance stayed, from the start. Until then the Institutional Certification Record still names the path ([Subcore 9-D §3.2 Forum Roles and Sequence](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#32-forum-roles-and-sequence)), and the other paths in [§5.2 Contestability Paths](#52-contestability-paths) are available throughout review.
 
-These two bullets replace the bullets of Chapter Ten §5.1 When the path opens that depend on a System's go-live. The rest is as Chapter Ten §5.1 When the path opens states it. Stakeholders are the sentients the Institution materially affects or who materially rely on it, as found in evaluation and not as the Institution identifies them. The path stays open while the Institution has stakeholders, and an Institution that gains stakeholders after certification reopens review under [§4 Recertification and Reopening](#4-recertification-and-reopening). A claim that an Institution is aligned is unsupported while it has stakeholders but no open path for challenging the Institutional Certification Record.
+These two bullets replace the bullets of Chapter Eight §5.1 When the path opens that depend on a System's go-live. The rest is as Chapter Eight §5.1 When the path opens states it. Stakeholders are the sentients the Institution materially affects or who materially rely on it, as found in evaluation and not as the Institution identifies them. The path stays open while the Institution has stakeholders, and an Institution that gains stakeholders after certification reopens review under [§4 Recertification and Reopening](#4-recertification-and-reopening). A claim that an Institution is aligned is unsupported while it has stakeholders but no open path for challenging the Institutional Certification Record.
 
 <a id="52-contestability-paths"></a>
 
@@ -434,9 +434,9 @@ These two bullets replace the bullets of Chapter Ten §5.1 When the path opens t
 An Institutional Certification Record must name the four challenge paths of [Subcore 8-F §5.2 Contestability Paths](subcore_08.060_system_alignment_certification_records_recertification.md#52-contestability-paths), so anyone affected knows where to take a dispute. The paths apply Chapter Twenty-Two's [Dispute sequencing](core_16.000_forum.md#dispute-sequencing) to Institutional Certification Records. They are routes into the forums, not a new forum, and Chapter Twenty-Two still decides which forum has authority. [Subcore 8-D §3.3 Contestability Chain](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#33-contestability-chain) supplies the order for the institutional challenge paths. In short:
 
 - **Published record challenge path** — the ordinary first step for an ordinary dispute about the Institutional Certification Record. The Institutional Certification Record names the contest seat ([Subcore 9-D §3.1 Four Seats in an Institutional Certification](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#31-four-seats-in-an-institutional-certification)), which sits outside the Institution's own control line, with who receives the challenge, how to file it, and that windows under [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) run from receipt. An internal review by the Institution, or its own report or attestation, is not this path.
-- **Component forum path** — a challenge to one finding goes to the Chapter Twenty-Two forum family that has authority over it.
+- **Component forum path** — a challenge to one finding goes to the Chapter Sixteen forum family that has authority over it.
 - **Lead-integrity path** — a challenge to how the lead forum ran the process, such as capture, hidden information, reviewing its own work, or calling certification finished too soon, goes through Integrity routing, with a backup forum so the lead forum does not judge itself.
-- **Escalation path** — a dispute that needs to move to a different or a higher forum under Chapter Twenty-Two goes by transfer, a question for ruling, backup routing, or escalation between forum families. It applies where the main stakes lie in another forum family, constitutional validity is in question, a structural fix is needed, two families are deadlocked, or a forum would be judging itself.
+- **Escalation path** — a dispute that needs to move to a different or a higher forum under Chapter Sixteen goes by transfer, a question for ruling, backup routing, or escalation between forum families. It applies where the main stakes lie in another forum family, constitutional validity is in question, a structural fix is needed, two families are deadlocked, or a forum would be judging itself.
 
 Direct access to a forum path remains available when delay would materially endanger rights, evidence, independence, or practical restoration, and unfinished use of the published record challenge path may not stall it or use up [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*) windows.
 
@@ -466,7 +466,7 @@ Two points are specific to an Institution:
 
 <br>
 
-*In plain terms: certification can feed standing, but it is not standing. An Institutional Certification Record, good or bad and whatever the outcome, may supply verified facts to Chapter Fourteen, but only through a strict gate. Chapters Fourteen and Nineteen alone decide Standing Records and their effects.*
+*In plain terms: an institution's certification outcome is evidence about that institution's alignment. It neither creates nor changes a Standing Record; only verified facts accepted under Chapter Ten's input rules can enter standing assessment.*
 
 This section is **Phase VI, Operate** for an Institution. It is the standing bridge. [Subcore 8-F §6 Relationship to Standing](subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing) applies to an Institutional Certification Record, with the Institution as the actor to whom facts are attributed. This section keeps what is specific to an Institution and summarizes the rest.
 
@@ -479,7 +479,7 @@ For an Institution, verified standing input can come only from its [Institutiona
 - An Institutional Certification Record showing that the Institution's own conduct really lines up with the Rights Floor can supply verified **Flourishing**-side input, for a **contribution Standing Record** ([§6.4 Contribution Standing Record](#64-contribution-standing-record)).
 - An Institutional Certification Record documenting that the Institution was misclassified, hid defects, or operated in ways that defeat the Rights Floor can supply verified **Accountability**-side input, for a **violation Standing Record** ([§6.5 Violation Standing Record](#65-violation-standing-record)).
 
-This bridge covers only what the Institutional Certification Record can pass on. Any other verified input about an Institution, such as a standing finding made in a forum case, reaches standing by its own route under Chapter Fourteen. Chapter Fourteen decides which other inputs it accepts, and this bridge neither adds to them nor limits them.
+This bridge covers only what the Institutional Certification Record can pass on. Any other verified input about an Institution, such as a standing finding made in a forum case, reaches standing by its own route under Chapter Ten. Chapter Ten decides which other inputs it accepts, and this bridge neither adds to them nor limits them.
 
 **What the bridge carries, and what it does not:** it carries facts from the Institutional Certification Record and nothing else. An operation that passes any other information on to the standing process, whether the Institution runs it directly or through a System, is not covered by this bridge or by the Institutional Certification Record. It is its own [Subcore 3-K — System](subcore_03.075_band_continuity.md#system), because a System is identified by what it actually does and not by the label or the certification next to it, and it is evaluated, classified, and certified as a System on its own, as [Subcore 8-F §6.1 What a System Certification Record Can Pass on to Standing](subcore_08.060_system_alignment_certification_records_recertification.md#61-what-a-system-certification-record-can-pass-on-to-standing) states. What it passes on still has to clear the verified-input gate in [§6.3 Verified-Input Gate](#63-verified-input-gate).
 
@@ -501,7 +501,7 @@ An Institutional Certification Record may feed Chapter Ten standing only when it
 - Apply [Subcore 9-B §§3–4](subcore_09.020_institutional_alignment_certification_evaluation.md#3-institution-class-evaluation) to classify and evaluate the Institution as a whole. Separately, [Subcore 8-B §4.4](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) tests the data it handles and how those data are treated;
 - Include each [Subcore 9-B §5 or §6 evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#5-evaluations-where-implicated) whose stated trigger applies to the Institution's conduct;
 - Verify disclosure and auditability under §3.2 Transparency and Auditability of the Institutional Certification Record, then apply [Subcore 9-D §3 Forum Process](subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md#3-forum-process); and
-- Subcores 3-A to 3-C, and whichever Chapter Twenty-Two process applies.
+- the applicable Chapter Sixteen process, read alongside Subcores 3-A to 3-C.
 
 <a id="64-contribution-standing-record"></a>
 

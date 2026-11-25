@@ -260,7 +260,7 @@ Each **forum family** bears primary responsibility for incentive structures prim
 - proper forum routing;
 - a real merits decision by a lawfully constituted panel;
 - Chapter Ten impact-slot measurement;
-- any matching **Chapter Twenty** designation; and
+- any matching **Chapter Fourteen** designation; and
 - the justice constraints in **Article XXI** (*Justice After Verified Violation*).
 
 <a id="323-relation-to-implementation-files"></a>

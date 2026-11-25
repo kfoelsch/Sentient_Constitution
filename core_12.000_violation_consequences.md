@@ -4,7 +4,7 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Twelve** — violation consequences (§§3–4): remedy and correction; prevention through general standing locks, with voluntary public accountability expression where used and remedy parity; and lock design and enforcement, including special violation rules, special locks, and interim holds. The other three chapters are [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) — purpose and role, fixed inputs, the integration record and decision order, and descriptor and attachment normalization (Chapter Sixteen §§1–5); [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences) — contribution consequences (Chapter Seventeen §3); and [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) — final standing effect, restoration and reassessment, and enforcement realism (Chapter Nineteen §§3–5). Each chapter numbers its own sections.
 >
-> - **Constitutional owner (joint with Chapters Sixteen, Seventeen, and Nineteen):** what follows from a verified violation Standing Record. Chapter Eighteen decides remedy, correction, safeguards, and locks from that violation Standing Record alone; contribution is not an input to them, except that help given after the violation can count as restitution ([§3.1.2 Remedy](#312-remedy)).
+> - **Constitutional owner (joint with Chapters Ten, Eleven, and Thirteen):** what follows from a verified violation Standing Record. Chapter Twelve decides remedy, correction, safeguards, and locks from that violation Standing Record alone; contribution is not an input to them, except that help given after the violation can count as restitution ([§3.1.2 Remedy](#312-remedy)).
 > - **Anti-relocation rule:** Chapter Eighteen does not restate the decision order in Chapter Sixteen, the contribution rules in Chapter Seventeen, or the final standing effect in Chapter Nineteen. Anti-constitutional-misconduct designation criteria stay in [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation).
 
 </details>
@@ -36,7 +36,7 @@ Chapter Twelve is the constitutional owner of **violation consequences**: what r
 
 *In plain terms: something bad happened. This chapter says how to make a durable fix: remedy and correction first, then prevention locks, then voluntary public accountability expression where a restorative pathway uses it, and the remedy-parity rule that keeps the cheap half from outrunning the expensive half.*
 
-**Purpose:** Chapter Eighteen decides what follows from a verified violation. It states:
+**Purpose:** Chapter Twelve decides what follows from a verified violation. It states:
 
 - remedy and correction, general standing locks, voluntary public accountability expression, and remedy parity and lock preconditions (**section 3**); and
 - how a lock is designed and enforced: definition and attachment, proportionality and calibration, record visibility and escalation, special violation rules, special locks, and interim holds (**section 4**).
@@ -44,7 +44,7 @@ Chapter Twelve is the constitutional owner of **violation consequences**: what r
 **Role:** The chapter is the violation track of Question 3:
 
 - It decides from the violation Standing Record alone, and takes the verified violation record and the slot as fixed. It does not reopen [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) measurement.
-- It follows the decision order in **Chapter Sixteen section 4.4**. A lock controls: no contribution result opens a gated pathway a lock blocks.
+- It follows the decision order in **Chapter Ten section 4.4**. A lock controls: no contribution result opens a gated pathway a lock blocks.
 - It hands its result to the final standing effect in [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement).
 
 **Chapter scope:** The chapter covers:
@@ -88,7 +88,7 @@ Punishment alone leaves the harmed sentient unrepaired and the cause in place. T
 
 ### 3. Violation, Correction, and Prevention
 
-*In plain terms: Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Fourteen has verified a violation, remedy and correction come from that Standing Record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive gated pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified Standing Record.*
+*In plain terms: Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Ten has verified a violation, remedy and correction come from that Standing Record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive gated pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified Standing Record.*
 
 This section is the violation side of Question 3. It starts from a violation Standing Record that [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) has verified and [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) has measured, and it decides the violation-side consequences (remedy, correction, and prevention) from that violation Standing Record alone ([Subcore 10-F §4.4 Processing Order](subcore_10.060_standing_integration.md#44-processing-order), step 4). **Independence:** contribution, which [§3 Contribution Consequences](core_11.000_contribution_consequences.md#3-contribution-consequences) covers, is not an input to remedy, correction, safeguard, lock assignment, or voluntary public accountability expression. It may show capacity to perform an obligation, but it cannot change the obligation or the unresolved status that supports it. The one exception is help given after the violation, which can count as restitution under [§3.1.2 Remedy](#312-remedy); help given before the violation never does.
 
@@ -147,7 +147,7 @@ Remedy also follows these three rules:
   - Interim relief while a matter is pending stays under [Chapter Seventeen §4 Interim Protection](core_17.000_forum_families_escalation_timeliness_support.md#interim-protection).
 - **Later help as restitution:** Help given before the violation does not count toward remedy. Verified help given by the party who owes the remedy after the conduct the violation finding rests on (for conduct that continues, after it stops) counts as restitution to the extent it repairs, compensates, restores, or makes up the loss to the affected sentients and interests.
   - The integration record credits the help against the remedy owed and says how much of it the help covers.
-  - The credit reduces the remedy still owed. It does not change the violation finding, the Chapter Fifteen slot, the correction duties, or any lock.
+  - The credit reduces the remedy still owed. It does not change the violation finding, the Chapter Ten slot, the correction duties, or any lock.
   - Completed restitution, including credited help, has the effects stated in [Article XX-D](core_04.030_rights_part_d.md#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*) and [Chapter Thirteen §4 Restoration and Reassessment](core_13.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment).
 
 <a id="313-correction"></a>
@@ -380,7 +380,7 @@ The ratio is not a neutral operations metric.
 <a id="4-lock-design-and-enforcement"></a>
 ### 4. Lock Design and Enforcement
 
-*In plain terms: once a lock is needed under [§3.2 Prevention — General Standing Locks](#32-prevention--general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Fifteen measurement, and it does not let contribution offset a lock.*
+*In plain terms: once a lock is needed under [§3.2 Prevention — General Standing Locks](#32-prevention--general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Ten measurement, and it does not let contribution offset a lock.*
 
 Design a lock in this order:
 
@@ -686,7 +686,7 @@ This rule fills the attachment fields as follows:
     - preserve evidence;
     - freeze or separate disputed rewards where proportionate;
     - fix the broken incentives; and
-    - send qualifying Violation Axis slot 7–9 findings to Chapter Twenty.
+    - send qualifying Violation Axis slot 7–9 findings to Chapter Fourteen.
   - **Related locks:** any related lock must satisfy [§4.1 Definition and Attachment](#41-definition-and-attachment), including isolation from networks or environments that recreate the same exploitable gated pathway.
 
 <a id="443-duty-to-resist"></a>
@@ -702,7 +702,7 @@ This rule applies [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_ca
 - **Risk:** continuation of unlawful or unconstitutional harm through obedience, chain-of-command, or contractual cover.
 - **Protected subjects or interests:** those who would be harmed by compliance, and the integrity of lawful gated pathways.
 - **Corrective conditions:** the same for human operators and AI stewards under [Chapter Two §17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard); this rule is not an AI-only test.
-- **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§4.1 Definition and Attachment](#41-definition-and-attachment); contribution cannot excuse the underlying instruction conduct. Verified failures record on the same Chapter Fifteen Contribution and Violation axes for both kinds of steward.
+- **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§4.1 Definition and Attachment](#41-definition-and-attachment); contribution cannot excuse the underlying instruction conduct. Verified failures record on the same Chapter Ten Contribution and Violation axes for both kinds of steward.
 
 <a id="444-collective-accountability"></a>
 ##### 4.4.4 Collective Accountability
@@ -852,7 +852,7 @@ This subsection has eight locks:
 
 The full terms are in [Subcore 12-A — §3.1 Forum-Service Standing Lock](subcore_12.010_special_locks.md#31-forum-service-standing-lock). Its guarantees are:
 
-- **Trigger:** a verified failure to recuse where recusal was required and impartiality was materially compromised, whether or not the violation finding also reaches a Chapter Twenty designation track.
+- **Trigger:** a verified failure to recuse where recusal was required and impartiality was materially compromised, whether or not the violation finding also reaches a Chapter Fourteen designation track.
 - **What it closes:** merits, appellate, review, emergency, certifier, contested panel-coordination, reserve, substitute, and materially supporting forum roles, across forum families.
 - **How it lifts:** only on a complete independent restoration finding, made outside the compromised forum pathway, that recurrence risk and public-trust injury have been materially reduced after disclosure, correction of affected matters, repair, and recusal requalification. Expertise scarcity, staffing shortage, prior service, reputation, apology, or contribution cannot lift it by itself.
 
@@ -903,7 +903,7 @@ The full terms are in [Subcore 12-A — §3.4 Perjury Standing Lock](subcore_12.
 
 The full terms are in [Subcore 12-A — §3.5 Anti-Constitutional Trust Lock](subcore_12.010_special_locks.md#35-anti-constitutional-trust-lock). Its guarantees are:
 
-- **Trigger:** only a final Chapter Twenty designation.
+- **Trigger:** only a final Chapter Fourteen designation.
 - **What it closes:** direct or indirect influence over Class A, B, and C systems, Constitutional Forums, alignment certification, critical-system stewardship, and the audit, evidence, safety, enforcement, restitution, and protected-reporting pathways, and authority affecting those functions, with look-through to shells, nominees, and other means of functional control.
 - **What it leaves open:** the protections of [§4.1.4 What a Lock Does Not Itself Restrict](#414-what-a-lock-does-not-itself-restrict) in full; it never cuts off the challenge, review, appeal, and remedy pathways the Rights-Floor minimums require.
 - **Restoration is exceptional:** it requires verified restitution, structural correction, disclosure, anti-recurrence safeguards, monitoring, and a published finding of independent review. After a Grave or Catastrophic designation, covered-system and forum influence stays barred unless an independent reviewer publishes specific findings that reinstatement is necessary, proportionate, non-capturing, and safer than continued exclusion.
@@ -957,7 +957,7 @@ The full terms are in [Subcore 12-A — §3.8 Financial Authority Standing Lock]
 An [Interim Hold](subcore_03.070_band_accountability.md#interim-hold) under [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway) is interim protection and not a lock. This subsection keeps the two apart:
 
 - **Different trigger:** A hold rests on the Interim Hold grounds in [Chapter Seventeen §4 Interim Hold on a Named Sentient's Pathway](core_17.000_forum_families_escalation_timeliness_support.md#interim-hold-on-a-named-sentients-pathway). A lock attaches only to a verified violation finding ([§4.1 Definition and Attachment](#41-definition-and-attachment)).
-- **No standing effect:** A hold is not a verified input, a [Standing Record](subcore_03.070_band_accountability.md#standing-record), or a standing effect. It supplies nothing to Chapter Fourteen, and its lapse or its being set aside supplies nothing either.
+- **No standing effect:** A hold is not a verified input, a [Standing Record](subcore_03.070_band_accountability.md#standing-record), or a standing effect. It supplies nothing to Chapter Ten, and its lapse or its being set aside supplies nothing either.
 - **Never converted:** A hold is not turned into a lock by passing time, by an extension, or by the merits matter being opened. If a violation finding is verified, the lock is designed and justified on its own integration record from the finding.
 - **Time counts:** Where a lock with a time bound later attaches on the same gated pathway for the same facts, time already spent under a hold on that gated pathway counts toward that bound. It does not count toward the corrective conditions, which are met by what is done.
 - **No substitute for a lock:** Once the hold's bound and its single extension have passed ([Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline)), the gated pathway reopens unless a verified violation finding supports a lock.

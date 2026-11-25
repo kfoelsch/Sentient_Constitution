@@ -2766,7 +2766,7 @@ this section asks what verified contribution may do. It may support recognition 
 
 ##### 3.1 Recency and Currentness
 
-how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Fifteen measurement, and time alone does not settle an unresolved violation.
+how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Ten measurement, and time alone does not settle an unresolved violation.
 
 [Source](../../core_11.000_contribution_consequences.md#31-recency-and-currentness)
 
@@ -2794,7 +2794,7 @@ when harm is verified, the first job is to repair it and stop it happening again
 
 #### 3. Violation, Correction, and Prevention
 
-Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Fourteen has verified a violation, remedy and correction come from that Standing Record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive gated pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified Standing Record.
+Something bad happened. How do we create a durable fix? This section answers in order — **remedy and correction**, then **prevention** locks, then **voluntary public accountability expression** where a restorative pathway uses it, and finally the **remedy-parity** rule that keeps the cheap half of this section from outrunning the expensive half. Once Chapter Ten has verified a violation, remedy and correction come from that Standing Record alone — fix what was broken, and change what caused it — then prevention locks hold sensitive gated pathways closed until those conditions are met. Public acknowledgment or apology, if used, is supplementary and never substitutes for repair or locks. Past contribution does not soften the duty, cancel a lock, or substitute for verified repair. Forums supervise implementation and challenge; they do not invent a different consequence from the verified Standing Record.
 
 [Source](../../core_12.000_violation_consequences.md#3-violation-correction-and-prevention)
 
@@ -2902,7 +2902,7 @@ a widening gap between locks issued and remedies delivered is a warning sign, no
 
 #### 4. Lock Design and Enforcement
 
-once a lock is needed under [§3.2 Prevention — General Standing Locks](../../core_12.000_violation_consequences.md#32-prevention--general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Fifteen measurement, and it does not let contribution offset a lock.
+once a lock is needed under [§3.2 Prevention — General Standing Locks](../../core_12.000_violation_consequences.md#32-prevention--general-standing-locks), this section says how to design and enforce it—how to specify the lock, calibrate it, keep it visible and reviewable, which special locks are mandatory, and which special violation rules change scope or process. It does not reopen Chapter Ten measurement, and it does not let contribution offset a lock.
 
 [Source](../../core_12.000_violation_consequences.md#4-lock-design-and-enforcement)
 
@@ -3180,7 +3180,7 @@ Source file: [`core_14.000_misconduct_designation.md`](../../core_14.000_miscond
 
 #### 1. Purpose, Role, and Scope
 
-this chapter is the last and narrowest gate in the standing pipeline. It opens only for a violation that Chapter Fifteen has already placed in Violation Axis slot 7, 8, or 9, and it asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? It never re-finds the facts and never changes the slot. Because anti-constitutional misconduct is a heightened risk to sentients, a final anti-constitutional-misconduct designation brings extra steps, and they are add-ons to the ordinary violation process, not changes to it.
+this chapter is the last and narrowest gate in the standing pipeline. It opens only for a violation that Chapter Ten has already placed in Violation Axis slot 7, 8, or 9, and it asks one more question: did the same conduct also capture or hollow out constitutional duties at scale? It never re-finds the facts and never changes the slot. Because anti-constitutional misconduct is a heightened risk to sentients, a final anti-constitutional-misconduct designation brings extra steps, and they are add-ons to the ordinary violation process, not changes to it.
 
 [Source](../../core_14.000_misconduct_designation.md#1-purpose-role-and-scope)
 
@@ -3192,7 +3192,7 @@ some of the gravest harm is not to one sentient but to the protections everyone 
 
 #### 3. How Designation Decisions Work — Continuity and Tetrad-Capture Frame
 
-this chapter looks for one thing, tetrad capture, and only in a violation that Chapter Fifteen has already placed in slot 7, 8, or 9. The facts and the slot stay as they were found, only this chapter can decide whether a final ACMD attaches, and the order of work is in section 4.
+this chapter looks for one thing, tetrad capture, and only in a violation that Chapter Ten has already placed in slot 7, 8, or 9. The facts and the slot stay as they were found, only this chapter can decide whether a final ACMD attaches, and the order of work is in section 4.
 
 [Source](../../core_14.000_misconduct_designation.md#3-how-designation-decisions-work--continuity-and-tetrad-capture-frame)
 
@@ -3210,13 +3210,13 @@ this chapter looks for one thing, tetrad capture, and only in a violation that C
 
 #### 4. Decision Sequence
 
-this chapter works in one sequence. First confirm the verified Standing Record from Chapter Fourteen and the Chapter Fifteen impact slot, then define the incident, apply the anti-constitutional-misconduct designation criteria, and apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.
+this chapter works in one sequence. First confirm the verified Standing Record from Chapter Ten and the Chapter Ten impact slot, then define the incident, apply the anti-constitutional-misconduct designation criteria, and apply process safeguards. The named patterns later in the chapter are applications of that sequence, not separate routes around it.
 
 [Source](../../core_14.000_misconduct_designation.md#4-decision-sequence)
 
 #### 5. Criteria Set (for Anti-Constitutional-Misconduct Designation) — Accountability at Constitutional Scale
 
-evaluators first accept the Chapter Fifteen impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. When only the rollback or real-world-blockage check is met, honest failure is not enough: the Standing Record must also show purpose, knowledge, reckless disregard, or a refusal to correct when correction was possible. Dissent, protest, journalism, and whistleblowing are not anti-constitutional misconduct. They may not split one scheme to game the anti-constitutional-misconduct designation.
+evaluators first accept the Chapter Ten impact slot, then build one coherent picture of what happened: one episode, one sustained campaign, or another unified incident. They use six checks—intent, records, rollback, real-world blockage, forcible takeover, and practical nullification of remedies—to decide whether the anti-constitutional designation applies. A genuine drafting mistake that is fixed promptly may defeat designation in some change or record cases, but it does not excuse a real coup path. When only the rollback or real-world-blockage check is met, honest failure is not enough: the Standing Record must also show purpose, knowledge, reckless disregard, or a refusal to correct when correction was possible. Dissent, protest, journalism, and whistleblowing are not anti-constitutional misconduct. They may not split one scheme to game the anti-constitutional-misconduct designation.
 
 [Source](../../core_14.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale)
 
@@ -3252,31 +3252,31 @@ evaluators first accept the Chapter Fifteen impact slot, then build one coherent
 
 #### 6. Violation Axis Slot 7–9 Anti-Constitutional Designation
 
-Chapter Fifteen has already scored how serious the harm is. This section only asks a further question: did the same incident also attack the Constitution’s validity, day-to-day operation, Rights Floors, or the Tetrad badly enough to count as anti-constitutional misconduct?
+Chapter Ten has already scored how serious the harm is. This section only asks a further question: did the same incident also attack the Constitution’s validity, day-to-day operation, Rights Floors, or the Tetrad badly enough to count as anti-constitutional misconduct?
 
 [Source](../../core_14.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation)
 
 #### 7. Due-Process Safeguards, Remedy, and Prevention
 
-nobody receives a final anti-constitutional designation without process. There has to be independent review, a real chance to respond, and a reasoned public record. After final anti-constitutional-misconduct designation, this section specializes Chapter Sixteen's durable-fix grammar — remedy and correction, prevention locks, and voluntary public accountability expression where used. They run in parallel from a final ACMD; the order of the text is only the order of presentation.
+nobody receives a final anti-constitutional designation without process. There has to be independent review, a real chance to respond, and a reasoned public record. After final anti-constitutional-misconduct designation, this section specializes Chapter Ten's durable-fix grammar — remedy and correction, prevention locks, and voluntary public accountability expression where used. They run in parallel from a final ACMD; the order of the text is only the order of presentation.
 
 [Source](../../core_14.000_misconduct_designation.md#7-due-process-safeguards-remedy-and-prevention)
 
 ##### 7.1 Remedy and Correction (Anti-Constitutional)
 
-a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. Chapter Eighteen §3.1 Remedy and Correction sets the rules for every verified violation, and they apply here in full. This subsection adds only what a final ACMD needs on top: a remedy record that covers the whole incident, correction of tainted governance, and one reviewable package.
+a final anti-constitutional misconduct finding must not end with a label, a prison order, a standing lock, or institutional punishment while the affected parties are left unrepaired. Chapter Twelve §3.1 Remedy and Correction sets the rules for every verified violation, and they apply here in full. This subsection adds only what a final ACMD needs on top: a remedy record that covers the whole incident, correction of tainted governance, and one reviewable package.
 
 [Source](../../core_14.000_misconduct_designation.md#71-remedy-and-correction-anti-constitutional)
 
 ##### 7.2 Prevention — Anti-Constitutional Locks
 
-after final anti-constitutional-misconduct designation, the Anti-Constitutional Trust Lock in Chapter Eighteen §4.5 Special Locks closes capture-linked gated pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Eighteen lock format and states the ACM imprisonment specialization.
+after final anti-constitutional-misconduct designation, the Anti-Constitutional Trust Lock in Chapter Twelve §4.5 Special Locks closes capture-linked gated pathways, and imprisonment applies when liberty restriction is necessary to stop further constitutional harm — especially for insurgency-like actors who refuse rehabilitation or keep repeating the conduct. This section does not rewrite the Trust Lock; it requires the Chapter Twelve lock format and states the ACM imprisonment specialization.
 
 [Source](../../core_14.000_misconduct_designation.md#72-prevention--anti-constitutional-locks)
 
 ##### 7.3 Voluntary Public Accountability Expression (Anti-Constitutional)
 
-a public apology in an anti-constitutional misconduct case must meet the general voluntariness and authenticity rules of Chapter Eighteen §3.3 Voluntary Public Accountability Expression, and anti-constitutional-misconduct designation-linked consequences apply when a fake or abusive apology is used to dodge repair or locks.
+a public apology in an anti-constitutional misconduct case must meet the general voluntariness and authenticity rules of Chapter Twelve §3.3 Voluntary Public Accountability Expression, and anti-constitutional-misconduct designation-linked consequences apply when a fake or abusive apology is used to dodge repair or locks.
 
 [Source](../../core_14.000_misconduct_designation.md#73-voluntary-public-accountability-expression-anti-constitutional)
 
@@ -3298,7 +3298,7 @@ attacks on constitutional protection tend to repeat in recognizable forms. This 
 
 #### 3. Pattern Applications and Criteria Routing — Participation and Accountability-Pathway Integrity
 
-the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. “Participation and accountability-pathway integrity” names the **attack targets** — contest, standing, audit, forum, and related accountability pathways — not a catalog of new Chapter Sixteen lock types. These examples do not create new criteria or new special locks; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above. Locks stay in Chapter Sixteen.
+the rest of the chapter applies the same decision model to recurring anti-constitutional patterns. “Participation and accountability-pathway integrity” names the **attack targets** — contest, standing, audit, forum, and related accountability pathways — not a catalog of new Chapter Ten lock types. These examples do not create new criteria or new special locks; they show how named conduct routes through the criteria, process safeguards, and chapter boundaries already stated above. Locks stay in Chapter Ten.
 
 [Source](../../core_15.000_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity)
 
@@ -3580,7 +3580,7 @@ cutting off or wrecking infrastructure can be a constitutional attack when the r
 
 #### 8. Obstruction of Accountability: Criteria Interaction
 
-attacking the machinery that makes answerability real — evidence, verification, forums, Standing Records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapters Fourteen and Fifteen.
+attacking the machinery that makes answerability real — evidence, verification, forums, Standing Records, remedy windows, or contest paths — is not a seventh designation criterion. When the verified impact already sits in a top slot, evaluators still run the same six checks. Ordinary obstruction below those slots stays in Chapter Ten.
 
 [Source](../../core_15.000_misconduct_pattern_applications.md#8-obstruction-of-accountability-criteria-interaction)
 
@@ -3590,7 +3590,7 @@ Source file: [`core_16.000_forum.md`](../../core_16.000_forum.md) · 6/34 headin
 
 #### 1. Purpose, Role, and Scope
 
-this section assigns constitutional **participation** and **oversight** through forum families that **supervise** two tracks — **System Alignment Certification** (Chapter Eight certification and review) and the **standing pipeline** (Chapters Fourteen–Twenty-One disputes and record effects) — then states accountability requirements for published threshold placement. Ordinary disputes inside already-authorized systems use the published Stakeholder System Participation challenge path first; this chapter takes over when that path is still contested, missing, captured, or cannot grant relief. Detailed hearing rules live elsewhere and may not quietly shrink what this chapter guarantees.
+this section assigns constitutional **participation** and **oversight** through forum families that **supervise** two tracks — **System Alignment Certification** (Chapter Eight certification and review) and the **standing pipeline** (Chapters Ten–Fourteen disputes and record effects) — then states accountability requirements for published threshold placement. Ordinary disputes inside already-authorized systems use the published Stakeholder System Participation challenge path first; this chapter takes over when that path is still contested, missing, captured, or cannot grant relief. Detailed hearing rules live elsewhere and may not quietly shrink what this chapter guarantees.
 
 [Source](../../core_16.000_forum.md#1-purpose-role-and-scope)
 
@@ -3792,7 +3792,7 @@ Source file: [`core_17.000_forum_families_escalation_timeliness_support.md`](../
 
 #### 1. Purpose, Role, and Scope
 
-Chapter Twenty-Two says how a dispute is supervised, placed, opened, and moved. This chapter says who the forums are, how a matter climbs from one forum to another, how fast it must be resolved, and what support the forums get.
+Chapter Sixteen says how a dispute is supervised, placed, opened, and moved. This chapter says who the forums are, how a matter climbs from one forum to another, how fast it must be resolved, and what support the forums get.
 
 [Source](../../core_17.000_forum_families_escalation_timeliness_support.md#1-purpose-role-and-scope)
 
@@ -3804,7 +3804,7 @@ a forum is only useful if it has the right expertise, can pass hard questions up
 
 #### 3. Forum Family Definitions — Accountability through Adjudication
 
-adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **Chapter Twenty-Two section 4**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (**section 3.5**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **Chapter Twenty-Two section 4** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§3.2** (*Technical Forum Domains*) and **§3.7** (*Provisional Implementation Operational Law*)); Constitutional disposition is in **§3.6** (*Constitutional Forums*); certification when stakes merge is in **section 4**.
+adopters keep six genuinely different forum tracks — sentient, technical, institutional, environment, integrity, and constitutional — in the same order as the default-venue table in **Chapter Sixteen section 4**. **Integrity** forums map interlocking process and system failure through **alignment** rulings and **coordinate** referred component issues on **one** lead record (**section 3.5**). Each family's **first-touch desk** (**intake triage body**) and mixed-stakes safeguards are in **Chapter Sixteen section 4** — those desks are **not** a separate top-level forum for final merits. Expert panels and other **internal chambers** sit **inside** these families — not as a dodge around primary-stakes routing. Shared standards, anti-displacement, and provisional operational-law issuance live in this section (**§3.2** (*Technical Forum Domains*) and **§3.7** (*Provisional Implementation Operational Law*)); Constitutional disposition is in **§3.6** (*Constitutional Forums*); certification when stakes merge is in **section 4**.
 
 [Source](../../core_17.000_forum_families_escalation_timeliness_support.md#3-forum-family-definitions--accountability-through-adjudication)
 
@@ -3916,11 +3916,11 @@ when the case outgrows the first desk, these rules say how to escalate — for e
 
 [Source](../../core_17.000_forum_families_escalation_timeliness_support.md#referral-distinguished-from-expansion)
 
-##### Chapter Twenty Designation and Independent Review
+##### Chapter Ten Designation and Independent Review
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_17.000_forum_families_escalation_timeliness_support.md#chapter-twenty-designation-and-independent-review)
+[Source](../../core_17.000_forum_families_escalation_timeliness_support.md#chapter-ten-designation-and-independent-review)
 
 #### 5. Timely Resolution, Materiality Tiers, and Anti-Delay Discipline
 
@@ -4046,7 +4046,7 @@ an outcome is carried out exactly as decided. Carrying it out harder, wider, or 
 
 #### 8. Routing to Special Enforcement
 
-freezing or seizing money or property, anything that could turn violent, and fixing the root causes of enforcement failure need rules of their own. They sit in Chapter Twenty-Six. This section says which matters go there.
+freezing or seizing money or property, anything that could turn violent, and fixing the root causes of enforcement failure need rules of their own. They sit in Chapter Twenty. This section says which matters go there.
 
 [Source](../../core_19.000_enforcement.md#8-routing-to-special-enforcement)
 
@@ -4322,7 +4322,7 @@ weakening **Safety (Constitutional Constraint)**, **Truth (Constitutional Constr
 
 #### 4. Substantive Test 1 — Substantive Non-Regression Validity
 
-Substantive Test 1 is the checklist — if a proposal would gut Chapter Two constraints, Subcores 3-A to 3-C integrity, Chapter Four Rights Floors, or Chapter Twenty-Seven legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion. The Constitutional Forum decides whether a proposal fails it, in public, with reasons, after everyone has had time to respond. A change that fixes a real error in a protection, and keeps its core, is a correction and not a weakening. Replacing an office or body is not a weakening if the protection it served stays at least as strong.
+Substantive Test 1 is the checklist — if a proposal would gut Chapter Two constraints, Subcores 3-A to 3-C integrity, Chapter Four Rights Floors, or Chapter Twenty-One legitimacy, it fails, including when the damage is done through procedure, evidence rules, or re-tagging rather than a single blunt deletion. The Constitutional Forum decides whether a proposal fails it, in public, with reasons, after everyone has had time to respond. A change that fixes a real error in a protection, and keeps its core, is a correction and not a weakening. Replacing an office or body is not a weakening if the protection it served stays at least as strong.
 
 [Source](../../core_22.000_non_regression.md#4-substantive-test-1--substantive-non-regression-validity)
 
@@ -4564,7 +4564,7 @@ this Constitution must be able to grow, and it must sit alongside other law with
 
 #### 3. Additive Expansion Permitted
 
-forward is fine — new rights, stronger safeguards, and broader inclusion are welcome when they genuinely increase protection and stay consistent with the rest of this **Constitution**; the guardrail is Chapter Twenty-Eight, not a ban on improvement.
+forward is fine — new rights, stronger safeguards, and broader inclusion are welcome when they genuinely increase protection and stay consistent with the rest of this **Constitution**; the guardrail is Chapter Twenty-Two, not a ban on improvement.
 
 [Source](../../core_24.000_expansion_supremacy.md#3-additive-expansion-permitted)
 
@@ -4582,7 +4582,7 @@ For adopters, this Constitution and its definitions take precedence over ordinar
 
 ##### 5.1 Internal Hierarchy for Adopters
 
-the binding corpus and its definitions control how compliance is read for adopters, alongside adopted implementation in its lane — but nothing in that stack can be used to walk back Chapter Twenty-Eight floors or Chapter Three supremacy rules.
+the binding corpus and its definitions control how compliance is read for adopters, alongside adopted implementation in its lane — but nothing in that stack can be used to walk back Chapter Twenty-Two floors or Chapter Three supremacy rules.
 
 [Source](../../core_24.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters)
 
@@ -4618,7 +4618,7 @@ if an outside process cannot deliver timely, real protection, the constitution's
 
 #### 7. Relation to Applicable External Law
 
-this Constitution is not a secret override of city, national, or international law. Publishing it, reading it, or using it as a guide does not make it supreme. A body can bind itself only by adopting through Chapter Twenty-Nine, and only as far as that body already has lawful authority to bind itself. If you use it inside someone else’s legal order, the processes here have to be runnable without violating that order — and you may not use “the other law is weaker” or “the other law forbids this” as a way to hollow out floors this Constitution still requires.
+this Constitution is not a secret override of city, national, or international law. Publishing it, reading it, or using it as a guide does not make it supreme. A body can bind itself only by adopting through Chapter Twenty-Three, and only as far as that body already has lawful authority to bind itself. If you use it inside someone else’s legal order, the processes here have to be runnable without violating that order — and you may not use “the other law is weaker” or “the other law forbids this” as a way to hollow out floors this Constitution still requires.
 
 [Source](../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)
 
@@ -4640,7 +4640,7 @@ Source file: [`core_25.000_incorporation.md`](../../core_25.000_incorporation.md
 
 #### 1. Purpose, Role, and Scope
 
-this section names the bridge: which implementation files can bind, how adoption makes them operative, and which exact edition and custody trail count. Later edits do not silently rewrite what was adopted; a newer draft changes obligations only once it passes amendment under Chapter Twenty-Nine and takes effect in the adopter's adoption chain. Pointing here, or to an incorporated file, invokes only the obligations inside the recorded adoption scope.
+this section names the bridge: which implementation files can bind, how adoption makes them operative, and which exact edition and custody trail count. Later edits do not silently rewrite what was adopted; a newer draft changes obligations only once it passes amendment under Chapter Twenty-Three and takes effect in the adopter's adoption chain. Pointing here, or to an incorporated file, invokes only the obligations inside the recorded adoption scope.
 
 [Source](../../core_25.000_incorporation.md#1-purpose-role-and-scope)
 
@@ -4682,7 +4682,7 @@ treat designated **implementation text** files like versioned law libraries — 
 
 #### 4. Safeguards
 
-quietly swapping in a newer draft — or relabeling a real change as “just a clarification” — does not change what was adopted. Later revisions stay process-layer notes until they pass amendment under Chapter Twenty-Nine and take effect in the adopter's adoption chain.
+quietly swapping in a newer draft — or relabeling a real change as “just a clarification” — does not change what was adopted. Later revisions stay process-layer notes until they pass amendment under Chapter Twenty-Three and take effect in the adopter's adoption chain.
 
 [Source](../../core_25.000_incorporation.md#4-safeguards)
 

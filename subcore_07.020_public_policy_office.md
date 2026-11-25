@@ -64,7 +64,7 @@ Policies are often adopted on predictions that no one checks: who will benefit, 
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims:
     - [Flourishing](core_00.000_preamble.md#flourishing): policies are judged by what they do for wellbeing, not by what they claim;
     - [Continuity](core_00.000_preamble.md#continuity): policies that fail are found and corrected;
-- Chapter Twenty-Seven:
+- Chapter Twenty-One:
   - [§5.1 Stewardship Direction](core_21.000_governance.md#51-stewardship-direction), which requires direction to be outcome-oriented and contestable;
   - [§5.2 Ecosystem Value Orientation](core_21.000_governance.md#52-ecosystem-value-orientation), which lets proxy indicators inform decisions only while they stay traceable to real outcomes;
 - Chapter Four Articles:
@@ -138,8 +138,8 @@ A question that may uncover a gap may be asked about any proposal, including one
 
 The emergency rules of [Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) and [Chapter Six §8 Emergency and Urgent Action](core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) govern every emergency measure. This office adds evidence to them; it does not replace their review or their clocks:
 
-- **Before evaluation:** a measure taken under those rules may take effect before the office evaluates it. Its default expiry, independent review, and restore-challenge window run as Chapter Twenty-Three §5.1 (*Emergency Measures and Continuation Burden*) sets them.
-- **Evaluation before any continuation:** a measure that would continue past its default expiry must carry the continuation burden of Chapter Twenty-Three §5.1 (*Emergency Measures and Continuation Burden*). The office publishes an evaluation before the decision to continue is made:
+- **Before evaluation:** a measure taken under those rules may take effect before the office evaluates it. Its default expiry, independent review, and restore-challenge window run as Chapter Seventeen §5.1 (*Emergency Measures and Continuation Burden*) sets them.
+- **Evaluation before any continuation:** a measure that would continue past its default expiry must carry the continuation burden of Chapter Seventeen §5.1 (*Emergency Measures and Continuation Burden*). The office publishes an evaluation before the decision to continue is made:
     - **What it addresses:** the three parts of that burden:
         - continuing necessity;
         - proportionality; and
@@ -196,10 +196,10 @@ Before any full evaluation, the office screens each proposal against this Consti
 A proposed amendment to this Constitution is a proposal for binding policy under this section. The office's evaluation is how the justification required by [Chapter Twenty-Three §5 Burden of Justification and Public Traceability](core_23.000_amendment_ratification.md#5-burden-of-justification-and-public-traceability) is tested in public:
 
 - **When:** an amendment is evaluated when it meets the threshold in §4.1 (*The Materiality Threshold*) or is asked for under §4.2 (*Evaluation on Request*). An amendment that restricts or conditions a right under the Chapter Four Rights Floor always meets the threshold.
-- **The proposer's justification:** the justification required by Chapter Twenty-Nine §5 (*Burden of Justification and Public Traceability*) serves as the sponsor's impact statement under §5.2 (*The Sponsor's Impact Statement*), and is rated in the same way.
+- **The proposer's justification:** the justification required by Chapter Twenty-Three §5 (*Burden of Justification and Public Traceability*) serves as the sponsor's impact statement under §5.2 (*The Sponsor's Impact Statement*), and is rated in the same way.
 - **What it adds:** besides the contents in §5.1 (*Contents*), the evaluation states the office's view of the evidence for the proposer's claims of necessity and feasibility, and of the effects bearing on the non-regression constraints of [Chapter Twenty-Two](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity).
 - **Screen:** the screen in §4.6 (*Constitutional Alignment Screen*) tests the amendment against the text it would leave in force, never against the text it proposes to change.
-- **Not a ruling on validity:** whether an amendment is valid under Chapter Twenty-Eight or Chapter Twenty-Nine is decided as those chapters set out. The evaluation is evidence for that decision, and §6 (*Timing, Response, and No Veto*) applies to it in full.
+- **Not a ruling on validity:** whether an amendment is valid under Chapters Twenty-Two or Twenty-Three is decided as those chapters set out. The evaluation is evidence for that decision, and §6 (*Timing, Response, and No Veto*) applies to it in full.
 
 <a id="5-what-an-evaluation-contains"></a>
 

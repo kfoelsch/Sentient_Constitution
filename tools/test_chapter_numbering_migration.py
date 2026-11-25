@@ -140,6 +140,11 @@ def main() -> int:
     _unique, shared = rewrite.id_map(registry)
     assert shared
 
+    assert rewrite.renumber_chapter_references("Chapters Eight, Nine, and Ten") == "Chapter Eight"
+    assert rewrite.renumber_chapter_references("Chapter Twenty-Eight or Twenty-Nine") == "Chapters Twenty-Two or Twenty-Three"
+    assert rewrite.renumber_chapter_references("Chapters Eight through Twenty-Two") == "Chapters Eight through Sixteen"
+    assert rewrite.renumber_chapter_references("Chapters Fourteen, Fifteen, Sixteen, and Twenty") == "Chapters Ten and Fourteen"
+
     trace_fixture = (
         "- Downstream: [One](one.md); [Two](two.md); [Three](three.md); [Four](four.md)\n"
         "- Short: [One](one.md); [Two](two.md)"

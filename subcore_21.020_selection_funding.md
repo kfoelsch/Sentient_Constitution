@@ -18,7 +18,7 @@
 
 Subcore 21-B is the constitutional owner of the **standard detail of the selection-funding boundaries**: the disclosure register and the protected-identity route, the anti-circumvention rules, the default contribution cap, the default third-party spending limit, the default public-support design, and the outcome-review measures. [Chapter Twenty-One §3.2.4 Selection-Funding Boundaries](core_21.000_governance.md#324-selection-funding-boundaries) states the guarantees: money given or spent to influence a selection is conduct, not expression; only members of the authorizing community may give, from their own resources; support is disclosed before the selection is decided; every donor is capped; and an independent body enforces the rules.
 
-*In plain terms: Chapter Twenty-Seven says who may pay for a campaign and that the money must be limited and public. This file gives the exact numbers and steps.*
+*In plain terms: Chapter Twenty-One says who may pay for a campaign and that the money must be limited and public. This file gives the exact numbers and steps.*
 
 ### 2. Why the Funding Detail Is the Same for Every Adopter
 

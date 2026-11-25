@@ -4,8 +4,8 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Eleven** — contribution consequences (§3): recency and currentness, then competency bars and clearances for gated pathways that are not locked. The other three chapters are [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) — purpose and role, fixed inputs, the integration record and decision order, and descriptor and attachment normalization (Chapter Sixteen §§1–5); [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) — violation consequences: remedy and correction, general standing locks, and lock design and enforcement (Chapter Eighteen §§3–4); and [Chapter Thirteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement) — final standing effect, restoration and reassessment, and enforcement realism (Chapter Nineteen §§3–5). Each chapter numbers its own sections.
 >
-> - **Constitutional owner (joint with Chapters Sixteen, Eighteen, and Nineteen):** the effect, if any, of verified contribution at Question 3. Chapter Seventeen decides it from the contribution Standing Record; it never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.
-> - **Anti-relocation rule:** Chapter Seventeen does not restate the decision order in Chapter Sixteen, the remedy, correction, and lock rules in Chapter Eighteen, or the final standing effect in Chapter Nineteen. It points to them.
+> - **Constitutional owner (joint with Chapters Ten, Twelve, and Thirteen):** the effect, if any, of verified contribution at Question 3. Chapter Eleven decides it from the contribution Standing Record; it never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.
+> - **Anti-relocation rule:** Chapter Eleven does not restate the decision order in Chapter Ten, the remedy, correction, and lock rules in Chapter Twelve, or the final standing effect in Chapter Thirteen. It points to them.
 
 </details>
 
@@ -26,13 +26,13 @@ Chapter Eleven is the constitutional owner of **contribution consequences**: the
 
 *In plain terms: this chapter asks what verified contribution may do. It may support recognition and readiness for gated pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.*
 
-**Purpose:** Chapter Seventeen decides the effect, if any, of verified contribution at Question 3. It does so in two steps: recency and currentness, then competency bars and clearances for gated pathways that are not locked (**section 3**).
+**Purpose:** Chapter Eleven decides the effect, if any, of verified contribution at Question 3. It does so in two steps: recency and currentness, then competency bars and clearances for gated pathways that are not locked (**section 3**).
 
 **Role:** The chapter is one of four that together own Question 3, with Chapters [Subcore 10-F — Sixteen](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows), [Eighteen](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks), and [Nineteen](core_13.000_final_effect_restoration_enforcement.md#chapter-thirteen-final-standing-effect-restoration-and-enforcement):
 
 - It decides from the contribution Standing Record only.
-- It takes the decision order from **Chapter Sixteen section 4.4** (*Processing Order*). The contribution track and the violation track do not wait for each other.
-- Its result meets the violation track only at the final standing effect in Chapter Nineteen, where a lock controls.
+- It takes the decision order from **Chapter Ten section 4.4** (*Processing Order*). The contribution track and the violation track do not wait for each other.
+- Its result meets the violation track only at the final standing effect in Chapter Thirteen, where a lock controls.
 
 **Chapter scope:** The chapter covers:
 
@@ -41,9 +41,9 @@ Chapter Eleven is the constitutional owner of **contribution consequences**: the
 
 The chapter leaves:
 
-- the decision order to Chapter Sixteen;
-- remedy, correction, and lock rules to Chapter Eighteen; and
-- the final standing effect to Chapter Nineteen.
+- the decision order to Chapter Ten;
+- remedy, correction, and lock rules to Chapter Twelve; and
+- the final standing effect to Chapter Thirteen.
 
 It points to them and does not restate them.
 
@@ -76,7 +76,7 @@ A system that never recognizes contribution teaches that effort does not matter.
 
 *In plain terms: this section asks what verified contribution may do. It may support recognition and readiness for gated pathways that are not locked. It never offsets a verified harm, cancels a lock, or opens a blocked gated pathway.*
 
-This section starts from verified Chapter Fourteen contribution records that apply to the decision. From those Standing Records it asks two things:
+This section starts from verified Chapter Ten contribution records that apply to the decision. From those Standing Records it asks two things:
 
 - how current the contribution still is; and
 - whether any competency clearance for an open gated pathway is met against its published bar.
@@ -97,7 +97,7 @@ Decide contribution consequences in this order:
 <a id="31-recency-and-currentness"></a>
 #### 3.1 Recency and Currentness
 
-*In plain terms: how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Fifteen measurement, and time alone does not settle an unresolved violation.*
+*In plain terms: how much does an older verified contribution still say about present competence and reliability? The system answers that automatically for Question 3 readiness. No one has to re-weigh ordinary contributions by hand. Manual review starts only when a contribution is contested. Recency does not rewrite Chapter Ten measurement, and time alone does not settle an unresolved violation.*
 
 Recency is strictly a **Question 3 clearance and readiness input**. It changes no slot, measurement, or descriptor ([Subcore 10-F §3.3 Facts and Measurements Stay Fixed](subcore_10.060_standing_integration.md#33-facts-and-measurements-stay-fixed)), and it does not change a Chapter Fourteen contribution Standing Record or historical recognition.
 

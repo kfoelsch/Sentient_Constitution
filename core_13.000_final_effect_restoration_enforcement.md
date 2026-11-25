@@ -4,7 +4,7 @@
 
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Thirteen** — the final standing effect for each gated pathway (§3), restoration and reassessment (§4), and enforcement realism and remedy systems (§5). The other three chapters are [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) — purpose and role, fixed inputs, the integration record and decision order, and descriptor and attachment normalization (Chapter Sixteen §§1–5); [Chapter Eleven](core_11.000_contribution_consequences.md#chapter-eleven-contribution-consequences) — contribution consequences (Chapter Seventeen §3); and [Chapter Twelve](core_12.000_violation_consequences.md#chapter-twelve-violation-consequences--remedy-correction-and-locks) — violation consequences: remedy and correction, general standing locks, and lock design and enforcement (Chapter Eighteen §§3–4). Each chapter numbers its own sections.
 >
-> - **Constitutional owner (joint with Chapters Sixteen–Eighteen):** the single statement of effect at the end of Question 3, and the conditions for restoring it and for making it enforceable. Chapter Nineteen takes the contribution outcomes of Chapter Seventeen and the violation outcomes of Chapter Eighteen as given; a lock controls.
+> - **Constitutional owner (joint with Chapters Ten – Twelve):** the single statement of effect at the end of Question 3, and the conditions for restoring it and for making it enforceable. Chapter Thirteen takes the contribution outcomes of Chapter Eleven and the violation outcomes of Chapter Twelve as given; a lock controls.
 > - **Anti-relocation rule:** Chapter Nineteen does not restate Chapter Seventeen contribution rules or Chapter Eighteen remedy, correction, and lock rules. Anti-constitutional-misconduct designation stays in [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation).
 
 </details>
@@ -26,11 +26,11 @@ Chapter Thirteen is the constitutional owner of the **final standing effect** fo
 
 *In plain terms: when the earlier steps are done, the system must state, one gated pathway at a time, what is open, limited, or blocked. That statement is not a dignity rank or a merged score. A lock that is not permanent must have a real way back.*
 
-**Purpose:** Chapter Nineteen states one final standing effect for each applicable gated pathway (**section 3**). It then sets restoration and reassessment (**section 4**) and confirms that standing consequences and redress can be delivered by real institutions (**section 5**), applying the **Chapter Two section 6.1** (*Correction and Remedy*) principle.
+**Purpose:** Chapter Thirteen states one final standing effect for each applicable gated pathway (**section 3**). It then sets restoration and reassessment (**section 4**) and confirms that standing consequences and redress can be delivered by real institutions (**section 5**), applying the **Chapter Two section 6.1** (*Correction and Remedy*) principle.
 
 **Role:** The chapter is where the two tracks of Question 3 meet:
 
-- It takes the contribution result from Chapter Seventeen and the violation result from Chapter Eighteen as fixed, in the order **Chapter Sixteen section 4.4** sets.
+- It takes the contribution result from Chapter Eleven and the violation result from Chapter Twelve as fixed, in the order **Chapter Ten section 4.4** sets.
 - Gated-pathway effects are never aggregated (**section 3.1**). A gated pathway a lock blocks stays closed, whatever the contribution track found.
 - Restoration is not automatic forgiveness, record erasure, or letting past help cancel verified harm.
 

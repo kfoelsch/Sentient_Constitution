@@ -34,7 +34,7 @@
 
 <br>
 
-Chapter Nine is the constitutional owner of these parts of system alignment certification:
+Chapter Eight is the constitutional owner of these parts of system alignment certification:
 
 - **Phase III, Review:** the **forum-supervised process** ([§3 Forum Process](#3-forum-process)); and
 - **Phase IV, Decide:** the **outcomes** ([§4 Certification Outcomes](#4-certification-outcomes)).
@@ -43,7 +43,7 @@ Chapter Nine is the constitutional owner of these parts of system alignment cert
 
 *In plain terms: once a system has been evaluated, independent forums review the result in a set order and publish an outcome. This chapter says how the forums work and what outcomes they can reach, including the gate before go-live.*
 
-**Purpose:** Chapter Nine states two things:
+**Purpose:** Chapter Eight states two things:
 
 - the forum process for System Alignment Certification (SAC): component roles, the supervisory sequence, the contestability chain, and the anti-bypass rule (**section 3**); and
 - the certification outcomes: the go-live gate, certification defects and correction, remediation readiness, denial and revocation, and their effects (**section 4**).
@@ -52,7 +52,7 @@ Chapter Nine is the constitutional owner of these parts of system alignment cert
 
 - It takes the evaluation outputs of **Chapter Eight section 3** through **section 6** as the inputs the forums review and the outcome rests on.
 - It rests on [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (functional independence), [Chapter Sixteen](core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (forum supervision), and [Subcore 3-A — Subcores 3-A to 3-C](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements) (verification discipline).
-- It hands the System Certification Record, recertification, challenge, and the standing bridge to Chapter Ten.
+- It hands the System Certification Record, recertification, challenge, and the standing bridge to Chapter Eight.
 - Under the oversight leg of the Tetrad, SAC is one especially large, high-stakes audit process among others. The auditing floors stay at **Article XVII** (*Audit, Transparency, and Independent Verification*) and [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) *Auditability*.
 
 **Chapter scope:** The chapter covers:
@@ -66,7 +66,7 @@ The chapter leaves:
 - standing measurement to [Subcore 10-D](subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it) and standing effects to [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows); and
 - ownership of auditing to **Article XVII** (*Audit, Transparency, and Independent Verification*), Def.O1, and CJS-3.110 (*Oversight Leg Operations (oDef.2–oDef.6)*) and CJS-3.115 (*Audit Process Home (oDef.3)*).
 
-The standing bridge is **Chapter Ten section 6**.
+The standing bridge is **Chapter Eight section 6**.
 
 
 <a id="2-why-forum-review-of-certification-exists"></a>
@@ -153,7 +153,7 @@ Chapter Eight sets how a system is evaluated. An evaluation run or chosen by the
 
 This section is **Phase III, Review**. It sets out the constitutional **supervisory sequence** (the order in which forums supervise a System Certification Record) and the **contestability chain** (the routes for challenging it, matched to where a dispute arises).
 
-For materially impactful systems, a forum-supervised process under Chapter Twenty-Two is required wherever a forum acts on a certification. That work falls in these phases:
+For materially impactful systems, a forum-supervised process under Chapter Sixteen is required wherever a forum acts on a certification. That work falls in these phases:
 
 - **Phase III, Review** (this section): independent review of the evidence and stakeholder concerns, on every certification pass;
 - **Phase IV, Decide** ([§4 Certification Outcomes](#4-certification-outcomes)): the outcome. That is official constitutional alignment **certification** (provisional or full, with or without certification conditions), deferral, **non-certification**, **withdrawal**, fulfillment of certification conditions, or release from certification conditions;
@@ -184,7 +184,7 @@ This section gives each forum family its **component role** in system alignment 
 Who holds each of the four seats in a system certification is set out in full in [Subcore 8-C §3 Four Seats in a Certification](subcore_08.030_certification_seats_forum_roles_sequence.md#3-four-seats-in-a-certification). Their guarantees are:
 
 - **Four seats, as Chapter Six names them:** every certification pass has the initiating, verify-or-authorize, record, and contest seats of [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement); this adds no seat and relaxes no rule of Chapter Six.
-- **The operator does not pick its checker:** the Charter Role Map does not place the verify-or-authorize seat; the lead forum and the component authorities are assigned under [§3.2 Supervisory Sequence](#32-supervisory-sequence) and Chapter Twenty-Two.
+- **The operator does not pick its checker:** the Charter Role Map does not place the verify-or-authorize seat; the lead forum and the component authorities are assigned under [§3.2 Supervisory Sequence](#32-supervisory-sequence) and Chapter Sixteen.
 - **Outside the operator:** everyone who holds a verify-or-authorize seat is outside the [Subcore 3-J — Material Control Line](subcore_03.070_band_accountability.md#material-control-line) of the operator and the proponent and has no interest the outcome decides, and the record seat and the contest seat it names sit outside that line too; a seat placement that fails this is not valid, whatever any Charter Role Map says.
 - **No merging by family label:** a forum family may hold different seats on different acts, but may not use its family label to merge seats that Chapter Six keeps apart on the same act.
 - **The lead does not keep the System Certification Record:** the lead forum directs the sequence but does not hold the record seat; the record holder enters what the deciding forums determined and decides nothing itself.
@@ -201,7 +201,7 @@ Technical Forums supply the technical component findings for the System Certific
 
 **Default lead coordination:**
 
-- Lead official constitutional alignment certification and ongoing alignment validation, unless Chapter Twenty-Two assigns a different primary stake;
+- Lead official constitutional alignment certification and ongoing alignment validation, unless Chapter Sixteen assigns a different primary stake;
 - Use technical-forum standards where they materially apply; and
 - Refer, send for ruling, or [Subcore 3-J — stay](subcore_03.070_band_accountability.md#stay) (pause) component questions that belong to other forum families, as [§3.2 Supervisory Sequence](#32-supervisory-sequence) requires.
 
@@ -250,7 +250,7 @@ Before any forum signs off on a System Certification Record, the System Certific
 
 The **supervisory sequence** is the step-by-step order in which forums supervise a System Certification Record. Chapter Twenty-Two may require a different lawful order when primary stakes, anti-self-judging protection, or certification routing applies. Otherwise the default sequence applies; its six steps are set out in full in [Subcore 8-C §5 Default Sequence](subcore_08.030_certification_seats_forum_roles_sequence.md#5-default-sequence). Its guarantees are:
 
-1. **Integrity leads:** an Integrity Forum leads each certification pass, including one that ends in withdrawal or non-certification, unless Chapter Twenty-Two assigns a different lead for the primary stake, and one coordinated System Certification Record is opened for that pass.
+1. **Integrity leads:** an Integrity Forum leads each certification pass, including one that ends in withdrawal or non-certification, unless Chapter Sixteen assigns a different lead for the primary stake, and one coordinated System Certification Record is opened for that pass.
 2. **Bounded component findings:** each assigned forum family gives its findings only within its lawful jurisdiction.
 3. **Nothing authorized before the work is done:** the lead forum refers, sends for ruling, or stays any component question that belongs mainly to another family, and it cannot authorize an affected scope, or remove or significantly loosen its certification conditions, until the required component work is finished. Limited operation needs a completed finding, and silence is never approval.
 4. **Everything stated at decision:** the System Certification Record states who gave each component finding, what it says, and every unresolved item, certification condition, and reliance limit.
@@ -297,7 +297,7 @@ The **contestability chain** is how affected parties can challenge a System Cert
 - **Two directions:** It mirrors the supervisory sequence: oversight checks the System Certification Record from above, and challenges let affected parties push back from below.
 - **Right level:** A challenge goes to the level where the dispute actually lives.
 - **Ordinary first step:** [Dispute sequencing](core_16.000_forum.md#dispute-sequencing) under Chapter Twenty-Two §4 (*Default Venue and Primary Stakes*) explains the ordinary first step and when a forum (a formal body that hears disputes) takes over.
-- **Emergency exits:** The larger Chapter Twenty-Two tools remain available when needed: transfer, certification, backup routing, and escalation from one forum family to another. Don't start with these. Start with the ordinary first step above, and use these only when it can't resolve the dispute.
+- **Emergency exits:** The larger Chapter Sixteen tools remain available when needed: transfer, certification, backup routing, and escalation from one forum family to another. Don't start with these. Start with the ordinary first step above, and use these only when it can't resolve the dispute.
 
 There are four paths, which [Subcore 8-F §5.2 Contestability Paths](subcore_08.060_system_alignment_certification_records_recertification.md#52-contestability-paths) names for the System Certification Record. The paths are:
 
@@ -311,13 +311,13 @@ There are four paths, which [Subcore 8-F §5.2 Contestability Paths](subcore_08.
    - calling certification finished too soon; and
    - other lead-forum integrity problems.
 
-   When the challenge is about the lead forum's own bias, capture, conflict, or process abuse, Chapter Twenty-Two's backup routing rules apply. Those rules can send the challenge to an independent backup forum family or an external review path, so review is not left to that same lead forum alone.
-4. **Escalation path:** Challenge routing continues through Chapter Twenty-Two transfer, certification, backup routing, and family-to-family escalation where any of these requires it: primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection.
+   When the challenge is about the lead forum's own bias, capture, conflict, or process abuse, Chapter Sixteen's backup routing rules apply. Those rules can send the challenge to an independent backup forum family or an external review path, so review is not left to that same lead forum alone.
+4. **Escalation path:** Challenge routing continues through Chapter Sixteen transfer, certification, backup routing, and family-to-family escalation where any of these requires it: primary stakes, constitutional validity, structural remedy, family deadlock, or anti-self-judging protection.
 
 **How the paths fit together:**
 
 - **Start with path 1:** Begin with the published record challenge path.
-- **When path 1 falls short:** If the record challenge path is still contested, is missing, has been captured, or cannot grant the needed relief, Chapter Twenty-Two routes the challenge by primary stake.
+- **When path 1 falls short:** If the record challenge path is still contested, is missing, has been captured, or cannot grant the needed relief, Chapter Sixteen routes the challenge by primary stake.
 - **Pick the path that fits:** Paths 2 to 4 each fit a particular kind of problem, and they stay open for the whole time the review is under way.
 - **Shortcut when delay is dangerous:** You may go straight to a forum path, under [Subcore 8-F §5.2 Contestability Paths](subcore_08.060_system_alignment_certification_records_recertification.md#52-contestability-paths), if waiting would materially endanger rights, evidence, independence, or the practical ability to put things right.
 
@@ -421,19 +421,19 @@ The chart below is the Chapter Nine and Chapter Ten portion of the process chart
 flowchart TB
     PA["Chapter Eight §3–Chapter Eight §6 Chapter Eight — Phases I–II<br/><br/>System classified and evaluated;<br/>evaluation findings carried forward"]
     F["§3 Phase III, Review<br/>Independent review of evidence<br/>and stakeholder concerns<br/><br/>Assigned forums issue findings;<br/>challenge paths stay open"]
-    Rec["Chapter Ten §3 Phase V, Record<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, certification conditions, and operating plan"]
-    S[["Chapter Fourteen — Standing<br/>records<br/><br/>Outside this chapter"]]
+    Rec["Chapter Eight §3 Phase V, Record<br/>One System Certification Record<br/><br/>Opened for forum review; completed with the outcome,<br/>supporting findings, certification conditions, and operating plan"]
+    S[["Chapter Ten — Standing<br/>records<br/><br/>Outside this chapter"]]
     O{"§4 Phase IV, Decide<br/><br/>What outcome and status<br/>does the evidence support?"}
-    Fc["§4, Chapter Ten §4.3 Full Certification<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Full certification interval; certification conditions may apply"]
-    Pc["§4, Chapter Ten §4.3 Provisional Certification<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Provisional interval, shorter; certification conditions may apply"]
+    Fc["§4, Chapter Eight §4.3 Full Certification<br/><br/>Required consecutive clean provisional recertifications;<br/>no current or indicated impending misalignment<br/>Full certification interval; certification conditions may apply"]
+    Pc["§4, Chapter Eight §4.3 Provisional Certification<br/><br/>First grant, recovery after misalignment,<br/>or continued or stepped-down provisional status<br/>Provisional interval, shorter; certification conditions may apply"]
     Nc["§4 Not Certified<br/><br/>Deferred, refused, withdrawn, or expired<br/>No go-live; state reasons and required corrective work"]
-    Pub["§4, Chapter Ten §5 Publish the completed System Certification Record<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
+    Pub["§4, Chapter Eight §5 Publish the completed System Certification Record<br/><br/>Open the published record challenge path;<br/>for new or expanded scope, state go-live and notice"]
     G{"§4 Go-live gate<br/><br/>Certification and applicable<br/>go-live prerequisites satisfied?"}
     Hold["§4 Meet go-live prerequisites<br/><br/>Complete notice and independently verify<br/>certification conditions required before go-live"]
-    Rm["§4, Chapter Ten §4.3 Protect and correct<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
-    Ch["Chapter Ten §4–Chapter Ten §5 Phase VIa, Operate and recertify<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and certification conditions;<br/>monitor outcomes and respond to incidents and challenges"]
-    S2[["Chapter Fourteen — Standing<br/>records<br/><br/>Outside this chapter"]]
-    Re["Chapter Ten §4 Next review pass<br/><br/>Recertification, reopening, or fresh review;<br/>each pass opens a new System Certification Record linked to the last"]
+    Rm["§4, Chapter Eight §4.3 Protect and correct<br/><br/>No new go-live in the affected scope;<br/>protect affected sentients, correct design or operation,<br/>and submit evidence for independent verification"]
+    Ch["Chapter Eight §4–Chapter Eight §5 Phase VIa, Operate and recertify<br/>Monitor and keep challenges open<br/><br/>Operate within certified scope and certification conditions;<br/>monitor outcomes and respond to incidents and challenges"]
+    S2[["Chapter Ten — Standing<br/>records<br/><br/>Outside this chapter"]]
+    Re["Chapter Eight §4 Next review pass<br/><br/>Recertification, reopening, or fresh review;<br/>each pass opens a new System Certification Record linked to the last"]
     Sp["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
     SpL["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
     SpA["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
@@ -446,7 +446,7 @@ flowchart TB
     Fc --> Rec
     Pc --> Rec
     Nc --> Rec
-    Rec -.->|VIb, Chapter Ten §6 —<br/>verified inputs only;<br/>current certification or facts<br/>arising during certification| S
+    Rec -.->|VIb, Chapter Eight §6 —<br/>verified inputs only;<br/>current certification or facts<br/>arising during certification| S
     Rec --> Pub
     Rec ~~~ Sp
     Pub --> G
@@ -457,7 +457,7 @@ flowchart TB
     Hold --> G
     Ch -->|Material defect:<br/>protect and correct| Rm
     Ch -->|On schedule, or<br/>material change or<br/>credible challenge<br/>requires review| Re
-    Ch -.->|VIb, Chapter Ten §6 —<br/>verified inputs only;<br/>operation may supply facts<br/>for Contribution and<br/>Violation records| S2
+    Ch -.->|VIb, Chapter Eight §6 —<br/>verified inputs only;<br/>operation may supply facts<br/>for Contribution and<br/>Violation records| S2
     Rm -->|Correction evidence<br/>is checked in the<br/>next review pass| Re
     S2 ~~~~ SpA
     SpA ~~~ Re
