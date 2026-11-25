@@ -120,7 +120,9 @@ The following points introduce the paths:
   - Before a high-impact system is trusted at scale, gather and review evidence to determine whether it is constitutionally safe to rely on right now.
   - Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to challenge and audit it ([Article XIV](core_04.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*)) keep it honest. Neither replaces the other.
 - **Standing Records** ([Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened)) — when conduct or harm matters constitutionally, place verified facts in formal contribution or violation case files; rumors and reputation are not enough.
-- **Correction and remedy** ([Chapter Eighteen §3.1 (*Remedy and Correction*)](core_18.000_violation_consequences.md#31-remedy-and-correction)) — correct the underlying failure and provide proportionate acknowledgment, repair, restoration, or compensation for those harmed.
+- **Correction and remedy** ([Chapter Eighteen §3.1 (*Remedy and Correction*)](core_18.000_violation_consequences.md#31-remedy-and-correction)):
+  - After a verified violation, assess both what must be done to address its cause and stop it from continuing (**correction**) and what is owed to those harmed (**remedy**).
+  - Remedy includes acknowledgment, repair, or restoration, and also compensation, substitute safeguards where literal repair is impossible, or comparable redress, as applicable. Fixing the cause does not replace remedy; remedy does not replace fixing the cause.
 - **Forum review** ([Chapter Twenty-Two](core_22.000_forum.md#1-purpose-role-and-scope))
   - Ordinary disputes within already-authorized systems use the published [Stakeholder System Participation](subcore_03.090_band_participation.md#stakeholder-status-and-weight) challenge path first.
   - If that path remains contested, is missing or captured, or cannot grant relief, route the dispute by primary stake through supervised forums.

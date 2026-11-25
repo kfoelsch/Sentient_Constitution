@@ -1519,5 +1519,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and thirty-second move (sub-bullets for governance paths; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): break the functional-independence and system-alignment-certification items in [Chapter One §5](core_01.000_constitutional_map.md#5-key-governance-processes) into sub-bullets. Effect on a rule: none; the existing statements are retained.
 
+**One thousand and thirty-third move (clarify correction and remedy; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): clarify the [Chapter One §5](core_01.000_constitutional_map.md#5-key-governance-processes) summary of correction and remedy using Chapter Eighteen §3.1, distinguishing addressing the cause from redress and noting that neither replaces the other. Effect on a rule: none; Chapter Eighteen supplies the governing requirements.
+
 **Next file:** [README.md](README.md)
 
