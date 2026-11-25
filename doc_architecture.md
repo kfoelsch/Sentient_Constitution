@@ -1533,5 +1533,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and thirty-ninth move (clarify the System Charter and Institutional Charter overview; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): replace “floor” in the Chapter Five ownership summary in [Chapter One §7](core_01.000_constitutional_map.md#7-system-and-institutional-charters-functional-independence-and-separation-of-duties) with a description of the published System Charter and Institutional Charter requirements, and clarify the section introduction to match. Effect on a rule: none; the requirements and listed details are unchanged.
 
+**One thousand and fortieth move (organize the pipeline overview by process; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): combine the chapter-led and process-led lists in [Chapter One §8](core_01.000_constitutional_map.md#8-key-practical-process-pipelines) into one list of processes with sub-bullets, retaining chapter ownership, separate standing tracks, review safeguards, and outputs. Effect on a rule: none; the overview reorganizes existing material.
+
 **Next file:** [README.md](README.md)
 

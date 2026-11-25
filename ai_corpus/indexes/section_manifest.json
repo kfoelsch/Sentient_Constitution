@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-25T04:26:02+00:00",
+  "generated_at": "2026-11-25T04:54:48+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -19,9 +19,9 @@
       ]
     },
     "core_01.000_constitutional_map.md": {
-      "total_lines": 525,
+      "total_lines": 526,
       "sections": [
-        {"header":"CHAPTER ONE: CONSTITUTIONAL MAP","level":1,"line_start":2,"line_end":525,"anchor":"#chapter-one-constitutional-map"},
+        {"header":"CHAPTER ONE: CONSTITUTIONAL MAP","level":1,"line_start":2,"line_end":526,"anchor":"#chapter-one-constitutional-map"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":40,"line_end":56,"anchor":"#1-purpose-role-and-scope"},
         {"header":"2. Why the Map Exists","level":3,"line_start":57,"line_end":81,"anchor":"#2-why-the-map-exists"},
         {"header":"3. How the Files Fit Together","level":3,"line_start":82,"line_end":91,"anchor":null},
@@ -36,12 +36,12 @@
         {"header":"6.3 [Chapter Four — Foundational Rights](core_04.000_rights_part_a.md)","level":4,"line_start":188,"line_end":202,"anchor":null},
         {"header":"7. System and Institutional Charters, Functional Independence, and Separation of Duties","level":3,"line_start":203,"line_end":273,"anchor":null},
         {"header":"7.1 Four-Seat Separation Map","level":4,"line_start":240,"line_end":273,"anchor":null},
-        {"header":"8. Key Practical Process Pipelines","level":3,"line_start":274,"line_end":378,"anchor":null},
-        {"header":"8.1 Process Map","level":4,"line_start":295,"line_end":360,"anchor":null},
-        {"header":"8.2 How the Full Chain Fits Together","level":4,"line_start":361,"line_end":378,"anchor":null},
-        {"header":"9. Process Ownership and Outputs","level":3,"line_start":379,"line_end":463,"anchor":null},
-        {"header":"10. Governance, Change, and Incorporation","level":3,"line_start":464,"line_end":503,"anchor":null},
-        {"header":"11. Adopted Implementation Corpus","level":3,"line_start":504,"line_end":525,"anchor":null}
+        {"header":"8. Key Practical Process Pipelines","level":3,"line_start":274,"line_end":379,"anchor":null},
+        {"header":"8.1 Process Map","level":4,"line_start":296,"line_end":361,"anchor":null},
+        {"header":"8.2 How the Full Chain Fits Together","level":4,"line_start":362,"line_end":379,"anchor":null},
+        {"header":"9. Process Ownership and Outputs","level":3,"line_start":380,"line_end":464,"anchor":null},
+        {"header":"10. Governance, Change, and Incorporation","level":3,"line_start":465,"line_end":504,"anchor":null},
+        {"header":"11. Adopted Implementation Corpus","level":3,"line_start":505,"line_end":526,"anchor":null}
       ]
     },
     "core_02.000_values_principles.md": {

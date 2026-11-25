@@ -275,22 +275,23 @@ flowchart TB
 
 *In plain terms: Chapters Eight through Twenty-Two apply Chapter Six's separation-of-duties requirement in one chain: certify systems and institutions, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.*
 
-[Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters) publishes the chartered scope and the seat map of each system and institution of Class L or higher. [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) supplies the separation-of-duties requirement that makes every act in this chain validly checkable. It requires the functions of initiation, verification or authorization, official record custody, and challenge review to be assigned and kept distinct under the applicable scaling and independence rules. Chapters Eight through Twenty-Two then apply that architecture in sequence:
+[Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters) publishes the chartered scope and the seat map of each system and institution of Class L or higher. [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) supplies the separation-of-duties requirement that makes every act in this chain validly checkable. It requires the functions of initiation, verification or authorization, official record custody, and challenge review to be assigned and kept distinct under the applicable scaling and independence rules. The processes below apply that architecture. Each produces a distinct, reviewable result; their roles do not collapse into one another:
 
-- **Chapter Eight** uses independent verification to decide whether a materially impactful system or institution is aligned within its stated scope and record span. Chapters Eight through Ten govern system certification: evaluation, forum process and outcomes, and the System Certification Record and recertification. Chapters Eleven through Thirteen govern institutional certification in the same order: the institution's own class and evaluation (Chapter Eleven), the forum process and outcome, including remediation readiness (Chapter Twelve), and the Institutional Certification Record and recertification (Chapter Thirteen).
-- **Chapter Fourteen** takes the verified facts and records them in separate Contribution and Violation Standing Records.
-- **Chapter Fifteen** measures each Standing Record on its own axis. Verified contribution toward flourishing does not offset, cancel, or reduce a separately verified harm or accountability failure; each remains recorded and subject to its own consequences.
-- **Chapter Sixteen** converts those classifications into proportionate standing effects, including competency clearances and recognition on the contribution track and standing locks, correction, and remedy on the violation track.
-- **Chapter Twenty** applies only after Chapter Fifteen has measured a high-level violation. It decides whether the conduct independently meets the criteria for a final anti-constitutional-misconduct designation (ACMD), after due-process safeguards.
-- **Chapters Twenty-Two and Twenty-Three** supervise routing, evidence, transfer, forum independence, and timely resolution so the resulting records and effects can be challenged, corrected, and enforced without allowing a captured forum to be the sole final judge of its own conduct.
+- **Certification** checks whether a system or institution is aligned within its stated scope and record span.
+  - For systems, Chapters Eight through Ten govern evaluation, forum process and outcomes, the System Certification Record, and recertification. Certification produces verified evidence about alignment.
+  - For institutions, Chapters Eleven through Thirteen govern the institution's own class and evaluation, the forum process and outcome (including remediation readiness), the Institutional Certification Record, and recertification. Independent verification supports these decisions.
+- **Standing Records and measurement** record verified facts and assess contribution and violation separately.
+  - Chapter Fourteen places verified facts in separate Contribution and Violation Standing Records. Chapter Fifteen measures each Standing Record on its own axis.
+  - Verified contribution toward flourishing does not offset, cancel, or reduce a separately verified harm or accountability failure. Each remains recorded and subject to its own consequences.
+- **Standing integration** turns those classifications into proportionate effects under Chapter Sixteen.
+  - The contribution track includes competency clearances and recognition.
+  - The violation track includes standing locks, correction, and remedy.
+- **Misconduct review** asks a separate question under Chapter Twenty.
+  - After Chapter Fifteen has measured a high-level violation, it decides whether the conduct independently meets the criteria for a final anti-constitutional-misconduct designation (ACMD), after due-process safeguards.
+- **Forum supervision** supports review and correction under Chapters Twenty-Two and Twenty-Three.
+  - Forums supervise routing, evidence, transfer, forum independence, and timely resolution. Records and effects can be challenged, corrected, and enforced without allowing a captured forum to be the sole final judge of its own conduct.
 
-The chapter summaries in Sections 6 through 11 make the division of labor explicit. Each summary identifies the chapter that owns the work and the output that stage must produce for the next stage. The stages are connected, but their roles do not collapse into one another:
-
-- **Certification** produces verified evidence about whether a system is aligned within a stated scope and record span.
-- **Standing measurement** uses verified inputs to classify conduct and harm on separate tracks.
-- **Standing integration** turns those classifications into proportionate effects, including recognition, competency clearances, correction, standing locks, and remedy.
-- **Misconduct review** answers its distinct question: whether a qualifying violation also warrants a final ACMD.
-- **Forum supervision** controls routing, evidence, transfer, challenge, and remedy so the official records and decisions can be reviewed and corrected in time.
+The chapter summaries in Sections 6 through 11 identify the owner of each area and what it produces.
 
 #### 8.1 Process Map
 
