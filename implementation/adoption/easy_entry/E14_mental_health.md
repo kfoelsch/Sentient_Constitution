@@ -4,12 +4,12 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-11`
-> **Corpus edition pin:** `SC-Corpus-2026.10.21`
+> **Corpus edition pin:** `SC-Corpus-2026.11.25`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_23.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Four §7](../../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 >
-> If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations/), do **not** treat this page as an answer key.
+> If you were invited to use the [lived-situation packets](../../../evaluation/lived_situations), do **not** treat this page as an answer key.
 
 </details>
 
@@ -47,7 +47,7 @@ See: [Article III-B](../../../core_04.000_rights_part_a.md#article-iii-b-bodily-
 - **Today:** Once you have the diagnosis, they act as if you no longer get to choose. If you say no to the extra conditions on their help, they treat that as proof you cannot make your own choices. A relative writes a concern and talks as if it were already decided that you are unsafe.
 - **With this Constitution:** How much you may do yourself follows what you can actually show, including when that showing changes. “For your own good” still does not, by itself, pass the tests a limit must meet. A relative’s written concern is a report waiting to be looked at, not already a finding that you are unsafe.
 
-See: [Article VII-A](../../../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article VIII-D](../../../core_04.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability); [Chapter Fourteen §4.2](../../../core_14.000_standing_assessment.md#42-silence-is-the-default).
+See: [Article VII-A](../../../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Article VIII-D](../../../core_04.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability); [Subcore 10-B §4.2](../../../subcore_10.020_standing_assessment.md#42-silence-is-the-default).
 
 **Help cannot buy your clinician, your money, or who you live with.**
 - **Today:** The spare room, food, and rides are offered only if you switch clinicians, give them your bank cards, and agree “the family” will decide housing and who you see. If you refuse, they say they will have you held, or that someone you live with is not safe.
@@ -69,9 +69,9 @@ See: [Article VII-C](../../../core_04.010_rights_part_b.md#article-vii-c-health-
 
 - **“I don’t want a mental-illness label. I want care, and I want my say.”** You do not have to take that label to use this page. Health status still cannot be used, without a real reason, to shut you out. When a diagnosis is used to take over your choices, those rules are located in the section on [Article VII-C](../../../core_04.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor).
 
-- **“This isn’t law at my clinic.”** Correct, until a body that actually runs that clinic agrees to follow this Constitution. Until then this may guide; it has no independent power against a clinic or relative who did not agree ([Chapter Thirty-One §5](../../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority)). It does not replace the health or family law already in force ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
+- **“This isn’t law at my clinic.”** Correct, until a body that actually runs that clinic agrees to follow this Constitution. Until then this may guide; it has no independent power against a clinic or relative who did not agree ([Chapter Twenty-Five §5](../../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority)). It does not replace the health or family law already in force ([Chapter Twenty-Four §7](../../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
-- **“Family is just trying to help.”** Worry is not automatically a harm. What is easier for your family is not, by itself, the same as what is good for you. A relative’s written concern is waiting to be looked at, not already a decision that you are unsafe ([Chapter Fourteen §4.2](../../../core_14.000_standing_assessment.md#42-silence-is-the-default)).
+- **“Family is just trying to help.”** Worry is not automatically a harm. What is easier for your family is not, by itself, the same as what is good for you. A relative’s written concern is waiting to be looked at, not already a decision that you are unsafe ([Subcore 10-B §4.2](../../../subcore_10.020_standing_assessment.md#42-silence-is-the-default)).
 
 ## What this will not pretend to give you
 

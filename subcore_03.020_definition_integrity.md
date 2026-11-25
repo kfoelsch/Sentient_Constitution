@@ -40,7 +40,7 @@ Subcore 3-B is the constitutional owner of **definition integrity, evasion, and 
 
 - Subcore 3-A says how every definition is built. This chapter starts from that and does not change it.
 - [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) picks up from here and says who has to prove compliance, and how.
-- Some verified non-compliance findings also feed standing, the record of a party's verified help and harm kept under [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened). Only facts that pass the verified-input gate enter. **Section 5.1** to **section 5.3** say how this works for systems that are already certified, for systems at their first certification, and for sentients and institutions.
+- Some verified non-compliance findings also feed standing, the record of a party's verified help and harm kept under [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened). Only facts that pass the verified-input gate enter. **Section 5.1** to **section 5.3** say how this works for systems that are already certified, for systems at their first certification, and for sentients and institutions.
 
 **Chapter scope:** The chapter covers:
 
@@ -52,7 +52,7 @@ The chapter leaves:
 
 - burden of proof, traceability, and verification to Subcore 3-C;
 - how a definition is structured to Subcore 3-A; and
-- Standing Records and their effects to the standing pipeline, [Chapters Fourteen through Nineteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened).
+- Standing Records and their effects to the standing pipeline, [Subcore 10-B — Chapters Fourteen through Nineteen](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened).
 
 
 ### 2. Why Definition Integrity Exists
@@ -86,7 +86,7 @@ Systems rarely say they are ignoring a rule. More often they keep the words and 
   - [Subcore 3-B, section 4 — Non-Compliance from Observable System Behavior](#4-non-compliance-from-observable-system-behavior);
   - [Subcore 3-C, section 4 — Definition Traceability Requirement](subcore_03.030_burden_traceability_verification.md#4-definition-traceability-requirement) (S3-C);
   - [Subcore 3-C, section 7 — Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard) (S3-C);
-  - [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
+  - [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000).
 - Read with: [Chapter Two, section 3.2 — Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) (2.000) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
 </details>
@@ -143,8 +143,8 @@ This section does not define evaluation standards, evidence sufficiency, or burd
   - [5. Non-Compliance Finding Profiles](#5-non-compliance-finding-profiles);
   - [Subcore 3-C, section 7 — Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard) (S3-C);
   - [Subcore 3-C, section 5 — Observability of Traceability Requirement](subcore_03.030_burden_traceability_verification.md#5-observability-of-traceability-requirement) (S3-C);
-  - [Chapter Nine §4](core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*system alignment certification reopening and anti-evasion pointer*);
-  - [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) (*system alignment certification reopening and anti-evasion pointer*);
+  - [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000).
 - Read with:
   - [Subcore 3-A, §3 — Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#3-definition-components-and-joint-satisfaction) (S3-A §3) for the joint-satisfaction rule under full functional system conditions;
   - [Subcore 3-A, §4.4 Interpretation Rule under Ambiguity](subcore_03.010_definition_structure.md#44-interpretation-rule-under-ambiguity) (S3-A §4.4) — interpretations that weaken safeguards, shrink what must be evaluated, or worsen real-world results are invalid;
@@ -269,9 +269,9 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 - Upstream: [Subcore 3-B, section 4 — Non-Compliance from Observable System Behavior](#4-non-compliance-from-observable-system-behavior); [Subcore 3-A, §4 Definition Integrity Requirement](subcore_03.010_definition_structure.md#4-definition-integrity-requirement) (S3-A §4).
 - Downstream:
   - [Subcore 3-C, section 4 — Definition Traceability Requirement](subcore_03.030_burden_traceability_verification.md#4-definition-traceability-requirement) (S3-C);
-  - [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000);
-  - [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000);
-  - [Chapter Sixteen — Standing Effects and Integration](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (16.000);
+  - [Subcore 8-B — Chapter Eight — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000);
+  - [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000);
+  - [Subcore 10-F — Chapter Sixteen — Standing Effects and Integration](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (16.000);
   - [CJS-3.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 - Read with: [Non-Compliance Finding Profile](subcore_03.070_band_accountability.md#non-compliance-finding-profile) — canonical O/M/A/C home for profile fields; [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad); [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims).
 
@@ -286,17 +286,17 @@ Material **non-compliance** findings under this chapter or under invoked **Chapt
 - may name which [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) leg and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) orientation best describe the failure — for example Oversight, Participation, or Accountability crossed with Flourishing or Continuity
 - does not change whether the underlying definition is met
 - does not create a second verdict label
-- does not replace [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) contribution or violation measurement
+- does not replace [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) contribution or violation measurement
 
 Standing effects depend on who is being assessed and on whether the system is already certified. The subsections below set those cases.
 
 #### 5.1 Standing Effects for Already-Certified Systems
 
-If a system is already running under a [system alignment certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) standing measurement for **that system**. Only facts that pass the [verified-input gate](core_14.000_standing_assessment.md#45-verified-input-gate) may enter. Measure standing under [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened); apply its integration and effects under [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows). Reopening, withdrawal, or other certification consequences stay under [Chapter Nine](core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes). They do not replace that system's Standing Records.
+If a system is already running under a [Subcore 8-B — system alignment certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) standing measurement for **that system**. Only facts that pass the [verified-input gate](subcore_10.020_standing_assessment.md#45-verified-input-gate) may enter. Measure standing under [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened); apply its integration and effects under [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows). Reopening, withdrawal, or other certification consequences stay under [Subcore 8-D](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes). They do not replace that system's Standing Records.
 
 #### 5.2 Standing Effects at First Certification
 
-If the system is still in its **first** [system alignment certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) and has not yet been certified — including where certification is deferred or refused — verified non-compliance first decides the **certification outcome** under Chapter Eight. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. The outcome does not stop standing input: those System Certification Records supply it under [Chapter Ten §6.2 Every Certification Outcome](core_10.000_system_alignment_certification_records_recertification.md#62-every-certification-outcome), on the same terms as [§5.1 Standing Effects for Already-Certified Systems](#51-standing-effects-for-already-certified-systems) and only through the verified-input gate. A certification finding that a system is not yet aligned is not a violation by itself. Where the operator makes consistent, honest efforts toward alignment and is not negligent, a violation finding is unlikely.
+If the system is still in its **first** [Subcore 8-B — system alignment certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) and has not yet been certified — including where certification is deferred or refused — verified non-compliance first decides the **certification outcome** under Chapter Eight. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. The outcome does not stop standing input: those System Certification Records supply it under [Subcore 8-F §6.2 Every Certification Outcome](subcore_08.060_system_alignment_certification_records_recertification.md#62-every-certification-outcome), on the same terms as [§5.1 Standing Effects for Already-Certified Systems](#51-standing-effects-for-already-certified-systems) and only through the verified-input gate. A certification finding that a system is not yet aligned is not a violation by itself. Where the operator makes consistent, honest efforts toward alignment and is not negligent, a violation finding is unlikely.
 
 #### 5.3 Standing Effects for Sentients and Institutions
 
@@ -311,7 +311,7 @@ A sentient's standing is affected only when a verified link to that sentient is 
 - concealment
 - feasible prevention capacity
 
-An institution's standing is affected when the institution is the subject being assessed, or when the non-compliance pattern is verified as carried out through it. Institution records remain separately traceable from individual sentient records. Apply those cases under [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) and [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows). The finding profile helps route and audit. It does not itself set standing outcomes, slots, locks, gates, or remedies.
+An institution's standing is affected when the institution is the subject being assessed, or when the non-compliance pattern is verified as carried out through it. Institution records remain separately traceable from individual sentient records. Apply those cases under [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) and [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows). The finding profile helps route and audit. It does not itself set standing outcomes, slots, locks, gates, or remedies.
 
 #### 5.4 Operational Constraints
 

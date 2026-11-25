@@ -6,7 +6,7 @@
 > This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. Until 2026-11-20 it was a chapter of its own. It contains **Subcore 3-C**: burden of proof, definition traceability, observability, verification under security limits, and verification accessibility.
 >
 > **Upstream:** [Subcores 3-A and 3-B — Definition mechanics](subcore_03.010_definition_structure.md); Chapter Three definitions.
-> **Downstream:** [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened).
+> **Downstream:** [Subcore 8-B — Chapter Eight — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation); [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened).
 
 </details>
 
@@ -17,7 +17,7 @@
 > - **Tetrad map:** Burden allocation, evidence, traceability, observability, and verification implement the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **oversight** and **accountability** legs established in [Preamble](core_00.000_preamble.md#preamble--foundational-requirements); **participation** where materially required through practical observability and independent challenge under sections **4** and **5**. Requirements scale with [material stake](core_00.000_preamble.md#material-stake).
 > - **Constitutional owner:** burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification. **Chapter Fourteen** owns Standing-Record and verified-input discipline read with this chapter.
 > - **Implementation owner:** deployment, data-handling, and assurance mechanics in designated implementation files must remain consistent with these rules and may be stricter where the corpus already provides a [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) rule.
-> - **Anti-relocation rule:** this chapter governs burden, trace, observability, security limits, and evidence only. It does not restate Chapter Three definitions, **Chapter Fifteen** contribution or standing measurement, or Chapter Twenty anti-constitutional-misconduct criteria. Verified non-compliance routing to standing is governed by [Subcore 3-B §5 — Non-Compliance Finding Profiles](subcore_03.020_definition_integrity.md#5-non-compliance-finding-profiles) and [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened). **Section 7** states how Subcores 3-A to 3-C differ from [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation).
+> - **Anti-relocation rule:** this chapter governs burden, trace, observability, security limits, and evidence only. It does not restate Chapter Three definitions, **Chapter Fifteen** contribution or standing measurement, or Chapter Twenty anti-constitutional-misconduct criteria. Verified non-compliance routing to standing is governed by [Subcore 3-B §5 — Non-Compliance Finding Profiles](subcore_03.020_definition_integrity.md#5-non-compliance-finding-profiles) and [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened). **Section 7** states how Subcores 3-A to 3-C differ from [Subcore 8-B — Chapter Eight — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation).
 
 </details>
 
@@ -54,9 +54,9 @@ Subcore 3-C is the constitutional owner of **burden allocation, compliance evide
 
 The chapter leaves:
 
-- the certification process itself to [Chapters Eight through Thirteen](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation);
+- the certification process itself to [Subcore 8-B — Chapters Eight through Thirteen](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation);
 - the meaning of each definition to Chapter Three; and
-- Standing Records and their effects to [Chapters Fourteen through Nineteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened).
+- Standing Records and their effects to [Subcore 10-B — Chapters Fourteen through Nineteen](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened).
 
 
 ### 2. Why the Burden of Proof Exists
@@ -217,7 +217,7 @@ Cryptography and information-type handling must align with the Constitution and 
   - [Subcore 3-B, section 3 — Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) (S3-B);
   - [Subcore 3-B, section 4 — Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) (S3-B);
   - [Subcore 3-B, §4.6 Uncertainty Integrity and Non-Exploitation Constraint](subcore_03.020_definition_integrity.md#46-uncertainty-integrity-and-non-exploitation-constraint) (S3-B §4.6) — substantive definition and non-compliance rules; **§7** states evidence-layer requirements only and does not restate those rules.
-- Downstream: [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
+- Downstream: [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000).
 - Read with:
   - [Subcore 3-C, section 4 — Definition Traceability Requirement](#4-definition-traceability-requirement) — failure to invoke or correctly apply any materially required
   - **Chapter Three** definition invalidates the associated evaluation, evidence, and compliance determination in full;
@@ -257,8 +257,8 @@ Where uncertainty prevents definitive demonstration of compliance for materially
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [Subcore 3-A — Definition Structure and Component Requirements](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements) (S3-A); [Subcore 3-B — Definition Integrity, Evasion, and Non-Compliance](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance) (S3-B); [Chapters Three and 4](#3-exclusive-enforcement-and-burden-allocation).
-- Downstream: [Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000); [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000).
-- Read with: [Chapter Nine §4 — Certification Outcomes](core_09.000_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) — verified non-compliance under Subcores 3-A to 3-C can reopen or defeat certification regardless of prior certification.
+- Downstream: [Subcore 8-B — Chapter Eight — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (8.000); [Subcore 10-B — Chapter Fourteen — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (14.000).
+- Read with: [Subcore 8-D — Chapter Nine §4 — Certification Outcomes](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (9.000 §4) — verified non-compliance under Subcores 3-A to 3-C can reopen or defeat certification regardless of prior certification.
 
 </details>
 
@@ -275,7 +275,7 @@ This section is **non-operative**. It states an **owner boundary** only.
 
 These apply whenever compliance is evaluated — with or without certification.
 
-**[Chapter Eight — System Alignment Certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation)** supplies the forum-supervised **certification process** where material: whole-system evaluation domains, System and Institutional Certification Record duties, certification outcomes, certification interval, contestability chain, and verified-input bridge to Chapter Fourteen. It **applies** Subcores 3-A to 3-C; it does **not** restate them.
+**[Subcore 8-B — Chapter Eight — System Alignment Certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation)** supplies the forum-supervised **certification process** where material: whole-system evaluation domains, System and Institutional Certification Record duties, certification outcomes, certification interval, contestability chain, and verified-input bridge to Chapter Fourteen. It **applies** Subcores 3-A to 3-C; it does **not** restate them.
 
 Readers must not treat:
 - a **System or Institutional Certification Record** as a substitute for ongoing compliance under Subcores 3-A to 3-C

@@ -1,6 +1,6 @@
 # Trusted Voices in Surrender: Research Memo (2026-11-20)
 
-**Purpose:** background for the *Trusted voices* rule added on 2026-11-20 to [Subcore 26-A §4.2 Before Force](../../subcore_26.010_special_enforcement_procedure.md#trusted-voices), with its core line in [Chapter Twenty-Six §5](../../core_26.000_special_enforcement.md#5-potential-violence-and-force). The custodian asked whether research supports calling in family and friends, voluntarily, to help persuade a violent sentient to surrender.
+**Purpose:** background for the *Trusted voices* rule added on 2026-11-20 to [Subcore 20-A §4.2 Before Force](../../subcore_20.010_special_enforcement_procedure.md#trusted-voices), with its core line in [Chapter Twenty §5](../../core_20.000_special_enforcement.md#5-potential-violence-and-force). The custodian asked whether research supports calling in family and friends, voluntarily, to help persuade a violent sentient to surrender.
 
 **How this memo was made:** it summarizes well-known findings from memory and points to sources located by web search on 2026-11-20. The sources were identified, not read in full; confirm any figure against the source before citing it.
 

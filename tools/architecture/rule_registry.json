@@ -434,7 +434,7 @@
     {
       "id": "SUBCORE-CITE-01",
       "legacy_ref": "subcore cites carry a Subcore N-X label",
-      "summary": "Every Markdown link into a subcore file outside Chapter Three must say which subcore it cites: the link text starts with \"Subcore N-X\" (or \"Subcores\"), or the same line names \"Subcore N-X\" for that file, so term links such as [Type I](subcore_04.050_data_types.md#…) pass beside a (Subcore 4-A) label. Readers then tell standardized detail (Subcore N-X) from fixed guarantee text (Chapter N) by the cite; both have the same force. Chapter Three definition files, footer navigation lines, headings, fenced code, and self-links are out of scope.",
+      "summary": "Every Markdown link into a subcore file outside Chapter Three must say which subcore it cites: the link text starts with \"Subcore N-X\" (or \"Subcores\"), or the same line names \"Subcore N-X\" for that file, so term links such as [Subcore 4-A — Type I](subcore_04.050_data_types.md#…) pass beside a (Subcore 4-A) label. Readers then tell standardized detail (Subcore N-X) from fixed guarantee text (Chapter N) by the cite; both have the same force. Chapter Three definition files, footer navigation lines, headings, fenced code, and self-links are out of scope.",
       "make_target": "subcore-cite-label-audit",
       "status": "blocking"
     },

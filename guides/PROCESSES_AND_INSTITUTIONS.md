@@ -43,7 +43,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 #### 1.2.1 Certifying a system
 
-- **Where:** [Chapters Eight](../core_08.000_system_alignment_certification_evaluation.md), [Nine](../core_09.000_system_alignment_certification_forum_process_outcomes.md), [Ten](../core_10.000_system_alignment_certification_records_recertification.md), [Subcores 8-A](../subcore_08.010_system_classification.md), [9-A](../subcore_09.010_certification_seats_forum_roles_sequence.md), [10-A](../subcore_10.010_system_certification_record_contents.md).
+- **Where:** [Chapters Eight](../subcore_08.020_system_alignment_certification_evaluation.md), [Nine](../subcore_08.040_system_alignment_certification_forum_process_outcomes.md), [Ten](../subcore_08.060_system_alignment_certification_records_recertification.md), [Subcores 8-A](../subcore_08.010_system_classification.md), [9-A](../subcore_08.030_certification_seats_forum_roles_sequence.md), [10-A](../subcore_08.050_system_certification_record_contents.md).
 - **What happens:** A system is classed, evaluated against its System Charter, reviewed by the forums, recorded, and recertified on a cycle set by its class.
 - **Principles that bear most:**
   - [Chapter Two §5.1](../core_02.000_values_principles.md#51-science-informed-inquiry-and-decision-support) (decisions rest on evidence and keep a record of it);
@@ -55,7 +55,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 #### 1.2.2 Certifying an institution
 
-- **Where:** [Chapters Eleven](../core_11.000_institutional_alignment_certification_evaluation.md), [Twelve](../core_12.000_institutional_alignment_certification_forum_process_outcomes.md), [Thirteen](../core_13.000_institutional_alignment_certification_records_recertification.md), [Subcores 11-A](../subcore_11.010_institution_class_evaluation_items.md), [12-A](../subcore_12.010_institutional_certification_seats_sequence_readiness.md), [13-A](../subcore_13.010_new_material_authority_system_reopening.md).
+- **Where:** [Chapters Eleven](../subcore_09.020_institutional_alignment_certification_evaluation.md), [Twelve](../subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md), [Thirteen](../subcore_09.060_institutional_alignment_certification_records_recertification.md), [Subcores 11-A](../subcore_09.010_institution_class_evaluation_items.md), [12-A](../subcore_09.030_institutional_certification_seats_sequence_readiness.md), [13-A](../subcore_09.050_new_material_authority_system_reopening.md).
 - **What happens:** The same path for an institution, which also answers for the systems it runs and reopens them when its authority changes.
 - **Principles that bear most:**
   - [Chapter Two §5.1](../core_02.000_values_principles.md#51-science-informed-inquiry-and-decision-support) (decisions rest on evidence and keep a record of it);
@@ -68,7 +68,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 #### 1.3.1 Recording and weighing what happened (standing)
 
-- **Where:** [Chapters Fourteen](../core_14.000_standing_assessment.md), [Fifteen](../core_15.000_standing_measurement.md), [Sixteen](../core_16.000_standing_integration.md), [Seventeen](../core_17.000_contribution_consequences.md), [Eighteen](../core_18.000_violation_consequences.md), [Nineteen](../core_19.000_final_effect_restoration_enforcement.md), [Subcores 14-A to 19-A](../subcore_14.010_standing_record_event_types_fields_custody.md).
+- **Where:** [Chapters Fourteen](../subcore_10.020_standing_assessment.md), [Fifteen](../subcore_10.040_standing_measurement.md), [Sixteen](../subcore_10.060_standing_integration.md), [Seventeen](../core_11.000_contribution_consequences.md), [Eighteen](../core_12.000_violation_consequences.md), [Nineteen](../core_13.000_final_effect_restoration_enforcement.md), [Subcores 14-A to 19-A](../subcore_10.010_standing_record_event_types_fields_custody.md).
 - **What happens:** Three questions in order: what happened (a Standing Record), how good or bad it was (a slot on the LEQU scale), and what follows (recognition, remedy, locks, and restoration).
 - **Principles that bear most:**
   - [Chapter Two §16.4](../core_02.040_stewardship_capacity_principles.md#164-document-at-action) (record a binding act when it happens);
@@ -80,7 +80,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 #### 1.3.2 Designating anti-constitutional misconduct
 
-- **Where:** [Chapters Twenty](../core_20.000_misconduct_designation.md), [Twenty-One](../core_21.000_misconduct_pattern_applications.md).
+- **Where:** [Chapters Twenty](../core_14.000_misconduct_designation.md), [Twenty-One](../core_15.000_misconduct_pattern_applications.md).
 - **What happens:** Only at Violation Axis slot 7 or above, on the Standing Record, with carve-outs for good-faith drafting, dissent, protest, journalism, and protected reporting.
 - **Principles that bear most:**
   - [Chapter Two §3.1.3](../core_02.000_values_principles.md#313-fair-treatment) (same rules, given reasons, and a review);
@@ -92,7 +92,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 #### 1.4.1 Bringing and deciding a forum case
 
-- **Where:** [Chapters Twenty-Two](../core_22.000_forum.md), [Twenty-Three](../core_23.000_forum_families_escalation_timeliness_support.md), [Subcores 22-A](../subcore_22.010_forum_intake_default_venue.md), [22-B](../subcore_22.020_forum_case_seats_contest_routing.md).
+- **Where:** [Chapters Twenty-Two](../core_16.000_forum.md), [Twenty-Three](../core_17.000_forum_families_escalation_timeliness_support.md), [Subcores 22-A](../subcore_16.010_forum_intake_default_venue.md), [22-B](../subcore_16.020_forum_case_seats_contest_routing.md).
 - **What happens:** A matter is filed free of charge, routed by its primary stakes to one forum family, heard inside the window for its tier, and decided with published reasons.
 - **Principles that bear most:**
   - [Chapter Two §3.1.1](../core_02.000_values_principles.md#311-access-and-opportunity) (access paths must be usable in practice);
@@ -104,7 +104,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 #### 1.4.2 Enforcing an outcome
 
-- **Where:** [Chapters Twenty-Five](../core_25.000_enforcement.md), [Twenty-Six](../core_26.000_special_enforcement.md), [Subcore 26-A](../subcore_26.010_special_enforcement_procedure.md).
+- **Where:** [Chapters Twenty-Five](../core_19.000_enforcement.md), [Twenty-Six](../core_20.000_special_enforcement.md), [Subcore 20-A](../subcore_20.010_special_enforcement_procedure.md).
 - **What happens:** An outcome is served, carried out by the least restrictive step that works, and reviewed. Special enforcement covers capture and resistance.
 - **Principles that bear most:**
   - [Chapter Two §7.1](../core_02.000_values_principles.md#71-limitation-discipline) (a restriction must be needed, proved, proportionate, and overseen);
@@ -117,7 +117,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 #### 1.5.1 Making binding collective choices: assemblies, referendums, and taxation
 
-- **Where:** [Chapter Twenty-Four](../core_24.000_assemblies.md), [Subcore 24-A](../subcore_24.010_taxation.md), [Subcore 27-F](../subcore_27.060_binding_collective_choice.md).
+- **Where:** [Chapter Eighteen](../core_18.000_assemblies.md), [Subcore 18-A](../subcore_18.010_taxation.md), [Subcore 21-F](../subcore_21.060_binding_collective_choice.md).
 - **What happens:** Assemblies make binding rules, communities can petition for a referendum, and taxes follow published rules.
 - **Principles that bear most:**
   - [Chapter Two §3.1.1](../core_02.000_values_principles.md#311-access-and-opportunity) (access paths must be usable in practice);
@@ -127,7 +127,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 #### 1.5.2 Authorizing and steering a governing authority
 
-- **Where:** [Chapter Twenty-Seven](../core_27.000_governance.md), [Subcores 27-A to 27-F](../subcore_27.010_governance_disclosure.md).
+- **Where:** [Chapter Twenty-One](../core_21.000_governance.md), [Subcores 27-A to 27-F](../subcore_21.010_governance_disclosure.md).
 - **What happens:** Authority comes from a legitimate selection, can be recalled, sets stewardship direction in public, and answers the independent offices.
 - **Principles that bear most:**
   - [Chapter Two §18.3](../core_02.050_governance_incentive_application.md#183-separation-of-duties) (the actor is never the independent check on its own act);
@@ -140,7 +140,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 #### 1.6.1 Changing the Constitution
 
-- **Where:** [Chapters Twenty-Eight](../core_28.000_non_regression.md), [Twenty-Nine](../core_29.000_amendment_ratification.md), [Subcore 28-A](../subcore_28.010_non_regression_determinations.md).
+- **Where:** [Chapters Twenty-Eight](../core_22.000_non_regression.md), [Twenty-Nine](../core_23.000_amendment_ratification.md), [Subcore 22-A](../subcore_22.010_non_regression_determinations.md).
 - **What happens:** Anyone may propose. A change must pass the substantive non-regression test, decided by the Constitutional Forum, and the three procedural tests.
 - **Principles that bear most:**
   - [Chapter Two §15.1](../core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (relabeling or rerouting an act does not escape its duties);
@@ -150,19 +150,19 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 #### 1.6.2 Expanding, ranking against other law, and incorporating
 
-- **Where:** [Chapters Thirty](../core_30.000_expansion_supremacy.md), [Thirty-One](../core_31.000_incorporation.md).
+- **Where:** [Chapters Thirty](../core_24.000_expansion_supremacy.md), [Thirty-One](../core_25.000_incorporation.md).
 - **What happens:** Protection may be added freely; these chapters set how this Constitution sits beside other legal orders and how an adopter incorporates it.
 - **Principles that bear most:**
   - [Chapter Two §15.1](../core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (relabeling or rerouting an act does not escape its duties); and
   - [Chapter Two §13](../core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (when two constitutional duties pull apart, the steps for deciding which gives way, and how far).
 
-**Under pressure, in every process:** [Chapter Six §8](../core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) (an emergency changes the order of steps, not who owns each seat), and [Chapter Two §17.5](../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (refuse, document, and escalate an unconstitutional order). Emergency measures keep the outer bounds of [Chapter Twenty-Three §5.1](../core_23.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden).
+**Under pressure, in every process:** [Chapter Six §8](../core_06.000_functional_independence_separation_of_duties.md#8-emergency-and-urgent-action) (an emergency changes the order of steps, not who owns each seat), and [Chapter Two §17.5](../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (refuse, document, and escalate an unconstitutional order). Emergency measures keep the outer bounds of [Chapter Seventeen §5.1](../core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden).
 
 ## Part 2. By institution
 
 ### 2.1 Forum families
 
-- **What it is:** the six forum families: Sentient, Technical, Institutional, Environment, Integrity, and Constitutional ([Chapter Twenty-Three](../core_23.000_forum_families_escalation_timeliness_support.md), [Chapter Seven](../core_07.000_independent_bodies.md)).
+- **What it is:** the six forum families: Sentient, Technical, Institutional, Environment, Integrity, and Constitutional ([Chapter Seventeen](../core_17.000_forum_families_escalation_timeliness_support.md), [Chapter Seven](../core_07.000_independent_bodies.md)).
 - **Processes it runs or answers to:** [Bringing and deciding a forum case](#141-bringing-and-deciding-a-forum-case); [Certifying a system](#121-certifying-a-system); [Certifying an institution](#122-certifying-an-institution); [Recording and weighing what happened (standing)](#131-recording-and-weighing-what-happened-standing); [Designating anti-constitutional misconduct](#132-designating-anti-constitutional-misconduct); [Changing the Constitution](#161-changing-the-constitution).
 - **Principles that bear most on its own conduct:**
   - [Chapter Two §3.1.3](../core_02.000_values_principles.md#313-fair-treatment);
@@ -199,7 +199,7 @@ The twelve processes are grouped under six topics. Within each topic they keep c
 
 ### 2.5 Governing authority and assemblies
 
-- **What it is:** the bodies that hold authorized power and make binding rules ([Chapter Twenty-Seven](../core_27.000_governance.md), [Chapter Twenty-Four](../core_24.000_assemblies.md)).
+- **What it is:** the bodies that hold authorized power and make binding rules ([Chapter Twenty-One](../core_21.000_governance.md), [Chapter Eighteen](../core_18.000_assemblies.md)).
 - **Processes it runs or answers to:** [Authorizing and steering a governing authority](#152-authorizing-and-steering-a-governing-authority); [Making binding collective choices: assemblies, referendums, and taxation](#151-making-binding-collective-choices-assemblies-referendums-and-taxation); [Enforcing an outcome](#142-enforcing-an-outcome); [Changing the Constitution](#161-changing-the-constitution).
 - **Principles that bear most on its own conduct:**
   - [Chapter Two §17.5](../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);

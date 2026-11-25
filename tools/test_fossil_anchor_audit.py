@@ -16,21 +16,21 @@ class FossilAnchorAuditTests(unittest.TestCase):
     def test_dual_ids_are_pruned_to_current(self) -> None:
         with tempfile.TemporaryDirectory() as temp_dir:
             root = Path(temp_dir)
-            (root / "core_16.000_standing_integration.md").write_text(
+            (root / "subcore_10.060_standing_integration.md").write_text(
                 "<a id=\"411-duty-to-resist-unlawful-or-unconstitutional-instructions\"></a>\n"
                 "<a id=\"54-duty-to-resist-unlawful-or-unconstitutional-instructions\"></a>\n"
                 "#### 5.4 Duty to resist unlawful or unconstitutional instructions\n",
                 encoding="utf-8",
             )
             (root / "core_02.040_stewardship_capacity_principles.md").write_text(
-                "[Chapter Ten §6.4](core_16.000_standing_integration.md"
+                "[Chapter Ten §6.4](subcore_10.060_standing_integration.md"
                 "#411-duty-to-resist-unlawful-or-unconstitutional-instructions)\n",
                 encoding="utf-8",
             )
             impl = root / "implementation"
             impl.mkdir()
             (impl / "index.json").write_text(
-                '{\n  "href": "core_16.000_standing_integration.md'
+                '{\n  "href": "subcore_10.060_standing_integration.md'
                 '#411-duty-to-resist-unlawful-or-unconstitutional-instructions"\n}\n',
                 encoding="utf-8",
             )

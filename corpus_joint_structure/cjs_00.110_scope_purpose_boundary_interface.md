@@ -3,7 +3,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Thirty-One](../core_31.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-0.110** (*Scope, purpose, and boundary interface*), including **CJS-0.110 §0** (*Purpose, Role, and Scope*), **CJS-0.110 §1** (*Section Identifiers and Article References*), and **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*).
+> This file is **binding incorporated implementation text** where [`corpus_joint_structure.md`](../corpus_joint_structure.md) is incorporated under [Chapter Twenty-Five](../core_25.000_incorporation.md). It must satisfy the Sentient Constitution and does not override or narrow it. It holds **CJS-0.110** (*Scope, purpose, and boundary interface*), including **CJS-0.110 §0** (*Purpose, Role, and Scope*), **CJS-0.110 §1** (*Section Identifiers and Article References*), and **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*).
 >
 > How to enter this layer: [joint-structure reader guide](cjs_reader_guide.md). Start at the [Joint structure landing page](../corpus_joint_structure.md) for reading order, or the [joint-structure registry](cjs_00.105_registry_and_reading_rules.md) for identifier notes and the family map. Most readers reach this file from a citation rather than reading the folder front to back.
 
@@ -19,20 +19,20 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline; [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions; and [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router.
+- Upstream: [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline; [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions; and [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router.
 - Downstream:
   - **CJS-0.110 §0** (*Purpose, Role, and Scope*),
   - **CJS-0.110 §1** (*Section Identifiers and Article References*), and
   - **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*) in this file;
-  - [CJS-31.105 §7](cjs_31.105_drafting_contracts.md#cjs-31105-7-intentional-overlap-non-duplication-discipline) (*Intentional Overlap (Non-Duplication Discipline)*) through
-  - [CJS-31.105 §8.1](cjs_31.105_drafting_contracts.md#cjs-31105-81-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*);
+  - [CJS-25.105 §7](cjs_25.105_drafting_contracts.md#cjs-25105-7-intentional-overlap-non-duplication-discipline) (*Intentional Overlap (Non-Duplication Discipline)*) through
+  - [CJS-25.105 §8.1](cjs_25.105_drafting_contracts.md#cjs-25105-81-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*);
   - [CJS-6.105 §9](cjs_06.105_support_hosting_classification.md#cjs-6105-9-boundary-between-support-roles-and-merits-decisions) (*Boundary between Support Roles and Merits Decisions*) through
   - [CJS-6.105 §11](cjs_06.105_support_hosting_classification.md#cjs-6105-11-classification-alignment-for-supervised-scope) (*Classification Alignment for Supervised Scope*);
   - [CJS-3.140 §13](cjs_03.140_odef_parse_mechanics.md#cjs-3140-13-operational-structure-and-subsection-local-terminology) (*Operational Structure and Subsection-Local Terminology*) through
   - [CJS-3.140 §14](cjs_03.140_odef_parse_mechanics.md#cjs-3140-14-operational-clusters) (*Operational Clusters*).
 - Read with:
   - **CJS-0.110** (*Scope, purpose, and boundary interface*);
-  - **CJS-31.105** (*Drafting contracts and owner-to-CJS seam*);
+  - **CJS-25.105** (*Drafting contracts and owner-to-CJS seam*);
   - **CJS-3.140** (*oDef Parse Mechanics*); and
   - **CJS-6.105** (*Support roles, hosting independence, and classification alignment*);
   - **CJS-0.110 §0** (*Purpose, Role, and Scope*);
@@ -40,7 +40,7 @@
   - **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*);
   - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4);
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*);
-  - **CJS-31.110** (*Specific joint interlocks and shared abstractions*); **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
+  - **CJS-25.110** (*Specific joint interlocks and shared abstractions*); **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
 
 </details>
 
@@ -66,7 +66,7 @@
 
 Core home: 00
 
-This file is the joint-structure implementation home for **CJS-0.110** (*Scope, purpose, and boundary interface*). The related drafting contracts, support and hosting rules, and oDef parse mechanics are in [cjs_31.105_drafting_contracts.md](cjs_31.105_drafting_contracts.md), [cjs_06.105_support_hosting_classification.md](cjs_06.105_support_hosting_classification.md), and [cjs_03.140_odef_parse_mechanics.md](cjs_03.140_odef_parse_mechanics.md).
+This file is the joint-structure implementation home for **CJS-0.110** (*Scope, purpose, and boundary interface*). The related drafting contracts, support and hosting rules, and oDef parse mechanics are in [cjs_25.105_drafting_contracts.md](cjs_25.105_drafting_contracts.md), [cjs_06.105_support_hosting_classification.md](cjs_06.105_support_hosting_classification.md), and [cjs_03.140_odef_parse_mechanics.md](cjs_03.140_odef_parse_mechanics.md).
 
 *In plain terms: **CJS** is the joint-structure rulebook — rules that apply when two or more of **CJS**, **CS**, **CI**, and **CF** must be satisfied together.*
 
@@ -76,7 +76,7 @@ This file is the joint-structure implementation home for **CJS-0.110** (*Scope, 
 - the shared implementation-corpus contract other layers cite (**CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*));
 - section-identifier, **Def.*** / **oDef** home, and parse-mechanics rules for this corpus (**CJS-0.110 §1** (*Section Identifiers and Article References*), and **CJS-3.140 §13** (*Operational Structure and Subsection-Local Terminology*) through **CJS-3.140 §14** (*Operational Clusters*) in [cjs_03.140_odef_parse_mechanics.md](cjs_03.140_odef_parse_mechanics.md));
 - reusable joint operational definitions (**oDef** / **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)**);
-- cross-implementation topic routing and domain-specific joint rules (**CJS-0.105 §1** (*Cross-File Routing*), **CJS-31.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*) through **CJS-6.105 §11** (*Classification Alignment for Supervised Scope*), and **CJS-31.110** (*Specific joint interlocks*)). Drafting contracts: [cjs_31.105_drafting_contracts.md](cjs_31.105_drafting_contracts.md). Support, hosting, and classification seams: [cjs_06.105_support_hosting_classification.md](cjs_06.105_support_hosting_classification.md). Applicability, combined satisfaction, the default **CJS → CS → CI → CF** reading stack, and the [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule for jointly applicable incorporated obligations live in [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer).
+- cross-implementation topic routing and domain-specific joint rules (**CJS-0.105 §1** (*Cross-File Routing*), **CJS-25.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*) through **CJS-6.105 §11** (*Classification Alignment for Supervised Scope*), and **CJS-25.110** (*Specific joint interlocks*)). Drafting contracts: [cjs_25.105_drafting_contracts.md](cjs_25.105_drafting_contracts.md). Support, hosting, and classification seams: [cjs_06.105_support_hosting_classification.md](cjs_06.105_support_hosting_classification.md). Applicability, combined satisfaction, the default **CJS → CS → CI → CF** reading stack, and the [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule for jointly applicable incorporated obligations live in [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer).
 
 **What this layer does not own**
 
@@ -86,7 +86,7 @@ This file is the joint-structure implementation home for **CJS-0.110** (*Scope, 
 - institutional formation, authorization, oversight, correction, and dissolution — those belong to **CI**;
 - forum-family operational doctrine under Chapter Twenty-Two — those belong to **CF**.
 
-**Authority stack.** This file does not create a separate authority stack. Use the constitutional [Authority Stack and Internal Hierarchy](../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) in Chapter Three, read with [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) for incorporation, edition custody, and anti-drift rules. Domain owners: [Chapter One — constitutional owner register](../core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
+**Authority stack.** This file does not create a separate authority stack. Use the constitutional [Authority Stack and Internal Hierarchy](../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) in Chapter Three, read with [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) for incorporation, edition custody, and anti-drift rules. Domain owners: [Chapter One — constitutional owner register](../core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
 
 ## CJS-0.110 §0: Purpose, Role, and Scope
 
@@ -94,7 +94,7 @@ This file is the joint-structure implementation home for **CJS-0.110** (*Scope, 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline; [Chapter Two §15.4](../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) incorporation-layer reading; [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
+- Upstream: [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline; [Chapter Two §15.4](../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) incorporation-layer reading; [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Downstream:
   - **CJS-0.110 §1** (*Section Identifiers and Article References*);
   - **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*);
@@ -114,7 +114,7 @@ This file is the joint-structure implementation home for **CJS-0.110** (*Scope, 
 
 *In plain terms: this file is the front door to the how-to books. The Constitution says what must be true; this layer tells you how the systems, institutions, and forum books fit together when more than one of them applies.*
 
-**Role in the implementation corpus.** Adopted CJS text adds joint how-to detail within adoption scope; it must satisfy the Sentient Constitution and must not weaken constitutional requirements or Rights Floors. Under [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge), the non-core corpus is four adopted layers:
+**Role in the implementation corpus.** Adopted CJS text adds joint how-to detail within adoption scope; it must satisfy the Sentient Constitution and must not weaken constitutional requirements or Rights Floors. Under [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge), the non-core corpus is four adopted layers:
 
 | Layer | Landing page | What it is for |
 |---|---|---|
@@ -130,11 +130,15 @@ This file, **CJS-0.110** (*Scope, purpose, and boundary interface*), is the **bi
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [CJS-0.110 §0](#cjs-0110-0-purpose-role-and-scope) (*Purpose, Role, and Scope*) purpose of this layer; [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline; [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4) combined satisfaction and default reading stack.
+- Upstream: [CJS-0.110 §0](#cjs-0110-0-purpose-role-and-scope) (*Purpose, Role, and Scope*) purpose of this layer; [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline; [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4) combined satisfaction and default reading stack.
 - Downstream: **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*); **CJS-3.140 §13** (*Operational Structure and Subsection-Local Terminology*); **CJS-3.140 §14** (*Operational Clusters*); **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*).
 - Read with:
   - **CJS-0.110 §1** (*Section Identifiers and Article References*);
-  - **CJS-0.110** (*Scope, purpose, and boundary interface*), **CJS-31.105** (*Drafting contracts and owner-to-CJS seam*), **CJS-3.140** (*oDef Parse Mechanics*), and **CJS-6.105** (*Support roles, hosting independence, and classification alignment*);
+  - References:
+    - **CJS-0.110** (*Scope, purpose, and boundary interface*),
+    - **CJS-25.105** (*Drafting contracts and owner-to-CJS seam*),
+    - **CJS-3.140** (*oDef Parse Mechanics*), and
+    - **CJS-6.105** (*Support roles, hosting independence, and classification alignment*);
   - **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*);
   - **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*);
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*).
@@ -162,13 +166,13 @@ A reader-facing lookup table lives in the [joint-structure reader guide](cjs_rea
 
 | Label family | Example headers | What they are |
 |---|---|---|
-| **CJS** (this layer) | **CJS-0.110**, **CJS-0.110 §1**, **CJS-0.105 §1**, **CJS-31.110 §3** | Joint-structure files and sections in [corpus_joint_structure.md](../corpus_joint_structure.md) |
+| **CJS** (this layer) | **CJS-0.110**, **CJS-0.110 §1**, **CJS-0.105 §1**, **CJS-25.110 §3** | Joint-structure files and sections in [corpus_joint_structure.md](../corpus_joint_structure.md) |
 | **CS** | **CS-0.310** through **CS-4.340** | Systems families in [corpus_systems.md](../corpus_systems.md) |
 | **CI** | **CI-0.210**, **CI-6.215 §2**, **CI-8.210** | Institutions sections in [corpus_institutions.md](../corpus_institutions.md) |
-| **CF** | **CF-0.410**, **CF-22.410**, **CF-22.425 §4** | Forum sections in [corpus_forum.md](../corpus_forum.md) |
+| **CF** | **CF-0.410**, **CF-16.410**, **CF-16.425 §4** | Forum sections in [corpus_forum.md](../corpus_forum.md) |
 | **oDef** (operational definitions) | **oDef.13**, **oDef.16**, **oDef.3** | Shared how-to clusters in **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)**; for example, **oDef.13** is **CJS-3.125 §13** (*Accountability: Procedural Integrity and Adjudication Terms*) |
 
-How to read guidepost **oDef** entries (**What it is** / **How to measure and assess** / **What must hold**): [CJS-3.140 §13](cjs_03.140_odef_parse_mechanics.md#cjs-3140-13-operational-structure-and-subsection-local-terminology) (*Operational Structure and Subsection-Local Terminology*) and [CJS-3.140 §14](cjs_03.140_odef_parse_mechanics.md#cjs-3140-14-operational-clusters) (*Operational Clusters*). Where to put a definition: constitutional **Def.*** terms in **Chapter Three**; reusable joint **oDef** clusters in **CJS-3.105** (*operational cluster library (oDef)*) and the oDef cluster files that follow it, `cjs_05.110` through `cjs_05.135`; two-layer shared ideas under [CJS-31.105 §8](cjs_31.105_drafting_contracts.md#cjs-31105-8-two-layer-definition-contract-binding-abstraction--owner-detail) (*Two-Layer Definition Contract (Binding Abstraction + Owner Detail)*) (editors/auditors).
+How to read guidepost **oDef** entries (**What it is** / **How to measure and assess** / **What must hold**): [CJS-3.140 §13](cjs_03.140_odef_parse_mechanics.md#cjs-3140-13-operational-structure-and-subsection-local-terminology) (*Operational Structure and Subsection-Local Terminology*) and [CJS-3.140 §14](cjs_03.140_odef_parse_mechanics.md#cjs-3140-14-operational-clusters) (*Operational Clusters*). Where to put a definition: constitutional **Def.*** terms in **Chapter Three**; reusable joint **oDef** clusters in **CJS-3.105** (*operational cluster library (oDef)*) and the oDef cluster files that follow it, `cjs_05.110` through `cjs_05.135`; two-layer shared ideas under [CJS-25.105 §8](cjs_25.105_drafting_contracts.md#cjs-25105-8-two-layer-definition-contract-binding-abstraction--owner-detail) (*Two-Layer Definition Contract (Binding Abstraction + Owner Detail)*) (editors/auditors).
 
 ## CJS-0.110 §3: Shared Implementation-Corpus Preamble Contract
 
@@ -178,11 +182,11 @@ How to read guidepost **oDef** entries (**What it is** / **How to measure and as
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*) topic router;
-  - [Chapter Thirty-One](../core_31.000_incorporation.md#chapter-thirty-one-incorporation-bridge) (31.000) incorporation discipline and
+  - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Read with:
   - **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*);
-  - **CJS-31.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*) through
+  - **CJS-25.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*) through
   - **CJS-6.105 §11** (*Classification Alignment for Supervised Scope*);
   - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4);
   - [Chapter Two §15.4.3](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (2.030 §15.4.3);
@@ -206,15 +210,15 @@ This subsection is the shared starting contract those layers point to instead of
 | Tell Constitutional Contract Layer from Stakeholder System Participation | The **Constitutional Contract Layer** (who may govern, by what legitimacy mechanism, on what durable terms) is distinct from **Stakeholder System Participation** (voice, representation, contestability, and due process inside already-authorized systems). Canonical split: [Preamble §3.2 Governance Layers](../core_00.000_preamble.md#32-governance-layers). Do not treat stakeholder participation as a substitute for constitutional authorization, or constitutional authorization as erasing Stakeholder System Participation duties. Finding-profile codes **CCL** / **SSP** / **INT** are audit shorthand, not a third governance layer. |
 | Add detail in an implementation file | Add only what belongs inside that file's assigned scope. Keep the text understandable under **Article XXIV** (*Comprehensibility and Complexity Stewardship*). |
 | Find which file owns a topic | Start at [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (*Cross-File Routing*) and the [non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md). For which *layer* owns the domain: [Chapter One — constitutional owner register](../core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (chapters and adopted corpora); then that layer's owns / does-not-own list on **CJS-0.110** (*Scope, purpose, and boundary interface*), **CS-0.310**, **CI-0.210**, or **CF-0.410**. Editors and auditors use **CJS-0.105 §1** for the authoritative row table. |
-| Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | Use the default reading stack in [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations). Read [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) for **primary owner**, **mandatory read-with**, and when joint obligations apply. Combined satisfaction and the [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule: [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer). Domain-specific joint rules: **CJS-6.105 §9**–**CJS-6.105 §11**. Deliberate-split, two-layer, and primary-owner-to-CJS seam drafting contracts (**CJS-31.105 §7**, **CJS-31.105 §8**, **CJS-31.105 §8.1**) are for editors and auditors. |
-| Resolve two rules that disagree on the same risk | Numbered `core_*` text controls constitutional meaning; adopted implementation may be stricter but not laxer. The [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule between implementation files: [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule). CJS vs **primary owner** collision (editors/auditors): **CJS-31.105 §8** with the seam rule in **CJS-31.105 §8.1**. |
+| Apply more than one of **CJS**, **CS**, **CI**, and **CF** to the same facts | Use the default reading stack in [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations). Read [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) for **primary owner**, **mandatory read-with**, and when joint obligations apply. Combined satisfaction and the [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule: [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer). Domain-specific joint rules: **CJS-6.105 §9**–**CJS-6.105 §11**. Deliberate-split, two-layer, and primary-owner-to-CJS seam drafting contracts (**CJS-25.105 §7**, **CJS-25.105 §8**, **CJS-25.105 §8.1**) are for editors and auditors. |
+| Resolve two rules that disagree on the same risk | Numbered `core_*` text controls constitutional meaning; adopted implementation may be stricter but not laxer. The [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule between implementation files: [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule). CJS vs **primary owner** collision (editors/auditors): **CJS-25.105 §8** with the seam rule in **CJS-25.105 §8.1**. |
 | Use intervention or override language | Keep **CJS-3.135 §23** (*technical intervention and override integrity*) separate from **CJS-3.125 §14** (*governance authorization*). Both apply where relevant. |
 | Handle emergencies spanning multiple files | Apply [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*) with the topics that materially apply (owner Trace / [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing)). |
-| Place a definition (not route a topic) | Constitutional **Def.*** terms: **Chapter Three** (with Subcores 3-A to 3-C for O/M/A/C mechanics). Reusable joint **oDef** clusters: **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)**. Shared ideas that need a binding skeleton plus owner detail: apply the two-layer contract in **CJS-31.105 §8** when editing. |
-| Route cross-domain integrity questions | Read **CJS-31.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) and the applicable **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** operational clusters. CJS does not maintain a separate meta-obligation family. |
+| Place a definition (not route a topic) | Constitutional **Def.*** terms: **Chapter Three** (with Subcores 3-A to 3-C for O/M/A/C mechanics). Reusable joint **oDef** clusters: **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)**. Shared ideas that need a binding skeleton plus owner detail: apply the two-layer contract in **CJS-25.105 §8** when editing. |
+| Route cross-domain integrity questions | Read **CJS-25.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) and the applicable **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** operational clusters. CJS does not maintain a separate meta-obligation family. |
 
 ---
 
 **Previous file:** [cjs_reader_guide.md](cjs_reader_guide.md)
 
-**Next file:** [cjs_31.105_drafting_contracts.md](cjs_31.105_drafting_contracts.md)
+**Next file:** [cjs_25.105_drafting_contracts.md](cjs_25.105_drafting_contracts.md)

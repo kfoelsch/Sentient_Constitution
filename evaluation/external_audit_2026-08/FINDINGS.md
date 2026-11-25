@@ -5,7 +5,7 @@
 **Date:** 2026-08-15
 **Method:** Six-factor rubric (scope, substance, justiciability, non-regression, operability, pedigree) scored **Better / Mixed / Worse / Incommensurable** against named primary instruments. Corpus maps from the locator pass; comparators from [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md). Indexes point; numbered `core_*` files bind.
 
-**Category caveat (sits on every verdict):** [Chapter Thirty-One §5](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority) states this is a **model constitution**. Enforceability exists only after valid adoption. State constitutions are the **wrong primary class** for process scoring: they supply amendment, emergency, and review *design patterns*, not legitimacy or public force. Treaties, SAI/audit regimes, and AI-assurance rules are closer analogues for how a non-state text binds and is verified. Pedigree is scored separately from substance. See [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md) process class note and accuracy flags.
+**Category caveat (sits on every verdict):** [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) states this is a **model constitution**. Enforceability exists only after valid adoption. State constitutions are the **wrong primary class** for process scoring: they supply amendment, emergency, and review *design patterns*, not legitimacy or public force. Treaties, SAI/audit regimes, and AI-assurance rules are closer analogues for how a non-state text binds and is verified. Pedigree is scored separately from substance. See [BIBLIOGRAPHY.md](BIBLIOGRAPHY.md) process class note and accuracy flags.
 
 No single scalar. A text that is stronger on scope and weaker on pedigree is **Mixed**, not “better.”
 
@@ -50,7 +50,7 @@ No single scalar. A text that is stronger on scope and weaker on pedigree is **M
 
 **Operability — Mixed.** Def.P1, Sentience Non-Exclusion, and Article V-D are steward-usable. The concrete sentience-indicator catalog is forum/standards operational, not a fixed statutory list. Chapter Twenty-Two notes no dedicated Sentience-Status Adjudication Record schema yet in Chapter Thirty-One files — the floor binds; the record is thin.
 
-**Pedigree — Incommensurable.** UDHR/ICCPR/ECHR bind states. This instrument binds adopters only after deliberate, documented, auditable adoption ([Chapter Twenty-Nine §12.1](../../core_29.000_amendment_ratification.md#12-ratification-and-adoption)).
+**Pedigree — Incommensurable.** UDHR/ICCPR/ECHR bind states. This instrument binds adopters only after deliberate, documented, auditable adoption ([Chapter Twenty-Three §12.1](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption)).
 
 ### Paired quotes
 
@@ -130,8 +130,8 @@ Calling this a Rights-of-Nature constitution is false. Calling it a weak environ
 - **Certification-before-standing:** a certification record does not apply standing effects.
 - **Cross-forum anti-self-judging:** a forum family cannot be the sole final merits forum for claims about its own capture or bias.
 - **Auditability as a Rights Floor** (Article XVI) plus CJS-3.110 §3 and CJS-3.115 §3 as the how/when home.
-- **Duty to resist** unlawful or unconstitutional instructions ([Chapter Eighteen §4.4.3](../../core_18.000_violation_consequences.md#443-duty-to-resist)).
-- **No silent edition swap** ([Chapter Thirty-One §4](../../core_31.000_incorporation.md#4-safeguards)).
+- **Duty to resist** unlawful or unconstitutional instructions ([Chapter Twelve §4.4.3](../../core_12.000_violation_consequences.md#443-duty-to-resist)).
+- **No silent edition swap** ([Chapter Twenty-Five §4](../../core_25.000_incorporation.md#4-safeguards)).
 - Emergency continuation burden and Article XXV-C anti-delay clocks.
 
 German Art. 79(3) and Brazil Art. 60 §4 are narrower textual eternity locks and in force. India’s basic-structure doctrine (*Kesavananda*) is judge-made. South Africa s.1 is a supermajority, not unamendability. ICESCR non-retrogression is CESCR doctrine, not a Covenant article, and does not auto-invalidate. EU AI Act Arts. 43/72 are the closest certify-then-monitor analogue, still product-safety rather than civic standing. UNGPs require due diligence without constitutional status. ILO Art. 36 and TEU Art. 48 illuminate non-state constitutive consent; both still rest on member states.
@@ -146,17 +146,17 @@ German Art. 79(3) and Brazil Art. 60 §4 are narrower textual eternity locks and
 
 ### Paired quotes
 
-**Non-regression (corpus):** “No constitutional change is valid if it materially weakens core protections for any covered sentient class. … Material weakening includes indirect narrowing through definitions, procedures, standing gates, verification barriers, or emergency carve-outs.” — [Chapter Twenty-Eight §3](../../core_28.000_non_regression.md#3-non-regression-floor)
+**Non-regression (corpus):** “No constitutional change is valid if it materially weakens core protections for any covered sentient class. … Material weakening includes indirect narrowing through definitions, procedures, standing gates, verification barriers, or emergency carve-outs.” — [Chapter Twenty-Two §3](../../core_22.000_non_regression.md#3-non-regression-floor)
 
 **Non-regression (comparator):** “Amendments to this Basic Law affecting the division of the Federation into Länder, their participation in principle in the legislative process, or the principles laid down in Articles 1 and 20 shall be inadmissible.” — German Basic Law Art. 79(3)
 
-**Certification ≠ standing (corpus):** “A certification record does not apply standing effects” — Chapter Eight owns evaluation/record; Chapter Fourteen owns standing records; this chapter “may supply verified inputs only.” — [Chapter Ten §6](../../core_10.000_system_alignment_certification_records_recertification.md#6-relationship-to-standing)
+**Certification ≠ standing (corpus):** “A certification record does not apply standing effects” — Chapter Eight owns evaluation/record; Chapter Fourteen owns standing records; this chapter “may supply verified inputs only.” — [Subcore 8-F §6](../../subcore_08.060_system_alignment_certification_records_recertification.md#6-relationship-to-standing)
 
-**Anti-self-judging (corpus):** “A forum family must not be the sole final merits forum for a claim whose primary issue is that same family's own bias, capture, conflict, recusal failure, concealment, process abuse, or comparable integrity breach.” — [Chapter Twenty-Two §6](../../core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture)
+**Anti-self-judging (corpus):** “A forum family must not be the sole final merits forum for a claim whose primary issue is that same family's own bias, capture, conflict, recusal failure, concealment, process abuse, or comparable integrity breach.” — [Chapter Sixteen §6](../../core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture)
 
-**Adoption (corpus):** “This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. … Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.” — [Chapter Twenty-Nine §12.1](../../core_29.000_amendment_ratification.md#12-ratification-and-adoption)
+**Adoption (corpus):** “This Constitution binds a steward, organization, federation of bodies, or jurisdiction only when adoption is deliberate, documented, and auditable. … Informal, partial, or undisclosed adoption is insufficient to claim constitutional protections as a shield while denying corresponding obligations.” — [Chapter Twenty-Three §12.1](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption)
 
-**Model-constitution limit (corpus):** “Until then, it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.” — [Chapter Thirty-One §5](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority)
+**Model-constitution limit (corpus):** “Until then, it may guide, inform, or serve as a reference, but it has no independent power to enforce against non-adopters.” — [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority)
 
 ### Steelman
 

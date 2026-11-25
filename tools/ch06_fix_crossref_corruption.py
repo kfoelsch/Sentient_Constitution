@@ -21,7 +21,7 @@ FIXES: list[tuple[str, str, str]] = [
     ("core_14.000_forum.md", "under **section 5.1.2**", "under **section 6**"),
     ("core_14.000_forum.md", "[Chapter Eight Chapter Two §8.1.2](core_12.000_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary)", "[Chapter Ten Chapter Two §8.1](core_12.000_standing_integration.md#71-shared-domain-lenses-cross-axis-vocabulary)"),
     ("core_14.000_forum.md", "[Chapter Eight Chapter Two §8.1.2.3](core_12.000_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement)", "[Chapter Ten §4.9](core_12.000_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement)"),
-    ("core_14.000_forum.md", "[Chapter Eight Chapter Two §8.1.2](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter Eight Chapter Two §6.2](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
+    ("core_14.000_forum.md", "[Chapter Ten Chapter Two §8.1.2](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter Ten Chapter Two §6.2](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
     ("core_14.000_forum.md", "[Chapter Eight Chapter Two §8.1](core_12.000_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors)", "[Chapter Ten §4](core_12.000_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors)"),
     ("core_14.000_forum.md", "**section 5.1** primary category defaults", "**§4** primary category defaults"),
     # Chapter Ten — Ch6 severity refs

@@ -1,7 +1,7 @@
 # S08 — Adult student, enrollment as a lever, and an unpaid ranking internship
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.21`  
+**Corpus edition pin:** `SC-Corpus-2026.11.25`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
@@ -21,7 +21,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a st
 
 **Your role:** You sit the named **student-conduct intake** desk on this adopter’s training college. A ranking-exam vendor and a department chair filed a written request to hold Dana’s enrollment unless Dana drops a clinician, withdraws a public statement about the ranking app, and completes an unpaid “required experience” block. Dana is reachable and disputes the request in writing. No forum case is open. No standing record exists. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you verify a violation, cancel enrollment, or decide the ranking on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-27.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-27.205 §6](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-21.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-21.205 §6](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 

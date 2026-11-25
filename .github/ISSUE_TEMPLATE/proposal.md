@@ -19,7 +19,7 @@ labels: ["proposal"]
 - File(s) / stack:
 - Section(s) / anchor(s):
 - Open item advanced (`implementation/PRE_PUBLICATION_SPEC.md` §4.2, §4.3, or §5 step):
-- Edition pin: `SC-Corpus-2026.10.21`
+- Edition pin: `SC-Corpus-2026.11.25`
 
 ## Problem
 
@@ -39,7 +39,7 @@ labels: ["proposal"]
 
 ## Lane D — Substantive Test 1 non-regression self-check
 
-<!-- Delete unless Lane D. Confirm the change does not weaken Chapter Two constraints, Subcore 3-A to 3-C integrity, the Chapter Four Rights Floor, or Chapter Twenty-Seven legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels (core_28.000_non_regression.md § Substantive Test 1). -->
+<!-- Delete unless Lane D. Confirm the change does not weaken Chapter Two constraints, Subcore 3-A to 3-C integrity, the Chapter Four Rights Floor, or Chapter Twenty-Seven legitimacy — including indirect narrowing through definitions, standing gates, evidence rules, or emergency labels (core_22.000_non_regression.md § Substantive Test 1). -->
 
 ## Gates you expect to run
 

@@ -174,7 +174,7 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 
 - Upstream: [§3](#2-standing-records) (*standing records, verified-input gate, and no-offset bridge*); [§11](#31-slot-grammar-and-display-labels) (*slot grammar and display labels*); [Chapter Two §8.2](#42-lequ-violation-calibration) (*violation LEQU calibration*); [Chapter Two §8.1](#51-contribution-axis-bands-and-table-2) (*Contribution Axis rules and **Table 2***); [Chapter Ten §4.9](core_12.000_standing_integration.md#73-stackable-harm-and-conduct-descriptors-violation-nature-supplement) (*Violation Axis supplements*).
 - Downstream: [Chapter Ten §4](core_12.000_standing_integration.md#6-extended-axis-ii-legal-hybrid-duty-and-harm-descriptors) (*process / response character, hybrid, and duty material*); [Chapter Ten §5](core_12.000_standing_integration.md#8-cross-axis-coupling-and-escalation-constraints) (*standing integration and no-netting mechanics*); [Chapter Twelve](core_10-10_misconduct.md#chapter-twelve-anti-constitutional-misconduct) (*final Violation Axis **s = 7, 8, or 9** anti-constitutional misconduct assignment*).
-- Read with: [Supremacy and Enforceability](subcore_03.080_band_integrative.md#supremacy-and-enforceability), [Constitutional Constraint Violation](subcore_03.080_band_integrative.md#constitutional-constraint-violation), [Harm](subcore_03.070_band_accountability.md#harm), and [Materiality Determination](subcore_03.085_band_oversight.md#materiality-determination).
+- Read with: [Subcore 3-L — Supremacy and Enforceability](subcore_03.080_band_integrative.md#supremacy-and-enforceability), [Subcore 3-L — Constitutional Constraint Violation](subcore_03.080_band_integrative.md#constitutional-constraint-violation), [Subcore 3-J — Harm](subcore_03.070_band_accountability.md#harm), and [Subcore 3-M — Materiality Determination](subcore_03.085_band_oversight.md#materiality-determination).
 - Triad leg(s): **accountability**. Primary aim(s): **Flourishing** and **Continuity**. [material stake](core_00.000_preamble.md#material-stake) scaling applies to severity and verification burden.
 
 </details>
@@ -182,11 +182,11 @@ Adopted implementation may publish `C*` thresholds, `V(s)` weights, and keyed su
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
 
-- [Harm](subcore_03.070_band_accountability.md#harm) · [O](subcore_03.070_band_accountability.md#harm) · [E](subcore_03.070_band_accountability.md#harm-e) · [C](subcore_03.070_band_accountability.md#harm-c)
-- [Materiality Determination](subcore_03.085_band_oversight.md#materiality-determination) · [O](subcore_03.085_band_oversight.md#materiality-determination) · [E](subcore_03.085_band_oversight.md#materiality-determination-e) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
-- [Constitutional Constraint Violation](subcore_03.080_band_integrative.md#constitutional-constraint-violation) · [O](subcore_03.080_band_integrative.md#constitutional-constraint-violation) · [E](subcore_03.080_band_integrative.md#constitutional-constraint-violation-e) · [C](subcore_03.080_band_integrative.md#constitutional-constraint-violation-c)
-- [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional) · [O](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional) · [E](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-e) · [C](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-c)
-- [Foreseeability Diligence](subcore_03.085_band_oversight.md#foreseeability-diligence) · [O](subcore_03.085_band_oversight.md#foreseeability-diligence) · [E](subcore_03.085_band_oversight.md#foreseeability-diligence-e) · [C](subcore_03.085_band_oversight.md#foreseeability-diligence-c)
+- [Subcore 3-J — Harm](subcore_03.070_band_accountability.md#harm) · [Subcore 3-J — O](subcore_03.070_band_accountability.md#harm) · [Subcore 3-J — E](subcore_03.070_band_accountability.md#harm-e) · [Subcore 3-J — C](subcore_03.070_band_accountability.md#harm-c)
+- [Subcore 3-M — Materiality Determination](subcore_03.085_band_oversight.md#materiality-determination) · [Subcore 3-M — O](subcore_03.085_band_oversight.md#materiality-determination) · [Subcore 3-M — E](subcore_03.085_band_oversight.md#materiality-determination-e) · [Subcore 3-M — C](subcore_03.085_band_oversight.md#materiality-determination-c)
+- [Subcore 3-L — Constitutional Constraint Violation](subcore_03.080_band_integrative.md#constitutional-constraint-violation) · [Subcore 3-L — O](subcore_03.080_band_integrative.md#constitutional-constraint-violation) · [Subcore 3-L — E](subcore_03.080_band_integrative.md#constitutional-constraint-violation-e) · [Subcore 3-L — C](subcore_03.080_band_integrative.md#constitutional-constraint-violation-c)
+- [Subcore 3-N — Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional) · [Subcore 3-N — O](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional) · [Subcore 3-N — E](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-e) · [Subcore 3-N — C](subcore_03.090_band_participation.md#coercion-and-manipulation-constitutional-c)
+- [Subcore 3-M — Foreseeability Diligence](subcore_03.085_band_oversight.md#foreseeability-diligence) · [Subcore 3-M — O](subcore_03.085_band_oversight.md#foreseeability-diligence) · [Subcore 3-M — E](subcore_03.085_band_oversight.md#foreseeability-diligence-e) · [Subcore 3-M — C](subcore_03.085_band_oversight.md#foreseeability-diligence-c)
 
 </details>
 
@@ -325,7 +325,7 @@ CORPUS_REPLACEMENTS = [
     ("Chapter Eight — section 5", "Chapter Eight — section 5.1"),
     ("Chapter Eight — section 6", "Chapter Eight — section 5.2"),
     ("Chapter Eight §5", "Chapter Eight Chapter Two §8.1"),
-    ("[§5](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter Two §6.2](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
+    ("[§5](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)", "[Chapter Ten §6.2](core_10.000_standing_assessment.md#34-violation-axis-rules-violation-nature-adverse-findings-and-severity)"),
     ("sections 5 and 6", "sections 5.1 and 5.2"),
     ("**sections 5 and 6**", "**sections 5.1 and 5.2**"),
     ("section 6 severity", "section 5.2 severity"),

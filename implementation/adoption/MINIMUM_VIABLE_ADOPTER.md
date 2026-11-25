@@ -3,9 +3,9 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. The profiles, body lists, sequence, and order-of-magnitude staff and funding figures **cannot narrow core text**. They do not add adopter types, duties, forum families, or a compliance path. Reading a row that “fits” is not [Chapter Twenty-Nine §12](../../core_29.000_amendment_ratification.md#12-ratification-and-adoption) adoption and not [Chapter Thirty-One §5](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation. These rows are **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4).
+> This page is **process / operations-guide support** — **not** binding constitutional or incorporated text. The profiles, body lists, sequence, and order-of-magnitude staff and funding figures **cannot narrow core text**. They do not add adopter types, duties, forum families, or a compliance path. Reading a row that “fits” is not [Chapter Twenty-Three §12](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) adoption and not [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation. These rows are **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4).
 >
-> **Pinned to corpus edition:** `SC-Corpus-2026.10.21` (effective 2026-10-21; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
+> **Pinned to corpus edition:** `SC-Corpus-2026.11.25` (effective 2026-11-25; [README.md](../../README.md)). This corpus is **pre-release**. Pin the current edition; do not treat heading ids as frozen across later cuts.
 >
 > Start here only to ask *which bodies, in what order, at what order-of-magnitude staff and funding, for an adopter of size N and impact Class X*. Where this would actually fit: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md). Two parties or a first qualifying body: [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md). Founding an institution: [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md). Naming independent review or founding a forum family: [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md). Day-to-day next steps: [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md).
 
@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Thirty-One §5](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (*who may adopt; stated adoption scope*); [Chapter Twenty-Nine §12](../../core_29.000_amendment_ratification.md#12-ratification-and-adoption) (*deliberate adoption, document*); [Subcore 8-A §7](../../subcore_08.010_system_classification.md#7-system-impact-classifications) (*impact Class A–P*); [CJS-31.110 §4](../../corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md#cjs-31110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class A/B lane staffing*); [CI-8.210 §1](../../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-1-formation-proportionality) (*formation proportionality*); [CI-6.205 §2](../../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*required functional lanes*); [CF-22.405 §3](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-3-core-structural-rule) (*minimum family inventory for adopting entities*); [Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum) (*remedy-parity funding minimum*); [Chapter Twenty-Two](../../core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (*forum families*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)).
+- Upstream: [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (*who may adopt; stated adoption scope*); [Chapter Twenty-Three §12](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) (*deliberate adoption, document*); [Subcore 8-A §7](../../subcore_08.010_system_classification.md#7-system-impact-classifications) (*impact Class A–P*); [CJS-25.110 §4](../../corpus_joint_structure/cjs_25.110_specific_joint_interlocks.md#cjs-25110-4-class-scaled-lane-staffing-and-competency-redundancy) (*Class A/B lane staffing*); [CI-8.210 §1](../../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-1-formation-proportionality) (*formation proportionality*); [CI-6.205 §2](../../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*required functional lanes*); [CF-16.405 §3](../../corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-3-core-structural-rule) (*minimum family inventory for adopting entities*); [Chapter Thirteen §5.2](../../core_13.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum) (*remedy-parity funding minimum*); [Chapter Sixteen](../../core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases) (*forum families*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-how-to-read-n-and-class-x); [§2](#2-binding-minimums-that-drive-cost); [§3](#3-modes-and-tracks); [§4](#4-order-of-work); [§5](#5-body-inventory); [§6](#6-profiles); [§7](#7-the-forty-person-lab).
 - Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md); [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION_FOUNDATION_KIT.md); [`FORUM_FOUNDATION_KIT.md`](FORUM_FOUNDATION_KIT.md); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; §6.4 no partial-pack ladder); [CS-4.350](../../corpus_systems/cs_04.350_adoption_transition_constitution_migration_governance.md#cs-4350-1-purpose-role-and-scope) (*phased migration after a recorded adoption document*).
 
@@ -38,7 +38,7 @@ This page answers four questions for an operator who can name a headcount *N* an
 3. **Order-of-magnitude** staff and funding.
 4. When the honest answer is **operations-guide use**, not “we adopted.”
 
-Owner files win on conflict. [CJS-31.110 §4](../../corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md#cjs-31110-4-class-scaled-lane-staffing-and-competency-redundancy), [CF-22.405 §3](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-3-core-structural-rule), [CI-6.205 §2](../../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes), and [Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum) are the binding minimums this page *uses*. The dollar and FTE columns are process-support estimates. They are not those floors.
+Owner files win on conflict. [CJS-25.110 §4](../../corpus_joint_structure/cjs_25.110_specific_joint_interlocks.md#cjs-25110-4-class-scaled-lane-staffing-and-competency-redundancy), [CF-16.405 §3](../../corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-3-core-structural-rule), [CI-6.205 §2](../../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes), and [Chapter Thirteen §5.2](../../core_13.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum) are the binding minimums this page *uses*. The dollar and FTE columns are process-support estimates. They are not those floors.
 
 This page, the profiles, and the cost figures **cannot narrow core text**. A filled kit that diverges from Chapter Twenty-Nine §12 or Chapter Thirty-One §5 is not a compliance path.
 
@@ -47,11 +47,11 @@ This page, the profiles, and the cost figures **cannot narrow core text**. A fil
 <a id="0-what-this-is-not"></a>
 ## 0. What this is not
 
-This page is **not** a founding kit, an adoption document fill-in, a Chapter Three Institutional Charter, a CF-22.405 §4 map, or [CS-4.350](../../corpus_systems/cs_04.350_adoption_transition_constitution_migration_governance.md#cs-4350-1-purpose-role-and-scope). It is **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4). Modular use remains an operations guide. “Smallest viable” here means *honest about cost*, not *a thinner pack that still counts as adoption*.
+This page is **not** a founding kit, an adoption document fill-in, a Chapter Three Institutional Charter, a CF-16.405 §4 map, or [CS-4.350](../../corpus_systems/cs_04.350_adoption_transition_constitution_migration_governance.md#cs-4350-1-purpose-role-and-scope). It is **not** a ladder of partial constitutional adoption ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.4). Modular use remains an operations guide. “Smallest viable” here means *honest about cost*, not *a thinner pack that still counts as adoption*.
 
 This page does **not**:
 
-- Count as [Chapter Twenty-Nine §12](../../core_29.000_amendment_ratification.md#12-ratification-and-adoption) adoption or [Chapter Thirty-One](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation
+- Count as [Chapter Twenty-Three §12](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) adoption or [Chapter Twenty-Five](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation
 - Add adopter types, duties, measurement families, or forum families
 - Replace [CI-8.210 §1](../../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-1-formation-proportionality) formation proportionality or [CJS-3.125 §11](../../corpus_joint_structure/cjs_03.125_accountability_operations.md#formation-and-authorization-proportionality-minimum) with a cheaper path
 - Let an estimate, a shared note, or “we are Profile 2” claim constitutional protection while dodging matching obligations
@@ -88,7 +88,7 @@ Highest applicable class governs ([Subcore 8-A §1.2](../../subcore_08.010_syste
 
 **Check before you pick P.** Answer the nine questions in [Domain-Specific Materiality](../../subcore_03.085_band_oversight.md#domain-specific-materiality) for everything the Operating Party does as an Operating Party: survival and essential access; safety; authority over others; livelihood and economic terms; custody; information and truth; dependence and exit; ecology; systemic and irreversible effects. One yes puts the Operating Party at Class L or higher, whatever *N* is, and it must publish a System Charter or Institutional Charter. Nine nos, each with a short written reason, leave it at Class P however many members it has: a quilting circle that gives quilts to refugees is the pattern. This page does not decide the question; the Chapter Three entry does.
 
-**Forum family minimum is Class C.** Every Chapter Twenty-Two family, forum, chamber, division, or designated panel takes at least the Class C coordination-dependency minimum ([CF-22.405 §8](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-8-chamber-authority-composition-and-service-mechanics) / [CI-8.210 §3](../../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-3-delegated-subunits-institutional-design-class-and-attachment-discipline)). Do not pick a lower class to dodge forum burden.
+**Forum family minimum is Class C.** Every Chapter Twenty-Two family, forum, chamber, division, or designated panel takes at least the Class C coordination-dependency minimum ([CF-16.405 §8](../../corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-8-chamber-authority-composition-and-service-mechanics) / [CI-8.210 §3](../../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-3-delegated-subunits-institutional-design-class-and-attachment-discipline)). Do not pick a lower class to dodge forum burden.
 
 ---
 
@@ -99,14 +99,14 @@ Highest applicable class governs ([Subcore 8-A §1.2](../../subcore_08.010_syste
 
 | Floor | What it actually requires | Why it costs |
 |---|---|---|
-| **[CJS-31.110 §4](../../corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md#cjs-31110-4-class-scaled-lane-staffing-and-competency-redundancy)** | For **Class A** and **Class B**, each institution that hosts a constitutional lane with materially binding duties needs **at least three sentients** on that lane, documented competency and succession, and **no single sentient** as the only qualified actor | Five [CI-6.205 §2](../../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) lanes (direction, execution, challenge, assurance, publication) × three sentients is **fifteen lane seats** before forums or remedy. Merged hosting is allowed with published independence safeguards; those seats cannot collapse into one recusal-compromised crew |
-| **[CF-22.405 §3](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-3-core-structural-rule)** | Every **adopting entity** must publish a working structure for each of the six Chapter Twenty-Two families: **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, **Constitutional**, in that order | A name on an org chart is not a family. Each family needs intake, enough adjudicators for a lawful panel under [CF-22.410](../../corpus_forum/cf_22.410_panel_formation_disclosure_recusal_bench_constitution.md), appeal or review, and backup ([CF-22.405 §6](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-6-minimum-structural-availability-by-family); [CF-22.470](../../corpus_forum/cf_22.470_staffing_reserve_capacity_structural_records.md)) |
-| **[Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum)** | For each system class the adopter administers, funded capacity for remedy, restoration, and reassessment must be **no less than** funded capacity for lock administration, enforcement, and safeguard imposition on that class. A departure requires recorded reasons under [Chapter Twenty-Seven §5.1](../../core_27.000_governance.md#51-stewardship-direction) and an on-record showing that remedy commencement and restoration review meet their tier windows. An adopter that first stands up lock machinery for a class **must** hold a reserve for remedy, restoration, and reassessment on that class, enough to meet the parity minimum until ongoing funding is in place | The cheap half of Chapter Sixteen (locks) cannot outrun the expensive half (repair, hearings, restoration). Publish the ratio with the [§3.4](../../core_18.000_violation_consequences.md#34-remedy-parity-and-lock-preconditions) tripwire figures. Budget parity does not excuse a tripped tripwire; meeting the tripwire does not excuse silent departure from parity |
+| **[CJS-25.110 §4](../../corpus_joint_structure/cjs_25.110_specific_joint_interlocks.md#cjs-25110-4-class-scaled-lane-staffing-and-competency-redundancy)** | For **Class A** and **Class B**, each institution that hosts a constitutional lane with materially binding duties needs **at least three sentients** on that lane, documented competency and succession, and **no single sentient** as the only qualified actor | Five [CI-6.205 §2](../../corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) lanes (direction, execution, challenge, assurance, publication) × three sentients is **fifteen lane seats** before forums or remedy. Merged hosting is allowed with published independence safeguards; those seats cannot collapse into one recusal-compromised crew |
+| **[CF-16.405 §3](../../corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-3-core-structural-rule)** | Every **adopting entity** must publish a working structure for each of the six Chapter Twenty-Two families: **Sentient**, **Technical Forum Domains**, **Institutional**, **Environment**, **Integrity**, **Constitutional**, in that order | A name on an org chart is not a family. Each family needs intake, enough adjudicators for a lawful panel under [CF-16.410](../../corpus_forum/cf_16.410_panel_formation_disclosure_recusal_bench_constitution.md), appeal or review, and backup ([CF-16.405 §6](../../corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-6-minimum-structural-availability-by-family); [CF-16.470](../../corpus_forum/cf_16.470_staffing_reserve_capacity_structural_records.md)) |
+| **[Chapter Thirteen §5.2](../../core_13.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum)** | For each system class the adopter administers, funded capacity for remedy, restoration, and reassessment must be **no less than** funded capacity for lock administration, enforcement, and safeguard imposition on that class. A departure requires recorded reasons under [Chapter Twenty-One §5.1](../../core_21.000_governance.md#51-stewardship-direction) and an on-record showing that remedy commencement and restoration review meet their tier windows. An adopter that first stands up lock machinery for a class **must** hold a reserve for remedy, restoration, and reassessment on that class, enough to meet the parity minimum until ongoing funding is in place | The cheap half of Chapter Sixteen (locks) cannot outrun the expensive half (repair, hearings, restoration). Publish the ratio with the [§3.4](../../core_12.000_violation_consequences.md#34-remedy-parity-and-lock-preconditions) tripwire figures. Budget parity does not excuse a tripped tripwire; meeting the tripwire does not excuse silent departure from parity |
 | **[CI-8.210 §1](../../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-1-formation-proportionality) / [CJS-3.125 §11](../../corpus_joint_structure/cjs_03.125_accountability_operations.md#formation-and-authorization-proportionality-minimum)** | Formation and authorization burden scales with class, stewardship level, dependency, and irreversibility. Class P should be low-friction; Class A needs diligence proportionate to impact | A small Class P cooperative is not charged the Class A paperwork. A small crew running a Class B system **is** |
 
-**Shared plumbing is allowed; collapsed function is not.** Families may share staff, buildings, and software and still must stay constitutionally distinct ([CF-22.405 §5](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-5-family-distinction-and-non-collapse-rule)). Mapping a family’s work onto an existing independent adjudicative body is allowed if the concrete forums, benches, or officers are identified ([CF-22.405 §6](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-6-minimum-structural-availability-by-family)). Mapping onto the founding Slack is not.
+**Shared plumbing is allowed; collapsed function is not.** Families may share staff, buildings, and software and still must stay constitutionally distinct ([CF-16.405 §5](../../corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-5-family-distinction-and-non-collapse-rule)). Mapping a family’s work onto an existing independent adjudicative body is allowed if the concrete forums, benches, or officers are identified ([CF-16.405 §6](../../corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-6-minimum-structural-availability-by-family)). Mapping onto the founding Slack is not.
 
-**Independence is a headcount tax.** [Chapter Twenty-Nine Procedural Test 4](../../core_29.000_amendment_ratification.md#8-procedural-test-4--contestability-and-independent-review-validity) and [Chapter Twenty-Two §6](../../core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) require independent review that is not the founding crew judging itself. Those reviewers do not come out of the same *N* that runs the systems.
+**Independence is a headcount tax.** [Chapter Twenty-Three Procedural Test 4](../../core_23.000_amendment_ratification.md#8-procedural-test-4--contestability-and-independent-review-validity) and [Chapter Sixteen §6](../../core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) require independent review that is not the founding crew judging itself. Those reviewers do not come out of the same *N* that runs the systems.
 
 ---
 
@@ -129,7 +129,7 @@ Two **institution tracks** live in [`INSTITUTION_FOUNDATION_KIT.md`](INSTITUTION
 | **Institution A** | Institution kit | Ordinary cooperative, research body, commons, or commercial form with a published [Chapter Three Institutional Charter](../../subcore_03.075_band_continuity.md#institutional-charter) | A body can bind the named scope and passes the institution-kit cliffs. A Chapter Twenty-Nine adoption document is **not** required |
 | **Institution B** | Same kit, [§1.1](INSTITUTION_FOUNDATION_KIT.md#11-track-b-function-pointers-same-kit) | Oversight, contest-route admin, Standing-Record admin, amendment admin, certification steward | After a recorded §10.1–§10.2 adoption document |
 | **Forum A** | Forum kit | A published backup, external reviewer, or existing adjudicative body the cooperating crew does **not** solely staff | Named on an adoption document, or used as operations-guide backup. **Not** a Chapter Twenty-Two forum family |
-| **Forum B** | Same kit | The six Chapter Twenty-Two families as a published CF-22.405 structure | After a recorded adoption document. Drafting the map before an adoption document is scaffolding only |
+| **Forum B** | Same kit | The six Chapter Twenty-Two families as a published CF-16.405 structure | After a recorded adoption document. Drafting the map before an adoption document is scaffolding only |
 
 ---
 
@@ -159,11 +159,11 @@ Do not skip a row because it is expensive. Skipping a row and still claiming the
 6. Institution Track B functions (oversight, Standing-Record admin,
    amendment admin, certification steward) — same institution kit
         ↓
-7. Forum Track B: CF-22.405 §4 map for all six families
+7. Forum Track B: CF-16.405 §4 map for all six families
    (hosted/mapped onto existing independent bodies, or in-house)
         ↓
-8. CF-22.410 panels · CF-22.415 intake · CF-22.470 staffing · CF-22.450–14 continuity
-   CI-25.210 remedy capacity at Chapter Nineteen §5.2 parity
+8. CF-16.410 panels · CF-16.415 intake · CF-16.470 staffing · CF-16.450–14 continuity
+   CI-19.210 remedy capacity at Chapter Nineteen §5.2 parity
         ↓
 9. CS-4.350 for systems under that adoption document
 ```
@@ -175,7 +175,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 
 *In plain terms: once certification and forums are really running, the cheapest way to cut repeat work is to assess a shared process once and let many systems rely on it. Make that the first reuse project of the first certification cycle. It is a goal, not a step on the ladder above, and it cannot start earlier.*
 
-**Status.** Outline only. Process support: not binding, not adopted, and it cannot narrow core text. Making it real changes what a certification can rest on, so it needs a core proposal ([Lane D](../../CONTRIBUTING.md#lane-d--core-text-proposals)) touching Chapter Eight and Chapter Twenty-Two, under [Chapter Twenty-Nine §4 heightened review](../../core_29.000_amendment_ratification.md#4-heightened-review-for-rights-affecting-changes). Until then, adopters use only the component findings in [CS-8.305 §7.10](../../corpus_systems/cs_08.305_system_classification_machinery.md#710-component-findings-within-the-system-classification-record).
+**Status.** Outline only. Process support: not binding, not adopted, and it cannot narrow core text. Making it real changes what a certification can rest on, so it needs a core proposal ([Lane D](../../CONTRIBUTING.md#lane-d--core-text-proposals)) touching Chapter Eight and Chapter Twenty-Two, under [Chapter Twenty-Three §4 heightened review](../../core_23.000_amendment_ratification.md#4-heightened-review-for-rights-affecting-changes). Until then, adopters use only the component findings in [CS-8.305 §7.10](../../corpus_systems/cs_08.305_system_classification_machinery.md#710-component-findings-within-the-system-classification-record).
 
 **Why this goal first.**
 
@@ -187,7 +187,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 
 1. Steps 5 to 8 above are live: adoption document recorded, certification steward function named, forum families mapped and staffed.
 2. At least one certification cycle has used component findings under CS-8.305 §7.10, with decoupling verified on the record at least once.
-3. Chapter Three defines **Process** with a test (the [project crosswalk](../../project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) has placeholder tests only), and this name, Standard Process Recognition, is distinct from "system alignment certification" and the forum-to-forum sense in [Chapter Twenty-Three §4](../../core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling).
+3. Chapter Three defines **Process** with a test (the [project crosswalk](../../project/PROCESS_SYSTEM_INSTITUTION_CROSSWALK.md) has placeholder tests only), and this name, Standard Process Recognition, is distinct from "system alignment certification" and the forum-to-forum sense in [Chapter Seventeen §4](../../core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling).
 4. The four seats of [Chapter Six](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) are filled, so the owner of a standard is never its recognizer or the hearer of challenges to it.
 
 **Outline of the mechanism (to be settled).**
@@ -197,7 +197,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 - **How adopters use it.**
   - The adopting system carries a conformity statement and a **local-delta note** (local data, staffing, clocks, tools, and every difference from the standard).
   - Its own certification treats the recognition as evidence about the **design** of the process.
-  - It must still collect evidence about how the process **runs**. A conformity statement or vendor attestation never substitutes for that ([Subcore 3-B §4.1.1](../../subcore_03.020_definition_integrity.md#411-formal-label-and-representation-gaming); [Chapter Ten §3.2](../../core_10.000_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record)).
+  - It must still collect evidence about how the process **runs**. A conformity statement or vendor attestation never substitutes for that ([Subcore 3-B §4.1.1](../../subcore_03.020_definition_integrity.md#411-formal-label-and-representation-gaming); [Subcore 8-F §3.2](../../subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record)).
 - **Challenge.** Open at two levels, the standard and each adopter, through the existing contest chain.
 - **Reopening.** A new version of the standard, an incident in any adopter, or a credible challenge reopens the recognition and flags every adopter's reliance on it.
 
@@ -241,7 +241,7 @@ Companion files bind **when incorporated** under Chapter Thirty-One, and **only 
 | **Integrity** | Not founded | Not founded | **Required** — distinct family |
 | **Constitutional** | Not founded | Not founded | **Required** — distinct family |
 
-**Hosted vs in-house.** Full adoption requires a published map for each family. It does **not** require six in-house benches if an existing independent adjudicative body can be named for that family’s work and the map identifies the concrete forums, benches, or officers ([CF-22.405 §6](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-6-minimum-structural-availability-by-family)). The founding crew cannot be the only merits path for any family.
+**Hosted vs in-house.** Full adoption requires a published map for each family. It does **not** require six in-house benches if an existing independent adjudicative body can be named for that family’s work and the map identifies the concrete forums, benches, or officers ([CF-16.405 §6](../../corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-6-minimum-structural-availability-by-family)). The founding crew cannot be the only merits path for any family.
 
 <a id="52-institution-families-ci"></a>
 ### 5.2 Institution families (CI)
@@ -250,10 +250,10 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 
 | Band | Families | When required | When optional / skip |
 |---|---|---|---|
-| **Formation and integrity** | **CI-0.210**, **CI-6.205**, **CI-27.205**, **CI-6.210**, **CI-22.205**, **CI-4.205**, **CI-8.210**, **CI-4.215** | Institution Track A or B (any live Chapter Three Institutional Charter) | Operations-guide: read, do not staff |
-| **Oversight and coordination** | **CI-6.215**, **CI-22.210** | Institution Track B; **CI-6.215 §3** contest-integrity monitoring for Class A/B supervised scope | Track A without Track B functions |
-| **Failure and Adoption Transition** | **CI-18.210**, **CI-25.205**, **CI-4.275** | **CI-18.210** and **CI-25.205** whenever a live institution can fail; **CI-4.275** when going through the Adoption Transition under an adoption document | No live institution |
-| **Remedy** | **CI-25.210** | Full adoption that administers locks, standing integration, or redress — at [§5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum) parity | Operations-guide and Track A: hold a remedy reserve before you stand up lock machinery |
+| **Formation and integrity** | **CI-0.210**, **CI-6.205**, **CI-21.205**, **CI-6.210**, **CI-16.205**, **CI-4.205**, **CI-8.210**, **CI-4.215** | Institution Track A or B (any live Chapter Three Institutional Charter) | Operations-guide: read, do not staff |
+| **Oversight and coordination** | **CI-6.215**, **CI-16.210** | Institution Track B; **CI-6.215 §3** contest-integrity monitoring for Class A/B supervised scope | Track A without Track B functions |
+| **Failure and Adoption Transition** | **CI-12.210**, **CI-19.205**, **CI-4.275** | **CI-12.210** and **CI-19.205** whenever a live institution can fail; **CI-4.275** when going through the Adoption Transition under an adoption document | No live institution |
+| **Remedy** | **CI-19.210** | Full adoption that administers locks, standing integration, or redress — at [§5.2](../../core_13.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum) parity | Operations-guide and Track A: hold a remedy reserve before you stand up lock machinery |
 | **Revenue** | **CI-4.210** | If the body charges fees, subscriptions, or similar | No such charges |
 | **Registry** | **CI-0.215** | When the body must publish a compliance map | Operations-guide |
 | **Domain interfaces** | **CI-4.220**–**CI-4.270** | When the body’s work is in that domain (care, health, markets, commons, place, science, and related) | Skip families whose domain you do not operate. Cooperatives and commons still read **CI-4.255**. Local owner maps, not extra offices |
@@ -265,10 +265,10 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 
 | Band | Modules | When required | When optional / skip |
 |---|---|---|---|
-| **Constitution and process** | **CF-0.410**, **CF-22.405**, **CF-22.410**, **CF-22.415**, **CF-22.420**, **CF-22.425** | Forum Track B (live map) | Forum Track A names a reviewer; it does not run these modules |
-| **Continuity and records** | **CF-22.445**, **CF-22.450**, **CF-22.455**, **CF-22.460**, **CF-22.465**, **CF-22.470** | Forum Track B | Same |
-| **Specialist support** | **CF-22.430**, **CF-22.435**, **CF-22.440** | When that family’s ordinary workload needs forensic, investigative, or specialist-chamber support | Low caseload may contract these rather than staff them; Class A/B should not assume “never” |
-| **Sentience-status record** | [`cf_22.475_sentience_status_record.md`](../../corpus_forum/cf_22.475_sentience_status_record.md) (not a CF family) | When the adopter hears or files sentience-status adjudication | Skip if that caseload is not in scope — do not use this skip to dodge [Article VI-B](../../core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) when the facts are in scope |
+| **Constitution and process** | **CF-0.410**, **CF-16.405**, **CF-16.410**, **CF-16.415**, **CF-16.420**, **CF-16.425** | Forum Track B (live map) | Forum Track A names a reviewer; it does not run these modules |
+| **Continuity and records** | **CF-16.445**, **CF-16.450**, **CF-16.455**, **CF-16.460**, **CF-16.465**, **CF-16.470** | Forum Track B | Same |
+| **Specialist support** | **CF-16.430**, **CF-16.435**, **CF-16.440** | When that family’s ordinary workload needs forensic, investigative, or specialist-chamber support | Low caseload may contract these rather than staff them; Class A/B should not assume “never” |
+| **Sentience-status record** | [`cf_16.475_sentience_status_record.md`](../../corpus_forum/cf_16.475_sentience_status_record.md) (not a CF family) | When the adopter hears or files sentience-status adjudication | Skip if that caseload is not in scope — do not use this skip to dodge [Article VI-B](../../core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) when the facts are in scope |
 
 **CF-2** is a reserved family id, not a module.
 
@@ -278,7 +278,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | Piece | When it bites |
 |---|---|
 | **CS-8.305 and Subcore 8-A** classification | Always, if you claim a class. Honesty about Class *X* is a prerequisite for every profile below |
-| **CS-27.305** critical-system stewardship | Class A/B (and Class C where gated) |
+| **CS-21.305** critical-system stewardship | Class A/B (and Class C where gated) |
 | **CS-4.350** migration | **After** a recorded adoption document, not before |
 | **CS-4.305 onward-transfer rule** (core personal data) | Always, for any body that holds core personal data about sentients. A stock held to sell or compile, or inherited, is wound down in the body's transition plan. See [Subcore 4-A §6.0 Access-posture bands](../../subcore_04.050_data_types.md#onward-transfer-of-type-h-and-type-i-data) |
 
@@ -291,7 +291,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 
 **How the profiles use parity.** The profiles below budget remedy capacity at parity. That is the planning assumption for these estimates. The Chapter Nineteen §5.2 departure route in Chapter Sixteen §3 remains available: record the reasons, publish the ratio, and show that remedy commencement and restoration review meet their tier windows. None of the profiles removes that route or waives the starting reserve for lock machinery.
 
-**Estimate convention.** One **loaded FTE** here means one sentient-year of fully loaded compensation in a **2026 high-cost professional** setting (roughly 150–250 thousand currency-units). Figures are order-of-magnitude bands, not quotes. An adopter in a different cost environment should rescale the money and **not** the CJS-31.110 §4 three-sentient rule, the six-family inventory, or the remedy-parity minimum.
+**Estimate convention.** One **loaded FTE** here means one sentient-year of fully loaded compensation in a **2026 high-cost professional** setting (roughly 150–250 thousand currency-units). Figures are order-of-magnitude bands, not quotes. An adopter in a different cost environment should rescale the money and **not** the CJS-25.110 §4 three-sentient rule, the six-family inventory, or the remedy-parity minimum.
 
 **Staff vs N.** *N* is the adopter’s total working headcount. **Staff** in these tables is the slice of *N* (plus contracted independent review) that the constitutional work consumes. If that slice does not fit inside *N* after ordinary product or research work, the profile does not fit.
 
@@ -307,7 +307,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **Order** | Steps 1–3 of [§4](#4-order-of-work). Stop. Attach the [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) |
 | **Staff** | 0.2–1 FTE process (steward doors, reconstructable logs, own-conduct). Independent-review retainer if named |
 | **Funding** | Existing payroll plus a modest legal/review retainer (order 10⁴–10⁵ currency-units / year) |
-| **Remedy route** | Name the independent reviewer who hears complaints about the crew’s conduct. Publish its turnaround against the Tier C window of [Chapter Twenty-Three §5](../../core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (30 days), and state that a claimant pays nothing to file. A retainer carries tens of matters a year at most; say what happens past that |
+| **Remedy route** | Name the independent reviewer who hears complaints about the crew’s conduct. Publish its turnaround against the Tier C window of [Chapter Seventeen §5](../../core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (30 days), and state that a claimant pays nothing to file. A retainer carries tens of matters a year at most; say what happens past that |
 | **Honest claim** | “We use stacks as an operations guide.” Not “we adopted” |
 | **Does not fit** | Standing up lock machinery, a merits bench, or CI-6.215 oversight from the same crew |
 
@@ -323,7 +323,7 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **Order** | Steps 1–4. Do not open Institution Track B or Forum Track B |
 | **Staff** | 2–8 FTE governance overlay (direction, execution, challenge, assurance, publication — merged hosting allowed with published safeguards). Plus paid independent review |
 | **Funding** | Order 10⁵–10⁶ currency-units / year for the overlay and review, on top of ordinary operations |
-| **Remedy route** | Name the paid independent reviewer, which is not the founding crew. Publish its turnaround against the Tier C window of [Chapter Twenty-Three §5](../../core_23.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (30 days), and state that a claimant pays nothing to file. At 0.5–2 FTE on remedy, expect about 20–80 Tier C matters a year |
+| **Remedy route** | Name the paid independent reviewer, which is not the founding crew. Publish its turnaround against the Tier C window of [Chapter Seventeen §5](../../core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (30 days), and state that a claimant pays nothing to file. At 0.5–2 FTE on remedy, expect about 20–80 Tier C matters a year |
 | **Honest claim** | “We published a Chapter Three Institutional Charter for this body.” Not “we adopted the Constitution.” Not “we are the oversight body for others” |
 | **Does not fit** | Certification-steward or CI-6.215 oversight of non-consenters. Six live forum families |
 
@@ -334,12 +334,12 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **Typical *N*** | 40–200 (in-house) plus **named external** adjudicative capacity |
 | **Typical class** | **L** or **C**. **B** only if the hosted bodies can actually hear Class B stakes |
 | **Mode** | Full adoption |
-| **Required bodies** | Recorded §10.1–§10.2 adoption document. Forum Track A naming on that adoption document. CF-22.405 §4 map that gives operational effect to **all six** families, mapped onto existing independent bodies. Institution Track B functions at class-scaled depth. **CI-25.210** remedy capacity at §9.2 parity. CS-8.305 and Subcore 8-A (and CS-27.305 if Class B) |
-| **Optional** | In-house specialist CF-22.430, CF-22.435, and CF-22.440 if caseload needs them; otherwise contracted through the hosted bodies. Domain CI-4.220–CI-4.270 |
+| **Required bodies** | Recorded §10.1–§10.2 adoption document. Forum Track A naming on that adoption document. CF-16.405 §4 map that gives operational effect to **all six** families, mapped onto existing independent bodies. Institution Track B functions at class-scaled depth. **CI-19.210** remedy capacity at §9.2 parity. CS-8.305 and Subcore 8-A (and CS-21.305 if Class B) |
+| **Optional** | In-house specialist CF-16.430, CF-16.435, and CF-16.440 if caseload needs them; otherwise contracted through the hosted bodies. Domain CI-4.220–CI-4.270 |
 | **Order** | Steps 1–9, with step 7 as **hosted/mapped**, not in-house benches |
 | **Staff** | 8–25 FTE in-house (adoption document custody, Track B functions, remedy file, classification, CS-4.350) **plus** contracted or statutory hosted-forum capacity that is not the founding crew |
 | **Funding** | Order 10⁶–10⁷ currency-units / year in-house, plus whatever the hosted bodies cost, with remedy ≥ lock spend per class |
-| **Intake ceiling and overflow** | One remedy FTE at 70% utilization carries about 42 Tier C matters a year (about 1,500 productive hours, 70% of them on matters, at about 25 hours a Tier C matter: the planning figures in the [remedy-capacity desk test](../../project/reviews/remedy_capacity_desk_test_2026-11-23.md)). Publish the ceiling for the in-house remedy file. Name, in advance, the hosted body or [CF-22.470](../../corpus_forum/cf_22.470_staffing_reserve_capacity_structural_records.md) reserve that takes overflow once published intake passes about 70% of that ceiling, so overflow moves before the Chapter Twenty-Three windows break rather than after a [Chapter Twenty-Two §6.5](../../core_22.000_forum.md#65-capacity-failure-is-heard-outside-the-starved-body) finding |
+| **Intake ceiling and overflow** | One remedy FTE at 70% utilization carries about 42 Tier C matters a year (about 1,500 productive hours, 70% of them on matters, at about 25 hours a Tier C matter: the planning figures in the [remedy-capacity desk test](../../project/reviews/remedy_capacity_desk_test_2026-11-23.md)). Publish the ceiling for the in-house remedy file. Name, in advance, the hosted body or [CF-16.470](../../corpus_forum/cf_16.470_staffing_reserve_capacity_structural_records.md) reserve that takes overflow once published intake passes about 70% of that ceiling, so overflow moves before the Chapter Twenty-Three windows break rather than after a [Chapter Sixteen §6.5](../../core_16.000_forum.md#65-capacity-failure-is-heard-outside-the-starved-body) finding |
 | **Honest claim** | “This body adopted, for these systems, and these named independent bodies do the family work.” The map must be usable by a filer |
 | **Does not fit** | Mapping all six families onto the same founding crew. Class A survival-critical systems with only hosted, untested capacity. A forty-person lab that also tries to staff Track B and remedy from the same forty |
 
@@ -350,8 +350,8 @@ Treat these as **duty homes**, not automatically as separate offices. One body m
 | **Typical *N*** | **200+** working sentients, or a polity / large operator that can bind both the systems and the benches |
 | **Typical class** | **C**, **B**, or **A** |
 | **Mode** | Full adoption, in-house Forum Track B |
-| **Required bodies** | Everything in Profile 3, except the six families are staffed as distinct in-house (or mixed in-house / hosted) families. CJS-31.110 §4 three-sentient rule on every Class A/B constitutional lane. CF-22.470 reserve and surge. §9.2 remedy parity. Under-appointment of Integrity, Constitutional, or Environment benches — or of Technical Forum Domains benches that hear sentience-status adjudication — is a durability failure ([Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-system-durability)) |
-| **Optional** | Additional chambers under CF-22.405 §7/CF-22.440 where caseload justifies them |
+| **Required bodies** | Everything in Profile 3, except the six families are staffed as distinct in-house (or mixed in-house / hosted) families. CJS-25.110 §4 three-sentient rule on every Class A/B constitutional lane. CF-16.470 reserve and surge. §9.2 remedy parity. Under-appointment of Integrity, Constitutional, or Environment benches — or of Technical Forum Domains benches that hear sentience-status adjudication — is a durability failure ([Chapter Thirteen §5.2](../../core_13.000_final_effect_restoration_enforcement.md#52-remedy-system-durability)) |
+| **Optional** | Additional chambers under CF-16.405 §7/CF-16.440 where caseload justifies them |
 | **Order** | Steps 1–9 with in-house (or mixed) staffing at step 7–8 |
 | **Staff (order of magnitude)** | **Institution lanes:** fifteen Class A/B lane seats (five lanes × three), with merged hosting only where independence safeguards are published. **Forums:** enough adjudicators per family to form a lawful panel without routine dependence on one small recurring bench, plus intake, records, and reserve — commonly **40–80** forum-side FTE before specialist support. **Track B + remedy:** commonly **10–30** more, and remedy spend ≥ lock spend. **Total constitutional work:** commonly **80–200+** FTE |
 | **Funding** | Order 10⁷–10⁸ currency-units / year in a high-cost setting, scaled to class, caseload, and remedy parity |
@@ -371,16 +371,16 @@ Worked row, because this is the case the backlog named.
 |---|---|---|
 | **N = 40, Class L research tools, no outside dependents** | Profile 1. Optional Profile 2 if they found a research body they can bind. Classify as **L** (or **P** only if effects truly stay inside the private unit) | Calling the lab Slack “Integrity forums.” Claiming Chapter Twenty-Nine adoption |
 | **N = 40, Class C evaluation cluster used by other labs** | Profile 1 or 2. Forum Track A = an existing external reviewer. Do not found families | Profile 3 without a named hosted path that filers can actually use |
-| **N = 40, Class B deployed system others cannot substitute in time** | Profile 1 as operations-guide **for the duties they can keep**. Full adoption waits until they can bind hosted or in-house family capacity **and** fund remedy under Chapter Nineteen §5.2, including its documented-departure conditions. CJS-31.110 §4 already wants fifteen lane sentients at Class B before forums | “We are a small lab, so Class P.” Standing up lock machinery. Relabeling the safety team as six forum families |
+| **N = 40, Class B deployed system others cannot substitute in time** | Profile 1 as operations-guide **for the duties they can keep**. Full adoption waits until they can bind hosted or in-house family capacity **and** fund remedy under Chapter Nineteen §5.2, including its documented-departure conditions. CJS-25.110 §4 already wants fifteen lane sentients at Class B before forums | “We are a small lab, so Class P.” Standing up lock machinery. Relabeling the safety team as six forum families |
 | **N = 40, wants in-house six families** | Does not fit Profile 4. Stop | Any sentence that starts “we adopted” and ends with the same forty sentients on every bench |
 
-**Shared administration does not save this row.** CF-22.405 §5 lets families share software and buildings. It does not let one recusal-compromised crew be the Sentient, Institutional, Integrity, and Constitutional merits path at once. Anti-self-judging ([Chapter Twenty-Two §6](../../core_22.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture)) is why.
+**Shared administration does not save this row.** CF-16.405 §5 lets families share software and buildings. It does not let one recusal-compromised crew be the Sentient, Institutional, Integrity, and Constitutional merits path at once. Anti-self-judging ([Chapter Sixteen §6](../../core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture)) is why.
 
 **What a forty-person lab should do instead, in order:**
 
 1. Classify honestly ([CS-8.305](../../corpus_systems/cs_08.305_system_classification_machinery.md)).
 2. Sit fitness and own-conduct ([`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md)).
-3. Use steward doors and CS-27.305 §10 logs as operations-guide ([`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md)).
+3. Use steward doors and CS-21.305 §10 logs as operations-guide ([`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md)).
 4. If they can bind a named research or commons scope, publish a Chapter Three Institutional Charter (Institution Track A).
 5. Name independent review they do not staff (Forum Track A).
 6. If a qualifying body later records an adoption document, take Profile 3 (hosted families) only when those hosted bodies are real. Do not skip to Profile 4.
@@ -418,10 +418,10 @@ Use this as a lookup, not as a new mode.
 | [`SELF_APPLICATION_GATEWAY.md`](SELF_APPLICATION_GATEWAY.md) | Fitness screen + declaration (substeps 1.1–1.2) |
 | [`STEWARD_ENTRY_DOORS.md`](../STEWARD_ENTRY_DOORS.md) | Next-step pointers for both kinds of steward |
 | [Subcore 8-A §7](../../subcore_08.010_system_classification.md#7-system-impact-classifications) | Binding impact classes this page’s *X* uses |
-| [CJS-31.110 §4](../../corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md#cjs-31110-4-class-scaled-lane-staffing-and-competency-redundancy) | Class A/B three-sentient lane minimum |
-| [CF-22.405 §3](../../corpus_forum/cf_22.405_forum_formation_chamber_structure.md#cf-22405-3-core-structural-rule) | Six-family inventory for adopting entities |
-| [Chapter Nineteen §5.2](../../core_19.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum) | Remedy-parity funding minimum |
-| [Chapter Thirty-One §5](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority) | Who may adopt; what non-adoption means for enforcement |
+| [CJS-25.110 §4](../../corpus_joint_structure/cjs_25.110_specific_joint_interlocks.md#cjs-25110-4-class-scaled-lane-staffing-and-competency-redundancy) | Class A/B three-sentient lane minimum |
+| [CF-16.405 §3](../../corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-3-core-structural-rule) | Six-family inventory for adopting entities |
+| [Chapter Thirteen §5.2](../../core_13.000_final_effect_restoration_enforcement.md#52-remedy-parity-funding-minimum) | Remedy-parity funding minimum |
+| [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) | Who may adopt; what non-adoption means for enforcement |
 | [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) | Operations-guide vs full adoption; §6.4 no partial-pack ladder. This page does not close cut gates |
 
 ---

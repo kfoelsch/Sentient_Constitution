@@ -1,6 +1,6 @@
 # Governance disclosure template
 
-**Maps to:** `corpus_institutions.md` **CI-4.205** (*Transparency, participation, accessible challenge and service pathways*), [Subcore 27-A §3 Governance Disclosure Report](../subcore_27.010_governance_disclosure.md#3-governance-disclosure-report) (moved from **CI-4.205 §4**), **CI-0.215** (*Compliance mapping and stable registry*).  
+**Maps to:** `corpus_institutions.md` **CI-4.205** (*Transparency, participation, accessible challenge and service pathways*), [Subcore 21-A §3 Governance Disclosure Report](../subcore_21.010_governance_disclosure.md#3-governance-disclosure-report) (moved from **CI-4.205 §4**), **CI-0.215** (*Compliance mapping and stable registry*).  
 **Non-authoritative** unless adopted.
 
 ## Publication cadence
@@ -21,8 +21,8 @@
 
 ## Comparison fields (period-over-period)
 
-- Participation rate, contest outcomes, backlog against **CF-22.445** targets where forums are in scope.
-- Integrity incidents and closure status (**CI-6.210** / **CI-18.210**).
+- Participation rate, contest outcomes, backlog against **CF-16.445** targets where forums are in scope.
+- Integrity incidents and closure status (**CI-6.210** / **CI-12.210**).
 
 ## Model flexibility
 

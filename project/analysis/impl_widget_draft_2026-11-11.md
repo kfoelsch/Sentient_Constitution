@@ -66,7 +66,7 @@ Table row: `| NAV-IMPL-WIDGET-01 | Implementation widget and inline line | `make
 | Article VI-C: Nondiscrimination | collapsed widget | CI-6.205, CI-6.220, CI-6.260 |
 | Article XVIII-D: Innovation Reward, Disclosure, and Anti-Enclosure | inline line | CI-6.265 |
 
-Chapter 25 §2 and §6.1 are separate units: §6 holds the timing rules and §6.1 the emergency measures. The three Chapter 6 single-owner Articles test the inline form. Article VI-C is the Chapter 6 test of the widget form. Together the pilot gives a home to seven of the twelve files no core file names: CI-6.225, CI-6.235, CI-6.260, CI-6.265, CF-23.450, CF-23.455 and CF-23.460. The other five (CI-6.230, CI-6.245, CI-6.250, CS-6.355 and CJS-31.105) need the decisions in `impl_link_proposals_2026-11-11.md` first.
+Chapter 25 §2 and §6.1 are separate units: §6 holds the timing rules and §6.1 the emergency measures. The three Chapter 6 single-owner Articles test the inline form. Article VI-C is the Chapter 6 test of the widget form. Together the pilot gives a home to seven of the twelve files no core file names: CI-6.225, CI-6.235, CI-6.260, CI-6.265, CF-23.450, CF-23.455 and CF-23.460. The other five (CI-6.230, CI-6.245, CI-6.250, CS-6.355 and CJS-25.105) need the decisions in `impl_link_proposals_2026-11-11.md` first.
 
 ### Markup, widget form (Chapter 23 §5)
 
@@ -74,9 +74,9 @@ Chapter 25 §2 and §6.1 are separate units: §6 holds the timing rules and §6.
 <details>
 <summary><strong><span style="color: #2563eb;">Implementation (non-operative)</span></strong></summary>
 
-- [CF-23.415](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#…) (*Routing operations, transfer, questions for ruling, and representative treatment*)
-- [CF-23.420](corpus_forum/cf_22.420_appeal_secondary_review_exhaustion_pathways.md#…) (*Appeal, secondary review, and exhaustion pathways*)
-- [CF-23.475](corpus_forum/cf_22.475_sentience_status_record.md#…) (*Sentience-Status Adjudication Record (implementation protocol)*)
+- [CF-23.415](corpus_forum/cf_16.415_routing_operations_transfer_certification_representative_treatment.md#…) (*Routing operations, transfer, questions for ruling, and representative treatment*)
+- [CF-23.420](corpus_forum/cf_16.420_appeal_secondary_review_exhaustion_pathways.md#…) (*Appeal, secondary review, and exhaustion pathways*)
+- [CF-23.475](corpus_forum/cf_16.475_sentience_status_record.md#…) (*Sentience-Status Adjudication Record (implementation protocol)*)
 
 </details>
 <br>

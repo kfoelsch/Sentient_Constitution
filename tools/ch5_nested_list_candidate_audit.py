@@ -105,43 +105,43 @@ CH8_PARTS: tuple[str, ...] = (
 )
 
 CH9_PARTS: tuple[str, ...] = (
-    "core_08.000_system_alignment_certification_evaluation.md",
-    "core_09.000_system_alignment_certification_forum_process_outcomes.md",
-    "core_10.000_system_alignment_certification_records_recertification.md",
+    "subcore_08.020_system_alignment_certification_evaluation.md",
+    "subcore_08.040_system_alignment_certification_forum_process_outcomes.md",
+    "subcore_08.060_system_alignment_certification_records_recertification.md",
 )
 
-CH10_PARTS: tuple[str, ...] = ("core_11.000_institutional_alignment_certification_evaluation.md",)
+CH10_PARTS: tuple[str, ...] = ("subcore_09.020_institutional_alignment_certification_evaluation.md",)
 
-CH11_PARTS: tuple[str, ...] = ("core_14.000_standing_assessment.md",)
+CH11_PARTS: tuple[str, ...] = ("subcore_10.020_standing_assessment.md",)
 
-CH12_PARTS: tuple[str, ...] = ("core_15.000_standing_measurement.md",)
+CH12_PARTS: tuple[str, ...] = ("subcore_10.040_standing_measurement.md",)
 
 CH13_PARTS: tuple[str, ...] = (
-    "core_16.000_standing_integration.md",
-    "core_17.000_contribution_consequences.md",
-    "core_18.000_violation_consequences.md",
-    "core_19.000_final_effect_restoration_enforcement.md",
+    "subcore_10.060_standing_integration.md",
+    "core_11.000_contribution_consequences.md",
+    "core_12.000_violation_consequences.md",
+    "core_13.000_final_effect_restoration_enforcement.md",
 )
 
 CH14_PARTS: tuple[str, ...] = (
-    "core_20.000_misconduct_designation.md",
-    "core_21.000_misconduct_pattern_applications.md",
+    "core_14.000_misconduct_designation.md",
+    "core_15.000_misconduct_pattern_applications.md",
 )
 
 CH15_PARTS: tuple[str, ...] = (
-    "core_22.000_forum.md",
-    "core_23.000_forum_families_escalation_timeliness_support.md",
+    "core_16.000_forum.md",
+    "core_17.000_forum_families_escalation_timeliness_support.md",
 )
 
-CH16_PARTS: tuple[str, ...] = ("core_27.000_governance.md",)
+CH16_PARTS: tuple[str, ...] = ("core_21.000_governance.md",)
 
-CH17_PARTS: tuple[str, ...] = ("core_28.000_non_regression.md",)
+CH17_PARTS: tuple[str, ...] = ("core_22.000_non_regression.md",)
 
-CH18_PARTS: tuple[str, ...] = ("core_30.000_expansion_supremacy.md",)
+CH18_PARTS: tuple[str, ...] = ("core_24.000_expansion_supremacy.md",)
 
-CH19_PARTS: tuple[str, ...] = ("core_29.000_amendment_ratification.md",)
+CH19_PARTS: tuple[str, ...] = ("core_23.000_amendment_ratification.md",)
 
-CH20_PARTS: tuple[str, ...] = ("core_31.000_incorporation.md",)
+CH20_PARTS: tuple[str, ...] = ("core_25.000_incorporation.md",)
 
 SUPPORTED_CHAPTERS: tuple[int, ...] = tuple(range(21))
 WORDS_ONLY_SKIP_CHAPTERS: frozenset[int] = frozenset(

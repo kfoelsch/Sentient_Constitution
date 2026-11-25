@@ -33,7 +33,7 @@ audits. It enforces two invariants:
    the four Chapter Fourteen parts), every line inside a O/M/A/C widget that appears
    to be a widget row must match the canonical shape:
 
-       - [Name](subcore_03.070_band_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
+       - [Subcore 3-J — Name](subcore_03.070_band_accountability.md#slug) · [O](...) · [M](...) · [A](...) · [C](...)
 
    and every anchor in that row must resolve to a live Chapter Three anchor.
    The single-concept inline form is also recognized:
@@ -97,14 +97,14 @@ CONSUMERS = [
     "core_02.050_governance_incentive_application.md",
     "subcore_03.010_definition_structure.md",
     "subcore_03.020_definition_integrity.md",
-    "core_14.000_standing_assessment.md",
-    "core_15.000_standing_measurement.md",
-    "core_16.000_standing_integration.md",
-    "core_17.000_contribution_consequences.md",
-    "core_18.000_violation_consequences.md",
-    "core_19.000_final_effect_restoration_enforcement.md",
-    "core_20.000_misconduct_designation.md",
-    "core_21.000_misconduct_pattern_applications.md",
+    "subcore_10.020_standing_assessment.md",
+    "subcore_10.040_standing_measurement.md",
+    "subcore_10.060_standing_integration.md",
+    "core_11.000_contribution_consequences.md",
+    "core_12.000_violation_consequences.md",
+    "core_13.000_final_effect_restoration_enforcement.md",
+    "core_14.000_misconduct_designation.md",
+    "core_15.000_misconduct_pattern_applications.md",
     "core_04.000_rights_part_a.md",
     "core_04.010_rights_part_b.md",
     "core_04.020_rights_part_c.md",
@@ -184,7 +184,7 @@ DETAILS_CLOSE_RE = re.compile(r"^\s*</details>\s*$")
 # middle-dot with single spaces. Each href must point into Chapter Three.
 #
 # Example:
-#   - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+#   - [Subcore 3-K — Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [Subcore 3-K — O](subcore_03.075_band_continuity.md#wellbeing) · [Subcore 3-K — M](subcore_03.075_band_continuity.md#wellbeing-a) · [Subcore 3-K — A](subcore_03.075_band_continuity.md#wellbeing-a) · [Subcore 3-K — C](subcore_03.075_band_continuity.md#wellbeing-c)
 # M targets #{slug}-m when present (aim/leg apex heads); otherwise #{slug}-a
 # (leaf guidepost form interweaves Measurement with Assessment).
 ROW_RE = re.compile(

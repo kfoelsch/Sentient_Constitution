@@ -9,7 +9,7 @@
 <a id="what-adoption-means"></a>
 ## 1. What Adoption Means
 
-This is a **model constitution**. It becomes **enforceable** for a particular body only after that body validly adopts it under [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#12-ratification-and-adoption) and [Chapter Thirty-One §5](core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference; it has no power to enforce against anyone who has not adopted it. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes must stay consistent with that framework ([Chapter Thirty §7](core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
+This is a **model constitution**. It becomes **enforceable** for a particular body only after that body validly adopts it under [Chapter Twenty-Three](core_23.000_amendment_ratification.md#12-ratification-and-adoption) and [Chapter Twenty-Five §5](core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority). Until then it may guide, inform, or serve as a reference; it has no power to enforce against anyone who has not adopted it. It does not supersede local, national, or international law. Where it is used inside an existing legal framework, its processes must stay consistent with that framework ([Chapter Twenty-Four §7](core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
 Four duties (**participation**, **oversight**, **accountability**, and **timeliness**) grow stronger as a system's [material stake](core_00.000_preamble.md#material-stake) grows ([Preamble §1](core_00.000_preamble.md#constitutional-tetrad)). Human and AI stewards are held to one shared standard ([Chapter Two §17.1](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)): there is no AI-only rulebook, and no exemption for humans.
 
@@ -68,8 +68,8 @@ Full ranking and sketches: [FIT_SITUATIONS.md §4](implementation/adoption/FIT_S
 Same list as [FIT_SITUATIONS.md §5](implementation/adoption/FIT_SITUATIONS.md#5-honest-non-fits):
 
 - Retrofitting an existing national constitution as drop-in law.
-- Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Thirty §7](core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
-- Marketing "we follow it" while dodging the matching obligations ([Chapter Thirty-One §5](core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority)).
+- Claiming this Constitution supersedes local, national, or international law, or that operations-guide use displaces a regulator ([Chapter Twenty-Four §7](core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
+- Marketing "we follow it" while dodging the matching obligations ([Chapter Twenty-Five §5](core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority)).
 - Two chat partners, or a markdown working group, claiming adoption or calling themselves the oversight body ([Chapter Two §17.4](core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization)).
 - Binding host products, vendors, or platforms the crew does not control.
 - An AI-only rulebook ([§17.1](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)), or exempting humans from the costly cases ([§17.2](core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure)).
@@ -110,7 +110,7 @@ The timed reading paths (15 minutes, 45 minutes, 2 hours) are in the [README](RE
 | **This page** | Start page for would-be adopters and operators |
 | **Fit map** | [implementation/adoption/FIT_SITUATIONS.md](implementation/adoption/FIT_SITUATIONS.md) |
 | **Adopter profile and cost** | [implementation/adoption/MINIMUM_VIABLE_ADOPTER.md](implementation/adoption/MINIMUM_VIABLE_ADOPTER.md) |
-| **Adoption process path** | [implementation/adoption/](implementation/adoption/) |
+| **Adoption process path** | [implementation/adoption/](implementation/adoption) |
 | **Announcement copy** | [implementation/adoption/ANNOUNCEMENT.md](implementation/adoption/ANNOUNCEMENT.md) |
 | **Editor map** | [doc_architecture.md](doc_architecture.md) |
 | **Vision and contribution** | [VISION.md](project/VISION.md) · [CONTRIBUTING.md](CONTRIBUTING.md) (taking part is not adoption) |

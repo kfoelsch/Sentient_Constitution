@@ -12,9 +12,9 @@ import re
 
 PATH_RENAMES = {
     "core_08-11_application_vignettes.md": "core_10.010_application_vignettes.md",
-    "core_07_a_system_alignment_certification_evaluation.md": "core_08.000_system_alignment_certification_evaluation.md",
+    "core_07_a_system_alignment_certification_evaluation.md": "subcore_08.020_system_alignment_certification_evaluation.md",
     "core_07_b_system_alignment_certification_record_process.md": "core_08.005_system_alignment_certification_record_process.md",
-    "core_07_system_alignment_certification.md": "core_08.000_system_alignment_certification_evaluation.md",
+    "core_07_system_alignment_certification.md": "subcore_08.020_system_alignment_certification_evaluation.md",
     "core_08_standing_assessment.md": "core_10.000_standing_assessment.md",
     "core_09_standing_integration.md": "core_12.000_standing_integration.md",
     "core_10_a_misconduct_designation.md": "core_13.000_misconduct_designation.md",

@@ -17,7 +17,7 @@ These are real comparative losses. They are **not** viable corpus patches:
 
 | Loss | Why not a todo |
 |---|---|
-| Pedigree vs UDHR / Ecuador / German Art. 79 | [Chapter Thirty-One §5](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority) already states this is a model constitution. Claiming jurisdiction over non-adopters would be false. |
+| Pedigree vs UDHR / Ecuador / German Art. 79 | [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) already states this is a model constitution. Claiming jurisdiction over non-adopters would be false. |
 | A number in core for carbon / planetary boundaries | [Article I-B](../../core_04.000_rights_part_a.md#article-i-b-ecological-footprint-and-transparency) honestly refuses a standalone cap. Locking a global budget here would be adopter-hostile. Use Band B item B1 instead. |
 | All animals are Chapter Four sentients | Would collapse [Def.P1](../../subcore_03.090_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status). That is a Chapter Thirty **expansion of protection**, not a hole-fill. Hold as C2. |
 | Ecuador-style Nature-as-rights-holder | Would replace the hybrid (interests of their own, not personhood). Hold as C1 for expert review. |
@@ -31,7 +31,7 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A1. Enumerate a Sentience-Status Adjudication Record schema — **done**
 
-**Homes:** [`corpus_forum/cf_22.475_sentience_status_record.md`](../../corpus_forum/cf_22.475_sentience_status_record.md); [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json); enumerated in [Chapter Thirty-One §3](../../core_31.000_incorporation.md#3-custody-editions-and-operative-effect); finder note on [`corpus_forum.md`](../../corpus_forum.md); **CF-22.465 §3** points without restating fields.
+**Homes:** [`corpus_forum/cf_16.475_sentience_status_record.md`](../../corpus_forum/cf_16.475_sentience_status_record.md); [`implementation/schemas/sentience_status_adjudication_record.schema.json`](../../implementation/schemas/sentience_status_adjudication_record.schema.json); enumerated in [Chapter Twenty-Five §3](../../core_25.000_incorporation.md#3-custody-editions-and-operative-effect); finder note on [`corpus_forum.md`](../../corpus_forum.md); **CF-16.465 §3** points without restating fields.
 **Do not:** Relocate Article V-D into implementation text, or let the schema decide who counts.
 
 ### A2. Anti-substitution: certification and LEQU cannot decide sentience — **done**
@@ -46,7 +46,7 @@ These match gaps the corpus already names, or comprehension hazards the audit fl
 
 ### A4. Opening filter for contested status (over-inclusion guard) — **done**
 
-**Homes:** [Article V-D filing integrity](../../core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Twenty-Three §4](../../core_23.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) hook. Declining a crank filing is not a withholding determination.
+**Homes:** [Article V-D filing integrity](../../core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor); Def.P1 Contested-Sentient Life; [Chapter Seventeen §4](../../core_17.000_forum_families_escalation_timeliness_support.md#4-escalation-and-questions-for-ruling) hook. Declining a crank filing is not a withholding determination.
 **Do not:** Let the opening filter become a withholding device.
 
 ### A5. Reader-path accessibility (process support) — **done**
@@ -62,27 +62,27 @@ Viable if operators accept the design. This edition accepted B1–B5. Each still
 
 ### B1. Adopter-numeric gate under Article I-D — **done**
 
-**Homes:** [Article I-D named measures](../../core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Twenty-Nine §12.2](../../core_29.000_amendment_ratification.md#122-adoption-document). Core still does not pick the number.
+**Homes:** [Article I-D named measures](../../core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity); [Chapter Twenty-Three §12.2](../../core_23.000_amendment_ratification.md#122-adoption-document). Core still does not pick the number.
 **Do not:** Write 1.5°C or a global carbon budget into Chapter Four.
 
 ### B2. Representative standing for natural systems (Whanganui-lite) — **done**
 
-**Homes:** [Chapter Twenty-Three §3.4 Representative filing](../../core_23.000_forum_families_escalation_timeliness_support.md#34-environment-forums); **CF-22.415 §5** in [`corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md`](../../corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md).
+**Homes:** [Chapter Seventeen §3.4 Representative filing](../../core_17.000_forum_families_escalation_timeliness_support.md#34-environment-forums); **CF-16.415 §5** in [`corpus_forum/cf_16.415_routing_operations_transfer_certification_representative_treatment.md`](../../corpus_forum/cf_16.415_routing_operations_transfer_certification_representative_treatment.md).
 **Do not:** Declare Nature a Chapter Four sentient or copy Ecuador Arts. 71–74 unless C1 is deliberately chosen.
 
 ### B3. FPIC non-shrinkage — **done**
 
-**Homes:** [Article VI-C](../../core_04.010_rights_part_b.md#article-vi-c-nondiscrimination); [Chapter Thirty-One §5](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority). Title adjudication stays out.
+**Homes:** [Article VI-C](../../core_04.010_rights_part_b.md#article-vi-c-nondiscrimination); [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority). Title adjudication stays out.
 **Do not:** Invent a land-claims forum in Chapter Twenty-Two.
 
 ### B4. Forum independence and appointment floor — **done**
 
-**Homes:** [Chapter Twenty-Seven §3.2](../../core_27.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums); [Chapter Twenty-Two §1](../../core_22.000_forum.md#1-purpose-role-and-scope). Under-appointment is a Chapter Nineteen §4 failure.
+**Homes:** [Chapter Twenty-One §3.2](../../core_21.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums); [Chapter Sixteen §1](../../core_16.000_forum.md#1-purpose-role-and-scope). Under-appointment is a Chapter Nineteen §4 failure.
 **Do not:** Mandate one global polity or one appointment method.
 
 ### B5. Polity-adopter ratification minimum — **done**
 
-**Home:** [Chapter Twenty-Nine §12.1](../../core_29.000_amendment_ratification.md#121-deliberate-adoption). Organizations keep the existing deliberate-adoption path.
+**Home:** [Chapter Twenty-Three §12.1](../../core_23.000_amendment_ratification.md#121-deliberate-adoption). Organizations keep the existing deliberate-adoption path.
 **Do not:** Require “we the people of Earth.”
 
 ---

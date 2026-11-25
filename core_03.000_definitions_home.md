@@ -722,7 +722,7 @@ A dependent cluster adds a head before its members. The head says when the clust
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Owner floor: [Chapter Twenty-Seven §6.3](core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (27.000 §6.3) (*Decision-Resolution Requirements for Binding Stakeholder Choice*).
+- Owner floor: [Chapter Twenty-One §6.3](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice) (27.000 §6.3) (*Decision-Resolution Requirements for Binding Stakeholder Choice*).
 - Read with:
   - [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers);
   - [System Charter](subcore_03.075_band_continuity.md#system-charter),
@@ -771,7 +771,7 @@ Where admission scope is met, this cluster is the place those rules live togethe
 It does not replace:
 
 - [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice);
-- equal-weight authorization rules under **[Chapter Twenty-Seven §6.1 Entitlement and Eligibility](core_27.000_governance.md#61-entitlement-and-eligibility)**; or
+- equal-weight authorization rules under **[Chapter Twenty-One §6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility)**; or
 - emergency exception controls under [Emergency Pre-Deliberation Action (Binding Collective Choice)](subcore_03.075_band_continuity.md#emergency-pre-deliberation-action-binding-collective-choice).
 
 When any of those stakeholder-choice questions is in play, read the cluster members together rather than treating one as enough on its own.
@@ -794,7 +794,7 @@ When any of those stakeholder-choice questions is in play, read the cluster memb
 - [Binding Stakeholder Choice — Decision-Resolution Requirements](subcore_03.090_band_participation.md#binding-collective-choice-decision-resolution-process);
 - [Stakeholder Representation and Weight Limits (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#stakeholder-representation-and-weight-limits-binding-stakeholder-choice);
 - [Stakeholder Rights-Collision Record (Binding Stakeholder Choice)](subcore_03.090_band_participation.md#rights-collision-record-binding-stakeholder-choice);
-- [Chapter Twenty-Seven §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice), as the governance owner floor for the compound requirement.
+- [Chapter Twenty-One §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice), as the governance owner floor for the compound requirement.
 
 **Anti-bypass.** Compartments: deliberation, representation, weighting, record, and rights-collision. Checking one while the others fail is non-compliant; none of these counts as compliance on its own:
 
@@ -854,7 +854,7 @@ See **Anti-Segmentation Principle**.
     - sham deliberation;
     - rubber-stamp plural review; or
     - foreclosing challenge or lawful reopening where required.
-  - Owner floor: [Chapter Twenty-Seven §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+  - Owner floor: [Chapter Twenty-One §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -868,7 +868,7 @@ See **Anti-Segmentation Principle**.
     - [Dependency](subcore_03.075_band_continuity.md#dependency);
     - **standing**; or
     - similar factors.
-    These limits do **not** replace one-person-one-vote [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice) rules. Read [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers) to tell which set of rules applies (**[Chapter Twenty-Seven §6.1 Entitlement and Eligibility](core_27.000_governance.md#61-entitlement-and-eligibility)**).
+    These limits do **not** replace one-person-one-vote [Foundational Constitutional Choice](subcore_03.080_band_integrative.md#foundational-constitutional-choice) rules. Read [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers) to tell which set of rules applies (**[Chapter Twenty-One §6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility)**).
   - **Out of scope:**
     - foundational constitutional choice equal-weight rules; or
     - informal straw polls that do not set binding stakeholder weights.
@@ -888,7 +888,7 @@ See **Anti-Segmentation Principle**.
     - unpublished weights;
     - unchecked single-factor dominance; or
     - absent contest or revalidation where periodic review is required for the mechanism class.
-  - Owner floor: [Chapter Twenty-Seven §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+  - Owner floor: [Chapter Twenty-One §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
 
 ---
 
@@ -928,7 +928,7 @@ See **Anti-Segmentation Principle**.
   - **Primary failure:**
     - a binding stakeholder choice is finalized without a clear written account of how colliding rights were resolved, when those rights effects matter; or
     - the required Stakeholder Rights-Collision Record pieces are missing when a real rights conflict is in play.
-  - Owner floor: [Chapter Twenty-Seven §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_27.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
+  - Owner floor: [Chapter Twenty-One §6.3 Decision-Resolution Requirements for Binding Stakeholder Choice](core_21.000_governance.md#63-decision-resolution-requirements-for-binding-stakeholder-choice).
 <!-- ch3-example:end -->
 
 <br>

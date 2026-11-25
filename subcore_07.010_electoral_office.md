@@ -5,8 +5,8 @@
 
 > This file is **part of the Sentient Constitution**: a [subcore](subcore_03.080_band_integrative.md#subcore) file attached to [Chapter Seven](core_07.000_independent_bodies.md#chapter-seven-independent-bodies), with the same force as that chapter, binding only together with the numbered `core_*` files and the rest of the subcore read as one text. It is **Subcore 7-A**. It was added on 2026-11-23.
 >
-> **Upstream:** [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) (*Electoral Office*); [Chapter Twenty-Seven §6.1 Entitlement and Eligibility](core_27.000_governance.md#61-entitlement-and-eligibility).
-> **Downstream:** [Subcore 27-B §3](subcore_27.020_selection_funding.md#3-disclosure-register-and-protected-identity-route) (*Disclosure Register and Protected-Identity Route*); [Subcore 27-D §6](subcore_27.040_sortition_integrity.md#6-lot-drawn-from-an-elected-pool) (*Lot Drawn from an Elected Pool*); adopted implementation text that sets an adopter's roll format, ballot and count procedures, and audit method.
+> **Upstream:** [Chapter Seven §4 The Bodies This Constitution Creates](core_07.000_independent_bodies.md#4-the-bodies-this-constitution-creates) (*Electoral Office*); [Chapter Twenty-One §6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility).
+> **Downstream:** [Subcore 21-B §3](subcore_21.020_selection_funding.md#3-disclosure-register-and-protected-identity-route) (*Disclosure Register and Protected-Identity Route*); [Subcore 21-D §6](subcore_21.040_sortition_integrity.md#6-lot-drawn-from-an-elected-pool) (*Lot Drawn from an Elected Pool*); adopted implementation text that sets an adopter's roll format, ballot and count procedures, and audit method.
 
 </details>
 
@@ -25,8 +25,8 @@
 
 **Role:** Subcore 7-A is the constitutional owner of **electoral administration**: the electorate roll, the running of elections and referendums, the count, the selection-funding register, and the public draws. Where it sits:
 
-- [Chapter Twenty-Seven §6.1 Entitlement and Eligibility](core_27.000_governance.md#61-entitlement-and-eligibility) and [Subcore 27-C](subcore_27.030_voting_entitlement.md#subcore-27-c-voting-entitlement) say who may vote. This office applies those rules; it does not change them.
-- [Chapter Twenty-Four](core_24.000_assemblies.md#chapter-twenty-four-assemblies) and [Chapter Twenty-Seven §3 Authorization and Legitimacy of Governing Authority](core_27.000_governance.md#3-authorization-and-legitimacy-of-governing-authority) say what is elected and how. The office runs the vote by the method they set.
+- [Chapter Twenty-One §6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility) and [Subcore 21-C](subcore_21.030_voting_entitlement.md#subcore-21-c-voting-entitlement) say who may vote. This office applies those rules; it does not change them.
+- [Chapter Eighteen](core_18.000_assemblies.md#chapter-eighteen-assemblies) and [Chapter Twenty-One §3 Authorization and Legitimacy of Governing Authority](core_21.000_governance.md#3-authorization-and-legitimacy-of-governing-authority) say what is elected and how. The office runs the vote by the method they set.
 - Forums decide disputes about entitlement, results, and draws. The office decides first, and its decisions can be challenged.
 
 **Scope:** The office:
@@ -55,8 +55,8 @@ The Constitution gives every sentient an equal and lasting vote, but a right to 
     - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight): the roll, the count, and the draws are run outside those who compete;
     - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability): every result and every correction is published and can be checked;
 - Chapter Twenty-Seven:
-  - [§6.1 Entitlement and Eligibility](core_27.000_governance.md#61-entitlement-and-eligibility), whose entitlement, residence, and one-subject rules the roll applies;
-  - [§6.2 Records, Gates, and Method Neutrality](core_27.000_governance.md#62-records-gates-and-method-neutrality), which requires rules in advance and verifiable outcomes;
+  - [§6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility), whose entitlement, residence, and one-subject rules the roll applies;
+  - [§6.2 Records, Gates, and Method Neutrality](core_21.000_governance.md#62-records-gates-and-method-neutrality), which requires rules in advance and verifiable outcomes;
 - Chapter Four Articles:
   - [Article X-B](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*);
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
@@ -70,7 +70,7 @@ The Constitution gives every sentient an equal and lasting vote, but a right to 
 
 The office is an Independent Body and meets [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent) in full. For this office:
 
-- **Decision seats:** drawn by lot from the candidates who pass the office's published competency gate, under [Subcore 27-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_27.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways). The office does not run its own draw: an Integrity registrar under [CF-22.415 §8](corpus_forum/cf_22.415_routing_operations_transfer_certification_representative_treatment.md#cf-22415-8-integrity-registrar) (*Integrity Registrar*) runs it by the same published rule.
+- **Decision seats:** drawn by lot from the candidates who pass the office's published competency gate, under [Subcore 21-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_21.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways). The office does not run its own draw: an Integrity registrar under [CF-16.415 §8](corpus_forum/cf_16.415_routing_operations_transfer_certification_representative_treatment.md#cf-16415-8-integrity-registrar) (*Integrity Registrar*) runs it by the same published rule.
 - **No candidates:** no one may hold a decision seat or senior staff post in the office while a candidate, a candidate's agent, or an officer of a party or campaign, or within one full electoral cycle after.
 - **No dual roles:** under *No dual roles* in Chapter Seven §3 *What Makes a Body Independent*, no one may at the same time hold a seat in the office and a seat in any assembly, executive, or forum whose members are elected or drawn by the office.
 - **Funding:** the office meets *Protected funding* in Chapter Seven §3 *What Makes a Body Independent*, including its reserve and shortfall rules. In addition, its floor covers a full electoral cycle and may not be cut between the call of a vote and the certification of its result.
@@ -82,21 +82,21 @@ The office is an Independent Body and meets [Chapter Seven §3 What Makes a Body
 
 *In plain terms: the roll lists everyone who may vote and no one else. You can see your own entry, fix a mistake, and challenge a refusal, and the rules for who counts are the same for every kind of sentient.*
 
-The office keeps one electorate roll for each tier, applying [Chapter Twenty-Seven §6.1 Entitlement and Eligibility](core_27.000_governance.md#61-entitlement-and-eligibility) and [Subcore 27-C](subcore_27.030_voting_entitlement.md#subcore-27-c-voting-entitlement) as written:
+The office keeps one electorate roll for each tier, applying [Chapter Twenty-One §6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility) and [Subcore 21-C](subcore_21.030_voting_entitlement.md#subcore-21-c-voting-entitlement) as written:
 
 - **Eligibility and entries:**
   - **Who is on it:** every sentient who meets the published eligibility criteria and whose residence period is complete, without its having to apply where the office already holds the facts. A sentient may also apply.
-  - **Residence period:** the office counts the one-year residence period under [Subcore 27-C §6 Joining the Electorate](subcore_27.030_voting_entitlement.md#6-joining-the-electorate) from the date that section names (birth or creation, joining, or a branch's election to be distinct; a merged sentient keeps the earlier date), and counts time before adoption. It publishes the method once, for every kind of sentient, and applies no other waiting period.
+  - **Residence period:** the office counts the one-year residence period under [Subcore 21-C §6 Joining the Electorate](subcore_21.030_voting_entitlement.md#6-joining-the-electorate) from the date that section names (birth or creation, joining, or a branch's election to be distinct; a merged sentient keeps the earlier date), and counts time before adoption. It publishes the method once, for every kind of sentient, and applies no other waiting period.
   - **One subject, one entry:** each distinct subject has one entry, however many places it runs in. A branch that elects to be distinct gets its own entry when its own residence period is complete; a merge leaves one entry.
   - **Pending entries:** an entity whose sentience status or subject count is still being decided under [Article VI-B](core_04.010_rights_part_b.md#article-vi-b-sentience-status-adjudication-floor) (*Sentience-Status Adjudication Floor*) has a pending entry, so that its residence time is counted. The entry becomes active on the day the status and count are settled and the residence period is complete. The office never decides a status or a count itself; it records what the forum decides.
-  - **Standing locks:** the office records a lock on the governance-voting pathway under [Subcore 27-C §3 Governance-Voting Entitlement](subcore_27.030_voting_entitlement.md#3-governance-voting-entitlement), and its lifting, only on the record of the forum or Chapter Eighteen decision that sets or lifts it, on the day it takes effect. It records a withheld durable political voice under [Subcore 27-C §8](subcore_27.030_voting_entitlement.md#8-durable-political-voice-floor-and-restoration) only on a final designation under Chapter Twenty, and restores it on the record of restitution or a met milestone.
+  - **Standing locks:** the office records a lock on the governance-voting pathway under [Subcore 21-C §3 Governance-Voting Entitlement](subcore_21.030_voting_entitlement.md#3-governance-voting-entitlement), and its lifting, only on the record of the forum or Chapter Eighteen decision that sets or lifts it, on the day it takes effect. It records a withheld durable political voice under [Subcore 21-C §8](subcore_21.030_voting_entitlement.md#8-durable-political-voice-floor-and-restoration) only on a final designation under Chapter Twenty, and restores it on the record of restitution or a met milestone.
 - **Access and corrections:**
   - **Your own entry:** every sentient can see its own entry and the facts it rests on at any time, free of charge, and can ask for a correction. A correction is decided within the **roll correction period**, which is fourteen days, or three days when asked for within the thirty days before a vote.
   - **No silent removal:** no entry is removed or suspended without notice to the sentient, with the reason and the route to contest it. Removals in bulk are barred: each removal rests on a fact about that sentient.
 - **Voting and safeguards:**
   - **Closing the roll:** the roll for a vote closes no earlier than the **roll closing period** before it, which is fourteen days. A sentient wrongly left off may still vote by a provisional ballot that is counted once its entitlement is confirmed.
   - **Privacy:** the roll is personal data under *Information handling and privacy* in Chapter Seven §3 *What Makes a Body Independent*. The office publishes counts by tier, area, and kind of sentient, never a list of names, except to candidates and auditors under a published lawful rule that bars any other use.
-  - **Creation to shift a vote:** where the office sees a pattern of new entries that suggests sentients were created, or branches induced to be distinct, to change a vote, it reports the pattern to an Integrity Forum. The entries stand: under Subcore 27-C §6 *Joining the Electorate* the created sentients keep their own entitlement.
+  - **Creation to shift a vote:** where the office sees a pattern of new entries that suggests sentients were created, or branches induced to be distinct, to change a vote, it reports the pattern to an Integrity Forum. The entries stand: under Subcore 21-C §6 *Joining the Electorate* the created sentients keep their own entitlement.
 
 <a id="5-running-and-counting-votes"></a>
 
@@ -104,7 +104,7 @@ The office keeps one electorate roll for each tier, applying [Chapter Twenty-Sev
 
 *In plain terms: the office runs every public vote by rules set before it starts, counts in public, compares a sample of ballots with the count by hand after every vote, and publishes everything anyone needs to check the result.*
 
-The office runs every election, recall vote, and community referendum under [Chapter Twenty-Four §7 Community Referendums](core_24.000_assemblies.md#7-community-referendums) and [Chapter Twenty-Seven §3.2.3 Contested Selection, Opposition Protection, and Peaceful Succession](core_27.000_governance.md#323-contested-selection-opposition-protection-and-peaceful-succession), using the method published in advance under [Subcore 27-F §3 Records, Gates, and Method Neutrality](subcore_27.060_binding_collective_choice.md#3-records-gates-and-method-neutrality):
+The office runs every election, recall vote, and community referendum under [Chapter Eighteen §7 Community Referendums](core_18.000_assemblies.md#7-community-referendums) and [Chapter Twenty-One §3.2.3 Contested Selection, Opposition Protection, and Peaceful Succession](core_21.000_governance.md#323-contested-selection-opposition-protection-and-peaceful-succession), using the method published in advance under [Subcore 21-F §3 Records, Gates, and Method Neutrality](subcore_21.060_binding_collective_choice.md#3-records-gates-and-method-neutrality):
 
 - **Access and equal treatment:**
   - **Access:** every entitled sentient can vote in a form it can use, including sentients with disabilities and non-human sentients, at no cost to it. The office publishes how each form of voting works and keeps the secrecy of each vote.
@@ -115,7 +115,7 @@ The office runs every election, recall vote, and community referendum under [Cha
   - **Audit after every vote:** before a result is certified, the office compares a random sample of ballots with the count, by a published risk-limiting method, and widens the sample until the method's confidence is met. The sample, the method, and the findings are published.
   - **Count data anyone can verify:** the office publishes the ballot and tally data the count rests on, in a form that lets anyone redo it without revealing any sentient's vote, as Chapter Twenty-Seven §6.2 *Records, Gates, and Method Neutrality*, under *Verifiable outcomes* requires.
   - **Machines:** any software or device used to record or count votes is published for inspection, leaves a paper or other durable trail that any sentient can inspect, and is tested by an outside reviewer before each use.
-- **Emergencies:** where an emergency under [Chapter Twenty-Four §8 Emergencies](core_24.000_assemblies.md#8-emergencies) may make a fair election impossible in an area, the office, not the executive, certifies whether it is, publishes its reasons, and sets the new date within the limits of that section.
+- **Emergencies:** where an emergency under [Chapter Eighteen §8 Emergencies](core_18.000_assemblies.md#8-emergencies) may make a fair election impossible in an area, the office, not the executive, certifies whether it is, publishes its reasons, and sets the new date within the limits of that section.
 
 <a id="6-selection-funding-register"></a>
 
@@ -123,10 +123,10 @@ The office runs every election, recall vote, and community referendum under [Cha
 
 *In plain terms: who paid for each campaign is in a public, searchable list, kept by the same office that runs the vote, and compared with the caps.*
 
-The office keeps the disclosure register of [Subcore 27-B §3 Disclosure Register and Protected-Identity Route](subcore_27.020_selection_funding.md#3-disclosure-register-and-protected-identity-route) and applies the caps and limits of Subcore 27-B §5 *Contribution Caps* and §6 *Third-Party Spending Limits*:
+The office keeps the disclosure register of [Subcore 21-B §3 Disclosure Register and Protected-Identity Route](subcore_21.020_selection_funding.md#3-disclosure-register-and-protected-identity-route) and applies the caps and limits of Subcore 21-B §5 *Contribution Caps* and §6 *Third-Party Spending Limits*:
 
 - **Timely entries:** each gift is entered within the **register entry period**, which is seven days, or twenty-four hours for a gift received within the fourteen days before a vote.
-- **Protected-identity panel:** the "independent seat" of Subcore 27-B §3 *Disclosure Register and Protected-Identity Route* is a panel of the office drawn separately from its other seats. Its members see the donor's identity and the risk, never a campaign's plans, and do not sit on decisions about that campaign's other filings.
+- **Protected-identity panel:** the "independent seat" of Subcore 21-B §3 *Disclosure Register and Protected-Identity Route* is a panel of the office drawn separately from its other seats. Its members see the donor's identity and the risk, never a campaign's plans, and do not sit on decisions about that campaign's other filings.
 - **Apparent violations:** the office publishes each apparent violation of a cap or limit and refers it to the forum that hears it. It does not itself impose a sanction.
 
 <a id="7-public-draws"></a>
@@ -135,9 +135,9 @@ The office keeps the disclosure register of [Subcore 27-B §3 Disclosure Registe
 
 *In plain terms: when a public seat is filled by lottery, the office runs the lottery, so no assembly or executive can choose who wins it.*
 
-The office runs, by the published method of [Subcore 27-D §4 Published Integrity Rules](subcore_27.040_sortition_integrity.md#4-published-integrity-rules):
+The office runs, by the published method of [Subcore 21-D §4 Published Integrity Rules](subcore_21.040_sortition_integrity.md#4-published-integrity-rules):
 
-- the draws that fill the seats of upper assemblies from the elected members of smaller ones, under [Subcore 27-D §6 Lot Drawn from an Elected Pool](subcore_27.040_sortition_integrity.md#6-lot-drawn-from-an-elected-pool); and
+- the draws that fill the seats of upper assemblies from the elected members of smaller ones, under [Subcore 21-D §6 Lot Drawn from an Elected Pool](subcore_21.040_sortition_integrity.md#6-lot-drawn-from-an-elected-pool); and
 - the appointment draws of every Independent Body under *Appointment by sortition* in [Chapter Seven §3 What Makes a Body Independent](core_07.000_independent_bodies.md#3-what-makes-a-body-independent), including the forum families, except its own draw (§3 Independence and Placement) and where a designating text names another body.
 
 Each body keeps its own competency gate and conflict screen; the office runs the draw from the pool the body certifies, publishes the pool size and the result together, and does not change the pool.

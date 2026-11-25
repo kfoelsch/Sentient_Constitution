@@ -38,8 +38,8 @@
   - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity),
   - [Chapter Two §19.6](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6),
   - [Subcore 3-B §4.1.1 Formal Label and Representation Gaming](subcore_03.020_definition_integrity.md#411-formal-label-and-representation-gaming) (S3-B §4.1.1), and
-  - [Chapter Nineteen §5.1](core_19.000_final_effect_restoration_enforcement.md#51-remediation-capacity-and-funding) (19.000 §5.1) /
-  - [Chapter Nineteen §5.4](core_19.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority) (19.000 §5.4).
+  - [Chapter Thirteen §5.1](core_13.000_final_effect_restoration_enforcement.md#51-remediation-capacity-and-funding) (19.000 §5.1) /
+  - [Chapter Thirteen §5.4](core_13.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority) (19.000 §5.4).
 
 </details>
 
@@ -127,7 +127,7 @@ Leaf definitions under this leg inherit this leg's scope unless they expressly n
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Read with: [Chapter Two §19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (2.050 §19), [§11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure), and [Chapter Eight §4.1 Governance, Incentive, and Contestability Discipline](core_08.000_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline) (8.000 §4.1).
+- Read with: [Chapter Two §19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) (2.050 §19), [§11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure), and [Subcore 8-B §4.1 Governance, Incentive, and Contestability Discipline](subcore_08.020_system_alignment_certification_evaluation.md#41-governance-incentive-and-contestability-discipline) (8.000 §4.1).
 
 </details>
 

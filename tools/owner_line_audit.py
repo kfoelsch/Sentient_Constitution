@@ -67,7 +67,7 @@ IMPL_EXEMPT = {
         r"reader guidance only",
         "reader guide: says it adds no duty",
     ),
-    "corpus_forum/cf_22.475_sentience_status_record.md": (
+    "corpus_forum/cf_16.475_sentience_status_record.md": (
         r"^This file is the designated implementation text for ",
         "Chapter Three's definition names it the designated implementation text",
     ),

@@ -26,7 +26,7 @@ This page is the non-operative navigation home for the Systems and Data layer. T
 - [Chapter Two](core_02.000_values_principles.md) principles and [Chapter Three](core_03.000_definitions_home.md) definitions by reference — this layer does not redefine them
 - [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md) where auditability, traceability, and verification must hold in systems
 - [Chapter Four](core_04.000_rights_part_a.md) Rights Floor themes in operation — especially [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*) and [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*), [Article XVI](core_04.020_rights_part_c.md#article-xvi-info-sphere-integrity) (*Info-Sphere Integrity*), [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) / [Article XVII-A](core_04.020_rights_part_c.md#article-xvii-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*), [Article XXIV-A](core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*) and [Article XXIV-B](core_04.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*), and related system-facing articles
-- [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XVII** (*Audit, Transparency, and Independent Verification*) oversight requirements, not the sole auditing home
+- [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) system-alignment certification where material classification and stewardship apply — one especially large audit process under **Article XVII** (*Audit, Transparency, and Independent Verification*) oversight requirements, not the sole auditing home
 
 **Siblings:**
 
@@ -35,7 +35,7 @@ This page is the non-operative navigation home for the Systems and Data layer. T
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
 - [Joint Structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Thirty-One](core_31.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Twenty-Five](core_25.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Systems index** below. Identifier rules remain in the [systems registry](corpus_systems/cs_00.305_registry_and_reading_rules.md).
 
@@ -76,7 +76,7 @@ This page is the non-operative navigation home for the Systems and Data layer. T
 | CS-8.305 — Classification machinery (§1 and §7) | [cs_08.305_system_classification_machinery.md](corpus_systems/cs_08.305_system_classification_machinery.md) |
 | CS-8.315 — System alignment certification run sheet | [cs_08.315_system_alignment_certification_run_sheet.md](corpus_systems/cs_08.315_system_alignment_certification_run_sheet.md) |
 | CS-8.320 — System alignment certification illustrations | [cs_08.320_system_alignment_certification_illustrations.md](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md) |
-| CS-27.305 — Critical system stewardship | [cs_27.305_critical_system_stewardship.md](corpus_systems/cs_27.305_critical_system_stewardship.md) |
+| CS-21.305 — Critical system stewardship | [cs_21.305_critical_system_stewardship.md](corpus_systems/cs_21.305_critical_system_stewardship.md) |
 
 ### Engineering Protocols
 

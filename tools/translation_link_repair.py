@@ -51,26 +51,26 @@ SLUG_ALIASES = (("segregation", "separation"),)
 # against the numbered section or file lineage. Keep this list narrow; other
 # unmatched fragments remain review items.
 FRAGMENT_ALIASES = {
-    "core_10.000_system_alignment_certification_records_recertification.md": {
+    "subcore_08.060_system_alignment_certification_records_recertification.md": {
         "82-transparency-and-auditability-of-the-record": "82-transparency-and-auditability-of-the-system-certification-record",
         "91-recertification-schedule-and-the-new-record": "91-recertification-schedule-and-the-new-system-certification-record",
     },
-    "core_11.000_institutional_alignment_certification_evaluation.md": {
+    "subcore_09.020_institutional_alignment_certification_evaluation.md": {
         "135-remediation-readiness-denial-and-revocation-for-an-institution": "7-certification-outcomes",
         "82-transparency-and-auditability-of-the-record": "82-transparency-and-auditability-of-the-institutional-certification-record",
     },
-    "core_14.000_standing_assessment.md": {
+    "subcore_10.020_standing_assessment.md": {
         "verified-inputs-for-standing": "25-verified-input-gate",
     },
-    "core_16.000_standing_integration.md": {
+    "subcore_10.060_standing_integration.md": {
         "chapter-eleven-standing-effects-and-integration": "chapter-twelve-standing-effects-and-integration",
     },
-    "core_22.000_forum.md": {
+    "core_16.000_forum.md": {
         "chapter-thirteen-forums-and-jurisdiction": "chapter-twenty-two-forums-and-jurisdiction",
         "5-escalation-and-certification": "5-escalation-and-questions-for-ruling",
     },
-    "cf_22.415_routing_operations_transfer_certification_representative_treatment.md": {
-        "cf-13415-routing-operations-transfer-certification-and-representative-treatment": "cf-22415-routing-operations-transfer-questions-for-ruling-and-representative-treatment",
+    "cf_16.415_routing_operations_transfer_certification_representative_treatment.md": {
+        "cf-13415-routing-operations-transfer-certification-and-representative-treatment": "cf-16415-routing-operations-transfer-questions-for-ruling-and-representative-treatment",
     },
 }
 _PREFIX_RE = re.compile(r"^(?:[a-z]+-)?\d[0-9a-z]*-")  # "63-", "cjs-3125-", "113-"

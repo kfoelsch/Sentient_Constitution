@@ -3,235 +3,187 @@
   "note": "Shrink-only backlog (AUDIT-SCOPE-01). Fix a finding, then delete its entry. Do not add entries by hand.",
   "entries": [
     {
-      "key": "core_11.000_institutional_alignment_certification_evaluation.md::00b9d433a736",
+      "key": "subcore_09.020_institutional_alignment_certification_evaluation.md::00b9d433a736",
       "snippet": "They may not find the same institutional fact differently without saying why on the System Certification Record"
     },
     {
-      "key": "core_11.000_institutional_alignment_certification_evaluation.md::8686276ae3d8",
+      "key": "subcore_09.020_institutional_alignment_certification_evaluation.md::8686276ae3d8",
       "snippet": "It becomes mandatory on reclassification to Class L or higher, or where the Institution voluntarily asserts constitutional compliance."
     },
     {
-      "key": "core_11.000_institutional_alignment_certification_evaluation.md::bcda992dc1b3",
-      "snippet": "Unless it has a documented reauthorization showing under Article XXIX-B (Adoption Transition Authority Limits and Reauthorization), that is an Adoption Transiti"
-    },
-    {
-      "key": "core_12.000_institutional_alignment_certification_forum_process_outcomes.md::254c3b4de175",
-      "snippet": "Where only the grounds for an Interim Hold are met, it goes to an Interim Hold under Chapter Twenty-Three §4 Interim Hold on a Named Sentient's Pathway."
-    },
-    {
-      "key": "core_12.000_institutional_alignment_certification_forum_process_outcomes.md::29173d3d29ab",
-      "snippet": "The lead forum refers the matter to the forum that has jurisdiction over the type of certification problem identified."
-    },
-    {
-      "key": "core_12.000_institutional_alignment_certification_forum_process_outcomes.md::43d2e8d11bac",
+      "key": "subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md::43d2e8d11bac",
       "snippet": "An Institution that holds neither provisional nor full certification is Not Certified."
     },
     {
-      "key": "core_12.000_institutional_alignment_certification_forum_process_outcomes.md::e908e4564f0e",
+      "key": "subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md::e908e4564f0e",
       "snippet": "Where the certification finding rests on a holder who is not authentic, or on a sentient's use of the Institution to carry out a violation, the lead forum also "
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::05a50fc0c09b",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::05a50fc0c09b",
       "snippet": "an Institutional Certification Record has to say where to push back."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::129f9b85cee6",
-      "snippet": "Only the Institutional Certification Record can pass facts on to standing, and which side they land on follows the Two Constitutional Aims."
-    },
-    {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::1831c84cd1bd",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::1831c84cd1bd",
       "snippet": "It covers how affected parties challenge an Institutional Certification Record."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::21003f181d9f",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::21003f181d9f",
       "snippet": "The same holds while the count is held after a finding of design-caused misalignment:"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::35563b7d3476",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::35563b7d3476",
       "snippet": "the Institution or any affected sentient may ask the forum to review the cause finding, and if the cause is changed, these rules stop applying"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::37072edf0392",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::37072edf0392",
       "snippet": "An Institution holding provisional certification stays provisional and its count does not advance."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::3798bd2ea3c6",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::3798bd2ea3c6",
       "snippet": "A design that would produce misaligned results is misalignment before any such result appears."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::3c01611d49aa",
-      "snippet": "Standing input needs facts that support an adverse classification and attribution to the Institution as the actor (§6.5 Violation Standing Record), and a readin"
-    },
-    {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::3eb2cefc84a4",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::3eb2cefc84a4",
       "snippet": "An Institutional Certification Record, good or bad and whatever the outcome, may supply verified facts to Chapter Fourteen, but only through a strict gate."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::4b9ba599a609",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::4b9ba599a609",
       "snippet": "Where waiting would do harm, a challenger can go straight to a forum"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::5527c1db1738",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::5527c1db1738",
       "snippet": "An Institution holding full certification steps down to provisional certification."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::5c0bceb35077",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::5c0bceb35077",
       "snippet": "An Institution's status, its count of clean recertifications, and its monitoring indicators must be verified, and the verification must be open to independent r"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::5d65130ee206",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::5d65130ee206",
       "snippet": "Subcores 3-A to 3-C, and whichever Chapter Twenty-Two process applies"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::5d6a3a56bb23",
-      "snippet": "the institution class evaluation (§3 Institution Class Evaluation), which settles what institution class the Institution is in, the whole-Institution evaluation"
-    },
-    {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::5ff193a2dd40",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::5ff193a2dd40",
       "snippet": "its path is already open, or it opens when its Institutional Certification Record opens."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::655d50235ab9",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::655d50235ab9",
       "snippet": "These items, in the Institutional Certification Record, may supply verified input for a violation Standing Record where the facts support adverse classification"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::673f36808d2d",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::673f36808d2d",
       "snippet": "There is one ordinary first step, then routes to the forum that owns a disputed finding, to a backup when the lead forum itself is in question, and to escalatio"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::6b68da6f88de",
-      "snippet": "Interim protection and certification conditions under Chapter Nine §4 Certification Outcomes handle that case."
-    },
-    {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::6de09164cd51",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::6de09164cd51",
       "snippet": "Chapters Fourteen and Nineteen alone decide Standing Records and their effects"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::6eec346701b7",
-      "snippet": "The order they run in is in Chapter Nine §3.3 Contestability Chain."
-    },
-    {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::8ab5652e88a4",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::8ab5652e88a4",
       "snippet": "A claim that an Institution is aligned is unsupported while it has stakeholders but no open path for challenging the Institutional Certification Record"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::8eee9ac411e6",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::8eee9ac411e6",
       "snippet": "Stakeholders are the sentients the Institution materially affects or who materially rely on it, as found in evaluation and not as the Institution identifies the"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::90cfae6cfa71",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::90cfae6cfa71",
       "snippet": "What the bridge carries, and what it does not:"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::98395e37e889",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::98395e37e889",
       "snippet": "Published record challenge path — the ordinary first step for an ordinary dispute about the Institutional Certification Record."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::991ab01b4b50",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::991ab01b4b50",
       "snippet": "Only an institution with nothing wrong now, and nothing heading that way, graduates to full certification and a longer interval."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::9a5110ad9b8e",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::9a5110ad9b8e",
       "snippet": "All such inputs remain subject to the verified-input gate below"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::9bc4c9465cfb",
-      "snippet": "An Institutional Certification Record is recertified on the cadence set for the Institution's class in Chapter Twenty-Three §5 Timely Resolution, Materiality Ti"
-    },
-    {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::9fb8115a5203",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::9fb8115a5203",
       "snippet": "They are routes into the forums, not a new forum, and Chapter Twenty-Two still decides which forum has authority."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::a495bf38864f",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::a495bf38864f",
       "snippet": "When the path opens, and how long it stays open:"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::a69be57759a6",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::a69be57759a6",
       "snippet": "None of this covers negligence, concealment, or false evidence"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::ad7e45194bcc",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::ad7e45194bcc",
       "snippet": "What it passes on still has to clear the verified-input gate in §6.3 Verified-Input Gate"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::b76c0ac3c540",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::b76c0ac3c540",
       "snippet": "the challenge path has to be open before anyone is asked to rely on a certification."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::b8ddac6216a0",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::b8ddac6216a0",
       "snippet": "an Institutional Certification Record only works if sentients can push back when it is wrong."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::b94f58ee4032",
-      "snippet": "every evaluation in §5 Evaluations Where Implicated and §6 Rights-Floor and Domain Evaluations that applies to the Institution's own conduct, meaning each one w"
-    },
-    {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::ba63a40fb7e2",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::ba63a40fb7e2",
       "snippet": "it carries facts from the Institutional Certification Record and nothing else."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::c934b1e6fe6f",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::c934b1e6fe6f",
       "snippet": "an Institution that keeps producing misaligned results is misaligned, even if its design looks sound on paper."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::cd1a27fb5de1",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::cd1a27fb5de1",
       "snippet": "a recertification that finds no current misalignment but shows an indicator of impending misalignment is not a failure and is not clean."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::d465e24d64e6",
-      "snippet": "the Institutional Certification Record's own transparency and auditability rules (§3.2 Transparency and Auditability of the Institutional Certification Record) "
-    },
-    {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::d93e18611d6a",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::d93e18611d6a",
       "snippet": "Full certification does not turn off any reason to reopen review:"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::de8df7451828",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::de8df7451828",
       "snippet": "certification can feed standing, but it is not standing."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::dfa928d84bdd",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::dfa928d84bdd",
       "snippet": "Where the Institution makes consistent, honest efforts and is not negligent, a violation finding is unlikely."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::e30ab4f02b03",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::e30ab4f02b03",
       "snippet": "The paths apply Chapter Twenty-Two's Dispute sequencing to Institutional Certification Records."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::ea48602cbfe0",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::ea48602cbfe0",
       "snippet": "able to reopen review, pause reliance, and reach the forum with authority over the point in dispute."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::eb3d0b91a9b0",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::eb3d0b91a9b0",
       "snippet": "A complaints box that changes nothing does not count"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::ec2f078fdbc4",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::ec2f078fdbc4",
       "snippet": "each certification pass opens a new Institutional Certification Record linked to the one it follows"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::f0bf969e26f7",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::f0bf969e26f7",
       "snippet": "It is published at public-baseline fidelity, with lawful substitutes, under Subcore 4-A §10.3 Type O"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::f1e3fa7c3426",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::f1e3fa7c3426",
       "snippet": "Failing a review sends it back to the short leash"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::f405b9670f1f",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::f405b9670f1f",
       "snippet": "An overrun is reviewed as that section requires"
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::f60fb355e9b9",
-      "snippet": "the evaluation and class framing from Chapter Eleven"
-    },
-    {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::f860e5ce3e9c",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::f860e5ce3e9c",
       "snippet": "the count of clean recertifications stays at zero until the redesign is in place and has been verified."
     },
     {
-      "key": "core_13.000_institutional_alignment_certification_records_recertification.md::fc19f64f0574",
+      "key": "subcore_09.060_institutional_alignment_certification_records_recertification.md::fc19f64f0574",
       "snippet": "An Institution holding provisional certification stays provisional and its count of clean recertifications does not advance."
     }
   ]

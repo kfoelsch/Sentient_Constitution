@@ -86,7 +86,7 @@ NEW_CORE_FILES = """CORE_FILES = (
     "subcore_03.090_band_participation.md",
     "subcore_03.095_band_performance.md",
     "core_06.000_functional_independence_separation_of_duties.md",
-    "core_08.000_system_alignment_certification_evaluation.md",
+    "subcore_08.020_system_alignment_certification_evaluation.md",
     "core_08.005_system_alignment_certification_record_process.md",
     "core_08.010_system_alignment_certification_illustrations.md",
     "core_09.000_institutional_alignment_certification.md",
@@ -134,7 +134,7 @@ NEW_CORE_CHAIN = """CORE_CHAIN = (
     "subcore_03.090_band_participation.md",
     "subcore_03.095_band_performance.md",
     "core_06.000_functional_independence_separation_of_duties.md",
-    "core_08.000_system_alignment_certification_evaluation.md#chapter-six-part-a-certification-evaluation",
+    "subcore_08.020_system_alignment_certification_evaluation.md#chapter-six-part-a-certification-evaluation",
     "core_08.005_system_alignment_certification_record_process.md#chapter-six-part-b-certification-record-and-process",
     "core_08.010_system_alignment_certification_illustrations.md#chapter-six-part-c-certification-illustrations",
     "core_09.000_institutional_alignment_certification.md#chapter-nine-institutional-alignment-certification",
@@ -184,7 +184,7 @@ def ch2_stack_reader_guidance() -> str:
 > - **Subcore 3-A (this file)** — O/M/A/C definition structure and component alignment: every definition links **Ontological (O)** (what it is), the **Measurement (M)** register interwoven with the **Assessment (A)** duty (how it must be measured and assessed), and **Compliance (C)** (what must hold) ([§1 Purpose and Role]({CH2}#1-purpose-and-role); [§2 Definition Integrity Requirement]({CH2}#2-definition-integrity-requirement)).
 > - **Subcore 3-B** — definition integrity, evasion, and non-compliance ([Subcore 3-B]({CH3}#subcore-3-b-definition-integrity-evasion-and-non-compliance)).
 > - **Subcore 3-C** — burden of proof, definition traceability, observability, verification under security limits, and verification accessibility ([Subcore 3-C — Burden of Proof, Traceability, and Verification](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification)).
-> - **Chapter Three** — shared vocabulary for measurement, evaluation, and compliance (stand-alone, grouped, and package definitions in sections 1–3 across the five Tetrad band files and constitutional aim files: [Flourishing aim](subcore_03.050_apex_flourishing_aim.md), [Oversight](subcore_03.085_band_oversight.md), [Participation](subcore_03.090_band_participation.md), [Accountability](subcore_03.070_band_accountability.md), [Continuity](subcore_03.075_band_continuity.md), [Integrative](subcore_03.080_band_integrative.md)); reading order and map in [Part A](core_03.000_definitions_home.md#6-compass-and-definition-map).
+> - **Chapter Three** — shared vocabulary for measurement, evaluation, and compliance (stand-alone, grouped, and package definitions in sections 1–3 across the five Tetrad band files and constitutional aim files: [Subcore 3-F — Flourishing aim](subcore_03.050_apex_flourishing_aim.md), [Subcore 3-M — Oversight](subcore_03.085_band_oversight.md), [Subcore 3-N — Participation](subcore_03.090_band_participation.md), [Subcore 3-J — Accountability](subcore_03.070_band_accountability.md), [Subcore 3-K — Continuity](subcore_03.075_band_continuity.md), [Subcore 3-L — Integrative](subcore_03.080_band_integrative.md)); reading order and map in [Part A](core_03.000_definitions_home.md#6-compass-and-definition-map).
 > - **CJS** — operational definitions for cross-implementation terms ([CJS-3.105](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) operational cluster library); apply Chapter Three canonical homes—do not redefine them. Domain taxonomies and protocols in **CS**, **CI**, and **CF** follow the same rule.
 >
 > Additional navigation:

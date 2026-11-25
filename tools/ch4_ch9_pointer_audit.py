@@ -18,8 +18,8 @@ _TOOLS = Path(__file__).resolve().parent
 if str(_TOOLS) not in sys.path:
     sys.path.insert(0, str(_TOOLS))
 
-CH8_PART_A = "core_08.000_system_alignment_certification_evaluation.md"
-CH8_PART_B = "core_09.000_system_alignment_certification_forum_process_outcomes.md"
+CH8_PART_A = "subcore_08.020_system_alignment_certification_evaluation.md"
+CH8_PART_B = "subcore_08.040_system_alignment_certification_forum_process_outcomes.md"
 CH8_FILES = (CH8_PART_A, CH8_PART_B)
 CH4_FILE = "subcore_03.030_burden_traceability_verification.md"
 

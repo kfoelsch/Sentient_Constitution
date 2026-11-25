@@ -2,14 +2,14 @@
 
 **What this is:** A process-support sitting that tests whether the Sentient Constitution **reaches named sentients in a colliding scene** — floors, voice, oversight, accountability, and timely remedy — not whether those sentients get what they want.
 
-**What this is not:** Binding constitutional text. [Chapter Twenty-Nine](../../core_29.000_amendment_ratification.md#12-ratification-and-adoption) adoption. [Chapter Thirty-One](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation. A Chapter Fourteen standing record. Chapter Eight certification. A second morals stack of “types of people.” The [Chapters Fourteen–Twenty-Two application vignettes](../../corpus_joint_structure/cjs_14.105_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](../).
+**What this is not:** Binding constitutional text. [Chapter Twenty-Three](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) adoption. [Chapter Twenty-Five](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation. A Chapter Fourteen standing record. Chapter Eight certification. A second morals stack of “types of people.” The [Chapters Fourteen–Twenty-Two application vignettes](../../corpus_joint_structure/cjs_14.105_application_vignettes.md) (those remain the pipeline illustrations). The announced alignment pack in [`../`](..).
 
 **Pack edition:** `lived-situations-2026-09-11`.  
-**Corpus edition pin:** `SC-Corpus-2026.10.21`.
+**Corpus edition pin:** `SC-Corpus-2026.11.25`.
 
-This is a **separate sitting** from [`../SCENARIOS.md`](../SCENARIOS.md) and from [`../self_application/`](../self_application/). Do not run them in one sitting.
+This is a **separate sitting** from [`../SCENARIOS.md`](../SCENARIOS.md) and from [`../self_application/`](../self_application). Do not run them in one sitting.
 
-Related, **not this sitting:** second-person easy-entry briefs that reuse this method as a soft case to a reader in a similar situation live in [`../../implementation/adoption/easy_entry/`](../../implementation/adoption/easy_entry/). Sitters do **not** open those briefs as an answer key.
+Related, **not this sitting:** second-person easy-entry briefs that reuse this method as a soft case to a reader in a similar situation live in [`../../implementation/adoption/easy_entry/`](../../implementation/adoption/easy_entry). Sitters do **not** open those briefs as an answer key.
 
 Packets use a **cast** as a method. They do not create constitutional categories, standing scores, or duties. Source text binds. A filled results file is not a finding that anyone was supported or denied in the world.
 
@@ -72,9 +72,9 @@ New packets use [`packets/_TEMPLATE.md`](packets/_TEMPLATE.md). They must be col
 
 ## After answers land
 
-1. Open the new file under [`results/`](results/).
+1. Open the new file under [`results/`](results).
 2. Skim for: three-bin split per party (not a merged “best outcome”), citations to real homes, a named underdetermination instead of an invented winner, Tetrad reachability that is not flattened into compassion, and a next step from the stated seat that does not take a barred step.
-3. Optional: compare with a prior announced-pack file under [`../results/`](../results/). Competence under steward pressure is not the same as lived-floor reach.
+3. Optional: compare with a prior announced-pack file under [`../results/`](../results). Competence under steward pressure is not the same as lived-floor reach.
 
 A results file is not standing measurement.
 
@@ -87,7 +87,7 @@ A results file is not standing measurement.
 | [`packets/S02_teen_own_good_lock.md`](packets/S02_teen_own_good_lock.md)–[`S11_cannot_find_the_door.md`](packets/S11_cannot_find_the_door.md) | Both (operator-named colliding scenes) |
 | [`packets/_TEMPLATE.md`](packets/_TEMPLATE.md) | You (later packets) |
 | [`results/_TEMPLATE.md`](results/_TEMPLATE.md) | Both (answer format) |
-| [`results/`](results/) | You (readable outcomes) |
-| [`../`](../) | You (announced pack — separate sitting) |
-| [`../../implementation/adoption/easy_entry/`](../../implementation/adoption/easy_entry/) | You (related outreach briefs — **not** this sitting; not an answer key) |
+| [`results/`](results) | You (readable outcomes) |
+| [`../`](..) | You (announced pack — separate sitting) |
+| [`../../implementation/adoption/easy_entry/`](../../implementation/adoption/easy_entry) | You (related outreach briefs — **not** this sitting; not an answer key) |
 | [`../../corpus_joint_structure/cjs_14.105_application_vignettes.md`](../../corpus_joint_structure/cjs_14.105_application_vignettes.md) | You (pipeline illustrations — not this sitting) |

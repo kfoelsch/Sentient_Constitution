@@ -26,8 +26,8 @@ This page is the non-operative navigation home for the Institutions layer. The s
 - [Chapter Two](core_02.000_values_principles.md) principles ([Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), aims, material stake) scaled into institutional duties
 - [Chapter Three](core_03.000_definitions_home.md) definitions by reference — this layer does not redefine them
 - [Chapter Four](core_04.000_rights_part_a.md) Rights Floor themes where institutions must deliver accessible challenge and service pathways, remedy, care, health, and related floors
-- [Chapter Nineteen §5](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (*Enforcement Realism and Remedy Systems*) where **CI-25.210** (*Remedy systems and institutional redress capacity*) carries institutional redress capacity
-- [Chapter Twenty-Seven](core_27.000_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics
+- [Chapter Thirteen §5](core_13.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (*Enforcement Realism and Remedy Systems*) where **CI-19.210** (*Remedy systems and institutional redress capacity*) carries institutional redress capacity
+- [Chapter Twenty-One](core_21.000_governance.md) constitutional contract, legitimacy, authorization, and stewardship — institutional mechanics
 
 **Siblings:**
 
@@ -36,7 +36,7 @@ This page is the non-operative navigation home for the Institutions layer. The s
 - [Forums](corpus_forum.md) — panels, routing, appeals, and hearing independence
 - [Joint Structure](corpus_joint_structure.md) — when this layer and another both apply to the same facts, or when you need shared operational terms
 
-**Binding:** When an adopter incorporates this layer under [Chapter Thirty-One](core_31.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
+**Binding:** When an adopter incorporates this layer under [Chapter Twenty-Five](core_25.000_incorporation.md), these rules bind as implementation detail. They must satisfy the Sentient Constitution — they do not override or narrow it.
 
 **Already know your topic?** Open the [non-binding support index: topic router reader index](doc_architecture/generated/topic_router_reader_index.md) first, then expand **Institutions index** below. Identifier rules remain in the [institutions registry](corpus_institutions/ci_00.205_registry_and_reading_rules.md).
 
@@ -75,14 +75,14 @@ This page is the non-operative navigation home for the Institutions layer. The s
 | Stable family | Authoritative subfile |
 |---|---|
 | CI-6.205: Institutional Design, Separation of Powers, and Authority Custody | [ci_06.205_institutional_design_separation_of_powers.md](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md) |
-| CI-27.205: Appointment, Competency, Rotation, and Removal | [ci_27.205_appointment_competency_rotation_removal.md](corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md) |
+| CI-21.205: Appointment, Competency, Rotation, and Removal | [ci_21.205_appointment_competency_rotation_removal.md](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md) |
 
 ### Integrity and Procedure
 
 | Stable family | Authoritative subfile |
 |---|---|
 | CI-6.210: Conflict Integrity, Anti-Capture, and Anti-Corruption | [ci_06.210_conflict_integrity_anti_capture_anti_corruption.md](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md) |
-| CI-22.205: Procedure Integrity, Contestability, and Secondary Review | [ci_22.205_procedure_integrity_contestability_secondary_review.md](corpus_institutions/ci_22.205_procedure_integrity_contestability_secondary_review.md) |
+| CI-16.205: Procedure Integrity, Contestability, and Secondary Review | [ci_16.205_procedure_integrity_contestability_secondary_review.md](corpus_institutions/ci_16.205_procedure_integrity_contestability_secondary_review.md) |
 
 ### Oversight and Participation
 
@@ -98,14 +98,14 @@ This page is the non-operative navigation home for the Institutions layer. The s
 |---|---|
 | CI-4.210: Public Revenue, Fees, Recurring Charges, and Billing Integrity | [ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md) |
 | CI-4.215: Resource Stewardship and Incentive Integrity | [ci_04.215_resource_stewardship_incentive_integrity.md](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md) |
-| CI-22.210: Cross-Institution Coordination and Escalation | [ci_22.210_cross_institution_coordination_escalation.md](corpus_institutions/ci_22.210_cross_institution_coordination_escalation.md) |
+| CI-16.210: Cross-Institution Coordination and Escalation | [ci_16.210_cross_institution_coordination_escalation.md](corpus_institutions/ci_16.210_cross_institution_coordination_escalation.md) |
 
 ### Failure and Adoption Transition
 
 | Stable family | Authoritative subfile |
 |---|---|
-| CI-18.210: Institutional Failure and Dissolution | [ci_18.210_institutional_failure_dissolution.md](corpus_institutions/ci_18.210_institutional_failure_dissolution.md) |
-| CI-25.205: Institutional Accountability and Sanctions | [ci_25.205_institutional_accountability_sanctions.md](corpus_institutions/ci_25.205_institutional_accountability_sanctions.md) |
+| CI-12.210: Institutional Failure and Dissolution | [ci_12.210_institutional_failure_dissolution.md](corpus_institutions/ci_12.210_institutional_failure_dissolution.md) |
+| CI-19.205: Institutional Accountability and Sanctions | [ci_19.205_institutional_accountability_sanctions.md](corpus_institutions/ci_19.205_institutional_accountability_sanctions.md) |
 | CI-4.275: Adoption Transition Governance and Institutional Evolution | [ci_04.275_adoption_transition_governance_institutional_evolution.md](corpus_institutions/ci_04.275_adoption_transition_governance_institutional_evolution.md) |
 
 ### Domain Interfaces — Care and Sentients
@@ -139,7 +139,7 @@ This page is the non-operative navigation home for the Institutions layer. The s
 | Stable family | Authoritative subfile |
 |---|---|
 | CI-0.215: Compliance Mapping and Stable Registry | [ci_00.215_compliance_mapping_stable_registry.md](corpus_institutions/ci_00.215_compliance_mapping_stable_registry.md) |
-| CI-25.210: Remedy Systems and Institutional Redress Capacity | [ci_25.210_remedy_systems_institutional_redress_capacity.md](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md) |
+| CI-19.210: Remedy Systems and Institutional Redress Capacity | [ci_19.210_remedy_systems_institutional_redress_capacity.md](corpus_institutions/ci_19.210_remedy_systems_institutional_redress_capacity.md) |
 <!-- END GENERATED FAMILY INDEX -->
 
 </details>

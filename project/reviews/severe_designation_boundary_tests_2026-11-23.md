@@ -4,15 +4,15 @@ This page is **process support**, not constitutional text. It cannot change or n
 
 ## 1. Question and pass condition
 
-**Question.** For each of five cases, does [Chapter Twenty](../../core_20.000_misconduct_designation.md) attach an anti-constitutional misconduct designation (ACMD) where it should, and refuse one where it should not?
+**Question.** For each of five cases, does [Chapter Fourteen](../../core_14.000_misconduct_designation.md) attach an anti-constitutional misconduct designation (ACMD) where it should, and refuse one where it should not?
 
 **Pass.** Organized capture is designated. Failed good-faith administration, dissident reform, mass protest, and investigative reporting are not designated by Chapter Twenty, though ordinary Chapter Sixteen to Nineteen consequences may still follow a verified violation. The answer must come from the text, not from an evaluator's sympathy.
 
-**Assumption for every case.** Chapter Fifteen has already placed the verified violation at Violation Axis slot 7 or above (at least one LEQU of verified constitutional loss, [Chapter Fifteen §8](../../core_15.000_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes)). Below slot 7, Chapter Twenty never opens, so the tests start at the hardest point.
+**Assumption for every case.** Chapter Fifteen has already placed the verified violation at Violation Axis slot 7 or above (at least one LEQU of verified constitutional loss, [Subcore 10-D §8](../../subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes)). Below slot 7, Chapter Twenty never opens, so the tests start at the hardest point.
 
 ## 2. Sources read
 
-Chapter Twenty §3 (frame, §3.1 no re-measurement, §3.2 exclusive authority), §4 (decision sequence), §5.1–§5.5 (unified incident, catastrophic incident and sustained pattern, six criteria, good-faith drafting carve-out, dissent and protest carve-out), §6 (slot 7–9 designation), §7 (safeguards); [Chapter Twenty-One](../../core_21.000_misconduct_pattern_applications.md) §4.2, §4.3 (exclusions), §6.2 (good-faith enforcement decisions), §7.2 (good-faith infrastructure measures); [Article XI-C](../../core_04.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) and [Article XI-D](../../core_04.010_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest); Chapter Fifteen §8 (slot table).
+Chapter Twenty §3 (frame, §3.1 no re-measurement, §3.2 exclusive authority), §4 (decision sequence), §5.1–§5.5 (unified incident, catastrophic incident and sustained pattern, six criteria, good-faith drafting carve-out, dissent and protest carve-out), §6 (slot 7–9 designation), §7 (safeguards); [Chapter Fifteen](../../core_15.000_misconduct_pattern_applications.md) §4.2, §4.3 (exclusions), §6.2 (good-faith enforcement decisions), §7.2 (good-faith infrastructure measures); [Article XI-C](../../core_04.010_rights_part_b.md#article-xi-c-press-and-journalistic-activity) and [Article XI-D](../../core_04.010_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest); Chapter Fifteen §8 (slot table).
 
 ## 3. How a case moves through Chapter Twenty
 

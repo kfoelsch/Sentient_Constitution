@@ -19,7 +19,7 @@
 | 9 | CF-23.450 (forum continuity) | `core_15.000` §6.1 *Emergency measures and continuation burden* (line 1073); Trace Downstream, beside the CF files already listed | Trace Downstream bullet, plus one body sentence at the end of §6.1 |
 | 10 | CF-23.455 (fallback operation) | `core_15.000` §3 *Transfer, consolidation, and coordination — continuity and anti-capture* (line 346) and §6.1; Trace Downstream | Trace Downstream bullet; the §6.1 sentence above |
 | 11 | CF-23.460 (emergency adjudication) | `core_15.000` §6.1 *Emergency measures and continuation burden* (line 1073); Trace Downstream | Trace Downstream bullet; the §6.1 sentence above |
-| 12 | CJS-31.105 (drafting contracts and owner-to-CJS seam (for editors and auditors)) | `core_20.000` Trace, as a "Read with" bullet beside CJS-31.110 | Trace only. No body sentence, and no closing line |
+| 12 | CJS-25.105 (drafting contracts and owner-to-CJS seam (for editors and auditors)) | `core_20.000` Trace, as a "Read with" bullet beside CJS-25.110 | Trace only. No body sentence, and no closing line |
 
 ## Draft wording and notes
 
@@ -73,7 +73,7 @@
 
 ### 9. CF-23.450
 
-- **Institutional implementation:** Forum continuity, fallback substitution, and emergency adjudication are governed by [**CF-23.450**](corpus_forum/cf_22.450_forum_continuity.md#cf-23450-forum-continuity) (*Forum continuity*), [**CF-23.455**](corpus_forum/cf_22.455_fallback_operation.md#cf-23455-fallback-operation) (*Fallback operation*), and [**CF-23.460**](corpus_forum/cf_22.460_emergency_adjudication.md#cf-23460-emergency-adjudication) (*Emergency adjudication*).
+- **Institutional implementation:** Forum continuity, fallback substitution, and emergency adjudication are governed by [**CF-23.450**](corpus_forum/cf_16.450_forum_continuity.md#cf-23450-forum-continuity) (*Forum continuity*), [**CF-23.455**](corpus_forum/cf_16.455_fallback_operation.md#cf-23455-fallback-operation) (*Fallback operation*), and [**CF-23.460**](corpus_forum/cf_16.460_emergency_adjudication.md#cf-23460-emergency-adjudication) (*Emergency adjudication*).
 
 *Confidence and notes:* High. One sentence can cover all three files; they cross-refer to each other already.
 
@@ -89,15 +89,15 @@ Draft: (same sentence as CF-23.450)
 
 *Confidence and notes:* High. §6.1 is the constitutional rule this file operationalizes.
 
-### 12. CJS-31.105
+### 12. CJS-25.105
 
-Draft: - Read with: [CJS-31.105](corpus_joint_structure/cjs_31.105_drafting_contracts.md#cjs-31105-drafting-contracts-and-owner-to-cjs-seam) (*drafting contracts, for editors and auditors*) and [CJS-31.110](corpus_joint_structure/cjs_31.110_specific_joint_interlocks.md#cjs-31110-specific-joint-interlocks-and-shared-abstractions) (*specific joint interlocks*).
+Draft: - Read with: [CJS-25.105](corpus_joint_structure/cjs_25.105_drafting_contracts.md#cjs-25105-drafting-contracts-and-owner-to-cjs-seam) (*drafting contracts, for editors and auditors*) and [CJS-25.110](corpus_joint_structure/cjs_25.110_specific_joint_interlocks.md#cjs-25110-specific-joint-interlocks-and-shared-abstractions) (*specific joint interlocks*).
 
-*Confidence and notes:* Low priority. The file says average readers can skip it. Linking it is a consistency choice, not a reader need. CJS-31.110 is cited from five core chapters but not from Chapter 20.
+*Confidence and notes:* Low priority. The file says average readers can skip it. Linking it is a consistency choice, not a reader need. CJS-25.110 is cited from five core chapters but not from Chapter 20.
 
 ## Decisions for the custodian
 
 1. **Chapter Six pointers in Article text.** Seven proposals add an "Institutional implementation" bullet to a Rights Floor Article. Do you want them, or Trace-only links for Chapter Six?
 2. **Primary Article** for CI-6.245 (X-A, XI-F or VIII-A) and for CS-6.355 (XXV, XXVI or XXVIII-C).
-3. **CJS-31.105:** link it from Chapter 31 Trace or leave it unlinked as an editors-and-auditors file.
+3. **CJS-25.105:** link it from Chapter 31 Trace or leave it unlinked as an editors-and-auditors file.
 4. **Translations:** these edits would make the translated core files stale. Translations are paused, so no action is needed now.

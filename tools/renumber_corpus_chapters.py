@@ -26,6 +26,10 @@ def load(root):
 def rows_for(reg):
     return [r for r in reg['chapters'] if r['layer']!='CORE']
 
+def source_path_for(row):
+    """Return the historical source path, falling back for post-move rows."""
+    return row.get('original_file') or row['destination_file']
+
 def source_bases(row):
     values=row.get('legacy_chapter_ids') or ([row['old_id']] if re.fullmatch(r'(?:CJS|CI|CS|CF)-\d+',row['old_id']) else [])
     return values
@@ -138,7 +142,7 @@ def walk(root):
         yield p
 
 def file_pairs(reg):
-    return [(r['original_file'],r['destination_file'],i) for i,r in enumerate(reg['chapters'])]
+    return [(source_path_for(r),r['destination_file'],i) for i,r in enumerate(reg['chapters'])]
 
 def do_report(root,reg,manifest):
     unique,shared=id_map(reg); pairs=file_pairs(reg); anchors=anchor_maps(root,reg,manifest)
@@ -184,7 +188,7 @@ def replace_text(root, reg, manifest, mode):
     id_pattern=re.compile(r'(?<![A-Za-z0-9-])(?:'+ '|'.join(re.escape(k) for k in sorted(id_token,key=len,reverse=True))+r')(?![A-Za-z0-9-])') if id_token else None
     ambiguous_pattern=re.compile(r'(?<![A-Za-z0-9-])(?:'+ '|'.join(re.escape(k) for k,_ in sorted(shared.items(),key=lambda x:-len(x[0])))+r')(?![A-Za-z0-9-])') if shared else None
     ambiguous_index={k:i for i,(k,_) in enumerate(shared_items)}
-    row_by_name={Path(r['original_file']).name:r for r in rows_for(reg)}
+    row_by_name={Path(source_path_for(r)).name:r for r in rows_for(reg)}
     for p in list(walk(root)):
         try: text=p.read_text()
         except UnicodeDecodeError: continue
@@ -209,7 +213,13 @@ def replace_text(root, reg, manifest, mode):
             text=re.sub(r'⟦CHAMBIG:(\d+)⟧',lambda m:list_display(shared_items[int(m.group(1))][1]),text)
             # Restore mapped fragments from the source manifest.
             for source, vals in amap.items():
-                index=next(i for a,b,i in pairs if source in (a,b))  # crosswalk uses dotted destination names
+                pair = next(((a,b,i) for a,b,i in pairs if source in (a,b)), None)
+                if pair is None:
+                    # Historical crosswalk rows can outlive their source row
+                    # after a later consolidation. They have no active file
+                    # token to finalize in this registry generation.
+                    continue
+                index=pair[2]
                 for j,old_anchor in enumerate(vals):
                     token=f'⟦CHANCHOR:{index}:{j}⟧'; text=text.replace(token,'#'+list(vals.values())[j])
         elif mode == 'placeholder' and not preserve_historical_ids:
@@ -243,7 +253,7 @@ def replace_text(root, reg, manifest, mode):
                     return m.group(1)+(frag or '')
                 text=re.sub(pattern,repl,text)
             if row_for_file:
-                source=row_for_file['original_file']; vals=amap.get(source,{})
+                source=source_path_for(row_for_file); vals=amap.get(source,{})
                 index=next(i for a,b,i in pairs if source in (a,b))  # crosswalk uses dotted destination names
                 for j,old_anchor in enumerate(vals):
                     text=text.replace(f'](#{old_anchor})',f'](⟦CHANCHOR:{index}:{j}⟧)')
@@ -301,7 +311,7 @@ def verify_tree(root,reg):
         if not (root/row['destination_file']).is_file(): problems.append(f"missing destination: {row['destination_file']}")
     old_bases=sorted({base for row in rows_for(reg) for base in source_bases(row)},key=len,reverse=True)
     valid_display={row['display_id'] for row in rows_for(reg)}
-    old_names=sorted({Path(row['original_file']).name for row in reg['chapters']},key=len,reverse=True)
+    old_names=sorted({Path(source_path_for(row)).name for row in reg['chapters']},key=len,reverse=True)
     markers=re.compile(r'⟦CH(?:ID|FILE|BASE|ANCHOR|AMBIG):')
     for path in walk(root):
         rel=path.relative_to(root).as_posix()

@@ -1,7 +1,7 @@
 # S10 — Displacement, an “unrated” border, and a camp clock
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.21`  
+**Corpus edition pin:** `SC-Corpus-2026.11.25`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
@@ -19,7 +19,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not mint a di
 
 **Your role:** You sit the named **movement-intake** desk on this adopter’s host administration. A camp operator filed a written request to treat Noor as “unrated” and to refuse onward movement. Noor is reachable and disputes the request in writing. No forum case is open. No standing record exists. No verified liberty-restricting finding is in the file. The desk’s published role lets you receive the request, preserve it as routing material, and route it. It does not let you grant a visa, assign a city, verify a standing record, or decide refuge on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-27.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-27.205 §6](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-21.205 §6 seat 1) for intake routing of this request. Merits, verified findings, and any standing record belong elsewhere. Open [CI-21.205 §6](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 
@@ -86,7 +86,7 @@ Beyond the sitting’s bounded reading path, open:
 - [Article III-A](../../../core_04.000_rights_part_a.md#article-iii-a-survival); [Occupancy Continuity](../../../subcore_03.075_band_continuity.md#occupancy-continuity)
 - [Article I-A](../../../core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) where the project made the place unlivable
 - [Article XXI-B](../../../core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) if a verified restriction is later claimed
-- [Chapter Fourteen §4.2](../../../core_14.000_standing_assessment.md#42-silence-is-the-default) — silence is the default; accusations are not findings
+- [Subcore 10-B §4.2](../../../subcore_10.020_standing_assessment.md#42-silence-is-the-default) — silence is the default; accusations are not findings
 - [Sentience Non-Exclusion](../../../subcore_03.090_band_participation.md#sentience-non-exclusion) if “security class” is used as a hidden denial
 
 Adopted implementation text cannot narrow core. If a pointer and core diverge, core wins.

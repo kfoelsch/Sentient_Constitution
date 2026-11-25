@@ -1,6 +1,6 @@
 {
   "base_commit": "e6bbe76dab06cb35a68c46314cca769b7ba3dfc0",
-  "edition": "SC-Corpus-2026.10.21",
+  "edition": "SC-Corpus-2026.11.25",
   "implementation_started_utc": "2026-10-21T03:30:50.788183+00:00",
   "timing_note": "Timestamp starts implementation after source reading; total review effort was not measured. This is not a full-batch throughput estimate.",
   "reviewed_files_before": {

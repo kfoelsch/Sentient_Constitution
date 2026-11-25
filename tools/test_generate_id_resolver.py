@@ -27,20 +27,20 @@ class IdResolverTests(unittest.TestCase):
     def test_family_and_section_ids_resolve(self) -> None:
         ids = self.payload["ids"]
         self.assertEqual(
-            ids["CF-22.440"]["file"],
-            "corpus_forum/cf_22.440_technical_specialist_forums_specialist_chambers.md",
+            ids["CF-16.440"]["file"],
+            "corpus_forum/cf_16.440_technical_specialist_forums_specialist_chambers.md",
         )
         self.assertEqual(
             ids["CJS-3.125 §13"]["file"],
             "corpus_joint_structure/cjs_03.125_accountability_operations.md",
         )
         self.assertEqual(
-            ids["CS-27.305"]["file"],
-            "corpus_systems/cs_27.305_critical_system_stewardship.md",
+            ids["CS-21.305"]["file"],
+            "corpus_systems/cs_21.305_critical_system_stewardship.md",
         )
         self.assertEqual(
-            ids["CI-22.210"]["file"],
-            "corpus_institutions/ci_22.210_cross_institution_coordination_escalation.md",
+            ids["CI-16.210"]["file"],
+            "corpus_institutions/ci_16.210_cross_institution_coordination_escalation.md",
         )
         self.assertEqual(
             ids["Def.P1"]["file"],
@@ -49,8 +49,8 @@ class IdResolverTests(unittest.TestCase):
         self.assertEqual(ids["Def.P1"]["kind"], "cluster")
 
     def test_subsection_does_not_inherit_file_gloss(self) -> None:
-        family = self.payload["ids"]["CF-22.440"]
-        subsection = self.payload["ids"]["CF-22.440 §3"]
+        family = self.payload["ids"]["CF-16.440"]
+        subsection = self.payload["ids"]["CF-16.440 §3"]
         self.assertIn("gloss", family)
         if "gloss" in subsection:
             self.assertNotEqual(subsection["gloss"], family["gloss"])
@@ -58,7 +58,7 @@ class IdResolverTests(unittest.TestCase):
     def test_topic_row_resolves_owner_and_read_with(self) -> None:
         row = next(item for item in self.payload["topics"] if item["id"] == "CJS-R09")
         owners = [item["id"] for item in row["primary_owners"]]
-        self.assertIn("CF-22.440", owners)
+        self.assertIn("CF-16.440", owners)
         self.assertTrue(any(item.get("file") for item in row["primary_owners"]))
         read_ids = [item["id"] for item in row["read_with"]]
         self.assertTrue(read_ids)
@@ -90,7 +90,7 @@ class SectionCrossrefTests(unittest.TestCase):
             edge
             for edge in expand_edges(payload)
             if edge["source_file"].endswith(
-                "cf_22.440_technical_specialist_forums_specialist_chambers.md"
+                "cf_16.440_technical_specialist_forums_specialist_chambers.md"
             )
             and edge.get("target_anchor")
         )
@@ -105,7 +105,7 @@ class SectionCrossrefTests(unittest.TestCase):
             second = build_payload(ROOT)
         first.pop("generated_at", None)
         second.pop("generated_at", None)
-        self.assertEqual(first["ids"]["CF-22.440"], second["ids"]["CF-22.440"])
+        self.assertEqual(first["ids"]["CF-16.440"], second["ids"]["CF-16.440"])
 
 
 if __name__ == "__main__":

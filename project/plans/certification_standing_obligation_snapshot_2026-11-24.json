@@ -1,7 +1,7 @@
 {
   "generated": "2026-11-24",
   "files": {
-    "core_08.000_system_alignment_certification_evaluation.md": [
+    "subcore_08.020_system_alignment_certification_evaluation.md": [
       {
         "modality": "PERMISSION",
         "terms": [
@@ -4112,7 +4112,7 @@
         "text": "In addition, each of the following must be treated as a certification defect: treating reputation, endorsement, scale, or operator self-report as sufficient without evaluable Trustworthiness analysis, treating the absenc"
       }
     ],
-    "core_09.000_system_alignment_certification_forum_process_outcomes.md": [
+    "subcore_08.040_system_alignment_certification_forum_process_outcomes.md": [
       {
         "modality": "DUTY",
         "terms": [
@@ -5556,7 +5556,7 @@
         "text": "A denial of a system that never held certification is treated the same way: the facts behind it may supply input under Chapter Ten \u00a76.2 Every Certification Outcome."
       }
     ],
-    "core_10.000_system_alignment_certification_records_recertification.md": [
+    "subcore_08.060_system_alignment_certification_records_recertification.md": [
       {
         "modality": "DUTY",
         "terms": [
@@ -5722,7 +5722,7 @@
           "version",
           "versions"
         ],
-        "text": "The Record Version that was relied on stays reachable and is marked as corrected or superseded., Operating evidence: is added as linked entries under Subcore 10-A \u00a73.9 Operating Plan., A new pass: a later certification p"
+        "text": "The Record Version that was relied on stays reachable and is marked as corrected or superseded., Operating evidence: is added as linked entries under Subcore 8-E \u00a73.9 Operating Plan., A new pass: a later certification p"
       },
       {
         "modality": "DUTY",
@@ -5789,7 +5789,7 @@
           "what",
           "whole-system"
         ],
-        "text": "What the System Certification Record must contain is set out in full in Subcore 10-A \u00a73 Minimum Contents of the System Certification Record: system identity and scope, classification and whole-system findings, the System"
+        "text": "What the System Certification Record must contain is set out in full in Subcore 8-E \u00a73 Minimum Contents of the System Certification Record: system identity and scope, classification and whole-system findings, the System"
       },
       {
         "modality": "DUTY",
@@ -7281,7 +7281,7 @@
           "subcore",
           "system"
         ],
-        "text": "Adopters and governed institutions should keep a published crosswalk that places major industries and regulatory domains against this Subcore and CS-27.305 \u2014 Critical system stewardship."
+        "text": "Adopters and governed institutions should keep a published crosswalk that places major industries and regulatory domains against this Subcore and CS-21.305 \u2014 Critical system stewardship."
       },
       {
         "modality": "DUTY",
@@ -8466,7 +8466,7 @@
         "text": "An organization may not be held at CSS-C to avoid a higher level."
       }
     ],
-    "subcore_09.010_certification_seats_forum_roles_sequence.md": [
+    "subcore_08.030_certification_seats_forum_roles_sequence.md": [
       {
         "modality": "DUTY",
         "terms": [
@@ -8945,7 +8945,7 @@
         "text": "Constitutional disposition: If constitutional meaning, validity, or class-wide structural remedy is materially at issue, the lead forum must send the question for ruling or escalate under Chapter Twenty-Two before treati"
       }
     ],
-    "subcore_10.010_system_certification_record_contents.md": [
+    "subcore_08.050_system_certification_record_contents.md": [
       {
         "modality": "DUTY",
         "terms": [
@@ -8973,7 +8973,7 @@
           "system",
           "through"
         ],
-        "text": "Subcore 10-A is the constitutional owner of the minimum contents of a System Certification Record: each item the Record Seat must enter, from the system's identity and class through the findings, the four seats, every co"
+        "text": "Subcore 8-E is the constitutional owner of the minimum contents of a System Certification Record: each item the Record Seat must enter, from the system's identity and class through the findings, the four seats, every co"
       },
       {
         "modality": "PERMISSION",
@@ -9908,7 +9908,7 @@
         "text": "It must not imply certified operating permission."
       }
     ],
-    "core_11.000_institutional_alignment_certification_evaluation.md": [
+    "subcore_09.020_institutional_alignment_certification_evaluation.md": [
       {
         "modality": "PERMISSION",
         "terms": [
@@ -10171,7 +10171,7 @@
         "text": "Each applies only where its own trigger is met: Privacy (Informational): where the Institution's conduct materially implicates more than one Chapter Four privacy locus, each locus is addressed, and closing the matter und"
       }
     ],
-    "core_12.000_institutional_alignment_certification_forum_process_outcomes.md": [
+    "subcore_09.040_institutional_alignment_certification_forum_process_outcomes.md": [
       {
         "modality": "PERMISSION",
         "terms": [
@@ -10712,7 +10712,7 @@
         "text": "It may not exercise new material authority until a recertification clears that authority (\u00a74.2.2 Recertification for New Material Authority)."
       }
     ],
-    "core_13.000_institutional_alignment_certification_records_recertification.md": [
+    "subcore_09.060_institutional_alignment_certification_records_recertification.md": [
       {
         "modality": "DUTY",
         "terms": [
@@ -11656,7 +11656,7 @@
         "text": "ecological-footprint misrepresentation where disclosure was required, nondiscrimination or proxy discrimination, accessibility or substantive participation, educational capability, and trustworthiness."
       }
     ],
-    "subcore_11.010_institution_class_evaluation_items.md": [
+    "subcore_09.010_institution_class_evaluation_items.md": [
       {
         "modality": "DUTY",
         "terms": [
@@ -11841,10 +11841,10 @@
           "timing",
           "xxvii-c"
         ],
-        "text": "Those times may not be longer than the floor timing for the Institution's class (Article XXVII-C (Timely Resolution and Anti-Delay Floor) and the matching tier's targets in CF-22.445 \u00a75.1 Stage Targets and Outer Bounds),"
+        "text": "Those times may not be longer than the floor timing for the Institution's class (Article XXVII-C (Timely Resolution and Anti-Delay Floor) and the matching tier's targets in CF-16.445 \u00a75.1 Stage Targets and Outer Bounds),"
       }
     ],
-    "subcore_12.010_institutional_certification_seats_sequence_readiness.md": [
+    "subcore_09.030_institutional_certification_seats_sequence_readiness.md": [
       {
         "modality": "DUTY",
         "terms": [
@@ -12627,7 +12627,7 @@
         "text": "A denial or revocation ground is joint where it is the conduct of the Institution's governing authority (unwillingness, evidence shown to be false, fabricated, or concealed, a certification condition missed twice or mate"
       }
     ],
-    "subcore_13.010_new_material_authority_system_reopening.md": [
+    "subcore_09.050_new_material_authority_system_reopening.md": [
       {
         "modality": "DUTY",
         "terms": [
@@ -12648,7 +12648,7 @@
           "two",
           "what"
         ],
-        "text": "Subcore 13-A is the constitutional owner of two procedures of institutional recertification: the recertification an Institution must pass before it exercises new material authority, with what counts as such authority"
+        "text": "Subcore 9-E is the constitutional owner of two procedures of institutional recertification: the recertification an Institution must pass before it exercises new material authority, with what counts as such authority"
       },
       {
         "modality": "PERMISSION",
@@ -13166,7 +13166,7 @@
         "text": "Closing a reopening: The lead forum of a System may close its reopening on a short note on the Institutional Certification Record, inside the matching intake target, where the determination bears on nothing for that Syst"
       }
     ],
-    "core_14.000_standing_assessment.md": [
+    "subcore_10.020_standing_assessment.md": [
       {
         "modality": "PROHIBITION",
         "terms": [
@@ -13556,7 +13556,7 @@
           "subcore",
           "trust-sensitive"
         ],
-        "text": "Anyone the bar affects may challenge the conclusion that the gated pathway is trust-sensitive under Subcore 17-A \u00a74.2 Guarding against Gatekeeping."
+        "text": "Anyone the bar affects may challenge the conclusion that the gated pathway is trust-sensitive under Subcore 11-A \u00a74.2 Guarding against Gatekeeping."
       },
       {
         "modality": "PERMISSION",
@@ -14183,7 +14183,7 @@
           "standing",
           "subcore"
         ],
-        "text": "The fields are listed in full in Subcore 14-A \u00a74.1 Fields Every Standing Record Must Carry."
+        "text": "The fields are listed in full in Subcore 10-A \u00a74.1 Fields Every Standing Record Must Carry."
       },
       {
         "modality": "PERMISSION",
@@ -15561,10 +15561,10 @@
           "withheld",
           "xxii"
         ],
-        "text": "What it may leave out: Other sentients' data and restricted information are withheld or redacted on the terms of Article XXII (Interoperability, Portability, and Exit Integrity) and CF-22.415 \u00a710 (Restricted Information "
+        "text": "What it may leave out: Other sentients' data and restricted information are withheld or redacted on the terms of Article XXII (Interoperability, Portability, and Exit Integrity) and CF-16.415 \u00a710 (Restricted Information "
       }
     ],
-    "core_15.000_standing_measurement.md": [
+    "subcore_10.040_standing_measurement.md": [
       {
         "modality": "PERMISSION",
         "terms": [
@@ -16653,7 +16653,7 @@
         "text": "Chapter Seventeen \u00a73.2 Competency Bars and Clearances \u2014 may block or narrow clearance until remedied."
       }
     ],
-    "core_16.000_standing_integration.md": [
+    "subcore_10.060_standing_integration.md": [
       {
         "modality": "PERMISSION",
         "terms": [
@@ -17230,7 +17230,7 @@
         "text": "and attachments may orient matched remedy, safeguard, and lock scope., Neither descriptors nor attachments form a second measurement ladder., Neither descriptors nor attachments supply a Chapter Twenty designation."
       }
     ],
-    "subcore_14.010_standing_record_event_types_fields_custody.md": [
+    "subcore_10.010_standing_record_event_types_fields_custody.md": [
       {
         "modality": "DUTY",
         "terms": [
@@ -17266,7 +17266,7 @@
           "what",
           "work"
         ],
-        "text": "Subcore 14-A is the constitutional owner of four pieces of Standing Record detail: the event-type tables that help name what kind of help or harm a verified Standing Record describes, the fields each Standing Record must"
+        "text": "Subcore 10-A is the constitutional owner of four pieces of Standing Record detail: the event-type tables that help name what kind of help or harm a verified Standing Record describes, the fields each Standing Record must"
       },
       {
         "modality": "PERMISSION",
@@ -17914,7 +17914,7 @@
         "text": "They are told when a Standing Record opens, and they may not fill any seat (Chapter Fourteen \u00a77.4 No Self-Custody)., Verify seat: An independent body with published authority to rely on the Standing Record, such as a loc"
       }
     ],
-    "subcore_15.010_route_descriptor_constitutional_input_tables.md": [
+    "subcore_10.030_route_descriptor_constitutional_input_tables.md": [
       {
         "modality": "DUTY",
         "terms": [
@@ -18130,7 +18130,7 @@
         "text": "It must not be used to raise or lower the Question 2 slot just to justify a response someone already prefers."
       }
     ],
-    "subcore_16.010_integration_record_processing_order.md": [
+    "subcore_10.050_integration_record_processing_order.md": [
       {
         "modality": "DUTY",
         "terms": [

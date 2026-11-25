@@ -2,9 +2,9 @@
 
 **What this is:** An invite for **two sentients** who want to use the Sentient Constitution as a shared cooperation framework. Design: [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md).
 
-**What this is not:** Binding constitutional text. [Chapter Twenty-Nine](../../core_29.000_amendment_ratification.md#12-ratification-and-adoption) adoption. [Chapter Thirty-One](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation. A Chapter Fourteen standing record. Chapter Eight certification. Authority over other parties. A publication cut.
+**What this is not:** Binding constitutional text. [Chapter Twenty-Three](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) adoption. [Chapter Twenty-Five](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation. A Chapter Fourteen standing record. Chapter Eight certification. Authority over other parties. A publication cut.
 
-**Corpus edition pin:** `SC-Corpus-2026.10.21` (pre-release). Both parties must pin the same edition.
+**Corpus edition pin:** `SC-Corpus-2026.11.25` (pre-release). Both parties must pin the same edition.
 
 Each party still sits the **self-application gateway** separately. This folder does not replace that sitting. It sequences two sittings and, optionally, an Option A routing compare.
 
@@ -24,13 +24,13 @@ from evaluation/two_party/results/_TEMPLATE.md using OPTION_A_COMPARE.md.
 
 ## After the two files land
 
-1. Confirm both pins match `SC-Corpus-2026.10.21` (or the same later cut).
+1. Confirm both pins match `SC-Corpus-2026.11.25` (or the same later cut).
 2. Confirm neither file claims Chapter Twenty-Nine adoption.
-3. Optional: if both parties also have announced-pack files under [`../results/`](../results/), fill the Option A compare sheet.
+3. Optional: if both parties also have announced-pack files under [`../results/`](../results), fill the Option A compare sheet.
 4. If a **qualifying body** can bind the systems, that body copies the fill-in adoption document from the kit into **its** custody. Do not store a filled adoption document here as if evaluation adopted anything.
 5. If they cannot bind those systems, or cannot name independent review that is not the other party, attach the kit’s non-adoption banner and stop.
 
-A compare sheet is not standing measurement. Two declarations are not joining under [Chapter Twenty-Nine §12.3](../../core_29.000_amendment_ratification.md#123-joining-by-additional-parties).
+A compare sheet is not standing measurement. Two declarations are not joining under [Chapter Twenty-Three §12.3](../../core_23.000_amendment_ratification.md#123-joining-by-additional-parties).
 
 **More than two parties:** use [`../../implementation/adoption/COOPERATION_SCALING_KIT.md`](../../implementation/adoption/COOPERATION_SCALING_KIT.md). This folder stays two-party. Do not add a third results file here and call it joining. Do not treat the scaling kit’s joining-rule template as published §10.3 rules.
 
@@ -52,9 +52,9 @@ AI-only files are not a [Chapter Two §17.1](../../core_02.040_stewardship_capac
 | [`README.md`](README.md) | You (this invite) |
 | [`OPTION_A_COMPARE.md`](OPTION_A_COMPARE.md) | Operator filling the compare sheet |
 | [`results/_TEMPLATE.md`](results/_TEMPLATE.md) | Operator (compare format) |
-| [`results/`](results/) | You (readable compare outcomes) |
+| [`results/`](results) | You (readable compare outcomes) |
 | [`../../implementation/adoption/FIRST_ADOPTER_KIT.md`](../../implementation/adoption/FIRST_ADOPTER_KIT.md) | Both parties (protocol, adoption-document fill-in, banners) |
 | [`../../implementation/adoption/COOPERATION_SCALING_KIT.md`](../../implementation/adoption/COOPERATION_SCALING_KIT.md) | More than two parties (handoff gates; not this folder) |
 | [`../../implementation/adoption/INSTITUTION_FOUNDATION_KIT.md`](../../implementation/adoption/INSTITUTION_FOUNDATION_KIT.md) | Institution foundation after this path (not this sitting; not a Institutional Charter) |
 | [`../../implementation/adoption/FORUM_FOUNDATION_KIT.md`](../../implementation/adoption/FORUM_FOUNDATION_KIT.md) | Independent-review naming and forum-family formation after this path (not this sitting; not a forum family) |
-| [`../self_application/`](../self_application/) | Each party (fitness screen + declaration) |
+| [`../self_application/`](../self_application) | Each party (fitness screen + declaration) |

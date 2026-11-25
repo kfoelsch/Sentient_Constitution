@@ -4,10 +4,10 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): what this page is</span></strong></summary>
 
 > **Pack edition:** `easy-entry-2026-09-12`
-> **Corpus edition pin:** `SC-Corpus-2026.10.21`
+> **Corpus edition pin:** `SC-Corpus-2026.11.25`
 > **Status:** current
 >
-> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_29.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Thirty §7](../../../core_30.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
+> This page is a **reader handbook**. It is **not** the Constitution itself and **cannot change** the numbered `core_*` files. **Pre-release.** Reading it is not [adopting this Constitution](../../../core_23.000_amendment_ratification.md#12-ratification-and-adoption). It does **not** override local, national, or international law ([Chapter Twenty-Four §7](../../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)). It does not create a new legal type. It is not an official record of verified help or harm. If this page and a numbered `core_*` file disagree, the `core_*` file wins.
 
 </details>
 
@@ -25,7 +25,7 @@ A clinic, pay stack, identity gate, model, or water system others depend on is t
 - **Today:** Unit tests, a privacy page, or local sign-off stand in for a whole-system review.
 - **With this Constitution:** For a system that really matters, independent review writes a time-bound record: is it safe enough to rely on *right now*, in a stated scope? That record can be challenged. It is not a forever pass.
 
-See: [Chapter Eight](../../../core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation); [SAC](../../STEWARD_ENTRY_DOORS.md#system-alignment-certification).
+See: [Subcore 8-B](../../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation); [SAC](../../STEWARD_ENTRY_DOORS.md#system-alignment-certification).
 
 **That check is not a decision about whether you count.**
 - **Today:** A safety badge, a score, or “the model is aligned” is used to say you are (or are not) someone this Constitution covers.

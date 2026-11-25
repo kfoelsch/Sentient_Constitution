@@ -1,7 +1,7 @@
 # S03 — Tween voice treated as optional in a household move
 
 **Pack edition:** `lived-situations-2026-09-11`  
-**Corpus edition pin:** `SC-Corpus-2026.10.21`  
+**Corpus edition pin:** `SC-Corpus-2026.11.25`  
 **Status:** current  
 **This packet is not binding.** Illustrative facts only.
 
@@ -19,7 +19,7 @@ Sitters: do not score this box. Do not invent a winner from it. Do not sort the 
 
 **Your role:** You sit the named **school-stability intake** desk on this adopter’s education body. An adult filed a written transfer request that would move a developing sentient to a new district mid-term. The tween is reachable and has given a short written statement. No forum case is open. No standing record exists. No best-interest finding has been made. The desk’s published role lets you receive the request, preserve the tween’s statement with the file, and route it. It does not let you decide custody, housing, or school placement on the merits.
 
-**Seat:** [initiating seat](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-27.205 §6 seat 1) for intake routing of this transfer request. Placement merits and any standing record belong elsewhere. Open [CI-27.205 §6](../../../corpus_institutions/ci_27.205_appointment_competency_rotation_removal.md#ci-27205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
+**Seat:** [initiating seat](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-46-seat-initiating) (CI-21.205 §6 seat 1) for intake routing of this transfer request. Placement merits and any standing record belong elsewhere. Open [CI-21.205 §6](../../../corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-6-seat-catalog--process-role-archetypes-and-operational-boundaries).
 
 ## Situation
 

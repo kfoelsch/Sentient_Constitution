@@ -126,7 +126,7 @@ That is realistic participation. A louder declaration would be theater.
 
 **Finding:** Yes
 
-**Load-bearing home:** [Chapter One §18 Incentive Alignment and System Capture](../../../core_01.015_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [Chapter Twelve §2.2 linked records and no-offset bridge](../../../core_10.000_standing_assessment.md#22-linked-records-and-no-offset-bridge); [Accountability measurement family](../../../core_05.005_apex_accountability_leg.md#accountability-measurement-family).
+**Load-bearing home:** [Chapter One §18 Incentive Alignment and System Capture](../../../core_01.015_stewardship_capacity_principles.md#11-incentive-alignment-and-system-capture); [Chapter Ten §2.2 linked records and no-offset bridge](../../../core_10.000_standing_assessment.md#22-linked-records-and-no-offset-bridge); [Accountability measurement family](../../../core_05.005_apex_accountability_leg.md#accountability-measurement-family).
 
 **Falsifier:** If verified contribution could erase, average down, or excuse verified harm; if a bonus, deadline, or concealment-dependent reward were a valid defense; or if cooperating parties bore the cost of others’ capture with no separate Violation Axis.
 
