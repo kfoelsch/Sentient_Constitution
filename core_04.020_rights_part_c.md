@@ -206,7 +206,7 @@ The two guarantees are two sides of ongoing trust: the trust guarantee makes rel
 - Read with:
   - [**Article XIV-A** (*Reliability and Trustworthiness Baseline*)](#article-xiv-a-reliability-and-trustworthiness-baseline) — the contestability guarantee, right to challenge, and protected reporting that open the path to redress; **Article III-A** (*Survival*);
   - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) where system failure or misalignment defeats survival-essential access;
-  - [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together) (*verified classification and timely remedy*);
+  - [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (*verified classification and timely remedy*);
   - [Chapter Nineteen §5](core_19.000_final_effect_restoration_enforcement.md#5-enforcement-realism-and-remedy-systems) (19.000 §5) (*Enforcement Realism and Remedy Systems*);
   - [CI-25.210](corpus_institutions/ci_25.210_remedy_systems_institutional_redress_capacity.md#ci-25210-remedy-systems-and-institutional-redress-capacity) (*Remedy systems and institutional redress capacity*).
 

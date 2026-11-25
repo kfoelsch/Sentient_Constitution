@@ -38,7 +38,7 @@ Chapter Eight is the constitutional owner of **system alignment certification ev
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) and
+  - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) and
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Proportionality](subcore_03.070_band_accountability.md#proportionality) and

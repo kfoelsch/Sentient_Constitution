@@ -6,12 +6,12 @@ Corpus edition: `SC-Corpus-2026.10.21` · effective **2026-10-21**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_30.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **600** of **1026** headings carry a gloss (58%).
+Coverage: **600** of **1047** headings carry a gloss (57%).
 
 ## Contents
 
-- [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00.000_preamble.md` (7/7 glossed)
-- [CHAPTER ONE: CONSTITUTIONAL MAP](#chapter-one-constitutional-map) — `core_01.000_constitutional_map.md` (10/13 glossed)
+- [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00.000_preamble.md` (7/11 glossed)
+- [CHAPTER ONE: CONSTITUTIONAL MAP](#chapter-one-constitutional-map) — `core_01.000_constitutional_map.md` (10/21 glossed)
 - [CHAPTER 02, PART A: PURPOSE AND THE FLOURISHING AIM](#chapter-02-part-a-purpose-and-the-flourishing-aim) — `core_02.000_values_principles.md` (21/38 glossed)
 - [CHAPTER 02, PART B: THE CONTINUITY AIM](#chapter-02-part-b-the-continuity-aim) — `core_02.010_values_principles_continuity_aim.md` (18/19 glossed)
 - [CHAPTER 02, PART C: COLLISION RESOLUTION AND THE OVERRIDE LIMIT](#chapter-02-part-c-collision-resolution-and-the-override-limit) — `core_02.020_interaction_interpretation.md` (14/18 glossed)
@@ -19,7 +19,7 @@ Coverage: **600** of **1026** headings carry a gloss (58%).
 - [CHAPTER 02, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-02-part-e-stewardship-and-the-steward-role) — `core_02.040_stewardship_capacity_principles.md` (17/18 glossed)
 - [CHAPTER 02, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-02-part-f-governance-incentive-alignment-and-integrated-application) — `core_02.050_governance_incentive_application.md` (19/26 glossed)
 - [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (20/24 glossed)
-- [CHAPTER FIVE: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-five-system-and-institutional-charters) — `core_05.000_charters.md` (9/64 glossed)
+- [CHAPTER FIVE: SYSTEM AND INSTITUTIONAL CHARTERS](#chapter-five-system-and-institutional-charters) — `core_05.000_charters.md` (9/65 glossed)
 - [CHAPTER SIX: FUNCTIONAL INDEPENDENCE AND SEPARATION OF DUTIES](#chapter-six-functional-independence-and-separation-of-duties) — `core_06.000_functional_independence_separation_of_duties.md` (11/22 glossed)
 - [CHAPTER SEVEN: INDEPENDENT BODIES](#chapter-seven-independent-bodies) — `core_07.000_independent_bodies.md` (4/5 glossed)
 - [CHAPTER EIGHT: SYSTEM ALIGNMENT CERTIFICATION — EVALUATION](#chapter-eight-system-alignment-certification--evaluation) — `core_08.000_system_alignment_certification_evaluation.md` (17/58 glossed)
@@ -50,11 +50,11 @@ Coverage: **600** of **1026** headings carry a gloss (58%).
 - [CHAPTER TWENTY-EIGHT: NON-REGRESSION AND SUBSTANTIVE AMENDMENT VALIDITY](#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) — `core_28.000_non_regression.md` (7/8 glossed)
 - [CHAPTER TWENTY-NINE: AMENDMENT, RATIFICATION, AND PROCEDURAL VALIDITY](#chapter-twenty-nine-amendment-ratification-and-procedural-validity) — `core_29.000_amendment_ratification.md` (23/34 glossed)
 - [CHAPTER THIRTY: EXPANSION, SUPREMACY, AND EXTERNAL LEGAL ORDERS](#chapter-thirty-expansion-supremacy-and-external-legal-orders) — `core_30.000_expansion_supremacy.md` (13/15 glossed)
-- [CHAPTER THIRTY-ONE: INCORPORATION BRIDGE](#chapter-thirty-one-incorporation-bridge) — `core_31.000_incorporation.md` (5/6 glossed)
+- [CHAPTER THIRTY-ONE: INCORPORATION BRIDGE](#chapter-thirty-one-incorporation-bridge) — `core_31.000_incorporation.md` (5/14 glossed)
 
 ## PREAMBLE / FOUNDATIONAL REQUIREMENTS
 
-Source file: [`core_00.000_preamble.md`](../../core_00.000_preamble.md) · 7/7 headings glossed
+Source file: [`core_00.000_preamble.md`](../../core_00.000_preamble.md) · 7/11 headings glossed
 
 #### What Systems Reward
 
@@ -73,6 +73,30 @@ four duties — participation, oversight, accountability, and timeliness — sca
 shared systems cannot run on guesswork or vanity metrics. Measure whether sentients actually flourish and endure. Scale review with impact, dependence, and risk.
 
 [Source](../../core_00.000_preamble.md#2-measurements-overview)
+
+##### 2.1 Purpose and Standards
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_00.000_preamble.md#21-purpose-and-standards)
+
+##### 2.2 Public Measurement
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_00.000_preamble.md#22-public-measurement)
+
+##### 2.3 Measurement Categories
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_00.000_preamble.md#23-measurement-categories)
+
+##### 2.4 Effect of the Categories
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_00.000_preamble.md#24-effect-of-the-categories)
 
 #### 3. Governance and Stewardship
 
@@ -94,7 +118,7 @@ who may govern is a different question from who has a voice within an already-au
 
 ## CHAPTER ONE: CONSTITUTIONAL MAP
 
-Source file: [`core_01.000_constitutional_map.md`](../../core_01.000_constitutional_map.md) · 10/13 headings glossed
+Source file: [`core_01.000_constitutional_map.md`](../../core_01.000_constitutional_map.md) · 10/21 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -108,65 +132,113 @@ a text this large needs a guide that shows how the parts fit and who owns each t
 
 [Source](../../core_01.000_constitutional_map.md#2-why-the-map-exists)
 
-#### 3. Key Governance Processes
+#### 3. How the Files Fit Together
 
-when the text requires it, first separate the sentients or systems that act, check, record, and hear challenges. Material issues then go through certification, written records of help and harm, correction and remedy, and forum review with clocks. Ordinary disputes use the published challenge path first. These processes test authorized governance; they do not create governing authority by themselves.
+*(no plain-terms gloss in source)*
 
-[Source](../../core_01.000_constitutional_map.md#3-key-governance-processes)
+[Source](../../core_01.000_constitutional_map.md#3-how-the-files-fit-together)
 
-#### 4. Principles, Definitions, and Rights
+#### 4. Foundations for the Chapters That Follow
 
 Chapters Two through Four own the values, the dictionary (with the subcore rules on how definitions are built, protected, and proven), and the Rights Floor; later chapters must respect those homes, not quietly move them.
 
-[Source](../../core_01.000_constitutional_map.md#4-principles-definitions-and-rights)
+[Source](../../core_01.000_constitutional_map.md#4-foundations-for-the-chapters-that-follow)
 
-#### 5. System and Institutional Charters, Functional Independence, and Separation of Duties
+#### 5. Key Governance Processes
+
+when the text requires it, first separate the sentients or systems that act, check, record, and hear challenges. Material issues then go through certification, written records of help and harm, correction and remedy, and forum review with clocks. Ordinary disputes use the published challenge path first. These processes test authorized governance; they do not create governing authority by themselves.
+
+[Source](../../core_01.000_constitutional_map.md#5-key-governance-processes)
+
+#### 6. Principles, Definitions, and Rights
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_01.000_constitutional_map.md#6-principles-definitions-and-rights)
+
+##### 6.1 Chapter Two — Values, Principles, and Stewardship
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_01.000_constitutional_map.md#61-chapter-two--values-principles-and-stewardship)
+
+##### 6.2 Chapter Three — Foundational Definitions
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_01.000_constitutional_map.md#62-chapter-three--foundational-definitions)
+
+###### 6.2.1 Subcore 3-A — Definition Structure
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_01.000_constitutional_map.md#621-subcore-3-a--definition-structure)
+
+###### 6.2.2 Subcore 3-B — Definition Integrity
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_01.000_constitutional_map.md#622-subcore-3-b--definition-integrity)
+
+###### 6.2.3 Subcore 3-C — Burden, Traceability, and Verification
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_01.000_constitutional_map.md#623-subcore-3-c--burden-traceability-and-verification)
+
+##### 6.3 Chapter Four — Foundational Rights
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_01.000_constitutional_map.md#63-chapter-four--foundational-rights)
+
+#### 7. System and Institutional Charters, Functional Independence, and Separation of Duties
 
 a system or institution of real impact publishes a System Charter or Institutional Charter that says what it may do and who holds each seat. Then, before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly hold the seats that check its own act.
 
-[Source](../../core_01.000_constitutional_map.md#5-system-and-institutional-charters-functional-independence-and-separation-of-duties)
+[Source](../../core_01.000_constitutional_map.md#7-system-and-institutional-charters-functional-independence-and-separation-of-duties)
 
-##### 5.1 Four-Seat Separation Map
+##### 7.1 Four-Seat Separation Map
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_01.000_constitutional_map.md#51-four-seat-separation-map)
+[Source](../../core_01.000_constitutional_map.md#71-four-seat-separation-map)
 
-#### 6. Key Practical Process Pipelines
+#### 8. Key Practical Process Pipelines
 
 Chapters Eight through Twenty-Two apply Chapter Six's separation-of-duties requirement in one chain: certify systems and institutions, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.
 
-[Source](../../core_01.000_constitutional_map.md#6-key-practical-process-pipelines)
+[Source](../../core_01.000_constitutional_map.md#8-key-practical-process-pipelines)
 
-##### 6.1 Process Map
+##### 8.1 Process Map
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_01.000_constitutional_map.md#61-process-map)
+[Source](../../core_01.000_constitutional_map.md#81-process-map)
 
-##### 6.2 How the Full Chain Fits Together
+##### 8.2 How the Full Chain Fits Together
 
 first separate the seats. Then follow the path from system check to remedy, with forums supervising the dispute and standing steps throughout.
 
-[Source](../../core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together)
+[Source](../../core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together)
 
-#### 7. Process Ownership and Outputs
+#### 9. Process Ownership and Outputs
 
-the process map and [how the full chain fits together](../../core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together) show the chain; this section names the owner and output of each stage, so no stage quietly takes over another's job.
+the process map and [how the full chain fits together](../../core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) show the chain; this section names the owner and output of each stage, so no stage quietly takes over another's job.
 
-[Source](../../core_01.000_constitutional_map.md#7-process-ownership-and-outputs)
+[Source](../../core_01.000_constitutional_map.md#9-process-ownership-and-outputs)
 
-#### 8. Governance, Change, and Incorporation
+#### 10. Governance, Change, and Incorporation
 
 Chapters Twenty-Seven through Thirty-One close this Constitution: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.
 
-[Source](../../core_01.000_constitutional_map.md#8-governance-change-and-incorporation)
+[Source](../../core_01.000_constitutional_map.md#10-governance-change-and-incorporation)
 
-#### 9. Adopted Implementation Corpus
+#### 11. Adopted Implementation Corpus
 
 four adopted corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.
 
-[Source](../../core_01.000_constitutional_map.md#9-adopted-implementation-corpus)
+[Source](../../core_01.000_constitutional_map.md#11-adopted-implementation-corpus)
 
 ## CHAPTER 02, PART A: PURPOSE AND THE FLOURISHING AIM
 
@@ -1086,7 +1158,7 @@ when a binding stakeholder choice turns on a material conflict among rights or s
 
 ## CHAPTER FIVE: SYSTEM AND INSTITUTIONAL CHARTERS
 
-Source file: [`core_05.000_charters.md`](../../core_05.000_charters.md) · 9/64 headings glossed
+Source file: [`core_05.000_charters.md`](../../core_05.000_charters.md) · 9/65 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -1111,6 +1183,12 @@ before anyone can judge whether a system or institution stayed within its limits
 *(no plain-terms gloss in source)*
 
 [Source](../../core_05.000_charters.md#31-who-must-publish)
+
+###### 3.1.1 A Scope Document Kept Under Another Name
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_05.000_charters.md#311-a-scope-document-kept-under-another-name)
 
 ##### 3.2 Which Classes Are Covered
 
@@ -4646,7 +4724,7 @@ Chapter Four states the basic Rights Floors no sentient may be pushed below. Tho
 
 ##### 2.2 Owner Non-Relocation
 
-Chapter Four states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Which chapter owns what: see the [Chapter One — constitutional owner register](../../core_01.000_constitutional_map.md#4-principles-definitions-and-rights). Rules that keep duties from being moved to the wrong place: [Authority Stack and Internal Hierarchy](../../subcore_03.080_band_integrative.md#owner-non-relocation).
+Chapter Four states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Which chapter owns what: see the [Chapter One — constitutional owner register](../../core_01.000_constitutional_map.md#6-principles-definitions-and-rights). Rules that keep duties from being moved to the wrong place: [Authority Stack and Internal Hierarchy](../../subcore_03.080_band_integrative.md#owner-non-relocation).
 
 [Source](../../core_04.000_rights_part_a.md#22-owner-non-relocation)
 
@@ -6094,7 +6172,7 @@ if you are using this Constitution inside a company, university, protocol, city,
 
 ## CHAPTER THIRTY-ONE: INCORPORATION BRIDGE
 
-Source file: [`core_31.000_incorporation.md`](../../core_31.000_incorporation.md) · 5/6 headings glossed
+Source file: [`core_31.000_incorporation.md`](../../core_31.000_incorporation.md) · 5/14 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -6114,6 +6192,30 @@ treat designated **implementation text** files like versioned law libraries — 
 
 [Source](../../core_31.000_incorporation.md#3-custody-editions-and-operative-effect)
 
+##### 3.1 Edition Pinning
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_31.000_incorporation.md#31-edition-pinning)
+
+##### 3.2 Custody Chain
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_31.000_incorporation.md#32-custody-chain)
+
+##### 3.3 Implementation-File Scope
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_31.000_incorporation.md#33-implementation-file-scope)
+
+##### 3.4 Process-Layer Alignment
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_31.000_incorporation.md#34-process-layer-alignment)
+
 #### 4. Safeguards
 
 quietly swapping in a newer draft — or relabeling a real change as “just a clarification” — does not change what was adopted. Later revisions stay process-layer notes until they pass amendment under Chapter Twenty-Nine and take effect in the adopter's adoption chain.
@@ -6122,6 +6224,30 @@ quietly swapping in a newer draft — or relabeling a real change as “just a c
 
 #### 5. Adoption Framing and Scope of Authority
 
-this is a model constitution about systems that affect sentients. A body can make it enforceable for itself only by adopting on purpose through the published rules — and “we never adopted” answers enforcement, not what the text says. Publishing it does not override other law.
+this is a model constitution about systems that affect sentients. A body can make it enforceable for itself only by deliberately adopting it through the published rules. If a body has not adopted it, the Constitution cannot be enforced against that body on the basis of adoption. That does not change what the Constitution says or mean its protections can be read more narrowly. Making this Constitution public does not, by itself, change or cancel any applicable law.
 
 [Source](../../core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority)
+
+##### 5.1 What It Is
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_31.000_incorporation.md#51-what-it-is)
+
+##### 5.2 Who May Adopt
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_31.000_incorporation.md#52-who-may-adopt)
+
+##### 5.3 Adoption and Applicable Law
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_31.000_incorporation.md#53-adoption-and-applicable-law)
+
+##### 5.4 What Non-Adoption Means
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_31.000_incorporation.md#54-what-non-adoption-means)

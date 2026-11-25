@@ -9,9 +9,9 @@
 Open these first. They point; they do not replace the numbered `core_*` files.
 
 - [README.md](../README.md) — how to read the Constitution, and common lookups
-- [Chapter One §6 Key Practical Process Pipelines](../core_01.000_constitutional_map.md#6-key-practical-process-pipelines) — what each chapter in this chain owns and produces
-- [Chapter One §6.2 How the full chain fits together](../core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together) — the numbered path from certification to forum routing
-- [Chapter One §7 Process Ownership and Outputs](../core_01.000_constitutional_map.md#7-process-ownership-and-outputs) — the owner and output of each pipeline stage
+- [Chapter One §8 Key Practical Process Pipelines](../core_01.000_constitutional_map.md#8-key-practical-process-pipelines) — what each chapter in this chain owns and produces
+- [Chapter One §8.2 How the full chain fits together](../core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) — the numbered path from certification to forum routing
+- [Chapter One §9 Process Ownership and Outputs](../core_01.000_constitutional_map.md#9-process-ownership-and-outputs) — the owner and output of each pipeline stage
 - [Steward entry doors](STEWARD_ENTRY_DOORS.md) — next-step pointers under time pressure (process support; cannot narrow core)
 - [Affected-reader process guides](adoption/easy_entry/README.md#process-guides) — challenge, independent review, certification, help and harm, crisis clocks
 
@@ -62,4 +62,4 @@ These floors are already in Chapter Four. This page does not restate them as new
 - Does not treat this map as compliance.
 - Does not decide sentience status, rewrite standing measurement, or replace forum supervision.
 
-**Next:** [Chapter One §6.2](../core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together) for how the chain fits together, [§7](../core_01.000_constitutional_map.md#7-process-ownership-and-outputs) for the owner register, then the named chapter.
+**Next:** [Chapter One §8.2](../core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) for how the chain fits together, [§9](../core_01.000_constitutional_map.md#9-process-ownership-and-outputs) for the owner register, then the named chapter.

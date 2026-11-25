@@ -8,7 +8,7 @@
 
 **The same rules apply to human and AI stewards.** The signposts below do not change depending on who is reading them. The binding source is [Chapter Two §17.1 Shared Stewardship Standard](../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Symmetric Costly Constraints](../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure). Writing an answer in a markdown file does not create a Standing Record; only the proper process does. Human operators new to the corpus should start at [`../evaluation/HUMAN_OPERATORS.md`](../evaluation/HUMAN_OPERATORS.md).
 
-**How this page relates to the other maps.** This is **not** [CJS-0.105 §1](../corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (the cross-file topic table) and **not** the [Chapter One owner register](../core_01.000_constitutional_map.md#4-principles-definitions-and-rights). Those are the full maps of the corpus. This page is the front door: it gets you in, and the maps take over from there.
+**How this page relates to the other maps.** This is **not** [CJS-0.105 §1](../corpus_joint_structure/cjs_00.105_registry_and_reading_rules.md#cjs-0105-1-cross-file-routing) (the cross-file topic table) and **not** the [Chapter One owner register](../core_01.000_constitutional_map.md#6-principles-definitions-and-rights). Those are the full maps of the corpus. This page is the front door: it gets you in, and the maps take over from there.
 
 **What you will find here:**
 

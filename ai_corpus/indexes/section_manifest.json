@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-25T03:21:14+00:00",
+  "generated_at": "2026-11-25T03:26:39+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -19,28 +19,29 @@
       ]
     },
     "core_01.000_constitutional_map.md": {
-      "total_lines": 522,
+      "total_lines": 520,
       "sections": [
-        {"header":"CHAPTER ONE: CONSTITUTIONAL MAP","level":1,"line_start":2,"line_end":522,"anchor":"#chapter-one-constitutional-map"},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":38,"line_end":53,"anchor":"#1-purpose-role-and-scope"},
-        {"header":"2. Why the Map Exists","level":3,"line_start":54,"line_end":99,"anchor":"#2-why-the-map-exists"},
-        {"header":"2.1 Foundations for the Chapters That Follow","level":4,"line_start":87,"line_end":99,"anchor":null},
-        {"header":"3. Key Governance Processes","level":3,"line_start":100,"line_end":122,"anchor":"#3-key-governance-processes"},
-        {"header":"4. Principles, Definitions, and Rights","level":3,"line_start":123,"line_end":195,"anchor":"#4-principles-definitions-and-rights"},
-        {"header":"4.1 Chapter Two — Values, Principles, and Stewardship","level":4,"line_start":129,"line_end":139,"anchor":null},
-        {"header":"4.2 Chapter Three — Foundational Definitions","level":4,"line_start":140,"line_end":179,"anchor":null},
-        {"header":"4.2.1 Subcore 3-A — Definition Structure","level":5,"line_start":151,"line_end":160,"anchor":null},
-        {"header":"4.2.2 Subcore 3-B — Definition Integrity","level":5,"line_start":161,"line_end":170,"anchor":null},
-        {"header":"4.2.3 Subcore 3-C — Burden, Traceability, and Verification","level":5,"line_start":171,"line_end":179,"anchor":null},
-        {"header":"4.3 Chapter Four — Foundational Rights","level":4,"line_start":180,"line_end":195,"anchor":null},
-        {"header":"5. System and Institutional Charters, Functional Independence, and Separation of Duties","level":3,"line_start":196,"line_end":267,"anchor":"#5-system-and-institutional-charters-functional-independence-and-separation-of-duties"},
-        {"header":"5.1 Four-Seat Separation Map","level":4,"line_start":233,"line_end":267,"anchor":null},
-        {"header":"6. Key Practical Process Pipelines","level":3,"line_start":268,"line_end":374,"anchor":"#6-key-practical-process-pipelines"},
-        {"header":"6.1 Process Map","level":4,"line_start":289,"line_end":355,"anchor":null},
-        {"header":"6.2 How the Full Chain Fits Together","level":4,"line_start":356,"line_end":374,"anchor":"#62-how-the-full-chain-fits-together"},
-        {"header":"7. Process Ownership and Outputs","level":3,"line_start":375,"line_end":460,"anchor":"#7-process-ownership-and-outputs"},
-        {"header":"8. Governance, Change, and Incorporation","level":3,"line_start":461,"line_end":500,"anchor":"#8-governance-change-and-incorporation"},
-        {"header":"9. Adopted Implementation Corpus","level":3,"line_start":501,"line_end":522,"anchor":null}
+        {"header":"CHAPTER ONE: CONSTITUTIONAL MAP","level":1,"line_start":2,"line_end":520,"anchor":"#chapter-one-constitutional-map"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":40,"line_end":56,"anchor":"#1-purpose-role-and-scope"},
+        {"header":"2. Why the Map Exists","level":3,"line_start":57,"line_end":81,"anchor":"#2-why-the-map-exists"},
+        {"header":"3. How the Files Fit Together","level":3,"line_start":82,"line_end":91,"anchor":null},
+        {"header":"4. Foundations for the Chapters That Follow","level":3,"line_start":92,"line_end":103,"anchor":null},
+        {"header":"5. Key Governance Processes","level":3,"line_start":104,"line_end":125,"anchor":null},
+        {"header":"6. Principles, Definitions, and Rights","level":3,"line_start":126,"line_end":197,"anchor":null},
+        {"header":"6.1 Chapter Two — Values, Principles, and Stewardship","level":4,"line_start":132,"line_end":142,"anchor":null},
+        {"header":"6.2 Chapter Three — Foundational Definitions","level":4,"line_start":143,"line_end":182,"anchor":null},
+        {"header":"6.2.1 Subcore 3-A — Definition Structure","level":5,"line_start":154,"line_end":163,"anchor":null},
+        {"header":"6.2.2 Subcore 3-B — Definition Integrity","level":5,"line_start":164,"line_end":173,"anchor":null},
+        {"header":"6.2.3 Subcore 3-C — Burden, Traceability, and Verification","level":5,"line_start":174,"line_end":182,"anchor":null},
+        {"header":"6.3 Chapter Four — Foundational Rights","level":4,"line_start":183,"line_end":197,"anchor":null},
+        {"header":"7. System and Institutional Charters, Functional Independence, and Separation of Duties","level":3,"line_start":198,"line_end":268,"anchor":null},
+        {"header":"7.1 Four-Seat Separation Map","level":4,"line_start":235,"line_end":268,"anchor":null},
+        {"header":"8. Key Practical Process Pipelines","level":3,"line_start":269,"line_end":373,"anchor":null},
+        {"header":"8.1 Process Map","level":4,"line_start":290,"line_end":355,"anchor":null},
+        {"header":"8.2 How the Full Chain Fits Together","level":4,"line_start":356,"line_end":373,"anchor":null},
+        {"header":"9. Process Ownership and Outputs","level":3,"line_start":374,"line_end":458,"anchor":null},
+        {"header":"10. Governance, Change, and Incorporation","level":3,"line_start":459,"line_end":498,"anchor":null},
+        {"header":"11. Adopted Implementation Corpus","level":3,"line_start":499,"line_end":520,"anchor":null}
       ]
     },
     "core_02.000_values_principles.md": {

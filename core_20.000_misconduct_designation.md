@@ -39,7 +39,7 @@
 >
 > **After final ACMD:** apply **sections 7.1 to 7.3**, then hand the ACMD to Chapter Sixteen for standing-lock and final-standing-effect rules, including the **Anti-Constitutional Trust Lock** only on a **final** ACMD.
 >
-> Read with: [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together).
+> Read with: [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together).
 
 </details>
 
@@ -51,7 +51,7 @@
 - Upstream pointer: [Chapter Sixteen §4](core_16.000_standing_integration.md#4-automatic-integration-review-and-continuity) (16.000 §4) routes qualifying Violation Axis slot 7–9 findings here for ACMD only.
 - This file: purpose and role; final ACMD for Violation Axis slot 7–9; decision sequence; ACMD criteria; due-process safeguards; Chapters Twenty-Eight through Thirty boundary. Named-pattern routing continues in [Chapter Twenty-One](core_21.000_misconduct_pattern_applications.md#chapter-twenty-one-anti-constitutional-misconduct--pattern-applications-and-criteria-routing) (21.000).
 - Downstream: [Chapter Sixteen](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (16.000) (*Trust Lock and standing-effect integration after final anti-constitutional-misconduct designation*); [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000) (*forum routing and certification*); [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000) (*governance legitimacy consequences*).
-- Read with: [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together); [Chapters Twenty-Eight through Thirty](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
+- Read with: [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together); [Chapters Twenty-Eight through Thirty](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
 - Worked examples (they add no rule): [CJS-14.105 Application vignettes](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-application-vignettes): [CJS-14.105 §5 Pipeline Overrun and Tetrad-Hollow Forums](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-5-pipeline-overrun-and-tetrad-hollow-forums) and [CJS-14.105 §10 Question 3 Routing Patterns](corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-10-question-3-routing-patterns).
 
 </details>
@@ -76,7 +76,7 @@ Chapter Twenty is the constitutional owner of **final anti-constitutional-miscon
   - [§6](#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*);
   - [§7](#7-due-process-safeguards-remedy-and-prevention) (*Due-Process Safeguards, Remedy, and Prevention*);
   - [Chapter Twenty-One §3](core_21.000_misconduct_pattern_applications.md#3-pattern-applications-and-criteria-routing--participation-and-accountability-pathway-integrity) (*Pattern applications and criteria routing*).
-- Read with: [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together); [Chapters Twenty-Eight through Thirty](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
+- Read with: [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together); [Chapters Twenty-Eight through Thirty](core_28.000_non_regression.md#chapter-twenty-eight-non-regression-and-substantive-amendment-validity) (*change-path conduct may implicate criteria 1–4* (*Willful deceptive intent*; *Knowing falsification or suppression*; *Material rollback effect*; and *Causally significant conduct*)).
 - Tetrad leg(s): **participation**, **oversight**, **accountability**, **timeliness** (tetrad capture at scale). Primary aim(s): **Continuity** (primary), **Flourishing**.
 
 </details>

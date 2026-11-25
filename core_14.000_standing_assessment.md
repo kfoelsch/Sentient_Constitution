@@ -11,7 +11,7 @@
 
 - Upstream:
   - [material stake](core_00.000_preamble.md#material-stake);
-  - [Chapter One §6 Key Practical Process Pipelines](core_01.000_constitutional_map.md#6-key-practical-process-pipelines) (*Chapters Eight through Twenty-Two chain*).
+  - [Chapter One §8 Key Practical Process Pipelines](core_01.000_constitutional_map.md#8-key-practical-process-pipelines) (*Chapters Eight through Twenty-Two chain*).
 - Upstream:
   - [Chapter Two](core_02.040_stewardship_capacity_principles.md#chapter-02-part-e-stewardship-and-the-steward-role) (2.040) (*Plain-Language Accessibility* stewardship reflected in section-level gloss);
   - [Chapter Two §16 — Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16) (*principle-layer foundation for competence-linked, traceable standing — trust, roles, and recognition*);
@@ -19,7 +19,7 @@
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) (*definitions and supremacy read with Subcores 3-A to 3-C*).
 - Upstream: [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation) (8.000) (*system alignment certification*); [Chapter Ten §6](core_10.000_system_alignment_certification_records_recertification.md#6-relationship-to-standing) (10.000 §6) (*standing bridge — potential verified inputs only*).
 - Standing pipeline:
-  - [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together);
+  - [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together);
   - [Chapter Fourteen — Standing Records](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000) (*three-question frame and Question 1 records*);
   - [Chapter Fifteen — Standing Measurement](core_15.000_standing_measurement.md#chapter-fifteen-standing-measurement--question-2-how-good-or-bad-was-it) (15.000) (*Question 2 measurement*);
   - [Chapter Sixteen — Standing Effects and Integration](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows) (16.000) (*Question 3 effects and integration*);

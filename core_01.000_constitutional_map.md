@@ -5,7 +5,7 @@
 
 > Widgets marked **non-operative** (corpus placement, reader guidance, reader maps) are orientation only. They add, remove, or narrow no binding obligation, in their own file or in any other.
 >
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files and the subcore, read as one text. It contains **Chapter One**, the *Constitutional Map*: its purpose (§1), why it exists (§2), the key governance processes (§3), the constitutional owner register (§4 to §8), and the three tiers of text (§9). Until 2026-11-20 these were sections 3.2 and 4 to 9 of the Preamble; sections 4 to 9 keep their numbers.
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files and the subcore, read as one text. It contains **Chapter One**, the *Constitutional Map*: its purpose (§1), why it exists (§2), how its files fit together (§3), foundations for later chapters (§4), the key governance processes (§5), and the constitutional owner register (§6 to §11).
 >
 > **Upstream:** [core_00.000_preamble.md](core_00.000_preamble.md) (Preamble)
 > **Next:** [core_02.000_values_principles.md](core_02.000_values_principles.md)
@@ -19,13 +19,15 @@
 - Subsections:
   - [§1](#1-purpose-role-and-scope);
   - [§2](#2-why-the-map-exists);
-  - [§3](#3-key-governance-processes);
-  - [§4](#4-principles-definitions-and-rights);
-  - [§5](#5-system-and-institutional-charters-functional-independence-and-separation-of-duties);
-  - [§6](#6-key-practical-process-pipelines);
-  - [§7](#7-process-ownership-and-outputs);
-  - [§8](#8-governance-change-and-incorporation);
-  - [§9](#9-adopted-implementation-corpus).
+  - [§3](#3-how-the-files-fit-together);
+  - [§4](#4-foundations-for-the-chapters-that-follow);
+  - [§5](#5-key-governance-processes);
+  - [§6](#6-principles-definitions-and-rights);
+  - [§7](#7-system-and-institutional-charters-functional-independence-and-separation-of-duties);
+  - [§8](#8-key-practical-process-pipelines);
+  - [§9](#9-process-ownership-and-outputs);
+  - [§10](#10-governance-change-and-incorporation);
+  - [§11](#11-adopted-implementation-corpus).
 - Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*how the owner register is applied*); [README.md](README.md) (*reading order*).
 
 </details>
@@ -46,9 +48,10 @@ Chapter One is the constitutional owner of **the constitutional owner register**
 **Chapter scope:** The chapter covers:
 
 - why the map exists (**section 2**);
-- the key governance processes (**section 3**);
-- the constitutional owner register: principles, definitions, and rights (**section 4**); charters, functional independence, and separation of duties (**section 5**); the process pipelines (**section 6**); process ownership and outputs (**section 7**); and governance, change, and incorporation (**section 8**); and
-- the adopted implementation corpus and the subcore (**section 9**).
+- how the files fit together (**section 3**) and the foundations for later chapters (**section 4**);
+- the key governance processes (**section 5**);
+- the constitutional owner register: principles, definitions, and rights (**section 6**); charters, functional independence, and separation of duties (**section 7**); the process pipelines (**section 8**); process ownership and outputs (**section 9**); and governance, change, and incorporation (**section 10**); and
+- the adopted implementation corpus and the subcore (**section 11**).
 
 <a id="2-why-the-map-exists"></a>
 ### 2. Why the Map Exists
@@ -76,37 +79,38 @@ The Constitution spreads its work across many chapters, a subcore, and four adop
   - [Article XXIV-A](core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*);
   - [Article XXIV-B](core_04.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*).
 
-**How the files fit together:**
+### 3. How the Files Fit Together
+
+The Constitution’s files fit together as follows:
 
 - **Core (`core_*`):** The numbered files contain the Constitution's chapters, written to be read together as one text. They state the guarantees and the constitutional structure.
 - **Subcore (`subcore_*`):** These files give the full rules and procedures behind the chapters. Each belongs to a chapter, has the same force as that chapter, and binds every adopter without separate incorporation. The subcore may not narrow its chapter.
-- **Implementation (`corpus_*`):** Four files provide operational detail for carrying out the Constitution. They bind within the scope of valid incorporation and implement the Constitution without narrowing it. [Section 9](#9-adopted-implementation-corpus) identifies the four files.
+- **Implementation (`corpus_*`):** Four files provide operational detail for carrying out the Constitution. They bind within the scope of valid incorporation and implement the Constitution without narrowing it. [Section 11](#11-adopted-implementation-corpus) identifies the four files.
 
 The defined [Corpus](subcore_03.080_band_integrative.md#corpus) is the wider, versioned set of binding constitutional sources: it includes the core, the subcore, adopted implementation text, and any valid compatibility wrappers during transition. Drafts, notes, and navigational guides do not become binding merely by being part of the project.
 
-#### 2.1 Foundations for the Chapters That Follow
+### 4. Foundations for the Chapters That Follow
 
 *In plain terms: Chapters Two through Four own the values, the dictionary (with the subcore rules on how definitions are built, protected, and proven), and the Rights Floor; later chapters must respect those homes, not quietly move them.*
 
 Chapters **Two through Four** supply the values, vocabulary, verification machinery, and Rights Floor that everything later must respect, including:
 
-- [Chapter Five's System Charter or Institutional Charter requirement, Chapter Six's separation-of-duties requirement, and Chapter Seven's Independent Bodies](#5-system-and-institutional-charters-functional-independence-and-separation-of-duties) in Section 5;
-- the [Key Practical Process Pipelines](#6-key-practical-process-pipelines) in Section 6;
-- [process ownership and outputs](#7-process-ownership-and-outputs) in Section 7;
-- the governance and change-path chapters in Section 8; and
-- the [Adopted Implementation Corpus](#9-adopted-implementation-corpus) in Section 9.
+- [Chapter Five's System Charter or Institutional Charter requirement, Chapter Six's separation-of-duties requirement, and Chapter Seven's Independent Bodies](#7-system-and-institutional-charters-functional-independence-and-separation-of-duties) in Section 7;
+- the [Key Practical Process Pipelines](#8-key-practical-process-pipelines) in Section 8;
+- [process ownership and outputs](#9-process-ownership-and-outputs) in Section 9;
+- the governance and change-path chapters in Section 10; and
+- the [Adopted Implementation Corpus](#11-adopted-implementation-corpus) in Section 11.
 
-<a id="3-key-governance-processes"></a>
-### 3. Key Governance Processes
+### 5. Key Governance Processes
 
 *In plain terms: when the text requires it, first separate the sentients or systems that act, check, record, and hear challenges. Material issues then go through certification, written records of help and harm, correction and remedy, and forum review with clocks. Ordinary disputes use the published challenge path first. These processes test authorized governance; they do not create governing authority by themselves.*
 
 The following points introduce the paths:
 
 - When Chapter Four, [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation), an incorporated document, or another constitutional provision expressly requires it, take the material constitutional issue into one or more of the paths below.
-- The [Key Practical Process Pipelines](#6-key-practical-process-pipelines) turn measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy.
+- The [Key Practical Process Pipelines](#8-key-practical-process-pipelines) turn measurement into records, certification, verified inputs, classification, forum supervision, correction, and timely remedy.
 - Through these pipelines, authorized governance is tested, contested, and repaired in practice — but the pipelines do not authorize governance by themselves; they make it reviewable, contestable, correctable, and timely.
-- [Section 6.2](#62-how-the-full-chain-fits-together) states the full pipeline.
+- [Section 8.2](#82-how-the-full-chain-fits-together) states the full pipeline.
 
 **The paths:**
 
@@ -119,14 +123,13 @@ The following points introduce the paths:
   - If that path remains contested, is missing or captured, or cannot grant relief, route the dispute by primary stake through supervised forums.
   - Those forums support evidence, lawful transfer, and timely windows under **Article XXVII-C** (*Timely Resolution and Anti-Delay Floor*).
 
-<a id="4-principles-definitions-and-rights"></a>
-### 4. Principles, Definitions, and Rights
+### 6. Principles, Definitions, and Rights
 
-Sections **4 through 9** are this Constitution's **constitutional owner register**. Each block names the substantive domain its chapter (or adopted corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening and at the top of each subcore file. Other layers may point to an owner, but they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy).
+Sections **6 through 11** are this Constitution's **constitutional owner register**. Each block names the substantive domain its chapter (or adopted corpus) owns and what it produces. Binding one-line owner claims also appear at each numbered chapter opening and at the top of each subcore file. Other layers may point to an owner, but they must not quietly rewrite or relocate it; that non-relocation discipline lives under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy).
 
 Each summary below states what the chapter owns and what it produces.
 
-#### 4.1 Chapter Two — Values, Principles, and Stewardship
+#### 6.1 Chapter Two — Values, Principles, and Stewardship
 
 Chapter Two owns and produces the following:
 
@@ -137,7 +140,7 @@ Chapter Two owns and produces the following:
   - stewardship duties, including distributed understanding, systemic evaluation, and governance discipline.
 - **What it produces:** The interpretive foundation for every later chapter. These are the rules that turn high-level aims into operative requirements when systems, rights, definitions, or process pipelines must be read and applied.
 
-#### 4.2 Chapter Three — Foundational Definitions
+#### 6.2 Chapter Three — Foundational Definitions
 
 Chapter Three owns and produces the following:
 
@@ -146,9 +149,9 @@ Chapter Three owns and produces the following:
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [Corpus](subcore_03.080_band_integrative.md#corpus); and
   - related boundary rules.
-- **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor — binding Rights Floors live in Chapter Four. Owner-domain routing for the Constitution as a whole lives in this register (sections 4–9). Chapter Three's subcore holds the rules behind the dictionary: Subcore 3-A, 3-B, and 3-C below.
+- **What it produces:** Precise constitutional vocabulary for interpretation, audit, and adjudication. It is the **definition stack**, not the Rights Floor — binding Rights Floors live in Chapter Four. Owner-domain routing for the Constitution as a whole lives in this register (sections 6–11). Chapter Three's subcore holds the rules behind the dictionary: Subcore 3-A, 3-B, and 3-C below.
 
-##### 4.2.1 Subcore 3-A — Definition Structure
+##### 6.2.1 Subcore 3-A — Definition Structure
 
 Subcore 3-A owns and produces the following:
 
@@ -158,7 +161,7 @@ Subcore 3-A owns and produces the following:
   - component rules that keep definitions precise and usable across the corpus.
 - **What it produces:** A shared grammar for definitions so later chapters do not fall into vague labels, hidden assumptions, or incompatible term shapes.
 
-##### 4.2.2 Subcore 3-B — Definition Integrity
+##### 6.2.2 Subcore 3-B — Definition Integrity
 
 Subcore 3-B owns and produces the following:
 
@@ -168,7 +171,7 @@ Subcore 3-B owns and produces the following:
   - non-compliance tricks that would hollow definitions on paper while defeating them in practice.
 - **What it produces:** Anti-evasion discipline and non-compliance orientation metadata — including routing hooks toward standing and misconduct review where evasion is substantiated.
 
-##### 4.2.3 Subcore 3-C — Burden, Traceability, and Verification
+##### 6.2.3 Subcore 3-C — Burden, Traceability, and Verification
 
 Subcore 3-C owns and produces the following:
 
@@ -177,7 +180,7 @@ Subcore 3-C owns and produces the following:
   - requires traceable evidence, observability, and verification that scale to [**material stake**](core_00.000_preamble.md#material-stake) and remain practically challengeable.
 - **What it produces:** The verification pipeline that feeds **verified inputs** in [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) and system-alignment evidence in [Chapter Eight](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation). It does not replace standing measurement itself.
 
-#### 4.3 Chapter Four — Foundational Rights
+#### 6.3 Chapter Four — Foundational Rights
 
 Chapter Four owns and produces the following:
 
@@ -192,8 +195,7 @@ Chapter Four owns and produces the following:
   The four parts organize these protections for planet-first reading.
 - **What it produces:** Non-negotiable rights protections and remedy hooks that Chapters Five through Twenty-Six, forums, governance, and amendment rules must respect and not narrow, bypass, or hollow through procedure or proxy metrics.
 
-<a id="5-system-and-institutional-charters-functional-independence-and-separation-of-duties"></a>
-### 5. System and Institutional Charters, Functional Independence, and Separation of Duties
+### 7. System and Institutional Charters, Functional Independence, and Separation of Duties
 
 *In plain terms: a system or institution of real impact publishes a System Charter or Institutional Charter that says what it may do and who holds each seat. Then, before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly hold the seats that check its own act.*
 
@@ -230,7 +232,7 @@ This section summarizes the two floors that every later process relies on, and t
 - **What it owns:** What makes a body independent, the rule for naming a body as an Independent Body, and the list of Independent Bodies every adopter must have, each with its guarantees to sentients in one line.
 - **What it produces:** One standard that every Independent Body meets, so a body's independence is checked the same way wherever it sits. Each listed body's full operating rules sit in its own subcore file attached to [Chapter Seven](core_07.000_independent_bodies.md#chapter-seven-independent-bodies).
 
-#### 5.1 Four-Seat Separation Map
+#### 7.1 Four-Seat Separation Map
 
 Each **Materially Binding Act** must observe these same-act safeguards:
 
@@ -264,8 +266,7 @@ flowchart TB
     style C fill:none,stroke:#9333ea,color:#ffffff
 ```
 
-<a id="6-key-practical-process-pipelines"></a>
-### 6. Key Practical Process Pipelines
+### 8. Key Practical Process Pipelines
 
 *In plain terms: Chapters Eight through Twenty-Two apply Chapter Six's separation-of-duties requirement in one chain: certify systems and institutions, measure help and harm on two separate tracks, apply real effects and remedy, and prevent a forum from being the sole final home for a claim against itself. The chain keeps constitutional duties real in daily life.*
 
@@ -278,7 +279,7 @@ flowchart TB
 - **Chapter Twenty** applies only after Chapter Fifteen has measured a high-level violation. It decides whether the conduct independently meets the criteria for a final anti-constitutional-misconduct designation (ACMD), after due-process safeguards.
 - **Chapters Twenty-Two and Twenty-Three** supervise routing, evidence, transfer, forum independence, and timely resolution so the resulting records and effects can be challenged, corrected, and enforced without allowing a captured forum to be the sole final judge of its own conduct.
 
-The chapter summaries in Sections 4 through 9 make the division of labor explicit. Each summary identifies the chapter that owns the work and the output that stage must produce for the next stage. The stages are connected, but their roles do not collapse into one another:
+The chapter summaries in Sections 6 through 11 make the division of labor explicit. Each summary identifies the chapter that owns the work and the output that stage must produce for the next stage. The stages are connected, but their roles do not collapse into one another:
 
 - **Certification** produces verified evidence about whether a system is aligned within a stated scope and record span.
 - **Standing measurement** uses verified inputs to classify conduct and harm on separate tracks.
@@ -286,7 +287,7 @@ The chapter summaries in Sections 4 through 9 make the division of labor explici
 - **Misconduct review** answers its distinct question: whether a qualifying violation also warrants a final ACMD.
 - **Forum supervision** controls routing, evidence, transfer, challenge, and remedy so the official records and decisions can be reviewed and corrected in time.
 
-#### 6.1 Process Map
+#### 8.1 Process Map
 
 ```mermaid
 flowchart TB
@@ -352,8 +353,7 @@ The pipeline remains one constitutional process because each stage hands forward
 
 Together, these rules turn constitutional duties into records and decisions that sentients can check, challenge, repair, and rely on in practice, not only on paper.
 
-<a id="62-how-the-full-chain-fits-together"></a>
-#### 6.2 How the Full Chain Fits Together
+#### 8.2 How the Full Chain Fits Together
 
 *In plain terms: first separate the seats. Then follow the path from system check to remedy, with forums supervising the dispute and standing steps throughout.*
 
@@ -371,12 +371,11 @@ The full chain runs in the following order:
 
 Each stage above links to its owner chapter, so the chain can be walked from here — including Chapter Eight’s potential verified inputs into standing measurement.
 
-<a id="7-process-ownership-and-outputs"></a>
-### 7. Process Ownership and Outputs
+### 9. Process Ownership and Outputs
 
-*In plain terms: the process map and [how the full chain fits together](#62-how-the-full-chain-fits-together) show the chain; this section names the owner and output of each stage, so no stage quietly takes over another's job.*
+*In plain terms: the process map and [how the full chain fits together](#82-how-the-full-chain-fits-together) show the chain; this section names the owner and output of each stage, so no stage quietly takes over another's job.*
 
-Each step below states what the chapter owns and what it produces, filling in the owners named in [§6.2 How the Full Chain Fits Together](#62-how-the-full-chain-fits-together).
+Each step below states what the chapter owns and what it produces, filling in the owners named in [§8.2 How the Full Chain Fits Together](#82-how-the-full-chain-fits-together).
 
 **Chapter Eight — [System alignment certification](core_08.000_system_alignment_certification_evaluation.md#chapter-eight-system-alignment-certification--evaluation)**
 
@@ -457,12 +456,11 @@ Each step below states what the chapter owns and what it produces, filling in th
 - **What it owns:** The added safeguards when carrying out an outcome means freezing or seizing money or assets, when force is used or could be, and when enforcement keeps failing in the same way.
 - **What it produces:** Enforcement that leaves the least lasting harm that still carries the outcome out, and root causes of enforcement failure found and removed rather than repeated.
 
-<a id="8-governance-change-and-incorporation"></a>
-### 8. Governance, Change, and Incorporation
+### 10. Governance, Change, and Incorporation
 
 *In plain terms: Chapters Twenty-Seven through Thirty-One close this Constitution: who may govern, how the text may change without rolling back protections, how it relates to other law, and how adopted how-to files stay bound to this source.*
 
-Chapters **Twenty-Seven through Thirty-One** close this Constitution. Together they complete the [constitutional owner register](#4-principles-definitions-and-rights) for governance, change validity, and incorporation: who may govern legitimately, how the Constitution may lawfully change, and how adopted implementation text stays bound to constitutional source without silent drift.
+Chapters **Twenty-Seven through Thirty-One** close this Constitution. Together they complete the [constitutional owner register](#6-principles-definitions-and-rights) for governance, change validity, and incorporation: who may govern legitimately, how the Constitution may lawfully change, and how adopted implementation text stays bound to constitutional source without silent drift.
 
 Each summary below states what the chapter owns and what it produces.
 
@@ -496,13 +494,13 @@ Each summary below states what the chapter owns and what it produces.
 **Chapter Thirty-One — Incorporation bridge** ([`core_31.000_incorporation.md`](core_31.000_incorporation.md))
 
 - **What it owns:** Which implementation files count as binding incorporated text when adopted. It pins editions, maintains custody chains, and forbids silent drift between constitutional source and operational detail.
-- **What it produces:** A single incorporation boundary: designated implementation text binds when adopted, but adopted corpora implement the Constitution without becoming a second source that narrows it. [Section 9](#9-adopted-implementation-corpus) summarizes those corpora at a high level.
+- **What it produces:** A single incorporation boundary: designated implementation text binds when adopted, but adopted corpora implement the Constitution without becoming a second source that narrows it. [Section 11](#11-adopted-implementation-corpus) summarizes those corpora at a high level.
 
-### 9. Adopted Implementation Corpus
+### 11. Adopted Implementation Corpus
 
 *In plain terms: four adopted corpora (joint structure, systems, institutions, and forum operations) spell out how to carry out what the chapters already require; they bind when validly adopted, and they may not shrink those duties.*
 
-Beyond the numbered `core_*` chapters, four adopted corpora complete the [constitutional owner register](#4-principles-definitions-and-rights) for adopted **implementation text** — operational detail that makes constitutional duties runnable in practice:
+Beyond the numbered `core_*` chapters, four adopted corpora complete the [constitutional owner register](#6-principles-definitions-and-rights) for adopted **implementation text** — operational detail that makes constitutional duties runnable in practice:
 
 - **[corpus_joint_structure](corpus_joint_structure.md)** — cross-file routing, shared operational terms, and joint structure when systems, institutions, and forums must be read together on the same facts.
 - **[corpus_systems](corpus_systems.md)** — system classification, design and deployment protocols, information handling, and critical-stewardship mechanics.

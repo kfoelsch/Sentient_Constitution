@@ -23,7 +23,7 @@ Seven questions make those relationships easier to hold in mind:
 
 *The diagrams show selected relationships. They do not establish precedence, replace source provisions, or require every matter to pass through every box. The numbered chapters work together as one text.*
 
-The central idea is **pursue Flourishing and Continuity together, through participation, oversight, accountability, and timeliness, within principle constraints and the Rights Floor**. How demanding those duties become scales with **material stake**: impact, dependence, and risk. The [Preamble’s model](../core_00.000_preamble.md#the-model) supplies this organizing idea; its [owner register](../core_01.000_constitutional_map.md#4-principles-definitions-and-rights) identifies where the different parts live.
+The central idea is **pursue Flourishing and Continuity together, through participation, oversight, accountability, and timeliness, within principle constraints and the Rights Floor**. How demanding those duties become scales with **material stake**: impact, dependence, and risk. The [Preamble’s model](../core_00.000_preamble.md#the-model) supplies this organizing idea; its [owner register](../core_01.000_constitutional_map.md#6-principles-definitions-and-rights) identifies where the different parts live.
 
 Chapter Two supplies the practical guardrails:
 
@@ -60,7 +60,7 @@ When provisions appear to pull in different directions, readers use integrated i
 
 *Reading aid (non-operative): one short entry for each part of the binding text after the Preamble, in order, each linked to its source. Read this section on its own for a complete first pass in about 15 minutes; the rest of this overview then shows how the parts connect. It adds no duty and narrows nothing. Where it and the source differ, the source binds.*
 
-Start with the Preamble itself: [What Systems Reward](../core_00.000_preamble.md#what-systems-reward) and [The Model](../core_00.000_preamble.md#the-model) come first, and this section does not repeat them. The Preamble's [owner register](../core_01.000_constitutional_map.md#4-principles-definitions-and-rights) (sections 4 to 9) says what each chapter owns and produces. The entries below say instead what each part means in practice.
+Start with the Preamble itself: [What Systems Reward](../core_00.000_preamble.md#what-systems-reward) and [The Model](../core_00.000_preamble.md#the-model) come first, and this section does not repeat them. The Preamble's [owner register](../core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (sections 4 to 9) says what each chapter owns and produces. The entries below say instead what each part means in practice.
 
 **Foundations**
 
@@ -98,7 +98,7 @@ Start with the Preamble itself: [What Systems Reward](../core_00.000_preamble.md
 - **[Chapter Thirty, supremacy and outside law](../core_30.000_expansion_supremacy.md).** Stronger protections are always welcome. The Constitution is not a secret override: it binds only a body that adopts it, respects stricter outside law where it fits, and cannot be used to destroy records or dodge rights.
 - **[Chapter Thirty-One, incorporation](../core_31.000_incorporation.md).** Says which implementation files can bind, which edition counts, and that later edits do not silently rewrite what was adopted.
 
-The four implementation collections that say how to carry this out are described in the Preamble's [adopted implementation corpus](../core_01.000_constitutional_map.md#9-adopted-implementation-corpus) section and [below](#adopted-corpora-make-the-structure-operational).
+The four implementation collections that say how to carry this out are described in the Preamble's [adopted implementation corpus](../core_01.000_constitutional_map.md#11-adopted-implementation-corpus) section and [below](#adopted-corpora-make-the-structure-operational).
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 
@@ -914,7 +914,7 @@ The standing model is deliberately not a single reputation score. Chapter Fourte
 
 The two standing tracks remain separate. The Chapter Twenty branch applies only when its conditions are met; ordinary Chapter Sixteen effects continue in parallel. The dotted supervision link represents forum review across the processes, rather than an additional final step.
 
-Chapter Five requires every system and institution of Class L or above to publish a System Charter or Institutional Charter that states its scope and a seat map naming who holds each role. For Class P a Charter is voluntary. Chapter Six supplies the separation-of-duties requirement for Chapters Eight through Twenty-Two, working from that published seat map, which make constitutional requirements consequential. Each has a distinct job within the [practical process chain](../core_01.000_constitutional_map.md#6-key-practical-process-pipelines):
+Chapter Five requires every system and institution of Class L or above to publish a System Charter or Institutional Charter that states its scope and a seat map naming who holds each role. For Class P a Charter is voluntary. Chapter Six supplies the separation-of-duties requirement for Chapters Eight through Twenty-Two, working from that published seat map, which make constitutional requirements consequential. Each has a distinct job within the [practical process chain](../core_01.000_constitutional_map.md#8-key-practical-process-pipelines):
 
 - **Seven: publish the scope and the seats.** The System Charter or Institutional Charter states what a system or institution covers and which seat holds each role, so the later chapters have something to check against.
 - **Eight: separate constitutional authority.** Initiation, verification or authorization, record custody, and challenge review remain functionally independent under a published seat map.
@@ -1260,7 +1260,7 @@ The four adopted corpora divide implementation work:
 - [Forums](../corpus_forum.md) covers review operations.
 - [Joint Structure](../corpus_joint_structure.md) connects their shared procedures and interfaces.
 
-Designated adopted implementation obligations bind within valid incorporation and adoption scope. They apply the core’s meanings and protections. Navigation pages, indexes, lookup tools, and this overview help readers reach that text. The [Preamble’s adopted implementation map](../core_01.000_constitutional_map.md#9-adopted-implementation-corpus) and [README’s source-layer distinction](../README.md#binding-vs-support) explain these relationships. Adopted implementation text and process-support material is still less mature than the numbered core.
+Designated adopted implementation obligations bind within valid incorporation and adoption scope. They apply the core’s meanings and protections. Navigation pages, indexes, lookup tools, and this overview help readers reach that text. The [Preamble’s adopted implementation map](../core_01.000_constitutional_map.md#11-adopted-implementation-corpus) and [README’s source-layer distinction](../README.md#binding-vs-support) explain these relationships. Adopted implementation text and process-support material is still less mature than the numbered core.
 
 <hr style="border: 0; border-top: 1px solid currentColor;">
 

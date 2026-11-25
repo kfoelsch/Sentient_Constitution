@@ -201,7 +201,7 @@ The numbered `core_*` files state **why** and **what**. The implementation files
 
 Operative enforcement within any adopter depends on valid adoption under Chapter Twenty-Nine (ratification) and Chapter Thirty-One (incorporation and custody). Substantive content stands as stated regardless of adoption; "this Constitution lacks jurisdiction" addresses enforcement against non-adopters, not a rebuttal of substantive claims. See [Chapter Thirty-One §5](core_31.000_incorporation.md#5-adoption-framing-and-scope-of-authority).
 
-**Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Chapter One owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), and [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](subcore_03.080_band_integrative.md#constitutional-constraint).
+**Conflict order:** Sentient Constitution meaning controls. Use the Authority Stack and Internal Hierarchy, the [Chapter One owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights), and [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) to distinguish source-layer status, substantive owner routing, constraint kind, and last-resort interpretive hierarchy. Incorporated and process layers must satisfy, not narrow, [Constitutional Constraints](subcore_03.080_band_integrative.md#constitutional-constraint).
 
 ### Common Lookups
 

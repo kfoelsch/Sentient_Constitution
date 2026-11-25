@@ -231,7 +231,7 @@ While it is in doubt whether a change is valid, this chapter may impose immediat
 - Downstream: implementation text for review execution mechanics.
 - Read with:
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation);
-  - the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights);
+  - the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights);
   - [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md) on change-path and incorporation;
   - [Chapter Twenty-Nine](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity) (29.000) for procedural tests that do not duplicate slot-classification taxonomy.
 

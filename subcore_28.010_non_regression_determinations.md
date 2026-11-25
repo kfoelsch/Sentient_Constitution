@@ -131,17 +131,17 @@ Cross-layer drift is **non-compliant** under this section:
   - reader-guidance prose elevated to operative effect; or
   - inference from review-trigger language.
 
-Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights), read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation).
+Future additions that touch offense-flavored, sanction-flavored, or classification-flavored language must include an explicit non-relocation pointer to the canonical owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights), read with [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): Chapter Twenty-Eight layer routing index</span></strong></summary>
 
-> Canonical owner routing lives in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights). For editorial orientation, obligations outside the substantive change-validity owner layer include:
+> Canonical owner routing lives in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights). For editorial orientation, obligations outside the substantive change-validity owner layer include:
 > - **general contribution and violation measurement** (Contribution Axis / Violation Axis) — **Chapter Fifteen** in [core_15.000_standing_measurement.md](core_15.000_standing_measurement.md); **standing effects and integration** — **Chapter Sixteen** in [core_16.000_standing_integration.md](core_16.000_standing_integration.md#chapter-sixteen-standing-integration--question-3-what-follows);
 > - **numeric Contribution and Violation Axis slots** — the **Chapter Fifteen §8 unified scale**, with separate Standing Records and Violation slots controlled only by verified impact; and the corresponding **anti-constitutional-misconduct designation (ACMD)** for a qualifying Violation Axis slot 7, 8, or 9 — **Chapter Twenty** in [core_20.000_misconduct_designation.md](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation);
 > - **forum-operational workflow and adjudicative procedure** — **Chapter Twenty-Two** and [corpus_forum.md](corpus_forum.md);
 > - **procedural and custody validity** for amendment, ratification, and adoption — **Chapter Twenty-Nine** in [`core_29.000_amendment_ratification.md`](core_29.000_amendment_ratification.md#chapter-twenty-nine-amendment-ratification-and-procedural-validity); and
-> - **detailed institutional procedure, staffing mechanics, and cross-implementation joint structural integration** for review execution — designated implementation text and owner chapters named in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+> - **detailed institutional procedure, staffing mechanics, and cross-implementation joint structural integration** for review execution — designated implementation text and owner chapters named in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
 >
 > Owner layers must not be read as relocating constitutional validity standards out of **Chapters Twenty-Eight and Twenty-Nine**, Contribution Axis / Violation Axis measurement authority out of the **Chapter Fifteen §8 unified scale**, or ACMD authority out of **Chapter Twenty**. Chapter Twenty does not assign the numeric slot. For a non-operative architecture walkthrough, see [archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md](archive/ARCHITECTURE_PRIMER_ARCHIVED_2026-05-08.md).
 

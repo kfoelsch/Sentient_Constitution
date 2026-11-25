@@ -986,7 +986,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways),
   - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness),
   - [Materiality](subcore_03.085_band_oversight.md#materiality), and
-  - [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together).
+  - [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together).
 
 </details>
 
@@ -2479,7 +2479,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream:
-  - [Chapter One §5 System and Institutional Charters, Functional Independence, and Separation of Duties](core_01.000_constitutional_map.md#5-system-and-institutional-charters-functional-independence-and-separation-of-duties);
+  - [Chapter One §7 System and Institutional Charters, Functional Independence, and Separation of Duties](core_01.000_constitutional_map.md#7-system-and-institutional-charters-functional-independence-and-separation-of-duties);
   - [Chapter Two §18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties) (2.050 §18.3);
   - [Chapter Six §1 Purpose, Role, and Scope](core_06.000_functional_independence_separation_of_duties.md#1-purpose-role-and-scope) (6.000 §1) (*application list*) through
   - [§10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes); Chapters Eight through Twenty-Seven process-specific acts; and
@@ -3907,7 +3907,7 @@ See **Anti-Segmentation Principle**.
   - [Chapter Fifteen §6](core_15.000_standing_measurement.md#6-slot-grammar-and-shared-scaling) (15.000 §6),
   - [Chapter Eighteen §3.2](core_18.000_violation_consequences.md#32-prevention--general-standing-locks) (18.000 §3.2), and
   - [Chapter Twenty](core_20.000_misconduct_designation.md#chapter-twenty-anti-constitutional-misconduct-designation) (20.000) where materially implicated.
-- Downstream: [Chapter One §6.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#62-how-the-full-chain-fits-together) (*binding chain map for the Chapters Fourteen through Twenty-Two pipeline*).
+- Downstream: [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (*binding chain map for the Chapters Fourteen through Twenty-Two pipeline*).
 
 </details>
 

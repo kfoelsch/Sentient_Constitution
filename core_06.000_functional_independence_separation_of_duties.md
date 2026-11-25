@@ -604,7 +604,7 @@ Logs show who did what, but they do not by themselves prove that the action was 
   - [Chapter Fourteen](core_14.000_standing_assessment.md#chapter-fourteen-standing-records--question-1-what-happened) (14.000);
   - [Chapter Twenty-Two](core_22.000_forum.md#chapter-twenty-two-standards-routing-and-forum-cases) (22.000);
   - [Chapter Twenty-Seven](core_27.000_governance.md#chapter-twenty-seven-constitutional-contract-legitimacy-authorization-and-stewardship) (27.000).
-- Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights).
+- Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights).
 
 </details>
 

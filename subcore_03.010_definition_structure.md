@@ -48,7 +48,7 @@ Subcore 3-A is the constitutional owner of **definition structure and component 
   - [Subcore 3-C, section 3 — Exclusive Enforcement and Burden Allocation](subcore_03.030_burden_traceability_verification.md#3-exclusive-enforcement-and-burden-allocation) (S3-C);
   - [Chapter Three Compass and Definition Map](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000).
 - Read with:
-  - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#4-principles-definitions-and-rights) and
+  - [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) and
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
   - [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) — later enforcement, governance, implementation, measurement, audit, and classification mechanics must comply;
   - [CJS-3.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map) — operational definitions apply, and MUST NOT redefine, Chapter Three canonical homes.
