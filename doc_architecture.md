@@ -1513,5 +1513,7 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and twenty-ninth move (promote file structure and foundations to sections; 2026-11-24; layout only; uncommitted).** Decision (custodian, asked in session): make the file structure guide Chapter One §3 and the foundations overview §4, renumber subsequent sections and their subsections, and update current references. Current links and generated indexes are updated to the new section numbers. Effect on a rule: none; the material is unchanged.
 
+**One thousand and thirtieth move (name the chapters in the governance-process introduction; 2026-11-24; wording only; uncommitted).** Decision (custodian, asked in session): name and link Chapters Four and Eight in the first bullet of [Chapter One §5](core_01.000_constitutional_map.md#5-key-governance-processes). Effect on a rule: none; the requirement is unchanged.
+
 **Next file:** [README.md](README.md)
 
