@@ -1,10 +1,10 @@
 # Certification and standing chapter consolidation plan
 
-**Status:** Planning; not an authorization to change constitutional meaning. Custodian requested the plan on 2026-11-24. Chapter numbers below describe the current corpus unless marked proposed. Verify the shared branch and current registry before implementation.
+**Status:** In implementation (custodian requested implementation on 2026-11-24). The work relocates existing rules without changing constitutional meaning; any unresolved choice about a duty, authority, threshold, clock, or scope must be presented to the custodian. Chapter numbers below describe the corpus at plan creation unless marked proposed; the current corpus map was reconciled on 2026-11-24 before structural edits.
 
 ## Goal and proposed chapter map
 
-Give readers one accessible core chapter for each process, with detailed, equally binding rules in attached subcore files. Preserve all duties and protections. The existing 30 chapters become 24:
+Give readers one accessible core chapter for each process, with detailed, equally binding rules in attached subcore files. Preserve all duties and protections. The current 31 numbered chapters become 25: Chapters 8–16 consolidate into three, reducing the count by six. Chapter Thirty-One was added after the plan's initial map and therefore also moves, to Chapter Twenty-Five.
 
 | Current chapters | Proposed chapter | Process |
 | --- | --- | --- |
@@ -12,8 +12,11 @@ Give readers one accessible core chapter for each process, with detailed, equall
 | 11–13 | 9 | Institutional alignment certification |
 | 14–16 | 10 | Standing assessment: records, measurement, and integration |
 | 17–30 | 11–24, respectively | Existing subjects, in the same order |
+| 31 | 25 | Incorporation (current Chapter Thirty-One) |
 
 The existing subcores of the consolidated chapters become subcores of their new chapter; choose final file boundaries and letter labels after the clause inventory. The chapter-number registry is the numbering source. The resulting summaries and subcores have equal constitutional force; navigational or illustrative material does not create duties.
+
+The initial destination boundary is one detailed subcore for each existing process phase: classification/evaluation, forum/outcomes, and records/continuing review for system and institutional certification; records/verification, measurement, and integration for standing. The clause-level crosswalk and preserved 714-clause source inventory are in [the certification and standing crosswalk](certification_standing_clause_crosswalk_2026-11-24.md) and [its source snapshot](certification_standing_obligation_snapshot_2026-11-24.json). These destinations are provisional until each surrounding provision is checked during relocation.
 
 ## Reader-facing design
 

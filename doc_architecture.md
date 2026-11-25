@@ -1537,4 +1537,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and forty-first move (plan certification and standing consolidation; 2026-11-24; planning only; uncommitted).** Decision (custodian, asked in session): record the proposed consolidation of Chapters Eight–Sixteen into three reader-facing process chapters with detailed subcores, and add it to [TODO](TODO.md). The [migration plan](project/plans/certification_standing_consolidation_plan_2026-11-24.md) covers clause preservation, renumbering, navigation, and checks. Effect on a rule: none; implementation and any choice of meaning remain future work.
 
+**One thousand and forty-second move (reconcile the certification and standing map; 2026-11-24; planning and inventory; uncommitted).** Decision (custodian, asked in session): implement the certification and standing consolidation. Correct the plan's chapter count and extend its renumbering map through current Chapter Thirty-One, then inventory all 714 normative clauses in Chapters Eight–Sixteen and map each to a proposed detailed subcore. The plan now points to the crosswalk and preserved source snapshot. Effect on rules: none; proposed destinations remain subject to clause review, and unresolved meaning choices remain for the custodian.
+
 **Next file:** [README.md](README.md)
