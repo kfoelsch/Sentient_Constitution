@@ -204,11 +204,11 @@ Chapter Four owns and produces the following:
 
 *In plain terms: a system or institution of real impact publishes a System Charter or Institutional Charter that says what it may do and who holds each seat. Then, before a materially binding act moves, separate who starts it, who checks or authorizes it, who holds the official record, and who reviews a challenge. The roles may scale to the setting, but the same actor and its control line cannot quietly hold the seats that check its own act.*
 
-This section summarizes the two floors that every later process relies on, and the chapter on bodies that must stand apart from those they check, and what each produces.
+This section summarizes the requirements for System Charters, Institutional Charters, and separation of duties, and the chapter on bodies that must stand apart from those they check. It also explains what each produces.
 
 **[Chapter Five — System and Institutional Charters](core_05.000_charters.md#chapter-five-system-and-institutional-charters)**
 
-- **What it owns:** The floor for the published scope document of a system or institution:
+- **What it owns:** The requirements for publishing a System Charter or Institutional Charter:
   - which systems and institutions of Class L or higher must publish a [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) (Class P may publish one voluntarily);
   - the minimum a System Charter or Institutional Charter must state, including the [Charter Role Map](subcore_03.075_band_continuity.md#charter-role-map) and [Charter Pointers](subcore_03.075_band_continuity.md#charter-pointer) to the published binding stakeholder-choice rules;
   - how a System Charter or Institutional Charter is amended and reviewed so that its chartered scope does not change silently; and
