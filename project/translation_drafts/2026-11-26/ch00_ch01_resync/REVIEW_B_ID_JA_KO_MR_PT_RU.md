@@ -45,3 +45,51 @@ No synchronization or commit was performed.
 ## Additional AI source-coverage pass — 2026-11-26
 
 Section numbering, list/owner coverage, and the current source mapping were compared against the pinned English files. This is AI review, not human fluent attestation. Chapter 0 section headings and principal list structures align in all six pairs; semantic fidelity and nuanced terminology remain unverified. Chapter 1 is not ready to synchronize: §5 prose and §6's owner register in all six still reflect superseded mappings; MR/PT/RU also omit most §9 owner summaries, and their §7 summaries are compressed relative to source. Exact stale references with uncertain destinations remain listed above. PT's legacy §8 material is unresolved.
+
+## Gap-closure pass — 2026-11-26
+
+Replaced superseded content rather than layering a second summary over it:
+
+- Rewrote Chapter 1 §5 in ID, JA, KO, MR, PT, and RU against the pinned English. It now covers the four separated functions, current Chapter Four / Subcore 8-B triggers, the paired certification and challenge safeguards, separate correction and remedy, ordinary challenge-path-first sequencing, and the current §8.2 stages.
+- Rewrote Chapter 1 §6 in all six locales as the current constitutional owner register for Chapters Two through Four. It now covers the values and stewardship remit; the Chapter Three definition stack and Subcores 3-A through 3-C; and the Articles I–XXIX Rights Floor and its boundaries.
+- Rebuilt Chapter 1 §7 in MR, PT, and RU to cover the current owners and outputs of Chapters Five (Charters), Six (Functional Independence), and Seven (Independent Bodies), replacing compressed/obsolete material.
+- Rebuilt Chapter 1 §9 in MR, PT, and RU with all ten current process owners: Subcores 8-B, 9-B, 10-B, 10-D, 10-F and Chapters Fourteen, Sixteen, Seventeen, Nineteen, and Twenty. Each summary states the owner's responsibility and output at a concise level.
+- PT's ambiguous legacy §8 text remains untouched; its disposition is still not source-clear. Historical cross-file links and fragment aliases listed above remain for separate source-backed link reconciliation.
+
+These are AI-assisted translations and source-coverage repairs, not independent fluent review. The other sections were not re-certified by this pass. No synchronization into `translations/` was made.
+
+
+## Follow-up coverage repair — 2026-11-26 (MR/PT/RU)
+
+- Replaced the stale §8 opening summary and framing in MR, PT, and RU with the current Chapter Five charter and Chapter Six separation-of-functions basis and the current process chain.
+- Added the source's post-chart bounds paragraph in all three locales: the Constitutional Tetrad, Two Constitutional Aims, and Rights Floors constrain the full process.
+- Added the full current §11 subcore explanation in all three locales, covering its place between chapters and adopted corpora, chapter ownership and equal binding force, Chapter Twenty-Three amendment route, guarantee text versus full procedural detail, and citation-layer cues.
+- PT's ambiguous legacy §8 material remains untouched and unresolved; no supersession or disposition was inferred.
+- This follow-up addresses only the listed MR/PT/RU coverage points. It is AI-assisted translation and source-coverage repair, not fluency certification. The previously noted historical cross-file link mappings remain separate review items.
+
+
+## Mermaid graph check — 2026-11-26 (MR/PT/RU)
+
+Compared Chapter 1 §7.1 and §8.1 graphs with the pinned English graph structure and current chapter numbering. The four-seat §7.1 graph was absent in MR, PT, and RU, so it was restored with the source's four nodes, four directed edges, and styles; its same-act safeguards and labels are localized. Updated §8.1 displayed chapter labels to match the source (Chapters 5, 6, 8–10, 12–14, 16–17, and 19–20). Graph identifiers, edges, subgraphs, and styles were preserved for §8.1.
+
+This is a structural and source-label check, not fluent-language certification.
+
+## Follow-up process-pipeline repair — 2026-11-26 (ID/JA/KO)
+
+- Replaced the stale §8 introduction in Indonesian, Japanese, and Korean with the current basis in Chapters Five and Six and the current process descriptions for certification, separate contribution/violation records and measurement, standing effects, misconduct review, and forum supervision.
+- Moved the obsolete second Mermaid block out of §7.1 and replaced it with the current English §8.1 Process Map, preserving node IDs, all directed edges, and styles while localizing visible labels. The four-seat §7.1 map remains in place.
+- Added explicit §8.1 and §8.2 anchors/headings and the current post-map constitutional-bounds paragraph covering the Constitutional Tetrad, Two Constitutional Aims, and Rights Floors.
+- Replaced the obsolete ownership narrative with the current seven-stage §8.2 chain. It includes seat separation; system and institutional certification; separate verified-input records and measurement; separate-track effects; ACMD review; forum sequencing, Article XXVII-C timing, A/B/C/L/P materiality tiers, and Integrity-family default routing; and named-party execution within its window with the special-enforcement floors and root-cause evaluation.
+- Compared the three §8.1 graphs with the pinned English source: node IDs, edge structure, and styles match (13 nodes, 20 edges, 13 style declarations in each graph).
+- PT's legacy §8 material was not edited. AI-assisted structural/source coverage repair only; independent fluent review and historical cross-file link resolution remain outstanding.
+
+## Follow-up subcore-layer repair — 2026-11-26 (ID/JA/KO)
+
+- Added the current §11 explanation of the subcore layer in Indonesian, Japanese, and Korean: its position between chapters and adopted corpora, same binding force as its owning chapter, one-chapter ownership, amendment only under Chapter Twenty-Three, the chapter's plain-language guarantee versus the subcore's complete detail, equal force of Chapter/Subcore citation layers, and citation of Chapter Three definitions by defined term.
+- Corrected the §11 incorporation cross-reference label to Chapter Twenty-Five in all three locales.
+- AI-assisted source coverage repair only; independent fluent review and remaining historical link/anchor issues remain outstanding.
+
+
+## Mermaid fence repair — 2026-11-26 (MR/PT/RU)
+
+Moved the §8.1 Mermaid closing fence onto its own line in MR, PT, and RU. Confirmed both Chapter 1 Mermaid blocks in each of the six reviewed drafts now have one opening and one standalone closing fence.

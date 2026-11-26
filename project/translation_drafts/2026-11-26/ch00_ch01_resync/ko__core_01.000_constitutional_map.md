@@ -108,59 +108,52 @@
 
 ### 5. 핵심 거버넌스 과정
 
-*쉬운 말로: 텍스트가 요구할 때, 실질 문제는 인증, 도움과 해의 서면 기록, 교정과 구제, 시계가 있는 포럼 검토를 거칩니다 — 보통 다툼은 먼저 공표된 다툼 경로를 씁니다; 그 경로는 수권된 거버넌스를 시험합니다; 그것만으로 거버넌스를 만들지 않습니다.*
+*쉽게 말해, 헌법이 요구할 때는 먼저 행위를 시작하는 자리, 확인하는 자리, 기록을 보관하는 자리, 이의를 심사하는 자리를 분리한다. 중대한 사안은 이어서 인증, 도움과 피해의 서면 기록, 시정과 구제, 기한이 있는 포럼 심사를 거친다. 통상 분쟁은 먼저 공표된 이의 제기 경로를 이용한다. 이 과정은 이미 승인된 거버넌스를 검증하며, 그 자체로 통치 권한을 만들지 않는다.*
 
-제6장, [제7장](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), 편입 문서, 그 밖의 헌법 규정이 명시로 요구하는 곳에서, 실질 헌법 문제를 아래 경로 하나 이상으로 가져가라. [핵심 실무 과정 사슬](#5-key-practical-process-pipelines)은 측정을 기록, 인증, 확인된 입력, 분류, 포럼 감독, 교정, 제때 구제로 옮긴다 — 수권된 거버넌스가 실무에서 어떻게 시험되고, 다투어지고, 수리되는가. 그것만으로 거버넌스를 수권하지 않는다; 거버넌스를 검토할 수 있고, 다툴 수 있고, 교정할 수 있고, 제때이게 만든다. [§5.1](#51-how-the-full-chain-fits-together)이 그 사슬을 온전히 말한다.
+다음 항목은 각 경로를 소개한다.
 
-- **체계 정합 인증** ([제7장](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — 고영향 체계를 규모로 믿기 전에, 지금 그것에 기대는 것이 헌법상 안전한지에 대한 증거를 모아 검토하라
-- **지위 기록**([제11장](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)) — 행위나 피해가 헌법상 중요하면 검증된 사실을 공식 기여 또는 위반 사건 기록에 넣는다. 소문과 평판만으로는 부족하다.
-- **수정과 구제**([제13장 §5.1 (*구제와 수정*)](../../subcore_10.060_standing_integration.md#51-remedy-and-correction)) — 근본적인 실패를 바로잡고 피해를 입은 이들에게 비례적인 인정, 수리, 회복 또는 보상을 제공한다.
-- **포럼 심사**([제15장](../../core_15.000_forum.md#1-purpose-and-role--participation-architecture))
-  - 이미 수권된 체계 안의 보통 다툼은 먼저 [영향받는 쪽의 체계 참여](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight)의 공표된 다툼 경로를 쓴다
-  - 그 경로가 여전히 다투어지거나, 없거나, 포획되었거나, 구제를 줄 수 없으면, 일차 이해관계에 따라 감독받는 포럼으로 라우팅하라
-  - 그 포럼들은 **제 XXVI-C조**(*제때 해결과 지연 금지 바닥*) 아래에서 증거, 적법한 이송, 제때 시계를 받친다
+- [제4장 — 기초 권리](../../core_04.000_rights_part_a.md#chapter-four-foundational-rights), [서브코어 8-B — 시스템 정렬 인증 평가](../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation), 편입 문서 또는 다른 헌법 조항이 명시적으로 요구하면, 중대한 헌법 쟁점을 아래 경로 중 하나 이상에 회부한다.
+- [핵심 실무 프로세스 파이프라인](#8-key-practical-process-pipelines)은 측정을 기록, 인증, 검증된 입력, 분류, 포럼 감독, 시정, 적시 구제로 이어지게 한다.
+- 이 파이프라인은 승인된 거버넌스를 실제로 검증하고 다투며 바로잡는다. 거버넌스에 권한을 부여하지 않고, 검토와 이의 제기와 시정이 가능하며 적시에 이루어지도록 한다.
+- [§8.2](#82-how-the-full-chain-fits-together)는 의사결정 자리의 분리, 인증, 궤적 기록과 측정, 궤적 효과, 해당 시 지정 심사, 포럼 감독, 결과 이행의 단계를 보여준다.
+
+**경로:**
+
+- **기능적 독립과 직무 분리**([제6장](../../core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties)): 중대하게 구속력 있는 행위를 진행하기 전에 개시, 검증 또는 승인, 공식 기록 보관, 이의 심사의 자리를 적용되는 규모 조정 및 독립성 규칙에 따라 분리한다.
+- **시스템 정렬 인증**([서브코어 8-B](../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation)): 영향이 큰 시스템을 대규모로 신뢰하기 전에 지금 그 시스템에 의존하는 것이 헌법상 안전한지 증거를 모아 심사한다. 인증과 시스템에 이의를 제기하고 감사할 sentients의 권리([제XIV조](../../core_04.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems), *신뢰할 수 있는 시스템에 대한 권리*)는 서로 보완하는 두 안전장치이며 어느 하나도 다른 하나를 대체하지 않는다.
+- **궤적 기록**([서브코어 10-B](../../subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened)): 행위나 피해가 헌법상 중요하면 검증된 사실을 기여 또는 위반의 공식 사건 기록에 넣는다. 소문이나 평판만으로는 충분하지 않다.
+- **시정과 구제**([제12장 §3.1](../../core_12.000_violation_consequences.md#31-remedy-and-correction)): 위반이 검증되면 원인을 다루고 지속을 중단시키는 데 필요한 조치(시정)와 피해를 입은 이들에게 지급해야 할 것(구제)을 모두 평가한다. 구제에는 인정, 수리 또는 복구, 보상, 문자 그대로의 수리가 불가능할 때의 대체 안전장치나 그에 상응하는 구제가 포함될 수 있다. 원인을 고쳐도 구제를 대신하지 않으며 그 반대도 마찬가지다.
+- **포럼 심사**([제16장](../../core_16.000_forum.md#1-purpose-role-and-scope)): 이미 승인된 시스템 내부의 통상 분쟁은 먼저 공표된 [이해관계자 시스템 참여](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight) 이의 제기 경로를 이용한다. 그 경로에 다툼이 남거나, 경로가 없거나 포획되었거나 구제를 제공하지 못하면 주된 이해관계에 따라 감독을 받는 포럼으로 회부한다. 포럼은 증거, 적법한 이관, **제XXVII-C조**(*적시 해결 및 지연 방지 최저선*)의 기한을 지원한다.
 
 <a id="6-principles-definitions-and-rights"></a>
 
-### 6. 원칙, 정의, 권리
+### 6. 원칙, 정의 및 권리
 
-*쉬운 말로: 제1장부터 제6장까지가 가치, 말이 어떻게 지어지고 점검되는지, 사전, 권리 바닥을 맡습니다; 이후 장은 그 거처를 존중해야 하며, 몰래 옮기지 말아야 합니다.*
+제6절부터 제11절까지는 헌법의 **헌정상 소관 등록부**를 이룬다. 각 장 또는 동반 코퍼스가 맡는 주제와 산출물을 밝힌다. 소관 파일의 첫머리에 있는 구속력 있는 한 문장이 그 책임을 밝히며, 다른 부분은 그 소관을 참조할 수 있지만 조용히 다시 쓰거나 옮겨서는 안 된다. 자세한 내용은 [권한 체계와 내부 위계](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy)를 참조한다.
 
-**4부터 7**절은 이 헌법의 **양의 주관자 등록**이다: 각 덩어리는 그 장(또는 동반 코퍼스)이 맡은 실체 영역과 무엇을 산출하는지를 이름 붙인다. 구속력 있는 한 줄 주관 주장도 각 번호 장의 열림에 나타난다. 다른 층은 주관자를 가리킬 수 있다 — 몰래 다시 쓰거나 자리를 옮기면 안 된다; 그 자리 옮김 금지 규율은 [권위 스택과 내부 계층](../../subcore_03.080_band_integrative.md#authority-stack) 아래에 산다.
+#### 6.1 [제2장 — 가치, 원칙 및 책임 있는 관리](../../core_02.000_values_principles.md)
 
-제 **1장부터 제6장**은 이후 모든 것이 존중해야 할 가치, 어휘, 확인 기계, 권리 바닥을 공급한다 — 5절의 [핵심 실무 과정 사슬](#5-key-practical-process-pipelines), 6절의 거버넌스와 변경 경로 장, 7절의 [동반 시행 코퍼스](#7-companion-implementation-corpus)를 포함한다.
+제2장은 웰빙, 공정성, 안전, 진실, 신뢰, 제한된 자유, 적법한 기여에 대한 인정과 비례적 보상, 원칙 간 충돌 해결, 분산된 이해·체계 평가·거버넌스 규율을 포함한 관리 의무 등 헌법의 지침 가치와 제약을 정한다. 이후 모든 장을 해석하는 토대를 산출한다.
 
-각 요약은 그 장이 무엇을 맡고 무엇을 산출하는지를 말한다.
+#### 6.2 [제3장 — 기초 정의](../../core_03.000_definitions_home.md)
 
-**제1장 — 가치, 원칙, 책임 있는 관리** ([A부분](../../core_02.000_values_principles.md) · [B부분](../../core_02.020_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C부분](../../core_02.040_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+제3장은 감독·참여·책임성·연속성·통합 밴드의 표준 정의 체계, [권한 체계와 내부 위계](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy), [코퍼스](../../subcore_03.080_band_integrative.md#corpus), 관련 경계 규칙을 소관한다. 해석, 감사, 판정을 위한 정밀한 헌법 용어를 산출한다. 제3장은 정의 체계이지 권리 최저선이 아니다. 구속력 있는 권리 최저선은 제4장에 있다.
 
-- **맡은 일:** 헌법의 지도 가치와 제약을 말한다 — 복지, 공정, 안전, 진실, 신뢰, 한정된 자유, 적법한 기여에 대한 인정과 비례 보상, 원칙 사이 충돌 해결, 그리고 분산된 이해, 체계 평가, 거버넌스 규율을 포함한 책임 있는 관리 의무.
-- **산출:** 이후 각 장의 해석 기초 — 체계, 권리, 정의, 과정 사슬을 읽고 적용해야 할 때, 높은 층의 목적을 운영 요건으로 바꾸는 규칙.
+##### 6.2.1 [정의 구조 — 서브코어 3-A](../../subcore_03.010_definition_structure.md)
 
-**제2장 — 정의 구조** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
+존재론/측정/평가/준수(O/M/A/C) 구성요소 구조, 정렬 요건, 구성요소 규칙을 정해 헌법 용어를 정확하고 일관되게 쓰는 공통 문법을 만든다.
 
-- **맡은 일:** 헌법 용어가 어떻게 지어지는지를 정의한다 — 존재론/측정/평가/준수(O/M/A/C) 구성 구조, 정합 요건, 정의를 코퍼스 전역에서 정밀하고 쓸 수 있게 유지하는 구성 규칙.
-- **산출:** 정의를 위한 공유 문법, 이후 장이 모호한 꼬리표, 숨은 가정, 호환되지 않는 용어 모양에 빠지지 않게.
+##### 6.2.2 [정의 무결성 — 서브코어 3-B](../../subcore_03.020_definition_integrity.md)
 
-**제3장 — 정의 완전성** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
+회피, 범위 이동, 재정의 조작, 정의를 문서상으로만 남기고 실제로 무력화하는 비준수 수법을 막는다. 회피가 입증될 경우 궤적 및 위법행위 심사로 연결하는 안내 정보도 제공한다.
 
-- **맡은 일:** 회피, 범위 옮김, 재정의 놀이, 종이 위에서는 정의를 비우고 실무에서는 무너뜨리는 비준수 수법에 맞서 지킨다.
-- **산출:** 회피 금지 규율과 비준수 지향 메타데이터 — 회피가 입증된 곳에서 궤적과 부당행위 검토로 가는 라우팅 고리를 포함한다.
+##### 6.2.3 [입증 부담, 추적 가능성 및 검증 — 서브코어 3-C](../../subcore_03.030_burden_traceability_verification.md)
 
-**제4장 — 부담, 추적 가능성, 확인** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
+준수를 주장하는 당사자에게 입증 책임을 두고, [실질 이해관계](../../core_00.000_preamble.md#material-stake)에 비례하며 실제로 이의를 제기할 수 있는 추적 가능한 증거, 관찰 가능성, 검증을 요구한다. 검증된 입력은 서브코어 10-B에, 시스템 정렬 인증 증거는 서브코어 8-B에 공급하지만 궤적 측정 자체를 대체하지 않는다.
 
-- **맡은 일:** 증명 부담을 준수를 주장하는 이에게 둔다; [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절하고 실무에서 여전히 다툴 수 있는 추적 가능한 증거, 관찰 가능성, 확인을 요구한다.
-- **산출물:** [제11장](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)의 **검증된 입력**과 [제9장](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)의 시스템 정렬 증거를 제공하는 검증 절차. 지위 측정 자체를 대체하지 않는다.
+#### 6.3 [제4장 — 기초 권리](../../core_04.000_rights_part_a.md)
 
-**제5장 — 기초 정의** ([`core_05__definitions_home.md`](../../core_03.000_definitions_home.md#chapter-five-foundational-definitions))
-
-- **맡은 일:** 정전 정의 스택을 공급한다 — 감독, 참여, 책무, 연속, 통합 띠 — 더하여 [권위 스택과 내부 계층](../../subcore_03.080_band_integrative.md#authority-stack), [코퍼스](../../subcore_03.080_band_integrative.md#corpus), 관련 경계 규칙.
-- **산출:** 해석, 감사, 재결을 위한 정밀한 헌법 어휘. 그것은 **정의 스택**이지 권리 바닥이 아니다; 구속력 있는 권리는 제6장에 산다. 문서 전체의 주관 영역 라우팅은 이 전문 등록(4–7절)에 산다.
-
-**제6장 — 기초 권리** ([A부분](../../core_04.000_rights_part_a.md) · [B부분](../../core_04.010_rights_part_b.md) · [C부분](../../core_04.020_rights_part_c.md) · [D부분](../../core_04.030_rights_part_d.md))
-
-- **맡은 일:** **제 I–XXVI조**에서 권리 바닥을 말한다 — 생존 필수, 자원 배분과 의존의 책임 있는 관리, 존엄, 행위주체성, 참여, 다툼과 구제, 정의 제약, **제 XXV-C조**(*제때 해결과 지연 금지 바닥*) 아래의 적시성, 이행 규칙 — 행성 우선 읽기를 위해 네 부분으로 짜였다.
-- **산출물:** 제7장부터 제15장까지, 포럼, 거버넌스, 개정 규칙이 존중해야 하며 절차나 대리지표를 통해 축소·우회·공허화해서는 안 되는 협상 불가능한 권리 보호와 구제 연결고리.
+제4장은 제I–XXIX조의 권리 최저선을 정한다. 생존 필수조건, 자원 배분과 의존성 관리, 존엄·행위능력·참여, 이의 제기와 구제, 정의의 제약, **제XXVII-C조**에 따른 적시성, 채택 전환 규칙을 포함한다. 네 부분은 지구 우선의 관점으로 보호를 구성한다. 이후의 제5장부터 제26장, 포럼, 거버넌스, 개정 규칙은 절차나 대리 지표로 이 권리를 축소하거나 우회하거나 무력화해서는 안 된다.
 
 <a id="7-system-and-institutional-charters-functional-independence-and-separation-of-duties"></a>
 ### 7. 시스템·기관 헌장, 기능적 독립, 직무 분리
@@ -235,27 +228,53 @@ flowchart TB
     style C fill:none,stroke:#9333ea,color:#ffffff
 ```
 
+
+
+<a id="8-key-practical-process-pipelines"></a>
+<a id="5-key-practical-process-pipelines"></a>
+### 8. 핵심 실무 과정 사슬
+
+*쉽게 말해: 제8장부터 제22장은 제6장의 직무 분리 요건을 하나의 사슬로 적용합니다. 체계와 기관을 인증하고, 도움과 해를 두 개의 별도 경로에서 측정하며, 실질적 효과와 구제를 적용하고, 포럼이 자신에 대한 주장에 유일한 최종 판단자가 되지 않게 합니다. 이 사슬은 헌법상 의무가 일상에서 실효를 갖도록 합니다.*
+
+두 장이 과정 사슬의 기반을 마련합니다.
+
+- [제5장](../../core_05.000_charters.md#chapter-five-system-and-institutional-charters)은 클래스 L 이상인 각 체계와 기관의 헌장상 범위와 좌석 지도를 공개합니다.
+- [제6장](../../core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties)은 개시, 검증 또는 권한 부여, 공식 기록 보관, 이의 검토 기능을 적용되는 비례 조정 및 독립성 규칙에 따라 따로 배정하고 분리하여 사슬의 각 행위가 정당하게 점검되도록 합니다.
+
+아래 과정은 이 구조를 적용합니다. 각각은 별개의 검토 가능한 결과를 만들며 서로의 역할을 대신하지 않습니다.
+
+- **인증**은 체계나 기관이 명시된 범위와 기록 기간 안에서 정합한지 확인합니다. 체계의 경우 제8장이 평가, 포럼 절차와 결과, 체계 인증 기록, 재인증을 맡고 정합성에 관한 검증된 증거를 만듭니다. 기관의 경우 제9장이 기관 자체의 클래스와 평가, 포럼 절차와 결과(시정 준비 포함), 기관 인증 기록, 재인증을 맡으며 독립 검증이 결정을 뒷받침합니다.
+- **궤적 기록과 측정**은 검증된 사실을 기록하고 기여와 위반을 각각 따로 평가합니다. 제10장은 기여 궤적 기록과 위반 궤적 기록을 분리해 만들고 각 기록을 독립 축에서 측정합니다. 번영에 대한 검증된 기여는 별도로 검증된 해나 책무 실패를 상쇄·취소·감소시키지 않습니다.
+- **궤적 통합**은 분류를 제10장에 따른 비례 효과로 바꿉니다. 기여 경로에는 역량 인가와 인정이, 위반 경로에는 궤적 잠금, 시정, 구제가 포함됩니다.
+- **위법행위 심사**는 제14장에 따라 별도 질문을 다룹니다. 제10장이 상위 수준 위반을 측정한 뒤, 적법절차 안전장치에 따라 해당 행위가 최종 반헌법 위법행위 지정(ACMD) 기준을 독립적으로 충족하는지 결정합니다.
+- **포럼 감독**은 제16장과 제17장에 따른 심사와 시정을 지원합니다. 포럼은 라우팅, 증거, 이송, 포럼 독립성, 적시 해결을 감독합니다. 포획된 포럼이 자기 행위에 대한 유일한 최종 판단자가 되지 않도록 하면서 기록과 효과를 다투고, 시정하고, 집행할 수 있게 합니다.
+
+제6절부터 제11절의 요약은 각 영역의 주관자와 산출물을 밝힙니다.
+
+<a id="81-process-map"></a>
+#### 8.1 과정 지도
+
 ```mermaid
 flowchart TB
-    D["제8장<br/><br/>기능적 독립성과<br/>책무 분리"]
-    H["제7장<br/><br/>시스템 및 기관 헌장"]
-    S["제10장<br/><br/>시스템 정합성 인증"]
-    I["제11장<br/><br/>기관 정합성 인증"]
-    subgraph Q["제12장 · 상시 기록 및 측정"]
+    D["제6장<br/><br/>기능적 독립성과<br/>직무 분리"]
+    H["제5장<br/><br/>시스템 및 기관 헌장"]
+    S["제8장<br/><br/>시스템 정합성 인증"]
+    I["제9장<br/><br/>기관 정합성 인증"]
+    subgraph Q["제10장 · 궤적 기록 및 측정"]
         direction LR
         E["행위 또는 결과에 관한 증거<br/><br/>하위핵 3-A부터 3-C에 따라 검증"]
         C["기여 기록<br/><br/>및 측정"]
         V["위반 기록<br/><br/>및 측정"]
     end
-    subgraph N["제12장부터 제15장 · 지위 효과"]
+    subgraph N["제10장부터 제13장 · 궤적 효과"]
         direction LR
         U["인정, 보상,<br/><br/>역량 인가"]
-        R["지위 잠금,<br/><br/>시정 및 구제"]
+        R["궤적 잠금,<br/><br/>시정 및 구제"]
     end
-    M["제16장<br/><br/>반헌정 위법행위 심사"]
-    L["제14장<br/><br/>반헌정 신뢰 잠금"]
-    F["제18장 및 제19장 포럼<br/><br/>감독, 이의 제기 및 적시 심사"]
-    X["제21장 및 제22장<br/><br/>집행: 결과 이행,<br/>한도 내 특별 집행"]
+    M["제14장<br/><br/>반헌법 위법행위 심사"]
+    L["제12장<br/><br/>반헌법 신뢰 잠금"]
+    F["제16장 및 제17장 포럼<br/><br/>감독, 이의 제기 및 적시 심사"]
+    X["제19장 및 제20장<br/><br/>집행: 결과 이행,<br/>한도 내 특별 집행"]
     D -.->|공개된 좌석 지도에서 권한 분리| H
     H -->|기관 범위와 좌석 공개| I
     H -->|인증 범위와 좌석 공개| S
@@ -291,65 +310,30 @@ flowchart TB
     style X fill:none,stroke:#ea580c,color:#ffffff
 ```
 
-<a id="8-key-practical-process-pipelines"></a>
+각 단계가 정의되고 검토 가능한 결과를 다음 단계로 넘기므로 이 사슬은 하나의 헌법 절차로 유지됩니다. 헌법상 경계는 다음과 같습니다.
 
-### 8. 핵심 실무 과정 사슬
+- [**헌법 사원(四元)**](../../core_00.000_preamble.md#constitutional-tetrad)은 모든 단계가 참여 가능하고, 감독받고, 책무를 지며, 적시에 이루어지도록 요구합니다.
+- [**두 헌법 목적**](../../core_00.000_preamble.md#two-constitutional-aims)은 과정이 **번영**과 **연속**을 함께 뒷받침하도록 요구합니다.
+- 권리 바닥은 어느 단계도 협상 불가능한 보호를 좁히거나, 우회하거나, 비우는 일을 금합니다.
 
-*쉽게 말해: 제9장부터 제15장은 제8장의 직무 분리 요건을 하나의 사슬로 적용합니다. 체계와 기관을 인증하고, 도움과 해를 두 개의 별도 경로에서 측정하며, 실질적인 효과와 구제를 적용하고, 포럼이 자신에 대한 주장의 유일한 최종 판단자가 되지 않게 합니다. 이 사슬은 헌법상 의무를 일상에서 실효 있게 유지합니다.*
+이 규칙들은 헌법상 의무를 종이 위에서만이 아니라 감지자가 실제로 확인하고, 다투고, 고치고, 의지할 수 있는 기록과 결정으로 바꿉니다.
 
-[제7장](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters)은 클래스 L 이상인 각 체계와 기관의 헌장상 범위 및 좌석 지도를 공개합니다. [제8장](../../core_07.000_independent_bodies.md#chapter-eight-functional-independence-and-separation-of-duties)은 이 사슬의 각 행위를 정당하게 점검할 수 있도록 직무 분리 요건을 제시합니다. 개시, 검증 또는 권한 부여, 공식 기록 보관, 이의 검토 기능은 적용되는 비례 조정 및 독립성 규칙에 따라 각각 배정되고 분리되어야 합니다. 제9장부터 제15장은 이 구조를 순서대로 적용합니다:
+<a id="82-how-the-full-chain-fits-together"></a>
+#### 8.2 전체 사슬은 어떻게 맞물리는가
 
-아래 각 걸음은 그 장이 무엇을 맡고 무엇을 산출하는지를 말한다. [온전한 사슬이 어떻게 맞춰지는가](#51-how-the-full-chain-fits-together)는 그다음 그 주관자들을 체계 점검에서 구제까지의 한 길로 보여 준다.
+*쉽게 말해: 먼저 좌석을 분리하고, 시스템 점검부터 구제까지의 길을 따릅니다. 포럼은 그동안 분쟁과 궤적 단계를 감독합니다.*
 
-**체계 정합 인증** ([제7장](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification))
+전체 사슬은 다음 순서로 진행됩니다.
 
-- **맡은 일:** 실질 영향이 있는 체계가 헌법에 정합하도록 지킨다.
-  - 감지자에게 실질적으로 영향을 미치는 체계가 인정되거나 규모로 기대기 전에, 포럼 감독 아래에서 증거를 모아 검토한다
-  - 검토에는 다음 사항이 포함되어야 합니다.
-  - 시스템이 생존 필수 요소를 존중하는지 여부;
-  - **제V조** (*자원 배분, 의존성 및 생태계 자금 조달*)에 따른 자원 배분과 의존성 관리—공유 인프라 의존이 중대한 쟁점인 경우 [Proportionate Cross-System Support](../../subcore_03.075_band_continuity.md#proportionate-cross-system-support) 포함;
-  - 안전;
-  - 참여; 그리고
-  - 그 밖의 헌법상 최저 기준.
-  - 궤적이 있는 감지자는 결과를 다툴 수 있다
-  - 고위험 체계는 정기 일정으로 재인증해야 한다; 인증은 영구가 아니다
-- **산출:** **체계 정합 인증 기록** — 그 체계가 말한 범위와 시간창 안에서 *지금* 인정하고, 계속 기대고, 배치하고, 조건에서 풀어 줄 만큼 정합한지에 대한, 한정되고 다툴 수 있는 답.
+1. **실질적으로 구속력 있는 모든 행위의 좌석을 분리합니다** ([제6장](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement)) — 누가 개시하고, 검증 또는 권한 부여하며, 공식 기록을 보관하고, 이의를 심리하는지 확인합니다. 행위가 적법하게 점검되었다고 보기 전에 금지된 겸임 조합, 독립성 규칙, 공개된 대체 경로를 적용합니다. 헌장이 필요한 경우 [제5장](../../core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody)의 헌장 역할 지도가 각 좌석의 담당자를 공개합니다.
+2. **영향이 충분히 중대하면 체계와 기관을 인증합니다** — 고영향 체계를 규모 있게 신뢰하기 전에 다툴 수 있는 체계 인증 기록을 확보합니다 ([하위핵 8-B](../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation)). 기관은 자체 클래스, 행위, 통치, 사업 구성에 따라 [하위핵 9-B](../../subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation)로 평가하고 결과를 기관 인증 기록에 남깁니다.
+3. **궤적 상태를 별도 경로에서 기록하고 측정합니다** ([하위핵 10-B](../../subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) 및 [하위핵 10-D](../../subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it)) — 도움이나 해가 헌법상 중요하면 제10장은 공식 사건 기록을 열고 **검증된 입력**만 받아 검증된 내용을 측정·분류합니다 (중대한 경우 제8장의 체계 정합성 인증 증거 포함). 소문, 평판, 분쟁 서사는 충분하지 않습니다. 기여와 위반을 순점수 하나로 합치지 않으며, 연결된 기록도 서로 참조하되 별도로 둡니다.
+4. **각 경로에 궤적 효과를 적용합니다** ([하위핵 10-F](../../subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows)) — 검증된 기여는 역량 인가를 부여하고 비례 인정과 실질 보상을 뒷받침해야 합니다. 검증된 위반은 궤적 잠금, 시정, [피해자를 위한 구제](../../core_12.000_violation_consequences.md#31-remedy-and-correction)를 유발할 수 있습니다.
+5. **반헌법 위법행위 지정 심사를 진행합니다** ([제14장](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation)) — 최고영향 위반 판단이 반헌법 기준도 충족할 수 있으면 제14장이 적법절차 안전장치 후 해당 ACMD를 붙일지 결정합니다. 이는 제10장이 이미 측정한 해의 심각도를 바꾸지 않습니다. 최종 ACMD가 반헌법 신뢰 잠금을 발동할 때까지 통상 효과는 병행됩니다.
+6. **분쟁을 라우팅하고 구제가 적시에 이루어지게 합니다** ([제16장](../../core_16.000_forum.md#1-purpose-role-and-scope) 및 [제17장](../../core_17.000_forum_families_escalation_timeliness_support.md#chapter-seventeen-forum-families-escalation-timely-resolution-and-support)) — 포럼은 사건의 이동, 처리 경로, **제XXVII-C조** (*제때 해결과 지연 방지 바닥*)의 기간 준수를 감독해 지연으로 구제가 무의미해지지 않도록 합니다. 통상 분쟁은 [분쟁 순서](../../core_16.000_forum.md#dispute-sequencing)를 따릅니다. 또한 시스템 분류 문자 체계를 반영해 생존에 중요한 긴급 사안부터 사적/한정 사안까지 다섯 [실질 이해관계 등급](../../core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P)으로 분류합니다. 최종 제14장 지정이 주요 이해관계인 경우 무결성 포럼 가족의 기본 라우팅이 적용됩니다.
+7. **결과를 이행합니다** ([제19장](../../core_19.000_enforcement.md#chapter-nineteen-enforcement) 및 [제20장](../../core_20.000_special_enforcement.md#chapter-twenty-special-enforcement)) — 이름이 지정된 당사자가 자기 기간 안에 최종 효과, 잠금, 구제 또는 포럼 명령을 이행하며 회피·지연·은밀한 누락이 없어야 합니다. 구속된 행위자가 저항하면 공통 바닥 안에서 특별 집행을 적용합니다: 보호된 최소액을 보장하는 금전/자산 압류, 표준 인도 압박 단계, 비살상 수단 우선의 무력 단계, 같은 실패를 반복하지 않기 위한 근본 원인 평가.
 
-**궤적 측정** ([제8장](../../subcore_10.020_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model))
-
-- **맡은 일:** 행위가 헌법상 중요할 때, 소문과 평판으로는 부족하다. 확인된 사실은 **궤적 기록**에 들어간다. **기여**(번영을 향한 도움)와 **위반**(책무 실패와 해)은 **따로 떨어진 축**에서 측정된다 — 확인된 좋은 행위가 확인된 해를 지우지 않으며, 둘은 하나의 순점수로 접히지 않는다.
-- **산출:** 기여 축과 위반 축의 분류된 **궤적 기록**, **확인된 입력**과 포럼 감독 아래 인정에만 기초한다 — 비공식 채점이나 다툼 서사가 분류를 대신하지 않는다.
-
-**궤적 통합과 효과** ([제9장](../../subcore_10.060_standing_integration.md#chapter-eleven-standing-effects-and-integration))
-
-- **맡은 일:** 확인된 분류를 실제 세계의 **궤적 효과**로 통합한다, 따로 떨어진 궤도에서 — [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절하고, 기여와 위반을 하나의 순점수로 접지 않으며, 참여, 감독, 책무, 적시성을 비우지 않는다.
-  - **기여 궤도:** 확인된 긍정 분류는 실제 상승을 산출한다:
-    - [**역량 승인**](../../subcore_10.060_standing_integration.md#72-competency-bars-and-clearances)은 공개된 역량 기준에 따라 역량이 입증되고 적용 가능한 [지위 잠금](../../subcore_10.060_standing_integration.md#52-prevention--general-standing-locks)이 지정 경로를 막지 않을 때 신뢰 민감 역할, 위임 권한, 감독 자격, 점차 더 큰 책임의 관리를 가능하게 할 수 있다.
-    - [제1장](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration)이 요구하는 대로, 적법한 책임 있는 관리와 협력에 대한 비례 인정과 **실질 보상**
-    - 빈 칭찬이 아니다. 이익은 실제여야 하고, 증거로 받쳐져야 하며, 다툼에 열려 있어야 한다
-  - **위반 궤도:** 확인된 위반 인정은 실제 하강을 산출한다:
-    - **궤적 잠금**, 역할 한도, 시정 명령, [해를 입은 이를 위한 구제](../../subcore_10.060_standing_integration.md#51-remedy-and-correction), 보충 서술자, 집행 고리
-    - 제한은 확인된 것의 심각도에 맞춘다
-    - 해결되지 않은 위반은 살아 남는다
-    - 진정한 반환을 입증한 이를 위한 궤적 회복의 비례 경로는 남아 있다
-    - 기여 쪽의 역량 허가는 위반 쪽의 궤적 잠금을 면제하지 않는다
-- **산출:** 기여 궤도와 위반 궤도에서 따로, 세기 조절된 궤적 효과 — 한쪽은 역량 허가와 실질 보상; 다른 쪽은 궤적 잠금, 교정, 구제 — 어느 쪽도 하나의 점수로 접히지 않는다.
-
-**반헌법 부당행위 난간** ([제10장](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct))
-
-- **맡은 일:** 가장 심각한 확인된 위반만 다룬다 — 규모에서 헌법 의무를 포획했거나 비웠을 수 있는 행위. 제8장이 이미 최고영향 위반 인정을 기록했고, 반헌법 부당행위가 실질로 주장될 때, 이 장은 지정 검토를 제9장 문턱 궤도로 돌려, 제9장의 보통 궤적 효과와 나란히 한다.
-- **산출:** 그 기존 최고영향 인정에 대한 최종 반헌법 부당행위 지정 — 또는 기각 — 요구된 기준과 적법절차 안전장치가 충족된 뒤에만. 제8장은 해가 얼마나 심각했는지를 계속 측정한다; 최종 지정만이 제9장의 **반헌법 신뢰 잠금**을 발동한다.
-
-**포럼 감독과 라우팅** ([제11장](core_11_forum.md#chapter-eleven-forums-and-jurisdiction))
-
-- **맡은 일:** 다툼과 인증 사항이 실제로 어떻게 움직이는지를 감독한다.
-  - 공표된 영향받는 쪽의 체계 참여 다툼 경로에서 포럼 라우팅으로의 [다툼 순서](core_11_forum.md#dispute-sequencing)
-  - 어느 포럼 가족이 다루는가, 사건이 보통 어디서 시작하는가
-  - 증거가 어떻게 받쳐지는가
-  - 사항이 어떻게 이송되거나 병합되는가
-  - 자기 심판 금지 규칙이 포획된 포럼들이 유일한 최종 거처가 되지 않게 하는 방식
-  - **제 XXV-C조**(*제때 해결과 지연 금지 바닥*) 아래 시계는 사건이 구제가 더 이상 중요하지 않을 만큼 오래 미해결로 남지 않게 한다
-- **산출:** 궤적 기록을 열거나 갱신할 수 있는 **확인된 인정**, 더하여 구제와 [제때 해결](../../subcore_03.070_band_accountability.md#timely-resolution-constitutional)로 가는 적법한 라우팅. 포럼들은 사슬을 감독한다; 제8장 궤적 측정을 대체하지 않는다.
+각 단계는 담당 장에 연결되어 여기서 사슬을 따라갈 수 있으며, 제8장에서 궤적 측정으로 들어갈 수 있는 검증 입력도 포함됩니다.
 
 <a id="9-process-ownership-and-outputs"></a>
 ### 9. 프로세스 소관과 산출물
@@ -495,7 +479,10 @@ flowchart TB
 - **[corpus_institutions](../../corpus_institutions.md)** — 제도 형성, 거버넌스, 감독, 비례, 해산 규율.
 - **[corpus_forum](../../corpus_forum.md)** — 포럼 운영: 패널 구성, 기피, 검토 차로, 라우팅 세부, 포렌식 지원.
 
-채택 주체가 [제16장](../../core_25.000_incorporation.md) 아래에서 그것들을 유효하게 편입하면, 이 파일들은 채택 범위 안에서 시행 텍스트로 구속한다. 감지자 헌법 의미는 여전히 통제한다 — 그것들은 위 장들을 **시행하지, 좁히지 않는다**. 판본 고정, 보관 사슬, 고요한 어긋남 금지 규칙은 채택된 텍스트를 실제로 비준된 것에 추적 가능하게 유지한다. 정전 목록과 경계 규칙은 [제5장 — 코퍼스](../../subcore_03.080_band_integrative.md#corpus)에 산다.
+채택 주체가 [제25장](../../core_25.000_incorporation.md) 아래에서 그것들을 유효하게 편입하면, 이 파일들은 채택 범위 안에서 시행 텍스트로 구속한다. 감지자 헌법 의미는 여전히 통제한다 — 그것들은 위 장들을 **시행하지, 좁히지 않는다**. 판본 고정, 보관 사슬, 고요한 어긋남 금지 규칙은 채택된 텍스트를 실제로 비준된 것에 추적 가능하게 유지한다. 정전 목록과 경계 규칙은 [제5장 — 코퍼스](../../subcore_03.080_band_integrative.md#corpus)에 산다.
+
+
+각 장과 채택된 시행 코퍼스 사이에는 **하위핵**이 있습니다. `subcore_*` 파일은 모든 채택 주체에게 동일해야 하는 보장과 절차의 전체 세부를 담습니다. 각 하위핵은 한 장에 속하고 그 장과 같은 효력으로 구속하며, [제23장](../../core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity)에 따른 개정으로만 바꿀 수 있습니다. 장은 각 보장을 쉬운 말로 밝히고 하위핵 파일은 완전한 규칙을 제공합니다. 인용은 가리키는 층위를 보여 줍니다. “제10장”으로 시작하는 인용은 고정된 보장 문안을 가리키고, “하위핵 8-E”로 시작하는 인용은 표준화된 세부를 가리킵니다. 둘은 같은 효력을 가집니다. 제3장의 정의는 정의된 용어로 인용합니다.
 
 원칙, 정의, 권리, 과정 사슬, 거버넌스, 개정 규칙, 편입된 시행은 헌법의 보호 목적을 지키려면 함께 읽어야 한다.
 

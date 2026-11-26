@@ -105,83 +105,54 @@ Tanımlı [Külliyat](../../subcore_03.080_band_integrative.md#corpus), bağlay�
 
 <a id="5-key-governance-processes"></a>
 <a id="32-key-governance-processes"></a>
-### 5 Temel yönetişim süreçleri
+### 5. Temel yönetişim süreçleri
 
-*Yalın dille: metin istediğinde, maddi meseleler belgelendirme, yardım ve zararın yazılı kayıtları, düzeltme ve çare ve saatli forum incelemesinden geçer — olağan uyuşmazlıklar önce yayımlanmış itiraz yolunu kullanır; bu yollar yetkilendirilmiş yönetişimi dener; onu tek başlarına yaratmaz.*
+*Yalın dille: Metin gerektirdiğinde önce işlem yapan, denetleyen, kaydeden ve itirazı dinleyen sentientlerin veya sistemlerin koltuklarını ayırın. Maddi meseleler ardından belgelendirme, yardım ve zararın yazılı kaydı, düzeltme ve çare ile süreli forum incelemesinden geçer. Olağan uyuşmazlıklar önce yayımlanmış itiraz yolunu kullanır. Bu süreçler yetkilendirilmiş yönetişimi sınar; kendi başlarına yönetme yetkisi yaratmaz.*
 
-Altıncı Bölüm, [Dokuzuncu Bölüm](../../core_08.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), içerilmiş belgeler ya da diğer anayasal hükümler açıkça istediğinde, maddi anayasal meseleleri aşağıdaki yollardan birine ya da birkaçına alın. [Temel Uygulamalı Süreç Zincirleri](#6-key-practical-process-pipelines) ölçümü kayıtlara, belgelendirmeye, doğrulanmış girdilere, sınıflamaya, forum gözetimine, düzeltmeye ve zamanında çareye çevirir — yetkilendirilmiş yönetişimin pratikte nasıl denendiği, itiraz edildiği ve onarıldığı. Yönetişimi tek başlarına yetkilendirmezler; yönetişimi incelenebilir, itiraz edilebilir, düzeltilebilir ve zamanında kılarlar. [Bölüm 5.1](#62-how-the-full-chain-fits-together) bu zinciri tam belirtir.
+[Temel Haklar Dördüncü Bölüm](../../core_04.000_rights_part_a.md#chapter-four-foundational-rights), [Altbölüm 8-B — Sistem uyum belgelendirmesi](../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation), içerilmiş bir belge veya başka bir anayasal hüküm bunu açıkça gerektirdiğinde, maddi anayasal meseleyi aşağıdaki yollardan birine ya da birkaçına alın. [Temel Uygulamalı Süreç Zincirleri](#8-key-practical-process-pipelines) ölçümü kayıtlara, belgelendirmeye, doğrulanmış girdilere, sınıflandırmaya, forum gözetimine, düzeltmeye ve zamanında çareye dönüştürür. Zincir yetkilendirilmiş yönetişimi uygulamada sınar, itiraza açar ve onarır; yönetişimi kendisi yetkilendirmez. [§8.2](#82-how-the-full-chain-fits-together) aşamaların nasıl bağlandığını gösterir.
 
-- **Sistem hizalama belgelendirmesi** ([Dokuzuncu Bölüm](../../core_08.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — yüksek etkili bir sisteme ölçekte güvenilmeden önce, şu anda ona bel bağlamanın anayasal olarak güvenli olup olmadığına dair kanıt toplayın ve inceleyin
-- **Durum kayıtları** ([On Birinci Bölüm](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)) — davranış veya zarar anayasal bakımdan önemliyse doğrulanmış olguları resmî katkı ya da ihlal dosyalarına kaydedin; söylenti ve itibar yeterli değildir.
-- **Düzeltme ve giderim** ([On Üçüncü Bölüm §5.1 (*Giderim ve düzeltme*)](../../core_13.000_standing_integration.md#51-remedy-and-correction)) — altta yatan başarısızlığı düzeltin ve zarar görenlere orantılı kabul, onarım, eski hâle getirme veya tazmin sağlayın.
-- **Forum incelemesi** ([On Beşinci Bölüm](core_11_forum.md#1-purpose-and-role--participation-architecture))
-  - Zaten yetkilendirilmiş sistemlerin içindeki olağan uyuşmazlıklar önce yayımlanmış [Etkilenen Tarafların Sistem Katılımı](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster) itiraz yolunu kullanır
-  - Bu yol hâlâ itiraz ediliyorsa, eksikse, ele geçirilmişse ya da rahatlama veremiyorsa, birincil paya göre gözetimli forumlardan yönlendirin
-  - Bu forumlar **Madde XXV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altında kanıtı, yasal aktarımı ve zamanında saatleri destekler
+**Yollar:**
+
+- **İşlevsel bağımsızlık ve görevlerin ayrılığı** ([Altıncı Bölüm](../../core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties)): Maddi bağlayıcı işlem ilerlemeden önce başlatma, doğrulama veya yetkilendirme, resmî kayıt muhafazası ve itiraz incelemesi koltuklarını geçerli ölçekleme ve bağımsızlık kurallarına göre belirleyip ayırın.
+- **Sistem uyum belgelendirmesi** ([Altbölüm 8-B](../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation)): Yüksek etkili Sisteme ölçekli güven duyulmadan önce, ona şu anda güvenmenin anayasal bakımdan güvenli olup olmadığını belirlemek için kanıt toplayıp inceleyin. Belgelendirme, sentientlerin sistemi sorgulama ve denetleme haklarıyla birlikte işleyen iki güvenceden biridir ([Madde XIV — Güvenilir Sistem Hakkı](../../core_04.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems)); biri diğerinin yerini almaz.
+- **Güzergâh Kayıtları** ([Altbölüm 10-B](../../subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened)): Davranış veya zarar anayasal açıdan önemliyse doğrulanmış olguları resmî katkı ya da ihlal dosyalarına kaydedin; söylenti ve itibar yeterli değildir.
+- **Düzeltme ve çare** ([On İkinci Bölüm §3.1](../../core_12.000_violation_consequences.md#31-remedy-and-correction)): Doğrulanmış ihlalden sonra hem nedeni giderip sürmesini durduracak düzeltmeyi hem zarar görenlere borçlu olunan çareyi değerlendirin. Çare, uygun olduğunda kabul, onarım veya eski hâle getirme; ayrıca tazmin, aynen onarım imkânsızsa ikame güvence veya benzer giderim içerir. Nedeni düzeltmek çarenin, çare de nedeni düzeltmenin yerine geçmez.
+- **Forum incelemesi** ([On Altıncı Bölüm](../../core_16.000_forum.md#1-purpose-role-and-scope)): Yetkilendirilmiş sistemlerde olağan uyuşmazlık önce yayımlanmış [Etkilenen Tarafların Sistem Katılımı](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight) itiraz yolunu kullanır. Yol tartışmalı, eksik, ele geçirilmiş ya da giderim veremez durumdaysa uyuşmazlık birincil paya göre gözetimli forumlara yönlendirilir. Forumlar **Madde XXVII-C** (*Zamanında Çözüm ve Gecikme Karşıtı Taban*) uyarınca kanıtı, hukuka uygun aktarımı ve zaman pencerelerini destekler.
+
+<a id="6-principles-definitions-and-rights"></a>
 <a id="4-principles-definitions-and-rights"></a>
 ### 6. İlkeler, tanımlar ve haklar
 
-*Yalın dille: Birinci Bölümden Altıncı Bölüme değerler, sözcüklerin nasıl kurulup denetlendiği, sözlük ve Hak Tabanı aittir; sonraki bölümler bu evlere saygı göstermelidir, onları sessizce taşımamalıdır.*
+**Altıncı ila On Birinci bölümler** Anayasanın **anayasal sahiplik sicilini** oluşturur: her konuya hangi bölümün veya kabul edilmiş külliyatın baktığını ve ne ürettiğini söyler. Her numaralı bölüm ve altçekirdek dosyası da başında bağlayıcı sahiplik cümlesi taşır. Başka kısımlar bu sahibe yönlendirebilir; sorumluluğunu sessizce değiştiremez veya başka yere taşıyamaz. Kural [Yetki Yığını ve İç Hiyerarşi](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) içinde açıklanır.
 
-**4. ile 7. bölümler** bu Anayasanın **olumlu sahip sicilidir**: her blok, bölümünün (ya da yoldaş corpusunun) sahiplendiği maddi alanı ve ne ürettiğini adlandırır. Bağlayıcı tek satırlık sahip iddiaları her numaralı bölüm açılışında da görünür. Diğer katmanlar bir sahibe işaret edebilir — onu sessizce yeniden yazmamalı ya da yerini değiştirmemelidir; bu yer-değiştirmeme disiplini [Yetki yığını ve iç hiyerarşi](../../subcore_03.080_band_integrative.md#authority-stack) altında yaşar.
+Her özet, bölümün sorumluluk alanını ve çıktısını belirtir.
 
-**Birinci Bölümden Altıncı Bölüme** sonraki her şeyin saygı göstermesi gereken değerleri, sözlüğü, doğrulama makinesini ve Hak Tabanını sağlar — 5. bölümdeki [Temel Uygulamalı Süreç Zincirleri](#6-key-practical-process-pipelines), 6. bölümdeki yönetişim ve değişiklik-yolu bölümleri ve 7. bölümdeki [yoldaş uygulama corpusu](#7-companion-implementation-corpus) dahil.
+#### 6.1 [İkinci Bölüm — Değerler, İlkeler ve Sorumlu Yönetim](../../core_02.000_values_principles.md)
 
-Her özet, bölümün ne sahiplendiğini ve ne ürettiğini belirtir.
+- **Sahip olduğu:** Esenlik, hakkaniyet, Güvenlik, Hakikat, Güven ve sınırlı özgürlük dâhil yol gösteren değerleri ve kısıtları; hukuka uygun katkının tanınması ve orantılı ödüllendirilmesini; ilkeler çatışmasının çözümünü; dağıtılmış anlayış, sistemik değerlendirme ve yönetişim disiplini dâhil sorumlu yönetim görevlerini belirler.
+- **Ürettiği:** Daha sonraki her bölümün yorumlama temeli; yüksek düzeyli amaçları sistem, hak, tanım ve süreçler uygulanırken işleyen gerekliliklere dönüştürür.
 
-**Birinci Bölüm — Değerler, ilkeler ve sorumlu yönetim** ([A Kısmı](../../core_02.000_values_principles.md) · [B Kısmı](../../core_02.020_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C Kısmı](../../core_02.040_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+#### 6.2 [Üçüncü Bölüm — Temel Tanımlar](../../core_03.000_definitions_home.md)
 
-- **Sorumluluk alanı:** Anayasanın yol gösterici değerlerini ve kısıtlarını belirler; bunlara şunlar dahildir:
-  - esenlik, hakkaniyet, Güvenlik, Hakikat, Güven ve sınırlandırılmış özgürlük;
-  - hukuka uygun katkının tanınması ve orantılı biçimde ödüllendirilmesi;
-  - ilkeler arasındaki çatışmaların çözümü; ve
-  - anlayışın yaygınlaştırılması, sistemik değerlendirme ve yönetişim disiplini dâhil emanet sorumlulukları.
-- **Ürettiği:** Sonraki tüm bölümlerin yorumlama temelidir. Sistemler, haklar, tanımlar veya süreç yolları okunup uygulanırken bu kurallar üst düzey amaçları işler gerekliliklere dönüştürür.
+- **Sahip olduğu:** Gözetim, Katılım, Hesap Verebilirlik, Süreklilik ve Bütünleştirici katmanlardan oluşan kanonik tanım yığını; [Yetki Yığını ve İç Hiyerarşi](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy); [Corpus](../../subcore_03.080_band_integrative.md#corpus); ilgili sınır kuralları.
+- **Ürettiği:** Yorum, denetim ve hükme bağlama için kesin anayasal söz varlığı. Bu **tanım yığınıdır**, Hak Tabanı değildir; bağlayıcı Hak Tabanı Dördüncü Bölümdedir. Sözlüğün arkasındaki kurallar 3-A, 3-B ve 3-C altçekirdeklerindedir.
 
-**İkinci Bölüm — Tanım yapısı** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
+##### 6.2.1 [Tanım Yapısı](../../subcore_03.010_definition_structure.md)
 
-- **Görev alanı:** Anayasal terimlerin nasıl oluşturulacağını şu yollarla tanımlar:
-  - Ontolojik/Ölçüm/Değerlendirme/Uygunluk (O/M/A/C) bileşen yapısı;
-  - uyum gereklilikleri; ve
-  - tanımları tüm külliyatta kesin ve kullanılabilir tutan bileşen kuralları.
-- **Ürettiği:** Sonraki bölümlerin muğlak etiketlere, gizli varsayımlara veya birbiriyle bağdaşmayan terim biçimlerine düşmemesi için tanımlara ortak bir dilbilgisi sağlar.
+Altçekirdek 3-A; anayasal terimleri Ontoloji/Ölçüm/Değerlendirme/Uygunluk (O/M/A/C) bileşen yapısı, uyum gereklilikleri ve külliyat boyunca kesin/kullanılabilir kalmalarını sağlayan bileşen kurallarıyla kurar. **Çıktısı:** muğlak etiketleri, gizli varsayımları ve bağdaşmayan terim biçimlerini önleyen ortak tanım dilbilgisi.
 
-**Üçüncü Bölüm — Tanım bütünlüğü** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
+##### 6.2.2 [Tanım Bütünlüğü](../../subcore_03.020_definition_integrity.md)
 
-- **Görev alanı:** Şunlara karşı koruma sağlar:
-  - kaçınma ve kapsam kaydırma;
-  - yeniden tanımlama oyunları; ve
-  - tanımları kâğıt üzerinde içi boşaltıp uygulamada etkisizleştiren uyumsuzluk hileleri.
-- **Ürettiği:** Kaçınmayı önleyen disiplin ve uyumsuzluğa ilişkin yönlendirme üstverisi; kaçınma kanıtlandığında statü ve kötü davranış incelemesine sevk yolları da buna dahildir.
+Altçekirdek 3-B; kaçınma ve kapsam kaydırma, yeniden tanımlama oyunları ve kâğıt üzerinde tanımları içi boşaltıp uygulamada boşa çıkaran uyumsuzluk hilelerine karşı korur. **Çıktısı:** kaçınma karşıtı disiplin ve uyumsuzluk yönlendirme üstverisi; kanıtlanmış kaçınmada güzergâh ve kötü davranış incelemesine sevk bağlantıları.
 
-**Dördüncü Bölüm — Yük, izlenebilirlik ve doğrulama** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
+##### 6.2.3 [Yük, İzlenebilirlik ve Doğrulama](../../subcore_03.030_burden_traceability_verification.md)
 
-- **Görev alanı:**
-  - uyum iddiasında bulunan kişiye ispat yükü verir; ve
-  - [**maddi menfaatin önemine**](#material-stake) uygun, izlenebilir kanıt, gözlemlenebilirlik ve doğrulama ister; bunlara uygulamada itiraz edilebilmelidir.
-- **Ürettiği:** [On Birinci Bölüm](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) için **doğrulanmış girdileri**, [Dokuzuncu Bölüm](../../core_08.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) için sistem uyumu kanıtını sağlayan doğrulama hattı. Durum ölçümünün kendisinin yerini almaz.
-**Beşinci Bölüm — Temel tanımlar** ([`core_05__definitions_home.md`](../../core_03.000_definitions_home.md#chapter-five-foundational-definitions))
+Altçekirdek 3-C ispat yükünü uyum iddiasında bulunana verir; [maddi payla](../../core_00.000_preamble.md#material-stake) ölçekli, izlenebilir kanıt, gözlemlenebilirlik ve uygulamada itiraz edilebilir doğrulama ister. **Çıktısı:** [Altbölüm 10-B](../../subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) için doğrulanmış girdileri ve [Altbölüm 8-B](../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) için sistem uyum kanıtını besleyen doğrulama hattı; güzergâh ölçümünün kendisinin yerini almaz.
 
-- **Görev alanı:** Şunları sağlar:
-  - kanonik tanım yığını: Gözetim, Katılım, Hesap Verebilirlik, Süreklilik ve Bütünleştirici katmanları;
-  - [Yetki yığını ve iç hiyerarşi](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
-  - [Külliyat](../../subcore_03.080_band_integrative.md#corpus); ve
-  - ilgili sınır kuralları.
-- **Ürettiği:** Yorumlama, denetim ve hükme bağlama için kesin anayasal terimler. Bu, **tanım yığınıdır**; Haklar Tabanı değildir. Bağlayıcı Haklar Tabanı Altıncı Bölüm’de yer alır. Anayasanın tümü için sahiplik alanlarına yönlendirme bu Önsöz kayıt bölümündedir (4–9. bölümler).
+#### 6.3 [Dördüncü Bölüm — Temel Haklar](../../core_04.000_rights_part_a.md)
 
-**Altıncı Bölüm — Temel haklar** ([A Kısmı](../../core_04.000_rights_part_a.md) · [B Kısmı](../../core_04.010_rights_part_b.md) · [C Kısmı](../../core_04.020_rights_part_c.md) · [D Kısmı](../../core_04.030_rights_part_d.md))
-
-- **Görev alanı:** **I–XXVIII. Maddelerde** Haklar Tabanı’nı belirler; şunları kapsar:
-  - yaşam için zorunlu ihtiyaçlar;
-  - kaynak tahsisi ve bağımlılıkların gözetimi;
-  - onur, faillik ve katılım;
-  - itiraz ve giderim;
-  - adalet kısıtları;
-  - **XXVI-C. Madde** uyarınca zamanında işlem (*Zamanında Çözüm ve Gecikme Karşıtı Taban*); ve
-  - Kabul Geçişi kuralları.
-  Dört bölüm, bu korumaları gezegeni önceleyen bir okuma için düzenler.
-- **Ürettiği:** Pazarlık konusu olmayan hak korumaları ve giderim yolları oluşturur. Yedinci ila On Üçüncü Bölümler, forumlar, yönetişim ve değişiklik kuralları bunlara saygı göstermeli; bunları usuller veya vekil ölçütler aracılığıyla daraltmamalı, aşmamalı ya da içini boşaltmamalıdır.
-
+- **Sahip olduğu:** I–XXIX Maddelerdeki Hak Tabanı: yaşam için zorunlu ihtiyaçlar; kaynak tahsisi ve bağımlılıkların sorumlu yönetimi; onur, faillik ve katılım; itiraz ve çare; adalet kısıtları; **XXVII-C Maddesi** (*Zamanında Çözüm ve Gecikme Karşıtı Taban*) uyarınca zamanlılık; Kabul Geçişi kuralları. Dört kısım bu korumaları gezegeni önceleyen okumaya göre düzenler.
+- **Ürettiği:** Vazgeçilemez hak korumaları ve çare bağlantıları. Beşinci ila Yirmi Altıncı bölümler, forumlar, yönetişim ve değişiklik kuralları bunlara uymalı; usul veya vekil ölçütlerle daraltmamalı, atlamamalı veya içini boşaltmamalıdır.
 
 <a id="7-system-and-institutional-charters-functional-independence-and-separation-of-duties"></a>
 <a id="5-system-and-institutional-charters-functional-independence-and-separation-of-duties"></a>
@@ -237,11 +208,26 @@ flowchart TB
 <a id="6-key-practical-process-pipelines"></a>
 ### 8. Temel Uygulamalı Süreç Zincirleri
 
-*Basitçe: Dokuzuncu ila On Beşinci Bölümler, Sekizinci Bölümün görev ayrılığı şartını tek zincirde uygular: sistemleri ve kurumları sertifikalandırır, yardımı ve zararı iki ayrı hatta ölçer, gerçek etkiler ve giderim uygular, forumun kendisine karşı iddianın tek nihai mercii olmasını önler. Bu zincir anayasal görevleri günlük yaşamda işler kılar.*
+*Yalın dille: Sekizinci ila Yirmi İkinci Bölümler, Altıncı Bölümün görev ayrılığı şartını tek zincirde uygular: sistem ve kurumları belgelendirir, yardım ve zararı ayrı izlerde ölçer, gerçek etkiler ve çare uygular ve bir forumun kendisine karşı iddia için tek nihai yer olmasını önler. Zincir anayasal görevleri gündelik hayatta işler kılar.*
 
-[Yedinci Bölüm](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters), L Sınıfı veya üstündeki her sistem ve kurumun şart kapsamını ve koltuk haritasını yayımlar. [Sekizinci Bölüm](../../core_06.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties), bu zincirdeki her işlemin geçerli biçimde denetlenmesini sağlayan görev ayrılığı şartını getirir. Uygun ölçekleme ve bağımsızlık kurallarına göre başlatma, doğrulama veya yetkilendirme, resmî kayıt muhafazası ve itiraz incelemesi işlevlerinin ayrı atanıp ayrı tutulması gerekir. Dokuzuncu ila On Beşinci Bölümler bu mimariyi sırayla uygular:
+İki bölüm zincirin temelini kurar:
 
-Aşağıdaki her adım, bölümün ne sahiplendiğini ve ne ürettiğini belirtir. [Tam zincirin nasıl bir araya geldiği](#62-how-the-full-chain-fits-together) sonra bu sahipleri sistem denetiminden çareye tek bir yol olarak gösterir.
+- [Beşinci Bölüm](../../core_05.000_charters.md#chapter-five-system-and-institutional-charters), L Sınıfı veya üstündeki her sistem ve kurumun şart kapsamını ve koltuk haritasını yayımlar.
+- [Altıncı Bölüm](../../core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties), başlatma, doğrulama/yetkilendirme, resmî kayıt muhafazası ve itiraz incelemesini geçerli ölçekleme ve bağımsızlık kuralları altında ayrı tutarak zincirdeki her işlemin geçerli biçimde denetlenmesini sağlar.
+
+Aşağıdaki süreçler bu mimariyi uygular; her biri ayrı ve incelenebilir sonuç üretir:
+
+- **Belgelendirme**, sistem veya kurumun belirtilen kapsamı ve kayıt dönemi içinde uyumlu olup olmadığını sınar. Sekizinci Bölüm sistem değerlendirmesini, forum süreci/sonuçlarını, Sistem Belgelendirme Kaydını ve yeniden belgelendirmeyi düzenler. Dokuzuncu Bölüm kurumun kendi sınıfını/değerlendirmesini, forum süreci/sonucunu (giderime hazır olma dâhil), Kurum Belgelendirme Kaydını ve yeniden belgelendirmeyi düzenler; bağımsız doğrulama bu kararları destekler.
+- **Güzergâh Kayıtları ve ölçümü**, doğrulanmış olguları kaydeder, katkı ve ihlali ayrı değerlendirir. Onuncu Bölüm ayrı Katkı ve İhlal Güzergâh Kayıtlarına doğrulanmış olguları alır ve her kaydı kendi ekseninde ölçer. Gelişmeye yönelik doğrulanmış katkı ayrıca doğrulanmış zararı veya hesap verebilirlik başarısızlığını dengelemez, iptal etmez veya azaltmaz.
+- **Güzergâhların bütünleştirilmesi**, sınıflandırmaları Onuncu Bölüm altında orantılı etkilere çevirir: katkı izi yetkinlik izinleri ve tanınmayı; ihlal izi güzergâh kilitleri, düzeltme ve çareyi içerir.
+- **Kötü davranış incelemesi**, On Dördüncü Bölüm uyarınca ayrı bir soruyu sorar: Onuncu Bölüm yüksek düzeyli ihlali ölçtükten sonra, usul güvenceleriyle davranış nihai ACMD ölçütlerini ayrıca karşılıyor mu?
+- **Forum gözetimi**, On Altıncı ve On Yedinci Bölümler uyarınca inceleme ve düzeltmeyi destekler. Forumlar yönlendirme, kanıt, aktarım, forum bağımsızlığı ve zamanında çözümü gözetir; ele geçirilmiş forumun kendi davranışında tek nihai yargıç olmasına izin vermeden kayıt ve etkilerin itiraz edilmesini, düzeltilmesini ve uygulanmasını sağlar.
+
+6–11. bölümlerin özetleri her alanın sahibini ve çıktısını belirtir.
+
+#### 8.1 Süreç Haritası
+
+#### 8.1 Süreç Haritası
 
 #### 8.1 Süreç Haritası
 
@@ -310,81 +296,77 @@ flowchart TB
     style X fill:none,stroke:#ea580c,color:#ffffff
 ```
 
+Bu zincir, her aşama tanımlı ve incelenebilir bir sonuç aktardığı için tek bir anayasal süreç olarak kalır. Anayasal sınırlar içinde kalması için:
+
+- [**Anayasal Tetrad**](core_00.000_preamble.md#constitutional-tetrad) her aşamanın katılımcı, gözetimli, hesap verebilir ve zamanında olmasını gerektirir;
+- [**İki Anayasal Amaç**](core_00.000_preamble.md#two-constitutional-aims) sürecin **Gelişme** ve **Sürekliliğe** birlikte hizmet etmesini gerektirir; ve
+- Hak Tabanları her aşamanın pazarlık konusu olmayan korumaları daraltmasını, atlamasını veya içini boşaltmasını yasaklar.
+
+Bu kurallar, anayasal görevleri yalnızca kâğıt üzerinde değil, sentientlerin uygulamada inceleyebileceği, itiraz edebileceği, düzeltebileceği ve güvenebileceği kayıt ve kararlara dönüştürür.
+
 <a id="62-how-the-full-chain-fits-together"></a>
 #### 8.2 Tam zincir nasıl bir araya gelir
 
-*Yalın dille: bunu sistem denetiminden çareye bir yol olarak düşünün — forumlar uyuşmazlığı ve güzergâh adımlarını baştan sona gözetirken.*
+*Yalın dille: Önce koltukları ayırın; sonra sistem incelemesinden çareye uzanan yolu izleyin. Forumlar uyuşmazlıkları ve güzergâh aşamalarını gözetir.*
 
-1. **Maddi ölçüde bağlayıcı her işlemde görevleri ayırın** ([Sekizinci Bölüm](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)): kimin başlattığını, kimin doğruladığını veya yetkilendirdiğini, kimin resmî kaydı tuttuğunu ve kimin itirazı dinlediğini belirleyin. İşlem usulüne uygun biçimde denetlenmiş sayılmadan önce yasaklı görev birleşimlerini, bağımsızlık kurallarını ve yayımlanmış ikame yolunu uygulayın. Sistem veya Kurum Şartı gerektiğinde ([Yedinci Bölüm](../../core_05.000_charters.md#4-the-charter-role-map-and-standing-record-custody)), Şartın Görev Haritası her görevi kimin üstlendiğini yayımlar.
-2. **Etki yeterince ciddiyse sistemleri ve kurumları sertifikalandırın** — yüksek etkili bir sisteme büyük ölçekte güvenmeden önce itiraz edilebilir Sistem Sertifikasyon Kaydı alın ([Dokuzuncu Bölüm Kısım A–B](../../core_08.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); Kurumu kendi sınıfı, davranışı, yönetişimi ve portföyü açısından [Onuncu Bölüm](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification) kapsamında değerlendirin ve sonucu Kurum Sertifikasyon Kaydına işleyin.
-3. **Durumu ayrı hatlarda kaydedin ve ölçün** ([On Birinci Bölüm](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) ve [On İkinci Bölüm](core_12_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it)) — yardım veya zarar anayasal bakımdan önemliyse On Birinci Bölüm resmî dosyalar açmalı ve yalnızca **doğrulanmış girdileri** kabul etmelidir (maddi olduğu durumlarda Dokuzuncu Bölümün sistem uyumu sertifikasyon kanıtı dâhil); On İkinci Bölüm doğrulananı ölçüp sınıflandırır. Söylentiler, itibar ve uyuşmazlık anlatıları yetmez.
-   - **İhlalin niteliği:** doğrulanmış zarar ve hesap verebilirlik başarısızlıkları için sınırlı, itiraz edilebilir bir dosya olan **ihlal durum kaydını** açın; **ihlal niteliğini** İhlal Ekseninde sınıflandırın. Yardım ve zarar hiçbir zaman tek net puana katlanmaz; bağlantılı durum kayıtları çapraz başvuru yapar ama ayrı kalır.
-4. **Her hatta durum etkilerini uygulayın** ([On Üçüncü Bölüm](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration)) — doğrulanmış katkı yeterlilik onayı sağlayabilir ve orantılı tanınma ile maddi ödülleri desteklemelidir; doğrulanmış ihlal durum kilitleri, düzeltme ve [zarar görenler için giderimi](../../core_13.000_standing_integration.md#51-remedy-and-correction) tetikleyebilir.
-5. **Anayasa karşıtı tanım incelemesi yürütün** ([On Dördüncü Bölüm](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct)) — en yüksek etkili ihlal bulgusu anayasa karşıtı ölçütleri de karşılayabilecekse, ilgili ACMD'nin uygulanıp uygulanmayacağına On Dördüncü Bölüm karar vermelidir. ACMD, On İkinci Bölümün zararın ciddiyetine ilişkin bulgusunu değiştirmez. Nihai ACMD Anayasa Karşıtı Güven Kilidini tetikleyene kadar olağan On Üçüncü Bölüm etkileri paralel sürer.
-6. **Uyuşmazlıkları yönlendirin ve giderimi zamanında tutun** ([On Beşinci Bölüm](core_11_forum.md#1-purpose-and-role--participation-architecture)) — forumlar davaların akışını, hangi hattın işleyeceğini ve **Madde XXVI-C** (*Zamanında Çözüm ve Gecikme Karşıtı Taban*) sürelerinin karşılanıp karşılanmadığını gözeterek giderimin gecikmede kaybolmasını önlemelidir. Olağan uyuşmazlıklar [Uyuşmazlık sıralamasını](core_11_forum.md#dispute-sequencing) izler. Forumlar ayrıca uyuşmazlıkları sistem sınıflandırma alfabesini yansıtan beş [maddilik düzeyine](core_11_forum.md#6-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) ayırmalıdır: yaşamı tehdit eden aciliyetten özel/sınırlı konulara. Nihai On Dördüncü Bölüm tanımı başlıca menfaatsa bütünlük ailesinin varsayılan yönlendirmesi uygulanır.
+Zincir şu sırayla işler:
 
-[README güzergâh-zinciri haritası](../../README.md#standing-pipeline-and-forums) yukarıdaki zincir için doğrudan gezinme sağlar; Yedinci Bölümün güzergâh ölçümüne olası doğrulanmış girdileri dahil.
+1. **Maddi bağlayıcı her işlemde koltukları ayırın** ([Altıncı Bölüm](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement)) — kimin başlattığını, doğruladığını veya yetkilendirdiğini, resmî kaydı tuttuğunu ve itirazı dinlediğini belirleyin. İşlemi geçerli biçimde denetlenmiş saymadan önce yasak birleşimleri, bağımsızlık kurallarını ve yayımlanmış ikame yolu uygulayın. Şart gerekiyorsa [Beşinci Bölümün](../../core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody) Şart Rol Haritası her koltuğu kimin tuttuğunu yayımlar.
+2. **Etki yeterince ağırsa sistem ve kurumları belgelendirin** — yüksek etkili Sisteme ölçekli güven duyulmadan önce itiraz edilebilir Sistem Belgelendirme Kaydı alın ([Altbölüm 8-B](../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation)); Kurumu kendi sınıfı, davranışı, yönetişimi ve faaliyet portföyüyle [Altbölüm 9-B](../../subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation) uyarınca değerlendirin ve sonucu Kurum Belgelendirme Kaydına geçirin.
+3. **Güzergâh durumunu ayrı izlerde kaydedip ölçün** ([Altbölüm 10-B](../../subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) ve [Altbölüm 10-D](../../subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it)) — yardım veya zarar anayasal açıdan önemliyse Onuncu Bölüm resmî dosya açar ve yalnızca **doğrulanmış girdileri** kabul eder; Sekizinci Bölümün maddi sistem belgelendirme kanıtı da gerektiğinde girdidir. Katkı ile ihlal ayrı kaydedilip ölçülür; söylenti, itibar ve uyuşmazlık anlatısı yeterli değildir, ikisi net puanda birleştirilmez.
+4. **Her izde güzergâh etkilerini uygulayın** ([Altbölüm 10-F](../../subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows)) — katkı yetkinlik izni ile orantılı tanınma ve maddi ödülleri destekler; ihlal güzergâh kilidi, düzeltme ve [zarar görenler için çareyi](../../core_12.000_violation_consequences.md#31-remedy-and-correction) doğurabilir.
+5. **Anayasaya aykırı kötü davranış belirleme incelemesi yapın** ([On Dördüncü Bölüm](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation)) — en yüksek etkili ihlal bulgusu anayasaya aykırılık ölçütlerini de karşılayabilirse, On Dördüncü Bölüm karşılık gelen ACMD'nin bağlanıp bağlanmadığına karar verir. Bu, zararın Onuncu Bölümce ölçülmüş ağırlığını değiştirmez; olağan etkiler, nihai ACMD Anayasaya Aykırı Güven Kilidini tetikleyene dek paralel sürer.
+6. **Uyuşmazlığı yönlendirip çareyi zamanında sağlayın** ([On Altıncı Bölüm](../../core_16.000_forum.md#1-purpose-role-and-scope) ve [On Yedinci Bölüm](../../core_17.000_forum_families_escalation_timeliness_support.md#chapter-seventeen-forum-families-escalation-timely-resolution-and-support)) — forumlar dosyaların hareketini, hangi izin ele aldığını ve **Madde XXVII-C** (*Zamanında Çözüm ve Geciktirmeme Tabanı*) pencerelerine uyulmasını gözeterek gecikmenin çareyi anlamsızlaştırmasını önler. Olağan uyuşmazlıklar [Uyuşmazlık sıralamasını](../../core_16.000_forum.md#dispute-sequencing) izler. Forumlar ayrıca uyuşmazlıkları sistem sınıflandırma alfabesini izleyen beş [maddi pay kademesine](../../core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) ayırır: yaşam için kritik aciliyetten özel/sınırlı konulara kadar. Nihai On Dördüncü Bölüm belirlemesi başlıca maddi pay ise Bütünlük ailesinin varsayılan yönlendirmesi uygulanır.
+7. **Sonuçları yerine getirin** ([On Dokuzuncu Bölüm](../../core_19.000_enforcement.md#chapter-nineteen-enforcement) ve [Yirminci Bölüm](../../core_20.000_special_enforcement.md#chapter-twenty-special-enforcement)) — nihai etki, kilit, çare veya forum emrini adı belirli taraf kendi penceresi içinde yerine getirir; sonuç kaçırılmaz, geciktirilmez veya sessizce düşürülmez. Bağlı aktör direnirse, özel uygulama ortak taban sınırları içinde işler: korunan asgari miktara riayet ederek para/varlıklara el koyma, standart teslim baskısı basamakları, önce ölümcül olmayan güç basamakları ve aynı başarısızlığın yinelenmemesi için kök neden değerlendirmesi.
 
+Her aşama kendi sorumlu bölümüne bağlanır; böylece zincir buradan izlenebilir ve Sekizinci Bölümün güzergâh ölçümüne olası doğrulanmış girdileri de görülebilir.
 
 <a id="9-process-ownership-and-outputs"></a>
 <a id="7-process-ownership-and-outputs"></a>
 ### 9. Süreç sahipliği ve çıktılar
 
-Yedinci Bölüm — Sistem ve Kurum Şartları ([Chapter Seven](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters))
+Her aşamanın sahibi ve ürettiği sonuç aşağıdadır; hiçbiri diğerinin işini devralmaz.
 
-- **Ürettiği şey:** Kapsamı ve koltuk yerleşimini açıklayan, yayımlanmış ve sürümlenmiş bir beyan; Sekizinci Bölüm, sertifikasyon, statü kayıtları ve forumlar davranışı buna göre sınayabilir. Yedinci Bölüm [`core_07.000_charters.md`](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters) dosyasındadır.
-
+- **[Altbölüm 8-B — Sistem uyum belgelendirmesi](../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation):** Maddi etkisi olan sistemlerin anayasal uyumunu sağlar. Ölçekli güven veya belgelendirme öncesi forum gözetiminde kanıt toplanıp incelenir; inceleme hayati ihtiyaçları, Madde V kaynak tahsisi ve bağımlılık yönetimini (önemliyse sistemler arası desteği), güvenliği, katılımı ve diğer anayasal tabanları kapsar. İlgililer sonucu itiraz edebilir; yüksek riskli sistemler düzenli yeniden belgelendirilir. **Çıktı:** kapsamı ve kayıt dönemi belirli, itiraz edilebilir Sistem Belgelendirme Kaydı.
+- **[Altbölüm 9-B — Kurumsal uyum belgelendirmesi](../../subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation):** Maddi etkili kurumları aynı altı aşama boyunca değerlendirir. Dokuzuncu Bölüm I–II değerlendirmeyi; 9-D III–IV forum süreci ve sonuçlarını; 9-F V–VI Kurum Belgelendirme Kaydı ve işleyişi üstlenir. İnceleme kurumun kendi sınıfını, şartına uyumunu, yetkisine kimin yanıt verdiğini, ödüllerini ve bağımsız denetimlerin kullanılabilirliğini kapsar; sistem belgelendirmelerini yinelemez. **Çıktı:** itiraz edilebilir Kurum Belgelendirme Kaydı; bu, kurum kurma veya işletme lisansı ya da koşulu değildir.
+- **[Altbölüm 10-B — Güzergâh kayıtları](../../subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened):** Anayasal açıdan önemli davranışa ilişkin doğrulanmış olguları ayrı Katkı ve İhlal Güzergâh Kayıtlarına alır. Söylenti, itibar ve gayriresmî puanlama yeterli değildir. **Çıktı:** yalnızca doğrulanmış girdilere ve forum gözetimli bulgulara dayanan, sınırlı kayıtlar.
+- **[Altbölüm 10-D — Güzergâh ölçümü](../../subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it):** Katkı ve ihlali aynı birleşik ölçekte ayrı eksenlerde ölçer; net puanda birleştirmez. **Çıktı:** her kayıt için ilgili eksende nitelik, büyüklük ve yuva sınıflandırması.
+- **[Altbölüm 10-F — Güzergâhların bütünleştirilmesi ve etkileri](../../subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows):** Sınıflandırmaları maddi paya göre ayrı güzergâhlarda gerçek etkilere çevirir; katılımı, gözetimi, hesap verebilirliği veya zamanlılığı zayıflatmaz. **Çıktı:** katkı tarafında yetkinlik izinleri, tanınma ve maddi ödül; ihlal tarafında kilitler, görev sınırları, düzeltme, çare ve uygulama bağlantıları.
+- **[On Dördüncü Bölüm — Anayasaya aykırı kötü davranış belirlemesi](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation):** Anayasal görevleri geniş ölçekte ele geçirmiş veya içini boşaltmış olabilecek en ciddi doğrulanmış ihlalleri, usul güvenceleriyle inceler. **Çıktı:** mevcut en yüksek etkili bulgu için nihai ACMD veya ret; Onuncu Bölümün Anayasaya Aykırı Güven Kilidi yalnızca nihai ACMD ile tetiklenir.
+- **[On Altıncı Bölüm — Standartlar, yönlendirme ve forum dosyaları](../../core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases):** Yayımlanmış Etkilenen Tarafların Sistem Katılımı itiraz yolundan forum yönlendirmesine geçişi; forum ailesi ve olağan başlangıç yerini; dosyaların açılması ve tutulmasını; aktarım/birleştirmeyi ve yakalanmış bir forumun kendi davranışına tek nihai yargıç olmasını önleyen kuralları belirler. **Çıktı:** Güzergâh Kayıtlarını açabilecek veya güncelleyebilecek bulgular ve çareye/ zamanında çözüme hukuka uygun yönlendirme; forum ölçümün yerini almaz.
+- **[On Yedinci Bölüm — Forum aileleri, yükseltme, zamanlı çözüm ve destek](../../core_17.000_forum_families_escalation_timeliness_support.md#chapter-seventeen-forum-families-escalation-timely-resolution-and-support):** Forum ailelerini ve ortak ölçütlerini; yükseltme ve hüküm sorularını; adlandırılmış bir yol üzerindeki dar Geçici Tutmayı; XXVII-C sürelerini; kanıt ve katılımcı desteğini düzenler. **Çıktı:** her mesele türünü dinleyebilen forumlar ve çare anlamlı kalırken çözüme ulaşma.
+- **[On Dokuzuncu Bölüm — Uygulama](../../core_19.000_enforcement.md#chapter-nineteen-enforcement):** Güzergâh süreci ya da forumun ürettiği sonucu kimin, ne zaman yerine getireceğini ve kaçırma, geciktirme veya sessizce düşürmeyi neyin önleyeceğini belirler. **Çıktı:** kâğıt üzerinde kalmayan, fiilen yerine getirilen sonuçlar; yeni sonuç türü yaratmaz.
+- **[Yirminci Bölüm — Özel uygulama](../../core_20.000_special_enforcement.md#chapter-twenty-special-enforcement):** Para veya varlıkların dondurulması/el konulması, güç kullanılması ya da uygulamanın aynı biçimde tekrarlayan başarısızlıkları için ek güvenceler sağlar. **Çıktı:** sonucu yerine getirmeyi sağlayan en az kalıcı zararlı uygulama ve tekrar eden başarısızlığın kök nedenlerinin giderilmesi.
 
 <a id="10-governance-change-and-incorporation"></a>
 <a id="8-governance-change-and-incorporation"></a>
 ### 10. Yönetişim, değişiklik ve içerme
 
-*Basitçe: On Altıncı ila Yirminci Bölümler bu Anayasayı tamamlar: kimin yönetebileceği, korumaları geriletmeden metnin nasıl değiştirilebileceği, diğer hukukla ilişkisi ve kabul edilen uygulama dosyalarının kaynağa bağlı kalması.*
+On Sekizinci ve Yirmi Birinci ila Yirmi Beşinci Bölümler yönetişim, değişikliğin geçerliliği ve içerme konularındaki anayasal sahiplik kaydını tamamlar. On Sekizinci Bölüm okuma sırasına göre forumlardan sonra gelse de yönetişim alanındadır: Yirmi Birinci Bölüm yönetme yetkisinin nasıl meşrulaştırıldığını, On Sekizinci Bölüm ise meclisin bu yetkiyle ne yaptığını açıklar.
 
-**Yirminci Bölümden Yirminci Bölüme** belgeyi kapatır — ve yönetişim, değişiklik geçerliliği ve içerme için [olumlu sahip sicilini](#4-principles-definitions-and-rights) tamamlar: kim meşru yönetebilir, Anayasa yasal olarak nasıl değişebilir ve benimsenmiş uygulama metninin sessiz sapma olmadan anayasal kaynağa nasıl bağlı kaldığı.
-
-Her özet, bölümün ne sahiplendiğini ve ne ürettiğini belirtir.
-
-**Yirminci Bölüm — Anayasal sözleşme, meşruiyet ve emanet sorumluluğu** ([core_16.000_governance.md](../../core_16.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship))
-
-- **Ne sahiplenir:** [**Anayasal Sözleşme Katmanı**](../../subcore_03.080_band_integrative.md#constitutional-contract-layer)nı sahiplenir — kim yönetebilir, hangi meşruiyet düzeneğiyle, hangi kapsam ve kalıcı koşullar altında ve hangi sorumlu yönetim karakterinin sürdürülmesi gerektiği.
-- **Ne üretir:** Zaten yetkilendirilmiş sistemlerdeki [**Etkilenen Tarafların Sistem Katılımı**](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster)ndan ayrı yetkilendirme ve meşruiyet gerekleri — yönetme yetkisinin kendisinin kuralları, yalnızca onun içindeki katılım değil.
-
-**On Yedinci Bölüm — Gerilememe** ([core_17.000_non_regression.md](../../core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity))
-
-- **Ne sahiplenir:** Gerileyici değişikliğe karşı maddi tabanı koyar — değişiklikler ve dolambaçlar çekirdek korumaları geri alamaz, Dörtlüyü maddi payın altına boşaltamaz ya da gerilemeyi teknik temizlik diye gizleyemez.
-- **Ne üretir:** Önerilen herhangi bir değişiklik üzerindeki **ilk anayasal korkuluk** — gerilememe kuralı: değişiklik pratikte çekirdek korumaları zayıflatacaksa, usul doğru görünse bile geçerli değildir. Şüpheli dolambaçlar ya da gizlenmiş geri almalar sessizce sızmak yerine durdurulur ya da uygun inceleme yollarına gönderilir.
-
-**On Sekizinci Bölüm — Üstünlük ve dış emirler** ([core_18.000_expansion_supremacy.md](../../core_18.000_expansion_supremacy.md#chapter-eighteen-expansion-supremacy-and-external-legal-orders))
-
-- **Sorumluluğu:** Bu Anayasanın diğer normlarla ilişkisi: hukuken mümkün olduğunda korumayı genişletmek, geçerli kaynağı içinde üstünlük, kabul ve yönetişim katmanı kapsamı, kendi gücüyle uygulanan dış hukuku hükümsüz kılmamak ve sessiz tâbi olma ya da ele geçirilme olmadan dış hukuk düzenleriyle disiplinli etkileşim.
-- **Ne üretir:** Yayımlama ya da kullanımın uygulanabilir dış hukuku yürürlükten kaldırma sayılmaması ve benimseyenlerin içerilmiş usulü, daha zayıf dış normları ya da elverişlilik ölçütlerini geçerli benimseme kapsamında Algılayanlar Anayasası anlamını geçersiz kılıyor gibi işlememesi için hiyerarşi ve çatışma-düzeni kuralları.
-**On Dokuzuncu Bölüm — Değişiklik, onaylama ve kabul** ([core_19.000_amendment_ratification.md](../../core_19.000_amendment_ratification.md#chapter-nineteen-amendment-ratification-and-procedural-validity))
-
-- **Sorumluluğu:** Bu Anayasanın hukuken nasıl değiştirileceği — değişiklik usulü, onaylama ve kabul — ve On Yedinci Bölümün esas güvencesini izleyen **usul güvenceleri**: değişiklikler açıkça yayımlanmalı, yetkili muhafazaya kadar izlenebilmeli ve gerektiğinde bağımsız incelemeyle anlamlı biçimde itiraz edilebilir kalmalıdır.
-- **Ne üretir:** Tam bir yasal değişiklik yolu — yalnızca **gerilememe korkuluğunu** ve **usul korkuluklarını** geçen değişiklikler ve benimsemeler geçerli anayasal güncelleme sayılır.
-**Yirminci Bölüm — Dâhil etme köprüsü** ([core_20.000_incorporation.md](../../core_20.000_incorporation.md))
-
-- **Ne sahiplenir:** Hangi uygulama dosyalarının benimsendiğinde bağlayıcı içerilmiş metin sayıldığını belirler; baskıları sabitler; emanet zincirlerini sürdürür; ve anayasal kaynak ile işlemsel ayrıntı arasında sessiz sapmayı yasaklar.
-- **Ne üretir:** Tek bir içerme sınırı — belirlenmiş uygulama metni benimsendiğinde bağlar; yoldaş corpuslar Anayasayı onu daraltan ikinci bir kaynak olmadan uygular. [Bölüm 7](#9-adopted-implementation-corpus) bu corpusları üst düzeyde özetler.
-
+- **[On Sekizinci Bölüm — Meclisler](../../core_18.000_assemblies.md#chapter-eighteen-assemblies):** Bir siyasal topluluğun meclisinin kararlarını ve sınırlarını düzenler: vergi ve bütçeler, yerel/bölgesel/ulusal iş bölümü, işlem türlerine göre çoğunluklar, meclisin seçip görevden alabileceği yürütme, topluluk referandumları ve türü belirlenmiş acil durumlar. **Çıktı:** hesap veren organın kamuya açık kuralları ve bütçeleri, ona karşı sorumlu yürütmeler ve hızla teyit edilen, her zaman geri alınabilen ve Haklar Tabanına dokunmayan acil yetkiler.
+- **[Yirmi Birinci Bölüm — Anayasal sözleşme, meşruiyet ve sorumlu yönetim](../../core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship):** Anayasal Sözleşme Katmanını — kimin, hangi meşruiyet mekanizmasıyla, hangi kapsam ve kalıcı koşullarda yönetebileceğini ve hangi sorumlu yönetim niteliğinin korunacağını — düzenler. **Çıktı:** yetkilendirilmiş sistem içindeki paydaş katılımından ayrı yönetme yetkisi kuralları.
+- **[Yirmi İkinci Bölüm — Geriye götürmeme](../../core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity):** Geriye götürücü değişikliğe karşı maddi tabanı kurar. Değişiklik ve dolanma yolları temel korumaları geriye alamaz, Tetrad'ı maddi payın altına indiremez veya gerilemeyi teknik temizlik gibi gösteremez. **Çıktı:** ilk anayasal güvence; uygulamada temel korumaları zayıflatan değişiklik geçersizdir ve şüpheli dolanma durdurulur ya da uygun incelemeye yöneltilir.
+- **[Yirmi Üçüncü Bölüm — Değişiklik, onaylama ve kabul](../../core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity):** Hukuka uygun değişiklik, onaylama ve kabul yolunu; açık yayımlama, yetkili muhafazaya izlenebilirlik, anlamlı itiraz ve gerektiğinde bağımsız inceleme usul güvencelerini düzenler. **Çıktı:** geriye götürmeme ve usul güvencelerinin ikisini de geçen değişiklik ve kabuller için geçerli yol.
+- **[Yirmi Dördüncü Bölüm — Üstünlük ve dış hukuk emirleri](../../core_24.000_expansion_supremacy.md#chapter-twenty-four-expansion-supremacy-and-external-legal-orders):** Hukuka uygun koruma genişlemesini, geçerli kaynağı içinde üstünlüğü, kabulü ve yönetişim katmanı kapsamını; kendi gücüyle uygulanabilir dış hukukun yerini almamayı; dış hukuk düzenleriyle düzenli etkileşimi belirler. **Çıktı:** hiyerarşi ve çatışma sırası kuralları; yayımlama veya kullanma uygulanabilir dış hukuku yürürlükten kaldırmış sayılmaz, dış normlar ya da kolaylık ölçütleri de geçerli kabul kapsamındaki Anayasa anlamını geçersiz kılamaz.
+- **[Yirmi Beşinci Bölüm — İçerme köprüsü](../../core_25.000_incorporation.md):** Kabul edildiğinde hangi uygulama dosyalarının bağlayıcı içerilmiş metin sayıldığını belirler; sürümleri sabitler, muhafaza zincirini korur ve anayasal kaynakla işleyiş ayrıntıları arasındaki sessiz kaymayı yasaklar. **Çıktı:** tek içerme sınırı; belirlenmiş uygulama metni kabul edildiğinde bağlar ancak Anayasayı daraltan ikinci kaynak olamaz. §11 bu derlemleri özetler.
 
 <a id="11-adopted-implementation-corpus"></a>
 <a id="9-adopted-implementation-corpus"></a>
-### 11. Kabul Edilmiş Uygulama Derlemi
+### 11. Kabul edilmiş uygulama derlemi
 
-*Yalın dille: dört yoldaş corpus (ortak yapı, sistemler, kurumlar ve forum işlemleri) bölümlerin zaten istediğini nasıl yerine getireceğini ayrıntılandırır; geçerli biçimde benimsendiğinde bağlar ve bu ödevleri küçültemez.*
+Dört kabul edilmiş derlem, bölümlerin zaten gerektirdiği şeylerin nasıl uygulanacağını ayrıntılandırır. Yirmi Beşinci Bölüm uyarınca geçerli biçimde içerildiklerinde kabul kapsamındaki uygulama metni olarak bağlayıcıdırlar; ancak Anayasayı uygular, daraltamazlar.
 
-Numaralı `core_*` bölümlerinin ötesinde, dört yoldaş corpus benimsenmiş **uygulama metni** için [olumlu sahip sicilini](#4-principles-definitions-and-rights) tamamlar — anayasal ödevleri pratikte işletilebilir kılan işlemsel ayrıntı:
+- **[corpus_joint_structure](../../corpus_joint_structure.md)** — dosyalar arası yönlendirme, ortak işleyiş terimleri ve sistem, kurum ve forumların aynı olgular için birlikte okunacağı ortak yapı.
+- **[corpus_systems](../../corpus_systems.md)** — sistem sınıflandırması, tasarım ve konuşlandırma protokolleri, bilgi işleme ve kritik sorumlu yönetim mekanikleri.
+- **[corpus_institutions](../../corpus_institutions.md)** — kurum oluşumu, yönetişim, gözetim, orantılılık ve fesih disiplini.
+- **[corpus_forum](../../corpus_forum.md)** — forum işleyişi: heyet oluşturma, çekilme, inceleme hatları, yönlendirme ayrıntısı ve adli destek.
 
-- **[corpus_joint_structure](../../corpus_joint_structure.md)** — dosyalar arası yönlendirme, paylaşılan işlemsel terimler ve sistemler, kurumlar ve forumların aynı olgular üzerinde birlikte okunması gerektiğinde ortak yapı.
-- **[corpus_systems](../../corpus_systems.md)** — sistem sınıflaması, tasarım ve konuşlandırma protokolleri, bilgi işleme ve kritik sorumlu yönetim mekaniği.
-- **[corpus_institutions](../../corpus_institutions.md)** — kurumsal kuruluş, yönetişim, gözetim, orantılılık ve fesih disiplini.
-- **[corpus_forum](../../corpus_forum.md)** — forum işlemleri: panel kuruluşu, çekilme, inceleme şeritleri, yönlendirme ayrıntısı ve adli destek.
+Bu dosyalar geçerli biçimde kabul edildiğinde kapsam içinde bağlayıcı uygulama metnidir. Sentient Constitution'ın anlamı belirleyicidir; sürüm sabitleme, muhafaza zincirleri ve sessiz kaymayı önleme kuralı kabul edilen metni onaylanmış içeriğe izlenebilir kılar. Yetkili liste ve sınır kuralları [Corpus](../../subcore_03.080_band_integrative.md#corpus) bölümündedir.
 
-Bir benimseyen bunları [Yirminci Bölüm](../../core_20.000_incorporation.md) uyarınca geçerli biçimde dâhil ettiğinde, dosyalar kabul kapsamındaki uygulama metni olarak bağlayıcı olur. Sentient Constitution'ın anlamı üstün kalır — bunlar yukarıdaki bölümleri **uygular, daraltmaz**. Sürüm sabitleme, muhafaza zincirleri ve sessiz sapma yasağı, kabul edilen metnin gerçekten onaylanan içeriğe kadar izlenmesini sağlar. Yetkili liste ve sınır kuralları [Beşinci Bölüm — Külliyat](../../subcore_03.080_band_integrative.md#corpus) içindedir.
+Bölümlerle kabul edilmiş derlemler arasında **altçekirdekler** bulunur: `subcore_*` dosyaları her kabul eden için aynı kalması gereken güvencelerin ve usullerin ayrıntısını taşır. Her altçekirdek tek bir bölüme aittir, o bölümle aynı biçimde bağlayıcıdır ve yalnızca [Yirmi Üçüncü Bölüm](../../core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) uyarınca değiştirilebilir. Bölüm güvenceyi yalın dille söyler; altçekirdek tam kuralı verir. Atıflar hedef katmanı gösterir: “Onuncu Bölüm” sabit güvence metnini, “Altbölüm 8-E” standartlaştırılmış ayrıntıyı belirtir ve ikisi aynı güce sahiptir; Üçüncü Bölüm tanımları tanımlı terimle anılır.
 
-İlkeler, tanımlar, haklar, süreç zincirleri, yönetişim, değişiklik kuralları ve içerilmiş uygulama, Anayasanın koruyucu amacını korumak için birlikte okunmalıdır.
+Anayasanın koruyucu amacını muhafaza etmek için ilkeler, tanımlar, haklar, süreç zincirleri, yönetişim, değişiklik kuralları, altçekirdek ve içerilmiş uygulama birlikte okunmalıdır.
 ---
 
 **Önceki dosya:** [README.md](README.md)

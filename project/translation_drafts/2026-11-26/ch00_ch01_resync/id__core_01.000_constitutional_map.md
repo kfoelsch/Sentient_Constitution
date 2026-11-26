@@ -108,59 +108,52 @@ Bab **Dua sampai Empat** menyediakan nilai, kosakata, perangkat verifikasi, dan 
 <a id="32-key-governance-processes"></a>
 ### 5. Proses tata kelola utama
 
-*Dalam bahasa sederhana: ketika teks menuntutnya, isu material melewati sertifikasi, catatan tertulis bantuan dan bahaya, koreksi dan pemulihan, serta tinjauan forum dengan batas waktu — sengketa biasa memakai jalur gugatan yang diterbitkan lebih dulu; jalur itu menguji tata kelola yang sudah diizinkan; mereka tidak menciptakannya sendiri.*
+*Secara sederhana: ketika konstitusi mensyaratkannya, pisahkan dahulu makhluk sadar atau sistem yang memulai, memeriksa, mencatat, dan memeriksa keberatan. Isu material lalu melalui sertifikasi, catatan tertulis tentang bantuan dan bahaya, koreksi dan pemulihan, serta peninjauan forum dengan batas waktu. Sengketa biasa memakai jalur keberatan yang diterbitkan terlebih dahulu. Proses ini menguji tata kelola yang telah diotorisasi; proses ini tidak menciptakan kewenangan untuk memerintah.*
 
-Di mana Bab Enam, [Bab Tujuh](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), instrumen yang diinkorporasi, atau ketentuan konstitusional lain secara tegas menuntutnya, bawa isu konstitusional material ke satu atau lebih jalur di bawah. [Rantai Proses Praktis Utama](#5-key-practical-process-pipelines) menerjemahkan pengukuran menjadi catatan, sertifikasi, masukan terverifikasi, klasifikasi, pengawasan forum, koreksi, dan pemulihan tepat waktu — bagaimana tata kelola yang diizinkan diuji, digugat, dan diperbaiki dalam praktik. Mereka tidak mengizinkan tata kelola sendiri; mereka membuat tata kelola dapat ditinjau, dapat digugat, dapat dikoreksi, dan tepat waktu. [Bagian 5.1](#51-how-the-full-chain-fits-together) menyatakan rantai itu lengkap.
+Hal-hal berikut memperkenalkan jalur yang tersedia:
 
-- **Sertifikasi keselarasan sistem** ([Bab Tujuh](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — sebelum sistem berdampak tinggi dipercaya pada skala, kumpulkan dan tinjau bukti apakah secara konstitusional aman diandalkan sekarang
-- **Catatan standing** ([Bab Sebelas](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)) — ketika tindakan atau bahaya penting secara konstitusional, masukkan fakta terverifikasi ke berkas perkara formal tentang kontribusi atau pelanggaran; rumor dan reputasi saja tidak cukup.
-- **Koreksi dan pemulihan** ([Bab Tiga Belas §5.1 (*Pemulihan dan koreksi*)](../../subcore_10.060_standing_integration.md#51-remedy-and-correction)) — perbaiki kegagalan yang mendasari dan berikan pengakuan, perbaikan, pemulihan, atau kompensasi yang proporsional kepada mereka yang dirugikan.
-- **Peninjauan forum** ([Bab Lima Belas](../../core_15.000_forum.md#1-purpose-and-role--participation-architecture))
-  - Sengketa biasa di dalam sistem yang sudah diizinkan memakai jalur gugatan terbitan [Partisipasi Sistemik Pihak Terdampak](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster) lebih dulu
-  - Jika jalur itu masih disengketakan, hilang, dikuasai, atau tidak dapat memberi pemulihan, rute menurut taruhan primer melalui forum yang diawasi
-  - Forum itu menopang bukti, pemindahan yang sah, dan batas waktu di bawah **Pasal XXVI-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*)
+- Apabila [Bab Empat — Hak-Hak Dasar](../../core_04.000_rights_part_a.md#chapter-four-foundational-rights), [Subcore 8-B — Evaluasi Sertifikasi Keselarasan Sistem](../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation), dokumen yang diinkorporasikan, atau ketentuan konstitusional lain secara tegas mensyaratkannya, ajukan isu konstitusional material melalui satu atau lebih jalur di bawah.
+- [Rantai Proses Praktis Utama](#8-key-practical-process-pipelines) mengubah pengukuran menjadi catatan, sertifikasi, masukan terverifikasi, klasifikasi, pengawasan forum, koreksi, dan pemulihan tepat waktu.
+- Rantai ini menguji, menggugat, dan memperbaiki tata kelola yang diotorisasi dalam praktik. Rantai ini membuat tata kelola dapat ditinjau, digugat, dikoreksi, dan tepat waktu; rantai ini sendiri tidak mengotorisasinya.
+- [§8.2](#82-how-the-full-chain-fits-together) menunjukkan urutan tahap: pemisahan kursi pengambilan keputusan, sertifikasi, Catatan Status dan pengukurannya, akibat status, peninjauan penetapan bila berlaku, pengawasan forum, dan pelaksanaan hasil.
+
+**Jalur-jalurnya:**
+
+- **Kemandirian fungsional dan pemisahan tugas** ([Bab Enam](../../core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties)): sebelum tindakan yang mengikat secara material dilakukan, pisahkan kursi yang memulai, memverifikasi atau mengotorisasi, menyimpan catatan resmi, dan meninjau keberatan sesuai aturan penskalaan dan kemandirian.
+- **Sertifikasi keselarasan sistem** ([Subcore 8-B](../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation)): sebelum sistem berdampak tinggi dipercaya dalam skala besar, kumpulkan dan tinjau bukti apakah sistem itu aman secara konstitusional untuk diandalkan saat ini. Sertifikasi dan hak makhluk sadar untuk menggugat serta mengaudit sistem ([Pasal XIV](../../core_04.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems), *Hak atas Sistem yang Andal dan Dapat Dipercaya*) adalah dua pengaman yang saling melengkapi; tidak satu pun menggantikan yang lain.
+- **Catatan Status** ([Subcore 10-B](../../subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened)): bila tindakan atau bahaya bermakna secara konstitusional, masukkan fakta terverifikasi ke berkas kontribusi atau pelanggaran formal; rumor dan reputasi tidak cukup.
+- **Koreksi dan pemulihan** ([Bab Dua Belas §3.1](../../core_12.000_violation_consequences.md#31-remedy-and-correction)): setelah pelanggaran terverifikasi, nilai baik tindakan untuk mengatasi penyebab dan menghentikannya (koreksi), maupun hal yang terutang kepada pihak yang dirugikan (pemulihan). Pemulihan dapat mencakup pengakuan, perbaikan, pemulihan keadaan, kompensasi, pengaman pengganti, atau ganti rugi setara. Koreksi tidak menggantikan pemulihan, dan sebaliknya.
+- **Peninjauan forum** ([Bab Enam Belas](../../core_16.000_forum.md#1-purpose-role-and-scope)): sengketa biasa dalam sistem yang telah diotorisasi lebih dahulu memakai jalur keberatan [Partisipasi Sistem Pemangku Kepentingan](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight). Jika jalur itu tetap disengketakan, tidak ada, dikuasai, atau tidak dapat memberi pemulihan, teruskan sengketa menurut taruhan utama melalui forum yang diawasi. Forum menopang bukti, pemindahan yang sah, dan batas waktu berdasarkan **Pasal XXVII-C** (*Lantai Penyelesaian Tepat Waktu dan Anti-Penundaan*).
 
 <a id="6-principles-definitions-and-rights"></a>
 <a id="4-principles-definitions-and-rights"></a>
 ### 6. Prinsip, definisi, dan hak
 
-*Dalam bahasa sederhana: Bab Satu sampai Enam memiliki nilai, cara kata dibangun dan diperiksa, kamus, dan Lantai Hak; bab kemudian harus menghormati rumah itu, bukan memindahkannya diam-diam.*
+Bagian 6–11 adalah **daftar pemilik konstitusional**: setiap bab atau korpus pendamping bertanggung jawab atas pokok bahasannya dan hasil yang ditetapkan. Berkas pemilik menyatakan tanggung jawab itu secara mengikat; bagian lain boleh merujuk kepadanya, tetapi tidak boleh diam-diam menulis ulang atau memindahkannya. Lihat [Tumpukan Wewenang dan Hierarki Internal](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy).
 
-Bagian **4 sampai 7** adalah **daftar pemilik positif** Konstitusi ini: setiap blok menamai ranah substantif yang dimiliki babnya (atau korpus pendamping) dan apa yang dihasilkannya. Klaim pemilik mengikat satu baris juga muncul di pembuka setiap bab bernomor. Lapisan lain boleh menunjuk ke pemilik — mereka tidak boleh diam-diam menulis ulang atau memindahkannya; disiplin tidak-pindah itu hidup di bawah [Tumpukan wewenang dan hierarki internal](../../subcore_03.080_band_integrative.md#authority-stack).
+#### 6.1 [Bab Dua — Nilai, Prinsip, dan Pengelolaan Bertanggung Jawab](../../core_02.000_values_principles.md)
 
-Bab **Satu sampai Enam** memasok nilai, kosa kata, mesin verifikasi, dan Lantai Hak yang harus dihormati segala yang kemudian — termasuk [Rantai Proses Praktis Utama](#5-key-practical-process-pipelines) di Bagian 5, bab tata kelola dan jalur perubahan di Bagian 6, dan [korpus implementasi pendamping](#7-companion-implementation-corpus) di Bagian 7.
+Bab Dua menetapkan nilai dan batasan pemandu Konstitusi, termasuk kesejahteraan, keadilan, keselamatan, kebenaran, kepercayaan, kebebasan terbatas, pengakuan serta imbalan proporsional atas kontribusi yang sah, penyelesaian konflik antarprinsip, dan kewajiban pengelolaan bertanggung jawab. Bab ini menghasilkan dasar penafsiran bagi semua bab berikutnya.
 
-Setiap ringkasan menyatakan apa yang menjadi wilayah bab dan apa yang dihasilkannya.
+#### 6.2 [Bab Tiga — Definisi Dasar](../../core_03.000_definitions_home.md)
 
-**Bab Satu — Nilai, prinsip, dan pengelolaan bertanggung jawab** ([Bagian A](../../core_02.000_values_principles.md) · [Bagian B](../../core_02.020_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [Bagian C](../../core_02.040_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+Bab Tiga menetapkan tumpukan definisi kanonis: pita Pengawasan, Partisipasi, Akuntabilitas, Kesinambungan, dan Integratif; [Tumpukan Wewenang dan Hierarki Internal](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy); [Korpus](../../subcore_03.080_band_integrative.md#corpus); serta aturan batas terkait. Bab ini menghasilkan kosa kata konstitusional yang presisi untuk penafsiran, audit, dan pengadilan. Ia menetapkan tumpukan definisi, bukan Lantai Hak; Lantai Hak yang mengikat berada di Bab Empat.
 
-- **Yang menjadi wilayahnya:** Menyatakan nilai dan batasan pemandu Konstitusi — kesejahteraan, keadilan, Keselamatan, Kebenaran, Kepercayaan, kebebasan terbatas, pengakuan dan imbalan sepadan atas kontribusi yang sah, penyelesaian konflik antarprinsip, dan kewajiban pengelolaan bertanggung jawab termasuk pemahaman terdistribusi, evaluasi sistemik, dan disiplin tata kelola.
-- **Yang dihasilkannya:** Fondasi tafsir bagi setiap bab kemudian — aturan yang mengubah tujuan tingkat tinggi menjadi persyaratan operatif ketika sistem, hak, definisi, atau rantai proses harus dibaca dan diterapkan.
+##### 6.2.1 [Struktur Definisi — Subcore 3-A](../../subcore_03.010_definition_structure.md)
 
-**Bab Dua — Struktur definisi** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
+Menetapkan struktur Ontologi/Pengukuran/Penilaian/Kepatuhan (O/M/A/C), syarat keselarasan, dan aturan komponen agar istilah konstitusional tetap tepat dan konsisten.
 
-- **Yang menjadi wilayahnya:** Mendefinisikan bagaimana istilah konstitusional dibangun — struktur komponen Ontologis/Pengukuran/Penilaian/Kepatuhan (O/M/A/C), persyaratan keselarasan, dan aturan komponen yang menjaga definisi tetap tepat dan dapat dipakai di seluruh korpus.
-- **Yang dihasilkannya:** Tata bahasa bersama untuk definisi agar bab kemudian tidak jatuh ke label kabur, asumsi tersembunyi, atau bentuk istilah yang tidak cocok.
+##### 6.2.2 [Integritas Definisi — Subcore 3-B](../../subcore_03.020_definition_integrity.md)
 
-**Bab Tiga — Integritas definisi** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
+Mencegah pengelakan, pergeseran cakupan, permainan redefinisi, dan trik ketidakpatuhan yang mengosongkan definisi; menyediakan metadata serta jalur tinjauan standing dan pelanggaran ketika pengelakan terbukti.
 
-- **Yang menjadi wilayahnya:** Menjaga dari pengelakan, penggeseran cakupan, permainan pendefinisian ulang, dan trik ketidakpatuhan yang akan mengosongkan definisi di kertas sambil mengalahkannya dalam praktik.
-- **Yang dihasilkannya:** Disiplin anti-pengelakan dan metadata orientasi ketidakpatuhan — termasuk kait perutean menuju jejak dan tinjauan salah laku di mana pengelakan terbukti.
+##### 6.2.3 [Beban, Ketertelusuran, dan Verifikasi — Subcore 3-C](../../subcore_03.030_burden_traceability_verification.md)
 
-**Bab Empat — Beban, ketelusuran, dan verifikasi** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
+Membebankan pembuktian kepatuhan kepada pihak yang mengklaimnya dan mewajibkan bukti tertelusur, keteramatan, serta verifikasi yang sebanding dengan [taruhan material](../../core_00.000_preamble.md#material-stake) dan tetap dapat digugat. Hasilnya memberi masukan terverifikasi bagi Subcore 10-B dan bukti bagi sertifikasi keselarasan sistem; ia tidak menggantikan pengukuran standing.
 
-- **Yang menjadi wilayahnya:** Meletakkan beban bukti pada siapa pun yang mengklaim kepatuhan; menuntut bukti yang dapat ditelusuri, keteramatan, dan verifikasi yang diskalakan ke [**taruhan material**](#material-stake) dan tetap dapat digugat secara praktis.
-- **Apa yang dihasilkannya:** Alur verifikasi yang memasok **masukan terverifikasi** untuk [Bab Sebelas](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) dan bukti keselarasan sistem untuk [Bab Sembilan](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Alur itu tidak menggantikan pengukuran standing itu sendiri.
+#### 6.3 [Bab Empat — Hak-Hak Dasar](../../core_04.000_rights_part_a.md)
 
-**Bab Lima — Definisi dasar** ([`core_05__definitions_home.md`](../../core_03.000_definitions_home.md#chapter-five-foundational-definitions))
-
-- **Yang menjadi wilayahnya:** Memasok tumpukan definisi kanonik — pita Pengawasan, Partisipasi, Pertanggungjawaban, Kesinambungan, dan Integratif — plus [Tumpukan wewenang dan hierarki internal](../../subcore_03.080_band_integrative.md#authority-stack), [Korpus](../../subcore_03.080_band_integrative.md#corpus), dan aturan batas terkait.
-- **Yang dihasilkannya:** Kosa kata konstitusional yang tepat untuk tafsir, audit, dan putusan. Itu **tumpukan definisi**, bukan Lantai Hak; hak yang mengikat hidup di Bab Enam. Perutean ranah pemilik untuk instrumen secara keseluruhan hidup di daftar Pembukaan ini (bagian 4–7).
-
-**Bab Enam — Hak dasar** ([Bagian A](../../core_04.000_rights_part_a.md) · [Bagian B](../../core_04.010_rights_part_b.md) · [Bagian C](../../core_04.020_rights_part_c.md) · [Bagian D](../../core_04.030_rights_part_d.md))
-
-- **Yang menjadi wilayahnya:** Menyatakan Lantai Hak dalam Pasal **I–XXVII** — hal pokok kelangsungan hidup, alokasi sumber daya dan pengelolaan ketergantungan yang bertanggung jawab, martabat, keagenan, partisipasi, gugatan dan pemulihan, batasan keadilan, ketepatan waktu di bawah **Pasal XXV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*), dan aturan transisi — disusun untuk bacaan planet-lebih-dulu di empat bagian.
-- **Hasilnya:** Perlindungan hak yang tidak dapat ditawar dan jalur pemulihan yang wajib dihormati oleh Bab Tujuh sampai Lima Belas, forum, tata kelola, dan aturan amendemen, tanpa mempersempit, mengakali, atau mengosongkannya melalui prosedur atau metrik pengganti.
+Bab Empat menetapkan Lantai Hak dalam Pasal I–XXIX: kebutuhan hidup esensial; alokasi sumber daya dan pengelolaan ketergantungan; martabat, agensi, dan partisipasi; gugatan dan pemulihan; batas keadilan; ketepatan waktu berdasarkan **Pasal XXVII-C**; serta aturan transisi adopsi. Keempat bagiannya mengatur perlindungan dengan pembacaan yang mendahulukan planet. Hak-hak tersebut tidak boleh dipersempit, dielakkan, atau dikosongkan oleh prosedur maupun ukuran pengganti.
 
 <a id="7-system-and-institutional-charters-functional-independence-and-separation-of-duties"></a>
 ### 7. Piagam Sistem dan Institusi, Kemandirian Fungsional, dan Pemisahan Tugas
@@ -235,36 +228,62 @@ flowchart TB
     style C fill:none,stroke:#9333ea,color:#ffffff
 ```
 
+
+
+<a id="8-key-practical-process-pipelines"></a>
+<a id="5-key-practical-process-pipelines"></a>
+### 8. Rantai Proses Praktis Utama
+
+*Dalam bahasa sederhana: Bab Delapan sampai Dua Puluh Dua menerapkan pemisahan tugas Bab Enam sebagai satu rangkaian: mensertifikasi sistem dan institusi, mengukur bantuan dan bahaya pada dua jalur terpisah, menerapkan akibat serta pemulihan nyata, dan mencegah forum menjadi satu-satunya tempat akhir untuk klaim terhadap dirinya sendiri. Rangkaian ini membuat kewajiban konstitusional nyata dalam kehidupan sehari-hari.*
+
+Dua bab menjadi dasar rangkaian proses:
+
+- [Bab Lima](../../core_05.000_charters.md#chapter-five-system-and-institutional-charters) menerbitkan lingkup piagam dan peta kursi setiap sistem dan institusi Kelas L atau lebih tinggi.
+- [Bab Enam](../../core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) menetapkan pemisahan tugas agar tiap tindakan dapat diperiksa dengan sah: fungsi memulai, memverifikasi atau memberi wewenang, menyimpan catatan resmi, dan meninjau gugatan harus diberikan serta dipisahkan sesuai aturan skala dan independensi.
+
+Proses berikut menerapkan arsitektur itu. Masing-masing menghasilkan keluaran tersendiri yang dapat ditinjau; perannya tidak dilebur:
+
+- **Sertifikasi** memeriksa apakah sistem atau institusi selaras dalam lingkup dan jendela catatan yang dinyatakan. Bab Delapan mengatur evaluasi sistem, proses/hasil forum, Catatan Sertifikasi Sistem, dan sertifikasi ulang. Bab Sembilan mengatur kelas institusi sendiri, evaluasi, proses/hasil forum (termasuk kesiapan remediasi), Catatan Sertifikasi Institusi, dan sertifikasi ulang; verifikasi independen mendukung keputusan tersebut.
+- **Catatan Status dan pengukuran** merekam fakta terverifikasi dan menilai kontribusi serta pelanggaran secara terpisah. Bab Sepuluh mencatat fakta terverifikasi dalam Catatan Status Kontribusi dan Pelanggaran yang terpisah lalu mengukur masing-masing pada sumbunya sendiri. Kontribusi terverifikasi untuk Berkembang tidak mengimbangi, membatalkan, atau mengurangi bahaya atau kegagalan pertanggungjawaban yang terverifikasi secara terpisah.
+- **Integrasi status** mengubah klasifikasi menjadi akibat yang sepadan menurut Bab Sepuluh: jalur kontribusi mencakup izin kompetensi dan pengakuan; jalur pelanggaran mencakup kunci status, koreksi, dan pemulihan.
+- **Peninjauan salah laku** mengajukan pertanyaan tersendiri menurut Bab Empat Belas: setelah Bab Sepuluh mengukur pelanggaran tingkat tinggi, apakah perilaku itu secara mandiri memenuhi kriteria penetapan final salah laku anti-konstitusi (ACMD), setelah pengaman proses yang semestinya?
+- **Pengawasan forum** mendukung peninjauan dan koreksi menurut Bab Enam Belas dan Tujuh Belas. Forum mengawasi perutean, bukti, pemindahan, independensi forum, dan penyelesaian tepat waktu; catatan serta akibat dapat digugat, dikoreksi, dan ditegakkan tanpa membiarkan forum yang dikuasai menjadi satu-satunya hakim akhir atas perilakunya sendiri.
+
+Ringkasan pada Bagian 6 sampai 11 menyebut pemilik dan keluaran setiap bidang.
+
+<a id="81-process-map"></a>
+#### 8.1 Peta Proses
+
 ```mermaid
 flowchart TB
-    D["Bab Delapan<br/><br/>Kemandirian fungsional<br/>dan pemisahan tugas"]
-    H["Bab Tujuh<br/><br/>Piagam Sistem dan Institusi"]
-    S["Bab Sepuluh<br/><br/>Sertifikasi keselarasan sistem"]
-    I["Bab Sebelas<br/><br/>Sertifikasi keselarasan institusi"]
-    subgraph Q["Bab Dua Belas · Catatan standing dan pengukuran"]
+    D["Bab Enam<br/><br/>Independensi fungsional<br/>dan pemisahan tugas"]
+    H["Bab Lima<br/><br/>Piagam Sistem dan Institusi"]
+    S["Bab Delapan<br/><br/>Sertifikasi keselarasan sistem"]
+    I["Bab Sembilan<br/><br/>Sertifikasi keselarasan institusi"]
+    subgraph Q["Bab Sepuluh · Catatan Status dan pengukuran"]
         direction LR
         E["Bukti tentang perilaku atau hasil<br/><br/>Diverifikasi menurut Subcore 3-A sampai 3-C"]
         C["Catatan kontribusi<br/><br/>dan pengukuran"]
         V["Catatan pelanggaran<br/><br/>dan pengukuran"]
     end
-    subgraph N["Bab Dua Belas sampai Lima Belas · dampak standing"]
+    subgraph N["Bab Sepuluh sampai Tiga Belas · dampak status"]
         direction LR
         U["Pengakuan, imbalan,<br/><br/>izin kompetensi"]
-        R["Kunci standing,<br/><br/>koreksi dan pemulihan"]
+        R["Kunci status,<br/><br/>koreksi dan pemulihan"]
     end
-    M["Bab Enam Belas<br/><br/>Peninjauan pelanggaran anti-konstitusional"]
-    L["Bab Empat Belas<br/><br/>Kunci Kepercayaan Anti-Konstitusional"]
-    F["Forum Bab Delapan Belas dan Sembilan Belas<br/><br/>Pengawasan, gugatan, dan peninjauan tepat waktu"]
-    X["Bab Dua Puluh Satu dan Dua Puluh Dua<br/><br/>Penegakan: pelaksanaan hasil,<br/>penegakan khusus dalam batas"]
-    D -.->|memisahkan kewenangan pada peta kursi yang diterbitkan| H
-    H -->|menerbitkan cakupan dan kursi institusi| I
-    H -->|menerbitkan cakupan dan kursi untuk sertifikasi| S
-    D -.->|memisahkan kewenangan pada setiap tahap| I
-    D -.->|memisahkan kewenangan pada setiap tahap| E
-    D -.->|memisahkan kewenangan pada setiap tahap| F
+    M["Bab Empat Belas<br/><br/>Peninjauan salah laku anti-konstitusi"]
+    L["Bab Dua Belas<br/><br/>Kunci Kepercayaan Anti-Konstitusi"]
+    F["Forum Bab Enam Belas dan Tujuh Belas<br/><br/>Pengawasan, gugatan dan peninjauan tepat waktu"]
+    X["Bab Sembilan Belas dan Dua Puluh<br/><br/>Penegakan: pelaksanaan hasil,<br/>penegakan khusus dalam batas"]
+    D -.->|memisahkan kewenangan dalam peta kursi terbitan| H
+    H -->|menerbitkan lingkup dan kursi institusi| I
+    H -->|menerbitkan lingkup dan kursi sertifikasi| S
+    D -.->|memisahkan kewenangan di setiap tahap| I
+    D -.->|memisahkan kewenangan di setiap tahap| E
+    D -.->|memisahkan kewenangan di setiap tahap| F
     C --> U
     V --> R
-    M -->|penetapan akhir saja| L
+    M -->|hanya penetapan final| L
     V -->|temuan yang memenuhi syarat<br/>dan tuduhan| M
     S -->|bukti sertifikasi material| E
     I -->|bukti sertifikasi material| E
@@ -272,7 +291,7 @@ flowchart TB
     E -->|pelanggaran terverifikasi| V
     F -.->|mengawasi semua tahap| E
     F -.->|mengawasi sertifikasi institusi| I
-    R -->|dampak akhir dilaksanakan| X
+    R -->|dampak final dilaksanakan| X
     L -->|kunci dilaksanakan| X
     F -->|perintah dan hasil| X
     F -.->|meninjau penegakan| X
@@ -291,65 +310,30 @@ flowchart TB
     style X fill:none,stroke:#ea580c,color:#ffffff
 ```
 
-<a id="8-key-practical-process-pipelines"></a>
-<a id="5-key-practical-process-pipelines"></a>
-### 8. Rantai Proses Praktis Utama
+Rangkaian ini tetap satu proses konstitusional karena tiap tahap meneruskan hasil yang jelas dan dapat ditinjau. Batas konstitusionalnya ialah:
 
-*Sederhananya: Bab Sembilan sampai Lima Belas menerapkan kewajiban pemisahan tugas Bab Delapan dalam satu rangkaian: mensertifikasi sistem dan institusi, mengukur bantuan dan bahaya pada dua jalur terpisah, menerapkan dampak nyata dan pemulihan, serta mencegah forum menjadi satu-satunya tempat akhir untuk klaim terhadap dirinya sendiri. Rangkaian ini menjaga agar kewajiban konstitusional nyata dalam kehidupan sehari-hari.*
+- [**Tetrad Konstitusional**](../../core_00.000_preamble.md#constitutional-tetrad) mewajibkan tiap tahap tetap partisipatif, diawasi, bertanggung jawab, dan tepat waktu;
+- [**Dua Tujuan Konstitusional**](../../core_00.000_preamble.md#two-constitutional-aims) mewajibkan proses melayani **Berkembang** dan **Kesinambungan** bersama-sama; dan
+- Lantai Hak melarang tiap tahap mempersempit, melewati, atau mengosongkan perlindungan yang tidak dapat ditawar.
 
-[Bab Tujuh](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters) menerbitkan cakupan piagam dan peta kursi setiap sistem dan institusi Kelas L atau lebih tinggi. [Bab Delapan](../../core_07.000_independent_bodies.md#chapter-eight-functional-independence-and-separation-of-duties) menetapkan kewajiban pemisahan tugas agar setiap tindakan dalam rangkaian ini dapat diperiksa secara sah. Fungsi memulai, memverifikasi atau memberi wewenang, menyimpan catatan resmi, dan meninjau gugatan harus ditetapkan dan dipisahkan sesuai aturan penskalaan dan independensi yang berlaku. Bab Sembilan sampai Lima Belas kemudian menerapkan arsitektur itu secara berurutan:
+Bersama-sama, aturan ini mengubah kewajiban konstitusional menjadi catatan dan keputusan yang dapat diperiksa, digugat, diperbaiki, dan diandalkan makhluk sadar dalam praktik, bukan hanya di atas kertas.
 
-Setiap langkah di bawah menyatakan apa yang menjadi wilayah bab dan apa yang dihasilkannya. [Bagaimana rantai penuh saling pas](#51-how-the-full-chain-fits-together) kemudian menunjukkan pemilik itu sebagai satu jalur dari cek sistem ke pemulihan.
+<a id="82-how-the-full-chain-fits-together"></a>
+#### 8.2 Bagaimana Rantai Penuh Saling Terhubung
 
-**Sertifikasi keselarasan sistem** ([Bab Tujuh](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification))
+*Dalam bahasa sederhana: pisahkan kursi terlebih dahulu, lalu ikuti jalur dari pemeriksaan sistem sampai pemulihan; forum mengawasi sengketa dan langkah status di sepanjangnya.*
 
-- **Yang menjadi wilayahnya:** Memastikan sistem dengan dampak material tetap selaras secara konstitusional.
-  - Sebelum sistem yang memengaruhi makhluk sadar secara material dapat diakui atau diandalkan pada skala, bukti dikumpulkan dan ditinjau di bawah pengawasan forum
-  - Peninjauan harus mencakup:
-  - apakah sistem menghormati kebutuhan esensial untuk bertahan hidup;
-  - alokasi sumber daya dan pengelolaan ketergantungan berdasarkan **Pasal V** (*Alokasi Sumber Daya, Ketergantungan, dan Pendanaan Ekosistem*), termasuk [Proportionate Cross-System Support](../../subcore_03.075_band_continuity.md#proportionate-cross-system-support) bila ketergantungan pada infrastruktur bersama menjadi persoalan material;
-  - keselamatan;
-  - partisipasi; dan
-  - landasan konstitusional minimum lainnya.
-  - Makhluk sadar dengan jejak yang diakui dapat menggugat hasilnya
-  - Sistem berisiko tinggi harus disertifikasi ulang menurut jadwal rutin; sertifikasi tidak pernah permanen
-- **Yang dihasilkannya:** **Catatan sertifikasi keselarasan sistem** — jawaban terbatas dan dapat digugat apakah sistem itu cukup selaras untuk diakui, terus diandalkan, dikerahkan, atau dilepas dari syarat *sekarang*, dalam cakupan dan jendela waktu yang dinyatakan.
+Rangkaian penuh berjalan dalam urutan berikut:
 
-**Pengukuran jejak** ([Bab Delapan](../../subcore_10.020_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model))
+1. **Pisahkan kursi untuk setiap tindakan yang mengikat secara material** ([Bab Enam](../../core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement)): tetapkan siapa yang memulai, memverifikasi atau memberi wewenang, memegang catatan resmi, dan mendengar gugatan. Terapkan kombinasi terlarang, aturan independensi, dan jalur pengganti terbitan sebelum menganggap tindakan telah diperiksa secara sah. Jika Piagam Sistem atau Piagam Institusi diwajibkan, Peta Peran Piagam pada [Bab Lima](../../core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody) menerbitkan pemegang tiap kursi.
+2. **Sertifikasi sistem dan institusi bila dampaknya cukup serius** — sebelum Sistem berdampak tinggi dipercaya pada skala, dapatkan Catatan Sertifikasi Sistem yang dapat digugat ([Subcore 8-B](../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation)); nilai Institusi menurut kelas, perilaku, tata kelola, dan portofolionya sendiri berdasarkan [Subcore 9-B](../../subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation), lalu catat hasilnya dalam Catatan Sertifikasi Institusi.
+3. **Catat dan ukur status pada jalur terpisah** ([Subcore 10-B](../../subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) dan [Subcore 10-D](../../subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it)): ketika bantuan atau bahaya cukup serius secara konstitusional, Bab Sepuluh membuka berkas perkara resmi dan hanya menerima **masukan terverifikasi** (termasuk bukti sertifikasi keselarasan sistem Bab Delapan bila material); lalu mengukur dan mengklasifikasikan yang terverifikasi. Desas-desus, reputasi, dan kisah sengketa tidak cukup. Kontribusi dan pelanggaran tidak pernah digabung menjadi skor bersih; catatan terkait tetap terpisah meski saling merujuk.
+4. **Terapkan akibat status di setiap jalur** ([Subcore 10-F](../../subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows)): kontribusi terverifikasi dapat memberi izin kompetensi dan harus mendukung pengakuan serta imbalan material yang sepadan; pelanggaran terverifikasi dapat memicu kunci status, koreksi, dan [pemulihan bagi pihak yang dirugikan](../../core_12.000_violation_consequences.md#31-remedy-and-correction).
+5. **Lakukan peninjauan penetapan salah laku anti-konstitusi** ([Bab Empat Belas](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation)): bila temuan pelanggaran berdampak tertinggi juga mungkin memenuhi kriteria anti-konstitusi, Bab Empat Belas memutuskan apakah ACMD terkait melekat setelah pengaman proses yang semestinya. ACMD itu tidak mengubah tingkat bahaya yang sudah diukur Bab Sepuluh; akibat biasa Bab Sepuluh berjalan paralel sampai ACMD final memicu Kunci Kepercayaan Anti-Konstitusi.
+6. **Rutekan sengketa dan jaga pemulihan tetap tepat waktu** ([Bab Enam Belas](../../core_16.000_forum.md#1-purpose-role-and-scope) dan [Bab Tujuh Belas](../../core_17.000_forum_families_escalation_timeliness_support.md#chapter-seventeen-forum-families-escalation-timely-resolution-and-support)): forum mengawasi perpindahan perkara, jalur penanganannya, dan kepatuhan pada jendela waktu **Pasal XXVII-C** (*Penyelesaian Tepat Waktu dan Lantai Anti-Tunda*) agar keterlambatan tidak meniadakan pemulihan. Sengketa biasa mengikuti [urutan sengketa](../../core_16.000_forum.md#dispute-sequencing). Forum juga mengklasifikasikan sengketa ke lima [tingkat taruhan material](../../core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P) yang mencerminkan alfabet klasifikasi sistem, dari keadaan mendesak yang kritis bagi kelangsungan hidup hingga perkara privat/terbatas. Perutean bawaan keluarga Integritas berlaku bila penetapan final Bab Empat Belas adalah taruhan utama.
+7. **Laksanakan hasil** ([Bab Sembilan Belas](../../core_19.000_enforcement.md#chapter-nineteen-enforcement) dan [Bab Dua Puluh](../../core_20.000_special_enforcement.md#chapter-twenty-special-enforcement)): pihak yang disebutkan melaksanakan akibat final, kunci, pemulihan, atau perintah forum dalam jendela waktunya; hasil tidak boleh dihindari, ditunda, atau diam-diam ditinggalkan. Bila aktor yang terikat melawan, penegakan khusus berlaku dalam lantai bersama: penyitaan uang/aset dengan minimum terlindungi, tangga tekanan penyerahan standar, tangga penggunaan kekuatan yang mendahulukan cara non-mematikan, dan evaluasi akar penyebab agar kegagalan yang sama tidak berulang.
 
-- **Yang menjadi wilayahnya:** Ketika perilaku penting secara konstitusional, desas-desus dan reputasi tidak cukup. Fakta terverifikasi masuk **catatan jejak**. **Kontribusi** (bantuan menuju berkembang) dan **pelanggaran** (kegagalan pertanggungjawaban dan bahaya) diukur pada **sumbu terpisah** — perilaku baik terverifikasi tidak menghapus bahaya terverifikasi, dan keduanya tidak pernah dilipat menjadi satu skor bersih.
-- **Yang dihasilkannya:** **Catatan jejak** terklasifikasi pada Sumbu Kontribusi dan Sumbu Pelanggaran, hanya berdasarkan **masukan terverifikasi** dan temuan yang diawasi forum — bukan skoring informal atau narasi sengketa yang menggantikan klasifikasi.
-
-**Integrasi jejak dan akibat** ([Bab Sembilan](../../subcore_10.060_standing_integration.md#chapter-eleven-standing-effects-and-integration))
-
-- **Yang menjadi wilayahnya:** Mengintegrasikan klasifikasi terverifikasi menjadi **akibat jejak** dunia nyata pada jalur terpisah — diskalakan ke [**taruhan material**](#material-stake), tanpa melipat kontribusi dan pelanggaran menjadi satu skor bersih, dan tanpa mengosongkan partisipasi, pengawasan, pertanggungjawaban, atau ketepatan waktu.
-  - **Jalur kontribusi:** Klasifikasi positif terverifikasi menghasilkan keuntungan praktis:
-    - [**Izin kompetensi**](../../subcore_10.060_standing_integration.md#72-competency-bars-and-clearances) yang dapat membuka peran sensitif-kepercayaan, kewenangan delegasian, kelayakan pengawasan, dan pengelolaan bertanggung jawab dengan konsekuensi bertahap ketika kompetensi terbukti terhadap ambang kompetensi yang diterbitkan dan tidak ada [kunci standing](../../subcore_10.060_standing_integration.md#52-prevention--general-standing-locks) yang berlaku untuk menghalangi jalur bernama
-    - Pengakuan sepadan dan **imbalan material** atas pengelolaan bertanggung jawab yang sah dan kerja sama sebagaimana dituntut [Bab Satu](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration)
-    - Bukan pujian kosong. Manfaat harus nyata, didukung bukti, dan terbuka untuk digugat
-  - **Jalur pelanggaran:** Temuan pelanggaran terverifikasi menghasilkan kerugian praktis:
-    - **Kunci jejak**, batas peran, perintah remediasi, [pemulihan bagi pihak yang dirugikan](../../subcore_10.060_standing_integration.md#51-remedy-and-correction), deskriptor tambahan, dan kait penegakan
-    - Pembatasan cocok dengan keparahan apa yang terverifikasi
-    - Pelanggaran yang belum selesai tetap hidup
-    - Jalur sepadan untuk memulihkan jejak tetap tersedia bagi yang menunjukkan restitusi autentik
-    - Izin kompetensi di sisi kontribusi tidak membebaskan kunci jejak di sisi pelanggaran
-- **Yang dihasilkannya:** Akibat jejak terpisah dan terskala pada jalur Kontribusi dan Pelanggaran — izin kompetensi dan imbalan material di satu sisi; kunci jejak, koreksi, dan pemulihan di sisi lain — tidak dilipat menjadi satu skor.
-
-**Pagar pengaman salah laku anti-konstitusi** ([Bab Sepuluh](core_10_a_misconduct_designation.md#chapter-ten-anti-constitutional-misconduct))
-
-- **Yang menjadi wilayahnya:** Menangani hanya pelanggaran terverifikasi paling serius — perilaku yang mungkin telah menguasai atau mengosongkan kewajiban konstitusional pada skala. Ketika Bab Delapan sudah mencatat temuan pelanggaran berdampak tertinggi, dan salah laku anti-konstitusi dituduhkan secara material, bab ini menjalankan tinjauan penunjukan sebagai jalur gerbang Bab Sembilan sejajar dengan akibat jejak biasa Bab Sembilan.
-- **Yang dihasilkannya:** Penunjukan salah-laku-anti-konstitusi final — atau penolakan — untuk temuan berdampak tertinggi yang sudah ada itu, hanya setelah kriteria yang dituntut dan pengaman proses yang semestinya terpenuhi. Bab Delapan tetap mengukur seberapa serius bahayanya; hanya penunjukan final yang memicu **Kunci Kepercayaan Anti-Konstitusi** Bab Sembilan.
-
-**Pengawasan forum dan perutean** ([Bab Sebelas](core_11_forum.md#chapter-eleven-forums-and-jurisdiction))
-
-- **Yang menjadi wilayahnya:** Mengawasi bagaimana sengketa dan urusan sertifikasi benar-benar bergerak.
-  - [Urutan sengketa](core_11_forum.md#dispute-sequencing) dari jalur gugatan terbitan Partisipasi Sistemik Pihak Terdampak ke perutean forum
-  - Keluarga forum mana yang menanganinya, dan di mana perkara biasanya mulai
-  - Bagaimana bukti ditopang
-  - Bagaimana urusan dipindah atau digabung
-  - Bagaimana aturan anti-menilai-sendiri menjaga forum yang dikuasai agar tidak menjadi rumah akhir satu-satunya
-  - Batas waktu di bawah **Pasal XXV-C** (*Penyelesaian tepat waktu dan lantai anti-tunda*) menjaga perkara agar tidak duduk tak terselesaikan begitu lama sampai pemulihan tidak lagi berarti
-- **Yang dihasilkannya:** **Temuan terverifikasi** yang dapat membuka atau memperbarui catatan jejak, plus perutean sah menuju pemulihan dan [penyelesaian tepat waktu](../../subcore_03.070_band_accountability.md#timely-resolution-constitutional). Forum mengawasi rantai; mereka tidak menggantikan pengukuran jejak Bab Delapan.
+Setiap tahap mengarah ke bab pemiliknya agar rantai dapat ditelusuri dari sini, termasuk masukan terverifikasi potensial dari Bab Delapan ke pengukuran status.
 
 <a id="9-process-ownership-and-outputs"></a>
 ### 9. Pemilik dan Keluaran Proses
@@ -496,7 +480,10 @@ Di luar bab `core_*` bernomor, empat korpus pendamping menyelesaikan [daftar pem
 - **[corpus_institutions](../../corpus_institutions.md)** — pembentukan kelembagaan, tata kelola, pengawasan, proporsionalitas, dan disiplin pembubaran.
 - **[corpus_forum](../../corpus_forum.md)** — operasi forum: pembentukan panel, penarikan diri, jalur tinjauan, rincian perutean, dan dukungan forensik.
 
-Ketika pihak yang mengadopsi menginkorporasi mereka secara sah di bawah [Bab Enam Belas](../../core_25.000_incorporation.md), berkas ini mengikat sebagai teks implementasi dalam cakupan adopsi. Makna Konstitusi Makhluk Sadar tetap mengendalikan — mereka **mengimplementasikan, bukan mempersempit**, bab di atas. Penyematan edisi, rantai kustodi, dan aturan tidak-ada-ketidakselarasan-senyap menjaga teks yang diadopsi dapat ditelusuri ke apa yang benar-benar diratifikasi. Daftar kanonik dan aturan batas hidup di [Bab Lima — Korpus](../../subcore_03.080_band_integrative.md#corpus).
+Ketika pihak yang mengadopsi menginkorporasi mereka secara sah di bawah [Bab Dua Puluh Lima](../../core_25.000_incorporation.md), berkas ini mengikat sebagai teks implementasi dalam cakupan adopsi. Makna Konstitusi Makhluk Sadar tetap mengendalikan — mereka **mengimplementasikan, bukan mempersempit**, bab di atas. Penyematan edisi, rantai kustodi, dan aturan tidak-ada-ketidakselarasan-senyap menjaga teks yang diadopsi dapat ditelusuri ke apa yang benar-benar diratifikasi. Daftar kanonik dan aturan batas hidup di [Bab Lima — Korpus](../../subcore_03.080_band_integrative.md#corpus).
+
+
+Di antara bab dan korpus implementasi yang diadopsi terdapat **subcore**: berkas `subcore_*` yang memuat rincian penuh jaminan dan prosedur yang harus sama bagi setiap pihak yang mengadopsi. Setiap subcore milik satu bab, mengikat dengan kekuatan yang sama seperti bab itu, dan hanya dapat diubah melalui amendemen menurut [Bab Dua Puluh Tiga](../../core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity). Bab menyatakan tiap jaminan dengan kata-kata yang mudah dipahami; berkas subcore memberikan aturan lengkapnya. Sitasi menunjukkan lapisan yang dirujuk: sitasi yang dimulai dengan “Bab Sepuluh” menunjuk teks jaminan tetap, sedangkan “Subcore 8-E” menunjuk rincian yang distandardisasi; keduanya memiliki kekuatan yang sama. Definisi Bab Tiga dirujuk dengan istilah yang didefinisikan.
 
 Prinsip, definisi, hak, rantai proses, tata kelola, aturan amandemen, dan implementasi terinkorporasi harus dibaca bersama untuk menjaga tujuan pelindung Konstitusi.
 
