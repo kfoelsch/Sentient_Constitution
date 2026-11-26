@@ -31,6 +31,19 @@ The inventory is a planning and traceability aid. It does not claim any translat
 6. **Independent fluent review.** A fluent reader who did not write the draft checks it against the pinned English, resolves terminology against the locale glossary, and records findings and status. Any meaning uncertainty returns to the custodian; do not settle it by smoothing the translation.
 7. **Pilot assessment.** Review the 38-pair results for mapping accuracy, repeated failure types, review effort, glossary gaps, and tooling needs. Record the outcome and any proposed workflow changes. Do not start other chapters until the custodian accepts the pilot process and separately authorizes the next scope.
 
+## Pilot process notes for future batches
+
+The Chapters 0–1 pilot exposed several repeatable checks for later synchronization work:
+
+1. **Delegate by disjoint locale sets.** Give each subagent the same source commit, hashes, glossary, file scope, and rules to keep drafts in `project/translation_drafts/`. Assign non-overlapping locales/files, ask each agent to record source gaps and uncertainty, and run `make preflight` after its edit batch. The primary agent then integrates, checks for overlapping edits, reviews each agent’s findings, and runs the full audit.
+2. **Compare whole sections, not headings or list counts alone.** Recheck the complete current section after the first repair. Validate the actual source claims, process steps, actor/owner lists, diagrams, and cross-references; outdated prose can remain under a corrected heading. When a passage moved, remove or relocate stale copies only after history and current source identify its disposition. Preserve any still-current reader guidance when removing an obsolete splice.
+3. **Check links from the planned destination folder.** Draft paths differ from their eventual `translations/<locale>/` paths. `tools/translation_link_repair.py` accepts only files under `translations/`, so it cannot directly repair staging drafts. For draft batches, use a destination-aware checker or run the repair logic against the virtual final paths, resolve targets with `chapter_numbers.json`, locale README mappings, current files, and actual anchors, and report unresolved cases. Use a current file without a fragment when the file mapping is certain but no unique current anchor exists; never invent an anchor from an old label.
+4. **Verify generated structure directly.** For each pair, check the source IDs, one H1, expected diagram count and balanced Mermaid fences, duplicate IDs, placeholders, provenance, and file size. Then inspect any audit finding against the actual source; a green corpus audit does not by itself prove staging-draft coverage.
+5. **Keep AI coverage and human review distinct.** Subagents can draft, compare, repair structure, and prepare findings. They cannot satisfy independent fluent-reader review or create a human-review attestation. Keep every AI draft marked `unreviewed`, and leave `translations/` and its review metadata unchanged until all fluent-review and synchronization gates below are met.
+6. **Record decisions with evidence.** For ambiguous legacy material, inspect the current English, locale history, and rename/source maps. Preserve the material until a source-backed disposition is established; if none is, list the exact choice for the custodian. For link fragments without a unique current equivalent, retain the verified file destination and document why the link is at document level.
+
+These notes describe the process learned during the pilot; they do not relax the independent-review or synchronization requirements.
+
 ## Synchronization gate
 
 Only after the custodian separately authorizes synchronization may reviewed drafts replace or add files under `translations/<locale>/`. Before that move:
