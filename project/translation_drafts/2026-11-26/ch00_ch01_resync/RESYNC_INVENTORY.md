@@ -1,6 +1,6 @@
 # Chapters 0–1 translation resynchronization inventory
 
-**Status:** AI-assisted draft set assembled for all 38 locale/source pairs. Drafts are unreviewed and remain unsynchronized.
+**Status:** AI-assisted draft set exists for all 38 locale/source pairs, but source-coverage and link blockers remain. Drafts are unreviewed and remain unsynchronized.
 
 ## Pinned English source
 
@@ -59,6 +59,21 @@ Every row below has both current destination files in this folder. `Draft presen
 - The old 2026.08.09 / 2026.10.21 Preamble widget pins and obsolete non-binding source wording were removed from the Chapter 0 drafts.
 - `translations/` was not modified. No synchronization or independent fluent review is claimed.
 
+## AI review findings and synchronization blockers
+
+The following notes record structural and source-coverage checks by AI subagents. They are not independent fluent-reader reviews and do not certify translation accuracy:
+
+- [`REVIEW_B_ID_JA_KO_MR_PT_RU.md`](REVIEW_B_ID_JA_KO_MR_PT_RU.md): Chapter 1 §§5–6 retain superseded/incomplete mappings in all six locales. MR/PT/RU also have substantial §7 compression and omit most §9 owners. PT has legacy §8 material with unresolved disposition. Several historical link destinations have no unambiguous mapping.
+- [`REVIEW_C_TA_TE_TH_TR_UR_VI_ZH.md`](REVIEW_C_TA_TE_TH_TR_UR_VI_ZH.md): chapter diagrams were structurally rebuilt, but 29 unique unresolved target/anchor references per locale remain after link mapping. Legacy anchors and unmapped historical destinations require review.
+- [`REVIEW_LINK_MAPPING_AR_BN_ES_FA_FR_HI.md`](REVIEW_LINK_MAPPING_AR_BN_ES_FA_FR_HI.md): unresolved target and anchor references remain for these locales; see the per-locale tables in the note.
+- [`REVIEW_COVERAGE_AR_BN_ES_FA_FR_HI_CH01_SECTIONS_5_11.md`](REVIEW_COVERAGE_AR_BN_ES_FA_FR_HI_CH01_SECTIONS_5_11.md): §5 omits the functional-independence path in all six locales; Spanish §§7–10 have omissions or outdated owner/chapter material, and ar/bn/fa/fr/hi mislabel §8 subsections.
+- The coverage findings in [`REVIEW_C_TA_TE_TH_TR_UR_VI_ZH.md`](REVIEW_C_TA_TE_TH_TR_UR_VI_ZH.md) report that all seven locales omit the §5 functional-independence path; §8.2 uses an old process sequence, §9 omits ten current owner/output entries, §10 has old chapter numbering and omits Assemblies, and §11 omits the subcore explanation and has an old incorporation chapter number.
+
+These 38 files remain working drafts. The resynchronization plan requires independent fluent-reader review of every passage in each pair, glossary decisions, final-context link audit, and matching metadata before files may move into `translations/<locale>/`. AI review does not satisfy that gate. Accordingly, `translations/`, locale READMEs, and review status metadata were not changed.
+
 ## Remaining before synchronization
 
-A fluent reviewer must compare each full draft against this exact English pin, check meaning-sensitive terms, actors, duties, conditions, exceptions, scope, and cross-references, and confirm glossary choices. The local links and diagrams also need review in the final translation-folder context. Update locale README inventories and review metadata only after review and separate synchronization authorization. These files are working drafts, not approved translations.
+1. Complete AI source-coverage reconciliation and resolve any clear, source-backed omissions in drafts; send meaning-sensitive or ambiguous dispositions to the custodian.
+2. Resolve historical link targets and fragments against current source and locale mappings, then run the translation link audit in final destination context.
+3. Obtain independent fluent-reader review for all 19 language pairs against the pinned English sources; resolve findings and record reviewer status.
+4. Update locale README inventories, `translations/README.md`, and `translations/review_status.json` consistently, then synchronize only after all gates are satisfied.

@@ -8,15 +8,15 @@
 
 > **비작동**으로 표시된 위젯(코퍼스 내 위치, 독자 안내, 독자 지도)은 안내만을 위한 것이다. 자체 파일이나 다른 파일에서 구속력 있는 의무를 추가·삭제·축소하지 않는다.
 >
-> 이 파일은 **감지자 헌법의 일부**이며 번호가 매겨진 다른 `core_*` 파일들과 하나의 텍스트로 함께 읽을 때에만 **구속력을 갖는다**. 이 파일에는 **전문**(기초 요건)이 담겨 있다. 읽기 순서와 판본 메타데이터는 [README.md](README.md)에서 관리한다.
+> 이 파일은 **감지자 헌법의 일부**이며 번호가 매겨진 다른 `core_*` 파일들과 하나의 텍스트로 함께 읽을 때에만 **구속력을 갖는다**. 이 파일에는 **전문**(기초 요건)이 담겨 있다. 읽기 순서와 판본 메타데이터는 [README.md](../../README.md)에서 관리한다.
 >
-> **다음:** [core_01.000_constitutional_map.md](core_01.000_constitutional_map.md) (제1장, 헌정 지도).
+> **다음:** [core_01.000_constitutional_map.md](core_01_constitutional_map.md) (제1장, 헌정 지도).
 
 </details>
 
 <br>
 
-전문은 **모형**(**두 헌법 목적**, **헌법 사원(四元)**, **실질 이해관계**) 및 측정 범주의 헌법상 주관자이다. 헌법상 주관자 등록부는 [제1장](core_01.000_constitutional_map.md#chapter-one-constitutional-map), *헌정 지도*에 있다.
+전문은 **모형**(**두 헌법 목적**, **헌법 사원(四元)**, **실질 이해관계**) 및 측정 범주의 헌법상 주관자이다. 헌법상 주관자 등록부는 [제1장](core_01_constitutional_map.md#chapter-one-constitutional-map), *헌정 지도*에 있다.
 
 *쉬운 말로: 이 여는 글은 이 헌법이 고치려고 존재하는 문제를 이름 붙입니다 — 영향을 받는 이를 해치고, 숨기고, 문 밖에 잠그는 체계들 — 그리고 문서의 나머지는, 그것을 책무 있고, 점검할 수 있고, 제때인 거버넌스로 어떻게 바꾸는지를 말합니다.*
 
@@ -46,11 +46,11 @@
 
 **첫 번째 질문:** 다음 중 하나라도 공개적으로 또는 은밀하게 보상받지 못하거나 불이익을 받으면 체계는 이 질문에서 실패한다.
 
-- 선의로 문제를 보고하기 ([보호되는 보고(내부고발)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing))
+- 선의로 문제를 보고하기 ([보호되는 보고(내부고발)](../../subcore_03.070_band_accountability.md#protected-reporting-whistleblowing))
 - 결정에 이의를 제기하기
-- 잘못된 행위에 가담하기를 거부하기 ([제1장 §17.5 저항의 의무](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist))
+- 잘못된 행위에 가담하기를 거부하기 ([제1장 §17.5 저항의 의무](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist))
 
-불이익은 배제, 보복([보호 보고에 대한 보복 및 접근 방해](../../core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference)), 또는 지치게 만드는 방식일 수 있다.
+불이익은 배제, 보복([보호 보고에 대한 보복 및 접근 방해](../../subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference)), 또는 지치게 만드는 방식일 수 있다.
 
 **두 번째 질문:** 다음 중 하나라도 공개적으로 또는 은밀하게 이득을 가져오면 체계는 이 질문에서 실패한다.
 
@@ -61,19 +61,36 @@
 - 낭비
 - 부당한 비용 전가
 
-보상은 인정, 승진, 보호, 지표상 점수, 또는 못 본 체하기일 수 있다([제1장 §3.2.6 반헌법적 행위에 대한 보상 금지](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+보상은 인정, 승진, 보호, 지표상 점수, 또는 못 본 체하기일 수 있다([제1장 §3.2.6 반헌법적 행위에 대한 보상 금지](../../core_02.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
 
 두 질문 모두 무조건 동의하라는 요구가 아니다. 정직한 반대 의견, 선의의 보고, 잘못된 행위에 가담하지 않겠다는 태도는 반사회적이지 않다. 그것을 반사회적으로 취급하는 체계가 거꾸로 된 것이다. 어느 질문도 인기투표가 아니다. 무엇이 돕고 해치며 공정하고 정당한지는 이 헌법 자체의 기준으로 판단한다. 그 기준은 안전, 진실, 신뢰, 권리 바닥 안에서의 [**번영**](#flourishing)과 [**지속성**](#continuity)이다. 다수, 운영자, 또는 순간의 승인이 기준이 아니다.
 
-이 질문은 체계가 무엇에 보상하거나 벌을 줄지 결정하는 모두를 구속한다. 임금, 승진, 접근, 목표, 평점을 정하는 운영자, 기관, 책임자가 포함된다. AI를 훈련하거나 최적화하는 체계의 설계자도 포함된다. 그들의 목적과 피드백 신호는 바로 이 의미의 보상이다. 인간과 AI 책임자는 같은 기준 아래 있다([제1장 §17.1 공동 책임자 기준](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+이 질문은 체계가 무엇에 보상하거나 벌을 줄지 결정하는 모두를 구속한다. 임금, 승진, 접근, 목표, 평점을 정하는 운영자, 기관, 책임자가 포함된다. AI를 훈련하거나 최적화하는 체계의 설계자도 포함된다. 그들의 목적과 피드백 신호는 바로 이 의미의 보상이다. 인간과 AI 책임자는 같은 기준 아래 있다([제1장 §17.1 공동 책임자 기준](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
-제1장은 이 질문을 인센티브 규칙으로 구체화한다. [제1장 §19.1.1 인센티브가 해야 하는 일](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do)은 첫 질문을 뒷받침하고, [제1장 §19.1.2 인센티브가 해서는 안 되는 일](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do)은 둘째 질문을 뒷받침한다. 누군가의 주장을 믿지 말고 실제로 일어나는 일을 확인해 답하라. [인센티브 정렬](core_05_band_integrative.md#incentive-alignment)과 [대리지표 괴리](core_05_band_oversight.md#proxy-divergence)가 방법을 말하고, [**실질적 이해관계**](#material-stake)가 얼마나 깊이 살필지 정한다. 제1절의 네 의무가 답을 정직하게 지킨다.
+제1장은 이 질문을 인센티브 규칙으로 구체화한다. [제1장 §19.1.1 인센티브가 해야 하는 일](../../core_02.040_stewardship_capacity_principles.md#1911-what-incentives-must-do)은 첫 질문을 뒷받침하고, [제1장 §19.1.2 인센티브가 해서는 안 되는 일](../../core_02.040_stewardship_capacity_principles.md#1912-what-incentives-must-not-do)은 둘째 질문을 뒷받침한다. 누군가의 주장을 믿지 말고 실제로 일어나는 일을 확인해 답하라. [인센티브 정렬](../../subcore_03.080_band_integrative.md#incentive-alignment)과 [대리지표 괴리](../../subcore_03.085_band_oversight.md#proxy-divergence)가 방법을 말하고, [**실질적 이해관계**](#material-stake)가 얼마나 깊이 살필지 정한다. 제1절의 네 의무가 답을 정직하게 지킨다.
 
 ### 1. 모형
 
 *쉬운 말로: 네 의무 — 참여, 감독, 책무, 적시성 — 는 얼마나 많은 영향, 의존, 위험이 걸려 있는지에 따라 세지고, 두 목적을 함께 섬깁니다: 번영과 연속, 움직이지 않는 권리 바닥 안에서.*
 
 <a id="the-model"></a><a id="constitutional-tetrad"></a>감지자 생명을 생물적으로도 물질적으로도 받치는 핵심 체계는, [**헌법 사원(四元)**](#constitutional-tetrad)이라 부르는 네 의무 아래에서 거버넌스되고 운영된다. 그것은 그 체계가 충족해야 할 일반 의무를 밝힌다. 그 의무의 세기는 <a id="material-stake"></a>[**실질 이해관계**](#material-stake)에 달렸다: 얼마나 많은 영향, 의존, 위험이 걸려 있는가. 이해관계가 높을수록 의무는 더 세져야 한다.
+
+```mermaid
+flowchart TB
+    A["두 헌법 목적<br/><br/>번영 · 연속"]
+    T["헌법 사원(四元)<br/><br/>참여 · 감독<br/>책무 · 적시성"]
+    M["실질 이해관계<br/><br/>영향 · 의존 · 위험"]
+    R["권리 바닥<br/><br/>양보할 수 없는 보호"]
+    A -->|을 통해 추구| T
+    M -->|요구 수준을 조정| T
+    A -->|안에서 추구| R
+    T -->|안에서 작동| R
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style T fill:none,stroke:#2563eb,color:#ffffff
+    style M fill:none,stroke:#64748b,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+```
+
 
 - **참여** — 영향받는 감지자는 실제 목소리, 공정한 대표, 결정을 다툴 공정한 기회, 걸려 있는 것에 비례해 중요한 역할에 닿을 길을 얻는다
 - **감독** — 누군가 보고, 점검하고, 확인하고, 기록을 남겨 문제를 찾을 수 있게 한다; 독립 검토자는 나쁜 선택을 제약할 수 있다
@@ -85,7 +102,7 @@
 - <a id="flourishing"></a>**번영** — 진실, 안전, 신뢰성, 의미 있는 행위주체성을 통해 지속되는 감지자 복지
 - <a id="continuity"></a>**연속** — 긴 시계의 안정, 지속가능성, 회복력, 생태 복지
 
-그 목적은 함께 추구해야 하며, 언제나 이 헌법이 세운 타협 불가 원칙 제약과 권리 보호 안에 있어야 한다. [**헌법 사원(四元)**](#constitutional-tetrad)은 그 추구가 어떻게 정당성을 유지하는지를 다스린다: [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절한 **참여**, **감독**, **책무**, **적시성**. 사원(四元) 각 다리와 헌법 목적의 구속력 있는 정의는 제5장에 산다: [참여](core_05_apex_participation_leg.md#participation-constitutional), [감독](core_05_apex_oversight_leg.md#oversight-constitutional), [책무](core_05_apex_accountability_leg.md#accountability), [적시성](core_05_apex_timeliness_leg.md#timeliness-constitutional), [번영](core_05_apex_flourishing_aim.md#flourishing-constitutional), [연속](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
+그 목적은 함께 추구해야 하며, 언제나 이 헌법이 세운 타협 불가 원칙 제약과 권리 보호 안에 있어야 한다. [**헌법 사원(四元)**](#constitutional-tetrad)은 그 추구가 어떻게 정당성을 유지하는지를 다스린다: [**실질 이해관계**](#material-stake)에 맞춰 세기를 조절한 **참여**, **감독**, **책무**, **적시성**. 사원(四元) 각 다리와 헌법 목적의 구속력 있는 정의는 제5장에 산다: [참여](../../subcore_03.060_apex_participation_leg.md#participation-constitutional), [감독](../../subcore_03.055_apex_oversight_leg.md#oversight-constitutional), [책무](../../subcore_03.040_apex_accountability_leg.md#accountability), [적시성](../../subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional), [번영](../../subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional), [연속](../../subcore_03.045_apex_continuity_aim.md#continuity-aim-constitutional).
 
 <a id="2-measurements-overview"></a>
 
@@ -102,12 +119,12 @@
 
 이 헌법에 따른 측정은 시스템의 주장 자체가 아니라 실제로 하는 일에 [**두 가지 근본 질문**](#two-fundamental-questions)을 적용한다. 측정은 점수 그 자체를 위한 점수가 아니다. 감지자의 안녕과 지구의 생태적 건강에 부합하는 지속 가능하고 회복력 있으며 연민 있는 결과를 보장하는 도구다. 이 책무는 [두 헌법 목적](#two-constitutional-aims), 즉 **번영**과 **연속**을 통해 구속력을 갖는다.
 
-측정은 그 목적과 이 헌법이 정한 권리 보호에 계속 추적 가능해야 한다. 원시 처리량, 이용률, 인원수, 매출, 지연시간 및 다른 편리한 대리지표는 헌정 성과를 대체할 수 없다. [대리 지표의 괴리](subcore_03.085_band_oversight.md#proxy-divergence)가 예상되는 모든 경우에 이 금지가 적용된다.
+측정은 그 목적과 이 헌법이 정한 권리 보호에 계속 추적 가능해야 한다. 원시 처리량, 이용률, 인원수, 매출, 지연시간 및 다른 편리한 대리지표는 헌정 성과를 대체할 수 없다. [대리 지표의 괴리](../../subcore_03.085_band_oversight.md#proxy-divergence)가 예상되는 모든 경우에 이 금지가 적용된다.
 
 <a id="22-public-measurement"></a>
 #### 2.2 공공 측정
 
-[서브코어 7-D 공공정보실](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office)은 헌정 결과를 공개적으로 측정하는 주된 담당기관이다. 운영 규칙에 따라 실제 결과의 증거를 아래 측정 범주와 그 범주가 뒷받침하는 원칙에 대응시킨다. 이 측정은 [§3.1 거버넌스에서 측정 사용](#31-using-measurements-in-governance)의 공동 기준이나 포럼 역할을 대체하지 않는다.
+[서브코어 7-D 공공정보실](../../subcore_07.040_public_information_office.md#subcore-7-d-public-information-office)은 헌정 결과를 공개적으로 측정하는 주된 담당기관이다. 운영 규칙에 따라 실제 결과의 증거를 아래 측정 범주와 그 범주가 뒷받침하는 원칙에 대응시킨다. 이 측정은 [§3.1 거버넌스에서 측정 사용](#31-using-measurements-in-governance)의 공동 기준이나 포럼 역할을 대체하지 않는다.
 
 <a id="23-measurement-categories"></a>
 #### 2.3 측정 범주
@@ -118,13 +135,13 @@
 
 | 범주 | 쉬운 질문 | 하위 범주 |
 |---|---|---|
-| **[번영](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | 감지자는 삶, 안전, 필수품 접근을 실제로 보장받는가? | [안녕](subcore_03.075_band_continuity.md#wellbeing) · [안전, 해악, 위험](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [생존 기반 접근](subcore_03.075_band_continuity.md#bodily-maintenance-access) |
-| **[연속](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | 감지자와 시스템은 생태적으로, 신뢰성 있게, 실패를 넘어 지속될 수 있는가? | [생태 발자국과 환경 전제조건](subcore_03.075_band_continuity.md#ecological-footprint) · [회복력, 가역성, 시스템 위험](subcore_03.075_band_continuity.md#reversibility) · [의존성과 자원 흐름](subcore_03.075_band_continuity.md#dependency) · [시스템 간 지원](subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
-| **[참여](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | 영향을 받는 감지자는 발언, 접근, 학습, 사생활 측면에서 공정하게 참여할 수 있는가? | [공정성, 접근, 주체성](subcore_03.090_band_participation.md#substantive-fairness) · [사생활 및 데이터 관리](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
-| **[감독](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | 감지자는 시스템이 나타내는 내용을 보고 검증하고 신뢰할 수 있는가? | [진실과 인식적 무결성](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [신뢰성](subcore_03.075_band_continuity.md#trustworthiness) |
-| **[책무](subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | 보상 구조, 시장 권력, 설명 책임은 책무가 실질적으로 지켜지게 하는가? | [인센티브 정렬 및 대리지표 무결성](subcore_03.080_band_integrative.md#incentive-alignment) · [시장 구조 및 경쟁 가능성](subcore_03.070_band_accountability.md#market-structure) |
-| **[적시성](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | 구제책이 의미 있을 때까지 분쟁, 시정, 복구가 해결되는가? | [적시 해결](subcore_03.070_band_accountability.md#timely-resolution) · [지연 방지 및 해결 경로 규율](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
-| **[헌정 성과](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | 헌정 결과가 무의미한 낭비 없이 효율적으로 제공되는가? | [헌정 효율성](subcore_03.075_band_continuity.md#constitutional-efficiency) · [피할 수 있는 부담](subcore_03.075_band_continuity.md#avoidable-burden) · [생산 역량](subcore_03.075_band_continuity.md#productive-capacity) |
+| **[번영](../../subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | 감지자는 삶, 안전, 필수품 접근을 실제로 보장받는가? | [안녕](../../subcore_03.075_band_continuity.md#wellbeing) · [안전, 해악, 위험](../../subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [생존 기반 접근](../../subcore_03.075_band_continuity.md#bodily-maintenance-access) |
+| **[연속](../../subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | 감지자와 시스템은 생태적으로, 신뢰성 있게, 실패를 넘어 지속될 수 있는가? | [생태 발자국과 환경 전제조건](../../subcore_03.075_band_continuity.md#ecological-footprint) · [회복력, 가역성, 시스템 위험](../../subcore_03.075_band_continuity.md#reversibility) · [의존성과 자원 흐름](../../subcore_03.075_band_continuity.md#dependency) · [시스템 간 지원](../../subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
+| **[참여](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | 영향을 받는 감지자는 발언, 접근, 학습, 사생활 측면에서 공정하게 참여할 수 있는가? | [공정성, 접근, 주체성](../../subcore_03.090_band_participation.md#substantive-fairness) · [사생활 및 데이터 관리](../../subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
+| **[감독](../../subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | 감지자는 시스템이 나타내는 내용을 보고 검증하고 신뢰할 수 있는가? | [진실과 인식적 무결성](../../subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [신뢰성](../../subcore_03.075_band_continuity.md#trustworthiness) |
+| **[책무](../../subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | 보상 구조, 시장 권력, 설명 책임은 책무가 실질적으로 지켜지게 하는가? | [인센티브 정렬 및 대리지표 무결성](../../subcore_03.080_band_integrative.md#incentive-alignment) · [시장 구조 및 경쟁 가능성](../../subcore_03.070_band_accountability.md#market-structure) |
+| **[적시성](../../subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | 구제책이 의미 있을 때까지 분쟁, 시정, 복구가 해결되는가? | [적시 해결](../../subcore_03.070_band_accountability.md#timely-resolution) · [지연 방지 및 해결 경로 규율](../../subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
+| **[헌정 성과](../../subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | 헌정 결과가 무의미한 낭비 없이 효율적으로 제공되는가? | [헌정 효율성](../../subcore_03.075_band_continuity.md#constitutional-efficiency) · [피할 수 있는 부담](../../subcore_03.075_band_continuity.md#avoidable-burden) · [생산 역량](../../subcore_03.075_band_continuity.md#productive-capacity) |
 
 <a id="24-effect-of-the-categories"></a>
 #### 2.4 범주의 효과
@@ -135,9 +152,9 @@
 
 *쉬운 말로: 정당성에는 안전, 진실, 신뢰가 필요하고, 더하여 당신에게 영향을 미치는 체계를 배우고 그것을 돌아가게 유지하는 데 결과가 있는 역할을 맡을 실제 기회가 필요합니다.*
 
-오래가는 정당성은 [안전](core_01_a_values_principles.md#4-safety-harm-constraint), [진실](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), [신뢰](core_01_a_values_principles.md)에 달렸고, 또한 적법한 책임 있는 관리, 진실한 협력, 한정된 지향의 비례 인정에도 달렸다 — 제재와 억제만으로는 아니다. 제1장은 이 인정 차원을 [인정, 강화, 지향](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)에서 말한다.
+오래가는 정당성은 [안전](../../core_02.000_values_principles.md#4-safety-harm-constraint), [진실](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), [신뢰](../../core_02.000_values_principles.md)에 달렸고, 또한 적법한 책임 있는 관리, 진실한 협력, 한정된 지향의 비례 인정에도 달렸다 — 제재와 억제만으로는 아니다. 제1장은 이 인정 차원을 [인정, 강화, 지향](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration)에서 말한다.
 
-분산된 이해와 책임 있는 관리는, 우리에게 실질적으로 영향을 미치는 체계가 어떻게 돌아가는지를 배울 정기적이고 비례하는 기회를 감지자에게 요구한다. 더하여, 유지와 개선에서 결과가 있는 역할을 맡도록 한다 — 그리하여 역량, 수리 능력, 정당성이 우리 헌법 공동체에 넓게 퍼져 회복력, 지속가능성, 친사회적 혁신을 확보하게 한다. 그 기회는 안전, 진실, 한정된 행위주체성, 그리고 [제1장](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)이 말한 [피할 수 있는 부담](../../core_05.040_band_continuity.md#avoidable-burden)과 비례 규율을 충족해야 한다.
+분산된 이해와 책임 있는 관리는, 우리에게 실질적으로 영향을 미치는 체계가 어떻게 돌아가는지를 배울 정기적이고 비례하는 기회를 감지자에게 요구한다. 더하여, 유지와 개선에서 결과가 있는 역할을 맡도록 한다 — 그리하여 역량, 수리 능력, 정당성이 우리 헌법 공동체에 넓게 퍼져 회복력, 지속가능성, 친사회적 혁신을 확보하게 한다. 그 기회는 안전, 진실, 한정된 행위주체성, 그리고 [제1장](../../core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden)이 말한 [피할 수 있는 부담](../../subcore_03.075_band_continuity.md#avoidable-burden)과 비례 규율을 충족해야 한다.
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 거버넌스에서 측정 쓰기
@@ -157,14 +174,14 @@
 
 우리 헌법 아래에서 [**헌법 사원(四元)**](#constitutional-tetrad)을 이행하는 거버넌스에는 관련되지만 다른 두 층이 있다:
 
-- [**헌법 계약 층**](core_05_band_integrative.md#constitutional-contract-layer)은 통치 권한 자체의 수권을 다스린다 — 누가 통치할 수 있는가, 어떤 정당성 메커니즘으로, 어떤 범위와 오래가는 조건 아래에서.
-- [**영향받는 쪽의 체계 참여**](../../core_05.055_band_participation.md#stakeholder-status-and-weight)는 이미 수권된 체계, 제도, 한정된 결정 영역에 실질적으로 영향받는 감지자에게 마땅한 참여, 대표, 다툴 수 있음, [적법절차](../../core_05.035_band_accountability.md#due-process-constitutional)를 다스린다.
+- [**헌법 계약 층**](../../subcore_03.080_band_integrative.md#constitutional-contract-layer)은 통치 권한 자체의 수권을 다스린다 — 누가 통치할 수 있는가, 어떤 정당성 메커니즘으로, 어떤 범위와 오래가는 조건 아래에서.
+- [**영향받는 쪽의 체계 참여**](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight)는 이미 수권된 체계, 제도, 한정된 결정 영역에 실질적으로 영향받는 감지자에게 마땅한 참여, 대표, 다툴 수 있음, [적법절차](../../subcore_03.070_band_accountability.md#due-process-constitutional)를 다스린다.
 
 이 층들은 실무에서 겹칠 수 있다. 그 겹침이 그것들을 하나로 무너뜨리지는 않는다. 이미 수권된 체계에서 영향받는 쪽 층의 참여는 헌법 수권의 대체가 아니다. 공표된 다툼 경로, 참여 투표, 신뢰 점수는 그것만으로 누가 통치할 수 있는지를 결정하지 않는다.
 
 참여 층위의 이의제기 가능성은 이미 권한이 부여된 시스템 내부의 분쟁에 대한 통상적인 첫 단계다. 영향을 받는 센티언트는 먼저 공개된 이의제기 경로를 이용한다. 독립적인 [포럼 심사](../../core_15.000_forum.md#1-purpose-and-role--participation-architecture)는 그 경로를 대체하지 않으며, 그 경로가 계속 다투어지거나, 누락·포획되었거나, 필요한 구제를 할 수 없을 때 포럼 심사를 대신하지도 않는다. 제15장의 [분쟁 처리 순서](../../core_15.000_forum.md#dispute-sequencing)는 언제 포럼 경로 지정으로 넘어가는지 정한다.
 
-헌법 수권은 [영향받는 쪽의 체계 참여](../../core_05.055_band_participation.md#stakeholder-status-and-weight) 층 아래 마땅한 의무를 지우지도 않는다. 그 의무는 여전히 참여, 대표, [다툴 수 있음](../../core_05.035_band_accountability.md#contestability), [적법절차](../../core_05.035_band_accountability.md#due-process-constitutional)를 포함하며, 이미 수권된 체계, 제도, 한정된 결정 영역에 실질적으로 영향받는 감지자에게 적용된다.
+헌법 수권은 [영향받는 쪽의 체계 참여](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight) 층 아래 마땅한 의무를 지우지도 않는다. 그 의무는 여전히 참여, 대표, [다툴 수 있음](../../subcore_03.070_band_accountability.md#contestability), [적법절차](../../subcore_03.070_band_accountability.md#due-process-constitutional)를 포함하며, 이미 수권된 체계, 제도, 한정된 결정 영역에 실질적으로 영향받는 감지자에게 적용된다.
 
 
 

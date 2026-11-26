@@ -11,13 +11,13 @@
 >
 > 本文件**是感知者宪法的一部分**；只有与其他编号的 `core_*` 文件一并作为同一文本阅读时，才具有**约束力**。本文件包含**序言**（基础要求）。阅读顺序和版本元数据由 [README.md](README.md) 维护。
 >
-> **下游：** [core_01.000_constitutional_map.md](core_01.000_constitutional_map.md)（第一章，宪法地图）。
+> **下游：** [core_01.000_constitutional_map.md](core_01_constitutional_map.md)（第一章，宪法地图）。
 
 </details>
 
 <br>
 
-序言是**模型**（**两项宪法宗旨**、**宪法四元**和**实质利害**）以及测量类别的宪法责任主体。[第一章](core_01.000_constitutional_map.md#chapter-one-constitutional-map)《*宪法地图*》载有宪法责任主体登记册。
+序言是**模型**（**两项宪法宗旨**、**宪法四元**和**实质利害**）以及测量类别的宪法责任主体。[第一章](core_01_constitutional_map.md#chapter-one-constitutional-map)《*宪法地图*》载有宪法责任主体登记册。
 
 *用直白的话说：这篇开篇点出本宪法要纠正的问题 — 那些伤害、隐瞒或把受其影响者关在门外的系统 — 并说明文书的其余部分，就是我们如何用可问责、可核查、及时的治理来替换它。*
 
@@ -47,11 +47,11 @@
 
 **第一个问题：**如果以下任何行为没有得到奖励或遭到惩罚，无论公开还是暗中，系统就在此项上失败：
 
-- 善意报告问题（[受保护的报告（吹哨）](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing)）
+- 善意报告问题（[受保护的报告（吹哨）](../../subcore_03.070_band_accountability.md#protected-reporting-whistleblowing)）
 - 质疑决定
-- 拒绝参与不当行为（[第一章 §17.5 抵制义务](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist)）
+- 拒绝参与不当行为（[第一章 §17.5 抵制义务](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)）
 
-惩罚可能是边缘化、报复（[对受保护报告的报复与准入干扰](../../core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference)）或不断消耗其意志。
+惩罚可能是边缘化、报复（[对受保护报告的报复与准入干扰](../../subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference)）或不断消耗其意志。
 
 **第二个问题：**如果以下任何行为得到奖励，无论公开还是暗中，系统就在此项上失败：
 
@@ -62,19 +62,36 @@
 - 浪费
 - 不公平地转嫁成本
 
-奖励可能是认可、晋升、保护、指标加分或视而不见（[第一章 §3.2.6 不奖励反宪法行为](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)）。
+奖励可能是认可、晋升、保护、指标加分或视而不见（[第一章 §3.2.6 不奖励反宪法行为](../../core_02.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)）。
 
 这两个问题都不要求讨人喜欢。诚实异议、善意报告和拒绝参与不当行为并非反社会；把它们当作反社会的系统才是颠倒了。它们也不是人气测试。何为帮助、伤害、公平或正当，应由本宪法自身标准判断，即[**繁盛**](#flourishing)与[**延续**](#continuity)，并处于安全、真理、信任与权利底线之内。多数人、运营者或一时的认可都不能取代这些标准。
 
-这些问题约束所有决定系统奖励或惩罚什么的人，包括设定报酬、晋升、准入、目标和评分的运营者、机构与管理者；也包括训练或优化 AI 的系统设计者，因为其目标和反馈信号正是此处所说的奖励。人类与 AI 管理者遵循同一标准（[第一章 §17.1 共同管理标准](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)）。
+这些问题约束所有决定系统奖励或惩罚什么的人，包括设定报酬、晋升、准入、目标和评分的运营者、机构与管理者；也包括训练或优化 AI 的系统设计者，因为其目标和反馈信号正是此处所说的奖励。人类与 AI 管理者遵循同一标准（[第一章 §17.1 共同管理标准](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)）。
 
-第一章将这些问题转化为激励规则：[§19.1.1 激励必须做什么](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do)支撑第一个问题，[§19.1.2 激励不得做什么](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do)支撑第二个问题。应检查实际发生的事情，而非听信任何人的说法。[激励对齐](core_05_band_integrative.md#incentive-alignment)与[代理指标偏离](core_05_band_oversight.md#proxy-divergence)说明方法，[**实质利害**](#material-stake)决定审查深度。第1节的四项义务让答案保持诚实。
+第一章将这些问题转化为激励规则：[§19.1.1 激励必须做什么](../../core_02.040_stewardship_capacity_principles.md#1911-what-incentives-must-do)支撑第一个问题，[§19.1.2 激励不得做什么](../../core_02.040_stewardship_capacity_principles.md#1912-what-incentives-must-not-do)支撑第二个问题。应检查实际发生的事情，而非听信任何人的说法。[激励对齐](../../subcore_03.080_band_integrative.md#incentive-alignment)与[代理指标偏离](../../subcore_03.085_band_oversight.md#proxy-divergence)说明方法，[**实质利害**](#material-stake)决定审查深度。第1节的四项义务让答案保持诚实。
 
 ### 1. 模型
 
 *用直白的话说：四项义务 — 参与、监督、问责、及时性 — 随利害所系的影响、依赖与风险大小而升降，并共同服务两项宗旨：繁盛与延续，置于一条不会移动的权利底线之内。*
 
 <a id="the-model"></a><a id="constitutional-tetrad"></a>支撑感知者生命的关键系统，无论在生物层面还是物质层面，都在四项义务之下治理与运行，称为[**宪法四元**](#constitutional-tetrad)。它列出这些系统必须满足的一般义务。这些义务的强度取决于<a id="material-stake"></a>[**实质利害**](#material-stake)：涉及多少影响、依赖与风险。利害越高，义务必须越强。
+
+
+```mermaid
+flowchart TB
+    A["两项宪法宗旨<br/><br/>繁荣 · 延续"]
+    T["宪法四元<br/><br/>参与 · 监督<br/>问责 · 及时性"]
+    M["实质利害<br/><br/>影响 · 依赖 · 风险"]
+    R["权利底线<br/><br/>不可协商的保护"]
+    A -->|通过……追求| T
+    M -->|按比例调整……的要求| T
+    A -->|在……范围内追求| R
+    T -->|在……范围内运行| R
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style T fill:none,stroke:#2563eb,color:#ffffff
+    style M fill:none,stroke:#64748b,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+```
 
 - **参与** — 受影响的感知者得到真实声音、公正代表、质疑决定的公平机会，以及与利害相称的、真正起作用的角色通路
 - **监督** — 有人在看、在查、在核实、在保存记录，以便发现问题；独立审阅者可以约束错误选择
@@ -86,7 +103,7 @@
 - <a id="flourishing"></a>**繁盛** — 通过真理、安全、可信与有意义的能动性而得以持续的感知者福祉
 - <a id="continuity"></a>**延续** — 长时域稳定、可持续、韧性与生态福祉
 
-这些宗旨必须一并追求，始终处于本宪法所确立的不可妥协原则约束与权利保护之内。[**宪法四元**](#constitutional-tetrad)规定这一追求如何保持正当：按[**实质利害**](#material-stake)缩放的**参与**、**监督**、**问责**与**及时性**。四元各腿与宪法宗旨的约束性定义在第五章：[参与](core_05_apex_participation_leg.md#participation-constitutional)、[监督](core_05_apex_oversight_leg.md#oversight-constitutional)、[问责](core_05_apex_accountability_leg.md#accountability)、[及时性](core_05_apex_timeliness_leg.md#timeliness-constitutional)、[繁盛](core_05_apex_flourishing_aim.md#flourishing-constitutional)、[延续](core_05_apex_continuity_aim.md#continuity-aim-constitutional)。
+这些宗旨必须一并追求，始终处于本宪法所确立的不可妥协原则约束与权利保护之内。[**宪法四元**](#constitutional-tetrad)规定这一追求如何保持正当：按[**实质利害**](#material-stake)缩放的**参与**、**监督**、**问责**与**及时性**。四元各腿与宪法宗旨的约束性定义在第五章：[参与](../../subcore_03.060_apex_participation_leg.md#participation-constitutional)、[监督](../../subcore_03.055_apex_oversight_leg.md#oversight-constitutional)、[问责](../../subcore_03.040_apex_accountability_leg.md#accountability)、[及时性](../../subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional)、[繁盛](../../subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional)、[延续](../../subcore_03.045_apex_continuity_aim.md#continuity-aim-constitutional)。
 
 <a id="2-measurements-overview"></a>
 ### 2. 测量概览
@@ -102,12 +119,12 @@
 
 依照本宪法，测量要针对系统实际所做之事提出[**两个根本问题**](#two-fundamental-questions)，而不是针对系统的自我宣称。测量不是为分数本身而设的评分，而是确保可持续、有韧性且富有同理心的结果的工具；这些结果须符合感知者福祉与地球生态健康。该义务通过[两项宪法宗旨](#two-constitutional-aims)取得约束力：**繁盛**与**延续**。
 
-测量必须始终能够追溯到这些宗旨以及本宪法确立的权利保护。原始吞吐量、利用率、人数、收入、延迟和其他方便的替代指标，都不能取代宪法绩效。在可以预见[替代指标偏离](subcore_03.085_band_oversight.md#proxy-divergence)的任何地方，此项禁令均适用。
+测量必须始终能够追溯到这些宗旨以及本宪法确立的权利保护。原始吞吐量、利用率、人数、收入、延迟和其他方便的替代指标，都不能取代宪法绩效。在可以预见[替代指标偏离](../../subcore_03.085_band_oversight.md#proxy-divergence)的任何地方，此项禁令均适用。
 
 <a id="public-measurement"></a>
 #### 2.2 公共测量
 
-[子语料库 7-D 公共信息办公室](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office)是宪法结果的主要公共测量者。依照其运行规则的要求，它将实际结果的证据映射到这些测量类别及其服务的原则上。它所做的测量不会取代[§3.1 在治理中使用测量](#31-using-measurements-in-governance)中的共同标准或论坛职责。
+[子语料库 7-D 公共信息办公室](../../subcore_07.040_public_information_office.md#subcore-7-d-public-information-office)是宪法结果的主要公共测量者。依照其运行规则的要求，它将实际结果的证据映射到这些测量类别及其服务的原则上。它所做的测量不会取代[§3.1 在治理中使用测量](#31-using-measurements-in-governance)中的共同标准或论坛职责。
 
 <a id="measurement-categories"></a>
 #### 2.3 测量类别
@@ -118,13 +135,13 @@
 
 | 类别 | 通俗问题 | 子类别 |
 |---|---|---|
-| **[繁盛](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | 感知者的生命、安全和基本需求获取是否真正得到维系？ | [福祉](subcore_03.075_band_continuity.md#wellbeing) · [安全、伤害与风险](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [生存底线获取](subcore_03.075_band_continuity.md#bodily-maintenance-access) |
-| **[延续](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | 感知者和系统能否在生态上、可靠地并经受故障而持续存在？ | [生态足迹与环境前提条件](subcore_03.075_band_continuity.md#ecological-footprint) · [韧性、可逆性与系统性风险](subcore_03.075_band_continuity.md#reversibility) · [依赖关系与资源流动](subcore_03.075_band_continuity.md#dependency) · [跨系统支持](subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
-| **[参与](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | 受影响的感知者能否在发声、获取、学习和隐私方面公平参与？ | [公平、获取与能动性](subcore_03.090_band_participation.md#substantive-fairness) · [隐私与数据尽责管理](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
-| **[监督](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | 感知者能否看见、核验并信赖系统所呈现的内容？ | [真实与认识完整性](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [可信度](subcore_03.075_band_continuity.md#trustworthiness) |
-| **[问责](subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | 激励结构、市场权力和答责机制能否让义务落到实处？ | [激励一致性与替代指标完整性](subcore_03.080_band_integrative.md#incentive-alignment) · [市场结构与可质疑性](subcore_03.070_band_accountability.md#market-structure) |
-| **[及时性](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | 争议、纠正和修复是否在补救仍有意义时得到解决？ | [及时解决](subcore_03.070_band_accountability.md#timely-resolution) · [反拖延与解决路径纪律](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
-| **[宪法绩效](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | 宪法结果是否在避免无谓浪费的同时有效交付？ | [宪法效率](subcore_03.075_band_continuity.md#constitutional-efficiency) · [可避免负担](subcore_03.075_band_continuity.md#avoidable-burden) · [生产能力](subcore_03.075_band_continuity.md#productive-capacity) |
+| **[繁盛](../../subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | 感知者的生命、安全和基本需求获取是否真正得到维系？ | [福祉](../../subcore_03.075_band_continuity.md#wellbeing) · [安全、伤害与风险](../../subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [生存底线获取](../../subcore_03.075_band_continuity.md#bodily-maintenance-access) |
+| **[延续](../../subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | 感知者和系统能否在生态上、可靠地并经受故障而持续存在？ | [生态足迹与环境前提条件](../../subcore_03.075_band_continuity.md#ecological-footprint) · [韧性、可逆性与系统性风险](../../subcore_03.075_band_continuity.md#reversibility) · [依赖关系与资源流动](../../subcore_03.075_band_continuity.md#dependency) · [跨系统支持](../../subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
+| **[参与](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | 受影响的感知者能否在发声、获取、学习和隐私方面公平参与？ | [公平、获取与能动性](../../subcore_03.090_band_participation.md#substantive-fairness) · [隐私与数据尽责管理](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
+| **[监督](../../subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | 感知者能否看见、核验并信赖系统所呈现的内容？ | [真实与认识完整性](../../subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [可信度](../../subcore_03.075_band_continuity.md#trustworthiness) |
+| **[问责](../../subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | 激励结构、市场权力和答责机制能否让义务落到实处？ | [激励一致性与替代指标完整性](../../subcore_03.080_band_integrative.md#incentive-alignment) · [市场结构与可质疑性](../../subcore_03.070_band_accountability.md#market-structure) |
+| **[及时性](../../subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | 争议、纠正和修复是否在补救仍有意义时得到解决？ | [及时解决](../../subcore_03.070_band_accountability.md#timely-resolution) · [反拖延与解决路径纪律](../../subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
+| **[宪法绩效](../../subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | 宪法结果是否在避免无谓浪费的同时有效交付？ | [宪法效率](../../subcore_03.075_band_continuity.md#constitutional-efficiency) · [可避免负担](../../subcore_03.075_band_continuity.md#avoidable-burden) · [生产能力](../../subcore_03.075_band_continuity.md#productive-capacity) |
 
 <a id="effect-of-the-categories"></a>
 #### 2.4 类别的效力
@@ -136,9 +153,9 @@
 
 *用直白的话说：正当性需要安全、真理与信任，再加上真正的机会去学习影响你的系统，并在维持其运转中承担有后果的角色。*
 
-持久正当性取决于[安全](core_01_a_values_principles.md#4-safety-harm-constraint)、[真理](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint)与[信任](core_01_a_values_principles.md)，也取决于对合法尽责管理、诚实合作与有界志向的相称承认 — 不只靠制裁与约束。第一章在[承认、强化与志向](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration)中陈述这一承认维度。
+持久正当性取决于[安全](../../core_02.000_values_principles.md#4-safety-harm-constraint)、[真理](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint)与[信任](../../core_02.000_values_principles.md)，也取决于对合法尽责管理、诚实合作与有界志向的相称承认 — 不只靠制裁与约束。第一章在[承认、强化与志向](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration)中陈述这一承认维度。
 
-分布式理解与受托管理要求定期、适度地为有感知的存在提供机会，使其了解对自身产生重大影响的系统如何运行，并在维护和改进这些系统方面承担实质性角色。这些机会共同在我们的宪法共同体中广泛传播能力、修复能力和正当性，从而确保韧性、可持续性和促进社会福祉的创新。所有此类机会都必须符合安全、真实、受约束的自主性，以及[可避免负担](../../core_05.040_band_continuity.md#avoidable-burden)和[第一章](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden)所规定的比例原则。
+分布式理解与受托管理要求定期、适度地为有感知的存在提供机会，使其了解对自身产生重大影响的系统如何运行，并在维护和改进这些系统方面承担实质性角色。这些机会共同在我们的宪法共同体中广泛传播能力、修复能力和正当性，从而确保韧性、可持续性和促进社会福祉的创新。所有此类机会都必须符合安全、真实、受约束的自主性，以及[可避免负担](../../subcore_03.075_band_continuity.md#avoidable-burden)和[第一章](../../core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden)所规定的比例原则。
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 在治理中使用测量
@@ -156,11 +173,11 @@
 
 在我们的宪法下，为履行[**宪法四元**](#constitutional-tetrad)的治理有两层相关但不同的层：
 
-- [**宪法契约层**](core_05_band_integrative.md#constitutional-contract-layer)掌管治理权本身的授权 — 谁可以治理、凭何种正当性机制、在何种范围与持久条款之下。
-- [**受影响方的系统参与**](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster)治理对已获授权的系统、机构与有界决定域有实质影响之感知者所应得的参与、代表、可质疑性与[正当程序](../../core_05.035_band_accountability.md#due-process-constitutional)。
+- [**宪法契约层**](../../subcore_03.080_band_integrative.md#constitutional-contract-layer)掌管治理权本身的授权 — 谁可以治理、凭何种正当性机制、在何种范围与持久条款之下。
+- [**受影响方的系统参与**](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster)治理对已获授权的系统、机构与有界决定域有实质影响之感知者所应得的参与、代表、可质疑性与[正当程序](../../subcore_03.070_band_accountability.md#due-process-constitutional)。
 
 这些层在实践中可能重叠。重叠并不把它们塌成一层。已获授权系统中受影响方层面的参与，不能替代宪法授权。已公布的质疑路径、参与投票或信任分数，本身并不决定谁可以治理。
 
 对已获授权系统内部的争议，参与层面的可质疑性是通常的第一步：受影响的感知主体先使用已公布的质疑途径。独立的[论坛审查](core_11_forum.md#1-purpose-and-role--participation-architecture)不取代该途径；若争议仍未解决、途径缺失或被控制，或无法给予所需救济，该途径也不取代论坛审查。[第十五章的争议顺序](core_11_forum.md#dispute-sequencing)说明何时转由论坛分流。
 
-宪法授权也不抹去[受影响方的系统参与](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster)层下所欠的义务。这些义务仍包括参与、代表、[可质疑性](../../core_05.035_band_accountability.md#contestability)与[正当程序](../../core_05.035_band_accountability.md#due-process-constitutional)，适用于受已获授权系统、机构与有界决定域实质影响的感知者。
+宪法授权也不抹去[受影响方的系统参与](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster)层下所欠的义务。这些义务仍包括参与、代表、[可质疑性](../../subcore_03.070_band_accountability.md#contestability)与[正当程序](../../subcore_03.070_band_accountability.md#due-process-constitutional)，适用于受已获授权系统、机构与有界决定域实质影响的感知者。

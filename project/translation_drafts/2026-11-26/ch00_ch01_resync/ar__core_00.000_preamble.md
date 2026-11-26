@@ -12,13 +12,13 @@
 >
 > هذا الملف **جزء من دستور الكائنات الواعية**، وهو **ملزم فقط عند قراءته معًا** مع ملفات `core_*` المرقمة الأخرى بوصفها نصًا واحدًا. ويحتوي على **الديباجة** (المتطلبات التأسيسية). يُحافَظ على ترتيب القراءة وبيانات الإصدار في [README.md](README.md).
 >
-> **التالي:** [core_01.000_constitutional_map.md](core_01.000_constitutional_map.md) (الفصل الأول، الخريطة الدستورية).
+> **التالي:** [core_01.000_constitutional_map.md](core_01_constitutional_map.md) (الفصل الأول، الخريطة الدستورية).
 
 </details>
 
 <br>
 
-الديباجة هي صاحبة الاختصاص الدستوري في **النموذج** (**المقصدان الدستوريان** و**الرباعية الدستورية** و**الرهان المادي**) وفئات القياس. ويقع سجل المالكين الدستوريين في [الفصل الأول](core_01.000_constitutional_map.md#chapter-one-constitutional-map)، *الخريطة الدستورية*.
+الديباجة هي صاحبة الاختصاص الدستوري في **النموذج** (**المقصدان الدستوريان** و**الرباعية الدستورية** و**الرهان المادي**) وفئات القياس. ويقع سجل المالكين الدستوريين في [الفصل الأول](core_01_constitutional_map.md#chapter-one-constitutional-map)، *الخريطة الدستورية*.
 
 *بعبارات بسيطة: هذه الفتحة تسمّي المشكلة التي وُجد هذا الدستور لإصلاحها — أنظمة تؤذي من تؤثّر فيهم أو تخفي أو تُقصيهم — وتقول إن سائر الصك هو كيف نستبدل ذلك بحوكمة مسؤولة وقابلة للتحقق وفي وقتها.*
 
@@ -50,7 +50,7 @@
 
 - الإبلاغ بحسن نية عن مشكلة ([الإبلاغ المحمي (كشف المخالفات)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing))
 - الاعتراض على قرار
-- رفض المشاركة في مخالفة ([الفصل الأول §17.5 واجب المقاومة](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist))
+- رفض المشاركة في مخالفة ([الفصل الأول §17.5 واجب المقاومة](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist))
 
 وقد تكون العقوبة تهميشًا أو انتقامًا ([الانتقام من الإبلاغ المحمي والتدخل في الوصول](../../core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference)) أو إنهاكًا تدريجيًا.
 
@@ -63,19 +63,35 @@
 - الهدر
 - تحميل الآخرين الكلفة على نحو غير منصف
 
-وقد يكون المكافأة اعترافًا أو ترقية أو حماية أو رصيدًا في المقاييس أو التغاضي ([الفصل الأول §3.2.6 منع مكافأة السلوك المناهض للدستور](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+وقد يكون المكافأة اعترافًا أو ترقية أو حماية أو رصيدًا في المقاييس أو التغاضي ([الفصل الأول §3.2.6 منع مكافأة السلوك المناهض للدستور](../../core_02.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
 
 لا يطالب أي من السؤالين بالمجاملة. فالاختلاف الصادق والإبلاغ بحسن نية ورفض المشاركة في المخالفة ليست سلوكًا معاديًا للمجتمع. والنظام الذي يعاملها كذلك يقلب الأمور رأسًا على عقب. كما أن أيًا منهما ليس اختبارًا للشعبية. ويُحكم على ما يساعد أو يضر أو يكون منصفًا أو مبررًا وفق معايير هذا الدستور نفسه: [**الازدهار**](#flourishing) و[**الاستمرارية**](#continuity)، ضمن السلامة والحقيقة والثقة وأرضية الحقوق. وليست تلك المعايير ما توافق عليه أغلبية أو مشغّل أو لحظة عابرة.
 
-تلزم الأسئلة كل من يقرر ما تكافئه الأنظمة أو تعاقب عليه. ويشمل ذلك المشغلين والمؤسسات والقائمين على الرعاية ممن يحددون الأجر والترقية والوصول والأهداف والتقييمات. ويشمل أيضًا مصممي الأنظمة التي تدرّب الذكاء الاصطناعي أو تحسّنه، إذ إن أهدافها وإشارات التغذية الراجعة مكافآت بهذا المعنى تمامًا. ويخضع القائمون على الرعاية من البشر والذكاء الاصطناعي لمعيار واحد ([الفصل الأول §17.1 معيار الرعاية المشتركة](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+تلزم الأسئلة كل من يقرر ما تكافئه الأنظمة أو تعاقب عليه. ويشمل ذلك المشغلين والمؤسسات والقائمين على الرعاية ممن يحددون الأجر والترقية والوصول والأهداف والتقييمات. ويشمل أيضًا مصممي الأنظمة التي تدرّب الذكاء الاصطناعي أو تحسّنه، إذ إن أهدافها وإشارات التغذية الراجعة مكافآت بهذا المعنى تمامًا. ويخضع القائمون على الرعاية من البشر والذكاء الاصطناعي لمعيار واحد ([الفصل الأول §17.1 معيار الرعاية المشتركة](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
-يحوّل الفصل الأول هذين السؤالين إلى قواعد للحوافز: [الفصل الأول §19.1.1 ما يجب أن تفعله الحوافز](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) وراء الأول، و[الفصل الأول §19.1.2 ما يجب ألا تفعله الحوافز](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) وراء الثاني. أجب عنهما بفحص ما يحدث فعلًا، لا بتصديق الادعاءات. يوضح [مواءمة الحوافز](core_05_band_integrative.md#incentive-alignment) و[تباعد المؤشرات البديلة](core_05_band_oversight.md#proxy-divergence) الكيفية، وتحدد [**المصلحة المادية**](#material-stake) مدى التدقيق. والواجبات الأربعة في القسم 1 هي ما يبقي الإجابات نزيهة.
+يحوّل الفصل الأول هذين السؤالين إلى قواعد للحوافز: [الفصل الأول §19.1.1 ما يجب أن تفعله الحوافز](../../core_02.040_stewardship_capacity_principles.md#1911-what-incentives-must-do) وراء الأول، و[الفصل الأول §19.1.2 ما يجب ألا تفعله الحوافز](../../core_02.040_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) وراء الثاني. أجب عنهما بفحص ما يحدث فعلًا، لا بتصديق الادعاءات. يوضح [مواءمة الحوافز](../../subcore_03.080_band_integrative.md#incentive-alignment) و[تباعد المؤشرات البديلة](../../subcore_03.085_band_oversight.md#proxy-divergence) الكيفية، وتحدد [**المصلحة المادية**](#material-stake) مدى التدقيق. والواجبات الأربعة في القسم 1 هي ما يبقي الإجابات نزيهة.
 
 ### 1. النموذج
 
 *بعبارات بسيطة: أربعة واجبات — المشاركة والرقابة والمساءلة وحسن التوقيت — تتصاعد مع حجم الأثر والاعتماد والمخاطر على المحك، وتخدم مقصدين معًا: الازدهار والاستمرارية، داخل أرضية حقوق لا تتحرك.*
 
 <a id="the-model"></a><a id="constitutional-tetrad"></a>الأنظمة الحرجة التي تسند حياة الكائنات الواعية، بيولوجيًا وماديًا، تُحكَم وتُشغَّل بموجب أربعة واجبات تُسمّى [**الرباعية الدستورية**](#constitutional-tetrad). وهي تضع الواجبات العامة التي يجب أن تفي بها تلك الأنظمة. وقوة تلك الواجبات تعتمد على <a id="material-stake"></a>[**الرهان المادي**](#material-stake): كم من الأثر والاعتماد والمخاطر داخل في الأمر. كلما ارتفع الرهان، وجب أن تقوى الواجبات.
+
+```mermaid
+flowchart TB
+    A["المقصدان الدستوريان<br/><br/>الازدهار · الاستمرارية"]
+    T["الرباعية الدستورية<br/><br/>المشاركة · الرقابة<br/>المساءلة · حسن التوقيت"]
+    M["الرهان المادي<br/><br/>الأثر · الاعتماد · المخاطر"]
+    R["أرضية الحقوق<br/><br/>حمايات غير قابلة للتفاوض"]
+    A -->|يُسعي إليهما من خلال| T
+    M -->|يُدرّج متطلبات| T
+    A -->|يُسعي إليهما ضمن| R
+    T -->|تعمل ضمن| R
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style T fill:none,stroke:#2563eb,color:#ffffff
+    style M fill:none,stroke:#64748b,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+```
 
 - **المشاركة** — تحصل الكائنات الواعية المتأثرة على صوت حقيقي وتمثيل عادل وفرصة عادلة للطعن في القرارات وعلى الوصول إلى أدوار ذات شأن بنسبة ما هو على المحك
 - **الرقابة** — أحد يراقب ويتحقق ويوثّق ويحفظ سجلات حتى تُكتشَف المشكلات؛ والمراجعون المستقلون يستطيعون تقييد الخيارات السيئة
@@ -87,7 +103,7 @@
 - <a id="flourishing"></a>**الازدهار** — عافية الكائنات الواعية مستدامة عبر الحقيقة والسلامة والجدارة بالثقة والوكالة ذات المعنى
 - <a id="continuity"></a>**الاستمرارية** — استقرار الأفق الطويل والاستدامة والمرونة والعافية البيئية
 
-يجب السعي إلى هذين المقصدين معًا، دائمًا داخل قيود المبادئ غير القابلة للمساومة وحمايات الحقوق المقررة في هذا الدستور. [**الرباعية الدستورية**](#constitutional-tetrad) تحكم كيف يبقى ذلك السعي شرعيًا: **المشاركة** و**الرقابة** و**المساءلة** و**حسن التوقيت** مُقاسة على [**الرهان المادي**](#material-stake). والتعريفات الملزمة لأرجل الرباعية والمقاصد الدستورية تعيش في الفصل الخامس: [المشاركة](core_05_apex_participation_leg.md#participation-constitutional)، [الرقابة](core_05_apex_oversight_leg.md#oversight-constitutional)، [المساءلة](core_05_apex_accountability_leg.md#accountability)، [حسن التوقيت](core_05_apex_timeliness_leg.md#timeliness-constitutional)، [الازدهار](core_05_apex_flourishing_aim.md#flourishing-constitutional)، و[الاستمرارية](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
+يجب السعي إلى هذين المقصدين معًا، دائمًا داخل قيود المبادئ غير القابلة للمساومة وحمايات الحقوق المقررة في هذا الدستور. [**الرباعية الدستورية**](#constitutional-tetrad) تحكم كيف يبقى ذلك السعي شرعيًا: **المشاركة** و**الرقابة** و**المساءلة** و**حسن التوقيت** مُقاسة على [**الرهان المادي**](#material-stake). والتعريفات الملزمة لأرجل الرباعية والمقاصد الدستورية تعيش في الفصل الخامس: [المشاركة](../../subcore_03.060_apex_participation_leg.md#participation-constitutional)، [الرقابة](../../subcore_03.055_apex_oversight_leg.md#oversight-constitutional)، [المساءلة](../../subcore_03.040_apex_accountability_leg.md#accountability)، [حسن التوقيت](../../subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional)، [الازدهار](../../subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional)، و[الاستمرارية](../../subcore_03.045_apex_continuity_aim.md#continuity-aim-constitutional).
 
 <a id="2-measurements-overview"></a>
 ### 2. نظرة عامة على القياسات
@@ -103,12 +119,12 @@
 
 يطرح القياس بموجب هذا الدستور [**السؤالين الأساسيين**](#two-fundamental-questions) على ما تفعله الأنظمة فعلًا، لا على ما تدّعيه. فالقياسات ليست درجات لذاتها؛ بل أدوات لضمان نتائج مستدامة ومرنة ورحيمة، تتوافق مع عافية الكائنات الواعية وصحة الأرض البيئية. ويأخذ هذا الواجب شكله الملزم من خلال [المقصدين الدستوريين](#two-constitutional-aims): **الازدهار** و**الاستمرارية**.
 
-يجب أن تظل القياسات قابلة للتتبع إلى هذين المقصدين وإلى حماية الحقوق المقررة في هذا الدستور. ولا يجوز أن يحل تدفق الإنتاج الخام أو الاستخدام أو عدد الأفراد أو الإيرادات أو زمن الاستجابة أو غيرها من المؤشرات البديلة المريحة محل الأداء الدستوري. ويسري هذا الحظر حيثما كان [انحراف المؤشرات البديلة](subcore_03.085_band_oversight.md#proxy-divergence) متوقعًا.
+يجب أن تظل القياسات قابلة للتتبع إلى هذين المقصدين وإلى حماية الحقوق المقررة في هذا الدستور. ولا يجوز أن يحل تدفق الإنتاج الخام أو الاستخدام أو عدد الأفراد أو الإيرادات أو زمن الاستجابة أو غيرها من المؤشرات البديلة المريحة محل الأداء الدستوري. ويسري هذا الحظر حيثما كان [انحراف المؤشرات البديلة](../../subcore_03.085_band_oversight.md#proxy-divergence) متوقعًا.
 
 <a id="22-public-measurement"></a>
 #### 2.2 القياس العام
 
-[مكتب المعلومات العامة في المتن الفرعي 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) هو الجهة العامة الرئيسية لقياس النتائج الدستورية. وهو يربط أدلة النتائج الواقعية بفئات القياس هذه وبالمبادئ التي تخدمها، وفقًا لقواعد تشغيله. ولا يحل قياسه محل المعايير المشتركة أو أدوار المنتديات في [§3.1 استخدام القياسات في الحوكمة](#31-using-measurements-in-governance).
+[مكتب المعلومات العامة في المتن الفرعي 7-D](../../subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) هو الجهة العامة الرئيسية لقياس النتائج الدستورية. وهو يربط أدلة النتائج الواقعية بفئات القياس هذه وبالمبادئ التي تخدمها، وفقًا لقواعد تشغيله. ولا يحل قياسه محل المعايير المشتركة أو أدوار المنتديات في [§3.1 استخدام القياسات في الحوكمة](#31-using-measurements-in-governance).
 
 <a id="23-measurement-categories"></a>
 #### 2.3 فئات القياس
@@ -119,13 +135,13 @@
 
 | الفئة | سؤال بسيط | الفئات الفرعية |
 |---|---|---|
-| **[الازدهار](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | هل تُدعَم الكائنات الواعية فعلًا في الحياة والسلامة وإمكانية الوصول إلى الضروريات؟ | [العافية](subcore_03.075_band_continuity.md#wellbeing) · [السلامة والضرر والمخاطر](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [الوصول إلى الحد الأدنى للبقاء](subcore_03.075_band_continuity.md#bodily-maintenance-access) |
-| **[الاستمرارية](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | هل تستطيع الكائنات الواعية والأنظمة الاستمرار — بيئيًا وباعتمادية وعبر الإخفاق؟ | [البصمة البيئية والشروط البيئية المسبقة](subcore_03.075_band_continuity.md#ecological-footprint) · [المرونة وقابلية العكس والمخاطر النظامية](subcore_03.075_band_continuity.md#reversibility) · [الاعتماد وتدفقات الموارد](subcore_03.075_band_continuity.md#dependency) · [الدعم بين الأنظمة](subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
-| **[المشاركة](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | هل تستطيع الكائنات الواعية المتأثرة المشاركة بإنصاف — صوتًا ووصولًا وتعلمًا وخصوصية؟ | [الإنصاف والوصول والقدرة على الفعل](subcore_03.090_band_participation.md#substantive-fairness) · [الخصوصية والإدارة المسؤولة للبيانات](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
-| **[الرقابة](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | هل تستطيع الكائنات الواعية الرؤية والتحقق والاعتماد على ما تمثله الأنظمة؟ | [الحقيقة والنزاهة المعرفية](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [الجدارة بالثقة](subcore_03.075_band_continuity.md#trustworthiness) |
-| **[المساءلة](subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | هل تُبقي هياكل المكافآت وقوة السوق والمساءلة الواجبات حقيقية؟ | [مواءمة الحوافز ونزاهة المؤشرات البديلة](subcore_03.080_band_integrative.md#incentive-alignment) · [بنية السوق وقابلية الطعن](subcore_03.070_band_accountability.md#market-structure) |
-| **[حسن التوقيت](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | هل تُحسم النزاعات والتصحيحات والإصلاحات بينما لا يزال الانتصاف مفيدًا؟ | [الحسم في الوقت المناسب](subcore_03.070_band_accountability.md#timely-resolution) · [الانضباط ضد التأخير ومسارات الحسم](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
-| **[الأداء الدستوري](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | هل تتحقق النتائج الدستورية بكفاءة ومن دون هدر لا داعي له؟ | [الكفاءة الدستورية](subcore_03.075_band_continuity.md#constitutional-efficiency) · [العبء الممكن تجنبه](subcore_03.075_band_continuity.md#avoidable-burden) · [القدرة الإنتاجية](subcore_03.075_band_continuity.md#productive-capacity) |
+| **[الازدهار](../../subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | هل تُدعَم الكائنات الواعية فعلًا في الحياة والسلامة وإمكانية الوصول إلى الضروريات؟ | [العافية](../../subcore_03.075_band_continuity.md#wellbeing) · [السلامة والضرر والمخاطر](../../subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [الوصول إلى الحد الأدنى للبقاء](../../subcore_03.075_band_continuity.md#bodily-maintenance-access) |
+| **[الاستمرارية](../../subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | هل تستطيع الكائنات الواعية والأنظمة الاستمرار — بيئيًا وباعتمادية وعبر الإخفاق؟ | [البصمة البيئية والشروط البيئية المسبقة](../../subcore_03.075_band_continuity.md#ecological-footprint) · [المرونة وقابلية العكس والمخاطر النظامية](../../subcore_03.075_band_continuity.md#reversibility) · [الاعتماد وتدفقات الموارد](../../subcore_03.075_band_continuity.md#dependency) · [الدعم بين الأنظمة](../../subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
+| **[المشاركة](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | هل تستطيع الكائنات الواعية المتأثرة المشاركة بإنصاف — صوتًا ووصولًا وتعلمًا وخصوصية؟ | [الإنصاف والوصول والقدرة على الفعل](../../subcore_03.090_band_participation.md#substantive-fairness) · [الخصوصية والإدارة المسؤولة للبيانات](../../subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
+| **[الرقابة](../../subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | هل تستطيع الكائنات الواعية الرؤية والتحقق والاعتماد على ما تمثله الأنظمة؟ | [الحقيقة والنزاهة المعرفية](../../subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [الجدارة بالثقة](../../subcore_03.075_band_continuity.md#trustworthiness) |
+| **[المساءلة](../../subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | هل تُبقي هياكل المكافآت وقوة السوق والمساءلة الواجبات حقيقية؟ | [مواءمة الحوافز ونزاهة المؤشرات البديلة](../../subcore_03.080_band_integrative.md#incentive-alignment) · [بنية السوق وقابلية الطعن](../../subcore_03.070_band_accountability.md#market-structure) |
+| **[حسن التوقيت](../../subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | هل تُحسم النزاعات والتصحيحات والإصلاحات بينما لا يزال الانتصاف مفيدًا؟ | [الحسم في الوقت المناسب](../../subcore_03.070_band_accountability.md#timely-resolution) · [الانضباط ضد التأخير ومسارات الحسم](../../subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
+| **[الأداء الدستوري](../../subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | هل تتحقق النتائج الدستورية بكفاءة ومن دون هدر لا داعي له؟ | [الكفاءة الدستورية](../../subcore_03.075_band_continuity.md#constitutional-efficiency) · [العبء الممكن تجنبه](../../subcore_03.075_band_continuity.md#avoidable-burden) · [القدرة الإنتاجية](../../subcore_03.075_band_continuity.md#productive-capacity) |
 
 <a id="24-effect-of-the-categories"></a>
 #### 2.4 أثر الفئات
@@ -136,9 +152,9 @@
 
 *بعبارات بسيطة: الشرعية تحتاج السلامة والحقيقة والثقة، إضافة إلى فرص حقيقية لتعلّم الأنظمة التي تؤثّر فيك ولأخذ أدوار ذات عاقبة في إبقائها عاملة.*
 
-الشرعية الدائمة تعتمد على [السلامة](core_01_a_values_principles.md#4-safety-harm-constraint) و[الحقيقة](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) و[الثقة](core_01_a_values_principles.md)، وكذلك على الاعتراف المتناسب بالإدارة المسؤولة المشروعة والتعاون الصادق والطموح المحدود — لا على الجزاء والكبح وحدهما. الفصل الأول يبيّن بُعد الاعتراف هذا في [الاعتراف والتعزيز والطموح](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration).
+الشرعية الدائمة تعتمد على [السلامة](../../core_02.000_values_principles.md#4-safety-harm-constraint) و[الحقيقة](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) و[الثقة](../../core_02.000_values_principles.md)، وكذلك على الاعتراف المتناسب بالإدارة المسؤولة المشروعة والتعاون الصادق والطموح المحدود — لا على الجزاء والكبح وحدهما. الفصل الأول يبيّن بُعد الاعتراف هذا في [الاعتراف والتعزيز والطموح](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration).
 
-الفهم الموزَّع والإدارة المسؤولة يقتضيان أن تكون للكائنات الواعية فرص منتظمة ومتناسبة لتعلّم كيف تعمل الأنظمة التي تؤثّر فينا ماديًا. إضافة إلى ذلك، يمكّننا من أخذ أدوار ذات عاقبة في صيانتها وتحسينها — حتى تتوزع الكفاءة وقدرة الإصلاح والشرعية على نطاق واسع عبر مجتمعنا الدستوري لضمان المرونة والاستدامة والابتكار الاجتماعي النفع. تلك الفرص يجب أن تفي بالسلامة والحقيقة والوكالة المحدودة وبانضباط [العبء القابل للتجنّب](../../core_05.040_band_continuity.md#avoidable-burden) والتناسب المذكور في [الفصل الأول](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden).
+الفهم الموزَّع والإدارة المسؤولة يقتضيان أن تكون للكائنات الواعية فرص منتظمة ومتناسبة لتعلّم كيف تعمل الأنظمة التي تؤثّر فينا ماديًا. إضافة إلى ذلك، يمكّننا من أخذ أدوار ذات عاقبة في صيانتها وتحسينها — حتى تتوزع الكفاءة وقدرة الإصلاح والشرعية على نطاق واسع عبر مجتمعنا الدستوري لضمان المرونة والاستدامة والابتكار الاجتماعي النفع. تلك الفرص يجب أن تفي بالسلامة والحقيقة والوكالة المحدودة وبانضباط [العبء القابل للتجنّب](../../core_05.040_band_continuity.md#avoidable-burden) والتناسب المذكور في [الفصل الأول](../../core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden).
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 استخدام القياسات في الحوكمة
@@ -156,7 +172,7 @@
 
 للحوكمة التي تفي بـ[**الرباعية الدستورية**](#constitutional-tetrad) تحت دستورنا طبقتان مرتبطتان لكن متمايزتان:
 
-- [**طبقة العقد الدستوري**](core_05_band_integrative.md#constitutional-contract-layer) تحكم ترخيص سلطة الحكم ذاتها — من يجوز له أن يحكم، وبأي آلية شرعية، وتحت أي نطاق وشروط دائمة.
+- [**طبقة العقد الدستوري**](../../subcore_03.080_band_integrative.md#constitutional-contract-layer) تحكم ترخيص سلطة الحكم ذاتها — من يجوز له أن يحكم، وبأي آلية شرعية، وتحت أي نطاق وشروط دائمة.
 - [**المشاركة النظامية للأطراف المتأثرة**](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) تحكم المشاركة والتمثيل وقابلية الطعن و[الإجراءات الواجبة](../../core_05.035_band_accountability.md#due-process-constitutional) المستحقة للكائنات الواعية المتأثرة ماديًا بأنظمة ومؤسسات ونطاقات قرار محدودة سبق الترخيص لها.
 
 قد تتداخل هذه الطبقات في الممارسة. ذلك التداخل لا يدمجها في واحدة. المشاركة على مستوى الأطراف المتأثرة في أنظمة سبق الترخيص لها ليست بديلًا عن الترخيص الدستوري. مسار طعن منشور أو تصويت مشاركة أو درجة ثقة لا يقرر وحده من يجوز له أن يحكم.

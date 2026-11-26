@@ -10,15 +10,15 @@
 >
 > Bu dosya **Algılayan Anayasası'nın bir parçasıdır** ve numaralı diğer `core_*` dosyaları ile subcore birlikte tek bir metin olarak okunduğunda **bağlayıcıdır**. Bu dosya **Birinci Bölümü**, *Anayasal Harita'yı* içerir: amacı (§1), neden var olduğu (§2), dosyalarının nasıl bir araya geldiği (§3), sonraki bölümlerin dayanakları (§4), temel yönetişim süreçleri (§5) ve anayasal sorumlu sicili (§6–§11).
 >
-> **Önceki:** [core_00.000_preamble.md](core_00.000_preamble.md) (Önsöz)
-> **Sonraki:** [core_02.000_values_principles.md](core_02.000_values_principles.md)
+> **Önceki:** [core_00.000_preamble.md](core_01_constitutional_map.md) (Önsöz)
+> **Sonraki:** [core_02.000_values_principles.md](../../core_02.000_values_principles.md)
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Önceki: [Önsöz](core_00.000_preamble.md) (*Model, İki Anayasal Amaç, Anayasal Dörtlü, maddi pay ve ölçüm kategorileri*).
+- Önceki: [Önsöz](core_01_constitutional_map.md) (*Model, İki Anayasal Amaç, Anayasal Dörtlü, maddi pay ve ölçüm kategorileri*).
 - Alt bölümler:
   - [§1](#1-purpose-role-and-scope);
   - [§2](#2-why-the-map-exists);
@@ -31,7 +31,7 @@
   - [§9](#9-process-ownership-and-outputs);
   - [§10](#10-governance-change-and-incorporation);
   - [§11](#11-adopted-implementation-corpus).
-- Şunlarla birlikte okuyun: [Yetki Hiyerarşisi ve İç Düzen](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*sorumlu sicilinin uygulanması*); [README.md](README.md) (*okuma sırası*).
+- Şunlarla birlikte okuyun: [Yetki Hiyerarşisi ve İç Düzen](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*sorumlu sicilinin uygulanması*); [README.md](README.md) (*okuma sırası*).
 </details>
 
 <br>
@@ -43,7 +43,7 @@
 
 **Amaç:** Birinci Bölüm genel görünümü ve sorumluluk rehberini sunar. Yetkilendirilmiş yönetişimi sınayan süreçleri adlandırır, hangi esas alanın hangi bölüme ait olduğunu belirtir ve anayasal metnin üç katmanını açıklar.
 
-**Rol:** Bu bölüm yönlendirme ve sorumluluk belirleme işlevi görür. Diğer bölümlerin ve [Yetki Hiyerarşisi ve İç Düzenin](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) uyguladığı sorumlu sicili dışında kendi başına bir yükümlülük getirmez.
+**Rol:** Bu bölüm yönlendirme ve sorumluluk belirleme işlevi görür. Diğer bölümlerin ve [Yetki Hiyerarşisi ve İç Düzenin](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) uyguladığı sorumlu sicili dışında kendi başına bir yükümlülük getirmez.
 
 **Bölümün kapsamı:**
 
@@ -63,21 +63,21 @@ Anayasa görevlerini çok sayıda bölüm, bir alt-külliyat ve kabul edilmiş d
 **Dayanakları:**
 
 - Önsöz:
-  - [Anayasal Dörtlü](core_00.000_preamble.md#constitutional-tetrad): bu bölümün uygulamaya taşıdığı işlevler:
-    - [Katılım](subcore_03.060_apex_participation_leg.md#participation): algılayan, sorusunu yanıtlayan kuralı bulabilir;
-    - [Hesap verebilirlik](subcore_03.040_apex_accountability_leg.md#accountability): her konunun yanıt veren bir sorumlu bölümü vardır;
-    - [Gözetim](subcore_03.055_apex_oversight_leg.md#oversight): okur parçaların ilişkisini görüp boşluk veya çakışmayı fark edebilir;
-    - [Zamanındalık](subcore_03.065_apex_timeliness_leg.md#timeliness): okur doğru kurala gecikmeden ulaşır;
-  - [İki Anayasal Amaç](core_00.000_preamble.md#two-constitutional-aims): bu bölümün hizmet ettiği iki amaç:
-    - [Gelişim](core_00.000_preamble.md#flourishing): algılayanlar metinde yollarını bulabilirse Anayasa işlevini yerine getirir;
-    - [Süreklilik](core_00.000_preamble.md#continuity): açık bir harita, metin büyüyüp değişirken bütünlüğünü korur;
+  - [Anayasal Dörtlü](core_00_preamble.md#constitutional-tetrad): bu bölümün uygulamaya taşıdığı işlevler:
+    - [Katılım](../../subcore_03.060_apex_participation_leg.md#participation): algılayan, sorusunu yanıtlayan kuralı bulabilir;
+    - [Hesap verebilirlik](../../subcore_03.040_apex_accountability_leg.md#accountability): her konunun yanıt veren bir sorumlu bölümü vardır;
+    - [Gözetim](../../subcore_03.055_apex_oversight_leg.md#oversight): okur parçaların ilişkisini görüp boşluk veya çakışmayı fark edebilir;
+    - [Zamanındalık](../../subcore_03.065_apex_timeliness_leg.md#timeliness): okur doğru kurala gecikmeden ulaşır;
+  - [İki Anayasal Amaç](core_00_preamble.md#two-constitutional-aims): bu bölümün hizmet ettiği iki amaç:
+    - [Gelişim](core_00_preamble.md#flourishing): algılayanlar metinde yollarını bulabilirse Anayasa işlevini yerine getirir;
+    - [Süreklilik](core_00_preamble.md#continuity): açık bir harita, metin büyüyüp değişirken bütünlüğünü korur;
 - İkinci Bölüm ilkeleri:
-  - [§5.2 Açık Dilde Erişilebilirlik (Katılım ve Sorumlu Yönetim Görevi)](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
-  - [§5.2.4 Karmaşıklığın Engelleme Olarak Kullanılmasına Karşı Disiplin](core_02.000_values_principles.md#524-complexity-as-defeat-discipline);
-  - [§15.4 Anayasal Anlam Çatışmalarının Çözümü](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
+  - [§5.2 Açık Dilde Erişilebilirlik (Katılım ve Sorumlu Yönetim Görevi)](../../core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
+  - [§5.2.4 Karmaşıklığın Engelleme Olarak Kullanılmasına Karşı Disiplin](../../core_02.000_values_principles.md#524-complexity-as-defeat-discipline);
+  - [§15.4 Anayasal Anlam Çatışmalarının Çözümü](../../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
 - Dördüncü Bölüm maddeleri:
-  - [Madde XXIV-A](core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Orantılı Anlaşılabilirlik Hakkı*);
-  - [Madde XXIV-B](core_04.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*Karmaşıklık Denetimi ve Modülerlik Gereklilikleri*).
+  - [Madde XXIV-A](../../core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Orantılı Anlaşılabilirlik Hakkı*);
+  - [Madde XXIV-B](../../core_04.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*Karmaşıklık Denetimi ve Modülerlik Gereklilikleri*).
 
 <a id="3-how-the-files-fit-together"></a>
 ### 3. Dosyalar Nasıl Birleşir
@@ -88,7 +88,7 @@ Anayasa dosyaları şu şekilde bir araya gelir:
 - **Alt-külliyat (`subcore_*`):** Bölümlerin arkasındaki kuralların ve usullerin tamamını verir. Her dosya bir bölüme aittir, o bölümle aynı kuvvettedir ve ayrıca dahil edilmeyi gerektirmeden her kabul edeni bağlar. Alt-külliyat kendi bölümünü daraltamaz.
 - **Uygulama (`corpus_*`):** Dört dosya, Anayasa’nın uygulanmasına ilişkin operasyonel ayrıntıları verir. Geçerli dahil etmenin kapsamı içinde bağlayıcıdır ve Anayasa’yı daraltmadan uygular. [§11](#11-adopted-implementation-corpus) bu dört dosyayı belirtir.
 
-Tanımlı [Külliyat](subcore_03.080_band_integrative.md#corpus), bağlayıcı anayasal kaynakların daha geniş, sürümlenmiş kümesidir: çekirdeği, alt-külliyatı, kabul edilmiş uygulama metnini ve geçiş sırasında geçerli uyumluluk sarmalayıcılarını kapsar. Taslaklar, notlar ve gezinme rehberleri sırf projede yer aldıkları için bağlayıcı olmaz.
+Tanımlı [Külliyat](../../subcore_03.080_band_integrative.md#corpus), bağlayıcı anayasal kaynakların daha geniş, sürümlenmiş kümesidir: çekirdeği, alt-külliyatı, kabul edilmiş uygulama metnini ve geçiş sırasında geçerli uyumluluk sarmalayıcılarını kapsar. Taslaklar, notlar ve gezinme rehberleri sırf projede yer aldıkları için bağlayıcı olmaz.
 
 <a id="4-foundations-for-the-chapters-that-follow"></a>
 ### 4. Sonraki Bölümlerin Dayanakları
@@ -105,17 +105,17 @@ Tanımlı [Külliyat](subcore_03.080_band_integrative.md#corpus), bağlayıcı a
 
 <a id="5-key-governance-processes"></a>
 <a id="32-key-governance-processes"></a>
-#### 5 Temel yönetişim süreçleri
+### 5 Temel yönetişim süreçleri
 
 *Yalın dille: metin istediğinde, maddi meseleler belgelendirme, yardım ve zararın yazılı kayıtları, düzeltme ve çare ve saatli forum incelemesinden geçer — olağan uyuşmazlıklar önce yayımlanmış itiraz yolunu kullanır; bu yollar yetkilendirilmiş yönetişimi dener; onu tek başlarına yaratmaz.*
 
-Altıncı Bölüm, [Dokuzuncu Bölüm](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), içerilmiş belgeler ya da diğer anayasal hükümler açıkça istediğinde, maddi anayasal meseleleri aşağıdaki yollardan birine ya da birkaçına alın. [Temel Uygulamalı Süreç Zincirleri](#6-key-practical-process-pipelines) ölçümü kayıtlara, belgelendirmeye, doğrulanmış girdilere, sınıflamaya, forum gözetimine, düzeltmeye ve zamanında çareye çevirir — yetkilendirilmiş yönetişimin pratikte nasıl denendiği, itiraz edildiği ve onarıldığı. Yönetişimi tek başlarına yetkilendirmezler; yönetişimi incelenebilir, itiraz edilebilir, düzeltilebilir ve zamanında kılarlar. [Bölüm 5.1](#62-how-the-full-chain-fits-together) bu zinciri tam belirtir.
+Altıncı Bölüm, [Dokuzuncu Bölüm](../../core_08.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification), içerilmiş belgeler ya da diğer anayasal hükümler açıkça istediğinde, maddi anayasal meseleleri aşağıdaki yollardan birine ya da birkaçına alın. [Temel Uygulamalı Süreç Zincirleri](#6-key-practical-process-pipelines) ölçümü kayıtlara, belgelendirmeye, doğrulanmış girdilere, sınıflamaya, forum gözetimine, düzeltmeye ve zamanında çareye çevirir — yetkilendirilmiş yönetişimin pratikte nasıl denendiği, itiraz edildiği ve onarıldığı. Yönetişimi tek başlarına yetkilendirmezler; yönetişimi incelenebilir, itiraz edilebilir, düzeltilebilir ve zamanında kılarlar. [Bölüm 5.1](#62-how-the-full-chain-fits-together) bu zinciri tam belirtir.
 
-- **Sistem hizalama belgelendirmesi** ([Dokuzuncu Bölüm](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — yüksek etkili bir sisteme ölçekte güvenilmeden önce, şu anda ona bel bağlamanın anayasal olarak güvenli olup olmadığına dair kanıt toplayın ve inceleyin
+- **Sistem hizalama belgelendirmesi** ([Dokuzuncu Bölüm](../../core_08.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — yüksek etkili bir sisteme ölçekte güvenilmeden önce, şu anda ona bel bağlamanın anayasal olarak güvenli olup olmadığına dair kanıt toplayın ve inceleyin
 - **Durum kayıtları** ([On Birinci Bölüm](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)) — davranış veya zarar anayasal bakımdan önemliyse doğrulanmış olguları resmî katkı ya da ihlal dosyalarına kaydedin; söylenti ve itibar yeterli değildir.
 - **Düzeltme ve giderim** ([On Üçüncü Bölüm §5.1 (*Giderim ve düzeltme*)](../../core_13.000_standing_integration.md#51-remedy-and-correction)) — altta yatan başarısızlığı düzeltin ve zarar görenlere orantılı kabul, onarım, eski hâle getirme veya tazmin sağlayın.
 - **Forum incelemesi** ([On Beşinci Bölüm](core_11_forum.md#1-purpose-and-role--participation-architecture))
-  - Zaten yetkilendirilmiş sistemlerin içindeki olağan uyuşmazlıklar önce yayımlanmış [Etkilenen Tarafların Sistem Katılımı](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) itiraz yolunu kullanır
+  - Zaten yetkilendirilmiş sistemlerin içindeki olağan uyuşmazlıklar önce yayımlanmış [Etkilenen Tarafların Sistem Katılımı](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster) itiraz yolunu kullanır
   - Bu yol hâlâ itiraz ediliyorsa, eksikse, ele geçirilmişse ya da rahatlama veremiyorsa, birincil paya göre gözetimli forumlardan yönlendirin
   - Bu forumlar **Madde XXV-C** (*Zamanında çözüm ve gecikme karşıtı taban*) altında kanıtı, yasal aktarımı ve zamanında saatleri destekler
 <a id="4-principles-definitions-and-rights"></a>
@@ -123,13 +123,13 @@ Altıncı Bölüm, [Dokuzuncu Bölüm](../../core_09.000_system_alignment_certif
 
 *Yalın dille: Birinci Bölümden Altıncı Bölüme değerler, sözcüklerin nasıl kurulup denetlendiği, sözlük ve Hak Tabanı aittir; sonraki bölümler bu evlere saygı göstermelidir, onları sessizce taşımamalıdır.*
 
-**4. ile 7. bölümler** bu Anayasanın **olumlu sahip sicilidir**: her blok, bölümünün (ya da yoldaş corpusunun) sahiplendiği maddi alanı ve ne ürettiğini adlandırır. Bağlayıcı tek satırlık sahip iddiaları her numaralı bölüm açılışında da görünür. Diğer katmanlar bir sahibe işaret edebilir — onu sessizce yeniden yazmamalı ya da yerini değiştirmemelidir; bu yer-değiştirmeme disiplini [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#authority-stack) altında yaşar.
+**4. ile 7. bölümler** bu Anayasanın **olumlu sahip sicilidir**: her blok, bölümünün (ya da yoldaş corpusunun) sahiplendiği maddi alanı ve ne ürettiğini adlandırır. Bağlayıcı tek satırlık sahip iddiaları her numaralı bölüm açılışında da görünür. Diğer katmanlar bir sahibe işaret edebilir — onu sessizce yeniden yazmamalı ya da yerini değiştirmemelidir; bu yer-değiştirmeme disiplini [Yetki yığını ve iç hiyerarşi](../../subcore_03.080_band_integrative.md#authority-stack) altında yaşar.
 
 **Birinci Bölümden Altıncı Bölüme** sonraki her şeyin saygı göstermesi gereken değerleri, sözlüğü, doğrulama makinesini ve Hak Tabanını sağlar — 5. bölümdeki [Temel Uygulamalı Süreç Zincirleri](#6-key-practical-process-pipelines), 6. bölümdeki yönetişim ve değişiklik-yolu bölümleri ve 7. bölümdeki [yoldaş uygulama corpusu](#7-companion-implementation-corpus) dahil.
 
 Her özet, bölümün ne sahiplendiğini ve ne ürettiğini belirtir.
 
-**Birinci Bölüm — Değerler, ilkeler ve sorumlu yönetim** ([A Kısmı](core_01_a_values_principles.md) · [B Kısmı](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C Kısmı](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**Birinci Bölüm — Değerler, ilkeler ve sorumlu yönetim** ([A Kısmı](../../core_02.000_values_principles.md) · [B Kısmı](../../core_02.020_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [C Kısmı](../../core_02.040_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **Sorumluluk alanı:** Anayasanın yol gösterici değerlerini ve kısıtlarını belirler; bunlara şunlar dahildir:
   - esenlik, hakkaniyet, Güvenlik, Hakikat, Güven ve sınırlandırılmış özgürlük;
@@ -138,7 +138,7 @@ Her özet, bölümün ne sahiplendiğini ve ne ürettiğini belirtir.
   - anlayışın yaygınlaştırılması, sistemik değerlendirme ve yönetişim disiplini dâhil emanet sorumlulukları.
 - **Ürettiği:** Sonraki tüm bölümlerin yorumlama temelidir. Sistemler, haklar, tanımlar veya süreç yolları okunup uygulanırken bu kurallar üst düzey amaçları işler gerekliliklere dönüştürür.
 
-**İkinci Bölüm — Tanım yapısı** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
+**İkinci Bölüm — Tanım yapısı** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
 
 - **Görev alanı:** Anayasal terimlerin nasıl oluşturulacağını şu yollarla tanımlar:
   - Ontolojik/Ölçüm/Değerlendirme/Uygunluk (O/M/A/C) bileşen yapısı;
@@ -146,7 +146,7 @@ Her özet, bölümün ne sahiplendiğini ve ne ürettiğini belirtir.
   - tanımları tüm külliyatta kesin ve kullanılabilir tutan bileşen kuralları.
 - **Ürettiği:** Sonraki bölümlerin muğlak etiketlere, gizli varsayımlara veya birbiriyle bağdaşmayan terim biçimlerine düşmemesi için tanımlara ortak bir dilbilgisi sağlar.
 
-**Üçüncü Bölüm — Tanım bütünlüğü** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
+**Üçüncü Bölüm — Tanım bütünlüğü** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
 
 - **Görev alanı:** Şunlara karşı koruma sağlar:
   - kaçınma ve kapsam kaydırma;
@@ -154,22 +154,22 @@ Her özet, bölümün ne sahiplendiğini ve ne ürettiğini belirtir.
   - tanımları kâğıt üzerinde içi boşaltıp uygulamada etkisizleştiren uyumsuzluk hileleri.
 - **Ürettiği:** Kaçınmayı önleyen disiplin ve uyumsuzluğa ilişkin yönlendirme üstverisi; kaçınma kanıtlandığında statü ve kötü davranış incelemesine sevk yolları da buna dahildir.
 
-**Dördüncü Bölüm — Yük, izlenebilirlik ve doğrulama** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
+**Dördüncü Bölüm — Yük, izlenebilirlik ve doğrulama** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
 
 - **Görev alanı:**
   - uyum iddiasında bulunan kişiye ispat yükü verir; ve
   - [**maddi menfaatin önemine**](#material-stake) uygun, izlenebilir kanıt, gözlemlenebilirlik ve doğrulama ister; bunlara uygulamada itiraz edilebilmelidir.
-- **Ürettiği:** [On Birinci Bölüm](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) için **doğrulanmış girdileri**, [Dokuzuncu Bölüm](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) için sistem uyumu kanıtını sağlayan doğrulama hattı. Durum ölçümünün kendisinin yerini almaz.
-**Beşinci Bölüm — Temel tanımlar** ([`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions))
+- **Ürettiği:** [On Birinci Bölüm](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) için **doğrulanmış girdileri**, [Dokuzuncu Bölüm](../../core_08.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) için sistem uyumu kanıtını sağlayan doğrulama hattı. Durum ölçümünün kendisinin yerini almaz.
+**Beşinci Bölüm — Temel tanımlar** ([`core_05__definitions_home.md`](../../core_03.000_definitions_home.md#chapter-five-foundational-definitions))
 
 - **Görev alanı:** Şunları sağlar:
   - kanonik tanım yığını: Gözetim, Katılım, Hesap Verebilirlik, Süreklilik ve Bütünleştirici katmanları;
-  - [Yetki yığını ve iç hiyerarşi](core_05_band_integrative.md#authority-stack-and-internal-hierarchy);
-  - [Külliyat](core_05_band_integrative.md#corpus); ve
+  - [Yetki yığını ve iç hiyerarşi](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy);
+  - [Külliyat](../../subcore_03.080_band_integrative.md#corpus); ve
   - ilgili sınır kuralları.
 - **Ürettiği:** Yorumlama, denetim ve hükme bağlama için kesin anayasal terimler. Bu, **tanım yığınıdır**; Haklar Tabanı değildir. Bağlayıcı Haklar Tabanı Altıncı Bölüm’de yer alır. Anayasanın tümü için sahiplik alanlarına yönlendirme bu Önsöz kayıt bölümündedir (4–9. bölümler).
 
-**Altıncı Bölüm — Temel haklar** ([A Kısmı](core_06_rights_part_a.md) · [B Kısmı](core_06_rights_part_b.md) · [C Kısmı](core_06_rights_part_c.md) · [D Kısmı](core_06_rights_part_d.md))
+**Altıncı Bölüm — Temel haklar** ([A Kısmı](../../core_04.000_rights_part_a.md) · [B Kısmı](../../core_04.010_rights_part_b.md) · [C Kısmı](../../core_04.020_rights_part_c.md) · [D Kısmı](../../core_04.030_rights_part_d.md))
 
 - **Görev alanı:** **I–XXVIII. Maddelerde** Haklar Tabanı’nı belirler; şunları kapsar:
   - yaşam için zorunlu ihtiyaçlar;
@@ -185,19 +185,19 @@ Her özet, bölümün ne sahiplendiğini ve ne ürettiğini belirtir.
 
 <a id="7-system-and-institutional-charters-functional-independence-and-separation-of-duties"></a>
 <a id="5-system-and-institutional-charters-functional-independence-and-separation-of-duties"></a>
-### 7. System and Institutional Charters, Functional Independence, and Separation of Duties
+### 7. Sistem ve Kurum Şartları, İşlevsel Bağımsızlık ve Görevlerin Ayrılığı
 
 *Basitçe: Gerçek etkisi olan bir sistem veya kurum, ne yapabileceğini ve her koltuğun sahibini belirten bir Sistem Şartı ya da Kurum Şartı yayımlar. Maddi bakımdan bağlayıcı bir işlem ilerlemeden önce, işlemi kimin başlatacağı, kimin denetleyeceği veya yetkilendireceği, resmî kaydı kimin tutacağı ve itirazı kimin inceleyeceği ayrıştırılır. Roller ortama göre ölçeklenebilir; ancak aynı aktör ve onun kontrol hattı kendi işlemini denetleyen koltukları sessizce tutamaz.*
 
-- **Ürettiği şey:** Kapsamı ve koltuk yerleşimini açıklayan, yayımlanmış ve sürümlenmiş bir beyan; Sekizinci Bölüm, sertifikasyon, statü kayıtları ve forumlar davranışı buna göre sınayabilir. Yedinci Bölüm [`core_07.000_charters.md`](core_07_charters.md#chapter-seven-system-and-institutional-charters) dosyasındadır.
+- **Ürettiği şey:** Kapsamı ve koltuk yerleşimini açıklayan, yayımlanmış ve sürümlenmiş bir beyan; Sekizinci Bölüm, sertifikasyon, statü kayıtları ve forumlar davranışı buna göre sınayabilir. Yedinci Bölüm [`core_07.000_charters.md`](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters) dosyasındadır.
 
 **İşlevsel bağımsızlık ve görevlerin ayrılması** — maddi bağlayıcılığı olan bir işlem ilerlemeden önce, geçerli ölçeklendirme ve bağımsızlık kuralları uyarınca başlatma, doğrulama veya yetkilendirme, kayıt ve itiraz inceleme koltuklarını belirleyip ayırın.
 
-**Maddi açıdan bağlayıcı her eylem için koltukları ayrı tutun** ([Sekizinci Bölüm](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)): eylemi kimin başlattığını, kimin doğruladığını veya yetkilendirdiğini, resmî kaydı kimin tuttuğunu ve itirazı kimin dinlediğini belirleyin. Eylemin usulüne uygun biçimde denetlendiğini kabul etmeden önce yasaklanan görev birleşimlerini, bağımsızlık kurallarını ve yayımlanmış yedek yolu uygulayın. Sistem Şartı veya Kurum Şartı gerektiğinde ([Yedinci Bölüm](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)), Şart Rol Haritası her koltuğu kimin tuttuğunu yayımlar.
+**Maddi açıdan bağlayıcı her eylem için koltukları ayrı tutun** ([Sekizinci Bölüm](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)): eylemi kimin başlattığını, kimin doğruladığını veya yetkilendirdiğini, resmî kaydı kimin tuttuğunu ve itirazı kimin dinlediğini belirleyin. Eylemin usulüne uygun biçimde denetlendiğini kabul etmeden önce yasaklanan görev birleşimlerini, bağımsızlık kurallarını ve yayımlanmış yedek yolu uygulayın. Sistem Şartı veya Kurum Şartı gerektiğinde ([Yedinci Bölüm](../../core_05.000_charters.md#4-the-charter-role-map-and-standing-record-custody)), Şart Rol Haritası her koltuğu kimin tuttuğunu yayımlar.
 
 **Sekizinci Bölüm — İşlevsel bağımsızlık ve görevlerin ayrılması**
 
-- **Sorumluluğu:** Her [Maddi Açıdan Bağlayıcı İşlemin](../../core_05.035_band_accountability.md#materially-binding-act) dört işlevi ayrı ayrı atamasını gerektiren süreçler arası koşuldur:
+- **Sorumluluğu:** Her [Maddi Açıdan Bağlayıcı İşlemin](../../subcore_03.070_band_accountability.md#materially-binding-act) dört işlevi ayrı ayrı atamasını gerektiren süreçler arası koşuldur:
   - başlatma;
   - doğrulama veya yetkilendirme;
   - resmî kayıtların tutulması; ve
@@ -205,27 +205,27 @@ Her özet, bölümün ne sahiplendiğini ve ne ürettiğini belirtir.
 
 Ayrıca şunları da düzenler:
 
-  - her [Maddi Bağlayıcılığı Olan İşlem Kaydının](../../core_05.035_band_accountability.md#materially-binding-act-record) evrensel asgari içeriğini;
-  - eyleyenin [Maddi Kontrol Hattından](../../core_05.035_band_accountability.md#material-control-line) bağımsızlığı;
+  - her [Maddi Bağlayıcılığı Olan İşlem Kaydının](../../subcore_03.070_band_accountability.md#materially-binding-act-record) evrensel asgari içeriğini;
+  - eyleyenin [Maddi Kontrol Hattından](../../subcore_03.070_band_accountability.md#material-control-line) bağımsızlığı;
   - yayımlanmış görev yerleşimini ve yedekleri;
   - orantılı birleştirilmiş işletimi ve acil durum sınırlarını; ve
   - kime atfedildiği belli devirleri ve yanlış koltuğa yönlendirmeyi.
 - **Ürettiği şey:** Yeniden kullanılabilir dört koltuk ve İşlem Kaydı mimarisi. Sonraki her sertifikasyon, statü kaydı, forum, yönetişim ve bütünleşik uygulama süreci, sonucu bağımsız biçimde denetlenmiş, güvenilir biçimde kayda geçirilmiş ve gerçekten itiraz edilebilir sayılmadan önce bu mimariyi uygulamalıdır.
 
-#### 7.1 Four-seat separation map
+#### 7.1 Dört Koltuklu Ayrım Haritası
 
 > Bu harita dört işlevi ve bir işlem ile İşlem Kaydının tipik izini gösterir. Beşinci bir koltuk eklemez, evrensel bir sıra belirlemez ve Sekizinci Bölümün bağımsızlık, orantılı ortak barındırma, acil işlem veya itiraz yönlendirme kurallarını değiştirmez.
 
 ```mermaid
 flowchart TB
-    I["Initiating seat<br/><br/>Requests, proposes, operates,<br/>claims, or begins the act"]
-    V["Verify-or-authorize seat<br/><br/>Checks evidence and authority;<br/>verifies, authorizes, declines, or conditions"]
-    R["Official record-custody seat<br/><br/>Enters, amends, preserves,<br/>and publishes the Act Record"]
-    C["Challenge-review seat<br/><br/>Receives and reviews challenges;<br/>corrects, limits, or routes"]
-    I -->|act or request| V
-    V -->|determination| R
-    R -->|official record supports| C
-    C -->|review outcome| R
+    I["Başlatma koltuğu<br/><br/>Talepte bulunur, önerir, işletir,<br/>iddia eder veya eylemi başlatır"]
+    V["Doğrulama veya yetkilendirme koltuğu<br/><br/>Kanıtı ve yetkiyi denetler;<br/>doğrular, yetkilendirir, reddeder veya koşul koyar"]
+    R["Resmî kayıt muhafaza koltuğu<br/><br/>Eylem Kaydını girer, değiştirir, korur<br/>ve yayımlar"]
+    C["İtiraz inceleme koltuğu<br/><br/>İtirazları alır ve inceler;<br/>düzeltir, sınırlar veya yönlendirir"]
+    I -->|eylem veya talep| V
+    V -->|karar| R
+    R -->|resmî kayıt destekler| C
+    C -->|inceleme sonucu| R
     style I fill:none,stroke:#64748b,color:#ffffff
     style V fill:none,stroke:#ea580c,color:#ffffff
     style R fill:none,stroke:#2563eb,color:#ffffff
@@ -239,11 +239,11 @@ flowchart TB
 
 *Basitçe: Dokuzuncu ila On Beşinci Bölümler, Sekizinci Bölümün görev ayrılığı şartını tek zincirde uygular: sistemleri ve kurumları sertifikalandırır, yardımı ve zararı iki ayrı hatta ölçer, gerçek etkiler ve giderim uygular, forumun kendisine karşı iddianın tek nihai mercii olmasını önler. Bu zincir anayasal görevleri günlük yaşamda işler kılar.*
 
-[Yedinci Bölüm](core_07_charters.md#chapter-seven-system-and-institutional-charters), L Sınıfı veya üstündeki her sistem ve kurumun şart kapsamını ve koltuk haritasını yayımlar. [Sekizinci Bölüm](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties), bu zincirdeki her işlemin geçerli biçimde denetlenmesini sağlayan görev ayrılığı şartını getirir. Uygun ölçekleme ve bağımsızlık kurallarına göre başlatma, doğrulama veya yetkilendirme, resmî kayıt muhafazası ve itiraz incelemesi işlevlerinin ayrı atanıp ayrı tutulması gerekir. Dokuzuncu ila On Beşinci Bölümler bu mimariyi sırayla uygular:
+[Yedinci Bölüm](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters), L Sınıfı veya üstündeki her sistem ve kurumun şart kapsamını ve koltuk haritasını yayımlar. [Sekizinci Bölüm](../../core_06.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties), bu zincirdeki her işlemin geçerli biçimde denetlenmesini sağlayan görev ayrılığı şartını getirir. Uygun ölçekleme ve bağımsızlık kurallarına göre başlatma, doğrulama veya yetkilendirme, resmî kayıt muhafazası ve itiraz incelemesi işlevlerinin ayrı atanıp ayrı tutulması gerekir. Dokuzuncu ila On Beşinci Bölümler bu mimariyi sırayla uygular:
 
 Aşağıdaki her adım, bölümün ne sahiplendiğini ve ne ürettiğini belirtir. [Tam zincirin nasıl bir araya geldiği](#62-how-the-full-chain-fits-together) sonra bu sahipleri sistem denetiminden çareye tek bir yol olarak gösterir.
 
-#### 8.1 Process map
+#### 8.1 Süreç Haritası
 
 - **Dokuzuncu Bölüm**, bağımsız doğrulamayla maddi etkili sistem veya kurumun belirtilen kapsam ve kayıt aralığında uyumlu olup olmadığını belirler. Sistem sertifikasyonunu Dokuzuncu Bölüm; kurumun sınıfı, değerlendirmesi, kaydı ve giderim sonucu dâhil kurumsal sertifikasyonu Onuncu Bölüm düzenler.
 - **On Birinci Bölüm** doğrulanmış olguları alır ve ayrı Katkı ve İhlal durum kayıtlarına işler.
@@ -256,40 +256,45 @@ Aşağıdaki her adım, bölümün ne sahiplendiğini ve ne ürettiğini belirti
 
 ```mermaid
 flowchart TB
-    H["Chapter Seven<br/><br/>System and Institutional<br/>Charters"]
-    D["Chapter Eight<br/><br/>Functional independence<br/>and separation of duties"]
-    S["Chapter Nine<br/><br/>System alignment certification"]
-    I["Chapter Ten<br/><br/>Institutional alignment certification"]
-    subgraph Q["Chapters Eleven and Twelve · standing records and measurement"]
+    D["Altıncı Bölüm<br/><br/>İşlevsel bağımsızlık<br/>ve görevlerin ayrılığı"]
+    H["Beşinci Bölüm<br/><br/>Sistem ve Kurum<br/>Şartları"]
+    S["Sekizinci Bölüm<br/><br/>Sistem uyum sertifikasyonu"]
+    I["Dokuzuncu Bölüm<br/><br/>Kurumsal uyum sertifikasyonu"]
+    subgraph Q["Onuncu Bölüm · Statü Kayıtları ve ölçümü"]
         direction LR
-        E["Evidence about conduct or outcomes<br/><br/>Verified under Chapters Two–Four"]
-        C["Contribution record<br/><br/>and measurement"]
-        V["Violation record<br/><br/>and measurement"]
+        E["Davranış veya sonuçlara ilişkin kanıt<br/><br/>3-A ile 3-C Alt Çekirdekleri kapsamında doğrulanır"]
+        C["Katkı kaydı<br/><br/>ve ölçümü"]
+        V["İhlal kaydı<br/><br/>ve ölçümü"]
     end
-    subgraph N["Chapter Thirteen · effects"]
+    subgraph N["Onuncu–On Üçüncü Bölümler · statü etkileri"]
         direction LR
-        U["Recognition, rewards,<br/><br/>competency clearances"]
-        R["Standing locks,<br/><br/>correction and remedy"]
+        U["Tanınma, ödüller,<br/><br/>yetkinlik onayları"]
+        R["Statü kilitleri,<br/><br/>düzeltme ve giderim"]
     end
-    M["Chapter Fourteen<br/><br/>Anti-constitutional misconduct review"]
-    L["Chapter Thirteen<br/><br/>Anti-Constitutional Trust Lock"]
-    F["Chapter Fifteen forums<br/><br/>Supervision, challenge and timely review"]
-    H -.->|names who holds each seat| D
-    H -->|publishes institutional scope and seats| I
-    D -.->|separates authority at every stage| S
-    D -.->|separates authority at every stage| I
-    D -.->|separates authority at every stage| E
-    D -.->|separates authority at every stage| F
+    M["On Dördüncü Bölüm<br/><br/>Anayasa karşıtı suistimal incelemesi"]
+    L["On İkinci Bölüm<br/><br/>Anayasa Karşıtı Güven Kilidi"]
+    F["On Altıncı ve On Yedinci Bölümlerin forumları<br/><br/>Gözetim, itiraz ve zamanında inceleme"]
+    X["On Dokuzuncu ve Yirminci Bölümler<br/><br/>Yürütme: sonuçları uygulama,<br/>sınırlar içinde özel yürütme"]
+    D -.->|yayımlanan koltuk haritasında yetkiyi ayırır| H
+    H -->|kurumsal kapsamı ve koltukları yayımlar| I
+    H -->|sertifikasyon için kapsamı ve koltukları yayımlar| S
+    D -.->|her aşamada yetkiyi ayırır| I
+    D -.->|her aşamada yetkiyi ayırır| E
+    D -.->|her aşamada yetkiyi ayırır| F
     C --> U
     V --> R
-    M -->|final designation only| L
-    V -->|qualifying finding<br/>and allegation| M
-    S -->|material certification evidence| E
-    I -->|material certification evidence| E
-    E -->|verified contribution| C
-    E -->|verified violation| V
-    F -.->|supervises all stages| E
-    F -.->|supervises institutional certification| I
+    M -->|yalnızca nihai tanımlama| L
+    V -->|uygun bulgu<br/>ve iddia| M
+    S -->|maddi sertifikasyon kanıtı| E
+    I -->|maddi sertifikasyon kanıtı| E
+    E -->|doğrulanmış katkı| C
+    E -->|doğrulanmış ihlal| V
+    F -.->|tüm aşamaları gözetir| E
+    F -.->|kurumsal sertifikasyonu gözetir| I
+    R -->|nihai etkiler uygulanır| X
+    L -->|kilit uygulanır| X
+    F -->|emirler ve sonuçlar| X
+    F -.->|yürütmeyi inceler| X
     style H fill:none,stroke:#2563eb,color:#ffffff
     style D fill:none,stroke:#2563eb,color:#ffffff
     style S fill:none,stroke:#16a34a,color:#ffffff
@@ -302,6 +307,7 @@ flowchart TB
     style M fill:none,stroke:#db2777,color:#ffffff
     style L fill:none,stroke:#9333ea,color:#ffffff
     style F fill:none,stroke:#ea580c,color:#ffffff
+    style X fill:none,stroke:#ea580c,color:#ffffff
 ```
 
 <a id="62-how-the-full-chain-fits-together"></a>
@@ -309,8 +315,8 @@ flowchart TB
 
 *Yalın dille: bunu sistem denetiminden çareye bir yol olarak düşünün — forumlar uyuşmazlığı ve güzergâh adımlarını baştan sona gözetirken.*
 
-1. **Maddi ölçüde bağlayıcı her işlemde görevleri ayırın** ([Sekizinci Bölüm](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)): kimin başlattığını, kimin doğruladığını veya yetkilendirdiğini, kimin resmî kaydı tuttuğunu ve kimin itirazı dinlediğini belirleyin. İşlem usulüne uygun biçimde denetlenmiş sayılmadan önce yasaklı görev birleşimlerini, bağımsızlık kurallarını ve yayımlanmış ikame yolunu uygulayın. Sistem veya Kurum Şartı gerektiğinde ([Yedinci Bölüm](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody)), Şartın Görev Haritası her görevi kimin üstlendiğini yayımlar.
-2. **Etki yeterince ciddiyse sistemleri ve kurumları sertifikalandırın** — yüksek etkili bir sisteme büyük ölçekte güvenmeden önce itiraz edilebilir Sistem Sertifikasyon Kaydı alın ([Dokuzuncu Bölüm Kısım A–B](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); Kurumu kendi sınıfı, davranışı, yönetişimi ve portföyü açısından [Onuncu Bölüm](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification) kapsamında değerlendirin ve sonucu Kurum Sertifikasyon Kaydına işleyin.
+1. **Maddi ölçüde bağlayıcı her işlemde görevleri ayırın** ([Sekizinci Bölüm](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)): kimin başlattığını, kimin doğruladığını veya yetkilendirdiğini, kimin resmî kaydı tuttuğunu ve kimin itirazı dinlediğini belirleyin. İşlem usulüne uygun biçimde denetlenmiş sayılmadan önce yasaklı görev birleşimlerini, bağımsızlık kurallarını ve yayımlanmış ikame yolunu uygulayın. Sistem veya Kurum Şartı gerektiğinde ([Yedinci Bölüm](../../core_05.000_charters.md#4-the-charter-role-map-and-standing-record-custody)), Şartın Görev Haritası her görevi kimin üstlendiğini yayımlar.
+2. **Etki yeterince ciddiyse sistemleri ve kurumları sertifikalandırın** — yüksek etkili bir sisteme büyük ölçekte güvenmeden önce itiraz edilebilir Sistem Sertifikasyon Kaydı alın ([Dokuzuncu Bölüm Kısım A–B](../../core_08.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)); Kurumu kendi sınıfı, davranışı, yönetişimi ve portföyü açısından [Onuncu Bölüm](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification) kapsamında değerlendirin ve sonucu Kurum Sertifikasyon Kaydına işleyin.
 3. **Durumu ayrı hatlarda kaydedin ve ölçün** ([On Birinci Bölüm](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) ve [On İkinci Bölüm](core_12_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it)) — yardım veya zarar anayasal bakımdan önemliyse On Birinci Bölüm resmî dosyalar açmalı ve yalnızca **doğrulanmış girdileri** kabul etmelidir (maddi olduğu durumlarda Dokuzuncu Bölümün sistem uyumu sertifikasyon kanıtı dâhil); On İkinci Bölüm doğrulananı ölçüp sınıflandırır. Söylentiler, itibar ve uyuşmazlık anlatıları yetmez.
    - **İhlalin niteliği:** doğrulanmış zarar ve hesap verebilirlik başarısızlıkları için sınırlı, itiraz edilebilir bir dosya olan **ihlal durum kaydını** açın; **ihlal niteliğini** İhlal Ekseninde sınıflandırın. Yardım ve zarar hiçbir zaman tek net puana katlanmaz; bağlantılı durum kayıtları çapraz başvuru yapar ama ayrı kalır.
 4. **Her hatta durum etkilerini uygulayın** ([On Üçüncü Bölüm](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration)) — doğrulanmış katkı yeterlilik onayı sağlayabilir ve orantılı tanınma ile maddi ödülleri desteklemelidir; doğrulanmış ihlal durum kilitleri, düzeltme ve [zarar görenler için giderimi](../../core_13.000_standing_integration.md#51-remedy-and-correction) tetikleyebilir.
@@ -324,9 +330,9 @@ flowchart TB
 <a id="7-process-ownership-and-outputs"></a>
 ### 9. Süreç sahipliği ve çıktılar
 
-Yedinci Bölüm — Sistem ve Kurum Şartları ([Chapter Seven](../../core_07.000_charters.md#chapter-seven-system-and-institutional-charters))
+Yedinci Bölüm — Sistem ve Kurum Şartları ([Chapter Seven](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters))
 
-- **Ürettiği şey:** Kapsamı ve koltuk yerleşimini açıklayan, yayımlanmış ve sürümlenmiş bir beyan; Sekizinci Bölüm, sertifikasyon, statü kayıtları ve forumlar davranışı buna göre sınayabilir. Yedinci Bölüm [`core_07.000_charters.md`](core_07_charters.md#chapter-seven-system-and-institutional-charters) dosyasındadır.
+- **Ürettiği şey:** Kapsamı ve koltuk yerleşimini açıklayan, yayımlanmış ve sürümlenmiş bir beyan; Sekizinci Bölüm, sertifikasyon, statü kayıtları ve forumlar davranışı buna göre sınayabilir. Yedinci Bölüm [`core_07.000_charters.md`](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters) dosyasındadır.
 
 
 <a id="10-governance-change-and-incorporation"></a>
@@ -341,8 +347,8 @@ Her özet, bölümün ne sahiplendiğini ve ne ürettiğini belirtir.
 
 **Yirminci Bölüm — Anayasal sözleşme, meşruiyet ve emanet sorumluluğu** ([core_16.000_governance.md](../../core_16.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship))
 
-- **Ne sahiplenir:** [**Anayasal Sözleşme Katmanı**](core_05_band_integrative.md#constitutional-contract-layer)nı sahiplenir — kim yönetebilir, hangi meşruiyet düzeneğiyle, hangi kapsam ve kalıcı koşullar altında ve hangi sorumlu yönetim karakterinin sürdürülmesi gerektiği.
-- **Ne üretir:** Zaten yetkilendirilmiş sistemlerdeki [**Etkilenen Tarafların Sistem Katılımı**](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster)ndan ayrı yetkilendirme ve meşruiyet gerekleri — yönetme yetkisinin kendisinin kuralları, yalnızca onun içindeki katılım değil.
+- **Ne sahiplenir:** [**Anayasal Sözleşme Katmanı**](../../subcore_03.080_band_integrative.md#constitutional-contract-layer)nı sahiplenir — kim yönetebilir, hangi meşruiyet düzeneğiyle, hangi kapsam ve kalıcı koşullar altında ve hangi sorumlu yönetim karakterinin sürdürülmesi gerektiği.
+- **Ne üretir:** Zaten yetkilendirilmiş sistemlerdeki [**Etkilenen Tarafların Sistem Katılımı**](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster)ndan ayrı yetkilendirme ve meşruiyet gerekleri — yönetme yetkisinin kendisinin kuralları, yalnızca onun içindeki katılım değil.
 
 **On Yedinci Bölüm — Gerilememe** ([core_17.000_non_regression.md](../../core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity))
 
@@ -376,13 +382,13 @@ Numaralı `core_*` bölümlerinin ötesinde, dört yoldaş corpus benimsenmiş *
 - **[corpus_institutions](../../corpus_institutions.md)** — kurumsal kuruluş, yönetişim, gözetim, orantılılık ve fesih disiplini.
 - **[corpus_forum](../../corpus_forum.md)** — forum işlemleri: panel kuruluşu, çekilme, inceleme şeritleri, yönlendirme ayrıntısı ve adli destek.
 
-Bir benimseyen bunları [Yirminci Bölüm](../../core_20.000_incorporation.md) uyarınca geçerli biçimde dâhil ettiğinde, dosyalar kabul kapsamındaki uygulama metni olarak bağlayıcı olur. Sentient Constitution'ın anlamı üstün kalır — bunlar yukarıdaki bölümleri **uygular, daraltmaz**. Sürüm sabitleme, muhafaza zincirleri ve sessiz sapma yasağı, kabul edilen metnin gerçekten onaylanan içeriğe kadar izlenmesini sağlar. Yetkili liste ve sınır kuralları [Beşinci Bölüm — Külliyat](../../core_05.045_band_integrative.md#corpus) içindedir.
+Bir benimseyen bunları [Yirminci Bölüm](../../core_20.000_incorporation.md) uyarınca geçerli biçimde dâhil ettiğinde, dosyalar kabul kapsamındaki uygulama metni olarak bağlayıcı olur. Sentient Constitution'ın anlamı üstün kalır — bunlar yukarıdaki bölümleri **uygular, daraltmaz**. Sürüm sabitleme, muhafaza zincirleri ve sessiz sapma yasağı, kabul edilen metnin gerçekten onaylanan içeriğe kadar izlenmesini sağlar. Yetkili liste ve sınır kuralları [Beşinci Bölüm — Külliyat](../../subcore_03.080_band_integrative.md#corpus) içindedir.
 
 İlkeler, tanımlar, haklar, süreç zincirleri, yönetişim, değişiklik kuralları ve içerilmiş uygulama, Anayasanın koruyucu amacını korumak için birlikte okunmalıdır.
 ---
 
 **Önceki dosya:** [README.md](README.md)
 
-**Sonraki dosya (bu dil):** [core_01_a_values_principles.md](core_01_a_values_principles.md)
+**Sonraki dosya (bu dil):** [core_01_a_values_principles.md](../../core_02.000_values_principles.md)
 
 **Bağlayıcı asıl:** [core_00_preamble.md](core_00_preamble.md)

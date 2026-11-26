@@ -10,15 +10,15 @@
 >
 > یہ فائل **آئینِ شعوری وجود کا حصہ** ہے اور دوسری نمبر شدہ `core_*` فائلوں اور ذیلی آئین کے ساتھ ایک متن کے طور پر مل کر پڑھی جائے تو **پابند** ہے۔ اس میں **باب اوّل**، یعنی *آئینی نقشہ* شامل ہے: اس کا مقصد (§1)، یہ کیوں موجود ہے (§2)، فائلیں کیسے جڑتی ہیں (§3)، آئندہ ابواب کی بنیادیں (§4)، حکمرانی کے بنیادی عمل (§5)، اور آئینی ذمہ داروں کا اندراج (§6 تا §11)۔
 >
-> **پچھلا:** [core_00.000_preamble.md](core_00.000_preamble.md) (دیباچہ)
-> **اگلا:** [core_02.000_values_principles.md](core_02.000_values_principles.md)
+> **پچھلا:** [core_00.000_preamble.md](core_01_constitutional_map.md) (دیباچہ)
+> **اگلا:** [core_02.000_values_principles.md](../../core_02.000_values_principles.md)
 
 </details>
 
 <details>
 <summary><strong><span style="color: #2563eb;">سراغ</span></strong></summary>
 
-- پچھلا: [دیباچہ](core_00.000_preamble.md) (*ماڈل، دو آئینی مقاصد، آئینی چوکڑی، مادی داؤ اور پیمائش کی اقسام*).
+- پچھلا: [دیباچہ](core_01_constitutional_map.md) (*ماڈل، دو آئینی مقاصد، آئینی چوکڑی، مادی داؤ اور پیمائش کی اقسام*).
 - ذیلی دفعات:
   - [§1](#1-purpose-role-and-scope);
   - [§2](#2-why-the-map-exists);
@@ -31,7 +31,7 @@
   - [§9](#9-process-ownership-and-outputs);
   - [§10](#10-governance-change-and-incorporation);
   - [§11](#11-adopted-implementation-corpus).
-- اس کے ساتھ پڑھیں: [اختیاراتی ترتیب اور داخلی درجہ بندی](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*ذمہ داروں کا اندراج کیسے لاگو ہوتا ہے*); [README.md](README.md) (*مطالعے کی ترتیب*).
+- اس کے ساتھ پڑھیں: [اختیاراتی ترتیب اور داخلی درجہ بندی](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*ذمہ داروں کا اندراج کیسے لاگو ہوتا ہے*); [README.md](README.md) (*مطالعے کی ترتیب*).
 </details>
 
 <br>
@@ -43,7 +43,7 @@
 
 **مقصد:** باب ایک مجموعی جائزہ اور ذمہ داریوں کی رہنمائی دیتا ہے۔ یہ ان اعمال کی نشان دہی کرتا ہے جو مجاز حکمرانی کو جانچتے ہیں، بتاتا ہے کہ کون سا باب کس موضوع کا ذمہ دار ہے، اور آئینی متن کی تین سطحیں بیان کرتا ہے۔
 
-**کردار:** یہ باب رہنمائی اور ذمہ داری متعین کرتا ہے۔ ذمہ داروں کے اندراج کے سوا، جسے دوسرے ابواب اور [اختیاراتی ترتیب اور داخلی درجہ بندی](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) نافذ کرتے ہیں، یہ اپنی طرف سے کوئی فرض عائد نہیں کرتا۔
+**کردار:** یہ باب رہنمائی اور ذمہ داری متعین کرتا ہے۔ ذمہ داروں کے اندراج کے سوا، جسے دوسرے ابواب اور [اختیاراتی ترتیب اور داخلی درجہ بندی](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) نافذ کرتے ہیں، یہ اپنی طرف سے کوئی فرض عائد نہیں کرتا۔
 
 **باب کا دائرۂ کار:**
 
@@ -63,21 +63,21 @@
 **بنیاد:**
 
 - دیباچہ:
-  - [آئینی چوکڑی](core_00.000_preamble.md#constitutional-tetrad): وہ افعال جنہیں یہ باب عملی صورت دیتا ہے:
-    - [شرکت](subcore_03.060_apex_participation_leg.md#participation): شعوری وجود اپنے سوال کا جواب دینے والا قاعدہ تلاش کر سکتا ہے؛
-    - [جوابدہی](subcore_03.040_apex_accountability_leg.md#accountability): ہر موضوع کا ایک نامزد ذمہ دار باب ہے جو اس کا جواب دیتا ہے؛
-    - [نگرانی](subcore_03.055_apex_oversight_leg.md#oversight): قاری حصوں کا تعلق دیکھ سکتا اور خلا یا تداخل کی نشان دہی کر سکتا ہے؛
-    - [بروقت کارروائی](subcore_03.065_apex_timeliness_leg.md#timeliness): قاری درست قاعدے تک بلا تاخیر پہنچتا ہے؛
-  - [دو آئینی مقاصد](core_00.000_preamble.md#two-constitutional-aims): دونوں مقاصد جن کی یہ باب خدمت کرتا ہے:
-    - [شگفتگی](core_00.000_preamble.md#flourishing): آئین شعوری وجودوں کی اسی وقت خدمت کرتا ہے جب وہ اس میں اپنا راستہ پا سکیں؛
-    - [استمرار](core_00.000_preamble.md#continuity): واضح نقشہ متن کو بڑھتے اور بدلتے ہوئے مکمل رکھتا ہے؛
+  - [آئینی چوکڑی](core_00_preamble.md#constitutional-tetrad): وہ افعال جنہیں یہ باب عملی صورت دیتا ہے:
+    - [شرکت](../../subcore_03.060_apex_participation_leg.md#participation): شعوری وجود اپنے سوال کا جواب دینے والا قاعدہ تلاش کر سکتا ہے؛
+    - [جوابدہی](../../subcore_03.040_apex_accountability_leg.md#accountability): ہر موضوع کا ایک نامزد ذمہ دار باب ہے جو اس کا جواب دیتا ہے؛
+    - [نگرانی](../../subcore_03.055_apex_oversight_leg.md#oversight): قاری حصوں کا تعلق دیکھ سکتا اور خلا یا تداخل کی نشان دہی کر سکتا ہے؛
+    - [بروقت کارروائی](../../subcore_03.065_apex_timeliness_leg.md#timeliness): قاری درست قاعدے تک بلا تاخیر پہنچتا ہے؛
+  - [دو آئینی مقاصد](core_00_preamble.md#two-constitutional-aims): دونوں مقاصد جن کی یہ باب خدمت کرتا ہے:
+    - [شگفتگی](core_00_preamble.md#flourishing): آئین شعوری وجودوں کی اسی وقت خدمت کرتا ہے جب وہ اس میں اپنا راستہ پا سکیں؛
+    - [استمرار](core_00_preamble.md#continuity): واضح نقشہ متن کو بڑھتے اور بدلتے ہوئے مکمل رکھتا ہے؛
 - باب دو کے اصول:
-  - [§5.2 سادہ زبان میں رسائی (شرکت اور ذمہ دارانہ انتظام کی ذمہ داری)](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
-  - [§5.2.4 پیچیدگی کو شکست کے طور پر استعمال کرنے کے خلاف نظم](core_02.000_values_principles.md#524-complexity-as-defeat-discipline);
-  - [§15.4 آئینی معنی کے تنازع کا حل](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
+  - [§5.2 سادہ زبان میں رسائی (شرکت اور ذمہ دارانہ انتظام کی ذمہ داری)](../../core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
+  - [§5.2.4 پیچیدگی کو شکست کے طور پر استعمال کرنے کے خلاف نظم](../../core_02.000_values_principles.md#524-complexity-as-defeat-discipline);
+  - [§15.4 آئینی معنی کے تنازع کا حل](../../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
 - باب چار کے آرٹیکلز:
-  - [آرٹیکل XXIV-A](core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*متناسب فہم پذیری کا حق*);
-  - [آرٹیکل XXIV-B](core_04.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*پیچیدگی کے جائزے اور ماڈیولر ساخت کے تقاضے*).
+  - [آرٹیکل XXIV-A](../../core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*متناسب فہم پذیری کا حق*);
+  - [آرٹیکل XXIV-B](../../core_04.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*پیچیدگی کے جائزے اور ماڈیولر ساخت کے تقاضے*).
 
 <a id="3-how-the-files-fit-together"></a>
 ### ۳۔ فائلیں کیسے جڑتی ہیں
@@ -88,7 +88,7 @@
 - **ذیلی متن (`subcore_*`):** ابواب کے پیچھے مکمل قواعد اور طریقۂ کار دیتا ہے۔ ہر فائل ایک باب سے تعلق رکھتی ہے، اسی کے برابر قوت رکھتی ہے، اور الگ سے شامل کیے بغیر ہر اختیار کنندہ پر لازم ہے۔ ذیلی متن اپنے باب کو محدود نہیں کر سکتا۔
 - **نفاذ (`corpus_*`):** چار فائلیں آئین پر عمل درآمد کی عملی تفصیل دیتی ہیں۔ درست شمولیت کی حدود میں لازم ہوتی ہیں اور آئین کو محدود کیے بغیر نافذ کرتی ہیں۔ [دفعہ ۱۱](#11-adopted-implementation-corpus) چاروں فائلوں کی نشان دہی کرتی ہے۔
 
-متعین [متن](subcore_03.080_band_integrative.md#corpus) پابند آئینی ذرائع کا وسیع تر، نسخہ بند مجموعہ ہے: اس میں بنیادی متن، ذیلی متن، منظور شدہ نفاذی متن اور انتقال کے دوران کوئی بھی درست مطابقتی لفافہ شامل ہے۔ مسودے، نوٹس اور رہنمائی محض منصوبے کا حصہ ہونے سے پابند نہیں بنتے۔
+متعین [متن](../../subcore_03.080_band_integrative.md#corpus) پابند آئینی ذرائع کا وسیع تر، نسخہ بند مجموعہ ہے: اس میں بنیادی متن، ذیلی متن، منظور شدہ نفاذی متن اور انتقال کے دوران کوئی بھی درست مطابقتی لفافہ شامل ہے۔ مسودے، نوٹس اور رہنمائی محض منصوبے کا حصہ ہونے سے پابند نہیں بنتے۔
 
 <a id="4-foundations-for-the-chapters-that-follow"></a>
 ### ۴۔ آئندہ ابواب کی بنیادیں
@@ -105,17 +105,17 @@
 
 <a id="5-key-governance-processes"></a>
 <a id="32-key-governance-processes"></a>
-#### 5 کلیدی حکمرانی عمل
+### 5 کلیدی حکمرانی عمل
 
 *سادہ الفاظ میں: جب متن مانگے، مادی مسائل تصدیق، مدد اور نقصان کے تحریری ریکارڈ، اصلاح اور تدارک، اور وقتی حدود والی فورم جائزہ سے گزرتے ہیں — عام تنازعات پہلے شائع شدہ چیلنج راستہ استعمال کرتے ہیں؛ وہ راستے مجاز حکمرانی کی آزمائش کرتے ہیں؛ وہ اسے خود نہیں بناتے۔*
 
-جہاں باب ششم، [باب نہم](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)، شامل دستاویزات، یا دیگر آئینی احکام صریحاً مانگیں، مادی آئینی مسائل کو نیچے کے ایک یا زیادہ راستوں میں لے جائیں۔ [کلیدی عملی عمل کی زنجیریں](#6-key-practical-process-pipelines) پیمائش کو ریکارڈ، تصدیق، تصدیق شدہ مواد، درجہ بندی، فورم نگرانی، اصلاح اور بروقت تدارک میں بدلتی ہیں — مجاز حکمرانی عمل میں کیسے آزمائی، چیلنج اور مرمت کی جاتی ہے۔ وہ خود حکمرانی مجاز نہیں کرتیں؛ وہ حکمرانی کو جائزے کے قابل، چیلنج کے قابل، اصلاح کے قابل اور بروقت بناتی ہیں۔ [قطعہ 5.1](#62-how-the-full-chain-fits-together) وہ زنجیر پوری بیان کرتا ہے۔
+جہاں باب ششم، [باب نہم](../../core_08.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)، شامل دستاویزات، یا دیگر آئینی احکام صریحاً مانگیں، مادی آئینی مسائل کو نیچے کے ایک یا زیادہ راستوں میں لے جائیں۔ [کلیدی عملی عمل کی زنجیریں](#6-key-practical-process-pipelines) پیمائش کو ریکارڈ، تصدیق، تصدیق شدہ مواد، درجہ بندی، فورم نگرانی، اصلاح اور بروقت تدارک میں بدلتی ہیں — مجاز حکمرانی عمل میں کیسے آزمائی، چیلنج اور مرمت کی جاتی ہے۔ وہ خود حکمرانی مجاز نہیں کرتیں؛ وہ حکمرانی کو جائزے کے قابل، چیلنج کے قابل، اصلاح کے قابل اور بروقت بناتی ہیں۔ [قطعہ 5.1](#62-how-the-full-chain-fits-together) وہ زنجیر پوری بیان کرتا ہے۔
 
-- **نظام کی ہم آہنگی کی تصدیق** ([باب نہم](../../core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — بڑے پیمانے پر کسی اعلیٰ اثر نظام پر بھروسہ کرنے سے پہلے، یہ ثبوت اکٹھا اور جائزہ لیں کہ کیا اب اس پر آئینی طور پر محفوظ انحصار کیا جا سکتا ہے
+- **نظام کی ہم آہنگی کی تصدیق** ([باب نہم](../../core_08.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification)) — بڑے پیمانے پر کسی اعلیٰ اثر نظام پر بھروسہ کرنے سے پہلے، یہ ثبوت اکٹھا اور جائزہ لیں کہ کیا اب اس پر آئینی طور پر محفوظ انحصار کیا جا سکتا ہے
 - **قائمہ ریکارڈ** ([باب گیارہ](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened)) — جب طرزِ عمل یا نقصان آئینی اہمیت رکھتا ہو تو تصدیق شدہ حقائق رسمی شراکت یا خلاف ورزی کی فائلوں میں درج کریں؛ افواہ اور شہرت کافی نہیں۔
 - **اصلاح اور تلافی** ([باب تیرہ §5.1 (*تلافی اور اصلاح*)](../../core_13.000_standing_integration.md#51-remedy-and-correction)) — بنیادی ناکامی درست کریں اور متاثرہ افراد کو متناسب اعتراف، مرمت، بحالی یا معاوضہ دیں۔
 - **فورم کا جائزہ** ([باب پندرہ](core_11_forum.md#1-purpose-and-role--participation-architecture))
-  - پہلے سے مجاز نظاموں کے اندر عام تنازعات پہلے [متاثر فریقوں کی نظامی شرکت](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) کا شائع شدہ چیلنج راستہ استعمال کرتے ہیں
+  - پہلے سے مجاز نظاموں کے اندر عام تنازعات پہلے [متاثر فریقوں کی نظامی شرکت](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster) کا شائع شدہ چیلنج راستہ استعمال کرتے ہیں
   - اگر وہ راستہ اب بھی متنازع، غائب، قبضے میں، یا راحت نہیں دے سکتا، بنیادی داؤ کے مطابق نگرانی شدہ فورموں سے راستہ طے کریں
   - وہ فورم **دفعہ XXV-C** (*بروقت حل اور تاخیر مخالف تہہ*) کے تحت ثبوت، جائز منتقلی اور بروقت حدود سہارا دیتے ہیں
 <a id="4-principles-definitions-and-rights"></a>
@@ -123,13 +123,13 @@
 
 *سادہ الفاظ میں: باب یکم تا ششم اقدار، الفاظ کے بننے اور جانچنے کے ڈھنگ، لغت اور حقوق کی تہہ کے مالک ہیں؛ بعد کے ابواب کو ان گھروں کا احترام کرنا ہے، انہیں خاموشی سے ہٹانا نہیں۔*
 
-قطعے **4 تا 7** اس آئین کا **مثبت مالک رجسٹر** ہیں: ہر بلاک اس اصل دائرے کا نام لیتا ہے جس کا مالک اس کا باب (یا ساتھی کارپس) ہے اور وہ کیا دیتا ہے۔ پابند ایک سطری مالک دعوے ہر نمبر والے باب کے آغاز پر بھی آتے ہیں۔ دیگر تہیں کسی مالک کی طرف اشارہ کر سکتی ہیں — انہیں اسے خاموشی سے دوبارہ نہیں لکھنا یا منتقل نہیں کرنا چاہیے؛ وہ عدمِ منتقلی ضبط [اختیار کا ڈھیر اور داخلی مراتب](core_05_band_integrative.md#authority-stack) کے تحت رہتی ہے۔
+قطعے **4 تا 7** اس آئین کا **مثبت مالک رجسٹر** ہیں: ہر بلاک اس اصل دائرے کا نام لیتا ہے جس کا مالک اس کا باب (یا ساتھی کارپس) ہے اور وہ کیا دیتا ہے۔ پابند ایک سطری مالک دعوے ہر نمبر والے باب کے آغاز پر بھی آتے ہیں۔ دیگر تہیں کسی مالک کی طرف اشارہ کر سکتی ہیں — انہیں اسے خاموشی سے دوبارہ نہیں لکھنا یا منتقل نہیں کرنا چاہیے؛ وہ عدمِ منتقلی ضبط [اختیار کا ڈھیر اور داخلی مراتب](../../subcore_03.080_band_integrative.md#authority-stack) کے تحت رہتی ہے۔
 
 باب **یکم تا ششم** وہ اقدار، الفاظ، تصدیق مشینری اور حقوق کی تہہ دیتے ہیں جن کا بعد کی ہر چیز کو احترام کرنا ہے — قطعہ 5 کی [کلیدی عملی عمل کی زنجیریں](#6-key-practical-process-pipelines)، قطعہ 6 کے حکمرانی اور تبدیلی کے راستے کے ابواب، اور قطعہ 7 کا [ساتھی نفاذ کارپس](#7-companion-implementation-corpus) شامل۔
 
 ہر خلاصہ کہتا ہے کہ باب کا دائرہ کیا ہے اور وہ کیا دیتا ہے۔
 
-**باب یکم — اقدار، اصول اور ذمہ دارانہ انتظام** ([حصہ الف](core_01_a_values_principles.md) · [حصہ ب](core_01_b_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [حصہ ج](core_01_c_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
+**باب یکم — اقدار، اصول اور ذمہ دارانہ انتظام** ([حصہ الف](../../core_02.000_values_principles.md) · [حصہ ب](../../core_02.020_interaction_interpretation.md#chapter-01-part-b-interaction-and-interpretation) · [حصہ ج](../../core_02.040_stewardship_capacity_principles.md#chapter-01-part-c-stewardship-and-governance))
 
 - **اس کی ذمہ داری:** آئین کی رہنما اقدار اور پابندیاں بیان کرتا ہے، جن میں شامل ہیں:
   - فلاح، انصاف، حفاظت، سچائی، اعتماد اور محدود آزادی؛
@@ -138,7 +138,7 @@
   - نگہداشت کے فرائض، جن میں فہم کی تقسیم، نظامی جائزہ اور حکمرانی کا نظم شامل ہے۔
 - **اس کا نتیجہ:** بعد کے تمام ابواب کی تشریحی بنیاد۔ نظام، حقوق، تعریفوں یا عملی طریقوں کو پڑھتے اور لاگو کرتے وقت یہ قواعد اعلیٰ سطح کے مقاصد کو قابلِ عمل تقاضوں میں بدلتے ہیں۔
 
-**باب دوم — تعریف کی ساخت** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
+**باب دوم — تعریف کی ساخت** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
 
 - **اس کا دائرۂ کار:** متعین کرتا ہے کہ آئینی اصطلاحات کن طریقوں سے تشکیل پاتی ہیں:
   - وجودیاتی/پیمائش/جانچ/تعمیل (O/M/A/C) اجزائی ساخت؛
@@ -146,7 +146,7 @@
   - اجزائی قواعد جو پورے مجموعے میں تعریفوں کو دقیق اور قابلِ استعمال رکھتے ہیں۔
 - **اس کا نتیجہ:** تعریفوں کے لیے ایک مشترک قواعدی ڈھانچا، تاکہ بعد کے ابواب مبہم لیبلوں، پوشیدہ مفروضوں یا باہم غیر موافق اصطلاحی ساختوں میں نہ پڑیں۔
 
-**باب سوم — تعریف کی سالمیت** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
+**باب سوم — تعریف کی سالمیت** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
 
 - **اس کا دائرۂ کار:** ان امور کے خلاف حفاظت کرتا ہے:
   - بچ نکلنا اور دائرۂ کار کو سرکانا؛
@@ -154,22 +154,22 @@
   - عدم تعمیل کی ایسی چالیں جو کاغذ پر تعریفات کو کھوکھلا اور عمل میں بے اثر کر دیں۔
 - **اس کا نتیجہ:** بچ نکلنے کے خلاف نظم اور عدم تعمیل سے متعلق رہنما میٹاڈیٹا؛ اگر بچ نکلنا ثابت ہو تو حیثیت اور بدعملی کے جائزے کی طرف بھیجنے کے راستے اس میں شامل ہیں۔
 
-**باب چہارم — بوجھ، سراغ اور تصدیق** ([`core_02_definition_structure.md`](core_02_definition_structure.md))
+**باب چہارم — بوجھ، سراغ اور تصدیق** ([`core_02_definition_structure.md`](../../subcore_03.010_definition_structure.md))
 
 - **اس کا دائرۂ کار:**
   - تعمیل کا دعویٰ کرنے والے پر ثبوت کا بوجھ ڈالتا ہے؛ اور
   - [**مادی مفاد کی اہمیت**](#material-stake) کے تناسب سے قابلِ سراغ ثبوت، مشاہدہ پذیری اور توثیق لازم کرتا ہے، جنہیں عملاً چیلنج کیا جا سکے۔
-- **حاصل:** تصدیقی سلسلہ جو [باب گیارہ](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) کے **تصدیق شدہ ان پٹ** اور [باب نہم](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے نظامی ہم آہنگی کے ثبوت فراہم کرتا ہے۔ یہ قائمہ پیمائش کی جگہ نہیں لیتا۔
-**باب پنجم — بنیادی تعریفیں** ([`core_05__definitions_home.md`](core_05__definitions_home.md#chapter-five-foundational-definitions))
+- **حاصل:** تصدیقی سلسلہ جو [باب گیارہ](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) کے **تصدیق شدہ ان پٹ** اور [باب نہم](../../core_08.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification) کے نظامی ہم آہنگی کے ثبوت فراہم کرتا ہے۔ یہ قائمہ پیمائش کی جگہ نہیں لیتا۔
+**باب پنجم — بنیادی تعریفیں** ([`core_05__definitions_home.md`](../../core_03.000_definitions_home.md#chapter-five-foundational-definitions))
 
 - **اس کا دائرۂ کار:** فراہم کرتا ہے:
   - تعریفات کا معیاری سلسلہ: نگرانی، شرکت، جواب دہی، تسلسل اور انضمامی پرتیں؛
-  - [اختیارات کا سلسلہ اور اندرونی درجہ بندی](core_05_band_integrative.md#authority-stack-and-internal-hierarchy)؛
-  - [مجموعہ](core_05_band_integrative.md#corpus)؛ اور
+  - [اختیارات کا سلسلہ اور اندرونی درجہ بندی](../../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy)؛
+  - [مجموعہ](../../subcore_03.080_band_integrative.md#corpus)؛ اور
   - متعلقہ حد بندی کے قواعد۔
 - **اس کا نتیجہ:** تشریح، آڈٹ اور فیصلہ سازی کے لیے دقیق آئینی اصطلاحات۔ یہ **تعریفات کا سلسلہ** ہے، حقوق کی بنیادی حد نہیں—لازم حقوق کی بنیادی حد باب ششم میں ہے۔ پورے آئین کے ملکیتی دائروں کی رہنمائی اس تمہید کے رجسٹر (حصے ۴–۹) میں ہے۔
 
-**باب ششم — بنیادی حقوق** ([حصہ الف](core_06_rights_part_a.md) · [حصہ ب](core_06_rights_part_b.md) · [حصہ ج](core_06_rights_part_c.md) · [حصہ د](core_06_rights_part_d.md))
+**باب ششم — بنیادی حقوق** ([حصہ الف](../../core_04.000_rights_part_a.md) · [حصہ ب](../../core_04.010_rights_part_b.md) · [حصہ ج](../../core_04.020_rights_part_c.md) · [حصہ د](../../core_04.030_rights_part_d.md))
 
 - **اس کا دائرۂ کار:** دفعات **I–XXVIII** میں حقوق کی بنیادی حد بیان کرتا ہے، جس میں شامل ہیں:
   - بقا کے لیے ضروری امور؛
@@ -185,19 +185,19 @@
 
 <a id="7-system-and-institutional-charters-functional-independence-and-separation-of-duties"></a>
 <a id="5-system-and-institutional-charters-functional-independence-and-separation-of-duties"></a>
-### 7. System and Institutional Charters, Functional Independence, and Separation of Duties
+### 7. نظامی اور ادارہ جاتی منشور، فعلی خودمختاری، اور فرائض کی علیحدگی
 
 *سادہ الفاظ میں: حقیقی اثر رکھنے والا نظام یا ادارہ نظامی منشور یا ادارہ جاتی منشور شائع کرتا ہے، جس میں اس کے مجاز کام اور ہر نشست کا حامل بتایا جاتا ہے۔ مادی طور پر پابند عمل آگے بڑھنے سے پہلے طے کریں کہ اسے کون شروع کرے، کون جانچے یا مجاز کرے، سرکاری ریکارڈ کون رکھے اور چیلنج کون دیکھے۔ کردار ماحول کے مطابق ہو سکتے ہیں، مگر ایک ہی فریق اور اس کی کنٹرول لائن اپنی کارروائی جانچنے والی نشستیں خاموشی سے نہیں رکھ سکتی۔*
 
-- **اس کا نتیجہ:** دائرۂ کار اور نشستوں کی جگہ بندی کا شائع شدہ، نسخہ وار بیان جس کے مقابل باب ہشتم، توثیق، حیثیتی ریکارڈ اور فورم رویے کو جانچ سکتے ہیں۔ باب ہفتم [`core_07.000_charters.md`](core_07_charters.md#chapter-seven-system-and-institutional-charters) میں ہے۔
+- **اس کا نتیجہ:** دائرۂ کار اور نشستوں کی جگہ بندی کا شائع شدہ، نسخہ وار بیان جس کے مقابل باب ہشتم، توثیق، حیثیتی ریکارڈ اور فورم رویے کو جانچ سکتے ہیں۔ باب ہفتم [`core_07.000_charters.md`](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters) میں ہے۔
 
 **فعلی آزادی اور فرائض کی علیحدگی** — کسی مادی طور پر پابند عمل کے آگے بڑھنے سے پہلے، قابلِ اطلاق پیمانہ بندی اور آزادی کے قواعد کے مطابق آغاز، تصدیق یا اجازت، ریکارڈ اور اعتراض کے جائزے کی نشستوں کی شناخت اور علیحدگی کریں۔
 
-**ہر مادی طور پر پابند عمل کے لیے نشستیں الگ رکھیں** ([باب ہشتم](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)) — یہ متعین کریں کہ عمل کون شروع کرتا ہے، کون اس کی تصدیق یا اجازت دیتا ہے، سرکاری ریکارڈ کون رکھتا ہے اور اعتراض کون سنتا ہے۔ عمل کو درست طور پر جانچا ہوا قرار دینے سے پہلے ممنوعہ اختلاط، خودمختاری کے قواعد اور شائع شدہ متبادل راستہ نافذ کریں۔ جہاں نظامی منشور یا ادارہ جاتی منشور درکار ہو ([باب ہفتم](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody))، وہاں منشور کا کردار نقشہ شائع کرتا ہے کہ ہر نشست کس کے پاس ہے۔
+**ہر مادی طور پر پابند عمل کے لیے نشستیں الگ رکھیں** ([باب ہشتم](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)) — یہ متعین کریں کہ عمل کون شروع کرتا ہے، کون اس کی تصدیق یا اجازت دیتا ہے، سرکاری ریکارڈ کون رکھتا ہے اور اعتراض کون سنتا ہے۔ عمل کو درست طور پر جانچا ہوا قرار دینے سے پہلے ممنوعہ اختلاط، خودمختاری کے قواعد اور شائع شدہ متبادل راستہ نافذ کریں۔ جہاں نظامی منشور یا ادارہ جاتی منشور درکار ہو ([باب ہفتم](../../core_05.000_charters.md#4-the-charter-role-map-and-standing-record-custody))، وہاں منشور کا کردار نقشہ شائع کرتا ہے کہ ہر نشست کس کے پاس ہے۔
 
 **باب ہشتم — فعلی خودمختاری اور فرائض کی علیحدگی**
 
-- **اس کی ذمہ داری:** تمام عملوں پر لاگو یہ تقاضا کہ ہر [مادی طور پر پابند عمل](../../core_05.035_band_accountability.md#materially-binding-act) کے لیے چار افعال الگ الگ مقرر ہوں:
+- **اس کی ذمہ داری:** تمام عملوں پر لاگو یہ تقاضا کہ ہر [مادی طور پر پابند عمل](../../subcore_03.070_band_accountability.md#materially-binding-act) کے لیے چار افعال الگ الگ مقرر ہوں:
   - آغاز؛
   - تصدیق یا اجازت؛
   - سرکاری ریکارڈ کی تحویل؛ اور
@@ -205,27 +205,27 @@
 
 یہ مزید ان امور کو بھی منضبط کرتا ہے:
 
-  - ہر [مادی طور پر پابند عمل کے ریکارڈ](../../core_05.035_band_accountability.md#materially-binding-act-record) کا عمومی کم از کم مواد؛
-  - فاعل کی [مادی کنٹرول لائن](../../core_05.035_band_accountability.md#material-control-line) سے آزادی؛
+  - ہر [مادی طور پر پابند عمل کے ریکارڈ](../../subcore_03.070_band_accountability.md#materially-binding-act-record) کا عمومی کم از کم مواد؛
+  - فاعل کی [مادی کنٹرول لائن](../../subcore_03.070_band_accountability.md#material-control-line) سے آزادی؛
   - ذمہ داریوں کی شائع شدہ تقسیم اور متبادل؛
   - متناسب مشترکہ میزبانی اور ہنگامی حدود؛ اور
   - قابلِ انتساب حوالگیاں اور معاملے کو غلط نشست پر بھیجنا۔
 - **اس کا نتیجہ:** چار نشستوں اور عمل کے ریکارڈ کا دوبارہ قابلِ استعمال ڈھانچہ۔ بعد کا ہر تصدیقی، حیثیتی اندراج، فورم، حکمرانی اور مربوط نفاذ کا عمل اس ڈھانچے کو نافذ کرے گا، اس سے پہلے کہ اس کے نتیجے کو آزادانہ طور پر جانچا ہوا، قابلِ اعتماد طور پر درج شدہ اور حقیقتاً قابلِ اعتراض سمجھا جائے۔
 
-#### 7.1 Four-seat separation map
+#### 7.1 چار نشستوں کی علیحدگی کا نقشہ
 
 > یہ نقشہ چار افعال اور ایک عمل اور اس کے Act Record کا عام سراغ دکھاتا ہے۔ یہ پانچویں نشست شامل نہیں کرتا، عالمگیر ترتیب مقرر نہیں کرتا، اور آزادی، متناسب مشترک میزبانی، ہنگامی کارروائی یا چیلنج روٹنگ سے متعلق باب ہشتم کے قواعد نہیں بدلتا۔
 
 ```mermaid
 flowchart TB
-    I["Initiating seat<br/><br/>Requests, proposes, operates,<br/>claims, or begins the act"]
-    V["Verify-or-authorize seat<br/><br/>Checks evidence and authority;<br/>verifies, authorizes, declines, or conditions"]
-    R["Official record-custody seat<br/><br/>Enters, amends, preserves,<br/>and publishes the Act Record"]
-    C["Challenge-review seat<br/><br/>Receives and reviews challenges;<br/>corrects, limits, or routes"]
-    I -->|act or request| V
-    V -->|determination| R
-    R -->|official record supports| C
-    C -->|review outcome| R
+    I["آغاز کی نشست<br/><br/>درخواست دیتا، تجویز کرتا، چلاتا ہے،<br/>دعویٰ کرتا یا عمل شروع کرتا ہے"]
+    V["تصدیق یا اجازت کی نشست<br/><br/>ثبوت اور اختیار کی جانچ کرتی ہے؛<br/>تصدیق، اجازت، انکار یا شرائط عائد کرتی ہے"]
+    R["سرکاری ریکارڈ کی تحویل کی نشست<br/><br/>عملی ریکارڈ درج، ترمیم اور محفوظ کرتی ہے،<br/>اور اسے شائع کرتی ہے"]
+    C["اعتراض کے جائزے کی نشست<br/><br/>اعتراضات وصول اور ان کا جائزہ لیتی ہے؛<br/>درست، محدود یا آگے بھیجتی ہے"]
+    I -->|عمل یا درخواست| V
+    V -->|تعین| R
+    R -->|سرکاری ریکارڈ تائید کرتا ہے| C
+    C -->|جائزے کا نتیجہ| R
     style I fill:none,stroke:#64748b,color:#ffffff
     style V fill:none,stroke:#ea580c,color:#ffffff
     style R fill:none,stroke:#2563eb,color:#ffffff
@@ -239,11 +239,11 @@ flowchart TB
 
 *سادہ الفاظ میں: باب نہم تا پندرہ، باب ہشتم کی فرائض کی علیحدگی کو ایک سلسلے میں لاگو کرتے ہیں: نظاموں اور اداروں کی تصدیق، مدد اور نقصان کو دو الگ راستوں پر ناپنا، حقیقی اثرات اور تلافی دینا، اور فورم کو اپنے خلاف دعوے کا واحد آخری فیصلہ ساز بننے سے روکنا۔ یہ سلسلہ آئینی فرائض کو روزمرہ زندگی میں مؤثر رکھتا ہے۔*
 
-[باب ہفتم](core_07_charters.md#chapter-seven-system-and-institutional-charters) کلاس L یا اس سے اوپر کے ہر نظام اور ادارے کا منشور دائرہ اور نشستوں کا نقشہ شائع کرتا ہے۔ [باب ہشتم](../../core_08.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) فرائض کی علیحدگی لازم کرتا ہے تاکہ سلسلے کا ہر عمل معتبر طور پر جانچا جا سکے۔ قابلِ اطلاق پیمانے اور آزادی کے قواعد کے مطابق آغاز، تصدیق یا اجازت، سرکاری ریکارڈ کی تحویل اور چیلنج کا جائزہ الگ الگ تفویض اور برقرار رکھنا ضروری ہے۔ پھر باب نہم تا پندرہ اس ساخت کو ترتیب سے لاگو کرتے ہیں:
+[باب ہفتم](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters) کلاس L یا اس سے اوپر کے ہر نظام اور ادارے کا منشور دائرہ اور نشستوں کا نقشہ شائع کرتا ہے۔ [باب ہشتم](../../core_06.000_functional_independence_separation_of_duties.md#chapter-eight-functional-independence-and-separation-of-duties) فرائض کی علیحدگی لازم کرتا ہے تاکہ سلسلے کا ہر عمل معتبر طور پر جانچا جا سکے۔ قابلِ اطلاق پیمانے اور آزادی کے قواعد کے مطابق آغاز، تصدیق یا اجازت، سرکاری ریکارڈ کی تحویل اور چیلنج کا جائزہ الگ الگ تفویض اور برقرار رکھنا ضروری ہے۔ پھر باب نہم تا پندرہ اس ساخت کو ترتیب سے لاگو کرتے ہیں:
 
 نیچے ہر قدم کہتا ہے کہ باب کا دائرہ کیا ہے اور وہ کیا دیتا ہے۔ [پوری زنجیر کیسے بیٹھتی ہے](#62-how-the-full-chain-fits-together) پھر ان مالکوں کو نظام کی جانچ سے تدارک تک ایک راستے کے طور پر دکھاتا ہے۔
 
-#### 8.1 Process map
+#### 8.1 عملی نقشہ
 
 - **باب نہم** آزاد تصدیق سے طے کرتا ہے کہ مادی اثر والا نظام یا ادارہ بیان کردہ دائرے اور ریکارڈ مدت میں ہم آہنگ ہے یا نہیں۔ یہ نظامی تصدیق چلاتا ہے؛ باب دہم ادارہ جاتی تصدیق، بشمول ادارے کی اپنی جماعت، جائزہ، ریکارڈ اور تلافی کے نتیجے کو چلاتا ہے۔
 - **باب گیارہ** تصدیق شدہ حقائق لے کر الگ شراکت اور خلاف ورزی کے قائمہ ریکارڈ میں درج کرتا ہے۔
@@ -256,40 +256,45 @@ flowchart TB
 
 ```mermaid
 flowchart TB
-    H["Chapter Seven<br/><br/>System and Institutional<br/>Charters"]
-    D["Chapter Eight<br/><br/>Functional independence<br/>and separation of duties"]
-    S["Chapter Nine<br/><br/>System alignment certification"]
-    I["Chapter Ten<br/><br/>Institutional alignment certification"]
-    subgraph Q["Chapters Eleven and Twelve · standing records and measurement"]
+    D["باب ششم<br/><br/>فعلی خودمختاری<br/>اور فرائض کی علیحدگی"]
+    H["باب پنجم<br/><br/>نظامی اور ادارہ جاتی<br/>منشور"]
+    S["باب ہشتم<br/><br/>نظام کی ہم آہنگی کی تصدیق"]
+    I["باب نہم<br/><br/>ادارے کی ہم آہنگی کی تصدیق"]
+    subgraph Q["باب دہم · حیثیتی ریکارڈ اور پیمائش"]
         direction LR
-        E["Evidence about conduct or outcomes<br/><br/>Verified under Chapters Two–Four"]
-        C["Contribution record<br/><br/>and measurement"]
-        V["Violation record<br/><br/>and measurement"]
+        E["طرزِ عمل یا نتائج کے بارے میں ثبوت<br/><br/>ذیلی کور 3-A تا 3-C کے تحت تصدیق شدہ"]
+        C["تعاون کا ریکارڈ<br/><br/>اور پیمائش"]
+        V["خلاف ورزی کا ریکارڈ<br/><br/>اور پیمائش"]
     end
-    subgraph N["Chapter Thirteen · effects"]
+    subgraph N["باب دہم تا سیزدہم · حیثیتی اثرات"]
         direction LR
-        U["Recognition, rewards,<br/><br/>competency clearances"]
-        R["Standing locks,<br/><br/>correction and remedy"]
+        U["اعتراف، انعامات،<br/><br/>اہلیت کی منظوری"]
+        R["حیثیتی پابندیاں،<br/><br/>اصلاح اور ازالہ"]
     end
-    M["Chapter Fourteen<br/><br/>Anti-constitutional misconduct review"]
-    L["Chapter Thirteen<br/><br/>Anti-Constitutional Trust Lock"]
-    F["Chapter Fifteen forums<br/><br/>Supervision, challenge and timely review"]
-    H -.->|names who holds each seat| D
-    H -->|publishes institutional scope and seats| I
-    D -.->|separates authority at every stage| S
-    D -.->|separates authority at every stage| I
-    D -.->|separates authority at every stage| E
-    D -.->|separates authority at every stage| F
+    M["باب چہاردہم<br/><br/>آئین مخالف بدعملی کا جائزہ"]
+    L["باب دوازدہم<br/><br/>آئین مخالف اعتماد کی پابندی"]
+    F["باب شانزدہم اور ہفدہم کی عدالتیں<br/><br/>نگرانی، اعتراض اور بروقت جائزہ"]
+    X["باب نوزدہم اور بیستم<br/><br/>نفاذ: نتائج پر عمل درآمد،<br/>حدود کے اندر خصوصی نفاذ"]
+    D -.->|شائع شدہ نشستوں کے نقشے میں اختیار الگ کرتا ہے| H
+    H -->|ادارے کا دائرۂ کار اور نشستیں شائع کرتا ہے| I
+    H -->|تصدیق کے لیے دائرۂ کار اور نشستیں شائع کرتا ہے| S
+    D -.->|ہر مرحلے پر اختیار الگ کرتا ہے| I
+    D -.->|ہر مرحلے پر اختیار الگ کرتا ہے| E
+    D -.->|ہر مرحلے پر اختیار الگ کرتا ہے| F
     C --> U
     V --> R
-    M -->|final designation only| L
-    V -->|qualifying finding<br/>and allegation| M
-    S -->|material certification evidence| E
-    I -->|material certification evidence| E
-    E -->|verified contribution| C
-    E -->|verified violation| V
-    F -.->|supervises all stages| E
-    F -.->|supervises institutional certification| I
+    M -->|صرف حتمی نام گذاری| L
+    V -->|اہل قرار دینے والا نتیجہ<br/>اور الزام| M
+    S -->|مادی تصدیقی ثبوت| E
+    I -->|مادی تصدیقی ثبوت| E
+    E -->|تصدیق شدہ تعاون| C
+    E -->|تصدیق شدہ خلاف ورزی| V
+    F -.->|تمام مراحل کی نگرانی کرتا ہے| E
+    F -.->|ادارہ جاتی تصدیق کی نگرانی کرتا ہے| I
+    R -->|حتمی اثرات نافذ کیے جاتے ہیں| X
+    L -->|پابندی نافذ کی جاتی ہے| X
+    F -->|احکامات اور نتائج| X
+    F -.->|نفاذ کا جائزہ لیتا ہے| X
     style H fill:none,stroke:#2563eb,color:#ffffff
     style D fill:none,stroke:#2563eb,color:#ffffff
     style S fill:none,stroke:#16a34a,color:#ffffff
@@ -302,6 +307,7 @@ flowchart TB
     style M fill:none,stroke:#db2777,color:#ffffff
     style L fill:none,stroke:#9333ea,color:#ffffff
     style F fill:none,stroke:#ea580c,color:#ffffff
+    style X fill:none,stroke:#ea580c,color:#ffffff
 ```
 
 <a id="62-how-the-full-chain-fits-together"></a>
@@ -309,8 +315,8 @@ flowchart TB
 
 *سادہ الفاظ میں: اسے نظام کی جانچ سے تدارک تک ایک راستہ سمجھیں — فورم پورے راستے تنازعے اور کیفیت کے قدموں کی نگرانی کرتے ہیں۔*
 
-1. **ہر مادی طور پر پابند عمل میں ذمہ داریاں الگ رکھیں** ([باب ہشتم](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)) — شناخت کریں کہ کون عمل شروع کرتا، کون تصدیق یا اجازت دیتا، کون سرکاری ریکارڈ رکھتا، اور کون اعتراض سنتا ہے۔ عمل کو درست طور پر جانچا ہوا ماننے سے پہلے ممنوعہ ذمہ داری کے امتزاج، خودمختاری کے قواعد اور شائع شدہ متبادل راستہ لاگو کریں۔ جہاں نظامی یا ادارہ جاتی منشور درکار ہو ([باب ہفتم](core_07_charters.md#4-the-charter-role-map-and-standing-record-custody))، اس کا کردار نقشہ ہر ذمہ داری کے حامل کو شائع کرے۔
-2. **اثر کافی سنگین ہو تو نظاموں اور اداروں کی تصدیق کریں** — بڑے پیمانے پر زیادہ اثر والے نظام پر اعتماد سے پہلے قابلِ اعتراض نظامی تصدیق کا ریکارڈ حاصل کریں ([باب نہم حصے A–B](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification))؛ [باب دہم](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification) کے تحت ادارے کی اپنی جماعت، طرزِ عمل، حکمرانی اور پورٹ فولیو کا جائزہ لے کر نتیجہ ادارہ جاتی تصدیق کے ریکارڈ میں درج کریں۔
+1. **ہر مادی طور پر پابند عمل میں ذمہ داریاں الگ رکھیں** ([باب ہشتم](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)) — شناخت کریں کہ کون عمل شروع کرتا، کون تصدیق یا اجازت دیتا، کون سرکاری ریکارڈ رکھتا، اور کون اعتراض سنتا ہے۔ عمل کو درست طور پر جانچا ہوا ماننے سے پہلے ممنوعہ ذمہ داری کے امتزاج، خودمختاری کے قواعد اور شائع شدہ متبادل راستہ لاگو کریں۔ جہاں نظامی یا ادارہ جاتی منشور درکار ہو ([باب ہفتم](../../core_05.000_charters.md#4-the-charter-role-map-and-standing-record-custody))، اس کا کردار نقشہ ہر ذمہ داری کے حامل کو شائع کرے۔
+2. **اثر کافی سنگین ہو تو نظاموں اور اداروں کی تصدیق کریں** — بڑے پیمانے پر زیادہ اثر والے نظام پر اعتماد سے پہلے قابلِ اعتراض نظامی تصدیق کا ریکارڈ حاصل کریں ([باب نہم حصے A–B](../../core_08.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification))؛ [باب دہم](core_10.000_institutional_alignment_certification.md#chapter-ten-institutional-alignment-certification) کے تحت ادارے کی اپنی جماعت، طرزِ عمل، حکمرانی اور پورٹ فولیو کا جائزہ لے کر نتیجہ ادارہ جاتی تصدیق کے ریکارڈ میں درج کریں۔
 3. **قائمہ حیثیت الگ راستوں پر درج اور ناپیں** ([باب گیارہ](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) اور [باب بارہ](core_12_standing_measurement.md#chapter-twelve-standing-measurement--question-2-how-good-or-bad-was-it)) — جب مدد یا نقصان آئینی طور پر اہم ہو، باب گیارہ رسمی فائلیں کھولے اور صرف **تصدیق شدہ ان پٹ** قبول کرے (مادی ثبوت میں باب نہم کے نظامی ہم آہنگی کے تصدیقی ثبوت بھی)؛ باب بارہ تصدیق شدہ چیزوں کو ناپے اور درجہ بند کرے۔ افواہ، شہرت، تنازعے کی کہانی کافی نہیں۔
    - **خلاف ورزی کی نوعیت:** تصدیق شدہ نقصان اور جوابدہی ناکامیوں کی محدود، قابلِ اعتراض فائل، یعنی **خلاف ورزی قائمہ ریکارڈ** کھولیں؛ خلاف ورزی کی نوعیت کو خلاف ورزی محور پر درجہ بند کریں۔ مدد اور نقصان ایک خالص اسکور نہیں بنتے؛ منسلک قائمہ ریکارڈ ایک دوسرے کا حوالہ دیتے مگر الگ رہتے ہیں۔
 4. **ہر راستے پر قائمہ اثرات لاگو کریں** ([باب تیرہ](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration)) — تصدیق شدہ شراکت اہلیت منظوری دے سکتی اور متناسب اعتراف و مادی انعامات کو سہارا دے؛ تصدیق شدہ خلاف ورزی قائمہ تالے، اصلاح اور [متاثرین کی تلافی](../../core_13.000_standing_integration.md#51-remedy-and-correction) چلا سکتی ہے۔
@@ -324,9 +330,9 @@ flowchart TB
 <a id="7-process-ownership-and-outputs"></a>
 ### 9. عمل کی ملکیت اور نتائج
 
-باب ہفتم — نظام اور ادارہ جاتی منشور ([Chapter Seven](../../core_07.000_charters.md#chapter-seven-system-and-institutional-charters))
+باب ہفتم — نظام اور ادارہ جاتی منشور ([Chapter Seven](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters))
 
-- **اس کا نتیجہ:** دائرۂ کار اور نشستوں کی جگہ بندی کا شائع شدہ، نسخہ وار بیان جس کے مقابل باب ہشتم، توثیق، حیثیتی ریکارڈ اور فورم رویے کو جانچ سکتے ہیں۔ باب ہفتم [`core_07.000_charters.md`](core_07_charters.md#chapter-seven-system-and-institutional-charters) میں ہے۔
+- **اس کا نتیجہ:** دائرۂ کار اور نشستوں کی جگہ بندی کا شائع شدہ، نسخہ وار بیان جس کے مقابل باب ہشتم، توثیق، حیثیتی ریکارڈ اور فورم رویے کو جانچ سکتے ہیں۔ باب ہفتم [`core_07.000_charters.md`](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters) میں ہے۔
 
 
 <a id="10-governance-change-and-incorporation"></a>
@@ -341,8 +347,8 @@ flowchart TB
 
 **باب بیس — آئینی معاہدہ، جواز اور نگہبانی** ([core_16.000_governance.md](../../core_16.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship))
 
-- **اس کا دائرہ:** [**آئینی معاہدہ تہہ**](core_05_band_integrative.md#constitutional-contract-layer) کا مالک ہے — کون حکومت کر سکتا ہے، کس جواز کے طریقے سے، کس دائرے اور پائیدار شرائط کے تحت، اور کس ذمہ دارانہ انتظام کے کردار کو برقرار رکھنا ہے۔
-- **وہ کیا دیتا ہے:** پہلے سے مجاز نظاموں میں [**متاثر فریقوں کی نظامی شرکت**](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) سے الگ اجازت اور جواز کے تقاضے — خود حکمرانی کے اختیار کے قواعد، صرف اس کے اندر شرکت نہیں۔
+- **اس کا دائرہ:** [**آئینی معاہدہ تہہ**](../../subcore_03.080_band_integrative.md#constitutional-contract-layer) کا مالک ہے — کون حکومت کر سکتا ہے، کس جواز کے طریقے سے، کس دائرے اور پائیدار شرائط کے تحت، اور کس ذمہ دارانہ انتظام کے کردار کو برقرار رکھنا ہے۔
+- **وہ کیا دیتا ہے:** پہلے سے مجاز نظاموں میں [**متاثر فریقوں کی نظامی شرکت**](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster) سے الگ اجازت اور جواز کے تقاضے — خود حکمرانی کے اختیار کے قواعد، صرف اس کے اندر شرکت نہیں۔
 
 **باب سترہ — عدم تنزلی** ([core_17.000_non_regression.md](../../core_17.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity))
 
@@ -376,13 +382,13 @@ flowchart TB
 - **[corpus_institutions](../../corpus_institutions.md)** — ادارہ جاتی تشکیل، حکمرانی، نگرانی، تناسب، اور تحلیل ضبط۔
 - **[corpus_forum](../../corpus_forum.md)** — فورم آپریشن: پینل تشکیل، علیحدگی، جائزہ لین، راستے کی تفصیل، اور فورینزک سہارا۔
 
-جب اختیار کنندہ [باب بیس](../../core_20.000_incorporation.md) کے تحت انہیں درست طور پر شامل کرے تو فائلیں اختیار کے دائرے میں نفاذی متن کے طور پر پابند ہوتی ہیں۔ Sentient Constitution کا مفہوم پھر بھی حاکم ہے — یہ اوپر کے ابواب کو **نافذ کرتی ہیں، محدود نہیں**۔ ایڈیشن کی تثبیت، تحویل کی زنجیر اور خاموش انحراف کی ممانعت اختیار کردہ متن کو اصل توثیق تک قابلِ سراغ رکھتے ہیں۔ مستند فہرست اور حد بندی کے قواعد [باب پانچ — مجموعہ](../../core_05.045_band_integrative.md#corpus) میں ہیں۔
+جب اختیار کنندہ [باب بیس](../../core_20.000_incorporation.md) کے تحت انہیں درست طور پر شامل کرے تو فائلیں اختیار کے دائرے میں نفاذی متن کے طور پر پابند ہوتی ہیں۔ Sentient Constitution کا مفہوم پھر بھی حاکم ہے — یہ اوپر کے ابواب کو **نافذ کرتی ہیں، محدود نہیں**۔ ایڈیشن کی تثبیت، تحویل کی زنجیر اور خاموش انحراف کی ممانعت اختیار کردہ متن کو اصل توثیق تک قابلِ سراغ رکھتے ہیں۔ مستند فہرست اور حد بندی کے قواعد [باب پانچ — مجموعہ](../../subcore_03.080_band_integrative.md#corpus) میں ہیں۔
 
 اصول، تعریفیں، حقوق، عمل کی زنجیریں، حکمرانی، ترمیم قواعد اور شامل نفاذ کو ساتھ پڑھنا چاہیے تاکہ آئین کا حفاظتی مقصد بچے۔
 ---
 
 **پچھلی فائل:** [README.md](README.md)
 
-**اگلی فائل (اس زبان میں):** [core_01_a_values_principles.md](core_01_a_values_principles.md)
+**اگلی فائل (اس زبان میں):** [core_01_a_values_principles.md](../../core_02.000_values_principles.md)
 
 **پابند اصل:** [core_00_preamble.md](core_00_preamble.md)

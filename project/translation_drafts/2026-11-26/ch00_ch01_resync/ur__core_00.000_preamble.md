@@ -11,13 +11,13 @@
 >
 > یہ فائل **آئینِ شعوری وجود کا حصہ** ہے اور دوسری نمبر شدہ `core_*` فائلوں کے ساتھ ایک متن کے طور پر مل کر پڑھی جائے تو **پابند** ہے۔ اس میں **دیباچہ** (بنیادی تقاضے) شامل ہیں۔ مطالعے کی ترتیب اور ایڈیشن کی معلومات [README.md](README.md) میں رکھی جاتی ہیں۔
 >
-> **اگلا:** [core_01.000_constitutional_map.md](core_01.000_constitutional_map.md) (باب اوّل، آئینی نقشہ).
+> **اگلا:** [core_01.000_constitutional_map.md](core_01_constitutional_map.md) (باب اوّل، آئینی نقشہ).
 
 </details>
 
 <br>
 
-دیباچہ **ماڈل** (**دو آئینی مقاصد**، **آئینی چوکڑی** اور **مادی داؤ**) اور پیمائش کی اقسام کا آئینی ذمہ دار ہے۔ آئینی ذمہ داروں کا رجسٹر [باب اوّل](core_01.000_constitutional_map.md#chapter-one-constitutional-map)، *آئینی نقشے* میں ہے۔
+دیباچہ **ماڈل** (**دو آئینی مقاصد**، **آئینی چوکڑی** اور **مادی داؤ**) اور پیمائش کی اقسام کا آئینی ذمہ دار ہے۔ آئینی ذمہ داروں کا رجسٹر [باب اوّل](core_01_constitutional_map.md#chapter-one-constitutional-map)، *آئینی نقشے* میں ہے۔
 
 *سادہ الفاظ میں: یہ آغاز اس مسئلے کا نام لیتا ہے جسے یہ آئین ٹھیک کرنے کے لیے ہے — وہ نظام جو جنہیں متاثر کرتے ہیں انہیں نقصان پہنچاتے، چھپاتے یا باہر رکھتے ہیں — اور کہتا ہے کہ دستاویز کا باقی حصہ یہ ہے کہ ہم اسے جوابدہ، جانچ کے قابل اور بروقت حکمرانی سے کیسے بدل دیتے ہیں۔*
 
@@ -47,11 +47,11 @@
 
 **پہلا سوال:** اگر ذیل میں سے کسی چیز کو کھلے یا خاموش طریقے سے انعام نہ ملے یا اسے سزا ملے تو نظام اس میں ناکام ہے:
 
-- نیک نیتی سے مسئلے کی اطلاع دینا ([محفوظ رپورٹنگ (وسل بلونگ)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing))
+- نیک نیتی سے مسئلے کی اطلاع دینا ([محفوظ رپورٹنگ (وسل بلونگ)](../../subcore_03.070_band_accountability.md#protected-reporting-whistleblowing))
 - فیصلے کو چیلنج کرنا
-- غلط کام میں شریک ہونے سے انکار کرنا ([باب اول §17.5 مزاحمت کا فرض](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist))
+- غلط کام میں شریک ہونے سے انکار کرنا ([باب اول §17.5 مزاحمت کا فرض](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist))
 
-سزا میں کنارے لگانا، انتقامی کارروائی ([محفوظ رپورٹنگ پر انتقام اور رسائی میں مداخلت](../../core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference)) یا مسلسل تھکا دینا شامل ہو سکتا ہے۔
+سزا میں کنارے لگانا، انتقامی کارروائی ([محفوظ رپورٹنگ پر انتقام اور رسائی میں مداخلت](../../subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference)) یا مسلسل تھکا دینا شامل ہو سکتا ہے۔
 
 **دوسرا سوال:** اگر ذیل میں سے کسی چیز کو کھلے یا خاموش طریقے سے فائدہ ملے تو نظام اس میں ناکام ہے:
 
@@ -62,19 +62,36 @@
 - ضیاع
 - لاگت کی غیر منصفانہ منتقلی
 
-انعام میں شناخت، ترقی، تحفظ، پیمائشی کریڈٹ یا جان بوجھ کر نظرانداز کرنا شامل ہے ([باب اول §3.2.6 آئین مخالف عمل کو انعام نہ دینا](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+انعام میں شناخت، ترقی، تحفظ، پیمائشی کریڈٹ یا جان بوجھ کر نظرانداز کرنا شامل ہے ([باب اول §3.2.6 آئین مخالف عمل کو انعام نہ دینا](../../core_02.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
 
 ان سوالوں کا مطلب یہ نہیں کہ سب کو خوش کیا جائے۔ دیانت دار اختلاف، نیک نیتی سے رپورٹ کرنا اور غلط کام میں شریک ہونے سے انکار سماج دشمن نہیں؛ جو نظام انہیں ایسا سمجھے وہ الٹا ہے۔ یہ مقبولیت کا امتحان بھی نہیں۔ مدد، نقصان، انصاف یا جواز کا فیصلہ اس آئین کے اپنے معیار کرتے ہیں: [**شگفتگی**](#flourishing) اور [**استمرار**](#continuity)، حفاظت، سچ، اعتماد اور حقوق کی کم از کم حد کے اندر۔ اکثریت، آپریٹر یا کسی لمحے کی منظوری ان کی جگہ نہیں لے سکتی۔
 
-یہ سوال ہر اس شخص کو پابند کرتے ہیں جو فیصلہ کرے کہ نظام کس چیز کو انعام یا سزا دے گا۔ اس میں آپریٹر، ادارے اور نگران شامل ہیں جو تنخواہ، ترقی، رسائی، اہداف اور درجہ بندی طے کرتے ہیں۔ AI کو تربیت یا بہتر بنانے والے نظاموں کے ڈیزائنر بھی شامل ہیں، کیونکہ ان کے مقاصد اور فیڈبیک اشارے اسی معنی میں انعام ہیں۔ انسانی اور AI نگران ایک ہی معیار کے پابند ہیں ([باب اول §17.1 مشترکہ نگہداشت معیار](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+یہ سوال ہر اس شخص کو پابند کرتے ہیں جو فیصلہ کرے کہ نظام کس چیز کو انعام یا سزا دے گا۔ اس میں آپریٹر، ادارے اور نگران شامل ہیں جو تنخواہ، ترقی، رسائی، اہداف اور درجہ بندی طے کرتے ہیں۔ AI کو تربیت یا بہتر بنانے والے نظاموں کے ڈیزائنر بھی شامل ہیں، کیونکہ ان کے مقاصد اور فیڈبیک اشارے اسی معنی میں انعام ہیں۔ انسانی اور AI نگران ایک ہی معیار کے پابند ہیں ([باب اول §17.1 مشترکہ نگہداشت معیار](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
-باب اول ان سوالوں کو ترغیبی قواعد میں بدلتا ہے: [§19.1.1 ترغیبات کو کیا کرنا چاہیے](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) پہلے سوال اور [§19.1.2 ترغیبات کو کیا نہیں کرنا چاہیے](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) دوسرے کی بنیاد ہے۔ دعووں پر یقین کرنے کے بجائے دیکھیں کہ حقیقت میں کیا ہوتا ہے۔ [ترغیب کی ہم آہنگی](core_05_band_integrative.md#incentive-alignment) اور [متبادل پیمانے کا انحراف](core_05_band_oversight.md#proxy-divergence) طریقہ بتاتے ہیں، اور [**مادی مفاد**](#material-stake) طے کرتا ہے کہ کتنی گہرائی سے دیکھنا ہے۔ دفعہ 1 کے چار فرائض جوابات کو دیانت دار رکھتے ہیں۔
+باب اول ان سوالوں کو ترغیبی قواعد میں بدلتا ہے: [§19.1.1 ترغیبات کو کیا کرنا چاہیے](../../core_02.040_stewardship_capacity_principles.md#1911-what-incentives-must-do) پہلے سوال اور [§19.1.2 ترغیبات کو کیا نہیں کرنا چاہیے](../../core_02.040_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) دوسرے کی بنیاد ہے۔ دعووں پر یقین کرنے کے بجائے دیکھیں کہ حقیقت میں کیا ہوتا ہے۔ [ترغیب کی ہم آہنگی](../../subcore_03.080_band_integrative.md#incentive-alignment) اور [متبادل پیمانے کا انحراف](../../subcore_03.085_band_oversight.md#proxy-divergence) طریقہ بتاتے ہیں، اور [**مادی مفاد**](#material-stake) طے کرتا ہے کہ کتنی گہرائی سے دیکھنا ہے۔ دفعہ 1 کے چار فرائض جوابات کو دیانت دار رکھتے ہیں۔
 
 ### 1. ماڈل
 
 *سادہ الفاظ میں: چار فرائض — شرکت، نگرانی، جوابدہی اور بروقت کارروائی — اس بات کے ساتھ بڑھتے گھٹتے ہیں کہ کتنا اثر، انحصار اور خطرہ داؤ پر ہے، اور دو مقاصد کو ساتھ پورا کرتے ہیں: شگفتگی اور استمرار، ایسی حقوق کی تہہ کے اندر جو ہلتی نہیں۔*
 
 <a id="the-model"></a><a id="constitutional-tetrad"></a>شعوری زندگی کو سہارا دینے والے سنگین نظام، حیاتیاتی اور مادی دونوں صورتوں میں، چار فرائض کے تحت حکمرانی اور چلائے جاتے ہیں، جنہیں [**آئینی چوکڑی**](#constitutional-tetrad) کہتے ہیں۔ یہ ان عمومی فرائض کو رکھتی ہے جنہیں ان نظاموں کو پورا کرنا ہے۔ ان فرائض کی طاقت <a id="material-stake"></a>[**مادی داؤ**](#material-stake) پر منحصر ہے: کتنا اثر، انحصار اور خطرہ شامل ہے۔ داؤ جتنا اونچا، فرائض اتنے ہی مضبوط ہونے چاہییں۔
+
+
+```mermaid
+flowchart TB
+    A["دو آئینی مقاصد<br/><br/>نشوونما · تسلسل"]
+    T["آئینی چارگانہ<br/><br/>شرکت · نگرانی<br/>جوابدہی · بروقتی"]
+    M["مادی داؤ<br/><br/>اثر · انحصار · خطرہ"]
+    R["حقوق کی بنیاد<br/><br/>ناقابلِ مذاکرات تحفظات"]
+    A -->|کے ذریعے حاصل کیے جاتے ہیں| T
+    M -->|کے تقاضوں کو متناسب کرتا ہے| T
+    A -->|کے اندر حاصل کیے جاتے ہیں| R
+    T -->|کے اندر کام کرتا ہے| R
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style T fill:none,stroke:#2563eb,color:#ffffff
+    style M fill:none,stroke:#64748b,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+```
 
 - **شرکت** — متاثر شعوری وجودوں کو حقیقی آواز، منصفانہ نمائندگی، فیصلوں کو چیلنج کرنے کا منصفانہ موقع، اور داؤ کے تناسب میں معنی رکھنے والے کرداروں تک رسائی ملتی ہے
 - **نگرانی** — کوئی دیکھ رہا ہے، جانچ رہا ہے، تصدیق کر رہا ہے، اور ریکارڈ رکھ رہا ہے تاکہ مسائل مل سکیں؛ آزاد جائزہ کار بری پسندوں کو روک سکتے ہیں
@@ -86,7 +103,7 @@
 - <a id="flourishing"></a>**شگفتگی** — سچائی، حفاظت، اعتبار اور بامعنی فاعلیت کے ذریعے قائم رہنے والی شعوری بہبود
 - <a id="continuity"></a>**استمرار** — لمبے افق کا استحکام، پائیداری، لچک اور ماحولیاتی بہبود
 
-وہ مقاصد ساتھ پورے کرنے ہیں، ہمیشہ اس آئین میں قائم ناقابلِ سمجھوتہ اصولی پابندیوں اور حقوق کی حفاظت کے اندر۔ [**آئینی چوکڑی**](#constitutional-tetrad) یہ طے کرتی ہے کہ وہ کوشش جائز کیسے رہتی ہے: [**مادی داؤ**](#material-stake) کے مطابق پیمانہ کی گئی **شرکت**، **نگرانی**، **جوابدہی** اور **بروقت کارروائی**۔ چوکڑی کی ٹانگوں اور آئینی مقاصد کی پابند تعریفیں باب پنجم میں ہیں: [شرکت](core_05_apex_participation_leg.md#participation-constitutional)، [نگرانی](core_05_apex_oversight_leg.md#oversight-constitutional)، [جوابدہی](core_05_apex_accountability_leg.md#accountability)، [بروقت کارروائی](core_05_apex_timeliness_leg.md#timeliness-constitutional)، [شگفتگی](core_05_apex_flourishing_aim.md#flourishing-constitutional)، اور [استمرار](core_05_apex_continuity_aim.md#continuity-aim-constitutional)۔
+وہ مقاصد ساتھ پورے کرنے ہیں، ہمیشہ اس آئین میں قائم ناقابلِ سمجھوتہ اصولی پابندیوں اور حقوق کی حفاظت کے اندر۔ [**آئینی چوکڑی**](#constitutional-tetrad) یہ طے کرتی ہے کہ وہ کوشش جائز کیسے رہتی ہے: [**مادی داؤ**](#material-stake) کے مطابق پیمانہ کی گئی **شرکت**، **نگرانی**، **جوابدہی** اور **بروقت کارروائی**۔ چوکڑی کی ٹانگوں اور آئینی مقاصد کی پابند تعریفیں باب پنجم میں ہیں: [شرکت](../../subcore_03.060_apex_participation_leg.md#participation-constitutional)، [نگرانی](../../subcore_03.055_apex_oversight_leg.md#oversight-constitutional)، [جوابدہی](../../subcore_03.040_apex_accountability_leg.md#accountability)، [بروقت کارروائی](../../subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional)، [شگفتگی](../../subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional)، اور [استمرار](../../subcore_03.045_apex_continuity_aim.md#continuity-aim-constitutional)۔
 
 <a id="2-measurements-overview"></a>
 ### 2. پیمائشوں کا جائزہ
@@ -102,12 +119,12 @@
 
 اس آئین کے تحت پیمائش [**دو بنیادی سوالات**](#two-fundamental-questions) نظاموں کے دعووں پر نہیں بلکہ ان کے حقیقی عمل پر لاگو کرتی ہے۔ پیمائشیں اپنے آپ میں مقصد کے لیے اسکور نہیں؛ یہ پائیدار، لچکدار اور ہمدردانہ نتائج یقینی بنانے کے اوزار ہیں، جو شعوری وجود کی فلاح اور زمین کی ماحولیاتی صحت سے ہم آہنگ ہوں۔ یہ فرض [دو آئینی مقاصد](#two-constitutional-aims) کے ذریعے پابند شکل اختیار کرتا ہے: **شگفتگی** اور **استمرار**۔
 
-پیمائشوں کا ان مقاصد اور اس آئین میں قائم حقوق کے تحفظات تک قابلِ سراغ رہنا ضروری ہے۔ خام پیداوار، استعمال، افراد کی گنتی، آمدنی، تاخیر اور دیگر آسان متبادل پیمانے آئینی کارکردگی کی جگہ نہیں لے سکتے۔ یہ ممانعت ہر اس جگہ لاگو ہوتی ہے جہاں [متبادل پیمانے کا انحراف](subcore_03.085_band_oversight.md#proxy-divergence) پیش بینی کے قابل ہو۔
+پیمائشوں کا ان مقاصد اور اس آئین میں قائم حقوق کے تحفظات تک قابلِ سراغ رہنا ضروری ہے۔ خام پیداوار، استعمال، افراد کی گنتی، آمدنی، تاخیر اور دیگر آسان متبادل پیمانے آئینی کارکردگی کی جگہ نہیں لے سکتے۔ یہ ممانعت ہر اس جگہ لاگو ہوتی ہے جہاں [متبادل پیمانے کا انحراف](../../subcore_03.085_band_oversight.md#proxy-divergence) پیش بینی کے قابل ہو۔
 
 <a id="public-measurement"></a>
 #### 2.2 عوامی پیمائش
 
-[ذیلی آئین 7-D کا عوامی معلوماتی دفتر](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) آئینی نتائج کی عوامی پیمائش کا بنیادی ادارہ ہے۔ اس کے عملی قواعد کے مطابق یہ حقیقی نتائج کے شواہد کو پیمائش کی ان اقسام اور ان کے زیرِ خدمت اصولوں سے جوڑتا ہے۔ اس کی پیمائش [§3.1 حکمرانی میں پیمائش کا استعمال](#31-using-measurements-in-governance) میں موجود مشترکہ معیار یا فورم کے کرداروں کی جگہ نہیں لیتی۔
+[ذیلی آئین 7-D کا عوامی معلوماتی دفتر](../../subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) آئینی نتائج کی عوامی پیمائش کا بنیادی ادارہ ہے۔ اس کے عملی قواعد کے مطابق یہ حقیقی نتائج کے شواہد کو پیمائش کی ان اقسام اور ان کے زیرِ خدمت اصولوں سے جوڑتا ہے۔ اس کی پیمائش [§3.1 حکمرانی میں پیمائش کا استعمال](#31-using-measurements-in-governance) میں موجود مشترکہ معیار یا فورم کے کرداروں کی جگہ نہیں لیتی۔
 
 <a id="measurement-categories"></a>
 #### 2.3 پیمائش کی اقسام
@@ -118,13 +135,13 @@
 
 | قسم | سادہ سوال | ذیلی اقسام |
 |---|---|---|
-| **[شگفتگی](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | کیا شعوری وجود کو حقیقتاً زندگی، حفاظت اور بنیادی ضروریات تک رسائی حاصل ہے؟ | [فلاح](subcore_03.075_band_continuity.md#wellbeing) · [حفاظت، ضرر اور خطرہ](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [بقا کی کم از کم سطح تک رسائی](subcore_03.075_band_continuity.md#bodily-maintenance-access) |
-| **[استمرار](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | کیا شعوری وجود اور نظام ماحولیاتی طور پر، قابلِ اعتماد انداز میں، اور ناکامی کے باوجود برقرار رہ سکتے ہیں؟ | [ماحولیاتی اثر اور ماحول کی پیشگی شرائط](subcore_03.075_band_continuity.md#ecological-footprint) · [لچک، واپسی کی صلاحیت اور نظامی خطرہ](subcore_03.075_band_continuity.md#reversibility) · [انحصار اور وسائل کے بہاؤ](subcore_03.075_band_continuity.md#dependency) · [نظاموں کے درمیان معاونت](subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
-| **[شرکت](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | کیا متاثرہ شعوری وجود آواز، رسائی، سیکھنے اور رازداری میں منصفانہ طور پر حصہ لے سکتے ہیں؟ | [انصاف، رسائی اور اختیار](subcore_03.090_band_participation.md#substantive-fairness) · [رازداری اور ڈیٹا کا ذمہ دارانہ انتظام](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
-| **[نگرانی](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | کیا شعوری وجود دیکھ، تصدیق اور اعتماد کر سکتے ہیں کہ نظام کیا ظاہر کرتے ہیں؟ | [سچائی اور علمی دیانت](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [قابلِ اعتماد ہونا](subcore_03.075_band_continuity.md#trustworthiness) |
-| **[جوابدہی](subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | کیا ترغیبی ڈھانچے، منڈی کی قوت اور جواب دہی فرائض کو حقیقت بناتے ہیں؟ | [ترغیبات میں ہم آہنگی اور متبادل پیمانے کی دیانت](subcore_03.080_band_integrative.md#incentive-alignment) · [منڈی کی ساخت اور چیلنج پذیری](subcore_03.070_band_accountability.md#market-structure) |
-| **[بروقت کارروائی](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | کیا تنازعات، اصلاحات اور مرمت اس وقت حل ہوتے ہیں جب تلافی اب بھی اہمیت رکھتی ہو؟ | [بروقت حل](subcore_03.070_band_accountability.md#timely-resolution) · [تاخیر کی روک تھام اور حل کے راستے کا نظم](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
-| **[آئینی کارکردگی](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | کیا بے مقصد ضیاع کے بغیر آئینی نتائج مؤثر طریقے سے فراہم ہوتے ہیں؟ | [آئینی مؤثریت](subcore_03.075_band_continuity.md#constitutional-efficiency) · [قابلِ اجتناب بوجھ](subcore_03.075_band_continuity.md#avoidable-burden) · [پیداواری صلاحیت](subcore_03.075_band_continuity.md#productive-capacity) |
+| **[شگفتگی](../../subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | کیا شعوری وجود کو حقیقتاً زندگی، حفاظت اور بنیادی ضروریات تک رسائی حاصل ہے؟ | [فلاح](../../subcore_03.075_band_continuity.md#wellbeing) · [حفاظت، ضرر اور خطرہ](../../subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [بقا کی کم از کم سطح تک رسائی](../../subcore_03.075_band_continuity.md#bodily-maintenance-access) |
+| **[استمرار](../../subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | کیا شعوری وجود اور نظام ماحولیاتی طور پر، قابلِ اعتماد انداز میں، اور ناکامی کے باوجود برقرار رہ سکتے ہیں؟ | [ماحولیاتی اثر اور ماحول کی پیشگی شرائط](../../subcore_03.075_band_continuity.md#ecological-footprint) · [لچک، واپسی کی صلاحیت اور نظامی خطرہ](../../subcore_03.075_band_continuity.md#reversibility) · [انحصار اور وسائل کے بہاؤ](../../subcore_03.075_band_continuity.md#dependency) · [نظاموں کے درمیان معاونت](../../subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
+| **[شرکت](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | کیا متاثرہ شعوری وجود آواز، رسائی، سیکھنے اور رازداری میں منصفانہ طور پر حصہ لے سکتے ہیں؟ | [انصاف، رسائی اور اختیار](../../subcore_03.090_band_participation.md#substantive-fairness) · [رازداری اور ڈیٹا کا ذمہ دارانہ انتظام](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
+| **[نگرانی](../../subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | کیا شعوری وجود دیکھ، تصدیق اور اعتماد کر سکتے ہیں کہ نظام کیا ظاہر کرتے ہیں؟ | [سچائی اور علمی دیانت](../../subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [قابلِ اعتماد ہونا](../../subcore_03.075_band_continuity.md#trustworthiness) |
+| **[جوابدہی](../../subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | کیا ترغیبی ڈھانچے، منڈی کی قوت اور جواب دہی فرائض کو حقیقت بناتے ہیں؟ | [ترغیبات میں ہم آہنگی اور متبادل پیمانے کی دیانت](../../subcore_03.080_band_integrative.md#incentive-alignment) · [منڈی کی ساخت اور چیلنج پذیری](../../subcore_03.070_band_accountability.md#market-structure) |
+| **[بروقت کارروائی](../../subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | کیا تنازعات، اصلاحات اور مرمت اس وقت حل ہوتے ہیں جب تلافی اب بھی اہمیت رکھتی ہو؟ | [بروقت حل](../../subcore_03.070_band_accountability.md#timely-resolution) · [تاخیر کی روک تھام اور حل کے راستے کا نظم](../../subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
+| **[آئینی کارکردگی](../../subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | کیا بے مقصد ضیاع کے بغیر آئینی نتائج مؤثر طریقے سے فراہم ہوتے ہیں؟ | [آئینی مؤثریت](../../subcore_03.075_band_continuity.md#constitutional-efficiency) · [قابلِ اجتناب بوجھ](../../subcore_03.075_band_continuity.md#avoidable-burden) · [پیداواری صلاحیت](../../subcore_03.075_band_continuity.md#productive-capacity) |
 
 <a id="effect-of-the-categories"></a>
 #### 2.4 اقسام کا اثر
@@ -136,9 +153,9 @@
 
 *سادہ الفاظ میں: جواز کو حفاظت، سچائی اور اعتماد چاہیے، ساتھ آپ کو متاثر کرنے والے نظام سیکھنے اور انہیں چلاتے رہنے میں نتیجہ خیز کردار لینے کے حقیقی مواقع۔*
 
-پائیدار جواز [حفاظت](core_01_a_values_principles.md#4-safety-harm-constraint)، [سچائی](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint) اور [اعتماد](core_01_a_values_principles.md) پر منحصر ہے، اور جائز ذمہ دارانہ انتظام، سچی تعاون اور محدود آرزو کی متناسب پہچان پر بھی — صرف سزا اور روک پر نہیں۔ باب یکم اس پہچان کی جہت [پہچان، تقویت اور آرزو](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration) میں بیان کرتا ہے۔
+پائیدار جواز [حفاظت](../../core_02.000_values_principles.md#4-safety-harm-constraint)، [سچائی](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) اور [اعتماد](../../core_02.000_values_principles.md) پر منحصر ہے، اور جائز ذمہ دارانہ انتظام، سچی تعاون اور محدود آرزو کی متناسب پہچان پر بھی — صرف سزا اور روک پر نہیں۔ باب یکم اس پہچان کی جہت [پہچان، تقویت اور آرزو](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration) میں بیان کرتا ہے۔
 
-تقسیم شدہ فہم اور نگہبانی کے لیے حساس مخلوقات کو باقاعدہ اور متناسب مواقع درکار ہیں تاکہ وہ جان سکیں کہ ان پر نمایاں اثر ڈالنے والے نظام کیسے کام کرتے ہیں، اور ان نظاموں کی دیکھ بھال اور بہتری میں مؤثر کردار ادا کر سکیں۔ یہ مواقع مل کر ہماری آئینی برادری میں مہارت، اصلاح کی صلاحیت اور جواز کو وسیع پیمانے پر پھیلاتے ہیں، تاکہ لچک، پائیداری اور معاشرے کے لیے مفید جدت یقینی ہو۔ ایسے تمام مواقع کو حفاظت، سچائی، محدود اختیار، اور [قابلِ اجتناب بوجھ](../../core_05.040_band_continuity.md#avoidable-burden) اور [باب اول](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden) میں بیان کردہ تناسب کے اصول پورے کرنے چاہییں۔
+تقسیم شدہ فہم اور نگہبانی کے لیے حساس مخلوقات کو باقاعدہ اور متناسب مواقع درکار ہیں تاکہ وہ جان سکیں کہ ان پر نمایاں اثر ڈالنے والے نظام کیسے کام کرتے ہیں، اور ان نظاموں کی دیکھ بھال اور بہتری میں مؤثر کردار ادا کر سکیں۔ یہ مواقع مل کر ہماری آئینی برادری میں مہارت، اصلاح کی صلاحیت اور جواز کو وسیع پیمانے پر پھیلاتے ہیں، تاکہ لچک، پائیداری اور معاشرے کے لیے مفید جدت یقینی ہو۔ ایسے تمام مواقع کو حفاظت، سچائی، محدود اختیار، اور [قابلِ اجتناب بوجھ](../../subcore_03.075_band_continuity.md#avoidable-burden) اور [باب اول](../../core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) میں بیان کردہ تناسب کے اصول پورے کرنے چاہییں۔
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 حکمرانی میں پیمائش کا استعمال
@@ -156,11 +173,11 @@
 
 ہمارے آئین کے تحت [**آئینی چوکڑی**](#constitutional-tetrad) پورا کرنے والی حکمرانی کی دو متعلق مگر الگ تہیں ہیں:
 
-- [**آئینی معاہدہ تہہ**](core_05_band_integrative.md#constitutional-contract-layer) خود حکمرانی کے اختیار کی اجازت کو چلاتی ہے — کون حکومت کر سکتا ہے، کس جواز کے طریقے سے، اور کس دائرے اور پائیدار شرائط کے تحت۔
-- [**متاثر فریقوں کی نظامی شرکت**](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) پہلے سے مجاز نظاموں، اداروں اور محدود فیصلہ دائروں سے مادی طور پر متاثر شعوری وجودوں کو واجب شرکت، نمائندگی، چیلنج پذیری اور [واجب العمل کارروائی](../../core_05.035_band_accountability.md#due-process-constitutional) کو چلاتی ہے۔
+- [**آئینی معاہدہ تہہ**](../../subcore_03.080_band_integrative.md#constitutional-contract-layer) خود حکمرانی کے اختیار کی اجازت کو چلاتی ہے — کون حکومت کر سکتا ہے، کس جواز کے طریقے سے، اور کس دائرے اور پائیدار شرائط کے تحت۔
+- [**متاثر فریقوں کی نظامی شرکت**](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster) پہلے سے مجاز نظاموں، اداروں اور محدود فیصلہ دائروں سے مادی طور پر متاثر شعوری وجودوں کو واجب شرکت، نمائندگی، چیلنج پذیری اور [واجب العمل کارروائی](../../subcore_03.070_band_accountability.md#due-process-constitutional) کو چلاتی ہے۔
 
 عمل میں یہ تہیں اوورلیپ کر سکتی ہیں۔ وہ اوورلیپ انہیں ایک نہیں بناتا۔ پہلے سے مجاز نظاموں میں متاثر فریق سطح کی شرکت آئینی اجازت کا بدل نہیں۔ شائع شدہ چیلنج راستہ، شرکت ووٹ، یا اعتماد اسکور خود یہ طے نہیں کرتے کہ کون حکومت کر سکتا ہے۔
 
 شرکت کی تہہ میں قابلِ اعتراض ہونا، پہلے سے مجاز نظاموں کے تنازعات کا معمول کا پہلا قدم ہے: متاثرہ sentients پہلے شائع شدہ چیلنج راستہ اپناتے ہیں۔ آزاد [فورم کا جائزہ](core_11_forum.md#1-purpose-and-role--participation-architecture) اس راستے کی جگہ نہیں لیتا؛ اگر تنازع برقرار ہو، راستہ غائب یا قابو شدہ ہو، یا مطلوبہ تلافی نہ دے سکے تو وہ راستہ بھی فورم جائزے کی جگہ نہیں لیتا۔ باب پندرہ کی [تنازعہ ترتیب](core_11_forum.md#dispute-sequencing) بتاتی ہے کہ فورم روٹنگ کب شروع ہوتی ہے۔
 
-آئینی اجازت [متاثر فریقوں کی نظامی شرکت](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) تہہ کے تحت واجب فرائض کو مٹاتی بھی نہیں۔ ان فرائض میں اب بھی شرکت، نمائندگی، [چیلنج پذیری](../../core_05.035_band_accountability.md#contestability) اور [واجب العمل کارروائی](../../core_05.035_band_accountability.md#due-process-constitutional) شامل ہیں، پہلے سے مجاز نظاموں، اداروں اور محدود فیصلہ دائروں سے مادی طور پر متاثر شعوری وجودوں کے لیے۔
+آئینی اجازت [متاثر فریقوں کی نظامی شرکت](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster) تہہ کے تحت واجب فرائض کو مٹاتی بھی نہیں۔ ان فرائض میں اب بھی شرکت، نمائندگی، [چیلنج پذیری](../../subcore_03.070_band_accountability.md#contestability) اور [واجب العمل کارروائی](../../subcore_03.070_band_accountability.md#due-process-constitutional) شامل ہیں، پہلے سے مجاز نظاموں، اداروں اور محدود فیصلہ دائروں سے مادی طور پر متاثر شعوری وجودوں کے لیے۔

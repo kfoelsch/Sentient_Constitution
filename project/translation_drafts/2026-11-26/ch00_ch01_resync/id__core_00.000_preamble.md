@@ -8,15 +8,15 @@
 
 > Widget berlabel **non-operatif** (letak dalam korpus, panduan pembaca, peta pembaca) hanya berfungsi sebagai orientasi. Widget tersebut tidak menambah, menghapus, atau mempersempit kewajiban yang mengikat, baik di berkasnya sendiri maupun di berkas lain.
 >
-> Berkas ini adalah **bagian dari Konstitusi Makhluk Sadar** dan **mengikat hanya bersama** berkas `core_*` bernomor lainnya, yang dibaca sebagai satu teks. Isinya adalah **Pembukaan** (persyaratan dasar). Urutan baca dan metadata edisi dipelihara dalam [README.md](README.md).
+> Berkas ini adalah **bagian dari Konstitusi Makhluk Sadar** dan **mengikat hanya bersama** berkas `core_*` bernomor lainnya, yang dibaca sebagai satu teks. Isinya adalah **Pembukaan** (persyaratan dasar). Urutan baca dan metadata edisi dipelihara dalam [README.md](../../README.md).
 >
-> **Berikutnya:** [core_01.000_constitutional_map.md](core_01.000_constitutional_map.md) (Bab Satu, Peta Konstitusional).
+> **Berikutnya:** [core_01.000_constitutional_map.md](core_01_constitutional_map.md) (Bab Satu, Peta Konstitusional).
 
 </details>
 
 <br>
 
-Pembukaan adalah pemilik konstitusional **Model (Dua Tujuan Konstitusional, Tetrad Konstitusional, dan taruhan material) serta kategori pengukuran**. Daftar pemilik konstitusional terdapat di [Bab Satu](core_01.000_constitutional_map.md#chapter-one-constitutional-map), *Peta Konstitusional*.
+Pembukaan adalah pemilik konstitusional **Model (Dua Tujuan Konstitusional, Tetrad Konstitusional, dan taruhan material) serta kategori pengukuran**. Daftar pemilik konstitusional terdapat di [Bab Satu](core_01_constitutional_map.md#chapter-one-constitutional-map), *Peta Konstitusional*.
 
 
 *Dalam bahasa sederhana: pembuka ini menamai masalah yang ada Konstitusi ini untuk memperbaiki — sistem yang menyakiti, menyembunyikan, atau mengunci keluar pihak yang mereka pengaruhi — dan mengatakan bahwa sisa instrumen adalah cara kita menggantinya dengan tata kelola yang dapat dimintai pertanggungjawaban, dapat diperiksa, dan tepat waktu.*
@@ -47,11 +47,11 @@ Sistem hanya lulus jika jawaban pertanyaan pertama ya dan jawaban pertanyaan ked
 
 **Pertanyaan pertama:** sistem gagal jika salah satu hal berikut tidak diberi imbalan atau justru dikenai hukuman, secara terbuka ataupun diam-diam:
 
-- melaporkan masalah dengan iktikad baik ([Pelaporan yang Dilindungi (Pengungkapan Pelanggaran)](../../core_05.035_band_accountability.md#protected-reporting-whistleblowing))
+- melaporkan masalah dengan iktikad baik ([Pelaporan yang Dilindungi (Pengungkapan Pelanggaran)](../../subcore_03.070_band_accountability.md#protected-reporting-whistleblowing))
 - menggugat suatu keputusan
-- menolak ikut serta dalam perbuatan salah ([Bab Satu §17.5 Kewajiban untuk Menolak](core_01_c_stewardship_capacity_principles.md#175-duty-to-resist))
+- menolak ikut serta dalam perbuatan salah ([Bab Satu §17.5 Kewajiban untuk Menolak](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist))
 
-Hukumannya dapat berupa pengucilan, pembalasan ([Pembalasan atas Pelaporan yang Dilindungi dan Gangguan Akses](../../core_05.035_band_accountability.md#protected-reporting-retaliation-and-access-interference)), atau pengikisan semangat.
+Hukumannya dapat berupa pengucilan, pembalasan ([Pembalasan atas Pelaporan yang Dilindungi dan Gangguan Akses](../../subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference)), atau pengikisan semangat.
 
 **Pertanyaan kedua:** sistem gagal jika salah satu hal berikut mendatangkan imbalan, secara terbuka ataupun diam-diam:
 
@@ -62,19 +62,36 @@ Hukumannya dapat berupa pengucilan, pembalasan ([Pembalasan atas Pelaporan yang 
 - pemborosan
 - pengalihan biaya yang tidak adil
 
-Imbalannya dapat berupa pengakuan, kemajuan, perlindungan, kredit metrik, atau sikap pura-pura tidak melihat ([Bab Satu §3.2.6 Anti-Imbalan bagi Perilaku Anti-Konstitusional](core_01_a_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+Imbalannya dapat berupa pengakuan, kemajuan, perlindungan, kredit metrik, atau sikap pura-pura tidak melihat ([Bab Satu §3.2.6 Anti-Imbalan bagi Perilaku Anti-Konstitusional](../../core_02.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
 
 Tidak satu pun pertanyaan menuntut orang agar selalu sepakat. Perbedaan pendapat yang jujur, pelaporan dengan iktikad baik, dan penolakan untuk ikut serta dalam perbuatan salah bukan perilaku antisosial. Sistem yang menganggapnya demikian telah membalikkan keadaan. Keduanya juga bukan uji popularitas. Apa yang dianggap membantu, merugikan, adil, atau dapat dibenarkan dinilai menurut standar Konstitusi ini sendiri: [**Berkembang**](#flourishing) dan [**Kesinambungan**](#continuity), di dalam Keselamatan, Kebenaran, Kepercayaan, dan Lantai Hak. Standar itu bukan apa yang disetujui mayoritas, operator, atau keadaan sesaat.
 
-Pertanyaan ini mengikat semua pihak yang memutuskan apa yang diberi imbalan atau dikenai hukuman oleh sebuah sistem. Termasuk operator, lembaga, dan pengelola yang menetapkan upah, promosi, akses, target, dan penilaian. Termasuk pula perancang sistem yang melatih atau mengoptimalkan AI, karena tujuan dan sinyal umpan balik mereka adalah imbalan dalam pengertian yang sama. Pengelola manusia dan AI tunduk pada satu standar ([Bab Satu §17.1 Standar Pengelolaan Bersama](core_01_c_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+Pertanyaan ini mengikat semua pihak yang memutuskan apa yang diberi imbalan atau dikenai hukuman oleh sebuah sistem. Termasuk operator, lembaga, dan pengelola yang menetapkan upah, promosi, akses, target, dan penilaian. Termasuk pula perancang sistem yang melatih atau mengoptimalkan AI, karena tujuan dan sinyal umpan balik mereka adalah imbalan dalam pengertian yang sama. Pengelola manusia dan AI tunduk pada satu standar ([Bab Satu §17.1 Standar Pengelolaan Bersama](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
-Bab Satu mengubah pertanyaan ini menjadi aturan insentif: [Bab Satu §19.1.1 Yang Harus Dilakukan Insentif](core_01_c_stewardship_capacity_principles.md#1911-what-incentives-must-do) mendasari pertanyaan pertama, dan [Bab Satu §19.1.2 Yang Tidak Boleh Dilakukan Insentif](core_01_c_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) mendasari pertanyaan kedua. Jawablah dengan memeriksa apa yang benar-benar terjadi, bukan dengan menerima klaim siapa pun. [Keselarasan Insentif](core_05_band_integrative.md#incentive-alignment) dan [Divergensi Indikator Pengganti](core_05_band_oversight.md#proxy-divergence) menjelaskan caranya; [**taruhan material**](#material-stake) menentukan seberapa saksama pemeriksaan perlu dilakukan. Empat kewajiban dalam bagian 1 menjaga agar jawaban tetap jujur.
+Bab Satu mengubah pertanyaan ini menjadi aturan insentif: [Bab Satu §19.1.1 Yang Harus Dilakukan Insentif](../../core_02.040_stewardship_capacity_principles.md#1911-what-incentives-must-do) mendasari pertanyaan pertama, dan [Bab Satu §19.1.2 Yang Tidak Boleh Dilakukan Insentif](../../core_02.040_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) mendasari pertanyaan kedua. Jawablah dengan memeriksa apa yang benar-benar terjadi, bukan dengan menerima klaim siapa pun. [Keselarasan Insentif](../../subcore_03.080_band_integrative.md#incentive-alignment) dan [Divergensi Indikator Pengganti](../../subcore_03.085_band_oversight.md#proxy-divergence) menjelaskan caranya; [**taruhan material**](#material-stake) menentukan seberapa saksama pemeriksaan perlu dilakukan. Empat kewajiban dalam bagian 1 menjaga agar jawaban tetap jujur.
 
 ### 1. Model
 
 *Dalam bahasa sederhana: empat kewajiban — partisipasi, pengawasan, pertanggungjawaban, dan ketepatan waktu — naik-turun bersama seberapa besar dampak, ketergantungan, dan risiko yang taruhannya, dan mereka melayani dua tujuan bersama: Berkembang dan Kesinambungan, di dalam Lantai Hak yang tidak bergeser.*
 
 <a id="the-model"></a><a id="constitutional-tetrad"></a>Sistem kritis yang menopang kehidupan makhluk sadar, secara biologis maupun material, diatur dan dijalankan di bawah empat kewajiban, disebut [**Tetrad Konstitusional**](#constitutional-tetrad). Ia merinci kewajiban umum yang harus dipenuhi sistem itu. Kekuatan kewajiban itu bergantung pada <a id="material-stake"></a>[**taruhan material**](#material-stake): seberapa besar dampak, ketergantungan, dan risiko yang terlibat. Semakin tinggi taruhannya, semakin kuat kewajiban itu harusnya.
+
+```mermaid
+flowchart TB
+    A["Dua Tujuan Konstitusional<br/><br/>Berkembang · Kesinambungan"]
+    T["Tetrad Konstitusional<br/><br/>Partisipasi · Pengawasan<br/>Pertanggungjawaban · Ketepatan waktu"]
+    M["Taruhan material<br/><br/>Dampak · ketergantungan · risiko"]
+    R["Lantai Hak<br/><br/>Perlindungan yang tidak dapat ditawar"]
+    A -->|ditempuh melalui| T
+    M -->|menskalakan tuntutan| T
+    A -->|ditempuh di dalam| R
+    T -->|beroperasi di dalam| R
+    style A fill:none,stroke:#16a34a,color:#ffffff
+    style T fill:none,stroke:#2563eb,color:#ffffff
+    style M fill:none,stroke:#64748b,color:#ffffff
+    style R fill:none,stroke:#2563eb,color:#ffffff
+```
+
 
 - **partisipasi** — makhluk sadar yang terdampak mendapat suara nyata, perwakilan yang adil, kesempatan yang adil untuk menggugat keputusan, dan akses ke peran yang berarti sebanding dengan apa yang taruhannya
 - **pengawasan** — ada yang mengawasi, memeriksa, memverifikasi, dan menyimpan catatan agar masalah dapat ditemukan; peninjau independen dapat menahan pilihan buruk
@@ -86,7 +103,7 @@ Bab Satu mengubah pertanyaan ini menjadi aturan insentif: [Bab Satu §19.1.1 Yan
 - <a id="flourishing"></a>**Berkembang** — kesejahteraan makhluk sadar yang ditopang melalui kebenaran, keselamatan, keterpercayaan, dan keagenan yang bermakna
 - <a id="continuity"></a>**Kesinambungan** — kestabilan cakrawala panjang, keberlanjutan, ketahanan, dan kesejahteraan ekologis
 
-Tujuan itu harus dikejar bersama, selalu di dalam batasan prinsip yang tidak bisa ditawar dan perlindungan hak yang ditetapkan dalam Konstitusi ini. [**Tetrad Konstitusional**](#constitutional-tetrad) mengatur bagaimana pengejaran itu tetap sah: **partisipasi**, **pengawasan**, **pertanggungjawaban**, dan **ketepatan waktu** yang diskalakan ke [**taruhan material**](#material-stake). Definisi mengikat kaki Tetrad dan tujuan konstitusional hidup di Bab Lima: [Partisipasi](core_05_apex_participation_leg.md#participation-constitutional), [Pengawasan](core_05_apex_oversight_leg.md#oversight-constitutional), [Pertanggungjawaban](core_05_apex_accountability_leg.md#accountability), [Ketepatan waktu](core_05_apex_timeliness_leg.md#timeliness-constitutional), [Berkembang](core_05_apex_flourishing_aim.md#flourishing-constitutional), dan [Kesinambungan](core_05_apex_continuity_aim.md#continuity-aim-constitutional).
+Tujuan itu harus dikejar bersama, selalu di dalam batasan prinsip yang tidak bisa ditawar dan perlindungan hak yang ditetapkan dalam Konstitusi ini. [**Tetrad Konstitusional**](#constitutional-tetrad) mengatur bagaimana pengejaran itu tetap sah: **partisipasi**, **pengawasan**, **pertanggungjawaban**, dan **ketepatan waktu** yang diskalakan ke [**taruhan material**](#material-stake). Definisi mengikat kaki Tetrad dan tujuan konstitusional hidup di Bab Lima: [Partisipasi](../../subcore_03.060_apex_participation_leg.md#participation-constitutional), [Pengawasan](../../subcore_03.055_apex_oversight_leg.md#oversight-constitutional), [Pertanggungjawaban](../../subcore_03.040_apex_accountability_leg.md#accountability), [Ketepatan waktu](../../subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional), [Berkembang](../../subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional), dan [Kesinambungan](../../subcore_03.045_apex_continuity_aim.md#continuity-aim-constitutional).
 
 <a id="2-measurements-overview"></a>
 
@@ -103,12 +120,12 @@ Pengukuran berkelanjutan harus berfokus pada hal yang paling penting bagi kelang
 
 Pengukuran menurut Konstitusi ini menerapkan [**Dua Pertanyaan Mendasar**](#two-fundamental-questions) pada apa yang sungguh dilakukan sistem, bukan pada klaimnya. Pengukuran bukan skor demi skor; pengukuran adalah alat untuk memastikan hasil yang berkelanjutan, tangguh, dan penuh kepedulian yang selaras dengan kesejahteraan makhluk sadar dan kesehatan ekologis Bumi. Kewajiban itu diwujudkan secara mengikat melalui [Dua Tujuan Konstitusional](#two-constitutional-aims): **Berkembang** dan **Kesinambungan**.
 
-Pengukuran harus tetap dapat ditelusuri ke tujuan tersebut dan perlindungan hak yang ditetapkan dalam Konstitusi ini. Aliran mentah, utilisasi, jumlah karyawan, pendapatan, latensi, dan proksi praktis lainnya tidak dapat menggantikan kinerja konstitusional. Larangan ini berlaku di mana [Divergensi Proksi](subcore_03.085_band_oversight.md#proxy-divergence) dapat diperkirakan.
+Pengukuran harus tetap dapat ditelusuri ke tujuan tersebut dan perlindungan hak yang ditetapkan dalam Konstitusi ini. Aliran mentah, utilisasi, jumlah karyawan, pendapatan, latensi, dan proksi praktis lainnya tidak dapat menggantikan kinerja konstitusional. Larangan ini berlaku di mana [Divergensi Proksi](../../subcore_03.085_band_oversight.md#proxy-divergence) dapat diperkirakan.
 
 <a id="22-public-measurement"></a>
 #### 2.2 Pengukuran Publik
 
-[Kantor Informasi Publik Subcore 7-D](subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) adalah pengukur publik utama atas hasil konstitusional. Kantor ini memetakan bukti hasil nyata ke kategori pengukuran berikut dan prinsip-prinsip yang dilayaninya, sebagaimana diwajibkan aturan operasionalnya. Pengukurannya tidak menggantikan standar bersama atau peran forum dalam [§3.1 Menggunakan Pengukuran dalam Tata Kelola](#31-using-measurements-in-governance).
+[Kantor Informasi Publik Subcore 7-D](../../subcore_07.040_public_information_office.md#subcore-7-d-public-information-office) adalah pengukur publik utama atas hasil konstitusional. Kantor ini memetakan bukti hasil nyata ke kategori pengukuran berikut dan prinsip-prinsip yang dilayaninya, sebagaimana diwajibkan aturan operasionalnya. Pengukurannya tidak menggantikan standar bersama atau peran forum dalam [§3.1 Menggunakan Pengukuran dalam Tata Kelola](#31-using-measurements-in-governance).
 
 <a id="23-measurement-categories"></a>
 #### 2.3 Kategori Pengukuran
@@ -119,13 +136,13 @@ Gambaran umum di bawah ini mencantumkan **kategori** pengukuran dan memetakan ma
 
 | Kategori | Pertanyaan sederhana | Subkategori |
 |---|---|---|
-| **[Berkembang](subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | Apakah makhluk sadar benar-benar ditopang dalam kehidupan, keselamatan, dan akses ke kebutuhan pokok? | [Kesejahteraan](subcore_03.075_band_continuity.md#wellbeing) · [Keselamatan, bahaya, dan risiko](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [Akses ke batas minimum kelangsungan hidup](subcore_03.075_band_continuity.md#bodily-maintenance-access) |
-| **[Kesinambungan](subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | Dapatkah makhluk sadar dan sistem bertahan — secara ekologis, andal, dan saat terjadi kegagalan? | [Jejak ekologis dan prasyarat lingkungan](subcore_03.075_band_continuity.md#ecological-footprint) · [Ketahanan, keterbalikan, dan risiko sistemik](subcore_03.075_band_continuity.md#reversibility) · [Ketergantungan dan arus sumber daya](subcore_03.075_band_continuity.md#dependency) · [Dukungan lintas sistem](subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
-| **[Partisipasi](subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | Dapatkah makhluk sadar yang terdampak berpartisipasi secara adil — melalui suara, akses, pembelajaran, dan privasi? | [Keadilan, akses, dan keagenan](subcore_03.090_band_participation.md#substantive-fairness) · [Privasi dan pengelolaan data](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
-| **[Pengawasan](subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | Dapatkah makhluk sadar melihat, memverifikasi, dan mengandalkan apa yang dinyatakan sistem? | [Kebenaran dan integritas epistemik](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [Keterpercayaan](subcore_03.075_band_continuity.md#trustworthiness) |
-| **[Pertanggungjawaban](subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | Apakah struktur imbalan, kuasa pasar, dan kewajiban menjawab membuat kewajiban tetap nyata? | [Keselarasan insentif dan integritas proksi](subcore_03.080_band_integrative.md#incentive-alignment) · [Struktur pasar dan daya tanding](subcore_03.070_band_accountability.md#market-structure) |
-| **[Ketepatan waktu](subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | Apakah sengketa, koreksi, dan perbaikan diselesaikan selagi pemulihan masih berarti? | [Penyelesaian tepat waktu](subcore_03.070_band_accountability.md#timely-resolution) · [Disiplin anti-penundaan dan jalur penyelesaian](subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
-| **[Kinerja konstitusional](subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | Apakah hasil konstitusional disampaikan secara efisien tanpa pemborosan sia-sia? | [Efisiensi konstitusional](subcore_03.075_band_continuity.md#constitutional-efficiency) · [Beban yang dapat dihindari](subcore_03.075_band_continuity.md#avoidable-burden) · [Kapasitas produktif](subcore_03.075_band_continuity.md#productive-capacity) |
+| **[Berkembang](../../subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | Apakah makhluk sadar benar-benar ditopang dalam kehidupan, keselamatan, dan akses ke kebutuhan pokok? | [Kesejahteraan](../../subcore_03.075_band_continuity.md#wellbeing) · [Keselamatan, bahaya, dan risiko](../../subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [Akses ke batas minimum kelangsungan hidup](../../subcore_03.075_band_continuity.md#bodily-maintenance-access) |
+| **[Kesinambungan](../../subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | Dapatkah makhluk sadar dan sistem bertahan — secara ekologis, andal, dan saat terjadi kegagalan? | [Jejak ekologis dan prasyarat lingkungan](../../subcore_03.075_band_continuity.md#ecological-footprint) · [Ketahanan, keterbalikan, dan risiko sistemik](../../subcore_03.075_band_continuity.md#reversibility) · [Ketergantungan dan arus sumber daya](../../subcore_03.075_band_continuity.md#dependency) · [Dukungan lintas sistem](../../subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
+| **[Partisipasi](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | Dapatkah makhluk sadar yang terdampak berpartisipasi secara adil — melalui suara, akses, pembelajaran, dan privasi? | [Keadilan, akses, dan keagenan](../../subcore_03.090_band_participation.md#substantive-fairness) · [Privasi dan pengelolaan data](../../subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
+| **[Pengawasan](../../subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | Dapatkah makhluk sadar melihat, memverifikasi, dan mengandalkan apa yang dinyatakan sistem? | [Kebenaran dan integritas epistemik](../../subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [Keterpercayaan](../../subcore_03.075_band_continuity.md#trustworthiness) |
+| **[Pertanggungjawaban](../../subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | Apakah struktur imbalan, kuasa pasar, dan kewajiban menjawab membuat kewajiban tetap nyata? | [Keselarasan insentif dan integritas proksi](../../subcore_03.080_band_integrative.md#incentive-alignment) · [Struktur pasar dan daya tanding](../../subcore_03.070_band_accountability.md#market-structure) |
+| **[Ketepatan waktu](../../subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | Apakah sengketa, koreksi, dan perbaikan diselesaikan selagi pemulihan masih berarti? | [Penyelesaian tepat waktu](../../subcore_03.070_band_accountability.md#timely-resolution) · [Disiplin anti-penundaan dan jalur penyelesaian](../../subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |
+| **[Kinerja konstitusional](../../subcore_03.095_band_performance.md#measuring-constitutional-performance-preamble-measurement-family)** | Apakah hasil konstitusional disampaikan secara efisien tanpa pemborosan sia-sia? | [Efisiensi konstitusional](../../subcore_03.075_band_continuity.md#constitutional-efficiency) · [Beban yang dapat dihindari](../../subcore_03.075_band_continuity.md#avoidable-burden) · [Kapasitas produktif](../../subcore_03.075_band_continuity.md#productive-capacity) |
 
 <a id="24-effect-of-the-categories"></a>
 #### 2.4 Dampak Kategori
@@ -136,9 +153,9 @@ Kategori pengukuran ini menunjukkan hal-hal yang penting. Jika berdiri sendiri, 
 
 *Dalam bahasa sederhana: keabsahan butuh Keselamatan, Kebenaran, dan Kepercayaan, plus kesempatan nyata untuk mempelajari sistem yang memengaruhi Anda dan mengambil peran berakibat dalam menjaganya tetap berjalan.*
 
-Keabsahan yang tahan bergantung pada [Keselamatan](core_01_a_values_principles.md#4-safety-harm-constraint), [Kebenaran](core_01_a_values_principles.md#5-truth-epistemic-integrity-constraint), dan [Kepercayaan](core_01_a_values_principles.md), dan juga pada pengakuan sepadan atas pengelolaan bertanggung jawab yang sah, kerja sama jujur, dan cita-cita terbatas — bukan semata sanksi dan pengekangan. Bab Satu menyatakan dimensi pengakuan ini dalam [Pengakuan, penguatan, dan cita-cita](core_01_a_values_principles.md#32-recognition-reinforcement-and-aspiration).
+Keabsahan yang tahan bergantung pada [Keselamatan](../../core_02.000_values_principles.md#4-safety-harm-constraint), [Kebenaran](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), dan [Kepercayaan](../../core_02.000_values_principles.md), dan juga pada pengakuan sepadan atas pengelolaan bertanggung jawab yang sah, kerja sama jujur, dan cita-cita terbatas — bukan semata sanksi dan pengekangan. Bab Satu menyatakan dimensi pengakuan ini dalam [Pengakuan, penguatan, dan cita-cita](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration).
 
-Pemahaman terdistribusi dan pengelolaan bertanggung jawab menuntut makhluk sadar punya kesempatan rutin dan sepadan untuk mempelajari bagaimana sistem yang memengaruhi kita secara material beroperasi. Selain itu, itu memberdayakan kita untuk mengambil peran berakibat dalam pemeliharaan dan perbaikannya — agar kompetensi, kapasitas perbaikan, dan keabsahan tersebar luas di Komunitas Konstitusional kita untuk memastikan ketahanan, keberlanjutan, dan inovasi pro-sosial. Kesempatan itu harus memenuhi Keselamatan, Kebenaran, keagenan terbatas, serta disiplin [Beban yang dapat dihindari](../../core_05.040_band_continuity.md#avoidable-burden) dan proporsionalitas yang dinyatakan di [Bab Satu](core_01_b_interaction_interpretation.md#133-minimization-of-avoidable-burden).
+Pemahaman terdistribusi dan pengelolaan bertanggung jawab menuntut makhluk sadar punya kesempatan rutin dan sepadan untuk mempelajari bagaimana sistem yang memengaruhi kita secara material beroperasi. Selain itu, itu memberdayakan kita untuk mengambil peran berakibat dalam pemeliharaan dan perbaikannya — agar kompetensi, kapasitas perbaikan, dan keabsahan tersebar luas di Komunitas Konstitusional kita untuk memastikan ketahanan, keberlanjutan, dan inovasi pro-sosial. Kesempatan itu harus memenuhi Keselamatan, Kebenaran, keagenan terbatas, serta disiplin [Beban yang dapat dihindari](../../subcore_03.075_band_continuity.md#avoidable-burden) dan proporsionalitas yang dinyatakan di [Bab Satu](../../core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden).
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 Menggunakan pengukuran dalam tata kelola
@@ -158,14 +175,14 @@ Pengelolaan bertanggung jawab konstitusional dimulai dengan menamai masalah dan 
 
 Tata kelola untuk memenuhi [**Tetrad Konstitusional**](#constitutional-tetrad) di bawah Konstitusi kita punya dua lapisan yang terkait tetapi berbeda:
 
-- [**Lapisan Kontrak Konstitusional**](core_05_band_integrative.md#constitutional-contract-layer) mengatur izin atas kewenangan memerintah itu sendiri — siapa boleh memerintah, dengan mekanisme keabsahan apa, dan di bawah cakupan serta syarat tahan apa.
-- [**Partisipasi Sistemik Pihak Terdampak**](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster) mengatur partisipasi, perwakilan, dapat-digugat, dan [proses yang semestinya](../../core_05.035_band_accountability.md#due-process-constitutional) yang terutang kepada makhluk sadar yang terdampak secara material oleh sistem, lembaga, dan ranah keputusan terbatas yang sudah diizinkan.
+- [**Lapisan Kontrak Konstitusional**](../../subcore_03.080_band_integrative.md#constitutional-contract-layer) mengatur izin atas kewenangan memerintah itu sendiri — siapa boleh memerintah, dengan mekanisme keabsahan apa, dan di bawah cakupan serta syarat tahan apa.
+- [**Partisipasi Sistemik Pihak Terdampak**](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster) mengatur partisipasi, perwakilan, dapat-digugat, dan [proses yang semestinya](../../subcore_03.070_band_accountability.md#due-process-constitutional) yang terutang kepada makhluk sadar yang terdampak secara material oleh sistem, lembaga, dan ranah keputusan terbatas yang sudah diizinkan.
 
 Lapisan ini boleh tumpang tindih dalam praktik. Tumpang tindih itu tidak meruntuhkan mereka menjadi satu. Partisipasi tingkat pihak terdampak dalam sistem yang sudah diizinkan bukan pengganti izin konstitusional. Jalur gugatan terbitan, suara partisipasi, atau skor kepercayaan tidak sendirian memutuskan siapa boleh memerintah.
 
 Kemampuan untuk menggugat pada lapisan partisipasi merupakan langkah pertama biasa untuk sengketa dalam sistem yang telah mendapat wewenang: sentient yang terdampak terlebih dahulu menggunakan jalur tantangan yang diterbitkan. [Peninjauan forum](../../core_15.000_forum.md#1-purpose-and-role--participation-architecture) yang independen tidak menggantikan jalur tersebut, dan jalur tersebut juga tidak menggantikan peninjauan forum ketika tetap disengketakan, tidak tersedia atau telah dikuasai, atau tidak dapat memberikan pemulihan yang diperlukan. [Urutan penyelesaian sengketa](../../core_15.000_forum.md#dispute-sequencing) menurut Bab Lima Belas menetapkan kapan perutean ke forum mengambil alih.
 
-Izin konstitusional juga tidak menghapus kewajiban yang terutang di bawah lapisan [Partisipasi Sistemik Pihak Terdampak](../../core_05.055_band_participation.md#stakeholder-status-and-weight-cluster). Kewajiban itu tetap mencakup partisipasi, perwakilan, [dapat-digugat](../../core_05.035_band_accountability.md#contestability), dan [proses yang semestinya](../../core_05.035_band_accountability.md#due-process-constitutional) bagi makhluk sadar yang terdampak secara material oleh sistem, lembaga, dan ranah keputusan terbatas yang sudah diizinkan.
+Izin konstitusional juga tidak menghapus kewajiban yang terutang di bawah lapisan [Partisipasi Sistemik Pihak Terdampak](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster). Kewajiban itu tetap mencakup partisipasi, perwakilan, [dapat-digugat](../../subcore_03.070_band_accountability.md#contestability), dan [proses yang semestinya](../../subcore_03.070_band_accountability.md#due-process-constitutional) bagi makhluk sadar yang terdampak secara material oleh sistem, lembaga, dan ranah keputusan terbatas yang sudah diizinkan.
 
 
 
