@@ -1487,4 +1487,10 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and seventy-fourth move (archive merged moves 1007–1066; 2026-11-26; organization only; uncommitted).** Decision (custodian, asked in session to archive and merge): archive the move-log entries already merged into main through move 1066 in [the move archive](archive/DOC_ARCHITECTURE_MOVES_1007-1066_ARCHIVED_2026-11-26.md); retain later entries in the live log. Effect on rules: none.
 
+**One thousand and seventy-fifth move (list the Continuity evaluation foundations; 2026-11-26; layout only; uncommitted).** Decision (custodian, asked in session): present the statements under “Continuity starts from an honest picture” in [Chapter 2.010](core_02.010_values_principles_continuity_aim.md) as sub-bullets. Effect on rules: none; the existing statements and links are unchanged.
+
+**One thousand and seventy-sixth move (list the systemic evaluation explanation; 2026-11-26; layout only; uncommitted).** Decision (custodian, asked in session): present the statements under “Systemic evaluation checks the whole” in [Chapter 2.010](core_02.010_values_principles_continuity_aim.md) as sub-bullets. Effect on rules: none; the existing statements and link are unchanged.
+
+**One thousand and seventy-seventh move (clarify the Continuity introduction; 2026-11-26; wording only; uncommitted).** Decision (custodian, asked in session): consolidate and rewrite the introduction to Shared-System Capacity in [Chapter 2.010 §9](core_02.010_values_principles_continuity_aim.md#9-shared-system-capacity) in plain language. Effect on rules: none; the relationship to Flourishing and Continuity, openness to challenge, limits, and whole-system evaluation remain.
+
 **Next file:** [README.md](README.md)
