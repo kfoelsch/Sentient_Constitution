@@ -1495,4 +1495,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and seventy-eighth move (organize the market concentration mechanism; 2026-11-26; layout and trace repair; uncommitted).** Decision (custodian, asked in session): place the constitutional requirements before the scope and misconduct review in [Chapter 2.010 §11.1](core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable), label the review group, and repair the split trace item for the consolidation ceiling. Effect on rules: none; existing requirements and review conditions are unchanged.
 
+**One thousand and seventy-ninth move (list the concentration misconduct review steps; 2026-11-26; layout only; uncommitted).** Decision (custodian, asked in session): present the two misconduct review steps and their criteria as sub-bullets in [Chapter 2.010 §11.1](core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable). Effect on rules: none; the sequence, criteria, and review conditions are unchanged.
+
 **Next file:** [README.md](README.md)
