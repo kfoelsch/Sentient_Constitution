@@ -695,7 +695,7 @@ These advantages remain allowed only as long as they do not turn into any of the
 - ecological burden shifting;
 - capture of accountability pathways.
 
-The following justifications must satisfy the traceability and evidence duties in [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) and Subcore 3-C:
+Anyone using the following reasons must meet the requirements for evidence and traceability in [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) and [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification):
 - efficiency;
 - competitiveness;
 - emergency;

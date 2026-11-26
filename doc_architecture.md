@@ -1501,4 +1501,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and eighty-first move (clarify the limits on market advantages; 2026-11-26; wording only; uncommitted).** Decision (custodian, asked in session): rewrite the introduction to the list of limits on market advantages in [Chapter 2.010 §11.2](core_02.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination) in plain language. Effect on rules: none; the listed limits and constitutional references are unchanged.
 
+**One thousand and eighty-second move (clarify evidence for market justifications; 2026-11-26; wording only; uncommitted).** Decision (custodian, asked in session): rewrite the evidence and traceability lead-in in [Chapter 2.010 §11.2](core_02.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination) in plain language and link Subcore 3-C. Effect on rules: none; the existing evidence and traceability requirements and listed justifications remain.
+
 **Next file:** [README.md](README.md)
