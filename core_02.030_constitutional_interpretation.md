@@ -69,7 +69,7 @@ Chapter Two, Part D is the constitutional owner of **constitutional interpretati
 
 <br>
 
-*In plain terms: read this Constitution as one whole. Chapter Two states values and limits, but those words only count when read with the definition and evidence rules in Chapter Three, including its subcore. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely the most restrictive on paper ([Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness)). Rights in Chapter Four may not be narrowed unless this Constitution clearly allows it.*
+*In plain terms: read this Constitution as one whole. Chapter Two states values and limits, but those words only count when read with the definition and evidence rules in Chapter Three, including its subcore. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring minimized irreversible harm, truthful understanding, meaningful agency, and stability — not the reading that is merely the most restrictive on paper ([Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness)). Rights in Chapter Four may not be narrowed unless this Constitution clearly allows it.*
 
 Each principle in this chapter applies together with the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) established in [Preamble §1 The Model](core_00.000_preamble.md#the-model). Where a section materially engages a Tetrad leg or an aim, its Trace says which, and whether its duties scale with [material stake](core_00.000_preamble.md#material-stake).
 
@@ -152,7 +152,7 @@ Adopted implementation layers may add detail to these protections. They must not
 
 Where the questions a matter raises materially travel together, assess the matter as one. This applies to jointly invoked definition clusters under [Chapter Three §4.1 Joint Invocation and Satisfaction](core_03.000_definitions_home.md#41-joint-invocation-and-satisfaction), and to any other matter whose duties are materially interdependent.
 
-A matter that is to be assessed as one must not be divided into any of the following in a way that satisfies one part while defeating another part that is materially implicated:
+When a matter must be assessed as one, do not split it into any of the following in a way that satisfies one part while defeating another part materially affected by the matter:
 - separate framings, categories, or classifications;
 - separate questions, components, or tests;
 - separate channels, records, or procedures;
@@ -160,14 +160,23 @@ A matter that is to be assessed as one must not be divided into any of the follo
 
 Meeting one part is not compliance with the whole. Where the matter's duties interlock, the assessment must test them together and give the result for the whole matter.
 
-**No relaxation by read-across.** Assessing a matter as one adds duties; it never lowers one. Each part's own standard controls within that part's scope and may not be loosened by importing a laxer standard from another part.
+**Each part keeps its standard.** Assessing a matter as one adds duties; it never reduces one. Each part's own standard applies to that part. Do not loosen it by applying a less demanding standard from another part.
 
 This principle does not:
 - pull unrelated definitions or duties into a matter because one term appears;
 - create, extend, or narrow any Chapter Four Rights-Floor provision; or
 - displace a cluster's own statement of which compartments and protected duties it covers. A cluster states those under **Anti-bypass** and cites this section for the rule.
 
-Whole-system evaluations must test anti-segmentation under [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation), [Subcore 8-B §5 Evaluations Where Implicated](subcore_08.020_system_alignment_certification_evaluation.md#5-evaluations-where-implicated), and [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) where a jointly invoked cluster applies, before classification, governance, or compliance claims stand. This section works with [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns) and [§4.2 Reductive Evasion](subcore_03.020_definition_integrity.md#42-reductive-evasion).
+Where a jointly invoked cluster applies, whole-system evaluations must test anti-segmentation under the following sections before classification, governance, or compliance claims stand:
+
+- [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation);
+- [Subcore 8-B §5 Evaluations Where Implicated](subcore_08.020_system_alignment_certification_evaluation.md#5-evaluations-where-implicated); and
+- [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
+
+This section works with:
+
+- [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns); and
+- [Subcore 3-B §4.2 Reductive Evasion](subcore_03.020_definition_integrity.md#42-reductive-evasion).
 
 <a id="1512-derived-information-principle"></a>
 ##### 15.1.2 Derived-Information Principle
@@ -328,11 +337,13 @@ No interpretation of Chapter Two is valid outside the definitions and evaluation
 
 Where Chapter Two is ambiguous, interpreters must choose the reading that best preserves two things at once: the Constitution's [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect), and its constitutional objective of aligning shared systems with sentient wellbeing. They must not resolve ambiguity by [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness). Where **Chapter Four** rights are implicated, interpreters must **not** resolve ambiguity by readings that **contract** those protections, except where **Chapter Two** interaction rules and applicable definitions **expressly** permit.
 
-Where ambiguity remains after integrated reading, interpretation must also favor:
-- preservation of systemic stability
+Where ambiguity remains after integrated reading, interpretation must also favor the following considerations, which are not ranked by their order here:
 - minimization of irreversible harm
 - maintenance of truthfulness and reliable understanding
 - protection of meaningful agency consistent with system conditions
+- preservation of systemic stability
+
+Where an operational Constitutional Collision arises, apply the [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 
 <a id="154-constitutional-meaning-conflict-resolution"></a>
 #### 15.4 Constitutional Meaning Conflict Resolution
@@ -424,16 +435,17 @@ The rules below choose among incorporated texts by [Fullest Protective Effect](s
 
 *In plain terms: when one situation touches more than one incorporated how-to file — or when your adoption paperwork brings those joint-structure duties into force — doing well on one file does not count as compliance if another material duty for the same facts is still unmet.*
 
-This subsection's combined-satisfaction rule is about **more than one how-to file** applying to the same facts. It is not the same as:
-- the rule for a **single** operational cluster in incorporated joint-structure text, where doing only part of that cluster does not count as compliance — see **[CJS-3.140 §14](corpus_joint_structure/cjs_03.140_odef_parse_mechanics.md#cjs-3140-14-operational-clusters)** (*Operational Clusters*); or
-- the Chapter Three rule that **Dependent cluster** definitions must be met together — see **[Chapter Three §4.1 Joint Invocation and Satisfaction](core_03.000_definitions_home.md#41-joint-invocation-and-satisfaction)**.
+This subsection explains what happens when **more than one incorporated implementation file** applies to the same facts. Two other rules address different situations:
 
-**When this subsection applies.** These rules apply within valid adoption and incorporation scope under **[Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge)** in either of these cases:
+- **Parts of one cluster:** You cannot comply with a single operational cluster in incorporated joint-structure text by meeting only part of it. See **[CJS-3.140 §14](corpus_joint_structure/cjs_03.140_odef_parse_mechanics.md#cjs-3140-14-operational-clusters)** (*Operational Clusters*).
+- **Dependent cluster definitions:** Definitions in a Dependent cluster must be met together. See **[Chapter Three §4.1 Joint Invocation and Satisfaction](core_03.000_definitions_home.md#41-joint-invocation-and-satisfaction)**.
 
-1. **One situation, more than one file:** The facts require applying more than one incorporated implementation file — for example systems, institutions, forums, or joint-structure text. Which files apply is decided by the adoption scope and the topic routing those files provide for the facts, not by choosing only the file that is easiest to satisfy.
-2. **Adoption brings the joint-structure set into force:** The adopting document applies designated joint-structure implementation text (the **CJS** folder and any other joint-structure files listed in the adoption chain) to the adopter.
+**When this subsection applies.** Within the valid scope of adoption and incorporation under **[Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge)**, these rules apply in either case:
 
-**Combined satisfaction.** Where more than one incorporated implementation file applies to the same facts under those triggers, compliance means meeting **all** material duties in that set. A sentient or institution cannot satisfy one file and then claim compliance while leaving another material duty undone. Where two files in that set disagree about the same meaningfully scoped risk, apply **[§15.4.3](#1543-incorporation-layer)** (*Cross-file Fullest Protective Effect*).
+1. **The same facts call for more than one file:** The applicable files may concern systems, institutions, forums, or joint structure. The adoption scope and the files' topic routing determine which files apply to the facts. You cannot simply choose the file that is easiest to satisfy.
+2. **The adoption document brings the joint-structure set into force:** It applies designated joint-structure implementation text to the adopter: the **CJS** folder and any other joint-structure files listed in the adoption chain.
+
+**Meeting the duties together.** When more than one incorporated implementation file applies to the same facts under those triggers, you must meet **all** material duties in the applicable set. Meeting one file's duties does not excuse leaving another material duty unmet. If two files in the set disagree about the same meaningfully scoped risk, apply **[§15.4.3](#1543-incorporation-layer)** (*Cross-file Fullest Protective Effect*).
 
 **Default reading stack.** Where more than one of the incorporated adopted layers — joint structure (**CJS**), systems (**CS**), institutions (**CI**), and forums (**CF**) — applies to the same facts under those triggers:
 - read in this order:
