@@ -439,13 +439,13 @@ Harm minimization selects among options that already clear those floors — it d
 
 <br>
 
-*In plain terms: proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if the option's scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.*
+*In plain terms: proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if the option's scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same rule against too little accountability and oversight applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.*
 
 Limitations on constitutional **values** — including **Chapter Four** Rights-Floor protections and other principles and protections subject to tradeoff under [§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process) — must be proportionate to the magnitude and likelihood of the **harm** or **systemic impact** legitimately addressed, consistent with [Proportionality](subcore_03.070_band_accountability.md#proportionality) in **Chapter Three**.
 
 **Classification floor.** No system may be governed at a level lower than that required by its highest applicable classification. A lower administrative label cannot reduce the scrutiny required by the highest applicable risk, dependency, rights, or system-impact classification.
 
-**Authority-scaled answerability.** Proportionality also forbids under-governance of those who hold greater authorized power, consequential role, or institutional influence: [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) intensity must rise with that authority, not fall.
+**Authority-scaled answerability.** Proportionality also forbids too little accountability and oversight for those who hold greater authorized power, consequential role, or institutional influence: [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) intensity must rise with that authority, not fall.
 
 **Heightened thresholds.** Where actions introduce risk of irreversible harm, systemic lock-in, Existential Risk, or irreversible loss of Ecological Recovery Capacity, systems must apply [Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny) and heightened thresholds for justification and reversibility where feasible.
 
@@ -508,7 +508,12 @@ Limitations on constitutional **values** — including **Chapter Four** Rights-F
 
 ###### Dignity Principles
 
-The **Dignity Principles** are the two principles that follow: the [Rights-Floor Minimums Principle](#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](#anti-degrading-process-principle). Together they make [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) operational as absolute floors: what may never be permanently taken from any sentient, and how no sentient may be treated in any process. Minimum subsistence access and core challenge, review, and appeal rights belong to the Dignity Principles because they are the minimum conditions for being treated as someone whose standing counts. Equal standing itself, and the protected grounds on which it may not be denied, are stated in [Article VI-A](core_04.010_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*).
+The **Dignity Principles** are the two principles that follow:
+
+- [Rights-Floor Minimums Principle](#rights-floor-minimums-principle)
+- [Anti-Degrading-Process Principle](#anti-degrading-process-principle)
+
+Together they make [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) operational as absolute floors: what may never be permanently taken from any sentient, and how no sentient may be treated in any process. Minimum subsistence access and core challenge, review, and appeal rights belong to the Dignity Principles because they are the minimum conditions for being treated as someone whose standing counts. Equal standing itself, and the protected grounds on which it may not be denied, are stated in [Article VI-A](core_04.010_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*).
 
 <a id="rights-floor-minimums-principle"></a>
 
@@ -887,7 +892,21 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 
 Availability, observability, prior publication, platform possession, or technical accessibility does not extinguish privacy interests or satisfy the disciplines above.
 
-**Data-classification integration.** The operational layer for these disciplines is the data type system in **[CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling)**. That system assigns information to one or more of eleven types — environmental and survival-coordination (**Type E**), governance and operational source (**Type G**), open public oversight disclosure (**Type O**), historical, relational, and participation (**Type H**), identity and attribution (**Type I**), neurocognitive and internal (**Type N**), safety, security, and restricted investigation (**Type S**), works a sentient creates while private or shared (**Type Y**) and once published (**Type W**), and works under a commercial licence (**Type U**) or assignment (**Type T**) — each with its own access default and handling constraints. Most privacy handling runs through **Types H, I, N, S, and Y**; the map from each privacy category to its type is on [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational). The collection, retention, and use disciplines above apply *at the level required by the most restrictive applicable data classification* — not at a generic baseline. Where data may be reconstructed, transformed, or aggregated into a more sensitive classification, the more sensitive classification's protections apply. Misclassification, evasive structuring, or functional circumvention of data-type protections violates this principle.
+**Data-classification integration.** The operational layer for these disciplines is the data type system in **[CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling)**. That system assigns information to one or more of eleven types, each with its own access default and handling constraints:
+
+- Environmental and survival-coordination (**Type E**).
+- Governance and operational source (**Type G**).
+- Historical, relational, and participation (**Type H**).
+- Identity and attribution (**Type I**).
+- Neurocognitive and internal (**Type N**).
+- Open public oversight disclosure (**Type O**).
+- Safety, security, and restricted investigation (**Type S**).
+- Works under assignment (**Type T**).
+- Works under a commercial licence (**Type U**).
+- Works a sentient creates once published (**Type W**).
+- Works a sentient creates while private or shared (**Type Y**).
+
+Most privacy handling runs through **Types H, I, N, S, and Y**; the map from each privacy category to its type is on [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational). The collection, retention, and use disciplines above apply *at the level required by the most restrictive applicable data classification* — not at a generic baseline. Where data may be reconstructed, transformed, or aggregated into a more sensitive classification, the more sensitive classification's protections apply. Misclassification, evasive structuring, or functional circumvention of data-type protections violates this principle.
 
 **Surveillance and monitoring.** Monitoring, observation, logging, and inference systems that materially affect sentient agency, association, or expression must satisfy the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). Monitoring must not be indiscriminate, covert, open-ended, or made a condition of using a system sentients depend on, where a milder method would work. It is not permitted if it discourages sentients from speaking, gathering, or otherwise exercising freedoms this Constitution protects.
 
@@ -1007,7 +1026,7 @@ A correction counts only if it is on the official record:
 
 Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Four**, [§13.1 Core Tradeoff Principles](#131-core-tradeoff-principles), [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints), [§13.1.5 Rights-Collision Procedure](#1315-rights-collision-decision-test), **and the other applicable** [Constitutional Constraints](subcore_03.080_band_integrative.md#constitutional-constraint), systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, materials, infrastructure, and energy.
 
-Where an avoidable burden can be corrected by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, that correction is the preferred remedy unless it would materially weaken Safety, Truth, Rights-Floor protection, auditability, contestability, due process, or retrospective review.
+Where an avoidable burden can be corrected by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, that correction is the preferred remedy unless it would materially weaken Safety, Truth, Rights-Floor protection, auditability, contestability, due process, or retrospective review. For stewardship processes, [§16.5 Automation](core_02.040_stewardship_capacity_principles.md#165-automation) sets out when the system does routine, determinate work and the safeguards that apply.
 
 For this section:
 - **Avoidable burden** is process, compliance, coordination, or implementation cost that is not traceable to a constitutional outcome under **Proportionality** and **Necessity**, and that is not required by a Rights-Floor protection, a Safety obligation, or a Truth obligation.
