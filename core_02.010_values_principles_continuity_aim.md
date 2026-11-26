@@ -518,8 +518,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - Downstream: **CJS-3.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules);
   - [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination);
   - [§11.3 Consolidation Ceiling](#113-consolidation-ceiling);
-  - [CJS-3.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_03.125_accountability_operations.md#cjs-3125-113-consolidation-ceiling-setting-discipline-adopter-tunable) (
-  - [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) operative ceiling-setting rules);
+  - [CJS-3.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_03.125_accountability_operations.md#cjs-3125-113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) operative ceiling-setting rules);
   - [Subcore 10-D §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) (S10-D §3);
   - [Subcore 14-A §7.1 Concentration-based subversion](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (S14-A §7.1).
 - Steward door (non-operative): Next-step card: [Market structure](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
@@ -558,13 +557,6 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 *In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Twenty judges that — and only after Subcore 10-D has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
 
-**What this subsection does:**
-
-- **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) requirements.
-- **Does not:** decide how serious the verified harm was, or issue a misconduct designation.
-- **When concentration is used to undermine this Constitution:** that misconduct is judged under [Subcore 14-A §7.1 Concentration-based subversion](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction).
-- **Creating, maintaining, or exploiting concentration that violates the requirements:** this can go to Chapter Twenty for misconduct designation review, but only in two steps. First, [Subcore 10-D §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Twenty checks whether the concentration meets criterion 3 (*Material rollback effect*: a workaround that rolls back protections), criterion 4 (*Causally significant conduct*: damage to Rights Floor protections or blocked challenges), or criterion 6 (*Operative nullification*: constitutional process made unusable in practice).
-
 **Constitutional requirements:**
 
 - **What it is:** the non-concentration discipline in [§11 Market Structure](#11-market-structure) sets **constitutional requirements**.
@@ -584,6 +576,13 @@ Operative detail — recovery detection, containment, safe-failure preference, r
   - scrutiny (oversight);
   - answerability (accountability); or
   - timely correction (timeliness).
+
+**Scope and misconduct review:**
+
+- **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) requirements.
+- **Does not:** decide how serious the verified harm was, or issue a misconduct designation.
+- **When concentration is used to undermine this Constitution:** that misconduct is judged under [Subcore 14-A §7.1 Concentration-based subversion](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction).
+- **Creating, maintaining, or exploiting concentration that violates the requirements:** this can go to Chapter Twenty for misconduct designation review, but only in two steps. First, [Subcore 10-D §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Twenty checks whether the concentration meets criterion 3 (*Material rollback effect*: a workaround that rolls back protections), criterion 4 (*Causally significant conduct*: damage to Rights Floor protections or blocked challenges), or criterion 6 (*Operative nullification*: constitutional process made unusable in practice).
 
 <a id="1111-concentration-threshold-triggers-adopter-tunable"></a>
 ##### 11.1.1 Concentration Threshold Triggers (Adopter-Tunable)
