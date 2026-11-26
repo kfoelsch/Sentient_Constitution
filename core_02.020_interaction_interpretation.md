@@ -896,15 +896,15 @@ Availability, observability, prior publication, platform possession, or technica
 
 - Environmental and survival-coordination (**Type E**).
 - Governance and operational source (**Type G**).
-- Open public oversight disclosure (**Type O**).
 - Historical, relational, and participation (**Type H**).
 - Identity and attribution (**Type I**).
 - Neurocognitive and internal (**Type N**).
+- Open public oversight disclosure (**Type O**).
 - Safety, security, and restricted investigation (**Type S**).
-- Works a sentient creates while private or shared (**Type Y**).
-- Works a sentient creates once published (**Type W**).
-- Works under a commercial licence (**Type U**).
 - Works under assignment (**Type T**).
+- Works under a commercial licence (**Type U**).
+- Works a sentient creates once published (**Type W**).
+- Works a sentient creates while private or shared (**Type Y**).
 
 Most privacy handling runs through **Types H, I, N, S, and Y**; the map from each privacy category to its type is on [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational). The collection, retention, and use disciplines above apply *at the level required by the most restrictive applicable data classification* — not at a generic baseline. Where data may be reconstructed, transformed, or aggregated into a more sensitive classification, the more sensitive classification's protections apply. Misclassification, evasive structuring, or functional circumvention of data-type protections violates this principle.
 
