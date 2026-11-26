@@ -1499,4 +1499,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and eightieth move (route concentration misconduct review to its owner; 2026-11-26; reference repair and wording; uncommitted).** Decision (custodian, asked in session): replace the repeated misconduct review steps in [Chapter 2.010 §11.1](core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable) with links to Chapter Fourteen and Subcore 14-A §7.1, and correct the stale Chapter Twenty reference in the plain-language introduction. Effect on rules: none; the designation conditions remain in their owning provisions.
 
+**One thousand and eighty-first move (clarify the limits on market advantages; 2026-11-26; wording only; uncommitted).** Decision (custodian, asked in session): rewrite the introduction to the list of limits on market advantages in [Chapter 2.010 §11.2](core_02.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination) in plain language. Effect on rules: none; the listed limits and constitutional references are unchanged.
+
 **Next file:** [README.md](README.md)

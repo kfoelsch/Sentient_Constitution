@@ -688,7 +688,7 @@ The following is not prohibited by itself:
 - temporary advantage from genuine innovation;
 - efficiency from lawful coordination.
 
-Those advantages stay valid only while they do not become the following, and therefore do not undermine the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) or the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
+These advantages remain allowed only as long as they do not turn into any of the following and thereby undermine the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) or the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
 - durable domination;
 - coercive dependency;
 - Rights-Floor degradation;
