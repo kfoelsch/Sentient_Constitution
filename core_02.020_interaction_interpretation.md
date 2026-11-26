@@ -1026,7 +1026,7 @@ A correction counts only if it is on the official record:
 
 Where multiple options satisfy Safety, Truth, the Rights Floor in **Chapter Four**, [§13.1 Core Tradeoff Principles](#131-core-tradeoff-principles), [§13.2 Epistemic Disclosure Constraints](#132-epistemic-disclosure-constraints), [§13.1.5 Rights-Collision Procedure](#1315-rights-collision-decision-test), **and the other applicable** [Constitutional Constraints](subcore_03.080_band_integrative.md#constitutional-constraint), systems must prefer the option that imposes the **least avoidable burden** on sentient time, attention, effort, materials, infrastructure, and energy.
 
-Where an avoidable burden can be corrected by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, that correction is the preferred remedy unless it would materially weaken Safety, Truth, Rights-Floor protection, auditability, contestability, due process, or retrospective review.
+Where an avoidable burden can be corrected by simplifying, consolidating, automating, clarifying, or removing unnecessary steps, that correction is the preferred remedy unless it would materially weaken Safety, Truth, Rights-Floor protection, auditability, contestability, due process, or retrospective review. For stewardship processes, [§16.5 Automation](core_02.040_stewardship_capacity_principles.md#165-automation) sets out when the system does routine, determinate work and the safeguards that apply.
 
 For this section:
 - **Avoidable burden** is process, compliance, coordination, or implementation cost that is not traceable to a constitutional outcome under **Proportionality** and **Necessity**, and that is not required by a Rights-Floor protection, a Safety obligation, or a Truth obligation.
