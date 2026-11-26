@@ -507,7 +507,7 @@ sentients should be able to work, build, switch providers, and push back without
 
 ##### 11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)
 
-this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Twenty judges that — and only after Subcore 10-D has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_02.010_values_principles_continuity_aim.md#1111-concentration-threshold-triggers-adopter-tunable).
+this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Fourteen judges that — and only after Subcore 10-D has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_02.010_values_principles_continuity_aim.md#1111-concentration-threshold-triggers-adopter-tunable).
 
 [Source](../../core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable)
 
@@ -601,7 +601,7 @@ where multiple necessary options remain after [§13.1.1 Necessity](../../core_02
 
 ###### 13.1.3 Proportionality
 
-proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if the option's scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.
+proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if the option's scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same rule against too little accountability and oversight applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.
 
 [Source](../../core_02.020_interaction_interpretation.md#1313-proportionality)
 
@@ -683,7 +683,7 @@ Source file: [`core_02.030_constitutional_interpretation.md`](../../core_02.030_
 
 #### 15. Constitutional Interpretation
 
-read this Constitution as one whole. Chapter Two states values and limits, but those words only count when read with the definition and evidence rules in Chapter Three, including its subcore. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely the most restrictive on paper ([Abstract Strictness](../../subcore_03.080_band_integrative.md#abstract-strictness)). Rights in Chapter Four may not be narrowed unless this Constitution clearly allows it.
+read this Constitution as one whole. Chapter Two states values and limits, but those words only count when read with the definition and evidence rules in Chapter Three, including its subcore. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring minimized irreversible harm, truthful understanding, meaningful agency, and stability — not the reading that is merely the most restrictive on paper ([Abstract Strictness](../../subcore_03.080_band_integrative.md#abstract-strictness)). Rights in Chapter Four may not be narrowed unless this Constitution clearly allows it.
 
 [Source](../../core_02.030_constitutional_interpretation.md#15-constitutional-interpretation)
 
@@ -865,7 +865,7 @@ governance is who may decide what and how — but only when those structures sta
 
 ##### 18.1 Governance as Authorized Structure
 
-governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§16 Stewardship in Depth](../../core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.
+governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. Whoever holds more power must answer for more and accept more oversight, not less. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§16 Stewardship in Depth](../../core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.
 
 [Source](../../core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure)
 
@@ -877,7 +877,7 @@ public authority under this Constitution belongs to no religion or worldview. It
 
 ##### 18.3 Separation of Duties
 
-governance must keep the one who acts from becoming the supposedly independent check on that act. Chapter Six supplies the four-seat structure that makes this principle usable across certification, records, forums, and every other materially binding process.
+the one who acts cannot provide the independent check on that act. Chapter Six sets out the four-seat structure for materially binding acts.
 
 [Source](../../core_02.050_governance_incentive_application.md#183-separation-of-duties)
 
@@ -967,7 +967,7 @@ once misalignment or capture is detected, systems must actually fix it — modif
 
 ##### 19.5 Contingent Claims, Games of Chance, and Event-Contract Markets
 
-betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance. What those systems may not reward is [§19.5.1 What May Not Be Rewarded](../../core_02.050_governance_incentive_application.md#1951-what-may-not-be-rewarded). Who decides outcomes is [§19.5.2 Who Decides Outcomes](../../core_02.050_governance_incentive_application.md#1952-who-decides-outcomes). What signals count is [§19.5.3 Market Signals Are Not Constitutional Proof](../../core_02.050_governance_incentive_application.md#1953-market-signals-are-not-constitutional-proof). Where detailed rules live is [§19.5.4 Proportionate Controls and Implementation Custody](../../core_02.050_governance_incentive_application.md#1954-proportionate-controls-and-implementation-custody).
+betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance.
 
 [Source](../../core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets)
 

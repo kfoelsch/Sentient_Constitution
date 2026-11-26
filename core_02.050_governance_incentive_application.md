@@ -123,7 +123,7 @@ This section carries [Governance](subcore_03.070_band_accountability.md#governan
 
 <br>
 
-*In plain terms: governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.*
+*In plain terms: governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. Whoever holds more power must answer for more and accept more oversight, not less. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.*
 
 At principle layer, [Governance](subcore_03.070_band_accountability.md#governance) is how already-authorized systems and institutions are directed and held accountable — as defined in **Chapter Three** and spelled out in operative detail under **Chapter Twenty-Seven** for the **Constitutional Contract Layer** and stakeholder participation layers in [Preamble](core_00.000_preamble.md#preamble--foundational-requirements). Authorized governance must advance the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) under the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake).
 
@@ -237,24 +237,11 @@ This Constitution and the public governance it constrains are secular in the ins
 
 <br>
 
-*In plain terms: governance must keep the one who acts from becoming the supposedly independent check on that act. Chapter Six supplies the four-seat structure that makes this principle usable across certification, records, forums, and every other materially binding process.*
+*In plain terms: the one who acts cannot provide the independent check on that act. Chapter Six sets out the four-seat structure for materially binding acts.*
 
-**Whoever checks the work can't be the one who did it.**
+Every decision or action that materially binds sentients must follow the separation-of-roles rules in [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties). Human and AI stewards are held to this equally ([§17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
-Oversight and accountability only work if the checking is done independently of the action being checked. So every decision or action that materially binds sentients must follow the separation-of-roles rules in [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties). Those rules include:
-
-- different sentients (human or AI) in the "doing" and "checking" roles;
-- combinations of roles that are off-limits;
-- independence requirements, which get stricter as the stakes rise;
-- clear, traceable handoffs from one role to the next; and
-- a way to redirect a matter that lands in the wrong seat.
-
-**Who it applies to.** Human and AI stewards are held to this equally ([§17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
-
-**How it fits with [§19.3 Misalignment Detection](#193-misalignment-detection).** The two rules work as a pair ([§19.3 *Plural detection and review*](#193-misalignment-detection)):
-
-- Having several reviewers keeps any single actor from taking control of oversight.
-- Chapter Six keeps the actor under review from doing the reviewing.
+[§19.3 Misalignment Detection](#193-misalignment-detection) pairs separation of duties with plural detection and review.
 
 <a id="184-ongoing-justification"></a>
 #### 18.4 Ongoing Justification
@@ -300,7 +287,7 @@ Oversight and accountability only work if the checking is done independently of 
 
 *In plain terms: arrangements cannot coast forever on "we've always done it this way." Important rules for who decides, who has a voice, how influence is weighted, how money is allocated, and how institutions are designed have to keep proving they still fit this Constitution — on a schedule others can see and challenge.*
 
-Important governance choices cannot be set once and forgotten. They must be rechecked on a regular schedule, using standards that materially affected sentients can see and challenge.
+Important governance choices cannot be set once and forgotten. They must be rechecked on a regular schedule, using standards that materially affected sentients can see and challenge. The applicable governance choices must also be rechecked during the midpoint audit of the system or institutional alignment certification interval, under [Chapter Seventeen §5 Review cadence](core_17.000_forum_families_escalation_timeliness_support.md#review-cadence).
 
 - **What must be rechecked:**
   - rules for how decisions are made
@@ -986,7 +973,7 @@ Concentrated or obscured control structures that materially undermine any of the
 
 <br>
 
-*In plain terms: betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance. What those systems may not reward is [§19.5.1 What May Not Be Rewarded](#1951-what-may-not-be-rewarded). Who decides outcomes is [§19.5.2 Who Decides Outcomes](#1952-who-decides-outcomes). What signals count is [§19.5.3 Market Signals Are Not Constitutional Proof](#1953-market-signals-are-not-constitutional-proof). Where detailed rules live is [§19.5.4 Proportionate Controls and Implementation Custody](#1954-proportionate-controls-and-implementation-custody).*
+*In plain terms: betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance.*
 
 **Contingent settlement systems** (defined in [Chapter Three](subcore_03.080_band_integrative.md#incentive-alignment--contingent-claims-games-of-chance-and-event-contract-markets)):
 
