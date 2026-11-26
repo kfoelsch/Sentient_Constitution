@@ -419,7 +419,7 @@ when a system does wrong, it fixes it. A system is not trustworthy because it ne
 
 #### 7. Freedom (Bounded Agency)
 
-freedom means having real choices, within the Constitution's limits. Real choice supports Flourishing, and keeping systems open to challenge supports Continuity. It does not mean you can do whatever you want. "We had no choice" is not an excuse. Whoever says it has to show that no less restrictive option would have worked, and convenience, cost, or habit don't count as proof. Sentients keep a real voice, and someone still has to answer for what happens. The higher the impact, the dependence, and the risk, the more that matters.
+freedom means having real choices, within the Constitution's limits. Real choice supports Flourishing, and keeping systems open to challenge supports Continuity. It does not mean you can do whatever you want. A claim that a restriction was unavoidable puts this principle to the test. "We had no choice" is not an excuse. Whoever says it has to show that no less restrictive option would have worked, and convenience, cost, or habit don't count as proof. Sentients keep a real voice, and someone still has to answer for what happens. The higher the impact, the dependence, and the risk, the more that matters.
 
 [Source](../../core_02.000_values_principles.md#7-freedom-bounded-agency)
 

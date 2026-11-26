@@ -50,6 +50,7 @@ Chapter Two, Part F is the constitutional owner of **governance under stewardshi
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
@@ -64,6 +65,7 @@ Chapter Two, Part F is the constitutional owner of **governance under stewardshi
 - [Standardization](subcore_03.070_band_accountability.md#standardization) · [O](subcore_03.070_band_accountability.md#standardization) · [M](subcore_03.070_band_accountability.md#standardization-a) · [A](subcore_03.070_band_accountability.md#standardization-a) · [C](subcore_03.070_band_accountability.md#standardization-c)
 - [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
 - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [O](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [M](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-c)
+
 </details>
 
 <br>
@@ -98,6 +100,7 @@ This section carries [Governance](subcore_03.070_band_accountability.md#governan
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
@@ -115,6 +118,7 @@ This section carries [Governance](subcore_03.070_band_accountability.md#governan
 - [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
 - [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 - [Anti-Capture](subcore_03.075_band_continuity.md#anti-capture) · [O](subcore_03.075_band_continuity.md#anti-capture) · [M](subcore_03.075_band_continuity.md#anti-capture-a) · [A](subcore_03.075_band_continuity.md#anti-capture-a) · [C](subcore_03.075_band_continuity.md#anti-capture-c)
+
 </details>
 
 <br>
@@ -150,6 +154,7 @@ Where governance and stewardship conflict, stewardship discipline controls at pr
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
@@ -170,6 +175,7 @@ Where governance and stewardship conflict, stewardship discipline controls at pr
 - [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 - [Consent](subcore_03.090_band_participation.md#consent) · [O](subcore_03.090_band_participation.md#consent) · [M](subcore_03.090_band_participation.md#consent-constitutional-a) · [A](subcore_03.090_band_participation.md#consent-constitutional-a) · [C](subcore_03.090_band_participation.md#consent-constitutional-c)
 - [Expression](subcore_03.090_band_participation.md#expression) · [O](subcore_03.090_band_participation.md#expression) · [M](subcore_03.090_band_participation.md#expression-constitutional-a) · [A](subcore_03.090_band_participation.md#expression-constitutional-a) · [C](subcore_03.090_band_participation.md#expression-constitutional-c)
+
 </details>
 
 <br>
@@ -207,6 +213,7 @@ This Constitution and the public governance it constrains are secular in the ins
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
@@ -225,6 +232,7 @@ This Constitution and the public governance it constrains are secular in the ins
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 - [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
 - [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act) · [O](subcore_03.070_band_accountability.md#materially-binding-act) · [M](subcore_03.070_band_accountability.md#materially-binding-act-a) · [A](subcore_03.070_band_accountability.md#materially-binding-act-a) · [C](subcore_03.070_band_accountability.md#materially-binding-act-c)
+
 </details>
 
 <br>
@@ -267,6 +275,7 @@ Oversight and accountability only work if the checking is done independently of 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
@@ -284,6 +293,7 @@ Oversight and accountability only work if the checking is done independently of 
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
 - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty) · [O](subcore_03.075_band_continuity.md#review-and-correction-duty) · [M](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-c)
+
 </details>
 
 <br>
@@ -326,6 +336,7 @@ Important governance choices cannot be set once and forgotten. They must be rech
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
@@ -351,6 +362,7 @@ Important governance choices cannot be set once and forgotten. They must be rech
 - [Harm](subcore_03.070_band_accountability.md#harm) · [O](subcore_03.070_band_accountability.md#harm) · [M](subcore_03.070_band_accountability.md#harm-a) · [A](subcore_03.070_band_accountability.md#harm-a) · [C](subcore_03.070_band_accountability.md#harm-c)
 - [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
+
 </details>
 
 <br>
@@ -412,6 +424,7 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
@@ -436,6 +449,7 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
 - [Market Structure](subcore_03.070_band_accountability.md#market-structure) · [O](subcore_03.070_band_accountability.md#market-structure) · [M](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-structure-constitutional-c)
 - [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
 - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
+
 </details>
 
 <br>
@@ -514,6 +528,7 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [O](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [M](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect) · [O](subcore_03.075_band_continuity.md#stewardship-defect) · [M](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty) · [O](subcore_03.075_band_continuity.md#review-and-correction-duty) · [M](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -538,6 +553,7 @@ This principle binds human and AI stewards alike under [§17.1 Shared Stewardshi
 - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [O](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [M](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
@@ -565,6 +581,7 @@ The Preamble states this chapter's incentive discipline as the [Two Fundamental 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [O](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [M](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect) · [O](subcore_03.075_band_continuity.md#stewardship-defect) · [M](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty) · [O](subcore_03.075_band_continuity.md#review-and-correction-duty) · [M](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -589,6 +606,7 @@ The Preamble states this chapter's incentive discipline as the [Two Fundamental 
 - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [O](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [M](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
@@ -696,6 +714,7 @@ Scoring tools and seats that look like participation still have to meet these li
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [O](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [M](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect) · [O](subcore_03.075_band_continuity.md#stewardship-defect) · [M](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty) · [O](subcore_03.075_band_continuity.md#review-and-correction-duty) · [M](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -720,6 +739,7 @@ Scoring tools and seats that look like participation still have to meet these li
 - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [O](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [M](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
@@ -755,6 +775,7 @@ Reward paths must not favor the listed targets where those targets predictably c
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [O](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [M](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect) · [O](subcore_03.075_band_continuity.md#stewardship-defect) · [M](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty) · [O](subcore_03.075_band_continuity.md#review-and-correction-duty) · [M](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -780,6 +801,7 @@ Reward paths must not favor the listed targets where those targets predictably c
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Openness Aspiration](subcore_03.075_band_continuity.md#openness-aspiration) · [O](subcore_03.075_band_continuity.md#openness-aspiration) · [M](subcore_03.075_band_continuity.md#openness-aspiration-constitutional-a) · [A](subcore_03.075_band_continuity.md#openness-aspiration-constitutional-a) · [C](subcore_03.075_band_continuity.md#openness-aspiration-constitutional-c)
+
 </details>
 
 <br>
@@ -843,6 +865,7 @@ Such conditions are **escalation triggers**, not ordinary operating states. They
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [O](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [M](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect) · [O](subcore_03.075_band_continuity.md#stewardship-defect) · [M](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty) · [O](subcore_03.075_band_continuity.md#review-and-correction-duty) · [M](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -868,6 +891,7 @@ Such conditions are **escalation triggers**, not ordinary operating states. They
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
+
 </details>
 
 <br>
@@ -924,6 +948,7 @@ Concentrated or obscured control structures that materially undermine any of the
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [O](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [M](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect) · [O](subcore_03.075_band_continuity.md#stewardship-defect) · [M](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty) · [O](subcore_03.075_band_continuity.md#review-and-correction-duty) · [M](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -956,6 +981,7 @@ Concentrated or obscured control structures that materially undermine any of the
 - [Game of Chance](subcore_03.070_band_accountability.md#game-of-chance) · [O](subcore_03.070_band_accountability.md#game-of-chance) · [M](subcore_03.070_band_accountability.md#game-of-chance-a) · [A](subcore_03.070_band_accountability.md#game-of-chance-a) · [C](subcore_03.070_band_accountability.md#game-of-chance-c)
 - [Insider Advantage](subcore_03.070_band_accountability.md#insider-advantage) · [O](subcore_03.070_band_accountability.md#insider-advantage) · [M](subcore_03.070_band_accountability.md#insider-advantage-a) · [A](subcore_03.070_band_accountability.md#insider-advantage-a) · [C](subcore_03.070_band_accountability.md#insider-advantage-c)
 - [Harm](subcore_03.070_band_accountability.md#harm) · [O](subcore_03.070_band_accountability.md#harm) · [M](subcore_03.070_band_accountability.md#harm-a) · [A](subcore_03.070_band_accountability.md#harm-a) · [C](subcore_03.070_band_accountability.md#harm-c)
+
 </details>
 
 <br>
@@ -1090,6 +1116,7 @@ Authorization, design, and operation must do four things:
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [O](subcore_03.075_band_continuity.md#short-horizon-governance-defect) · [M](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#short-horizon-governance-defect-constitutional-c)
 - [Stewardship Defect](subcore_03.075_band_continuity.md#stewardship-defect) · [O](subcore_03.075_band_continuity.md#stewardship-defect) · [M](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-defect-constitutional-c)
 - [Review and Correction Duty](subcore_03.075_band_continuity.md#review-and-correction-duty) · [O](subcore_03.075_band_continuity.md#review-and-correction-duty) · [M](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [A](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-a) · [C](subcore_03.075_band_continuity.md#review-and-correction-duty-constitutional-c)
@@ -1118,6 +1145,7 @@ Authorization, design, and operation must do four things:
 - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity) · [O](subcore_03.070_band_accountability.md#attribution-integrity) · [M](subcore_03.070_band_accountability.md#attribution-integrity-constitutional-a) · [A](subcore_03.070_band_accountability.md#attribution-integrity-constitutional-a) · [C](subcore_03.070_band_accountability.md#attribution-integrity-constitutional-c)
 - [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
 - [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
+
 </details>
 
 <br>
@@ -1182,6 +1210,7 @@ This subsection sets out how verified duties survive successor and formal-struct
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Corpus](subcore_03.080_band_integrative.md#corpus) · [O](subcore_03.080_band_integrative.md#corpus) · [M](subcore_03.080_band_integrative.md#corpus-a) · [A](subcore_03.080_band_integrative.md#corpus-a) · [C](subcore_03.080_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.080_band_integrative.md#authority-stack-a) · [A](subcore_03.080_band_integrative.md#authority-stack-a) · [C](subcore_03.080_band_integrative.md#authority-stack-c)
 - [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm) · [O](subcore_03.070_band_accountability.md#irreversible-harm) · [M](subcore_03.070_band_accountability.md#irreversible-harm-a) · [A](subcore_03.070_band_accountability.md#irreversible-harm-a) · [C](subcore_03.070_band_accountability.md#irreversible-harm-c)
@@ -1194,6 +1223,7 @@ This subsection sets out how verified duties survive successor and formal-struct
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
+
 </details>
 
 <br>

@@ -86,6 +86,7 @@ Chapter Two, Part C, is the constitutional owner of **stewardship, governance, i
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [O](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [M](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding) · [O](subcore_03.075_band_continuity.md#distributed-understanding) · [M](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-a) · [A](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-a) · [C](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
@@ -118,6 +119,7 @@ Chapter Two, Part C, is the constitutional owner of **stewardship, governance, i
 - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [O](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [M](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
@@ -221,6 +223,7 @@ Stewardship is the first line, not the only one. Three different questions have 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [O](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [M](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding) · [O](subcore_03.075_band_continuity.md#distributed-understanding) · [M](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-a) · [A](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-a) · [C](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
@@ -254,6 +257,7 @@ Stewardship is the first line, not the only one. Three different questions have 
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) · [O](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) · [M](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure-a) · [A](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure-a) · [C](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure-c)
+
 </details>
 
 <br>
@@ -289,6 +293,7 @@ Distributed understanding does **not** require every sentient to master every su
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [O](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [M](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding) · [O](subcore_03.075_band_continuity.md#distributed-understanding) · [M](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-a) · [A](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-a) · [C](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
@@ -325,6 +330,7 @@ Distributed understanding does **not** require every sentient to master every su
 - [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) · [O](subcore_03.080_band_integrative.md#constitutional-constraint) · [M](subcore_03.080_band_integrative.md#constitutional-constraint-a) · [A](subcore_03.080_band_integrative.md#constitutional-constraint-a) · [C](subcore_03.080_band_integrative.md#constitutional-constraint-c)
 - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment) · [O](subcore_03.080_band_integrative.md#incentive-alignment) · [M](subcore_03.080_band_integrative.md#incentive-alignment-a) · [A](subcore_03.080_band_integrative.md#incentive-alignment-a) · [C](subcore_03.080_band_integrative.md#incentive-alignment-c)
 - [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
+
 </details>
 
 <br>
@@ -368,6 +374,7 @@ Institutional development is the organizational facet of **Pillar 3** under **[�
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [O](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [M](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding) · [O](subcore_03.075_band_continuity.md#distributed-understanding) · [M](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-a) · [A](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-a) · [C](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
@@ -400,6 +407,7 @@ Institutional development is the organizational facet of **Pillar 3** under **[�
 - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [O](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [M](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
@@ -435,6 +443,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [O](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [M](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Distributed Understanding](subcore_03.075_band_continuity.md#distributed-understanding) · [O](subcore_03.075_band_continuity.md#distributed-understanding) · [M](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-a) · [A](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-a) · [C](subcore_03.075_band_continuity.md#distributed-understanding-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
@@ -471,6 +480,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
 - [Surveillance Boundary](subcore_03.075_band_continuity.md#surveillance-boundary) · [O](subcore_03.075_band_continuity.md#surveillance-boundary) · [M](subcore_03.075_band_continuity.md#surveillance-boundary-a) · [A](subcore_03.075_band_continuity.md#surveillance-boundary-a) · [C](subcore_03.075_band_continuity.md#surveillance-boundary-c)
 - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
 - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) · [O](subcore_03.070_band_accountability.md#timely-resolution) · [M](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [A](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [C](subcore_03.070_band_accountability.md#timely-resolution-constitutional-c)
+
 </details>
 
 <br>
@@ -516,6 +526,7 @@ This principle does not:
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency) · [O](subcore_03.075_band_continuity.md#constitutional-efficiency) · [M](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [A](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [C](subcore_03.075_band_continuity.md#constitutional-efficiency-c)
 - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) · [O](subcore_03.075_band_continuity.md#avoidable-burden) · [M](subcore_03.075_band_continuity.md#avoidable-burden-a) · [A](subcore_03.075_band_continuity.md#avoidable-burden-a) · [C](subcore_03.075_band_continuity.md#avoidable-burden-c)
 - [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
@@ -530,6 +541,7 @@ This principle does not:
 - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
 - [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
 - [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
+
 </details>
 
 <br>
@@ -614,10 +626,12 @@ This principle does not:
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency) · [O](subcore_03.075_band_continuity.md#constitutional-efficiency) · [M](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [A](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [C](subcore_03.075_band_continuity.md#constitutional-efficiency-c)
 - [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) · [O](subcore_03.075_band_continuity.md#avoidable-burden) · [M](subcore_03.075_band_continuity.md#avoidable-burden-a) · [A](subcore_03.075_band_continuity.md#avoidable-burden-a) · [C](subcore_03.075_band_continuity.md#avoidable-burden-c)
 - [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
 - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [O](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [M](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-c)
+
 </details>
 
 <br>
@@ -669,6 +683,7 @@ This principle does not:
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [O](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [M](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
@@ -693,6 +708,7 @@ This principle does not:
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) · [O](subcore_03.075_band_continuity.md#trustworthiness) · [M](subcore_03.075_band_continuity.md#trustworthiness-a) · [A](subcore_03.075_band_continuity.md#trustworthiness-a) · [C](subcore_03.075_band_continuity.md#trustworthiness-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
@@ -772,6 +788,7 @@ The rest of this section covers the role itself.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [O](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [M](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
@@ -801,6 +818,7 @@ The rest of this section covers the role itself.
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.080_band_integrative.md#authority-stack-a) · [A](subcore_03.080_band_integrative.md#authority-stack-a) · [C](subcore_03.080_band_integrative.md#authority-stack-c)
 - [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) · [O](subcore_03.080_band_integrative.md#constitutional-constraint) · [M](subcore_03.080_band_integrative.md#constitutional-constraint-a) · [A](subcore_03.080_band_integrative.md#constitutional-constraint-a) · [C](subcore_03.080_band_integrative.md#constitutional-constraint-c)
+
 </details>
 
 <br>
@@ -840,6 +858,7 @@ This subsection sets out the shared stewardship standard:
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [O](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [M](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
@@ -868,6 +887,7 @@ This subsection sets out the shared stewardship standard:
 - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 - [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) · [O](subcore_03.080_band_integrative.md#constitutional-constraint) · [M](subcore_03.080_band_integrative.md#constitutional-constraint-a) · [A](subcore_03.080_band_integrative.md#constitutional-constraint-a) · [C](subcore_03.080_band_integrative.md#constitutional-constraint-c)
+
 </details>
 
 <br>
@@ -906,6 +926,7 @@ Those are failed tests for any steward.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [O](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [M](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
@@ -935,6 +956,7 @@ Those are failed tests for any steward.
 - [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary) · [O](subcore_03.075_band_continuity.md#protected-internal-state-boundary) · [M](subcore_03.075_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [A](subcore_03.075_band_continuity.md#protected-internal-state-boundary-constitutional-a) · [C](subcore_03.075_band_continuity.md#protected-internal-state-boundary-constitutional-c)
 - [Expression](subcore_03.090_band_participation.md#expression) · [O](subcore_03.090_band_participation.md#expression) · [M](subcore_03.090_band_participation.md#expression-constitutional-a) · [A](subcore_03.090_band_participation.md#expression-constitutional-a) · [C](subcore_03.090_band_participation.md#expression-constitutional-c)
 - [Harm](subcore_03.070_band_accountability.md#harm) · [O](subcore_03.070_band_accountability.md#harm) · [M](subcore_03.070_band_accountability.md#harm-a) · [A](subcore_03.070_band_accountability.md#harm-a) · [C](subcore_03.070_band_accountability.md#harm-c)
+
 </details>
 
 <br>
@@ -986,6 +1008,7 @@ The burden this duty places on a steward who carries consequential authority is 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [O](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [M](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
@@ -1025,6 +1048,7 @@ The burden this duty places on a steward who carries consequential authority is 
 - [Procedural Fairness](subcore_03.090_band_participation.md#procedural-fairness) · [O](subcore_03.090_band_participation.md#procedural-fairness) · [M](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [A](subcore_03.090_band_participation.md#procedural-fairness-constitutional-a) · [C](subcore_03.090_band_participation.md#procedural-fairness-constitutional-c)
 - [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
 - [Surveillance Boundary](subcore_03.075_band_continuity.md#surveillance-boundary) · [O](subcore_03.075_band_continuity.md#surveillance-boundary) · [M](subcore_03.075_band_continuity.md#surveillance-boundary-a) · [A](subcore_03.075_band_continuity.md#surveillance-boundary-a) · [C](subcore_03.075_band_continuity.md#surveillance-boundary-c)
+
 </details>
 
 <br>
@@ -1101,6 +1125,7 @@ The burden this duty places on a steward who carries consequential authority is 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [O](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [M](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
@@ -1129,6 +1154,7 @@ The burden this duty places on a steward who carries consequential authority is 
 - [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [O](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [M](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [A](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [C](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-c)
 - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action) · [O](subcore_03.070_band_accountability.md#attributable-action) · [M](subcore_03.070_band_accountability.md#attributable-action-constitutional-a) · [A](subcore_03.070_band_accountability.md#attributable-action-constitutional-a) · [C](subcore_03.070_band_accountability.md#attributable-action-constitutional-c)
 - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.080_band_integrative.md#authority-stack-a) · [A](subcore_03.080_band_integrative.md#authority-stack-a) · [C](subcore_03.080_band_integrative.md#authority-stack-c)
+
 </details>
 
 <br>
@@ -1200,6 +1226,7 @@ flowchart TB
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Strategic Stewardship Obligation](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [O](subcore_03.075_band_continuity.md#strategic-stewardship-obligation) · [M](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [A](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-a) · [C](subcore_03.075_band_continuity.md#strategic-stewardship-obligation-constitutional-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
@@ -1229,6 +1256,7 @@ flowchart TB
 - [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [O](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) · [M](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [A](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-a) · [C](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing-c)
 - [Anti-Capture](subcore_03.075_band_continuity.md#anti-capture) · [O](subcore_03.075_band_continuity.md#anti-capture) · [M](subcore_03.075_band_continuity.md#anti-capture-a) · [A](subcore_03.075_band_continuity.md#anti-capture-a) · [C](subcore_03.075_band_continuity.md#anti-capture-c)
 - [Harm](subcore_03.070_band_accountability.md#harm) · [O](subcore_03.070_band_accountability.md#harm) · [M](subcore_03.070_band_accountability.md#harm-a) · [A](subcore_03.070_band_accountability.md#harm-a) · [C](subcore_03.070_band_accountability.md#harm-c)
+
 </details>
 
 <br>
