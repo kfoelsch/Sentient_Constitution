@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-26T04:07:39+00:00",
+  "generated_at": "2026-11-26T06:07:52+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -45,9 +45,9 @@
       ]
     },
     "core_02.000_values_principles.md": {
-      "total_lines": 1689,
+      "total_lines": 1693,
       "sections": [
-        {"header":"CHAPTER 02, PART A: PURPOSE AND THE FLOURISHING AIM","level":1,"line_start":1,"line_end":1689,"anchor":null},
+        {"header":"CHAPTER 02, PART A: PURPOSE AND THE FLOURISHING AIM","level":1,"line_start":1,"line_end":1693,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":63,"line_end":194,"anchor":null},
         {"header":"2. Flourishing Aim: Introduction","level":3,"line_start":195,"line_end":319,"anchor":"#2-flourishing-aim-introduction"},
         {"header":"2.1 Non-Negotiable Principle Constraints: Safety and Truth","level":4,"line_start":286,"line_end":319,"anchor":"#21-non-negotiable-principle-constraints-safety-and-truth"},
@@ -78,13 +78,13 @@
         {"header":"5.2.5 Rights-Floor Boundary","level":5,"line_start":1094,"line_end":1103,"anchor":"#525-rights-floor-boundary"},
         {"header":"6. Trust and Trustworthiness (Coordination Integrity)","level":3,"line_start":1104,"line_end":1244,"anchor":null},
         {"header":"6.1 Correction and Remedy","level":4,"line_start":1187,"line_end":1244,"anchor":null},
-        {"header":"7. Freedom (Bounded Agency)","level":3,"line_start":1245,"line_end":1689,"anchor":"#7-freedom-bounded-agency"},
+        {"header":"7. Freedom (Bounded Agency)","level":3,"line_start":1245,"line_end":1693,"anchor":"#7-freedom-bounded-agency"},
         {"header":"7.1 Limitation Discipline","level":4,"line_start":1341,"line_end":1417,"anchor":"#71-limitation-discipline"},
         {"header":"7.2 Assembly, Collective Organization, and Institutional Formation","level":4,"line_start":1418,"line_end":1505,"anchor":null},
         {"header":"7.2.1 Aligned Self-Organization","level":5,"line_start":1484,"line_end":1505,"anchor":"#72-assembly-collective-organization-and-institutional-formation"},
-        {"header":"7.3 Dissent and Peaceful Protest","level":4,"line_start":1506,"line_end":1562,"anchor":null},
-        {"header":"7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights","level":4,"line_start":1563,"line_end":1628,"anchor":"#73-dissent-and-peaceful-protest"},
-        {"header":"7.5 Expression and the Harm Line","level":4,"line_start":1629,"line_end":1689,"anchor":"#74-voluntary-discontinuation-and-exit-rights"}
+        {"header":"7.3 Dissent and Peaceful Protest","level":4,"line_start":1506,"line_end":1564,"anchor":null},
+        {"header":"7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights","level":4,"line_start":1565,"line_end":1630,"anchor":"#73-dissent-and-peaceful-protest"},
+        {"header":"7.5 Expression and the Harm Line","level":4,"line_start":1631,"line_end":1693,"anchor":"#74-voluntary-discontinuation-and-exit-rights"}
       ]
     },
     "core_02.010_values_principles_continuity_aim.md": {

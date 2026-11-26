@@ -1479,7 +1479,7 @@ If limiting freedom clashes with other constitutional values or rights, first ma
 
 - **What it does not change:** Chapter Three supplies the cluster's joint-reading mechanics. Section 7.2 applies the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle) when the full definition cluster applies and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only.
 - **Compartments:** Civic-association, labor-organization, platform-access, and authorization framings. Separating them is non-compliant where it preserves formal access while defeating assembly or collective-organization protection.
-- **Whole-system evaluations:** Must test anti-segmentation under [Subcore 8-B §5.3 Assembly, Collective Organization, and Institutional Formation](subcore_08.020_system_alignment_certification_evaluation.md#53-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
+- **Whole-system evaluations:** When the full definition cluster applies, the evaluation must check that the related questions have not been split apart in a way that defeats protection for assembly or collective organization. The evaluation must follow [Subcore 8-B §5.3 Assembly, Collective Organization, and Institutional Formation](subcore_08.020_system_alignment_certification_evaluation.md#53-assembly-collective-organization-and-institutional-formation) before claims about classification, governance, or compliance can stand.
 
 ##### 7.2.1 Aligned Self-Organization
 <a id="721-aligned-self-organization"></a>
@@ -1544,11 +1544,13 @@ Being received, routed, or answered is not approval of the authors' conclusions.
 
 *In plain terms: freedom includes the freedom to say no — to disagree with any authority, including this Constitution, and to protest peacefully to change it. A system that punishes disagreement is no longer contestable, and a system that cannot be contested cannot correct itself.*
 
-**Dissent is part of freedom.** [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) includes the ability to disagree with, object to, and organize against the decisions, institutions, and systems that shape a sentient's life. Bounded agency that could not reach the systems doing the bounding would not be meaningful.
+The following principles explain dissent and peaceful protest:
 
-**Dissent keeps systems contestable.** The [**Continuity**](core_00.000_preamble.md#continuity) aim depends on constitutional systems that stay contestable. Dissent and peaceful protest are how contest reaches authority from outside formal process, and how errors that formal process has missed become visible. They serve the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** and **oversight** legs.
+- **Dissent is part of freedom:** [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) includes the ability to disagree with, object to, and organize against the decisions, institutions, and systems that shape a sentient's life. Bounded agency that could not reach the systems doing the bounding would not be meaningful.
 
-**Dissent is not subversion.** Disagreeing with this Constitution or with the authority acting under it, and advocating by peaceful and lawful means to amend it or to change who holds authority, is exercise of freedom. It is not the [subversion](subcore_03.070_band_accountability.md#subversion) of constitutional systems excluded from protected agency in [§7 Freedom (Bounded Agency)](#7-freedom-bounded-agency). Subversion requires force, coercion, usurpation, or making constitutional process or remedies unusable in practice.
+- **Dissent keeps systems contestable:** The [**Continuity**](core_00.000_preamble.md#continuity) aim depends on constitutional systems that stay contestable. Dissent and peaceful protest are how contest reaches authority from outside formal process, and how errors that formal process has missed become visible. They serve the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** and **oversight** legs.
+
+- **Dissent is not subversion:** Disagreeing with this Constitution or with the authority acting under it, and advocating by peaceful and lawful means to amend it or to change who holds authority, is exercise of freedom. It is not the [subversion](subcore_03.070_band_accountability.md#subversion) of constitutional systems excluded from protected agency in [§7 Freedom (Bounded Agency)](#7-freedom-bounded-agency). Subversion requires force, coercion, usurpation, or making constitutional process or remedies unusable in practice.
 
 **Limiting dissent follows limitation discipline.** Dissent and peaceful protest may be limited only under [§7.1 Limitation Discipline](#71-limitation-discipline).
 - Disagreement, disruption, inconvenience, offense, unpopularity, or pressure on authority is not, by itself, **material harm** or **systemic risk**.
@@ -1668,9 +1670,11 @@ Whole-system evaluations must test these conditions under [Subcore 8-B §5.2 Vol
 
 *In plain terms: you may say, write, publish, and design almost anything, including what offends, disturbs, or criticizes. But speech is not a loophole. When words, policies, or designs are the way someone harms, harasses, bullies, or discriminates against others, they are judged on what they do, the same way for a sentient as for an institution, and whatever religious or political label they carry.*
 
-**Expression is protected as expression.** [Expression](subcore_03.090_band_participation.md#expression) covers views of every kind, including disturbing ones, and criticism of any sentient or institution. Offense, disagreement, discomfort, and peaceful protest are not harm ([§7.3 Dissent and Peaceful Protest](#73-dissent-and-peaceful-protest)).
+The following principles explain expression and the harm line:
 
-**Expression is not a shield for conduct.** Speech, publication, design, policy, and other expression remain subject to the rules on [Harm](subcore_03.070_band_accountability.md#harm), [Harassment and Bullying](subcore_03.070_band_accountability.md#harassment-and-bullying), [Cruelty](subcore_03.070_band_accountability.md#cruelty), and nondiscrimination when they are the means by which that conduct is carried out. The test is what the expression states, calls for, or does, read in context under the Chapter Three definitions. Those definitions keep their meaning: harassment and bullying need a material pattern, not a single sharp remark, and harm needs a real material-impact pathway, not offense alone ([Collective Harm Boundary](subcore_03.070_band_accountability.md#collective-harm-boundary)).
+- **Expression is protected:** [Expression](subcore_03.090_band_participation.md#expression) covers views of every kind, including disturbing ones, and criticism of any sentient or institution. Offense, disagreement, discomfort, and peaceful protest are not harm ([§7.3 Dissent and Peaceful Protest](#73-dissent-and-peaceful-protest)).
+
+- **Expression is not a shield for conduct:** Speech, publication, design, policy, and other expression remain subject to the rules on [Harm](subcore_03.070_band_accountability.md#harm), [Harassment and Bullying](subcore_03.070_band_accountability.md#harassment-and-bullying), [Cruelty](subcore_03.070_band_accountability.md#cruelty), and nondiscrimination when they are the means by which that conduct is carried out. The test is what the expression states, calls for, or does, read in context under the Chapter Three definitions. Those definitions keep their meaning: harassment and bullying need a material pattern, not a single sharp remark, and harm needs a real material-impact pathway, not offense alone ([Collective Harm Boundary](subcore_03.070_band_accountability.md#collective-harm-boundary)).
 
 **The same test applies to a sentient and to an institution.** A single sentient, a group, or an institution may be the speaker, and any of them may be the target.
 - An institution speaks through its policies, notices, platform design, official statements, and the way it treats reports and critics. Conduct carried out that way is judged like any other.
@@ -1680,7 +1684,7 @@ Whole-system evaluations must test these conditions under [Subcore 8-B §5.2 Vol
 
 **Limiting expression is different from using it as evidence.** A limit on expression must meet [§7.1 Limitation Discipline](#71-limitation-discipline) and **[Article XI-B](core_04.010_rights_part_b.md#article-xi-b-expression) (*Expression*)**, and a limit aimed at what is said faces the strictest review there. Using what a sentient has said as evidence of intent, purpose, or authority is not a limit. It follows the evidence rules of the chapter that asks the question, such as [Chapter Five §7 Formation Check: Office-Holder Standing and Authenticity](core_05.000_charters.md#7-formation-check-office-holder-standing-and-authenticity), and it may not become a penalty for the speech itself.
 
-**Scope.** This subsection applies Limitation Discipline and the Chapter Three definitions to expression. It creates no category of harm and no ground for limiting freedom that [§7.1 Limitation Discipline](#71-limitation-discipline) does not already allow.
+**Scope.** This subsection explains how the rules for limiting freedom and the definitions in Chapter Three apply to expression. It does not add new kinds of harm or new reasons to limit freedom beyond those already allowed by [§7.1 Limitation Discipline](#71-limitation-discipline).
 
 ---
 
