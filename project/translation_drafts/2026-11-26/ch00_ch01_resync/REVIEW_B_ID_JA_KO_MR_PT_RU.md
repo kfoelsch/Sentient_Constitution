@@ -93,3 +93,28 @@ This is a structural and source-label check, not fluent-language certification.
 ## Mermaid fence repair — 2026-11-26 (MR/PT/RU)
 
 Moved the §8.1 Mermaid closing fence onto its own line in MR, PT, and RU. Confirmed both Chapter 1 Mermaid blocks in each of the six reviewed drafts now have one opening and one standalone closing fence.
+
+
+## Destination-aware forum link reconciliation — 2026-11-26 (ID/JA/KO)
+
+Mapped the obsolete `core_15.000_forum.md` destinations in the Chapter 0/1 drafts to current source chapters using the actual section topics and current anchors: forum purpose to Chapter Sixteen §1; dispute sequencing to Chapter Sixteen's explicit `dispute-sequencing` anchor; Technical Forum Domains to Chapter Seventeen §3.2; and shared standards/anti-displacement to Chapter Seventeen's explicit §6.2 anchor. The old file split across current Chapters Sixteen and Seventeen; no filename-only guess was used.
+
+
+## PT §8.1 stale-splice cleanup — 2026-11-26
+
+Removed the obsolete splice immediately after the §8.1 heading: it duplicated §6.2.3 and Rights Floor/Charter material with superseded Chapter Eleven/Nine/Seven–Fifteen references. Preserved the four-seat map disclaimer and relocated it under §7.1, where the pinned English source places it; corrected its reference from Chapter Eight to Chapter Six. The existing PT §8.2 legacy material remains separately flagged where its disposition is unclear.
+
+
+## Stale §8.1 splice cleanup — 2026-11-26 (MR/RU)
+
+Removed the same superseded §8.1 splice in Marathi and Russian that was removed in Portuguese: old verification/rights/Charter summaries with stale Chapter Nine/Eleven and Seven–Fifteen references. Preserved the four-seat map disclaimer, moved it under §7.1, and corrected its rule reference to Chapter Six, matching the pinned English layout. The current process map now follows the §8.1 heading directly.
+
+
+## Exact stale anchor and destination repair — 2026-11-26 (six locales)
+
+Updated only source-backed mappings in the Chapter 0/1 drafts: the moved incentive subsections now target current Chapter Two Part F (`core_02.050...#1911...` / `#1912...`); the anti-reward heading uses current `#327`; misconduct review uses current Chapter Fourteen; and obsolete governance chapter slugs now use current Chapters Twenty-One through Twenty-Four. The obsolete forum source in ID/JA/KO was already mapped to current Chapter Sixteen/Seventeen anchors above.
+
+
+## Final link and splice disposition — 2026-11-26
+
+The prior PT §8 ambiguity refers to the obsolete splice described above; its disposition is now source-backed and resolved. The stale verification/rights/charter block was removed from §8.1 in PT, MR, and RU, while the four-seat disclaimer was preserved under §7.1 with the current Chapter Six reference. Destination-aware checks now report no unresolved target files or anchors across all twelve drafts. Some stale historical sections without a unique current heading are linked to the verified current file at document level. The drafts remain AI-assisted and unreviewed for fluency.

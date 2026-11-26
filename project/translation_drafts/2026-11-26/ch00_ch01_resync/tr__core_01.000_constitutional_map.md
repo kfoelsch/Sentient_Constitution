@@ -10,7 +10,7 @@
 >
 > Bu dosya **Algılayan Anayasası'nın bir parçasıdır** ve numaralı diğer `core_*` dosyaları ile subcore birlikte tek bir metin olarak okunduğunda **bağlayıcıdır**. Bu dosya **Birinci Bölümü**, *Anayasal Harita'yı* içerir: amacı (§1), neden var olduğu (§2), dosyalarının nasıl bir araya geldiği (§3), sonraki bölümlerin dayanakları (§4), temel yönetişim süreçleri (§5) ve anayasal sorumlu sicili (§6–§11).
 >
-> **Önceki:** [core_00.000_preamble.md](core_01_constitutional_map.md) (Önsöz)
+> **Önceki:** [core_00.000_preamble.md](core_00_preamble.md) (Önsöz)
 > **Sonraki:** [core_02.000_values_principles.md](../../core_02.000_values_principles.md)
 
 </details>
@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">İz</span></strong></summary>
 
-- Önceki: [Önsöz](core_01_constitutional_map.md) (*Model, İki Anayasal Amaç, Anayasal Dörtlü, maddi pay ve ölçüm kategorileri*).
+- Önceki: [Önsöz](core_00_preamble.md) (*Model, İki Anayasal Amaç, Anayasal Dörtlü, maddi pay ve ölçüm kategorileri*).
 - Alt bölümler:
   - [§1](#1-purpose-role-and-scope);
   - [§2](#2-why-the-map-exists);
@@ -160,11 +160,11 @@ Altçekirdek 3-C ispat yükünü uyum iddiasında bulunana verir; [maddi payla](
 
 *Basitçe: Gerçek etkisi olan bir sistem veya kurum, ne yapabileceğini ve her koltuğun sahibini belirten bir Sistem Şartı ya da Kurum Şartı yayımlar. Maddi bakımdan bağlayıcı bir işlem ilerlemeden önce, işlemi kimin başlatacağı, kimin denetleyeceği veya yetkilendireceği, resmî kaydı kimin tutacağı ve itirazı kimin inceleyeceği ayrıştırılır. Roller ortama göre ölçeklenebilir; ancak aynı aktör ve onun kontrol hattı kendi işlemini denetleyen koltukları sessizce tutamaz.*
 
-- **Ürettiği şey:** Kapsamı ve koltuk yerleşimini açıklayan, yayımlanmış ve sürümlenmiş bir beyan; Sekizinci Bölüm, sertifikasyon, statü kayıtları ve forumlar davranışı buna göre sınayabilir. Yedinci Bölüm [`core_07.000_charters.md`](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters) dosyasındadır.
+- **Ürettiği şey:** Kapsamı ve koltuk yerleşimini açıklayan, yayımlanmış ve sürümlenmiş bir beyan; Sekizinci Bölüm, sertifikasyon, statü kayıtları ve forumlar davranışı buna göre sınayabilir. Yedinci Bölüm [`core_07.000_charters.md`](../../core_05.000_charters.md#chapter-five-system-and-institutional-charters) dosyasındadır.
 
 **İşlevsel bağımsızlık ve görevlerin ayrılması** — maddi bağlayıcılığı olan bir işlem ilerlemeden önce, geçerli ölçeklendirme ve bağımsızlık kuralları uyarınca başlatma, doğrulama veya yetkilendirme, kayıt ve itiraz inceleme koltuklarını belirleyip ayırın.
 
-**Maddi açıdan bağlayıcı her eylem için koltukları ayrı tutun** ([Sekizinci Bölüm](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)): eylemi kimin başlattığını, kimin doğruladığını veya yetkilendirdiğini, resmî kaydı kimin tuttuğunu ve itirazı kimin dinlediğini belirleyin. Eylemin usulüne uygun biçimde denetlendiğini kabul etmeden önce yasaklanan görev birleşimlerini, bağımsızlık kurallarını ve yayımlanmış yedek yolu uygulayın. Sistem Şartı veya Kurum Şartı gerektiğinde ([Yedinci Bölüm](../../core_05.000_charters.md#4-the-charter-role-map-and-standing-record-custody)), Şart Rol Haritası her koltuğu kimin tuttuğunu yayımlar.
+**Maddi açıdan bağlayıcı her eylem için koltukları ayrı tutun** ([Sekizinci Bölüm](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)): eylemi kimin başlattığını, kimin doğruladığını veya yetkilendirdiğini, resmî kaydı kimin tuttuğunu ve itirazı kimin dinlediğini belirleyin. Eylemin usulüne uygun biçimde denetlendiğini kabul etmeden önce yasaklanan görev birleşimlerini, bağımsızlık kurallarını ve yayımlanmış yedek yolu uygulayın. Sistem Şartı veya Kurum Şartı gerektiğinde ([Yedinci Bölüm](../../core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody)), Şart Rol Haritası her koltuğu kimin tuttuğunu yayımlar.
 
 **Sekizinci Bölüm — İşlevsel bağımsızlık ve görevlerin ayrılması**
 
@@ -298,8 +298,8 @@ flowchart TB
 
 Bu zincir, her aşama tanımlı ve incelenebilir bir sonuç aktardığı için tek bir anayasal süreç olarak kalır. Anayasal sınırlar içinde kalması için:
 
-- [**Anayasal Tetrad**](core_00.000_preamble.md#constitutional-tetrad) her aşamanın katılımcı, gözetimli, hesap verebilir ve zamanında olmasını gerektirir;
-- [**İki Anayasal Amaç**](core_00.000_preamble.md#two-constitutional-aims) sürecin **Gelişme** ve **Sürekliliğe** birlikte hizmet etmesini gerektirir; ve
+- [**Anayasal Tetrad**](core_00_preamble.md#constitutional-tetrad) her aşamanın katılımcı, gözetimli, hesap verebilir ve zamanında olmasını gerektirir;
+- [**İki Anayasal Amaç**](core_00_preamble.md#two-constitutional-aims) sürecin **Gelişme** ve **Sürekliliğe** birlikte hizmet etmesini gerektirir; ve
 - Hak Tabanları her aşamanın pazarlık konusu olmayan korumaları daraltmasını, atlamasını veya içini boşaltmasını yasaklar.
 
 Bu kurallar, anayasal görevleri yalnızca kâğıt üzerinde değil, sentientlerin uygulamada inceleyebileceği, itiraz edebileceği, düzeltebileceği ve güvenebileceği kayıt ve kararlara dönüştürür.

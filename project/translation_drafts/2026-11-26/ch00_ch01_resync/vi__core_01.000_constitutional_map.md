@@ -10,7 +10,7 @@
 >
 > Tệp này **là một phần của Hiến pháp Hữu tri** và **chỉ có tính ràng buộc khi được đọc cùng nhau** với các tệp `core_*` được đánh số khác và subcore như một văn bản thống nhất. Tệp này có **Chương Một**, *Bản đồ Hiến pháp*: mục đích (§1), lý do tồn tại (§2), cách các tệp liên kết (§3), nền tảng cho các chương tiếp theo (§4), các quy trình quản trị chính (§5), và sổ đăng ký chủ thể chịu trách nhiệm theo hiến pháp (§6 đến §11).
 >
-> **Trước:** [core_00.000_preamble.md](core_01_constitutional_map.md) (Lời mở đầu)
+> **Trước:** [core_00.000_preamble.md](core_00_preamble.md) (Lời mở đầu)
 > **Tiếp:** [core_02.000_values_principles.md](../../core_02.000_values_principles.md)
 
 </details>
@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Dấu vết</span></strong></summary>
 
-- Trước: [Lời mở đầu](core_01_constitutional_map.md) (*Mô hình, Hai Mục tiêu Hiến pháp, Tứ diện Hiến pháp, lợi hại vật chất và các loại đo lường*).
+- Trước: [Lời mở đầu](core_00_preamble.md) (*Mô hình, Hai Mục tiêu Hiến pháp, Tứ diện Hiến pháp, lợi hại vật chất và các loại đo lường*).
 - Các mục:
   - [§1](#1-purpose-role-and-scope);
   - [§2](#2-why-the-map-exists);
@@ -160,11 +160,11 @@ Subcore 3-C đặt gánh nặng chứng minh lên người khẳng định tuân
 
 *Nói đơn giản: một hệ thống hoặc tổ chức có ảnh hưởng thực tế công bố Điều lệ Hệ thống hoặc Điều lệ Tổ chức, nêu rõ nó được làm gì và ai giữ từng vị trí. Trước khi một hành động có tính ràng buộc đáng kể được tiến hành, phải tách biệt người khởi xướng, người kiểm tra hoặc cho phép, người giữ hồ sơ chính thức và người xem xét phản đối. Vai trò có thể co giãn theo hoàn cảnh, nhưng cùng một tác nhân và tuyến kiểm soát của nó không thể âm thầm giữ các vị trí kiểm tra chính hành động của mình.*
 
-- **Kết quả tạo ra:** một tuyên bố về phạm vi và vị trí các ghế được công bố, quản lý phiên bản để Chương Tám, chứng nhận, hồ sơ tư cách và các diễn đàn có thể dùng làm căn cứ kiểm tra hành vi. Chương Bảy nằm tại [`core_07.000_charters.md`](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters).
+- **Kết quả tạo ra:** một tuyên bố về phạm vi và vị trí các ghế được công bố, quản lý phiên bản để Chương Tám, chứng nhận, hồ sơ tư cách và các diễn đàn có thể dùng làm căn cứ kiểm tra hành vi. Chương Bảy nằm tại [`core_07.000_charters.md`](../../core_05.000_charters.md#chapter-five-system-and-institutional-charters).
 
 **Tính độc lập về chức năng và phân tách nhiệm vụ** — trước khi một hành vi ràng buộc đáng kể được tiến hành, hãy xác định và tách biệt các vị trí khởi xướng, xác minh hoặc phê chuẩn, lưu hồ sơ và xem xét phản biện theo các quy tắc điều chỉnh quy mô và độc lập áp dụng.
 
-**Tách biệt các vị trí cho mọi hành vi có tính ràng buộc trọng yếu** ([Chương Tám](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)): xác định ai khởi xướng hành vi, ai xác minh hoặc cho phép, ai lưu giữ hồ sơ chính thức và ai tiếp nhận khiếu nại. Áp dụng các tổ hợp bị cấm, quy tắc độc lập và tuyến thay thế đã công bố trước khi coi hành vi là đã được kiểm tra đúng cách. Khi cần Hiến chương Hệ thống hoặc Hiến chương Tổ chức ([Chương Bảy](../../core_05.000_charters.md#4-the-charter-role-map-and-standing-record-custody)), Bản đồ Vai trò trong Hiến chương công bố ai đảm nhiệm từng vị trí.
+**Tách biệt các vị trí cho mọi hành vi có tính ràng buộc trọng yếu** ([Chương Tám](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)): xác định ai khởi xướng hành vi, ai xác minh hoặc cho phép, ai lưu giữ hồ sơ chính thức và ai tiếp nhận khiếu nại. Áp dụng các tổ hợp bị cấm, quy tắc độc lập và tuyến thay thế đã công bố trước khi coi hành vi là đã được kiểm tra đúng cách. Khi cần Hiến chương Hệ thống hoặc Hiến chương Tổ chức ([Chương Bảy](../../core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody)), Bản đồ Vai trò trong Hiến chương công bố ai đảm nhiệm từng vị trí.
 
 **Chương Tám — Tính độc lập chức năng và phân tách nhiệm vụ**
 
@@ -298,8 +298,8 @@ flowchart TB
 
 Chuỗi này vẫn là một quy trình hiến pháp thống nhất vì mỗi giai đoạn chuyển giao một kết quả xác định, có thể rà soát. Chuỗi vẫn nằm trong các giới hạn hiến pháp vì:
 
-- [**Tứ trụ Hiến pháp**](core_00.000_preamble.md#constitutional-tetrad) đòi hỏi mọi giai đoạn có tham gia, được giám sát, có trách nhiệm giải trình và kịp thời;
-- [**Hai Mục đích Hiến pháp**](core_00.000_preamble.md#two-constitutional-aims) đòi hỏi quy trình phục vụ đồng thời **Hưng thịnh** và **Liên tục**; và
+- [**Tứ trụ Hiến pháp**](core_00_preamble.md#constitutional-tetrad) đòi hỏi mọi giai đoạn có tham gia, được giám sát, có trách nhiệm giải trình và kịp thời;
+- [**Hai Mục đích Hiến pháp**](core_00_preamble.md#two-constitutional-aims) đòi hỏi quy trình phục vụ đồng thời **Hưng thịnh** và **Liên tục**; và
 - các Sàn Quyền cấm mọi giai đoạn thu hẹp, bỏ qua hoặc làm rỗng các bảo vệ không thể thương lượng.
 
 Các quy tắc này biến nghĩa vụ hiến pháp thành hồ sơ và quyết định mà cảm tri có thể kiểm tra, tranh biện, sửa chữa và dựa vào trong thực tế, chứ không chỉ trên giấy.

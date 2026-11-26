@@ -160,7 +160,7 @@ Los subcores del Capítulo Tres establecen cómo se construyen, protegen y prueb
 
 **Capítulo Seis — Independencia funcional y separación de funciones**
 
-- **Qué le corresponde:** exige asignar por separado cuatro funciones en cada [acto materialmente vinculante](../../core_05.035_band_accountability.md#materially-binding-act): iniciación; verificación o autorización; custodia del registro oficial; y revisión de impugnaciones. También regula el contenido mínimo del Registro del Acto, la independencia de la línea de control material del actor, la ubicación publicada y los sustitutos, el alojamiento combinado proporcional, los límites de emergencia y las transferencias atribuibles y la derivación al puesto correcto.
+- **Qué le corresponde:** exige asignar por separado cuatro funciones en cada [acto materialmente vinculante](../../subcore_03.070_band_accountability.md#materially-binding-act): iniciación; verificación o autorización; custodia del registro oficial; y revisión de impugnaciones. También regula el contenido mínimo del Registro del Acto, la independencia de la línea de control material del actor, la ubicación publicada y los sustitutos, el alojamiento combinado proporcional, los límites de emergencia y las transferencias atribuibles y la derivación al puesto correcto.
 - **Qué produce:** una arquitectura reutilizable de cuatro funciones y del Registro del Acto. Todo proceso posterior de certificación, trayectoria, foro, gobernanza e incorporación debe aplicarla para que sus resultados sean comprobables de forma independiente, queden registrados de manera fiable y puedan impugnarse realmente. [Capítulo Seis](../../core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties).
 
 **[Capítulo Siete — Organismos independientes](../../core_07.000_independent_bodies.md#chapter-seven-independent-bodies)**
@@ -206,9 +206,9 @@ flowchart TB
 
 *En términos sencillos: los Capítulos Nueve a Quince forman una sola cadena — certificar sistemas e instituciones, registrar y medir ayuda y daño en vías separadas, aplicar efectos reales y reparación, y evitar que un foro sea el único hogar final de una reclamación contra sí mismo — para mantener los deberes reales en la vida diaria.*
 
-Los Capítulos Nueve a Quince se enlazan en una sola cadena práctica — y, dentro del [registro positivo de titulares](#4-principles-definitions-and-rights), cada paso nombra qué le corresponde a ese capítulo. Juntos convierten los deberes constitucionales en registros que los sencientes pueden comprobar, impugnar y reparar — de modo que la [**Tétrada Constitucional**](#constitutional-tetrad), las [**Dos Finalidades Constitucionales**](#two-constitutional-aims) y los Pisos de Derechos sigan siendo reales en la vida cotidiana, no solo en el papel.
+Los Capítulos Nueve a Quince se enlazan en una sola cadena práctica — y, dentro del [registro positivo de titulares](#4-principles-definitions-and-rights), cada paso nombra qué le corresponde a ese capítulo. Juntos convierten los deberes constitucionales en registros que los sencientes pueden comprobar, impugnar y reparar — de modo que la [**Tétrada Constitucional**](core_00_preamble.md#constitutional-tetrad), las [**Dos Finalidades Constitucionales**](core_00_preamble.md#two-constitutional-aims) y los Pisos de Derechos sigan siendo reales en la vida cotidiana, no solo en el papel.
 
-Cada paso de abajo enuncia qué le corresponde al capítulo y qué produce. [Cómo encaja la cadena completa](#62-how-the-full-chain-fits-together) muestra después a esos titulares como un solo camino desde la comprobación del sistema hasta el remedio.
+Cada paso de abajo enuncia qué le corresponde al capítulo y qué produce. [Cómo encaja la cadena completa](#82-how-the-full-chain-fits-together) muestra después a esos titulares como un solo camino desde la comprobación del sistema hasta el remedio.
 
 **Certificación de alineación del sistema** ([Capítulo Nueve](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification))
 
@@ -224,27 +224,27 @@ Cada paso de abajo enuncia qué le corresponde al capítulo y qué produce. [Có
 - **Qué le corresponde:** Cuando la conducta importa constitucionalmente, los rumores y las reputaciones no bastan. El Capítulo Once incorpora los hechos verificados a **registros de trayectoria**; el Capítulo Doce mide la **contribución** (ayuda hacia el florecimiento) y la **infracción** (fallos de rendición de cuentas y daño) en **ejes separados** — la conducta buena verificada no borra el daño verificado, y ambos nunca se pliegan en una sola puntuación neta.
 - **Qué produce:** **Registros de trayectoria** clasificados en el Eje de Contribución y el Eje de Infracción, basados solo en **insumos verificados** y en hallazgos supervisados por foro — no en puntuación informal ni en relatos de controversia que sustituyan la clasificación.
 
-**Integración de trayectoria y efectos** ([Capítulo Trece](../../core_13.000_standing_integration.md#chapter-thirteen-standing-effects-and-integration))
+**Integración de trayectoria y efectos** ([Capítulo Trece](../../subcore_10.060_standing_integration.md#1-purpose-role-and-scope))
 
-- **Qué le corresponde:** Integra las clasificaciones verificadas en **efectos de trayectoria** del mundo real en pistas separadas — escalados al [**enjuego material**](#material-stake), sin plegar contribución e infracción en una sola puntuación neta, y sin vaciar la participación, la supervisión, la rendición de cuentas o la actuación a tiempo.
+- **Qué le corresponde:** Integra las clasificaciones verificadas en **efectos de trayectoria** del mundo real en pistas separadas — escalados al [**enjuego material**](core_00_preamble.md#material-stake), sin plegar contribución e infracción en una sola puntuación neta, y sin vaciar la participación, la supervisión, la rendición de cuentas o la actuación a tiempo.
   - **Pista de contribución:** La clasificación positiva verificada produce un alza práctica:
-    - [**Habilitaciones de competencia**](../../core_13.000_standing_integration.md#72-competency-bars-and-clearances) que pueden abrir roles sensibles a la confianza, autoridad delegada, elegibilidad de supervisión y administración responsable de consecuencia progresiva cuando se demuestra competencia frente a la barra de competencia publicada y ningún [bloqueo de trayectoria](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks) aplicable cierra la vía condicionada
+    - [**Habilitaciones de competencia**](../../core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) que pueden abrir roles sensibles a la confianza, autoridad delegada, elegibilidad de supervisión y administración responsable de consecuencia progresiva cuando se demuestra competencia frente a la barra de competencia publicada y ningún [bloqueo de trayectoria](../../core_12.000_violation_consequences.md#32-prevention--general-standing-locks) aplicable cierra la vía condicionada
     - Reconocimiento proporcional y **recompensas materiales** por la administración responsable lícita y la cooperación, como exige el [Capítulo Uno](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration)
     - No es elogio vacío. Los beneficios tienen que ser reales, respaldados por evidencia y abiertos a impugnación
   - **Pista de infracción:** Los hallazgos de infracción verificados producen un descenso práctico:
-    - **Bloqueos de trayectoria**, límites de rol, órdenes de remediación, [remedio para quienes fueron dañados](../../core_13.000_standing_integration.md#51-remedy-and-correction), descriptores suplementarios y ganchos de ejecución
+    - **Bloqueos de trayectoria**, límites de rol, órdenes de remediación, [remedio para quienes fueron dañados](../../core_12.000_violation_consequences.md#31-remedy-and-correction), descriptores suplementarios y ganchos de ejecución
     - Las restricciones se ajustan a la gravedad de lo que se verificó
     - Las infracciones no resueltas siguen vivas
     - Siguen disponibles vías proporcionales para restaurar la trayectoria de quienes demuestran restitución auténtica
     - Una habilitación de competencia del lado de la contribución no dispensa un bloqueo de trayectoria del lado de la infracción
 - **Qué produce:** Efectos de trayectoria separados y escalados en las pistas de Contribución y de Infracción — habilitaciones de competencia y recompensas materiales de un lado; bloqueos de trayectoria, corrección y remedio del otro — ninguno plegado en una sola puntuación.
 
-**Barandilla de inconducta anticonstitucional** ([Capítulo Catorce](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct))
+**Barandilla de inconducta anticonstitucional** ([Capítulo Catorce](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation))
 
 - **Qué le corresponde:** Trata solo las infracciones verificadas más graves — conducta que puede haber capturado o vaciado deberes constitucionales a escala. Cuando el Capítulo Once ya ha registrado un hallazgo de infracción de máximo impacto, y se alega de forma material inconducta anticonstitucional, este capítulo corre la revisión de designación como una pista de umbral del Capítulo Trece en paralelo con los efectos ordinarios de trayectoria del Capítulo Trece.
 - **Qué produce:** Una designación final de inconducta anticonstitucional — o su rechazo — para ese hallazgo existente de máximo impacto, solo después de que se cumplen los criterios exigidos y las salvaguardas de debido proceso. El Capítulo Doce sigue midiendo cuán grave fue el daño; solo una designación final dispara el **Bloqueo de Confianza Anticonstitucional** del Capítulo Trece.
 
-**Supervisión de foro y enrutamiento** ([Capítulo Quince](../../core_15.000_forum.md#chapter-fifteen-forums-and-jurisdiction))
+**Supervisión de foro y enrutamiento** ([Capítulo Quince](../../core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases))
 
 - **Qué le corresponde:** Supervisa cómo se mueven de hecho las controversias y los asuntos de certificación.
   - [Secuencia de controversias](core_11_forum.md#dispute-sequencing) desde la vía de impugnación publicada de Participación Sistémica de las Partes Afectadas hasta el enrutamiento de foro

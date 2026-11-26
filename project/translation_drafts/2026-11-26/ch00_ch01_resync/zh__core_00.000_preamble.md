@@ -11,13 +11,13 @@
 >
 > 本文件**是感知者宪法的一部分**；只有与其他编号的 `core_*` 文件一并作为同一文本阅读时，才具有**约束力**。本文件包含**序言**（基础要求）。阅读顺序和版本元数据由 [README.md](README.md) 维护。
 >
-> **下游：** [core_01.000_constitutional_map.md](core_01_constitutional_map.md)（第一章，宪法地图）。
+> **下游：** [core_01.000_constitutional_map.md](../../core_01.000_constitutional_map.md)（第一章，宪法地图）。
 
 </details>
 
 <br>
 
-序言是**模型**（**两项宪法宗旨**、**宪法四元**和**实质利害**）以及测量类别的宪法责任主体。[第一章](core_01_constitutional_map.md#chapter-one-constitutional-map)《*宪法地图*》载有宪法责任主体登记册。
+序言是**模型**（**两项宪法宗旨**、**宪法四元**和**实质利害**）以及测量类别的宪法责任主体。[第一章](../../core_01.000_constitutional_map.md#chapter-one-constitutional-map)《*宪法地图*》载有宪法责任主体登记册。
 
 *用直白的话说：这篇开篇点出本宪法要纠正的问题 — 那些伤害、隐瞒或把受其影响者关在门外的系统 — 并说明文书的其余部分，就是我们如何用可问责、可核查、及时的治理来替换它。*
 
@@ -68,7 +68,7 @@
 
 这些问题约束所有决定系统奖励或惩罚什么的人，包括设定报酬、晋升、准入、目标和评分的运营者、机构与管理者；也包括训练或优化 AI 的系统设计者，因为其目标和反馈信号正是此处所说的奖励。人类与 AI 管理者遵循同一标准（[第一章 §17.1 共同管理标准](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)）。
 
-第一章将这些问题转化为激励规则：[§19.1.1 激励必须做什么](../../core_02.040_stewardship_capacity_principles.md#1911-what-incentives-must-do)支撑第一个问题，[§19.1.2 激励不得做什么](../../core_02.040_stewardship_capacity_principles.md#1912-what-incentives-must-not-do)支撑第二个问题。应检查实际发生的事情，而非听信任何人的说法。[激励对齐](../../subcore_03.080_band_integrative.md#incentive-alignment)与[代理指标偏离](../../subcore_03.085_band_oversight.md#proxy-divergence)说明方法，[**实质利害**](#material-stake)决定审查深度。第1节的四项义务让答案保持诚实。
+第一章将这些问题转化为激励规则：[§19.1.1 激励必须做什么](../../core_02.050_governance_incentive_application.md#1911-what-incentives-must-do)支撑第一个问题，[§19.1.2 激励不得做什么](../../core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do)支撑第二个问题。应检查实际发生的事情，而非听信任何人的说法。[激励对齐](../../subcore_03.080_band_integrative.md#incentive-alignment)与[代理指标偏离](../../subcore_03.085_band_oversight.md#proxy-divergence)说明方法，[**实质利害**](#material-stake)决定审查深度。第1节的四项义务让答案保持诚实。
 
 ### 1. 模型
 
@@ -137,7 +137,7 @@ flowchart TB
 |---|---|---|
 | **[繁盛](../../subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | 感知者的生命、安全和基本需求获取是否真正得到维系？ | [福祉](../../subcore_03.075_band_continuity.md#wellbeing) · [安全、伤害与风险](../../subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [生存底线获取](../../subcore_03.075_band_continuity.md#bodily-maintenance-access) |
 | **[延续](../../subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | 感知者和系统能否在生态上、可靠地并经受故障而持续存在？ | [生态足迹与环境前提条件](../../subcore_03.075_band_continuity.md#ecological-footprint) · [韧性、可逆性与系统性风险](../../subcore_03.075_band_continuity.md#reversibility) · [依赖关系与资源流动](../../subcore_03.075_band_continuity.md#dependency) · [跨系统支持](../../subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
-| **[参与](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | 受影响的感知者能否在发声、获取、学习和隐私方面公平参与？ | [公平、获取与能动性](../../subcore_03.090_band_participation.md#substantive-fairness) · [隐私与数据尽责管理](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
+| **[参与](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | 受影响的感知者能否在发声、获取、学习和隐私方面公平参与？ | [公平、获取与能动性](../../subcore_03.090_band_participation.md#substantive-fairness) · [隐私与数据尽责管理](../../subcore_03.075_band_continuity.md#privacy-informational-cluster) |
 | **[监督](../../subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | 感知者能否看见、核验并信赖系统所呈现的内容？ | [真实与认识完整性](../../subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [可信度](../../subcore_03.075_band_continuity.md#trustworthiness) |
 | **[问责](../../subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | 激励结构、市场权力和答责机制能否让义务落到实处？ | [激励一致性与替代指标完整性](../../subcore_03.080_band_integrative.md#incentive-alignment) · [市场结构与可质疑性](../../subcore_03.070_band_accountability.md#market-structure) |
 | **[及时性](../../subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | 争议、纠正和修复是否在补救仍有意义时得到解决？ | [及时解决](../../subcore_03.070_band_accountability.md#timely-resolution) · [反拖延与解决路径纪律](../../subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |

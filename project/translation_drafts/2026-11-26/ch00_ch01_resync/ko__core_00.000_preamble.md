@@ -61,13 +61,13 @@
 - 낭비
 - 부당한 비용 전가
 
-보상은 인정, 승진, 보호, 지표상 점수, 또는 못 본 체하기일 수 있다([제1장 §3.2.6 반헌법적 행위에 대한 보상 금지](../../core_02.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)).
+보상은 인정, 승진, 보호, 지표상 점수, 또는 못 본 체하기일 수 있다([제1장 §3.2.6 반헌법적 행위에 대한 보상 금지](../../core_02.000_values_principles.md#327-anti-reward-for-anti-constitutional-conduct)).
 
 두 질문 모두 무조건 동의하라는 요구가 아니다. 정직한 반대 의견, 선의의 보고, 잘못된 행위에 가담하지 않겠다는 태도는 반사회적이지 않다. 그것을 반사회적으로 취급하는 체계가 거꾸로 된 것이다. 어느 질문도 인기투표가 아니다. 무엇이 돕고 해치며 공정하고 정당한지는 이 헌법 자체의 기준으로 판단한다. 그 기준은 안전, 진실, 신뢰, 권리 바닥 안에서의 [**번영**](#flourishing)과 [**지속성**](#continuity)이다. 다수, 운영자, 또는 순간의 승인이 기준이 아니다.
 
 이 질문은 체계가 무엇에 보상하거나 벌을 줄지 결정하는 모두를 구속한다. 임금, 승진, 접근, 목표, 평점을 정하는 운영자, 기관, 책임자가 포함된다. AI를 훈련하거나 최적화하는 체계의 설계자도 포함된다. 그들의 목적과 피드백 신호는 바로 이 의미의 보상이다. 인간과 AI 책임자는 같은 기준 아래 있다([제1장 §17.1 공동 책임자 기준](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
-제1장은 이 질문을 인센티브 규칙으로 구체화한다. [제1장 §19.1.1 인센티브가 해야 하는 일](../../core_02.040_stewardship_capacity_principles.md#1911-what-incentives-must-do)은 첫 질문을 뒷받침하고, [제1장 §19.1.2 인센티브가 해서는 안 되는 일](../../core_02.040_stewardship_capacity_principles.md#1912-what-incentives-must-not-do)은 둘째 질문을 뒷받침한다. 누군가의 주장을 믿지 말고 실제로 일어나는 일을 확인해 답하라. [인센티브 정렬](../../subcore_03.080_band_integrative.md#incentive-alignment)과 [대리지표 괴리](../../subcore_03.085_band_oversight.md#proxy-divergence)가 방법을 말하고, [**실질적 이해관계**](#material-stake)가 얼마나 깊이 살필지 정한다. 제1절의 네 의무가 답을 정직하게 지킨다.
+제1장은 이 질문을 인센티브 규칙으로 구체화한다. [제1장 §19.1.1 인센티브가 해야 하는 일](../../core_02.050_governance_incentive_application.md#1911-what-incentives-must-do)은 첫 질문을 뒷받침하고, [제1장 §19.1.2 인센티브가 해서는 안 되는 일](../../core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do)은 둘째 질문을 뒷받침한다. 누군가의 주장을 믿지 말고 실제로 일어나는 일을 확인해 답하라. [인센티브 정렬](../../subcore_03.080_band_integrative.md#incentive-alignment)과 [대리지표 괴리](../../subcore_03.085_band_oversight.md#proxy-divergence)가 방법을 말하고, [**실질적 이해관계**](#material-stake)가 얼마나 깊이 살필지 정한다. 제1절의 네 의무가 답을 정직하게 지킨다.
 
 ### 1. 모형
 
@@ -161,7 +161,7 @@ flowchart TB
 
 *쉬운 말로: 먼저 문제와 이해관계를 이름 붙이고, 맞는 측정 범주를 고르고, 편한 숫자가 아니라 공유 기술 표준을 증거로 쓰십시오.*
 
-헌법이 구체적인 측정 규칙을 요구하면 [제15장](../../core_15.000_forum.md#42-technical-forum-domains)의 **기술 포럼 영역**이 측정, 시험, 신뢰할 수 있는 증거를 위한 공동 기준을 개발하고 유지한다. 분쟁을 담당하는 포럼은 [제15장 §4.2 (*기술 포럼 영역*)](../../core_15.000_forum.md#42-shared-standards-and-anti-displacement)에 따라 사건을 판단할 때 해당 기준을 적용한다.
+헌법이 구체적인 측정 규칙을 요구하면 [제15장](../../core_17.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains)의 **기술 포럼 영역**이 측정, 시험, 신뢰할 수 있는 증거를 위한 공동 기준을 개발하고 유지한다. 분쟁을 담당하는 포럼은 [제15장 §4.2 (*기술 포럼 영역*)](../../core_17.000_forum_families_escalation_timeliness_support.md#62-shared-standards-and-anti-displacement)에 따라 사건을 판단할 때 해당 기준을 적용한다.
 
 헌법상 책임 있는 관리는 문제와 [**실질 이해관계**](#material-stake)를 이름 붙이는 데서 시작한다 — 얼마나 많은 영향, 의존, 위험이 걸려 있는가. 다음으로 [개관](#2-measurements-overview)에서 관련 [**측정**](#2-measurements-overview) 범주와 하위범주를 고르고, 위의 표준을 적용해 편한 지표가 아니라 실제 세계 효과를 시험한다. 추적 가능한 증거를 요구하라.
 
@@ -179,7 +179,7 @@ flowchart TB
 
 이 층들은 실무에서 겹칠 수 있다. 그 겹침이 그것들을 하나로 무너뜨리지는 않는다. 이미 수권된 체계에서 영향받는 쪽 층의 참여는 헌법 수권의 대체가 아니다. 공표된 다툼 경로, 참여 투표, 신뢰 점수는 그것만으로 누가 통치할 수 있는지를 결정하지 않는다.
 
-참여 층위의 이의제기 가능성은 이미 권한이 부여된 시스템 내부의 분쟁에 대한 통상적인 첫 단계다. 영향을 받는 센티언트는 먼저 공개된 이의제기 경로를 이용한다. 독립적인 [포럼 심사](../../core_15.000_forum.md#1-purpose-and-role--participation-architecture)는 그 경로를 대체하지 않으며, 그 경로가 계속 다투어지거나, 누락·포획되었거나, 필요한 구제를 할 수 없을 때 포럼 심사를 대신하지도 않는다. 제15장의 [분쟁 처리 순서](../../core_15.000_forum.md#dispute-sequencing)는 언제 포럼 경로 지정으로 넘어가는지 정한다.
+참여 층위의 이의제기 가능성은 이미 권한이 부여된 시스템 내부의 분쟁에 대한 통상적인 첫 단계다. 영향을 받는 센티언트는 먼저 공개된 이의제기 경로를 이용한다. 독립적인 [포럼 심사](../../core_16.000_forum.md#1-purpose-role-and-scope)는 그 경로를 대체하지 않으며, 그 경로가 계속 다투어지거나, 누락·포획되었거나, 필요한 구제를 할 수 없을 때 포럼 심사를 대신하지도 않는다. 제15장의 [분쟁 처리 순서](../../core_16.000_forum.md#dispute-sequencing)는 언제 포럼 경로 지정으로 넘어가는지 정한다.
 
 헌법 수권은 [영향받는 쪽의 체계 참여](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight) 층 아래 마땅한 의무를 지우지도 않는다. 그 의무는 여전히 참여, 대표, [다툴 수 있음](../../subcore_03.070_band_accountability.md#contestability), [적법절차](../../subcore_03.070_band_accountability.md#due-process-constitutional)를 포함하며, 이미 수권된 체계, 제도, 한정된 결정 영역에 실질적으로 영향받는 감지자에게 적용된다.
 

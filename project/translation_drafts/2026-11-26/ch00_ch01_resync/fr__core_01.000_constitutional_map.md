@@ -259,9 +259,9 @@ flowchart TB
 
 *En termes simples : les chapitres neuf à quinze appliquent en une seule chaîne l’exigence de séparation des fonctions du chapitre huit : certifier les systèmes et les institutions, mesurer l’aide et le préjudice sur deux voies distinctes, appliquer des effets réels et des réparations, et empêcher qu’un forum soit le seul juge final d’une réclamation qui le vise. Cette chaîne rend les devoirs constitutionnels réels au quotidien.*
 
-[Le chapitre sept](core_07_charters.md#chapter-seven-system-and-institutional-charters) publie le périmètre de la charte et la carte des sièges de chaque système et institution de classe L ou supérieure. [Le chapitre huit](../../core_07.000_independent_bodies.md#chapter-eight-functional-independence-and-separation-of-duties) établit l’exigence de séparation des fonctions qui rend chaque acte de cette chaîne vérifiable de manière valide. Il exige que l’initiative, la vérification ou l’autorisation, la garde officielle des dossiers et l’examen des contestations soient attribués à des fonctions distinctes et maintenus séparés selon les règles applicables de proportionnalité et d’indépendance. Les chapitres neuf à quinze appliquent ensuite cette architecture dans l’ordre :
+[Le chapitre sept](core_07_charters.md#chapter-seven-system-and-institutional-charters) publie le périmètre de la charte et la carte des sièges de chaque système et institution de classe L ou supérieure. [Le chapitre huit](../../core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) établit l’exigence de séparation des fonctions qui rend chaque acte de cette chaîne vérifiable de manière valide. Il exige que l’initiative, la vérification ou l’autorisation, la garde officielle des dossiers et l’examen des contestations soient attribués à des fonctions distinctes et maintenus séparés selon les règles applicables de proportionnalité et d’indépendance. Les chapitres neuf à quinze appliquent ensuite cette architecture dans l’ordre :
 
-Chaque pas ci-dessous énonce ce qui revient au chapitre et ce qu’il produit. [Comment la chaîne complète s’emboîte](#51-how-the-full-chain-fits-together) montre ensuite ces titulaires comme un seul chemin de la vérification du système au recours.
+Chaque pas ci-dessous énonce ce qui revient au chapitre et ce qu’il produit. [Comment la chaîne complète s’emboîte](#82-how-the-full-chain-fits-together) montre ensuite ces titulaires comme un seul chemin de la vérification du système au recours.
 
 **Certification d’alignement du système** ([Chapitre sept](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification))
 
@@ -269,7 +269,7 @@ Chaque pas ci-dessous énonce ce qui revient au chapitre et ce qu’il produit. 
   - Avant qu’un système qui affecte matériellement les êtres sentients puisse être reconnu ou qu’on s’y fie à l’échelle, la preuve est rassemblée et examinée sous supervision de forum
   - L’examen doit couvrir :
   - le respect par le système des éléments essentiels à la survie ;
-  - l’allocation des ressources et la gestion des dépendances au titre de l’**article V** (*Allocation des ressources, dépendances et financement des écosystèmes*), y compris [Proportionate Cross-System Support](../../core_05.040_band_continuity.md#proportionate-cross-system-support) lorsque la dépendance à une infrastructure partagée est substantiellement en jeu ;
+  - l’allocation des ressources et la gestion des dépendances au titre de l’**article V** (*Allocation des ressources, dépendances et financement des écosystèmes*), y compris [Proportionate Cross-System Support](../../subcore_03.075_band_continuity.md#proportionate-cross-system-support) lorsque la dépendance à une infrastructure partagée est substantiellement en jeu ;
   - la sécurité ;
   - la participation ; et
   - les autres garanties constitutionnelles minimales.
@@ -277,20 +277,20 @@ Chaque pas ci-dessous énonce ce qui revient au chapitre et ce qu’il produit. 
   - Les systèmes à haut risque doivent être recertifiés selon un calendrier régulier ; la certification n’est jamais permanente
 - **Ce qu’il produit :** Un **registre de certification d’alignement du système** — une réponse bornée et contestable à si ce système est assez aligné pour le reconnaître, continuer de s’y fier, le déployer ou le libérer de conditions *maintenant*, dans une portée et une fenêtre de temps énoncées.
 
-**Mesure de trajectoire** ([Chapitre huit](../../subcore_10.020_standing_assessment.md#chapter-ten-compliance-violation-and-standing-model))
+**Mesure de trajectoire** ([Chapitre huit](../../core_10.000_standing_assessment.md#chapter-ten-standing-assessment))
 
 - **Ce qui lui revient :** Lorsque la conduite importe constitutionnellement, rumeurs et réputations ne suffisent pas. Les faits vérifiés entrent dans des **registres de trajectoire**. La **contribution** (aide vers l’épanouissement) et l’**infraction** (échecs de reddition de comptes et préjudice) sont mesurées sur des **axes séparés** — la bonne conduite vérifiée n’efface pas le préjudice vérifié, et les deux ne se plient jamais en un seul score net.
 - **Ce qu’il produit :** Des **registres de trajectoire** classés sur l’Axe de contribution et l’Axe d’infraction, fondés seulement sur des **apports vérifiés** et des constatations supervisées par forum — pas un score informel ni des récits de différend à la place de la classification.
 
-**Intégration de trajectoire et effets** ([Chapitre neuf](../../subcore_10.060_standing_integration.md#chapter-eleven-standing-effects-and-integration))
+**Intégration de trajectoire et effets** ([Chapitre neuf](../../subcore_10.060_standing_integration.md#1-purpose-role-and-scope))
 
-- **Ce qui lui revient :** Intègre les classifications vérifiées en **effets de trajectoire** du monde réel sur des pistes séparées — mis à l’échelle de l’[**enjeu matériel**](#material-stake), sans plier contribution et infraction en un seul score net, et sans vider participation, supervision, reddition de comptes ou action en temps.
+- **Ce qui lui revient :** Intègre les classifications vérifiées en **effets de trajectoire** du monde réel sur des pistes séparées — mis à l’échelle de l’[**enjeu matériel**](core_00_preamble.md#material-stake), sans plier contribution et infraction en un seul score net, et sans vider participation, supervision, reddition de comptes ou action en temps.
   - **Piste de contribution :** La classification positive vérifiée produit un gain pratique :
-    - [**Habilitations de compétence**](../../core_13.000_standing_integration.md#72-competency-bars-and-clearances) susceptibles d’ouvrir des fonctions sensibles à la confiance, une autorité déléguée, l’admissibilité à la supervision et des responsabilités de gestion progressivement plus importantes lorsque la compétence est démontrée selon le seuil publié et qu’aucun [blocage de situation](../../core_13.000_standing_integration.md#52-prevention--general-standing-locks) applicable n’empêche la voie nommée
+    - [**Habilitations de compétence**](../../core_11.000_contribution_consequences.md#32-competency-bars-and-clearances) susceptibles d’ouvrir des fonctions sensibles à la confiance, une autorité déléguée, l’admissibilité à la supervision et des responsabilités de gestion progressivement plus importantes lorsque la compétence est démontrée selon le seuil publié et qu’aucun [blocage de situation](../../core_12.000_violation_consequences.md#32-prevention--general-standing-locks) applicable n’empêche la voie nommée
     - reconnaissance proportionnée et **récompenses matérielles** pour l’administration responsable licite et la coopération, comme l’exige le [chapitre un](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration)
     - Pas une louange vide. Les bénéfices doivent être réels, étayés par la preuve, et ouverts à contestation
   - **Piste d’infraction :** Les constatations d’infraction vérifiées produisent une perte pratique :
-    - **Verrous de trajectoire**, limites de rôle, ordres de remédiation, [recours pour ceux qui ont été lésés](../../core_13.000_standing_integration.md#51-remedy-and-correction), descripteurs supplémentaires et crochets d’exécution
+    - **Verrous de trajectoire**, limites de rôle, ordres de remédiation, [recours pour ceux qui ont été lésés](../../core_12.000_violation_consequences.md#31-remedy-and-correction), descripteurs supplémentaires et crochets d’exécution
     - Les restrictions s’ajustent à la gravité de ce qui a été vérifié
     - Les infractions non résolues restent vivantes
     - Des voies proportionnées pour restaurer la trajectoire restent disponibles pour ceux qui démontrent une restitution authentique
@@ -311,7 +311,7 @@ Chaque pas ci-dessous énonce ce qui revient au chapitre et ce qu’il produit. 
   - Comment les affaires se transfèrent ou se consolident
   - Comment les règles anti-se-juger-soi-même empêchent des forums capturés d’être le seul foyer final
   - Les délais sous l’**article XXV-C** (*Résolution en temps et plancher anti-retard*) empêchent les affaires de rester non résolues si longtemps que le recours ne compte plus
-- **Ce qu’il produit :** des **constatations vérifiées** qui peuvent ouvrir ou mettre à jour des registres de trajectoire, plus un routage licite vers le recours et la [résolution en temps](../../core_05.035_band_accountability.md#timely-resolution-constitutional). Les forums supervisent la chaîne ; ils ne remplacent pas la mesure de trajectoire du chapitre huit.
+- **Ce qu’il produit :** des **constatations vérifiées** qui peuvent ouvrir ou mettre à jour des registres de trajectoire, plus un routage licite vers le recours et la [résolution en temps](../../subcore_03.070_band_accountability.md#timely-resolution-constitutional). Les forums supervisent la chaîne ; ils ne remplacent pas la mesure de trajectoire du chapitre huit.
 
 <a id="81-process-map"></a>
 #### 8.1 Carte des processus

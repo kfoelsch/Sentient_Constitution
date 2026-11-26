@@ -189,6 +189,16 @@ Cada **Ato Materialmente Vinculante** deve observar estas salvaguardas para o me
 - O assento de verificação ou autorização não pode analisar uma contestação ao ato.
 - Os assentos de verificação/autorização e de análise de contestações devem ficar fora da [Linha de Controle Material](../../subcore_03.070_band_accountability.md#material-control-line) do assento de iniciação.
 
+
+<details>
+<summary><strong><span style="color: #2563eb;">Orientação de leitura (não operativa): mapa de separação dos quatro assentos</span></strong></summary>
+
+> Este mapa mostra as quatro funções e um percurso típico de um ato e de seu Registro do Ato. Não acrescenta um quinto assento, não prescreve uma sequência universal nem altera as regras do Capítulo Seis sobre independência, combinação proporcional de funções, ação emergencial ou encaminhamento de contestações.
+
+</details>
+
+<br>
+
 ```mermaid
 flowchart TB
     I["Assento de iniciação<br/><br/>Solicita, propõe, opera,<br/>alega ou inicia o ato"]
@@ -212,14 +222,6 @@ flowchart TB
 O [Capítulo Cinco](../../core_05.000_charters.md#chapter-five-system-and-institutional-charters) define as Cartas exigidas para sistemas e instituições, seu escopo e o mapa de assentos. O [Capítulo Seis](../../core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) exige que, para cada ato materialmente vinculante, permaneçam separadas quatro funções: iniciação, verificação ou autorização, custódia do registro oficial e análise de contestações. A [§8.2](#82-how-the-full-chain-fits-together) conecta esses requisitos ao processo da certificação à reparação.
 
 #### 8.1 Mapa de processos
-
-- **O que produz:** O fluxo de verificação que alimenta as **entradas verificadas** do [Capítulo Onze](core_11_standing_assessment.md#chapter-eleven-standing-records--question-1-what-happened) e as evidências de alinhamento do sistema do [Capítulo Nove](core_09.000_system_alignment_certification_evaluation.md#chapter-nine-system-alignment-certification). Ele não substitui a própria medição de standing.
-  - Regras de Transição da Adoção.
-- **O que produz:** Proteções de direitos inegociáveis e mecanismos de reparação que os Capítulos Sete a Quinze, os fóruns, a governança e as regras de emenda devem respeitar e não podem restringir, contornar ou esvaziar por meio de procedimentos ou métricas substitutas.
-*Em termos simples: um sistema ou instituição de impacto real publica uma Carta do Sistema ou Carta Institucional que declara o que pode fazer e quem ocupa cada assento. Antes que um ato materialmente vinculante avance, devem ser separados quem o inicia, quem verifica ou autoriza, quem guarda o registro oficial e quem analisa uma contestação. As funções podem ser ajustadas ao contexto, mas o mesmo agente e sua linha de controle não podem ocupar silenciosamente os assentos que verificam seu próprio ato.*
-  - como uma Carta do Sistema ou Carta Institucional é emendada e revisada para que seu escopo chartered não mude silenciosamente; e
-> Este mapa mostra as quatro funções e um percurso típico de um ato e de seu Registro do Ato. Ele não acrescenta um quinto assento, não prescreve uma sequência universal e não altera as regras do Capítulo Oito sobre independência, combinação proporcional de funções, ação emergencial ou encaminhamento de contestações.
-
 ```mermaid
 flowchart TB
     D["Capítulo Seis<br/><br/>Independência funcional<br/>e separação de deveres"]
@@ -296,7 +298,7 @@ A cadeia completa segue esta ordem:
 2. **Certifique sistemas e instituições quando o impacto for suficientemente grave** — antes de confiar em escala em um sistema de alto impacto, obtenha um Registro de Certificação do Sistema contestável ([Subcore 8-B](../../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation)); avalie a instituição por sua própria classe, conduta, governança e portfólio sob o [Subcore 9-B](../../subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation) e registre o resultado em um Registro de Certificação Institucional.
 3. **Registre e meça o standing em trilhas separadas** ([Subcore 10-B](../../subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) e [Subcore 10-D](../../subcore_10.040_standing_measurement.md#subcore-10-d-standing-measurement--question-2-how-good-or-bad-was-it)) — quando ajuda ou dano tiver relevância constitucional, o Capítulo Dez abre processos formais e admite somente **insumos verificados**, incluindo evidências materiais de certificação de alinhamento do sistema do Capítulo Oito; depois mede e classifica o que foi verificado. Rumores, reputação e narrativas de disputa não bastam. Para ajuda, abra um **Registro de Standing de contribuição** e classifique a natureza da contribuição no Eixo de Contribuição. Para dano e falhas de responsabilização, abra um **Registro de Standing de violação** separado e classifique a natureza da violação no Eixo de Violação. Ajuda e dano nunca se fundem em uma pontuação líquida; registros relacionados fazem referência cruzada, mas permanecem separados.
 4. **Aplique efeitos de standing em cada trilha** ([Subcore 10-F](../../subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows)) — contribuição verificada pode conceder habilitação de competência e deve sustentar reconhecimento proporcional e recompensas materiais; violação verificada pode acionar bloqueios de standing, correção e [reparação para quem sofreu dano](../../core_12.000_violation_consequences.md#31-remedy-and-correction).
-5. **Realize a revisão de designação de conduta anticonstitucional** ([Capítulo Quatorze](core_10_a_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation)) — se uma constatação de violação de impacto máximo também puder satisfazer os critérios anticonstitucionais, o Capítulo Quatorze decide se a ACMD correspondente se aplica. Essa ACMD não altera a gravidade do dano já constatada. Os efeitos ordinários do Capítulo Dez continuam em paralelo até que uma ACMD final acione o Bloqueio de Confiança Anticonstitucional.
+5. **Realize a revisão de designação de conduta anticonstitucional** ([Capítulo Quatorze](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation)) — se uma constatação de violação de impacto máximo também puder satisfazer os critérios anticonstitucionais, o Capítulo Quatorze decide se a ACMD correspondente se aplica. Essa ACMD não altera a gravidade do dano já constatada. Os efeitos ordinários do Capítulo Dez continuam em paralelo até que uma ACMD final acione o Bloqueio de Confiança Anticonstitucional.
 6. **Encaminhe disputas e mantenha a reparação tempestiva** ([Capítulo Dezesseis](../../core_16.000_forum.md#1-purpose-role-and-scope) e [Capítulo Dezessete](../../core_17.000_forum_families_escalation_timeliness_support.md#chapter-seventeen-forum-families-escalation-timely-resolution-and-support)) — os fóruns supervisionam o andamento dos casos, a trilha que os trata e o cumprimento das janelas do **Artigo XXVII-C** (*Resolução tempestiva e piso contra atrasos*), para que a reparação não morra por demora. Disputas ordinárias seguem a [sequência de disputas](../../core_16.000_forum.md#dispute-sequencing). Os fóruns também classificam disputas em cinco [níveis de materialidade](../../core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (A/B/C/L/P), alinhados ao alfabeto de classificação dos sistemas, da urgência crítica à sobrevivência até questões privadas ou contidas. O encaminhamento padrão da família de integridade se aplica quando a designação final do Capítulo Quatorze é o interesse principal.
 7. **Execute os resultados** ([Capítulo Dezenove](../../core_19.000_enforcement.md#chapter-nineteen-enforcement) e [Capítulo Vinte](../../core_20.000_special_enforcement.md#chapter-twenty-special-enforcement)) — uma consequência final, bloqueio, reparação ou ordem de fórum é executada por uma parte identificada dentro de seu prazo; não pode ser evitada, atrasada ou abandonada em silêncio. Se o agente vinculado resistir, aplica-se a execução especial dentro dos pisos compartilhados: apreensão de dinheiro e bens com mínimo protegido, escada padrão de pressão para rendição, escada de força que prioriza meios não letais e avaliação de causa-raiz para evitar a repetição da falha.
 
@@ -329,21 +331,21 @@ Os Capítulos **Quinze a Dezenove** concluem esta Constituição. Juntos, comple
 
 Cada resumo enuncia o que cabe ao capítulo e o que ele produz.
 
-**Capítulo Vinte — Contrato constitucional, legitimidade e gestão responsável** ([`core_16.000_governance.md`](../../core_21.000_governance.md#chapter-sixteen-constitutional-contract-legitimacy-authorization-and-stewardship))
+**Capítulo Vinte — Contrato constitucional, legitimidade e gestão responsável** ([`core_16.000_governance.md`](../../core_21.000_governance.md#chapter-twenty-one-constitutional-contract-legitimacy-authorization-and-stewardship))
 
 - **O que lhe cabe:** Tem a seu cargo a [**Camada do Contrato Constitucional**](../../subcore_03.080_band_integrative.md#constitutional-contract-layer) — quem pode governar, por qual mecanismo de legitimidade, sob qual alcance e termos duráveis, e com qual caráter de administração responsável deve ser mantido.
 - **O que produz:** Requisitos de autorização e legitimidade distintos da [**Participação Sistêmica das Partes Afetadas**](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster) em sistemas já autorizados — as regras da autoridade de governo em si, não só a participação dentro dela.
 
-**Capítulo Dezessete — Não regressão** ([`core_17.000_non_regression.md`](../../core_22.000_non_regression.md#chapter-seventeen-non-regression-and-substantive-amendment-validity))
+**Capítulo Dezessete — Não regressão** ([`core_17.000_non_regression.md`](../../core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity))
 
 - **O que lhe cabe:** Fixa o piso substantivo contra a mudança regressiva — emendas e atalhos não podem recortar as proteções centrais, esvaziar a Tétrade abaixo da aposta material, nem disfarçar a regressão como limpeza técnica.
 - **O que produz:** A **primeira trava constitucional** sobre qualquer mudança proposta — a regra de não regressão: se a mudança enfraqueceria na prática as proteções centrais, não é válida, ainda que o procedimento pareça correto. Atalhos suspeitos ou recortes disfarçados são detidos ou enviados às vias de revisão próprias em vez de se colarem em silêncio.
 
-**Capítulo Dezoito — Supremacia e ordens externas** ([`core_18.000_expansion_supremacy.md`](../../core_24.000_expansion_supremacy.md#chapter-eighteen-expansion-supremacy-and-external-legal-orders))
+**Capítulo Dezoito — Supremacia e ordens externas** ([`core_18.000_expansion_supremacy.md`](../../core_24.000_expansion_supremacy.md#chapter-twenty-four-expansion-supremacy-and-external-legal-orders))
 
 - **O que rege:** Como esta Constituição se relaciona com outras normas: ampliação da proteção quando legal, supremacia dentro do escopo válido da fonte, da adoção e da camada de governança, não deslocamento da lei externa aplicável por sua própria força e interação disciplinada com ordens jurídicas externas sem subordinação silenciosa ou captura.
 - **O que produz:** Regras de hierarquia e de ordem de conflito para que a publicação ou o uso não sejam tratados como revogação do direito externo aplicável, e para que quem adota não trate o procedimento incorporado, normas externas mais fracas ou métricas de conveniência como se anulassem o significado da Constituição Senciente dentro do alcance válido de adoção.
-**Capítulo Dezenove — Emenda, ratificação e adoção** ([`core_19.000_amendment_ratification.md`](../../core_23.000_amendment_ratification.md#chapter-nineteen-amendment-ratification-and-procedural-validity))
+**Capítulo Dezenove — Emenda, ratificação e adoção** ([`core_19.000_amendment_ratification.md`](../../core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity))
 
 - **O que rege:** Como esta Constituição pode ser alterada legalmente — procedimento de emenda, ratificação e adoção — e as **salvaguardas processuais** que seguem as salvaguardas substantivas do Capítulo Dezessete: as mudanças devem ser publicadas abertamente, rastreáveis até a custódia autorizada e permanecer significativamente contestáveis, com revisão independente quando exigida.
 - **O que produz:** Uma via de mudança lícita completa — só as emendas e as adoções que superam a **trava de não regressão** e as **travas procedimentais** contam como atualizações constitucionais válidas.

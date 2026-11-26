@@ -1,6 +1,6 @@
 # Chapters 0–1 translation resynchronization inventory
 
-**Status:** AI-assisted draft set exists for all 38 locale/source pairs. The documented Chapter 1 coverage gaps were repaired against the pinned English source; the drafts remain unreviewed by fluent readers and unsynchronized.
+**Status:** AI-assisted draft set exists for all 38 locale/source pairs. The documented source-coverage and destination-aware link issues are repaired; the drafts still require independent fluent review before synchronization.
 
 ## Pinned English source
 
@@ -59,22 +59,22 @@ Every row below has both current destination files in this folder. `Draft presen
 - The old 2026.08.09 / 2026.10.21 Preamble widget pins and obsolete non-binding source wording were removed from the Chapter 0 drafts.
 - `translations/` was not modified. No synchronization or independent fluent review is claimed.
 
-## Coverage repair and remaining gates
+## Resolved issues and remaining gate
 
-AI subagents compared Chapter 1 §§5–11 in all 19 locale drafts against the pinned English source and repaired the identified source-coverage gaps. Repairs included current §§5–6 mappings, the seven-stage §8.2 chain, current owner registers in §§9–10, the §11 corpus/subcore explanation, diagram and anchor corrections, localized chapter labels, and Mermaid fence repairs. A second coverage pass caught additional stale §8 framing and missing chart content; those items were also corrected. Locale-specific changes and checks are recorded in:
+AI subagents compared Chapter 1 §§5–11 in all 19 locale drafts against the pinned English source and repaired the identified source-coverage gaps. Repairs included current §§5–6 mappings, the seven-stage §8.2 chain, current owner registers in §§9–10, §11 corpus/subcore explanations, diagrams, anchors, localized chapter labels, and Mermaid formatting.
+
+Destination-aware link checks covered all 38 draft files from their planned `translations/<locale>/` locations. Current targets and anchors were repaired where they had exact source-backed mappings. Where a current file was known but no unique heading matched, the stale fragment was removed and the verified file-level destination retained. Final checks report zero unresolved destination files and zero unmatched fragments. See the locale-specific reports:
 
 - [`REVIEW_COVERAGE_AR_BN_ES_FA_FR_HI_CH01_SECTIONS_5_11.md`](REVIEW_COVERAGE_AR_BN_ES_FA_FR_HI_CH01_SECTIONS_5_11.md)
 - [`REVIEW_B_ID_JA_KO_MR_PT_RU.md`](REVIEW_B_ID_JA_KO_MR_PT_RU.md)
 - [`REVIEW_C_TA_TE_TH_TR_UR_VI_ZH.md`](REVIEW_C_TA_TE_TH_TR_UR_VI_ZH.md)
 - [`REVIEW_LINK_MAPPING_AR_BN_ES_FA_FR_HI.md`](REVIEW_LINK_MAPPING_AR_BN_ES_FA_FR_HI.md)
 
-These checks establish source coverage and structure only. The translations are still AI-assisted drafts; independent fluent-reader review and meaning-sensitive review remain required before synchronization. PT retains ambiguous legacy §8 material whose disposition was not source-clear. Historical cross-file link and fragment mappings remain unresolved in the link-review notes and need destination-aware audit/reconciliation before the drafts can be copied into `translations/`.
+The PT/MR/RU §8.1 stale splice was removed based on the English source history. Its four-seat disclaimer was retained under §7.1, matching the current English placement. PT’s documented splice ambiguity is resolved.
 
-The synchronization plan requires independent fluent review of every passage in each pair, glossary decisions, destination-context link checks, and consistent README/review metadata. Accordingly, `translations/`, locale READMEs, and review-status metadata were not changed.
+The translations are still AI-assisted drafts. Independent fluent-reader review of every passage in each pair is the remaining gate before synchronization; AI agents cannot provide that human review or attestation. Accordingly, `translations/`, locale READMEs, and review-status metadata were not changed.
 
 ## Remaining before synchronization
 
-1. Resolve PT's ambiguous legacy §8 material with the custodian; do not remove or merge it by inference.
-2. Resolve historical link and fragment destinations against current English and locale mappings, then run the translation link audit in final destination context.
-3. Obtain independent fluent-reader review for all 19 language pairs against the pinned English sources; resolve findings and record reviewer status.
-4. Update locale README inventories, `translations/README.md`, and `translations/review_status.json` consistently, then synchronize only after all gates are satisfied.
+1. Obtain independent fluent-reader review for all 19 language pairs against the pinned English sources; resolve findings and record reviewer status.
+2. Update locale README inventories, `translations/README.md`, and `translations/review_status.json` consistently, then synchronize only after the review gate is satisfied.

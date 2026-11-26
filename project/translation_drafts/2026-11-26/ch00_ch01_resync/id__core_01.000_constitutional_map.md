@@ -391,7 +391,7 @@ Setiap langkah di bawah menyatakan apa yang menjadi wilayah bab dan apa yang dih
     - kelayakan kompetensi pada jalur kontribusi tidak menghapus kunci status pada jalur pelanggaran.
 - **Yang dihasilkannya:** Dampak status terpisah dan terskala pada jalur Kontribusi dan Pelanggaran — kelayakan kompetensi dan imbalan material di satu sisi; kunci status, koreksi, dan pemulihan di sisi lain — tanpa melipat keduanya menjadi satu skor.
 
-**[Bab Empat Belas — Penetapan Salah Laku Anti-Konstitusional](core_10_a_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation)**
+**[Bab Empat Belas — Penetapan Salah Laku Anti-Konstitusional](../../core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation)**
 
 - **Yang menjadi wilayahnya:** Hanya menangani pelanggaran terverifikasi yang paling serius — perilaku yang mungkin telah mengambil alih atau mengosongkan kewajiban konstitusional dalam skala luas. Jika Bab Sepuluh telah mencatat temuan pelanggaran berdampak tertinggi dan salah laku anti-konstitusional didalilkan secara material, bab ini menjalankan peninjauan penetapan sebagai jalur gerbang yang berjalan paralel dengan dampak status biasa Bab Sepuluh.
 - **Yang dihasilkannya:** Penetapan ACMD final — atau penolakan — atas temuan berdampak tertinggi yang sudah ada, hanya setelah kriteria yang diwajibkan dan perlindungan proses yang semestinya dipenuhi. Bab Sepuluh tetap mengukur tingkat keseriusan bahaya. Hanya ACMD final yang memicu **Kunci Kepercayaan Anti-Konstitusional** Bab Sepuluh.

@@ -10,7 +10,7 @@
 >
 > 本文件**是感知者宪法的一部分**；只有与其他编号的 `core_*` 文件和子语料库一并作为同一文本阅读时，才具有**约束力**。本文件包含**第一章**，即*宪法地图*：其目的（§1）、存在理由（§2）、文件如何衔接（§3）、后续章节的基础（§4）、关键治理流程（§5）以及宪法责任主体登记册（§6 至 §11）。
 >
-> **上游：** [core_00.000_preamble.md](core_01_constitutional_map.md)（序言）
+> **上游：** [core_00.000_preamble.md](core_00_preamble.md)（序言）
 > **下游：** [core_02.000_values_principles.md](../../core_02.000_values_principles.md)
 
 </details>
@@ -18,7 +18,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">追溯</span></strong></summary>
 
-- 上游：[序言](core_01_constitutional_map.md)（*模型、两项宪法宗旨、宪法四元、实质利害和测量类别*）。
+- 上游：[序言](core_00_preamble.md)（*模型、两项宪法宗旨、宪法四元、实质利害和测量类别*）。
 - 各节：
   - [§1](#1-purpose-role-and-scope);
   - [§2](#2-why-the-map-exists);
@@ -160,11 +160,11 @@
 
 *简而言之：具有实际影响的系统或机构应公布系统宪章或机构宪章，说明其可以做什么、每个席位由谁担任。随后，在具有实质约束力的行为实施前，应分别指定谁发起、谁核查或授权、谁保管正式记录、谁审查质疑。角色可按情境调整规模，但同一行动者及其控制链不得暗中占据核查自身行为的席位。*
 
-- **产出：**一份已发布并进行版本管理的范围与席位安排说明，第八章、认证程序、地位记录和论坛可据此检验行为。第七章见[`core_07.000_charters.md`](../../core_05.000_charters.md#chapter-seven-system-and-institutional-charters)。
+- **产出：**一份已发布并进行版本管理的范围与席位安排说明，第八章、认证程序、地位记录和论坛可据此检验行为。第七章见[`core_07.000_charters.md`](../../core_05.000_charters.md#chapter-five-system-and-institutional-charters)。
 
 **职能独立与职责分离**——在实质约束行为推进之前，依据适用的分级和独立性规则，识别并分离发起、核验或授权、记录以及审查质疑的席位。
 
-**对每项具有实质约束力的行为分别设置席位**（[第八章](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)）：明确谁发起行为、谁核验或授权、谁保管正式记录，以及谁受理质疑。在认定行为已得到适当核验之前，应执行禁止兼任的组合限制、独立性规则和已公布的替代路径。需要系统宪章或机构宪章时（[第七章](../../core_05.000_charters.md#4-the-charter-role-map-and-standing-record-custody)），其宪章角色图应公布每个席位由谁担任。
+**对每项具有实质约束力的行为分别设置席位**（[第八章](core_07_functional_independence_segregation_of_duties.md#2-four-seat-constitutional-requirement)）：明确谁发起行为、谁核验或授权、谁保管正式记录，以及谁受理质疑。在认定行为已得到适当核验之前，应执行禁止兼任的组合限制、独立性规则和已公布的替代路径。需要系统宪章或机构宪章时（[第七章](../../core_05.000_charters.md#6-the-charter-role-map-and-standing-record-custody)），其宪章角色图应公布每个席位由谁担任。
 
 **第八章——职能独立与职责分离**
 
