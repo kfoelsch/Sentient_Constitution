@@ -1507,4 +1507,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and eighty-fourth move (list the resource concentration routes; 2026-11-26; layout only; uncommitted).** Decision (custodian, asked in session): format the threshold application and supporting resource references in [Chapter 2.010 §11.4](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) as bullets. Effect on rules: none; the application and references are unchanged.
 
+**One thousand and eighty-fifth move (list the effects of a crossed threshold; 2026-11-26; layout only; uncommitted).** Decision (custodian, asked in session): present the review, Rights Floor, and certification statements in [Chapter 2.010 §11.4](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) as bullets. Effect on rules: none; the existing conditions and references are unchanged.
+
 **Next file:** [README.md](README.md)
