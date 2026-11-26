@@ -1501,4 +1501,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and eighty-eighth move (list the Dignity Principles; 2026-11-26; layout only; uncommitted).** Decision (custodian, asked in session): present the two Dignity Principles as bullets in [Chapter 2.020](core_02.020_interaction_interpretation.md#dignity-principles). Effect on rules: none; the explanation and links are unchanged.
 
+**One thousand and eighty-ninth move (list the data types; 2026-11-26; layout only; uncommitted).** Decision (custodian, asked in session): present the eleven data types as bullets in [Chapter 2.020 §13.2.3](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination). Effect on rules: none; the type descriptions and classification requirements remain.
+
 **Next file:** [README.md](README.md)
