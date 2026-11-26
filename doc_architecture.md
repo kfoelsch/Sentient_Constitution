@@ -1505,4 +1505,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and eighty-third move (clarify consolidation patterns; 2026-11-26; wording only; uncommitted).** Decision (custodian, asked in session): rewrite the sentence on dependencies, switching, alternatives, and environmental effects in [Chapter 2.010 §11.3](core_02.010_values_principles_continuity_aim.md#113-consolidation-ceiling) in plain language. Effect on rules: none; the examples and material relevance condition remain.
 
+**One thousand and eighty-fourth move (list the resource concentration routes; 2026-11-26; layout only; uncommitted).** Decision (custodian, asked in session): format the threshold application and supporting resource references in [Chapter 2.010 §11.4](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) as bullets. Effect on rules: none; the application and references are unchanged.
+
 **Next file:** [README.md](README.md)
