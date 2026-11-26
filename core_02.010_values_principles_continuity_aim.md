@@ -70,10 +70,15 @@ Chapter Two, Part B is the constitutional owner of the **Continuity Aim** (share
 | [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) | Before anyone claims a system is compliant, safe, or well governed, has the whole system been checked, including what it depends on and what incentives drive it, and not just one part at one moment? |
 
 **How the Continuity principles work together:**
-- **Continuity starts from an honest picture:** Every Continuity claim, whether about capacity, resilience, or market structure, rests on what the whole system actually does over time, not on a slogan or a snapshot. [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) states that standard, and it applies to every claim in [§§9–11 Shared-System Capacity through Market Structure](#9-shared-system-capacity). It builds on the Truth constraint in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) and [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint).
+- **Continuity starts from an honest picture:**
+  - Every Continuity claim, whether about capacity, resilience, or market structure, rests on what the whole system actually does over time, not on a slogan or a snapshot.
+  - [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) states that standard, and it applies to every claim in [§§9–11 Shared-System Capacity through Market Structure](#9-shared-system-capacity).
+  - It builds on the Truth constraint in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) and [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint).
 - **Capacity straddles the two aims:** [§9 Shared-System Capacity](#9-shared-system-capacity) is a means toward Flourishing and the substance of Continuity, and it is not a trump card over safety, truth, rights, or ecology.
 - **Resilience and market structure protect capacity:** Resilience keeps it durable; market structure keeps it contestable.
-- **Systemic evaluation checks the whole:** [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) verifies scope, dependency, and incentive alignment before compliance claims stand. It is placed last because it verifies what §9 Shared-System Capacity, §10 Resilience and Self-Healing Design, and §11 Market Structure describe, and it governs how every Continuity claim is made.
+- **Systemic evaluation checks the whole:**
+  - [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) verifies scope, dependency, and incentive alignment before compliance claims stand.
+  - It is placed last because it verifies what §9 Shared-System Capacity, §10 Resilience and Self-Healing Design, and §11 Market Structure describe, and it governs how every Continuity claim is made.
 - **Continuity must not quietly defeat Flourishing:** Where the two collide, they are weighed under [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
 
 **Diagram: Continuity and its principles**
@@ -174,9 +179,7 @@ flowchart TB
 
 *In plain terms: shared systems should keep working for sentients over the long run. Sentients should be able to do useful work, make life better over time, and speak up when something is wrong, without a few powerful players locking everyone else out. That lasting ability is **Shared-System Capacity**. **[§9.1 Productive Capacity (Instrumental Good)](#91-productive-capacity-instrumental-good)** asks whether sentients get real results. **[§9.2 Constitutional Efficiency](#92-constitutional-efficiency)** asks whether those results come without wasting anyone's time, money, and attention. None of it counts if the gains come from hoarding wealth or power, faking the numbers, stripping rights, or pushing harm onto others or the planet; **[§9.1.1 Preserve, Expand, and What Does Not Count](#911-preserve-expand-and-what-does-not-count)** spells that out. **[§11 Market Structure](#11-market-structure)** keeps a handful of players from taking over.*
 
-Flourishing is the goal: sentient lives going well. This section opens the Continuity half of the chapter by asking what keeps that going over the long run. The answer is shared systems that keep doing real work and that sentients can still question and push back on. Claims about that ability have to be honest. They are checked against what the whole system actually does over time, as [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) requires.
-
-**[Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity)** is what good [Stewardship](subcore_03.075_band_continuity.md#stewardship) and [Governance](subcore_03.070_band_accountability.md#governance) should add up to over time: the lasting ability of sentients and shared systems to get done what this Constitution requires, while staying open to challenge. It is a **means** to the **Flourishing** aim, and it is the core of the **Continuity** aim. But it is never a reason to override safety, truth, rights, or ecology.
+Flourishing means sentient lives going well. To sustain that over time, sentients and their shared systems need to keep doing what this Constitution requires while remaining open to challenge. This lasting ability is **[Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity)**. Good [Stewardship](subcore_03.075_band_continuity.md#stewardship) and [Governance](subcore_03.070_band_accountability.md#governance) should build it. It supports Flourishing and is at the heart of Continuity, but it never justifies overriding safety, truth, rights, or ecology. Claims about it must be honest and checked against what the whole system actually does over time, as [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) requires.
 
 That capacity has several aspects working together:
 - **[Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity)** — can sentients participate, contribute, and get real results? ([§9.1 Productive Capacity (Instrumental Good)](#91-productive-capacity-instrumental-good))
@@ -515,8 +518,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - Downstream: **CJS-3.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules);
   - [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination);
   - [§11.3 Consolidation Ceiling](#113-consolidation-ceiling);
-  - [CJS-3.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_03.125_accountability_operations.md#cjs-3125-113-consolidation-ceiling-setting-discipline-adopter-tunable) (
-  - [§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) operative ceiling-setting rules);
+  - [CJS-3.125 §11.3 — Consolidation ceiling-setting discipline (adopter-tunable)](corpus_joint_structure/cjs_03.125_accountability_operations.md#cjs-3125-113-consolidation-ceiling-setting-discipline-adopter-tunable) ([§11.3.2](#1132-consolidation-ceiling-mechanism-adopter-tunable) operative ceiling-setting rules);
   - [Subcore 10-D §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) (S10-D §3);
   - [Subcore 14-A §7.1 Concentration-based subversion](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (S14-A §7.1).
 - Steward door (non-operative): Next-step card: [Market structure](implementation/STEWARD_ENTRY_DOORS.md#market-structure).
@@ -553,14 +555,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 <br>
 
-*In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Twenty judges that — and only after Subcore 10-D has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
-
-**What this subsection does:**
-
-- **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) requirements.
-- **Does not:** decide how serious the verified harm was, or issue a misconduct designation.
-- **When concentration is used to undermine this Constitution:** that misconduct is judged under [Subcore 14-A §7.1 Concentration-based subversion](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction).
-- **Creating, maintaining, or exploiting concentration that violates the requirements:** this can go to Chapter Twenty for misconduct designation review, but only in two steps. First, [Subcore 10-D §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels. Then Chapter Twenty checks whether the concentration meets criterion 3 (*Material rollback effect*: a workaround that rolls back protections), criterion 4 (*Causally significant conduct*: damage to Rights Floor protections or blocked challenges), or criterion 6 (*Operative nullification*: constitutional process made unusable in practice).
+*In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Fourteen judges that — and only after Subcore 10-D has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
 
 **Constitutional requirements:**
 
@@ -581,6 +576,12 @@ Operative detail — recovery detection, containment, safe-failure preference, r
   - scrutiny (oversight);
   - answerability (accountability); or
   - timely correction (timeliness).
+
+**Scope and misconduct review:**
+
+- **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) requirements.
+- **Does not:** decide how serious the verified harm was, or issue a misconduct designation.
+- **Concentration and misconduct review:** Creating, maintaining, or exploiting concentration that violates the requirements can be reviewed for misconduct designation under [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation). [Subcore 14-A §7.1 Concentration-based subversion](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) explains how the criteria apply to concentration.
 
 <a id="1111-concentration-threshold-triggers-adopter-tunable"></a>
 ##### 11.1.1 Concentration Threshold Triggers (Adopter-Tunable)
@@ -687,14 +688,14 @@ The following is not prohibited by itself:
 - temporary advantage from genuine innovation;
 - efficiency from lawful coordination.
 
-Those advantages stay valid only while they do not become the following, and therefore do not undermine the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) or the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
+These advantages remain allowed only as long as they do not turn into any of the following and thereby undermine the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) or the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad):
 - durable domination;
 - coercive dependency;
 - Rights-Floor degradation;
 - ecological burden shifting;
 - capture of accountability pathways.
 
-The following justifications must satisfy the traceability and evidence duties in [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) and Subcore 3-C:
+Anyone using the following reasons must meet the requirements for evidence and traceability in [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) and [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification):
 - efficiency;
 - competitiveness;
 - emergency;
@@ -827,7 +828,7 @@ Adopters and governing systems must detect consolidation pile-ups of the followi
 - **Vertical consolidation** (*cross-layer dependency and chokepoint control*). Consolidation that links control across layers of a value chain, platform stack, or dependency chain — for example input or interface capture, capital-access gatekeeping, interoperability or portability suppression, self-preferencing, or ranking control that raises switching costs and defeats exit.
 - **Cross-domain and federated structures** (*forms that keep the same pile-up of control*). Arrangements across domains, platforms, shells, successors, or federated forms that preserve effective consolidation while clearing nominal horizontal or vertical tests.
 
-Any of these patterns may involve dependency density, switching costs, lock-in, substitute foreclosure, or ecological burden concentration or control over environmental preconditions where materially relevant.
+Where materially relevant, any of these patterns may involve many or closely connected dependencies, the cost of switching, lock-in, blocked alternatives, concentrated ecological burdens, or control over the environmental conditions others depend on.
 
 They must detect these early, while the following can still restore contestability:
 - review;
@@ -987,7 +988,11 @@ Operative ceiling-setting discipline — horizontal and vertical trigger design,
 
 *In plain terms: shared infrastructure, such as networks, open tools, public services, data, and computing power, is where a few players can quietly end up controlling who gets resources, who has to depend on whom, and who pays to keep it running. Adopters must set clear limits for that kind of concentration and act when a limit is crossed or about to be. The limits can differ by context, but they cannot be set so loose that they never matter. [Article V](core_04.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*) and its protections for sharing resources stay exactly as they are.*
 
-Concentration is easy to miss in shared infrastructure. A few systems can come to control how resources are allocated, how many others rely on them with no real alternative, and who pays to keep the infrastructure going. [Article V](core_04.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*) sets the Rights Floor for sharing resources. This subsection applies the [§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable) concentration thresholds to that Rights Floor. Operative threshold-setting rules live in **CJS-3.125 §11.1** (*Market concentration threshold-setting discipline*); the detail on resource maps, flows, allocation, and ecosystem funding lives in [**CS-4.335**](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*) and [**CS-4.325**](corpus_systems/cs_04.325_adaptive_sustainability_ecosystem_resilience.md#cs-4325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*).
+Concentration is easy to miss in shared infrastructure. A few systems can come to control how resources are allocated, how many others rely on them with no real alternative, and who pays to keep the infrastructure going. [Article V](core_04.000_rights_part_a.md#article-v-resource-allocation-dependencies-and-ecosystem-funding) (*Resource Allocation, Dependencies, and Ecosystem Funding*) sets the Rights Floor for sharing resources.
+
+- This subsection applies the [§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable) concentration thresholds to that Rights Floor.
+- Operative threshold-setting rules live in **CJS-3.125 §11.1** (*Market concentration threshold-setting discipline*).
+- The detail on resource maps, flows, allocation, and ecosystem funding lives in [**CS-4.335**](corpus_systems/cs_04.335_resource_allocation_funding_stewardship.md#cs-4335-resource-allocation-and-funding-stewardship) (*Resource allocation and funding stewardship*) and [**CS-4.325**](corpus_systems/cs_04.325_adaptive_sustainability_ecosystem_resilience.md#cs-4325-adaptive-sustainability-and-ecosystem-resilience) (*Adaptive sustainability and ecosystem resilience*).
 
 **What adopters must set:**
 
@@ -1006,7 +1011,9 @@ Adopters must define [Market Concentration Threshold](subcore_03.070_band_accoun
 
 **When a threshold is crossed:**
 
-Crossing a threshold calls for heightened review and mitigation under [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable). It is not, by itself, a finding of misconduct ([§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable)). Where the same arrangement also falls short of [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) or [Article V-B](core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*), both apply: concentration scrutiny is added on top of **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) and does not replace it. In system alignment certification, a system that becomes a choke point for dependents who cannot realistically switch is stepped up on those facts under [Subcore 8-B §6.3.5 System Class Scaling and Escalation](subcore_08.020_system_alignment_certification_evaluation.md#635-system-class-scaling-and-escalation) and [Subcore 8-B §3.2 How system class scales every evaluation](subcore_08.020_system_alignment_certification_evaluation.md#32-how-system-class-scales-every-evaluation). A crossed threshold there is further evidence, and a threshold that is unset or set too high does not delay the step-up.
+- Crossing a threshold calls for heightened review and mitigation under [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable). It is not, by itself, a finding of misconduct ([§11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)](#111-market-concentration-threshold-mechanism-adopter-tunable)).
+- Where the same arrangement also falls short of [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) or [Article V-B](core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*), both apply: concentration scrutiny is added on top of **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) and does not replace it.
+- In system alignment certification, a system that becomes a choke point for dependents who cannot realistically switch is stepped up on those facts under [Subcore 8-B §6.3.5 System Class Scaling and Escalation](subcore_08.020_system_alignment_certification_evaluation.md#635-system-class-scaling-and-escalation) and [Subcore 8-B §3.2 How system class scales every evaluation](subcore_08.020_system_alignment_certification_evaluation.md#32-how-system-class-scales-every-evaluation). A crossed threshold there is further evidence, and a threshold that is unset or set too high does not delay the step-up.
 
 <a id="12-systemic-evaluation-requirement"></a>
 ### 12. Systemic Evaluation Requirement

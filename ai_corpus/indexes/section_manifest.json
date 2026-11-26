@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-26T06:07:52+00:00",
+  "generated_at": "2026-11-26T07:50:45+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -88,27 +88,27 @@
       ]
     },
     "core_02.010_values_principles_continuity_aim.md": {
-      "total_lines": 1085,
+      "total_lines": 1092,
       "sections": [
-        {"header":"CHAPTER 02, PART B: THE CONTINUITY AIM","level":1,"line_start":1,"line_end":1085,"anchor":null},
-        {"header":"8. Continuity Aim: Introduction","level":3,"line_start":24,"line_end":118,"anchor":"#8-continuity-aim-introduction"},
-        {"header":"9. Shared-System Capacity","level":3,"line_start":119,"line_end":373,"anchor":"#9-shared-system-capacity"},
-        {"header":"9.1 Productive Capacity (Instrumental Good)","level":4,"line_start":206,"line_end":310,"anchor":"#91-productive-capacity-instrumental-good"},
-        {"header":"9.1.1 Preserve, Expand, and What Does Not Count","level":5,"line_start":255,"line_end":310,"anchor":"#911-preserve-expand-and-what-does-not-count"},
-        {"header":"9.2 Constitutional Efficiency","level":4,"line_start":311,"line_end":373,"anchor":"#92-constitutional-efficiency"},
-        {"header":"10. Resilience and Self-Healing Design","level":3,"line_start":374,"line_end":438,"anchor":null},
-        {"header":"11. Market Structure","level":3,"line_start":439,"line_end":1011,"anchor":"#11-market-structure"},
-        {"header":"11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)","level":4,"line_start":509,"line_end":611,"anchor":"#111-market-concentration-threshold-mechanism-adopter-tunable"},
-        {"header":"11.1.1 Concentration Threshold Triggers (Adopter-Tunable)","level":5,"line_start":586,"line_end":611,"anchor":"#1111-concentration-threshold-triggers-adopter-tunable"},
-        {"header":"11.2 Pro-Competition and Anti-Domination","level":4,"line_start":612,"line_end":776,"anchor":"#112-pro-competition-and-anti-domination"},
-        {"header":"11.2.1 Pro-Competition Duties (Dos)","level":5,"line_start":669,"line_end":704,"anchor":"#1121-pro-competition-duties-dos"},
-        {"header":"11.2.2 Anti-Domination Prohibitions (Don'ts)","level":5,"line_start":705,"line_end":748,"anchor":"#1122-anti-domination-prohibitions-donts"},
-        {"header":"11.2.3 Remedies","level":5,"line_start":749,"line_end":776,"anchor":"#1123-remedies"},
-        {"header":"11.3 Consolidation Ceiling","level":4,"line_start":777,"line_end":937,"anchor":"#113-consolidation-ceiling"},
-        {"header":"11.3.1 Consolidation Risk (Pre-Lock-In Impairment)","level":5,"line_start":855,"line_end":900,"anchor":"#1131-consolidation-risk-pre-lock-in-impairment"},
-        {"header":"11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)","level":5,"line_start":901,"line_end":937,"anchor":"#1132-consolidation-ceiling-mechanism-adopter-tunable"},
-        {"header":"11.4 Resource and Dependency Concentration (Adopter-Tunable)","level":4,"line_start":938,"line_end":1011,"anchor":"#114-resource-and-dependency-concentration-adopter-tunable"},
-        {"header":"12. Systemic Evaluation Requirement","level":3,"line_start":1012,"line_end":1085,"anchor":"#12-systemic-evaluation-requirement"}
+        {"header":"CHAPTER 02, PART B: THE CONTINUITY AIM","level":1,"line_start":1,"line_end":1092,"anchor":null},
+        {"header":"8. Continuity Aim: Introduction","level":3,"line_start":24,"line_end":123,"anchor":"#8-continuity-aim-introduction"},
+        {"header":"9. Shared-System Capacity","level":3,"line_start":124,"line_end":376,"anchor":"#9-shared-system-capacity"},
+        {"header":"9.1 Productive Capacity (Instrumental Good)","level":4,"line_start":209,"line_end":313,"anchor":"#91-productive-capacity-instrumental-good"},
+        {"header":"9.1.1 Preserve, Expand, and What Does Not Count","level":5,"line_start":258,"line_end":313,"anchor":"#911-preserve-expand-and-what-does-not-count"},
+        {"header":"9.2 Constitutional Efficiency","level":4,"line_start":314,"line_end":376,"anchor":"#92-constitutional-efficiency"},
+        {"header":"10. Resilience and Self-Healing Design","level":3,"line_start":377,"line_end":441,"anchor":null},
+        {"header":"11. Market Structure","level":3,"line_start":442,"line_end":1018,"anchor":"#11-market-structure"},
+        {"header":"11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)","level":4,"line_start":512,"line_end":612,"anchor":"#111-market-concentration-threshold-mechanism-adopter-tunable"},
+        {"header":"11.1.1 Concentration Threshold Triggers (Adopter-Tunable)","level":5,"line_start":587,"line_end":612,"anchor":"#1111-concentration-threshold-triggers-adopter-tunable"},
+        {"header":"11.2 Pro-Competition and Anti-Domination","level":4,"line_start":613,"line_end":777,"anchor":"#112-pro-competition-and-anti-domination"},
+        {"header":"11.2.1 Pro-Competition Duties (Dos)","level":5,"line_start":670,"line_end":705,"anchor":"#1121-pro-competition-duties-dos"},
+        {"header":"11.2.2 Anti-Domination Prohibitions (Don'ts)","level":5,"line_start":706,"line_end":749,"anchor":"#1122-anti-domination-prohibitions-donts"},
+        {"header":"11.2.3 Remedies","level":5,"line_start":750,"line_end":777,"anchor":"#1123-remedies"},
+        {"header":"11.3 Consolidation Ceiling","level":4,"line_start":778,"line_end":938,"anchor":"#113-consolidation-ceiling"},
+        {"header":"11.3.1 Consolidation Risk (Pre-Lock-In Impairment)","level":5,"line_start":856,"line_end":901,"anchor":"#1131-consolidation-risk-pre-lock-in-impairment"},
+        {"header":"11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)","level":5,"line_start":902,"line_end":938,"anchor":"#1132-consolidation-ceiling-mechanism-adopter-tunable"},
+        {"header":"11.4 Resource and Dependency Concentration (Adopter-Tunable)","level":4,"line_start":939,"line_end":1018,"anchor":"#114-resource-and-dependency-concentration-adopter-tunable"},
+        {"header":"12. Systemic Evaluation Requirement","level":3,"line_start":1019,"line_end":1092,"anchor":"#12-systemic-evaluation-requirement"}
       ]
     },
     "core_02.020_interaction_interpretation.md": {
