@@ -439,13 +439,13 @@ Harm minimization selects among options that already clear those floors — it d
 
 <br>
 
-*In plain terms: proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if the option's scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.*
+*In plain terms: proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if the option's scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same rule against too little accountability and oversight applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.*
 
 Limitations on constitutional **values** — including **Chapter Four** Rights-Floor protections and other principles and protections subject to tradeoff under [§13 Constitutional Collision Resolution Process](#13-constitutional-collision-resolution-process) — must be proportionate to the magnitude and likelihood of the **harm** or **systemic impact** legitimately addressed, consistent with [Proportionality](subcore_03.070_band_accountability.md#proportionality) in **Chapter Three**.
 
 **Classification floor.** No system may be governed at a level lower than that required by its highest applicable classification. A lower administrative label cannot reduce the scrutiny required by the highest applicable risk, dependency, rights, or system-impact classification.
 
-**Authority-scaled answerability.** Proportionality also forbids under-governance of those who hold greater authorized power, consequential role, or institutional influence: [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) intensity must rise with that authority, not fall.
+**Authority-scaled answerability.** Proportionality also forbids too little accountability and oversight for those who hold greater authorized power, consequential role, or institutional influence: [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) intensity must rise with that authority, not fall.
 
 **Heightened thresholds.** Where actions introduce risk of irreversible harm, systemic lock-in, Existential Risk, or irreversible loss of Ecological Recovery Capacity, systems must apply [Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny) and heightened thresholds for justification and reversibility where feasible.
 
@@ -508,7 +508,12 @@ Limitations on constitutional **values** — including **Chapter Four** Rights-F
 
 ###### Dignity Principles
 
-The **Dignity Principles** are the two principles that follow: the [Rights-Floor Minimums Principle](#rights-floor-minimums-principle) and the [Anti-Degrading-Process Principle](#anti-degrading-process-principle). Together they make [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) operational as absolute floors: what may never be permanently taken from any sentient, and how no sentient may be treated in any process. Minimum subsistence access and core challenge, review, and appeal rights belong to the Dignity Principles because they are the minimum conditions for being treated as someone whose standing counts. Equal standing itself, and the protected grounds on which it may not be denied, are stated in [Article VI-A](core_04.010_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*).
+The **Dignity Principles** are the two principles that follow:
+
+- [Rights-Floor Minimums Principle](#rights-floor-minimums-principle)
+- [Anti-Degrading-Process Principle](#anti-degrading-process-principle)
+
+Together they make [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) operational as absolute floors: what may never be permanently taken from any sentient, and how no sentient may be treated in any process. Minimum subsistence access and core challenge, review, and appeal rights belong to the Dignity Principles because they are the minimum conditions for being treated as someone whose standing counts. Equal standing itself, and the protected grounds on which it may not be denied, are stated in [Article VI-A](core_04.010_rights_part_b.md#article-vi-a-dignity-and-equal-moral-standing) (*Dignity and Equal Moral Standing*).
 
 <a id="rights-floor-minimums-principle"></a>
 
