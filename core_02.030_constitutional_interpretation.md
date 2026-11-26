@@ -53,6 +53,7 @@ Chapter Two, Part D is the constitutional owner of **constitutional interpretati
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Corpus](subcore_03.080_band_integrative.md#corpus) · [O](subcore_03.080_band_integrative.md#corpus) · [M](subcore_03.080_band_integrative.md#corpus-a) · [A](subcore_03.080_band_integrative.md#corpus-a) · [C](subcore_03.080_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.080_band_integrative.md#authority-stack-a) · [A](subcore_03.080_band_integrative.md#authority-stack-a) · [C](subcore_03.080_band_integrative.md#authority-stack-c)
 - [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness) · [O](subcore_03.080_band_integrative.md#abstract-strictness) · [M](subcore_03.080_band_integrative.md#abstract-strictness-a) · [A](subcore_03.080_band_integrative.md#abstract-strictness-a) · [C](subcore_03.080_band_integrative.md#abstract-strictness-c)
@@ -63,6 +64,7 @@ Chapter Two, Part D is the constitutional owner of **constitutional interpretati
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [No-Bypass](subcore_03.080_band_integrative.md#no-bypass) · [O](subcore_03.080_band_integrative.md#no-bypass) · [M](subcore_03.080_band_integrative.md#no-bypass-a) · [A](subcore_03.080_band_integrative.md#no-bypass-a) · [C](subcore_03.080_band_integrative.md#no-bypass-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
@@ -82,6 +84,7 @@ Each principle in this chapter applies together with the [Constitutional Tetrad]
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Corpus](subcore_03.080_band_integrative.md#corpus) · [O](subcore_03.080_band_integrative.md#corpus) · [M](subcore_03.080_band_integrative.md#corpus-a) · [A](subcore_03.080_band_integrative.md#corpus-a) · [C](subcore_03.080_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.080_band_integrative.md#authority-stack-a) · [A](subcore_03.080_band_integrative.md#authority-stack-a) · [C](subcore_03.080_band_integrative.md#authority-stack-c)
 - [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness) · [O](subcore_03.080_band_integrative.md#abstract-strictness) · [M](subcore_03.080_band_integrative.md#abstract-strictness-a) · [A](subcore_03.080_band_integrative.md#abstract-strictness-a) · [C](subcore_03.080_band_integrative.md#abstract-strictness-c)
@@ -99,6 +102,7 @@ Each principle in this chapter applies together with the [Constitutional Tetrad]
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [O](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [M](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-c)
 - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) · [O](subcore_03.070_band_accountability.md#timely-resolution) · [M](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [A](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [C](subcore_03.070_band_accountability.md#timely-resolution-constitutional-c)
+
 </details>
 
 <br>
@@ -177,6 +181,7 @@ Whole-system evaluations must test anti-segmentation under [Subcore 8-B §4 Whol
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Corpus](subcore_03.080_band_integrative.md#corpus) · [O](subcore_03.080_band_integrative.md#corpus) · [M](subcore_03.080_band_integrative.md#corpus-a) · [A](subcore_03.080_band_integrative.md#corpus-a) · [C](subcore_03.080_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.080_band_integrative.md#authority-stack-a) · [A](subcore_03.080_band_integrative.md#authority-stack-a) · [C](subcore_03.080_band_integrative.md#authority-stack-c)
 - [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness) · [O](subcore_03.080_band_integrative.md#abstract-strictness) · [M](subcore_03.080_band_integrative.md#abstract-strictness-a) · [A](subcore_03.080_band_integrative.md#abstract-strictness-a) · [C](subcore_03.080_band_integrative.md#abstract-strictness-c)
@@ -202,6 +207,7 @@ Whole-system evaluations must test anti-segmentation under [Subcore 8-B §4 Whol
 - [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
 - [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics) · [O](subcore_03.090_band_participation.md#protected-characteristics) · [M](subcore_03.090_band_participation.md#protected-characteristics-constitutional-a) · [A](subcore_03.090_band_participation.md#protected-characteristics-constitutional-a) · [C](subcore_03.090_band_participation.md#protected-characteristics-constitutional-c)
+
 </details>
 
 <br>
@@ -232,6 +238,7 @@ This principle does not:
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Corpus](subcore_03.080_band_integrative.md#corpus) · [O](subcore_03.080_band_integrative.md#corpus) · [M](subcore_03.080_band_integrative.md#corpus-a) · [A](subcore_03.080_band_integrative.md#corpus-a) · [C](subcore_03.080_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.080_band_integrative.md#authority-stack-a) · [A](subcore_03.080_band_integrative.md#authority-stack-a) · [C](subcore_03.080_band_integrative.md#authority-stack-c)
 - [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness) · [O](subcore_03.080_band_integrative.md#abstract-strictness) · [M](subcore_03.080_band_integrative.md#abstract-strictness-a) · [A](subcore_03.080_band_integrative.md#abstract-strictness-a) · [C](subcore_03.080_band_integrative.md#abstract-strictness-c)
@@ -250,6 +257,7 @@ This principle does not:
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [O](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [M](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-c)
+
 </details>
 
 <br>
@@ -300,6 +308,7 @@ No interpretation of Chapter Two is valid outside the definitions and evaluation
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Corpus](subcore_03.080_band_integrative.md#corpus) · [O](subcore_03.080_band_integrative.md#corpus) · [M](subcore_03.080_band_integrative.md#corpus-a) · [A](subcore_03.080_band_integrative.md#corpus-a) · [C](subcore_03.080_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.080_band_integrative.md#authority-stack-a) · [A](subcore_03.080_band_integrative.md#authority-stack-a) · [C](subcore_03.080_band_integrative.md#authority-stack-c)
 - [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness) · [O](subcore_03.080_band_integrative.md#abstract-strictness) · [M](subcore_03.080_band_integrative.md#abstract-strictness-a) · [A](subcore_03.080_band_integrative.md#abstract-strictness-a) · [C](subcore_03.080_band_integrative.md#abstract-strictness-c)
@@ -312,6 +321,7 @@ No interpretation of Chapter Two is valid outside the definitions and evaluation
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) · [O](subcore_03.080_band_integrative.md#fullest-protective-effect) · [M](subcore_03.080_band_integrative.md#fullest-protective-effect-a) · [A](subcore_03.080_band_integrative.md#fullest-protective-effect-a) · [C](subcore_03.080_band_integrative.md#fullest-protective-effect-c)
 - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
+
 </details>
 
 <br>
@@ -329,6 +339,7 @@ Where ambiguity remains after integrated reading, interpretation must also favor
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Corpus](subcore_03.080_band_integrative.md#corpus) · [O](subcore_03.080_band_integrative.md#corpus) · [M](subcore_03.080_band_integrative.md#corpus-a) · [A](subcore_03.080_band_integrative.md#corpus-a) · [C](subcore_03.080_band_integrative.md#corpus-c)
 - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [O](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) · [M](subcore_03.080_band_integrative.md#authority-stack-a) · [A](subcore_03.080_band_integrative.md#authority-stack-a) · [C](subcore_03.080_band_integrative.md#authority-stack-c)
 - [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness) · [O](subcore_03.080_band_integrative.md#abstract-strictness) · [M](subcore_03.080_band_integrative.md#abstract-strictness-a) · [A](subcore_03.080_band_integrative.md#abstract-strictness-a) · [C](subcore_03.080_band_integrative.md#abstract-strictness-c)
@@ -340,6 +351,7 @@ Where ambiguity remains after integrated reading, interpretation must also favor
 - [No-Bypass](subcore_03.080_band_integrative.md#no-bypass) · [O](subcore_03.080_band_integrative.md#no-bypass) · [M](subcore_03.080_band_integrative.md#no-bypass-a) · [A](subcore_03.080_band_integrative.md#no-bypass-a) · [C](subcore_03.080_band_integrative.md#no-bypass-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) · [O](subcore_03.080_band_integrative.md#fullest-protective-effect) · [M](subcore_03.080_band_integrative.md#fullest-protective-effect-a) · [A](subcore_03.080_band_integrative.md#fullest-protective-effect-a) · [C](subcore_03.080_band_integrative.md#fullest-protective-effect-c)
+
 </details>
 
 <br>

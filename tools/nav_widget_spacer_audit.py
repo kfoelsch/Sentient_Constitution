@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Audit <br> spacer discipline after Trace, O/M/A/C, reader-guidance, and placement widgets.
+"""Audit widget stack spacing and Markdown list boundaries in O/M/A/C widgets.
 
-Rule: NAV-DAC-12-SPACER in tools/architecture/rule_registry.json: one <br> after the last widget of a
-stack, none between widgets that follow each other.
+Rules: NAV-DAC-12-SPACER and NAV-DAC-12-MARKDOWN in tools/architecture/rule_registry.json.
+One <br> follows the last widget of a stack, none separates stacked widgets, and
+O/M/A/C list content is separated from its summary and closing HTML tag by blank lines.
 """
 
 from __future__ import annotations
@@ -31,6 +32,7 @@ INLINE_DEFINITION_RE = re.compile(
     r'<strong><span style="color: #2563eb;">Definition:</span></strong>'
 )
 DETAILS_CLOSE = "</details>"
+DEC_SUMMARY_LINE = DEC_SUMMARY
 
 
 
@@ -59,6 +61,52 @@ def next_nonempty(lines: list[str], start: int) -> tuple[int, str] | None:
     return None
 
 
+def definition_widget_markdown_findings(
+    lines: list[str], open_idx: int, rel: str
+) -> list[str]:
+    """Require blank lines around Markdown list content inside an O/M/A/C widget."""
+    depth = 0
+    close_idx = None
+    for idx in range(open_idx, len(lines)):
+        stripped = lines[idx].strip()
+        if stripped == "<details>":
+            depth += 1
+        elif stripped == DETAILS_CLOSE:
+            depth -= 1
+            if depth == 0:
+                close_idx = idx
+                break
+    if close_idx is None:
+        return []  # Other audits report unclosed details blocks.
+
+    summary_idx = next(
+        (idx for idx in range(open_idx + 1, close_idx) if lines[idx].strip() == DEC_SUMMARY_LINE),
+        None,
+    )
+    if summary_idx is None:
+        return []
+
+    findings: list[str] = []
+    first_content = next(
+        (idx for idx in range(summary_idx + 1, close_idx) if lines[idx].strip()),
+        None,
+    )
+    if first_content is not None and first_content == summary_idx + 1:
+        findings.append(
+            f"{rel}:{first_content + 1}: add a blank line after the O/M/A/C summary so its Markdown rows render"
+        )
+
+    last_content = next(
+        (idx for idx in range(close_idx - 1, summary_idx, -1) if lines[idx].strip()),
+        None,
+    )
+    if last_content is not None and last_content == close_idx - 1:
+        findings.append(
+            f"{rel}:{close_idx + 1}: add a blank line before </details> to close the O/M/A/C Markdown list"
+        )
+    return findings
+
+
 def audit_file(path: Path, root: Path) -> list[str]:
     rel = path.relative_to(root).as_posix()
     if rel.startswith("core_05-05_definitions_"):
@@ -70,6 +118,8 @@ def audit_file(path: Path, root: Path) -> list[str]:
     i = 0
     while i < len(lines):
         line = lines[i]
+        if line.strip() == "<details>":
+            findings.extend(definition_widget_markdown_findings(lines, i, rel))
         if INLINE_DEFINITION_RE.search(line):
             nxt = next_nonempty(lines, i + 1)
             if nxt and nxt[1].strip() == "<br>":

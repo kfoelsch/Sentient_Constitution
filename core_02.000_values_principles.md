@@ -97,6 +97,7 @@ Chapter Two, Part A, is the constitutional owner of **the Flourishing and Contin
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 - [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
 - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) · [O](subcore_03.040_apex_accountability_leg.md#accountability) · [M](subcore_03.040_apex_accountability_leg.md#accountability-m) · [A](subcore_03.040_apex_accountability_leg.md#accountability-a) · [C](subcore_03.040_apex_accountability_leg.md#accountability-c)
@@ -116,6 +117,7 @@ Chapter Two, Part A, is the constitutional owner of **the Flourishing and Contin
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) · [O](subcore_03.075_band_continuity.md#trustworthiness) · [M](subcore_03.075_band_continuity.md#trustworthiness-a) · [A](subcore_03.075_band_continuity.md#trustworthiness-a) · [C](subcore_03.075_band_continuity.md#trustworthiness-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
@@ -209,6 +211,7 @@ Each principle's **Trace** lists the Chapter Four Articles that protect it, and 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Flourishing (Constitutional Aim)](subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional) · [O](subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional) · [M](subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional-m) · [A](subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional-a) · [C](subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [O](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [M](subcore_03.075_band_continuity.md#safety-constraint-a) · [A](subcore_03.075_band_continuity.md#safety-constraint-a) · [C](subcore_03.075_band_continuity.md#safety-constraint-c)
@@ -225,6 +228,7 @@ Each principle's **Trace** lists the Chapter Four Articles that protect it, and 
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
+
 </details>
 
 <br>
@@ -342,6 +346,7 @@ The standing model — [Subcore 10-B — **Standing Records**](subcore_10.020_st
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [O](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [M](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [A](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [C](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-c)
@@ -358,6 +363,7 @@ The standing model — [Subcore 10-B — **Standing Records**](subcore_10.020_st
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) · [O](subcore_03.075_band_continuity.md#trustworthiness) · [M](subcore_03.075_band_continuity.md#trustworthiness-a) · [A](subcore_03.075_band_continuity.md#trustworthiness-a) · [C](subcore_03.075_band_continuity.md#trustworthiness-c)
+
 </details>
 
 <br>
@@ -421,6 +427,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [O](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [M](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [A](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [C](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-c)
@@ -443,6 +450,7 @@ Wellbeing includes not only immediate effects but also indirect, delayed, cumula
 - [Protected Characteristic Proxying and Disparate Impact](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [O](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact) · [M](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [A](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact-a) · [C](subcore_03.090_band_participation.md#protected-characteristic-proxying-and-disparate-impact-c)
 - [Protected Intimate-Signal Gating and **Article VII-E** (*Adult Consensual Commercial Sexual Services and Sexual Exploitation*) Status Circumvention](subcore_03.090_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) · [O](subcore_03.090_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-adult-consensual-commercial-sexual-services-and-sexual-exploitation-status-circumvention) · [M](subcore_03.090_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention-a) · [A](subcore_03.090_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention-a) · [C](subcore_03.090_band_participation.md#protected-intimate-signal-gating-and-article-vii-e-status-circumvention-c)
 - [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record) · [O](subcore_03.080_band_integrative.md#constitutional-collision-record) · [M](subcore_03.080_band_integrative.md#constitutional-collision-record-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-record-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-record-c)
+
 </details>
 
 <br>
@@ -547,6 +555,7 @@ These requirements also support [6. Trust](#6-trust-and-trustworthiness-coordina
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [O](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [M](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [A](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [C](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-c)
@@ -566,6 +575,7 @@ These requirements also support [6. Trust](#6-trust-and-trustworthiness-coordina
 - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment) · [O](subcore_03.080_band_integrative.md#incentive-alignment) · [M](subcore_03.080_band_integrative.md#incentive-alignment-a) · [A](subcore_03.080_band_integrative.md#incentive-alignment-a) · [C](subcore_03.080_band_integrative.md#incentive-alignment-c)
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
+
 </details>
 
 <br>
@@ -678,6 +688,7 @@ This rule covers direct rewards and indirect reward pathways, including patronag
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [O](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [M](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [A](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [C](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-c)
@@ -701,6 +712,7 @@ This rule covers direct rewards and indirect reward pathways, including patronag
 - [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
 - [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
+
 </details>
 
 <br>
@@ -796,6 +808,7 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [O](subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [M](subcore_03.075_band_continuity.md#safety-constraint-a) · [A](subcore_03.075_band_continuity.md#safety-constraint-a) · [C](subcore_03.075_band_continuity.md#safety-constraint-c)
 - [Harm](subcore_03.070_band_accountability.md#harm) · [O](subcore_03.070_band_accountability.md#harm) · [M](subcore_03.070_band_accountability.md#harm-a) · [A](subcore_03.070_band_accountability.md#harm-a) · [C](subcore_03.070_band_accountability.md#harm-c)
 - [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm) · [O](subcore_03.070_band_accountability.md#irreversible-harm) · [M](subcore_03.070_band_accountability.md#irreversible-harm-a) · [A](subcore_03.070_band_accountability.md#irreversible-harm-a) · [C](subcore_03.070_band_accountability.md#irreversible-harm-c)
@@ -815,13 +828,21 @@ It is not limited to the tradeoff-stack context in which it also operates as an 
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
 
 *In plain terms: systems may not be built or run in ways that foreseeably increase risks of uncontained harm, cascading failure, or irreversible damage to sentients and the systems they depend on.*
 
-Safety is a non-negotiable principle constraint on system design, operation, and governance — a named constituent of [**Flourishing**](#flourishing) and a floor for [**Continuity**](#continuity) wherever shared systems create foreseeable harm risk. The detailed definitions, evaluation criteria, and compliance tests live in [**, including its subcore**](subcore_03.010_definition_structure.md), especially [Harm](subcore_03.070_band_accountability.md#harm), [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm), [Risk](subcore_03.075_band_continuity.md#risk), [Materiality](subcore_03.085_band_oversight.md#materiality), [Dependency](subcore_03.075_band_continuity.md#dependency), and [Foreseeability](subcore_03.085_band_oversight.md#foreseeability-and-reasonably-foreseeable).
+Safety is a non-negotiable principle constraint on system design, operation, and governance — a named constituent of [**Flourishing**](#flourishing) and a floor for [**Continuity**](#continuity) wherever shared systems create foreseeable harm risk. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapter Three, including its subcore**](subcore_03.010_definition_structure.md), especially:
+
+- [Harm](subcore_03.070_band_accountability.md#harm)
+- [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm)
+- [Risk](subcore_03.075_band_continuity.md#risk)
+- [Materiality](subcore_03.085_band_oversight.md#materiality)
+- [Dependency](subcore_03.075_band_continuity.md#dependency)
+- [Foreseeability](subcore_03.085_band_oversight.md#foreseeability-and-reasonably-foreseeable)
 
 Systems may not act — or fail to act — in ways that foreseeably increase uncontained harm risk, cascading failure potential, or irreversible harm exposure in conflict with this Constitution.
 
@@ -853,6 +874,7 @@ Systems may not act — or fail to act — in ways that foreseeably increase unc
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) · [O](subcore_03.085_band_oversight.md#epistemic-integrity-o) · [M](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [A](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [C](subcore_03.085_band_oversight.md#epistemic-integrity-c)
 - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
 - [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
@@ -869,13 +891,20 @@ Systems may not act — or fail to act — in ways that foreseeably increase unc
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
 
 *In plain terms: systems may not deceive, distort, suppress, or structure their output to mislead — and high-impact decisions must rest on honest evidence, stated methods, acknowledged uncertainty, and genuine openness to contrary findings.*
 
-Truth is non-negotiable: be honest in how you work and in what you tell others. It is a core part of [**Flourishing**](#flourishing). It is also needed for [**Continuity**](#continuity), because anything built to last depends on honest evidence and an accurate picture of what is really going on. The detailed definitions, evaluation criteria, and compliance tests live in [**, including its subcore**](subcore_03.010_definition_structure.md), especially [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity), [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), [Materiality](subcore_03.085_band_oversight.md#materiality), [Dependency](subcore_03.075_band_continuity.md#dependency), and [Foreseeability](subcore_03.085_band_oversight.md#foreseeability-and-reasonably-foreseeable).
+Truth is non-negotiable: be honest in how you work and in what you tell others. It is a core part of [**Flourishing**](#flourishing). It is also needed for [**Continuity**](#continuity), because anything built to last depends on honest evidence and an accurate picture of what is really going on. The detailed definitions, evaluation criteria, and compliance tests live in [**Chapter Three, including its subcore**](subcore_03.010_definition_structure.md), especially:
+
+- [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity)
+- [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint)
+- [Materiality](subcore_03.085_band_oversight.md#materiality)
+- [Dependency](subcore_03.075_band_continuity.md#dependency)
+- [Foreseeability](subcore_03.085_band_oversight.md#foreseeability-and-reasonably-foreseeable)
 
 Systems may not undermine the ability of sentients to understand what is happening, make informed decisions, or verify what they are being told. That includes lying, distorting, hiding information, reporting only favorable results while leaving out unfavorable ones, or presenting things in ways designed to mislead.
 
@@ -905,6 +934,7 @@ Systems may not undermine the ability of sentients to understand what is happeni
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) · [O](subcore_03.085_band_oversight.md#epistemic-integrity-o) · [M](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [A](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [C](subcore_03.085_band_oversight.md#epistemic-integrity-c)
 - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
 - [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
@@ -926,6 +956,7 @@ Systems may not undermine the ability of sentients to understand what is happeni
 - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) · [O](subcore_03.085_band_oversight.md#classification-scaled-governance) · [M](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [A](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [C](subcore_03.085_band_oversight.md#classification-scaled-governance-c)
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
+
 </details>
 
 <br>
@@ -982,6 +1013,7 @@ Even then, keep as much honesty and checkability as you safely can. Use protecte
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) · [O](subcore_03.085_band_oversight.md#epistemic-integrity-o) · [M](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [A](subcore_03.085_band_oversight.md#epistemic-integrity-a) · [C](subcore_03.085_band_oversight.md#epistemic-integrity-c)
 - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
 - [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
@@ -1003,6 +1035,7 @@ Even then, keep as much honesty and checkability as you safely can. Use protecte
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
+
 </details>
 
 <br>
@@ -1060,7 +1093,13 @@ The opposite is also forbidden. Plain language must not misstate what a rule rea
 <a id="525-rights-floor-boundary"></a>
 ##### 5.2.5 Rights-Floor Boundary
 
-The Rights Floors for accessibility, education, and comprehensibility live in [Article VI-D](core_04.010_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*), [Article IV-A](core_04.000_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*), and [Article XXIV](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*) respectively. This section states the principle-layer duty that supports those floors.
+The Rights Floors for accessibility, education, and comprehensibility live in:
+
+- [Article IV-A](core_04.000_rights_part_a.md#article-iv-a-equal-educational-access) (*Equal Educational Access*)
+- [Article VI-D](core_04.010_rights_part_b.md#article-vi-d-accessibility) (*Accessibility*)
+- [Article XXIV](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*)
+
+This section states the principle-layer duty that supports those floors.
 
 ### 6. Trust and Trustworthiness (Coordination Integrity)
 <details>
@@ -1090,6 +1129,7 @@ The Rights Floors for accessibility, education, and comprehensibility live in [A
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) · [O](subcore_03.075_band_continuity.md#trustworthiness) · [M](subcore_03.075_band_continuity.md#trustworthiness-a) · [A](subcore_03.075_band_continuity.md#trustworthiness-a) · [C](subcore_03.075_band_continuity.md#trustworthiness-c)
 - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
@@ -1108,13 +1148,19 @@ The Rights Floors for accessibility, education, and comprehensibility live in [A
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) · [O](subcore_03.075_band_continuity.md#system-alignment-certification) · [M](subcore_03.075_band_continuity.md#system-alignment-certification-constitutional-a) · [A](subcore_03.075_band_continuity.md#system-alignment-certification-constitutional-a) · [C](subcore_03.075_band_continuity.md#system-alignment-certification-constitutional-c)
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
+
 </details>
 
 <br>
 
 *In plain terms: shared systems ask sentients to depend on them — for safety, information, access, and coordination. Trust under this Constitution means that dependence must be earned by how systems actually behave, not manufactured through spin, secrecy, or hidden risk transfer.*
 
-Sentients need systems they can actually rely on. [**Trust**](subcore_03.075_band_continuity.md#trust) is the constitutional principle that makes reliance legitimate: systems must earn it through honest behavior and demonstrated reliability over time, not induce it through deception or concealment. [**Trustworthiness**](subcore_03.075_band_continuity.md#trustworthiness) is the track record that earns it. Trustworthiness is a named constituent of [**Flourishing**](#flourishing), and the Trust it earns is essential to [**Continuity**](#continuity) — durable coordination requires systems sentients can count on.
+Sentients need systems they can actually rely on:
+
+- [**Trust**](subcore_03.075_band_continuity.md#trust) is the constitutional principle that makes reliance legitimate: systems must earn it through honest behavior and demonstrated reliability over time, not induce it through deception or concealment.
+- [**Trustworthiness**](subcore_03.075_band_continuity.md#trustworthiness) is the track record that earns trust.
+
+Trustworthiness is a named constituent of [**Flourishing**](#flourishing), and the Trust it earns is essential to [**Continuity**](#continuity) — durable coordination requires systems sentients can count on.
 
 Trust connects the principle constraints to everyday shared life:
 - [**Truth**](subcore_03.085_band_oversight.md#truth-constitutional-constraint) forbids deception.
@@ -1122,11 +1168,21 @@ Trust connects the principle constraints to everyday shared life:
 - [**Materiality**](subcore_03.085_band_oversight.md#materiality) determines how much must be shown and explained — the higher the stakes for sentients who depend on a system, the more that system must disclose and justify.
 - [**Trust Degradation and Misleading Reliance**](subcore_03.075_band_continuity.md#trust-degradation-and-misleading-reliance) names the failure mode — when systems create, preserve, or score reliance in constitutionally misleading ways.
 
-Trust fails when reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that materially undermines sentients' ability to detect and challenge systemic risk. Trust also fails when reliance is endorsed or continued while documented problems materially threaten a system's alignment with this Constitution or cause misalignment with it. The [Subcore 8-B — **System Alignment Certification**](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) process under [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable System Certification Record — not merely on operator assertion.
+Trust fails when:
+
+- reliance is built or kept through suppression, deception, hidden risk-shifting, or similar tactics — including anything that materially undermines sentients' ability to detect and challenge systemic risk; or
+- reliance is endorsed or continued while documented problems materially threaten a system's alignment with this Constitution or cause misalignment with it.
+
+The [Subcore 8-B — **System Alignment Certification**](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) process under [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) is where systems demonstrate that their trust claims hold up: certification must verify that a system's actual behavior matches its representations, on a contestable System Certification Record — not merely on operator assertion.
 
 Trust also rests on what happens when a system fails. A trustworthy system fixes what it gets wrong: [§6.1 Correction and Remedy](#61-correction-and-remedy) makes correction part of Trust, not an afterthought.
 
-Certification is one of two safeguards that work together: it makes a system worthy of trust, and the rights of sentients to [challenge it](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [seek redress](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) and to [have it audited](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) keep it honest. Neither replaces the other — [Article XIV](core_04.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*) states how the two combine.
+Certification and sentient rights are two safeguards that work together:
+
+- Certification makes a system worthy of trust.
+- Sentients' rights to [challenge it](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline), [seek redress](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy), and [have it audited](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) keep it honest.
+
+Neither replaces the other — [Article XIV](core_04.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*) states how the two combine.
 
 #### 6.1 Correction and Remedy
 <details>
@@ -1140,6 +1196,7 @@ Certification is one of two safeguards that work together: it makes a system wor
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) · [O](subcore_03.075_band_continuity.md#trustworthiness) · [M](subcore_03.075_band_continuity.md#trustworthiness-a) · [A](subcore_03.075_band_continuity.md#trustworthiness-a) · [C](subcore_03.075_band_continuity.md#trustworthiness-c)
 - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
@@ -1163,6 +1220,7 @@ Certification is one of two safeguards that work together: it makes a system wor
 - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) · [O](subcore_03.070_band_accountability.md#timely-resolution) · [M](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [A](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [C](subcore_03.070_band_accountability.md#timely-resolution-constitutional-c)
 - [Harm](subcore_03.070_band_accountability.md#harm) · [O](subcore_03.070_band_accountability.md#harm) · [M](subcore_03.070_band_accountability.md#harm-a) · [A](subcore_03.070_band_accountability.md#harm-a) · [C](subcore_03.070_band_accountability.md#harm-c)
 - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [O](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [M](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-c)
+
 </details>
 
 <br>
@@ -1229,6 +1287,7 @@ The right to this correction is stated in [Article XIV-B](core_04.020_rights_par
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Freedom (Bounded Agency)](subcore_03.090_band_participation.md#freedom-bounded-agency) · [O](subcore_03.090_band_participation.md#freedom-bounded-agency) · [M](subcore_03.090_band_participation.md#freedom-bounded-agency-a) · [A](subcore_03.090_band_participation.md#freedom-bounded-agency-a) · [C](subcore_03.090_band_participation.md#freedom-bounded-agency-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](subcore_03.090_band_participation.md#reproductive-autonomy) · [O](subcore_03.090_band_participation.md#reproductive-autonomy) · [M](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-a) · [A](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-a) · [C](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-c)
@@ -1254,11 +1313,12 @@ The right to this correction is stated in [Article XIV-B](core_04.020_rights_par
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Voluntary Discontinuation](subcore_03.075_band_continuity.md#voluntary-discontinuation) · [O](subcore_03.075_band_continuity.md#voluntary-discontinuation) · [M](subcore_03.075_band_continuity.md#voluntary-discontinuation-constitutional-a) · [A](subcore_03.075_band_continuity.md#voluntary-discontinuation-constitutional-a) · [C](subcore_03.075_band_continuity.md#voluntary-discontinuation-constitutional-c)
+
 </details>
 
 <br>
 
-*In plain terms: freedom means having real choices, within the Constitution's limits. Real choice supports Flourishing, and keeping systems open to challenge supports Continuity. It does not mean you can do whatever you want. "We had no choice" is not an excuse. Whoever says it has to show that no less restrictive option would have worked, and convenience, cost, or habit don't count as proof. Sentients keep a real voice, and someone still has to answer for what happens. The higher the impact, the dependence, and the risk, the more that matters.*
+*In plain terms: freedom means having real choices, within the Constitution's limits. Real choice supports Flourishing, and keeping systems open to challenge supports Continuity. It does not mean you can do whatever you want. A claim that a restriction was unavoidable puts this principle to the test. "We had no choice" is not an excuse. Whoever says it has to show that no less restrictive option would have worked, and convenience, cost, or habit don't count as proof. Sentients keep a real voice, and someone still has to answer for what happens. The higher the impact, the dependence, and the risk, the more that matters.*
 
 **Freedom (Bounded Agency)** is how Chapter Two expresses the real-choice part of the [**Flourishing**](core_00.000_preamble.md#flourishing) aim, one of the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims). It is bounded agency, not unlimited discretion or total autonomy.
 
@@ -1266,13 +1326,13 @@ The right to this correction is stated in [Article XIV-B](core_04.020_rights_par
 - When a decision materially affects someone, or someone materially depends on the system, their choices must stay real. They need genuine options and the practical ability to use them. Dependence must not turn a choice into "take it or leave it".
 - It must fit with [**Continuity**](core_00.000_preamble.md#continuity), because lasting constitutional systems depend on agency that is bounded and open to challenge.
 
-Applying it must satisfy the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad). Two legs matter most. **Participation** means real choices and consequential roles. **Accountability** means that agency without answerability is incomplete. How much is required scales with the [material stake](core_00.000_preamble.md#material-stake).
+Applying it must satisfy the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad). Two legs matter most:
 
-A claim that limiting freedom was unavoidable — including "we had no choice" — is not established by assertion. The party making that claim must demonstrate, under [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) burden and traceability requirements and the Chapter Three definitions of [Feasibility](subcore_03.070_band_accountability.md#feasibility) and [Necessity](subcore_03.070_band_accountability.md#necessity), that no less-restrictive alternative existed that would still have prevented the material harm or systemic risk in the working system. Convenience, cost alone, operator-created barriers, or institutional habit do not prove that showing. The claim does not waive Tetrad duties scaled to [material stake](core_00.000_preamble.md#material-stake):
-- **participation** — affected sentients still need meaningful agency and contestable roles
-- **accountability** — someone remains answerable for the limitation
+- **Participation** means real choices and consequential roles.
+- **Accountability** means that agency without answerability is incomplete.
 
-Operative tests live in [§7.1 Limitation Discipline](#71-limitation-discipline) and [§13.1.1 Necessity](core_02.020_interaction_interpretation.md#1311-necessity).
+How much is required scales with the [material stake](core_00.000_preamble.md#material-stake).
+
 
 [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) is the ability to make a choice between real options. [Consent](subcore_03.090_band_participation.md#consent) is a valid yes to one specific option. Consent does not count when the options are not distinct from each other or are not meaningful. A signed form alone creates neither meaningful agency nor consent. [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation) destroy both. The detailed rules are in Chapter Three §2 *Agency, consent, and anti-coercion*.
 
@@ -1284,6 +1344,7 @@ Freedom does not let anyone undermine constitutional systems, get around constit
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Freedom (Bounded Agency)](subcore_03.090_band_participation.md#freedom-bounded-agency) · [O](subcore_03.090_band_participation.md#freedom-bounded-agency) · [M](subcore_03.090_band_participation.md#freedom-bounded-agency-a) · [A](subcore_03.090_band_participation.md#freedom-bounded-agency-a) · [C](subcore_03.090_band_participation.md#freedom-bounded-agency-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](subcore_03.090_band_participation.md#reproductive-autonomy) · [O](subcore_03.090_band_participation.md#reproductive-autonomy) · [M](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-a) · [A](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-a) · [C](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-c)
@@ -1316,15 +1377,23 @@ Freedom does not let anyone undermine constitutional systems, get around constit
 - [Cruelty](subcore_03.070_band_accountability.md#cruelty) · [O](subcore_03.070_band_accountability.md#cruelty) · [M](subcore_03.070_band_accountability.md#cruelty-a) · [A](subcore_03.070_band_accountability.md#cruelty-a) · [C](subcore_03.070_band_accountability.md#cruelty-c)
 - [Harassment and Bullying](subcore_03.070_band_accountability.md#harassment-and-bullying) · [O](subcore_03.070_band_accountability.md#harassment-and-bullying) · [M](subcore_03.070_band_accountability.md#harassment-and-bullying-a) · [A](subcore_03.070_band_accountability.md#harassment-and-bullying-a) · [C](subcore_03.070_band_accountability.md#harassment-and-bullying-c)
 - [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm) · [O](subcore_03.070_band_accountability.md#irreversible-harm) · [M](subcore_03.070_band_accountability.md#irreversible-harm-a) · [A](subcore_03.070_band_accountability.md#irreversible-harm-a) · [C](subcore_03.070_band_accountability.md#irreversible-harm-c)
+
 </details>
 
 <br>
 
 *In plain terms: freedom is bounded, not disposable. Do not restrict someone's freedom unless you have to — and then only enough to stop material harm or serious systemic risk, with oversight and reversal where possible.*
 
+A claim that limiting freedom was unavoidable — including "we had no choice" — is not established by assertion. The party making that claim must demonstrate, under [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) burden and traceability requirements and the Chapter Three definitions of [Feasibility](subcore_03.070_band_accountability.md#feasibility) and [Necessity](subcore_03.070_band_accountability.md#necessity), that no less-restrictive alternative existed that would still have prevented the material harm or systemic risk in the working system. Convenience, cost alone, operator-created barriers, or institutional habit do not prove that showing. The claim does not waive Tetrad duties scaled to [material stake](core_00.000_preamble.md#material-stake):
+
+- **participation** — affected sentients still need meaningful agency and contestable roles
+- **accountability** — someone remains answerable for the limitation
+
 Freedom may be limited only where:
 - necessary to prevent **material harm** or **systemic risk**
 - such limitation is **proportionate**, **reversible where possible**, and **subject to oversight**
+
+[Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation) that bypass or warp informed voluntary choice violate [Freedom (Bounded Agency)](subcore_03.090_band_participation.md#freedom-bounded-agency).
 
 The limits above depend on what counts as harm. Chapter Three treats these six ideas together, as the [Harm cluster](subcore_03.070_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying):
 
@@ -1350,6 +1419,7 @@ If limiting freedom clashes with other constitutional values or rights, first ma
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Freedom (Bounded Agency)](subcore_03.090_band_participation.md#freedom-bounded-agency) · [O](subcore_03.090_band_participation.md#freedom-bounded-agency) · [M](subcore_03.090_band_participation.md#freedom-bounded-agency-a) · [A](subcore_03.090_band_participation.md#freedom-bounded-agency-a) · [C](subcore_03.090_band_participation.md#freedom-bounded-agency-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](subcore_03.090_band_participation.md#reproductive-autonomy) · [O](subcore_03.090_band_participation.md#reproductive-autonomy) · [M](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-a) · [A](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-a) · [C](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-c)
@@ -1376,6 +1446,7 @@ If limiting freedom clashes with other constitutional values or rights, first ma
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Voluntary Discontinuation](subcore_03.075_band_continuity.md#voluntary-discontinuation) · [O](subcore_03.075_band_continuity.md#voluntary-discontinuation) · [M](subcore_03.075_band_continuity.md#voluntary-discontinuation-constitutional-a) · [A](subcore_03.075_band_continuity.md#voluntary-discontinuation-constitutional-a) · [C](subcore_03.075_band_continuity.md#voluntary-discontinuation-constitutional-c)
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
+
 </details>
 
 <br>
@@ -1390,9 +1461,7 @@ If limiting freedom clashes with other constitutional values or rights, first ma
 - [System Creation](subcore_03.090_band_participation.md#system-creation)
 - [Business Creation](subcore_03.090_band_participation.md#business-creation)
 
-The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle) to this topic; it does not restate those Chapter Three mechanics.
-
-**Which rights articles still control.** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) is a Chapter Two principle. It does not replace the Chapter Four Rights Floor. Inside **§7.2** (*Assembly, Collective Organization, and Institutional Formation*), those articles still decide what the right is and how it may be limited:
+**Which rights articles still control.** Section 7.2 applies the Freedom principle; the Chapter Four Rights Floor still determines what these rights protect and how they may be limited:
 - **[Article XI-D](core_04.010_rights_part_b.md#article-xi-d-assembly-dissent-and-peaceful-protest) (*Assembly, Dissent, and Peaceful Protest*)** — gathering, associating, and acting together in physical, digital, or shared-compute spaces for expression, politics, culture, community, and similar purposes
 - **[Article III-C](core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*)** — collective organization in productive and economic activity (unions, cooperatives, guilds, worker councils, and comparable forms used to shape the terms of work)
 - **[Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*)** — [System Creation](subcore_03.090_band_participation.md#system-creation) (forming and running non-commercial institutions) and [Business Creation](subcore_03.090_band_participation.md#business-creation) (forming and running commercial enterprises)
@@ -1408,7 +1477,7 @@ The cluster's own reading rules live there. **§7.2** (*Assembly, Collective Org
 
 **Scope and limits of this section:**
 
-- **What it does not change:** **§7.2** (*Assembly, Collective Organization, and Institutional Formation*) applies the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle) to this topic and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only.
+- **What it does not change:** Chapter Three supplies the cluster's joint-reading mechanics. Section 7.2 applies the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle) when the full definition cluster applies and adds the [§7.2.1 Aligned Self-Organization](#721-aligned-self-organization) pointer only.
 - **Compartments:** Civic-association, labor-organization, platform-access, and authorization framings. Separating them is non-compliant where it preserves formal access while defeating assembly or collective-organization protection.
 - **Whole-system evaluations:** Must test anti-segmentation under [Subcore 8-B §5.3 Assembly, Collective Organization, and Institutional Formation](subcore_08.020_system_alignment_certification_evaluation.md#53-assembly-collective-organization-and-institutional-formation) before classification, governance, or compliance claims stand where the full definition cluster applies.
 
@@ -1438,6 +1507,7 @@ Being received, routed, or answered is not approval of the authors' conclusions.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Freedom (Bounded Agency)](subcore_03.090_band_participation.md#freedom-bounded-agency) · [O](subcore_03.090_band_participation.md#freedom-bounded-agency) · [M](subcore_03.090_band_participation.md#freedom-bounded-agency-a) · [A](subcore_03.090_band_participation.md#freedom-bounded-agency-a) · [C](subcore_03.090_band_participation.md#freedom-bounded-agency-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](subcore_03.090_band_participation.md#reproductive-autonomy) · [O](subcore_03.090_band_participation.md#reproductive-autonomy) · [M](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-a) · [A](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-a) · [C](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-c)
@@ -1465,6 +1535,7 @@ Being received, routed, or answered is not approval of the authors' conclusions.
 - [Voluntary Discontinuation](subcore_03.075_band_continuity.md#voluntary-discontinuation) · [O](subcore_03.075_band_continuity.md#voluntary-discontinuation) · [M](subcore_03.075_band_continuity.md#voluntary-discontinuation-constitutional-a) · [A](subcore_03.075_band_continuity.md#voluntary-discontinuation-constitutional-a) · [C](subcore_03.075_band_continuity.md#voluntary-discontinuation-constitutional-c)
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
+
 </details>
 
 <br>
@@ -1493,6 +1564,7 @@ When a whole system is being evaluated, the evaluation must check how it treats 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Freedom (Bounded Agency)](subcore_03.090_band_participation.md#freedom-bounded-agency) · [O](subcore_03.090_band_participation.md#freedom-bounded-agency) · [M](subcore_03.090_band_participation.md#freedom-bounded-agency-a) · [A](subcore_03.090_band_participation.md#freedom-bounded-agency-a) · [C](subcore_03.090_band_participation.md#freedom-bounded-agency-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](subcore_03.090_band_participation.md#reproductive-autonomy) · [O](subcore_03.090_band_participation.md#reproductive-autonomy) · [M](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-a) · [A](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-a) · [C](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-c)
@@ -1521,6 +1593,7 @@ When a whole system is being evaluated, the evaluation must check how it treats 
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Reversibility](subcore_03.075_band_continuity.md#reversibility) · [O](subcore_03.075_band_continuity.md#reversibility) · [M](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](subcore_03.075_band_continuity.md#reversibility-constitutional-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
@@ -1557,6 +1630,7 @@ Whole-system evaluations must test these conditions under [Subcore 8-B §5.2 Vol
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Freedom (Bounded Agency)](subcore_03.090_band_participation.md#freedom-bounded-agency) · [O](subcore_03.090_band_participation.md#freedom-bounded-agency) · [M](subcore_03.090_band_participation.md#freedom-bounded-agency-a) · [A](subcore_03.090_band_participation.md#freedom-bounded-agency-a) · [C](subcore_03.090_band_participation.md#freedom-bounded-agency-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Reproductive Autonomy](subcore_03.090_band_participation.md#reproductive-autonomy) · [O](subcore_03.090_band_participation.md#reproductive-autonomy) · [M](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-a) · [A](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-a) · [C](subcore_03.090_band_participation.md#reproductive-autonomy-constitutional-c)
@@ -1585,6 +1659,7 @@ Whole-system evaluations must test these conditions under [Subcore 8-B §5.2 Vol
 - [Harassment and Bullying](subcore_03.070_band_accountability.md#harassment-and-bullying) · [O](subcore_03.070_band_accountability.md#harassment-and-bullying) · [M](subcore_03.070_band_accountability.md#harassment-and-bullying-a) · [A](subcore_03.070_band_accountability.md#harassment-and-bullying-a) · [C](subcore_03.070_band_accountability.md#harassment-and-bullying-c)
 - [Cruelty](subcore_03.070_band_accountability.md#cruelty) · [O](subcore_03.070_band_accountability.md#cruelty) · [M](subcore_03.070_band_accountability.md#cruelty-a) · [A](subcore_03.070_band_accountability.md#cruelty-a) · [C](subcore_03.070_band_accountability.md#cruelty-c)
 - [Collective Harm Boundary](subcore_03.070_band_accountability.md#collective-harm-boundary) · [O](subcore_03.070_band_accountability.md#collective-harm-boundary) · [M](subcore_03.070_band_accountability.md#collective-harm-boundary-a) · [A](subcore_03.070_band_accountability.md#collective-harm-boundary-a) · [C](subcore_03.070_band_accountability.md#collective-harm-boundary-c)
+
 </details>
 
 <br>

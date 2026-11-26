@@ -38,6 +38,7 @@ Chapter Two, Part B is the constitutional owner of the **Continuity Aim** (share
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Continuity (Constitutional Aim)](subcore_03.045_apex_continuity_aim.md#subcore-3-e-continuity-constitutional-aim) · [O](subcore_03.045_apex_continuity_aim.md#subcore-3-e-continuity-constitutional-aim) · [M](subcore_03.045_apex_continuity_aim.md#continuity-aim-constitutional-m) · [A](subcore_03.045_apex_continuity_aim.md#continuity-aim-constitutional-a) · [C](subcore_03.045_apex_continuity_aim.md#continuity-aim-constitutional-c)
 - [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity) · [O](subcore_03.075_band_continuity.md#shared-system-capacity) · [M](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-a) · [A](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-a) · [C](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-c)
 - [Self-Healing](subcore_03.075_band_continuity.md#self-healing) · [O](subcore_03.075_band_continuity.md#self-healing) · [M](subcore_03.075_band_continuity.md#self-healing-constitutional-a) · [A](subcore_03.075_band_continuity.md#self-healing-constitutional-a) · [C](subcore_03.075_band_continuity.md#self-healing-constitutional-c)
@@ -52,6 +53,7 @@ Chapter Two, Part B is the constitutional owner of the **Continuity Aim** (share
 - [Market Structure](subcore_03.070_band_accountability.md#market-structure) · [O](subcore_03.070_band_accountability.md#market-structure) · [M](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-structure-constitutional-c)
 - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity) · [O](subcore_03.075_band_continuity.md#productive-capacity) · [M](subcore_03.075_band_continuity.md#productive-capacity-constitutional-a) · [A](subcore_03.075_band_continuity.md#productive-capacity-constitutional-a) · [C](subcore_03.075_band_continuity.md#productive-capacity-constitutional-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
@@ -141,6 +143,7 @@ flowchart TB
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity) · [O](subcore_03.075_band_continuity.md#shared-system-capacity) · [M](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-a) · [A](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-a) · [C](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-c)
 - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity) · [O](subcore_03.075_band_continuity.md#productive-capacity) · [M](subcore_03.075_band_continuity.md#productive-capacity-constitutional-a) · [A](subcore_03.075_band_continuity.md#productive-capacity-constitutional-a) · [C](subcore_03.075_band_continuity.md#productive-capacity-constitutional-c)
 - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency) · [O](subcore_03.075_band_continuity.md#constitutional-efficiency) · [M](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [A](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [C](subcore_03.075_band_continuity.md#constitutional-efficiency-c)
@@ -164,6 +167,7 @@ flowchart TB
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) · [O](subcore_03.075_band_continuity.md#trustworthiness) · [M](subcore_03.075_band_continuity.md#trustworthiness-a) · [A](subcore_03.075_band_continuity.md#trustworthiness-a) · [C](subcore_03.075_band_continuity.md#trustworthiness-c)
+
 </details>
 
 <br>
@@ -210,6 +214,7 @@ That capacity has several aspects working together:
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity) · [O](subcore_03.075_band_continuity.md#shared-system-capacity) · [M](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-a) · [A](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-a) · [C](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-c)
 - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity) · [O](subcore_03.075_band_continuity.md#productive-capacity) · [M](subcore_03.075_band_continuity.md#productive-capacity-constitutional-a) · [A](subcore_03.075_band_continuity.md#productive-capacity-constitutional-a) · [C](subcore_03.075_band_continuity.md#productive-capacity-constitutional-c)
 - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency) · [O](subcore_03.075_band_continuity.md#constitutional-efficiency) · [M](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [A](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [C](subcore_03.075_band_continuity.md#constitutional-efficiency-c)
@@ -233,6 +238,7 @@ That capacity has several aspects working together:
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) · [O](subcore_03.075_band_continuity.md#trustworthiness) · [M](subcore_03.075_band_continuity.md#trustworthiness-a) · [A](subcore_03.075_band_continuity.md#trustworthiness-a) · [C](subcore_03.075_band_continuity.md#trustworthiness-c)
+
 </details>
 
 <br>
@@ -306,6 +312,7 @@ Where productive-capacity claims rest on metrics that no longer prove real outco
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity) · [O](subcore_03.075_band_continuity.md#shared-system-capacity) · [M](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-a) · [A](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-a) · [C](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-c)
 - [Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity) · [O](subcore_03.075_band_continuity.md#productive-capacity) · [M](subcore_03.075_band_continuity.md#productive-capacity-constitutional-a) · [A](subcore_03.075_band_continuity.md#productive-capacity-constitutional-a) · [C](subcore_03.075_band_continuity.md#productive-capacity-constitutional-c)
 - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency) · [O](subcore_03.075_band_continuity.md#constitutional-efficiency) · [M](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [A](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [C](subcore_03.075_band_continuity.md#constitutional-efficiency-c)
@@ -329,6 +336,7 @@ Where productive-capacity claims rest on metrics that no longer prove real outco
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) · [O](subcore_03.075_band_continuity.md#trustworthiness) · [M](subcore_03.075_band_continuity.md#trustworthiness-a) · [A](subcore_03.075_band_continuity.md#trustworthiness-a) · [C](subcore_03.075_band_continuity.md#trustworthiness-c)
+
 </details>
 
 <br>
@@ -394,6 +402,7 @@ Efficiency can drive broadly shared improvement, but only inside constitutional 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Self-Healing](subcore_03.075_band_continuity.md#self-healing) · [O](subcore_03.075_band_continuity.md#self-healing) · [M](subcore_03.075_band_continuity.md#self-healing-constitutional-a) · [A](subcore_03.075_band_continuity.md#self-healing-constitutional-a) · [C](subcore_03.075_band_continuity.md#self-healing-constitutional-c)
 - [Cascading Failure](subcore_03.075_band_continuity.md#cascading-failure) · [O](subcore_03.075_band_continuity.md#cascading-failure) · [M](subcore_03.075_band_continuity.md#cascading-failure-a) · [A](subcore_03.075_band_continuity.md#cascading-failure-a) · [C](subcore_03.075_band_continuity.md#cascading-failure-c)
 - [Reversibility](subcore_03.075_band_continuity.md#reversibility) · [O](subcore_03.075_band_continuity.md#reversibility) · [M](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](subcore_03.075_band_continuity.md#reversibility-constitutional-c)
@@ -407,6 +416,7 @@ Efficiency can drive broadly shared improvement, but only inside constitutional 
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [O](subcore_03.085_band_oversight.md#truth-constitutional-constraint-o) · [M](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [A](subcore_03.085_band_oversight.md#truth-constitutional-constraint-a) · [C](subcore_03.085_band_oversight.md#truth-constitutional-constraint-c)
+
 </details>
 
 <br>
@@ -450,6 +460,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Market Structure](subcore_03.070_band_accountability.md#market-structure) · [O](subcore_03.070_band_accountability.md#market-structure) · [M](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-structure-constitutional-c)
 - [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold) · [O](subcore_03.070_band_accountability.md#market-concentration-threshold) · [M](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-c)
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
@@ -471,6 +482,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [O](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [M](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
@@ -513,6 +525,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Market Structure](subcore_03.070_band_accountability.md#market-structure) · [O](subcore_03.070_band_accountability.md#market-structure) · [M](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-structure-constitutional-c)
 - [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold) · [O](subcore_03.070_band_accountability.md#market-concentration-threshold) · [M](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-c)
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
@@ -535,6 +548,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 - [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [O](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) · [M](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-m) · [A](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-a) · [C](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Harm](subcore_03.070_band_accountability.md#harm) · [O](subcore_03.070_band_accountability.md#harm) · [M](subcore_03.070_band_accountability.md#harm-a) · [A](subcore_03.070_band_accountability.md#harm-a) · [C](subcore_03.070_band_accountability.md#harm-c)
+
 </details>
 
 <br>
@@ -614,6 +628,7 @@ Operative threshold-setting discipline — requirement preservation, substance-o
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Market Structure](subcore_03.070_band_accountability.md#market-structure) · [O](subcore_03.070_band_accountability.md#market-structure) · [M](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-structure-constitutional-c)
 - [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold) · [O](subcore_03.070_band_accountability.md#market-concentration-threshold) · [M](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-c)
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
@@ -637,6 +652,7 @@ Operative threshold-setting discipline — requirement preservation, substance-o
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Necessity](subcore_03.070_band_accountability.md#necessity) · [O](subcore_03.070_band_accountability.md#necessity) · [M](subcore_03.070_band_accountability.md#necessity-a) · [A](subcore_03.070_band_accountability.md#necessity-a) · [C](subcore_03.070_band_accountability.md#necessity-c)
 - [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
+
 </details>
 
 <br>
@@ -771,6 +787,7 @@ Operative remedy selection follows **CJS-3.125 §11.2** (*Anti-domination conduc
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Market Structure](subcore_03.070_band_accountability.md#market-structure) · [O](subcore_03.070_band_accountability.md#market-structure) · [M](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-structure-constitutional-c)
 - [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold) · [O](subcore_03.070_band_accountability.md#market-concentration-threshold) · [M](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-c)
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
@@ -794,6 +811,7 @@ Operative remedy selection follows **CJS-3.125 §11.2** (*Anti-domination conduc
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
 - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions) · [O](subcore_03.075_band_continuity.md#environmental-preconditions) · [M](subcore_03.075_band_continuity.md#environmental-preconditions-constitutional-a) · [A](subcore_03.075_band_continuity.md#environmental-preconditions-constitutional-a) · [C](subcore_03.075_band_continuity.md#environmental-preconditions-constitutional-c)
 - [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
+
 </details>
 
 <br>
@@ -937,6 +955,7 @@ Operative ceiling-setting discipline — horizontal and vertical trigger design,
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Market Structure](subcore_03.070_band_accountability.md#market-structure) · [O](subcore_03.070_band_accountability.md#market-structure) · [M](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-structure-constitutional-c)
 - [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold) · [O](subcore_03.070_band_accountability.md#market-concentration-threshold) · [M](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-concentration-threshold-constitutional-c)
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
@@ -961,6 +980,7 @@ Operative ceiling-setting discipline — horizontal and vertical trigger design,
 - [Cross-System Extraction](subcore_03.075_band_continuity.md#cross-system-extraction) · [O](subcore_03.075_band_continuity.md#cross-system-extraction) · [M](subcore_03.075_band_continuity.md#cross-system-extraction-a) · [A](subcore_03.075_band_continuity.md#cross-system-extraction-a) · [C](subcore_03.075_band_continuity.md#cross-system-extraction-c)
 - [Proportionate Cross-System Support](subcore_03.075_band_continuity.md#proportionate-cross-system-support) · [O](subcore_03.075_band_continuity.md#proportionate-cross-system-support) · [M](subcore_03.075_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [A](subcore_03.075_band_continuity.md#proportionate-cross-system-support-constitutional-a) · [C](subcore_03.075_band_continuity.md#proportionate-cross-system-support-constitutional-c)
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
+
 </details>
 
 <br>
@@ -1011,6 +1031,7 @@ Crossing a threshold calls for heightened review and mitigation under [§11.1.1 
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) · [O](subcore_03.085_band_oversight.md#classification-scaled-governance) · [M](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [A](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [C](subcore_03.085_band_oversight.md#classification-scaled-governance-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
 - [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
@@ -1026,6 +1047,7 @@ Crossing a threshold calls for heightened review and mitigation under [§11.1.1 
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
+
 </details>
 
 <br>

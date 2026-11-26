@@ -1136,15 +1136,17 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
 
 <br>
 
-*In plain terms: coercion and manipulation are designs or conduct that bypass or warp informed voluntary choice — threats, dependency exploitation, deceptive structure, predatory choice architecture, or scaled algorithmic targeting of vulnerability. Ordinary persuasion and fair bargaining do not count.*
+*In plain terms: coercion and manipulation are designs or conduct that bypass or warp informed voluntary choice — threats, dependency exploitation, deceptive structure, gaslighting, predatory choice architecture, or scaled algorithmic targeting of vulnerability. Ordinary persuasion and fair bargaining do not count.*
 
 - **What it is**
   - **In scope:** Conduct or design that materially bypasses or subverts informed voluntary choice, or distorts decision-relevant understanding — for example:
     - threats;
     - undue exploitation of [Dependency](subcore_03.075_band_continuity.md#dependency);
     - deceptive structure;
+    - **Gaslighting:** dishonest behavior designed to damage trust or result in harm;
     - predatory choice architecture; or
     - scaled algorithmic exploitation of vulnerability.
+  - **Outcome routing:** Assess resulting material psychological injury under [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm), and effects on justified reliance under [Trust Degradation and Misleading Reliance](subcore_03.075_band_continuity.md#trust-degradation-and-misleading-reliance), where applicable.
   - **In scope:** In scope where it impairs [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency), [Freedom (Bounded Agency)](subcore_03.090_band_participation.md#freedom-bounded-agency), or [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint).
   - **Out of scope:** ordinary persuasion, fair bargaining, or disclosed incentives that do not impair real choice.
 <a id="coercion-and-manipulation-constitutional-a"></a>

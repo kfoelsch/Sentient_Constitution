@@ -100,6 +100,7 @@ Chapter Two, Part B, is the constitutional owner of **constitutional collision r
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -117,6 +118,7 @@ Chapter Two, Part B, is the constitutional owner of **constitutional collision r
 - [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
@@ -194,6 +196,7 @@ flowchart TB
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -215,6 +218,7 @@ flowchart TB
 - [Harm Minimization (Tradeoff Selection)](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection) · [O](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection) · [M](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection-c)
 - [Proportionality](subcore_03.070_band_accountability.md#proportionality) · [O](subcore_03.070_band_accountability.md#proportionality) · [M](subcore_03.070_band_accountability.md#proportionality-a) · [A](subcore_03.070_band_accountability.md#proportionality-a) · [C](subcore_03.070_band_accountability.md#proportionality-c)
 - [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
+
 </details>
 
 <br>
@@ -271,6 +275,7 @@ flowchart TB
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -295,6 +300,7 @@ flowchart TB
 - [Feasibility](subcore_03.070_band_accountability.md#feasibility) · [O](subcore_03.070_band_accountability.md#feasibility) · [M](subcore_03.070_band_accountability.md#feasibility-a) · [A](subcore_03.070_band_accountability.md#feasibility-a) · [C](subcore_03.070_band_accountability.md#feasibility-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
 - [Consent](subcore_03.090_band_participation.md#consent) · [O](subcore_03.090_band_participation.md#consent) · [M](subcore_03.090_band_participation.md#consent-constitutional-a) · [A](subcore_03.090_band_participation.md#consent-constitutional-a) · [C](subcore_03.090_band_participation.md#consent-constitutional-c)
+
 </details>
 
 <br>
@@ -328,6 +334,7 @@ Assertion that no alternative exists, without documented analysis, does not sati
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -352,6 +359,7 @@ Assertion that no alternative exists, without documented analysis, does not sati
 - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity) · [O](subcore_03.075_band_continuity.md#ecological-integrity) · [M](subcore_03.075_band_continuity.md#ecological-integrity-constitutional-a) · [A](subcore_03.075_band_continuity.md#ecological-integrity-constitutional-a) · [C](subcore_03.075_band_continuity.md#ecological-integrity-constitutional-c)
 - [Ecological Recovery Capacity](subcore_03.075_band_continuity.md#ecological-recovery-capacity) · [O](subcore_03.075_band_continuity.md#ecological-recovery-capacity) · [M](subcore_03.075_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [A](subcore_03.075_band_continuity.md#ecological-recovery-capacity-constitutional-a) · [C](subcore_03.075_band_continuity.md#ecological-recovery-capacity-constitutional-c)
 - [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm) · [O](subcore_03.070_band_accountability.md#irreversible-harm) · [M](subcore_03.070_band_accountability.md#irreversible-harm-a) · [A](subcore_03.070_band_accountability.md#irreversible-harm-a) · [C](subcore_03.070_band_accountability.md#irreversible-harm-c)
+
 </details>
 
 <br>
@@ -397,6 +405,7 @@ Harm minimization selects among options that already clear those floors — it d
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -425,6 +434,7 @@ Harm minimization selects among options that already clear those floors — it d
 - [Reversibility](subcore_03.075_band_continuity.md#reversibility) · [O](subcore_03.075_band_continuity.md#reversibility) · [M](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](subcore_03.075_band_continuity.md#reversibility-constitutional-c)
 - [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
+
 </details>
 
 <br>
@@ -457,6 +467,7 @@ Limitations on constitutional **values** — including **Chapter Four** Rights-F
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -482,6 +493,7 @@ Limitations on constitutional **values** — including **Chapter Four** Rights-F
 - [Dignity and Equal Moral Standing](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [O](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing) · [M](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [A](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-a) · [C](subcore_03.090_band_participation.md#dignity-and-equal-moral-standing-c)
 - [Cruelty](subcore_03.070_band_accountability.md#cruelty) · [O](subcore_03.070_band_accountability.md#cruelty) · [M](subcore_03.070_band_accountability.md#cruelty-a) · [A](subcore_03.070_band_accountability.md#cruelty-a) · [C](subcore_03.070_band_accountability.md#cruelty-c)
 - [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm) · [O](subcore_03.070_band_accountability.md#irreversible-harm) · [M](subcore_03.070_band_accountability.md#irreversible-harm-a) · [A](subcore_03.070_band_accountability.md#irreversible-harm-a) · [C](subcore_03.070_band_accountability.md#irreversible-harm-c)
+
 </details>
 
 <br>
@@ -527,6 +539,7 @@ The [Anti-Degrading-Process Principle (§3.3)](core_02.000_values_principles.md#
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -554,6 +567,7 @@ The [Anti-Degrading-Process Principle (§3.3)](core_02.000_values_principles.md#
 - [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
 - [Materially Binding Act](subcore_03.070_band_accountability.md#materially-binding-act) · [O](subcore_03.070_band_accountability.md#materially-binding-act) · [M](subcore_03.070_band_accountability.md#materially-binding-act-a) · [A](subcore_03.070_band_accountability.md#materially-binding-act-a) · [C](subcore_03.070_band_accountability.md#materially-binding-act-c)
 - [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution) · [O](subcore_03.070_band_accountability.md#timely-resolution) · [M](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [A](subcore_03.070_band_accountability.md#timely-resolution-constitutional-a) · [C](subcore_03.070_band_accountability.md#timely-resolution-constitutional-c)
+
 </details>
 
 <br>
@@ -620,6 +634,7 @@ Once the tradeoff stack is satisfied, [§13.3 Minimization of Avoidable Burden](
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -646,6 +661,7 @@ Once the tradeoff stack is satisfied, [§13.3 Minimization of Avoidable Burden](
 - [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
+
 </details>
 
 <br>
@@ -698,6 +714,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -725,6 +742,7 @@ Safety-sensitive limits on publication, data access, method disclosure, or repli
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
 - [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
+
 </details>
 
 <br>
@@ -752,6 +770,7 @@ All restrictions on disclosure must include provisions for **retrospective audit
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -778,6 +797,7 @@ All restrictions on disclosure must include provisions for **retrospective audit
 - [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
+
 </details>
 
 <br>
@@ -814,6 +834,7 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -849,6 +870,7 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 - [Expression](subcore_03.090_band_participation.md#expression) · [O](subcore_03.090_band_participation.md#expression) · [M](subcore_03.090_band_participation.md#expression-constitutional-a) · [A](subcore_03.090_band_participation.md#expression-constitutional-a) · [C](subcore_03.090_band_participation.md#expression-constitutional-c)
 - [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
+
 </details>
 
 <br>
@@ -894,6 +916,7 @@ Availability, observability, prior publication, platform possession, or technica
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -921,6 +944,7 @@ Availability, observability, prior publication, platform possession, or technica
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
 - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) · [O](subcore_03.085_band_oversight.md#proxy-divergence) · [M](subcore_03.085_band_oversight.md#proxy-divergence-a) · [A](subcore_03.085_band_oversight.md#proxy-divergence-a) · [C](subcore_03.085_band_oversight.md#proxy-divergence-c)
+
 </details>
 
 <br>
@@ -947,6 +971,7 @@ A correction counts only if it is on the official record:
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
 - [Participation](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [O](subcore_03.060_apex_participation_leg.md#participation-constitutional) · [M](subcore_03.060_apex_participation_leg.md#participation-constitutional-m) · [A](subcore_03.060_apex_participation_leg.md#participation-constitutional-a) · [C](subcore_03.060_apex_participation_leg.md#participation-constitutional-c)
 - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
@@ -973,6 +998,7 @@ A correction counts only if it is on the official record:
 - [Constitutional Efficiency](subcore_03.075_band_continuity.md#constitutional-efficiency) · [O](subcore_03.075_band_continuity.md#constitutional-efficiency) · [M](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [A](subcore_03.075_band_continuity.md#constitutional-efficiency-a) · [C](subcore_03.075_band_continuity.md#constitutional-efficiency-c)
 - [Contestability](subcore_03.070_band_accountability.md#contestability) · [O](subcore_03.070_band_accountability.md#contestability) · [M](subcore_03.070_band_accountability.md#contestability-a) · [A](subcore_03.070_band_accountability.md#contestability-a) · [C](subcore_03.070_band_accountability.md#contestability-c)
 - [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) · [O](subcore_03.090_band_participation.md#meaningful-agency) · [M](subcore_03.090_band_participation.md#meaningful-agency-a) · [A](subcore_03.090_band_participation.md#meaningful-agency-a) · [C](subcore_03.090_band_participation.md#meaningful-agency-c)
+
 </details>
 
 <br>
@@ -1023,6 +1049,7 @@ Where incentive structures act on stewards or operators, this section reinforces
 
 <details>
 <summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
+
 - [Materiality](subcore_03.085_band_oversight.md#materiality) · [O](subcore_03.085_band_oversight.md#materiality) · [M](subcore_03.085_band_oversight.md#materiality-determination-a) · [A](subcore_03.085_band_oversight.md#materiality-determination-a) · [C](subcore_03.085_band_oversight.md#materiality-determination-c)
 - [Harm Minimization (Tradeoff Selection)](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection) · [O](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection) · [M](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection-a) · [A](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection-a) · [C](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection-c)
 - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) · [O](subcore_03.085_band_oversight.md#proxy-divergence) · [M](subcore_03.085_band_oversight.md#proxy-divergence-a) · [A](subcore_03.085_band_oversight.md#proxy-divergence-a) · [C](subcore_03.085_band_oversight.md#proxy-divergence-c)
@@ -1039,6 +1066,7 @@ Where incentive structures act on stewards or operators, this section reinforces
 - [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
 - [Trust](subcore_03.075_band_continuity.md#trust) · [O](subcore_03.075_band_continuity.md#trust) · [M](subcore_03.075_band_continuity.md#trust-a) · [A](subcore_03.075_band_continuity.md#trust-a) · [C](subcore_03.075_band_continuity.md#trust-c)
 - [Wellbeing](subcore_03.075_band_continuity.md#wellbeing) · [O](subcore_03.075_band_continuity.md#wellbeing) · [M](subcore_03.075_band_continuity.md#wellbeing-a) · [A](subcore_03.075_band_continuity.md#wellbeing-a) · [C](subcore_03.075_band_continuity.md#wellbeing-c)
+
 </details>
 
 <br>
