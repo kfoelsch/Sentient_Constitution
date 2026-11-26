@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-26T16:40:48+00:00",
+  "generated_at": "2026-11-26T17:50:20+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -152,26 +152,26 @@
       ]
     },
     "core_02.040_stewardship_capacity_principles.md": {
-      "total_lines": 1339,
+      "total_lines": 1348,
       "sections": [
-        {"header":"CHAPTER 02, PART E: STEWARDSHIP AND THE STEWARD ROLE","level":1,"line_start":1,"line_end":1339,"anchor":null},
-        {"header":"16. Stewardship in Depth","level":3,"line_start":34,"line_end":661,"anchor":"#16-stewardship-in-depth"},
+        {"header":"CHAPTER 02, PART E: STEWARDSHIP AND THE STEWARD ROLE","level":1,"line_start":1,"line_end":1348,"anchor":null},
+        {"header":"16. Stewardship in Depth","level":3,"line_start":34,"line_end":662,"anchor":"#16-stewardship-in-depth"},
         {"header":"16.1 Distributed Understanding","level":4,"line_start":204,"line_end":278,"anchor":"#161-distributed-understanding"},
         {"header":"16.2 Institutional Development","level":4,"line_start":279,"line_end":360,"anchor":"#162-institutional-development"},
-        {"header":"16.3 Openness Aspiration","level":4,"line_start":361,"line_end":430,"anchor":"#163-openness-aspiration"},
-        {"header":"16.4 Document at Action","level":4,"line_start":431,"line_end":513,"anchor":"#164-document-at-action"},
-        {"header":"16.5 Automation","level":4,"line_start":514,"line_end":615,"anchor":"#165-automation"},
-        {"header":"16.5.1 Parallelization","level":5,"line_start":568,"line_end":590,"anchor":"#1651-parallelization"},
-        {"header":"16.5.2 Design for Parallelization","level":5,"line_start":591,"line_end":615,"anchor":"#1652-design-for-parallelization"},
-        {"header":"16.6 Default Window","level":4,"line_start":616,"line_end":661,"anchor":"#166-default-window"},
-        {"header":"17. Consequential Stewardship: The Steward Role","level":3,"line_start":662,"line_end":1339,"anchor":"#17-consequential-stewardship-the-steward-role"},
-        {"header":"17.1 Shared Stewardship Standard","level":4,"line_start":768,"line_end":843,"anchor":"#171-shared-stewardship-standard"},
-        {"header":"17.2 Alignment under Pressure","level":4,"line_start":844,"line_end":911,"anchor":"#172-alignment-under-pressure"},
-        {"header":"17.3 Logging the Role, Not the Steward","level":4,"line_start":912,"line_end":983,"anchor":"#173-role-scoped-observability"},
-        {"header":"17.4 Aligned Self-Organization","level":4,"line_start":984,"line_end":1110,"anchor":"#174-aligned-self-organization"},
-        {"header":"17.5 Duty to Resist","level":4,"line_start":1111,"line_end":1202,"anchor":"#175-duty-to-resist"},
-        {"header":"17.6 Portable Competence","level":4,"line_start":1203,"line_end":1282,"anchor":"#176-portable-competence"},
-        {"header":"17.7 Duty to Represent Stakeholder Interests","level":4,"line_start":1283,"line_end":1339,"anchor":null}
+        {"header":"16.3 Openness Aspiration","level":4,"line_start":361,"line_end":431,"anchor":"#163-openness-aspiration"},
+        {"header":"16.4 Document at Action","level":4,"line_start":432,"line_end":514,"anchor":"#164-document-at-action"},
+        {"header":"16.5 Automation","level":4,"line_start":515,"line_end":616,"anchor":"#165-automation"},
+        {"header":"16.5.1 Parallelization","level":5,"line_start":569,"line_end":591,"anchor":"#1651-parallelization"},
+        {"header":"16.5.2 Design for Parallelization","level":5,"line_start":592,"line_end":616,"anchor":"#1652-design-for-parallelization"},
+        {"header":"16.6 Default Window","level":4,"line_start":617,"line_end":662,"anchor":"#166-default-window"},
+        {"header":"17. Consequential Stewardship: The Steward Role","level":3,"line_start":663,"line_end":1348,"anchor":"#17-consequential-stewardship-the-steward-role"},
+        {"header":"17.1 Shared Stewardship Standard","level":4,"line_start":773,"line_end":848,"anchor":"#171-shared-stewardship-standard"},
+        {"header":"17.2 Alignment under Pressure","level":4,"line_start":849,"line_end":916,"anchor":"#172-alignment-under-pressure"},
+        {"header":"17.3 Logging the Role, Not the Steward","level":4,"line_start":917,"line_end":988,"anchor":"#173-role-scoped-observability"},
+        {"header":"17.4 Aligned Self-Organization","level":4,"line_start":989,"line_end":1119,"anchor":"#174-aligned-self-organization"},
+        {"header":"17.5 Duty to Resist","level":4,"line_start":1120,"line_end":1211,"anchor":"#175-duty-to-resist"},
+        {"header":"17.6 Portable Competence","level":4,"line_start":1212,"line_end":1291,"anchor":"#176-portable-competence"},
+        {"header":"17.7 Duty to Represent Stakeholder Interests","level":4,"line_start":1292,"line_end":1348,"anchor":null}
       ]
     },
     "core_02.050_governance_incentive_application.md": {

@@ -420,6 +420,7 @@ The openness aspiration links the two facets of **Pillar 3**. The full definitio
 - Shared systems should **aspire** — consistent with [§16.1 Distributed Understanding](#161-distributed-understanding) and [§16.2 Institutional Development](#162-institutional-development), and with [§17 Consequential Stewardship](#17-consequential-stewardship-the-steward-role)'s own auditability duty, subject to the [§16 limits](#16-limits) — to:
   - **open** hardware and software
   - **open** operational and governance processes
+  - availability of non-confidential **data** consistent with the applicable types and access rules in [Subcore 4-A: Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types)
   - interoperable **systems** that support inspection, independent verification, repair, and contestability
 - **Under:** the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) **participation** and **oversight** legs and the **Continuity** aim under the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), rather than opaque lock-in by default.
 - **Presentation:** Where **Chapter Three** and **Chapter Four** assign duties, materially relevant behavior should be presented in **sentient-understandable** forms that enable [Meaningful Agency](subcore_03.090_band_participation.md#meaningful-agency) and contestability, read with [Article XXIV: Comprehensibility and Complexity Stewardship](core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
@@ -644,7 +645,7 @@ This principle does not:
   - Where a rule of this Constitution or of adopted implementation requires a step, answer, notice, copy, or delivery and states no window for it, the step is not open-ended.
   - Indefinite deferral of a required step is an [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) defect and works against the [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional) leg.
 - **What the default is:**
-  - For a step that is not directly about a System or an Institution, it is the Tier C window in [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline): begin or answer within the Tier C intake target, and finish within the Tier C outer bound.
+  - For a step that is not directly about a System or an Institution, it is the Tier C window in [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline): begin or answer within the Tier C intake target of **4 calendar days**, and finish within the Tier C outer bound of **30 calendar days**.
   - A step directly about a System or an Institution takes the window of its own class.
 - **What overrides it:** A narrower window set by a Rights Floor, or by the rule that creates the step, controls. A rule-maker who can name a better window for a step states it, and the default is the fallback.
 - **What it is not:**
@@ -746,8 +747,12 @@ flowchart TB
 ```
 
 **Reading the chart:**
-- **Stewardship discipline and the steward role both feed governance:** [§16 Stewardship in Depth](#16-stewardship-in-depth) supplies the stewardship discipline, and [§17 Consequential Stewardship: The Steward Role](#17-consequential-stewardship-the-steward-role) supplies the steward role, meaning the sentients and AI systems that actually do the work. [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) sets the authorized structures that work happens inside: who may decide what, separation of duties, ongoing justification, modular architecture, and standardization.
-- **Governance structures are kept aligned by incentive alignment:** [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) keeps rewards, proxies, and ownership changes from pulling those structures, and the stewards inside them, away from constitutional outcomes. It also carries detection, correction, and capture response, and [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) applies the rule to stewards and operators directly.
+- **Stewardship discipline and the steward role both feed governance:**
+  - [§16 Stewardship in Depth](#16-stewardship-in-depth) supplies the stewardship discipline, and [§17 Consequential Stewardship: The Steward Role](#17-consequential-stewardship-the-steward-role) supplies the steward role, meaning the sentients and AI systems that actually do the work.
+  - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) sets the authorized structures that work happens inside: who may decide what, separation of duties, ongoing justification, modular architecture, and standardization.
+- **Governance structures are kept aligned by incentive alignment:**
+  - [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture) keeps rewards, proxies, and ownership changes from pulling those structures, and the stewards inside them, away from constitutional outcomes.
+  - It also carries detection, correction, and capture response, and [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application) applies the rule to stewards and operators directly.
 - **Incentive alignment serves the aims and the Tetrad:** the **Flourishing** and **Continuity** aims, and the **participation**, **oversight**, **accountability**, and **timeliness** legs of the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), scaled to [material stake](core_00.000_preamble.md#material-stake).
 
 The rest of this section covers the role itself.
@@ -830,10 +835,10 @@ This subsection sets out the shared stewardship standard:
 - **Who it binds:** Stewardship and governance duties under this chapter apply [substrate-agnostically](subcore_03.090_band_participation.md#substrate-class) to whoever exercises material stewardship or operational authority, without regard to [Substrate Class](subcore_03.090_band_participation.md#substrate-class):
   - human stewards
   - AI stewards
-  - other agents, operators, or constituent components
+  - other sentients
 
   This subsection is the duty-holder rule. [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) remains the recognition and Rights-Floor anti-carve-out.
-- **Duty to resist:** [§17.5 Duty to Resist](#175-duty-to-resist) binds both kinds of steward to refuse unlawful or unconstitutional instructions.
+- **Duty to resist:** [§17.5 Duty to Resist](#175-duty-to-resist) binds all stewards to refuse unlawful or unconstitutional instructions.
 - **Internal codes and adopted implementation text:**
   - may add logging, attribution, and capability limits that satisfy, and do not narrow, those duties
   - may not replace [Subcore 10-B — standing measurement](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened), contest pathways, or Chapter Two duties with a softer internal code
@@ -1073,7 +1078,11 @@ The burden this duty places on a steward who carries consequential authority is 
 - **It may trigger:** inquiry, evidence preservation, interim protection, referral, certification challenge, reopening, a forum claim, or the opening, correction, or contest of a Standing Record, each under the applicable owner layer:
   - **Forum claim:** a self-organized group may file the claims the owner layer opens to it, such as a [capacity-failure claim](core_16.000_forum.md#65-capacity-failure-is-heard-outside-the-starved-body).
   - **Forum case record:** it opens when the matter is filed, and by itself changes no one's standing ([Chapter Sixteen §5 Forum Cases: Intakes, Seats, Records, and Contests](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests)).
-  - **Standing Record:** the work may support a contribution record, which [Chapter Eleven §3 Contribution Consequences](core_11.000_contribution_consequences.md#3-contribution-consequences) requires to be available on equal standards to informal, unpaid, peer-organized, and community-stewardship work. It may also support a violation record for wrongdoing the work turned up, under the caution below. Either opens only on a verified trigger, through a named record-opening authority ([Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority)). A submission can ask for one but cannot supply its own verification, and [silence remains the default](subcore_10.020_standing_assessment.md#42-silence-is-the-default).
+  - **Standing Record:**
+    - The work may support a contribution record, which [Chapter Eleven §3 Contribution Consequences](core_11.000_contribution_consequences.md#3-contribution-consequences) requires to be available on equal standards to informal, unpaid, peer-organized, and community-stewardship work.
+    - It may also support a violation record for wrongdoing the work turned up, under the caution below.
+    - Either opens only on a verified trigger, through a named record-opening authority ([Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority)).
+    - A submission can ask for one but cannot supply its own verification, and [Subcore 10-B §4.2 Silence Is the Default](subcore_10.020_standing_assessment.md#42-silence-is-the-default) continues to apply.
   - **Contest or correction:** the work may show that an existing Standing Record is wrong, incomplete, stale, or mis-scoped. An affected subject may ask a forum with jurisdiction to review it, and a verified defect leads to correction, expiry, or set-aside ([Chapter Sixteen §5 Forum Cases: Intakes, Seats, Records, and Contests](core_16.000_forum.md#5-forum-cases-intakes-seats-records-and-contests); [Subcore 10-B §4.7 Forum Boundary](subcore_10.020_standing_assessment.md#47-forum-boundary)).
 - **Must not substitute:** Who the author is, who they are affiliated with, where the submission came from, or the fact that they hold no conventional credentials must not be used in place of evaluating the work itself — its method, its evidence, its provenance, how uncertain it is, and its constitutional relevance.
 
