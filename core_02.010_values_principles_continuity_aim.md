@@ -828,7 +828,7 @@ Adopters and governing systems must detect consolidation pile-ups of the followi
 - **Vertical consolidation** (*cross-layer dependency and chokepoint control*). Consolidation that links control across layers of a value chain, platform stack, or dependency chain — for example input or interface capture, capital-access gatekeeping, interoperability or portability suppression, self-preferencing, or ranking control that raises switching costs and defeats exit.
 - **Cross-domain and federated structures** (*forms that keep the same pile-up of control*). Arrangements across domains, platforms, shells, successors, or federated forms that preserve effective consolidation while clearing nominal horizontal or vertical tests.
 
-Any of these patterns may involve dependency density, switching costs, lock-in, substitute foreclosure, or ecological burden concentration or control over environmental preconditions where materially relevant.
+Where materially relevant, any of these patterns may involve many or closely connected dependencies, the cost of switching, lock-in, blocked alternatives, concentrated ecological burdens, or control over the environmental conditions others depend on.
 
 They must detect these early, while the following can still restore contestability:
 - review;
