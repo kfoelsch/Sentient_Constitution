@@ -555,7 +555,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 <br>
 
-*In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Twenty judges that — and only after Subcore 10-D has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
+*In plain terms: this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Fourteen judges that — and only after Subcore 10-D has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](#1111-concentration-threshold-triggers-adopter-tunable).*
 
 **Constitutional requirements:**
 
@@ -581,13 +581,7 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 - **Does:** state principle-layer threshold direction for the [§11 Market Structure](#11-market-structure) requirements.
 - **Does not:** decide how serious the verified harm was, or issue a misconduct designation.
-- **When concentration is used to undermine this Constitution:** that misconduct is judged under [Subcore 14-A §7.1 Concentration-based subversion](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction).
-- **Creating, maintaining, or exploiting concentration that violates the requirements:** this can go to Chapter Twenty for misconduct designation review, but only in two steps:
-  - First, [Subcore 10-D §3 Question 2 — How Good or Bad Was It?](subcore_10.040_standing_measurement.md#3-question-2--how-good-or-bad-was-it) must already have scored the verified harm among the three most serious levels.
-  - Then Chapter Twenty checks whether the concentration meets:
-    - criterion 3 (*Material rollback effect*: a workaround that rolls back protections);
-    - criterion 4 (*Causally significant conduct*: damage to Rights Floor protections or blocked challenges); or
-    - criterion 6 (*Operative nullification*: constitutional process made unusable in practice).
+- **Concentration and misconduct review:** Creating, maintaining, or exploiting concentration that violates the requirements can be reviewed for misconduct designation under [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation). [Subcore 14-A §7.1 Concentration-based subversion](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) explains how the criteria apply to concentration.
 
 <a id="1111-concentration-threshold-triggers-adopter-tunable"></a>
 ##### 11.1.1 Concentration Threshold Triggers (Adopter-Tunable)

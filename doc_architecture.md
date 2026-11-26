@@ -1497,4 +1497,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand and seventy-ninth move (list the concentration misconduct review steps; 2026-11-26; layout only; uncommitted).** Decision (custodian, asked in session): present the two misconduct review steps and their criteria as sub-bullets in [Chapter 2.010 §11.1](core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable). Effect on rules: none; the sequence, criteria, and review conditions are unchanged.
 
+**One thousand and eightieth move (route concentration misconduct review to its owner; 2026-11-26; reference repair and wording; uncommitted).** Decision (custodian, asked in session): replace the repeated misconduct review steps in [Chapter 2.010 §11.1](core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable) with links to Chapter Fourteen and Subcore 14-A §7.1, and correct the stale Chapter Twenty reference in the plain-language introduction. Effect on rules: none; the designation conditions remain in their owning provisions.
+
 **Next file:** [README.md](README.md)
