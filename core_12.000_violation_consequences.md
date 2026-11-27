@@ -209,12 +209,13 @@ A **standing lock** is a prevention and risk-reduction measure. It blocks or lim
 - **governance-voting** pathways;
 - **stakeholder-participation** pathways;
 - care and stewardship pathways, as [§4.5.7 Care and Stewardship Lock](#457-care-and-stewardship-lock) sets them out;
-- financial-authority pathways, as [§4.5.8 Financial Authority Standing Lock](#458-financial-authority-standing-lock) sets them out; and
-- creation, reach, scale, and capability pathways, as [§4.4.7 Capacity Locks](#447-capacity-locks) sets them out.
+- financial-authority pathways, as [§4.5.8 Financial Authority Standing Lock](#458-financial-authority-standing-lock) sets them out;
+- creation, reach, scale, and capability pathways, as [§4.4.7 Capacity Locks](#447-capacity-locks) sets them out; and
+- expression-conduct pathways, as [§4.4.8 Expression Locks](#448-expression-locks) sets them out.
 
-A standing lock must carry the attachment fields set out in [§4.1 Definition and Attachment](#41-definition-and-attachment). A lock on an influence pathway takes one of two forms, set out in [§4.4.6 Influence-Pathway Locks](#446-influence-pathway-locks). A lock on a capacity the sentient misused takes one of four forms, set out in [§4.4.7 Capacity Locks](#447-capacity-locks).
+A standing lock must carry the attachment fields set out in [§4.1 Definition and Attachment](#41-definition-and-attachment). A lock on an influence pathway takes one of two forms, set out in [§4.4.6 Influence-Pathway Locks](#446-influence-pathway-locks). A lock on a capacity the sentient misused takes one of four forms, set out in [§4.4.7 Capacity Locks](#447-capacity-locks). A lock on expression conduct the sentient used to cause harm is set out in [§4.4.8 Expression Locks](#448-expression-locks).
 
-Detention, imprisonment, and other liberty restrictions are not standing locks. They are separate justice measures governed by the coercive or liberty-restricting safeguards in [§4.4.5 Coercive or Liberty-Restricting Safeguards](#445-coercive-or-liberty-restricting-safeguards). They are recorded with the same attachment fields as a lock and must meet the same needed, proportionate, and reviewable tests, plus full criminal-process or equivalent protections and explicit duration limits, review cadence, and restoration conditions.
+Detention, imprisonment, and other liberty restrictions are not standing locks ([Chapter Four §2.3 Locks and Liberty Restrictions](core_04.000_rights_part_a.md#23-locks-and-liberty-restrictions)). They are separate justice measures governed by the coercive or liberty-restricting safeguards in [§4.4.5 Coercive or Liberty-Restricting Safeguards](#445-coercive-or-liberty-restricting-safeguards). They are recorded with the same attachment fields as a lock and must meet the same needed, proportionate, and reviewable tests, plus full criminal-process or equivalent protections and explicit duration limits, review cadence, and restoration conditions.
 
 <a id="322-governance-voting-and-stakeholder-participation-pathways"></a>
 ##### 3.2.2 Governance-Voting and Stakeholder-Participation Pathways
@@ -473,16 +474,16 @@ Two attachment qualifiers apply whenever the lock's purpose includes risk reduct
 <a id="414-what-a-lock-does-not-itself-restrict"></a>
 ##### 4.1.4 What a Lock Does Not Itself Restrict
 
-*In plain terms: a lock never cuts off speech, the Rights-Floor minimums (survival-critical access among them), or ordinary wages. It can still close the gated pathways tied to the risk.*
+*In plain terms: a lock never cuts off speech in general, the Rights-Floor minimums (survival-critical access among them), or ordinary wages. It can still close the gated pathways tied to the risk.*
 
 A standing lock does not by itself cut off:
 
-- ordinary speech, petition, testimony, defense, or whistleblowing;
+- ordinary speech, petition, testimony, defense, or whistleblowing. An expression lock under [§4.4.8 Expression Locks](#448-expression-locks) closes only the verified expression conduct it names;
 - participation as an affected party;
 - the Rights-Floor minimums that standing never reduces: inherent dignity, equal moral standing, survival-critical access, and the required challenge, review, appeal, and remedy pathways ([Subcore 10-F §3.6 The Rights Floor Is Not Reduced](subcore_10.060_standing_integration.md#36-the-rights-floor-is-not-reduced)); or
 - the right to receive regular wages for work that is not part of the verified violation gated pathway.
 
-A gated pathway is not itself a Rights-Floor minimum. Where Chapter Four sets conditions on a gated pathway, such as the governance vote under [**Article X-B**](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*), a lock may close it only on those conditions.
+A gated pathway is not itself a Rights-Floor minimum ([Chapter Four §2.3 Locks and Liberty Restrictions](core_04.000_rights_part_a.md#23-locks-and-liberty-restrictions)). Where Chapter Four sets conditions on a gated pathway, such as the governance vote under [**Article X-B**](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*), a lock may close it only on those conditions.
 
 A lock may still close any gated pathway listed in [§3.2.1 What a Standing Lock Is](#321-what-a-standing-lock-is) that is tied to the verified risk, including **governance-voting** and **stakeholder-participation**. It may not use those gated pathway limits as a back door to extinguish the protections above.
 
@@ -576,15 +577,16 @@ The integration record must say, in plain view, for each lock—including each s
 
 These rules shape how a lock or safeguard is attached under [§4.1 Definition and Attachment](#41-definition-and-attachment). Where a rule leads to a gated pathway limit or liberty restriction, the integration record must still name the gated pathway, risk, protected interests, corrective conditions, review route, and reassessment point.
 
-This subsection has seven parts:
+This subsection has eight parts:
 
 - [§4.4.1 Negligence and Neglect](#441-negligence-and-neglect);
 - [§4.4.2 Misaligned Rewards](#442-misaligned-rewards);
 - [§4.4.3 Duty to Resist](#443-duty-to-resist);
 - [§4.4.4 Collective Accountability](#444-collective-accountability);
 - [§4.4.5 Coercive or Liberty-Restricting Safeguards](#445-coercive-or-liberty-restricting-safeguards);
-- [§4.4.6 Influence-Pathway Locks](#446-influence-pathway-locks); and
-- [§4.4.7 Capacity Locks](#447-capacity-locks).
+- [§4.4.6 Influence-Pathway Locks](#446-influence-pathway-locks);
+- [§4.4.7 Capacity Locks](#447-capacity-locks); and
+- [§4.4.8 Expression Locks](#448-expression-locks).
 
 <a id="441-negligence-and-neglect"></a>
 ##### 4.4.1 Negligence and Neglect
@@ -817,6 +819,39 @@ The four locks fill the gated-pathway and risk fields as follows:
   - **Risk:** the sentient regaining the means of the same harm.
   - **Limits:** this lock does not remove or alter a capability the sentient already holds in body or mind. It does not reach healthcare, repair, maintenance, or accessibility under **Article III-B** (*Bodily-Maintenance and Healthcare Access*) and **Article VI-D** (*Accessibility*), or learning and education under **Article IV** (*Right to Sentient-Centered Education*).
   - **For example:** a weapons prohibition; a revoked practice licence; a bar on acquiring a named class of tools or a named augmentation.
+
+<a id="448-expression-locks"></a>
+##### 4.4.8 Expression Locks
+
+*In plain terms: when a sentient's own speech was the means of a verified violation, such as bullying, harassment, abuse, gaslighting, threats, fraud, or a call to violence, a lock can bar the sentient from repeating that conduct. It never bans a point of view or a topic, and it never reaches dissent, criticism, testimony, or whistleblowing.*
+
+An expression lock closes expression conduct that a sentient used to carry out a verified violation. Speech that is the means of harm is judged as conduct under [Article XI-B](core_04.010_rights_part_b.md#article-xi-b-expression) (*Expression*), and this lock is how that conduct is kept from recurring.
+
+This rule fills the attachment fields as follows:
+
+- **Gated pathway:** repeating the verified expression conduct, named on the integration record by what it states, calls for, or does, and by its target where the target defines it. For example:
+  - bullying, harassment, or abuse of named sentients, including through others or through new channels;
+  - gaslighting of named sentients: dishonest statements meant to make them doubt their own memory, perception, or judgment, or to damage their trust;
+  - threats or calls for force against named sentients, bodies, or places;
+  - a named false claim the sentient knowingly spread to defraud, to falsify a custody or verification record, or to flood the info-sphere.
+- **Finding:** a verified violation finding in which the sentient's own expression was the means of the harm, under [Harassment and Bullying](subcore_03.070_band_accountability.md#harassment-and-bullying), [Cruelty](subcore_03.070_band_accountability.md#cruelty), [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation) (gaslighting among its forms), [Psychological Harm](subcore_03.070_band_accountability.md#psychological-harm), or another Chapter Three definition the violation rests on. Expression that is only offensive, disturbing, critical, unpopular, or [hard content](subcore_03.090_band_participation.md#hard-content) is never a finding.
+- **Choosing the form:**
+  - The lock is a limit based on what is said, so it must pass [highest scrutiny](subcore_03.085_band_oversight.md#highest-scrutiny) under **Article XI-B** (*Expression*). The verified violation finding is the evidence that review needs.
+  - It is drawn as narrowly as the conduct allows: a no-contact bar toward the sentients harmed comes before any limit on what the sentient may say to others.
+  - Where an influence-pathway lock or a reach or scale lock ([§4.4.6 Influence-Pathway Locks](#446-influence-pathway-locks); [§4.4.7 Capacity Locks](#447-capacity-locks)) can contain the risk, that lock is used instead ([§4.2 Proportionality and Calibration](#42-proportionality-and-calibration)).
+- **Risk:** the same harm recurring through the same expression conduct, including through an intermediary, affiliate, account, or system acting for the sentient. Those routes are closed with the sentient's own ([§5.4 Anti-Evasion and Look-through Authority](core_13.000_final_effect_restoration_enforcement.md#54-anti-evasion-and-look-through-authority)).
+- **Protected subjects or interests:** the sentients harmed, the sentients, bodies, or places the conduct targeted, and, for a false claim, the custody or verification record or the info-sphere it corrupted.
+- **Does not by itself restrict:**
+  - expression on the same topic or from the same point of view that is not the named conduct;
+  - criticism of any sentient or institution, dissent, advocacy for changing authority or the Constitution by lawful means, peaceful protest, and press activity ([Chapter Fourteen §5.5 Dissent and Peaceful Protest Carve-Out](core_14.000_misconduct_designation.md#55-dissent-and-peaceful-protest-carve-out));
+  - the protections in [§4.1.4 What a Lock Does Not Itself Restrict](#414-what-a-lock-does-not-itself-restrict), including petition, testimony, defense, whistleblowing, and the sentient's own challenge to the lock.
+- **Enforcement:**
+  - No prior review, licensing, or general monitoring of the sentient's expression. Acting against the lock is found after the fact, on the Forum Case Record, and is a new violation for the Standing Record.
+  - The item that acts against the lock may be taken down or its spread stopped. Nothing else the sentient says is removed with it.
+  - The lock never compels the sentient to say anything.
+- **Corrective conditions and reassessment:** as [§4.1 Definition and Attachment](#41-definition-and-attachment), [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*), and [§4 Restoration and Reassessment](core_13.000_final_effect_restoration_enforcement.md#4-restoration-and-reassessment) require: explicit duration limits, a review schedule, and conditions for lifting. The lock narrows as the risk falls.
+- **Anti-constitutional misconduct:** where the verified conduct is also anti-constitutional misconduct, [Chapter Fourteen §7.2](core_14.000_misconduct_designation.md#72-prevention--anti-constitutional-locks) (*Prevention — Anti-Constitutional Locks*) applies alongside this lock.
+- **Not a special lock:** this is an ordinary lock chosen under [§4.2 Proportionality and Calibration](#42-proportionality-and-calibration). It is not a mandatory special lock under [§4.5 Special Locks](#45-special-locks).
 
 <a id="45-special-locks"></a>
 #### 4.5 Special Locks

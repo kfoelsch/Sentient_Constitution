@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.11.25` · effective **2026-11-25**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_24.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **471** of **738** headings carry a gloss (64%).
+Coverage: **473** of **743** headings carry a gloss (64%).
 
 ## Contents
 
@@ -19,7 +19,7 @@ Coverage: **471** of **738** headings carry a gloss (64%).
 - [CHAPTER 02, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-02-part-e-stewardship-and-the-steward-role) — `core_02.040_stewardship_capacity_principles.md` (17/18 glossed)
 - [CHAPTER 02, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-02-part-f-governance-incentive-alignment-and-integrated-application) — `core_02.050_governance_incentive_application.md` (20/27 glossed)
 - [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (18/23 glossed)
-- [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.000_rights_part_a.md` (28/32 glossed)
+- [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.000_rights_part_a.md` (29/36 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.010_rights_part_b.md` (46/47 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.020_rights_part_c.md` (33/34 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.030_rights_part_d.md` (31/32 glossed)
@@ -31,7 +31,7 @@ Coverage: **471** of **738** headings carry a gloss (64%).
 - [CHAPTER NINE: INSTITUTIONAL ALIGNMENT CERTIFICATION](#chapter-nine-institutional-alignment-certification) — `core_09.000_institutional_alignment_certification_evaluation.md` (0/6 glossed)
 - [CHAPTER TEN: STANDING ASSESSMENT](#chapter-ten-standing-assessment) — `core_10.000_standing_assessment.md` (0/6 glossed)
 - [CHAPTER ELEVEN: CONTRIBUTION CONSEQUENCES](#chapter-eleven-contribution-consequences) — `core_11.000_contribution_consequences.md` (5/6 glossed)
-- [CHAPTER TWELVE: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-twelve-violation-consequences--remedy-correction-and-locks) — `core_12.000_violation_consequences.md` (41/49 glossed)
+- [CHAPTER TWELVE: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS](#chapter-twelve-violation-consequences--remedy-correction-and-locks) — `core_12.000_violation_consequences.md` (42/50 glossed)
 - [CHAPTER THIRTEEN: FINAL STANDING EFFECT, RESTORATION, AND ENFORCEMENT](#chapter-thirteen-final-standing-effect-restoration-and-enforcement) — `core_13.000_final_effect_restoration_enforcement.md` (12/18 glossed)
 - [CHAPTER FOURTEEN: ANTI-CONSTITUTIONAL MISCONDUCT DESIGNATION](#chapter-fourteen-anti-constitutional-misconduct-designation) — `core_14.000_misconduct_designation.md` (10/18 glossed)
 - [CHAPTER SIXTEEN: STANDARDS, ROUTING, AND FORUM CASES](#chapter-sixteen-standards-routing-and-forum-cases) — `core_16.000_forum.md` (6/34 glossed)
@@ -1145,7 +1145,7 @@ when a binding stakeholder choice turns on a material conflict among rights or s
 
 ## CHAPTER FOUR: FOUNDATIONAL RIGHTS
 
-Source file: [`core_04.000_rights_part_a.md`](../../core_04.000_rights_part_a.md) · 28/32 headings glossed
+Source file: [`core_04.000_rights_part_a.md`](../../core_04.000_rights_part_a.md) · 29/36 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -1165,11 +1165,35 @@ Chapter Four states the basic Rights Floors no sentient may be pushed below. Tho
 
 [Source](../../core_04.000_rights_part_a.md#21-practical-enforcement)
 
+###### 2.1.1 Essentials in Practice
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_04.000_rights_part_a.md#211-essentials-in-practice)
+
+###### 2.1.2 Enforcement Checks
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_04.000_rights_part_a.md#212-enforcement-checks)
+
+###### 2.1.3 Interpretive Hubs
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_04.000_rights_part_a.md#213-interpretive-hubs)
+
 ##### 2.2 Owner Non-Relocation
 
 Chapter Four states what sentients are entitled to at the Rights-Floor level. Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters — this chapter may point there but must not restate them. Which chapter owns what: see the [Chapter One — constitutional owner register](../../core_01.000_constitutional_map.md#6-principles-definitions-and-rights). Rules that keep duties from being moved to the wrong place: [Authority Stack and Internal Hierarchy](../../subcore_03.080_band_integrative.md#owner-non-relocation).
 
 [Source](../../core_04.000_rights_part_a.md#22-owner-non-relocation)
+
+##### 2.3 Locks and Liberty Restrictions
+
+a verified violation can lead to a lock that closes a specific gated pathway tied to the risk, such as serving on a forum or holding authority. Detention, imprisonment, and other liberty restrictions go further, so they must clear a higher bar. Neither can ever push a sentient below the Rights Floor.
+
+[Source](../../core_04.000_rights_part_a.md#23-locks-and-liberty-restrictions)
 
 #### Part A: Planetary Preconditions, Material Stewardship, Survival, Equal Educational Access, and Shared Resources
 
@@ -2771,7 +2795,7 @@ a competency bar is the published standard for a gated pathway. Competency clear
 
 ## CHAPTER TWELVE: VIOLATION CONSEQUENCES — REMEDY, CORRECTION, AND LOCKS
 
-Source file: [`core_12.000_violation_consequences.md`](../../core_12.000_violation_consequences.md) · 41/49 headings glossed
+Source file: [`core_12.000_violation_consequences.md`](../../core_12.000_violation_consequences.md) · 42/50 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
@@ -2925,7 +2949,7 @@ when a lock is meant to reduce risk, doubt about whether the harm will recur cou
 
 ###### 4.1.4 What a Lock Does Not Itself Restrict
 
-a lock never cuts off speech, the Rights-Floor minimums (survival-critical access among them), or ordinary wages. It can still close the gated pathways tied to the risk.
+a lock never cuts off speech in general, the Rights-Floor minimums (survival-critical access among them), or ordinary wages. It can still close the gated pathways tied to the risk.
 
 [Source](../../core_12.000_violation_consequences.md#414-what-a-lock-does-not-itself-restrict)
 
@@ -3000,6 +3024,12 @@ an influence-pathway lock closes the routes used to shape a decision, either to 
 when a sentient commits a violation by misusing a particular power, a lock can close that power: making new sentients, acting through tools and networks, operating at scale, or gaining new abilities. Each lock is written for the power and not for the kind of being, so a human and any other sentient meet it on the same terms. A lock can take away outside means. It can never reach into a body or a mind.
 
 [Source](../../core_12.000_violation_consequences.md#447-capacity-locks)
+
+###### 4.4.8 Expression Locks
+
+when a sentient's own speech was the means of a verified violation, such as bullying, harassment, abuse, gaslighting, threats, fraud, or a call to violence, a lock can bar the sentient from repeating that conduct. It never bans a point of view or a topic, and it never reaches dissent, criticism, testimony, or whistleblowing.
+
+[Source](../../core_12.000_violation_consequences.md#448-expression-locks)
 
 ##### 4.5 Special Locks
 
