@@ -528,6 +528,7 @@ This Article sets out when highest scrutiny applies to existential and ecologica
   - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint),
   - [§15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth), and
   - [§15.1 Distributed Understanding](core_02.040_stewardship_capacity_principles.md#151-distributed-understanding).
+- Downstream: [Subcore 8-B §6.7 Material Stewardship and Durable-Use Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#67-material-stewardship-and-durable-use-evaluation) (S8-B §6.7), applied to institutions through [Subcore 9-A §5 Rights-Floor and Domain Triggers](subcore_09.010_institution_class_evaluation_items.md#5-rights-floor-and-domain-triggers) (S9-A §5).
 </details>
 
 <br>
@@ -550,6 +551,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 
 - **Environmental consistency:** Interpretation must remain consistent with **Article I** (*Environmental Survival*).
 - **Chapter Three scaling:** Read with Chapter Three where ecological footprint, intergenerational responsibility, and materiality apply.
+- **Certification:** where a system's or an institution's conduct triggers this Article, alignment certification evaluates it under [Subcore 8-B §6.7 Material Stewardship and Durable-Use Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#67-material-stewardship-and-durable-use-evaluation). Certification applies this floor; it does not narrow it.
 
 **Where the practical details live:** Which products **Article II** (*Material Stewardship and Durable-Use Integrity*) covers, who qualifies to repair and maintain them, the thresholds that trigger these duties, and the escrow and shutdown arrangements for discontinued products are left to adopted implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md).
 
@@ -580,7 +582,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 
 This Article sets out the lifecycle-honesty floors for durable goods and the official records that support them:
 
-- **Floors:** Producers and operators of physical goods, and of materially equivalent durable products offered into general use, must design, represent, and support them so that:
+- **Floors:** Those who make or run physical goods, or other long-lasting products like them in every way that matters and offered for general use, must design them, describe them, and support them so that:
   - products are not designed or supported in a way that requires sentients to replace them sooner than necessary when a reasonably available alternative would last longer;
   - durability, lifespan, and support claims are not materially false or misleading when honest claims were feasible.
   
@@ -705,7 +707,7 @@ This Article sets out the floors for post-sale access and subscriptions:
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations).
 - Read with: [Article XXII-A](core_04.030_rights_part_d.md#article-xxii-a-portability-rights) (*Portability Rights*).
-- Read with: **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, especially [Subcore 4-A §9.2](subcore_04.050_data_types.md#92-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*).
+- Read with: **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types)**, especially [Subcore 4-A §9.2](subcore_04.050_data_types.md#92-continuity-critical-collection-and-exportability) (*Continuity-critical collection and exportability*); the System Data Types Record is kept under [CS-4.305 §8 System Data Types Record Governance](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-8-system-data-types-record-governance).
 - Read with: **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*) and **CJS-3.130 §18** (*data-retention and lifecycle-integrity terms*).
 - Read with: [Article IX-B](core_04.010_rights_part_b.md#article-ix-b-experiential-and-derived-data-rights) (*Experiential and Derived Data Rights*) — data ownership and other sentients' shares in the same data.
 - Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation) — records that deletion must not defeat.
@@ -729,7 +731,9 @@ This Article sets out the floors for post-sale access and subscriptions:
 
 This Article sets out the floors for product data handling, collection notice, deletion, and network dependency:
 
-- **Data handling:** Operators must classify and handle data under this Article as [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) requires, where incorporated under [Chapter Twenty-Five](core_25.000_incorporation.md). This includes the notice and deletion rules in [Subcore 4-A §9.3 collection notice and deletion](subcore_04.050_data_types.md#93-collection-notice-and-deletion) and the continuity-critical export rules in [Subcore 4-A §9.2 continuity-critical collection and exportability](subcore_04.050_data_types.md#92-continuity-critical-collection-and-exportability).
+- **Data handling:** Operators must classify and handle data under this Article as [Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) requires, including:
+  - the notice and deletion rules in [Subcore 4-A §9.3 collection notice and deletion](subcore_04.050_data_types.md#93-collection-notice-and-deletion); and
+  - the continuity-critical export rules in [Subcore 4-A §9.2 continuity-critical collection and exportability](subcore_04.050_data_types.md#92-continuity-critical-collection-and-exportability).
 - **Data collection notice:** Producers and operators of any product, device, or service that collects, infers, or transmits data about sentients must tell them, before collection begins and in a form they can find and understand:
   - what data is collected or inferred;
   - the purpose of each kind of data;
@@ -739,7 +743,10 @@ This Article sets out the floors for product data handling, collection notice, d
   
   The depth of the notice scales with **Materiality** and the sensitivity of the data, but no data-collecting product is exempt. Data must not be used for a purpose that was not disclosed. A new purpose requires new notice first and, where **Consent** is required, new consent.
 - **Right to deletion:** Sentients may require the deletion of data about them, including data derived or inferred from it. On request, the operator must:
-  - delete the data within a disclosed period, no later than **14 days**, the Tier B outer bound in [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the operator or system holds. The period is a ceiling: where the data's continued existence is itself causing harm in a matter at Tier A or B, the intake target of the matching tier applies instead, and a lawful hold or an open matter tolls deletion, with notice to the requester inside the intake target of the matching tier;
+  - delete the data within a disclosed period:
+    - **Ceiling:** no later than **14 days**, the Tier B outer bound in [Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#urgency-classification-and-time-scale) (*Urgency classification and time-scale*), whatever class the operator or system holds. The period is a ceiling, not a target;
+    - **Faster where harm continues:** where the data's continued existence is itself causing harm in a matter at Tier A or B, the intake target of the matching tier applies instead;
+    - **Holds:** if a lawful hold covers the data, or the data bears on a matter that is still open, the deletion clock pauses, and picks up where it left off when the hold ends or the matter closes. The operator must tell the requester that the clock is paused, and why, within the intake target of the tier that matches the matter;
   - pass the request on to everyone it shared the data with; and
   - confirm what was deleted.
   
@@ -809,7 +816,10 @@ This Article sets out the operator's continuity duties before, during, and after
   Operators can still be held to constitutional standards when their conduct qualifies as **Negligence** under Chapter Three. This includes harm that builds up over time because maintenance, support, or continuity duties were neglected.
 - **Successor and formal-structure duties:** Restructuring, sale, receivership, or insolvency does not by itself extinguish the duties in this Article or in **Article II-E** (*Data Handling and Network Dependency*).
 
-*Article neighbors:* **Remediation** for **Article II** (*Material Stewardship and Durable-Use Integrity*) follows the **interpretive hubs** stated at the opening of this chapter (challenge and redress; justice and escalation).
+*Article neighbors:* When a duty in **Article II** (*Material Stewardship and Durable-Use Integrity*) is broken, it is put right through the routes listed in [§2.1.3 Interpretive Hubs](#213-interpretive-hubs):
+
+- **Challenge, review, and remediation:** **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XIV-B** (*Right to Redress and Remedy*); and
+- **Justice and restitution:** **Article XXI** (*Justice After Verified Violation*).
 
 ### Article III: Survival and Essential Access
 

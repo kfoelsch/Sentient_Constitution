@@ -31,7 +31,7 @@ Chapter Two, Part F is the constitutional owner of **governance under stewardshi
 - Read with:
   - [Attributable Action](subcore_03.070_band_accountability.md#attributable-action) and
   - [Attribution Integrity](subcore_03.070_band_accountability.md#attribution-integrity) — mechanism lemmas that keep authority-scaled answerability real where material action must remain traceable; operative detail in **
-  - [CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling)** and
+  - [Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types)** and
   - **Chapter Eight**.
 - Upstream: [§15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth); [§16.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard) (*substrate-agnostic duties bind human and AI stewards alike*).
 - Downstream:

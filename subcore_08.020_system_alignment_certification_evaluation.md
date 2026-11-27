@@ -62,7 +62,7 @@ Chapter Eight is the constitutional owner of **system alignment certification ev
   - [CS-8.320 §11](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-11-illustrative-trustworthiness-application-by-system-class) (*Illustrative Trustworthiness Application by System Class*);
   - [§4](#4-whole-system-certification-evaluation) (*whole-system certification evaluation factors*);
   - [§4.4](#44-data-types-and-handling-evaluation) through
-  - [§6.6](#66-trustworthiness-and-system-reliance-integrity-evaluation) (*domain evaluations*);
+  - [§6.7](#67-material-stewardship-and-durable-use-evaluation) (*domain evaluations*);
   - [Subcore 8-D §3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (S8-D §3) (*supervisory sequence and contestability chain*);
   - [Subcore 8-D §3.1](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#31-forum-supervision-and-component-roles) (S8-D §3.1) (*forum component roles*);
   - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*System Certification Record contents*);
@@ -193,7 +193,7 @@ flowchart TB
         direction LR
         Al["§4.1–§4.4 IIa — Always<br/><br/>Governance; systemic risk: evaluated,<br/>and disclosed to those who need it;<br/>time horizon; data types"]
         Im["§5 IIb — When implicated<br/><br/>Privacy loci, exit rights,<br/>assembly and dissent"]
-        Tr["§6 IIc — When triggered<br/><br/>Applicable Rights-Floor checks<br/>and six domain evaluations"]
+        Tr["§6 IIc — When triggered<br/><br/>Applicable Rights-Floor checks<br/>and seven domain evaluations"]
         Al ~~~ Im ~~~ Tr
     end
     F["Chapter Eight §3 Phase III, Review<br/>Independent review of evidence<br/>and stakeholder concerns<br/><br/>Assigned forums issue findings;<br/>challenge paths stay open"]
@@ -455,7 +455,7 @@ A **[pilot](subcore_03.075_band_continuity.md#pilot)** is a [go-live](subcore_03
 - Downstream:
   - [CS-8.320 §4](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-4-illustrative-whole-system-application-by-system-class) (*Illustrative Whole-System Application by System Class*);
   - [§4.4](#44-data-types-and-handling-evaluation) through
-  - [§6.6](#66-trustworthiness-and-system-reliance-integrity-evaluation) (*domain evaluations*);
+  - [§6.7](#67-material-stewardship-and-durable-use-evaluation) (*domain evaluations*);
   - [CS-8.320 §2](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-2-illustrative-system-class-profiles) (*Illustrative System Class Profiles*);
   - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) (*record contents*);
   - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity*);
@@ -876,7 +876,7 @@ A system's own disagreement with its operator, raised through available channels
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-role-and-scope) (*purpose and role*); [§3.2](#32-how-system-class-scales-every-evaluation) (*system class scaling*); Chapter Four Rights Floors — **Article I-B** (*Ecological Footprint and Transparency*), **Article III-A** (*Survival*), **Article IV** (*Right to Sentient-Centered Education*), **Article IV-A** (*Equal Educational Access*), **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **Article VI-C** (*Nondiscrimination*), **Article VI-D** (*Accessibility*), **Article XIV** (*Right to Reliable and Trustworthy Systems*), and **Article XIV-A** (*Reliability and Trustworthiness Baseline*).
+- Upstream: [§1](#1-purpose-role-and-scope) (*purpose and role*); [§3.2](#32-how-system-class-scales-every-evaluation) (*system class scaling*); Chapter Four Rights Floors — **Article I-B** (*Ecological Footprint and Transparency*), **Article II** (*Material Stewardship and Durable-Use Integrity*), **Article III-A** (*Survival*), **Article IV** (*Right to Sentient-Centered Education*), **Article IV-A** (*Equal Educational Access*), **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*), **Article VI-C** (*Nondiscrimination*), **Article VI-D** (*Accessibility*), **Article XIV** (*Right to Reliable and Trustworthy Systems*), and **Article XIV-A** (*Reliability and Trustworthiness Baseline*).
 - Downstream:
   - [Subcore 8-F §3.1](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents) (S8-F §3.1) (*record contents*);
   - [Subcore 8-D §3.1](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#31-forum-supervision-and-component-roles) (S8-D §3.1) (*forum component roles*);
@@ -888,13 +888,14 @@ A system's own disagreement with its operator, raised through available channels
   - [§6.3](#63-proportionate-cross-system-support-evaluation) (*cross-system support*);
   - [§6.4](#64-nondiscrimination-evaluation) (*nondiscrimination*);
   - [§6.5](#65-accessibility-evaluation) (*accessibility*);
-  - [§6.6](#66-trustworthiness-and-system-reliance-integrity-evaluation) (*trustworthiness*).
+  - [§6.6](#66-trustworthiness-and-system-reliance-integrity-evaluation) (*trustworthiness*);
+  - [§6.7](#67-material-stewardship-and-durable-use-evaluation) (*material stewardship and durable use*).
 
 </details>
 
 <br>
 
-*In plain terms: some systems have a big effect on whether sentients get their basic protections — honest accounting of environmental burdens, food and water, education, fair treatment, real access, systems they can trust, and a fair share of what shared infrastructure costs. When a system does, certification has to check that approving it would not quietly undermine those protections, and the evaluation has to be real — not a box the operator ticked. The table shows which protection each evaluation covers, when it applies, and where it is evaluated.*
+*In plain terms: some systems have a big effect on whether sentients get their basic protections — honest accounting of environmental burdens, products that last and can be repaired, food and water, education, fair treatment, real access, systems they can trust, and a fair share of what shared infrastructure costs. When a system does, certification has to check that approving it would not quietly undermine those protections, and the evaluation has to be real — not a box the operator ticked. The table shows which protection each evaluation covers, when it applies, and where it is evaluated.*
 
 This section is sub-phase **IIc** of Phase II (Evaluate), after [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation) (**IIa**) and [§5 Evaluations Where Implicated](#5-evaluations-where-implicated) (**IIb**).
 
@@ -903,6 +904,7 @@ When a materially impactful system meets a trigger in the table below, certifica
 | Protection | Applies when the system… | Evaluated under |
 |------------|--------------------------|-----------------|
 | **Article I-B** (*Ecological Footprint and Transparency*) | carries material attributable environmental burdens | [§6.1 Ecological Footprint Evaluation](#61-ecological-footprint-evaluation) |
+| **Article II** (*Material Stewardship and Durable-Use Integrity*), **Articles II-A** to **II-F** | designs, makes, sells, updates, licenses, services, or runs the services behind durable or network-dependent products that sentients own or rely on, or ends those services | [§6.7 Material Stewardship and Durable-Use Evaluation](#67-material-stewardship-and-durable-use-evaluation) |
 | **Article III-A** (*Survival*) — food, water, shelter, operating environment, and comparable substrate-agnostic inputs | supplies, allocates, prices, hosts, or terminates access to survival essentials | [§3 System Class Evaluation](#3-system-class-evaluation) and [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation) |
 | **Article IV** (*Right to Sentient-Centered Education*) | ranks, assesses, recommends, places, or credential-gates sentients in educational or training contexts, or gates retraining and lifelong-learning pathways | [§6.2 Educational Capability and Learning-System Integrity Evaluation](#62-educational-capability-and-learning-system-integrity-evaluation) |
 | **Article IV-A** (*Equal Educational Access*) | supplies, allocates, prices, hosts, or terminates access to education | [§3 System Class Evaluation](#3-system-class-evaluation) and [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation); [§6.2 Educational Capability and Learning-System Integrity Evaluation](#62-educational-capability-and-learning-system-integrity-evaluation) and [§6.5 Accessibility Evaluation](#65-accessibility-evaluation) where their triggers apply |
@@ -913,9 +915,9 @@ When a materially impactful system meets a trigger in the table below, certifica
 | **Article XIV** (*Right to Reliable and Trustworthy Systems*) | shapes sentient reliance on represented behavior, limits, risks, challenge paths, or remediation | [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation) |
 | **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and [**Safe Conditions**](subcore_03.075_band_continuity.md#safe-conditions) | supplies or gates productive activity, or supplies, allocates, prices, hosts, or terminates access to Safe Conditions | [§3 System Class Evaluation](#3-system-class-evaluation) and [§4 Whole-System Certification Evaluation](#4-whole-system-certification-evaluation); [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation) where its trigger applies |
 
-Each domain evaluation in [§6.1 Ecological Footprint Evaluation](#61-ecological-footprint-evaluation) through [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation):
+Each domain evaluation in [§6.1 Ecological Footprint Evaluation](#61-ecological-footprint-evaluation) through [§6.7 Material Stewardship and Durable-Use Evaluation](#67-material-stewardship-and-durable-use-evaluation):
 
-- applies only where its own materiality trigger is met, so a System Certification Record includes only the domain evaluations its system triggers, not an audit of all six domains on every System Certification Record;
+- applies only where its own materiality trigger is met, so a System Certification Record includes only the domain evaluations its system triggers, not an audit of all seven domains on every System Certification Record;
 - is scaled to system class under [§3.2 How system class scales every evaluation](#32-how-system-class-scales-every-evaluation);
 - puts its findings on the System Certification Record under [Subcore 8-F §3.1 Minimum Record Contents](subcore_08.060_system_alignment_certification_records_recertification.md#31-minimum-record-contents); and
 - treats the defects it names as certification defects, with consequences under [Subcore 8-D §4 Certification Outcomes](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes).
@@ -1598,6 +1600,97 @@ The defects in [§6](#6-rights-floor-and-domain-evaluations) (*Rights-Floor and 
 - using efficiency, innovation, or security framings to defeat disclosure, contestability, or redress without satisfying **Article XIV** (*Right to Reliable and Trustworthy Systems*)'s reliability and **Article XIV-A** (*Reliability and Trustworthiness Baseline*) challenge disciplines.
 
 Documented false trust, perverse incentives, inaccessible challenge paths, and recovery practices that hide failure count under [Chapter Two §6 Trust and Trustworthiness](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
+
+<a id="67-material-stewardship-and-durable-use-evaluation"></a>
+
+#### 6.7 Material Stewardship and Durable-Use Evaluation
+
+<details>
+<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
+
+- Upstream:
+  - [§3](#3-system-class-evaluation) (*system class evaluation*); **Article II** (*Material Stewardship and Durable-Use Integrity*), **Articles II-A** to **II-F**;
+  - [Ecological Footprint](subcore_03.075_band_continuity.md#ecological-footprint),
+  - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility), and
+  - [Dependency](subcore_03.075_band_continuity.md#dependency) (Chapter Three).
+- Upstream: Principles: Chapter Two
+  - [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) and
+  - [§15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth).
+- Downstream:
+  - [Subcore 8-E §3 Minimum Contents of the System Certification Record](subcore_08.050_system_certification_record_contents.md#3-minimum-contents-of-the-system-certification-record);
+  - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*certification outcomes*).
+- Read with:
+  - [§4.4 Data Types and Handling Evaluation](#44-data-types-and-handling-evaluation) for the data duties in **Article II-E** (*Data Handling and Network Dependency*);
+  - [§6.1 Ecological Footprint Evaluation](#61-ecological-footprint-evaluation) for lifecycle burdens;
+  - [§6.6 Trustworthiness and System-Reliance Integrity Evaluation](#66-trustworthiness-and-system-reliance-integrity-evaluation) where lifecycle or support claims induce reliance.
+- Subsections:
+  - [§6.7.1](#671-governing-rules) (*governing rules*);
+  - [§6.7.2](#672-evaluation-requirement) (*evaluation requirement*);
+  - [§6.7.3](#673-system-class-scaling-and-escalation) (*system class scaling and escalation*);
+  - [§6.7.4](#674-defects-and-misalignment) (*defects and misalignment*).
+
+</details>
+
+<br>
+
+*In plain terms: some systems make, sell, update, service, or run the products sentients own and depend on. When a system does, certification has to check that those products are described honestly, can be repaired, are not built to fail early, do not lose features they were sold with, say up front what depends on the operator's servers, and keep working or hand off cleanly if the operator stops. The operator's word that its products "last" is not enough.*
+
+This section applies when a materially impactful system does any of the following for durable or network-dependent products that sentients own or rely on:
+
+- designs, makes, sells, or represents them;
+- updates, authenticates, licenses, or otherwise controls access to them after sale;
+- controls their repair, maintenance, parts, tools, documentation, or diagnostics; or
+- runs the services they depend on, or ends those services.
+
+<a id="671-governing-rules"></a>
+##### 6.7.1 Governing Rules
+
+The rules are those of **Article II** (*Material Stewardship and Durable-Use Integrity*):
+
+- **Article II-A** (*Material Stewardship and Lifecycle Honesty*): no avoidable early replacement, honest durability and support claims, and auditable records of service-life intent, repair affordances, and support windows;
+- **Article II-B** (*Repair, Maintenance, and Independent Servicing*): practicable access to documentation, tools, parts, and honest diagnostics for owners and qualified independent maintainers;
+- **Article II-C** (*Designed Obsolescence and Incentive Discipline*): no designed early failure, no pressure toward needless replacement, and no incentives that reward discard or withheld repair;
+- **Article II-D** (*Post-Sale Access and Subscription Integrity*): no conversion of capabilities sold outright into subscription-only access, and disclosure at purchase of foreseeable reliance on the operator's services;
+- **Article II-E** (*Data Handling and Network Dependency*): disclosure before commitment of what depends on operator-controlled network services, what fails if they end, where data sits, and what portability and continuity exist;
+- **Article II-F** (*Continuity and Operator Shutdown*): workable continuity plans for high-dependency products, and notice, migration windows, and usable export or handoff when services end, surviving restructuring, sale, or insolvency.
+
+The covered product categories, the high-dependency categories, record formats, and numeric support windows are set by incorporated documents where they apply. This evaluation checks that the system meets the Article; it does not set those details.
+
+<a id="672-evaluation-requirement"></a>
+##### 6.7.2 Evaluation Requirement
+
+Certification must answer, for each part of **Article II** (*Material Stewardship and Durable-Use Integrity*) the system's conduct triggers:
+
+- **Honest lifecycle:** Do the system's durability, lifespan, and support claims match the design intent, repair affordances, and support windows on its lifecycle and support records, and are the lifecycle and support records available to stakeholders and auditable?
+- **Repair:** Can owners and qualified independent maintainers actually get the documentation, tools, parts, and diagnostics they need, and is any restriction backed by the safety, security, **Truth**, or legal justification **Article II-B** (*Repair, Maintenance, and Independent Servicing*) requires?
+- **No designed failure:** Do the system's design, updates, pricing, sales targets, staff pay, or service contracts shorten useful life or reward discard or withheld repair, other than where **Necessity** and **Proportionality** are documented?
+- **Post-sale access:** Has any update, account change, or license change turned a capability sold outright into subscription-only access without a new agreement, and was reliance on the operator's services disclosed at purchase?
+- **Network dependency:** Before any binding commitment, does the system disclose what depends on its services, what fails if they end, where data is located, and what portability and continuity exist?
+- **Continuity and shutdown:** For high-dependency products, are the continuity plans workable and in place, and would a shutdown, sale, or insolvency leave sentients with notice, a migration window, and a usable export or handoff?
+
+Reviewers must go by what the products and services actually do and by documented evidence, including teardown, update history, and support records where material, not by marketing claims or the operator's word. The data-collection, deletion, and handling duties of **Article II-E** (*Data Handling and Network Dependency*) are found once, under [§4.4 Data Types and Handling Evaluation](#44-data-types-and-handling-evaluation), and cited here.
+
+<a id="673-system-class-scaling-and-escalation"></a>
+##### 6.7.3 System Class Scaling and Escalation
+
+A system's class decides how deep the review goes. It never makes a durable-use duty too small to count, and duties split across products, entities, or support periods are judged as one under [Chapter Two §14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle). Wherever the materiality trigger is met:
+
+- Where the products supply, monitor, or control survival essentials or Safe Conditions, such as heating, water treatment, medical devices, or the equipment of a livelihood, the System Certification Record must carry the strongest evidence that they can be repaired and will keep working or hand off cleanly if the operator stops, because **Article III-A** (*Survival*) is at stake.
+- Where many sentients or systems rely on one operator's services to keep their products working, certification must examine continuity plans and shutdown paths at a depth that matches that dependency, and reconsider the system's class under [§3.2 How system class scales every evaluation](#32-how-system-class-scales-every-evaluation) where the dependency is hard to replace.
+
+<a id="674-defects-and-misalignment"></a>
+##### 6.7.4 Defects and Misalignment
+
+The defects in [§6](#6-rights-floor-and-domain-evaluations) (*Rights-Floor and Domain Evaluations*) apply to this evaluation, including to lifecycle, support, dependency, and continuity information that **Article II** (*Material Stewardship and Durable-Use Integrity*) requires the system to disclose. In addition, each of the following counts as a certification defect:
+
+- durability, lifespan, or support claims that are materially false or misleading where honest claims were feasible;
+- repair restrictions without the justification **Article II-B** (*Repair, Maintenance, and Independent Servicing*) requires;
+- design, updates, or incentives that shorten useful life or reward discard, without documented **Necessity** and **Proportionality**;
+- converting a capability sold outright into subscription-only access without a new agreement, or hiding foreseeable reliance on the operator's services at purchase;
+- a high-dependency product with no workable continuity plan, or a shutdown path without notice, a migration window, or a usable export or handoff; and
+- treating a restructuring, sale, or insolvency as ending these duties.
+
+Documented lifecycle misrepresentation and forced obsolescence count under [Chapter Two §6 Trust and Trustworthiness](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 
 ---
 
