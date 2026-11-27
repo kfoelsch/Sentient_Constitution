@@ -39,6 +39,7 @@ Chapter Four is the constitutional owner of **Rights Floors** and rights-level i
 - Downstream: [Chapter One §8.2 How the Full Chain Fits Together](core_01.000_constitutional_map.md#82-how-the-full-chain-fits-together) (1.000 §8.2); [§2.2 Owner Non-Relocation](#22-owner-non-relocation).
 - Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation) and the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (1.000); [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*).
 - Read with: [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
+- Read with: [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*); [Chapter Twelve §4 Lock Design and Enforcement](core_12.000_violation_consequences.md#4-lock-design-and-enforcement) (12.000 §4).
 - Read with: [Article XX-B](core_04.030_rights_part_d.md#article-xx-b-contestability-and-proportional-restriction-limits) (*Contestability and Proportional Restriction Limits*); [Article XXVII-C](core_04.040_rights_part_e.md#article-xxvii-c-timely-resolution-and-anti-delay-floor) (*Timely Resolution and Anti-Delay Floor*).
 </details>
 
@@ -52,6 +53,7 @@ Chapter Four is the constitutional owner of **Rights Floors** and rights-level i
 
 - It is read together with Chapters Two and Three: the principles, the definition rules, and the definitions, as set out below.
 - Standing, forums, governance, amendment, and day-to-day implementation live in their own owner chapters. Chapter Four may point to them but must not restate or move their duties (**section 2.2**).
+- A verified violation can lead to a lock under Chapter Twelve, and verified danger can lead to detention, imprisonment, or another liberty restriction. Chapter Four sets what each may reach: a lock may close a gated pathway tied to the verified risk, a liberty restriction must meet the restriction floors, and neither may push a sentient below the Rights Floor (**section 2.3**).
 
 **Chapter scope:** The chapter covers Articles I through XXIX, in five parts:
 
@@ -61,7 +63,7 @@ Chapter Four is the constitutional owner of **Rights Floors** and rights-level i
 - Part D (Articles XX–XXVI): standing, justice, portability, movement and refuge, comprehensibility, root cause, and interpretation; and
 - Part E (Articles XXVII–XXIX): conflict resolution and review, constitutional evolution, and Adoption Transition.
 
-The chapter leaves process, governance, and implementation rules to their owner chapters. **Section 2.1** says how the floors must work in practice.
+The chapter leaves process, governance, and implementation rules to their owner chapters. **Section 2.1** says how the floors must work in practice, and **section 2.3** says how far locks and liberty restrictions may reach.
 
 <a id="2-the-rights-floor-and-its-duties"></a>
 <a id="2-why-the-rights-floor-exists"></a>
@@ -128,7 +130,15 @@ flowchart TB
     style P fill:none,stroke:#2563eb,color:#ffffff
 ```
 
-The five parts are different reading paths through the same floor. **Part A** (this file) begins with planetary and material preconditions; [Part B](core_04.010_rights_part_b.md) turns to personal, cooperative, and stakeholder rights; [Part C](core_04.020_rights_part_c.md) governs trustworthy systems, security, verification, and lifecycle; [Part D](core_04.030_rights_part_d.md) governs standing, justice after verified violation, and interpretive review; [Part E](core_04.040_rights_part_e.md) governs conflict resolution, constitutional evolution, and Adoption Transition. Every part is read with the chapter-wide constraints stated above. Later governance, measurement, certification, forums, remedy, and implementation may apply this floor but may not shrink it.
+The five parts are different reading paths through the same floor:
+
+- **Part A** (this file) begins with planetary and material preconditions.
+- [Part B](core_04.010_rights_part_b.md) turns to personal, cooperative, and stakeholder rights.
+- [Part C](core_04.020_rights_part_c.md) governs trustworthy systems, security, verification, and lifecycle.
+- [Part D](core_04.030_rights_part_d.md) governs standing, justice after verified violation, and interpretive review.
+- [Part E](core_04.040_rights_part_e.md) governs conflict resolution, constitutional evolution, and Adoption Transition.
+
+Every part is read with the chapter-wide constraints stated above. Later governance, measurement, certification, forums, remedy, and implementation may apply this floor but may not shrink it.
 
 **Grounded in:**
 
@@ -149,22 +159,33 @@ The five parts are different reading paths through the same floor. **Part A** (t
 
 #### 2.1 Practical Enforcement
 
-The Rights Floor must work in real life, not just on paper:
+The Rights Floor must work in real life, not just on paper. This section covers what that means for essentials ([§2.1.1 Essentials in Practice](#211-essentials-in-practice)), the checks that enforce it ([§2.1.2 Enforcement Checks](#212-enforcement-checks)), and where recurring issues are routed ([§2.1.3 Interpretive Hubs](#213-interpretive-hubs)).
+
+##### 2.1.1 Essentials in Practice
+
+Three ideas show what this means for essentials:
 
 - **Survival essentials** under **Article III-A** (*Survival*) — food, water, shelter, an operating environment, and the other substrate-agnostic inputs a sentient needs to keep going — are the clearest example.
 - **Flourishing** means sentients can actually get and use those essentials.
 - **Continuity** means the supply stays reliable, does not get rolled back, and keeps going over time — especially when shared systems are in charge of delivery.
 
+##### 2.1.2 Enforcement Checks
+
 Enforcement depends on real checks, not just rules on paper:
 
-- **Systems get verified before they go live:** [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) and [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) make sure materially impactful systems actually meet the rules before anyone relies on them at scale.
-- **Sentients can push back on certification decisions:** Chapters Eight to Ten also provide ways to contest the System Certification Record, demand stakeholder and accessibility review, keep supervisory sequencing in place, and challenge alignment decisions that do not hold up.
-- **You can challenge and audit unreliable systems:** **Article XIV** (*Right to Reliable and Trustworthy Systems*) gives sentients the right to challenge and audit systems that affect them.
-- **Bureaucracy cannot block survival access:** **Article XX-B** (*Contestability and Proportional Restriction Limits*) prevents standing limits from becoming a back door that cuts sentients off from survival-critical protections.
-- **Chapters Eight through Twenty-Two form the practical pipeline:** Together they supply the key processes for contestability, verified classification, forum supervision, and timely remedy.
-- **These tools enforce Chapter Four — they do not replace it:** They help make Rights Floors real, but they may not shrink, bypass, or relocate the protections stated in this chapter.
+- **Checking that systems work**
+  - **Systems get verified before they go live:** [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) and [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) make sure materially impactful systems actually meet the rules before anyone relies on them at scale.
+  - **You can challenge and audit unreliable systems:** **Article XIV** (*Right to Reliable and Trustworthy Systems*) gives sentients the right to challenge and audit systems that affect them.
+- **Challenging decisions and keeping access open**
+  - **Sentients can push back on certification decisions:** Chapters Eight to Ten also provide ways to contest the System Certification Record, demand stakeholder and accessibility review, keep supervisory sequencing in place, and challenge alignment decisions that do not hold up.
+  - **Bureaucracy cannot block survival access:** **Article XX-B** (*Contestability and Proportional Restriction Limits*) prevents standing limits from becoming a back door that cuts sentients off from survival-critical protections.
+- **How the later chapters relate to this one**
+  - **Chapters Eight through Twenty-Two form the practical pipeline:** Together they supply the key processes for contestability, verified classification, forum supervision, and timely remedy.
+  - **These tools enforce Chapter Four — they do not replace it:** They help make Rights Floors real, but they may not shrink, bypass, or relocate the protections stated in this chapter.
 
-**Interpretive hubs.** Unless a more specific article supplies a different rule, recurring issues route through these anchors:
+##### 2.1.3 Interpretive Hubs
+
+Unless a more specific article supplies a different rule, recurring issues route through these anchors:
 
 **Rights floors and supply**
 - **Survival essentials and keeping them accessible**
@@ -195,6 +216,40 @@ This rule covers all of Chapter Four — Articles **I** through **XXIX**:
 - **Chapter Four cannot steal duties from other chapters:** Under [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#owner-non-relocation), this chapter must not copy, restate, or move obligations that belong somewhere else. Cross-references are fine — pointing readers to another chapter is expected. But copying another chapter's actual rules into Chapter Four is **not allowed**.
 - **No sneaking rules in through the back door:** You cannot import obligations from other chapters into Chapter Four by copying text, treating reader notes as real rules, or reading too much into a cross-reference. And other chapters or implementation files cannot shrink, redefine, or move a Chapter Four Rights Floor either — that violates **Chapter Twenty-Eight** non-regression.
 - **If new language sounds like process or governance, point to the real owner:** Any future addition to Chapter Four that touches process, governance, or implementation must include a note pointing to where the actual rule lives — the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) and, where relevant, the matching [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) definition.
+
+<a id="23-locks-and-liberty-restrictions"></a>
+
+#### 2.3 Locks and Liberty Restrictions
+
+*In plain terms: a verified violation can lead to a lock that closes a specific gated pathway tied to the risk, such as serving on a forum or holding authority. Detention, imprisonment, and other liberty restrictions go further, so they must clear a higher bar. Neither can ever push a sentient below the Rights Floor.*
+
+The Rights Floor is the same for every sentient, including one with a verified violation on record and one who is detained, imprisoned, or suspended. Every restriction is read against that floor:
+
+- **What no restriction reduces:** inherent dignity, equal moral standing, survival-critical access, and the required challenge, review, appeal, and remedy pathways. Standing does not change these ([Subcore 10-F §3.6 The Rights Floor Is Not Reduced](subcore_10.060_standing_integration.md#36-the-rights-floor-is-not-reduced)).
+- **What a lock may close:** a gated pathway, meaning a role, an authority, or a form of participation that a sentient may be kept from because of a verified risk. A gated pathway is not itself a Rights-Floor minimum.
+  - A lock may close a gated pathway only when that gated pathway is tied to the verified risk.
+  - Where Chapter Four sets conditions on a gated pathway, such as the governance vote under [Article X-B](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*), a lock may close it only on those conditions.
+  - Expression is not a gated pathway. Where a sentient's own expression was the means of a verified violation, such as bullying, harassment, abuse, or gaslighting, a lock may bar only that conduct, on the terms in [Article XI-B](core_04.010_rights_part_b.md#article-xi-b-expression) (*Expression*).
+- **What a liberty restriction requires:** detention, imprisonment, suspension, and comparable restrictions are not locks. They limit freedom and movement themselves, which this chapter protects, so they are allowed only on the floors in [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*):
+  - a verified danger that makes the restriction necessary for containment or safety, and the full process protections owed before liberty is restricted;
+  - the least restrictive measure that works, with explicit duration limits, a review schedule, and conditions for restoring liberty;
+  - the [conditions of custody](core_04.030_rights_part_d.md#xx-b-conditions-of-custody): the restricted sentient keeps care, counsel, speech and redress, contact with family and trusted contacts, and a path back;
+  - the [suspension](core_04.030_rights_part_d.md#xx-b-suspension) floor wherever a restriction stops a sentient's experience and decision-making;
+  - imprisonment where verified violence makes it necessary to protect others, and never deprivation of life as a justice measure.
+- **What every restriction must meet:** [Article XXI](core_04.030_rights_part_d.md#article-xxi-justice-after-verified-violation) (*Justice After Verified Violation*) and the joint requirements of **Article XXI-B** (*Restriction Floors*): material safety necessity, proportionate restitution or remediation, rehabilitation where feasible, and evidence anyone can audit.
+- **No back door:**
+  - Closing a gated pathway may not be used to cut off the protections in the first bullet.
+  - A lock or separation that leaves a sentient no ordinary place to live, operate, or go is a liberty restriction, whatever it is called, and must meet the liberty-restriction floors.
+  - A restriction that breaks these rules shrinks the Rights Floor and is not valid.
+
+Under [§2.2 Owner Non-Relocation](#22-owner-non-relocation), the operating rules stay with their owners:
+
+- **Locks and liberty restrictions:** lock design, the special locks, and liberty-restricting safeguards in [Chapter Twelve §4 Lock Design and Enforcement](core_12.000_violation_consequences.md#4-lock-design-and-enforcement) (including [§4.4.5 Coercive or Liberty-Restricting Safeguards](core_12.000_violation_consequences.md#445-coercive-or-liberty-restricting-safeguards)) and [Subcore 12-A](subcore_12.010_special_locks.md#subcore-12-a-special-locks-in-detail).
+- **Expression locks:** [Chapter Twelve §4.4.8 Expression Locks](core_12.000_violation_consequences.md#448-expression-locks).
+- **Emergency measures:** emergency measures and their continuation burden in [Chapter Seventeen §5.1 Emergency Measures and Continuation Burden](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden).
+- **Standing:** Chapter Ten.
+
+[Chapter Twelve §4.1.4 What a Lock Does Not Itself Restrict](core_12.000_violation_consequences.md#414-what-a-lock-does-not-itself-restrict) lists further protections a lock leaves open.
 
 ### Part A: Planetary Preconditions, Material Stewardship, Survival, Equal Educational Access, and Shared Resources
 
