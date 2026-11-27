@@ -254,7 +254,7 @@ Each integration record identifies its inputs, who and what is affected, the res
 
 *In plain terms: software may finish any step that verified inputs and published rules settle. Uncertain, disputed, new, discretionary, or high-impact questions go to a human reviewer or forum.*
 
-Automation may complete any step for which verified inputs and published rules produce a determinate result. No additional manual approval is required unless this Constitution or adopted implementation requires review. The system must refer uncertain, disputed, novel, materially discretionary, or high-impact questions to an authorized reviewer or forum. An integration record requiring review may still be assembled and routed automatically. This is [Chapter Two §16.5 Automation](core_02.040_stewardship_capacity_principles.md#165-automation) applied to standing integration.
+Automation may complete any step for which verified inputs and published rules produce a determinate result. No additional manual approval is required unless this Constitution or adopted implementation requires review. The system must refer uncertain, disputed, novel, materially discretionary, or high-impact questions to an authorized reviewer or forum. An integration record requiring review may still be assembled and routed automatically. This is [Chapter Two §15.5 Automation](core_02.040_stewardship_capacity_principles.md#155-automation) applied to standing integration.
 
 <a id="44-processing-order"></a>
 #### 4.4 Processing Order
@@ -265,7 +265,7 @@ Every decision follows one fixed processing order of eight steps, set out in [Su
 
 - **One order for all:** the same order binds automated and manual decisions.
 - **Slots stay fixed:** descriptors and attachments are normalized without changing either slot.
-- **Tracks do not wait:** the contribution track and the violation track are decided from their own Standing Records, in either order or together, and both finish before the final standing effect is stated, as [Chapter Two §16.5.1 Parallelization](core_02.040_stewardship_capacity_principles.md#1651-parallelization) requires of independent steps.
+- **Tracks do not wait:** the contribution track and the violation track are decided from their own Standing Records, in either order or together, and both finish before the final standing effect is stated, as [Chapter Two §15.5.1 Parallelization](core_02.040_stewardship_capacity_principles.md#1551-parallelization) requires of independent steps.
 - **Independence:** remedy, correction, safeguards, and locks come from the violation Standing Record alone, and contribution is not an input to them ([§3 Violation, Correction, and Prevention](core_12.000_violation_consequences.md#3-violation-correction-and-prevention)). The one exception is help given after the violation, which can count as restitution under [§3.1.2 Remedy](core_12.000_violation_consequences.md#312-remedy).
 - **Lock precedence:** an applicable standing lock controls the gated pathway it attaches to, and no contribution result opens a blocked gated pathway ([§3 Contribution Consequences](core_11.000_contribution_consequences.md#3-contribution-consequences)).
 - **Enforceable, and routed only when it qualifies:** practical enforceability is verified before the decision stands, and only a qualifying Violation Axis slot 7–9 finding goes to [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation), where anti-constitutional-misconduct designation (ACMD) is at issue.

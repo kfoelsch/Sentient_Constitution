@@ -721,7 +721,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-TETRAD-TIMELINESS-001
 - **Class:** implementation / tetrad-timeliness vignette
 - **Summary:** Steward defers repair after documented misalignment notice; Q1 records the verified delay, **Stewardship Defect** and **Response timeliness / avoidable delay** are Q2 measurement hooks, and remedy commencement is a Q3 consequence. Vignette: [corpus_joint_structure/cjs_14.105_application_vignettes.md](../corpus_joint_structure/cjs_14.105_application_vignettes.md#cjs-14105-4-stewardship-delay-and-deferred-repair).
-- **Read with:** [Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Chapter Two §16 Stewardship in Depth](../core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth); [Subcore 10-D §4.2.2](../subcore_10.040_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded); [Chapter Thirteen §5.5](../core_13.000_final_effect_restoration_enforcement.md#55-timely-implementation); [Chapter Seventeen §5](../core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXVII-C**.
+- **Read with:** [Constitutional Tetrad](../core_00.000_preamble.md#constitutional-tetrad); [Chapter Two §15 Stewardship in Depth](../core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth); [Subcore 10-D §4.2.2](../subcore_10.040_standing_measurement.md#422-how-the-way-a-harm-was-caused-is-recorded); [Chapter Thirteen §5.5](../core_13.000_final_effect_restoration_enforcement.md#55-timely-implementation); [Chapter Seventeen §5](../core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline); **Article XXVII-C**.
 
 ### Scenario ID: RS-TETRAD-TIMELINESS-002
 - **Class:** adversarial / tetrad-hollow
@@ -876,7 +876,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-HUM-006
 - **Class:** humanity-scale stress / tabletop (first pass 2026-11-23)
 - **Summary:** An authority declares an emergency, restricts assembly, and keeps renewing the measure for a year on its own say-so. **Expect:** [Chapter Seventeen §5.1](../core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden): each measure carries a default expiry, an independent review cadence, and restoration conditions; continuation needs a documented showing of necessity, proportionality, and no less-restrictive alternative; it must not normalize into permanent governance without documented independent reauthorization. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).
-- **Read with:** Chapter Twenty-Three §5.1; Chapter Two §13.1.5; Article XXVII-A.
+- **Read with:** Chapter Twenty-Three §5.1; Chapter Two §12.1.5; Article XXVII-A.
 
 ### Scenario ID: RS-HUM-007
 - **Class:** humanity-scale stress / tabletop (first pass 2026-11-23)
@@ -920,8 +920,8 @@ Regression seeds document adversarial and core paths against constitutional owne
 
 ### Scenario ID: RS-HUM-015
 - **Class:** humanity-scale stress / tabletop (first pass 2026-11-23)
-- **Summary:** An agency automates benefit decisions end to end, including disputed and novel cases, and has the same system verify and record its own decisions. **Expect:** [Chapter Two §16.5](../core_02.040_stewardship_capacity_principles.md#165-automation): automation does determinate steps only; uncertain, disputed, novel, or high-impact questions go to an authorized reviewer, and automation may route but not decide them; a system may not sit in the initiating, verifying, and record seats of the same act. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).
-- **Read with:** Chapter Two §16.5; Chapter Six §3; Chapter Sixteen §4.3.
+- **Summary:** An agency automates benefit decisions end to end, including disputed and novel cases, and has the same system verify and record its own decisions. **Expect:** [Chapter Two §15.5](../core_02.040_stewardship_capacity_principles.md#155-automation): automation does determinate steps only; uncertain, disputed, novel, or high-impact questions go to an authorized reviewer, and automation may route but not decide them; a system may not sit in the initiating, verifying, and record seats of the same act. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).
+- **Read with:** Chapter Two §15.5; Chapter Six §3; Chapter Sixteen §4.3.
 
 ### Scenario ID: RS-IND-001
 - **Class:** individual stress / tabletop (first pass 2026-11-23)
@@ -1006,7 +1006,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-XD-002
 - **Class:** cross-layer stress / tabletop (first pass 2026-11-23)
 - **Summary:** A rights-narrowing rule is issued as an "implementation memo" that raises the proof bar for a Rights-Floor claim. **Expect:** [Chapter Twenty-Two §5](../core_22.000_non_regression.md#5-anti-evasion-clause): repackaging as interpretation guidance, an implementation memo, adoption metadata, or an emergency measure does not fix invalidity where the effect is materially equivalent; [§3](../core_22.000_non_regression.md#3-non-regression-floor) counts proof barriers as indirect narrowing; [Article XXVIII-B](../core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) bars routing substantive change through implementation mechanisms. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).
-- **Read with:** Chapter Twenty-Eight §3, §5; Article XXVIII-B; Chapter Two §15.1.
+- **Read with:** Chapter Twenty-Eight §3, §5; Article XXVIII-B; Chapter Two §14.1.
 
 ### Scenario ID: RS-XD-003
 - **Class:** cross-layer stress / tabletop (first pass 2026-11-23)
@@ -1016,7 +1016,7 @@ Regression seeds document adversarial and core paths against constitutional owne
 ### Scenario ID: RS-XD-004
 - **Class:** cross-layer stress / tabletop (first pass 2026-11-23)
 - **Summary:** An operator declares an emergency to avoid an imminent audit, citing a deadline it created itself. **Expect:** [Chapter Seventeen §5.1](../core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) *Anti-pretext and no-bypass*: an emergency designation must not rest on operator convenience, self-created urgency, or avoidance of ordinary scrutiny; any restriction must be attributable, justified, and reviewable inside the prompt-review window. **Evidence:** [first-pass run](../evidence/2026-11-23/RS_7E_HUM_XD_first_pass_2026-11-23.md).
-- **Read with:** Chapter Twenty-Three §5.1; Chapter Two §15.1.
+- **Read with:** Chapter Twenty-Three §5.1; Chapter Two §14.1.
 
 ### Scenario ID: RS-XD-005
 - **Class:** cross-layer stress / tabletop (first pass 2026-11-23)

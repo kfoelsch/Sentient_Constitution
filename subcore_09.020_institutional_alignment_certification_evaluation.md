@@ -155,7 +155,7 @@ On the System's side:
     - [Continuity](core_00.000_preamble.md#continuity): evaluation finds weaknesses before they threaten shared systems;
 - Chapter Two principles:
   - [§7.2 Assembly, Collective Organization, and Institutional Formation](core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation);
-  - [§18.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure);
+  - [§17.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#171-governance-as-authorized-structure);
   - [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_02.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways);
   - [§19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
 - Chapter Four Articles:

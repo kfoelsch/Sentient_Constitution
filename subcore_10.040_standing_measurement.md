@@ -89,7 +89,7 @@ Without a shared scale, the same harm could be called minor in one place and gra
 - Chapter Two principles:
   - [§3.2 Recognition, Reinforcement, and Aspiration](core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration);
   - [§4 Safety (Harm Constraint)](core_02.000_values_principles.md#4-safety-harm-constraint);
-  - [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles);
+  - [§12.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#121-core-tradeoff-principles);
   - [§19.2 Convenient Proxies and Proxy Divergence](core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence);
 - Chapter Four Articles:
   - [Article XX-A](core_04.030_rights_part_d.md#article-xx-a-standing-distinction) (*Standing Distinction*);

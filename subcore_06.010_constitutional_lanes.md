@@ -14,11 +14,11 @@
 
 Subcore 6-A is the constitutional owner of the **constitutional lanes**: the required functional separations every institution must publish, and how a lane map is assessed. Chapter Six states the four-seat requirement for each materially binding act; this file states the lanes those seats are hosted in.
 
-*In plain terms: a constitutional lane is a published functional separation with constitutionally binding duties. Splitting the lanes is also the Constitution's **separation of duties** rule: the office that asks for something, the office that checks it, the office that records it, and the office that hears a challenge to it are different seats.*
-
 ---
 
 ### 1. Constitutional Lanes and Functional Separation
+
+*In plain terms: a constitutional lane is a published functional separation with constitutionally binding duties. Splitting the lanes is also the Constitution's **separation of duties** rule: the office that asks for something, the office that checks it, the office that records it, and the office that hears a challenge to it are different seats.*
 
 #### 1.1 Required Lanes
 
@@ -65,7 +65,7 @@ Chapter Six keeps the four seats apart on each single act. The lanes do the same
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): both aims, which this file serves:
     - [Flourishing](core_00.000_preamble.md#flourishing): failures are caught before they harm sentients;
     - [Continuity](core_00.000_preamble.md#continuity): separated lanes make capture of a whole institution harder;
-- Chapter Two principles: [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
+- Chapter Two principles: [§17.3 Separation of Duties](core_02.050_governance_incentive_application.md#173-separation-of-duties);
 - Chapter Four Articles: [Article XIII](core_04.010_rights_part_b.md#article-xiii-non-capture-influence-and-anti-corruption-safeguards) (*Non-Capture, Influence, and Anti-Corruption Safeguards*);
 - Chapter Six: [§3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement).
 

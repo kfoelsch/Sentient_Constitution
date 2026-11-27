@@ -74,7 +74,7 @@ Institutions merge, split, change owners, and change leaders. A certification th
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients keep the protection the certification promised;
     - [Continuity](core_00.000_preamble.md#continuity): certification stays true through changes of leadership and structure;
 - Chapter Two principles:
-  - [§16.4 Document at Action](core_02.040_stewardship_capacity_principles.md#164-document-at-action);
+  - [§15.4 Document at Action](core_02.040_stewardship_capacity_principles.md#154-document-at-action);
   - [§19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
 - Chapter Four Articles:
   - [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);

@@ -59,7 +59,7 @@ This family operationalizes the **Accountability** leg of the [Constitutional Te
 - Read with: [**CS-21.305**](../corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-critical-system-stewardship) (*Critical system stewardship*)
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../subcore_03.070_band_accountability.md#non-compliance-finding-profile); use **CCL** layer and **structural** or **stewardship** **failure character** when undocumented authority, capture, or concentration is material; add **severity level** **T1**–**T4** per finding ([Subcore 3-B, section 5](../subcore_03.020_definition_integrity.md#5-non-compliance-finding-profiles) (S3-B)).
-- Chapter Two basis: §15.1, §6, §13.2, §19.2, §17 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.1, §6, §12.2, §19.2, §16 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-8.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
 - Topic routing (mandatory read-with): **CJS-R14** (*Institutional functional lanes and non-delegable splits*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-6.205** (*Institutional Design, Separation of Powers, and Authority Custody*).
 - Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in
@@ -125,7 +125,7 @@ The sub-rules below apply that cluster minimum to specific anti-concentration, d
   - [Chapter Two §11.2 Pro-Competition and Anti-Domination](../core_02.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination) (2.010 §11.2);
   - [Chapter Two §11.3 Consolidation Ceiling](../core_02.010_values_principles_continuity_aim.md#113-consolidation-ceiling) (2.010 §11.3).
 - Read with:
-  - [Chapter Two §13.2.4 Proxy-Divergence Invalidation](../core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4);
+  - [Chapter Two §12.2.4 Proxy-Divergence Invalidation](../core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation) (2.020 §12.2.4);
   - [Article I-D](../core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*);
   - [Article XIV-A](../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
   - [Article XV-A](../core_04.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*).
@@ -139,7 +139,7 @@ Adopters must define [Market Concentration Threshold](../subcore_03.070_band_acc
 
 - **Requirement preservation:** No adopter-set threshold may sit above the point at which material concentration would predictably degrade wellbeing, agency, dignity, or ecological integrity for other sentients. Setting thresholds above that point is non-compliant — whatever the justification, including efficiency, competitiveness, productive-capacity, scale-economies, or emergency framing.
 - **Substance over form:** Thresholds judge substantive concentration, not headcount of legal entities. In scope where they produce concentrated material effect without formal concentration: federated structures, shell entities, interlocking directorates, cross-platform integration, information-sphere control, **Article XIV-E** (*High-Autonomy Systems and Tool-Mediated Process Integrity*) autonomy-stewardship capture, and comparable indirection. Aggregation through federated structures to evade the threshold is non-compliant.
-- **Anti-nullification:** Adopter-tunable does **not** mean adopter-optional. Non-compliant nullifications of the floor under [Chapter Two §13.2.4 Proxy-Divergence Invalidation](../core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) include:
+- **Anti-nullification:** Adopter-tunable does **not** mean adopter-optional. Non-compliant nullifications of the floor under [Chapter Two §12.2.4 Proxy-Divergence Invalidation](../core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation) include:
   - thresholds set so high they foreseeably never bind;
   - thresholds paired with unused or unusable enforcement tools; and
   - threshold regimes that produce no actual review or intervention.
@@ -183,7 +183,7 @@ Market-concentration threshold activation
   - **CJS-3.130 §17** (*interoperability, portability, and exit-integrity terms*);
   - [Article III-C](../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) (labor mobility Rights Floor);
   - [Article XXII](../core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity) (*Interoperability, Portability, and Exit Integrity*);
-  - [Chapter Two §13.2.4 Proxy-Divergence Invalidation](../core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4).
+  - [Chapter Two §12.2.4 Proxy-Divergence Invalidation](../core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation) (2.020 §12.2.4).
 </details>
 
 <br>
@@ -231,7 +231,7 @@ Remedies must be proportionate to the concentration, dependency, conduct, and co
 
 - Upstream: [Chapter Two §11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)](../core_02.010_values_principles_continuity_aim.md#1132-consolidation-ceiling-mechanism-adopter-tunable) (2.010 §11.3.2); [Chapter Two §11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](../core_02.010_values_principles_continuity_aim.md#1131-consolidation-risk-pre-lock-in-impairment) (2.010 §11.3.1); [Market Structure](../subcore_03.070_band_accountability.md#market-structure).
 - Downstream: [Subcore 14-A §7.1](../subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (S14-A §7.1) where concentration-based subversion is at issue; [CJS-3.125 §11.2](cjs_03.125_accountability_operations.md#cjs-3125-112-anti-domination-conduct-and-remediation-catalog) (*Anti-domination conduct and remediation catalog*) (remedy catalog on ceiling violation).
-- Read with: [CJS-3.125 §11.1](cjs_03.125_accountability_operations.md#cjs-3125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Market concentration threshold-setting discipline (adopter-tunable)*); [Chapter Two §13.2.4 Proxy-Divergence Invalidation](../core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4); [Article III-C](../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*).
+- Read with: [CJS-3.125 §11.1](cjs_03.125_accountability_operations.md#cjs-3125-111-market-concentration-threshold-setting-discipline-adopter-tunable) (*Market concentration threshold-setting discipline (adopter-tunable)*); [Chapter Two §12.2.4 Proxy-Divergence Invalidation](../core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation) (2.020 §12.2.4); [Article III-C](../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*).
 </details>
 
 <br>
@@ -426,12 +426,12 @@ Stewardship-role depth and non-symbolic governance boundary
   - **CJS-3.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*);
   - **CJS-3.125 §11** (*Accountability: Distributed and Proportional Authority Terms*) and
   - **CJS-3.120 §7** (*Participation: Quorum and Participatory Legitimacy Terms*).
-- Read with: **[Chapter Two §13.1.5 Rights-Collision Procedure](../core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5)**
+- Read with: **[Chapter Two §12.1.5 Rights-Collision Procedure](../core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5)**
 - Read with: [CF-16.450](../corpus_forum/cf_16.450_forum_continuity.md#cf-16450-forum-continuity) (*Forum continuity*) through [CF-16.460](../corpus_forum/cf_16.460_emergency_adjudication.md#cf-16460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication.
 - Read with: Core definitions for necessity, proportionality, materiality, burden, and anti-enclosure.
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../subcore_03.070_band_accountability.md#non-compliance-finding-profile); use **substantive** or **evasive** **failure character** when restrictions persist without revalidation; add **severity level** **T1**–**T4** per finding ([Subcore 3-B, section 5](../subcore_03.020_definition_integrity.md#5-non-compliance-finding-profiles) (S3-B)).
-- Chapter Two basis: §18.1, §18.3, §18, §19.1, §15, §16 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §17.1, §17.3, §17, §19.1, §14, §15 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-8.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
 
 </details>
@@ -602,7 +602,7 @@ Rights-collision and alternative-selection record
 *In plain terms: A Constitutional Collision Record must identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.*
 
 - **What it is**
-  - **In scope:** When restrictions are justified by conflict among rights or duties, the Constitutional Collision Record must apply [Chapter Two §13.1.5 Rights-Collision Procedure](../core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
+  - **In scope:** When restrictions are justified by conflict among rights or duties, the Constitutional Collision Record must apply [Chapter Two §12.1.5 Rights-Collision Procedure](../core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) and identify the conflict, affected populations, alternatives, trade-offs, least-restrictive effective selection, review triggers, and any required forum-review path.
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in rights-collision and alternative-selection record.
 <a id="rights-collision-and-alternative-selection-record-a"></a>
 - **How to measure and assess**
@@ -611,7 +611,7 @@ Rights-collision and alternative-selection record
     **Primary assessment:** Evaluation must verify enough detail to test principle-based decision-making, least-restrictive selection, and the availability of ordinary or emergency forum review.
 <a id="rights-collision-and-alternative-selection-record-c"></a>
 - **What must hold**
-  - **Primary failure:** A restriction justified by rights conflict if it lacks the [Chapter Two §13.1.5 Rights-Collision Procedure](../core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) record, omits required forum review, or treats emergency circumstances as a reason to bypass review rather than sequence it.
+  - **Primary failure:** A restriction justified by rights conflict if it lacks the [Chapter Two §12.1.5 Rights-Collision Procedure](../core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) record, omits required forum review, or treats emergency circumstances as a reason to bypass review rather than sequence it.
 
 <a id="substantive-showing-and-least-restrictive-proof"></a>
 Substantive showing and least-restrictive proof
@@ -682,7 +682,7 @@ Temporal discipline and revalidation
 - Read with: [CF-16.410](../corpus_forum/cf_16.410_panel_formation_disclosure_recusal_bench_constitution.md#cf-16410-panel-formation-disclosure-recusal-and-lawful-bench-constitution) (*Panel formation, disclosure, recusal, and lawful bench constitution*), [CF-16.415](../corpus_forum/cf_16.415_routing_operations_transfer_certification_representative_treatment.md#cf-16415-routing-operations-transfer-questions-for-ruling-and-representative-treatment) (*Routing operations, transfer, questions for ruling, and representative treatment*), and [CF-16.420](../corpus_forum/cf_16.420_appeal_secondary_review_exhaustion_pathways.md#cf-16420-appeal-secondary-review-and-exhaustion-pathways) (*Appeal, secondary review, and exhaustion pathways*)
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Finding profile (default): `A·F·SSP` — [Non-Compliance Finding Profile](../subcore_03.070_band_accountability.md#non-compliance-finding-profile); use **formal** **failure character** for challenge-pathway or record defects and **substantive** where merits or binding effect is materially affected; add **severity level** **T1**–**T4** per finding ([Subcore 3-B, section 5](../subcore_03.020_definition_integrity.md#5-non-compliance-finding-profiles) (S3-B)).
-- Chapter Two basis: §15.1, §5.2, §18, §19.1, §15, §17 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.1, §5.2, §17, §19.1, §14, §16 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R01** (*Delegated binding bodies and hybrid composition (non-forum institutions)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CI-8.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*).
 - Topic routing (mandatory read-with): **CJS-R02** (*Forum chambers, divisions, and designated panels (Chapter Twenty-Two fa…*) in **CJS-0.105 §1** (*Topic router*); primary owners **CF-16.405 §7** (*Chamber Creation, Identification, and Family Boundary*), **CF-16.405 §10** (*Specialist and Technical Chamber Discipline*).
 - Topic routing (mandatory read-with): **CJS-R03** (*Lawful panel formation, disclosure, recusal, substitution, inability-to…*) in **CJS-0.105 §1** (*Topic router*); primary owner **CF-16.410** (*Panel Formation, Disclosure, Recusal, and Lawful Bench Constitution*).
@@ -961,7 +961,7 @@ Uncertainty safeguards and anti-abuse minimum
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: pairs with **CJS-3.135 §23** (*Integrative: Intervention and Override Integrity Terms*) for governance authorization versus technical intervention integrity.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from emergency or operational continuity modes.
-- Chapter Two basis: §15.1, §18.1, §18, §19.1, §16 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.1, §17.1, §17, §19.1, §15 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -1125,7 +1125,7 @@ Records, transparency, and challenge pathway duties
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: pairs with **CJS-3.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*) for evolution, revalidation, and non-entrenchment.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational continuity reporting.
-- Chapter Two basis: §15.1, §15.2, §13.2, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.1, §14.2, §12.2, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-3.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*).
 
 </details>

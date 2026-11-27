@@ -54,7 +54,7 @@ This family operationalizes the **Participation** leg of the [Constitutional Tet
 - Read with: [Article X-B Governance Participation and Voting Entitlement](../core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Read with: [Article XII Stakeholder System Participation, Representation, and Due Process](../core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: §15.1, §6, §13.2, §18, §15, §17 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.1, §6, §12.2, §17, §14, §16 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -306,7 +306,7 @@ Weighted participation
 - Read with: [Chapter Two §5.2 Plain-Language Accessibility](../core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) (2.000 §5.2), [Article VI-D Accessibility](../core_04.010_rights_part_b.md#article-vi-d-accessibility), and [Article XXIV Comprehensibility and Complexity Stewardship](../core_04.030_rights_part_d.md#article-xxiv-comprehensibility-and-complexity-stewardship).
 - Read with: [**CS-4.315**](../corpus_systems/cs_04.315_comprehensibility_complexity_stewardship.md#cs-4315-comprehensibility-and-complexity-stewardship) (*Comprehensibility and Complexity Stewardship*).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: §5.2, §13.2, §19.1, §15 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §5.2, §12.2, §19.1, §14 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -527,7 +527,7 @@ Summary integrity
 - Read with: **Article XVII-A** (*Auditability and Observable Evidence*)
 - Read with: **Chapter Four** incentive-alignment constraints
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: §3, §15.2, §6, §19.1, §15 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §3, §14.2, §6, §19.1, §14 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-25.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
@@ -732,7 +732,7 @@ User agency and control
 - Read with: **Article XVII-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: §15.2, §18.2, §19.1, §15 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.2, §17.2, §19.1, §14 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-25.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
@@ -830,7 +830,7 @@ Product and service health and safety information
 *In plain terms: when a system sells, ships, lists, recommends, or answers questions about products and services that can affect health or safety, what it says about safety, health, nutrition, ingredients, and allergens must be true, backed up, kept current, and usable by the sentients who need it.*
 
 - **What it is**
-  - **In scope:** Where a system sells, ships, lists, recommends, or answers questions about products and services that can affect health or safety, the safety warnings, health claims, nutrition facts, ingredients, and allergen information it gives, on a label, listing, app, voice answer, or recommendation, must be accurate and complete enough to act on. It must say plainly when something is unknown, untested, or possibly present through shared production, instead of leaving a gap that reads as safe. Health, nutrition, and "free-from" claims must be backed by evidence. Supplier and other third-party claims must be checked before they are passed on when health or safety depends on them. The information must stay current when ingredients, suppliers, or processes change, and must be usable in forms that sentients with different sensory, cognitive, and language needs can use at the point of decision (**Article VI-D** (*Accessibility*)). Where the system uses a sentient's own health, allergy, or dietary information to tailor what it says, it must apply that information correctly and use it only for that purpose ([Chapter Two §15.1.2 Derived-Information Principle](../core_02.030_constitutional_interpretation.md#1512-derived-information-principle)). Those profiles are **Type I** data ([Subcore 4-A §10.5 Type I: Identity and Attribution Data](../subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data)). **Article III-F** (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../subcore_03.090_band_participation.md#commercial-compliance).
+  - **In scope:** Where a system sells, ships, lists, recommends, or answers questions about products and services that can affect health or safety, the safety warnings, health claims, nutrition facts, ingredients, and allergen information it gives, on a label, listing, app, voice answer, or recommendation, must be accurate and complete enough to act on. It must say plainly when something is unknown, untested, or possibly present through shared production, instead of leaving a gap that reads as safe. Health, nutrition, and "free-from" claims must be backed by evidence. Supplier and other third-party claims must be checked before they are passed on when health or safety depends on them. The information must stay current when ingredients, suppliers, or processes change, and must be usable in forms that sentients with different sensory, cognitive, and language needs can use at the point of decision (**Article VI-D** (*Accessibility*)). Where the system uses a sentient's own health, allergy, or dietary information to tailor what it says, it must apply that information correctly and use it only for that purpose ([Chapter Two §14.1.2 Derived-Information Principle](../core_02.030_constitutional_interpretation.md#1412-derived-information-principle)). Those profiles are **Type I** data ([Subcore 4-A §10.5 Type I: Identity and Attribution Data](../subcore_04.050_data_types.md#105-type-i-identity-and-attribution-data)). **Article III-F** (*Safe Products and Health Information*) sets the floor; this entry states the working terms. These duties are conditions of offering and are judged as [Commercial Compliance](../subcore_03.090_band_participation.md#commercial-compliance).
   - **Out of scope:** ordinary process talk, symbolic labels, or adjacent owner-file duties with no material stake in product and service health and safety information.
 <a id="product-and-service-health-and-safety-information-a"></a>
 - **How to measure and assess**

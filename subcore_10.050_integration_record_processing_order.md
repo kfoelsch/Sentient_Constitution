@@ -37,7 +37,7 @@ The guarantees of Chapter Ten depend on the order in which the steps run and on 
     - [Flourishing](core_00.000_preamble.md#flourishing): a sentient can see exactly why a gated pathway is open or closed;
     - [Continuity](core_00.000_preamble.md#continuity): decisions keep running the same way when the technology fails;
 - Chapter Two principles:
-  - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
+  - [§12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle);
 - Chapter Four Articles:
   - [Article XX-C](core_04.030_rights_part_d.md#article-xx-c-contribution-competency-bars-and-gated-pathway-eligibility) (*Contribution, Competency Bars, and Gated-Pathway Eligibility*).
 

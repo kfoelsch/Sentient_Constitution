@@ -64,8 +64,8 @@ Where an official's decision can be overturned by a phone call, the public gets 
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients get honest findings and sound money they can rely on;
     - [Continuity](core_00.000_preamble.md#continuity): independence keeps public functions working across changes of power;
 - Chapter Two principles:
-  - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
-  - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
+  - [§16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist);
+  - [§17.3 Separation of Duties](core_02.050_governance_incentive_application.md#173-separation-of-duties);
   - [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture);
   - [§19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection);
 - Chapter Four Articles:

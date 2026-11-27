@@ -76,7 +76,7 @@ A system gets more of whatever it rewards ([What Systems Reward](core_00.000_pre
     - [Continuity](core_00.000_preamble.md#continuity): harm stops paying, which protects shared systems;
 - Chapter Two principles:
   - [§6.1 Correction and Remedy](core_02.000_values_principles.md#61-correction-and-remedy);
-  - [§13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality);
+  - [§12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality);
 - Chapter Four Articles:
   - [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
   - [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*);

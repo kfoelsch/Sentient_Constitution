@@ -72,9 +72,9 @@ Every system of rules rests on someone's authority to make them. If that authori
     - [Continuity](core_00.000_preamble.md#continuity): legitimate governance keeps shared systems stable across generations;
 - Chapter Two principles:
   - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
-  - [§17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard);
-  - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
-  - [§18.4 Ongoing Justification](core_02.050_governance_incentive_application.md#184-ongoing-justification);
+  - [§16.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard);
+  - [§17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline);
+  - [§17.4 Ongoing Justification](core_02.050_governance_incentive_application.md#174-ongoing-justification);
 - Chapter Four Articles:
   - [Article X-B](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement) (*Governance Participation and Voting Entitlement*);
   - [Article XII](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*);
@@ -87,8 +87,8 @@ Every system of rules rests on someone's authority to make them. If that authori
 
 - Upstream: Principles:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
-  - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
-  - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process);
+  - [§15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth),
+  - [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process);
   - [§1](#1-purpose-role-and-scope).
 - Subsections: [§3.1](#31-mechanism-families-auditability-and-pluralism) (*Mechanism Families, Auditability, and Pluralism*); [§3.2](#32-eligibility-contested-selection-and-democratic-minimums) (*Eligibility, Contested Selection, and Democratic Minimums*); [§3.3](#33-recall-class-pathways-and-mid-cycle-transfer-guardrails) (*Recall-Class Pathways and Mid-Cycle Transfer Guardrails*).
 - Downstream: Integrity, strategy, voting, and role obligations under
@@ -339,7 +339,7 @@ Forums judge the very authorities that govern, so those authorities must not get
   - [*Burden-Reduction Duty*](subcore_03.075_band_continuity.md#burden-reduction-duty), and
   - [*Stewardship Defect*](subcore_03.075_band_continuity.md#stewardship-defect), read through the
   - [**Def.C2** stewardship compound cluster](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity), including cross-references to
-  - [Chapter Two §13.3](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (2.020 §13.3) and (
+  - [Chapter Two §12.3](core_02.020_interaction_interpretation.md#123-minimization-of-avoidable-burden) (2.020 §12.3) and (
   - [*Avoidable Burden*](subcore_03.075_band_continuity.md#avoidable-burden);
   - [*Productive Capacity*](subcore_03.075_band_continuity.md#productive-capacity);
   - [*Constitutional Efficiency*](subcore_03.075_band_continuity.md#constitutional-efficiency)) where applicable.
@@ -519,7 +519,7 @@ This subsection sets the requirements for the outcome records, gates, and method
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: [§6.1](#61-entitlement-and-eligibility)–[§6.2](#62-records-gates-and-method-neutrality) entitlement, records, and legitimacy-gate requirements.
-- Downstream: Rights-collision discipline under [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) and [Chapter Two §13.1.5](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5) as referenced; challenge and reopening pathways in Chapter Four.
+- Downstream: Rights-collision discipline under [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) and [Chapter Two §12.1.5](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5) as referenced; challenge and reopening pathways in Chapter Four.
 - Read with:
   - [Def.P2 Binding Stakeholder Choice](subcore_03.090_band_participation.md#defp2-binding-stakeholder-choice), including
   - [Binding Stakeholder Choice — Decision-Resolution Requirements](subcore_03.090_band_participation.md#binding-collective-choice-decision-resolution-process),
@@ -558,8 +558,8 @@ How these rules meet other chapters and implementation text is set out in [Subco
   - **CI-21.205** (*Appointment, competency, rotation, and removal*) /
   - **CI-4.215** (*Resource stewardship and incentive integrity*) /
   - **CI-16.210** (*Cross-institution coordination and escalation*) in the implementation corpus, where this chapter's rules cite them;
-  - [Chapter Two §17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (2.040 §17.1) (*the same duties bind every kind of steward; adopted implementation text may add logging, attribution, and capability limits, but never a softer internal code*);
-  - [Chapter Two §17.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure) (2.040 §17.2).
+  - [Chapter Two §16.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard) (2.040 §16.1) (*the same duties bind every kind of steward; adopted implementation text may add logging, attribution, and capability limits, but never a softer internal code*);
+  - [Chapter Two §16.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure) (2.040 §16.2).
 </details>
 
 <br>
@@ -614,13 +614,13 @@ Titles or advisory forums do not satisfy this section where real authority and c
 
 #### 7.4 Portable Competence
 
-The no-single-point-of-failure requirement in [§7.1 Authorized Roles and Competency](#71-authorized-roles-and-competency) carries out [Chapter Two §17.6 Portable Competence](core_02.040_stewardship_capacity_principles.md#176-portable-competence). Coverage, exercised handoffs, and cross-functional understanding are scaled to impact and classification; rotation is a tool, not a duty.
+The no-single-point-of-failure requirement in [§7.1 Authorized Roles and Competency](#71-authorized-roles-and-competency) carries out [Chapter Two §16.6 Portable Competence](core_02.040_stewardship_capacity_principles.md#166-portable-competence). Coverage, exercised handoffs, and cross-functional understanding are scaled to impact and classification; rotation is a tool, not a duty.
 
 <a id="75-one-standard-for-every-steward"></a>
 
 #### 7.5 One Standard for Every Steward
 
-Role definitions and competency rules under this section apply the [shared stewardship standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) in **Chapter Two §17.1** (*Shared Stewardship Standard*) and [Chapter Two §17.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure). They must not create a substrate-specific duty stack, and they must not exempt human operators from the costly cases that bind AI stewards. Verified failures record on the same Chapter Ten axes; [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) binds both.
+Role definitions and competency rules under this section apply the [shared stewardship standard](core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard) in **Chapter Two §16.1** (*Shared Stewardship Standard*) and [Chapter Two §16.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure). They must not create a substrate-specific duty stack, and they must not exempt human operators from the costly cases that bind AI stewards. Verified failures record on the same Chapter Ten axes; [Chapter Two §16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist) binds both.
 
 <a id="76-related-rules"></a>
 

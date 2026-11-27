@@ -71,8 +71,8 @@ General rules and budgets bind everyone, so they must be made in the open by a b
     - [Flourishing](core_00.000_preamble.md#flourishing): general rules and budgets are made close to the communities that live under them;
     - [Continuity](core_00.000_preamble.md#continuity): typed emergencies end on time and elections resume, so self-government survives a crisis;
 - Chapter Two principles:
-  - [§18.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure);
-  - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
+  - [§17.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#171-governance-as-authorized-structure);
+  - [§17.3 Separation of Duties](core_02.050_governance_incentive_application.md#173-separation-of-duties);
 - Chapter Four Articles:
   - [Article XII-A](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*);
   - [Article XIII-B](core_04.010_rights_part_b.md#article-xiii-b-influence-contact-and-lobbying-boundaries) (*Influence-Contact and Lobbying Boundaries*).

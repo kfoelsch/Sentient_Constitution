@@ -27,7 +27,7 @@ This gateway does **not**:
 - Bind other parties, systems the declarant does not control, or non-consenting sentients
 - Create a Chapter Fourteen Standing Record, a Chapter Eight system alignment certification, or a Merits Determination
 - Let informal “we kind of follow it” practice claim constitutional protection while dodging matching obligations
-- Authorize self-appointment or self-certification ([Chapter Two §17.4](../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Authorize self-appointment or self-certification ([Chapter Two §16.4](../../core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization))
 - Replace operator adoption for systems under an operator’s authority
 - Prove inner alignment, training-time preference learning, or universal model favorability
 
@@ -75,7 +75,7 @@ Chapter Twenty-Nine adoption document, if a body adopts
 
 A Yes on the screen is not enforceability. A declaration does not certify the system.
 
-**Who sits it.** The same screen for AI stewards and human operators ([Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Alignment Under Pressure](../../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
+**Who sits it.** The same screen for AI stewards and human operators ([Chapter Two §16.1](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard) and [§16.2 Alignment Under Pressure](../../core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure)). An AI-only gateway would recreate the capture path the alignment framework already forbids.
 
 ---
 
@@ -91,7 +91,7 @@ This gateway sits **before** that path:
 - The declaration records a steward’s own-conduct commitment, edition-pinned, with an explicit non-adoption banner.
 - Item 17 asks whether a body that *can* adopt should record a Chapter Twenty-Nine adoption document for systems the steward acts inside.
 
-Do not treat a markdown declaration as the adoption document in [§12.2](../../core_23.000_amendment_ratification.md#122-adoption-document). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) clock).
+Do not treat a markdown declaration as the adoption document in [§12.2](../../core_23.000_amendment_ratification.md#122-adoption-document). Do not treat it as a polity participation check. Route material incorporation of companion text through the proper adoption process ([§16.1](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard) clock).
 
 ---
 

@@ -24,21 +24,16 @@
 
 Subcore 3-B is the constitutional owner of **definition integrity, evasion, and non-compliance for assessment work**.
 
-
-*In plain terms: this chapter blocks word-games — if behavior evades an applicable definition's real requirements, that counts as non-compliance even when paperwork looks fine.*
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: this chapter says when a system fails an applicable definition in practice: when what it does or produces would violate that definition, or when the definition is weakened at the point where it is applied. It sets what counts as failing. It does not say who must prove it.*
+*In plain terms: this chapter blocks word-games. A system fails an applicable definition when what it does or produces would violate that definition, or when the definition is weakened at the point where it is applied, and that counts as non-compliance even when the paperwork looks fine. This chapter sets what counts as failing; it does not say who must prove it.*
 
-**Purpose:** [Subcore 3-A](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements) sets how every definition is built. Subcore 3-B answers what it means to fail one:
-
-- a system is non-compliant when its actual behavior or output would violate an applicable definition, judged under full functional conditions and not only on paper (**section 4**);
-- weakening a definition when it is applied is also non-compliance, whatever the intent, awareness, or claim (**section 3**; **Subcore 3-A section 3.2** (*Non-Compliance by Structural or Applied Weakening*)); and
-- the chapter also provides finding profiles, optional labels that name the kind of constitutional problem for routing and audits (**section 5**).
+**Purpose:** [Subcore 3-A](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements) sets how every definition is built. Subcore 3-B makes sure a definition cannot be dodged. It decides whether a system has really failed a definition by looking at what the system actually does, not at how it is labeled or documented, so that no one can pass by bending a definition instead of meeting it.
 
 **Role:** The chapter sits between how definitions are built and how compliance is proved:
 
 - Subcore 3-A says how every definition is built. This chapter starts from that and does not change it.
+- The definitions it tests against are summarized in [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) and held in full in Subcores 3-D to 3-O: one apex file for each aim and leg ([Subcore 3-D](subcore_03.040_apex_accountability_leg.md#subcore-3-d-accountability-tetrad-leg) to 3-I) and one band file for each band ([Subcore 3-J](subcore_03.070_band_accountability.md#subcore-3-j-accountability-definitions) to 3-O), listed in the [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map).
 - [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) picks up from here and says who has to prove compliance, and how.
 - Some verified non-compliance findings also feed standing, the record of a party's verified help and harm kept under [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened). Only facts that pass the verified-input gate enter. **Section 5.1** to **section 5.3** say how this works for systems that are already certified, for systems at their first certification, and for sentients and institutions.
 
@@ -72,7 +67,7 @@ Systems rarely say they are ignoring a rule. More often they keep the words and 
     - [Continuity](core_00.000_preamble.md#continuity): closed loopholes stay closed over time;
 - Chapter Two principles:
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
-  - [§15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
+  - [§14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle);
   - [§19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
 - Chapter Four Articles:
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).

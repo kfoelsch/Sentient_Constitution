@@ -6,7 +6,7 @@
 > This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Six**: the cross-process requirement for functional independence and separation of duties. It follows [Chapter Five](core_05.000_charters.md#chapter-five-system-and-institutional-charters), which states the System Charter or Institutional Charter that carries the published seat map, and precedes the constitutional process chapters beginning with [Subcore 8-B — system alignment certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation).
 >
 > - **Constitutional owner:** the separation-of-duties requirement for materially binding acts, met through distinct seats; the universal minimum contents of each [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record); independence from the actor and the actor's [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); published lane and role placement; conflict, vacancy, substitution, and wrong-seat routing; proportionate merged hosting; attributable handoffs; the minimum independence conditions that every later constitutional process must apply. The standard requirements for a body named as an Independent Body moved to Chapter Seven on 2026-11-20.
-> - **Principle-layer source:** [Chapter Two §18.3](core_02.050_governance_incentive_application.md#183-separation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
+> - **Principle-layer source:** [Chapter Two §17.3](core_02.050_governance_incentive_application.md#173-separation-of-duties) requires governance to preserve functional independence and routes the operative seat architecture here.
 > - **Constitutional lanes:** [Subcore 6-A](subcore_06.010_constitutional_lanes.md#subcore-6-a-constitutional-lanes) (*Constitutional Lanes*), attached to this chapter, states the required lanes the seats are hosted in and how a lane map is assessed.
 > - **Implementation owner:** [CI-6.205 §2](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-2-functional-separation-lanes) (*Functional Separation Lanes*), and [CI-21.205 §6](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) place and operationalize the seats. They may be stricter and may add bounded special-authority seat types; they may not narrow this chapter.
 > - **Process-specific application remains downstream:** Chapter Eight applies this requirement to system alignment certification and to institutional alignment certification; [Subcore 10-B §7.1](subcore_10.020_standing_assessment.md#71-separation-of-duties) applies it to Standing Records; Chapter Twenty-Two and [corpus_forum.md](corpus_forum.md) apply it to forum process. Those chapters may add safeguards required by their subject matter; they may not create a weaker substitute.
@@ -20,8 +20,8 @@
 
 - Upstream:
   - [material stake](core_00.000_preamble.md#material-stake);
-  - [Chapter Two §17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (2.040 §17.1);
-  - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
+  - [Chapter Two §16.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard) (2.040 §16.1);
+  - [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17);
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 - Subsections:
   - [§1](#1-purpose-role-and-scope);
@@ -59,7 +59,7 @@ Chapter Six is the constitutional owner of the **functional-independence and sep
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: chapter opening owner claim; [Chapter Two §18](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18); [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional); [Accountability](subcore_03.040_apex_accountability_leg.md#accountability).
+- Upstream: chapter opening owner claim; [Chapter Two §17](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17); [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional); [Accountability](subcore_03.040_apex_accountability_leg.md#accountability).
 - Downstream: [§3](#3-four-seat-constitutional-requirement) through [§10](#10-relationship-to-later-processes); every later process that produces or changes a materially binding act.
 - Read with:
   - [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) (S3-C) for verification substrate;
@@ -134,8 +134,8 @@ These examples do not show that any one system is flawless. They show that the i
     - [Flourishing](core_00.000_preamble.md#flourishing): mistakes and lies are caught before they harm sentients;
     - [Continuity](core_00.000_preamble.md#continuity): separated duties make capture and slow decay harder;
 - Chapter Two principles:
-  - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
-  - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
+  - [§16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist);
+  - [§17.3 Separation of Duties](core_02.050_governance_incentive_application.md#173-separation-of-duties);
   - [§19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection);
 - Chapter Four Articles:
   - [Article XIII-A](core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*);
@@ -162,7 +162,7 @@ This subsection explains the reasons for the number four. It is non-operative: t
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§1](#1-purpose-role-and-scope); [Chapter Two §18.3](core_02.050_governance_incentive_application.md#183-separation-of-duties) (2.050 §18.3); [Chapter Two §17.1](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (2.040 §17.1).
+- Upstream: [§1](#1-purpose-role-and-scope); [Chapter Two §17.3](core_02.050_governance_incentive_application.md#173-separation-of-duties) (2.050 §17.3); [Chapter Two §16.1](core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard) (2.040 §16.1).
 - Downstream: [§4](#4-independence-conflict-and-control-lines) through [§10](#10-relationship-to-later-processes); [CI-21.205 §6](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-21205-6-seat-catalog--process-role-archetypes-and-operational-boundaries) (*Seat Catalog — Process-Role Archetypes and Operational Boundaries*).
 - Read with: [§7](#7-proportional-scaling-and-merged-hosting) for the only permitted merged-hosting path.
 </details>
@@ -259,7 +259,7 @@ Where scope is mixed or classification is uncertain, apply the highest applicabl
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§3](#3-four-seat-constitutional-requirement); [Authority-scaled answerability](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure); [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
+- Upstream: [§3](#3-four-seat-constitutional-requirement); [Authority-scaled answerability](core_02.050_governance_incentive_application.md#171-governance-as-authorized-structure); [Article XXVI](core_04.030_rights_part_d.md#article-xxvi-constitutional-interpretation-review-and-anti-capture-safeguards) (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*).
 - Downstream: [§5](#5-wrong-seat-routing); [§6](#6-published-placement-vacancy-and-substitution); [§9](#9-act-records-and-attributable-handoffs); Chapter Eight certification component roles; Chapter Fourteen record custody; Chapter Twenty-Two forum anti-self-judging.
 - Read with: [Material Control Line](subcore_03.070_band_accountability.md#material-control-line); [CI-6.210](corpus_institutions/ci_06.210_conflict_integrity_anti_capture_anti_corruption.md#ci-6210-conflict-integrity-anti-capture-and-anti-corruption) (*Conflict integrity, anti-capture, and anti-corruption*) and [CF-16.425](corpus_forum/cf_16.425_integrity_safeguards_anti_capture_anti_self_judging.md#cf-16425-integrity-safeguards-anti-capture-operations-and-anti-self-judging-support) (*Integrity safeguards, anti-capture operations, and anti-self-judging support*) for operational conflict and anti-self-judging safeguards.
 </details>
@@ -287,7 +287,7 @@ Independence is not satisfied by a second signature, a nominal committee, an int
 
 - Upstream: [§3](#3-four-seat-constitutional-requirement); [§4](#4-independence-conflict-and-control-lines).
 - Downstream: [§6](#6-published-placement-vacancy-and-substitution); [§9](#9-act-records-and-attributable-handoffs); [CI-21.205 §6 shared seat rules](corpus_institutions/ci_21.205_appointment_competency_rotation_removal.md#ci-46-shared-seat-rules).
-- Read with: [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (2.040 §17.5).
+- Read with: [Chapter Two §16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist) (2.040 §16.5).
 </details>
 
 <br>

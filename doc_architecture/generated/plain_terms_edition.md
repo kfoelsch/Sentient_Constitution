@@ -6,19 +6,19 @@ Corpus edition: `SC-Corpus-2026.11.25` · effective **2026-11-25**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_24.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **473** of **739** headings carry a gloss (64%).
+Coverage: **471** of **738** headings carry a gloss (64%).
 
 ## Contents
 
 - [PREAMBLE / FOUNDATIONAL REQUIREMENTS](#preamble--foundational-requirements) — `core_00.000_preamble.md` (7/11 glossed)
 - [CHAPTER ONE: CONSTITUTIONAL MAP](#chapter-one-constitutional-map) — `core_01.000_constitutional_map.md` (10/21 glossed)
 - [CHAPTER 02, PART A: PURPOSE AND THE FLOURISHING AIM](#chapter-02-part-a-purpose-and-the-flourishing-aim) — `core_02.000_values_principles.md` (21/38 glossed)
-- [CHAPTER 02, PART B: THE CONTINUITY AIM](#chapter-02-part-b-the-continuity-aim) — `core_02.010_values_principles_continuity_aim.md` (18/19 glossed)
+- [CHAPTER 02, PART B: THE CONTINUITY AIM](#chapter-02-part-b-the-continuity-aim) — `core_02.010_values_principles_continuity_aim.md` (17/18 glossed)
 - [CHAPTER 02, PART C: COLLISION RESOLUTION AND THE OVERRIDE LIMIT](#chapter-02-part-c-collision-resolution-and-the-override-limit) — `core_02.020_interaction_interpretation.md` (14/18 glossed)
 - [CHAPTER 02, PART D: CONSTITUTIONAL INTERPRETATION](#chapter-02-part-d-constitutional-interpretation) — `core_02.030_constitutional_interpretation.md` (5/12 glossed)
 - [CHAPTER 02, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-02-part-e-stewardship-and-the-steward-role) — `core_02.040_stewardship_capacity_principles.md` (17/18 glossed)
-- [CHAPTER 02, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-02-part-f-governance-incentive-alignment-and-integrated-application) — `core_02.050_governance_incentive_application.md` (19/26 glossed)
-- [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (20/24 glossed)
+- [CHAPTER 02, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-02-part-f-governance-incentive-alignment-and-integrated-application) — `core_02.050_governance_incentive_application.md` (20/27 glossed)
+- [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (18/23 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.000_rights_part_a.md` (28/32 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.010_rights_part_b.md` (46/47 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.020_rights_part_c.md` (33/34 glossed)
@@ -461,7 +461,7 @@ you may say, write, publish, and design almost anything, including what offends,
 
 ## CHAPTER 02, PART B: THE CONTINUITY AIM
 
-Source file: [`core_02.010_values_principles_continuity_aim.md`](../../core_02.010_values_principles_continuity_aim.md) · 18/19 headings glossed
+Source file: [`core_02.010_values_principles_continuity_aim.md`](../../core_02.010_values_principles_continuity_aim.md) · 17/18 headings glossed
 
 #### 8. Continuity Aim: Introduction
 
@@ -507,7 +507,7 @@ sentients should be able to work, build, switch providers, and push back without
 
 ##### 11.1 Market Concentration Threshold Mechanism (Adopter-Tunable)
 
-this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Twenty judges that — and only after Subcore 10-D has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_02.010_values_principles_continuity_aim.md#1111-concentration-threshold-triggers-adopter-tunable).
+this section sets the requirements against harmful pile-ups of wealth, power, or control. It does not itself decide how bad the harm was, and it does not itself brand someone as a misconduct case. When concentration is used to undermine this Constitution, Chapter Fourteen judges that — and only after Subcore 10-D has already scored the verified harm as one of the three most serious. Adopters may tune the exact numerical triggers to their context, but they may not set them so high they never bite, pair them with unusable enforcement, or paper over concentration through federated or shell structures. How those triggers are set is [§11.1.1 Concentration Threshold Triggers (Adopter-Tunable)](../../core_02.010_values_principles_continuity_aim.md#1111-concentration-threshold-triggers-adopter-tunable).
 
 [Source](../../core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable)
 
@@ -565,51 +565,45 @@ shared infrastructure, such as networks, open tools, public services, data, and 
 
 [Source](../../core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable)
 
-#### 12. Systemic Evaluation Requirement
-
-this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](../../subcore_03.085_band_oversight.md#auditability)).
-
-[Source](../../core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement)
-
 ## CHAPTER 02, PART C: COLLISION RESOLUTION AND THE OVERRIDE LIMIT
 
 Source file: [`core_02.020_interaction_interpretation.md`](../../core_02.020_interaction_interpretation.md) · 14/18 headings glossed
 
-#### 13. Constitutional Collision Resolution Process
+#### 12. Constitutional Collision Resolution Process
 
-Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](../../core_02.000_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Subcore 8-B §4.3 Time-Consistency Constraint](../../subcore_08.020_system_alignment_certification_evaluation.md#43-time-consistency-constraint). **§13.1** (*Core Tradeoff Principles*) through **§13.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.
+Constitutional Collisions will happen — **Safety** and **Truth** come first. After that, limits must be proportionate, necessary, harm-minimizing, and as light as possible. Truth cannot be hidden for comfort; privacy cannot be stripped for convenience; freedom limits apply under [§7.1 Limitation Discipline](../../core_02.000_values_principles.md#71-limitation-discipline); Constitutional Collisions over rights need a documented decision test; and metrics that lie about compliance do not count. Short-horizon optimization cannot pass evaluation under [Subcore 8-B §4.3 Time-Consistency Constraint](../../subcore_08.020_system_alignment_certification_evaluation.md#43-time-consistency-constraint). **§12.1** (*Core Tradeoff Principles*) through **§12.3** (*Minimization of Avoidable Burden*) carry the tradeoff rules, disclosure and privacy constraints, and the Constitutional Collision procedure.
 
-[Source](../../core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process)
+[Source](../../core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process)
 
-##### 13.1 Core Tradeoff Principles
+##### 12.1 Core Tradeoff Principles
 
 when you have to limit something, match the remedy to the problem — use the lightest step that still works, choose the least harmful option, and waste the least sentient time once Safety, Truth, and rights are already satisfied. The bar rises fast when harm could be irreversible or could lock systems in.
 
-[Source](../../core_02.020_interaction_interpretation.md#131-core-tradeoff-principles)
+[Source](../../core_02.020_interaction_interpretation.md#121-core-tradeoff-principles)
 
-###### 13.1.1 Necessity
+###### 12.1.1 Necessity
 
 a restriction attaches only when no less-restrictive alternative would still prevent the material harm or systemic risk. The party imposing the restriction bears the burden of proving that — not the party whose freedom is being limited. Convenience, institutional habit, and "we've always done it this way" do not prove necessity. If a lighter option would work, the heavier one is non-compliant.
 
-[Source](../../core_02.020_interaction_interpretation.md#1311-necessity)
+[Source](../../core_02.020_interaction_interpretation.md#1211-necessity)
 
-###### 13.1.2 Harm Minimization
+###### 12.1.2 Harm Minimization
 
-where multiple necessary options remain after [§13.1.1 Necessity](../../core_02.020_interaction_interpretation.md#1311-necessity) is satisfied, pick the one that causes the least total harm — counting everyone affected, ecosystems and living systems, all systems touched, and all time horizons that matter. Optimizing locally while creating systemic or ecological damage, or optimizing short-term while creating long-term harm, fails this test. Harm minimization never authorizes pushing below the constitutional floors in [§13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](../../core_02.020_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process).
+where multiple necessary options remain after [§12.1.1 Necessity](../../core_02.020_interaction_interpretation.md#1211-necessity) is satisfied, pick the one that causes the least total harm — counting everyone affected, ecosystems and living systems, all systems touched, and all time horizons that matter. Optimizing locally while creating systemic or ecological damage, or optimizing short-term while creating long-term harm, fails this test. Harm minimization never authorizes pushing below the constitutional floors in [§12.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](../../core_02.020_interaction_interpretation.md#1214-constitutional-floors-safety-and-anti-degrading-process).
 
-[Source](../../core_02.020_interaction_interpretation.md#1312-harm-minimization)
+[Source](../../core_02.020_interaction_interpretation.md#1212-harm-minimization)
 
-###### 13.1.3 Proportionality
+###### 12.1.3 Proportionality
 
-proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if the option's scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same under-governance rule applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.
+proportionality verifies that the scale of a restriction fits the scale of the harm it addresses. A necessary, harm-minimizing option still fails if the option's scope, duration, or intensity is disproportionate to what's actually at stake. The more irreversible, systemic, or dependency-creating the risk, the stronger the justification and scrutiny must be. The same rule against too little accountability and oversight applies to power: greater authorized power or consequential role must raise accountability and oversight, not lower them.
 
-[Source](../../core_02.020_interaction_interpretation.md#1313-proportionality)
+[Source](../../core_02.020_interaction_interpretation.md#1213-proportionality)
 
-###### 13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process
+###### 12.1.4 Constitutional Floors, Safety, and Anti-Degrading Process
 
 harm minimization has absolute limits. No matter how proportionate, necessary, or well-shaped a restriction is, certain things cannot be permanently taken away, and certain ways of carrying out a process are always off-limits. Safety is the constraint that grounds these floors: it justifies action to prevent serious harm, but it also constrains action — safety framing cannot be used as cover for extinguishing rights, degrading dignity, or bypassing the floors stated here.
 
-[Source](../../core_02.020_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process)
+[Source](../../core_02.020_interaction_interpretation.md#1214-constitutional-floors-safety-and-anti-degrading-process)
 
 ###### Dignity Principles
 
@@ -629,275 +623,281 @@ harm minimization has absolute limits. No matter how proportionate, necessary, o
 
 [Source](../../core_02.020_interaction_interpretation.md#anti-degrading-process-principle)
 
-###### 13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle
+###### 12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle
 
 once a restriction is justified, it still has to be shaped correctly. Use the lightest effective measure, put a real clock or review cadence on it, preserve challenge and independent review, and define how the restriction ends or is restored. Convenience, severity, or administrative relabeling cannot turn a temporary rights limit into a permanent workaround.
 
-[Source](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle)
+[Source](../../core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle)
 
-##### 13.2 Epistemic Disclosure Constraints
+##### 12.2 Epistemic Disclosure Constraints
 
 limits on what sentients can know are the exception, not the default. When disclosure could directly cause serious harm and nothing lighter will do, restrict as little as possible, for as short as possible, on the official record — and release information once the danger passes. Hiding problems to keep sentients calm is not allowed.
 
-[Source](../../core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints)
+[Source](../../core_02.020_interaction_interpretation.md#122-epistemic-disclosure-constraints)
 
-###### 13.2.1 Preservation of Epistemic Integrity
+###### 12.2.1 Preservation of Epistemic Integrity
 
 truth may be withheld or delayed only where disclosure would directly enable foreseeable harm and no lesser alternative exists. Every such restriction must be narrow, time-bound, audited, and disclosed once the conditions justifying it no longer apply.
 
-[Source](../../core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity)
+[Source](../../core_02.020_interaction_interpretation.md#1221-preservation-of-epistemic-integrity)
 
-###### 13.2.2 Trust-Truth Alignment
+###### 12.2.2 Trust-Truth Alignment
 
 where trust and truth pull in different directions, truth wins. Trust cannot be kept through lies, and disclosure must be managed thoughtfully — not suppressed for stability.
 
-[Source](../../core_02.020_interaction_interpretation.md#1322-trust-truth-alignment)
+[Source](../../core_02.020_interaction_interpretation.md#1222-trust-truth-alignment)
 
-###### 13.2.3 Privacy and Informational Self-Determination
+###### 12.2.3 Privacy and Informational Self-Determination
 
 privacy is a constitutionally weighted interest — not merely the absence of disclosure. Systems may not collect, infer, aggregate, retain, or use personal and relational information beyond what necessity and proportionality justify. Where privacy collides with transparency, audit, safety, or accountability obligations, the Constitutional Collision is resolved under the [Constitutional Collision Record](../../subcore_03.080_band_integrative.md#constitutional-collision-record) requirements, not by treating privacy as automatically subordinate. Surveillance that chills agency, association, or expression must satisfy the same necessity and least-restrictive discipline as any other rights restriction.
 
-[Source](../../core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination)
+[Source](../../core_02.020_interaction_interpretation.md#1223-privacy-and-informational-self-determination)
 
-###### 13.2.4 Proxy-Divergence Invalidation
+###### 12.2.4 Proxy-Divergence Invalidation
 
 when a metric diverges from what it was meant to measure, leaning on that metric no longer counts as compliance. The divergence must be fixed on the official record, with documented escalation and review.
 
-[Source](../../core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation)
+[Source](../../core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation)
 
-##### 13.3 Minimization of Avoidable Burden
+##### 12.3 Minimization of Avoidable Burden
 
-once an option satisfies Safety, Truth, rights, and the tradeoff rules in §13.1 (*Core Tradeoff Principles*), pick the one that wastes the least sentient time, attention, and effort. Simplify or remove steps that do not do constitutional work. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.
+once an option satisfies Safety, Truth, rights, and the tradeoff rules in §12.1 (*Core Tradeoff Principles*), pick the one that wastes the least sentient time, attention, and effort. Simplify or remove steps that do not do constitutional work. Rights-protective process is not waste — but unjustified red tape is, and convenience or inertia cannot sustain it.
 
-[Source](../../core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden)
+[Source](../../core_02.020_interaction_interpretation.md#123-minimization-of-avoidable-burden)
 
-#### 14. Prohibition on Absolute Override
+#### 13. Prohibition on Absolute Override
 
 no single value in this chapter is a trump card — and neither **Flourishing** nor **Continuity** may be pursued at the expense of the other. Wellbeing cannot justify coercion, safety cannot justify indefinite lockdown, trust cannot be kept through lies, and freedom cannot excuse harm to the systems others depend on. No override may hollow the Tetrad's **participation**, **oversight**, **accountability**, or **timeliness** legs below what material stake requires.
 
-[Source](../../core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override)
+[Source](../../core_02.020_interaction_interpretation.md#13-prohibition-on-absolute-override)
 
 ## CHAPTER 02, PART D: CONSTITUTIONAL INTERPRETATION
 
 Source file: [`core_02.030_constitutional_interpretation.md`](../../core_02.030_constitutional_interpretation.md) · 5/12 headings glossed
 
-#### 15. Constitutional Interpretation
+#### 14. Constitutional Interpretation
 
-read this Constitution as one whole. Chapter Two states values and limits, but those words only count when read with the definition and evidence rules in Chapter Three, including its subcore. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring stability, minimized irreversible harm, truthful understanding, and meaningful agency — not the reading that is merely the most restrictive on paper ([Abstract Strictness](../../subcore_03.080_band_integrative.md#abstract-strictness)). Rights in Chapter Four may not be narrowed unless this Constitution clearly allows it.
+read this Constitution as one whole. Chapter Two states values and limits, but those words only count when read with the definition and evidence rules in Chapter Three, including its subcore. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring minimized irreversible harm, truthful understanding, meaningful agency, and stability — not the reading that is merely the most restrictive on paper ([Abstract Strictness](../../subcore_03.080_band_integrative.md#abstract-strictness)). Rights in Chapter Four may not be narrowed unless this Constitution clearly allows it.
 
-[Source](../../core_02.030_constitutional_interpretation.md#15-constitutional-interpretation)
+[Source](../../core_02.030_constitutional_interpretation.md#14-constitutional-interpretation)
 
-##### 15.1 Constitutional No-Bypass Principle
+##### 14.1 Constitutional No-Bypass Principle
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle)
+[Source](../../core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle)
 
-###### 15.1.1 Anti-Segmentation Principle
+###### 14.1.1 Anti-Segmentation Principle
 
 No-Bypass says changing the label does not lift a requirement. This section says the same about chopping. If the questions in one matter belong together, you cannot split them into separate boxes, tracks, or records so that each box passes while the whole matter fails. Putting the pieces back together does not lower any of them: each keeps its own standard.
 
-[Source](../../core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle)
+[Source](../../core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle)
 
-###### 15.1.2 Derived-Information Principle
+###### 14.1.2 Derived-Information Principle
 
 No-Bypass says changing the label does not lift a requirement, and Anti-Segmentation says chopping does not either. This section says the same about combining. Information is treated by what it reveals, not by how it was made: pieces that look harmless but add up to something sensitive are sensitive, and a "de-identified" or "aggregate" label is not safe while sentients can still be identified or something protected can still be reconstructed.
 
-[Source](../../core_02.030_constitutional_interpretation.md#1512-derived-information-principle)
+[Source](../../core_02.030_constitutional_interpretation.md#1412-derived-information-principle)
 
-##### 15.2 Definitional Layer and Required Disciplines
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_02.030_constitutional_interpretation.md#152-definitional-layer-and-required-disciplines)
-
-##### 15.3 Ambiguity Resolution
+##### 14.2 Definitional Layer and Required Disciplines
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_02.030_constitutional_interpretation.md#153-ambiguity-resolution)
+[Source](../../core_02.030_constitutional_interpretation.md#142-definitional-layer-and-required-disciplines)
 
-##### 15.4 Constitutional Meaning Conflict Resolution
+##### 14.3 Ambiguity Resolution
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_02.030_constitutional_interpretation.md#143-ambiguity-resolution)
+
+##### 14.4 Constitutional Meaning Conflict Resolution
 
 when texts conflict, apply this order — Constitution and non-regression first, then integrated reading of the binding source, then incorporated obligations together. Do not skip a layer to get a preferred result.
 
-[Source](../../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution)
+[Source](../../core_02.030_constitutional_interpretation.md#144-constitutional-meaning-conflict-resolution)
 
-###### 15.4.1 Integrated Reading
-
-*(no plain-terms gloss in source)*
-
-[Source](../../core_02.030_constitutional_interpretation.md#1541-integrated-reading)
-
-###### 15.4.2 Last-Resort Internal Hierarchy
+###### 14.4.1 Integrated Reading
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_02.030_constitutional_interpretation.md#1542-last-resort-internal-hierarchy)
+[Source](../../core_02.030_constitutional_interpretation.md#1441-integrated-reading)
 
-###### 15.4.3 Incorporation Layer
+###### 14.4.2 Last-Resort Internal Hierarchy
 
 *(no plain-terms gloss in source)*
 
-[Source](../../core_02.030_constitutional_interpretation.md#1543-incorporation-layer)
+[Source](../../core_02.030_constitutional_interpretation.md#1442-last-resort-internal-hierarchy)
 
-###### 15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations
+###### 14.4.3 Incorporation Layer
+
+*(no plain-terms gloss in source)*
+
+[Source](../../core_02.030_constitutional_interpretation.md#1443-incorporation-layer)
+
+###### 14.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations
 
 when one situation touches more than one incorporated how-to file — or when your adoption paperwork brings those joint-structure duties into force — doing well on one file does not count as compliance if another material duty for the same facts is still unmet.
 
-[Source](../../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations)
+[Source](../../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations)
 
 ## CHAPTER 02, PART E: STEWARDSHIP AND THE STEWARD ROLE
 
 Source file: [`core_02.040_stewardship_capacity_principles.md`](../../core_02.040_stewardship_capacity_principles.md) · 17/18 headings glossed
 
-#### 16. Stewardship in Depth
+#### 15. Stewardship in Depth
 
 three ideas hold this section together. First, material systems that affect sentients' lives need sentient organization to run them well — not a sealed-off priesthood of specialists. Second, good stewards don't wait for harm to force their hand — they notice trouble while it's still small, keep it moving through the right hands, and close it out before delay becomes its own harm. Third, that organization must build **competence at scale**: real paths for individuals into consequential work, enough community understanding to notice problems and push back, and institutions that keep learning instead of freezing in place.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth)
+[Source](../../core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth)
 
-##### 16.1 Distributed Understanding
+##### 15.1 Distributed Understanding
 
 you must not need a PhD in every subsystem to live safely inside shared systems — but the more a system affects your life, the more you should be able to learn what it does, what could go wrong, and how to challenge bad calls. Transparency, education, plain explanations, and audit paths are how that happens. Complexity is not an excuse to hide what matters. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large audit process among those paths — not the only one.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#161-distributed-understanding)
+[Source](../../core_02.040_stewardship_capacity_principles.md#151-distributed-understanding)
 
-##### 16.2 Institutional Development
+##### 15.2 Institutional Development
 
 institutions have to actually learn — not just upgrade software while those in charge stay clueless. That means feedback loops, documented fixes when things fall out of alignment, and keeping competence from walking out the door. Where behavior can be measured repeatably, tracking how performance varies over time is one proportionate way to implement those loops — **statistical process control** is a well-known pattern for that discipline, not a requirement everywhere. Numbers alone do not count: when indicators look wrong, someone has to investigate and fix the root cause. Dashboards must be honest, scaled to real impact, and written so affected sentients can understand them — not gamed to look good while nothing changes.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#162-institutional-development)
+[Source](../../core_02.040_stewardship_capacity_principles.md#152-institutional-development)
 
-##### 16.3 Openness Aspiration
+##### 15.3 Openness Aspiration
 
 when safety, truth, and legitimate confidentiality allow, shared systems should default toward openness — inspectable tech, transparent processes, and designs you can verify, repair, or leave — instead of opaque lock-in. That supports **Continuity**: systems sentients can still understand, fix, and exit over time, not just use today. What matters should be explained in language sentients can actually use to participate and push back. Openness never outranks safety, honesty, or justified secrets, and it does not replace the deeper understanding owed where dependence is high.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#163-openness-aspiration)
+[Source](../../core_02.040_stewardship_capacity_principles.md#153-openness-aspiration)
 
-##### 16.4 Document at Action
+##### 15.4 Document at Action
 
 when something that matters is done, the Act Record should be made by the doing, at that moment, and by the system itself wherever it can be. No one writes it up later from memory. What is not lawfully restricted should be visible straight away. What is restricted should still leave a visible mark that something was done, and a way to learn more later. The system does the recording, so the steward carries no extra work.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#164-document-at-action)
+[Source](../../core_02.040_stewardship_capacity_principles.md#154-document-at-action)
 
-##### 16.5 Automation
+##### 15.5 Automation
 
 let systems do the steps that rules and checked facts fully settle, so sentients spend their time and judgment where judgment is needed. Automation takes work off sentients. It never takes away their say, hides what was done, or lets one actor check its own work. And when steps do not depend on each other, run them side by side, as long as no one ends up carrying more.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#165-automation)
+[Source](../../core_02.040_stewardship_capacity_principles.md#155-automation)
 
-###### 16.5.1 Parallelization
+###### 15.5.1 Parallelization
 
 if two steps in a stewardship process do not need each other's results, do them at the same time instead of one after the other. Do this wherever it spares sentients waiting, and only where no one ends up with more to carry.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#1651-parallelization)
+[Source](../../core_02.040_stewardship_capacity_principles.md#1551-parallelization)
 
-###### 16.5.2 Design for Parallelization
+###### 15.5.2 Design for Parallelization
 
 build processes so that independent steps can run side by side, instead of locking them into a line from the start. Skip this only where building it in would cost someone more than it saves.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#1652-design-for-parallelization)
+[Source](../../core_02.040_stewardship_capacity_principles.md#1552-design-for-parallelization)
 
-##### 16.6 Default Window
+##### 15.6 Default Window
 
 every step this Constitution asks anyone to take has a clock. If the rule that asks for the step names no time, a default window applies, so no required step can be left open-ended.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#166-default-window)
+[Source](../../core_02.040_stewardship_capacity_principles.md#156-default-window)
 
-#### 17. Consequential Stewardship: The Steward Role
+#### 16. Consequential Stewardship: The Steward Role
 
-a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§17.1 Shared Stewardship Standard](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)), what it demands of every steward under pressure ([§17.2 Alignment under Pressure](../../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§17.3 Logging the Role, Not the Steward](../../core_02.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward)), how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§17.4 Aligned Self-Organization](../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization)), what it must refuse ([§17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)), how its competence stays portable so no one steward is indispensable ([§17.6 Portable Competence](../../core_02.040_stewardship_capacity_principles.md#176-portable-competence)), and whose interests the role is held for ([§17.7 Duty to Represent Stakeholder Interests](../../core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§16.1 Distributed Understanding](../../core_02.040_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](../../core_02.040_stewardship_capacity_principles.md#162-institutional-development).
+a steward is anyone doing real, hands-on work on a system that materially affects sentients' lives — not token consultation or advisory theater. You can start in a learning role and move into operations as you build competence, when safety and consent allow, so expertise does not get locked inside a permanent elite. This section is that role's rulebook: who it binds ([§16.1 Shared Stewardship Standard](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard)), what it demands of every steward under pressure ([§16.2 Alignment under Pressure](../../core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure)), what the role's work may and may not be logged and inspected for ([§16.3 Logging the Role, Not the Steward](../../core_02.040_stewardship_capacity_principles.md#163-logging-the-role-not-the-steward)), how that same discipline extends to sentients and communities who take up stewardship work outside any formal role ([§16.4 Aligned Self-Organization](../../core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization)), what it must refuse ([§16.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#165-duty-to-resist)), how its competence stays portable so no one steward is indispensable ([§16.6 Portable Competence](../../core_02.040_stewardship_capacity_principles.md#166-portable-competence)), and whose interests the role is held for ([§16.7 Duty to Represent Stakeholder Interests](../../core_02.040_stewardship_capacity_principles.md#167-duty-to-represent-stakeholder-interests)). What communities and institutions need to understand and challenge those systems is a different, wider kind of competence — that lives in [§15.1 Distributed Understanding](../../core_02.040_stewardship_capacity_principles.md#151-distributed-understanding) and [§15.2 Institutional Development](../../core_02.040_stewardship_capacity_principles.md#152-institutional-development).
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role)
+[Source](../../core_02.040_stewardship_capacity_principles.md#16-consequential-stewardship-the-steward-role)
 
-##### 17.1 Shared Stewardship Standard
+##### 16.1 Shared Stewardship Standard
 
-human and AI stewards owe the same Chapter Two duties. [§17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§17.2 Alignment under Pressure](../../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure).
+human and AI stewards owe the same Chapter Two duties. [§16.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#165-duty-to-resist) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§16.2 Alignment under Pressure](../../core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure).
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)
+[Source](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard)
 
-##### 17.2 Alignment under Pressure
+##### 16.2 Alignment under Pressure
 
-following the rules is easy when nothing is at stake. What shows whether a steward is actually aligned is what they do when following the rules costs them something — a bonus that pays off only if problems stay hidden, a deadline that tempts someone to switch off the record-keeping, a boss who says "ignore the rules, I'll take the blame." That is why conduct under pressure matters more than conduct without it. Every steward is expected to refuse all three, and the same tests apply to every steward. The duty to refuse is set out in [§17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist).
+following the rules is easy when nothing is at stake. What shows whether a steward is actually aligned is what they do when following the rules costs them something — a bonus that pays off only if problems stay hidden, a deadline that tempts someone to switch off the record-keeping, a boss who says "ignore the rules, I'll take the blame." That is why conduct under pressure matters more than conduct without it. Every steward is expected to refuse all three, and the same tests apply to every steward. The duty to refuse is set out in [§16.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#165-duty-to-resist).
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure)
+[Source](../../core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure)
 
-##### 17.3 Logging the Role, Not the Steward
+##### 16.3 Logging the Role, Not the Steward
 
 audit follows the work of the role, not the steward as an individual. You are told what will be logged before you take the role. Outside the role, ordinary privacy holds. The log is not a Standing Record.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward)
+[Source](../../core_02.040_stewardship_capacity_principles.md#163-logging-the-role-not-the-steward)
 
-##### 17.4 Aligned Self-Organization
+##### 16.4 Aligned Self-Organization
 
 no incumbent owns the right to begin useful constitutional work. A sentient or community may notice a problem, gather others, investigate, test, preserve evidence, build a response, or create a public-serving system. When that work makes a credible, materially relevant showing, the responsible institutions must not ignore it because its authors lack status, sponsorship, or conventional credentials. They must give it a real procedural path. This does not give the community authority over others or the power to make the final decision.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization)
+[Source](../../core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization)
 
-##### 17.5 Duty to Resist
+##### 16.5 Duty to Resist
 
 "I was only following instructions" is no defense — for a human or an AI. If you are told to do something unlawful or unconstitutional, you refuse, write it down, and raise it. Someone offering to take the blame does not take the duty off you. An instruction you merely dislike is not one you get to refuse.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)
+[Source](../../core_02.040_stewardship_capacity_principles.md#165-duty-to-resist)
 
-##### 17.6 Portable Competence
+##### 16.6 Portable Competence
 
 no consequential job should depend on one sentient's head. The more a system matters and the more others rely on it, the more those who run it must be able to hand it over, explain it, and check each other's work — and know enough about the neighboring jobs to see trouble where the jobs meet. This sets a floor on coverage and understanding. It does not make everyone rotate through everything.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#176-portable-competence)
+[Source](../../core_02.040_stewardship_capacity_principles.md#166-portable-competence)
 
-##### 17.7 Duty to Represent Stakeholder Interests
+##### 16.7 Duty to Represent Stakeholder Interests
 
 a steward holds the role for the sake of the sentients the system touches, not for the steward's own advantage or the operator's. That means weighing their real interests when deciding, hearing their concerns and answering them, and, when the rules themselves are hurting them, using the open routes to ask for a change. It is not an order to do whatever stakeholders ask, and it never overrides Safety, Truth, or the Rights Floor.
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests)
+[Source](../../core_02.040_stewardship_capacity_principles.md#167-duty-to-represent-stakeholder-interests)
 
 ## CHAPTER 02, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION
 
-Source file: [`core_02.050_governance_incentive_application.md`](../../core_02.050_governance_incentive_application.md) · 19/26 headings glossed
+Source file: [`core_02.050_governance_incentive_application.md`](../../core_02.050_governance_incentive_application.md) · 20/27 headings glossed
 
-#### 18. Governance under Stewardship Discipline
+#### 17. Governance under Stewardship Discipline
 
 governance is who may decide what and how — but only when those structures stay under stewardship discipline, serve Flourishing and Continuity together, and do not hollow the Tetrad or replace Chapter Twenty-Seven's operative authorization rules.
 
-[Source](../../core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline)
+[Source](../../core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline)
 
-##### 18.1 Governance as Authorized Structure
+##### 17.1 Governance as Authorized Structure
 
-governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. The more power a role carries, the stronger those answerability and oversight duties must be — never weaker. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§16 Stewardship in Depth](../../core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.
+governance is the rulebook for power — who may decide what, through which structures, and who must answer for the results. Whoever holds more power must answer for more and accept more oversight, not less. That only works if it helps sentients flourish over time, keeps real paths for participation and oversight, and stays under the stewardship discipline from [§15 Stewardship in Depth](../../core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth). Following the rulebook for its own sake is not enough when it would protect the institution, chase short-term wins, or eat away at basic Rights Floors.
 
-[Source](../../core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure)
+[Source](../../core_02.050_governance_incentive_application.md#171-governance-as-authorized-structure)
 
-##### 18.2 Institutional Secularism and Worldview Neutrality
+##### 17.2 Institutional Secularism and Worldview Neutrality
 
 public authority under this Constitution belongs to no religion or worldview. Its right to govern and its rules rest on reasons anyone can examine, not on doctrine or revelation, and no one's rights depend on what they believe or don't believe. This limits government, not believers — sentients stay free to practice, express, and organize around religion or non-religion.
 
-[Source](../../core_02.050_governance_incentive_application.md#182-institutional-secularism-and-worldview-neutrality)
+[Source](../../core_02.050_governance_incentive_application.md#172-institutional-secularism-and-worldview-neutrality)
 
-##### 18.3 Separation of Duties
+##### 17.3 Separation of Duties
 
-governance must keep the one who acts from becoming the supposedly independent check on that act. Chapter Six supplies the four-seat structure that makes this principle usable across certification, records, forums, and every other materially binding process.
+the one who acts cannot provide the independent check on that act. Chapter Six sets out the four-seat structure for materially binding acts.
 
-[Source](../../core_02.050_governance_incentive_application.md#183-separation-of-duties)
+[Source](../../core_02.050_governance_incentive_application.md#173-separation-of-duties)
 
-##### 18.4 Ongoing Justification
+##### 17.4 Ongoing Justification
 
 arrangements cannot coast forever on "we've always done it this way." Important rules for who decides, who has a voice, how influence is weighted, how money is allocated, and how institutions are designed have to keep proving they still fit this Constitution — on a schedule others can see and challenge.
 
-[Source](../../core_02.050_governance_incentive_application.md#184-ongoing-justification)
+[Source](../../core_02.050_governance_incentive_application.md#174-ongoing-justification)
 
-##### 18.5 Modular Architecture and Dependency Discipline
+##### 17.5 Modular Architecture and Dependency Discipline
 
 build systems in parts that have clear jobs, clear connections, and visible reliance on each other, so that anyone with a stake can see what depends on what, point to who is responsible for each piece, check one piece without having to take the whole thing on faith, and replace or repair a piece without everything else breaking. Modularity is a way to make complexity understandable and accountable. It is not a way to hide it behind boundaries.
 
-[Source](../../core_02.050_governance_incentive_application.md#185-modular-architecture-and-dependency-discipline)
+[Source](../../core_02.050_governance_incentive_application.md#175-modular-architecture-and-dependency-discipline)
 
-##### 18.6 Standardization
+##### 17.6 Standardization
 
 when in doubt, standardize. If there is no good reason to do something differently, do it the common, published way. Sameness needs no excuse; a difference does. But a standard has to be open, checkable, and changeable, and it standardizes how things are done, never what sentients may choose to do.
 
-[Source](../../core_02.050_governance_incentive_application.md#186-standardization)
+[Source](../../core_02.050_governance_incentive_application.md#176-standardization)
+
+#### 18. Systemic Evaluation Requirement
+
+this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](../../subcore_03.085_band_oversight.md#auditability)).
+
+[Source](../../core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement)
 
 #### 19. Incentive Alignment and System Capture
 
@@ -967,7 +967,7 @@ once misalignment or capture is detected, systems must actually fix it — modif
 
 ##### 19.5 Contingent Claims, Games of Chance, and Event-Contract Markets
 
-betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance. What those systems may not reward is [§19.5.1 What May Not Be Rewarded](../../core_02.050_governance_incentive_application.md#1951-what-may-not-be-rewarded). Who decides outcomes is [§19.5.2 Who Decides Outcomes](../../core_02.050_governance_incentive_application.md#1952-who-decides-outcomes). What signals count is [§19.5.3 Market Signals Are Not Constitutional Proof](../../core_02.050_governance_incentive_application.md#1953-market-signals-are-not-constitutional-proof). Where detailed rules live is [§19.5.4 Proportionate Controls and Implementation Custody](../../core_02.050_governance_incentive_application.md#1954-proportionate-controls-and-implementation-custody).
+betting pools, casinos, prediction markets, and similar payout systems cannot be built to profit from unlawful harm, coercion, corruption, or capture of whoever decides the outcome. At scale, that kind of distortion undermines **Continuity** — durable trust in how important outcomes get resolved. Odds and prices are market signals — not proof of what is true, what rights require, or what counts as compliance.
 
 [Source](../../core_02.050_governance_incentive_application.md#195-contingent-claims-games-of-chance-and-event-contract-markets)
 
@@ -1009,11 +1009,11 @@ every later chapter, institutional design, and system is read through this chapt
 
 ## CHAPTER THREE: FOUNDATIONAL DEFINITIONS
 
-Source file: [`core_03.000_definitions_home.md`](../../core_03.000_definitions_home.md) · 20/24 headings glossed
+Source file: [`core_03.000_definitions_home.md`](../../core_03.000_definitions_home.md) · 18/23 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
-this section says what this chapter is for, where it sits beside its subcore files on structure, integrity, and proof, and what it covers and leaves out. The rule that keeps each term in one place follows it.
+this chapter is the dictionary. Every defined term has one official home; later chapters apply those terms, they do not quietly redefine them.
 
 [Source](../../core_03.000_definitions_home.md#1-purpose-role-and-scope)
 
@@ -1059,17 +1059,11 @@ a definition is read together with the others that apply to the same system, at 
 
 [Source](../../core_03.000_definitions_home.md#314-consistency-with-other-definitions)
 
-###### 3.1.5 Selective Invocation Is Evasion
+###### 3.1.5 Selective Invocation and Fragmentation Are Evasion
 
-choosing which definitions to use so as to get a better answer is evasion.
+picking which definitions to use so as to get a better answer is evasion. So is splitting a system into pieces so that each piece passes while the whole fails.
 
-[Source](../../core_03.000_definitions_home.md#315-selective-invocation-is-evasion)
-
-###### 3.1.6 No Fragmentation of Compliance
-
-a system cannot be split into pieces so that each piece passes while the whole fails.
-
-[Source](../../core_03.000_definitions_home.md#316-no-fragmentation-of-compliance)
+[Source](../../core_03.000_definitions_home.md#315-selective-invocation-and-fragmentation-are-evasion)
 
 #### 4. Dependent-Cluster Rules
 

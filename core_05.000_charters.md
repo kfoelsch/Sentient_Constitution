@@ -45,13 +45,6 @@
 
 Chapter Five is the constitutional owner of **System Charters, Institutional Charters, and published scope**.
 
-Three chapters work as one chain:
-
-- **Chapter Five (this chapter):** says what a [Chartered Party](subcore_03.075_band_continuity.md#chartered-party) claims to do and who may hold each seat when it acts.
-- **[Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties):** says how those seats must be kept apart.
-- **[Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation):** certifies a system, and separately an institution, each of which is one binding act that uses the seats. It sends what it finds back to the System Charter or Institutional Charter.
-
-Other chapters own the definitions, the seat rules, the standing locks, and the decision rules this chapter points to. **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) holds the field template, the formation procedure, and the review checklist.
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: before anyone can judge whether a system or institution stayed within its limits, the limits have to be written down where everyone can read them. This chapter says who must publish a System Charter or an Institutional Charter, what each must state, and how it is checked and kept true. Nobody needs permission to form.*
@@ -70,6 +63,14 @@ Other chapters own the definitions, the seat rules, the standing locks, and the 
 - [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) reads the System Charter for scope and boundary findings, and [Subcore 9-B](subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation) tests the formation check statement for an Institution.
 - **Chapter Fourteen section 7** applies the Charter Role Map to Standing Records, and **Chapter Twenty-Three section 3.3** hears disputes about the Institutional Charter.
 - CI-6.205 (*Institutional Design, Separation of Powers, and Authority Custody*) **section 7** holds the full field template, review checklist, and formation procedure. It may be stricter and may not narrow this chapter.
+
+Three chapters work as one chain:
+
+- **Chapter Five (this chapter):** says what a [Chartered Party](subcore_03.075_band_continuity.md#chartered-party) claims to do and who may hold each seat when it acts.
+- **[Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties):** says how those seats must be kept apart.
+- **[Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation):** certifies a system, and separately an institution, each of which is one binding act that uses the seats. It sends what it finds back to the System Charter or Institutional Charter.
+
+Other chapters own the definitions, the seat rules, the standing locks, and the decision rules this chapter points to. **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) holds the field template, the formation procedure, and the review checklist.
 
 **Chapter scope:** The chapter covers, in order:
 
@@ -107,8 +108,8 @@ Every later check (certification, standing, forum review) asks whether a system 
     - [Continuity](core_00.000_preamble.md#continuity): written limits keep a system or institution within bounds as it grows;
 - Chapter Two principles:
   - [§7.2 Assembly, Collective Organization, and Institutional Formation](core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation);
-  - [§18.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure);
-  - [§18.4 Ongoing Justification](core_02.050_governance_incentive_application.md#184-ongoing-justification);
+  - [§17.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#171-governance-as-authorized-structure);
+  - [§17.4 Ongoing Justification](core_02.050_governance_incentive_application.md#174-ongoing-justification);
   - [§19.1.4 Role-Depth and Material-Responsibility Pathways](core_02.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways);
 - Chapter Four Articles:
   - [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
@@ -125,7 +126,7 @@ Every later check (certification, standing, forum review) asks whether a system 
   - [§4](#4-the-right-to-form-and-five-narrow-limits);
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Proportionality](subcore_03.070_band_accountability.md#proportionality); chapter opening owner claim;
-  - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
+  - [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17);
   - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional);
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability).
 - Downstream: [§5](#5-what-system-and-institutional-charters-must-state); [Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation) (S8-B §3) (*class and certification depth*); [Subcore 9-B §3.1 Institution Class](subcore_09.020_institutional_alignment_certification_evaluation.md#31-institution-class) (S9-B §3.1) (*the class of an Institution*); **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*) for the class catalog.
@@ -754,7 +755,7 @@ The same clock applies to certification seats. If the map does not name who star
   - [Material Control Line](subcore_03.070_band_accountability.md#material-control-line);
   - [Standing Record](subcore_03.070_band_accountability.md#standing-record);
   - [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing);
-  - [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (2.040 §17.5);
+  - [Chapter Two §16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist) (2.040 §16.5);
   - [Subcore 21-E §3 Role Criteria, Appointment Standards, and Removal Pathways](subcore_21.050_role_holders_interpretive_bodies.md#3-role-criteria-appointment-standards-and-removal-pathways);
   - **CI-6.210** (*Conflict integrity, anti-capture, and anti-corruption*).
 </details>
@@ -801,7 +802,7 @@ A covered office is **authentic** when its holder holds it in their own right an
 - **Conduct:** what the holder has verifiably done in the same function, including a verified record of concealment, of retaliation against reporters, or of defeating the same kind of check, and including what the holder has verifiably said under [§7.5 What a Holder Has Said](#75-what-a-holder-has-said).
   - A holder with no Standing Record does not have a bad record, and a first-time founder cannot fail the authenticity check for lack of history.
   - A holder with no Standing Record has no history to look at, so the formation check looks at what they commit to and do now. They agree in writing to the limits the Chartered Party has set on what it will not do. They accept checking by an independent party. And when they disagree with a formation-check finding about them, they use the route for challenging it.
-- **Protected voice:** the holder has a working route to refuse an unlawful or unconstitutional instruction ([Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)) and to make a protected report of a reasonable suspicion of constitutional non-compliance, material harm, a safety or truth failure, corruption, capture, abuse, retaliation, or obstruction of required review ([Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing)). The Chartered Party may not penalize the holder for using either route in good faith.
+- **Protected voice:** the holder has a working route to refuse an unlawful or unconstitutional instruction ([Chapter Two §16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist)) and to make a protected report of a reasonable suspicion of constitutional non-compliance, material harm, a safety or truth failure, corruption, capture, abuse, retaliation, or obstruction of required review ([Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing)). The Chartered Party may not penalize the holder for using either route in good faith.
 
 <a id="74-what-the-formation-check-may-use-as-evidence"></a>
 #### 7.4 What the Formation Check May Use as Evidence
@@ -1050,7 +1051,7 @@ A holder who receives an adverse standing finding is protected as follows:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§5](#5-what-system-and-institutional-charters-must-state); [Chapter Two §18.4 Ongoing Justification](core_02.050_governance_incentive_application.md#184-ongoing-justification) (2.050 §18.4).
+- Upstream: [§5](#5-what-system-and-institutional-charters-must-state); [Chapter Two §17.4 Ongoing Justification](core_02.050_governance_incentive_application.md#174-ongoing-justification) (2.050 §17.4).
 - Downstream: [Subcore 8-F §4 Recertification and Reopening](subcore_08.060_system_alignment_certification_records_recertification.md#4-recertification-and-reopening) (S8-F §4) (*System Charter amendment and mismatch as reopening triggers*); [Chapter Seventeen §3.3 Institutional Forums](core_17.000_forum_families_escalation_timeliness_support.md#33-institutional-forums) (17.000 §3.3)
 - Read with: [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity); **CI-6.205 §1** (*Non-Delegable Governing Duties*); **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*).
 </details>
@@ -1114,7 +1115,7 @@ The Chartered Party reviews its System Charter or Institutional Charter on a sch
   - each covered office is still held by the sentient the statement names;
   - the sentients who can instruct, fund, replace, or reward each holder are still the ones the statement describes;
   - each holder's pay and other rewards still match what the statement describes; and
-  - each holder still has a working way to refuse an unlawful or unconstitutional instruction ([Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)) and to make a protected report of a reasonable suspicion of constitutional non-compliance, material harm, a safety or truth failure, corruption, capture, abuse, retaliation, or obstruction of required review ([Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing)).
+  - each holder still has a working way to refuse an unlawful or unconstitutional instruction ([Chapter Two §16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist)) and to make a protected report of a reasonable suspicion of constitutional non-compliance, material harm, a safety or truth failure, corruption, capture, abuse, retaliation, or obstruction of required review ([Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing)).
 
 <a id="94-adding-retiring-or-merging-systems"></a>
 #### 9.4 Adding, Retiring, or Merging Systems

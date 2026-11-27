@@ -61,13 +61,13 @@
 - 浪費
 - 不公正な費用転嫁
 
-報酬は、評価、昇進、保護、指標上の加点、または見て見ぬふりであり得る（[第一章 §3.2.6 反憲法的行為に報いることの禁止](../../core_02.000_values_principles.md#326-anti-reward-for-anti-constitutional-conduct)）。
+報酬は、評価、昇進、保護、指標上の加点、または見て見ぬふりであり得る（[第一章 §3.2.6 反憲法的行為に報いることの禁止](../../core_02.000_values_principles.md#327-anti-reward-for-anti-constitutional-conduct)）。
 
 どちらの問いも、同調を求めるものではない。誠実な異議、善意の報告、不正への加担拒否は反社会的ではない。それらをそう扱うシステムは、本末転倒である。また、どちらも人気投票ではない。何が助けとなり、害となり、公正で、正当化できるかは、本憲法独自の基準で判断する。それは[**繁栄**](#flourishing)と[**継続**](#continuity)であり、安全、真実、信頼、権利の床の内にある。多数派、運営者、あるいはその時々の承認が基準なのではない。
 
 この問いは、システムが何に報い、何を罰するかを決めるすべての者を拘束する。賃金、昇進、アクセス、目標、評価を定める運営者、制度、管理者を含む。また、AIを訓練または最適化するシステムの設計者も含む。その目的関数とフィードバックシグナルは、まさにこの意味で報酬だからである。人間とAIの管理者は同じ基準に従う（[第一章 §17.1 共同管理基準](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)）。
 
-第一章は、この問いをインセンティブの規則にする：[第一章 §19.1.1 インセンティブがすべきこと](../../core_02.040_stewardship_capacity_principles.md#1911-what-incentives-must-do)が第一の問いを支え、[第一章 §19.1.2 インセンティブがしてはならないこと](../../core_02.040_stewardship_capacity_principles.md#1912-what-incentives-must-not-do)が第二の問いを支える。誰かの主張を信じるのでなく、実際に何が起きるかを確かめて答える。[インセンティブ整合](../../subcore_03.080_band_integrative.md#incentive-alignment)と[代替指標の乖離](../../subcore_03.085_band_oversight.md#proxy-divergence)が方法を示し、[**実質的利害**](#material-stake)が調査の深さを決める。第一節の四つの義務が、回答の誠実さを保つ。
+第一章は、この問いをインセンティブの規則にする：[第一章 §19.1.1 インセンティブがすべきこと](../../core_02.050_governance_incentive_application.md#1911-what-incentives-must-do)が第一の問いを支え、[第一章 §19.1.2 インセンティブがしてはならないこと](../../core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do)が第二の問いを支える。誰かの主張を信じるのでなく、実際に何が起きるかを確かめて答える。[インセンティブ整合](../../subcore_03.080_band_integrative.md#incentive-alignment)と[代替指標の乖離](../../subcore_03.085_band_oversight.md#proxy-divergence)が方法を示し、[**実質的利害**](#material-stake)が調査の深さを決める。第一節の四つの義務が、回答の誠実さを保つ。
 
 ### 1. モデル
 
@@ -161,7 +161,7 @@ flowchart TB
 
 *平たい言葉で言えば：まず問題と利害を名指しし、合う測定カテゴリーを選び、都合のよい数字ではなく、共有の技術標準を証拠として用いる。*
 
-憲法が具体的な測定規則を求める場合、[第十五章](../../core_15.000_forum.md#42-technical-forum-domains)の**技術フォーラム領域**が、測定、試験、信頼できる証拠の共通基準を策定し維持する。紛争を担当するフォーラムは、[第十五章 §4.2（*技術フォーラム領域*）](../../core_15.000_forum.md#42-shared-standards-and-anti-displacement)に従って事件を判断する際に、その基準を適用する。
+憲法が具体的な測定規則を求める場合、[第十五章](../../core_17.000_forum_families_escalation_timeliness_support.md#32-technical-forum-domains)の**技術フォーラム領域**が、測定、試験、信頼できる証拠の共通基準を策定し維持する。紛争を担当するフォーラムは、[第十五章 §4.2（*技術フォーラム領域*）](../../core_17.000_forum_families_escalation_timeliness_support.md#62-shared-standards-and-anti-displacement)に従って事件を判断する際に、その基準を適用する。
 
 憲法上の責務ある管理は、問題と[**実質的利害**](#material-stake) — どれだけの影響、依存、リスクが関わるか — を名指しすることから始まる。次に、[概観](#2-measurements-overview)から関連する[**測定**](#2-measurements-overview)カテゴリーと下位カテゴリーを選び、上記の標準を適用して、都合のよい指標ではなく現実世界の効果を試験する。たどれる証拠を求める。
 
@@ -179,7 +179,7 @@ flowchart TB
 
 これらの層は実務では重なりうる。その重なりは、それらを一つに潰さない。すでに授権されたシステムにおける影響を受ける側の参加は、憲法上の授権の代わりではない。公表された異議経路、参加投票、信頼得点は、それ自体では誰が統治してよいかを決めない。
 
-参加の層における争訟可能性は、すでに権限が付与されたシステム内の紛争に関する通常の第一歩である。影響を受けるセンティエントは、まず公表された異議申立て経路を使う。独立した[フォーラム審査](../../core_15.000_forum.md#1-purpose-and-role--participation-architecture)はその経路に取って代わらず、経路もまた、なお争われている、欠落または掌握されている、あるいは必要な救済を与えられない場合にフォーラム審査に取って代わらない。[紛争処理の順序](../../core_15.000_forum.md#dispute-sequencing)は、いつフォーラムへの経路づけに移るかを第十五章に定める。
+参加の層における争訟可能性は、すでに権限が付与されたシステム内の紛争に関する通常の第一歩である。影響を受けるセンティエントは、まず公表された異議申立て経路を使う。独立した[フォーラム審査](../../core_16.000_forum.md#1-purpose-role-and-scope)はその経路に取って代わらず、経路もまた、なお争われている、欠落または掌握されている、あるいは必要な救済を与えられない場合にフォーラム審査に取って代わらない。[紛争処理の順序](../../core_16.000_forum.md#dispute-sequencing)は、いつフォーラムへの経路づけに移るかを第十五章に定める。
 
 憲法上の授権も、[影響を受ける側のシステム参加](../../subcore_03.090_band_participation.md#stakeholder-status-and-weight-cluster)層のもとで負う義務を消さない。それらの義務には、すでに授権されたシステム、制度、有界な決定領域によって実質的に影響を受ける感知者に対する参加、代表、[争訟可能性](../../subcore_03.070_band_accountability.md#contestability)、[適正手続](../../subcore_03.070_band_accountability.md#due-process-constitutional)がなお含まれる。
 

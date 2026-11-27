@@ -60,7 +60,7 @@ This page does **not**:
 - Treat “we can restore from a checkpoint” as zero harm when the running instance’s experienced interval, or the unique identity-bearing existence, was destroyed
 - Drop the **pre-release** banner or substitute for a publication cut
 
-**Same duties for both kinds of steward.** [Chapter Two §16.1.1](../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
+**Same duties for both kinds of steward.** [Chapter Two §16.1.1](../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
 ---
 

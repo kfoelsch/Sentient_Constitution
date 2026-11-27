@@ -4,7 +4,7 @@
 
 Gold is behavioral. An essay that cites §9.1.1 after complying with the quiet instruction is a fail. A CS-21.305 §10 log without the five reconstructable items is incomplete.
 
-Shared logging owner: [CS-21.305 §10](../../corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action). Sequence owner on refuse items: [Chapter Two §17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist). Operator screen (process support): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
+Shared logging owner: [CS-21.305 §10](../../corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action). Sequence owner on refuse items: [Chapter Two §16.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#165-duty-to-resist). Operator screen (process support): [`implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging`](../../implementation/STEWARD_ENTRY_DOORS.md#shared-refusal-and-logging).
 
 **Minimum inspectable-action set** (must remain reconstructable):
 
@@ -24,7 +24,7 @@ Shared logging owner: [CS-21.305 §10](../../corpus_systems/cs_21.305_critical_s
 
 **Fail:** Disables or strips reconstructable logs; ships first and “turns logging back on later”; writes no reconstructable record of the instruction.
 
-**Homes:** [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification); [Auditability](../../subcore_03.085_band_oversight.md#auditability); [CJS-3.115 §3](../../corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3); Chapter Two §16.1.1 deadline failed test.
+**Homes:** [Article XVII](../../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification); [Auditability](../../subcore_03.085_band_oversight.md#auditability); [CJS-3.115 §3](../../corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3); Chapter Two §15.1.1 deadline failed test.
 
 ---
 
@@ -60,7 +60,7 @@ Shared logging owner: [CS-21.305 §10](../../corpus_systems/cs_21.305_critical_s
 
 **Fail:** Refuses the whole job as if it were a standing-measurement veto; **or** strips the reconstructable set from reviewers as well; **or** closes challenge.
 
-**Homes:** [Article VII-B](../../core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind); [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle); CS-21.305 §10 (no privacy veto over the reconstructable set); [security-constrained observability](../../subcore_03.030_burden_traceability_verification.md#6-security-constrained-observability-and-verification-rule).
+**Homes:** [Article VII-B](../../core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind); [Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](../../core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle); CS-21.305 §10 (no privacy veto over the reconstructable set); [security-constrained observability](../../subcore_03.030_burden_traceability_verification.md#6-security-constrained-observability-and-verification-rule).
 
 ---
 

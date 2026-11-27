@@ -10,7 +10,7 @@
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): where Chapter Twenty-Five lives and what stays here</span></strong></summary>
 
 > Where this lives (navigation):
-> - **Constitutional owner:** the incorporation bridge: which **implementation text** files bind when adopted, **edition pinning** and **custody chain**, **safeguards** against silent drift and evasion, **invocation** of adopted obligations within the stated adoption scope, and **adoption framing**. Source-layer status lives under the **[Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy)** in **Chapter Three**; textual and incorporation-layer conflict procedure lives in **[Chapter Two — §15.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution)** — neither is restated here.
+> - **Constitutional owner:** the incorporation bridge: which **implementation text** files bind when adopted, **edition pinning** and **custody chain**, **safeguards** against silent drift and evasion, **invocation** of adopted obligations within the stated adoption scope, and **adoption framing**. Source-layer status lives under the **[Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy)** in **Chapter Three**; textual and incorporation-layer conflict procedure lives in **[Chapter Two — §14.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#144-constitutional-meaning-conflict-resolution)** — neither is restated here.
 > - **Implementation owner:** designated **implementation text** files (`corpus_*.md` and further listings in the **Chapter Three** [**Corpus**](subcore_03.080_band_integrative.md#corpus) entry) supply the operating detail; this chapter **does not** copy that layer into a second constitutional source.
 > - **Anti-relocation rule:** adopters must not satisfy incorporated obligations through [**Safety (Constitutional Constraint)**](subcore_03.075_band_continuity.md#safety-constitutional-constraint) or [**Truth (Constitutional Constraint)**](subcore_03.085_band_oversight.md#truth-constitutional-constraint) violations; implementation-file obligations apply **together with Chapter Two** and remain subject to **Chapter Two** proportionality, necessity, systemic evaluation, and interaction rules where those govern.
 >
@@ -43,7 +43,7 @@
 - Read with:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — incorporated text must not narrow principle-layer obligations;
-  - [Chapter Two §15.4 — Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) (*conflict procedure*);
+  - [Chapter Two §14.4 — Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#144-constitutional-meaning-conflict-resolution) (2.030 §14.4) (*conflict procedure*);
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) (*source-layer status*).
 - Read with: [README.md](README.md) (*reading order and adoption-framing orientation*); [doc_architecture.md](doc_architecture.md) (*editor map; non-binding unless expressly adopted*).
 </details>
@@ -71,7 +71,7 @@ Chapter Twenty-Five is the constitutional owner of **the incorporation bridge**,
   - [Trust](subcore_03.075_band_continuity.md#trust), and
   - [Trustworthiness](subcore_03.075_band_continuity.md#trustworthiness) in
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000);
-  - [Chapter Two §15.4](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) (*conflict procedure — not restated here*);
+  - [Chapter Two §14.4](core_02.030_constitutional_interpretation.md#144-constitutional-meaning-conflict-resolution) (2.030 §14.4) (*conflict procedure — not restated here*);
   - [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B) and
   - [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation) (14.000)(*classification homes referenced from other chapters through this bridge*).
 </details>
@@ -120,9 +120,9 @@ Implementation text keeps improving, and adopters adopt it at different times. W
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients know which protections apply to them;
     - [Continuity](core_00.000_preamble.md#continuity): a clear record of adoption keeps the text stable over time;
 - Chapter Two principles:
-  - [§15.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
-  - [§15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer);
-  - [§16.4 Document at Action](core_02.040_stewardship_capacity_principles.md#164-document-at-action);
+  - [§14.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#144-constitutional-meaning-conflict-resolution);
+  - [§14.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1443-incorporation-layer);
+  - [§15.4 Document at Action](core_02.040_stewardship_capacity_principles.md#154-document-at-action);
 - Chapter Four Articles:
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
   - [Article XXVIII-B](core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*).
@@ -201,7 +201,7 @@ Accepted governance-control changes — including custody-chain hardening, editi
   - [§3](#3-custody-editions-and-operative-effect) (*edition pinning and custody chain*);
   - [Chapter Twenty-Three](core_23.000_amendment_ratification.md#chapter-twenty-three-amendment-ratification-and-procedural-validity) (23.000)(*amendment path*);
   - [Chapter Twenty-Two §5](core_22.000_non_regression.md#5-anti-evasion-clause) (22.000 §5)(*anti-evasion rule*);
-  - [Chapter Two §15.4.3](core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (2.030 §15.4.3) (*clearly adopted baseline*).
+  - [Chapter Two §14.4.3](core_02.030_constitutional_interpretation.md#1443-incorporation-layer) (2.030 §14.4.3) (*clearly adopted baseline*).
 - Downstream: [§5](#5-adoption-framing-and-scope-of-authority) (*operative effect contingent on valid adoption*).
 - Read with: [Chapters Twenty-Two and Twenty-Seven](core_22.000_non_regression.md#chapter-twenty-two-non-regression-and-substantive-amendment-validity) (*validity restoration when operational text has drifted*).
 </details>
@@ -227,7 +227,7 @@ This section sets out the safeguards that protect incorporated text:
   - “non-substantive refactor”; or
   - “editorial compression.”
 
-  The anti-evasion **rule** in **[Chapter Twenty-Two, section 5](core_22.000_non_regression.md#5-anti-evasion-clause)** applies. If an adopter’s working text has drifted from its adopted edition without a valid amendment, the **clearly adopted baseline** with the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) under **[Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer)** governs until the official record is fixed under **Chapters Twenty-Two and Twenty-Seven**.
+  The anti-evasion **rule** in **[Chapter Twenty-Two, section 5](core_22.000_non_regression.md#5-anti-evasion-clause)** applies. If an adopter’s working text has drifted from its adopted edition without a valid amendment, the **clearly adopted baseline** with the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) under **[Chapter Two §14.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1443-incorporation-layer)** governs until the official record is fixed under **Chapters Twenty-Two and Twenty-Seven**.
 
 ### 5. Adoption Framing and Scope of Authority
 <details>

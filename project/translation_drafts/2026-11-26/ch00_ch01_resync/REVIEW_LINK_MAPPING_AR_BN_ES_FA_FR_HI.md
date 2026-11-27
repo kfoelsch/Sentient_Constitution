@@ -255,3 +255,11 @@ Mapped links from `chapter_numbers.json` and locale README source-file tables. H
   - `subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows` → unresolved (subcore_10.060_standing_integration.md)
   - `core_00.000_preamble.md#material-stake` → unresolved (core_01.000_constitutional_map.md)
   - `core_20.000_incorporation.md#(none)` → unresolved (no registry target)
+
+## Draft-folder link repair — 2026-11-26
+
+Applied 118 exact, source-backed link repairs across the twelve Chapter 0/1 drafts for these locales: ar (21), bn (22), es (13), fa (22), fr (20), hi (20). The official `translation_link_repair.py` refuses paths under `project/translation_drafts/`; therefore the batch used its `Resolver` and `fix_fragment` logic against the planned final locale-folder paths, with the current chapter registry and each locale's translation-pair mapping. Rewrites point to current English files/fragments where an aligned local translation and anchor were not available. Current Chapter 0/1 cross-links use the planned local pair filenames. Every rewritten href was checked against the destination file and anchor in that final folder context.
+
+The six previously unresolved §9 links to **Subcore 10-F — Standing Integration and Effects** now point to `../../subcore_10.060_standing_integration.md#1-purpose-role-and-scope`. The legacy chapter-level heading anchor is gone; the current Subcore 10-F file has the verified `1-purpose-role-and-scope` overview anchor. The Spanish draft's stale `core_13.000_standing_integration.md` target was also updated to the current canonical Subcore 10-F filename. This keeps each link on the process-owner overview without inventing an alias for the deleted heading.
+
+No files under `translations/` were changed. The AI-assisted draft review status remains unreviewed; this link pass is not fluent or semantic certification.

@@ -45,7 +45,7 @@ See: [Article VIII-D](../../../core_04.010_rights_part_b.md#article-viii-d-devel
 - **Today:** Once they help with the bills, they keep the cards, the lease, who you may see, and which clinician. Nobody sets a time to check whether you can take those decisions back.
 - **With this Constitution:** If someone has to decide a thing you cannot currently carry, that step has to be only that thing, the smallest needed, time-limited, and looked at again. It cannot become a standing substitute for your say.
 
-See: [Article VII-A](../../../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Chapter Two §13.1.5](../../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+See: [Article VII-A](../../../core_04.010_rights_part_b.md#article-vii-a-self-ownership-of-body); [Chapter Two §12.1.5](../../../core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
 **Wishes and palliative routing have an owner.**
 - **Today:** Whoever is in the room holds the file. An advance wish is treated as outdated because it is inconvenient.

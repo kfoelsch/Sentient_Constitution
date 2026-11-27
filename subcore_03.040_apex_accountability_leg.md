@@ -17,19 +17,19 @@
   - [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000);
   - [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Downstream: Principles:
-  - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
+  - [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17);
   - [Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6); Chapter Two Part B tradeoff and interpretation homes:
-  - [Chapter Two §13.1.1 Necessity](core_02.020_interaction_interpretation.md#1311-necessity) (2.020 §13.1.1);
-  - [Chapter Two §13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (2.020 §13.1.3);
-  - [Chapter Two §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_02.020_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (2.020 §13.1.4);
-  - [Chapter Two §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (2.020 §13.1.5);
-  - [Chapter Two §13.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity) (2.020 §13.2.1);
-  - [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1);
-  - [Chapter Two §15.1.2 Derived-Information Principle](core_02.030_constitutional_interpretation.md#1512-derived-information-principle) (2.030 §15.1.2);
+  - [Chapter Two §12.1.1 Necessity](core_02.020_interaction_interpretation.md#1211-necessity) (2.020 §12.1.1);
+  - [Chapter Two §12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality) (2.020 §12.1.3);
+  - [Chapter Two §12.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_02.020_interaction_interpretation.md#1214-constitutional-floors-safety-and-anti-degrading-process) (2.020 §12.1.4);
+  - [Chapter Two §12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle) (2.020 §12.1.5);
+  - [Chapter Two §12.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1221-preservation-of-epistemic-integrity) (2.020 §12.2.1);
+  - [Chapter Two §14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle) (2.030 §14.1);
+  - [Chapter Two §14.1.2 Derived-Information Principle](core_02.030_constitutional_interpretation.md#1412-derived-information-principle) (2.030 §14.1.2);
   - [Tetrad Leg Decomposition](#accountability-tetrad-leg-decomposition); Accountability-band leaf definitions in
   - [subcore_03.070_band_accountability.md](subcore_03.070_band_accountability.md).
 - Sibling Tetrad leg: [Timeliness](subcore_03.065_apex_timeliness_leg.md#timeliness-constitutional).
-- Read with: [Chapter Two §16.4 Document at Action](core_02.040_stewardship_capacity_principles.md#164-document-at-action) (2.040 §16.4) (*the act makes its own Act Record, so the chain of answerability exists when review is needed*).
+- Read with: [Chapter Two §15.4 Document at Action](core_02.040_stewardship_capacity_principles.md#154-document-at-action) (2.040 §15.4) (*the act makes its own Act Record, so the chain of answerability exists when review is needed*).
 - Read with: the
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](subcore_03.040_apex_accountability_leg.md#accountability),
   - [Contestability](subcore_03.070_band_accountability.md#contestability),
@@ -67,7 +67,7 @@ Every system that affects sentients holds some power over them. Accountability i
     - [Flourishing](core_00.000_preamble.md#flourishing): answerable power is used for sentients, not against them;
     - [Continuity](core_00.000_preamble.md#continuity): answerable systems stay correctable over time;
 - Chapter Two principles:
-  - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
+  - [§17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline);
   - [§19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
 - Chapter Four Articles:
   - [Article XXI](core_04.030_rights_part_d.md#article-xxi-justice-after-verified-violation) (*Justice After Verified Violation*).

@@ -14,7 +14,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Twenty-Three §12](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) (*deliberate adoption, document, joining*); [Chapter Twenty-Four §7](../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law) (*non-displacement of applicable external law*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)); [Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) (*shared stewardship standard*).
+- Upstream: [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) (*model constitution; who may adopt*); [Chapter Twenty-Three §12](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) (*deliberate adoption, document, joining*); [Chapter Twenty-Four §7](../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law) (*non-displacement of applicable external law*); [Preamble §1](../../core_00.000_preamble.md#the-model) (*Constitutional Tetrad*; [material stake](../../core_00.000_preamble.md#material-stake)); [Chapter Two §16.1](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard) (*shared stewardship standard*).
 - Downstream: [Purpose and role](#purpose-and-role); [§0](#0-what-this-is-not); [§1](#1-the-announcement); [§2](#2-say-and-do-not-say); [§3](#3-audience-notes); [§4](#4-publishing-checklist).
 - Read with: [`FIT_SITUATIONS.md`](FIT_SITUATIONS.md); [`../../README.md`](../../README.md); [`../../START_HERE.md`](../../START_HERE.md); [`FIRST_ADOPTER_KIT.md`](FIRST_ADOPTER_KIT.md) (*non-adoption banner*); [PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) (*operations-guide use vs full adoption*; cut gates). This page does not close those gates.
 
@@ -43,7 +43,7 @@ Public readers land at [`../../README.md`](../../README.md). Would-be adopters a
 This page does **not**:
 
 - Count as [Chapter Twenty-Three §12](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) adoption or [Chapter Twenty-Five](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation
-- Bind vendors, platforms, host products, or anyone else who did not consent ([Chapter Two §17.4](../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Bind vendors, platforms, host products, or anyone else who did not consent ([Chapter Two §16.4](../../core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization))
 - Drop the **pre-release** banner, bump `SC-Corpus-2026.11.25`, or stand in for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 - Claim AI handoff readiness ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5)
 
@@ -204,7 +204,7 @@ Any shorter version must still say **pre-release**, **not adoption**, **does not
 | **Core text controls.** If an operational file and a numbered `core_*` file disagree, the `core_*` file wins. Companion files spell out how to carry out what the core already requires; they may not change what those terms mean, shrink those duties, or invent a second set of rights ([Chapter Twenty-Five](../../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge)). | “The whole corpus is ready to implement.” “The companion files are unofficial.” |
 | **Operations-guide use** is the near-term invitation ([FIT §2](FIT_SITUATIONS.md#2-two-modes)). Attach the [non-adoption banner](FIRST_ADOPTER_KIT.md#6-non-adoption-banner) to any shared file that is not a completed adoption document. | “We follow it” as a marketing line ([FIT §5](FIT_SITUATIONS.md#5-honest-non-fits)). |
 | **Binds only what you run.** Vendors, host products, and non-consenting parties stay unbound. | “Labs and vendors in our stack are now bound.” |
-| **Same standard for both kinds of steward** ([Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)). | “AI stewards follow a separate ethics overlay.” |
+| **Same standard for both kinds of steward** ([Chapter Two §16.1](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard)). | “AI stewards follow a separate ethics overlay.” |
 | **Who may govern is a documented legitimacy mechanism** ([Preamble §3.2](../../core_00.000_preamble.md#32-governance-layers)). | “A token vote / standing score authorized this.” |
 | **Independent review** is an external reviewer or published backup the founding crew does not solely staff ([FORUM_FOUNDATION_KIT.md](FORUM_FOUNDATION_KIT.md) Track A). | “Our Slack / markdown panel is independent review.” |
 | **AI handoff trials remain open** ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md) §6.5). | “AI handoff is ready.” |

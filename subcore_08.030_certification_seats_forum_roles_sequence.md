@@ -37,7 +37,7 @@ A certification is trusted only if the sentients who rely on it know that the op
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients can rely on a certified system knowing who checked it and how;
     - [Continuity](core_00.000_preamble.md#continuity): ecological, institutional, and constitutional stakes are judged before a system is authorized, not after;
 - Chapter Two principles:
-  - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
+  - [§17.3 Separation of Duties](core_02.050_governance_incentive_application.md#173-separation-of-duties);
 - Chapter Four Articles:
   - [Article XIV](core_04.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*);
   - [Article XVII-B](core_04.020_rights_part_c.md#article-xvii-b-distributed-oversight-and-anti-monopoly-review) (*Distributed Oversight and Anti-Monopoly Review*).

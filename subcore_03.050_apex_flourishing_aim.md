@@ -94,7 +94,7 @@ A system can meet every procedural rule and still leave the sentients it serves 
   - **Primary failure:** Non-compliant when:
     - one building block is maximized while truth, safety, trustworthiness, or agency is hollowed out;
     - flourishing claims cannot be traced to constitutional outcomes under Subcore 3-C; or
-    - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](subcore_03.045_apex_continuity_aim.md#subcore-3-e-continuity-constitutional-aim) without clear permission under [Chapter Two §13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+    - **Flourishing** is pursued in a way that materially defeats the [Continuity (Constitutional Aim)](subcore_03.045_apex_continuity_aim.md#subcore-3-e-continuity-constitutional-aim) without clear permission under [Chapter Two §12 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process).
 
 ---
 

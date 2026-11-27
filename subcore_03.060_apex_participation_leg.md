@@ -18,15 +18,15 @@
 - Downstream: Principles:
   - [Preamble §1 The Model](core_00.000_preamble.md#the-model);
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7);
-  - [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16);
+  - [Chapter Two §15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth) (2.040 §15);
   - [Chapter Two §19.1.5 Constitutional Outcome Claims Discipline](core_02.050_governance_incentive_application.md#1915-constitutional-outcome-claims-discipline) (2.050 §19.1.5); Chapter Two Part B tradeoff and interpretation homes:
-  - [Chapter Two §13.1.1 Necessity](core_02.020_interaction_interpretation.md#1311-necessity) (2.020 §13.1.1);
-  - [Chapter Two §13.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_02.020_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) (2.020 §13.1.4);
-  - [Chapter Two §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (2.020 §13.1.5);
-  - [Chapter Two §13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) (2.020 §13.2);
-  - [Chapter Two §13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (2.020 §13.3);
-  - [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1);
-  - [Chapter Two §15.1.2 Derived-Information Principle](core_02.030_constitutional_interpretation.md#1512-derived-information-principle) (2.030 §15.1.2);
+  - [Chapter Two §12.1.1 Necessity](core_02.020_interaction_interpretation.md#1211-necessity) (2.020 §12.1.1);
+  - [Chapter Two §12.1.4 Constitutional Floors, Safety, and Anti-Degrading Process](core_02.020_interaction_interpretation.md#1214-constitutional-floors-safety-and-anti-degrading-process) (2.020 §12.1.4);
+  - [Chapter Two §12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle) (2.020 §12.1.5);
+  - [Chapter Two §12.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#122-epistemic-disclosure-constraints) (2.020 §12.2);
+  - [Chapter Two §12.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#123-minimization-of-avoidable-burden) (2.020 §12.3);
+  - [Chapter Two §14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle) (2.030 §14.1);
+  - [Chapter Two §14.1.2 Derived-Information Principle](core_02.030_constitutional_interpretation.md#1412-derived-information-principle) (2.030 §14.1.2);
   - [Stakeholder System Participation](subcore_03.090_band_participation.md#stakeholder-status-and-weight) where the stakeholder layer applies;
   - [Tetrad Leg Decomposition](#participation-tetrad-leg-decomposition); Participation-band leaf definitions in
   - [subcore_03.090_band_participation.md](subcore_03.090_band_participation.md).
@@ -67,7 +67,7 @@ Decisions made without those they affect miss harms that only those sentients ca
     - [Flourishing](core_00.000_preamble.md#flourishing): a real say is part of living well;
     - [Continuity](core_00.000_preamble.md#continuity): those affected often see risks to shared systems first;
   - [material stake](core_00.000_preamble.md#material-stake);
-- Chapter Two principles: [§17.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests);
+- Chapter Two principles: [§16.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#167-duty-to-represent-stakeholder-interests);
 - Chapter Four Articles:
   - [Article XII](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*);
   - [Article XX](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status) (*Standing and Participation Status*).

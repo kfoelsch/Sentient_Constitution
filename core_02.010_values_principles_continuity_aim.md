@@ -2,7 +2,7 @@
 <details>
 <summary><strong><span style="color: #2563eb;">Corpus placement (non-operative): file structure and reading rules</span></strong></summary>
 
-> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Two, Part B** — the **Continuity Aim** (shared-system capacity, resilience, market structure, and the systemic evaluation requirement) (**§8–§12**, continuing from the earlier Part of this chapter).
+> This file is **part of the Sentient Constitution** and is **binding only together** with the other numbered `core_*` files read as one text. It contains **Chapter Two, Part B** — the **Continuity Aim** (shared-system capacity, resilience, and market structure) (**§8–§11**, continuing from the earlier Part of this chapter).
 >
 > **Upstream:** [Chapter Two, Part A](core_02.000_values_principles.md). **Downstream:** [Chapter Two, Part C](core_02.020_interaction_interpretation.md).
 
@@ -17,7 +17,7 @@
 
 <br>
 
-Chapter Two, Part B is the constitutional owner of the **Continuity Aim** (shared-system capacity, resilience, market structure, and the systemic evaluation requirement).
+Chapter Two, Part B is the constitutional owner of the **Continuity Aim** (shared-system capacity, resilience, and market structure). The systemic evaluation requirement is in **Part F**.
 
 
 <a id="8-continuity-aim-introduction"></a>
@@ -32,7 +32,7 @@ Chapter Two, Part B is the constitutional owner of the **Continuity Aim** (share
   - [§9 Shared-System Capacity](#9-shared-system-capacity),
   - [§10 Resilience and Self-Healing Design](#10-resilience-and-self-healing-design),
   - [§11 Market Structure](#11-market-structure), and
-  - [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement); the Articles that protect each are named in that section's Trace.
+  - [§18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement); the Articles that protect each are named in that section's Trace.
 - Read with: the Chapter Four Rights Floor generally.
 </details>
 
@@ -67,19 +67,19 @@ Chapter Two, Part B is the constitutional owner of the **Continuity Aim** (share
 | [§9 Shared-System Capacity](#9-shared-system-capacity) | Do sentients and shared systems keep the lasting ability to get constitutionally required work done? |
 | [§10 Resilience and Self-Healing Design](#10-resilience-and-self-healing-design) | Do systems detect trouble early, contain it, and recover honestly? |
 | [§11 Market Structure](#11-market-structure) | Can sentients still enter markets, compete, challenge powerful actors, and switch away from them, or has concentration by a few actors closed those doors and drained the system's capacity? |
-| [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) | Before anyone claims a system is compliant, safe, or well governed, has the whole system been checked, including what it depends on and what incentives drive it, and not just one part at one moment? |
+| [§18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement) | Before anyone claims a system is compliant, safe, or well governed, has the whole system been checked, including what it depends on and what incentives drive it, and not just one part at one moment? |
 
 **How the Continuity principles work together:**
 - **Continuity starts from an honest picture:**
   - Every Continuity claim, whether about capacity, resilience, or market structure, rests on what the whole system actually does over time, not on a slogan or a snapshot.
-  - [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) states that standard, and it applies to every claim in [§§9–11 Shared-System Capacity through Market Structure](#9-shared-system-capacity).
+  - [§18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement) states that standard, and it applies to every claim in [§§9–11 Shared-System Capacity through Market Structure](#9-shared-system-capacity).
   - It builds on the Truth constraint in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) and [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint).
 - **Capacity straddles the two aims:** [§9 Shared-System Capacity](#9-shared-system-capacity) is a means toward Flourishing and the substance of Continuity, and it is not a trump card over safety, truth, rights, or ecology.
 - **Resilience and market structure protect capacity:** Resilience keeps it durable; market structure keeps it contestable.
 - **Systemic evaluation checks the whole:**
-  - [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) verifies scope, dependency, and incentive alignment before compliance claims stand.
-  - It is placed last because it verifies what §9 Shared-System Capacity, §10 Resilience and Self-Healing Design, and §11 Market Structure describe, and it governs how every Continuity claim is made.
-- **Continuity must not quietly defeat Flourishing:** Where the two collide, they are weighed under [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+  - [§18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement) verifies scope, dependency, and incentive alignment before compliance claims stand.
+  - It verifies what §9 Shared-System Capacity, §10 Resilience and Self-Healing Design, and §11 Market Structure describe, and it governs how every Continuity claim is made.
+- **Continuity must not quietly defeat Flourishing:** Where the two collide, they are weighed under [§12 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process).
 
 **Diagram: Continuity and its principles**
 
@@ -92,7 +92,7 @@ flowchart TB
     FL["Flourishing aim<br/><br/>• §3 to §7"]
     RES["§10 Resilience and Self-Healing Design<br/><br/>• Detect, contain, fail safely, recover honestly"]
     MKT["§11 Market Structure<br/><br/>• §11.1 Market Concentration Threshold Mechanism<br/>• §11.2 Pro-Competition and Anti-Domination<br/>• §11.3 Consolidation Ceiling<br/>• §11.4 Resource and Dependency Concentration"]
-    EV["§12 Systemic Evaluation Requirement<br/><br/>• Whole-system scope, dependency,<br/>and incentive alignment"]
+    EV["§18 Systemic Evaluation Requirement<br/><br/>• Whole-system scope, dependency,<br/>and incentive alignment"]
     C -->|"opens with"| CAP
     GL["&nbsp;"]
     GE["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
@@ -132,7 +132,7 @@ flowchart TB
   - [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim),
   - [§6 Trust and Trustworthiness](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity), and
   - [§7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency).
-- Downstream: [§13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden), [18. Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application).
+- Downstream: [§12.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#123-minimization-of-avoidable-burden), [17. Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline), and [§19.1.3 Stewardship and Operator Application](core_02.050_governance_incentive_application.md#1913-stewardship-and-operator-application).
 - Downstream: **CJS-3.125 §11.1 — Concentration threshold-setting discipline (adopter-tunable)** (operative threshold-setting rules).
 - Downstream: Shapes the rights surface for ecological preconditions, resource allocation, educational and developmental capacity, lifecycle resilience, interoperability, comprehensibility, and adaptive response; especially
   - [Article I-A: Environmental Preconditions and Ecological Integrity](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity),
@@ -179,7 +179,7 @@ flowchart TB
 
 *In plain terms: shared systems should keep working for sentients over the long run. Sentients should be able to do useful work, make life better over time, and speak up when something is wrong, without a few powerful players locking everyone else out. That lasting ability is **Shared-System Capacity**. **[§9.1 Productive Capacity (Instrumental Good)](#91-productive-capacity-instrumental-good)** asks whether sentients get real results. **[§9.2 Constitutional Efficiency](#92-constitutional-efficiency)** asks whether those results come without wasting anyone's time, money, and attention. None of it counts if the gains come from hoarding wealth or power, faking the numbers, stripping rights, or pushing harm onto others or the planet; **[§9.1.1 Preserve, Expand, and What Does Not Count](#911-preserve-expand-and-what-does-not-count)** spells that out. **[§11 Market Structure](#11-market-structure)** keeps a handful of players from taking over.*
 
-Flourishing means sentient lives going well. To sustain that over time, sentients and their shared systems need to keep doing what this Constitution requires while remaining open to challenge. This lasting ability is **[Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity)**. Good [Stewardship](subcore_03.075_band_continuity.md#stewardship) and [Governance](subcore_03.070_band_accountability.md#governance) should build it. It supports Flourishing and is at the heart of Continuity, but it never justifies overriding safety, truth, rights, or ecology. Claims about it must be honest and checked against what the whole system actually does over time, as [§12 Systemic Evaluation Requirement](#12-systemic-evaluation-requirement) requires.
+Flourishing means sentient lives going well. To sustain that over time, sentients and their shared systems need to keep doing what this Constitution requires while remaining open to challenge. This lasting ability is **[Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity)**. Good [Stewardship](subcore_03.075_band_continuity.md#stewardship) and [Governance](subcore_03.070_band_accountability.md#governance) should build it. It supports Flourishing and is at the heart of Continuity, but it never justifies overriding safety, truth, rights, or ecology. Claims about it must be honest and checked against what the whole system actually does over time, as [§18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement) requires.
 
 That capacity has several aspects working together:
 - **[Productive Capacity](subcore_03.075_band_continuity.md#productive-capacity)** — can sentients participate, contribute, and get real results? ([§9.1 Productive Capacity (Instrumental Good)](#91-productive-capacity-instrumental-good))
@@ -262,9 +262,9 @@ It is an **instrumental good** — a means, not a trump value. Its job is to rai
 
 - Read with:
   - [§9.2 Constitutional Efficiency](#92-constitutional-efficiency);
-  - [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process);
-  - [§13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation);
-  - [§14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override);
+  - [§12 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process);
+  - [§12.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation);
+  - [§13 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#13-prohibition-on-absolute-override);
   - [Article I-A: Environmental Preconditions and Ecological Integrity](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity).
 - Read with:
   - [§4 Safety (Harm Constraint)](core_02.000_values_principles.md#4-safety-harm-constraint);
@@ -282,15 +282,13 @@ Systems must preserve productive capacity and, where feasible, expand it when do
 **That obligation:**
 
 - **Stays within:**
-  - Safety;
-  - Truth;
+  - the hard limits in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth): Safety and Truth are never traded away for any other goal;
   - Trust;
   - Freedom;
   - the Chapter Four Rights Floor, including [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*):
     - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity);
     - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions); and
     - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility).
-  - the hard limits in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth): Safety and Truth are never traded away for any other goal.
 - **How it is judged:** traced outcomes under **[Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) and [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions)**.
 - **How it is shown:** evidence, not slogans.
 
@@ -305,10 +303,10 @@ Productive capacity does not count — and must not be used to justify:
   - narrowing or delaying Chapter Four Rights Floors, including ecological preconditions under [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*);
   - weakening audit, contestability, or retrospective-review duties;
 - **Bypassing the rules for weighing principles:**
-  - bypassing [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), including the [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record) requirements; or
-  - the other prohibited override paths in [§14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override), including shifting ecological, intergenerational, or distributional harm off the books that **Subcores 3-A to 3-C** require stay visible.
+  - bypassing [§12 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process), including the [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record) requirements; or
+  - the other prohibited override paths in [§13 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#13-prohibition-on-absolute-override), including shifting ecological, intergenerational, or distributional harm off the books that **Subcores 3-A to 3-C** require stay visible.
 
-Where productive-capacity claims rest on metrics that no longer prove real outcomes — including metrics that hide ecological damage, future harm, or concentration-driven loss — [§13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) applies.
+Where productive-capacity claims rest on metrics that no longer prove real outcomes — including metrics that hide ecological damage, future harm, or concentration-driven loss — [§12.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation) applies.
 
 <a id="92-constitutional-efficiency"></a>
 #### 9.2 Constitutional Efficiency
@@ -388,12 +386,12 @@ Efficiency can drive broadly shared improvement, but only inside constitutional 
   - [5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), and
   - [§6 Trust](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity).
 - Downstream:
-  - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
-  - [§13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden),
+  - [§15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth),
+  - [§12.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#123-minimization-of-avoidable-burden),
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations),
-  - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
-  - [14. Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
+  - [§17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline), and
+  - [13. Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#13-prohibition-on-absolute-override).
 - Downstream: Shapes the rights surface for reliability-with-recovery, root-cause honesty, reversibility, and comprehensibility of degraded and restoring states.
   - Especially
     - [Article XIV: Right to Reliable and Trustworthy Systems](core_04.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems) (including **Article XIV-F** (*Resilience and Self-Healing Baseline*)),
@@ -445,8 +443,8 @@ Operative detail — recovery detection, containment, safe-failure preference, r
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — participation, oversight, accountability, and timeliness where concentration or domination defeats voice, scrutiny, answerability, or timely correction; [material stake](core_00.000_preamble.md#material-stake) scaling (especially [§11.2 Pro-Competition and Anti-Domination](#112-pro-competition-and-anti-domination)).
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions); **Flourishing** aim (fair access to livelihood, agency, and innovation pathways).
-- Upstream: Principles: [§9 Shared-System Capacity](#9-shared-system-capacity) — productive-capacity and efficiency claims fail where concentration or domination hollows them; [18. Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline).
-- Downstream: [Subcore 14-A §7.1](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (S14-A §7.1) (concentration-based subversion); [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) ([§13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
+- Upstream: Principles: [§9 Shared-System Capacity](#9-shared-system-capacity) — productive-capacity and efficiency claims fail where concentration or domination hollows them; [17. Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline).
+- Downstream: [Subcore 14-A §7.1](subcore_14.010_misconduct_pattern_applications.md#71-concentration-based-subversion-criteria-interaction) (S14-A §7.1) (concentration-based subversion); [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) ([§12.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation)).
 - Downstream: **CJS-3.125 §11.1 — Market concentration threshold-setting discipline (adopter-tunable)** (
   - [§11.1](#111-market-concentration-threshold-mechanism-adopter-tunable) and
   - [§11.4](#114-resource-and-dependency-concentration-adopter-tunable) rules for applying it); **CJS-3.125 §11.2 — Anti-domination conduct and remediation catalog** (
@@ -620,10 +618,10 @@ Operative threshold-setting discipline — requirement preservation, substance-o
 - Read with:
   - [Article III-C: Labor and Economic Floor](core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (labor mobility Rights Floor);
   - [Article XXII: Interoperability, Portability, and Exit Integrity](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity);
-  - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (
+  - [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) (
   - [Necessity](subcore_03.070_band_accountability.md#necessity),
   - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
-  - [§13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation)).
+  - [§12.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation)).
 - Subsections (reading order): [§11.2.1 Pro-Competition Duties (Dos)](#1121-pro-competition-duties-dos) · [§11.2.2 Anti-Domination Prohibitions (Don'ts)](#1122-anti-domination-prohibitions-donts) · [§11.2.3 Remedies](#1123-remedies).
 </details>
 
@@ -695,7 +693,7 @@ These advantages remain allowed only as long as they do not turn into any of the
 - ecological burden shifting;
 - capture of accountability pathways.
 
-Anyone using the following reasons must meet the requirements for evidence and traceability in [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) and [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification):
+Anyone using the following reasons must meet the requirements for evidence and traceability in [§12 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) and [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification):
 - efficiency;
 - competitiveness;
 - emergency;
@@ -782,7 +780,7 @@ Operative remedy selection follows **CJS-3.125 §11.2** (*Anti-domination conduc
 
 - Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight**, **accountability**, and **timeliness** where consolidation impairs scrutiny, answerability, or timely correction before lock-in; **participation** where consolidation forecloses entry, exit, or fair bargaining; [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Read with: [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim (contestable, durable productive conditions against pre-lock-in consolidation); **Flourishing** aim (livelihood, agency, and innovation pathways while alternatives remain real).
-- Upstream: [§11 Market Structure](#11-market-structure); [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline); [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth).
+- Upstream: [§11 Market Structure](#11-market-structure); [§17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline); [§15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth).
 - Subsections (reading order): [§11.3.1 Consolidation Risk (Pre-Lock-In Impairment)](#1131-consolidation-risk-pre-lock-in-impairment) · [§11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)](#1132-consolidation-ceiling-mechanism-adopter-tunable).
 </details>
 
@@ -1015,73 +1013,8 @@ Adopters must define [Market Concentration Threshold](subcore_03.070_band_accoun
 - Where the same arrangement also falls short of [Article V-A](core_04.000_rights_part_a.md#article-v-a-dependency-mapping-and-resource-flow-transparency) (*Dependency Mapping and Resource-Flow Transparency*) or [Article V-B](core_04.000_rights_part_a.md#article-v-b-cross-system-fairness-and-sustainability) (*Cross-System Fairness and Sustainability*), both apply: concentration scrutiny is added on top of **Article V** (*Resource Allocation, Dependencies, and Ecosystem Funding*) and does not replace it.
 - In system alignment certification, a system that becomes a choke point for dependents who cannot realistically switch is stepped up on those facts under [Subcore 8-B §6.3.5 System Class Scaling and Escalation](subcore_08.020_system_alignment_certification_evaluation.md#635-system-class-scaling-and-escalation) and [Subcore 8-B §3.2 How system class scales every evaluation](subcore_08.020_system_alignment_certification_evaluation.md#32-how-system-class-scales-every-evaluation). A crossed threshold there is further evidence, and a threshold that is unset or set too high does not delay the step-up.
 
-<a id="12-systemic-evaluation-requirement"></a>
-### 12. Systemic Evaluation Requirement
 
-<details>
-<summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-
-- Read with: Continuity measurement family (*Resilience, reversibility, and systemic risk*).
-- Read with: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), and [material stake](core_00.000_preamble.md#material-stake) scaling.
-- Read with:
-  - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process),
-  - [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth),
-  - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
-  - [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture).
-- Read with: **[Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations)** — the factors used to evaluate a whole system for certification. Certification is one especially large audit under the **oversight** leg of the Tetrad, not the only place audits happen.
-- Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and [Auditability](subcore_03.085_band_oversight.md#auditability) — auditing floors that Chapter Eight must satisfy and that sibling audit modes also implement.
-- Read with: **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)** and [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) — class-scaled application, record form, reclassification triggers, and handling profiles.
-- Upstream: [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth); [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline); [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
-- Downstream: [§20 Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) — verifies pursuit of the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) and [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) scaling under the system's incentive and control structure, not only its stated rationale.
-- Read together, **§§9–12** build the Continuity aim from shared-system capacity and resilience, through market structure, to whole-system validation; **§§13–15** supply the tradeoff procedure that governs how it is weighed against Flourishing; and **§§16–20** carry the stewardship, governance, and incentive discipline that keeps it legitimate.
-</details>
-
-<details>
-<summary><strong><span style="color: #2563eb;">Definitions (O · M · A · C)</span></strong></summary>
-
-- [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) · [O](subcore_03.085_band_oversight.md#classification-scaled-governance) · [M](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [A](subcore_03.085_band_oversight.md#classification-scaled-governance-a) · [C](subcore_03.085_band_oversight.md#classification-scaled-governance-c)
-- [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [O](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) · [M](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-m) · [A](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-a) · [C](subcore_03.055_apex_oversight_leg.md#oversight-constitutional-c)
-- [Auditability](subcore_03.085_band_oversight.md#auditability) · [O](subcore_03.085_band_oversight.md#auditability) · [M](subcore_03.085_band_oversight.md#auditability-a) · [A](subcore_03.085_band_oversight.md#auditability-a) · [C](subcore_03.085_band_oversight.md#auditability-c)
-- [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) · [O](subcore_03.075_band_continuity.md#system-alignment-certification) · [M](subcore_03.075_band_continuity.md#system-alignment-certification-constitutional-a) · [A](subcore_03.075_band_continuity.md#system-alignment-certification-constitutional-a) · [C](subcore_03.075_band_continuity.md#system-alignment-certification-constitutional-c)
-- [Risk](subcore_03.075_band_continuity.md#risk) · [O](subcore_03.075_band_continuity.md#risk) · [M](subcore_03.075_band_continuity.md#risk-a) · [A](subcore_03.075_band_continuity.md#risk-a) · [C](subcore_03.075_band_continuity.md#risk-c)
-- [Dependency](subcore_03.075_band_continuity.md#dependency) · [O](subcore_03.075_band_continuity.md#dependency) · [M](subcore_03.075_band_continuity.md#dependency-a) · [A](subcore_03.075_band_continuity.md#dependency-a) · [C](subcore_03.075_band_continuity.md#dependency-c)
-- [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) · [O](subcore_03.080_band_integrative.md#constitutional-collision) · [M](subcore_03.080_band_integrative.md#constitutional-collision-a) · [A](subcore_03.080_band_integrative.md#constitutional-collision-a) · [C](subcore_03.080_band_integrative.md#constitutional-collision-c)
-- [Governance](subcore_03.070_band_accountability.md#governance) · [O](subcore_03.070_band_accountability.md#governance) · [M](subcore_03.070_band_accountability.md#governance-a) · [A](subcore_03.070_band_accountability.md#governance-a) · [C](subcore_03.070_band_accountability.md#governance-c)
-- [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment) · [O](subcore_03.080_band_integrative.md#incentive-alignment) · [M](subcore_03.080_band_integrative.md#incentive-alignment-a) · [A](subcore_03.080_band_integrative.md#incentive-alignment-a) · [C](subcore_03.080_band_integrative.md#incentive-alignment-c)
-- [Market Structure](subcore_03.070_band_accountability.md#market-structure) · [O](subcore_03.070_band_accountability.md#market-structure) · [M](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [A](subcore_03.070_band_accountability.md#market-structure-constitutional-a) · [C](subcore_03.070_band_accountability.md#market-structure-constitutional-c)
-- [Reversibility](subcore_03.075_band_continuity.md#reversibility) · [O](subcore_03.075_band_continuity.md#reversibility) · [M](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [A](subcore_03.075_band_continuity.md#reversibility-constitutional-a) · [C](subcore_03.075_band_continuity.md#reversibility-constitutional-c)
-- [Shared-System Capacity](subcore_03.075_band_continuity.md#shared-system-capacity) · [O](subcore_03.075_band_continuity.md#shared-system-capacity) · [M](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-a) · [A](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-a) · [C](subcore_03.075_band_continuity.md#shared-system-capacity-constitutional-c)
-- [Stewardship](subcore_03.075_band_continuity.md#stewardship) · [O](subcore_03.075_band_continuity.md#stewardship) · [M](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [A](subcore_03.075_band_continuity.md#stewardship-constitutional-a) · [C](subcore_03.075_band_continuity.md#stewardship-constitutional-c)
-- [System Capture](subcore_03.075_band_continuity.md#system-capture) · [O](subcore_03.075_band_continuity.md#system-capture) · [M](subcore_03.075_band_continuity.md#system-capture-a) · [A](subcore_03.075_band_continuity.md#system-capture-a) · [C](subcore_03.075_band_continuity.md#system-capture-c)
-- [Transparency](subcore_03.085_band_oversight.md#transparency) · [O](subcore_03.085_band_oversight.md#transparency) · [M](subcore_03.085_band_oversight.md#transparency-a) · [A](subcore_03.085_band_oversight.md#transparency-a) · [C](subcore_03.085_band_oversight.md#transparency-c)
-
-</details>
-
-<br>
-
-*In plain terms: this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](subcore_03.085_band_oversight.md#auditability)).*
-
-Any claim about the matters below must be checked against what the whole system actually does over time. A slogan or a snapshot of one part at one moment is not enough:
-
-- classification;
-- compliance;
-- governance;
-- limitation;
-- recognition;
-- validation;
-- continued reliance;
-- deployment;
-- release-from-conditions.
-
-The detailed evaluation factors and System Certification Records are owned by:
-- **[Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations)**;
-- **[Subcore 8-F §3 System Certification Record](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record)**;
-- **[CS-8.305](corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and [Subcore 8-A — System Classification](subcore_08.010_system_classification.md#subcore-8-a-system-classification)**.
-
-That Chapter Eight process:
-- is principle-layer auditing under [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional);
-- is one especially large audit process among sibling modes;
-- does not relocate or replace **Article XVII** (*Audit, Transparency, and Independent Verification*).
+Whole-system evaluation of these claims follows [§18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement).
 
 <br>
 

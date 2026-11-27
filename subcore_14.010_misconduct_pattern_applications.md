@@ -14,9 +14,8 @@
 
 <br>
 
-Core home: 14
-
 Subcore 14-A is the constitutional owner of **named pattern applications and criteria routing** for anti-constitutional misconduct. Anti-constitutional-misconduct designation (ACMD) criteria, attachment, and due-process safeguards are in **[Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation)**.
+
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: this chapter applies [Chapter Fourteen](core_14.000_misconduct_designation.md#chapter-fourteen-anti-constitutional-misconduct-designation)'s decision model to recurring patterns of anti-constitutional conduct. It names how each pattern attacks accountability. It creates no new criteria and no new lock types.*
@@ -63,7 +62,7 @@ Capture, manipulation of evidence, and domination of markets or information recu
     - [Continuity](core_00.000_preamble.md#continuity): recognizing patterns early keeps them from wearing down protections;
 - Chapter Two principles:
   - [§11.2 Pro-Competition and Anti-Domination](core_02.010_values_principles_continuity_aim.md#112-pro-competition-and-anti-domination);
-  - [§13.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity);
+  - [§12.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1221-preservation-of-epistemic-integrity);
   - [§19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture);
   - [§19.1.2 What Incentives Must Not Do](core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do);
 - Chapter Four Articles:
@@ -357,7 +356,7 @@ Evaluators assess these patterns as follows:
   - [§5](core_14.000_misconduct_designation.md#5-criteria-set-for-anti-constitutional-misconduct-designation--accountability-at-constitutional-scale) (*Criteria set*);
   - [§4.2](#42-flooding-the-zone-and-contest-pathway-denial) (*Flooding the zone — contest-pathway distinction*);
   - [Chapter Two §5](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) (2.000 §5) (*Truth / epistemic integrity*);
-  - [Chapter Two §13.2.1](core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity) (2.020 §13.2.1) (*Preservation of epistemic integrity*).
+  - [Chapter Two §12.2.1](core_02.020_interaction_interpretation.md#1221-preservation-of-epistemic-integrity) (2.020 §12.2.1) (*Preservation of epistemic integrity*).
 - Downstream: [§6](core_14.000_misconduct_designation.md#6-violation-axis-slot-79-anti-constitutional-designation) (*Violation Axis slot 7–9 designation*); [§3.2](core_14.000_misconduct_designation.md#32-exclusive-authority-to-issue-a-final-acmd) (*Exclusive Authority to Issue a Final ACMD*).
 - Topic routing (mandatory read-with): [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks) (18.000 §4.5) (*Question 3 gated-pathway lock routing for contest-pathway or info-sphere flooding — general locks only*).
 - Read with:

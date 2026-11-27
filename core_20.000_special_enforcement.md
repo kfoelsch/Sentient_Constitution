@@ -40,7 +40,7 @@ Chapter Twenty is the constitutional owner of **special enforcement**: the added
 - It receives the steps that [Chapter Nineteen §8 Routing to Special Enforcement](core_19.000_enforcement.md#8-routing-to-special-enforcement) sends here. The rest of each outcome stays under Chapter Twenty-Five.
 - It adds to [Chapter Nineteen](core_19.000_enforcement.md#chapter-nineteen-enforcement) sections 3 to 7 and never lowers them. It adds no new kind of consequence and does not reopen any outcome.
 - Its rules are read with **Article XXI** (*Justice After Verified Violation*), so that no step under this chapter becomes revenge, cruelty, or a second punishment.
-- Every step under this chapter applies the Chapter Two principles of [§13.1.1 Necessity](core_02.020_interaction_interpretation.md#1311-necessity), [§13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality), and the [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle). This chapter says how those principles apply when money, assets, or force are involved; it does not restate them.
+- Every step under this chapter applies the Chapter Two principles of [§12.1.1 Necessity](core_02.020_interaction_interpretation.md#1211-necessity), [§12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality), and the [§12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle). This chapter says how those principles apply when money, assets, or force are involved; it does not restate them.
 
 **Chapter scope:** The chapter covers:
 
@@ -72,9 +72,9 @@ The same logic applies to failure. When the same kind of outcome keeps going und
     - [Continuity](core_00.000_preamble.md#continuity): recovering what is owed lets harm be repaired;
 - Chapter Two principles:
   - [§3.3 Anti-Degrading Process](core_02.000_values_principles.md#33-anti-degrading-process);
-  - [§13.1.1 Necessity](core_02.020_interaction_interpretation.md#1311-necessity);
-  - [§13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality);
-  - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
+  - [§12.1.1 Necessity](core_02.020_interaction_interpretation.md#1211-necessity);
+  - [§12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality);
+  - [§12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle);
 - Chapter Four Articles:
   - [Article VII-C](core_04.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor) (*Health Crisis and Involuntary-Intervention Floor*);
   - [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*);

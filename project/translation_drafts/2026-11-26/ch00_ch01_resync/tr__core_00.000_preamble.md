@@ -11,13 +11,13 @@
 >
 > Bu dosya **Algılayan Anayasası'nın bir parçasıdır** ve numaralı diğer `core_*` dosyalarıyla tek bir metin olarak okunduğunda **bağlayıcıdır**. **Önsözü** (temel gereklilikler) içerir. Okuma sırası ve sürüm bilgileri [README.md](README.md) içinde tutulur.
 >
-> **Sonraki:** [core_01.000_constitutional_map.md](core_01_constitutional_map.md) (Birinci Bölüm, Anayasal Harita).
+> **Sonraki:** [core_01.000_constitutional_map.md](../../core_01.000_constitutional_map.md) (Birinci Bölüm, Anayasal Harita).
 
 </details>
 
 <br>
 
-Önsöz, **Modelin** (**İki Anayasal Amaç**, **Anayasal Dörtlü** ve **maddi pay**) ve ölçüm kategorilerinin anayasal sorumlusudur. Anayasal sorumlu sicili, *Anayasal Harita* olan [Birinci Bölümde](core_01_constitutional_map.md#chapter-one-constitutional-map) yer alır.
+Önsöz, **Modelin** (**İki Anayasal Amaç**, **Anayasal Dörtlü** ve **maddi pay**) ve ölçüm kategorilerinin anayasal sorumlusudur. Anayasal sorumlu sicili, *Anayasal Harita* olan [Birinci Bölümde](../../core_01.000_constitutional_map.md#chapter-one-constitutional-map) yer alır.
 
 *Yalın dille: bu açılış, bu Anayasanın düzeltmek için var olduğu sorunu adlandırır — etkilediklerine zarar veren, onları gizleyen ya da dışarıda bırakan sistemler — ve belgenin geri kalanının bunu hesap verebilir, denetlenebilir ve zamanında yönetimle nasıl değiştirdiğimizi söylediğini belirtir.*
 
@@ -68,7 +68,7 @@ Bu sorular herkesten uyumlu olmasını istemez. Dürüst muhalefet, iyi niyetli 
 
 Sorular, bir sistemin neyi ödüllendirip cezalandıracağına karar veren herkesi bağlar. Ücreti, terfiyi, erişimi, hedefleri ve puanlamayı belirleyen operatörler, kurumlar ve sorumlular buna dâhildir. AI'ı eğiten veya optimize eden sistemlerin tasarımcıları da buna dâhildir; amaçları ve geri bildirim sinyalleri tam da bu anlamda ödüldür. İnsan ve AI sorumlular aynı standarda tabidir ([Birinci Bölüm §17.1 Ortak Sorumluluk Standardı](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
-Birinci Bölüm bu soruları teşvik kurallarına dönüştürür: [§19.1.1 Teşviklerin Yapması Gerekenler](../../core_02.040_stewardship_capacity_principles.md#1911-what-incentives-must-do) ilk sorunun, [§19.1.2 Teşviklerin Yapmaması Gerekenler](../../core_02.040_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) ikincinin temelidir. Söylenene inanmak yerine gerçekte ne olduğunu denetleyerek yanıtlayın. [Teşvik Uyumu](../../subcore_03.080_band_integrative.md#incentive-alignment) ve [Vekil Sapması](../../subcore_03.085_band_oversight.md#proxy-divergence) yöntemi açıklar; [**maddi menfaat**](#material-stake) ne kadar derine bakılacağını belirler. Bölüm 1'deki dört görev, yanıtların dürüst kalmasını sağlar.
+Birinci Bölüm bu soruları teşvik kurallarına dönüştürür: [§19.1.1 Teşviklerin Yapması Gerekenler](../../core_02.050_governance_incentive_application.md#1911-what-incentives-must-do) ilk sorunun, [§19.1.2 Teşviklerin Yapmaması Gerekenler](../../core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do) ikincinin temelidir. Söylenene inanmak yerine gerçekte ne olduğunu denetleyerek yanıtlayın. [Teşvik Uyumu](../../subcore_03.080_band_integrative.md#incentive-alignment) ve [Vekil Sapması](../../subcore_03.085_band_oversight.md#proxy-divergence) yöntemi açıklar; [**maddi menfaat**](#material-stake) ne kadar derine bakılacağını belirler. Bölüm 1'deki dört görev, yanıtların dürüst kalmasını sağlar.
 
 ### 1. Model
 
@@ -137,7 +137,7 @@ Aşağıdaki genel bakış ölçüm **kategorilerini** listeler ve her birini [�
 |---|---|---|
 | **[Gelişim](../../subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | Algılayanların yaşamı, güvenliği ve temel ihtiyaçlara erişimi gerçekten güvence altında mı? | [Esenlik](../../subcore_03.075_band_continuity.md#wellbeing) · [Güvenlik, zarar ve risk](../../subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [Yaşamı sürdürme tabanına erişim](../../subcore_03.075_band_continuity.md#bodily-maintenance-access) |
 | **[Süreklilik](../../subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | Algılayanlar ve sistemler ekolojik olarak, güvenilir biçimde ve arıza koşullarında varlığını sürdürebiliyor mu? | [Ekolojik ayak izi ve çevresel önkoşullar](../../subcore_03.075_band_continuity.md#ecological-footprint) · [Dayanıklılık, geri döndürülebilirlik ve sistemik risk](../../subcore_03.075_band_continuity.md#reversibility) · [Bağımlılık ve kaynak akışları](../../subcore_03.075_band_continuity.md#dependency) · [Sistemler arası destek](../../subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
-| **[Katılım](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | Etkilenen algılayanlar söz, erişim, öğrenme ve mahremiyet bakımından adil biçimde katılabiliyor mu? | [Adalet, erişim ve eyleme geçme gücü](../../subcore_03.090_band_participation.md#substantive-fairness) · [Mahremiyet ve verilerin sorumlu yönetimi](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
+| **[Katılım](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | Etkilenen algılayanlar söz, erişim, öğrenme ve mahremiyet bakımından adil biçimde katılabiliyor mu? | [Adalet, erişim ve eyleme geçme gücü](../../subcore_03.090_band_participation.md#substantive-fairness) · [Mahremiyet ve verilerin sorumlu yönetimi](../../subcore_03.075_band_continuity.md#privacy-informational-cluster) |
 | **[Gözetim](../../subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | Algılayanlar, sistemlerin sunduğu bilgileri görebiliyor, doğrulayabiliyor ve bunlara güvenebiliyor mu? | [Hakikat ve epistemik bütünlük](../../subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [Güvenilirlik](../../subcore_03.075_band_continuity.md#trustworthiness) |
 | **[Hesap verebilirlik](../../subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | Teşvik yapıları, piyasa gücü ve hesap verme yükümlülüğü görevleri gerçeğe dönüştürüyor mu? | [Teşvik uyumu ve vekil bütünlüğü](../../subcore_03.080_band_integrative.md#incentive-alignment) · [Piyasa yapısı ve itiraz edilebilirlik](../../subcore_03.070_band_accountability.md#market-structure) |
 | **[Zamanındalık](../../subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | Uyuşmazlıklar, düzeltmeler ve onarımlar, giderim hâlâ önem taşırken çözüme kavuşturuluyor mu? | [Zamanında çözüm](../../subcore_03.070_band_accountability.md#timely-resolution) · [Gecikme karşıtı ve çözüm yolu disiplini](../../subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |

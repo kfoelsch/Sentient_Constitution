@@ -45,7 +45,7 @@ This kit does **not**:
 
 - Count as [Chapter Twenty-Three §12](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) adoption or [Chapter Twenty-Five](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation
 - Let two markdown declarations, a mutual compact note, or “we follow it” practice claim constitutional protection while dodging matching obligations
-- Bind host products, operators, vendors, or other non-consenting parties ([Chapter Two §17.4](../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Bind host products, operators, vendors, or other non-consenting parties ([Chapter Two §16.4](../../core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization))
 - Create a Chapter Fourteen Standing Record, a Chapter Eight system alignment certification, or a Merits Determination
 - Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XX-A](../../core_04.030_rights_part_d.md#article-xx-a-standing-distinction))
 - Authorize [Chapter Twenty-Three §12.3](../../core_23.000_amendment_ratification.md#123-joining-by-additional-parties) joining (there are no published existing-adopter joining rules yet)
@@ -74,7 +74,7 @@ A **qualifying adopter** records deliberate, documented, auditable adoption unde
 
 Qualifying adopters are named in [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority): bodies that can **bind themselves and the systems under their authority** (federations, polities, cooperative entities, organizations, system operators, system-developer consortia, or equivalent). A steward is bound **when** such a body adopts. Listing a steward as bound does not make that steward themselves a qualifying adopter ([Chapter Twenty-Three §12.1](../../core_23.000_amendment_ratification.md#121-deliberate-adoption)).
 
-**Same duties for both kinds of steward.** [Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
+**Same duties for both kinds of steward.** [Chapter Two §16.1](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
 ```text
 each party sits the fitness screen (separate files, same edition pin)

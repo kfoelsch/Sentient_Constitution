@@ -21,7 +21,7 @@
   - [Chapter Two §9 Shared-System Capacity](core_02.010_values_principles_continuity_aim.md#9-shared-system-capacity) (2.010 §9);
   - [Chapter Two §10 Resilience and Self-Healing Design](core_02.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design) (2.010 §10);
   - [Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure) (2.010 §11);
-  - [Chapter Two §12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) (2.010 §12);
+  - [Chapter Two §18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement) (2.010 §18);
   - [Chapter Two §19.1.5 Constitutional Outcome Claims Discipline](core_02.050_governance_incentive_application.md#1915-constitutional-outcome-claims-discipline) (2.050 §19.1.5);
   - [Constitutional Aim Decomposition](#constitutional-aim-decomposition); Continuity topic groups in
   - [subcore_03.075_band_continuity.md](subcore_03.075_band_continuity.md).
@@ -94,7 +94,7 @@ Flourishing depends on things that can be worn down quietly: ecosystems, shared 
     - using **Continuity** to forever put off fixes;
     - treating "stability" as compliant when it rests on hidden risk dumping, irreversible harm, or shifting ecological burdens onto others;
     - using ordinary "keep the lights on" talk to block [Contestability](subcore_03.070_band_accountability.md#contestability) or [Timely Resolution](subcore_03.070_band_accountability.md#timely-resolution); or
-    - pursuing **Continuity** in a way that materially defeats [Flourishing](subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional) without clear permission under [Chapter Two §13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+    - pursuing **Continuity** in a way that materially defeats [Flourishing](subcore_03.050_apex_flourishing_aim.md#flourishing-constitutional) without clear permission under [Chapter Two §12 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process).
 
 ---
 

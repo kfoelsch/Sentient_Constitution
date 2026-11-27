@@ -111,7 +111,7 @@ An assembly raises revenue from the sources below in the order given. Before it 
 - **Fourth: income by ability to pay** ([Chapter Two §3.1 Fairness](core_02.000_values_principles.md#31-fairness)):
   - **One income tax:** income from work, saving, and investment taxed on one schedule, above the tax-free allowance.
   - **Consumption taxes with an offset:** broad taxes on spending, paired with the offset in [§4.2 Preferred Designs](#42-preferred-designs).
-- **Last: work, production, and trade** ([Chapter Two §9.1 Productive Capacity](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) and [§13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden)):
+- **Last: work, production, and trade** ([Chapter Two §9.1 Productive Capacity](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) and [§12.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#123-minimization-of-avoidable-burden)):
   - **Taxes on hiring:** taxes charged on wages or on the number of workers.
   - **Taxes on trade:** tariffs and transaction taxes, except a border charge that applies a first-group price to imports.
   - **Taxes on turnover:** taxes on gross sales, except the small-taxpayer method.

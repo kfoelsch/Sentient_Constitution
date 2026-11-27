@@ -69,7 +69,7 @@ A system passes only if the answer to the first is yes and the answer to the sec
 
 - reporting a problem in good faith ([Protected Reporting (Whistleblowing)](../../subcore_03.070_band_accountability.md#protected-reporting-whistleblowing))
 - contesting a decision
-- refusing to take part in wrongdoing ([Chapter Two §17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist))
+- refusing to take part in wrongdoing ([Chapter Two §16.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#165-duty-to-resist))
 
 The penalty can be sidelining, retaliation ([Protected Reporting Retaliation and Access Interference](../../subcore_03.070_band_accountability.md#protected-reporting-retaliation-and-access-interference)), or being worn down.
 
@@ -86,7 +86,7 @@ The reward can be recognition, advancement, protection, metric credit, or lookin
 
 Neither question is a demand to be agreeable. Honest dissent, good-faith reporting, and refusing to take part in wrongdoing are not anti-social. A system that treats them so has it backwards. Nor is either a popularity test. What counts as helping, harming, fair, or justified is judged by this Constitution's own standards. Those are [**Flourishing**](../../core_00.000_preamble.md#flourishing) and [**Continuity**](../../core_00.000_preamble.md#continuity), within Safety, Truth, Trust, and the Rights Floor. They are not whatever a majority, an operator, or a moment approves.
 
-The questions bind everyone who decides what a system rewards or penalizes. That includes operators, institutions, and stewards who set pay, promotion, access, targets, and ratings. It also includes the designers of systems that train or optimize AI, whose objectives and feedback signals are rewards in exactly this sense. Human and AI stewards stand under one standard ([Chapter Two §17.1 Shared Stewardship Standard](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+The questions bind everyone who decides what a system rewards or penalizes. That includes operators, institutions, and stewards who set pay, promotion, access, targets, and ratings. It also includes the designers of systems that train or optimize AI, whose objectives and feedback signals are rewards in exactly this sense. Human and AI stewards stand under one standard ([Chapter Two §16.1 Shared Stewardship Standard](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard)).
 
 Chapter Two turns the questions into rules for incentives: [Chapter Two §19.1.1 What Incentives Must Do](../../core_02.050_governance_incentive_application.md#1911-what-incentives-must-do) sits behind the first, and [Chapter Two §19.1.2 What Incentives Must Not Do](../../core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do) behind the second. Answer them by checking what actually happens, not by taking anyone's word for it. [Incentive Alignment](../../subcore_03.080_band_integrative.md#incentive-alignment) and [Proxy Divergence](../../subcore_03.085_band_oversight.md#proxy-divergence) say how, and [**material stake**](../../core_00.000_preamble.md#material-stake) sets how hard to look. The four duties in section 1 are how the answers are kept honest.
 
@@ -180,7 +180,7 @@ These measurement categories show what matters. Standing alone, they do not set 
 
 Durable legitimacy depends on [Safety](../../core_02.000_values_principles.md#4-safety-harm-constraint), [Truth](../../core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint), and [Trust](../../core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity). It also depends on proportionate recognition of lawful stewardship, truthful cooperation, and bounded aspiration — not solely on sanction and restraint. Chapter Two states this recognition dimension in [Recognition, Reinforcement, and Aspiration](../../core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration).
 
-Distributed understanding and stewardship require regular, proportionate opportunities for sentients to learn how systems that materially affect them operate, and to take consequential roles in maintaining and improving those systems. Together, these opportunities spread competence, repair capacity, and legitimacy broadly across our Constitutional Community to ensure resilience, sustainability, and pro-social innovation. All such opportunities must satisfy Safety, Truth, bounded agency, and the [Avoidable Burden](../../subcore_03.075_band_continuity.md#avoidable-burden) and proportionality discipline stated in [Chapter Two](../../core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden).
+Distributed understanding and stewardship require regular, proportionate opportunities for sentients to learn how systems that materially affect them operate, and to take consequential roles in maintaining and improving those systems. Together, these opportunities spread competence, repair capacity, and legitimacy broadly across our Constitutional Community to ensure resilience, sustainability, and pro-social innovation. All such opportunities must satisfy Safety, Truth, bounded agency, and the [Avoidable Burden](../../subcore_03.075_band_continuity.md#avoidable-burden) and proportionality discipline stated in [Chapter Two](../../core_02.020_interaction_interpretation.md#123-minimization-of-avoidable-burden).
 
 <a id="31-using-measurements-in-governance"></a>
 #### 3.1 Using Measurements in Governance
@@ -428,7 +428,7 @@ flowchart TB
    When conduct or harm matters constitutionally, verified facts enter **Standing Records**. Question 1 asks what happened. Question 2 measures how good or how harmful it was. **Contribution** (help toward flourishing) and **violation** (accountability failures and harm) stay on **separate axes** — they never fold into one net score. Rumors, reputations, and dispute stories are not standing.
 
 3. **Apply effects and remedy** — [Subcore 10-F](../../subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows) (Question 3)
-   Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../../core_12.000_violation_consequences.md#31-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) from Chapter Two §17.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
+   Question 3 asks what follows from those verified records: recognition and competency clearance on the contribution track; standing locks, correction, and [remedy for those harmed](../../core_12.000_violation_consequences.md#31-remedy-and-correction) on the violation track. Consequences must be institutionally real, not a form on paper. This chapter also applies the [duty to resist unlawful or unconstitutional instructions](../../core_02.040_stewardship_capacity_principles.md#165-duty-to-resist) from Chapter Two §16.5 to standing effects: refuse, document, and escalate — a principal’s offer to “take responsibility” does not transfer the duty.
 
 4. **Forum families supervise** — [Chapter Sixteen](../../core_16.000_forum.md#chapter-sixteen-standards-routing-and-forum-cases)
    Forum families decide which track handles a dispute, where a case ordinarily starts, how matters transfer, and how clocks keep remedy from dying in delay. They may open, update, or correct Standing Records when facts are verified — or set a bad record aside on challenge. They must not be the sole final home for a claim that the same family is biased, captured, or in conflict (**anti-self-judging**). Filing a case alone has no immediate impact on standing.
@@ -514,7 +514,7 @@ See: [Article XIV-A](../../core_04.020_rights_part_c.md#article-xiv-a-reliabilit
 - **Today:** The model is constrained; the human crew is told to skip the rule and “take responsibility.” Or the reverse: extra duties only the machine has to follow.
 - **With this Constitution:** One standard when it is costly. An extra rulebook only one kind of worker has to follow is a way to skip the rules.
 
-See: [Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard).
+See: [Chapter Two §16.1](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard).
 
 ## What you might reasonably object to
 

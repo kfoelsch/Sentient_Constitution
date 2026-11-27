@@ -20,17 +20,17 @@ Chapters Eight through Twenty-Two apply Chapter Six's separation-of-duties requi
 
 [Source](../../core_01.000_constitutional_map.md#8-key-practical-process-pipelines)
 
-### 15.4 Constitutional Meaning Conflict Resolution
+### 14.4 Constitutional Meaning Conflict Resolution
 
 when texts conflict, apply this order — Constitution and non-regression first, then integrated reading of the binding source, then incorporated obligations together. Do not skip a layer to get a preferred result.
 
-[Source](../../core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution)
+[Source](../../core_02.030_constitutional_interpretation.md#144-constitutional-meaning-conflict-resolution)
 
-### 17.1 Shared Stewardship Standard
+### 16.1 Shared Stewardship Standard
 
-human and AI stewards owe the same Chapter Two duties. [§17.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§17.2 Alignment under Pressure](../../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure).
+human and AI stewards owe the same Chapter Two duties. [§16.5 Duty to Resist](../../core_02.040_stewardship_capacity_principles.md#165-duty-to-resist) binds both to refuse unlawful or unconstitutional instructions. Adopted implementation text may add logging, attribution, and capability limits. It may not swap in a softer internal code, skip standing measurement, or close contest pathways. This is not a new morals stack — it is the anti-special-pleading rule. The bonus, the deadline, and cover-instruction tests live in [§16.2 Alignment under Pressure](../../core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure).
 
-[Source](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)
+[Source](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard)
 
 ## Rights Floor one-liners
 

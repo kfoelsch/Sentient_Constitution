@@ -36,7 +36,7 @@ Standing Records move between adopters, and effects on standing are drawn from t
     - [Flourishing](core_00.000_preamble.md#flourishing): care, repair, teaching, and agency are named as routes of benefit;
     - [Continuity](core_00.000_preamble.md#continuity): ecology and diligence are a domain of their own on both axes;
 - Chapter Two principles:
-  - [§13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles);
+  - [§12.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#121-core-tradeoff-principles);
 - Chapter Four Articles:
   - [Article XX](core_04.030_rights_part_d.md#article-xx-standing-and-participation-status) (*Standing and Participation Status*).
 
@@ -185,8 +185,8 @@ These tables are used under [Subcore 10-D §7 Constitutional Inputs to Axis Assi
 | [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad), [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims), and [material stake](core_00.000_preamble.md#material-stake) | Set the four working disciplines (participation, oversight, accountability, and timeliness), the two outcomes the Constitution aims for (Flourishing and Continuity), and the frame that sizes every assignment to what is at stake. |
 | [Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim) and [Recognition, Reinforcement, and Aspiration](core_02.000_values_principles.md#32-recognition-reinforcement-and-aspiration) | Anchor benefit that respects rights, and recognition that fits it, on the Contribution Axis. Prestige or rewards are never treated as proof of a contribution. |
 | [Safety](core_02.000_values_principles.md#4-safety-harm-constraint) and [Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) | Set binding limits on both axes. Benefit gained through harm or deception does not count in full, and a verified failure of safety or truth can show how large, or what kind, of violation occurred. |
-| [Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) and [Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) | Guide how to weigh lasting contribution, duties that come with a role, institutional repair, supervision, and responsibility, whenever the verified facts call for them. |
-| [Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles) and [Constitutional Floors, Safety, and Anti-Degrading Process](core_02.020_interaction_interpretation.md#1314-constitutional-floors-safety-and-anti-degrading-process) | Apply when the conduct being measured involves necessity, keeping harm as small as possible, proportionality, a clash between rights, or a restriction. They never authorize a consequence on their own. |
+| [Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth) and [Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) | Guide how to weigh lasting contribution, duties that come with a role, institutional repair, supervision, and responsibility, whenever the verified facts call for them. |
+| [Core Tradeoff Principles](core_02.020_interaction_interpretation.md#121-core-tradeoff-principles) and [Constitutional Floors, Safety, and Anti-Degrading Process](core_02.020_interaction_interpretation.md#1214-constitutional-floors-safety-and-anti-degrading-process) | Apply when the conduct being measured involves necessity, keeping harm as small as possible, proportionality, a clash between rights, or a restriction. They never authorize a consequence on their own. |
 
 <a id="53-rights-floor-and-article-inputs"></a>
 

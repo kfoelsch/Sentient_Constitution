@@ -37,7 +37,7 @@ Governing power is legitimate only while those it affects can see how it is used
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients can see whether an institution serves them;
     - [Continuity](core_00.000_preamble.md#continuity): reports over time show whether problems are fixed or left to grow;
 - Chapter Two principles:
-  - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
+  - [§17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline);
 - Chapter Four Articles:
   - [Article XIII-A](core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*).
 

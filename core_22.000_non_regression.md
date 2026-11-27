@@ -91,8 +91,8 @@ Protections are most often lost not by repeal but by small steps: a narrower def
     - [Continuity](core_00.000_preamble.md#continuity): guarantees hold across time and changes of power;
 - Chapter Two principles:
   - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
-  - [§14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override);
-  - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
+  - [§13 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#13-prohibition-on-absolute-override);
+  - [§16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist);
 - Chapter Four Articles:
   - [Article XXVI-A](core_04.030_rights_part_d.md#article-xxvi-a-bounded-interpretive-mandate-and-public-reasons) (*Bounded Interpretive Mandate and Public Reasons*);
   - [Article XXVIII](core_04.040_rights_part_e.md#article-xxviii-constitutional-evolution-and-non-entrenchment) (*Constitutional Evolution and Non-Entrenchment*);

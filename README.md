@@ -238,7 +238,7 @@ Operative enforcement within any adopter depends on valid adoption under Chapter
 - Functional independence, the four seats, Materially Binding Act Records, prohibited combinations, substitutes, and wrong-seat routing: Chapter Six; the required lanes: [Subcore 6-A](subcore_06.010_constitutional_lanes.md)
 - Constitutional Tetrad, Two Constitutional Aims, material stake: [Preamble §1 The Model](core_00.000_preamble.md#the-model)
 - Auditing and independent verification: Article XVII is the floor; Chapter Three [Auditability](subcore_03.085_band_oversight.md#auditability) is the property; [CJS-3.115 §3](corpus_joint_structure/cjs_03.115_audit_process.md#cjs-3115-3-audit-process-home-odef3) is how and when; Chapter Eight is one large process that uses that stack
-- Duty to resist unlawful or unconstitutional instructions: [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)
+- Duty to resist unlawful or unconstitutional instructions: [Chapter Two §16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist)
 - Remedy systems and enforcement realism: Chapter Nineteen §5; implementation in CI-19.210
 - Relation to local, national, and international law: [Chapter Twenty-Four §7](core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)
 

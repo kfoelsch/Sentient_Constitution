@@ -18,11 +18,9 @@
 
 Chapter Three is the constitutional owner of **foundational definitions**, including the **Authority Stack and Internal Hierarchy** and the **Corpus**.
 
-*In plain terms: this chapter is the dictionary. Every defined term has one official home; later chapters apply those terms, they do not quietly redefine them.*
-
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: this section says what this chapter is for, where it sits beside its subcore files on structure, integrity, and proof, and what it covers and leaves out. The rule that keeps each term in one place follows it.*
+*In plain terms: this chapter is the dictionary. Every defined term has one official home; later chapters apply those terms, they do not quietly redefine them.*
 
 **Purpose:** Chapter Three answers what each foundational term means, including the Authority Stack and Internal Hierarchy and the Corpus, and where its one official home is (**section 2**).
 
@@ -32,6 +30,7 @@ Chapter Three is the constitutional owner of **foundational definitions**, inclu
   - [Subcore 3-A](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements) says how every definition is built;
   - [Subcore 3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance) says what it means to fail an applicable definition; and
   - [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) says who must prove compliance, and how.
+- Subcores 3-D to 3-O hold every definition in full: one apex file for each aim and leg (3-D to 3-I) and one band file for each band (3-J to 3-O), listed in the [compass](#6-compass-and-definition-map). This chapter is the overview.
 - Later chapters and implementation text apply Chapter Three terms under the rule in **section 2**.
 - [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) holds the Rights Floor. Read it for the rights themselves, then return here for term precision in interpretation, audit, and adjudication.
 
@@ -47,13 +46,6 @@ Two rules govern how another chapter meets a Chapter Three definition once it in
 - how definitions and proof work, stated in one line for each guarantee, with the full rules in the chapter's subcore files (**section 5**);
 - the compass and definition map, with its alphabetical directory, which says where each definition is found (**section 6**); and
 - two complete definitions, one independent definition and one dependent cluster, shown in full as examples of the structure every definition has (**section 7**, which closes the chapter).
-
-Chapter Three is the overview; the full text sits in its subcore files:
-
-- how a definition is built, in Subcore 3-A;
-- what counts as failing an applicable definition, in Subcore 3-B;
-- burden of proof, traceability, and verification, in Subcore 3-C; and
-- every definition in full, in Subcores 3-D to 3-O: one apex file for each aim and leg (3-D to 3-I) and one band file for each band (3-J to 3-O), listed in the [compass](#6-compass-and-definition-map).
 
 <a id="2-canonical-home-and-non-duplication-rule"></a>
 <a id="2-why-definitions-have-one-home"></a>
@@ -86,8 +78,8 @@ Three rules keep every defined term in one place:
     - [Continuity](core_00.000_preamble.md#continuity): meanings that stay fixed keep the whole text stable over time;
 - Chapter Two principles:
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
-  - [§15.2 Definitional Layer and Required Disciplines](core_02.030_constitutional_interpretation.md#152-definitional-layer-and-required-disciplines);
-  - [§15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle);
+  - [§14.2 Definitional Layer and Required Disciplines](core_02.030_constitutional_interpretation.md#142-definitional-layer-and-required-disciplines);
+  - [§14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle);
 - Chapter Four Articles:
   - [Article XXIV-A](core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*);
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
@@ -113,15 +105,14 @@ This subsection has six parts:
 - [§3.1.1 Required Invocation](#311-required-invocation);
 - [§3.1.2 Traceability of Invoked Definitions](#312-traceability-of-invoked-definitions);
 - [§3.1.3 Full Satisfaction](#313-full-satisfaction);
-- [§3.1.4 Consistency with Other Definitions](#314-consistency-with-other-definitions);
-- [§3.1.5 Selective Invocation Is Evasion](#315-selective-invocation-is-evasion); and
-- [§3.1.6 No Fragmentation of Compliance](#316-no-fragmentation-of-compliance).
+- [§3.1.4 Consistency with Other Definitions](#314-consistency-with-other-definitions); and
+- [§3.1.5 Selective Invocation and Fragmentation Are Evasion](#315-selective-invocation-and-fragmentation-are-evasion).
 
 <a id="311-required-invocation"></a>
 ##### 3.1.1 Required Invocation
 *In plain terms: if a definition matters to the case, it has to be used.*
 
-Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination.
+When an Independent Definition materially bears on a compliance decision, that decision must use the definition and apply it correctly. A compliance decision that leaves out such a definition, or applies it wrongly, is not valid.
 
 <a id="312-traceability-of-invoked-definitions"></a>
 ##### 3.1.2 Traceability of Invoked Definitions
@@ -134,31 +125,25 @@ All Independent Definitions invoked in system evaluation must appear explicitly 
 - Assessment (A) component; and
 - Compliance (C) component.
 
-Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
+For each Independent Definition invoked, the traceability mapping must show how that definition connects to what the system can be seen to do and to whether the system complies. It must do so for the system as it actually runs, with all of its functions, not for a narrowed or test-only version.
 
 <a id="313-full-satisfaction"></a>
 ##### 3.1.3 Full Satisfaction
 *In plain terms: meeting part of a definition is not meeting it.*
 
-When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with [Subcore 3-A §3 Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#3-definition-components-and-joint-satisfaction). Partial satisfaction or selective application is non-compliant.
+Once an Independent Definition is invoked, the system must meet all four of its parts: what the term is (O), how it is measured (M), how it is assessed (A), and what must hold in practice (C). The parts are met together, as [Subcore 3-A §3 Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#3-definition-components-and-joint-satisfaction) requires. Meeting only some parts, or applying only the parts that suit, is non-compliance.
 
 <a id="314-consistency-with-other-definitions"></a>
 ##### 3.1.4 Consistency with Other Definitions
 *In plain terms: a definition is read together with the others that apply to the same system, at the same time, under the same conditions.*
 
-Independent Definitions must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) and [§4 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) require that consistency.
+An Independent Definition stands on its own, but it is not applied in isolation. It must agree with every other definition that applies to the same system, judged on the same functions, under the same evaluation conditions, and at the same point in time. [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) and [§4 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) require this.
 
-<a id="315-selective-invocation-is-evasion"></a>
-##### 3.1.5 Selective Invocation Is Evasion
-*In plain terms: choosing which definitions to use so as to get a better answer is evasion.*
+<a id="315-selective-invocation-and-fragmentation-are-evasion"></a>
+##### 3.1.5 Selective Invocation and Fragmentation Are Evasion
+*In plain terms: picking which definitions to use so as to get a better answer is evasion. So is splitting a system into pieces so that each piece passes while the whole fails.*
 
-Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) and [§4 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) govern that conduct.
-
-<a id="316-no-fragmentation-of-compliance"></a>
-##### 3.1.6 No Fragmentation of Compliance
-*In plain terms: a system cannot be split into pieces so that each piece passes while the whole fails.*
-
-Independent Definitions must not fragment, isolate, or redistribute compliance in a way that blocks full-system evaluation under required assessment conditions.
+Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. So is using Independent Definitions to fragment, isolate, or redistribute compliance in a way that blocks evaluation of the full system under required assessment conditions. [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) and [§4 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) govern that conduct.
 
 ---
 
@@ -174,7 +159,7 @@ A **dependent cluster** is a group of definitions that must be met together, ins
 #### 4.1 Joint Invocation and Satisfaction
 If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
 
-This is the cluster version of the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle): a requirement cannot be split into pieces so that only the convenient pieces are met.
+This is the cluster version of the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle): a requirement cannot be split into pieces so that only the convenient pieces are met.
 
 Each cluster shows how this applies to it in a short note labeled **Anti-bypass**. That note:
 - names the cluster's parts, called its *compartments*;
@@ -186,7 +171,8 @@ The note does not repeat this rule, because this rule already applies to every c
 <a id="42-standalone-definitions-interaction-and-full-context"></a>
 
 #### 4.2 Standalone Definitions Interaction and Full Context
-Calling a definition Independent or Semi-independent does not let it skip cluster membership. Dependent clusters must still be met together in the full real-world system context. No piece may be peeled off, reclassified, or applied alone in a way that changes the compliance result.
+A definition that belongs to a dependent cluster stays bound by that cluster, even if it is labeled Independent or Semi-independent. When the cluster applies, all of its members must be met together, in the system's full real-world context. No member may be peeled off, relabeled, or applied on its own in a way that changes whether the system complies.
+
 <a id="5-how-definitions-and-proof-work"></a>
 ### 5. How Definitions and Proof Work
 
@@ -652,7 +638,7 @@ A dependent cluster adds a head before its members. The head says when the clust
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1); [Article XXVIII-B](core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
+- Downstream: Principles: [Chapter Two §14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle) (2.030 §14.1); [Article XXVIII-B](core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
 - Read with:
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy),
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
@@ -733,11 +719,11 @@ A dependent cluster adds a head before its members. The head says when the clust
   - [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight),
   - [Article XII](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*),
   - [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment), and
-  - [Chapter Two §13.1.5](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
+  - [Chapter Two §12.1.5](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5).
 - Layer: **Stakeholder System Participation (SSP)** — voice inside already-authorized systems. Distinct from **Constitutional Contract Layer (CCL)** authorization.
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Accountability** procedural integrity.
-- Chapter Two basis: Chapter Two §15.1, §5.2, §18.4, §15, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §14.1, §5.2, §17.4, §14, §16 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Implementation publication: institutional
   - **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) /
   - **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) files carry local process and weighting substance;
@@ -901,7 +887,7 @@ See **Anti-Segmentation Principle**.
     - protections; or
     - structural duties —
     the **Stakeholder System Participation** record discipline read together with:
-    - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test); and
+    - [Chapter Two §12.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test); and
     - **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*).
   - This Stakeholder Rights-Collision Record is the Stakeholder System Participation instance of the [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements, and do not narrow them:
     - rights in tension → the operative rule and triggering facts;
@@ -922,7 +908,7 @@ See **Anti-Segmentation Principle**.
     - accepted trade-offs;
     - uncertainty treatment; and
     - review or reversal triggers —
-    consistent with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter Two §13.3 (*Minimization of Avoidable Burden*). Do not treat this list as narrowing **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
+    consistent with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter Two §12.3 (*Minimization of Avoidable Burden*). Do not treat this list as narrowing **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
 - **What must hold**
   - **Primary failure:**
     - a binding stakeholder choice is finalized without a clear written account of how colliding rights were resolved, when those rights effects matter; or

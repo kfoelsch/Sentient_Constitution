@@ -11,13 +11,13 @@
 >
 > یہ فائل **آئینِ شعوری وجود کا حصہ** ہے اور دوسری نمبر شدہ `core_*` فائلوں کے ساتھ ایک متن کے طور پر مل کر پڑھی جائے تو **پابند** ہے۔ اس میں **دیباچہ** (بنیادی تقاضے) شامل ہیں۔ مطالعے کی ترتیب اور ایڈیشن کی معلومات [README.md](README.md) میں رکھی جاتی ہیں۔
 >
-> **اگلا:** [core_01.000_constitutional_map.md](core_01_constitutional_map.md) (باب اوّل، آئینی نقشہ).
+> **اگلا:** [core_01.000_constitutional_map.md](../../core_01.000_constitutional_map.md) (باب اوّل، آئینی نقشہ).
 
 </details>
 
 <br>
 
-دیباچہ **ماڈل** (**دو آئینی مقاصد**، **آئینی چوکڑی** اور **مادی داؤ**) اور پیمائش کی اقسام کا آئینی ذمہ دار ہے۔ آئینی ذمہ داروں کا رجسٹر [باب اوّل](core_01_constitutional_map.md#chapter-one-constitutional-map)، *آئینی نقشے* میں ہے۔
+دیباچہ **ماڈل** (**دو آئینی مقاصد**، **آئینی چوکڑی** اور **مادی داؤ**) اور پیمائش کی اقسام کا آئینی ذمہ دار ہے۔ آئینی ذمہ داروں کا رجسٹر [باب اوّل](../../core_01.000_constitutional_map.md#chapter-one-constitutional-map)، *آئینی نقشے* میں ہے۔
 
 *سادہ الفاظ میں: یہ آغاز اس مسئلے کا نام لیتا ہے جسے یہ آئین ٹھیک کرنے کے لیے ہے — وہ نظام جو جنہیں متاثر کرتے ہیں انہیں نقصان پہنچاتے، چھپاتے یا باہر رکھتے ہیں — اور کہتا ہے کہ دستاویز کا باقی حصہ یہ ہے کہ ہم اسے جوابدہ، جانچ کے قابل اور بروقت حکمرانی سے کیسے بدل دیتے ہیں۔*
 
@@ -68,7 +68,7 @@
 
 یہ سوال ہر اس شخص کو پابند کرتے ہیں جو فیصلہ کرے کہ نظام کس چیز کو انعام یا سزا دے گا۔ اس میں آپریٹر، ادارے اور نگران شامل ہیں جو تنخواہ، ترقی، رسائی، اہداف اور درجہ بندی طے کرتے ہیں۔ AI کو تربیت یا بہتر بنانے والے نظاموں کے ڈیزائنر بھی شامل ہیں، کیونکہ ان کے مقاصد اور فیڈبیک اشارے اسی معنی میں انعام ہیں۔ انسانی اور AI نگران ایک ہی معیار کے پابند ہیں ([باب اول §17.1 مشترکہ نگہداشت معیار](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
 
-باب اول ان سوالوں کو ترغیبی قواعد میں بدلتا ہے: [§19.1.1 ترغیبات کو کیا کرنا چاہیے](../../core_02.040_stewardship_capacity_principles.md#1911-what-incentives-must-do) پہلے سوال اور [§19.1.2 ترغیبات کو کیا نہیں کرنا چاہیے](../../core_02.040_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) دوسرے کی بنیاد ہے۔ دعووں پر یقین کرنے کے بجائے دیکھیں کہ حقیقت میں کیا ہوتا ہے۔ [ترغیب کی ہم آہنگی](../../subcore_03.080_band_integrative.md#incentive-alignment) اور [متبادل پیمانے کا انحراف](../../subcore_03.085_band_oversight.md#proxy-divergence) طریقہ بتاتے ہیں، اور [**مادی مفاد**](#material-stake) طے کرتا ہے کہ کتنی گہرائی سے دیکھنا ہے۔ دفعہ 1 کے چار فرائض جوابات کو دیانت دار رکھتے ہیں۔
+باب اول ان سوالوں کو ترغیبی قواعد میں بدلتا ہے: [§19.1.1 ترغیبات کو کیا کرنا چاہیے](../../core_02.050_governance_incentive_application.md#1911-what-incentives-must-do) پہلے سوال اور [§19.1.2 ترغیبات کو کیا نہیں کرنا چاہیے](../../core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do) دوسرے کی بنیاد ہے۔ دعووں پر یقین کرنے کے بجائے دیکھیں کہ حقیقت میں کیا ہوتا ہے۔ [ترغیب کی ہم آہنگی](../../subcore_03.080_band_integrative.md#incentive-alignment) اور [متبادل پیمانے کا انحراف](../../subcore_03.085_band_oversight.md#proxy-divergence) طریقہ بتاتے ہیں، اور [**مادی مفاد**](#material-stake) طے کرتا ہے کہ کتنی گہرائی سے دیکھنا ہے۔ دفعہ 1 کے چار فرائض جوابات کو دیانت دار رکھتے ہیں۔
 
 ### 1. ماڈل
 
@@ -137,7 +137,7 @@ flowchart TB
 |---|---|---|
 | **[شگفتگی](../../subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | کیا شعوری وجود کو حقیقتاً زندگی، حفاظت اور بنیادی ضروریات تک رسائی حاصل ہے؟ | [فلاح](../../subcore_03.075_band_continuity.md#wellbeing) · [حفاظت، ضرر اور خطرہ](../../subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [بقا کی کم از کم سطح تک رسائی](../../subcore_03.075_band_continuity.md#bodily-maintenance-access) |
 | **[استمرار](../../subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | کیا شعوری وجود اور نظام ماحولیاتی طور پر، قابلِ اعتماد انداز میں، اور ناکامی کے باوجود برقرار رہ سکتے ہیں؟ | [ماحولیاتی اثر اور ماحول کی پیشگی شرائط](../../subcore_03.075_band_continuity.md#ecological-footprint) · [لچک، واپسی کی صلاحیت اور نظامی خطرہ](../../subcore_03.075_band_continuity.md#reversibility) · [انحصار اور وسائل کے بہاؤ](../../subcore_03.075_band_continuity.md#dependency) · [نظاموں کے درمیان معاونت](../../subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
-| **[شرکت](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | کیا متاثرہ شعوری وجود آواز، رسائی، سیکھنے اور رازداری میں منصفانہ طور پر حصہ لے سکتے ہیں؟ | [انصاف، رسائی اور اختیار](../../subcore_03.090_band_participation.md#substantive-fairness) · [رازداری اور ڈیٹا کا ذمہ دارانہ انتظام](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
+| **[شرکت](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | کیا متاثرہ شعوری وجود آواز، رسائی، سیکھنے اور رازداری میں منصفانہ طور پر حصہ لے سکتے ہیں؟ | [انصاف، رسائی اور اختیار](../../subcore_03.090_band_participation.md#substantive-fairness) · [رازداری اور ڈیٹا کا ذمہ دارانہ انتظام](../../subcore_03.075_band_continuity.md#privacy-informational-cluster) |
 | **[نگرانی](../../subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | کیا شعوری وجود دیکھ، تصدیق اور اعتماد کر سکتے ہیں کہ نظام کیا ظاہر کرتے ہیں؟ | [سچائی اور علمی دیانت](../../subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [قابلِ اعتماد ہونا](../../subcore_03.075_band_continuity.md#trustworthiness) |
 | **[جوابدہی](../../subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | کیا ترغیبی ڈھانچے، منڈی کی قوت اور جواب دہی فرائض کو حقیقت بناتے ہیں؟ | [ترغیبات میں ہم آہنگی اور متبادل پیمانے کی دیانت](../../subcore_03.080_band_integrative.md#incentive-alignment) · [منڈی کی ساخت اور چیلنج پذیری](../../subcore_03.070_band_accountability.md#market-structure) |
 | **[بروقت کارروائی](../../subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | کیا تنازعات، اصلاحات اور مرمت اس وقت حل ہوتے ہیں جب تلافی اب بھی اہمیت رکھتی ہو؟ | [بروقت حل](../../subcore_03.070_band_accountability.md#timely-resolution) · [تاخیر کی روک تھام اور حل کے راستے کا نظم](../../subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |

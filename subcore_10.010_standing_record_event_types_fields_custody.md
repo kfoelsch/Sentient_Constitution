@@ -37,7 +37,7 @@ Standing Records move between adopters, forums, and systems, and effects on stan
     - [Flourishing](core_00.000_preamble.md#flourishing): care, teaching, repair, and mutual aid are recognized on equal standards;
     - [Continuity](core_00.000_preamble.md#continuity): ecological and infrastructure help and harm are named among the event types;
 - Chapter Two principles:
-  - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
+  - [§17.3 Separation of Duties](core_02.050_governance_incentive_application.md#173-separation-of-duties);
 - Chapter Four Articles:
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
 

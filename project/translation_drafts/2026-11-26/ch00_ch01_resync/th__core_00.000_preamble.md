@@ -11,13 +11,13 @@
 >
 > ไฟล์นี้ **เป็นส่วนหนึ่งของรัฐธรรมนูญของผู้มีความรู้สึก** และ **มีผลผูกพันเมื่ออ่านเป็นข้อความเดียวกันร่วมกับ** ไฟล์ `core_*` อื่นที่มีหมายเลข ลำดับการอ่านและข้อมูลรุ่นจัดเก็บไว้ใน [README.md](README.md)
 >
-> **ถัดไป:** [core_01.000_constitutional_map.md](core_01_constitutional_map.md) (บทหนึ่ง แผนที่รัฐธรรมนูญ)
+> **ถัดไป:** [core_01.000_constitutional_map.md](../../core_01.000_constitutional_map.md) (บทหนึ่ง แผนที่รัฐธรรมนูญ)
 
 </details>
 
 <br>
 
-คำนำเป็นเจ้าของเรื่องตามรัฐธรรมนูญของ**แบบจำลอง** (**สองเป้าประสงค์ทางรัฐธรรมนูญ** **จตุรภาคทางรัฐธรรมนูญ** และ**ส่วนได้เสียที่เป็นสาระ**) รวมถึงหมวดการวัด ทะเบียนเจ้าของเรื่องตามรัฐธรรมนูญอยู่ใน[บทหนึ่ง](core_01_constitutional_map.md#chapter-one-constitutional-map) *แผนที่รัฐธรรมนูญ*
+คำนำเป็นเจ้าของเรื่องตามรัฐธรรมนูญของ**แบบจำลอง** (**สองเป้าประสงค์ทางรัฐธรรมนูญ** **จตุรภาคทางรัฐธรรมนูญ** และ**ส่วนได้เสียที่เป็นสาระ**) รวมถึงหมวดการวัด ทะเบียนเจ้าของเรื่องตามรัฐธรรมนูญอยู่ใน[บทหนึ่ง](../../core_01.000_constitutional_map.md#chapter-one-constitutional-map) *แผนที่รัฐธรรมนูญ*
 
 *พูดแบบตรง ๆ: บทเปิดนี้ตั้งชื่อปัญหาที่รัฐธรรมนูญนี้มีอยู่เพื่อแก้ — ระบบที่ทำร้าย ปิดบัง หรือกีดกันผู้ที่ตนกระทบ — และบอกว่าส่วนที่เหลือของตราสารคือวิธีที่เราแทนสิ่งนั้นด้วยการปกครองที่รับผิดชอบได้ ตรวจสอบได้ และทันเวลา*
 
@@ -68,7 +68,7 @@
 
 คำถามเหล่านี้ผูกพันทุกคนที่ตัดสินว่าระบบจะให้รางวัลหรือลงโทษสิ่งใด รวมถึงผู้ดำเนินการ สถาบัน และผู้ดูแลที่กำหนดค่าตอบแทน การเลื่อนตำแหน่ง การเข้าถึง เป้าหมาย และคะแนน ตลอดจนนักออกแบบระบบที่ฝึกหรือปรับเหมาะ AI ซึ่งวัตถุประสงค์และสัญญาณป้อนกลับเป็นรางวัลในความหมายนี้ ผู้ดูแลที่เป็นมนุษย์และ AI อยู่ภายใต้มาตรฐานเดียวกัน ([บทที่หนึ่ง §17.1 มาตรฐานผู้ดูแลร่วม](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard))
 
-บทที่หนึ่งแปลงคำถามเหล่านี้เป็นกฎเรื่องแรงจูงใจ: [§19.1.1 สิ่งที่แรงจูงใจต้องทำ](../../core_02.040_stewardship_capacity_principles.md#1911-what-incentives-must-do) รองรับข้อแรก และ [§19.1.2 สิ่งที่แรงจูงใจต้องไม่ทำ](../../core_02.040_stewardship_capacity_principles.md#1912-what-incentives-must-not-do) รองรับข้อสอง จงตรวจสอบสิ่งที่เกิดขึ้นจริง ไม่ใช่เชื่อคำกล่าวอ้าง [การจัดแนวแรงจูงใจ](../../subcore_03.080_band_integrative.md#incentive-alignment) และ [ความคลาดเคลื่อนของตัวแทนวัด](../../subcore_03.085_band_oversight.md#proxy-divergence) อธิบายวิธี ส่วน[**ผลประโยชน์ที่มีสาระสำคัญ**](#material-stake)กำหนดระดับการตรวจสอบ หน้าที่ทั้งสี่ในหมวด 1 ทำให้คำตอบยังซื่อตรง
+บทที่หนึ่งแปลงคำถามเหล่านี้เป็นกฎเรื่องแรงจูงใจ: [§19.1.1 สิ่งที่แรงจูงใจต้องทำ](../../core_02.050_governance_incentive_application.md#1911-what-incentives-must-do) รองรับข้อแรก และ [§19.1.2 สิ่งที่แรงจูงใจต้องไม่ทำ](../../core_02.050_governance_incentive_application.md#1912-what-incentives-must-not-do) รองรับข้อสอง จงตรวจสอบสิ่งที่เกิดขึ้นจริง ไม่ใช่เชื่อคำกล่าวอ้าง [การจัดแนวแรงจูงใจ](../../subcore_03.080_band_integrative.md#incentive-alignment) และ [ความคลาดเคลื่อนของตัวแทนวัด](../../subcore_03.085_band_oversight.md#proxy-divergence) อธิบายวิธี ส่วน[**ผลประโยชน์ที่มีสาระสำคัญ**](#material-stake)กำหนดระดับการตรวจสอบ หน้าที่ทั้งสี่ในหมวด 1 ทำให้คำตอบยังซื่อตรง
 
 ### 1. แบบจำลอง
 
@@ -137,7 +137,7 @@ flowchart TB
 |---|---|---|
 | **[ความเจริญงอกงาม](../../subcore_03.050_apex_flourishing_aim.md#measuring-flourishing-preamble-measurement-family)** | ผู้มีความรู้สึกได้รับการค้ำจุนให้มีชีวิต ความปลอดภัย และเข้าถึงสิ่งจำเป็นจริงหรือไม่? | [ความเป็นอยู่ที่ดี](../../subcore_03.075_band_continuity.md#wellbeing) · [ความปลอดภัย อันตราย และความเสี่ยง](../../subcore_03.075_band_continuity.md#safety-constitutional-constraint) · [การเข้าถึงสิ่งจำเป็นขั้นต่ำเพื่อการดำรงชีวิต](../../subcore_03.075_band_continuity.md#bodily-maintenance-access) |
 | **[ความต่อเนื่อง](../../subcore_03.045_apex_continuity_aim.md#measuring-continuity-preamble-measurement-family)** | ผู้มีความรู้สึกและระบบดำรงต่อไปได้ในทางนิเวศ พึ่งพาได้ และแม้เกิดความล้มเหลวหรือไม่? | [รอยเท้าทางนิเวศและเงื่อนไขพื้นฐานของสิ่งแวดล้อม](../../subcore_03.075_band_continuity.md#ecological-footprint) · [ความทนทาน การย้อนกลับได้ และความเสี่ยงเชิงระบบ](../../subcore_03.075_band_continuity.md#reversibility) · [การพึ่งพาและการไหลของทรัพยากร](../../subcore_03.075_band_continuity.md#dependency) · [การสนับสนุนข้ามระบบ](../../subcore_03.075_band_continuity.md#proportionate-cross-system-support) |
-| **[การมีส่วนร่วม](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | ผู้มีความรู้สึกที่ได้รับผลกระทบมีส่วนร่วมอย่างเป็นธรรมหรือไม่ ทั้งด้านเสียง การเข้าถึง การเรียนรู้ และความเป็นส่วนตัว? | [ความเป็นธรรม การเข้าถึง และความสามารถในการกำหนดการกระทำ](../../subcore_03.090_band_participation.md#substantive-fairness) · [ความเป็นส่วนตัวและการบริหารข้อมูลอย่างรับผิดชอบ](subcore_03.075_band_continuity.md#defc3-privacy-informational--peer-level-cluster-head) |
+| **[การมีส่วนร่วม](../../subcore_03.060_apex_participation_leg.md#measuring-participation-preamble-measurement-family)** | ผู้มีความรู้สึกที่ได้รับผลกระทบมีส่วนร่วมอย่างเป็นธรรมหรือไม่ ทั้งด้านเสียง การเข้าถึง การเรียนรู้ และความเป็นส่วนตัว? | [ความเป็นธรรม การเข้าถึง และความสามารถในการกำหนดการกระทำ](../../subcore_03.090_band_participation.md#substantive-fairness) · [ความเป็นส่วนตัวและการบริหารข้อมูลอย่างรับผิดชอบ](../../subcore_03.075_band_continuity.md#privacy-informational-cluster) |
 | **[การกำกับดูแล](../../subcore_03.055_apex_oversight_leg.md#measuring-oversight-preamble-measurement-family)** | ผู้มีความรู้สึกมองเห็น ตรวจสอบ และพึ่งพาสิ่งที่ระบบนำเสนอได้หรือไม่? | [ความจริงและความซื่อตรงทางญาณวิทยา](../../subcore_03.085_band_oversight.md#truth-constitutional-constraint) · [ความน่าไว้วางใจ](../../subcore_03.075_band_continuity.md#trustworthiness) |
 | **[ความรับผิดชอบ](../../subcore_03.040_apex_accountability_leg.md#measuring-accountability)** | โครงสร้างแรงจูงใจ อำนาจตลาด และการต้องตอบคำถามทำให้หน้าที่เกิดขึ้นจริงหรือไม่? | [ความสอดคล้องของแรงจูงใจและความซื่อตรงของตัวแทน](../../subcore_03.080_band_integrative.md#incentive-alignment) · [โครงสร้างตลาดและความสามารถในการโต้แย้ง](../../subcore_03.070_band_accountability.md#market-structure) |
 | **[ความทันเวลา](../../subcore_03.065_apex_timeliness_leg.md#measuring-timeliness)** | ข้อพิพาท การแก้ไข และการซ่อมแซมได้รับการจัดการขณะที่การเยียวยายังมีความหมายหรือไม่? | [การแก้ไขอย่างทันท่วงที](../../subcore_03.070_band_accountability.md#timely-resolution) · [การต่อต้านความล่าช้าและวินัยของช่องทางแก้ไข](../../subcore_03.075_band_continuity.md#capture-of-resolution-pathways) |

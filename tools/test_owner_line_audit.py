@@ -50,6 +50,13 @@ class CoreTests(unittest.TestCase):
         ok = "Chapter Two, **Part A**, is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
         self.assertEqual(self.check(name, core(ok)), [])
 
+    def test_live_heading_part_overrides_historical_registry(self):
+        name = "core_02.040_stewardship_capacity_principles.md"
+        body = "Chapter Two, Part E, is the constitutional owner of **X**.\n\n### 15. Stewardship\n"
+        text = core(body).replace("# CHAPTER\n", "# CHAPTER 02, PART E: STEWARDSHIP\n", 1)
+        self.assertEqual(self.check(name, text), [])
+        self.assertTrue(any("name 'Part E'" in f for f in self.check(name, text.replace("Chapter Two, Part E,", "Chapter Two, Part C,"))))
+
     def test_chapter_six_part_a_may_omit_part(self):
         body = "Chapter Four is the constitutional owner of **Rights Floors**.\n\n### 1. A\n"
         self.assertEqual(self.check("core_04.000_rights_part_a.md", core(body)), [])
@@ -104,6 +111,54 @@ class CoreTests(unittest.TestCase):
         body = ("Chapter Five is the constitutional owner of **X**.\n\n"
                 "Chapter Five is the constitutional owner of **Y**.\n\n### 1. A\n")
         self.assertTrue(any("once" in f for f in self.check("core_05.000_charters.md", core(body))))
+
+
+class PreSectionOneTests(unittest.TestCase):
+    """OWNER-OPENING-02: only ownership/front matter before section 1."""
+
+    OWNER = "Chapter Five is the constitutional owner of **System Charters**.\n\n"
+
+    def check(self, name: str, body: str) -> list[str]:
+        return ola.check_pre_s1(name, core(body))
+
+    def test_owner_line_then_section_one_passes(self):
+        self.assertEqual(self.check("core_05.000_charters.md", self.OWNER + "### 1. A\n\n*In plain terms: x*\n"), [])
+
+    def test_gloss_before_section_one_fails(self):
+        findings = self.check("core_05.000_charters.md", self.OWNER + "*In plain terms: x*\n\n### 1. A\n")
+        self.assertTrue(any("OWNER-OPENING-02" in f and "gloss" in f for f in findings), findings)
+
+    def test_orientation_prose_before_section_one_fails_once_per_file(self):
+        body = self.OWNER + "Three chapters work as one chain:\n\n- one\n- two\n\n### 1. A\n"
+        findings = self.check("core_05.000_charters.md", body)
+        self.assertEqual(len(findings), 1, findings)
+        self.assertIn("+2 more", findings[0])
+
+    def test_owner_paragraph_pointer_and_domain_list_pass(self):
+        body = ("Chapter Two, Part A, is the constitutional owner of **X**. Collisions are in **Part C**.\n\n"
+                "- **Y:** detail\n\n### 1. A\n")
+        self.assertEqual(self.check("core_02.000_values_principles.md", body), [])
+
+    def test_front_matter_passes(self):
+        body = ('<a id="x"></a>\n### Part B: Thing\n\n<!-- note -->\n\n' + self.OWNER + "---\n\n### 1. A\n")
+        self.assertEqual(self.check("core_04.010_rights_part_b.md", body), [])
+
+    def test_chart_before_section_one_fails(self):
+        body = self.OWNER + "```mermaid\nflowchart TB\n```\n\n### 1. A\n"
+        self.assertTrue(any("code or chart" in f for f in self.check("core_05.000_charters.md", body)))
+
+    def test_text_in_widget_is_ignored(self):
+        body = self.OWNER + "<details>\n<summary>Guide</summary>\n\n> *In plain terms: x*\n\n</details>\n\n### 1. A\n"
+        self.assertEqual(self.check("core_05.000_charters.md", body), [])
+
+    def test_subcore_files_are_checked(self):
+        body = "Subcore 3-A is the constitutional owner of **X**.\n\n*In plain terms: x*\n\n### 1. A\n"
+        self.assertTrue(self.check("subcore_03.010_definition_structure.md", body))
+
+    def test_files_without_section_one_and_preamble_are_skipped(self):
+        body = self.OWNER + "*In plain terms: x*\n\n### 8. Later part\n"
+        self.assertEqual(self.check("core_02.010_values_principles_continuity_aim.md", body), [])
+        self.assertEqual(self.check("core_00.000_preamble.md", "Prose.\n\n### 1. The Model\n"), [])
 
 
 class ImplTests(unittest.TestCase):
