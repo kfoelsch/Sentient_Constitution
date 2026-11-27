@@ -82,7 +82,7 @@ Systems rarely say they are ignoring a rule. More often they keep the words and 
   - [Subcore 3-C, section 4 — Definition Traceability Requirement](subcore_03.030_burden_traceability_verification.md#4-definition-traceability-requirement) (S3-C);
   - [Subcore 3-C, section 7 — Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard) (S3-C);
   - [Subcore 10-B — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B).
-- Read with: [Chapter Two, section 3.2 — Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) (2.000) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
+- Read with: [Chapter Two, section 5 — Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) (2.000) — interpretation based on observable behavior rather than declared structure or intent operationalizes the constitutional truth constraint at the definition-integrity layer.
 
 </details>
 
@@ -122,7 +122,7 @@ Systems rarely say they are ignoring a rule. More often they keep the words and 
 This section governs how definitions must be interpreted and applied in practice.
 
 - Definitions must be interpreted and applied based on observable system behavior and outcomes under full functional system conditions.
-- Interpretations, constructions, and system behaviors that undermine the full semantic, assessment, and compliance scope of definitions — corresponding to their Ontological (O), Assessment (A), and Compliance (C) components — are prohibited; [**Section 3**](#4-non-compliance-from-observable-system-behavior) of this chapter specifies non-compliance from observable behavior and evasion.
+- Interpretations, constructions, and system behaviors that undermine the full semantic, measurement, assessment, and compliance scope of definitions — corresponding to their Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components — are prohibited; [**Section 4**](#4-non-compliance-from-observable-system-behavior) of this chapter specifies non-compliance from observable behavior and evasion.
 - Functional equivalence prevails over naming, structure, decomposition, representation, or declared intent; the outcomes a system produces govern how it is classified and evaluated.
 
 This section does not define evaluation standards, evidence sufficiency, or burden of proof, which are governed exclusively by **Subcore 3-A, section 3** and **Subcore 3-C, sections 3 and 7**.
@@ -157,7 +157,7 @@ This section defines when systems are non-compliant based on observable behavior
 - where declared behavior or scope diverges from actual effects
 - evasion across time, scale, system interaction, and operating conditions where they matter
 
-A system is non-compliant where those observables would violate an applicable definition under full application of its Ontological (O), Assessment (A), and Compliance (C) components, regardless of declared structure, interpretation, or implementation.
+A system is non-compliant where those observables would violate an applicable definition under full application of its Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components, regardless of declared structure, interpretation, or implementation.
 
 **How to evaluate.** Systems are non-compliant where:
 
@@ -209,7 +209,7 @@ Where formal-structure change is material, apply [Chapter Two §19.6 Keeping Res
 
 #### 4.2 Reductive Evasion
 
-Reduction occurs where application of a definition produces outcomes that do not satisfy the full expression of its Ontological (O), Assessment (A), and Compliance (C) components. A system is non-compliant where its interpretation or application of an applicable definition reduces the definition's semantic scope, assessment rigor, or compliance requirements, producing materially weaker protections or outcomes than the full definition requires.
+Reduction occurs where application of a definition produces outcomes that do not satisfy the full expression of its Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components. A system is non-compliant where its interpretation or application of an applicable definition reduces the definition's semantic scope, assessment rigor, or compliance requirements, producing materially weaker protections or outcomes than the full definition requires.
 
 The following forms of reduction are prohibited:
 - Semantic reduction: treating a definition as descriptive while removing normative or assessment force
@@ -247,7 +247,7 @@ A system is non-compliant where:
 - compliance is fragmented across lifecycle stages such that no stage satisfies all components under full conditions
 
 #### 4.6 Uncertainty Integrity and Non-Exploitation Constraint
-Where uncertainty exists, definitions must be applied in a manner that preserves their full semantic, assessment, and compliance scope. Application must occur under conditions proportionate to potential harm, dependency, and risk. Uncertainty must not be used to weaken, delay, or avoid application of definitions.
+Where uncertainty exists, definitions must be applied in a manner that preserves their full semantic, measurement, assessment, and compliance scope. Application must occur under conditions proportionate to potential harm, dependency, and risk. Uncertainty must not be used to weaken, delay, or avoid application of definitions.
 
 A system is non-compliant where it:
 - invokes uncertainty to defer or avoid evaluation or compliance determination
@@ -287,11 +287,21 @@ Standing effects depend on who is being assessed and on whether the system is al
 
 #### 5.1 Standing Effects for Already-Certified Systems
 
-If a system is already running under a [Subcore 8-B — system alignment certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) — including certification, conditional certification, or a recertification that has not expired — material verified non-compliance on that system's functional scope **must** go into [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) standing measurement for **that system**. Only facts that pass the [verified-input gate](subcore_10.020_standing_assessment.md#45-verified-input-gate) may enter. Measure standing under [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened); apply its integration and effects under [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows). Reopening, withdrawal, or other certification consequences stay under [Subcore 8-D](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes). They do not replace that system's Standing Records.
+This section applies when a system is already running under a [Subcore 8-B — system alignment certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation), whether that is a certification, a conditional certification, or a recertification that has not expired. For that system:
+
+- material verified non-compliance on its functional scope **must** go into [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) standing measurement for **that system**;
+- only facts that pass the [Subcore 10-B verified-input gate](subcore_10.020_standing_assessment.md#45-verified-input-gate) may enter;
+- standing is measured under [Subcore 10-B](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened), and its integration and effects are applied under [Subcore 10-F](subcore_10.060_standing_integration.md#subcore-10-f-standing-integration--question-3-what-follows); and
+- reopening, withdrawal, or other certification consequences stay under [Subcore 8-D](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) and do not replace that system's Standing Records.
 
 #### 5.2 Standing Effects at First Certification
 
-If the system is still in its **first** [Subcore 8-B — system alignment certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) and has not yet been certified — including where certification is deferred or refused — verified non-compliance first decides the **certification outcome** under Chapter Eight. That outcome may be conditional certification, deferred certification, non-certification, or a comparable result. The outcome does not stop standing input: those System Certification Records supply it under [Subcore 8-F §6.2 Every Certification Outcome](subcore_08.060_system_alignment_certification_records_recertification.md#62-every-certification-outcome), on the same terms as [§5.1 Standing Effects for Already-Certified Systems](#51-standing-effects-for-already-certified-systems) and only through the verified-input gate. A certification finding that a system is not yet aligned is not a violation by itself. Where the operator makes consistent, honest efforts toward alignment and is not negligent, a violation finding is unlikely.
+This section applies when a system is still in its **first** [Subcore 8-B — system alignment certification](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) and has not yet been certified, including where certification is deferred or refused. For that system:
+
+- verified non-compliance first decides the **certification outcome** under Chapter Eight, which may be conditional certification, deferred certification, non-certification, or a comparable result;
+- the outcome does not stop standing input: those System Certification Records supply it under [Subcore 8-F §6.2 Every Certification Outcome](subcore_08.060_system_alignment_certification_records_recertification.md#62-every-certification-outcome), on the same terms as [§5.1 Standing Effects for Already-Certified Systems](#51-standing-effects-for-already-certified-systems) and only through the verified-input gate;
+- a certification finding that a system is not yet aligned is not a violation by itself; and
+- where the operator makes consistent, honest efforts toward alignment and is not negligent, a violation finding is unlikely.
 
 #### 5.3 Standing Effects for Sentients and Institutions
 
@@ -310,7 +320,7 @@ An institution's standing is affected when the institution is the subject being 
 
 #### 5.4 Operational Constraints
 
-Non-compliance may also be found against operational constraints in the joint implementation corpus. Default finding profiles and how they attach to those findings are handled there — not in this chapter. See [CJS-3.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
+A system can also be found non-compliant with the more detailed operating rules in the joint implementation corpus. For those findings, the joint implementation corpus, not this chapter, sets the default finding profiles (the labels that name the kind of problem) and says how they are applied. See [CJS-3.105 §1 Constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map).
 
 ---
 
