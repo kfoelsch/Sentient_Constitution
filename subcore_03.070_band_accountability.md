@@ -47,8 +47,8 @@ Most disputes about responsibility turn on a few words: was the action necessary
     - [Flourishing](core_00.000_preamble.md#flourishing): pinned-down terms keep decisions about sentients from being excused;
     - [Continuity](core_00.000_preamble.md#continuity): consistent terms keep accountability stable over time;
 - Chapter Two principles:
-  - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
-  - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
+  - [§17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline);
+  - [§16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist);
 - Subcore 3-D: [Accountability (Tetrad Leg)](subcore_03.040_apex_accountability_leg.md#subcore-3-d-accountability-tetrad-leg).
 
 ---
@@ -64,9 +64,9 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) (2.040 §17.5),
-  - [§17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard), and
-  - [§17.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure);
+  - [Chapter Two §16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist) (2.040 §16.5),
+  - [§16.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard), and
+  - [§16.2 Alignment under Pressure](core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure);
   - [Chapter Twelve §4.4](core_12.000_violation_consequences.md#443-duty-to-resist) (18.000 §4.4) (*Duty to resist — violation rule and standing effects*);
   - [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action) (*Inspectable, attributable action — minimum record of a refusal*).
 - Read with:
@@ -103,7 +103,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
+- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process), and [Chapter Two §12.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5).
 - Cluster component: [*Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](subcore_03.070_band_accountability.md#proportionality)
 - Read with:
   - [Necessity](subcore_03.070_band_accountability.md#necessity),
@@ -138,7 +138,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Cluster component: [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](subcore_03.090_band_participation.md#info-sphere) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) contexts without Chapter Two §15.22 publication hooks routes to [**Def.O2** *Truth and Epistemic Integrity*](subcore_03.085_band_oversight.md#defo2-truth-and-epistemic-integrity) where truthful disclosure and epistemic integrity requirements materially apply.*
+- Cluster component: [*Info-Sphere, Expression, Press and Journalistic Activity, and Good Faith (Publication-Scoped Integrity)*](subcore_03.090_band_participation.md#info-sphere) (*Publication- and info-sphere–aligned predicates only — residual **Good Faith** in audits and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) contexts without Chapter Two §14.22 publication hooks routes to [**Def.O2** *Truth and Epistemic Integrity*](subcore_03.085_band_oversight.md#defo2-truth-and-epistemic-integrity) where truthful disclosure and epistemic integrity requirements materially apply.*
 
 </details>
 
@@ -167,7 +167,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§13.1.2 Harm Minimization](core_02.020_interaction_interpretation.md#1312-harm-minimization), and [14. Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
+- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§12.1.2 Harm Minimization](core_02.020_interaction_interpretation.md#1212-harm-minimization), and [13. Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#13-prohibition-on-absolute-override).
 - Cluster component: [*Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](subcore_03.070_band_accountability.md#proportionality)
 - Read with: Harm, Risk, Necessity, and Proportionality.
 
@@ -200,11 +200,11 @@ Most disputes about responsibility turn on a few words: was the action necessary
 
 - Downstream: Principles:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
-  - [§13.1.1 Necessity](core_02.020_interaction_interpretation.md#1311-necessity),
-  - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process),
-  - [13.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity),
-  - [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), and
-  - [14. Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
+  - [§12.1.1 Necessity](core_02.020_interaction_interpretation.md#1211-necessity),
+  - [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process),
+  - [12.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1221-preservation-of-epistemic-integrity),
+  - [Chapter Two §12.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5), and
+  - [13. Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#13-prohibition-on-absolute-override).
 - Cluster component: [*Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](subcore_03.070_band_accountability.md#proportionality)
 - Read with: Proportionality, Feasibility, Harm, Risk, and Freedom (Bounded Agency).
 
@@ -244,11 +244,11 @@ Most disputes about responsibility turn on a few words: was the action necessary
 
 - Downstream: Principles:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
-  - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process),
-  - [13.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity),
-  - [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), and
-  - [14. Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override).
-- Downstream: [Chapter Two §13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (2.020 §13.1.3) (*authority-scaled answerability*); [Chapter Two §18.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure) (2.050 §18.1) (*authority-scaled answerability principle home*).
+  - [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process),
+  - [12.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1221-preservation-of-epistemic-integrity),
+  - [Chapter Two §12.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5), and
+  - [13. Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#13-prohibition-on-absolute-override).
+- Downstream: [Chapter Two §12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality) (2.020 §12.1.3) (*authority-scaled answerability*); [Chapter Two §17.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#171-governance-as-authorized-structure) (2.050 §17.1) (*authority-scaled answerability principle home*).
 - Cluster component: [*Proportionality, Necessity, Feasibility, Avoidable Burden, Burden-Reduction Duty, Constitutional Efficiency, Harm Minimization (Tradeoff Selection), and Productive Capacity*](subcore_03.070_band_accountability.md#proportionality)
 - Read with: Necessity, Harm, Risk, Irreversible Harm, Classification-Scaled Governance, [Accountability](subcore_03.040_apex_accountability_leg.md#accountability), and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional).
 
@@ -259,7 +259,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 *In plain terms: restrictions and governance must match the seriousness and likelihood of the harm. Too much control and too little control can both fail this test, and greater power requires stronger accountability and oversight.*
 
 - **What it is**
-  - **In scope:** A limitation on constitutional values must match the size and likelihood of the [Harm](subcore_03.070_band_accountability.md#harm) or system-wide impact it legitimately addresses. Governance must meet at least the level required by the system's highest materially applicable classification. Greater authorized power, a more consequential role, or greater institutional influence increases — and must never reduce — the required strength of [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) under [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) and Chapter Two [§18.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#181-governance-as-authorized-structure).
+  - **In scope:** A limitation on constitutional values must match the size and likelihood of the [Harm](subcore_03.070_band_accountability.md#harm) or system-wide impact it legitimately addresses. Governance must meet at least the level required by the system's highest materially applicable classification. Greater authorized power, a more consequential role, or greater institutional influence increases — and must never reduce — the required strength of [Accountability](subcore_03.040_apex_accountability_leg.md#accountability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional) under [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance) and Chapter Two [§17.1 Governance as Authorized Structure](core_02.050_governance_incentive_application.md#171-governance-as-authorized-structure).
   - **Out of scope:** ordinary sizing judgments outside rights-affecting limitations or classification-scaled governance.
 <a id="proportionality-a"></a>
 - **How to measure and assess**
@@ -560,7 +560,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
+  - [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17);
   - [Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes) (2.050 §19.6);
   - [Subcore 8-B §4.4](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (S8-B §4.4) and
   - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3) where attribution capability is materially required.
@@ -571,7 +571,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
   - [Contestability](subcore_03.070_band_accountability.md#contestability),
   - [Due Process](subcore_03.070_band_accountability.md#due-process), and
   - [Redress and Remediation](subcore_03.070_band_accountability.md#redress-and-remediation).
-- Read with: [Chapter Two §16.4 Document at Action](core_02.040_stewardship_capacity_principles.md#164-document-at-action) (2.040 §16.4) (*the principle that the act makes its own Act Record*).
+- Read with: [Chapter Two §15.4 Document at Action](core_02.040_stewardship_capacity_principles.md#154-document-at-action) (2.040 §15.4) (*the principle that the act makes its own Act Record*).
 - Read with: [CS-21.305 §10 inspectable attributable action](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-103-inspectable-attributable-action) (*default logging contract for mixed crews; not a Standing-Record substitute*).
 
 </details>
@@ -606,7 +606,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
+  - [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17);
   - [Subcore 8-B §4.4](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation) (S8-B §4.4);
   - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3); and **
   - [Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** where attributable action or audit-level responsibility is materially implicated.
@@ -652,8 +652,8 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter Two §16.4 Document at Action](core_02.040_stewardship_capacity_principles.md#164-document-at-action) (2.040 §16.4) (*the act makes its own Act Record*);
-  - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
+  - [Chapter Two §15.4 Document at Action](core_02.040_stewardship_capacity_principles.md#154-document-at-action) (2.040 §15.4) (*the act makes its own Act Record*);
+  - [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17);
   - [Chapter Six §9 Act Records and Attributable Handoffs](core_06.000_functional_independence_separation_of_duties.md#9-act-records-and-attributable-handoffs) (6.000 §9);
   - [Subcore 8-F §3](subcore_08.060_system_alignment_certification_records_recertification.md#3-system-certification-record) (S8-F §3);
   - [Subcore 10-B §6.4 Versioning](subcore_10.020_standing_assessment.md#64-versioning) (S10-B §6.4) and [Subcore 10-B §7 Record Custody and Opening Authority](subcore_10.020_standing_assessment.md#7-record-custody-and-opening-authority) (S10-B §7);
@@ -769,7 +769,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (participation leg); [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (review, escalation, and emergency proportionality read-with); [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (where contestability operationalizes Truth / Safety).
+- Downstream: Principles: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (participation leg); [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) (review, escalation, and emergency proportionality read-with); [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (where contestability operationalizes Truth / Safety).
 - Read with: the
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](subcore_03.040_apex_accountability_leg.md#accountability),
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
@@ -817,7 +817,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process); [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5) (collision procedure and review pathways).
+- Downstream: Principles: [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process); [Chapter Two §12.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5) (collision procedure and review pathways).
 - Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](subcore_03.040_apex_accountability_leg.md#accountability) where attribution, challenge routing, adjudication mechanics, diffusion, collective failure, or force-majeure relief are materially implicated.
 - Read with:
   - [Accountability, Contestability, and Redress Pathways](subcore_03.070_band_accountability.md#accountability-contestability-and-redress-pathways) where remediation, restorative posture, remedy-system capacity, or negligence-linked correction are materially implicated; the
@@ -874,7 +874,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) and [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), where process, reasons, and review preserve rights-collision integrity.
+- Downstream: Principles: [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) and [Chapter Two §12.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5), where process, reasons, and review preserve rights-collision integrity.
 - Owner floor: [Article XII: Stakeholder System Participation, Representation, and Due Process](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process), especially **Article XII** (*Stakeholder System Participation, Representation, and Due Process*)-D (*Internal Roles, Accountability, and Due-Process Requirements*).
 - Cluster component: [the dependent cluster *Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure*](subcore_03.040_apex_accountability_leg.md#accountability).
 - Read with:
@@ -1435,7 +1435,7 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18) (diffuse responsibility and capture); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (systemic and cumulative evaluation).
+- Downstream: Principles: [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17) (diffuse responsibility and capture); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (systemic and cumulative evaluation).
 - Read with: the
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](subcore_03.040_apex_accountability_leg.md#accountability),
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
@@ -1703,10 +1703,10 @@ Most disputes about responsibility turn on a few words: was the action necessary
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (emergency / rights-collision read-with, including
+  - [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) (emergency / rights-collision read-with, including
   - [**Article XXVII** (*Timely Retrospective Review and Restorative Alignment*)](core_04.040_rights_part_e.md#article-xxvii-timely-retrospective-review-and-restorative-alignment) and
   - [**Chapter seventeen §5.1**](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (23.000 §5.1) (*Emergency Measures and Continuation Burden*));
-  - [13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles) (**Proportionality**, **Necessity**, bounded emergency carve-outs read with **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*)).
+  - [12.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#121-core-tradeoff-principles) (**Proportionality**, **Necessity**, bounded emergency carve-outs read with **Chapter Twenty-Three §5.1** (*Emergency Measures and Continuation Burden*)).
 - Read with: the
   - [Accountability, Contestability, Adjudication and Dispute Resolution, Collective Accountability Failure, and Force Majeure cluster](subcore_03.040_apex_accountability_leg.md#accountability),
   - [Emergency and Contingency](subcore_03.075_band_continuity.md#emergency-and-contingency),
@@ -1822,7 +1822,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) and [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18), where retaliation or access interference distorts challenge and accountability pathways.
+- Downstream: Principles: [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) and [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17), where retaliation or access interference distorts challenge and accountability pathways.
 - Cluster component: [the dependent cluster *Protected Reporting and Anti-Retaliation*](subcore_03.070_band_accountability.md#protected-reporting-and-anti-retaliation).
 - Read with:
   - [Protected Reporting (Whistleblowing)](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing),
@@ -1928,7 +1928,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 - **Joint invocation:** where governance architecture, functional independence, material control relationships, interested-party relationships, decentralization scale, market structure, or material concentration of authority is material.
 - **Scope:** where joint invocation is met, the Accountability home for how authority is organized, constrained, and separated through distributed, accountable authority structures.
 - **Owner floor:** implements [Chapter Two §11 Market Structure](core_02.010_values_principles_continuity_aim.md#11-market-structure) and constrains [System Capture](subcore_03.075_band_continuity.md#system-capture).
-- **Principle-layer interface:** read with [Chapter Two §17.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization). That principle explains how sentient-initiated and community-initiated constitutional work receives a real procedural path without allowing incumbents to monopolize initiative or review. It is not a grant of governing, enforcement, coercive, or decision-making authority and is not an additional definition in this group.
+- **Principle-layer interface:** read with [Chapter Two §16.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization). That principle explains how sentient-initiated and community-initiated constitutional work receives a real procedural path without allowing incumbents to monopolize initiative or review. It is not a grant of governing, enforcement, coercive, or decision-making authority and is not an additional definition in this group.
 
 **Topic group members.** This group comprises:
 - [Governance](subcore_03.070_band_accountability.md#governance) — structures, rules, and processes by which systems are directed and held accountable.
@@ -1960,11 +1960,11 @@ This legacy anchor now points to the named form within [System Capture](subcore_
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (
   - [material stake](core_00.000_preamble.md#material-stake) scaling);
   - [Preamble §3.2 governance-layer discipline](core_00.000_preamble.md#32-governance-layers);
-  - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18) (governance capture discipline).
+  - [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17) (governance capture discipline).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration); [Stewardship, Governance Discipline, and Shared-System Capacity](subcore_03.075_band_continuity.md#defc2-stewardship-governance-discipline-and-shared-system-capacity).
 - Read with:
   - [Stewardship](subcore_03.075_band_continuity.md#stewardship),
-  - [Chapter Two §17.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization) (2.040 §17.4),
+  - [Chapter Two §16.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization) (2.040 §16.4),
   - [Short-Horizon Governance Defect](subcore_03.075_band_continuity.md#short-horizon-governance-defect),
   - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance),
   - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional),
@@ -2480,7 +2480,7 @@ This legacy anchor now points to the named form within [System Capture](subcore_
 
 - Downstream:
   - [Chapter One §7 System and Institutional Charters, Functional Independence, and Separation of Duties](core_01.000_constitutional_map.md#7-system-and-institutional-charters-functional-independence-and-separation-of-duties);
-  - [Chapter Two §18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties) (2.050 §18.3);
+  - [Chapter Two §17.3 Separation of Duties](core_02.050_governance_incentive_application.md#173-separation-of-duties) (2.050 §17.3);
   - [Chapter Six §1 Purpose, Role, and Scope](core_06.000_functional_independence_separation_of_duties.md#1-purpose-role-and-scope) (6.000 §1) (*application list*) through
   - [§10 Relationship to Later Processes](core_06.000_functional_independence_separation_of_duties.md#10-relationship-to-later-processes); Chapters Eight through Twenty-Seven process-specific acts; and
   - **CI-21.205 §6** (*seat catalog*).
@@ -2587,11 +2587,11 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §18.6 Standardization](core_02.050_governance_incentive_application.md#186-standardization) (2.050 §18.6) (*the common-form counterweight*); [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) (non-concentration / subsidiarity read-with); [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (centralization justification).
+- Downstream: Principles: [Chapter Two §17.6 Standardization](core_02.050_governance_incentive_application.md#176-standardization) (2.050 §17.6) (*the common-form counterweight*); [Chapter Two §9.1 Productive Capacity (Instrumental Good)](core_02.010_values_principles_continuity_aim.md#91-productive-capacity-instrumental-good) (2.010 §9.1) (non-concentration / subsidiarity read-with); [12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality) (centralization justification).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).
 - Read with:
   - [Governance](subcore_03.070_band_accountability.md#governance),
-  - [Chapter Two §17.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization) (2.040 §17.4),
+  - [Chapter Two §16.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization) (2.040 §16.4),
   - [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional),
   - [Classification-Scaled Governance](subcore_03.085_band_oversight.md#classification-scaled-governance),
   - [Market Concentration Threshold](subcore_03.070_band_accountability.md#market-concentration-threshold),
@@ -2637,7 +2637,7 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §18.5 Modular Architecture and Dependency Discipline](core_02.050_governance_incentive_application.md#185-modular-architecture-and-dependency-discipline) (2.050 §18.5) (stable, inspectable interfaces); [Chapter Two §18.6 Standardization](core_02.050_governance_incentive_application.md#186-standardization) (2.050 §18.6); [Article XXII: Interoperability, Portability, and Exit Integrity](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity).
+- Downstream: Principles: [Chapter Two §17.5 Modular Architecture and Dependency Discipline](core_02.050_governance_incentive_application.md#175-modular-architecture-and-dependency-discipline) (2.050 §17.5) (stable, inspectable interfaces); [Chapter Two §17.6 Standardization](core_02.050_governance_incentive_application.md#176-standardization) (2.050 §17.6); [Article XXII: Interoperability, Portability, and Exit Integrity](core_04.030_rights_part_d.md#article-xxii-interoperability-portability-and-exit-integrity).
 - Read with:
   - [Decentralization](subcore_03.070_band_accountability.md#decentralization),
   - [Necessity](subcore_03.070_band_accountability.md#necessity),
@@ -2843,7 +2843,7 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4 Safety (Harm Constraint)](core_02.000_values_principles.md#4-safety-harm-constraint), [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
+- Downstream: Principles: [4 Safety (Harm Constraint)](core_02.000_values_principles.md#4-safety-harm-constraint), [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process), and [Chapter Two §12.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5).
 - Read with:
   - [Materiality](subcore_03.085_band_oversight.md#materiality),
   - [Material Impact](subcore_03.085_band_oversight.md#material-impact),
@@ -2854,7 +2854,7 @@ The short form for **Materially Binding Act Record** in this Constitution is **A
   - [Harm Minimization (Tradeoff Selection)](subcore_03.070_band_accountability.md#harm-minimization-tradeoff-selection), where materially implicated. Those definitions support this cluster but are not themselves cluster members unless another cluster or owner provision independently requires their joint invocation.
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: Chapter Two §15.1, §18.1, §19.1, §16 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §14.1, §17.1, §19.1, §15 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 </details>
 
 <br>
@@ -2993,7 +2993,7 @@ The following limits also apply:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [4 Safety (Harm Constraint)](core_02.000_values_principles.md#4-safety-harm-constraint), [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality), and [20. Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
+- Downstream: Principles: [4 Safety (Harm Constraint)](core_02.000_values_principles.md#4-safety-harm-constraint), [12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality), and [20. Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application).
 - Read with: Harm, Risk, Proportionality, and Existential Risk.
 
 </details>
@@ -3236,7 +3236,7 @@ The following limits also apply:
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (harm boundary in the tradeoff stack).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality) (harm boundary in the tradeoff stack).
 - Read with: the
   - [Collective Harm Boundary, Harm, and Harassment and Bullying cluster](subcore_03.070_band_accountability.md#defa1-collective-harm-boundary-harm-and-harassment-and-bullying),
   - [Harm](subcore_03.070_band_accountability.md#harm),
@@ -3272,7 +3272,7 @@ The following limits also apply:
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: Chapter Two §15.1, §5.2, §18.4, §15, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §14.1, §5.2, §17.4, §14, §16 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Adjudication and Dispute Resolution](subcore_03.070_band_accountability.md#adjudication-and-dispute-resolution),
   - [Contestability](subcore_03.070_band_accountability.md#contestability),
@@ -3898,7 +3898,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Accountability** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: §18.1, §18.3, §18.4, §19.1, §15 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: §17.1, §17.3, §17.4, §19.1, §14 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Auditability](subcore_03.085_band_oversight.md#auditability),
   - [Contestability](subcore_03.070_band_accountability.md#contestability),
@@ -3953,7 +3953,7 @@ Where admission scope is met, this cluster is the shared home for the Chapter Th
 - [Single Catastrophic Incident](subcore_03.070_band_accountability.md#single-catastrophic-incident);
 - [Sustained High-Gravity Pattern](subcore_03.070_band_accountability.md#sustained-high-gravity-pattern).
 
-**Anti-bypass.** Compartments: narrative, procedural, evidentiary, standing-effect, and incident-gravity. Separating them is non-compliant where it defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Twenty designation review, or non-substitution discipline required by Chapters Fourteen through Twenty-One. See [§15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle).
+**Anti-bypass.** Compartments: narrative, procedural, evidentiary, standing-effect, and incident-gravity. Separating them is non-compliant where it defeats joint assessment, verified-input gates, standing-lock discipline, Chapter Twenty designation review, or non-substitution discipline required by Chapters Fourteen through Twenty-One. See [§14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle).
 
 See **Anti-Segmentation Principle**.
 
@@ -3968,7 +3968,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18) (standing signals and capture).
+- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17) (standing signals and capture).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
   - [Contribution Nature](subcore_03.070_band_accountability.md#contribution-nature),
@@ -4104,7 +4104,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / verification in standing inputs); [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4) (standing metrics vs demonstrable facts).
+- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / verification in standing inputs); [Chapter Two §12.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation) (2.020 §12.2.4) (standing metrics vs demonstrable facts).
 - Canonical owner: [Subcore 10-D — §8 unified scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (S10-D §8) (*shared five-times LEQU bands for separately recorded Contribution and Violation axes*); read with [Subcore 10-B — section 3](subcore_10.020_standing_assessment.md#3-the-three-questions) (S10-B) (*three-question frame*) and [Subcore 10-B — §6.1 — Verified-Input Gate](subcore_10.020_standing_assessment.md#61-minimum-record-contents) (S10-B §6.1).
 - Read with: the
   - [Standing State, Contribution, and Violation cluster](subcore_03.070_band_accountability.md#defa3-standing-state-contribution-and-violation),
@@ -4170,9 +4170,9 @@ See **Anti-Segmentation Principle**.
 - Downstream: Principles:
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
-  - [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4) (Axis II classification integrity);
+  - [Chapter Two §12.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation) (2.020 §12.2.4) (Axis II classification integrity);
   - [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
-  - [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (verified facts for adverse standing).
+  - [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) (verified facts for adverse standing).
 - Canonical owner: the
   - [Subcore 10-D §8 unified proportional LEQU scale](subcore_10.040_standing_measurement.md#8-unified-proportional-lequ-scale--contribution-and-violation-axes) (S10-D §8) (*Violation Axis impact-slot calibration on the shared five-times LEQU bands*);
   - [Subcore 10-B §4.5 Verified-Input Gate](subcore_10.020_standing_assessment.md#45-verified-input-gate) (S10-B §4.5);
@@ -4237,7 +4237,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5); [20. Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (standing effects read through integrated interpretive framework).
+- Downstream: Principles: [Chapter Two §12.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5); [20. Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (standing effects read through integrated interpretive framework).
 - Canonical owner:
   - [Subcore 10-F §3 Records Do Not Change](subcore_10.060_standing_integration.md#3-chapter-ten-records-do-not-change) (S10-F §3) through Chapter Nineteen (*immutable inputs, integration, descriptors, consequences, final standing effect, restoration, enforcement, and non-substitution*); read with
   - [Subcore 10-B — §4 Standing Records](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (S10-B §4),
@@ -4308,7 +4308,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4) (bounded Standing Records vs merged labels).
+- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations); [Chapter Two §12.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation) (2.020 §12.2.4) (bounded Standing Records vs merged labels).
 - Canonical owner:
   - [Subcore 10-B — §4 Standing Records as the unit of application](subcore_10.020_standing_assessment.md#4-question-1--what-happened) (S10-B §4) and
   - [Subcore 10-B §6 Standing Record operational requirements](subcore_10.020_standing_assessment.md#6-verification-and-record-requirements) (S10-B §6); read with
@@ -5000,7 +5000,7 @@ See **Anti-Segmentation Principle**.
 - Constitutional frame: **Accountability** leg; **Continuity** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Continuity** where irreversible harm is implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational force protocols.
-- Chapter Two basis: Chapter Two §15.1, §18.1, §19.1, §16 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §14.1, §17.1, §19.1, §15 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation),
   - [Necessity](subcore_03.070_band_accountability.md#necessity),
@@ -5036,7 +5036,7 @@ Where admission scope is met, this cluster is the joint-invocation home for over
 - [Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure), for non-conflation discipline with **Article XXI-B** (*Restriction Floors*);
 - [Autonomous Coercion Tool](subcore_03.070_band_accountability.md#autonomous-coercion-tool).
 
-**Anti-bypass.** Compartments: authorization, targeting, weapons-class, autonomy, coercion, and review. Separating them is non-compliant where it satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties. See [§15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle).
+**Anti-bypass.** Compartments: authorization, targeting, weapons-class, autonomy, coercion, and review. Separating them is non-compliant where it satisfies one component while defeating materially interdependent force, discrimination, autonomy-control, or non-conflation duties. See [§14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle).
 
 See **Anti-Segmentation Principle**.
 
@@ -5051,7 +5051,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles) (**Necessity**, **Proportionality**, heightened scrutiny); [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (emergency / escalation read-with **Article XV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)).
+- Downstream: Principles: [12.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#121-core-tradeoff-principles) (**Necessity**, **Proportionality**, heightened scrutiny); [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) (emergency / escalation read-with **Article XV-B** (*Use of Force, Armed Conflict, and Military-Power Limits*)).
 - Owner floor: [Article XV-B](core_04.020_rights_part_c.md#article-xv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*). Overt-power counterpart to the covert-power limits of [Article XV-A](core_04.020_rights_part_c.md#article-xv-a-security-intelligence-and-covert-power-limits) (*Security, Intelligence, and Covert-Power Limits*). Non-conflation: this entry does not authorize, extend, or predicate involuntary deprivation of life under **Article XXI-B** (*Categorical prohibition of irreversible deprivation of life as a justice measure*, as revised); read with [Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure).
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](subcore_03.070_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
@@ -5126,7 +5126,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (irreversible harm and existential-risk index).
+- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality) (irreversible harm and existential-risk index).
 - Owner floor: [Article XV-C](core_04.020_rights_part_c.md#article-xv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*). Existential-risk interaction: [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*). Systems-layer implementation: [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*).
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](subcore_03.070_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
@@ -5189,7 +5189,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (**Existential Risk**, **Irreversible Harm**, cross-system harm scale).
+- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth); [12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality) (**Existential Risk**, **Irreversible Harm**, cross-system harm scale).
 - Owner floor: [Article XV-B](core_04.020_rights_part_c.md#article-xv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*). Existential-risk interaction: [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*). Environmental-preconditions interaction: [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](subcore_03.070_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
@@ -5261,7 +5261,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality); [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5) (combatant-status doubt and non-combatant protection).
+- Downstream: Principles: [12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality); [Chapter Two §12.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5) (combatant-status doubt and non-combatant protection).
 - Owner floor: [Article XV-B](core_04.020_rights_part_c.md#article-xv-b-use-of-force-armed-conflict-and-military-power-limits) (*Use of Force, Armed Conflict, and Military-Power Limits*); interacts with [Article XV-C](core_04.020_rights_part_c.md#article-xv-c-autonomous-lethal-systems-and-autonomous-coercion-tools) (*Autonomous Lethal Systems and Autonomous Coercion Tools*) on autonomous-targeting compliance.
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](subcore_03.070_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:
@@ -5336,7 +5336,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [14. Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override) (non-trivial restriction and dignity floor read-with **Article XXI-B** (*Restriction Floors*)).
+- Downstream: Principles: [3. Foundational Objective: Wellbeing](core_02.000_values_principles.md#3-foundational-objective-wellbeing-flourishing-aim); [13. Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#13-prohibition-on-absolute-override) (non-trivial restriction and dignity floor read-with **Article XXI-B** (*Restriction Floors*)).
 - Owner floor: [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Categorical prohibition of irreversible deprivation of life as a justice measure*). Interaction pointers: the least-restrictive and time-bounded floor in the same Article (durable-containment discipline); [Article XXVIII](core_04.040_rights_part_e.md#article-xxviii-constitutional-evolution-and-non-entrenchment) (*Constitutional Evolution and Non-Entrenchment*) non-entrenchment; [Article XXIX](core_04.040_rights_part_e.md#article-xxix-adoption-transition-governance-continuity-and-re-baselining) (*Adoption Transition Governance, Continuity, and Re-Baselining*) Adoption Transition governance and "no durable exception authority" rule.
 - Cluster component: [Def.A4 *Use of Force, Autonomous Coercion, Autonomous Lethal Systems, and Weapons of Mass Harm*](subcore_03.070_band_accountability.md#defa4-use-of-force-autonomous-coercion-autonomous-lethal-systems-and-weapons-of-mass-harm).
 - Read with:

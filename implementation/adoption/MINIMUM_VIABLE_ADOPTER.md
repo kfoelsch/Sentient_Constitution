@@ -55,12 +55,12 @@ This page does **not**:
 - Add adopter types, duties, measurement families, or forum families
 - Replace [CI-8.210 §1](../../corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-1-formation-proportionality) formation proportionality or [CJS-3.125 §11](../../corpus_joint_structure/cjs_03.125_accountability_operations.md#formation-and-authorization-proportionality-minimum) with a cheaper path
 - Let an estimate, a shared note, or “we are Profile 2” claim constitutional protection while dodging matching obligations
-- Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter Two §17.4](../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Bind host products, labs, vendors, platforms, or other sentients who did not consent ([Chapter Two §16.4](../../core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization))
 - Create a Chapter Fourteen Standing Record, a Chapter Eight system alignment certification, or a Merits Determination
 - Staff forum families, invent a second morals stack, or treat standing scores as sentience status ([Article XX-A](../../core_04.030_rights_part_d.md#article-xx-a-standing-distinction))
 - Drop the **pre-release** banner or substitute for a publication cut ([PRE_PUBLICATION_SPEC.md](../PRE_PUBLICATION_SPEC.md))
 
-**Same duties for both kinds of steward.** [Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans. Headcount *N* counts human and AI stewards who actually hold the work; it does not mint a second standard.
+**Same duties for both kinds of steward.** [Chapter Two §16.1](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans. Headcount *N* counts human and AI stewards who actually hold the work; it does not mint a second standard.
 
 ---
 
@@ -180,7 +180,7 @@ First adopters use §10.1–§10.2. There are no published existing-adopter join
 **Why this goal first.**
 
 - Repeated processes are where certification work repeats most: appeal and complaint intake, change records, outage and hazard notices, hardship and reconnection intake, access requests, incident reporting.
-- [Chapter Two §18.6 Standardization](../../core_02.050_governance_incentive_application.md#186-standardization) already makes the common, published form the default. This goal makes that default cheaper to review.
+- [Chapter Two §17.6 Standardization](../../core_02.050_governance_incentive_application.md#176-standardization) already makes the common, published form the default. This goal makes that default cheaper to review.
 - CS-8.305 §7.10 settles first how a part of a system is bounded, shown to be decoupled, and disclosed. The Standard Process Recognition reuses those habits.
 
 **Start only when all four hold.**

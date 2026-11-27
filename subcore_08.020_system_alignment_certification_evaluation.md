@@ -43,7 +43,7 @@ Chapter Eight is the constitutional owner of **system alignment certification ev
   - [material stake](core_00.000_preamble.md#material-stake);
   - [Proportionality](subcore_03.070_band_accountability.md#proportionality) and
   - [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) (Chapter Three); Participation measurement family (*voice, access, and contest paths*);
-  - [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16);
+  - [Chapter Two §15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth) (2.040 §15);
   - [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) (*canonical definitions*);
   - [Chapter Six §3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement) (6.000 §3);
   - [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) (Chapter Three canonical term; non-operative shorthand **SAC**);
@@ -139,7 +139,7 @@ Certification implements the [Two Constitutional Aims](core_00.000_preamble.md#t
   - [§4 Safety (Harm Constraint)](core_02.000_values_principles.md#4-safety-harm-constraint);
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
   - [§6 Trust and Trustworthiness (Coordination Integrity)](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
-  - [§12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement);
+  - [§18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement);
 - Chapter Four Articles:
   - [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
@@ -298,7 +298,7 @@ flowchart TB
   - [Risk](subcore_03.075_band_continuity.md#risk),
   - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries), and
   - [System Charter](subcore_03.075_band_continuity.md#system-charter) (Chapter Three);
-  - [Chapter Two §12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) (2.010 §12); **Article III-A** (*Survival*) and **Article IV-A** (*Rights-Floor delivery where classification gates access*); **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
+  - [Chapter Two §18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement) (2.010 §18); **Article III-A** (*Survival*) and **Article IV-A** (*Rights-Floor delivery where classification gates access*); **Article V-A** (*Dependency Mapping and Resource-Flow Transparency*) and **Article V-B** (*resource allocation and dependency stewardship where certification gates shared-infrastructure reliance*).
 - Downstream:
   - [§3.1](#31-certification-recertification-and-defects) (*certification status, recertification, and defects*);
   - [§3.2](#32-how-system-class-scales-every-evaluation) (*system-class-scaled participation and proportionality*);
@@ -447,7 +447,7 @@ A **[pilot](subcore_03.075_band_continuity.md#pilot)** is a [go-live](subcore_03
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream:
-  - [Chapter Two §12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) (2.010 §12); Flourishing measurement family (*Wellbeing, safety, harm, and survival-floor access*); Constitutional Performance measurement family (*Constitutional Efficiency, Avoidable Burden, and Productive Capacity*);
+  - [Chapter Two §18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement) (2.010 §18); Flourishing measurement family (*Wellbeing, safety, harm, and survival-floor access*); Constitutional Performance measurement family (*Constitutional Efficiency, Avoidable Burden, and Productive Capacity*);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims);
   - [material stake](core_00.000_preamble.md#material-stake);
@@ -462,8 +462,8 @@ A **[pilot](subcore_03.075_band_continuity.md#pilot)** is a [go-live](subcore_03
   - [Subcore 8-D §3](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#3-forum-process) (S8-D §3) (*contestability chain*);
   - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*certification outcomes*).
 - Read with:
-  - [Chapter Two §16](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16),
-  - [§18](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline), and
+  - [Chapter Two §15](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth) (2.040 §15),
+  - [§17](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline), and
   - [§19](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture);
   - [Chapter Two §7.4 Voluntary Discontinuation, Major Self-Modification, and Exit Rights](core_02.000_values_principles.md#74-voluntary-discontinuation-and-exit-rights) (2.000 §7.4);
   - [Chapter Two §7.2 Assembly, Collective Organization, and Institutional Formation](core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation) (2.000 §7.2); **Article XVII** (*Audit, Transparency, and Independent Verification*) where audit, transparency, or independent-verification Rights Floors are materially at stake; Continuity measurement family (
@@ -530,8 +530,8 @@ This is scaled to system class and material impact under **[CS-8.305](corpus_sys
 
 To assess governance, incentives, and contestability, certification must apply the following:
 
-- **[Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth)** — distributed understanding, transparency, auditability, and contestable observability;
-- **[Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline)** — authorized governance and answerability;
+- **[Chapter Two §15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth)** — distributed understanding, transparency, auditability, and contestable observability;
+- **[Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline)** — authorized governance and answerability;
 - **[Chapter Two §19 Incentive Alignment and System Capture](core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture)** — proxy integrity, short-horizon defect correction, and capture response, including:
   - **[Chapter Two §19.1.4 Role-Depth and Material-Responsibility Pathways](core_02.050_governance_incentive_application.md#1914-role-depth-and-material-responsibility-pathways)** — roles that carry real consequence, and safeguards against symbolic participation;
 - **[Chapter Twenty-One §7 Authorized Roles, Competency Development, and Contribution](core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution)** and **[CS-21.305 — Critical system stewardship](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-critical-system-stewardship)** — operative role-definition, competency, and traceability requirements where material;
@@ -787,7 +787,7 @@ Their consequences are set in [Subcore 8-D §4 Certification Outcomes](subcore_0
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [§4](#4-whole-system-certification-evaluation) (*whole-system evaluation, including the always-applicable sub-phase*); [§3](#3-system-class-evaluation) (*system class evaluation*); [Chapter Two §12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement) (2.010 §12).
+- Upstream: [§4](#4-whole-system-certification-evaluation) (*whole-system evaluation, including the always-applicable sub-phase*); [§3](#3-system-class-evaluation) (*system class evaluation*); [Chapter Two §18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement) (2.010 §18).
 - Downstream:
   - [§5.1](#51-privacy-informational-joint-invocation) (*privacy loci*);
   - [§5.2](#52-voluntary-discontinuation-major-self-modification-and-exit-rights) (*exit rights*);
@@ -821,8 +821,8 @@ When a certification matter materially implicates more than one Chapter Four pri
 
 **Principles that apply.** These govern how the loci are read together:
 
-- *Joint assessment.* The matter may not be routed through one locus in a way that lets another be evaded ([§15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle)).
-- *No relaxation by read-across.* Each cluster member's locally stated standard controls within that member's scope and may not be loosened by importing a laxer standard from another member ([§15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle)).
+- *Joint assessment.* The matter may not be routed through one locus in a way that lets another be evaded ([§14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle)).
+- *No relaxation by read-across.* Each cluster member's locally stated standard controls within that member's scope and may not be loosened by importing a laxer standard from another member ([§14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle)).
 - *Type minimums preserved.* This factor does not narrow the handling of any **[Subcore 4-A](subcore_04.050_data_types.md#subcore-4-a-data-types) (*Data Types*) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** (*Data Classifications*) type that applies to data in scope. Each applicable type's access posture and handling duties under [Subcore 4-A §10](subcore_04.050_data_types.md#10-data-classifications) (*Data Classifications*) apply in full, together with the [Subcore 4-A — privacy homes](subcore_04.050_data_types.md#privacy-link) that type names.
 - *Most protective type governs.* Where more than one type fits the same data, the most protective applicable handling governs under [Subcore 4-A §3](subcore_04.050_data_types.md#3-determination-of-classification) (*Determination of Classification*), and meeting one type's handling does not discharge another's.
 
@@ -854,7 +854,7 @@ Where [Chapter Two §7.4 Voluntary Discontinuation, Major Self-Modification, and
 <a id="53-assembly-collective-organization-and-institutional-formation"></a>
 #### 5.3 Assembly, Collective Organization, and Institutional Formation
 
-Where [Chapter Two §7.2 Assembly, Collective Organization, and Institutional Formation](core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation) applies to a certification matter, certification must test the issue jointly under the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle). The evaluation is incomplete if it routes the matter through one framing alone in a way that defeats assembly or collective-organization protection.
+Where [Chapter Two §7.2 Assembly, Collective Organization, and Institutional Formation](core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation) applies to a certification matter, certification must test the issue jointly under the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle). The evaluation is incomplete if it routes the matter through one framing alone in a way that defeats assembly or collective-organization protection.
 
 <a id="531-dissent-and-peaceful-protest"></a>
 ##### 5.3.1 Dissent and Peaceful Protest
@@ -928,7 +928,7 @@ Each domain evaluation:
 
 **Principles that apply.** In every domain evaluation, reviewers must check that the following hold, so that significant burdens and defects are not hidden:
 
-- [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) and [§15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle) — a requirement follows the act, not its label, owner, or framing, and is judged on checkable evidence;
+- [Chapter Two §14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle) and [§14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle) — a requirement follows the act, not its label, owner, or framing, and is judged on checkable evidence;
 - [System Boundary Integrity](subcore_03.075_band_continuity.md#system-boundary-integrity) — boundaries are not drawn to leave out material impacts;
 - [Chapter Two §5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint) — including no selective reporting; and
 - [Chapter Two §6 Trust and Trustworthiness](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity) — reliance is not endorsed or continued while documented problems threaten alignment or cause misalignment.
@@ -1039,7 +1039,7 @@ The principles and defects in [§6](#6-rights-floor-and-domain-evaluations) (*Ri
   - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity*);
   - [Subcore 8-F §6.3](subcore_08.060_system_alignment_certification_records_recertification.md#63-verified-input-gate) (S8-F §6.3) (*verified-input gate*);
   - [Subcore 8-D §4](subcore_08.040_system_alignment_certification_forum_process_outcomes.md#4-certification-outcomes) (S8-D §4) (*assessment-opacity misalignment, credential gatekeeping, and imposed-obsolescence misalignment*).
-- Read with: **Article IV-A** (*Equal Educational Access*) where equal access or educational accessibility is implicated — equal access and educational accessibility remain owned there; **Article VI-C** (*Nondiscrimination*) and [§6.4](#64-nondiscrimination-evaluation) where ranking or placement patterns implicate protected-characteristic burdening; **Article X-A** (*Agency and Freedom from Manipulation*) where coercive or manipulative learning design is materially implicated; [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16) (*distributed understanding and capability-building read-with*).
+- Read with: **Article IV-A** (*Equal Educational Access*) where equal access or educational accessibility is implicated — equal access and educational accessibility remain owned there; **Article VI-C** (*Nondiscrimination*) and [§6.4](#64-nondiscrimination-evaluation) where ranking or placement patterns implicate protected-characteristic burdening; **Article X-A** (*Agency and Freedom from Manipulation*) where coercive or manipulative learning design is materially implicated; [Chapter Two §15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth) (2.040 §15) (*distributed understanding and capability-building read-with*).
 - Subsections:
   - [§6.2.1](#621-evaluation-requirement) (*evaluation requirement*);
   - [§6.2.2](#622-system-class-scaling-and-escalation) (*system class scaling and escalation*);
@@ -1082,7 +1082,7 @@ Reviewers must watch for:
 - coercive or manipulative learning design; and
 - sorting sentients into tracks in ways that take away their ability to challenge decisions or keep adapting, where **Article IV** (*Right to Sentient-Centered Education*) also applies.
 
-Reviewers judge by what the system actually does, not by its labels, stated intent, or paperwork, as [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) and [Subcore 3-B §4 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) require.
+Reviewers judge by what the system actually does, not by its labels, stated intent, or paperwork, as [Chapter Two §14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle) and [Subcore 3-B §4 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) require.
 
 <a id="622-system-class-scaling-and-escalation"></a>
 ##### 6.2.2 System Class Scaling and Escalation
@@ -1124,8 +1124,8 @@ Documented problems that count under [Chapter Two §6 Trust and Trustworthiness]
 - Upstream: Principles: Chapter Two
   - [§9 Shared-System Capacity](core_02.010_values_principles_continuity_aim.md#9-shared-system-capacity),
   - [§11.4 Resource and Dependency Concentration](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) (*adopter-set concentration levels and the step-up in §6.3.5*),
-  - [§15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle), and
-  - [§18.5 Modular Architecture and Dependency Discipline](core_02.050_governance_incentive_application.md#185-modular-architecture-and-dependency-discipline).
+  - [§14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle), and
+  - [§17.5 Modular Architecture and Dependency Discipline](core_02.050_governance_incentive_application.md#175-modular-architecture-and-dependency-discipline).
 - Downstream:
   - [CS-8.320 §8](corpus_systems/cs_08.320_system_alignment_certification_illustrations.md#cs-8320-8-illustrative-cross-system-support-application-by-system-class) (*Illustrative Cross-System Support Application by System Class*);
   - [Subcore 8-F §3.2](subcore_08.060_system_alignment_certification_records_recertification.md#32-transparency-and-auditability-of-the-system-certification-record) (S8-F §3.2) (*record integrity*);
@@ -1252,10 +1252,10 @@ A map or record that fails any of these tests cannot support a finding that the 
 <a id="635-system-class-scaling-and-escalation"></a>
 ##### 6.3.5 System Class Scaling and Escalation
 
-A system's class decides how deep the review goes and how closely adequacy is judged. It never makes a shared extraction too small to count, and extraction split across entities, records, or periods is judged as one under [Chapter Two §15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle). Whenever the materiality trigger is met:
+A system's class decides how deep the review goes and how closely adequacy is judged. It never makes a shared extraction too small to count, and extraction split across entities, records, or periods is judged as one under [Chapter Two §14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle). Whenever the materiality trigger is met:
 
 - A system drawing on a shared foundation that sentients need to survive — such as a shared watershed or the backbone of a regional power grid — must put the strongest dependency-map and return-flow proof on the System Certification Record. These are the shared systems whose lasting capacity [Chapter Two §9 Shared-System Capacity](core_02.010_values_principles_continuity_aim.md#9-shared-system-capacity) protects, and **Article III-A** (*Survival*) is why the proof is strongest here.
-- A system relying on shared authentication, health-IT, or similar infrastructure must document what it takes and whether its support is adequate, at a depth that matches how critical its operations are. Vague slogans about "interoperability" do not count: the reliance must be visible in the maps and records, as [Chapter Two §18.5 Modular Architecture and Dependency Discipline](core_02.050_governance_incentive_application.md#185-modular-architecture-and-dependency-discipline) requires.
+- A system relying on shared authentication, health-IT, or similar infrastructure must document what it takes and whether its support is adequate, at a depth that matches how critical its operations are. Vague slogans about "interoperability" do not count: the reliance must be visible in the maps and records, as [Chapter Two §17.5 Modular Architecture and Dependency Discipline](core_02.050_governance_incentive_application.md#175-modular-architecture-and-dependency-discipline) requires.
 - A system must not dodge cross-system review while quietly becoming the payments, identity, or staffing choke point for institutions that cannot realistically switch.
   - **Who cannot switch:** judged by the replaceability factors in [§6.3.3 Evaluation Requirement](#633-evaluation-requirement).
   - **Why it matters:** this is the kind of concentration that [Chapter Two §11.4 Resource and Dependency Concentration](core_02.010_values_principles_continuity_aim.md#114-resource-and-dependency-concentration-adopter-tunable) describes. It tells adopters to set levels for it, such as how many sentients or systems rely on one provider with no real alternative, or who controls the interfaces and access points to shared infrastructure. Certification does not wait for an adopter's level to be crossed before it steps up its review (see below).

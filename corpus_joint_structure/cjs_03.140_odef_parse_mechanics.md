@@ -119,7 +119,7 @@ Application rules are strict:
 - partial satisfaction is not compliance,
 - no component may be used, satisfied, or evaluated on its own in a way that changes the compliance result.
 
-That **oDef**-cluster rule is local to one **oDef**. Cross-file combined satisfaction when more than one implementation file applies to the same facts lives in [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*).
+That **oDef**-cluster rule is local to one **oDef**. Cross-file combined satisfaction when more than one implementation file applies to the same facts lives in [Chapter Two §14.4.4](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*).
 
 By structural analogy, this follows the **joint invocation and satisfaction** rule for **Dependent clusters** in [Chapter Three §4.1 Joint Invocation and Satisfaction](../core_03.000_definitions_home.md#41-joint-invocation-and-satisfaction).
 

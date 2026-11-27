@@ -240,7 +240,7 @@ flowchart TB
     FL["Flourishing aim<br/><br/>• §3 to §7"]
     RES["§10 Resilience and Self-Healing Design<br/><br/>• Detect, contain, fail safely, recover honestly"]
     MKT["§11 Market Structure<br/><br/>• §11.1 Market Concentration Threshold Mechanism<br/>• §11.2 Pro-Competition and Anti-Domination<br/>• §11.3 Consolidation Ceiling<br/>• §11.4 Resource and Dependency Concentration"]
-    EV["§12 Systemic Evaluation Requirement<br/><br/>• Whole-system scope, dependency,<br/>and incentive alignment"]
+    EV["§18 Systemic Evaluation Requirement<br/><br/>• Whole-system scope, dependency,<br/>and incentive alignment"]
     C -->|"opens with"| CAP
     GL["&nbsp;"]
     GE["&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"]
@@ -268,7 +268,7 @@ flowchart TB
 
 Continuity opens with **shared-system capacity**, the ability to keep doing what a system is for. Capacity is a means toward Flourishing, never a trump card over safety, truth, rights, or ecology. **Resilience** keeps that capacity durable, and **market structure** keeps it contestable. **Systemic evaluation** comes last because it checks the whole: before anyone claims a system is compliant, safe, or well governed, someone must have looked at its dependencies and incentives, not just one part at one moment.
 
-Their source is [Chapter Two §8 Continuity Aim: Introduction](../core_02.010_values_principles_continuity_aim.md#8-continuity-aim-introduction), which maps each principle to its Articles and definitions. Where Continuity and Flourishing collide, they are weighed under [§13 Constitutional Collision Resolution Process](../core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+Their source is [Chapter Two §8 Continuity Aim: Introduction](../core_02.010_values_principles_continuity_aim.md#8-continuity-aim-introduction), which maps each principle to its Articles and definitions. Where Continuity and Flourishing collide, they are weighed under [§12 Constitutional Collision Resolution Process](../core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process).
 
 <a id="stewardship-pillars"></a>
 ### Stewardship: Three Pillars
@@ -296,7 +296,7 @@ flowchart TB
 
 The Tetrad says which duties keep a shared system legitimate. Stewardship is how those duties get carried by the people and institutions actually running it. All three pillars work together rather than in sequence, and each is bounded by Safety, Truth, Necessity, Proportionality, Avoidable Burden, and Epistemic Integrity — they operate within those constraints, not around them.
 
-Their source is [§16 Stewardship in Depth](../core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth). The steward role itself — the hands-on duties, the shared standard binding human and AI stewards alike, symmetric costly constraints, and role-scoped observability — lives at [§17 Consequential Stewardship: The Steward Role](../core_02.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role). The community and institutional facets of the third pillar are [§16.1 Distributed Understanding](../core_02.040_stewardship_capacity_principles.md#161-distributed-understanding) and [§16.2 Institutional Development](../core_02.040_stewardship_capacity_principles.md#162-institutional-development).
+Their source is [§15 Stewardship in Depth](../core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth). The steward role itself — the hands-on duties, the shared standard binding human and AI stewards alike, symmetric costly constraints, and role-scoped observability — lives at [§16 Consequential Stewardship: The Steward Role](../core_02.040_stewardship_capacity_principles.md#16-consequential-stewardship-the-steward-role). The community and institutional facets of the third pillar are [§15.1 Distributed Understanding](../core_02.040_stewardship_capacity_principles.md#151-distributed-understanding) and [§15.2 Institutional Development](../core_02.040_stewardship_capacity_principles.md#152-institutional-development).
 
 This is a different sense of the word from [Article II: Material Stewardship and Durable-Use Integrity](../core_04.000_rights_part_a.md#article-ii-material-stewardship-and-durable-use-integrity). Chapter Two stewardship is about who operates shared systems and to what standard; Article II is a Rights Floor about how durable and network-dependent products are designed, described, and supported.
 

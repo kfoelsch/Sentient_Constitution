@@ -42,7 +42,7 @@ This is also more constructive than a system concerned only with punishment. The
 
 These are substantive protections worth making conspicuous in explanations and trials. They also create implementation obligations: a future interface must not quietly reintroduce a global score or an “unverified” stigma.
 
-**Sources:** [Subcore 10-B §2.2](../../subcore_10.020_standing_assessment.md#32-silence-is-the-default); [Chapter One §17.3](../../core_02.040_stewardship_capacity_principles.md#173-logging-the-role-not-the-steward); [Subcore 10-F §§8–9](../../subcore_10.060_standing_integration.md#8-final-standing-effect).
+**Sources:** [Subcore 10-B §2.2](../../subcore_10.020_standing_assessment.md#32-silence-is-the-default); [Chapter Two §16.3](../../core_02.040_stewardship_capacity_principles.md#163-logging-the-role-not-the-steward); [Subcore 10-F §§8–9](../../subcore_10.060_standing_integration.md#8-final-standing-effect).
 
 ### 4. Independence follows actual power
 

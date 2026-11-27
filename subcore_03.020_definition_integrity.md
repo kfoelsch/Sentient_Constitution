@@ -72,7 +72,7 @@ Systems rarely say they are ignoring a rule. More often they keep the words and 
     - [Continuity](core_00.000_preamble.md#continuity): closed loopholes stay closed over time;
 - Chapter Two principles:
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
-  - [§15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
+  - [§14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle);
   - [§19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
 - Chapter Four Articles:
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).

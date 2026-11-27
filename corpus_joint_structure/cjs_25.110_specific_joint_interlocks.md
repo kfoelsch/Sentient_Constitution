@@ -28,7 +28,7 @@
   - **CJS-25.110** (*Specific joint interlocks and shared abstractions*);
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*);
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*);
-  - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4);
+  - [Chapter Two §14.4.4](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §14.4.4);
   - [Chapter One — constitutional owner register](../core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (1.000).
 </details>
 
@@ -72,7 +72,7 @@ This file is the joint-structure implementation home for **CJS-25.110** (*Specif
 
 **Layer:** This file is **CJS**, the joint-structure adopted implementation text named in [Chapter One §11 Adopted Implementation Corpus](../core_01.000_constitutional_map.md#11-adopted-implementation-corpus). Constitutional term meaning stays in [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions). Which chapter or adopted corpus owns a domain stays in the [Chapter One — constitutional owner register](../core_01.000_constitutional_map.md#6-principles-definitions-and-rights). [Authority Stack and Internal Hierarchy](../subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) is unchanged. Adopted under [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge), this text implements the Constitution; it does not narrow it.
 
-When more than one adopted corpus applies to the same facts, use the default reading stack in [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*): **CJS → CS → CI → CF**. The [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule among jointly applicable incorporated obligations: [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer).
+When more than one adopted corpus applies to the same facts, use the default reading stack in [Chapter Two §14.4.4](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*): **CJS → CS → CI → CF**. The [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule among jointly applicable incorporated obligations: [Chapter Two §14.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1443-incorporation-layer).
 
 **CJS-25.110** (*Specific joint interlocks*) states the joint interlocks. Local operative rules remain in the adopted corpus that owns the domain:
 
@@ -164,8 +164,8 @@ In everyday reading: publish how long rotating members serve, how home-member te
 
 - Read with:
   - **CJS-25.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*);
-  - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4) (*combined satisfaction*);
-  - [Chapter Two §15.4.3](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (2.030 §15.4.3) (*cross-file Fullest Protective Effect rule*);
+  - [Chapter Two §14.4.4](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §14.4.4) (*combined satisfaction*);
+  - [Chapter Two §14.4.3](../core_02.030_constitutional_interpretation.md#1443-incorporation-layer) (2.030 §14.4.3) (*cross-file Fullest Protective Effect rule*);
   - **CJS-6.105 §11** (*Classification Alignment for Supervised Scope*).
 - Topic routing (primary owner): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*).; see that row for mandatory read-with.
 
@@ -189,7 +189,7 @@ Where trust depends on multiple systems, institutions, dependencies, or implemen
 - the contest, escalation, evidence, and correction routes affected sentients can use; and
 - the accountable owners for correction and restoration.
 
-Trust claims must remain consistent with [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*), **CJS-6.105 §11** (*Classification Alignment for Supervised Scope*), and [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule), and with the following **oDef** / **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** clusters where those operational facts materially support the trust claim:
+Trust claims must remain consistent with [Chapter Two §14.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*), **CJS-6.105 §11** (*Classification Alignment for Supervised Scope*), and [Chapter Two §14.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1443-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule), and with the following **oDef** / **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** clusters where those operational facts materially support the trust claim:
 
 - **CJS-3.110 §3 (*Oversight: Auditability and Reconstructability Terms (Annex)*) and CJS-3.115 §3** (*Audit Process Home (oDef.3)*)
 - **CJS-3.110 §5** (*Oversight: Independent Verification and Claim-Integrity Terms*)
@@ -206,7 +206,7 @@ Trust claims must remain consistent with [Chapter Two §15.4.4 Combined Satisfac
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: [Chapter Two §17.6 Portable Competence](../core_02.040_stewardship_capacity_principles.md#176-portable-competence) (2.040 §17.6) (*the principle this subsection carries out*).
+- Upstream: [Chapter Two §16.6 Portable Competence](../core_02.040_stewardship_capacity_principles.md#166-portable-competence) (2.040 §16.6) (*the principle this subsection carries out*).
 - Read with: **CJS-25.110 §4** (*Class-Scaled Lane Staffing and Competency Redundancy*); **CJS-3.105 §0** (*Cross-Band: Role-Definition Preface and Standing Competency Bar and Clearance Interface*).
 - Topic routing (mandatory read-with): **CJS-R18** (*Class-scaled lane staffing and competency redundancy for materially bin…*) in
   - **CJS-0.105 §1** (*Topic router*); primary owners
@@ -237,7 +237,7 @@ Role-boundary design must balance sustained engagement with community redundancy
 
 Staffing must be real, not just numerical. Responsibility cannot be spread so thin that nobody is competent, and knowledge cannot be concentrated so tightly that the lane becomes fragile, captured, or unable to replace itself.
 
-Apply [Chapter Two §17.6 Portable Competence](../core_02.040_stewardship_capacity_principles.md#176-portable-competence) to that coverage: an alternate counts only if it would not fail for the same reason as the steward it covers, and succession and handoffs must be exercised, with gaps recorded and corrected. A second copy of an AI system with the same flaw is not coverage. Cross-training does not authorize a sentient to check its own earlier work, bypass a competency bar, or obtain evidence beyond its lawful access. Rotation remains a tool, not a duty to move every steward through every role.
+Apply [Chapter Two §16.6 Portable Competence](../core_02.040_stewardship_capacity_principles.md#166-portable-competence) to that coverage: an alternate counts only if it would not fail for the same reason as the steward it covers, and succession and handoffs must be exercised, with gaps recorded and corrected. A second copy of an AI system with the same flaw is not coverage. Cross-training does not authorize a sentient to check its own earlier work, bypass a competency bar, or obtain evidence beyond its lawful access. Rotation remains a tool, not a duty to move every steward through every role.
 
 The constitutional requirements for authorized roles, competency, and succession are in [Chapter Twenty-One §7 Authorized Roles, Competency Development, and Contribution](../core_21.000_governance.md#7-authorized-roles-competency-development-and-contribution). Domain detail remains in **CI-6.205** (*Institutional design, separation of powers, and authority custody*), **CI-21.205** (*Appointment, competency, rotation, and removal*), **CI-4.215** (*Resource stewardship and incentive integrity*), **CI-16.210** (*Cross-institution coordination and escalation*), and [**CS-8.305**](../corpus_systems/cs_08.305_system_classification_machinery.md#cs-8305-system-classification-machinery) (*System classification machinery*) and **CS-21.305 — Critical system stewardship**.
 
@@ -276,7 +276,7 @@ Before applying these procedural role terms, apply the role-definition preface i
 
 For **CI-8.210 §3** (*Delegated Subunits, Institutional Design Class, and Attachment Discipline*), a **delegated subunit** is the institutional application of **Delegated binding body**: a standing or recurring internal body — a division, chamber, committee, designated panel, or regional or functional office with decision rights — that exercises materially binding delegated authority for the parent institution and is not the institution's sole governing plenary.
 
-Forum-specific detail, including forum families, routing, appeals, and specialist chamber doctrine, remains in [**CF-16.405**](../corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*) and related **CF** sections. Where **CF-16.405 §8** (*Chamber Authority Composition and Service Mechanics*) states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Twenty-Two** forums. Where **CI** and **CF** obligations overlap, the clearly adopted rule with the [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) governs under [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
+Forum-specific detail, including forum families, routing, appeals, and specialist chamber doctrine, remains in [**CF-16.405**](../corpus_forum/cf_16.405_forum_formation_chamber_structure.md#cf-16405-forum-formation-forum-structure-mapping-and-chamber-structure) (*Forum formation, forum-structure mapping, and chamber structure*) and related **CF** sections. Where **CF-16.405 §8** (*Chamber Authority Composition and Service Mechanics*) states forum-specific delegated-authority duties or illustrations, **CF** text governs for **Chapter Twenty-Two** forums. Where **CI** and **CF** obligations overlap, the clearly adopted rule with the [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) governs under [Chapter Two §14.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1443-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
 
 It is non-compliant to treat a body or route as valid if the official records do not make lawful authority, independence safeguards, backup routes, and contest routes auditable where they materially apply.
 

@@ -38,8 +38,8 @@ The guarantees in Chapter Twenty hold only if the steps that carry them out hold
     - [Continuity](core_00.000_preamble.md#continuity): root-cause evaluation removes the causes of failure so they do not repeat;
 - Chapter Two principles:
   - [§3.3 Anti-Degrading Process](core_02.000_values_principles.md#33-anti-degrading-process);
-  - [§13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality);
-  - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
+  - [§12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality);
+  - [§12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle);
 - Chapter Four Articles:
   - [Article XXI-B](core_04.030_rights_part_d.md#article-xxi-b-restriction-floors) (*Restriction Floors*);
   - [Article XXV](core_04.030_rights_part_d.md#article-xxv-root-cause-analysis-and-adaptive-response) (*Root Cause Analysis and Adaptive Response*).

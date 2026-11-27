@@ -285,7 +285,7 @@ An audit that can choose what to look at, or a system that can decide what is ma
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Two §13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (2.020 §13.1.3) (*heightened thresholds*).
+- Upstream: Principles: [Chapter Two §12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality) (2.020 §12.1.3) (*heightened thresholds*).
 - Read with:
   - [Necessity](subcore_03.070_band_accountability.md#necessity),
   - [Proportionality](subcore_03.070_band_accountability.md#proportionality),
@@ -319,7 +319,7 @@ An audit that can choose what to look at, or a system that can decide what is ma
   - **Out of scope:**
     - ordinary [Necessity](subcore_03.070_band_accountability.md#necessity) and [Proportionality](subcore_03.070_band_accountability.md#proportionality) review, which applies everywhere without a heightened trigger;
     - the trigger conditions themselves, which stay with the provisions that invoke this standard;
-    - the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) rule for choosing among incorporated texts under [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer); and
+    - the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) rule for choosing among incorporated texts under [Chapter Two §14.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1443-incorporation-layer); and
     - other uses of "heightened" that name a stronger safeguard, weight, priority, or control rather than a review standard (for example heightened safeguards in Chapter Fourteen or heightened priority for habitat).
 <a id="heightened-scrutiny-a"></a>
 - **How to measure and assess**
@@ -427,7 +427,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - [Materiality](subcore_03.085_band_oversight.md#materiality)) (*Materiality as constitutional measurement*); Principles:
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (**Materiality** DEC stack; evaluation completeness);
-  - [13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles) (proportionality stack read with material effects).
+  - [12.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#121-core-tradeoff-principles) (proportionality stack read with material effects).
 - Read with:
   - [Material Impact](subcore_03.085_band_oversight.md#material-impact),
   - [Material Risk](subcore_03.085_band_oversight.md#material-risk),
@@ -468,7 +468,7 @@ Implication can exist without misalignment. Misalignment always implies material
 
 - Downstream: Integrative Materiality (
   - [Materiality](subcore_03.085_band_oversight.md#materiality)) (*Materiality as constitutional measurement*); Principles:
-  - [material stake](core_00.000_preamble.md#material-stake) scaling proxy; Chapter Two surfaces this definition across **Safety** (**Chapter Two §15.1**), **Truth** (**Chapter Two §15.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **Chapter Two §13.3.2** where **Materiality** appears in O/M/A/C widgets — see
+  - [material stake](core_00.000_preamble.md#material-stake) scaling proxy; Chapter Two surfaces this definition across **Safety** (**Chapter Two §14.1**), **Truth** (**Chapter Two §14.2**), **Trust** (**§12**), **§12** stewardship and openness passages, **§13.1**, **§13.2**, and **Chapter Two §12.3.2** where **Materiality** appears in O/M/A/C widgets — see
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) as the principal systems-evaluation home.
 - Cluster component: [the dependent cluster *Material Impact, Materiality, Classification-Scaled Governance, Oversight, and Capability Requirement*](subcore_03.085_band_oversight.md#materiality-impact-risk-and-proxy-integrity).
@@ -746,7 +746,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (aggregation and boundary integrity in evaluation); [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4) (metric/reality gaps that can manipulate materiality).
+- Downstream: Principles: [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (aggregation and boundary integrity in evaluation); [Chapter Two §12.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation) (2.020 §12.2.4) (metric/reality gaps that can manipulate materiality).
 - Read with:
   - [Materiality](subcore_03.085_band_oversight.md#materiality),
   - [System Boundaries](subcore_03.075_band_continuity.md#system-boundaries),
@@ -794,8 +794,8 @@ Implication can exist without misalignment. Misalignment always implies material
   - [material stake](core_00.000_preamble.md#material-stake) scaling proxy;
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations);
-  - [Chapter Two §16 Stewardship in Depth — §16.1 Distributed Understanding](core_02.040_stewardship_capacity_principles.md#161-distributed-understanding) (2.040 §16) (understanding scales with **Materiality**);
-  - [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (material impact in the tradeoff index).
+  - [Chapter Two §15 Stewardship in Depth — §16.1 Distributed Understanding](core_02.040_stewardship_capacity_principles.md#151-distributed-understanding) (2.040 §15) (understanding scales with **Materiality**);
+  - [12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality) (material impact in the tradeoff index).
 - Cluster component: [the dependent cluster *Material Impact, Materiality, Classification-Scaled Governance, Oversight, and Capability Requirement*](subcore_03.085_band_oversight.md#materiality-impact-risk-and-proxy-integrity).
 - Read with:
   - [Harm](subcore_03.070_band_accountability.md#harm),
@@ -854,7 +854,7 @@ Implication can exist without misalignment. Misalignment always implies material
   - [Materiality](subcore_03.085_band_oversight.md#materiality)) (*Materiality as constitutional measurement*); Principles:
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (tail risks, existential risk posture);
-  - [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
+  - [12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality) (**Risk**, **Irreversible Harm**, **Existential Risk** index).
 - Read with:
   - [Harm](subcore_03.070_band_accountability.md#harm),
   - [Irreversible Harm](subcore_03.070_band_accountability.md#irreversible-harm),
@@ -905,7 +905,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality) (reversibility under uncertainty); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (precaution against omitted harms).
+- Downstream: Principles: [12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality) (reversibility under uncertainty); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (precaution against omitted harms).
 - Read with:
   - [Material Impact](subcore_03.085_band_oversight.md#material-impact),
   - [Material Risk](subcore_03.085_band_oversight.md#material-risk),
@@ -952,10 +952,10 @@ Implication can exist without misalignment. Misalignment always implies material
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*); Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles:
-  - [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4),
+  - [Chapter Two §12.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation) (2.020 §12.2.4),
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and
-  - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18).
+  - [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17).
 - Cluster component: [the dependent cluster *Material Impact, Materiality, Classification-Scaled Governance, Oversight, and Capability Requirement*](subcore_03.085_band_oversight.md#materiality-impact-risk-and-proxy-integrity).
 - Read with:
   - [Materiality](subcore_03.085_band_oversight.md#materiality),
@@ -1081,7 +1081,7 @@ Implication can exist without misalignment. Misalignment always implies material
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: Chapter Two §15.2, §6, §19.1, §19.2 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §14.2, §6, §19.1, §19.2 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
   - [Contestability](subcore_03.070_band_accountability.md#contestability),
@@ -1131,7 +1131,7 @@ Where admission scope is met, this cluster is the joint home for disclosure, aud
 - [Evaluation Completeness Constraint](subcore_03.085_band_oversight.md#evaluation-completeness-constraint) — cover plausible failure, misuse, interaction, and adversarial pathways before claiming compliance; and
 - [Verifiability](subcore_03.085_band_oversight.md#verifiability) — externally detect and measure behavior and effects, and independently validate what was observed under practical access, independence, proportionate burden, and stressed-condition reliability.
 
-**Anti-bypass.** Compartments: disclosure, preservation, logging, metrics, audit sampling, verification UX, and independence. Separating them is non-compliant where it checks a box on one channel while defeating practical reconstruction, challenge, or proportionate assurance depth. See [§15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle).
+**Anti-bypass.** Compartments: disclosure, preservation, logging, metrics, audit sampling, verification UX, and independence. Separating them is non-compliant where it checks a box on one channel while defeating practical reconstruction, challenge, or proportionate assurance depth. See [§14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle).
 
 See **Anti-Segmentation Principle**.
 
@@ -1147,7 +1147,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](subcore_03.085_band_oversight.md#defo1-transparency-auditability-and-verification).
-- Downstream: Principles: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg; [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16), [13.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity).
+- Downstream: Principles: [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg; [Chapter Two §15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth) (2.040 §15), [12.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1221-preservation-of-epistemic-integrity).
 - Read with:
   - [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity),
   - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),
@@ -1165,7 +1165,7 @@ See **Anti-Segmentation Principle**.
 *In plain terms: telling affected sentients enough about how a system works, its limits, and its risks that they can genuinely understand and question it — not burying them in noise.*
 
 - **What it is**
-  - **In scope:** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, and what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) and [13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints).
+  - **In scope:** Giving affected sentients enough information about how a system behaves outwardly — its limits, uncertainties, and what depends on it — that they can understand what it does and what risks it creates. Legitimate safety and security limits still apply, consistent with [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity) and [12.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#122-epistemic-disclosure-constraints).
     - If a material system, institution, forum process, or similar governed domain can lawfully publish online, its baseline transparency disclosure must be free to the public at the access level its class requires — not behind a paywall or available only to insiders — wherever [Public Oversight Baseline Disclosure](subcore_03.085_band_oversight.md#public-oversight-baseline-disclosure) applies.
     - If publishing the raw material would violate lawful protections, the owner must still publish the strongest public substitute reasonably possible online, without gutting accountability or [Contestability](subcore_03.070_band_accountability.md#contestability) — for example:
       - aggregation;
@@ -1415,7 +1415,7 @@ See **Anti-Segmentation Principle**.
   - **Secondary measure:** [Verifiability](subcore_03.085_band_oversight.md#verifiability), [Evidence Preservation](subcore_03.085_band_oversight.md#evidence-preservation), and [Contestability](subcore_03.070_band_accountability.md#contestability) — other checks that can show auditability failed even when some audit channel exists on paper.
 
     **Secondary assessment:** When checking the primary answer:
-    - where stewardship relies on repeated comparable measures, audit paths should support reviewing variation over time and threshold-triggered follow-through when claimed ([Chapter Two §16.2 Institutional Development](core_02.040_stewardship_capacity_principles.md#162-institutional-development); [Proportionality](subcore_03.070_band_accountability.md#proportionality)); and
+    - where stewardship relies on repeated comparable measures, audit paths should support reviewing variation over time and threshold-triggered follow-through when claimed ([Chapter Two §15.2 Institutional Development](core_02.040_stewardship_capacity_principles.md#152-institutional-development); [Proportionality](subcore_03.070_band_accountability.md#proportionality)); and
     - confirm audit coverage reaches the evaluation criteria, components, dependencies, actors, conditions, and effects that matter — and is available for independent [Verifiability](subcore_03.085_band_oversight.md#verifiability) and [Oversight](subcore_03.055_apex_oversight_leg.md#oversight-constitutional).
   - **Tertiary measure:** [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — where sampling, metrics, or ceremonial review stands in for practical reconstruction.
 
@@ -1459,7 +1459,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth), [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), and [13.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
+- Downstream: Principles: [2.1. Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth), [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process), and [12.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1221-preservation-of-epistemic-integrity), where materially relevant evidence must remain available for truth, safety, review, and correction.
 - Cluster component: [Def.O1 *Transparency, Auditability, and Verification*](subcore_03.085_band_oversight.md#defo1-transparency-auditability-and-verification).
 - Read with:
   - [Auditability](subcore_03.085_band_oversight.md#auditability),
@@ -1680,7 +1680,7 @@ See **Anti-Segmentation Principle**.
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
 - Downstream: Oversight measurement family (*Truth and epistemic integrity as constitutional measurement*).
 - Cross-leg note: integrative with **Accountability** where contest and correction are implicated.
-- Chapter Two basis: Chapter Two §15.2, §5.1, §6, §19.1, §19.2 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §14.2, §5.1, §6, §19.1, §19.2 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Good Faith](subcore_03.070_band_accountability.md#good-faith),
   - [Materiality](subcore_03.085_band_oversight.md#materiality),

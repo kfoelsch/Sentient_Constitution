@@ -60,7 +60,7 @@ This family holds clusters that require simultaneous satisfaction across Tetrad 
 - Read with: [Article XVII](../core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*) — secrecy remains auditable and challengeable
 - Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: **Oversight** and **Accountability** — secrecy limits must remain auditable and challengeable.
-- Chapter Two basis: §15.2, §18.2, §18, §19.1, §15, §16 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.2, §17.2, §17, §19.1, §14, §15 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -200,13 +200,13 @@ No permanent secrecy and anti-normalization discipline
   - **CJS-3.125 §15** (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*) and
   - **CJS-3.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*);
   - **CJS-3.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*).
-- Read with: **[Chapter Two §13.1.5 Rights-Collision Procedure](../core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5)**
+- Read with: **[Chapter Two §12.1.5 Rights-Collision Procedure](../core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5)**
 - Read with: [CF-16.450](../corpus_forum/cf_16.450_forum_continuity.md#cf-16450-forum-continuity) (*Forum continuity*) through [CF-16.460](../corpus_forum/cf_16.460_emergency_adjudication.md#cf-16460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication.
 - Read with: Constitutional hooks in **Articles X, XIV, and XV**
 - Constitutional frame: **Integrative** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: **Accountability** and **Continuity** — technical complement to **CJS-3.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*) governance authorization.
 - Continuity disambiguation: Distinguish technical intervention integrity from constitutional **Continuity** aim language.
-- Chapter Two basis: §15.1, §18.1, §18, §19.1, §16 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.1, §17.1, §17, §19.1, §15 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>

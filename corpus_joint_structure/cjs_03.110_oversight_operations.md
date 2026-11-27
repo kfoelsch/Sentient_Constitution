@@ -68,7 +68,7 @@ This family operationalizes the **Oversight** leg of the [Constitutional Tetrad]
 - Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and **Article XVII-A** (*Auditability and Observable Evidence*) — Rights Floor
 - Read with: **[Subcore 4-A — Data Types](../subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: §15.2, §6, §13.2, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.2, §6, §12.2, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -267,7 +267,7 @@ Transparency, audit, and verification-integrity duties
 - Read with: **[Subcore 4-A — Data Types](../subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)** (**Type O**, **Type G**, access-posture bands)
 - Read with: [Subcore 8-B](../subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) (S8-B) (*System Alignment Certification* — one especially large sibling audit mode; not the sole auditing home)
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: §15.2, §6, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.2, §6, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-25.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 - Topic routing (mandatory read-with): **CJS-R19** (*integrity assurance and resilience operations*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-3.110 §6** (*Oversight: Integrity Assurance and Resilience Operations*).
 
@@ -393,7 +393,7 @@ Operational transparency and structured logging requirements
 - Read with: **CJS-3.110 §4 — Transparency Levels and Audit Access**
 - Read with: **CJS-3.110 §5 — Oversight: independent verification and claim-integrity terms**
 - Read with: **CJS-3.130 §20** (*Continuity: Reversibility and Containment Terms*) and **CJS-3.130 §18** (*Continuity: Data-Retention and Lifecycle-Integrity Terms*) — Reversibility and Containment
-- Read with: **[Chapter Two §13.1.5 Rights-Collision Procedure](../core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5)**
+- Read with: **[Chapter Two §12.1.5 Rights-Collision Procedure](../core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5)**
 - Read with: [CF-16.450](../corpus_forum/cf_16.450_forum_continuity.md#cf-16450-forum-continuity) (*Forum continuity*) through [CF-16.460](../corpus_forum/cf_16.460_emergency_adjudication.md#cf-16460-emergency-adjudication) (*Emergency adjudication*) — forum continuity, fallback operation, and emergency adjudication.
 - Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and **Article XVII-A** (*Auditability and Observable Evidence*)
 - Read with: **Article VII-B** (*Self-Ownership of Mind*)
@@ -402,7 +402,7 @@ Operational transparency and structured logging requirements
   - [Subcore 4-A §6.3 Transparency levels and audit access](../subcore_04.050_data_types.md#63-transparency-levels-and-audit-access); and
   - [Subcore 4-A §8](../subcore_04.050_data_types.md#8-type-o-baseline-for-class-abc-systems).
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: §15.2, §18.2, §18, §19.1, §15 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.2, §17.2, §17, §19.1, §14 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 </details>
 
 <details>
@@ -610,7 +610,7 @@ Restriction scope and justification discipline
 - Read with: **Article XVII** (*Audit, Transparency, and Independent Verification*) and **Article XVII-A** (*Auditability and Observable Evidence*) — Rights Floor, where material claims shape rights-relevant decisions
 - Read with: **[Subcore 4-A — Data Types](../subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](../corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**
 - Constitutional frame: **Oversight** leg; **Flourishing** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: §15.2, §5.1, §6, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.2, §5.1, §6, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (mandatory read-with): **CJS-R17** (*Cross-implementation trust integrity (joint operation model)*) in **CJS-0.105 §1** (*Topic router*); primary owner **CJS-25.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*).
 
 </details>
@@ -764,7 +764,7 @@ Structured review and incentive-integrity minimum
 - Constitutional frame: **Oversight** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Accountability** where contest, correction, and assurance routing are implicated.
 - Continuity disambiguation: Distinguish constitutional **Continuity** aim from operational resilience or protocol continuity.
-- Chapter Two basis: §15.1, §15.2, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
+- Chapter Two basis: §14.1, §14.2, §19.1, §19.2 (see [cluster map](cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)).
 - Topic routing (primary owner): **CJS-R19** (*integrity assurance and resilience operations*) in
   - **CJS-0.105 §1** (*Topic router*). Mandatory read-with:
   - **CJS-3.110 §3** (*Oversight: Auditability and Reconstructability Terms (Annex)*),

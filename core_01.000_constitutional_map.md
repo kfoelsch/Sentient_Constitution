@@ -73,7 +73,7 @@ The Constitution spreads its work across many chapters, a subcore, and four adop
 - Chapter Two principles:
   - [§5.2 Plain-Language Accessibility (Participation and Stewardship Duty)](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty);
   - [§5.2.4 Complexity-as-Defeat Discipline](core_02.000_values_principles.md#524-complexity-as-defeat-discipline);
-  - [§15.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
+  - [§14.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#144-constitutional-meaning-conflict-resolution);
 - Chapter Four Articles:
   - [Article XXIV-A](core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*);
   - [Article XXIV-B](core_04.030_rights_part_d.md#article-xxiv-b-complexity-audit-and-modularity-requirements) (*Complexity Audit and Modularity Requirements*).

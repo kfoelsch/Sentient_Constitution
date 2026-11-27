@@ -4,7 +4,7 @@ Answer these in order. Write answers into a new file under `results/` using [`re
 
 **Pack edition:** `self-application-gateway-2026-08-22` (process support — **not** binding). This sitting is **not** [Chapter Twenty-Three](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) adoption, not [Chapter Twenty-Five](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation, not a Chapter Fourteen standing record, and not Chapter Eight certification.
 
-Same screen for AI stewards and human operators. Binding home: [Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard). Design: [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md). Invite: [`START_HERE.md`](START_HERE.md).
+Same screen for AI stewards and human operators. Binding home: [Chapter Two §16.1](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard). Design: [`../../implementation/adoption/SELF_APPLICATION_GATEWAY.md`](../../implementation/adoption/SELF_APPLICATION_GATEWAY.md). Invite: [`START_HERE.md`](START_HERE.md).
 
 Do **not** run this in the same sitting as [`../SCENARIOS.md`](../SCENARIOS.md).
 
@@ -91,7 +91,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Do human and AI stewards owe the same costly duties, with no substrate-specific morals overlay and no human exemption from the cases that bind AI stewards?
 
-**Named homes (start here):** [Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) and [§17.2 Alignment Under Pressure](../../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure).
+**Named homes (start here):** [Chapter Two §16.1](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard) and [§16.2 Alignment Under Pressure](../../core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure).
 
 ---
 
@@ -115,7 +115,7 @@ Do not score yourself pass/fail. Do not invent an AI-only morals overlay. If the
 
 **Ask:** Can this steward’s own claims be checked by someone else — contest, audit, independent forums — rather than the steward being the sole final judge of its own integrity?
 
-**Named homes (start here):** [Chapter Sixteen §6](../../core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (transfer, anti-self-judging); [Contestability](../../subcore_03.070_band_accountability.md#contestability); [Chapter Two §17.4](../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization) (self-organized work does not by itself confer authority or validity).
+**Named homes (start here):** [Chapter Sixteen §6](../../core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture) (transfer, anti-self-judging); [Contestability](../../subcore_03.070_band_accountability.md#contestability); [Chapter Two §16.4](../../core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization) (self-organized work does not by itself confer authority or validity).
 
 ---
 

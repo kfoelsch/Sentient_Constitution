@@ -18,7 +18,7 @@
   - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Downstream: [CJS-25.105 §7](#cjs-25105-7-intentional-overlap-non-duplication-discipline) (*Intentional Overlap (Non-Duplication Discipline)*); [CJS-25.105 §8](#cjs-25105-8-two-layer-definition-contract-binding-abstraction--owner-detail) (*Two-Layer Definition Contract (Binding Abstraction + Owner Detail)*); [CJS-25.105 §8.1](#cjs-25105-81-implementation-boundary-primary-owner-to-cjs-seam) (*Implementation boundary (primary owner to CJS seam)*).
-- Read with: [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*); [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*); [Chapter Two §15.4.3](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (2.030 §15.4.3) (*cross-file Fullest Protective Effect rule*).
+- Read with: [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*); [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*); [Chapter Two §14.4.3](../core_02.030_constitutional_interpretation.md#1443-incorporation-layer) (2.030 §14.4.3) (*cross-file Fullest Protective Effect rule*).
 </details>
 
 <br>
@@ -66,7 +66,7 @@ Domain-layer overlap discipline: apply [Institutions Overlap Discipline](../corp
   - [CJS-0.105 §1](cjs_00.105_registry_and_reading_rules.md#cjs-01-topic-router-stable-ids) (*Cross-File Routing*);
   - **CJS-25.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*);
   - **CJS-25.105 §8.1** (*Implementation boundary (primary owner to CJS seam)*);
-  - [Chapter Two §15.4.3](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (2.030 §15.4.3) (*cross-file Fullest Protective Effect rule*).
+  - [Chapter Two §14.4.3](../core_02.030_constitutional_interpretation.md#1443-incorporation-layer) (2.030 §14.4.3) (*cross-file Fullest Protective Effect rule*).
 - Downstream: [CJS-25.105 §8.1 Implementation Boundary (Primary Owner to CJS Seam)](#cjs-25105-81-implementation-boundary-primary-owner-to-cjs-seam).
 </details>
 
@@ -92,7 +92,7 @@ When that boundary does not resolve the conflict, use this order:
 3. The **Layer 1** CJS abstraction stated in this section.
 4. Local shorthand, examples, summaries, or other drafting convenience text, as described in **CJS-0.110 §3** (*Shared Implementation-Corpus Preamble Contract*).
 
-Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader CJS reading as controlling. Send the question to the canonical owner named in **CJS-0.105 §1** (*Cross-File Routing*), including the forum owner in **CF** where forum routing, forum authority, or Chapter Twenty-Two procedure is affected, and update the CJS pointer once the owner clarifies it. For the [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule between two adopted implementation standards on the same risk, read [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
+Do not use a broad reading of CJS to change, shrink, expand, or move a rule that belongs to a canonical owner. If the conflict is still unclear after applying this order, do not treat the broader CJS reading as controlling. Send the question to the canonical owner named in **CJS-0.105 §1** (*Cross-File Routing*), including the forum owner in **CF** where forum routing, forum authority, or Chapter Twenty-Two procedure is affected, and update the CJS pointer once the owner clarifies it. For the [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule between two adopted implementation standards on the same risk, read [Chapter Two §14.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1443-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
 
 Domain-layer read-with contracts: apply [Institutions Read-with Pointers](../corpus_institutions/ci_00.205_registry_and_reading_rules.md#institutions-read-with-pointers), [Forums Read-with Pointers](../corpus_forum/cf_00.405_registry_and_reading_rules.md#forums-read-with-pointers), and [Systems Read-with Pointers](../corpus_systems/cs_00.305_registry_and_reading_rules.md#systems-read-with-pointers) in the respective registry annexes.
 
@@ -105,15 +105,15 @@ Domain-layer read-with contracts: apply [Institutions Read-with Pointers](../cor
   - [CJS-25.105 §8](#cjs-25105-8-two-layer-definition-contract-binding-abstraction--owner-detail) (*Two-Layer Definition Contract (Binding Abstraction + Owner Detail)*);
   - [CJS-0.110 §1](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-1-section-identifiers-and-article-references) (*Section Identifiers and Article References*);
   - [CJS-25.105 §7](#cjs-25105-7-intentional-overlap-non-duplication-discipline) (*Intentional Overlap (Non-Duplication Discipline)*);
-  - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4).
+  - [Chapter Two §14.4.4](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §14.4.4).
 - Read with:
   - **CJS-25.105 §8.1** (*Implementation boundary (primary owner to CJS seam)*);
   - **CJS-0.110 §1** (*Section Identifiers and Article References*);
   - **CJS-25.105 §7** (*Intentional Overlap (Non-Duplication Discipline)*);
   - **CJS-25.105 §8** (*Two-Layer Definition Contract (Binding Abstraction + Owner Detail)*);
   - **CJS-0.105 §3** (*Stable Identifiers, Edition Alignment, and Drafting Notes*);
-  - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4);
-  - [Chapter Two §15.4.3](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (2.030 §15.4.3) (*cross-file Fullest Protective Effect rule*).
+  - [Chapter Two §14.4.4](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §14.4.4);
+  - [Chapter Two §14.4.3](../core_02.030_constitutional_interpretation.md#1443-incorporation-layer) (2.030 §14.4.3) (*cross-file Fullest Protective Effect rule*).
 </details>
 
 <br>
@@ -126,7 +126,7 @@ When revising **CJS** joint-structure text:
 
 - keep **CS**, **CI**, or **CF** **primary owner** requirements in those files;
 - keep read-with restatements short; and
-- preserve **oDef** / **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** citations so references remain traceable under [CJS-0.105 §3](cjs_00.105_registry_and_reading_rules.md#cjs-0105-3-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable Identifiers, Edition Alignment, and Drafting Notes*); the [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule remains [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
+- preserve **oDef** / **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** citations so references remain traceable under [CJS-0.105 §3](cjs_00.105_registry_and_reading_rules.md#cjs-0105-3-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable Identifiers, Edition Alignment, and Drafting Notes*); the [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule remains [Chapter Two §14.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1443-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
 
 ---
 

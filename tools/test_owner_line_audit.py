@@ -50,6 +50,13 @@ class CoreTests(unittest.TestCase):
         ok = "Chapter Two, **Part A**, is the constitutional owner of **X**.\n\n*In plain terms: x*\n"
         self.assertEqual(self.check(name, core(ok)), [])
 
+    def test_live_heading_part_overrides_historical_registry(self):
+        name = "core_02.040_stewardship_capacity_principles.md"
+        body = "Chapter Two, Part E, is the constitutional owner of **X**.\n\n### 15. Stewardship\n"
+        text = core(body).replace("# CHAPTER\n", "# CHAPTER 02, PART E: STEWARDSHIP\n", 1)
+        self.assertEqual(self.check(name, text), [])
+        self.assertTrue(any("name 'Part E'" in f for f in self.check(name, text.replace("Chapter Two, Part E,", "Chapter Two, Part C,"))))
+
     def test_chapter_six_part_a_may_omit_part(self):
         body = "Chapter Four is the constitutional owner of **Rights Floors**.\n\n### 1. A\n"
         self.assertEqual(self.check("core_04.000_rights_part_a.md", core(body)), [])

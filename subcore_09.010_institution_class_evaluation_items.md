@@ -37,7 +37,7 @@ An Institution decides a great deal for those who depend on it, and it has every
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients who depend on an Institution can trust its certified status;
     - [Continuity](core_00.000_preamble.md#continuity): what an Institution rewards is tested for long-horizon harm as well as short-term results;
 - Chapter Two principles:
-  - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
+  - [§17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline);
   - [§19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes);
 - Chapter Four Articles:
   - [Article XIII-A](core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*).
@@ -103,7 +103,7 @@ Every certification pass evaluates these eight items, under [Subcore 9-B §4 Who
      - who actually directs the holder;
      - what the holder is paid and promoted for;
      - what the holder has verifiably done in the function; and
-     - whether anyone, the holder included, who made a [protected report](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) or refused an unlawful or unconstitutional instruction ([Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist)) was penalized for it.
+     - whether anyone, the holder included, who made a [protected report](subcore_03.070_band_accountability.md#protected-reporting-whistleblowing) or refused an unlawful or unconstitutional instruction ([Chapter Two §16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist)) was penalized for it.
    - Staff who hold no covered office are not checked one by one. The staff safeguards check ([Chapter Five §7.6 Staff Safeguards Check](core_05.000_charters.md#76-staff-safeguards-check)) covers them, and the forums test it against observed operation in the same way. It asks whether:
      - the Institution's appointment, pay, promotion, and removal rules do not reward working against its stated purpose;
      - a protected reporting route exists, and no staff member who used it, or who refused an unlawful or unconstitutional instruction, has been penalized; and

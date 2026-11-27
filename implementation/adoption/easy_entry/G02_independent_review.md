@@ -50,7 +50,7 @@ See: [Article XXIV](../../../core_04.030_rights_part_d.md#article-xxiv-comprehen
 ## What this will not pretend to give you
 
 - A promise that every complaint wins, or that the other side is always wrong.
-- A markdown working group that calls itself independent review ([Chapter Two §17.4](../../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization)).
+- A markdown working group that calls itself independent review ([Chapter Two §16.4](../../../core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization)).
 - Enforcement against a host or office that has not agreed to follow this Constitution ([Chapter Twenty-Five §5](../../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority)).
 
 ## If you want to look further

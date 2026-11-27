@@ -46,7 +46,7 @@ This kit does **not**:
 - Count as [Chapter Twenty-Three §12](../../core_23.000_amendment_ratification.md#12-ratification-and-adoption) adoption or [Chapter Twenty-Five](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) incorporation
 - Create a constitutional status named proto-adoption, adoption-track, or scaled-cooperation
 - Let *n* markdown declarations, a mutual compact note, or “we follow it” practice claim constitutional protection while dodging matching obligations
-- Bind host products, operators, vendors, or other non-consenting parties ([Chapter Two §17.4](../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization))
+- Bind host products, operators, vendors, or other non-consenting parties ([Chapter Two §16.4](../../core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization))
 - Create a Chapter Fourteen Standing Record, a Chapter Eight system alignment certification, or a Merits Determination
 - Staff forum families, invent a multi-party “forum” as ceremony, or treat standing scores as sentience status ([Article XX-A](../../core_04.030_rights_part_d.md#article-xx-a-standing-distinction))
 - Authorize [Chapter Twenty-Three §12.3](../../core_23.000_amendment_ratification.md#123-joining-by-additional-parties) joining (the template in [§5](#5-joining-rule-template-for-103-not-live-rules) is **not** published existing-adopter joining rules)
@@ -66,7 +66,7 @@ This kit does **not**:
 
 **Polity-scale note.** When the adopter is a jurisdiction or polity, [Chapter Twenty-Three §12.1](../../core_23.000_amendment_ratification.md#121-deliberate-adoption) also requires a published affected-sentient participation check (contested election, sortition, federated ratification, or another [Chapter Twenty-One §3.2](../../core_21.000_governance.md#32-eligibility-contested-selection-and-democratic-minimums)-compliant path). Organizations, system operators, and consortia still use the deliberate, documented, auditable path without that polity check. Headcount of cooperating stewards is not that check.
 
-**Same duties for both kinds of steward.** [Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
+**Same duties for both kinds of steward.** [Chapter Two §16.1](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard). Do not invent an AI-only overlay. Do not exempt humans.
 
 ```text
 n parties sit the fitness screen (separate files, same edition pin)

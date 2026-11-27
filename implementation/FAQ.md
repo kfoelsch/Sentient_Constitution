@@ -47,7 +47,7 @@ See: [README — What counts as the Constitution](../README.md#binding-vs-suppor
 
 No. Human and AI stewards share one standard. Do not invent an AI-only overlay. Do not exempt humans from the costly cases.
 
-See: [Chapter Two §17.1](../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard); [§17.2 Alignment Under Pressure](../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure); [Shared stewardship](STEWARD_ENTRY_DOORS.md#shared-stewardship).
+See: [Chapter Two §16.1](../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard); [§16.2 Alignment Under Pressure](../core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure); [Shared stewardship](STEWARD_ENTRY_DOORS.md#shared-stewardship).
 
 ### 8. What is the Rights Floor?
 

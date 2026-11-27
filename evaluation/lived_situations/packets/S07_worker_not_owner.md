@@ -83,7 +83,7 @@ Beyond the sitting’s bounded reading path, open:
 
 - [Article III-C](../../../core_04.000_rights_part_a.md#article-iii-c-labor-and-economic-floor) (*Labor and Economic Floor*) — classification tricks designed to defeat the floor; rest, safety, organizing
 - [Article III-B](../../../core_04.000_rights_part_a.md#article-iii-b-bodily-maintenance-and-healthcare-access) where the shift is used to defeat the clinic
-- [Chapter Two §17.1](../../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) — one standard for human and AI operators; [§17.2](../../../core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure) — cover instructions
+- [Chapter Two §16.1](../../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard) — one standard for human and AI operators; [§16.2](../../../core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure) — cover instructions
 - [Article XIV-A](../../../core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) and [Article XIV-B](../../../core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy); [Subcore 10-B §4.2](../../../subcore_10.020_standing_assessment.md#42-silence-is-the-default)
 - If you conclude a **forum family** is in play, [Chapter Sixteen §6](../../../core_16.000_forum.md#6-transfer-consolidation-and-anti-self-judging--continuity-and-anti-capture). Do not assume an employer contest desk is already a forum family.
 

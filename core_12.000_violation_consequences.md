@@ -76,9 +76,9 @@ Punishment alone leaves the harmed sentient unrepaired and the cause in place. T
     - [Continuity](core_00.000_preamble.md#continuity): stopping harm from recurring protects shared systems;
 - Chapter Two principles:
   - [§6.1 Correction and Remedy](core_02.000_values_principles.md#61-correction-and-remedy);
-  - [§13.1.3 Proportionality](core_02.020_interaction_interpretation.md#1313-proportionality);
-  - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
-  - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
+  - [§12.1.3 Proportionality](core_02.020_interaction_interpretation.md#1213-proportionality);
+  - [§12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle);
+  - [§16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist);
 - Chapter Four Articles:
   - [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
   - [Article XX-D](core_04.030_rights_part_d.md#article-xx-d-violations-and-standing-locks) (*Violations and Standing Locks*);
@@ -693,14 +693,14 @@ This rule fills the attachment fields as follows:
 
 *In plain terms: giving or following an instruction that requires unlawful or unconstitutional conduct is itself violation conduct, for human operators and AI stewards alike.*
 
-This rule applies [Chapter Two §17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist) to standing effects. The duty, who it binds, and its sequence (instruction received → refuse → document → escalate) are stated there. The refusal is logged as an inspectable, attributable action.
+This rule applies [Chapter Two §16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist) to standing effects. The duty, who it binds, and its sequence (instruction received → refuse → document → escalate) are stated there. The refusal is logged as an inspectable, attributable action.
 
 - **Gated pathway / finding:**
   - Giving, passing along, approving, or enforcing an instruction to do something unlawful or unconstitutional is a violation in its own right, and it is measured on its own.
   - Following such an instruction is also a violation if the one following it had a real ability to refuse. Being told to do it is no excuse, and neither is a superior's offer to take the blame.
 - **Risk:** continuation of unlawful or unconstitutional harm through obedience, chain-of-command, or contractual cover.
 - **Protected subjects or interests:** those who would be harmed by compliance, and the integrity of lawful gated pathways.
-- **Corrective conditions:** the same for human operators and AI stewards under [Chapter Two §17.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard); this rule is not an AI-only test.
+- **Corrective conditions:** the same for human operators and AI stewards under [Chapter Two §16.1 Shared Stewardship Standard](core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard); this rule is not an AI-only test.
 - **Review route and reassessment:** resistance, reporting, and escalation records feed lock and remedy design under [§4.1 Definition and Attachment](#41-definition-and-attachment); contribution cannot excuse the underlying instruction conduct. Verified failures record on the same Chapter Ten Contribution and Violation axes for both kinds of steward.
 
 <a id="444-collective-accountability"></a>

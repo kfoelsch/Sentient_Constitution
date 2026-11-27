@@ -55,8 +55,8 @@ A constitution with many parts can be played off against itself: one rule cited 
     - [Flourishing](core_00.000_preamble.md#flourishing): the rules work together for sentients, not against them;
     - [Continuity](core_00.000_preamble.md#continuity): a coherent whole holds together as the text grows;
 - Chapter Two principles:
-  - [§15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
-  - [§12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement).
+  - [§14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle);
+  - [§18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement).
 
 ---
 
@@ -183,7 +183,7 @@ A constitution with many parts can be played off against itself: one rule cited 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7); [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7); [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process).
 - Owner floor: [Chapter Twenty-One §6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility) (27.000 §6.1) (*Political-equality floor for foundational constitutional choice*; *Durable political-voice floor*); [Article X-B: Governance Participation and Voting Entitlement](core_04.010_rights_part_b.md#article-x-b-governance-participation-and-voting-entitlement).
 - Cluster component: [*Constitutional Contract Layer and Foundational Constitutional Choice*](subcore_03.080_band_integrative.md#constitutional-contract-layer)
 - Read with:
@@ -242,7 +242,7 @@ A constitution with many parts can be played off against itself: one rule cited 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7); [§16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth).
+- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7); [§15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth).
 - Owner floor:
   - [Chapter Twenty-One §3 Authorization and Legitimacy of Governing Authority](core_21.000_governance.md#3-authorization-and-legitimacy-of-governing-authority) (27.000 §3);
   - [Chapter Twenty-One §3.1 Mechanism Families, Auditability, and Pluralism](core_21.000_governance.md#31-mechanism-families-auditability-and-pluralism) (27.000 §3.1);
@@ -394,7 +394,7 @@ A constitution with many parts can be played off against itself: one rule cited 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1); [Article XXVIII-B](core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
+- Downstream: Principles: [Chapter Two §14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle) (2.030 §14.1); [Article XXVIII-B](core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
 - Read with:
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy),
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
@@ -460,9 +460,9 @@ A constitution with many parts can be played off against itself: one rule cited 
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Downstream: Principles:
-  - [Chapter Two §13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (2.020 §13) (*the process that resolves collisions*);
-  - [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5);
-  - [Chapter Two §14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override) (2.020 §14);
+  - [Chapter Two §12 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) (2.020 §12) (*the process that resolves collisions*);
+  - [Chapter Two §12.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5);
+  - [Chapter Two §13 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#13-prohibition-on-absolute-override) (2.020 §13);
   - [Article XXVII-B](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
 - Read with:
   - [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint),
@@ -508,7 +508,7 @@ A constitution with many parts can be played off against itself: one rule cited 
   - **Primary failure:** Non-compliant when:
     - a collision is claimed to avoid a requirement that can in fact be honored alongside the other;
     - a collision rests on barriers the operator built for its own benefit, as with infeasibility under [Feasibility](subcore_03.070_band_accountability.md#feasibility);
-    - a material collision is resolved outside the [Chapter Two §13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process), or without the [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record) that process requires; or
+    - a material collision is resolved outside the [Chapter Two §12 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process), or without the [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record) that process requires; or
     - a collision is used to remove a requirement entirely, to hollow a Tetrad leg below what material stake requires, or to let one value override the rest.
 
     A collision label or record that does not change how the collision is actually decided is also non-compliant.
@@ -522,7 +522,7 @@ A constitution with many parts can be played off against itself: one rule cited 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (2.020 §13.1.5) (*the minimum contents of the Constitutional Collision Record*); [Article XXVII-B](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
+- Downstream: Principles: [Chapter Two §12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle) (2.020 §12.1.5) (*the minimum contents of the Constitutional Collision Record*); [Article XXVII-B](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment) (*Rights-Collision Procedure and Restorative Alignment*).
 - Read with:
   - [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision),
   - [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record),
@@ -541,14 +541,14 @@ A constitution with many parts can be played off against itself: one rule cited 
 The short form for **Constitutional Collision Record** in this Constitution is **Collision Record**.
 
 - **What it is**
-  - **In scope:** The attributable, versioned official account of how a material [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) was resolved. It is carried by the [Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) of the [materially binding act](subcore_03.070_band_accountability.md#materially-binding-act) that resolves the collision, and it holds the reasoning elements that [Chapter Two §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) requires:
+  - **In scope:** The attributable, versioned official account of how a material [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) was resolved. It is carried by the [Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) of the [materially binding act](subcore_03.070_band_accountability.md#materially-binding-act) that resolves the collision, and it holds the reasoning elements that [Chapter Two §12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle) requires:
     - the operative rule and the facts that triggered it;
     - the alternatives considered, including non-action, with reasons for rejection;
     - the evidence and how uncertainty was handled;
     - the basis for selecting the chosen option; and
     - the review triggers.
 
-    Each Collision Record is an [Essential Record](subcore_03.070_band_accountability.md#essential-record). Its required elements and links must be preserved in the Essential Record backups, with the applicable access limits. A Collision Record may be embodied in an applicable process-specific official record, such as a Forum Case Record, a Standing Record, a System Certification Record, or a [Stakeholder Rights-Collision Record](subcore_03.090_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice). No duplicative standalone artifact is required where the required elements remain identifiable, linked, versioned, preserved, and accessible through the official record path. Confidentiality limits on a Collision Record follow [Chapter Two §13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints): maximum feasible partial disclosure, plus independent reviewer access.
+    Each Collision Record is an [Essential Record](subcore_03.070_band_accountability.md#essential-record). Its required elements and links must be preserved in the Essential Record backups, with the applicable access limits. A Collision Record may be embodied in an applicable process-specific official record, such as a Forum Case Record, a Standing Record, a System Certification Record, or a [Stakeholder Rights-Collision Record](subcore_03.090_band_participation.md#stakeholder-rights-collision-record-binding-stakeholder-choice). No duplicative standalone artifact is required where the required elements remain identifiable, linked, versioned, preserved, and accessible through the official record path. Confidentiality limits on a Collision Record follow [Chapter Two §12.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#122-epistemic-disclosure-constraints): maximum feasible partial disclosure, plus independent reviewer access.
   - **Depends on:** [Constitutional Collision](subcore_03.080_band_integrative.md#constitutional-collision) (what is being resolved) and [Materially Binding Act Record](subcore_03.070_band_accountability.md#materially-binding-act-record) (the Constitutional Collision Record that carries it).
   - **Out of scope:** A bare conclusion, a template filled without the required elements, or a rationale written after the fact that the official record does not support is not a Collision Record. A Collision Record does not itself decide the collision, and it does not become a [Standing Record](subcore_03.070_band_accountability.md#standing-record), merits determination, or forum record unless the applicable process independently makes it one.
 <a id="constitutional-collision-record-a"></a>
@@ -580,7 +580,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §15.1.2 Derived-Information Principle](core_02.030_constitutional_interpretation.md#1512-derived-information-principle) (2.030 §15.1.2); [Chapter Two §13.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination) (2.020 §13.2.3).
+- Downstream: Principles: [Chapter Two §14.1.2 Derived-Information Principle](core_02.030_constitutional_interpretation.md#1412-derived-information-principle) (2.030 §14.1.2); [Chapter Two §12.2.3 Privacy and Informational Self-Determination](core_02.020_interaction_interpretation.md#1223-privacy-and-informational-self-determination) (2.020 §12.2.3).
 - Read with:
   - [Privacy (Informational)](subcore_03.075_band_continuity.md#privacy-informational),
   - [Protected Internal-State Boundary](subcore_03.075_band_continuity.md#protected-internal-state-boundary),
@@ -617,7 +617,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - **Primary failure:** Non-compliant when:
     - covered derived information is handled at a lower protection level than what it reveals;
     - a de-identified, aggregate, or pooled label is relied on while re-identification or reconstruction remains reasonably possible, without the relying party showing otherwise;
-    - a derivation is split across systems, actors, or time so that each step passes while the whole reveals the protected result, contrary to the [Chapter Two §15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle); or
+    - a derivation is split across systems, actors, or time so that each step passes while the whole reveals the protected result, contrary to the [Chapter Two §14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle); or
     - a derived-information label or review that does not change how the output is actually handled is used in place of the discipline.
 
 ---
@@ -629,7 +629,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §15.3 Ambiguity Resolution](core_02.030_constitutional_interpretation.md#153-ambiguity-resolution) (2.030 §15.3); [Chapter Two §15.4.1 Integrated Reading](core_02.030_constitutional_interpretation.md#1541-integrated-reading) (2.030 §15.4.1); [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (2.030 §15.4.3).
+- Downstream: Principles: [Chapter Two §14.3 Ambiguity Resolution](core_02.030_constitutional_interpretation.md#143-ambiguity-resolution) (2.030 §14.3); [Chapter Two §14.4.1 Integrated Reading](core_02.030_constitutional_interpretation.md#1441-integrated-reading) (2.030 §14.4.1); [Chapter Two §14.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1443-incorporation-layer) (2.030 §14.4.3).
 - Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy), [Proportionality](subcore_03.070_band_accountability.md#proportionality), and [Necessity](subcore_03.070_band_accountability.md#necessity).
 
 </details>
@@ -640,7 +640,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 
 - **What it is**
   - **In scope:** Preferring a reading of this Constitution, or of incorporated text, because it is the most restrictive, demanding, or severe one available. It is abstract when the added strictness does not trace to greater protective effect for affected sentients under the integrated reading. Two cases count: picking the most restrictive reading of an ambiguous passage, and presenting severity as protective effect.
-  - **Out of scope:** A reading chosen because it has the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect), including under the rules in [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer). A requirement written in strong terms, such as a Rights-Floor minimum, is not abstract strictness merely for being strong.
+  - **Out of scope:** A reading chosen because it has the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect), including under the rules in [Chapter Two §14.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1443-incorporation-layer). A requirement written in strong terms, such as a Rights-Floor minimum, is not abstract strictness merely for being strong.
 <a id="abstract-strictness-a"></a>
 - **How to measure and assess**
   - **Primary measure:** [Accountability measurement family](subcore_03.040_apex_accountability_leg.md#measuring-accountability) — *Do reward structures, market power, and answerability keep duties real?* Use it here to ask whether a party who prefers a more restrictive reading can show the protective effect that justifies it.
@@ -665,7 +665,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §15.3 Ambiguity Resolution](core_02.030_constitutional_interpretation.md#153-ambiguity-resolution) (2.030 §15.3); [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (2.030 §15.4.3); [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4).
+- Downstream: Principles: [Chapter Two §14.3 Ambiguity Resolution](core_02.030_constitutional_interpretation.md#143-ambiguity-resolution) (2.030 §14.3); [Chapter Two §14.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1443-incorporation-layer) (2.030 §14.4.3); [Chapter Two §14.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §14.4.4).
 - Read with: [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness), [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy), and [Chapter Twenty-Four §5.2 Stricter External Protections](core_24.000_expansion_supremacy.md#52-stricter-external-protections) (30.000 §5.2).
 
 </details>
@@ -676,8 +676,8 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 
 - **What it is**
   - **In scope:** The standard for choosing between two or more readings of this Constitution, or between two or more incorporated or implementation rules that apply to the same materially scoped obligation or risk. The choice with the Fullest Protective Effect is the one that, taken as an integrated whole, preserves the strongest protective, safety, accountability, and traceability requirements for that obligation or risk. It governs:
-    - the ambiguity rule in [Chapter Two §15.3 Ambiguity Resolution](core_02.030_constitutional_interpretation.md#153-ambiguity-resolution);
-    - the incorporation-layer rules in [Chapter Two §15.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1543-incorporation-layer), including the choice among incorporated texts, the clearly adopted baseline when custody records are unreliable, and the choice between adopted implementation files; and
+    - the ambiguity rule in [Chapter Two §14.3 Ambiguity Resolution](core_02.030_constitutional_interpretation.md#143-ambiguity-resolution);
+    - the incorporation-layer rules in [Chapter Two §14.4.3 Incorporation Layer](core_02.030_constitutional_interpretation.md#1443-incorporation-layer), including the choice among incorporated texts, the clearly adopted baseline when custody records are unreliable, and the choice between adopted implementation files; and
     - every implementation-file rule that says which of two overlapping requirements, profiles, or classes governs.
   - **Out of scope:** [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness), which is severity with no added protection. Also out of scope are the levels of review in [Heightened Scrutiny](subcore_03.085_band_oversight.md#heightened-scrutiny), and the relation between this Constitution and stricter external law, which [Chapter Twenty-Four §5.2 Stricter External Protections](core_24.000_expansion_supremacy.md#52-stricter-external-protections) governs.
 <a id="fullest-protective-effect-a"></a>
@@ -732,11 +732,11 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 
 - Downstream: Accountability measurement family (*Incentive alignment and proxy integrity as constitutional measurement*); Principles:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) (tetrad capture discipline under
-  - [Chapter Two §18](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18);
+  - [Chapter Two §17](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17);
   - [material stake](core_00.000_preamble.md#material-stake) scaling);
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) and
-  - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18).
+  - [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17).
 - Principle-layer rule:
   - [Chapter Two §19.1 Alignment Requirement](core_02.050_governance_incentive_application.md#191-alignment-requirement) (2.050 §19.1) and
   - [Chapter Two §19.2 Convenient Proxies and Proxy Divergence](core_02.050_governance_incentive_application.md#192-convenient-proxies-and-proxy-divergence) (2.050 §19.2); stewardship and operator application:
@@ -933,7 +933,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 - Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.080_band_integrative.md#incentive-alignment-semi-independent)
 - Read with:
   - [Incentive Alignment](subcore_03.080_band_integrative.md#incentive-alignment);
-  - [Chapter Two §18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties) (2.050 §18.3) (*the other half of the pair*);
+  - [Chapter Two §17.3 Separation of Duties](core_02.050_governance_incentive_application.md#173-separation-of-duties) (2.050 §17.3) (*the other half of the pair*);
   - [Auditability](subcore_03.085_band_oversight.md#auditability);
   - [Contestability](subcore_03.070_band_accountability.md#contestability).
 
@@ -949,7 +949,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
     - **What they may not monopolize:** the practical ability to detect, review, correct, or interpret material constitutional failure.
     - **What must remain available:** plural and structurally independent oversight pathways where [material stake](core_00.000_preamble.md#material-stake) requires them.
     - **Limits:** lawful security and confidentiality limits still apply; they must preserve maximum feasible [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability).
-    - **Paired rule:** this is the many-eyes half of a pair with [Chapter Two §18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties): plurality keeps oversight from being cornered by one actor; separation of duties keeps it from being performed by the actor under review.
+    - **Paired rule:** this is the many-eyes half of a pair with [Chapter Two §17.3 Separation of Duties](core_02.050_governance_incentive_application.md#173-separation-of-duties): plurality keeps oversight from being cornered by one actor; separation of duties keeps it from being performed by the actor under review.
   - **Out of scope:**
     - capture that has already taken hold — that is [System Capture](subcore_03.075_band_continuity.md#system-capture) and [Chapter Two §19.3.1 Capture Escalation Triggers](core_02.050_governance_incentive_application.md#1931-capture-escalation-triggers); and
     - correction once a failure is verified — that is [Chapter Two §19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response).
@@ -978,9 +978,9 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 - Cluster component: [Incentive Alignment, Proxy Integrity, and Contingent Settlement](subcore_03.080_band_integrative.md#incentive-alignment-semi-independent)
 - Read with:
   - [Misalignment Detection](subcore_03.080_band_integrative.md#misalignment-detection);
-  - [Chapter Two §16.3 Openness Aspiration](core_02.040_stewardship_capacity_principles.md#163-openness-aspiration) (2.040 §16.3);
+  - [Chapter Two §15.3 Openness Aspiration](core_02.040_stewardship_capacity_principles.md#153-openness-aspiration) (2.040 §15.3);
   - [Auditability](subcore_03.085_band_oversight.md#auditability);
-  - [Chapter Two §13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) (2.020 §13.2).
+  - [Chapter Two §12.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#122-epistemic-disclosure-constraints) (2.020 §12.2).
 
 </details>
 
@@ -992,8 +992,8 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - **In scope:** The default that governance-relevant information stays open to inspection and verification:
     - **When it applies:** where [material stake](core_00.000_preamble.md#material-stake) calls for it and the applicable information-type rules permit it.
     - **What must stay available:** governance-relevant data, audit paths, and review tools, accessible to materially affected sentients. They must not be locked inside a single operator, vendor, or oversight bloc.
-    - **What this default favors:** inspectable processes, contestable official records, and independent verification, consistent with [Chapter Two §16.3 Openness Aspiration](core_02.040_stewardship_capacity_principles.md#163-openness-aspiration).
-    - **Subject to:** [Chapter Two §13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) and [Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*). These include Type N (data that is non-accessible by default) and other classification limits on what may be collected, published, retained, or reconstructed.
+    - **What this default favors:** inspectable processes, contestable official records, and independent verification, consistent with [Chapter Two §15.3 Openness Aspiration](core_02.040_stewardship_capacity_principles.md#153-openness-aspiration).
+    - **Subject to:** [Chapter Two §12.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#122-epistemic-disclosure-constraints) and [Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*). These include Type N (data that is non-accessible by default) and other classification limits on what may be collected, published, retained, or reconstructed.
   - **Out of scope:** disclosure that information-type rules forbid. Openness is a default that yields to those limits, not a way around them.
 <a id="open-systems-data-and-auditing-a"></a>
 - **How to measure and assess**
@@ -1056,7 +1056,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
 
 - Constitutional frame: **Integrative** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: **Oversight**, **Accountability**, and **Participation** — authority stack spans all Tetrad legs.
-- Chapter Two basis: Chapter Two §15.1, §6, Chapter Two §13.2, §19.2, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §14.1, §6, Chapter Two §12.2, §19.2, §16 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Auditability](subcore_03.085_band_oversight.md#auditability),
   - [Contestability](subcore_03.070_band_accountability.md#contestability),
@@ -1117,7 +1117,7 @@ See **Anti-Segmentation Principle**.
   - [20. Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (corpus read as integrated whole);
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **oversight** leg;
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) — **Continuity** aim under incorporation and custody;
-  - [15. Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation) (binding source identification).
+  - [14. Constitutional Interpretation](core_02.030_constitutional_interpretation.md#14-constitutional-interpretation) (binding source identification).
 - Downstream: [Chapter Twenty-Five — Incorporation bridge](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) (*which adopted **implementation text** text is binding, edition pinning, custody chain, and anti-drift discipline*).
 - Read with: [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) and [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint).
 - Read with: [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (*positive domain→owner map*, sections 6–11).
@@ -1167,10 +1167,10 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [15. Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation); [20. Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (Authority Stack vs Internal Hierarchy read-with Chapter Two).
+- Downstream: Principles: [14. Constitutional Interpretation](core_02.030_constitutional_interpretation.md#14-constitutional-interpretation); [20. Integrated Application](core_02.050_governance_incentive_application.md#20-integrated-application) (Authority Stack vs Internal Hierarchy read-with Chapter Two).
 - Downstream:
-  - [Chapter Two — §15 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation) (2.030 §15) (integrated reading and last-resort hierarchy);
-  - [Chapter Two §15.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution) (2.030 §15.4) (*single conflict procedure, including incorporation layer*);
+  - [Chapter Two — §14 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#14-constitutional-interpretation) (2.030 §14) (integrated reading and last-resort hierarchy);
+  - [Chapter Two §14.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#144-constitutional-meaning-conflict-resolution) (2.030 §14.4) (*single conflict procedure, including incorporation layer*);
   - [Chapter Twenty-Four — Internal Hierarchy for Adopters](core_24.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) (30.000);
   - [Chapter Twenty-Five](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (31.000) (*incorporation bridge — custody, editions, adoption; not a second stack or conflict-order home*).
 - Downstream: [Chapter Four — Owner Non-Relocation](core_04.000_rights_part_a.md#22-owner-non-relocation) (4.000); [Chapter Twenty-Two §7 Work This Chapter Leaves to Other Chapters](core_22.000_non_regression.md#7-work-this-chapter-leaves-to-other-chapters) (28.000 §7) (*owner non-relocation applied locally*); chapter opening owner statements across the numbered `core_*` text.
@@ -1198,7 +1198,7 @@ See **Anti-Segmentation Principle**.
 
     **Authority Stack:** the ordered source-of-authority framework governing constitutional interpretation, adoption effect, and layer status across constitutional, incorporated, and support layers.
 
-    **Internal Hierarchy:** the last-resort interpretive ordering rule that resolves genuine residual incompatibility within the binding constitutional source after integrated reading under [Chapter Two — §15 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation) has been exhausted. Within that source:
+    **Internal Hierarchy:** the last-resort interpretive ordering rule that resolves genuine residual incompatibility within the binding constitutional source after integrated reading under [Chapter Two — §14 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#14-constitutional-interpretation) has been exhausted. Within that source:
     - Chapter Two principles govern high-level constitutional direction;
     - article-level obligations and Rights Floors govern specific operative requirements;
     - principles control over articles only for genuine residual incompatibility; and
@@ -1242,7 +1242,7 @@ See **Anti-Segmentation Principle**.
     **Primary assessment:**
     - First identify the operative edition/custody chain and source layer under the Authority Stack.
     - Then identify the owner home in the [Chapter One — constitutional owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) (and the chapter opening owner claim); apply substance only from that owner home — elsewhere use pointers only.
-    - Then apply integrated reading under [Chapter Two — §15 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation).
+    - Then apply integrated reading under [Chapter Two — §14 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#14-constitutional-interpretation).
     - Preserve the Constitution's [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) and the [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) non-contraction default.
     - Use Internal Hierarchy only as a last-resort residual rule; do not use it to replace ordinary integrated reading or to resolve mere disagreement over canonical term meaning.
     - Where the dispute is term meaning, the Chapter Three canonical definition governs at every layer.
@@ -1266,8 +1266,8 @@ See **Anti-Segmentation Principle**.
     - recast a question as one of process, governance, or implementation in order to narrow, redefine, or move [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) Rights Floors contrary to [Chapter Twenty-Two](core_22.000_non_regression.md) non-regression and the Chapter Four opening contract;
     - invent parallel taxonomies or workflows in non-owner layers when the [Chapter One owner register](core_01.000_constitutional_map.md#6-principles-definitions-and-rights) already assigns a canonical home;
     - claim supremacy or compliance in a way that inverts the established source hierarchy, or lets implementation, support text, private ordering, emergency framing, or operational practice displace binding corpus obligations within their valid scope;
-    - use Internal Hierarchy as a shortcut to pick a harsher reading, to shrink [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) Rights-Floor protections outside what [Chapter Two](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation) expressly allows, or to swap one source layer for another in ordinary reading;
-    - treat Chapter Three definitions as a rival body of law that overrides principles or articles ([Chapter Two — §15 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation)); or
+    - use Internal Hierarchy as a shortcut to pick a harsher reading, to shrink [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) Rights-Floor protections outside what [Chapter Two](core_02.030_constitutional_interpretation.md#14-constitutional-interpretation) expressly allows, or to swap one source layer for another in ordinary reading;
+    - treat Chapter Three definitions as a rival body of law that overrides principles or articles ([Chapter Two — §14 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#14-constitutional-interpretation)); or
     - for adopters, treat adopted implementation text as overriding this Constitution within the scope of adoption, or as relaxing [Chapter Twenty-Two](core_22.000_non_regression.md) non-regression floors ([Internal Hierarchy for Adopters](core_24.000_expansion_supremacy.md#51-internal-hierarchy-for-adopters) in **Chapter Thirty**).
 
 ---
@@ -1279,7 +1279,7 @@ See **Anti-Segmentation Principle**.
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Chapter Two §2.1 Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (2.000 §2.1); [Chapter Two §13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (2.020 §13).
+- Upstream: Principles: [Chapter Two §2.1 Non-Negotiable Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth) (2.000 §2.1); [Chapter Two §12 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) (2.020 §12).
 - Read with:
   - [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint),
   - [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint),

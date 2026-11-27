@@ -22,13 +22,13 @@
   - [Tetrad Leg Decomposition](#tetrad-leg-decomposition); Timeliness-implementing leaf definitions in
   - [subcore_03.070_band_accountability.md](subcore_03.070_band_accountability.md).
 - Downstream: Principles:
-  - [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16);
-  - [Chapter Two §17 Consequential Stewardship](core_02.040_stewardship_capacity_principles.md#17-consequential-stewardship-the-steward-role) (2.040 §17); Chapter Two Part B tradeoff and interpretation homes:
-  - [Chapter Two §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (2.020 §13.1.5);
-  - [Chapter Two §13.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1321-preservation-of-epistemic-integrity) (2.020 §13.2.1);
-  - [Chapter Two §13.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#133-minimization-of-avoidable-burden) (2.020 §13.3);
-  - [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1);
-  - [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4).
+  - [Chapter Two §15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth) (2.040 §15);
+  - [Chapter Two §16 Consequential Stewardship](core_02.040_stewardship_capacity_principles.md#16-consequential-stewardship-the-steward-role) (2.040 §16); Chapter Two Part B tradeoff and interpretation homes:
+  - [Chapter Two §12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle) (2.020 §12.1.5);
+  - [Chapter Two §12.2.1 Preservation of Epistemic Integrity](core_02.020_interaction_interpretation.md#1221-preservation-of-epistemic-integrity) (2.020 §12.2.1);
+  - [Chapter Two §12.3 Minimization of Avoidable Burden](core_02.020_interaction_interpretation.md#123-minimization-of-avoidable-burden) (2.020 §12.3);
+  - [Chapter Two §14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle) (2.030 §14.1);
+  - [Chapter Two §14.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §14.4.4).
 - Read with:
   - [Capture of Resolution Pathways](subcore_03.075_band_continuity.md#capture-of-resolution-pathways),
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),

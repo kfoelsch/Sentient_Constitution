@@ -123,8 +123,8 @@ A violation can be serious in its own right and also attack the system of protec
     - [Flourishing](core_00.000_preamble.md#flourishing): the protections every sentient relies on are defended;
     - [Continuity](core_00.000_preamble.md#continuity): naming the gravest harm protects the constitutional order over time;
 - Chapter Two principles:
-  - [§15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
-  - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
+  - [§14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle);
+  - [§16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist);
   - [§19.3.1 Capture Escalation Triggers](core_02.050_governance_incentive_application.md#1931-capture-escalation-triggers);
 - Chapter Four Articles:
   - [Article XXI-A](core_04.030_rights_part_d.md#article-xxi-a-justice-objective-and-scope) (*Justice Objective and Scope*);

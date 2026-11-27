@@ -37,7 +37,7 @@ An Institution is often more powerful than any one sentient it affects, and it h
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients can rely on an Institution's certified status;
     - [Continuity](core_00.000_preamble.md#continuity): failings are found and corrected before they spread to the Institution's Systems;
 - Chapter Two principles:
-  - [§18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline);
+  - [§17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline);
 - Chapter Four Articles:
   - [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);
   - [Article XIII-A](core_04.010_rights_part_b.md#article-xiii-a-non-capture-safeguards) (*Non-Capture Safeguards*).

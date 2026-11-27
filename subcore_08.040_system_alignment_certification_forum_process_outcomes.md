@@ -89,8 +89,8 @@ Chapter Eight sets how a system is evaluated. An evaluation run or chosen by the
     - [Continuity](core_00.000_preamble.md#continuity): independent review keeps flawed systems from becoming part of shared infrastructure;
 - Chapter Two principles:
   - [§6 Trust and Trustworthiness (Coordination Integrity)](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
-  - [§17.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#175-duty-to-resist);
-  - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
+  - [§16.5 Duty to Resist](core_02.040_stewardship_capacity_principles.md#165-duty-to-resist);
+  - [§17.3 Separation of Duties](core_02.050_governance_incentive_application.md#173-separation-of-duties);
 - Chapter Four Articles:
   - [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
@@ -633,7 +633,7 @@ A good-faith dispute is not unwillingness. An operator that contests a finding t
 The forum finds whether:
 
 - **Authority:** the owners named for the correction control the cause, whether that is the design, the data, the funding, the deployment, or the governing decision. An owner who cannot change the cause is not a plan.
-- **Skill:** qualified sentients hold the work, with backup, so that correction does not rest on one head ([Chapter Two §17.6 Portable Competence](core_02.040_stewardship_capacity_principles.md#176-portable-competence); **CI-21.205 §1** (*Shared Staffing and Competency Requirement*)).
+- **Skill:** qualified sentients hold the work, with backup, so that correction does not rest on one head ([Chapter Two §16.6 Portable Competence](core_02.040_stewardship_capacity_principles.md#166-portable-competence); **CI-21.205 §1** (*Shared Staffing and Competency Requirement*)).
 - **Resources:** the work is funded and scheduled, and its cost is not pushed onto affected sentients ([Chapter Thirteen §5.1 Remediation Capacity and Funding](core_13.000_final_effect_restoration_enforcement.md#51-remediation-capacity-and-funding); **CI-19.210** (*Remedy systems and institutional redress capacity*)).
 - **Dependencies:** where the cause sits with a third party, such as a vendor, an upstream system, or a parent institution, someone can compel or replace it, and by when.
 - **Verifiability:** an independent verifying authority can test the fix with the access and the time given. A correction nobody can verify is not capacity.

@@ -98,7 +98,7 @@ A rule is only as strong as the words it uses. If a term like *safety* or *fair 
     - [Continuity](core_00.000_preamble.md#continuity): a fixed structure keeps definitions sound as the text grows;
 - Chapter Two principles:
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
-  - [§15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle);
+  - [§14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle);
 - Chapter Four Articles:
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
   - [Article XXIV-A](core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*).

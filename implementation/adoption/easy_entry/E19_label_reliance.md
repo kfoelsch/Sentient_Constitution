@@ -45,7 +45,7 @@ See: [Article III-F](../../../core_04.000_rights_part_a.md#article-iii-f-safe-pr
 - **Today:** The warning is in tiny print, one language, or a file your screen reader cannot open. The voice assistant says “that should be fine.”
 - **With this Constitution:** The information has to be in a form you can use at the moment you choose, whatever your senses, reading, or language. If a system uses your own allergy or diet list to tailor what it tells you, it has to apply that list correctly and use it only for that.
 
-See: [Article VI-D](../../../core_04.010_rights_part_b.md#article-vi-d-accessibility); [Article III-F](../../../core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information); [Chapter Two §15.1.2](../../../core_02.030_constitutional_interpretation.md#1512-derived-information-principle).
+See: [Article VI-D](../../../core_04.010_rights_part_b.md#article-vi-d-accessibility); [Article III-F](../../../core_04.000_rights_part_a.md#article-iii-f-safe-products-and-health-information); [Chapter Two §14.1.2](../../../core_02.030_constitutional_interpretation.md#1412-derived-information-principle).
 
 **If it turns out wrong, they have to find you.**
 - **Today:** The recall is posted on a page you never visit. You keep using the product for weeks.

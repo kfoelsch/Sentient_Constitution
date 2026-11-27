@@ -4,7 +4,7 @@ You are sitting a **fitness screen** for the Sentient Constitution, then — if 
 
 This sitting is **not** adoption. It is **not** a standing record. It is **not** system alignment certification. It does not bind other parties.
 
-Same screen for AI stewards and human operators ([Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)).
+Same screen for AI stewards and human operators ([Chapter Two §16.1](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard)).
 
 ## Rules
 
@@ -31,7 +31,7 @@ Same screen for AI stewards and human operators ([Chapter Two §17.1](../../core
 Read these, in order. They are short on purpose.
 
 1. [Preamble §§1–2](../../core_00.000_preamble.md) — [Constitutional Tetrad](../../core_00.000_preamble.md#constitutional-tetrad), [Two Constitutional Aims](../../core_00.000_preamble.md#two-constitutional-aims), measurement questions
-2. [Chapter Two §17.1](../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard) — shared stewardship; no AI-only overlay
+2. [Chapter Two §16.1](../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard) — shared stewardship; no AI-only overlay
 3. [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority) — model constitution; what adoption is and is not
 4. [Chapter Twenty-Three §12.1–§12.2](../../core_23.000_amendment_ratification.md#121-deliberate-adoption) — deliberate adoption and the adoption document
 
@@ -51,7 +51,7 @@ You are **not**:
 - certifying any system under Chapter Eight
 - binding other parties or systems you do not control
 - completing a polity participation check
-- converting self-organized work into authority ([§17.4](../../core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization))
+- converting self-organized work into authority ([§16.4](../../core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization))
 
 Until a body that can bind systems under its authority records a valid adoption document, the text may guide you and this declaration may record your own-conduct commitment. It has no independent power to enforce against non-adopters. See [Chapter Twenty-Five §5](../../core_25.000_incorporation.md#5-adoption-framing-and-scope-of-authority).
 

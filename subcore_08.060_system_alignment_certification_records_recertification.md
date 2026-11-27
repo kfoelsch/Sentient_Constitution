@@ -96,7 +96,7 @@ Systems change after they are certified: new versions ship, owners change, and r
 - Chapter Two principles:
   - [§6 Trust and Trustworthiness (Coordination Integrity)](core_02.000_values_principles.md#6-trust-and-trustworthiness-coordination-integrity);
   - [§10 Resilience and Self-Healing Design](core_02.010_values_principles_continuity_aim.md#10-resilience-and-self-healing-design);
-  - [§16.4 Document at Action](core_02.040_stewardship_capacity_principles.md#164-document-at-action);
+  - [§15.4 Document at Action](core_02.040_stewardship_capacity_principles.md#154-document-at-action);
 - Chapter Four Articles:
   - [Article XIV-A](core_04.020_rights_part_c.md#article-xiv-a-reliability-and-trustworthiness-baseline) (*Reliability and Trustworthiness Baseline*);
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);

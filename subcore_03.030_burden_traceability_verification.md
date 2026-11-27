@@ -76,7 +76,7 @@ The sentient affected by a system usually knows least about how it works, and th
     - [Continuity](core_00.000_preamble.md#continuity): verified compliance keeps shared systems trustworthy;
 - Chapter Two principles:
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
-  - [§16.4 Document at Action](core_02.040_stewardship_capacity_principles.md#164-document-at-action);
+  - [§15.4 Document at Action](core_02.040_stewardship_capacity_principles.md#154-document-at-action);
 - Chapter Four Articles:
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*);
   - [Article XVII-A](core_04.020_rights_part_c.md#article-xvii-a-auditability-and-observable-evidence) (*Auditability and Observable Evidence*).
@@ -176,7 +176,7 @@ Where verification is technically possible but not practically achievable, treat
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Upstream: Principles: [Subcore 3-C, section 5 — Observability of Traceability Requirement](#5-observability-of-traceability-requirement); [Chapter Two, section 6.2 — Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) (2.020).
+- Upstream: Principles: [Subcore 3-C, section 5 — Observability of Traceability Requirement](#5-observability-of-traceability-requirement); [Chapter Two, section 6.2 — Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#122-epistemic-disclosure-constraints) (2.020).
 - Downstream: [Subcore 3-C, section 7 — Compliance Evidence Standard](#7-compliance-evidence-standard); **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**, and **[CS-4.340](corpus_systems/cs_04.340_system_requirements.md#cs-4340-system-requirements)** (*System requirements*) — user-facing capability surfaces, credentials, and information-type handling.
 - Read with: [Chapter Three Clustered Definitions (Foreseeability)](subcore_03.085_band_oversight.md#foreseeability) (S3-M) — design choices that predictably prevent verification under reasonably foreseeable conditions are non-compliant regardless of stated security rationale; [Chapter Three Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) (S3-M) and [Chapter Three Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) (S3-K) — cryptographic and information-type handling must not replace **sections 3**, **4**, or **6**; **Articles VII-A**, **VII-B**, **XVII-A**, and **XVIII-A** where environment-separation constraints are material.
 
@@ -221,7 +221,7 @@ Cryptography and information-type handling must align with the Constitution and 
 - Read with:
   - [Subcore 3-C, section 4 — Definition Traceability Requirement](#4-definition-traceability-requirement) — failure to invoke or correctly apply any materially required
   - **Chapter Three** definition invalidates the associated evaluation, evidence, and compliance determination in full;
-  - [Chapter Two, §13 — Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) (2.020 §13);
+  - [Chapter Two, §12 — Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) (2.020 §12);
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) where scaling affects tradeoffs between sentient wellbeing and long-horizon stability;
   - [Chapter Three Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint) (S3-K),
   - [Chapter Three Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) (S3-M), and
@@ -241,7 +241,7 @@ Sections **4** through **6** set trace, observability, and security limits; this
 - be **observable**, **verifiable**, **complete** relative to required scope, **sustained** across time, and **sufficient** in rigor proportionate to system impact, dependency, and risk to withstand independent audit and adversarial testing
 - use **independent validation** where reasonably achievable; absence must be justified under proportionality constraints
 - comply with **section 6** constraints on evidence generation, disclosure, and verification, including cryptographic and information-type handling where applicable
-- where constitutional values or constraints conflict in the same evaluation, remain consistent with [Chapter Two, §13 — Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process)
+- where constitutional values or constraints conflict in the same evaluation, remain consistent with [Chapter Two, §12 — Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process)
 - for **empirical**, **predictive**, or **causal** claims material to compliance, classification, or governance, reflect **scientific integrity** where proportionate — testable or reviewable methods, documented assumptions and limitations, no suppression of null results or failed replications where they bear on decisions, and conclusions revisable on new evidence
 
 **The following do not meet the burden of proof under section 3:**

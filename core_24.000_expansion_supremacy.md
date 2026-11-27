@@ -93,8 +93,8 @@ New rights and stronger safeguards need an easy way in, so the text can improve 
     - [Continuity](core_00.000_preamble.md#continuity): the Constitution can grow while staying whole;
 - Chapter Two principles:
   - [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth);
-  - [§14 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#14-prohibition-on-absolute-override);
-  - [§15.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#154-constitutional-meaning-conflict-resolution);
+  - [§13 Prohibition on Absolute Override](core_02.020_interaction_interpretation.md#13-prohibition-on-absolute-override);
+  - [§14.4 Constitutional Meaning Conflict Resolution](core_02.030_constitutional_interpretation.md#144-constitutional-meaning-conflict-resolution);
 - Chapter Four Articles:
   - [Article VI](core_04.010_rights_part_b.md#article-vi-equal-basic-rights) (*Equal Basic Rights*);
   - [Article XXVIII-A](core_04.040_rights_part_e.md#article-xxviii-a-non-entrenchment-and-revisability) (*Non-Entrenchment and Revisability*).

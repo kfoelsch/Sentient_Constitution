@@ -146,9 +146,9 @@ A right that cannot be brought before someone independent is only a hope. Disput
   - [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims): [Continuity](core_00.000_preamble.md#continuity), since disputes left open wear down the shared systems sentients depend on;
 - Chapter Two principles:
   - [§3.1 Fairness](core_02.000_values_principles.md#31-fairness): above all, a forum must be fair, or none of this holds;
-  - [§17.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization);
-  - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
-  - [§13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle);
+  - [§16.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization);
+  - [§17.3 Separation of Duties](core_02.050_governance_incentive_application.md#173-separation-of-duties);
+  - [§12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle);
 - Chapter Four Articles:
   - [Article XII-C](core_04.010_rights_part_b.md#article-xii-c-internal-roles-accountability-and-due-process-requirements) (*Internal Roles, Accountability, and Due-Process Requirements*);
   - [Article XIV-B](core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy) (*Right to Redress and Remedy*);
@@ -692,7 +692,7 @@ Where credible evidence indicates **capture**, compromise, coercive control, coo
 
 A claim that a forum family, remedy system, or standing-integration function is under capacity — designed backlog, inaccessible intake, chronic underfunding, chronic milestone failure, or a tripped [Chapter Twelve §3.4 Remedy Parity and Lock Preconditions](core_12.000_violation_consequences.md#34-remedy-parity-and-lock-preconditions) remedy-parity tripwire — is an anti-self-judging matter. The body whose capacity is in question must not be the sole finder of fact on its own capacity.
 - The **Integrity** family is the default lead for capacity-failure claims, with the **section 6** backup pairs applying where Integrity is itself the body in question.
-- Any affected party, protected reporter, or self-organized group under [Chapter Two §17.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#174-aligned-self-organization) may file a capacity-failure claim. It is heard on a Tier B window under **Chapter Seventeen section 5** unless the Forum Case Record shows Tier A stakes.
+- Any affected party, protected reporter, or self-organized group under [Chapter Two §16.4 Aligned Self-Organization](core_02.040_stewardship_capacity_principles.md#164-aligned-self-organization) may file a capacity-failure claim. It is heard on a Tier B window under **Chapter Seventeen section 5** unless the Forum Case Record shows Tier A stakes.
 - The body in question must supply its published [Chapter Twelve §3.4 Remedy Parity and Lock Preconditions](core_12.000_violation_consequences.md#34-remedy-parity-and-lock-preconditions) and **Chapter Seventeen section 5** backlog figures, and may give evidence, but must not control the capacity-failure finding or the corrective order.
 - A capacity-failure finding is a [Chapter Thirteen §5.2 Remedy-System Durability](core_13.000_final_effect_restoration_enforcement.md#52-remedy-system-durability) durability failure. It routes corrective orders to the [primary-stakes](#4-default-venue-and-primary-stakes) family responsible for staffing and funding and, where the pattern is chronic or concealed, opens the ordinary Chapter Ten path.
 

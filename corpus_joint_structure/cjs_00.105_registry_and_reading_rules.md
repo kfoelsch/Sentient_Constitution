@@ -43,7 +43,7 @@
     - **CJS-25.105** (*Drafting contracts and owner-to-CJS seam*),
     - **CJS-3.140** (*oDef Parse Mechanics*), and
     - **CJS-6.105** (*Support roles, hosting independence, and classification alignment*);
-  - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4).
+  - [Chapter Two §14.4.4](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §14.4.4).
 </details>
 
 <br>
@@ -80,14 +80,14 @@ Scope, boundary, and the shared implementation-corpus contract live in **CJS-0.1
 
 - Upstream:
   - [CJS-0.110 §3](cjs_00.110_scope_purpose_boundary_interface.md#cjs-0110-3-shared-implementation-corpus-preamble-contract) (*Shared Implementation-Corpus Preamble Contract*) shared implementation-corpus contract;
-  - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4) combined satisfaction and default reading stack;
+  - [Chapter Two §14.4.4](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §14.4.4) combined satisfaction and default reading stack;
   - [Chapter Twenty-Five](../core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge) (25.000)incorporation discipline and
   - [Chapter Three](../core_03.000_definitions_home.md#chapter-three-foundational-definitions) (3.000) canonical definitions.
 - Downstream: [CJS-0.105 §1 topic-router stable IDs](#cjs-01-topic-router-stable-ids).
 - Read with:
   - **CJS-0.105 §1** (*Cross-File Routing*);
   - **CJS-25.110** (*Specific joint interlocks and shared abstractions*);
-  - [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4);
+  - [Chapter Two §14.4.4](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §14.4.4);
   - [CJS-0.105 §2](#cjs-0105-2-joint-structure-registry) (*Joint Structure Registry*);
   - [CJS-0.105 §3](#cjs-0105-3-stable-identifiers-edition-alignment-and-drafting-notes) (*Stable Identifiers, Edition Alignment, and Drafting Notes*);
   - [CJS-25.105 §8](cjs_25.105_drafting_contracts.md#cjs-25105-8-two-layer-definition-contract-binding-abstraction--owner-detail) (*Two-Layer Definition Contract (Binding Abstraction + Owner Detail)*).
@@ -103,7 +103,7 @@ Do not open the full router table below for ordinary reading. Stay in the primar
 
 **How cross-file topics work**
 
-Apply topics within the default reading stack named in [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*).
+Apply topics within the default reading stack named in [Chapter Two §14.4.4](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*).
 
 - **Start here (primary owner)** — the section that owns the topic's operative rules. A primary owner may be **CJS**, **CS**, **CI**, or **CF**.
 - **Also read (mandatory read-with)** — adopted implementation text sections (and core hooks where listed) that must also be satisfied when the topic materially applies. They complete the topic; they do not replace the primary owner's operative scope.
@@ -112,7 +112,7 @@ If a matter triggers more than one cross-layer topic, apply **every** triggered 
 
 **When joint obligations apply**
 
-Applicability, combined satisfaction, and the [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule for jointly applicable incorporated obligations live in [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.105 §1** (*Cross-File Routing*)). Domain-specific joint rules: **CJS-6.105 §9** (*Boundary between Support Roles and Merits Decisions*)–**CJS-6.105 §11** (*Classification Alignment for Supervised Scope*).
+Applicability, combined satisfaction, and the [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule for jointly applicable incorporated obligations live in [Chapter Two §14.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) and [Chapter Two §14.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1443-incorporation-layer). This section supplies the human path and authoritative maintainer table that identify *which* implementation files the facts require ([non-binding support index: topic router reader index](../doc_architecture/generated/topic_router_reader_index.md); authoritative row table: **CJS-0.105 §1** (*Cross-File Routing*)). Domain-specific joint rules: **CJS-6.105 §9** (*Boundary between Support Roles and Merits Decisions*)–**CJS-6.105 §11** (*Classification Alignment for Supervised Scope*).
 
 **Topic finder**
 
@@ -126,7 +126,7 @@ Use the [non-binding support index: topic router reader index](../doc_architectu
 
 <a id="cjs-01-topic-router-stable-ids"></a>
 
-When implementation text intersects other implementation layers, apply the default reading stack in [Chapter Two §15.4.4](../core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*). Within that stack, read only what **CJS-0.105 §1** (*Topic router (stable IDs)*) routes for the topic.
+When implementation text intersects other implementation layers, apply the default reading stack in [Chapter Two §14.4.4](../core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (*Combined Satisfaction of Jointly Applicable Incorporated Obligations*). Within that stack, read only what **CJS-0.105 §1** (*Topic router (stable IDs)*) routes for the topic.
 
 Router rows are **indicative**, not exhaustive: if a matter triggers multiple rows, apply **all** triggered rows whose scope is materially true.
 
@@ -256,7 +256,7 @@ For sequential reading, follow the previous and next links from the [Joint Struc
 
 **Implementation-label citation hygiene**
 
-When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** clusters, adopters must keep those references traceable and must not use implementation text to weaken them. The [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule between adopted implementation standards on the same risk remains in [Chapter Two §15.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1543-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
+When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** clusters, adopters must keep those references traceable and must not use implementation text to weaken them. The [Fullest Protective Effect](../subcore_03.080_band_integrative.md#fullest-protective-effect) rule between adopted implementation standards on the same risk remains in [Chapter Two §14.4.3 Incorporation Layer](../core_02.030_constitutional_interpretation.md#1443-incorporation-layer) (*Incorporation layer*, including the cross-file Fullest Protective Effect rule).
 
 <details>
 <summary><strong><span style="color: #2563eb;">Reader guidance (non-operative): maintainer and drafting notes</span></strong></summary>
@@ -321,7 +321,7 @@ When **CS**, **CI**, or **CF** cite **oDef** / **CJS-3.105 (*Operational cluster
 
 - **Clock is not a name:** It describes how a window runs (when it starts, keeps running, or stalls) and appears in plain idiom such as "the applicable clock".
 - **Cadence is not a length:** *Review cadence* is the name of the [Chapter Seventeen rule](../core_17.000_forum_families_escalation_timeliness_support.md#review-cadence) that sets the intervals below. It is not itself an interval.
-- **Promptly is not a length:** Where owner text says "promptly" and names no window, it states a duty of diligence. It implies no tier, setting, or window, and it does not excuse delay. Where the duty is review of a measure in force, intake, or notice, the owner text names the window instead (see *Windows with no length* below). Record duties that ask for an Act Record "at the time of the act" follow [Chapter Two §16.4 Document at Action](../core_02.040_stewardship_capacity_principles.md#164-document-at-action), which is a design default for records and not a length.
+- **Promptly is not a length:** Where owner text says "promptly" and names no window, it states a duty of diligence. It implies no tier, setting, or window, and it does not excuse delay. Where the duty is review of a measure in force, intake, or notice, the owner text names the window instead (see *Windows with no length* below). Record duties that ask for an Act Record "at the time of the act" follow [Chapter Two §15.4 Document at Action](../core_02.040_stewardship_capacity_principles.md#154-document-at-action), which is a design default for records and not a length.
 - **Declaration window means the NU-1 incident declaration only:** The enforceability declaration under [Article XXIX-A](../core_04.040_rights_part_e.md#article-xxix-a-phased-adoption-and-rights-floor-continuity) (*Phased Adoption and Rights-Floor Continuity*) is not a declaration window. It is bounded directly by the outer bound of a Tier, as [CI-4.275 §4.4](../corpus_institutions/ci_04.275_adoption_transition_governance_institutional_evolution.md#ci-4275-44-enforcement-readiness-declarations) (*Enforcement-readiness declarations*) states.
 - **Response window means the Chartered Party's window to answer:** It answers a request, a notice, a failed finding, or a classification challenge, and it takes the length of the matching tier's intake target. It is never the time for reviewing a hold or an order. The time to begin that review is the **prompt-review window**, and the time to finish a matter is the matching **tier window**.
 

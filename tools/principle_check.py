@@ -70,7 +70,7 @@ TERM_FAMILIES = {
     "evaluations": "evaluate",
     "evaluation": "evaluate",
 }
-NON_PRINCIPLE_HEADINGS = frozenset({"1", "2", "8", "13", "15", "20"})
+NON_PRINCIPLE_HEADINGS = frozenset({"1", "2", "8", "12", "14", "20"})
 PRINCIPLE_ALIASES: dict[str, tuple[str, ...]] = {
     "2.1": ("safety and truth", "non-negotiable constraints"),
     "3": ("lived wellbeing", "flourishing outcomes"),
@@ -84,12 +84,12 @@ PRINCIPLE_ALIASES: dict[str, tuple[str, ...]] = {
     ),
     "10": ("self-healing recovery", "failure recovery", "degraded operation"),
     "11": ("market concentration", "market power", "anti-concentration", "anti-domination"),
-    "12": ("whole-system evaluation", "systemic scope"),
-    "15.1": ("bypass by label", "requirements follow the act", "substance over labels"),
-    "15.1.1": ("anti-segmentation", "joint assessment", "fragmented assessment"),
-    "16": ("distributed understanding", "document at action", "stewardship capacity"),
-    "17": ("material stewardship", "stewardship role", "consequential stewardship"),
-    "18": ("authorized governance", "governance structure", "authority and answerability"),
+    "18": ("whole-system evaluation", "systemic scope"),
+    "14.1": ("bypass by label", "requirements follow the act", "substance over labels"),
+    "14.1.1": ("anti-segmentation", "joint assessment", "fragmented assessment"),
+    "15": ("distributed understanding", "document at action", "stewardship capacity"),
+    "16": ("material stewardship", "stewardship role", "consequential stewardship"),
+    "17": ("authorized governance", "governance structure", "authority and answerability"),
     "19": ("incentive alignment", "system capture", "misalignment correction"),
     "19.2": ("proxy divergence", "proxy-based decisions", "convenient proxies"),
     "19.4": ("misalignment correction", "capture response", "system capture response"),

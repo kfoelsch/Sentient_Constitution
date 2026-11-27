@@ -17,13 +17,13 @@
   - [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000);
   - [material stake](core_00.000_preamble.md#material-stake) scaling.
 - Downstream: Principles:
-  - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18); Chapter Two Part B tradeoff and interpretation homes:
-  - [Chapter Two §13.1.2 Harm Minimization](core_02.020_interaction_interpretation.md#1312-harm-minimization) (2.020 §13.1.2);
-  - [Chapter Two §13.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle) (2.020 §13.1.5);
-  - [Chapter Two §13.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#132-epistemic-disclosure-constraints) (2.020 §13.2);
-  - [Chapter Two §13.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1324-proxy-divergence-invalidation) (2.020 §13.2.4);
-  - [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1);
-  - [Chapter Two §15.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](core_02.030_constitutional_interpretation.md#1544-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §15.4.4);
+  - [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17); Chapter Two Part B tradeoff and interpretation homes:
+  - [Chapter Two §12.1.2 Harm Minimization](core_02.020_interaction_interpretation.md#1212-harm-minimization) (2.020 §12.1.2);
+  - [Chapter Two §12.1.5 Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle) (2.020 §12.1.5);
+  - [Chapter Two §12.2 Epistemic Disclosure Constraints](core_02.020_interaction_interpretation.md#122-epistemic-disclosure-constraints) (2.020 §12.2);
+  - [Chapter Two §12.2.4 Proxy-Divergence Invalidation](core_02.020_interaction_interpretation.md#1224-proxy-divergence-invalidation) (2.020 §12.2.4);
+  - [Chapter Two §14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle) (2.030 §14.1);
+  - [Chapter Two §14.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations](core_02.030_constitutional_interpretation.md#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations) (2.030 §14.4.4);
   - [Tetrad Leg Decomposition](#oversight-tetrad-leg-decomposition); Oversight-band leaf definitions in
   - [subcore_03.085_band_oversight.md](subcore_03.085_band_oversight.md).
 - Cluster component: [Governance Architecture, Oversight, Dependency, Decentralization, Concentration, Market Structure, and Exit-Path Integrity](subcore_03.070_band_accountability.md#governance-architecture-decentralization-and-concentration).

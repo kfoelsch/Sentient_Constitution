@@ -94,8 +94,8 @@ A constitution that cannot change will fail, and one that can be changed quietly
     - [Continuity](core_00.000_preamble.md#continuity): a fair way to change keeps the text alive without breaking it;
 - Chapter Two principles:
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
-  - [§17.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests);
-  - [§18.4 Ongoing Justification](core_02.050_governance_incentive_application.md#184-ongoing-justification);
+  - [§16.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#167-duty-to-represent-stakeholder-interests);
+  - [§17.4 Ongoing Justification](core_02.050_governance_incentive_application.md#174-ongoing-justification);
 - Chapter Four Articles:
   - [Article XII-A](core_04.010_rights_part_b.md#article-xii-a-stakeholder-system-participation-and-representation) (*Stakeholder System Participation and Representation*);
   - [Article XXVI-B](core_04.030_rights_part_d.md#article-xxvi-b-challenge-rights-and-independent-review) (*Challenge Rights and Independent Review*);
@@ -149,7 +149,7 @@ Every such change follows this chapter in full, including heightened review unde
 - Upstream:
   - [§4](#4-heightened-review-for-rights-affecting-changes) heightened review;
   - [§6](#6-procedural-test-2--procedural-validity-and-publication-integrity) Procedural Test 2 and [Publication Integrity](subcore_03.070_band_accountability.md#publication-integrity);
-  - [Chapter Two §17.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests) (2.040 §17.7) (stewards' duty to those the system affects);
+  - [Chapter Two §16.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#167-duty-to-represent-stakeholder-interests) (2.040 §16.7) (stewards' duty to those the system affects);
   - [Chapter Twenty-Two §4](core_22.000_non_regression.md#4-substantive-test-1--substantive-non-regression-validity) (22.000 §4)Substantive Test 1 and who decides it.
 - Downstream: [§10](#10-provisional-effect-rule) provisional effect; [§3.3](#33-recorded-effectiveness) recorded effectiveness.
 - Read with:
@@ -176,7 +176,7 @@ Any sentient, group, or body may put a proposed change on the Forum Case Record.
 The **Constitutional Forum** takes up a proposal for determination when it has any one of these:
 - sign-off by at least 1% of the electorate for governance voting under [Chapter Twenty-One §6.1 Entitlement and Eligibility](core_21.000_governance.md#61-entitlement-and-eligibility), counted for the community that adopted the text the change would alter;
 - a vote in favor by a majority of the members then seated of any forum, taken in a recorded decision of that forum;
-- a recorded decision in favor by a majority of the stewards then holding the role in one Class A, Class B, or Class C system or institution, made under [Chapter Two §17.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#177-duty-to-represent-stakeholder-interests); or
+- a recorded decision in favor by a majority of the stewards then holding the role in one Class A, Class B, or Class C system or institution, made under [Chapter Two §16.7 Duty to Represent Stakeholder Interests](core_02.040_stewardship_capacity_principles.md#167-duty-to-represent-stakeholder-interests); or
 - the body that holds [governing authority](core_21.000_governance.md#3-authorization-and-legitimacy-of-governing-authority) for the community that adopted the text the change would alter, including an assembly where it holds that authority, puts the change forward by a recorded decision taken under its [documented legitimacy mechanism](subcore_03.080_band_integrative.md#documented-legitimacy-mechanism) and entered on the Forum Case Record.
 
 ##### 3.2.3 Counting Sign-Off

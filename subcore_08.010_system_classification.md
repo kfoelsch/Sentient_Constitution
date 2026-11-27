@@ -70,7 +70,7 @@ If every system carried the full weight of every duty, small and private systems
     - [Flourishing](core_00.000_preamble.md#flourishing): sentients get the most protection where they depend most;
     - [Continuity](core_00.000_preamble.md#continuity): critical shared systems get the strongest care;
   - [material stake](core_00.000_preamble.md#material-stake);
-- Chapter Two principles: [§12 Systemic Evaluation Requirement](core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement);
+- Chapter Two principles: [§18 Systemic Evaluation Requirement](core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement);
 - Chapter Four Articles:
   - [Article I-D](core_04.000_rights_part_a.md#article-i-d-existential-risk-and-ecological-recovery-capacity) (*Existential Risk and Ecological Recovery Capacity*);
   - [Article XIV](core_04.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*).

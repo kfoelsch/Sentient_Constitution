@@ -133,3 +133,28 @@ Machine-checkable editorial rules: [tools/architecture/rule_registry.json](archi
 One-off structural rewrite and migration helpers (Chapter Three cluster inserts, Chapter Four renumbering, corpus splits, O/M/A/C widget attachment, doc_architecture slim-down, etc.) were moved to `archive/tools_retired/` on **2026-06-17** and removed from the tree on **2026-09-24**; recover them from git history (`git log --all -- archive/tools_retired`) if needed. **Do not run** them against the current tree unless you are deliberately replaying history; they can desync the corpus.
 
 For **current** article numbers and titles, use `make reference-audit` or read Chapter Four in `core_06.0*_rights_part_*.md`.
+
+## Mapped section migrations
+
+`tools/section_migration.py` assists with relocating and renumbering sections. It defaults to a read-only dry run. Supply a JSON spec and a report path outside the repository:
+
+```bash
+python3 tools/section_migration.py --root . --spec /tmp/section-move.json --report /tmp/section-move-report.json
+```
+
+A spec lists all part files of the chapter, the top-level section numbers to change, and any blocks to relocate. `start`, `end`, and `before` must each be an exact, unique line; the end line is excluded from the moved block. For example:
+
+```json
+{
+  "chapter_files": ["part_a.md", "part_b.md"],
+  "sections": {"2": {"number": "3", "file": "part_b.md"}, "3": {"number": "2"}},
+  "moves": [{"source": "part_a.md", "destination": "part_b.md", "start": "<a id=\"2-example\"></a>", "end": "END-MARKER", "before": "<a id=\"3-next\"></a>"}],
+  "review_pattern": "Chapter (?:Two|2)"
+}
+```
+
+The tool inventories numbered headings and adjacent explicit anchors by source file, rewrites resolvable Markdown links and matching §-prefixed section-number labels, and relocates the specified block. It reports unlinked citations and ranges in chapter files or lines matching `review_pattern`, plus unresolved local links inside moved blocks. Optional `aliases` maps `file#old-anchor` to a new anchor where a heading's adjacent explicit anchor cannot be derived. Translations, translation drafts, archived and dated evidence, and generated indexes are excluded. After reviewing the plan, `--write` applies it only when tracked files are clean.
+
+The report is a review queue, not proof of completeness. Check bare numbered link labels, unlinked references, non-Markdown data and tool constants, other anchor aliases, section ranges, Mermaid diagrams, reader maps, and front doors manually; regenerate derived files and run the applicable audits. The section-label audit does not check citation sources under `implementation/` or `evaluation/`. Compare operative text before and after with an appropriate obligation inventory or inverse mapping. Run the focused tool checks with `python3 tools/test_section_migration.py`.
+
+The example spec in `tools/section_migration_specs/chapter_two_2026_11_26.json` records the Chapter Two move against its pre-move tree; use a fresh spec for a later move.

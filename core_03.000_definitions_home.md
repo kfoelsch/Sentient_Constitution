@@ -86,8 +86,8 @@ Three rules keep every defined term in one place:
     - [Continuity](core_00.000_preamble.md#continuity): meanings that stay fixed keep the whole text stable over time;
 - Chapter Two principles:
   - [§5 Truth (Epistemic Integrity Constraint)](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint);
-  - [§15.2 Definitional Layer and Required Disciplines](core_02.030_constitutional_interpretation.md#152-definitional-layer-and-required-disciplines);
-  - [§15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle);
+  - [§14.2 Definitional Layer and Required Disciplines](core_02.030_constitutional_interpretation.md#142-definitional-layer-and-required-disciplines);
+  - [§14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle);
 - Chapter Four Articles:
   - [Article XXIV-A](core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right) (*Proportional Comprehensibility Right*);
   - [Article XVII](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) (*Audit, Transparency, and Independent Verification*).
@@ -174,7 +174,7 @@ A **dependent cluster** is a group of definitions that must be met together, ins
 #### 4.1 Joint Invocation and Satisfaction
 If a definition — or any part of one — belongs to a dependent cluster, it may not be applied, satisfied, or judged on its own. When cluster members are pieces of one requirement, all of them must be met. Meeting only some of them is not compliance.
 
-This is the cluster version of the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle): a requirement cannot be split into pieces so that only the convenient pieces are met.
+This is the cluster version of the [Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle): a requirement cannot be split into pieces so that only the convenient pieces are met.
 
 Each cluster shows how this applies to it in a short note labeled **Anti-bypass**. That note:
 - names the cluster's parts, called its *compartments*;
@@ -652,7 +652,7 @@ A dependent cluster adds a head before its members. The head says when the clust
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
-- Downstream: Principles: [Chapter Two §15.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#151-constitutional-no-bypass-principle) (2.030 §15.1); [Article XXVIII-B](core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
+- Downstream: Principles: [Chapter Two §14.1 Constitutional No-Bypass Principle](core_02.030_constitutional_interpretation.md#141-constitutional-no-bypass-principle) (2.030 §14.1); [Article XXVIII-B](core_04.040_rights_part_e.md#article-xxviii-b-periodic-revalidation-and-transparent-change) (*Periodic Revalidation and Transparent Change*) (anti-bypass floor on constitutional change).
 - Read with:
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy),
   - [Accountability](subcore_03.040_apex_accountability_leg.md#accountability),
@@ -733,11 +733,11 @@ A dependent cluster adds a head before its members. The head says when the clust
   - [Stakeholder Weight](subcore_03.090_band_participation.md#stakeholder-weight),
   - [Article XII](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*),
   - [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment), and
-  - [Chapter Two §13.1.5](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
+  - [Chapter Two §12.1.5](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5).
 - Layer: **Stakeholder System Participation (SSP)** — voice inside already-authorized systems. Distinct from **Constitutional Contract Layer (CCL)** authorization.
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Accountability** procedural integrity.
-- Chapter Two basis: Chapter Two §15.1, §5.2, §18.4, §15, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §14.1, §5.2, §17.4, §14, §16 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Implementation publication: institutional
   - **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) /
   - **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) files carry local process and weighting substance;
@@ -901,7 +901,7 @@ See **Anti-Segmentation Principle**.
     - protections; or
     - structural duties —
     the **Stakeholder System Participation** record discipline read together with:
-    - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test); and
+    - [Chapter Two §12.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test); and
     - **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*).
   - This Stakeholder Rights-Collision Record is the Stakeholder System Participation instance of the [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements, and do not narrow them:
     - rights in tension → the operative rule and triggering facts;
@@ -922,7 +922,7 @@ See **Anti-Segmentation Principle**.
     - accepted trade-offs;
     - uncertainty treatment; and
     - review or reversal triggers —
-    consistent with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter Two §13.3 (*Minimization of Avoidable Burden*). Do not treat this list as narrowing **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
+    consistent with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter Two §12.3 (*Minimization of Avoidable Burden*). Do not treat this list as narrowing **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
 - **What must hold**
   - **Primary failure:**
     - a binding stakeholder choice is finalized without a clear written account of how colliding rights were resolved, when those rights effects matter; or

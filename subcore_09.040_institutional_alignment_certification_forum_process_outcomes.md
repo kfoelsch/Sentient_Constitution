@@ -68,7 +68,7 @@ Chapter Nine sets what an institution is evaluated on. The institution has every
     - [Continuity](core_00.000_preamble.md#continuity): independent review keeps captured institutions from holding shared power;
 - Chapter Two principles:
   - [§7.2 Assembly, Collective Organization, and Institutional Formation](core_02.000_values_principles.md#72-assembly-collective-organization-and-institutional-formation);
-  - [§18.3 Separation of Duties](core_02.050_governance_incentive_application.md#183-separation-of-duties);
+  - [§17.3 Separation of Duties](core_02.050_governance_incentive_application.md#173-separation-of-duties);
   - [§19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection);
 - Chapter Four Articles:
   - [Article XI-E](core_04.010_rights_part_b.md#article-xi-e-institutional-formation-and-business-creation) (*Institutional Formation and Business Creation*);

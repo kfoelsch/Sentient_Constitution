@@ -79,7 +79,7 @@ See: [CI-8.210 §4](../../../corpus_institutions/ci_08.210_classification_linked
 
 - **“This isn’t law.”** Correct. It does not override securities, corporate, or banking law ([Chapter Twenty-Four §7](../../../core_24.000_expansion_supremacy.md#7-relation-to-applicable-external-law)).
 
-- **“Founders will shop for a softer stack.”** Extra rules that only the machine has to follow, or a pass so founders can skip the hard duties, do not meet the rule ([Chapter Two §17.1](../../../core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard)). If a founder looks for a looser setup, that is a reason to keep one standard for both — not a reason to let the humans skip those duties.
+- **“Founders will shop for a softer stack.”** Extra rules that only the machine has to follow, or a pass so founders can skip the hard duties, do not meet the rule ([Chapter Two §16.1](../../../core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard)). If a founder looks for a looser setup, that is a reason to keep one standard for both — not a reason to let the humans skip those duties.
 
 ## What this will not pretend to give you
 

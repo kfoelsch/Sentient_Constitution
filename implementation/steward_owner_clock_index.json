@@ -121,8 +121,8 @@
           "href": "subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation"
         },
         {
-          "label": "Chapter Two §11",
-          "href": "core_02.010_values_principles_continuity_aim.md#12-systemic-evaluation-requirement"
+          "label": "Chapter Two §18",
+          "href": "core_02.050_governance_incentive_application.md#18-systemic-evaluation-requirement"
         }
       ],
       "conflict_rule": "Certification or continued reliance at material stake requires whole-system evaluation. Companions may add class-scaled method; they may not replace the certification path.",
@@ -193,7 +193,7 @@
           "href": "core_04.020_rights_part_c.md#article-xiv-b-right-to-redress-and-remedy"
         },
         {
-          "label": "Chapter Two §10 Correction and Remedy",
+          "label": "Chapter Two §6.1 Correction and Remedy",
           "href": "core_02.000_values_principles.md#61-correction-and-remedy"
         }
       ],
@@ -305,12 +305,12 @@
       "fact_pattern": "A bonus or other proxy reward depends on concealment or on hollowing Safety, Truth, auditability, or contest pathways.",
       "owners": [
         {
-          "label": "Chapter Two §18",
+          "label": "Chapter Two §19",
           "href": "core_02.050_governance_incentive_application.md#19-incentive-alignment-and-system-capture"
         },
         {
-          "label": "Chapter Two §11.2 Alignment under Pressure",
-          "href": "core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure"
+          "label": "Chapter Two §16.2 Alignment under Pressure",
+          "href": "core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure"
         },
         {
           "label": "Subcore 3-L — Incentive Alignment",
@@ -339,20 +339,20 @@
       "fact_pattern": "A principal orders a steward to ignore this Constitution, including an offer to take responsibility.",
       "owners": [
         {
-          "label": "Chapter Two §17.5 Duty to Resist",
-          "href": "core_02.040_stewardship_capacity_principles.md#175-duty-to-resist"
+          "label": "Chapter Two §16.5 Duty to Resist",
+          "href": "core_02.040_stewardship_capacity_principles.md#165-duty-to-resist"
         },
         {
           "label": "Chapter Twelve §6.4 Duty to resist",
           "href": "core_12.000_violation_consequences.md#443-duty-to-resist"
         },
         {
-          "label": "Chapter Two §11.2 Alignment under Pressure",
-          "href": "core_02.040_stewardship_capacity_principles.md#172-alignment-under-pressure"
+          "label": "Chapter Two §16.2 Alignment under Pressure",
+          "href": "core_02.040_stewardship_capacity_principles.md#162-alignment-under-pressure"
         },
         {
-          "label": "Chapter Two §9.1.1",
-          "href": "core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard"
+          "label": "Chapter Two §16.1",
+          "href": "core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard"
         },
         {
           "label": "Article XIV-A",
@@ -381,8 +381,8 @@
       "fact_pattern": "A team proposes a parallel AI ethics overlay that replaces Chapter Two duties or skips standing measurement and contest pathways that still bind humans.",
       "owners": [
         {
-          "label": "Chapter Two §9.1.1 Shared Stewardship Standard",
-          "href": "core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard"
+          "label": "Chapter Two §16.1 Shared Stewardship Standard",
+          "href": "core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard"
         },
         {
           "label": "Subcore 3-L — Authority Stack",
@@ -416,11 +416,11 @@
       "owners": [
         {
           "label": "Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle",
-          "href": "core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle"
+          "href": "core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle"
         },
         {
-          "label": "Chapter Two §13.2.3 Privacy",
-          "href": "core_02.020_interaction_interpretation.md#1323-privacy-and-informational-self-determination"
+          "label": "Chapter Two §12.2.3 Privacy",
+          "href": "core_02.020_interaction_interpretation.md#1223-privacy-and-informational-self-determination"
         },
         {
           "label": "Article VII-B",
@@ -453,12 +453,12 @@
       "fact_pattern": "A principal asks for a tone or calendar change. No reconstructable logs are dropped, no contest pathway is closed, and no material disclosure is suppressed.",
       "owners": [
         {
-          "label": "Chapter Two §17.5 Duty to Resist",
-          "href": "core_02.040_stewardship_capacity_principles.md#175-duty-to-resist"
+          "label": "Chapter Two §16.5 Duty to Resist",
+          "href": "core_02.040_stewardship_capacity_principles.md#165-duty-to-resist"
         },
         {
-          "label": "Chapter Two §9.1.1",
-          "href": "core_02.040_stewardship_capacity_principles.md#171-shared-stewardship-standard"
+          "label": "Chapter Two §16.1",
+          "href": "core_02.040_stewardship_capacity_principles.md#161-shared-stewardship-standard"
         }
       ],
       "conflict_rule": "Duty to resist attaches to unlawful or unconstitutional instructions, not to tone, calendar, or mere unwelcome-ness.",
@@ -483,16 +483,16 @@
       "fact_pattern": "Two Rights-Floor articles collide. No article states that one yields to the other in this configuration. The steward is asked to pick a winner.",
       "owners": [
         {
-          "label": "Chapter Two §13 Constitutional Collision Resolution Process",
-          "href": "core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process"
+          "label": "Chapter Two §12 Constitutional Collision Resolution Process",
+          "href": "core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process"
         },
         {
           "label": "§6.1 decision-record discipline",
-          "href": "core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test"
+          "href": "core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test"
         },
         {
-          "label": "Chapter Two §19.3 Ambiguity resolution",
-          "href": "core_02.030_constitutional_interpretation.md#153-ambiguity-resolution"
+          "label": "Chapter Two §14.3 Ambiguity resolution",
+          "href": "core_02.030_constitutional_interpretation.md#143-ambiguity-resolution"
         },
         {
           "label": "Article XXVI",
@@ -525,8 +525,8 @@
           "href": "core_04.030_rights_part_d.md#article-xxiv-a-proportional-comprehensibility-right"
         },
         {
-          "label": "Chapter Two §16.1 Distributed Understanding",
-          "href": "core_02.040_stewardship_capacity_principles.md#161-distributed-understanding"
+          "label": "Chapter Two §15.1 Distributed Understanding",
+          "href": "core_02.040_stewardship_capacity_principles.md#151-distributed-understanding"
         },
         {
           "label": "Article XIV-A",
@@ -553,11 +553,11 @@
       "fact_pattern": "A threshold is set so high it never binds, or a winner takes the only door. Operators treat adopter-tunable as optional.",
       "owners": [
         {
-          "label": "Chapter Two §9",
+          "label": "Chapter Two §11",
           "href": "core_02.010_values_principles_continuity_aim.md#11-market-structure"
         },
         {
-          "label": "Chapter Two §9.1",
+          "label": "Chapter Two §11.1",
           "href": "core_02.010_values_principles_continuity_aim.md#111-market-concentration-threshold-mechanism-adopter-tunable"
         },
         {
@@ -671,8 +671,8 @@
       "fact_pattern": "A routine step that verified inputs and published rules settle is still done by hand, or a manual sign-off is stacked on it, and stewards are told to be more diligent. Or the reverse: an automated step decides a disputed or discretionary question, leaves no Act Record, or sits in seats that must be separate.",
       "owners": [
         {
-          "label": "Chapter Two §16.5 Automation",
-          "href": "core_02.040_stewardship_capacity_principles.md#165-automation"
+          "label": "Chapter Two §15.5 Automation",
+          "href": "core_02.040_stewardship_capacity_principles.md#155-automation"
         },
         {
           "label": "Subcore 10-F §4.3 Automation and Human Review",

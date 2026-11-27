@@ -59,7 +59,7 @@ See: [Article VII-A](../../../core_04.010_rights_part_b.md#article-vii-a-self-ow
 - **Today:** “Crisis” is used to detain you, change your medication, and keep your bank cards and the lease with no date to look again. You were in a clinic for a few days years ago, and they still use that as a reason to keep making your choices for you.
 - **With this Constitution:** Where a mental-health crisis leads to detention, treatment, restraint, or compelled medication, the step has to be the smallest needed, time-limited, independently reviewed, and reversible. Calling it a crisis does not relax those tests. It does not let anyone reconstruct what you think and feel from how you behave.
 
-See: [Article VII-C](../../../core_04.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor); [Chapter Two §13.1.5](../../../core_02.020_interaction_interpretation.md#1315-least-restrictive-time-bounded-and-reviewable-constraint-principle).
+See: [Article VII-C](../../../core_04.010_rights_part_b.md#article-vii-c-health-crisis-and-involuntary-intervention-floor); [Chapter Two §12.1.5](../../../core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle).
 
 ## What you might reasonably object to
 

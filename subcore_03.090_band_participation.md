@@ -679,7 +679,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
 
 - Downstream: Principles:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7);
-  - [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16) (institutional development and distributed competence);
+  - [Chapter Two §15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth) (2.040 §15) (institutional development and distributed competence);
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / dependency scaling).
 - Owner floor:
@@ -757,7 +757,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
 
 - Downstream: Principles:
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7);
-  - [Chapter Two §16 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#16-stewardship-in-depth) (2.040 §16) (institutional development and distributed competence);
+  - [Chapter Two §15 Stewardship in Depth](core_02.040_stewardship_capacity_principles.md#15-stewardship-in-depth) (2.040 §15) (institutional development and distributed competence);
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / dependency scaling).
 - Owner floor:
@@ -920,7 +920,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
 - Downstream: Principles:
   - [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) — **participation** leg;
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7),
-  - [13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), and
+  - [12.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#121-core-tradeoff-principles), and
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) where participation, dependency, and material impact determine the intensity of agency protection.
 - Cluster component: [**Def.P3** *Self-Determination, Meaningful Agency, Expression, Educational Agency, and Volitional Integrity](subcore_03.090_band_participation.md#defp3-self-determination-meaningful-agency-expression-educational-agency-and-volitional-integrity)*, and [§2 *Agency, Consent, and Anti-Coercion](subcore_03.090_band_participation.md#agency-consent-and-anti-coercion) (S3-N §2)*.
@@ -1205,7 +1205,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Upstream: Principles: [Chapter Two §3.1 Fairness](core_02.000_values_principles.md#31-fairness) (2.000 §3.1) — especially [Chapter Two §3.1.2 Benefits and Burdens](core_02.000_values_principles.md#312-benefits-and-burdens) (2.000 §3.1.2).
-- Downstream: Participation measurement family (*Fairness, access, and agency as constitutional measurement*); Principles: [13.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#131-core-tradeoff-principles), [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and Chapter Four nondiscrimination and Rights-Floor guarantees where outcome fairness is material.
+- Downstream: Participation measurement family (*Fairness, access, and agency as constitutional measurement*); Principles: [12.1 Core Tradeoff Principles](core_02.020_interaction_interpretation.md#121-core-tradeoff-principles), [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations), and Chapter Four nondiscrimination and Rights-Floor guarantees where outcome fairness is material.
 - Cluster component: [the dependent cluster *Substantive and Procedural Fairness*](subcore_03.090_band_participation.md#fairness-protected-characteristics-and-nondiscrimination).
 - Read with:
   - [Protected Characteristics](subcore_03.090_band_participation.md#protected-characteristics),
@@ -1274,7 +1274,7 @@ Operational mechanics — registration, [System Charter](subcore_03.075_band_con
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Upstream: Principles: [Chapter Two §3.1 Fairness](core_02.000_values_principles.md#31-fairness) (2.000 §3.1) — especially [Chapter Two §3.1.3 Fair Treatment](core_02.000_values_principles.md#313-fair-treatment) (2.000 §3.1.3).
-- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process) and [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5), where process, reasons, and review preserve rights-collision integrity.
+- Downstream: Principles: [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) and [Chapter Two §12.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5), where process, reasons, and review preserve rights-collision integrity.
 - Cluster component: [the dependent cluster *Substantive and Procedural Fairness*](subcore_03.090_band_participation.md#fairness-protected-characteristics-and-nondiscrimination).
 - Read with:
   - [Due Process](subcore_03.070_band_accountability.md#due-process),
@@ -1923,7 +1923,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
       - creating them into environments that predictably will not honor their rights; or
       - [Proxy Divergence](subcore_03.085_band_oversight.md#proxy-divergence) — claimed best-interest or convenience that diverges from the new sentient's actual interests.
     - Large-scale or capacity-driven in-scope creation must also satisfy:
-      - Chapter Two §12 (*Systemic Evaluation Requirement*) non-concentration and productive-capacity rules; and
+      - Chapter Two §18 (*Systemic Evaluation Requirement*) non-concentration and productive-capacity rules; and
       - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility) where later populations are materially affected.
     - Do not treat ordinary pregnancy or childbirth — intended or accidental — as Instantiation Consent non-compliance, and do not use imperfect conditions facing a birthing parent as a substitute for that assessment.
 <a id="instantiation-consent-constitutional-c"></a>
@@ -2017,7 +2017,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7) (**Article XII** (*Stakeholder System Participation, Representation, and Due Process*) stakeholder surface);
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (materiality / dependency scaling for participation);
-  - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18) (participation / standing / anti-capture).
+  - [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17) (participation / standing / anti-capture).
 - Read with:
   - [Stakeholder Status and Weight](subcore_03.090_band_participation.md#stakeholder-status-and-weight);
   - [Governance](subcore_03.070_band_accountability.md#governance);
@@ -2075,7 +2075,7 @@ This nested sub-block is the joint home for **Article VIII-C** (*Derivation, Ins
   - [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7);
   - [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through
   - [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (*Scaling*: materiality and dependency raise the participation floor);
-  - [Chapter Two §18 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#18-governance-under-stewardship-discipline) (2.050 §18) (**Article X** (*Self-Determination, Agency, and Participation*), **Article XII** (*Stakeholder System Participation, Representation, and Due Process*), **Article XX** (*Standing and Participation Status*)).
+  - [Chapter Two §17 Governance under Stewardship Discipline](core_02.050_governance_incentive_application.md#17-governance-under-stewardship-discipline) (2.050 §17) (**Article X** (*Self-Determination, Agency, and Participation*), **Article XII** (*Stakeholder System Participation, Representation, and Due Process*), **Article XX** (*Standing and Participation Status*)).
 - Read with:
   - [Stakeholder](subcore_03.090_band_participation.md#stakeholder);
   - [Stakeholder Status and Weight](subcore_03.090_band_participation.md#stakeholder-status-and-weight);
@@ -2305,7 +2305,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 - Owner floor: [Article XXIII-B](core_04.030_rights_part_d.md#article-xxiii-b-refuge-from-non-compliance) (*Refuge from Non-Compliance*).
-- Downstream: Principles: [13. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (movement, dependency, procedural fairness scaling).
+- Downstream: Principles: [12. Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process); [Subcore 8-B §4 Whole-System Certification Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#4-whole-system-certification-evaluation) (S8-B §4) through [Subcore 8-B §6 Rights-Floor and Domain Evaluations](subcore_08.020_system_alignment_certification_evaluation.md#6-rights-floor-and-domain-evaluations) (movement, dependency, procedural fairness scaling).
 - Cluster component: Movement, refuge, and non-statelessness topic group (see cluster [admission qualifier](#movement-refuge-admission-qualifier) and [recognition vs hosting](#movement-refuge-recognition-vs-hosting)).
 - Read with:
   - [Accountability, Contestability, and Redress Pathways](subcore_03.070_band_accountability.md#accountability-contestability-and-redress-pathways);
@@ -2475,7 +2475,7 @@ How regimes recognize each other across borders — the forms, handoffs, and pro
   - [System Capture](subcore_03.075_band_continuity.md#system-capture), and the
   - [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy) entry.
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: Chapter Two §15.1, §6, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §14.1, §6, §16 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 
 </details>
 
@@ -2680,7 +2680,7 @@ See **Anti-Segmentation Principle**.
 
 This nested sub-block is the joint home for **Animal Life**, **Elevated Communicative Life**, **Contested-Sentient Life**, **Sentience Status Adjudication**, **Sentience-Status Adjudication Record**, and **Sentient** life-by-status treatment definitions within [Def.P1 *Animal Life, Sentient Life, and Sentience Status*](subcore_03.090_band_participation.md#defp1-animal-life-sentient-life-and-sentience-status) — not a separate Def.P cluster.
 
-**Protection levels.** Life-by-status protections stack as follows. [Animal Life](subcore_03.090_band_participation.md#animal-life) is the Level 1 base. [Elevated Communicative Life](subcore_03.090_band_participation.md#elevated-communicative-life) (Level 2) includes Animal Life where Elevated's who-test is met. [Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life) (Level 3) always includes Animal Life and adds threshold-rights / **Article VI-B** (*Sentience-Status Adjudication Floor*) default Chapter Four inclusion under material uncertainty, dispute, or adjudication; it includes Elevated only where Elevated's who-test is met or where more-protective overlap already applies under [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test). [Sentient](subcore_03.090_band_participation.md#sentient) (Level 4) includes Contested-Sentient Life (and thus Animal Life, and Elevated where that protection level applied), plus affirmed who-counts and Chapter Four Rights-Floor attachment. [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) is the status process beside the ladder — determine, revise, narrow, or restore — not itself a protection level.
+**Protection levels.** Life-by-status protections stack as follows. [Animal Life](subcore_03.090_band_participation.md#animal-life) is the Level 1 base. [Elevated Communicative Life](subcore_03.090_band_participation.md#elevated-communicative-life) (Level 2) includes Animal Life where Elevated's who-test is met. [Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life) (Level 3) always includes Animal Life and adds threshold-rights / **Article VI-B** (*Sentience-Status Adjudication Floor*) default Chapter Four inclusion under material uncertainty, dispute, or adjudication; it includes Elevated only where Elevated's who-test is met or where more-protective overlap already applies under [Chapter Two §12.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test). [Sentient](subcore_03.090_band_participation.md#sentient) (Level 4) includes Contested-Sentient Life (and thus Animal Life, and Elevated where that protection level applied), plus affirmed who-counts and Chapter Four Rights-Floor attachment. [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) is the status process beside the ladder — determine, revise, narrow, or restore — not itself a protection level.
 
 **Sub-block members** (read in order for routing):
 
@@ -2748,7 +2748,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - The minimum [Cruelty](subcore_03.070_band_accountability.md#cruelty) / welfare floor:
       - operates independently of whether Chapter Four protection has attached; and
       - is not narrowed by [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing) framing.
-    - **Joint invocation:** Where [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing), Animal Life, [Elevated Communicative Life](subcore_03.090_band_participation.md#elevated-communicative-life), [Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life), and the Chapter Four floor jointly apply, invoke each that fits the facts under the [*Treatment of Life by Status*](subcore_03.090_band_participation.md#treatment-of-life-by-status) stacking rule and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test); where they overlap, the more protective rule governs.
+    - **Joint invocation:** Where [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing), Animal Life, [Elevated Communicative Life](subcore_03.090_band_participation.md#elevated-communicative-life), [Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life), and the Chapter Four floor jointly apply, invoke each that fits the facts under the [*Treatment of Life by Status*](subcore_03.090_band_participation.md#treatment-of-life-by-status) stacking rule and [Chapter Two §12.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test); where they overlap, the more protective rule governs.
     - Evaluate [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions), especially for:
       - large-scale production;
       - experimentation;
@@ -2805,7 +2805,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     The floor:
     - preserves the Animal Life cruelty / welfare floor; and
     - requires heightened priority for preserving the entity's habitat, range, or operating environment in a healthy, life-supporting state, read jointly with [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing), [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions), [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity), and [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*).
-  - **Boundary — contested status:** This protection level does not decide full sentience status and does not attach the Chapter Four Rights-Floor by itself. Where status is live-contested, [Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life) (Level 3) applies; this Elevated floor continues **only** where this protection level's who-test remains met or more-protective overlap already applies under [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test). Status determination routes through [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication).
+  - **Boundary — contested status:** This protection level does not decide full sentience status and does not attach the Chapter Four Rights-Floor by itself. Where status is live-contested, [Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life) (Level 3) applies; this Elevated floor continues **only** where this protection level's who-test remains met or more-protective overlap already applies under [Chapter Two §12.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test). Status determination routes through [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication).
   - **Out of scope:**
     - ordinary Animal Life welfare-floor cases without strong communicative or cognitive indicators supporting this protection level;
     - using this protection level as a permanent substitute for [Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life) or [Sentience Status Adjudication](subcore_03.090_band_participation.md#sentience-status-adjudication) where the official record materially implicates contested or affirmable sentience; or
@@ -2820,7 +2820,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
     - Habitat and environmental-health priority:
       - operates independently of whether Chapter Four protection has attached; and
       - is not narrowed by treating the entity's environment only as extractable stock under [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing) framing.
-    - **Joint invocation:** Where [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing), [Animal Life](subcore_03.090_band_participation.md#animal-life), Elevated Communicative Life, [Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life), and the Chapter Four floor jointly apply, invoke each that fits the facts under the [*Treatment of Life by Status*](subcore_03.090_band_participation.md#treatment-of-life-by-status) stacking rule and [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test); where they overlap, the more protective rule governs.
+    - **Joint invocation:** Where [Natural Systems Standing](subcore_03.090_band_participation.md#natural-systems-standing), [Animal Life](subcore_03.090_band_participation.md#animal-life), Elevated Communicative Life, [Contested-Sentient Life](subcore_03.090_band_participation.md#contested-sentient-life), and the Chapter Four floor jointly apply, invoke each that fits the facts under the [*Treatment of Life by Status*](subcore_03.090_band_participation.md#treatment-of-life-by-status) stacking rule and [Chapter Two §12.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test); where they overlap, the more protective rule governs.
     - Evaluate [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions), especially for:
       - habitat destruction or degradation;
       - noise, chemical, or physical interference with communication systems;
@@ -2864,7 +2864,7 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
 *In plain terms: when sentience status is uncertain or disputed, treat the entity as a threshold-rights case with default inclusion — not as a welfare-only or permanent non-sentient label. Contested-Sentient Life always includes the Animal Life welfare floor; it includes Elevated Communicative Life only where that tier's who-test is met or more-protective overlap already applies.*
 
 - **What it is**
-  - **Protection level:** Level 3 of the [*Treatment of Life by Status*](subcore_03.090_band_participation.md#treatment-of-life-by-status) protection ladder. It **always includes** [Animal Life](subcore_03.090_band_participation.md#animal-life)'s cruelty / welfare floor for every contested entity — not only animals — and adds threshold-rights treatment under uncertainty. It includes [Elevated Communicative Life](subcore_03.090_band_participation.md#elevated-communicative-life) only where Elevated's who-test is met or where more-protective overlap already applies under [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) — not automatically for every contested case.
+  - **Protection level:** Level 3 of the [*Treatment of Life by Status*](subcore_03.090_band_participation.md#treatment-of-life-by-status) protection ladder. It **always includes** [Animal Life](subcore_03.090_band_participation.md#animal-life)'s cruelty / welfare floor for every contested entity — not only animals — and adds threshold-rights treatment under uncertainty. It includes [Elevated Communicative Life](subcore_03.090_band_participation.md#elevated-communicative-life) only where Elevated's who-test is met or where more-protective overlap already applies under [Chapter Two §12.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) — not automatically for every contested case.
   - **In scope — who:** Entities whose sentience status is:
     - uncertain;
     - disputed;
@@ -3266,11 +3266,11 @@ This nested sub-block is the joint home for **Animal Life**, **Elevated Communic
   - [Stakeholder Weight](#stakeholder-weight),
   - [Article XII](core_04.010_rights_part_b.md#article-xii-stakeholder-system-participation-representation-and-due-process) (*Stakeholder System Participation, Representation, and Due Process*),
   - [Article XXVII-B: Rights-Collision Procedure and Restorative Alignment](core_04.040_rights_part_e.md#article-xxvii-b-rights-collision-procedure-and-restorative-alignment), and
-  - [Chapter Two §13.1.5](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5).
+  - [Chapter Two §12.1.5](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5).
 - Layer: **Stakeholder System Participation (SSP)** — voice inside already-authorized systems. Distinct from **Constitutional Contract Layer (CCL)** authorization.
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: integrative with **Accountability** procedural integrity.
-- Chapter Two basis: Chapter Two §15.1, §5.2, §18.4, §15, §17 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §14.1, §5.2, §17.4, §14, §16 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Implementation publication: institutional
   - **CI-4.205 §1** (*Stakeholder Oversight, Notification, and Binding-Governance Pathway Integrity*) /
   - **CI-4.205 §2** (*Anti-Concentration and Participation-Legitimacy Safeguards*) files carry local process and weighting substance;
@@ -3444,7 +3444,7 @@ See **Anti-Segmentation Principle**.
     - protections; or
     - structural duties —
     the **Stakeholder System Participation** record discipline read together with:
-    - [Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test); and
+    - [Chapter Two §12.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test); and
     - **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*).
   - This Stakeholder Rights-Collision Record is the Stakeholder System Participation instance of the [Constitutional Collision Record](subcore_03.080_band_integrative.md#constitutional-collision-record). Its elements map to the required Collision Record elements, and do not narrow them:
     - rights in tension → the operative rule and triggering facts;
@@ -3465,7 +3465,7 @@ See **Anti-Segmentation Principle**.
     - accepted trade-offs;
     - uncertainty treatment; and
     - review or reversal triggers —
-    consistent with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter Two §13.3 (*Minimization of Avoidable Burden*). Do not treat this list as narrowing **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
+    consistent with **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) and Chapter Two §12.3 (*Minimization of Avoidable Burden*). Do not treat this list as narrowing **Article XXVII-B** (*Rights-Collision Procedure and Restorative Alignment*) where that article imposes additional duties.
 - **What must hold**
   - **Primary failure:**
     - a binding stakeholder choice is finalized without a clear written account of how colliding rights were resolved, when those rights effects matter; or
@@ -3483,7 +3483,7 @@ See **Anti-Segmentation Principle**.
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: §17, Chapter Two §15.1, §6 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: §16, Chapter Two §14.1, §6 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 - Read with: Apply
   - [Coercion and Manipulation](subcore_03.090_band_participation.md#coercion-and-manipulation),
   - [Consent](subcore_03.090_band_participation.md#consent),
@@ -3510,7 +3510,7 @@ See **Anti-Segmentation Principle**.
 - [Volitional Integrity](subcore_03.090_band_participation.md#volitional-integrity);
 - [Freedom (Bounded Agency)](subcore_03.090_band_participation.md#freedom-bounded-agency), where volitional or bounded-agency disciplines materially intersect this cluster.
 
-**Anti-bypass.** Compartments: speech, platform, curricular, and surveillance. Separating them is non-compliant where it preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture. See [§15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle).
+**Anti-bypass.** Compartments: speech, platform, curricular, and surveillance. Separating them is non-compliant where it preserves nominal liberty while defeating substantive agency through coercion, manipulation, or informational capture. See [§14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle).
 
 See **Anti-Segmentation Principle**.
 
@@ -3561,7 +3561,7 @@ See **Anti-Segmentation Principle**.
 - **What must hold**
   - **Primary failure:** Framings that, when materially implicated:
     - preserve nominal choice while defeating informed refusal, proportional participation, or reviewability; or
-    - route material self-governance questions outside **Article X** (*Self-Determination, Agency, and Participation*) without **[Chapter Two §13.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test)** collision resolution.
+    - route material self-governance questions outside **Article X** (*Self-Determination, Agency, and Participation*) without **[Chapter Two §12.1.5 Rights-Collision Procedure](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test)** collision resolution.
 
 ---
 
@@ -3856,7 +3856,7 @@ See **Anti-Segmentation Principle**.
   - [Instantiation Consent](subcore_03.090_band_participation.md#instantiation-consent);
   - [Parent-System Relationship](subcore_03.090_band_participation.md#parent-system-relationship).
 - Constitutional frame: **Participation** leg; **Flourishing** aim (primary); scales with [material stake](core_00.000_preamble.md#material-stake) via [Materiality](subcore_03.085_band_oversight.md#materiality).
-- Chapter Two basis: Chapter Two §7, §7.1, §15.1 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
+- Chapter Two basis: Chapter Two §7, §7.1, §14.1 (see [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map) (3.000) map).
 
 </details>
 
@@ -3885,7 +3885,7 @@ It prevents status, best-interest, and scaling framings from being separated in 
 - [Graduated Capability](subcore_03.090_band_participation.md#graduated-capability) — how participation and rights-exercise scale as capability develops;
 - [Article VIII-D](core_04.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*), as the Rights-Floor owner.
 
-**Anti-bypass.** Compartments: status, care, education, and participation. Separating them is non-compliant where it preserves nominal Rights-Floor attachment while defeating best-interest reasoning or using age proxies to lock out participation. See [§15.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1511-anti-segmentation-principle).
+**Anti-bypass.** Compartments: status, care, education, and participation. Separating them is non-compliant where it preserves nominal Rights-Floor attachment while defeating best-interest reasoning or using age proxies to lock out participation. See [§14.1.1 Anti-Segmentation Principle](core_02.030_constitutional_interpretation.md#1411-anti-segmentation-principle).
 
 See **Anti-Segmentation Principle**.
 
@@ -3899,7 +3899,7 @@ See **Anti-Segmentation Principle**.
 
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
-- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7); [Chapter Two §13.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1315-rights-collision-decision-test) (2.020 §13.1.5) (developing sentient / best-interest read-with **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*)).
+- Downstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7); [Chapter Two §12.1.5 Rights-Collision Decision Test](core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5) (developing sentient / best-interest read-with **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*)).
 - Owner floor: [Article VIII-D](core_04.010_rights_part_b.md#article-viii-d-developing-sentients-best-interest-and-graduated-capability) (*Developing Sentients, Best-Interest, and Graduated Capability*) — *Developing-sentient floor* bullet.
 - Cluster component: [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](subcore_03.090_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability).
 - Read with: the

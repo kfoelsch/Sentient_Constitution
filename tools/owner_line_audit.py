@@ -118,7 +118,7 @@ def strip_markup(line: str) -> str:
     return line.replace("**", "").replace("*", "")
 
 
-def chapter_and_part(name: str) -> tuple[int | None, str | None]:
+def chapter_and_part(name: str, text: str = "") -> tuple[int | None, str | None]:
     m = re.match(r"core_(\d\d)\.\d{3}(?:_([a-e])_|_rights_part_([a-e])\b)?", name)
     if not m:
         # Keep the helper useful for legacy-format audit fixtures and archived samples.
@@ -126,6 +126,12 @@ def chapter_and_part(name: str) -> tuple[int | None, str | None]:
     if not m:
         return None, None
     part = m.group(2) or m.group(3)
+    if part is None:
+        # The live file heading owns its current Part. Registry original_file is
+        # historical and may predate later splits or moves of the same file.
+        heading = re.search(r"^#\s+CHAPTER\s+(\d+),\s*PART\s+([A-Z])\b", text, re.I | re.M)
+        if heading and int(heading.group(1)) == int(m.group(1)):
+            part = heading.group(2)
     if part is None:
         registry = ROOT / "tools/architecture/chapter_numbers.json"
         if registry.is_file():
@@ -177,7 +183,7 @@ def check_core(rel: str, text: str) -> list[str]:
                 "(write 'Chapter Nine is the ...' when no Part or band is named)"
             )
         plain = strip_markup(line).strip()
-        chapter, part = chapter_and_part(name)
+        chapter, part = chapter_and_part(name, text)
         if chapter == 0:
             if not plain.startswith("The Preamble is the constitutional owner of"):
                 findings.append(f"{rel}:{number}: OWNER-OPENING-01: the Preamble line must start 'The Preamble is the constitutional owner of'")
