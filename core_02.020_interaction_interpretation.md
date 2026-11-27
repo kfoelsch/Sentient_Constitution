@@ -1092,7 +1092,13 @@ Where incentive structures act on stewards or operators, this section reinforces
 
 *In plain terms: no single value in this chapter is a trump card — and neither **Flourishing** nor **Continuity** may be pursued at the expense of the other. Wellbeing cannot justify coercion, safety cannot justify indefinite lockdown, trust cannot be kept through lies, and freedom cannot excuse harm to the systems others depend on. No override may hollow the Tetrad's **participation**, **oversight**, **accountability**, or **timeliness** legs below what material stake requires.*
 
-No value defined in this chapter may be used as a universal or unbounded justification for overriding the others — including one of the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) at the expense of the other. All applications remain subject to [§12.1 Core Tradeoff Principles](#121-core-tradeoff-principles), [§12.2 Epistemic Disclosure Constraints](#122-epistemic-disclosure-constraints), and [§12.3 Minimization of Avoidable Burden](#123-minimization-of-avoidable-burden), and must preserve the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) to the level [material stake](core_00.000_preamble.md#material-stake) requires. In particular:
+No value defined in this chapter may be used as a universal or unbounded justification for overriding the others — including one of the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) at the expense of the other. All applications remain subject to:
+
+- [§12.1 Core Tradeoff Principles](#121-core-tradeoff-principles);
+- [§12.2 Epistemic Disclosure Constraints](#122-epistemic-disclosure-constraints); and
+- [§12.3 Minimization of Avoidable Burden](#123-minimization-of-avoidable-burden).
+
+All applications must preserve the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) to the level [material stake](core_00.000_preamble.md#material-stake) requires. In particular:
 - wellbeing must not be used to justify disproportionate coercion or epistemic manipulation
 - safety must not be used to justify indefinite or unbounded restriction
 - trust must not be maintained through falsehood

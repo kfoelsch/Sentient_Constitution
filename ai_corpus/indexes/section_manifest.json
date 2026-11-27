@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-27T04:26:03+00:00",
+  "generated_at": "2026-11-27T04:37:25+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -111,9 +111,9 @@
       ]
     },
     "core_02.020_interaction_interpretation.md": {
-      "total_lines": 1105,
+      "total_lines": 1111,
       "sections": [
-        {"header":"CHAPTER 02, PART C: COLLISION RESOLUTION AND THE OVERRIDE LIMIT","level":1,"line_start":1,"line_end":1105,"anchor":null},
+        {"header":"CHAPTER 02, PART C: COLLISION RESOLUTION AND THE OVERRIDE LIMIT","level":1,"line_start":1,"line_end":1111,"anchor":null},
         {"header":"12. Constitutional Collision Resolution Process","level":3,"line_start":79,"line_end":1043,"anchor":"#12-constitutional-collision-resolution-process"},
         {"header":"12.1 Core Tradeoff Principles","level":4,"line_start":178,"line_end":617,"anchor":"#121-core-tradeoff-principles"},
         {"header":"12.1.1 Necessity","level":5,"line_start":269,"line_end":327,"anchor":"#1211-necessity"},
@@ -130,7 +130,7 @@
         {"header":"12.2.3 Privacy and Informational Self-Determination","level":5,"line_start":815,"line_end":928,"anchor":"#1223-privacy-and-informational-self-determination"},
         {"header":"12.2.4 Proxy-Divergence Invalidation","level":5,"line_start":929,"line_end":980,"anchor":"#1224-proxy-divergence-invalidation"},
         {"header":"12.3 Minimization of Avoidable Burden","level":4,"line_start":981,"line_end":1043,"anchor":"#123-minimization-of-avoidable-burden"},
-        {"header":"13. Prohibition on Absolute Override","level":3,"line_start":1044,"line_end":1105,"anchor":null}
+        {"header":"13. Prohibition on Absolute Override","level":3,"line_start":1044,"line_end":1111,"anchor":null}
       ]
     },
     "core_02.030_constitutional_interpretation.md": {
