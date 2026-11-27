@@ -1487,4 +1487,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand one hundred and eleventh move (Chapter Two application and oversight clarity; 2026-11-26; wording and layout only; uncommitted).** Decision (custodian, asked in session): format the §20 reading, collision, and institutional safeguards references as bullets, and shorten the §19.3 explanation of its relationship to §18.3. Plural detection and separation of duties retain their distinct requirements. Effect on rules: none.
 
+**One thousand one hundred and twelfth move (Safety and Truth in productive capacity; 2026-11-26; wording only; uncommitted).** Decision (custodian, asked in session): consolidate the repeated Safety and Truth entries in §9.1.1 into the existing reference to §2.1, retaining the express prohibition on trading them away. The distinct applications to efficiency and outcome claims remain. Effect on rules: none.
+
 **Next file:** [README.md](README.md)

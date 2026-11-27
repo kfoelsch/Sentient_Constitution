@@ -282,15 +282,13 @@ Systems must preserve productive capacity and, where feasible, expand it when do
 **That obligation:**
 
 - **Stays within:**
-  - Safety;
-  - Truth;
+  - the hard limits in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth): Safety and Truth are never traded away for any other goal;
   - Trust;
   - Freedom;
   - the Chapter Four Rights Floor, including [Article I-A](core_04.000_rights_part_a.md#article-i-a-environmental-preconditions-and-ecological-integrity) (*Environmental Preconditions and Ecological Integrity*):
     - [Ecological Integrity](subcore_03.075_band_continuity.md#ecological-integrity);
     - [Environmental Preconditions](subcore_03.075_band_continuity.md#environmental-preconditions); and
     - [Intergenerational Responsibility](subcore_03.075_band_continuity.md#intergenerational-responsibility).
-  - the hard limits in [§2.1 Non-Negotiable Principle Constraints: Safety and Truth](core_02.000_values_principles.md#21-non-negotiable-principle-constraints-safety-and-truth): Safety and Truth are never traded away for any other goal.
 - **How it is judged:** traced outcomes under **[Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) and [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions)**.
 - **How it is shown:** evidence, not slogans.
 
