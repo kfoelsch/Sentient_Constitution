@@ -71,6 +71,11 @@ Chapter Two, Part D is the constitutional owner of **constitutional interpretati
 
 *In plain terms: read this Constitution as one whole. Chapter Two states values and limits, but those words only count when read with the definition and evidence rules in Chapter Three, including its subcore. If a passage could be read more than one way, choose the reading that best protects sentients and the Constitution as a whole — favoring minimized irreversible harm, truthful understanding, meaningful agency, and stability — not the reading that is merely the most restrictive on paper ([Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness)). Rights in Chapter Four may not be narrowed unless this Constitution clearly allows it.*
 
+**How these sections connect:**
+
+- [§12 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process) governs Constitutional Collisions in operation, including how principles are weighed.
+- §14 Constitutional Interpretation governs how the Constitution is read, including ambiguity and textual or source-layer precedence under [§14.4 Constitutional Meaning Conflict Resolution](#144-constitutional-meaning-conflict-resolution).
+
 Each principle in this chapter applies together with the [Constitutional Tetrad](core_00.000_preamble.md#constitutional-tetrad) and [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims) established in [Preamble §1 The Model](core_00.000_preamble.md#the-model). Where a section materially engages a Tetrad leg or an aim, its Trace says which, and whether its duties scale with [material stake](core_00.000_preamble.md#material-stake).
 
 #### 14.1 Constitutional No-Bypass Principle

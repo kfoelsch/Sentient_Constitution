@@ -1495,4 +1495,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand one hundred and fifteenth move (Chapter Two evaluation placement and migration tooling; 2026-11-26; organization and tooling; uncommitted).** Decision (custodian, asked in session): move Systemic Evaluation Requirement immediately before Incentive Alignment and System Capture, renumber intervening sections, retarget live references and charts, and provide reusable section migration tooling. The evaluation retains its role in assessing Continuity claims. The owner-line audit now reads a current Part heading before falling back to the historical registry filename, so it checks the Part actually named in the file. Effect on constitutional rules: none; this changes placement and references.
 
+**One thousand one hundred and sixteenth move (Collision and interpretation boundary; 2026-11-26; wording only; uncommitted).** Decision (custodian, asked in session): clarify in §14 how §12 governs Constitutional Collisions in operation while §14 governs integrated reading, ambiguity, and textual or source-layer precedence. Effect on rules: none.
+
 **Next file:** [README.md](README.md)

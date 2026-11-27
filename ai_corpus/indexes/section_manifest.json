@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-27T01:53:38+00:00",
+  "generated_at": "2026-11-27T02:46:57+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -134,20 +134,20 @@
       ]
     },
     "core_02.030_constitutional_interpretation.md": {
-      "total_lines": 473,
+      "total_lines": 478,
       "sections": [
-        {"header":"CHAPTER 02, PART D: CONSTITUTIONAL INTERPRETATION","level":1,"line_start":1,"line_end":473,"anchor":null},
-        {"header":"14. Constitutional Interpretation","level":3,"line_start":23,"line_end":473,"anchor":null},
-        {"header":"14.1 Constitutional No-Bypass Principle","level":4,"line_start":76,"line_end":245,"anchor":null},
-        {"header":"14.1.1 Anti-Segmentation Principle","level":5,"line_start":149,"line_end":181,"anchor":"#1411-anti-segmentation-principle"},
-        {"header":"14.1.2 Derived-Information Principle","level":5,"line_start":182,"line_end":245,"anchor":"#1412-derived-information-principle"},
-        {"header":"14.2 Definitional Layer and Required Disciplines","level":4,"line_start":246,"line_end":315,"anchor":"#142-definitional-layer-and-required-disciplines"},
-        {"header":"14.3 Ambiguity Resolution","level":4,"line_start":316,"line_end":348,"anchor":"#143-ambiguity-resolution"},
-        {"header":"14.4 Constitutional Meaning Conflict Resolution","level":4,"line_start":349,"line_end":473,"anchor":"#144-constitutional-meaning-conflict-resolution"},
-        {"header":"14.4.1 Integrated Reading","level":5,"line_start":387,"line_end":394,"anchor":"#1441-integrated-reading"},
-        {"header":"14.4.2 Last-Resort Internal Hierarchy","level":5,"line_start":395,"line_end":406,"anchor":"#1442-last-resort-internal-hierarchy"},
-        {"header":"14.4.3 Incorporation Layer","level":5,"line_start":407,"line_end":426,"anchor":"#1443-incorporation-layer"},
-        {"header":"14.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations","level":5,"line_start":427,"line_end":473,"anchor":"#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations"}
+        {"header":"CHAPTER 02, PART D: CONSTITUTIONAL INTERPRETATION","level":1,"line_start":1,"line_end":478,"anchor":null},
+        {"header":"14. Constitutional Interpretation","level":3,"line_start":23,"line_end":478,"anchor":null},
+        {"header":"14.1 Constitutional No-Bypass Principle","level":4,"line_start":81,"line_end":250,"anchor":null},
+        {"header":"14.1.1 Anti-Segmentation Principle","level":5,"line_start":154,"line_end":186,"anchor":"#1411-anti-segmentation-principle"},
+        {"header":"14.1.2 Derived-Information Principle","level":5,"line_start":187,"line_end":250,"anchor":"#1412-derived-information-principle"},
+        {"header":"14.2 Definitional Layer and Required Disciplines","level":4,"line_start":251,"line_end":320,"anchor":"#142-definitional-layer-and-required-disciplines"},
+        {"header":"14.3 Ambiguity Resolution","level":4,"line_start":321,"line_end":353,"anchor":"#143-ambiguity-resolution"},
+        {"header":"14.4 Constitutional Meaning Conflict Resolution","level":4,"line_start":354,"line_end":478,"anchor":"#144-constitutional-meaning-conflict-resolution"},
+        {"header":"14.4.1 Integrated Reading","level":5,"line_start":392,"line_end":399,"anchor":"#1441-integrated-reading"},
+        {"header":"14.4.2 Last-Resort Internal Hierarchy","level":5,"line_start":400,"line_end":411,"anchor":"#1442-last-resort-internal-hierarchy"},
+        {"header":"14.4.3 Incorporation Layer","level":5,"line_start":412,"line_end":431,"anchor":"#1443-incorporation-layer"},
+        {"header":"14.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations","level":5,"line_start":432,"line_end":478,"anchor":"#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations"}
       ]
     },
     "core_02.040_stewardship_capacity_principles.md": {
