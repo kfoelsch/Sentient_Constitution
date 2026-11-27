@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-27T07:12:29+00:00",
+  "generated_at": "2026-11-27T08:22:04+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -134,20 +134,20 @@
       ]
     },
     "core_02.030_constitutional_interpretation.md": {
-      "total_lines": 478,
+      "total_lines": 477,
       "sections": [
-        {"header":"CHAPTER 02, PART D: CONSTITUTIONAL INTERPRETATION","level":1,"line_start":1,"line_end":478,"anchor":null},
-        {"header":"14. Constitutional Interpretation","level":3,"line_start":23,"line_end":478,"anchor":null},
-        {"header":"14.1 Constitutional No-Bypass Principle","level":4,"line_start":81,"line_end":250,"anchor":null},
-        {"header":"14.1.1 Anti-Segmentation Principle","level":5,"line_start":154,"line_end":186,"anchor":"#1411-anti-segmentation-principle"},
-        {"header":"14.1.2 Derived-Information Principle","level":5,"line_start":187,"line_end":250,"anchor":"#1412-derived-information-principle"},
-        {"header":"14.2 Definitional Layer and Required Disciplines","level":4,"line_start":251,"line_end":320,"anchor":"#142-definitional-layer-and-required-disciplines"},
-        {"header":"14.3 Ambiguity Resolution","level":4,"line_start":321,"line_end":353,"anchor":"#143-ambiguity-resolution"},
-        {"header":"14.4 Constitutional Meaning Conflict Resolution","level":4,"line_start":354,"line_end":478,"anchor":"#144-constitutional-meaning-conflict-resolution"},
-        {"header":"14.4.1 Integrated Reading","level":5,"line_start":392,"line_end":399,"anchor":"#1441-integrated-reading"},
-        {"header":"14.4.2 Last-Resort Internal Hierarchy","level":5,"line_start":400,"line_end":411,"anchor":"#1442-last-resort-internal-hierarchy"},
-        {"header":"14.4.3 Incorporation Layer","level":5,"line_start":412,"line_end":431,"anchor":"#1443-incorporation-layer"},
-        {"header":"14.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations","level":5,"line_start":432,"line_end":478,"anchor":"#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations"}
+        {"header":"CHAPTER 02, PART D: CONSTITUTIONAL INTERPRETATION","level":1,"line_start":1,"line_end":477,"anchor":null},
+        {"header":"14. Constitutional Interpretation","level":3,"line_start":23,"line_end":477,"anchor":null},
+        {"header":"14.1 Constitutional No-Bypass Principle","level":4,"line_start":81,"line_end":249,"anchor":null},
+        {"header":"14.1.1 Anti-Segmentation Principle","level":5,"line_start":154,"line_end":185,"anchor":"#1411-anti-segmentation-principle"},
+        {"header":"14.1.2 Derived-Information Principle","level":5,"line_start":186,"line_end":249,"anchor":"#1412-derived-information-principle"},
+        {"header":"14.2 Definitional Layer and Required Disciplines","level":4,"line_start":250,"line_end":319,"anchor":"#142-definitional-layer-and-required-disciplines"},
+        {"header":"14.3 Ambiguity Resolution","level":4,"line_start":320,"line_end":352,"anchor":"#143-ambiguity-resolution"},
+        {"header":"14.4 Constitutional Meaning Conflict Resolution","level":4,"line_start":353,"line_end":477,"anchor":"#144-constitutional-meaning-conflict-resolution"},
+        {"header":"14.4.1 Integrated Reading","level":5,"line_start":391,"line_end":398,"anchor":"#1441-integrated-reading"},
+        {"header":"14.4.2 Last-Resort Internal Hierarchy","level":5,"line_start":399,"line_end":410,"anchor":"#1442-last-resort-internal-hierarchy"},
+        {"header":"14.4.3 Incorporation Layer","level":5,"line_start":411,"line_end":430,"anchor":"#1443-incorporation-layer"},
+        {"header":"14.4.4 Combined Satisfaction of Jointly Applicable Incorporated Obligations","level":5,"line_start":431,"line_end":477,"anchor":"#1444-combined-satisfaction-of-jointly-applicable-incorporated-obligations"}
       ]
     },
     "core_02.040_stewardship_capacity_principles.md": {
@@ -932,39 +932,38 @@
       ]
     },
     "subcore_03.020_definition_integrity.md": {
-      "total_lines": 329,
+      "total_lines": 320,
       "sections": [
-        {"header":"SUBCORE 3-B: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE","level":1,"line_start":2,"line_end":329,"anchor":"#subcore-3-b-definition-integrity-evasion-and-non-compliance"},
+        {"header":"SUBCORE 3-B: DEFINITION INTEGRITY, EVASION, AND NON-COMPLIANCE","level":1,"line_start":2,"line_end":320,"anchor":"#subcore-3-b-definition-integrity-evasion-and-non-compliance"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":27,"line_end":52,"anchor":null},
         {"header":"2. Why Definition Integrity Exists","level":3,"line_start":53,"line_end":74,"anchor":null},
-        {"header":"3. Definition Integrity and Anti-Evasion Constraints","level":3,"line_start":75,"line_end":129,"anchor":null},
-        {"header":"4. Non-Compliance from Observable System Behavior","level":3,"line_start":130,"line_end":259,"anchor":null},
-        {"header":"4.1 Common Evasion Patterns","level":4,"line_start":178,"line_end":209,"anchor":null},
-        {"header":"4.1.1 Formal Label and Representation Gaming","level":5,"line_start":197,"line_end":209,"anchor":null},
-        {"header":"4.2 Reductive Evasion","level":4,"line_start":210,"line_end":221,"anchor":null},
-        {"header":"4.3 Cross-Component Scope Integrity Constraint","level":4,"line_start":222,"line_end":230,"anchor":null},
-        {"header":"4.4 Cross-System Interaction Integrity Constraint","level":4,"line_start":231,"line_end":238,"anchor":null},
-        {"header":"4.5 Temporal Integrity and Continuity Constraint","level":4,"line_start":239,"line_end":248,"anchor":null},
-        {"header":"4.6 Uncertainty Integrity and Non-Exploitation Constraint","level":4,"line_start":249,"line_end":259,"anchor":null},
-        {"header":"5. Non-Compliance Finding Profiles","level":3,"line_start":260,"line_end":329,"anchor":null},
-        {"header":"5.1 Standing Effects for Already-Certified Systems","level":4,"line_start":288,"line_end":296,"anchor":null},
-        {"header":"5.2 Standing Effects at First Certification","level":4,"line_start":297,"line_end":305,"anchor":null},
-        {"header":"5.3 Standing Effects for Sentients and Institutions","level":4,"line_start":306,"line_end":320,"anchor":null},
-        {"header":"5.4 Operational Constraints","level":4,"line_start":321,"line_end":329,"anchor":null}
+        {"header":"3. Definition Integrity and Anti-Evasion Constraints","level":3,"line_start":75,"line_end":127,"anchor":null},
+        {"header":"4. Non-Compliance from Observable System Behavior","level":3,"line_start":128,"line_end":250,"anchor":null},
+        {"header":"4.1 Common Evasion Patterns","level":4,"line_start":176,"line_end":212,"anchor":null},
+        {"header":"4.1.1 Formal Label and Representation Gaming","level":5,"line_start":200,"line_end":212,"anchor":null},
+        {"header":"4.2 Cross-Component Scope Integrity Constraint","level":4,"line_start":213,"line_end":221,"anchor":null},
+        {"header":"4.3 Cross-System Interaction Integrity Constraint","level":4,"line_start":222,"line_end":229,"anchor":null},
+        {"header":"4.4 Temporal Integrity and Continuity Constraint","level":4,"line_start":230,"line_end":239,"anchor":null},
+        {"header":"4.5 Uncertainty Integrity and Non-Exploitation Constraint","level":4,"line_start":240,"line_end":250,"anchor":null},
+        {"header":"5. Non-Compliance Finding Profiles","level":3,"line_start":251,"line_end":320,"anchor":null},
+        {"header":"5.1 Standing Effects for Already-Certified Systems","level":4,"line_start":279,"line_end":287,"anchor":null},
+        {"header":"5.2 Standing Effects at First Certification","level":4,"line_start":288,"line_end":296,"anchor":null},
+        {"header":"5.3 Standing Effects for Sentients and Institutions","level":4,"line_start":297,"line_end":311,"anchor":null},
+        {"header":"5.4 Operational Constraints","level":4,"line_start":312,"line_end":320,"anchor":null}
       ]
     },
     "subcore_03.030_burden_traceability_verification.md": {
-      "total_lines": 315,
+      "total_lines": 312,
       "sections": [
-        {"header":"SUBCORE 3-C: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION","level":1,"line_start":2,"line_end":315,"anchor":"#subcore-3-c-burden-of-proof-traceability-and-verification"},
+        {"header":"SUBCORE 3-C: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION","level":1,"line_start":2,"line_end":312,"anchor":"#subcore-3-c-burden-of-proof-traceability-and-verification"},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":28,"line_end":59,"anchor":null},
         {"header":"2. Why the Burden of Proof Exists","level":3,"line_start":60,"line_end":81,"anchor":null},
         {"header":"3. Exclusive Enforcement and Burden Allocation","level":3,"line_start":82,"line_end":113,"anchor":null},
         {"header":"4. Definition Traceability Requirement","level":3,"line_start":114,"line_end":148,"anchor":null},
-        {"header":"5. Observability of Traceability Requirement","level":3,"line_start":149,"line_end":186,"anchor":null},
-        {"header":"6. Security-Constrained Observability and Verification Rule","level":3,"line_start":187,"line_end":223,"anchor":null},
-        {"header":"7. Compliance Evidence Standard","level":3,"line_start":224,"line_end":280,"anchor":null},
-        {"header":"8. Relationship to System Alignment Certification","level":3,"line_start":281,"line_end":315,"anchor":null}
+        {"header":"5. Observability of Traceability Requirement","level":3,"line_start":149,"line_end":183,"anchor":null},
+        {"header":"6. Security-Constrained Observability and Verification Rule","level":3,"line_start":184,"line_end":220,"anchor":null},
+        {"header":"7. Compliance Evidence Standard","level":3,"line_start":221,"line_end":277,"anchor":null},
+        {"header":"8. Relationship to System Alignment Certification","level":3,"line_start":278,"line_end":312,"anchor":null}
       ]
     },
     "subcore_03.040_apex_accountability_leg.md": {

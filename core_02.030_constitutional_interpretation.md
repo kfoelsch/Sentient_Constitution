@@ -180,8 +180,7 @@ Where a jointly invoked cluster applies, whole-system evaluations must test anti
 
 This section works with:
 
-- [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns); and
-- [Subcore 3-B §4.2 Reductive Evasion](subcore_03.020_definition_integrity.md#42-reductive-evasion).
+- [Subcore 3-B §4.1 Common Evasion Patterns](subcore_03.020_definition_integrity.md#41-common-evasion-patterns), which includes reductive evasion.
 
 <a id="1412-derived-information-principle"></a>
 ##### 14.1.2 Derived-Information Principle

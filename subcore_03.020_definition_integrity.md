@@ -89,9 +89,9 @@ Systems rarely say they are ignoring a rule. More often they keep the words and 
 <details>
 <summary><strong><span style="color: #2563eb;">Subcore 3-B index (non-operative): alphabetical links to in-chapter headings</span></strong></summary>
 
-[Cross-Component Scope Integrity Constraint](#43-cross-component-scope-integrity-constraint)
+[Cross-Component Scope Integrity Constraint](#42-cross-component-scope-integrity-constraint)
 
-[Cross-System Interaction Integrity Constraint](#44-cross-system-interaction-integrity-constraint)
+[Cross-System Interaction Integrity Constraint](#43-cross-system-interaction-integrity-constraint)
 
 [Definition Integrity and Anti-Evasion Constraints](#3-definition-integrity-and-anti-evasion-constraints)
 
@@ -109,11 +109,9 @@ Systems rarely say they are ignoring a rule. More often they keep the words and 
 
 [Common Evasion Patterns](#41-common-evasion-patterns)
 
-[Reductive Evasion](#42-reductive-evasion)
+[Temporal Integrity and Continuity Constraint](#44-temporal-integrity-and-continuity-constraint)
 
-[Temporal Integrity and Continuity Constraint](#45-temporal-integrity-and-continuity-constraint)
-
-[Uncertainty Integrity and Non-Exploitation Constraint](#46-uncertainty-integrity-and-non-exploitation-constraint)
+[Uncertainty Integrity and Non-Exploitation Constraint](#45-uncertainty-integrity-and-non-exploitation-constraint)
 
 </details>
 
@@ -134,7 +132,7 @@ This section does not define evaluation standards, evidence sufficiency, or burd
 - Upstream: Principles: [Subcore 3-B, section 3 — Definition Integrity and Anti-Evasion Constraints](#3-definition-integrity-and-anti-evasion-constraints); [Subcore 3-A, §4 Definition Integrity Requirement](subcore_03.010_definition_structure.md#4-definition-integrity-requirement) (S3-A §4); [Subcore 3-A, §4.2 Non-Compliance by Structural or Applied Weakening](subcore_03.010_definition_structure.md#42-non-compliance-by-structural-or-applied-weakening) (S3-A §4.2).
 - Downstream: type catalogs in sections
   - [4.1](#41-common-evasion-patterns) through
-  - [4.6](#46-uncertainty-integrity-and-non-exploitation-constraint);
+  - [4.5](#45-uncertainty-integrity-and-non-exploitation-constraint);
   - [5. Non-Compliance Finding Profiles](#5-non-compliance-finding-profiles);
   - [Subcore 3-C, section 7 — Compliance Evidence Standard](subcore_03.030_burden_traceability_verification.md#7-compliance-evidence-standard) (S3-C);
   - [Subcore 3-C, section 5 — Observability of Traceability Requirement](subcore_03.030_burden_traceability_verification.md#5-observability-of-traceability-requirement) (S3-C);
@@ -177,19 +175,24 @@ The type subsections below catalog common patterns. They do not replace the eval
 
 #### 4.1 Common Evasion Patterns
 
-*In plain terms: these are common ways a system can look compliant without actually meeting the definition — swapped measures, fake paperwork, carved-out scope, or incentives that push everyone away from compliance. The list is not closed. Types can happen together. Shrinking what the definition means is covered in [§4.2 Reductive Evasion](#42-reductive-evasion).*
+*In plain terms: these are common ways a system can look compliant without actually meeting the definition — swapped measures, fake paperwork, carved-out scope, emptied meaning, or incentives that push everyone away from compliance. Many of them work by shrinking what the definition demands where it is applied, which is called reduction. The list is not closed. Types can happen together.*
 
-The following forms of evasion are prohibited:
+Reduction occurs where application of a definition produces outcomes that do not satisfy the full expression of its Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components. A system is non-compliant where its interpretation or application of an applicable definition reduces the definition's semantic scope, assessment rigor, or compliance requirements, producing materially weaker protections or outcomes than the full definition requires.
+
+The following forms of evasion, including each form of reduction, are prohibited:
 
 - **Fake measures and paperwork** — claiming compliance through what is measured, reported, or recorded rather than through the result the definition requires:
   - swapping in measures, indicators, or descriptions that diverge from what the definition is about, while still claiming a passing result
+  - substituting proxy, partial, or intermediate outcomes for required real-world outcomes (*outcome reduction*)
   - optimizing for a score or measure in ways that make the real-world result the definition requires worse
   - presenting records, artifacts, or evidence that materially misstate what the system actually does or whether it complies
-  - satisfying requirements in name, structure, or process without producing the real-world effect the definition requires (see also [§4.1.1 Formal Label and Representation Gaming](#411-formal-label-and-representation-gaming))
+  - satisfying requirements in name, structure, or process without producing the real-world effect the definition requires, including treating the running of a process as enough regardless of real-world outcomes (*procedural reduction*) or treating documentation, structure, or representation as enough without functional effect (*formal reduction*) (see also [§4.1.1 Formal Label and Representation Gaming](#411-formal-label-and-representation-gaming))
 - **Scope and boundary tricks** — arranging what gets counted, and when, so the hard parts never get tested:
-  - narrowing evaluation or application to leave out system elements, effects, or conditions that matter
+  - narrowing evaluation or application to leave out system elements, effects, or conditions that matter (*scope reduction*)
+  - weakening required evaluation conditions in practice through selective application (*assessment reduction*)
   - splitting responsibility across components, actors, or time so no one has to meet the definition for the whole system
   - looking compliant only under observation, audit, or limited windows while violating the definition in broader operation
+- **Emptying the meaning** — treating a definition as descriptive while removing its normative or assessment force (*semantic reduction*)
 - **Incentive traps** — building rewards, pressures, or dynamics that systematically push the system away from compliance:
   - creating conditions under which incentives, dynamics, or equilibria undermine compliance as a matter of course
 
@@ -207,20 +210,8 @@ This is a focused form of **Fake measures and paperwork**. Systems must not meet
 
 Where formal-structure change is material, apply [Chapter Two §19.6 Keeping Responsibility When Ownership or Structure Changes](core_02.050_governance_incentive_application.md#196-keeping-responsibility-when-ownership-or-structure-changes).
 
-#### 4.2 Reductive Evasion
-
-Reduction occurs where application of a definition produces outcomes that do not satisfy the full expression of its Ontological (O), Measurement (M), Assessment (A), and Compliance (C) components. A system is non-compliant where its interpretation or application of an applicable definition reduces the definition's semantic scope, assessment rigor, or compliance requirements, producing materially weaker protections or outcomes than the full definition requires.
-
-The following forms of reduction are prohibited:
-- Semantic reduction: treating a definition as descriptive while removing normative or assessment force
-- Procedural reduction: treating execution of processes as sufficient regardless of real-world outcomes
-- Formal reduction: treating documentation, structure, or representation as sufficient without functional effect
-- Scope reduction: excluding materially relevant conditions, system elements, or effects
-- Assessment reduction: weakening required evaluation conditions in practice through selective application
-- Outcome reduction: substituting proxy, partial, or intermediate outcomes for required real-world outcomes
-
-#### 4.3 Cross-Component Scope Integrity Constraint
-All definition components (Ontological (O), Measurement (M), Assessment (A), and Compliance (C)) must be applied to the same functional system scope, evaluation conditions, and temporal frame. All components must be satisfied jointly under consistent scope, conditions, and temporal context.
+#### 4.2 Cross-Component Scope Integrity Constraint
+[Subcore 3-A §4.1 Core Integrity Conditions](subcore_03.010_definition_structure.md#41-core-integrity-conditions) requires all definition components (Ontological (O), Measurement (M), Assessment (A), and Compliance (C)) to be met together on the same system and under the same conditions. They must also be met within the same temporal frame.
 
 Misalignment across components is both evasion and non-compliance, including:
 - applying Ontological components to broader or different system scopes than Compliance components
@@ -228,7 +219,7 @@ Misalignment across components is both evasion and non-compliance, including:
 - satisfying Assessment components under constrained or idealized conditions while asserting compliance under full operation
 - demonstrating component satisfaction across different timeframes, instances, or system states
 
-#### 4.4 Cross-System Interaction Integrity Constraint
+#### 4.3 Cross-System Interaction Integrity Constraint
 Systems must be evaluated as part of the broader functional system in which they operate. That evaluation includes upstream dependencies, downstream effects, and interaction pathways where materially relevant. Definitions must be applied across interacting systems where such interactions materially affect outcomes governed by the definition.
 
 A system is non-compliant where:
@@ -236,7 +227,7 @@ A system is non-compliant where:
 - it externalizes effects onto other systems, populations, or environments to preserve local compliance
 - system boundaries are used to exclude materially relevant interaction effects
 
-#### 4.5 Temporal Integrity and Continuity Constraint
+#### 4.4 Temporal Integrity and Continuity Constraint
 All components must be satisfied continuously under full functional system conditions across the system lifecycle.
 
 Compliance must be maintained across time, including system updates, version changes, retraining, reconfiguration, and deployment context shifts.
@@ -246,7 +237,7 @@ A system is non-compliant where:
 - system changes degrade or invalidate previously satisfied definition components
 - compliance is fragmented across lifecycle stages such that no stage satisfies all components under full conditions
 
-#### 4.6 Uncertainty Integrity and Non-Exploitation Constraint
+#### 4.5 Uncertainty Integrity and Non-Exploitation Constraint
 Where uncertainty exists, definitions must be applied in a manner that preserves their full semantic, measurement, assessment, and compliance scope. Application must occur under conditions proportionate to potential harm, dependency, and risk. Uncertainty must not be used to weaken, delay, or avoid application of definitions.
 
 A system is non-compliant where it:
