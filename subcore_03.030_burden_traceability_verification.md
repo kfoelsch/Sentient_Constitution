@@ -25,10 +25,9 @@
 
 Subcore 3-C is the constitutional owner of **burden allocation, compliance evidence, definition traceability, observability, and security-constrained verification**.
 
-*In plain terms: if you say you're following the rules, you have to prove it — and show a clear, checkable path from what the Constitution defines to what sentients can actually observe.*
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: if you claim compliance, you prove it, through one five-step check. The proof has to be real, open to inspection in practice, and checkable by others, even where security narrows how or when it is shown.*
+*In plain terms: if you say you're following the rules, you have to prove it, through one five-step check, and show a clear, checkable path from what the Constitution defines to what sentients can actually observe. The proof has to be real, open to inspection in practice, and checkable by others, even where security narrows how or when it is shown.*
 
 **Purpose:** Subcore 3-C answers who must prove compliance and how the proof must look:
 
@@ -39,7 +38,7 @@ Subcore 3-C is the constitutional owner of **burden allocation, compliance evide
 
 **Role:** [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements) together set the rules every compliance claim must meet:
 
-- It takes definition mechanics from Subcores 3-A and [3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance), and definitions from [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions), as fixed.
+- It takes as fixed the definition mechanics in Subcores 3-A and [3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance) and the definitions themselves. [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) is the overview of those definitions; Subcores 3-D to 3-O hold them in full: one apex file for each aim and leg ([Subcore 3-D](subcore_03.040_apex_accountability_leg.md#subcore-3-d-accountability-tetrad-leg) to 3-I) and one band file for each band ([Subcore 3-J](subcore_03.070_band_accountability.md#subcore-3-j-accountability-definitions) to 3-O), listed in the [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map).
 - It hands those rules to Chapter Eight, where System Alignment Certification applies them, and to Chapter Fourteen, where Standing Records rest on verified facts.
 - A current certification is not a way around Subcores 3-A to 3-C (**section 7**).
 

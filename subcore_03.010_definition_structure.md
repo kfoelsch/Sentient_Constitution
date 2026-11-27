@@ -29,8 +29,6 @@
 
 Subcore 3-A is the constitutional owner of **definition structure and component alignment**.
 
-*In plain terms: Chapter Three and its subcore are the constitutional definition stack — built (Subcore 3-A), kept honest (Subcore 3-B), checked (Subcore 3-C), and named (Chapter Three). Subcore 3-A builds each definition from linked parts — what a term is (O), how it must be measured and assessed (the measurement register interwoven with assessment, M/A), and what must hold in practice (C). Cross-implementation operational definitions live in the joint-structure family ([CJS-3.105 §1 constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)); they apply Chapter Three terms and do not redefine them.*
-
 ### 1. Purpose, Role, and Scope
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -57,7 +55,7 @@ Subcore 3-A is the constitutional owner of **definition structure and component 
 
 <br>
 
-*In plain terms: this section says what this chapter is for, where it sits among the other chapters, and what it covers and leaves out. The rules for building a definition start in the next section.*
+*In plain terms: Chapter Three and its subcore are the constitutional definition stack — built (Subcore 3-A), kept honest (Subcore 3-B), checked (Subcore 3-C), and named (Chapter Three). Subcore 3-A builds each definition from linked parts — what a term is (O), how it must be measured and assessed (the measurement register interwoven with assessment, M/A), and what must hold in practice (C). Cross-implementation operational definitions live in the joint-structure family ([CJS-3.105 §1 constitutional compass and cluster map](corpus_joint_structure/cjs_03.105_cross_implementation_operational_terms.md#cjs-31-constitutional-compass-and-cluster-map)); they apply Chapter Three terms and do not redefine them.*
 
 **Purpose:** Subcore 3-A sets how every constitutional definition is built. A definition is more than a name. It must say what the term is (Ontological, O), how it is measured (Measurement, M) and assessed (Assessment, A), and what must be true in practice (Compliance, C). The four parts must agree, and all four must be met for the whole system as it actually runs.
 
@@ -66,7 +64,7 @@ Subcore 3-A is the constitutional owner of **definition structure and component 
 - [Chapter Two](core_02.000_values_principles.md#chapter-02-part-a-purpose-and-the-flourishing-aim) states the values and constraints that the definitions serve.
 - [Subcore 3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance) says what it means to fail an applicable definition in practice.
 - [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) says who must prove compliance, and how.
-- [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) holds the canonical definitions, written in the shape set here.
+- [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) is the overview of the canonical definitions. Subcores 3-D to 3-O hold them in full, written in the shape set here: one apex file for each aim and leg ([Subcore 3-D](subcore_03.040_apex_accountability_leg.md#subcore-3-d-accountability-tetrad-leg) to 3-I) and one band file for each band ([Subcore 3-J](subcore_03.070_band_accountability.md#subcore-3-j-accountability-definitions) to 3-O), listed in the [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map).
 - Later enforcement, governance, implementation, measurement, audit, and classification mechanics must comply with the [Constitutional Constraint](subcore_03.080_band_integrative.md#constitutional-constraint) set here.
 
 **Chapter scope:** The chapter covers:
@@ -273,7 +271,11 @@ Definitions must be written so that:
 #### 4.4 Interpretation Rule under Ambiguity
 When a definition can be read in more than one reasonable way, use the reading that keeps its full meaning. That reading governs how the definition is applied. The reading must also keep assessment rigorous, and it must keep the real-world requirements intact.
 
-A definition must not be used to judge or decide compliance if applying it forces a contradiction within the definition, a gap between the scope it states and what actually has to be covered, or a passing result on one part while another required part is sidestepped.
+A definition cannot be used to decide whether a system complies if applying it leads to any of these problems:
+
+- the definition contradicts itself;
+- what the definition says it covers falls short of what actually needs to be covered; or
+- the system passes one part of the definition while another required part is skipped.
 
 A broken definition is non-compliant on its own. That holds even when the system looks like it is behaving fine and even when nothing has gone wrong yet.
 

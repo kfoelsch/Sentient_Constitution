@@ -14,13 +14,11 @@
 
 Subcore 8-A is the constitutional owner of **system classification**: the dimensions and factors a system is classified on, the dependency types (**Dep-A** to **Dep-P**), the impact classes (**Class A**, **Class B**, **Class C**, **Class L**, and **Class P**) and the duties each class carries, and the stewardship criticality levels (**CSS-A** to **CSS-C**) that follow from them. The procedures for recording, disclosing, and challenging a classification stay in the systems corpus.
 
-*In plain terms: this is where the Constitution says how big a system's stakes are. Every system gets an impact class and a dependency type, and the class sets how much scrutiny and duty the system carries everywhere else in the Constitution.*
-
 ---
 
 ### 1. Classification Dimensions and Real-World Application
 
-*In plain terms: first assess dependency, risk, and impact together — then apply that assessment to real operating conditions and escalate to the highest class those conditions require.*
+*In plain terms: this is where the Constitution says how big a system's stakes are. Assess dependency, risk, and impact together, apply that assessment to real operating conditions, and escalate to the highest class those conditions require. Every system gets an impact class and a dependency type, and the class sets how much scrutiny and duty the system carries everywhere else in the Constitution.*
 
 <a id="11-classification-dimensions"></a>
 **1.1. Classification dimensions.**

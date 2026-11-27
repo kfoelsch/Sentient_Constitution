@@ -18,11 +18,9 @@
 
 Chapter Three is the constitutional owner of **foundational definitions**, including the **Authority Stack and Internal Hierarchy** and the **Corpus**.
 
-*In plain terms: this chapter is the dictionary. Every defined term has one official home; later chapters apply those terms, they do not quietly redefine them.*
-
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: this section says what this chapter is for, where it sits beside its subcore files on structure, integrity, and proof, and what it covers and leaves out. The rule that keeps each term in one place follows it.*
+*In plain terms: this chapter is the dictionary. Every defined term has one official home; later chapters apply those terms, they do not quietly redefine them.*
 
 **Purpose:** Chapter Three answers what each foundational term means, including the Authority Stack and Internal Hierarchy and the Corpus, and where its one official home is (**section 2**).
 
@@ -32,6 +30,7 @@ Chapter Three is the constitutional owner of **foundational definitions**, inclu
   - [Subcore 3-A](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements) says how every definition is built;
   - [Subcore 3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance) says what it means to fail an applicable definition; and
   - [Subcore 3-C](subcore_03.030_burden_traceability_verification.md#subcore-3-c-burden-of-proof-traceability-and-verification) says who must prove compliance, and how.
+- Subcores 3-D to 3-O hold every definition in full: one apex file for each aim and leg (3-D to 3-I) and one band file for each band (3-J to 3-O), listed in the [compass](#6-compass-and-definition-map). This chapter is the overview.
 - Later chapters and implementation text apply Chapter Three terms under the rule in **section 2**.
 - [Chapter Four](core_04.000_rights_part_a.md#chapter-four-foundational-rights) holds the Rights Floor. Read it for the rights themselves, then return here for term precision in interpretation, audit, and adjudication.
 
@@ -47,13 +46,6 @@ Two rules govern how another chapter meets a Chapter Three definition once it in
 - how definitions and proof work, stated in one line for each guarantee, with the full rules in the chapter's subcore files (**section 5**);
 - the compass and definition map, with its alphabetical directory, which says where each definition is found (**section 6**); and
 - two complete definitions, one independent definition and one dependent cluster, shown in full as examples of the structure every definition has (**section 7**, which closes the chapter).
-
-Chapter Three is the overview; the full text sits in its subcore files:
-
-- how a definition is built, in Subcore 3-A;
-- what counts as failing an applicable definition, in Subcore 3-B;
-- burden of proof, traceability, and verification, in Subcore 3-C; and
-- every definition in full, in Subcores 3-D to 3-O: one apex file for each aim and leg (3-D to 3-I) and one band file for each band (3-J to 3-O), listed in the [compass](#6-compass-and-definition-map).
 
 <a id="2-canonical-home-and-non-duplication-rule"></a>
 <a id="2-why-definitions-have-one-home"></a>
@@ -113,15 +105,14 @@ This subsection has six parts:
 - [§3.1.1 Required Invocation](#311-required-invocation);
 - [§3.1.2 Traceability of Invoked Definitions](#312-traceability-of-invoked-definitions);
 - [§3.1.3 Full Satisfaction](#313-full-satisfaction);
-- [§3.1.4 Consistency with Other Definitions](#314-consistency-with-other-definitions);
-- [§3.1.5 Selective Invocation Is Evasion](#315-selective-invocation-is-evasion); and
-- [§3.1.6 No Fragmentation of Compliance](#316-no-fragmentation-of-compliance).
+- [§3.1.4 Consistency with Other Definitions](#314-consistency-with-other-definitions); and
+- [§3.1.5 Selective Invocation and Fragmentation Are Evasion](#315-selective-invocation-and-fragmentation-are-evasion).
 
 <a id="311-required-invocation"></a>
 ##### 3.1.1 Required Invocation
 *In plain terms: if a definition matters to the case, it has to be used.*
 
-Failing to invoke or correctly apply any materially required Independent Definition invalidates the associated compliance determination.
+When an Independent Definition materially bears on a compliance decision, that decision must use the definition and apply it correctly. A compliance decision that leaves out such a definition, or applies it wrongly, is not valid.
 
 <a id="312-traceability-of-invoked-definitions"></a>
 ##### 3.1.2 Traceability of Invoked Definitions
@@ -134,31 +125,25 @@ All Independent Definitions invoked in system evaluation must appear explicitly 
 - Assessment (A) component; and
 - Compliance (C) component.
 
-Traceability must show how each invoked Independent Definition contributes to observable system behavior and to compliance outcomes under full functional system conditions.
+For each Independent Definition invoked, the traceability mapping must show how that definition connects to what the system can be seen to do and to whether the system complies. It must do so for the system as it actually runs, with all of its functions, not for a narrowed or test-only version.
 
 <a id="313-full-satisfaction"></a>
 ##### 3.1.3 Full Satisfaction
 *In plain terms: meeting part of a definition is not meeting it.*
 
-When an Independent Definition is invoked, it must be satisfied in full across its O, M, A, and C components. That satisfaction must be consistent with [Subcore 3-A §3 Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#3-definition-components-and-joint-satisfaction). Partial satisfaction or selective application is non-compliant.
+Once an Independent Definition is invoked, the system must meet all four of its parts: what the term is (O), how it is measured (M), how it is assessed (A), and what must hold in practice (C). The parts are met together, as [Subcore 3-A §3 Definition Components and Joint Satisfaction](subcore_03.010_definition_structure.md#3-definition-components-and-joint-satisfaction) requires. Meeting only some parts, or applying only the parts that suit, is non-compliance.
 
 <a id="314-consistency-with-other-definitions"></a>
 ##### 3.1.4 Consistency with Other Definitions
 *In plain terms: a definition is read together with the others that apply to the same system, at the same time, under the same conditions.*
 
-Independent Definitions must still be applied consistently with all applicable definitions under shared functional system scope, evaluation conditions, and temporal context. [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) and [§4 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) require that consistency.
+An Independent Definition stands on its own, but it is not applied in isolation. It must agree with every other definition that applies to the same system, judged on the same functions, under the same evaluation conditions, and at the same point in time. [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) and [§4 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) require this.
 
-<a id="315-selective-invocation-is-evasion"></a>
-##### 3.1.5 Selective Invocation Is Evasion
-*In plain terms: choosing which definitions to use so as to get a better answer is evasion.*
+<a id="315-selective-invocation-and-fragmentation-are-evasion"></a>
+##### 3.1.5 Selective Invocation and Fragmentation Are Evasion
+*In plain terms: picking which definitions to use so as to get a better answer is evasion. So is splitting a system into pieces so that each piece passes while the whole fails.*
 
-Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) and [§4 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) govern that conduct.
-
-<a id="316-no-fragmentation-of-compliance"></a>
-##### 3.1.6 No Fragmentation of Compliance
-*In plain terms: a system cannot be split into pieces so that each piece passes while the whole fails.*
-
-Independent Definitions must not fragment, isolate, or redistribute compliance in a way that blocks full-system evaluation under required assessment conditions.
+Selective invocation, omission of materially relevant definitions, and application that alters, weakens, or bypasses compliance determination are evasion. So is using Independent Definitions to fragment, isolate, or redistribute compliance in a way that blocks evaluation of the full system under required assessment conditions. [Subcore 3-B §3 Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) and [§4 Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) govern that conduct.
 
 ---
 
@@ -186,7 +171,8 @@ The note does not repeat this rule, because this rule already applies to every c
 <a id="42-standalone-definitions-interaction-and-full-context"></a>
 
 #### 4.2 Standalone Definitions Interaction and Full Context
-Calling a definition Independent or Semi-independent does not let it skip cluster membership. Dependent clusters must still be met together in the full real-world system context. No piece may be peeled off, reclassified, or applied alone in a way that changes the compliance result.
+A definition that belongs to a dependent cluster stays bound by that cluster, even if it is labeled Independent or Semi-independent. When the cluster applies, all of its members must be met together, in the system's full real-world context. No member may be peeled off, relabeled, or applied on its own in a way that changes whether the system complies.
+
 <a id="5-how-definitions-and-proof-work"></a>
 ### 5. How Definitions and Proof Work
 

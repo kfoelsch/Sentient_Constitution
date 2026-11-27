@@ -14,11 +14,11 @@
 
 Subcore 6-A is the constitutional owner of the **constitutional lanes**: the required functional separations every institution must publish, and how a lane map is assessed. Chapter Six states the four-seat requirement for each materially binding act; this file states the lanes those seats are hosted in.
 
-*In plain terms: a constitutional lane is a published functional separation with constitutionally binding duties. Splitting the lanes is also the Constitution's **separation of duties** rule: the office that asks for something, the office that checks it, the office that records it, and the office that hears a challenge to it are different seats.*
-
 ---
 
 ### 1. Constitutional Lanes and Functional Separation
+
+*In plain terms: a constitutional lane is a published functional separation with constitutionally binding duties. Splitting the lanes is also the Constitution's **separation of duties** rule: the office that asks for something, the office that checks it, the office that records it, and the office that hears a challenge to it are different seats.*
 
 #### 1.1 Required Lanes
 

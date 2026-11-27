@@ -23,6 +23,15 @@ Adopted-implementation subfiles (``corpus_*/*.md``)
     prefix match the folder, and every ID in the first sentence is a heading ID
     in the same file.
 
+Chapter openings before section 1 (``core_*.md`` and ``subcore_*.md``)
+    **OWNER-OPENING-02**: in a file that has a ``### 1.`` heading, the only
+    visible text before that heading is ownership/front matter: the ``#``
+    title, anchors, an optional ``*Non-operative subtitle:*`` line, collapsed
+    widgets, ``<br>``, ``---``, ``Part`` headings, HTML comments, and the owner
+    paragraph (with a list directly under it). Anything else, including an
+    ``*In plain terms:*`` gloss, belongs inside section 1 or later. The
+    Preamble is exempt (``PRE_S1_EXEMPT``): its opening text is binding prose.
+
 Both
     No two files claim the same ID (and Part letter). A claim that sits only in
     a collapsed widget does not count.
@@ -209,6 +218,78 @@ def check_core(rel: str, text: str) -> list[str]:
     return findings
 
 
+PRE_S1_EXEMPT = {"core_00.000_preamble.md"}
+S1_RE = re.compile(r"^###\s+(?:<a [^>]*></a>\s*)?1\.\s")
+FENCE_RE = re.compile(r"^(```|~~~)")
+FRONT_MATTER_RES = [re.compile(p) for p in (
+    r"^(?:<a id=\"[^\"]*\"></a>\s*)+$",   # anchors
+    r"^# ",                                   # chapter title
+    r"^\*Non-operative subtitle:",          # optional subtitle
+    r"^<br\s*/?>$",
+    r"^-{3,}$",
+    r"^#{2,6}\s+Part [A-Z]\b",              # part heading in a part file
+    r"^<!--.*-->$",
+)]
+
+
+def check_pre_s1(rel: str, text: str) -> list[str]:
+    """OWNER-OPENING-02: only ownership/front matter may sit before section 1."""
+    if Path(rel).name in PRE_S1_EXEMPT:
+        return []
+    vis = visible_lines(text)
+    stop = next((n for n, l in vis if S1_RE.match(l.strip())), None)
+    if stop is None:
+        return []
+    findings: list[str] = []
+    bad: list[tuple[int, str]] = []
+    state = "outside"  # "owner" = in the owner paragraph; "after" = blank line after it
+    in_fence = False
+    for number, raw in vis:
+        if number >= stop:
+            break
+        line = raw.strip()
+        if FENCE_RE.match(line):
+            in_fence = not in_fence
+            if in_fence:
+                findings.append(f"{rel}:{number}: OWNER-OPENING-02: code or chart block before section 1 (line {stop}); move it into section 1 or a widget")
+            state = "outside"
+            continue
+        if in_fence:
+            continue
+        if not line:
+            if state == "owner":
+                state = "after"
+            continue
+        if OWNER_RE.search(line) or NON_OWNER_RE.search(line):
+            state = "owner"
+            continue
+        if state == "owner":
+            continue  # same paragraph as the owner claim (for example a sibling-part pointer)
+        if state == "after" and (line.startswith("- ") or raw.startswith("  ")):
+            continue  # a domain list directly under the owner line
+        state = "outside"
+        if any(rx.match(line) for rx in FRONT_MATTER_RES):
+            continue
+        bad.append((number, line))
+    if bad:
+        number, line = bad[0]
+        what = "an *In plain terms* gloss" if GLOSS_RE.match(line) else "non-ownership text"
+        snippet = line if len(line) <= 70 else line[:67] + "..."
+        more = f" (+{len(bad) - 1} more line(s))" if len(bad) > 1 else ""
+        findings.append(
+            f"{rel}:{number}: OWNER-OPENING-02: {what} before section 1 (line {stop}){more}; "
+            f"only the owner line and front matter may come first: {snippet}"
+        )
+    return findings
+
+
+def chapter_files(root: Path) -> list[str]:
+    return sorted(
+        p.name for pat in ("core_*.md", "subcore_*.md") for p in root.glob(pat)
+        if p.is_file() and not re.search(r" \d+\.md$", p.name)
+    )
+
+
 def first_sentence(rest: str) -> str:
     rest = LINK_TARGET_RE.sub("]", rest)
     cut = rest.find(". ")
@@ -289,6 +370,8 @@ def audit(root: Path) -> list[str]:
     findings: list[str] = []
     for rel in core_files(root):
         findings += check_core(rel, (root / rel).read_text(encoding="utf-8"))
+    for rel in chapter_files(root):
+        findings += check_pre_s1(rel, (root / rel).read_text(encoding="utf-8"))
     claims: dict[tuple[str, str | None], list[str]] = {}
     for rel in impl_files(root):
         f, keys = check_impl(rel, (root / rel).read_text(encoding="utf-8"))
@@ -318,7 +401,8 @@ def main() -> int:
         return 2
     print(
         f"PASS: owner lines — {len(core_files(root))} core files and "
-        f"{len(impl_files(root))} implementation files each carry one visible owner line."
+        f"{len(impl_files(root))} implementation files each carry one visible owner line; "
+        f"no chapter file has non-ownership text before section 1."
     )
     return 0
 

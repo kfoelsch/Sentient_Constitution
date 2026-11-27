@@ -45,13 +45,6 @@
 
 Chapter Five is the constitutional owner of **System Charters, Institutional Charters, and published scope**.
 
-Three chapters work as one chain:
-
-- **Chapter Five (this chapter):** says what a [Chartered Party](subcore_03.075_band_continuity.md#chartered-party) claims to do and who may hold each seat when it acts.
-- **[Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties):** says how those seats must be kept apart.
-- **[Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation):** certifies a system, and separately an institution, each of which is one binding act that uses the seats. It sends what it finds back to the System Charter or Institutional Charter.
-
-Other chapters own the definitions, the seat rules, the standing locks, and the decision rules this chapter points to. **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) holds the field template, the formation procedure, and the review checklist.
 ### 1. Purpose, Role, and Scope
 
 *In plain terms: before anyone can judge whether a system or institution stayed within its limits, the limits have to be written down where everyone can read them. This chapter says who must publish a System Charter or an Institutional Charter, what each must state, and how it is checked and kept true. Nobody needs permission to form.*
@@ -70,6 +63,14 @@ Other chapters own the definitions, the seat rules, the standing locks, and the 
 - [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) reads the System Charter for scope and boundary findings, and [Subcore 9-B](subcore_09.020_institutional_alignment_certification_evaluation.md#subcore-9-b-institutional-alignment-certification--evaluation) tests the formation check statement for an Institution.
 - **Chapter Fourteen section 7** applies the Charter Role Map to Standing Records, and **Chapter Twenty-Three section 3.3** hears disputes about the Institutional Charter.
 - CI-6.205 (*Institutional Design, Separation of Powers, and Authority Custody*) **section 7** holds the full field template, review checklist, and formation procedure. It may be stricter and may not narrow this chapter.
+
+Three chapters work as one chain:
+
+- **Chapter Five (this chapter):** says what a [Chartered Party](subcore_03.075_band_continuity.md#chartered-party) claims to do and who may hold each seat when it acts.
+- **[Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties):** says how those seats must be kept apart.
+- **[Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation):** certifies a system, and separately an institution, each of which is one binding act that uses the seats. It sends what it finds back to the System Charter or Institutional Charter.
+
+Other chapters own the definitions, the seat rules, the standing locks, and the decision rules this chapter points to. **CI-6.205 §6** (*System and Institutional Charter Contents, Review, and Formation Template*) holds the field template, the formation procedure, and the review checklist.
 
 **Chapter scope:** The chapter covers, in order:
 

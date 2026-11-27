@@ -14,13 +14,11 @@
 
 Subcore 4-A is the constitutional owner of **data types**: how data is typed, the rule that the most restrictive applicable type governs, anti-circumvention, the access-posture bands, cross-domain governance, separation and attribution, the Type O public baseline, and the data types themselves (**Type E**, **G**, **O**, **H**, **I**, **N**, **S**, **Y**, **W**, **U**, and **T**). The procedures for recording, disclosing, auditing, and challenging a system's data types stay in the systems corpus.
 
-*In plain terms: this is where the Constitution says what kinds of data there are and how each kind must be handled. Every material dataset gets a type, and the type sets who may see it and how it must be protected.*
-
 ---
 
 ### 1. Purpose, Role, and Scope
 
-*In plain terms: Chapter Four Rights Floors need trustworthy data handling. This Subcore sets rules for typing, access, integrity, identity self-ownership, and Class A/B/C continuity. Systems must stay able to publish the truth, with safeguards that grow stronger as impact grows.*
+*In plain terms: this is where the Constitution says what kinds of data there are and how each kind must be handled, so that the Chapter Four Rights Floors rest on trustworthy data. Every material dataset gets a type, and the type sets who may see it and how it must be protected. This Subcore also sets rules for access, integrity, identity self-ownership, and Class A/B/C continuity. Systems must stay able to publish the truth, with safeguards that grow stronger as impact grows.*
 
 **Sentient Constitution Chapter Four** (Articles **I**–**XXIX**, presented in **Chapter Four Parts A–E**) states Foundational Rights that depend on strong, reproducible data handling — including info-sphere, audit, and comprehensibility duties (e.g., **Articles XVI**, **XVII**, and **XXIV**). This Subcore implements those duties in the systems layer.
 

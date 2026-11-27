@@ -6,7 +6,7 @@ Corpus edition: `SC-Corpus-2026.11.25` · effective **2026-11-25**
 
 > **Reader guidance (non-operative).** This page lists every core heading, the section's *In plain terms* gloss where one exists, and one link to the authentic source span. It copies **nothing else**. Glosses are reading aids already present in the source; they do not add, remove, or narrow obligations. Where a gloss and the source differ, the source binds ([Chapter Seventeen](../../core_24.000_expansion_supremacy.md); [README — Binding vs support](../../README.md#binding-vs-support)). A heading without a gloss is listed with its link only.
 
-Coverage: **473** of **739** headings carry a gloss (64%).
+Coverage: **471** of **738** headings carry a gloss (64%).
 
 ## Contents
 
@@ -18,7 +18,7 @@ Coverage: **473** of **739** headings carry a gloss (64%).
 - [CHAPTER 02, PART D: CONSTITUTIONAL INTERPRETATION](#chapter-02-part-d-constitutional-interpretation) — `core_02.030_constitutional_interpretation.md` (5/12 glossed)
 - [CHAPTER 02, PART E: STEWARDSHIP AND THE STEWARD ROLE](#chapter-02-part-e-stewardship-and-the-steward-role) — `core_02.040_stewardship_capacity_principles.md` (17/18 glossed)
 - [CHAPTER 02, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION](#chapter-02-part-f-governance-incentive-alignment-and-integrated-application) — `core_02.050_governance_incentive_application.md` (20/27 glossed)
-- [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (20/24 glossed)
+- [CHAPTER THREE: FOUNDATIONAL DEFINITIONS](#chapter-three-foundational-definitions) — `core_03.000_definitions_home.md` (18/23 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.000_rights_part_a.md` (28/32 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.010_rights_part_b.md` (46/47 glossed)
 - [CHAPTER FOUR: FOUNDATIONAL RIGHTS](#chapter-four-foundational-rights) — `core_04.020_rights_part_c.md` (33/34 glossed)
@@ -1009,11 +1009,11 @@ every later chapter, institutional design, and system is read through this chapt
 
 ## CHAPTER THREE: FOUNDATIONAL DEFINITIONS
 
-Source file: [`core_03.000_definitions_home.md`](../../core_03.000_definitions_home.md) · 20/24 headings glossed
+Source file: [`core_03.000_definitions_home.md`](../../core_03.000_definitions_home.md) · 18/23 headings glossed
 
 #### 1. Purpose, Role, and Scope
 
-this section says what this chapter is for, where it sits beside its subcore files on structure, integrity, and proof, and what it covers and leaves out. The rule that keeps each term in one place follows it.
+this chapter is the dictionary. Every defined term has one official home; later chapters apply those terms, they do not quietly redefine them.
 
 [Source](../../core_03.000_definitions_home.md#1-purpose-role-and-scope)
 
@@ -1059,17 +1059,11 @@ a definition is read together with the others that apply to the same system, at 
 
 [Source](../../core_03.000_definitions_home.md#314-consistency-with-other-definitions)
 
-###### 3.1.5 Selective Invocation Is Evasion
+###### 3.1.5 Selective Invocation and Fragmentation Are Evasion
 
-choosing which definitions to use so as to get a better answer is evasion.
+picking which definitions to use so as to get a better answer is evasion. So is splitting a system into pieces so that each piece passes while the whole fails.
 
-[Source](../../core_03.000_definitions_home.md#315-selective-invocation-is-evasion)
-
-###### 3.1.6 No Fragmentation of Compliance
-
-a system cannot be split into pieces so that each piece passes while the whole fails.
-
-[Source](../../core_03.000_definitions_home.md#316-no-fragmentation-of-compliance)
+[Source](../../core_03.000_definitions_home.md#315-selective-invocation-and-fragmentation-are-evasion)
 
 #### 4. Dependent-Cluster Rules
 
