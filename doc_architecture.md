@@ -1491,4 +1491,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand one hundred and thirteenth move (Whole-system evaluation and misalignment response; 2026-11-26; wording only; uncommitted).** Decision (custodian, asked in session): clarify in §12 how its whole-system evaluation relates to detection, escalation, and correction in §§19.3–19.4. The duties apply together. Effect on rules: none.
 
+**One thousand one hundred and fourteenth move (Evaluation and response layout; 2026-11-26; layout only; uncommitted).** Decision (custodian, asked in session): present the §12 explanation of evaluation and misalignment response as regular text and bullets for readability. Effect on rules: none.
+
 **Next file:** [README.md](README.md)

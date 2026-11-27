@@ -1059,7 +1059,13 @@ Adopters must define [Market Concentration Threshold](subcore_03.070_band_accoun
 
 *In plain terms: this principle is a pointer. Whole-system evaluation must look beyond immediate and local effects, but the operative system-certification factors, record duties, class-scaled depth, cadence, and certification consequences live in **Chapter Eight** and **CS-8.305 (*System classification machinery*) and Subcore 8-A** (*System Classification*), not here. Under the **oversight** Tetrad leg, oversight requires auditing; system alignment certification is one especially large, high-stakes audit process among others — not the sole home of auditing (**Article XVII** (*Audit, Transparency, and Independent Verification*), [Auditability](subcore_03.085_band_oversight.md#auditability)).*
 
-*How these sections connect: §12 Systemic Evaluation Requirement sets the whole-system view for evaluating claims. [§19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection) addresses detection, review, and escalation of misalignment and capture; [§19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response) addresses correction. Their duties apply together.*
+**How these sections connect:**
+
+- §12 Systemic Evaluation Requirement sets the whole-system view for evaluating claims.
+- [§19.3 Misalignment Detection](core_02.050_governance_incentive_application.md#193-misalignment-detection) addresses detection, review, and escalation of misalignment and capture.
+- [§19.4 Misalignment Correction and Capture Response](core_02.050_governance_incentive_application.md#194-misalignment-correction-and-capture-response) addresses correction.
+
+Their duties apply together.
 
 Any claim about the matters below must be checked against what the whole system actually does over time. A slogan or a snapshot of one part at one moment is not enough:
 
