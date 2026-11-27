@@ -1483,4 +1483,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand one hundred and ninth move (Archive moves 1098–1108; 2026-11-26; organization only; uncommitted).** Decision (custodian, asked in session to archive and merge): archive moves 1098–1108 in [the move archive](archive/DOC_ARCHITECTURE_MOVES_1098-1108_ARCHIVED_2026-11-26.md) alongside the merge. Effect on rules: none.
 
+**One thousand one hundred and tenth move (Chapter Two scope and application; 2026-11-26; wording only; uncommitted).** Decision (custodian, asked in session): link §20 Integrated Application to §1 Purpose, Role, and Scope to make the relationship explicit and reduce repetition. The existing implementation and enforceability requirements remain in §20. Effect on rules: none.
+
 **Next file:** [README.md](README.md)

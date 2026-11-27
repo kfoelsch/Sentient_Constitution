@@ -1217,7 +1217,7 @@ This subsection sets out how verified duties survive successor and formal-struct
 
 *In plain terms: every later chapter, institutional design, and system is read through this chapter's principles — and those principles must hold even under adversarial pressure, capture attempts, or misaligned incentives.*
 
-Later chapters and provisions are governed through this chapter's integrated-value framework (reading rules: [§15 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation); value collisions: [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process)). Institutional interpretation safeguards in **Chapter Four** **Article XXVI** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) implement — they do not replace — that framework.
+The principles in [§1 Purpose, Role, and Scope](core_02.000_values_principles.md#1-purpose-role-and-scope) govern later chapters and provisions through this chapter's integrated-value framework (reading rules: [§15 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation); value collisions: [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process)). Institutional interpretation safeguards in **Chapter Four** **Article XXVI** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) implement — they do not replace — that framework.
 
 All foundational principles in this chapter must:
 
