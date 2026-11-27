@@ -800,7 +800,7 @@ Reward paths must not favor the listed targets where those targets predictably c
 - No single actor, forum, institution, operator, auditor, information mediator, appointing authority, or stakeholder bloc may monopolize the practical ability to detect, review, correct, or interpret material constitutional failure.
 - Plural, structurally independent oversight pathways must remain available where [material stake](core_00.000_preamble.md#material-stake) requires them.
 - Lawful security and confidentiality limits still apply, but they must preserve maximum feasible [Auditability](subcore_03.085_band_oversight.md#auditability) and [Contestability](subcore_03.070_band_accountability.md#contestability).
-- This is the many-eyes half of a pair with [§18.3 Separation of Duties](#183-separation-of-duties): plurality keeps oversight from being cornered by one actor; separation of duties keeps it from being performed by the actor under review.
+- Read with [§18.3 Separation of Duties](#183-separation-of-duties), which separates the actor from the independent check on that act.
 
 **Open systems, data, and auditing** (defined in [Chapter Three](subcore_03.080_band_integrative.md#open-systems-data-and-auditing)):
 
@@ -1217,7 +1217,11 @@ This subsection sets out how verified duties survive successor and formal-struct
 
 *In plain terms: every later chapter, institutional design, and system is read through this chapter's principles — and those principles must hold even under adversarial pressure, capture attempts, or misaligned incentives.*
 
-The principles in [§1 Purpose, Role, and Scope](core_02.000_values_principles.md#1-purpose-role-and-scope) govern later chapters and provisions through this chapter's integrated-value framework (reading rules: [§15 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation); value collisions: [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process)). Institutional interpretation safeguards in **Chapter Four** **Article XXVI** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) implement — they do not replace — that framework.
+The principles in [§1 Purpose, Role, and Scope](core_02.000_values_principles.md#1-purpose-role-and-scope) govern later chapters and provisions through this chapter's integrated-value framework:
+
+- **Reading rules:** [§15 Constitutional Interpretation](core_02.030_constitutional_interpretation.md#15-constitutional-interpretation).
+- **Value collisions:** [§13 Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#13-constitutional-collision-resolution-process).
+- **Institutional interpretation safeguards:** **Chapter Four** **Article XXVI** (*Constitutional Interpretation, Review, and Anti-Capture Safeguards*) implements — it does not replace — that framework.
 
 All foundational principles in this chapter must:
 

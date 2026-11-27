@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-26T18:12:24+00:00",
+  "generated_at": "2026-11-27T00:47:36+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -175,9 +175,9 @@
       ]
     },
     "core_02.050_governance_incentive_application.md": {
-      "total_lines": 1234,
+      "total_lines": 1238,
       "sections": [
-        {"header":"CHAPTER 02, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION","level":1,"line_start":1,"line_end":1234,"anchor":null},
+        {"header":"CHAPTER 02, PART F: GOVERNANCE, INCENTIVE ALIGNMENT, AND INTEGRATED APPLICATION","level":1,"line_start":1,"line_end":1238,"anchor":null},
         {"header":"18. Governance under Stewardship Discipline","level":3,"line_start":24,"line_end":485,"anchor":"#18-governance-under-stewardship-discipline"},
         {"header":"18.1 Governance as Authorized Structure","level":4,"line_start":78,"line_end":152,"anchor":"#181-governance-as-authorized-structure"},
         {"header":"18.2 Institutional Secularism and Worldview Neutrality","level":4,"line_start":153,"line_end":201,"anchor":null},
@@ -202,7 +202,7 @@
         {"header":"19.5.3 Market Signals Are Not Constitutional Proof","level":5,"line_start":1029,"line_end":1049,"anchor":"#1953-market-signals-are-not-constitutional-proof"},
         {"header":"19.5.4 Proportionate Controls and Implementation Custody","level":5,"line_start":1050,"line_end":1090,"anchor":"#1954-proportionate-controls-and-implementation-custody"},
         {"header":"19.6 Keeping Responsibility When Ownership or Structure Changes","level":4,"line_start":1091,"line_end":1171,"anchor":"#196-keeping-responsibility-when-ownership-or-structure-changes"},
-        {"header":"20. Integrated Application","level":3,"line_start":1172,"line_end":1234,"anchor":"#20-integrated-application"}
+        {"header":"20. Integrated Application","level":3,"line_start":1172,"line_end":1238,"anchor":"#20-integrated-application"}
       ]
     },
     "core_03.000_definitions_home.md": {

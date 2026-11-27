@@ -1485,4 +1485,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand one hundred and tenth move (Chapter Two scope and application; 2026-11-26; wording only; uncommitted).** Decision (custodian, asked in session): link §20 Integrated Application to §1 Purpose, Role, and Scope to make the relationship explicit and reduce repetition. The existing implementation and enforceability requirements remain in §20. Effect on rules: none.
 
+**One thousand one hundred and eleventh move (Chapter Two application and oversight clarity; 2026-11-26; wording and layout only; uncommitted).** Decision (custodian, asked in session): format the §20 reading, collision, and institutional safeguards references as bullets, and shorten the §19.3 explanation of its relationship to §18.3. Plural detection and separation of duties retain their distinct requirements. Effect on rules: none.
+
 **Next file:** [README.md](README.md)
