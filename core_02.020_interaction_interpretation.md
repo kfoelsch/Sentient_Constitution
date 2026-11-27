@@ -892,7 +892,7 @@ Trust must not be preserved through deception or suppression of truth. Where ten
 
 Availability, observability, prior publication, platform possession, or technical accessibility does not extinguish privacy interests or satisfy the disciplines above.
 
-**Data-classification integration.** The operational layer for these disciplines is the data type system in **[CS-4.305 — Information types and handling](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling)**. That system assigns information to one or more of eleven types, each with its own access default and handling constraints:
+**Data-classification integration.** The operational layer for these disciplines is the data type system in **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types)**. That system assigns information to one or more of eleven types, each with its own access default and handling constraints:
 
 - Environmental and survival-coordination (**Type E**).
 - Governance and operational source (**Type G**).

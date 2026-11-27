@@ -564,7 +564,7 @@ Certification defects found under any Chapter Eight evaluation are not minor pap
 - misclassification under [Subcore 8-B §3 System Class Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#3-system-class-evaluation);
 - risk-evaluation and risk-disclosure defects under [Subcore 8-B §4.2.2 Defects and Misalignment](subcore_08.020_system_alignment_certification_evaluation.md#422-defects-and-misalignment);
 - data-handling defects under [Subcore 8-B §4.4 Data Types and Handling Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#44-data-types-and-handling-evaluation); and
-- the domain defects named in [Subcore 8-B §6.1 Ecological Footprint Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) through [Subcore 8-B §6.6 Trustworthiness and System-Reliance Integrity Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#66-trustworthiness-and-system-reliance-integrity-evaluation).
+- the domain defects named in [Subcore 8-B §6.1 Ecological Footprint Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation) through [Subcore 8-B §6.7 Material Stewardship and Durable-Use Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#67-material-stewardship-and-durable-use-evaluation).
 
 Where such a defect is found, forums may:
 

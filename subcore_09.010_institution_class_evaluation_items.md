@@ -144,6 +144,9 @@ Each evaluation below runs on the Institution's own conduct only where its trigg
 - **Article I-B** (*Ecological Footprint and Transparency*):
   - **Applies when:** the Institution carries material attributable environmental burdens.
   - **Evaluated under:** [Subcore 8-B §6.1 Ecological Footprint Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#61-ecological-footprint-evaluation).
+- **Article II** (*Material Stewardship and Durable-Use Integrity*), **Articles II-A** to **II-F**:
+  - **Applies when:** the Institution designs, makes, sells, updates, licenses, services, or runs the services behind durable or network-dependent products that sentients own or rely on, or ends those services.
+  - **Evaluated under:** [Subcore 8-B §6.7 Material Stewardship and Durable-Use Evaluation](subcore_08.020_system_alignment_certification_evaluation.md#67-material-stewardship-and-durable-use-evaluation).
 - **Article III-A** (*Survival*):
   - **Applies when:** the Institution supplies, allocates, prices, hosts, or terminates access to survival essentials.
   - **Evaluated under:** [Subcore 9-B §3 Institution Class Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#3-institution-class-evaluation) and [Subcore 9-B §4 Whole-Institution Certification Evaluation](subcore_09.020_institutional_alignment_certification_evaluation.md#4-whole-institution-certification-evaluation).
