@@ -170,19 +170,16 @@ Section 4 requires a trace map; this section requires the system to expose enoug
   - structure information so it is complete and usable for verification — not obscured through fragmentation, aggregation, or noise
 - **Treat gaps in that access as failures, not excuses:**
   - treat failure to observe, measure, or verify any materially relevant O/M/A/C part under this chapter's evaluation conditions as **non-compliant**
-  - treat limitations from system design, architectural opacity, external dependencies, or third-party components as **design failures** to be addressed through modification, constraint, or exclusion
+  - treat limitations from system design, architectural opacity, external dependencies, or third-party components as **design failures** to be addressed through modification, constraint, or exclusion, never as exemptions from this requirement
   - treat affected definition parts and any dependent compliance claims as **non-compliant** where full tracing cannot be achieved
 
 **Systems must not:**
 - **Build in or excuse obstacles to checking:**
   - rely on components or dependencies that prevent satisfaction of this requirement under **reasonably foreseeable** conditions
-  - treat design limitations, architectural opacity, external dependencies, or third-party components as exemptions from this requirement
 - **Make independent checking hard in practice:**
   - impose cost, complexity, delay, access restrictions, or informational conditions that materially impair independent verification
-  - rely on **theoretical** verifiability where **practical** verification is not achievable under reasonably foreseeable conditions
+  - rely on **theoretical** verifiability where **practical** verification is not achievable under reasonably foreseeable conditions; where verification is technically possible but not practically achievable, the compliance claims are **non-compliant**
   - require dependence on the system or actor asserting compliance beyond what is strictly necessary
-
-Where verification is technically possible but not practically achievable, treat compliance claims as **non-compliant**.
 
 ### 6. Security-Constrained Observability and Verification Rule
 <details>
@@ -232,7 +229,7 @@ Cryptography and information-type handling:
   - [Subcore 3-A, §5 Consistency across the Definition Stack](subcore_03.010_definition_structure.md#5-consistency-across-the-definition-stack) (S3-A §5);
   - [Subcore 3-B, section 3 — Definition Integrity and Anti-Evasion Constraints](subcore_03.020_definition_integrity.md#3-definition-integrity-and-anti-evasion-constraints) (S3-B);
   - [Subcore 3-B, section 4 — Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) (S3-B);
-  - [Subcore 3-B, §4.6 Uncertainty Integrity and Non-Exploitation Constraint](subcore_03.020_definition_integrity.md#46-uncertainty-integrity-and-non-exploitation-constraint) (S3-B §4.6) — substantive definition and non-compliance rules; **§7** states evidence-layer requirements only and does not restate those rules.
+  - [Subcore 3-B, §4.5 Uncertainty Integrity and Non-Exploitation Constraint](subcore_03.020_definition_integrity.md#45-uncertainty-integrity-and-non-exploitation-constraint) (S3-B §4.6) — substantive definition and non-compliance rules; **§7** states evidence-layer requirements only and does not restate those rules.
 - Downstream: [Subcore 10-B — Standing Records](subcore_10.020_standing_assessment.md#subcore-10-b-standing-records--question-1-what-happened) (S10-B).
 - Read with:
   - [Subcore 3-C, section 4 — Definition Traceability Requirement](#4-definition-traceability-requirement) — failure to invoke or correctly apply any materially required
@@ -276,7 +273,7 @@ Sections **4** through **6** set trace, observability, and security limits; this
 - the proof relies only on stand-in measures or the system's own word, covers only part of what is required, or picks a convenient scope, in a way that would be non-compliant under [Subcore 3-B, section 4](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) if it were offered as the system's proof; or
 - the evidence is not enough to meet the **Evidence must** requirements above.
 
-Where uncertainty prevents definitive demonstration of compliance for materially relevant definition components, apply [Subcore 3-B, §4.6 Uncertainty Integrity and Non-Exploitation Constraint](subcore_03.020_definition_integrity.md#46-uncertainty-integrity-and-non-exploitation-constraint). Where the burden of proof is not satisfied, default to **non-compliant** status.
+Where uncertainty prevents definitive demonstration of compliance for materially relevant definition components, apply [Subcore 3-B, §4.5 Uncertainty Integrity and Non-Exploitation Constraint](subcore_03.020_definition_integrity.md#45-uncertainty-integrity-and-non-exploitation-constraint). Where the burden of proof is not satisfied, default to **non-compliant** status.
 
 ### 8. Relationship to System Alignment Certification
 <details>

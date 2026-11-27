@@ -635,7 +635,7 @@ def main() -> int:
     s42 = slice_between(
         ch3_text,
         "#### 4.1 Common Evasion Patterns",
-        "#### 4.2 Reductive Evasion",
+        "#### 4.2 Cross-Component Scope Integrity Constraint",
     )
     if s42 is None:
         findings.append(
