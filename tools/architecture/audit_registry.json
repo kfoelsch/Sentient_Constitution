@@ -202,6 +202,11 @@
       "run": "auto",
       "writes": false
     },
+    "omac-list-audit": {
+      "category": "ch5",
+      "run": "auto",
+      "writes": false
+    },
     "adopted-implementation-cite-audit": {
       "category": "layout",
       "run": "auto",
@@ -721,6 +726,11 @@
       "writes": false
     },
     "owner-line-audit-test": {
+      "category": "tests",
+      "run": "auto",
+      "writes": false
+    },
+    "omac-list-audit-test": {
       "category": "tests",
       "run": "auto",
       "writes": false

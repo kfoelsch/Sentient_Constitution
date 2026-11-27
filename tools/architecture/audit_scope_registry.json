@@ -598,6 +598,9 @@
    ],
    "reason": "These Chapter Three files are the owners of the O/E/C definition blocks; the audit checks that no other file holds one."
   },
+  "omac-list-audit": {
+   "scope": "corpus"
+  },
   "owner-line-audit": {
    "scope": "corpus-except",
    "except": [
