@@ -29,16 +29,15 @@ Subcore 3-C is the constitutional owner of **burden allocation, compliance evide
 
 *In plain terms: if you say you're following the rules, you have to prove it, through one five-step check, and show a clear, checkable path from what the Constitution defines to what sentients can actually observe. The proof has to be real, open to inspection in practice, and checkable by others, even where security narrows how or when it is shown.*
 
-**Purpose:** Subcore 3-C answers who must prove compliance and how the proof must look:
-
-- the party claiming compliance carries the burden through one five-step check (**section 3**);
-- it must show a map from each applicable definition's parts, Ontological, Measurement, Assessment, and Compliance, to what the system actually does (**section 4**), and must expose enough of itself for that map to be checked in practice (**section 5**);
-- security can narrow how, when, and to whom disclosure happens but cannot erase the duty to trace and verify (**section 6**); and
-- evidence must be tied to the map, independent where possible, complete, and sustained (**section 7**).
+**Purpose:** Subcore 3-C makes a compliance claim something others can check, not something they have to take on trust. Whoever says a system complies has to prove it. The proof has to connect what each applicable definition requires to what the system actually does, in a form that sentients outside the system can inspect and test. Security may limit how, when, and to whom the proof is shown, but it never removes the duty to give it.
 
 **Role:** [Subcores 3-A to 3-C](subcore_03.010_definition_structure.md#subcore-3-a-definition-structure-and-component-requirements) together set the rules every compliance claim must meet:
 
-- It takes as fixed the definition mechanics in Subcores 3-A and [3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance) and the definitions themselves. [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) is the overview of those definitions; Subcores 3-D to 3-O hold them in full: one apex file for each aim and leg ([Subcore 3-D](subcore_03.040_apex_accountability_leg.md#subcore-3-d-accountability-tetrad-leg) to 3-I) and one band file for each band ([Subcore 3-J](subcore_03.070_band_accountability.md#subcore-3-j-accountability-definitions) to 3-O), listed in the [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map).
+- It takes as fixed:
+  - the definition mechanics in Subcores 3-A and [3-B](subcore_03.020_definition_integrity.md#subcore-3-b-definition-integrity-evasion-and-non-compliance); and
+  - the definitions themselves. [Chapter Three](core_03.000_definitions_home.md#chapter-three-foundational-definitions) is the overview of those definitions, and Subcores 3-D to 3-O hold them in full, listed in the [Chapter Three compass](core_03.000_definitions_home.md#6-compass-and-definition-map):
+    - one apex file for each aim and leg ([Subcore 3-D](subcore_03.040_apex_accountability_leg.md#subcore-3-d-accountability-tetrad-leg) to 3-I); and
+    - one band file for each band ([Subcore 3-J](subcore_03.070_band_accountability.md#subcore-3-j-accountability-definitions) to 3-O).
 - It hands those rules to Chapter Eight, where System Alignment Certification applies them, and to Chapter Fourteen, where Standing Records rest on verified facts.
 - A current certification is not a way around Subcores 3-A to 3-C (**section 7**).
 
@@ -100,7 +99,17 @@ Read in order. Each step builds on the last; skip none.
 | **4 — Security limits** | Real security limits are allowed; pretextual blocks are not | [§6 Security-Constrained Observability and Verification Rule](#6-security-constrained-observability-and-verification-rule) |
 | **5 — What counts** | Evidence must be real, complete, independent, and sustained | [§7 Compliance Evidence Standard](#7-compliance-evidence-standard) |
 
-**Plain-language access.** [Chapter Two §5.2 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to exercise rights, contest decisions, or verify compliance. Plain language does **not** change or reduce what Subcores 3-A to 3-C require. If a plain-language version disagrees with the definition or verification rules here, those rules control. Using jargon, stacked complexity, or opacity to block [Contestability](subcore_03.070_band_accountability.md#contestability) or [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter Two §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)**.
+**Plain-language access.** [Chapter Two §5.2 — Plain-Language Accessibility (Participation and Stewardship Duty)](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty) applies to the governance, adjudicative, and operational materials sentients use to:
+
+- exercise rights;
+- contest decisions; or
+- verify compliance.
+
+Three rules follow:
+
+- plain language does **not** change or reduce what Subcores 3-A to 3-C require;
+- if a plain-language version says something different from the definition or verification rules in Subcores 3-A to 3-C, those subcores' rules are the ones that apply, not the plain-language version; and
+- using jargon, stacked complexity, or opacity to block [Contestability](subcore_03.070_band_accountability.md#contestability) or [Article XVII: Audit, Transparency, and Independent Verification](core_04.020_rights_part_c.md#article-xvii-audit-transparency-and-independent-verification) access is non-compliant under this chapter and **Chapter Two §5.2 Plain-Language Accessibility (Participation and Stewardship Duty)**.
 
 ### 4. Definition Traceability Requirement
 <details>
@@ -155,19 +164,23 @@ Failure to invoke or correctly apply any materially required **Chapter Three** d
 Section 4 requires a trace map; this section requires the system to expose enough of itself for that map to be checked in practice.
 
 **Systems must:**
-- provide sufficient **observability, instrumentation, and access** to components, data, and interactions to fully satisfy **section 4** — for appropriately authorized or affected parties, with proportionate methods, resources, and access conditions
-- provide access within timeframes that preserve the ability to detect, challenge, and respond to non-compliance
-- structure information so it is complete and usable for verification — not obscured through fragmentation, aggregation, or noise
-- treat failure to observe, measure, or verify any materially relevant O/M/A/C part under this chapter's evaluation conditions as **non-compliant**
-- treat limitations from system design, architectural opacity, external dependencies, or third-party components as **design failures** to be addressed through modification, constraint, or exclusion
-- treat affected definition parts and any dependent compliance claims as **non-compliant** where full tracing cannot be achieved
+- **Give enough access to check the trace map:**
+  - provide sufficient **observability, instrumentation, and access** to components, data, and interactions to fully satisfy **section 4** — for appropriately authorized or affected parties, with proportionate methods, resources, and access conditions
+  - provide access within timeframes that preserve the ability to detect, challenge, and respond to non-compliance
+  - structure information so it is complete and usable for verification — not obscured through fragmentation, aggregation, or noise
+- **Treat gaps in that access as failures, not excuses:**
+  - treat failure to observe, measure, or verify any materially relevant O/M/A/C part under this chapter's evaluation conditions as **non-compliant**
+  - treat limitations from system design, architectural opacity, external dependencies, or third-party components as **design failures** to be addressed through modification, constraint, or exclusion
+  - treat affected definition parts and any dependent compliance claims as **non-compliant** where full tracing cannot be achieved
 
 **Systems must not:**
-- rely on components or dependencies that prevent satisfaction of this requirement under **reasonably foreseeable** conditions
-- treat design limitations, architectural opacity, external dependencies, or third-party components as exemptions from this requirement
-- impose cost, complexity, delay, access restrictions, or informational conditions that materially impair independent verification
-- rely on **theoretical** verifiability where **practical** verification is not achievable under reasonably foreseeable conditions
-- require dependence on the system or actor asserting compliance beyond what is strictly necessary
+- **Build in or excuse obstacles to checking:**
+  - rely on components or dependencies that prevent satisfaction of this requirement under **reasonably foreseeable** conditions
+  - treat design limitations, architectural opacity, external dependencies, or third-party components as exemptions from this requirement
+- **Make independent checking hard in practice:**
+  - impose cost, complexity, delay, access restrictions, or informational conditions that materially impair independent verification
+  - rely on **theoretical** verifiability where **practical** verification is not achievable under reasonably foreseeable conditions
+  - require dependence on the system or actor asserting compliance beyond what is strictly necessary
 
 Where verification is technically possible but not practically achievable, treat compliance claims as **non-compliant**.
 
@@ -202,7 +215,11 @@ Where a limit blocks meaningful independent validation, the associated complianc
 - that determination is independently justified and auditable
 - the remaining method preserves sufficient epistemic integrity for compliance determination
 
-Cryptography and information-type handling must align with the Constitution and **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**; where materially relevant, they must still permit full compliance verification under this chapter. Cryptographic and information-type handling must not replace [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) or [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), or the duties in **sections 4**, **5**, or **6**.
+Cryptography and information-type handling:
+
+- must align with the Constitution and **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**;
+- must still permit full compliance verification under this chapter, where materially relevant; and
+- must not replace [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) or [Safety (Constitutional Constraint)](subcore_03.075_band_continuity.md#safety-constitutional-constraint), or the duties in **sections 4**, **5**, or **6**.
 
 ### 7. Compliance Evidence Standard
 <details>
@@ -235,19 +252,29 @@ Cryptography and information-type handling must align with the Constitution and 
 Sections **4** through **6** set trace, observability, and security limits; this section states what evidence must show to meet the burden under **section 3**. The standard scales with [material stake](core_00.000_preamble.md#material-stake) — system impact, dependency, and risk.
 
 **Evidence must:**
-- demonstrate compliance with **Subcores 3-A and 3-B** under the required assessment scope and conditions, including compliant trace artifacts under **section 4** and observability under **section 5**
-- be generated and assessed under conditions that represent actual system behavior, operation, and impact
-- be **observable**, **verifiable**, **complete** relative to required scope, **sustained** across time, and **sufficient** in rigor proportionate to system impact, dependency, and risk to withstand independent audit and adversarial testing
-- use **independent validation** where reasonably achievable; absence must be justified under proportionality constraints
-- comply with **section 6** constraints on evidence generation, disclosure, and verification, including cryptographic and information-type handling where applicable
-- where constitutional values or constraints conflict in the same evaluation, remain consistent with [Chapter Two, §12 — Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process)
-- for **empirical**, **predictive**, or **causal** claims material to compliance, classification, or governance, reflect **scientific integrity** where proportionate — testable or reviewable methods, documented assumptions and limitations, no suppression of null results or failed replications where they bear on decisions, and conclusions revisable on new evidence
+- **Show compliance as the system really runs:**
+  - demonstrate compliance with **Subcores 3-A and 3-B** under the required assessment scope and conditions, including compliant trace artifacts under **section 4** and observability under **section 5**
+  - be generated and assessed under conditions that represent actual system behavior, operation, and impact
+- **Be strong enough to rely on:**
+  - be **observable** and **verifiable**
+  - be **complete** relative to required scope
+  - be **sustained** across time
+  - be **sufficient** in rigor proportionate to system impact, dependency, and risk to withstand independent audit and adversarial testing
+  - use **independent validation** where reasonably achievable; absence must be justified under proportionality constraints
+- **Follow the related rules:**
+  - comply with **section 6** constraints on evidence generation, disclosure, and verification, including cryptographic and information-type handling where applicable
+  - where constitutional values or constraints conflict in the same evaluation, remain consistent with [Chapter Two, §12 — Constitutional Collision Resolution Process](core_02.020_interaction_interpretation.md#12-constitutional-collision-resolution-process)
+  - for **empirical**, **predictive**, or **causal** claims material to compliance, classification, or governance, reflect **scientific integrity** where proportionate:
+    - testable or reviewable methods
+    - documented assumptions and limitations
+    - no suppression of null results or failed replications where they bear on decisions
+    - conclusions revisable on new evidence
 
-**The following do not meet the burden of proof under section 3:**
-- failure to satisfy any required definition or component under [Subcore 3-A, §4.1 Core Integrity Conditions](subcore_03.010_definition_structure.md#41-core-integrity-conditions), or non-compliance under [Subcore 3-B, section 4 — Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) — invalidating all dependent compliance claims under this chapter
-- failure to provide required evidence where it exists or is required under this chapter
-- proxy-only, self-attested, partial, or selectively scoped proof that would be non-compliant under [Subcore 3-B, section 4](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) if treated as the system's compliance demonstration
-- insufficient evidence to satisfy the **Evidence must** requirements above
+**A compliance claim does not meet the burden of proof in section 3 when:**
+- the system fails a required definition, or one of its parts, under [Subcore 3-A, §4.1 Core Integrity Conditions](subcore_03.010_definition_structure.md#41-core-integrity-conditions), or is non-compliant under [Subcore 3-B, section 4 — Non-Compliance from Observable System Behavior](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior). Every compliance claim under this chapter that depends on it fails too;
+- evidence that exists, or that this chapter requires, is not provided;
+- the proof relies only on stand-in measures or the system's own word, covers only part of what is required, or picks a convenient scope, in a way that would be non-compliant under [Subcore 3-B, section 4](subcore_03.020_definition_integrity.md#4-non-compliance-from-observable-system-behavior) if it were offered as the system's proof; or
+- the evidence is not enough to meet the **Evidence must** requirements above.
 
 Where uncertainty prevents definitive demonstration of compliance for materially relevant definition components, apply [Subcore 3-B, §4.6 Uncertainty Integrity and Non-Exploitation Constraint](subcore_03.020_definition_integrity.md#46-uncertainty-integrity-and-non-exploitation-constraint). Where the burden of proof is not satisfied, default to **non-compliant** status.
 

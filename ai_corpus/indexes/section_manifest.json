@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-27T05:41:22+00:00",
+  "generated_at": "2026-11-27T07:12:29+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -954,17 +954,17 @@
       ]
     },
     "subcore_03.030_burden_traceability_verification.md": {
-      "total_lines": 288,
+      "total_lines": 315,
       "sections": [
-        {"header":"SUBCORE 3-C: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION","level":1,"line_start":2,"line_end":288,"anchor":"#subcore-3-c-burden-of-proof-traceability-and-verification"},
-        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":28,"line_end":60,"anchor":null},
-        {"header":"2. Why the Burden of Proof Exists","level":3,"line_start":61,"line_end":82,"anchor":null},
-        {"header":"3. Exclusive Enforcement and Burden Allocation","level":3,"line_start":83,"line_end":104,"anchor":null},
-        {"header":"4. Definition Traceability Requirement","level":3,"line_start":105,"line_end":139,"anchor":null},
-        {"header":"5. Observability of Traceability Requirement","level":3,"line_start":140,"line_end":173,"anchor":null},
-        {"header":"6. Security-Constrained Observability and Verification Rule","level":3,"line_start":174,"line_end":206,"anchor":null},
-        {"header":"7. Compliance Evidence Standard","level":3,"line_start":207,"line_end":253,"anchor":null},
-        {"header":"8. Relationship to System Alignment Certification","level":3,"line_start":254,"line_end":288,"anchor":null}
+        {"header":"SUBCORE 3-C: BURDEN OF PROOF, TRACEABILITY, AND VERIFICATION","level":1,"line_start":2,"line_end":315,"anchor":"#subcore-3-c-burden-of-proof-traceability-and-verification"},
+        {"header":"1. Purpose, Role, and Scope","level":3,"line_start":28,"line_end":59,"anchor":null},
+        {"header":"2. Why the Burden of Proof Exists","level":3,"line_start":60,"line_end":81,"anchor":null},
+        {"header":"3. Exclusive Enforcement and Burden Allocation","level":3,"line_start":82,"line_end":113,"anchor":null},
+        {"header":"4. Definition Traceability Requirement","level":3,"line_start":114,"line_end":148,"anchor":null},
+        {"header":"5. Observability of Traceability Requirement","level":3,"line_start":149,"line_end":186,"anchor":null},
+        {"header":"6. Security-Constrained Observability and Verification Rule","level":3,"line_start":187,"line_end":223,"anchor":null},
+        {"header":"7. Compliance Evidence Standard","level":3,"line_start":224,"line_end":280,"anchor":null},
+        {"header":"8. Relationship to System Alignment Certification","level":3,"line_start":281,"line_end":315,"anchor":null}
       ]
     },
     "subcore_03.040_apex_accountability_leg.md": {
