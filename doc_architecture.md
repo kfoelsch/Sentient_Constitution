@@ -1489,4 +1489,6 @@ Definitions hierarchy: **section 4**. Pass logs archived: [archive/doc_architect
 
 **One thousand one hundred and twelfth move (Safety and Truth in productive capacity; 2026-11-26; wording only; uncommitted).** Decision (custodian, asked in session): consolidate the repeated Safety and Truth entries in §9.1.1 into the existing reference to §2.1, retaining the express prohibition on trading them away. The distinct applications to efficiency and outcome claims remain. Effect on rules: none.
 
+**One thousand one hundred and thirteenth move (Whole-system evaluation and misalignment response; 2026-11-26; wording only; uncommitted).** Decision (custodian, asked in session): clarify in §12 how its whole-system evaluation relates to detection, escalation, and correction in §§19.3–19.4. The duties apply together. Effect on rules: none.
+
 **Next file:** [README.md](README.md)

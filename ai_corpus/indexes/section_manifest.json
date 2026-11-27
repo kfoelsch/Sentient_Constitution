@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-27T00:59:12+00:00",
+  "generated_at": "2026-11-27T01:10:06+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -88,9 +88,9 @@
       ]
     },
     "core_02.010_values_principles_continuity_aim.md": {
-      "total_lines": 1090,
+      "total_lines": 1092,
       "sections": [
-        {"header":"CHAPTER 02, PART B: THE CONTINUITY AIM","level":1,"line_start":1,"line_end":1090,"anchor":null},
+        {"header":"CHAPTER 02, PART B: THE CONTINUITY AIM","level":1,"line_start":1,"line_end":1092,"anchor":null},
         {"header":"8. Continuity Aim: Introduction","level":3,"line_start":24,"line_end":123,"anchor":"#8-continuity-aim-introduction"},
         {"header":"9. Shared-System Capacity","level":3,"line_start":124,"line_end":374,"anchor":"#9-shared-system-capacity"},
         {"header":"9.1 Productive Capacity (Instrumental Good)","level":4,"line_start":209,"line_end":311,"anchor":"#91-productive-capacity-instrumental-good"},
@@ -108,7 +108,7 @@
         {"header":"11.3.1 Consolidation Risk (Pre-Lock-In Impairment)","level":5,"line_start":854,"line_end":899,"anchor":"#1131-consolidation-risk-pre-lock-in-impairment"},
         {"header":"11.3.2 Consolidation Ceiling Mechanism (Adopter-Tunable)","level":5,"line_start":900,"line_end":936,"anchor":"#1132-consolidation-ceiling-mechanism-adopter-tunable"},
         {"header":"11.4 Resource and Dependency Concentration (Adopter-Tunable)","level":4,"line_start":937,"line_end":1016,"anchor":"#114-resource-and-dependency-concentration-adopter-tunable"},
-        {"header":"12. Systemic Evaluation Requirement","level":3,"line_start":1017,"line_end":1090,"anchor":"#12-systemic-evaluation-requirement"}
+        {"header":"12. Systemic Evaluation Requirement","level":3,"line_start":1017,"line_end":1092,"anchor":"#12-systemic-evaluation-requirement"}
       ]
     },
     "core_02.020_interaction_interpretation.md": {
