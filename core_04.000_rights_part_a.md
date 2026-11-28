@@ -1041,7 +1041,15 @@ This Article sets out the labor and economic floor — fair compensation, collec
   - A productive-activity structure that satisfies this Article while concentrating power contrary to **Chapter Two §11** (*Market Structure*) is non-compliant under that section.
   - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock sentients in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **Chapter Two §11.2** (*Pro-Competition and Anti-Domination*), **[CJS-3.125 §11.2 Anti-Domination Conduct and Remediation Catalog](corpus_joint_structure/cjs_03.125_accountability_operations.md#cjs-3125-112-anti-domination-conduct-and-remediation-catalog)**, **§11.3** (*Consolidation Ceiling*), and this Article when they materially apply.
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on **Fair Compensation**, **Collective Organization**, or labor mobility must also satisfy [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
-  - The practical details — how funding and fees are directed, how transfers and insurance are designed, and how institutions for collective organization are set up — are handled in the files listed under *Institutional guarantees* in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), from CI-8.210 (*Classification-linked institutional obligations*) through CI-4.215 (*Resource stewardship and incentive integrity*). Those files are tied to this Constitution under the rules of [**Chapter Twenty-Five** (*Incorporation Bridge*)](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge).
+  - The practical details are handled in the files listed under *Institutional guarantees* in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access). They cover:
+    - how funding and fees are directed;
+    - how transfers and insurance are designed; and
+    - how institutions for collective organization are set up.
+  - Those files are:
+    - [**CI-8.210**](corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-classification-linked-institutional-obligations) (*Classification-linked institutional obligations*);
+    - [**CI-4.210**](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*); and
+    - [**CI-4.215**](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*).
+  - Those files are tied to this Constitution under the rules of [**Chapter Twenty-Five** (*Incorporation Bridge*)](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge).
   - Those implementation texts must not be read to narrow this floor.
 
 #### Article III-D: Safe Working Conditions
