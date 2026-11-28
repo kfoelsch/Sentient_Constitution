@@ -860,7 +860,7 @@ This Article states **constitutional floors** for survival and equal access unde
 - **Accessibility** ([Chapter Two §5.2 Plain-Language Accessibility](core_02.000_values_principles.md#52-plain-language-accessibility-participation-and-stewardship-duty)): sentients must be able to understand and actually use those paths, with the [Accessibility](subcore_03.090_band_participation.md#accessibility) they need — not access that exists only on paper.
 - **Limits** ([Chapter Two §7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline)): any restriction or difference in treatment must be [necessary](subcore_03.070_band_accountability.md#necessity) and [proportionate](subcore_03.070_band_accountability.md#proportionality), reversible where possible, and subject to oversight.
 
-**Institutional guarantees.** Securing the floors in **Articles III-A** through **III-F** at scale may require positive institutional arrangements where adopting orders implement **this Constitution**. Those arrangements may include:
+**Institutional guarantees.** Making sure that every sentient actually gets what **Articles III-A** through **III-F** promise, across a whole society, can take more than rules against harm. Where an adopter puts **this Constitution** into effect, it may need to set up institutions that actively provide these things. Those arrangements may include:
 
 - lawful fiscal and allocation mechanisms — transfers, in-kind provision, or mixed designs — with no single funding model prescribed;
 - rules for who qualifies, where they must live to receive support, and how benefit levels are updated as costs change over time.
