@@ -865,7 +865,7 @@ This Article states **constitutional floors** for survival and equal access unde
 - lawful fiscal and allocation mechanisms — transfers, in-kind provision, or mixed designs — with no single funding model prescribed;
 - rules for who qualifies, where they must live to receive support, and how benefit levels are updated as costs change over time.
 
-Those rules may structure delivery. They must not be used to defeat any floor in this Article or to impose invidious exclusion contrary to this Article or **Article VI** (*Equal Basic Rights*).
+Those rules may decide how support is delivered. They must not be used to take away or get around any floor this Article guarantees, or to shut any sentient out on unfair, discriminatory grounds that this Article or **Article VI** (*Equal Basic Rights*) forbids.
 
 - **Fiscal orientation:** Detailed fiscal orientation — including the rule that fees and charges must not undermine minimum access to survival-relevant inputs — is governed by:
   - [**CI-8.210**](corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-classification-linked-institutional-obligations) (*Classification-linked institutional obligations*);
