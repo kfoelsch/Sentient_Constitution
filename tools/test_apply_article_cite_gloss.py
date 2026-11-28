@@ -43,10 +43,10 @@ class GlossLineTests(unittest.TestCase):
 
     def test_repeated_title_with_double_closing_emphasis(self) -> None:
         t = "Justice Objective and Scope"
-        line = f"**Article XX-A** (*{t}*)** (*{t}*)** (justice objective)"
+        line = f"**Article XXI-A** (*{t}*)** (*{t}*)** (justice objective)"
         self.assertEqual(
             gloss_line(line, TITLES),
-            f"**Article XX-A** (*{t}*)** (justice objective)",
+            f"**Article XXI-A** (*{t}*)** (justice objective)",
         )
 
     def test_gloss_inside_link_text_repeated_after_link(self) -> None:
@@ -114,6 +114,25 @@ class PluralCiteTests(unittest.TestCase):
             "Articles named in its Trace",
         ):
             self.assertEqual(gloss_line(line, TITLES), line, line)
+
+
+class WrongTitleTests(unittest.TestCase):
+    def test_continuation_label_with_another_articles_title(self) -> None:
+        v = "Resource Allocation, Dependencies, and Ecosystem Funding"
+        self.assertEqual(
+            gloss_line(f"**Article V** (*{v}*) with **V-B** (*{v}*), more", TITLES),
+            f"**Article V** (*{v}*) with **V-B** (*{VB}*), more",
+        )
+
+    def test_link_cite_with_another_articles_title(self) -> None:
+        self.assertEqual(
+            gloss_line("[Article XIV](x.md#a) (*Resilience and Self-Healing Baseline*) here", TITLES),
+            "[Article XIV](x.md#a) (*Right to Reliable and Trustworthy Systems*) here",
+        )
+
+    def test_descriptive_parenthetical_is_left_alone(self) -> None:
+        line = "**Article VII-A** (*Self-Ownership of Body*) (*Public-health requirements*)"
+        self.assertEqual(gloss_line(line, TITLES), line)
 
 
 class CheckFileTests(unittest.TestCase):

@@ -7,7 +7,10 @@ limits the report to lines added versus HEAD (the form wired into
 ``make regression`` as ``article-cite-gloss-audit``) so legacy cites do not
 block until those lines are edited.
 
-The audit reports four kinds of line: a bare cite with no title, a title
+The audit also reports a fifth kind, a cite glossed with the title of a
+different Article (``**V-B** (*Resource Allocation, Dependencies, and Ecosystem
+Funding*)``, which is Article V's title); default mode puts the label's own
+title in its place. The audit reports four kinds of line: a bare cite with no title, a title
 repeated right after itself (``(*Title*) (*Title*)``), a cite wrapped in
 stray emphasis (``*Article V-B*`` or ``***Article V-B** (*Title*)*``), and a
 plural cite (``Articles VI-A and VI-C``) whose named Articles do not each carry
@@ -248,6 +251,34 @@ def gloss_plural(text: str, titles: dict[str, str]) -> str:
     return text
 
 
+# A glossed cite: ``**Article X** (*T*)``, ``**Articles X** (*T*)``, a list
+# continuation ``**X** (*T*)``, or ``[Article X](url) (*T*)``.
+GLOSSED_CITE_RE = re.compile(
+    rf"(?P<cite>\*\*(?:Articles? )?(?P<a>{LABEL_RE})\*\*"
+    rf"|\[(?:\*\*)?Articles? (?P<b>{LABEL_RE})(?:\*\*)?\]\([^)]*\))"
+    r"(?P<sp>\s*)\(\*(?P<t>[^*()]+)\*\)"
+)
+
+
+def fix_wrong_titles(line: str, titles: dict[str, str]) -> str:
+    """Replace a gloss that is another Article's title with the label's own.
+
+    Only a gloss that is exactly some Article's title counts, so a descriptive
+    parenthetical such as ``(*Public-health requirements*)`` is left alone.
+    """
+    known = set(titles.values())
+
+    def repl(m: re.Match[str]) -> str:
+        label = m.group("a") or m.group("b")
+        own = titles.get(label)
+        t = m.group("t")
+        if own is None or t == own or t not in known:
+            return m.group(0)
+        return f"{m.group('cite')}{m.group('sp')}(*{own}*)"
+
+    return GLOSSED_CITE_RE.sub(repl, line)
+
+
 GENERATED_LABEL_ROW_RE = re.compile(r"^\|\s*(?:CS|CI|CJS|CF)-\d+[A-Za-z]?(?:\.\d+)*:")
 GLOSS_SPAN_RE = re.compile(r"\(\*.*?\*\)")
 
@@ -263,7 +294,7 @@ def gloss_line(line: str, titles: dict[str, str]) -> str:
     """
     if GENERATED_LABEL_ROW_RE.match(line):
         return line  # generated index rows carry a section title, not a cite
-    line = repair_wrapped_cite(dedupe_glosses(line))
+    line = fix_wrong_titles(repair_wrapped_cite(dedupe_glosses(line)), titles)
     saved: list[str] = []
 
     def stash(match: re.Match[str]) -> str:
@@ -320,6 +351,8 @@ def check_file(
             kind = "repeated"
         elif repair_wrapped_cite(line) != line:
             kind = "wrapped"
+        elif fix_wrong_titles(line, titles) != line:
+            kind = "mismatch"
         elif _has_plural_finding(line, titles):
             kind = "plural"
         else:
@@ -335,6 +368,7 @@ def _has_plural_finding(line: str, titles: dict[str, str]) -> bool:
 
 
 FINDING_TEXT = {
+    "mismatch": "cite glossed with another Article's title; use the label's own title",
     "plural": "plural Article cite; write each named Article as **Articles X** (*title*) and **Y** (*title*) (REF-ARTICLES-LIST)",
     "bare": "bare Article cite; add (*title*)",
     "repeated": "title repeated after its cite; keep one (*title*)",
@@ -357,7 +391,7 @@ def run_check(root: pathlib.Path, titles: dict[str, str], changed_only: bool) ->
             total += 1
     mode = "changed-only" if changed_only else "full"
     if total:
-        print(f"FAIL: REF-ARTICLES-GLOSS ({mode}) — {total} line(s) with bare, repeated, or wrapped Article glosses.")
+        print(f"FAIL: REF-ARTICLES-GLOSS ({mode}) — {total} line(s) with bare, repeated, wrapped, mismatched, or plural Article glosses.")
         return 1
     print(f"PASS: REF-ARTICLES-GLOSS ({mode}) — Article cites carry their titles once.")
     return 0
