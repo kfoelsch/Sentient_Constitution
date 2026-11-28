@@ -969,7 +969,11 @@ This Article sets out the right to care, the rules that keep it from being denie
   
   Emergency measures are also subject to [**Chapter seventeen §5.1**](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*). Seeking or receiving care is never, on its own, consent to further intrusion, and it does not open the internal-state boundary protected by [**Article VII-B** (*Self-Ownership of Mind*)](core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind).
 - **Limits and implementation:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on care must also satisfy [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
-  - Cost, distribution, workforce, and system design are handled by the CI-8.210 (*Classification-linked institutional obligations*) through CI-4.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) and by other incorporated implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md) discipline.
+  - Cost, distribution, workforce, and system design are handled by the files listed under *Institutional guarantees* in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), and by other incorporated implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md) discipline.
+  - Those files are:
+    - [**CI-8.210**](corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-classification-linked-institutional-obligations) (*Classification-linked institutional obligations*);
+    - [**CI-4.210**](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*); and
+    - [**CI-4.215**](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*).
   - None of that text may be read to narrow this right.
 
 #### Article III-C: Labor and Economic Floor
@@ -1090,7 +1094,10 @@ This Article sets out the safe-working-conditions floor, its equal application a
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on Safe Conditions must also satisfy [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
   - Standards-setting for Safe Conditions is handled in the following, under [Chapter Twenty-Five](core_25.000_incorporation.md) incorporation discipline:
     - [CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*System lifecycle*); and
-    - the CI-8.210 (*Classification-linked institutional obligations*) through CI-4.215 (*Resource stewardship and incentive integrity*) files named under *Institutional guarantees* in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access).
+    - the files listed under *Institutional guarantees* in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access):
+      - [**CI-8.210**](corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-classification-linked-institutional-obligations) (*Classification-linked institutional obligations*);
+      - [**CI-4.210**](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*); and
+      - [**CI-4.215**](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*).
 
 #### Article III-E: Rest and Recuperation
 
