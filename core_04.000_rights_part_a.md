@@ -1088,7 +1088,9 @@ This Article sets out the safe-working-conditions floor, its equal application a
   - account for foreseeable risk under [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions), not only under ideal conditions.
 - **Equal protection across substrates:** Withholding Safe Conditions, or applying a weaker standard, because of substrate or implementation classification rather than materially comparable risk is non-compliant under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on Safe Conditions must also satisfy [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
-  - Standards-setting for Safe Conditions routes to [CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*System lifecycle*) and to the CI-8.210 (*Classification-linked institutional obligations*) through CI-4.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Thirty-One** incorporation discipline.
+  - Standards-setting for Safe Conditions is handled in the following, under [Chapter Twenty-Five](core_25.000_incorporation.md) incorporation discipline:
+    - [CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*System lifecycle*); and
+    - the CI-8.210 (*Classification-linked institutional obligations*) through CI-4.215 (*Resource stewardship and incentive integrity*) files named under *Institutional guarantees* in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access).
 
 #### Article III-E: Rest and Recuperation
 
