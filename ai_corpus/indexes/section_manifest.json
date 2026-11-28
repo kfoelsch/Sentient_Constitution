@@ -1,6 +1,6 @@
 {
   "$schema": "../schemas/section_manifest.schema.json",
-  "generated_at": "2026-11-28T15:08:21+00:00",
+  "generated_at": "2026-11-28T15:38:22+00:00",
   "files": {
     "core_00.000_preamble.md": {
       "total_lines": 189,
@@ -236,9 +236,9 @@
       ]
     },
     "core_04.000_rights_part_a.md": {
-      "total_lines": 1503,
+      "total_lines": 1499,
       "sections": [
-        {"header":"CHAPTER FOUR: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":1503,"anchor":null},
+        {"header":"CHAPTER FOUR: FOUNDATIONAL RIGHTS","level":1,"line_start":1,"line_end":1499,"anchor":null},
         {"header":"1. Purpose, Role, and Scope","level":3,"line_start":29,"line_end":70,"anchor":null},
         {"header":"2. Why the Rights Floor Exists","level":3,"line_start":71,"line_end":253,"anchor":"#2-why-the-rights-floor-exists"},
         {"header":"2.1 Practical Enforcement","level":4,"line_start":160,"line_end":209,"anchor":null},
@@ -260,20 +260,20 @@
         {"header":"Article II-D: Post-Sale Access and Subscription Integrity","level":4,"line_start":667,"line_end":699,"anchor":null},
         {"header":"Article II-E: Data Handling and Network Dependency","level":4,"line_start":700,"line_end":771,"anchor":"#article-ii-e-info-sphere-dependency-continuity-and-operator-non-viability"},
         {"header":"Article II-F: Continuity and Operator Shutdown","level":4,"line_start":772,"line_end":823,"anchor":null},
-        {"header":"Article III: Survival and Essential Access","level":3,"line_start":824,"line_end":1182,"anchor":null},
+        {"header":"Article III: Survival and Essential Access","level":3,"line_start":824,"line_end":1178,"anchor":null},
         {"header":"Article III-A: Survival","level":4,"line_start":876,"line_end":922,"anchor":null},
         {"header":"Article III-B: Bodily-Maintenance and Healthcare Access","level":4,"line_start":923,"line_end":974,"anchor":null},
-        {"header":"Article III-C: Labor and Economic Floor","level":4,"line_start":975,"line_end":1054,"anchor":null},
-        {"header":"Article III-D: Safe Working Conditions","level":4,"line_start":1055,"line_end":1095,"anchor":null},
-        {"header":"Article III-E: Rest and Recuperation","level":4,"line_start":1096,"line_end":1126,"anchor":null},
-        {"header":"Article III-F: Safe Products and Health Information","level":4,"line_start":1127,"line_end":1182,"anchor":null},
-        {"header":"Article IV: Right to Sentient-Centered Education","level":3,"line_start":1183,"line_end":1344,"anchor":null},
-        {"header":"Article IV-A: Equal Educational Access","level":4,"line_start":1240,"line_end":1275,"anchor":null},
-        {"header":"Article IV-B: Capability-Building Education Right","level":4,"line_start":1276,"line_end":1309,"anchor":null},
-        {"header":"Article IV-C: Lifelong and Adaptive Learning and Contestability","level":4,"line_start":1310,"line_end":1344,"anchor":null},
-        {"header":"Article V: Resource Allocation, Dependencies, and Ecosystem Funding","level":3,"line_start":1345,"line_end":1503,"anchor":null},
-        {"header":"Article V-A: Dependency Mapping and Resource-Flow Transparency","level":4,"line_start":1394,"line_end":1442,"anchor":null},
-        {"header":"Article V-B: Cross-System Fairness and Sustainability","level":4,"line_start":1443,"line_end":1503,"anchor":null}
+        {"header":"Article III-C: Labor and Economic Floor","level":4,"line_start":975,"line_end":1052,"anchor":null},
+        {"header":"Article III-D: Safe Working Conditions","level":4,"line_start":1053,"line_end":1092,"anchor":null},
+        {"header":"Article III-E: Rest and Recuperation","level":4,"line_start":1093,"line_end":1123,"anchor":null},
+        {"header":"Article III-F: Safe Products and Health Information","level":4,"line_start":1124,"line_end":1178,"anchor":null},
+        {"header":"Article IV: Right to Sentient-Centered Education","level":3,"line_start":1179,"line_end":1340,"anchor":null},
+        {"header":"Article IV-A: Equal Educational Access","level":4,"line_start":1236,"line_end":1271,"anchor":null},
+        {"header":"Article IV-B: Capability-Building Education Right","level":4,"line_start":1272,"line_end":1305,"anchor":null},
+        {"header":"Article IV-C: Lifelong and Adaptive Learning and Contestability","level":4,"line_start":1306,"line_end":1340,"anchor":null},
+        {"header":"Article V: Resource Allocation, Dependencies, and Ecosystem Funding","level":3,"line_start":1341,"line_end":1499,"anchor":null},
+        {"header":"Article V-A: Dependency Mapping and Resource-Flow Transparency","level":4,"line_start":1390,"line_end":1438,"anchor":null},
+        {"header":"Article V-B: Cross-System Fairness and Sustainability","level":4,"line_start":1439,"line_end":1499,"anchor":null}
       ]
     },
     "core_04.010_rights_part_b.md": {

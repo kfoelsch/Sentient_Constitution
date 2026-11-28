@@ -1049,8 +1049,6 @@ This Article sets out the labor and economic floor — fair compensation, collec
     - [**CI-8.210**](corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-classification-linked-institutional-obligations) (*Classification-linked institutional obligations*);
     - [**CI-4.210**](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*); and
     - [**CI-4.215**](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*).
-  - Those files are tied to this Constitution under the rules of [**Chapter Twenty-Five** (*Incorporation Bridge*)](core_25.000_incorporation.md#chapter-twenty-five-incorporation-bridge).
-  - Those implementation texts must not be read to narrow this floor.
 
 #### Article III-D: Safe Working Conditions
 
@@ -1091,7 +1089,6 @@ This Article sets out the safe-working-conditions floor, its equal application a
 - **Equal protection across substrates:** Withholding Safe Conditions, or applying a weaker standard, because of substrate or implementation classification rather than materially comparable risk is non-compliant under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on Safe Conditions must also satisfy [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
   - Standards-setting for Safe Conditions routes to [CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*System lifecycle*) and to the CI-8.210 (*Classification-linked institutional obligations*) through CI-4.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Thirty-One** incorporation discipline.
-  - Those implementation texts must not be read to narrow this floor.
 
 #### Article III-E: Rest and Recuperation
 
@@ -1178,7 +1175,6 @@ This Article sets out the safe-products floor, the information floor, the duty t
 - **Conditions of offering, not compelled speech:** The duties in this Article are conditions of offering and are judged as [Commercial Compliance](subcore_03.090_band_participation.md#commercial-compliance). They require facts about the thing offered, never opinion or endorsement. They cannot be used to silence warnings, criticism, or protected reports, and they cannot be enforced by cutting off survival-critical access. Proprietary formulas need not be disclosed. Hazards and allergens must be, and proprietary detail can go to an independent verifying authority.
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on this floor must also satisfy [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
   - Standards, thresholds, and notice times route to [CJS-3.120 §10](corpus_joint_structure/cjs_03.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: Disclosure Sufficiency and Observability Terms*), [CJS-3.125 §15](corpus_joint_structure/cjs_03.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*), and adopted implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md).
-  - Those texts must not be read to narrow this floor.
 
 ### Article IV: Right to Sentient-Centered Education
 
