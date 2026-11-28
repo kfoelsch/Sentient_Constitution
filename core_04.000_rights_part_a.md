@@ -865,13 +865,13 @@ This Article states **constitutional floors** for survival and equal access unde
 - lawful fiscal and allocation mechanisms — transfers, in-kind provision, or mixed designs — with no single funding model prescribed;
 - rules for who qualifies, where they must live to receive support, and how benefit levels are updated as costs change over time.
 
-Those rules may structure delivery. They must not be used to defeat any floor in this Article or to impose invidious exclusion contrary to this Article or **Article VI** (*Equal Basic Rights*).
+Those rules may decide how support is delivered. They must not be used to take away or get around any floor this Article guarantees, or to shut any sentient out on unfair, discriminatory grounds that this Article or **Article VI** (*Equal Basic Rights*) forbids.
 
 - **Fiscal orientation:** Detailed fiscal orientation — including the rule that fees and charges must not undermine minimum access to survival-relevant inputs — is governed by:
   - [**CI-8.210**](corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-classification-linked-institutional-obligations) (*Classification-linked institutional obligations*);
   - [**CI-4.210**](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*); and
   - [**CI-4.215**](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*).
-- **Dependent systems:** When systems that sentients materially depend on supply, distribute, price, host, or cut off access to anything this Article protects — survival essentials, bodily-maintenance and healthcare services, or working conditions — [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) under [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) applies. Those systems' processes cannot be used to shrink the Rights Floors in this Article.
+- **Dependent systems:** Some systems that sentients significantly depend on control access to what this Article protects — survival essentials, bodily-maintenance and healthcare services, or working conditions. They may supply it, hand it out, set its price, host it, or cut it off. [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) under [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) applies to those systems. The way they work cannot be used to shrink the Rights Floors in this Article.
 
 #### Article III-A: Survival
 <details>
@@ -1041,8 +1041,14 @@ This Article sets out the labor and economic floor — fair compensation, collec
   - A productive-activity structure that satisfies this Article while concentrating power contrary to **Chapter Two §11** (*Market Structure*) is non-compliant under that section.
   - When too few employers control hiring, workers are blocked from leaving or being recruited (non-competes, no-poach deals, wage-fixing, or heavy non-solicitation rules), platforms lock sentients in, suppliers are controlled to squeeze workers, consolidation crosses a labor or supplier dependency ceiling, or gatekeepers block fair bargaining and job mobility — evaluate those facts under **Chapter Two §11.2** (*Pro-Competition and Anti-Domination*), **[CJS-3.125 §11.2 Anti-Domination Conduct and Remediation Catalog](corpus_joint_structure/cjs_03.125_accountability_operations.md#cjs-3125-112-anti-domination-conduct-and-remediation-catalog)**, **§11.3** (*Consolidation Ceiling*), and this Article when they materially apply.
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on **Fair Compensation**, **Collective Organization**, or labor mobility must also satisfy [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
-  - Operational mechanics — fiscal orientation, transfer and insurance design, and collective-organization institutional design — route to the CI-8.210 (*Classification-linked institutional obligations*) through CI-4.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Thirty-One** incorporation discipline.
-  - Those implementation texts must not be read to narrow this floor.
+  - The practical details are handled in the files listed under *Institutional guarantees* in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access). They cover:
+    - how funding and fees are directed;
+    - how transfers and insurance are designed; and
+    - how institutions for collective organization are set up.
+  - Those files are:
+    - [**CI-8.210**](corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-classification-linked-institutional-obligations) (*Classification-linked institutional obligations*);
+    - [**CI-4.210**](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*); and
+    - [**CI-4.215**](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*).
 
 #### Article III-D: Safe Working Conditions
 
@@ -1083,7 +1089,6 @@ This Article sets out the safe-working-conditions floor, its equal application a
 - **Equal protection across substrates:** Withholding Safe Conditions, or applying a weaker standard, because of substrate or implementation classification rather than materially comparable risk is non-compliant under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on Safe Conditions must also satisfy [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
   - Standards-setting for Safe Conditions routes to [CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*System lifecycle*) and to the CI-8.210 (*Classification-linked institutional obligations*) through CI-4.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Thirty-One** incorporation discipline.
-  - Those implementation texts must not be read to narrow this floor.
 
 #### Article III-E: Rest and Recuperation
 
@@ -1169,8 +1174,10 @@ This Article sets out the safe-products floor, the information floor, the duty t
 - **Honest promotion:** Reviews, ratings, and endorsements must be genuine, paid placement must be disclosed, and where health or safety is at stake, recommendations must not be tilted toward a product by what the offering party earns (**Article XIV-C** (*Prohibition of False Trust and Misleading Reliance*) and **Article XIV-D** (*Incentive-Alignment Constraint*)).
 - **Conditions of offering, not compelled speech:** The duties in this Article are conditions of offering and are judged as [Commercial Compliance](subcore_03.090_band_participation.md#commercial-compliance). They require facts about the thing offered, never opinion or endorsement. They cannot be used to silence warnings, criticism, or protected reports, and they cannot be enforced by cutting off survival-critical access. Proprietary formulas need not be disclosed. Hazards and allergens must be, and proprietary detail can go to an independent verifying authority.
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on this floor must also satisfy [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
-  - Standards, thresholds, and notice times route to [CJS-3.120 §10](corpus_joint_structure/cjs_03.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: Disclosure Sufficiency and Observability Terms*), [CJS-3.125 §15](corpus_joint_structure/cjs_03.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*), and adopted implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md).
-  - Those texts must not be read to narrow this floor.
+  - Standards, thresholds, and notice times are handled in:
+    - [CJS-3.120 §10](corpus_joint_structure/cjs_03.120_participation_operations.md#product-and-service-health-and-safety-information) (*Participation: Disclosure Sufficiency and Observability Terms*);
+    - [CJS-3.125 §15](corpus_joint_structure/cjs_03.125_accountability_operations.md#harm-reports-and-corrective-notices) (*Accountability: Structural Review, Correction Urgency, and Disclosure Terms*); and
+    - adopted implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md).
 
 ### Article IV: Right to Sentient-Centered Education
 
