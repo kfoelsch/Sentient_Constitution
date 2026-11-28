@@ -1760,7 +1760,7 @@ This nested sub-block is the joint home for publication-conduct floors and inter
     from good-faith observation and bounded interpretation, under [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint) and [Good Faith](subcore_03.070_band_accountability.md#good-faith).
 <a id="publication-truthfulness-and-recklessness-floor-c"></a>
 - **What must hold**
-  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapter Twenty-Two **Articles IX**, **XIV**, and **XV** as applicable and must satisfy this cluster jointly under [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), [Good Faith](subcore_03.070_band_accountability.md#good-faith), and [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity).
+  - Good-faith publication of observations, evidence, and bounded interpretations is governed by Chapter Twenty-Two **Articles IX** (*Likeness, Experiential Data, and Publication Rights*), **XIV** (*Right to Reliable and Trustworthy Systems*), and **XV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) as applicable and must satisfy this cluster jointly under [Truth (Constitutional Constraint)](subcore_03.085_band_oversight.md#truth-constitutional-constraint), [Good Faith](subcore_03.070_band_accountability.md#good-faith), and [Epistemic Integrity](subcore_03.085_band_oversight.md#epistemic-integrity).
   - **Primary failure:** knowingly false publication, or publication made with reckless disregard for:
     - accuracy;
     - uncertainty;

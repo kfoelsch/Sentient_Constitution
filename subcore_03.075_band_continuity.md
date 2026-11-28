@@ -1804,14 +1804,14 @@ Continuity duties reach into dependency, risk, records, charters, certification,
 
     **Primary assessment:** Verify genuine voluntariness:
     - adequate information, time, reviewability, and reversibility up to irreversible execution consistent with the reversibility-under-uncertainty rule;
-    - detect dependency pressure, manipulation, rushed framing, and care-substitute routing where discontinuation is offered or operationalized instead of required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-B, and VII-C;
+    - detect dependency pressure, manipulation, rushed framing, and care-substitute routing where discontinuation is offered or operationalized instead of required mental-health care, physical healthcare, disability support, housing, or other survival essentials under **Articles III-A** (*Survival*), **III-B** (*Bodily-Maintenance and Healthcare Access*), and **VII-C** (*Health Crisis and Involuntary-Intervention Floor*);
     - apply [Graduated Capability](subcore_03.090_band_participation.md#graduated-capability) for [Developing Sentient](subcore_03.090_band_participation.md#developing-sentient) cases under **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*).
 <a id="voluntary-discontinuation-constitutional-c"></a>
 - **What must hold**
   - **Primary failure:**
     - pressured or uninformed exit framed as voluntary discontinuation;
     - illusory or pressured consent framed as voluntary discontinuation;
-    - discontinuation offered, routed, or operationalized as a substitute for required mental-health care, physical healthcare, disability support, housing, or other survival essentials under Articles III-A, III-B, and VII-C;
+    - discontinuation offered, routed, or operationalized as a substitute for required mental-health care, physical healthcare, disability support, housing, or other survival essentials under **Articles III-A** (*Survival*), **III-B** (*Bodily-Maintenance and Healthcare Access*), and **VII-C** (*Health Crisis and Involuntary-Intervention Floor*);
     - conflating this entry with [Irreversible Deprivation Measure](subcore_03.070_band_accountability.md#irreversible-deprivation-measure), third-party termination, or **Article XXI-B** (*Restriction Floors*) prohibited measures;
     - relabelling an involuntary outcome as voluntary to route around **Article VII-D** (*Voluntary Discontinuation of One's Own Existence*).
 

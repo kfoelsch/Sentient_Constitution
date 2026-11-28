@@ -7,10 +7,15 @@ limits the report to lines added versus HEAD (the form wired into
 ``make regression`` as ``article-cite-gloss-audit``) so legacy cites do not
 block until those lines are edited.
 
-The audit reports three kinds of line: a bare cite with no title, a title
-repeated right after itself (``(*Title*) (*Title*)``), and a cite wrapped in
-stray emphasis (``*Article V-B*`` or ``***Article V-B** (*Title*)*``). Default
-mode fixes all three.
+The audit reports four kinds of line: a bare cite with no title, a title
+repeated right after itself (``(*Title*) (*Title*)``), a cite wrapped in
+stray emphasis (``*Article V-B*`` or ``***Article V-B** (*Title*)*``), and a
+plural cite (``Articles VI-A and VI-C``) whose named Articles do not each carry
+their title in the singular format (REF-ARTICLES-LIST). Default mode fixes all
+four. In a plural cite, each named Article is written in bold with its title,
+``**Articles VI-A** (*Title*) and **VI-C** (*Title*)``; a span
+(``Articles I–V``, ``III-A through III-F``, ``II-A to II-F``) names no single
+Article and needs no title.
 """
 
 from __future__ import annotations
@@ -145,6 +150,104 @@ def gloss_bare(match: re.Match[str], titles: dict[str, str]) -> str:
     return f"**Article {label}** (*{title}*)"
 
 
+# REF-ARTICLES-LIST: a plural cite, ``Articles`` followed by a list of labels.
+PLURAL_START_RE = re.compile(r"(?<![\[\w])(?P<lead>\*\*)?Articles\b")
+_LABEL_TOKEN_RE = re.compile(rf"(\*\*)?({LABEL_RE})(\*\*)?(?![\w-])")
+_STASHED_GLOSS_RE = re.compile(r"\s*\(\*\x00\d+\x00\*\)")
+_SPAN_SEP_RE = re.compile(r"(\*\*)?(\s*[–—]\s*|\s+through\s+|\s+to\s+)(\*\*)?")
+_LIST_SEP_RE = re.compile(r"(\*\*)?(,\s+and\s+|,\s+or\s+|,\s+|\s+and\s+|\s+or\s+|\s+/\s+)")
+
+
+def _label_at(text: str, pos: int) -> tuple[str, int, int] | None:
+    """Return (label, end, bold-marker count) for a label token at ``pos``."""
+    m = _LABEL_TOKEN_RE.match(text, pos)
+    if not m:
+        return None
+    bolds = (1 if m.group(1) else 0) + (1 if m.group(3) else 0)
+    return m.group(2), m.end(), bolds
+
+
+def plural_cites(text: str, titles: dict[str, str]) -> list[tuple[int, int, str]]:
+    """Find plural Article cites in ``text`` (glosses already stashed).
+
+    Return (start, end, canonical) for each cite whose named Articles do not
+    all carry a title. A cite is left alone when its bold markers do not
+    balance, when a label is unknown, or when it names only spans.
+    """
+    out: list[tuple[int, int, str]] = []
+    for start_m in PLURAL_START_RE.finditer(text):
+        # Inside an open bold run (a run-in label such as ``**What Articles I-B
+        # and V-B require**``) the cite is part of a heading; leave it.
+        if text.count("**", 0, start_m.start()) % 2:
+            continue
+        pos = start_m.end()
+        ws = re.match(r"\s+", text[pos:])
+        if not ws:
+            continue
+        pos += ws.end()
+        bolds = 1 if start_m.group("lead") else 0
+        entries: list[dict] = []
+        seps: list[str] = []
+        while True:
+            first = _label_at(text, pos)
+            if not first:
+                break
+            label, pos, b = first
+            bolds += b
+            entry: dict = {"labels": [label], "span": None, "gloss": None}
+            span = _SPAN_SEP_RE.match(text, pos)
+            if span:
+                second = _label_at(text, span.end())
+                if second:
+                    entry["labels"].append(second[0])
+                    entry["span"] = span.group(2)
+                    bolds += (1 if span.group(1) else 0) + (1 if span.group(3) else 0) + second[2]
+                    pos = second[1]
+            g = _STASHED_GLOSS_RE.match(text, pos)
+            if g:
+                entry["gloss"] = g.group(0).strip()
+                pos = g.end()
+            entries.append(entry)
+            sep = _LIST_SEP_RE.match(text, pos)
+            if not sep or not _label_at(text, sep.end()):
+                break
+            # A list separator is only part of the cite when another label follows it.
+            bolds += 1 if sep.group(1) else 0
+            seps.append(sep.group(2))
+            pos = sep.end()
+        if not entries:
+            continue
+        end = pos
+        if bolds % 2 and text.startswith("**", end):
+            bolds += 1
+            end += 2
+        if bolds % 2:
+            continue
+        singles = [e for e in entries if e["span"] is None]
+        if not singles or all(e["gloss"] for e in singles):
+            continue
+        if any(lab not in titles for e in entries for lab in e["labels"]):
+            continue
+        parts: list[str] = []
+        for i, e in enumerate(entries):
+            head = "Articles " if i == 0 else ""
+            if e["span"] is not None:
+                parts.append(f"**{head}{e['labels'][0]}{e['span']}{e['labels'][1]}**")
+            else:
+                gloss = e["gloss"] or f"(*{titles[e['labels'][0]]}*)"
+                parts.append(f"**{head}{e['labels'][0]}** {gloss}")
+            if i < len(seps):
+                parts.append(seps[i])
+        out.append((start_m.start(), end, "".join(parts)))
+    return out
+
+
+def gloss_plural(text: str, titles: dict[str, str]) -> str:
+    for start, end, canonical in reversed(plural_cites(text, titles)):
+        text = text[:start] + canonical + text[end:]
+    return text
+
+
 GENERATED_LABEL_ROW_RE = re.compile(r"^\|\s*(?:CS|CI|CJS|CF)-\d+[A-Za-z]?(?:\.\d+)*:")
 GLOSS_SPAN_RE = re.compile(r"\(\*.*?\*\)")
 
@@ -168,6 +271,7 @@ def gloss_line(line: str, titles: dict[str, str]) -> str:
         return f"(*\x00{len(saved) - 1}\x00*)"
 
     text = GLOSS_SPAN_RE.sub(stash, line)
+    text = gloss_plural(text, titles)
     text = ITALIC_CITE_RE.sub(lambda m: gloss_italic(m, titles), text)
     text = BOLD_CITE_RE.sub(lambda m: gloss_bold(m, titles), text)
     text = LINK_CITE_RE.sub(lambda m: gloss_link(m, titles), text)
@@ -200,7 +304,8 @@ def check_file(
     """Return (line number, line, kind) for each line the fixer would change.
 
     ``kind`` is ``repeated`` (a title repeated right after itself),
-    ``wrapped`` (a glossed cite inside stray emphasis), or ``bare``.
+    ``wrapped`` (a glossed cite inside stray emphasis), ``plural`` (a plural
+    cite whose named Articles lack titles), or ``bare``.
     """
     findings: list[tuple[int, str, str]] = []
     for number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
@@ -215,13 +320,22 @@ def check_file(
             kind = "repeated"
         elif repair_wrapped_cite(line) != line:
             kind = "wrapped"
+        elif _has_plural_finding(line, titles):
+            kind = "plural"
         else:
             kind = "bare"
         findings.append((number, line, kind))
     return findings
 
 
+def _has_plural_finding(line: str, titles: dict[str, str]) -> bool:
+    if GENERATED_LABEL_ROW_RE.match(line):
+        return False
+    return bool(plural_cites(GLOSS_SPAN_RE.sub("(*\x000\x00*)", line), titles))
+
+
 FINDING_TEXT = {
+    "plural": "plural Article cite; write each named Article as **Articles X** (*title*) and **Y** (*title*) (REF-ARTICLES-LIST)",
     "bare": "bare Article cite; add (*title*)",
     "repeated": "title repeated after its cite; keep one (*title*)",
     "wrapped": "cite wrapped in stray emphasis; write **Article X** (*title*)",

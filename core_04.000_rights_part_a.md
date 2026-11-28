@@ -15,7 +15,7 @@
 > - **Part C** covers **Articles XIV–XIX**: trustworthy systems, security and force limits, information integrity, audit, lifecycle, and sandboxed innovation.
 > - **Part D** covers **Articles XX–XXVI**: standing, justice after verified violation, portability, movement and refuge, complexity, root-cause diagnostics, and interpretive review.
 > - **Part E** covers **Articles XXVII–XXIX**: conflict resolution and review, constitutional evolution, Adoption Transition, and re-baselining.
-> - [Subcore 4-A](subcore_04.050_data_types.md#subcore-4-a-data-types), attached to this chapter, holds the data types (**Type E** to **Type T**) and the data-handling rules that Articles VII, XVI, XVII, and XXIV rely on.
+> - [Subcore 4-A](subcore_04.050_data_types.md#subcore-4-a-data-types), attached to this chapter, holds the data types (**Type E** to **Type T**) and the data-handling rules that **Articles VII** (*Self-Ownership*), **XVI** (*Info-Sphere Integrity*), **XVII** (*Audit, Transparency, and Independent Verification*), and **XXIV** (*Comprehensibility and Complexity Stewardship*) rely on.
 > - [Subcore 4-B](subcore_04.060_integrity_triggers_gifts_funding.md#subcore-4-b-integrity-triggers-gifts-and-funding), attached to this chapter, holds the integrity trigger categories and the gift register, gift threshold, apparent-conflict clearance, and funding-change log that carry Articles XIII-C (*Conflicts of Interest, Gifts, and Benefits*) and XIII-D (*Funding Integrity*).
 >
 > That presentation order does not change execution priorities. Rights fulfillment still depends on systems-first work: substrate, environment, lifecycle, infrastructure, and governance must be sound enough for personal and cooperative rights to survive.
@@ -1270,7 +1270,7 @@ This Article sets out what education is for, the equal-access floor, and its lim
   - take part in governance under this Constitution and in the systems where they hold a [stakeholder role](core_04.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights); and
   - reduce avoidable harm.
 - **Equal access and accessibility:** The fair-access and accessibility principles in [**Article IV** (*Right to Sentient-Centered Education*)](#article-iv-right-to-sentient-centered-education) apply to both admission and progress in education, including disability accommodations and support for differences in how learners sense, think, or function.
-- **Limits:** Beyond the limits in [**Article IV** (*Right to Sentient-Centered Education*)](#article-iv-right-to-sentient-centered-education), any restriction or difference in treatment must also be consistent with **Articles VI-A** and **VI-C** and with Chapter Three [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) where they apply.
+- **Limits:** Beyond the limits in [**Article IV** (*Right to Sentient-Centered Education*)](#article-iv-right-to-sentient-centered-education), any restriction or difference in treatment must also be consistent with **Articles VI-A** (*Dignity and Equal Moral Standing*) and **VI-C** (*Nondiscrimination*) and with Chapter Three [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) where they apply.
 
 #### Article IV-B: Capability-Building Education Right
 <details>

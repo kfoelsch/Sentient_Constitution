@@ -193,7 +193,7 @@ Independent Definitions meta rules live in [core_03.000_definitions_home.md](cor
     **Primary assessment:** Spot differential treatment, exclusion, or humiliation that is not justified under [Necessity](subcore_03.070_band_accountability.md#necessity), [Proportionality](subcore_03.070_band_accountability.md#proportionality), [Materiality](subcore_03.085_band_oversight.md#materiality), and systemic evaluation requirements.
 <a id="dignity-and-equal-moral-standing-c"></a>
 - **What must hold**
-  - **Primary failure:** Denial of equal standing or degradation of dignity where Articles VI-A, I-B, and I-C, or binding equality norms apply is non-compliant — including where the conduct also violates [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) or defeats constitutionally required [Self-Determination](subcore_03.090_band_participation.md#self-determination).
+  - **Primary failure:** Denial of equal standing or degradation of dignity where **Articles VI-A** (*Dignity and Equal Moral Standing*), **I-B** (*Ecological Footprint and Transparency*), and **I-C** (*Intergenerational Responsibility*), or binding equality norms apply is non-compliant — including where the conduct also violates [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion) or defeats constitutionally required [Self-Determination](subcore_03.090_band_participation.md#self-determination).
 
 ---
 

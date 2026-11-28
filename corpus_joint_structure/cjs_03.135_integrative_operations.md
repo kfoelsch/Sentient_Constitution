@@ -202,7 +202,7 @@ No permanent secrecy and anti-normalization discipline
   - **CJS-3.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*).
 - Read with: **[Chapter Two §12.1.5 Rights-Collision Procedure](../core_02.020_interaction_interpretation.md#1215-rights-collision-decision-test) (2.020 §12.1.5)**
 - Read with: [CF-16.450](../corpus_forum/cf_16.450_forum_continuity.md#cf-16450-forum-continuity) (*Forum continuity*) through [CF-16.460](../corpus_forum/cf_16.460_emergency_adjudication.md#cf-16460-emergency-adjudication) (*Emergency adjudication*) — Forum continuity, fallback operation, and emergency adjudication.
-- Read with: Constitutional hooks in **Articles X, XIV, and XV**
+- Read with: Constitutional hooks in **Articles X** (*Self-Determination, Agency, and Participation*), **XIV** (*Right to Reliable and Trustworthy Systems*), and **XV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*)
 - Constitutional frame: **Integrative** leg; **Continuity** aim (primary); scales with [material stake](../core_00.000_preamble.md#material-stake) via [Materiality](../subcore_03.085_band_oversight.md#materiality).
 - Cross-leg note: **Accountability** and **Continuity** — technical complement to **CJS-3.125 §14** (*Accountability: Intervention Governance and Override-Authorization Terms*) governance authorization.
 - Continuity disambiguation: Distinguish technical intervention integrity from constitutional **Continuity** aim language.

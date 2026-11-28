@@ -839,7 +839,7 @@ This subsection sets the requirements and the operating rules for emergency meas
 - **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
   - time-limited;
   - documented;
-  - consistent with **Articles VI**, **XXIV**, and **Chapter Two** constraints.
+  - consistent with **Articles VI** (*Equal Basic Rights*), **XXIV** (*Comprehensibility and Complexity Stewardship*), and **Chapter Two** constraints.
 
   Each measure must carry:
   - a default expiry;
