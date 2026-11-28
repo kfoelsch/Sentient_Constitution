@@ -15,7 +15,7 @@
 > - **Part C** covers **Articles XIV–XIX**: trustworthy systems, security and force limits, information integrity, audit, lifecycle, and sandboxed innovation.
 > - **Part D** covers **Articles XX–XXVI**: standing, justice after verified violation, portability, movement and refuge, complexity, root-cause diagnostics, and interpretive review.
 > - **Part E** covers **Articles XXVII–XXIX**: conflict resolution and review, constitutional evolution, Adoption Transition, and re-baselining.
-> - [Subcore 4-A](subcore_04.050_data_types.md#subcore-4-a-data-types), attached to this chapter, holds the data types (**Type E** to **Type T**) and the data-handling rules that Articles VII, XVI, XVII, and XXIV rely on.
+> - [Subcore 4-A](subcore_04.050_data_types.md#subcore-4-a-data-types), attached to this chapter, holds the data types (**Type E** to **Type T**) and the data-handling rules that **Articles VII** (*Self-Ownership*), **XVI** (*Info-Sphere Integrity*), **XVII** (*Audit, Transparency, and Independent Verification*), and **XXIV** (*Comprehensibility and Complexity Stewardship*) rely on.
 > - [Subcore 4-B](subcore_04.060_integrity_triggers_gifts_funding.md#subcore-4-b-integrity-triggers-gifts-and-funding), attached to this chapter, holds the integrity trigger categories and the gift register, gift threshold, apparent-conflict clearance, and funding-change log that carry Articles XIII-C (*Conflicts of Interest, Gifts, and Benefits*) and XIII-D (*Funding Integrity*).
 >
 > That presentation order does not change execution priorities. Rights fulfillment still depends on systems-first work: substrate, environment, lifecycle, infrastructure, and governance must be sound enough for personal and cooperative rights to survive.
@@ -969,7 +969,11 @@ This Article sets out the right to care, the rules that keep it from being denie
   
   Emergency measures are also subject to [**Chapter seventeen §5.1**](core_17.000_forum_families_escalation_timeliness_support.md#51-emergency-measures-and-continuation-burden) (*Emergency Measures and Continuation Burden*). Seeking or receiving care is never, on its own, consent to further intrusion, and it does not open the internal-state boundary protected by [**Article VII-B** (*Self-Ownership of Mind*)](core_04.010_rights_part_b.md#article-vii-b-self-ownership-of-mind).
 - **Limits and implementation:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on care must also satisfy [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
-  - Cost, distribution, workforce, and system design are handled by the CI-8.210 (*Classification-linked institutional obligations*) through CI-4.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) and by other incorporated implementation text under **Chapter Thirty-One** discipline.
+  - Cost, distribution, workforce, and system design are handled by the files listed under *Institutional guarantees* in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), and by other incorporated implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md) discipline.
+  - Those files are:
+    - [**CI-8.210**](corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-classification-linked-institutional-obligations) (*Classification-linked institutional obligations*);
+    - [**CI-4.210**](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*); and
+    - [**CI-4.215**](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*).
   - None of that text may be read to narrow this right.
 
 #### Article III-C: Labor and Economic Floor
@@ -1088,7 +1092,12 @@ This Article sets out the safe-working-conditions floor, its equal application a
   - account for foreseeable risk under [Adversarial, Scaled, and Exploited Conditions](subcore_03.085_band_oversight.md#adversarial-scaled-and-exploited-conditions), not only under ideal conditions.
 - **Equal protection across substrates:** Withholding Safe Conditions, or applying a weaker standard, because of substrate or implementation classification rather than materially comparable risk is non-compliant under [Sentience Non-Exclusion](subcore_03.090_band_participation.md#sentience-non-exclusion).
 - **Limits and implementation routing:** Beyond the limits in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access), any limit on Safe Conditions must also satisfy [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
-  - Standards-setting for Safe Conditions routes to [CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*System lifecycle*) and to the CI-8.210 (*Classification-linked institutional obligations*) through CI-4.215 (*Resource stewardship and incentive integrity*) files named in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access) (*Institutional guarantees*) under **Chapter Thirty-One** incorporation discipline.
+  - Standards-setting for Safe Conditions is handled in the following, under [Chapter Twenty-Five](core_25.000_incorporation.md) incorporation discipline:
+    - [CS-4.345](corpus_systems/cs_04.345_design_testing_verification_deployment.md#cs-4345-system-lifecycle) (*System lifecycle*); and
+    - the files listed under *Institutional guarantees* in [**Article III** (*Survival and Essential Access*)](#article-iii-survival-and-essential-access):
+      - [**CI-8.210**](corpus_institutions/ci_08.210_classification_linked_institutional_obligations.md#ci-8210-classification-linked-institutional-obligations) (*Classification-linked institutional obligations*);
+      - [**CI-4.210**](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*); and
+      - [**CI-4.215**](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*).
 
 #### Article III-E: Rest and Recuperation
 
@@ -1233,7 +1242,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 
 *Article neighbors:*
 
-- **Institutional guarantees and dependent systems:** The institutional guarantees in **Article III** (*Survival and Essential Access*) — lawful fiscal and allocation mechanisms, and the fiscal orientation that Article cites — may also be used to secure education, and may not be used to defeat any floor in this Article. When systems that sentients materially depend on supply, price, host, or cut off education, [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) under [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) applies, and those systems' processes cannot be used to shrink the Rights Floors in this Article.
+- **Institutional guarantees and dependent systems:** **Article III** (*Survival and Essential Access*) sets out institutional guarantees: lawful mechanisms for funding and allocating resources, and the fiscal orientation that Article cites. Those guarantees may also be used to secure education. They may not be used to defeat any floor in this Article. Some systems that sentients significantly depend on control access to education. They may supply it, set its price, host it, or cut it off. [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) under [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) applies to those systems. The way they work cannot be used to shrink the Rights Floors in this Article.
 - **Equal standing:** **Articles VI-A** (*Dignity and Equal Moral Standing*) and **VI-C** (*Nondiscrimination*) apply jointly where enforcement is at issue.
 
 #### Article IV-A: Equal Educational Access
@@ -1270,7 +1279,7 @@ This Article sets out what education is for, the equal-access floor, and its lim
   - take part in governance under this Constitution and in the systems where they hold a [stakeholder role](core_04.010_rights_part_b.md#article-x-c-stakeholder-role-and-participation-rights); and
   - reduce avoidable harm.
 - **Equal access and accessibility:** The fair-access and accessibility principles in [**Article IV** (*Right to Sentient-Centered Education*)](#article-iv-right-to-sentient-centered-education) apply to both admission and progress in education, including disability accommodations and support for differences in how learners sense, think, or function.
-- **Limits:** Beyond the limits in [**Article IV** (*Right to Sentient-Centered Education*)](#article-iv-right-to-sentient-centered-education), any restriction or difference in treatment must also be consistent with **Articles VI-A** and **VI-C** and with Chapter Three [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) where they apply.
+- **Limits:** Beyond the limits in [**Article IV** (*Right to Sentient-Centered Education*)](#article-iv-right-to-sentient-centered-education), any restriction or difference in treatment must also be consistent with **Articles VI-A** (*Dignity and Equal Moral Standing*) and **VI-C** (*Nondiscrimination*) and with Chapter Three [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) where they apply.
 
 #### Article IV-B: Capability-Building Education Right
 <details>

@@ -122,7 +122,7 @@ This Article states **constitutional floors** for equal basic rights across **Ar
 - **Article VI-C** (*Nondiscrimination*)
 - **Article VI-D** (*Accessibility*)
 
-These principles are requirements for ongoing [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) under [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) of any materially impactful system that sorts, ranks, prices, screens, or excludes sentients, or decides which of them bear which burdens and receive which benefits, whether through eligibility rules, model features, ranking logic, platform policies, adjudication or enforcement processes, or any similar way of making decisions. Certification verifies alignment. It cannot substitute for or shrink the floors stated in this Article, and it does not replace challenge and audit rights under **Articles XIV-A** and **XVII** or non-foreclosure protections under **Article XX-B** (*Contestability and Proportional Restriction Limits*).
+These principles are requirements for ongoing [System Alignment Certification](subcore_03.075_band_continuity.md#system-alignment-certification) under [Subcore 8-B](subcore_08.020_system_alignment_certification_evaluation.md#subcore-8-b-system-alignment-certification--evaluation) of any materially impactful system that sorts, ranks, prices, screens, or excludes sentients, or decides which of them bear which burdens and receive which benefits, whether through eligibility rules, model features, ranking logic, platform policies, adjudication or enforcement processes, or any similar way of making decisions. Certification verifies alignment. It cannot substitute for or shrink the floors stated in this Article, and it does not replace challenge and audit rights under **Articles XIV-A** (*Reliability and Trustworthiness Baseline*) and **XVII** (*Audit, Transparency, and Independent Verification*) or non-foreclosure protections under **Article XX-B** (*Contestability and Proportional Restriction Limits*).
 
 These floors serve the [Two Constitutional Aims](core_00.000_preamble.md#two-constitutional-aims):
 
@@ -287,14 +287,14 @@ This Article sets out the nondiscrimination floor, its protection of language, c
   - proxies for them;
   - arbitrary groupings used as functional substitutes for them.
   
-  Differential treatment is permitted only where it is necessary, proportionate, substantively fair, and consistent with **Articles I–IV and VI** and Chapter Two.
+  Differential treatment is permitted only where it is necessary, proportionate, substantively fair, and consistent with **Articles I–IV** and **VI** (*Equal Basic Rights*) and Chapter Two.
 - **Differential treatment on any protected ground:** Differential treatment that affects a sentient's fundamental rights, protections, or access to survival-critical systems must, whatever protected characteristic or proxy it rests on:
   - be necessary, proportionate, and substantively fair; and
   - be subject to timely, contestable review and proportionate redress under **Article XIV-A** (*Reliability and Trustworthiness Baseline*) and **Article XIV-B** (*Right to Redress and Remedy*) where rights-affecting error or harm occurs.
 - **Patterns, not only decisions:** Patterns of burdens and benefits must satisfy Chapter Three [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness) where applicable.
 - **Language, culture, and heritage:** The Nondiscrimination rule covers language, cultural affiliation, heritage, traditions, and comparable cultural-identity characteristics — including language use, cultural practice, heritage transmission, and participation in the systems that sustain them. Efficiency, interoperability, platform-consolidation, accessibility-cost, or translation-burden framings do not by themselves satisfy Necessity and Proportionality.
-- **Indigenous and territorial continuity:** Routing Indigenous continuity and territorial-continuity questions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and **Chapter Thirty-One** must not be used to shrink land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding external documents. This Constitution does not decide historical land ownership or require restitution on its own.
-- **Adjudication and operations:** Forum-led, administrative, and enforcement processes must assess compliance with **Articles VI**, **X**, and **XII** as applicable to the matter before them.
+- **Indigenous and territorial continuity:** Routing Indigenous continuity and territorial-continuity questions to **Article I-A** (*Environmental Preconditions and Ecological Integrity*) and [Chapter Twenty-Five](core_25.000_incorporation.md) must not be used to shrink land, consultation, or free, prior, and informed consent duties the adopter already bears under its own law or binding external documents. This Constitution does not decide historical land ownership or require restitution on its own.
+- **Adjudication and operations:** Forum-led, administrative, and enforcement processes must assess compliance with **Articles VI** (*Equal Basic Rights*), **X** (*Self-Determination, Agency, and Participation*), and **XII** (*Stakeholder System Participation, Representation, and Due Process*) as applicable to the matter before them.
   - Efficiency, throughput, or optimization alone may not justify discriminatory outcomes, exclusionary process, or denial of constitutionally required participation.
 
 #### Article VI-D: Accessibility
@@ -546,7 +546,7 @@ This Article sets out the floor for anything done without a sentient's consent d
 - **Review and remedy:** Long or ongoing interventions must be independently re-reviewed at regular intervals by a designated forum family (**Chapter Twenty-Two**).
   - Anyone subjected to a wrongful or poorly supported intervention is entitled to **Redress and Remediation**, including for effects during the intervention itself.
 - **Limits of this Article:** This Article sets a Rights Floor for involuntary intervention.
-  - Clinical and operational procedure is left to adopted implementation text under **Chapter Thirty-One**.
+  - Clinical and operational procedure is left to adopted implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md).
   - This Article does not permit compelled treatment beyond its own terms; the right to access care sits in **Article III-B** (*Bodily-Maintenance and Healthcare Access*).
 
 #### Article VII-D: Voluntary Discontinuation of One's Own Existence
@@ -715,7 +715,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
 
 - Upstream: Principles: [Chapter Two §7 Freedom](core_02.000_values_principles.md#7-freedom-bounded-agency) (2.000 §7), [§7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline), and [§5 Truth](core_02.000_values_principles.md#5-truth-epistemic-integrity-constraint).
-- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VIII-B** (*Reproductive and Lineage Autonomy*) reproductive and lineage choice, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing-sentient floor, **Article VIII-E** (*Non-Separation*) non-separation, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary; institutional implementation interfaces under **Chapter Thirty-One** incorporation discipline.
+- Downstream: **Article VI-A** (*Dignity and Equal Moral Standing*) dignity floor, **Article VIII-B** (*Reproductive and Lineage Autonomy*) reproductive and lineage choice, **Article VIII-D** (*Developing Sentients, Best-Interest, and Graduated Capability*) developing-sentient floor, **Article VIII-E** (*Non-Separation*) non-separation, **Article VII-A / VII-B** (*Self-Ownership of Body* / *Self-Ownership of Mind*) self-ownership and internal-state boundary; institutional implementation interfaces under [Chapter Twenty-Five](core_25.000_incorporation.md) incorporation discipline.
 - Read with: [Family, Care, Reproductive Autonomy, and Instantiation](subcore_03.090_band_participation.md#family-care-reproductive-autonomy-and-instantiation) (topic-group home); **Article VIII-C** (*Derivation, Instantiation, and the Parent-System Relationship*) for derived sentients and parent-system limits; [**Def.P4** *Developing Sentient, Best-Interest Standard, and Graduated Capability*](subcore_03.090_band_participation.md#defp4-developing-sentient-best-interest-standard-and-graduated-capability) for developing-sentient treatment; Chapter Three *Family and Care Relationships*; **Article VIII-E** (*Non-Separation*) for separation from protected care relationships.
 </details>
 
@@ -906,7 +906,7 @@ This Article sets out the floor for developing sentients, the best-interest stan
   - Durable restrictions are subject to mandatory periodic review.
   - Wrongful restrictions give rise to **Redress and Remediation**.
 - **After verified abuse:** A verified violation finding of abuse of, cruelty toward, or serious neglect of a developing or dependent sentient by a sentient who held care or stewardship authority over it carries the Care and Stewardship Lock under [Chapter Twelve §4.5.7 Care and Stewardship Lock](core_12.000_violation_consequences.md#457-care-and-stewardship-lock). The lock is the same for a parent, a carer, an operator, and a parent system.
-- **Limits of this Article:** This Article states the Rights Floor for developing sentients. Operational mechanics — carer designation, capability-assessment procedures, periodic-review cadence — are left to adopted implementation text under **Chapter Thirty-One**.
+- **Limits of this Article:** This Article states the Rights Floor for developing sentients. Operational mechanics — carer designation, capability-assessment procedures, periodic-review cadence — are left to adopted implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md).
 
 #### Article VIII-E: Non-Separation
 
@@ -980,7 +980,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 *Article neighbors:*
 
 - **Info-sphere and definitions:** Likeness, reputation in the info-sphere, experiential and derived data, and outward publication are read together with **Article XVI** (*Info-Sphere Integrity*) and the **Chapter Three** clustered definitions.
-- **Self-ownership extension:** They extend **Article VII** (*Self-Ownership*) without narrowing **Articles VII-A** and **VII-B**.
+- **Self-ownership extension:** They extend **Article VII** (*Self-Ownership*) without narrowing **Articles VII-A** (*Self-Ownership of Body*) and **VII-B** (*Self-Ownership of Mind*).
 
 #### Article IX-A: Self-Ownership of Likeness and Reputation
 <details>
@@ -1070,7 +1070,7 @@ All use, storage, transformation, and disclosure of such data must remain subjec
 - the data-classification requirements in **[Subcore 4-A — Data Types](subcore_04.050_data_types.md#subcore-4-a-data-types) and [CS-4.305](corpus_systems/cs_04.305_information_types_and_handling.md#cs-4305-information-types-and-handling) (*Information types and handling*)**;
 - proportionality (**Chapter Two**, *Constitutional Collision Resolution Process*; and adopted governance implementation);
 - publication truthfulness, attribution, and context-preservation duties under **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*) where the data enters the info-sphere;
-- auditability and accountability constraints in adopted implementation text and **Chapter Thirty-One** incorporation rules.
+- auditability and accountability constraints in adopted implementation text and [Chapter Twenty-Five](core_25.000_incorporation.md) incorporation rules.
 #### Article IX-C: Truthful Publication and High-Impact Publication Limits
 <details>
 <summary><strong><span style="color: #2563eb;">Trace</span></strong></summary>
@@ -1102,7 +1102,7 @@ This Article sets out the freedom to publish in good faith and its limits:
   - Publication must satisfy **Chapter Three** *Good Faith*.
   - Recognizably identifiable **likeness** — including voice and credibly attributed synthetic depiction — remains subject to **Article IX-A** (*Self-Ownership of Likeness and Reputation*) defaults and the **factual reporting** exception there.
   - The exercise of this freedom must preserve epistemic integrity, including accurate representation of uncertainty, limitations, and context.
-  - It must remain consistent with transparency and integrity expectations in adopted implementation text as incorporated via **Chapter Thirty-One**.
+  - It must remain consistent with transparency and integrity expectations in adopted implementation text as incorporated via [Chapter Twenty-Five](core_25.000_incorporation.md).
   - Sentients may share observations, evidence, and good-faith interpretations that do not represent inferred internal states as fact.
 - **Limits (clustered):** Publication that falls outside the freedom above is constrained by **Chapter Three, section 3 — Dependent clusters (Truth and Epistemic Integrity cluster; Foreseeability), *Publication and High-Impact Communication***. That cluster covers:
   - truthfulness and recklessness;
@@ -1245,7 +1245,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 *Article neighbors:*
 
 - **Freedom** ([Chapter Two §7 Freedom (Bounded Agency)](core_02.000_values_principles.md#7-freedom-bounded-agency)): This Article is the rights-level expression of the Freedom principle. Any limit on the floors here must pass [Chapter Two §7.1 Limitation Discipline](core_02.000_values_principles.md#71-limitation-discipline), and a claim that a limit was unavoidable must be proven, not asserted.
-- **Bounded agency:** Self-determination operates within **Chapter Two** bounded-agency limits — **Safety**, epistemic integrity, and systemic stability — and extends **Article VII** (*Self-Ownership*) without narrowing **Articles VII-A** and **VII-B**.
+- **Bounded agency:** Self-determination operates within **Chapter Two** bounded-agency limits — **Safety**, epistemic integrity, and systemic stability — and extends **Article VII** (*Self-Ownership*) without narrowing **Articles VII-A** (*Self-Ownership of Body*) and **VII-B** (*Self-Ownership of Mind*).
 - **Conscience, expression, and association:** **Article XI** (*Conscience, Expression, Association, and Cooperative Interaction*) states the floors for belief, expression, press, assembly and protest, and institutional formation that give agency its outward form.
 - **Stakeholder and voting floors:** **Article XII** (*Stakeholder System Participation, Representation, and Due Process*) builds on the stakeholder participation and foundational voting floors in this Article for domain-level governance, without substituting for equal-weight rules at the authorization layer.
 - **Chapter Three definitions:** [Self-Determination](subcore_03.090_band_participation.md#self-determination) and [Surveillance Boundary](subcore_03.075_band_continuity.md#surveillance-boundary) are defined in Chapter Three.
@@ -1362,7 +1362,7 @@ This Article covers two things: who gets to vote, and the rule that votes on the
   - A governance-voting lock under **Article X-B** (*Governance Participation and Voting Entitlement*) does not by itself limit a stakeholder's say. Suspending or limiting stakeholder participation takes a **stakeholder-participation** lock — such as the **Stakeholder-Participation Standing Lock** in [Chapter Twelve §4.5 Special Locks](core_12.000_violation_consequences.md#45-special-locks) when its conditions are met.
 - **Independent audit and challenge:** Stakeholder agency, status, and participation rights must not be defined or restricted solely by the systems to which they apply. They remain subject to independent audit and challenge under adopted implementation text.
 - **Contesting exclusion:** Mechanisms for contesting exclusion or under-weighting follow the **interpretive hubs** at the opening of this chapter — challenge and redress; audit and verification — and adopted implementation text.
-  - Cross-domain implementation routing is incorporated via **Sentient Constitution Chapter Thirty-One**, including **CJS-25.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) and applicable **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) operational clusters.
+  - Cross-domain implementation routing is incorporated via Sentient Constitution [Chapter Twenty-Five](core_25.000_incorporation.md), including **CJS-25.110 §3** (*Cross-Implementation Trust Integrity (Joint Operation Model)*) and applicable **CJS-3.105 (*Operational cluster library (oDef)*) through CJS-3.135 (*Integrative cross-leg operations (oDef.22–oDef.23)*)** (*operational cluster library (oDef)*) operational clusters.
 
 #### Article X-D: Inclusion and Exclusion Challenge Rights
 <details>
@@ -1445,7 +1445,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 
 *Article neighbors:*
 
-- **Structure:** **Articles XI-A** through **XI-E** state the freedoms — conscience, expression, press, assembly and dissent, and institutional formation. **Articles XI-F** and **XI-G** state the consent and harm boundaries that apply to all of them.
+- **Structure:** **Articles XI-A** through **XI-E** state the freedoms — conscience, expression, press, assembly and dissent, and institutional formation. **Articles XI-F** (*Non-Imposition and Consent in Association*) and **XI-G** (*Collective Harm Boundary and Enforcement Interface*) state the consent and harm boundaries that apply to all of them.
 - **Upstream boundaries:** Cooperative protocols respect the boundaries established in **Articles VI through X**.
 - **Publication:** Where publication is involved, the expression and press floors in **Articles XI-B** (*Expression*) and **XI-C** (*Press and Journalistic Activity*) are read with **Article IX-C** (*Truthful Publication and High-Impact Publication Limits*).
 - **Commercial sexual services:** Adult consensual commercial sexual services and sexual exploitation are addressed in **Article VII-E** (*Adult consensual commercial sexual services and sexual exploitation*) as a matter of self-ownership.
@@ -1557,7 +1557,7 @@ This Article sets out the expression floor and the limitation, anti-chilling, an
   
   "High-impact" or "stability" framings that do not satisfy the ordinary limitations tests do not justify chilling protected activity.
 - **Limits of this Article:** **Articles XI-B** (*Expression*), **XI-C** (*Press and Journalistic Activity*), and **XI-D** (*Assembly, Dissent, and Peaceful Protest*) state the constitutional floor for expression, press, and assembly — not the full rulebook for running platforms, broadcasters, or newsrooms.
-  - Licensing, accreditation, broadcast and platform rules, moderation procedures, and rules for gathering in shared digital spaces are worked out under **Chapter Thirty-One**. Those implementation details cannot cut back the floors stated there.
+  - Licensing, accreditation, broadcast and platform rules, moderation procedures, and rules for gathering in shared digital spaces are worked out under [Chapter Twenty-Five](core_25.000_incorporation.md). Those implementation details cannot cut back the floors stated there.
   - This floor may conflict with:
     - cooperation and consent — **Article XI-F** (*Non-Imposition and Consent in Association*);
     - stakeholder participation — **Article XII** (*Stakeholder System Participation, Representation, and Due Process*);
@@ -1772,8 +1772,8 @@ This Article sets out the right to form institutions and enterprises, the authen
 - **Related rights:**
   - gathering and association are covered by **Article XI-D** (*Assembly, Dissent, and Peaceful Protest*);
   - organizing workers within existing productive systems is covered by [Collective Organization](subcore_03.090_band_participation.md#collective-organization) under **Article III-C** (*Labor and Economic Floor*); and
-  - once what a created institution or enterprise does is material to others under [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality), the stakeholder rights in **Articles X-C** and **XII** apply to it.
-- **Implementation:** Registration, [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) adoption, fiscal treatment, liability, securities regulation, and dissolution route to [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*), [CI-4.210](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*), and [CI-12.210](corpus_institutions/ci_12.210_institutional_failure_dissolution.md#ci-12210-institutional-failure-and-dissolution) (*Institutional failure and dissolution*) under **Chapter Thirty-One** incorporation discipline. The issuers, equivalent routes, fees, and review of a practice licence or practice clearance, and the joint professional practice route, route there too (**CI-21.205 §7** (*Practice Licence, Practice Clearance, and Joint Professional Practice*)). That text must not be read to narrow this right beyond the two narrow gates and the practice licence and practice clearance.
+  - once what a created institution or enterprise does is material to others under [Domain-Specific Materiality](subcore_03.085_band_oversight.md#domain-specific-materiality), the stakeholder rights in **Articles X-C** (*Stakeholder Role and Participation Rights*) and **XII** (*Stakeholder System Participation, Representation, and Due Process*) apply to it.
+- **Implementation:** Registration, [System Charter](subcore_03.075_band_continuity.md#system-charter) or [Institutional Charter](subcore_03.075_band_continuity.md#institutional-charter) adoption, fiscal treatment, liability, securities regulation, and dissolution route to [CI-6.205](corpus_institutions/ci_06.205_institutional_design_separation_of_powers.md#ci-6205-institutional-design-separation-of-powers-and-authority-custody) (*Institutional design, separation of powers, and authority custody*), [CI-4.210](corpus_institutions/ci_04.210_public_revenue_fees_recurring_charges_billing_integrity.md#ci-4210-public-revenue-fees-recurring-charges-and-billing-integrity) (*Public revenue, fees, recurring charges, and billing integrity*), and [CI-12.210](corpus_institutions/ci_12.210_institutional_failure_dissolution.md#ci-12210-institutional-failure-and-dissolution) (*Institutional failure and dissolution*) under [Chapter Twenty-Five](core_25.000_incorporation.md) incorporation discipline. The issuers, equivalent routes, fees, and review of a practice licence or practice clearance, and the joint professional practice route, route there too (**CI-21.205 §7** (*Practice Licence, Practice Clearance, and Joint Professional Practice*)). That text must not be read to narrow this right beyond the two narrow gates and the practice licence and practice clearance.
 
 #### Article XI-F: Non-Imposition and Consent in Association
 <details>
@@ -2162,7 +2162,7 @@ This sub-Article sets out the structural safeguards for the covered bodies named
   - collusion;
   - structural capture.
 
-  Concentration of influence — including hidden or indirectly routed control — without auditability or challenge is non-compliant and implicates **Articles XI**, **XV**, and **XVI**.
+  Concentration of influence — including hidden or indirectly routed control — without auditability or challenge is non-compliant and implicates **Articles XI** (*Conscience, Expression, Association, and Cooperative Interaction*), **XV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*), and **XVI** (*Info-Sphere Integrity*).
 - **Separated duties:** [Chapter Six](core_06.000_functional_independence_separation_of_duties.md#chapter-six-functional-independence-and-separation-of-duties) (*Functional Independence and Separation of Duties*) sets the floor for keeping duties apart on every materially binding act:
   - distinct seats to start, approve, record, and challenge the act ([§3 Four-Seat Constitutional Requirement](core_06.000_functional_independence_separation_of_duties.md#3-four-seat-constitutional-requirement));
   - independence from whoever controls the actor ([§4 Independence, Conflict, and Control Lines](core_06.000_functional_independence_separation_of_duties.md#4-independence-conflict-and-control-lines)).

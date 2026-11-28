@@ -317,7 +317,7 @@ This Article sets out periodic and accelerated review of governance:
 
 This Article sets out the floors for transparent constitutional change:
 
-- **Transparent change:** Evolution of constitutional systems must remain observable, auditable, and contestable under **Articles XV** and **XX**.
+- **Transparent change:** Evolution of constitutional systems must remain observable, auditable, and contestable under **Articles XV** (*Security, Intelligence, Force, and Autonomous Coercive Systems*) and **XX** (*Standing and Participation Status*).
 - **Material-change record:** Material changes must carry:
   - public reasons;
   - expected effects;
@@ -569,7 +569,7 @@ This Article sets out the floors for remediating non-compliant property and syst
 - **Required safeguards:** Any Adoption Transition-scoped deprivation or incentive program must satisfy:
   - the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle), with demonstrable **Necessity** and **Proportionality**;
   - notice and stated reasons given with the measure, or restored inside the restore-challenge window where deferral is strictly necessary ([Chapter Seventeen §5 Timely Resolution, Materiality Tiers, and Anti-Delay Discipline](core_17.000_forum_families_escalation_timeliness_support.md#5-timely-resolution-materiality-tiers-and-anti-delay-discipline) (*Restore-challenge after emergency containment*)), and a practicable contest path; and
-  - safeguards against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles VI-C** and **V-B** and [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
+  - safeguards against **discriminatory**, **pretextual**, or **selective** enforcement under **Articles VI-C** (*Nondiscrimination*) and **V-B** (*Cross-System Fairness and Sustainability*) and [Substantive Fairness](subcore_03.090_band_participation.md#substantive-fairness).
 - **Restrictive-effect rule:** A deprivation or restriction whose primary effect exceeds remediation, restitution, preservation, or forward protection triggers **Article XXI-B** (*Restriction Floors*).
 - **Destructive disposition floor:** Adoption Transition may quarantine or hold property to stop harm — but taking something away for good, destroying it, or wiping out a sentient's economic stake is a much higher bar. It requires:
   - stronger documented reasons;

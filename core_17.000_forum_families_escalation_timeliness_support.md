@@ -656,7 +656,7 @@ This subsection sets out how sentience-status claims are routed:
   - **reopening evidence standard** — new verified evidence, not calendar-only reopening;
   - **independent representative** — the appointment path, conflict screen, and access terms for the entity's representative under this hook; and
   - **intake-decline log** — where declined filings are recorded, on what cadence **Integrity** samples them, and the published floor set of indicators.
-- Detailed institutional design, appointment mechanics, filing forms, and sequencing route to adopted implementation text under **Chapter Thirty-One** incorporation discipline and **must not** narrow the **Article VI-B** (*Sentience-Status Adjudication Floor*) floor. As of this edition, the dedicated [Sentience-Status Adjudication Record](subcore_03.090_band_participation.md#sentience-status-adjudication-record) format is enumerated under **Chapter Thirty-One** as [`corpus_forum/cf_16.475_sentience_status_record.md`](corpus_forum/cf_16.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json); those files implement, and do **not** narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*) or this hook. The minimum fields above still apply. This hook is **not** a full appointments or filing statute.
+- Detailed institutional design, appointment mechanics, filing forms, and sequencing route to adopted implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md) incorporation discipline and **must not** narrow the **Article VI-B** (*Sentience-Status Adjudication Floor*) floor. As of this edition, the dedicated [Sentience-Status Adjudication Record](subcore_03.090_band_participation.md#sentience-status-adjudication-record) format is enumerated under [Chapter Twenty-Five](core_25.000_incorporation.md) as [`corpus_forum/cf_16.475_sentience_status_record.md`](corpus_forum/cf_16.475_sentience_status_record.md) and [`implementation/schemas/sentience_status_adjudication_record.schema.json`](implementation/schemas/sentience_status_adjudication_record.schema.json); those files implement, and do **not** narrow, **Article VI-B** (*Sentience-Status Adjudication Floor*) or this hook. The minimum fields above still apply. This hook is **not** a full appointments or filing statute.
 
 #### Referral Distinguished from Expansion
 
@@ -839,7 +839,7 @@ This subsection sets the requirements and the operating rules for emergency meas
 - **Emergency application of the constraint principle:** Emergency measures apply the [**Least-Restrictive, Time-Bounded, and Reviewable Constraint Principle**](core_02.020_interaction_interpretation.md#1215-least-restrictive-time-bounded-and-reviewable-constraint-principle) under imminent-harm conditions. Temporary measures to prevent imminent harm must be:
   - time-limited;
   - documented;
-  - consistent with **Articles VI**, **XXIV**, and **Chapter Two** constraints.
+  - consistent with **Articles VI** (*Equal Basic Rights*), **XXIV** (*Comprehensibility and Complexity Stewardship*), and **Chapter Two** constraints.
 
   Each measure must carry:
   - a default expiry;

@@ -762,7 +762,7 @@ The short form for **Constitutional Collision Record** in this Constitution is *
   - **Out of scope:**
     - mere proxy-score or compliance-indicator satisfaction when incentives still undermine constitutional outcomes; and
     - ordinary compensation or targets that do not predictably shape agent, operator, or component behavior.
-  - **Implementation routing:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, adopted under Chapter Twenty-Nine and incorporated via Chapter Thirty-One. This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer — it does not restate or relocate those operational rules. Operational expectations for materially impactful venues appear in:
+  - **Implementation routing:** Full system-level incentive analysis remains governed by adopted implementation requirements on incentive alignment and mechanism integrity, adopted under Chapter Twenty-Nine and incorporated via [Chapter Twenty-Five](core_25.000_incorporation.md). This definition supplies tracing for constitutional compliance determinations that invoke incentives at the interdependent layer — it does not restate or relocate those operational rules. Operational expectations for materially impactful venues appear in:
     - **[CS-21.305 — Critical system stewardship](corpus_systems/cs_21.305_critical_system_stewardship.md#cs-21305-critical-system-stewardship)**, including incentive-scaled governance; and
     - [CI-4.215](corpus_institutions/ci_04.215_resource_stewardship_incentive_integrity.md#ci-4215-resource-stewardship-and-incentive-integrity) (*Resource stewardship and incentive integrity*) (institutional stewardship and incentive alignment requirements).
 <a id="incentive-alignment-a"></a>
@@ -1151,7 +1151,7 @@ See **Anti-Segmentation Principle**.
 
     **Primary assessment:** Ask whether the claimed binding text is the real, versioned Corpus — not an unofficial copy, draft, or process note treated as law. For compliance and adoption claims, identify the operative corpus edition and custody chain under the applicable [Corpus and Authority Stack cluster](subcore_03.080_band_integrative.md#defi1-corpus-and-authority-stack). Then:
     - distinguish incorporated binding text from explanatory or process artifacts; and
-    - apply Chapter Twenty-Nine adoption conditions, Chapter Thirty supremacy, and Chapter Thirty-One incorporation and custody controls.
+    - apply Chapter Twenty-Nine adoption conditions, Chapter Thirty supremacy, and [Chapter Twenty-Five](core_25.000_incorporation.md) incorporation and custody controls.
 <a id="corpus-c"></a>
 - **What must hold**
   - **Primary failure:**

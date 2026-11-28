@@ -434,7 +434,7 @@ This is what Chapter Three calls [**Self-Healing**](subcore_03.075_band_continui
 
 The more sentients depend on a system and the greater its impact, the less that system should rely on emergency intervention. It should instead invest in tested, audited, bounded self-recovery — reducing [Avoidable Burden](subcore_03.075_band_continuity.md#avoidable-burden) and supporting long-term [**Continuity**](core_02.000_values_principles.md#continuity).
 
-Operative detail — recovery detection, containment, safe-failure preference, root-cause closure, and Rights-Floor continuity — lives in [Article XIV](core_04.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems) (*Resilience and Self-Healing Baseline*) in Chapter Four, with recovery-architecture requirements in incorporated implementation text.
+Operative detail — recovery detection, containment, safe-failure preference, root-cause closure, and Rights-Floor continuity — lives in [Article XIV](core_04.020_rights_part_c.md#article-xiv-right-to-reliable-and-trustworthy-systems) (*Right to Reliable and Trustworthy Systems*) in Chapter Four, with recovery-architecture requirements in incorporated implementation text.
 
 <a id="11-market-structure"></a>
 ### 11. Market Structure
