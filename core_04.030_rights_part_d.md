@@ -650,7 +650,7 @@ Standing: standing status, competency bars, competency clearances, and standing 
 *Article neighbors:*
 
 - **Movement and refuge floor:** **Article XXIII** (*Movement, Migration, Refuge, and Non-Statelessness*) states the Rights-Floor counterpart for physical, jurisdictional, and regime-to-regime movement. Where one action implicates both Articles, both apply without either narrowing the other.
-- **Implementation layer:** Interoperability, portability, and exit procedure are left to adopted implementation text under **Chapter Thirty-One**.
+- **Implementation layer:** Interoperability, portability, and exit procedure are left to adopted implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md).
 
 
 #### Article XXII-A: Portability Rights
@@ -801,7 +801,7 @@ This Article sets out the open-formats floor for systems:
 
   Convenience, operator cost savings, or incumbency do not by themselves justify a closed format. A closed format whose primary effect is to foreclose exit or switching contravenes **Article XXII-C** (*Anti-Lock-In Rule*).
 - **Adoption Transition:** A system already in operation when this sub-article first applies to it must disclose a migration plan and meet the interoperability, internal-format, and public-data duties within **one year** by default.
-  - Adopters may set a different Adoption Transition period for classes of systems, with published justification, through **Chapter Thirty-One** incorporation.
+  - Adopters may set a different Adoption Transition period for classes of systems, with published justification, through [Chapter Twenty-Five](core_25.000_incorporation.md) incorporation.
   - A system may receive an extension in extenuating circumstances only through documented, reviewable, time-bound justification under applicable burden-of-justification requirements.
   - The exit duty is not subject to the Adoption Transition.
 - **Scope and limits:**
@@ -867,7 +867,7 @@ Legitimate pursuit runs through the [Constitutional Tetrad](core_00.000_preamble
 
 - **Systems-exit floor:** **Article XXII** (*Interoperability, Portability, and Exit Integrity*).
 - **Rights detail:** **Article XXIII-A** (*Movement and Relocation*), **Article XXIII-B** (*Refuge from Non-Compliance*), **Article XXIII-C** (*Non-Statelessness*), and **Article XXIII-D** (*Limitation, Custody, and Emergency Discipline*).
-- **Implementation layer:** Cross-regime recognition and its operational procedure are left to adopted implementation text under **Chapter Thirty-One**.
+- **Implementation layer:** Cross-regime recognition and its operational procedure are left to adopted implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md).
 
 
 
@@ -945,7 +945,7 @@ This Article sets out the grounds for refuge and the duties of receiving regimes
     - must not narrow the protected grounds above where origin-regime practice is materially non-compliant;
     - must not narrow **Article I-A** (*Environmental Preconditions and Ecological Integrity*);
     - must not extinguish **Movement and Relocation** under **Article XXIII-A** (*Movement and Relocation*) where continued presence materially impairs survival, dignity, Rights-Floor access, or freedom from manipulation.
-  - Operational procedures for cross-regime recognition are left to adopted implementation text under **Chapter Thirty-One**.
+  - Operational procedures for cross-regime recognition are left to adopted implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md).
 
 #### Article XXIII-C: Non-Statelessness
 
@@ -991,7 +991,7 @@ This Article sets out the non-statelessness floor:
   - a preferred citizenship or a choice among regimes;
   - full political franchise beyond baseline Rights-Floor recognition;
   - hosting at volume by a particular adopter, or absorption of instrumentally coerced mass outflows, where origin-primary or shared / federation backup recognition remains real. Exclusion from a particular adopter's admission or hosting does not violate Non-Statelessness in that case.
-- **Implementation layer:** Cross-regime recognition mechanics are left to adopted implementation text under **Chapter Thirty-One**.
+- **Implementation layer:** Cross-regime recognition mechanics are left to adopted implementation text under [Chapter Twenty-Five](core_25.000_incorporation.md).
 
 #### Article XXIII-D: Limitation, Custody, and Emergency Discipline
 

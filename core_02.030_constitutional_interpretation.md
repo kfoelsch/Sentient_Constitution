@@ -420,7 +420,7 @@ The rules below choose among incorporated texts by [Fullest Protective Effect](s
   - It is **not** [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness).
 - **Clearly adopted baseline:** Where **edition identifiers or custody records** for incorporated artifacts are missing, contradictory, or materially unreliable:
   - the **clearly adopted baseline** with the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) governs until validity is restored under **Chapters Twenty-Two and Twenty-Seven**;
-  - **Clearly adopted baseline** means the **adoption-traceable** incorporated edition or **baseline** the adoption chain **clearly supports** when records are unreliable (custody discipline and **anti-drift** under Chapter Thirty-One);
+  - **Clearly adopted baseline** means the **adoption-traceable** incorporated edition or **baseline** the adoption chain **clearly supports** when records are unreliable (custody discipline and **anti-drift** under [Chapter Twenty-Five](core_25.000_incorporation.md));
   - this is **not** substantive constitutional ambiguity resolution by [Abstract Strictness](subcore_03.080_band_integrative.md#abstract-strictness).
 - **Cross-file Fullest Protective Effect:** Where two or more adopted implementation files set different standards for the same meaningfully scoped risk, the clearly adopted rule with the [Fullest Protective Effect](subcore_03.080_band_integrative.md#fullest-protective-effect) controls, consistent with the two rules above.
   - Source-layer status remains under the [Authority Stack and Internal Hierarchy](subcore_03.080_band_integrative.md#authority-stack-and-internal-hierarchy).
